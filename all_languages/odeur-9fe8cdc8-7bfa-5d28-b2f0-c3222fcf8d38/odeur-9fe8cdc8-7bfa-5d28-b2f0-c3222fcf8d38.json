@@ -1,0 +1,132 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/9fe8cdc8-7bfa-5d28-b2f0-c3222fcf8d38",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/29ffec99-39f4-5e63-a9c7-0c94b2d2186f",
+        "value": "— Non pas ! non pas ! s ' écria Narcisse vivement , le petit freluquet a aussi son bon côté , celui d ' être d ' une générosité princlèré .CrOiriez - vous quedepuis qu ' il est reçu chez moi , où il semble se plaire infini * ment , il a fait à Suzanne une foule de cadeaux , plus riches les uns que les autres , et à moi , l ' hommage d ' une magnifique pipe turque , dans laquelle ma femme m ' envoie souvent fumer sur le boulevart , prétendant que l ' odeur du tabac l ' incommode ? — Hum ! hum ! si j ' étais marié , je mè .défierais d ' un cousin aussi généreux que celui - là , dit Adolphe méchamment .",
+        "words": [
+          "odeur",
+          "tabac",
+          "incommode",
+          "femme m",
+          "boulevart"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/686e4408-5130-5349-b72b-6241b8584b09",
+        "value": "On ne peut donc haïr Ce qu ' on a aimé .Touchez là , Adolphe , termina Suzanne eh présentant au jeune homme une petite main gantée et parfumée dans laquelle il posa la sienne .— Maintenant , causons de nos anciennes connaissances : vous savez les aventures de Destigny ? ; — Oui , qu ' il a épousé par réparation et planté là sa femme ; que la folle est toujours folle ; que mon imbécile de soeur s ' est constituée infirmière à perpétuité , ainsi que son jearinot de mari , qu ' elle mène , diton , par le « bout du nez .",
+        "words": [
+          "parfumée",
+          "main"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/6b484ad3-58da-5501-8575-0b616b1f251b",
+        "value": "Comme Boudinot terminait ces derniers mots d ' un accent goguenard , un coup de sonnette se fit entendre , auquel coup Narcisse Grivois répondit en allant ouvrir sa porte à un commissionnaire qui lui apportait une petite lettre toute mignonne et parfumée .— De quelle part ? demanda le célibataire en flairant ledit poulet qui sentait délicieusement la petite maîtresse .— De madame de Saint - Amour .",
+        "words": [
+          "délicieusement",
+          "flairant",
+          "célibataire",
+          "sentait délicieusement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/82c8eb1a-aeaf-53ab-93d8-d5790ba2126f",
+        "value": "— Mes enfants , reprit la dame , il ne s ' agit pas de rester dans l ' inaction parce que le bonheur nous est venu , mais bien de parer notre modeste demeure le mieux qu ' il nous sera possible , en l ' honneur du visiteur que nous attendons , auquel je cède de grand coeur ma chambre , s ' il consent à passer quelques jours avec nous .— Maman , c ' est moi qui charge de la parer et de la parfumer de fleurs , fit Armandine .— Crois - tu donc , mademoiselle l ' empressée , / que je ne m ' acquiterai pas aussi bien que toi de cette mission que je me réserve seule , tandis que tu aideras maman dans les autres préparatifs ? dit Stéphanie avec raideur et vivacité .",
+        "words": [
+          "parfumer",
+          "fleurs",
+          "moi",
+          "la parer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/9a80c6db-9daf-5abd-baa9-271c281c8075",
+        "value": "Mais alors , il faut donc que je meure ? termina Stéphanie , désespérée , en frappant la terre du pied avec force et impatience .Oh non ! cela ne se peut pas , cela ne doit pas être ! Armandine est jeune et belle aussi ; elle en retrouvera un autre qui l ' aimera autant , plus peut - êtrt qu ' Edouard ; , et alors , nous serons heureuses , heureuses toutes deux ! Une demi - heure plus tard , au moment où Edouard , afin d ' aller respirer l ' arôme des fleurs , ouvrait la porte du pavillon , ce ne fut pas sans surprise qu ' il se trouva tout - à - coup face à face avec Stéphanie et forcé de se ranger pour la laisser entrer dans le pavillon où il la suivit .La jeune fille n ' alla pas loin , car dans la première pièce , elle se laissa choir pâle et tremblante sur un canapé , où Destigny inquiet s ' empressa aussi de prendre place à ses côtés .",
+        "words": [
+          "fleurs",
+          "arôme",
+          "pavillon",
+          "Une demi - heure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/db550058-373e-57ee-8f66-fb50e324f028",
+        "value": "■ ' Maintenant , sachons en quoi consistait le programme des fêtes et cérémonies qui allaient avoir lieu dans la demeure de la sage et intéressante famille .A six heures du matin , heure à laquelle se levait ordinairement madame Dorval , dont l ' habitude , à peine sortie du lit , était d ' ouvrir la fenêtre de sa chambre , afin d ' y laisser pénétrer le soleil et l ' arôme bienfaisant des plantes , madame Dorval donc , ce matin - là , devait éprouver l ' agrément de se heurter le nez sur son chiffre tressé en fleurs , et suspendu au milieu de ladite fenêtre .— Cette petite surprise , de l ' invention de Boudinot , après avoir , selon le dire de l ' auteur , flatté agréablement la dame , l ' engagerait à descendre vivement au salon où , pour comble de surprise , l ' attendaient ses enfants et amis ; — ces derniers se composant seulement de Benjamine et de Boudinot , qui tous devaient à son entrée lui sauter au cou , l ' étouffer à force d ' embrassements , lui souhaiter cent ans de vie et de bonheur , le tout partant du coeur et accompagné de bouquets .",
+        "words": [
+          "plantes",
+          "chambre",
+          "arôme",
+          "ce matin - là",
+          "bienfaisant",
+          "A six heures du matin",
+          "madame Dorval"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/fb14ccd0-7c2b-5592-8484-e2a3ed5bbc66",
+        "value": "Adolphe en riant .— Pas positivement , mais de ses deux filies , mes adorables cousines , anges de seize et dix - huit ans , belles , douces , pleines de grâces , dé parfum ; enfin , de ces vierges qu ' on ne voit qu ' en songe , que se crée l ' imagination , et qu ' on croit ne rencontrer jamais .Toutes deux , mon cher , fixèrent leurs doux yeux sur moi , toutes deux m ' accueillirent comme un frère , un ami .",
+        "words": [
+          "parfum",
+          "vierges"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8375b2e8-fe88-582a-8f60-4f4a6f64dd6c",
+        "label": "Maximilien  Perrin"
+      }
+    ],
+    "label": "La Lorette mariée, par Maximilien Perrin",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5846807j",
+    "date": "1861",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/227",
+      "label": "Tobacco"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b6434cbb-fcdb-54e1-95ad-4f4b12bc3146",
+      "label": "1861",
+      "begin": "1861",
+      "end": "1861"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12060718/",
+      "label": "Abd El-Aziz"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/joy",
+      "label": "joy"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pride",
+      "label": "pride"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/doubt",
+      "label": "doubt"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/amusement",
+      "label": "amusement"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/103436d1-a6d2-5418-8367-5985e9b1a179/fragment/29ffec99-39f4-5e63-a9c7-0c94b2d2186f",
+  "license": "Public domain",
+  "adjective": "incommode"
+}

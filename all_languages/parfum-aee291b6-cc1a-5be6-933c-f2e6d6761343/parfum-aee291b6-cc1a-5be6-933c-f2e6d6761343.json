@@ -1,0 +1,327 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/aee291b6-cc1a-5be6-933c-f2e6d6761343",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/0114de7f-6207-5bc8-9fb5-78708c72090f",
+        "value": "Tous les fruits , toutes les fleurs et même les légumes de nos climats y croîtraient en abondance , si l ' on se donnait la peine de les cultiver .La terre reste en friche en grande partie , et se couvre au printemps d ' une infinité de fleurs , parmi lesquelles on remarque des roses , des anémones , des giroflées , une espèce de pervenche d ' un parfum exquis , balomon , pariant de son jardin fermé , disait qu ' il comme un « tapis d ' amour pour les flllos de Tour des Quarante - certes , ne pouvait être plus beau que .le tapis de Heur de ta plaine de Saron .",
+        "words": [
+          "parfum",
+          "roses",
+          "exquis",
+          "giroflées",
+          "pervenche",
+          "au printemps",
+          "balomon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/02c2d8ac-7d7f-5dc7-b9ad-c6f83302b9b3",
+        "value": "Cachée dans un repli du mont des Oliviers , voici Béthanie , où j ' écris ces notes pendant une petite halte près du tombeau de Lazare .Béthanie ! ce nom si doux est parfumé encore de la présence du Sauveur et de sa grande amitié pour la noble famille qui le recevait .L ' Évangile prononce si souvent ce mot « Et Jésus se retira à Béthanie , » qu ' il nous est permis de deviner et la joie des hôtes et lé repos plein de sérénité que le Maître trouvait près de ses amis après les fatigues de son apostolat .",
+        "words": [
+          "doux",
+          "parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/0341bab2-c9ab-5ab6-9e0a-47d003fc6ebf",
+        "value": "Le reste du temps , liberté pour tous on cause , on chante .Nous adoptons l ' avant du navire , où la brise délicieuse nous passe sur le visage ; mais , hélas souvent cette même brise nous lance en pleine figure des bouffées de parfum culinaire qui s ' ajoutent aux odeurs transmises sur l ' avant par d ' énormes soupiraux de ventilation .Notre navire est en réalité une arche de Noé sous nos pieds , boeufs , vaches moutons , poulets , lapins , canards , perroquets , envoient des émanations désastreuses pour l ' odorat .",
+        "words": [
+          "parfum",
+          "odeurs",
+          "Nous",
+          "brise",
+          "avant",
+          "navire",
+          "culinaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/0d1415e0-4168-5bd2-99a0-f5abc83a3391",
+        "value": "Que cette mosquée est splendide quelle richesse .éMouis - sante elle est ruisselante de marbres polis le pavé est un miroir , l ' or brille sur les mosaïques des frises , et des arabesques élégantes enlacent la coupole et les chapiteaux des colonnes .On se sent involontairement saisi de respect ; n ' est - ce point ici , en effet , que se trouvait le Saint des saints du Dieu d ' Israël , et le lieu même où reposait l ' arche d ' alliance ? Puis l ' harmonie des proportions et la beauté pure du style élèvent l ' âme et commandent l ' admiration .",
+        "words": [
+          "marbres",
+          "ruisselante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/1c76b6c2-4a4e-5406-a810-720c25f8d1ae",
+        "value": "Je ne me lasse pas d ' admirer cette végétation luxuriante nopals gigantesques , figuiers , oliviers , orangers , citronniers et fleurs de nos pays en pleine floraison .C ' est embaumé , c ' est fleuri , c ' est ensoleillé .Où sont les neiges de la patrie ? Ici , printemps dans la nature , printemps dans le cœur .",
+        "words": [
+          "embaumé",
+          "fleuri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/3c00df3f-9734-5ba1-8e30-04ede585f846",
+        "value": "Sous le vernis de la femme du monde , il y a une vraie perle cachée .Elle est à la fois sereine et enjouée , affectueuse et réservée ; jeune encore et déjà veuve , elle me fait penser à ces douces violettes dont parle saint Jérôme et qui embaument les jardins de l ' Église .Sa compagne , Mllc Leuridan , nous dévoile bientôt les heureuses qualités d ' intelligence et de cœur dont elle est douée .",
+        "words": [
+          "embaument",
+          "jardins de l ' Église"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/3f682b5d-2499-5270-bcb5-8361b1cecfc7",
+        "value": "maris , et dont il est question dans le magnifique psaume xcn .Les vagues sont courtes et saccadées quand la mer est houleuse , mais d ' ordinaire on dirait un beau lac tranquille ; on ne sent pas la forte odeur marine , ni le sel qui pique les lèvres , comme sur les rives de l ' Océan .Vendredi après - midi .",
+        "words": [
+          "Océan",
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/4c069957-00e4-5c5e-b0c2-a46a594dc576",
+        "value": "Voilà donc ce jardin splendide , aimé du grand roi , qui tous les jours , dit l ' historien Josèphe , venait le visiter escorté de ses gardes armés d ' arcs , monté sur un char et vêtu d ' un manteau blanc .Ma mémoire est envahie par des réminiscences du Cantique des cantiques ; je cherche des yeux les grenades semblables aux lèvres de l ' Épouse , et les myrtes , les hyacinthes et les mandragores parfumés , et la vigne rivale de celle de Chypre , et le mur coupé de tours qui enfermait ce jardin de délices Comme une musique ravissante , comme un délicieux murmure , j ' entends ces paroles en mon esprit « Mon bien - aimé est descendu dans son jardin , dans le parterre des plantes aromatiques , pour se nourrir et pour y cueillir des lis .» L ' illusion est complète en écoutant M .",
+        "words": [
+          "parfumés",
+          "aromatiques",
+          "myrtes",
+          "jardin",
+          "hyacinthes",
+          "grenades",
+          "mandragores"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/4e7d5c17-ef3f-5f97-8d33-723b971b8966",
+        "value": "Mais de près et par la pluie on pourrait presque la comparer à un sépulcre blanchi .Ses ruelles sont infectes on y laisse tout croupir , jusqu ' aux cadavres d ' animaux ; l ' odeur malsaine qui se dégage de ces quartiers nous suffoque en passant .Ce n ' est plus qu ' un débris de ville tristement assise auprès de ce beau lac de Génésareth .",
+        "words": [
+          "infectes",
+          "odeur",
+          "malsaine",
+          "quartiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/4ed34591-14eb-55b5-acb7-16bb892fab92",
+        "value": "Parmi les plantes aromatiques qui parfument notre chemin , je reconnais la sauge , le genévrier , le thym et les genêts épineux .Quelles senteurs délicieuses Pendant trois quarts d ' heure , notre procession enrubane la montagne , et nos chants s ' élèvent comme la fumée de l ' encens .Arrivés au sommet du Carmel , les cloches du monastère s ' ébranlent , leur timbre argentin nous réjouit le cœur .",
+        "words": [
+          "délicieuses",
+          "encens",
+          "senteurs",
+          "montagne",
+          "Pendant trois quarts d ' heure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/6047ee28-02e1-5fbb-b361-4f2e6aa28338",
+        "value": "On s ' enfonce sous terre par un large escalier , une bougie à la main , et l ' on pénètre dans ces mystérieuses galeries , foulant aux pieds la poussière des martyrs et des saints .L ' odeur acre qui s ' échappe de nos bougies fumeuses , celle de moisissure qu ' exhalent ces vieux saints murs , me transporte au temps où tant d ' âmes héroïques vivaient dans ces sombres couloirs et menaient sous terre une vie angélique Cécile , Agnès , Sébastien , Pancrace et tant d ' autres ! Cohorte .lumineuse et céleste , je vous vois , comme une apparition , frôler de vos ailes d ' anges ces antiques demeures , jadis sanctifiées par votre présence mortelle Et il me semble entendre une musique céleste comme un murmure lointain .",
+        "words": [
+          "acre",
+          "odeur",
+          "celle",
+          "exhalent",
+          "moisissure",
+          "nos bougies fumeuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/72caef6f-4824-5aed-a119-fe126a8218d3",
+        "value": "On trouva aussi de grands tonneaux remplis des restes d ' anciens Israélites inhumés là .1 Il est probable que ces corps étaient embaumés comme les momies du moins celui d ' Abraham .N ' a - t - on pas retrouvé le corps de Sésostris tout entier , il y a .",
+        "words": [
+          "corps",
+          "embaumés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/89bf4d30-b29c-57de-bb71-bdc105663ea4",
+        "value": "Dans une grande salle ornée avec goût , ces dames reçoivent les pèlerins , présidés par le consul de France et par le Père Bailly .1 Parmi ces tombes nous retrouvons avec émotion celle d ' un vénérable Lorrain , le comte du Coèstlosquet , mort en odeur de sainteté à Jérusalem * en 1852 .Les jeunes filles israélites et arabes paraissent sur la scène et chantent délicieusement ; leurs voix pures et sonores , perlées comme des notes d ' oiseaux , prêtent un charme nouveau à nos cantiques français .",
+        "words": [
+          "Jérusalem",
+          "odeur",
+          "sainteté",
+          "tombes",
+          "en 1852",
+          "vénérable Lorrain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/a5c5c8fd-d1d2-5869-a9bf-afe8ea02eb67",
+        "value": "Puis nous gravissons les pentes rocailleuses du Carmel , laissant la mer à nos pieds .Parmi les plantes aromatiques qui parfument notre chemin , je reconnais la sauge , le genévrier , le thym et les genêts épineux .Quelles senteurs délicieuses Pendant trois quarts d ' heure , notre procession enrubane la montagne , et nos chants s ' élèvent comme la fumée de l ' encens .",
+        "words": [
+          "thym",
+          "plantes",
+          "aromatiques",
+          "sauge",
+          "genévrier",
+          "genêts épineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/ab6687bf-55ac-5956-aea9-2786aabc44fd",
+        "value": "Toutes ces richesses miroitent , ruissellent sous les feux des mille lampes du sanctuaire on dirait des chatoiements de pierres précieuses .Nous entrons dans la chapelle grecque ; les prêtres continuent à encenser les fidèles ; l ' air est chargé de parfums ; les bouffées d ' encens d ' Arabie montent en spirale jusqu ' à la voûte , et l ' on se voit à peine au travers des nuages embaumés .A trois heures , ils cessent leurs offices ; les lumières s ' éteignent , les parfums s ' évaporent , la fumée flotte encore dans l ' air ; mais du moins le silence se rétablit .",
+        "words": [
+          "encens",
+          "air",
+          "parfums",
+          "Nous",
+          "embaumés",
+          "encenser",
+          "voûte",
+          "la chapelle grecque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/add71ab2-d269-543f-82db-5bbd59c064a7",
+        "value": "Notre navire est en réalité une arche de Noé sous nos pieds , boeufs , vaches moutons , poulets , lapins , canards , perroquets , envoient des émanations désastreuses pour l ' odorat .Puis l ' odeur des huiles , des graisses et de la machine à vapeur , tout cela compose une atmosphère aromatique que nous appelons « les odeurs du Poitou et dont nous nous souviendrons toute notre vie .Quand le vent vient d ' arrière , la position n ' est pas tenable , le pauvre cœur s ' en va bon gré mal gré .",
+        "words": [
+          "huiles",
+          "aromatique",
+          "odeur",
+          "atmosphère",
+          "nous",
+          "odeurs",
+          "graisses",
+          "machine",
+          "nous nous",
+          "Poitou",
+          "toute notre vie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/b506e281-f54e-5a62-aa36-8ec7a4e9bbc3",
+        "value": "Ayant retrouvé mon frère et déjeuné à la hâte , nous par - tons pour la gare et apercevons encore plusieurs de nos amis qui prennent , hélas ! un train différent du nôtre .Dans trois jours nous serons de retour au foyer maternel ! A cette pensée une grande joie s ' empare de nous ; pourtant il nous reste , malgré tout , une vague impression des « odeurs du Poitou » et du balancement des flots mais cela passera .Ce qui ne passera jamais , c ' est l ' impérissable souvenir de la patrie de l ' Homme - Dieu , dont nous avons suivi pas à pas les traces divines , et celui de notre beau pèlerinage souvenir que nous garderons au cœur jusqu ' au dernier jour de notre vie ! Et maintenant qu ' il me soit permis d ' emprunter à un ancien pèlerin de Jérusalem , un Breton , qui entreprit ce voyage l ' an 1588 , ces quelques mots qu ' il écrivit au bas de sa relation Benning lecteur , tu recevras ce petit mien labeur et suppléras ( s ' il te plaist ) aux fautes qui s ' y pourraient rencontrer et le recevant d ' aussi bon cceur que je te le présente , tu me donneras couraige de n ' estre chiche de ce que j ' aurai plus exquis rapporté du temps et de l ' occasion , servant ic la France selon mon désir .",
+        "words": [
+          "nous",
+          "odeurs",
+          "Dans trois jours",
+          "foyer maternel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/bb60a887-3d1d-53a4-b86e-3cb67de0e2e5",
+        "value": "Maurice , si vaillant d ' habitude , n ' est pas un vrai marin aujourd ' hui .Les odeurs du Poitou sont vraiment écoeurantes aussi le grand air est - il le meilleur remède en cette occasion .Nous allons bravement dîner , Maurice et moi ; mais Isabelle garde une diète rigide .",
+        "words": [
+          "odeurs",
+          "vraiment écoeurantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/c13453ee-f474-5461-9f21-0c3a85ed00aa",
+        "value": "On assiste par la pensée à l ' émouvante scène Jésus , attendri par les larmes de Madeleine , frémissant en lui - même , hâte ses pas pour consoler ceux qu ' il aime par un prodige inattendu .Il entre dans le caveau depuis quatre jours le cadavre est là , il répand déjà une odeur fétide .D ' une voix haute et puissante Jésus commande au mort « Lazare , sors dehors » Lazare sort à l ' instant , couvert des bandelettes dont on enveloppait les corps en Orient .",
+        "words": [
+          "fétide",
+          "odeur",
+          "il",
+          "cadavre",
+          "depuis quatre jours",
+          "caveau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/c3c43ede-1c6d-5c0f-80a0-7a6c8311df04",
+        "value": "Hanna fait des signes désespérés ; mais décidément l ' eau a résolu de ne pas bouillir , car nous attendons vainement dix minutes encore .Hanna , désolé , court chercher un vin tout doré et parfumé , et nous acceptons , cette fois , car l ' Arabe pratique l ' hospitalité comme une loi et comme une vertu ; la refuser serait lui faire injure .Le vieux chef de famille s ' approche de moi et me prie poliment de lui prêter mon mouchoir .",
+        "words": [
+          "parfumé",
+          "vin",
+          "nous",
+          "Arabe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/c7541248-9fdd-547b-9d35-f48ea6065d63",
+        "value": "Nous adoptons l ' avant du navire , où la brise délicieuse nous passe sur le visage ; mais , hélas souvent cette même brise nous lance en pleine figure des bouffées de parfum culinaire qui s ' ajoutent aux odeurs transmises sur l ' avant par d ' énormes soupiraux de ventilation .Notre navire est en réalité une arche de Noé sous nos pieds , boeufs , vaches moutons , poulets , lapins , canards , perroquets , envoient des émanations désastreuses pour l ' odorat .Puis l ' odeur des huiles , des graisses et de la machine à vapeur , tout cela compose une atmosphère aromatique que nous appelons « les odeurs du Poitou et dont nous nous souviendrons toute notre vie .",
+        "words": [
+          "émanations",
+          "odorat",
+          "boeufs",
+          "lapins",
+          "poulets",
+          "canards",
+          "désastreuses",
+          "perroquets",
+          "vaches moutons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/ca3faaee-05dd-5e5b-befc-9348012d17d9",
+        "value": "J ' y vous supply , très cher lecteur mien Bâillez assez , mais ne veuillez dormir .MAHOT ; Il est des souvenirs délicieux , dont le parfum embaume toute la vie ; certes , un pèlerinage à Jérusalem est bien de ceux - là .Mais si l ' on croit tout d ' abord garder une mémoire éternelle des petits détails , des moindres impressions , on se trompe .",
+        "words": [
+          "Jérusalem",
+          "parfum",
+          "délicieux",
+          "toute la vie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/cd4cd6f8-e120-5b99-9f6f-b9f4b0bc82a6",
+        "value": "Nous entrons dans la chapelle grecque ; les prêtres continuent à encenser les fidèles ; l ' air est chargé de parfums ; les bouffées d ' encens d ' Arabie montent en spirale jusqu ' à la voûte , et l ' on se voit à peine au travers des nuages embaumés .A trois heures , ils cessent leurs offices ; les lumières s ' éteignent , les parfums s ' évaporent , la fumée flotte encore dans l ' air ; mais du moins le silence se rétablit .Le saint Sépulcre nous est livré ; cette fois ce sont nos prêtres qui offrent le saint sacrifice sur la véritable pierre du sacrifice , la plus sainte du monde .",
+        "words": [
+          "air",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/deb7611c-673f-569b-804b-40477afc03d9",
+        "value": "Nous nous serrons tous tendrement la main , et Hanna me fait promettre de lui écrire aussitôt mon retour en France .Il me reste de cette visite à Bethléhem un doux , joyeux et charmant souvenir , embaumé comme le champ de Booz qui s ' étend à côté .XXVIII DERNIERS JOURS A JÉRUSALEM Samedi soir .",
+        "words": [
+          "doux",
+          "embaumé",
+          "charmant",
+          "me",
+          "joyeux",
+          "Bethléhem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/e8982db5-96c3-52b8-8275-d45e0763f18b",
+        "value": "J ' ai pleuré là en baisant ces murs vénérables , et j ' ai bu de l ' eau à la source qu ' il fit jaillir miraculeusement .Le cachot est petit et ténébreux , mais il exhale le parfum du martyre et de l ' amour de l ' apôtre pour son Maître .De là , visite à l ' Ara - Cœli , élevé à l ' emplacement du temple de Jupiter Capitolin .",
+        "words": [
+          "parfum",
+          "cachot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/fbcb0b1d-7196-5b46-b102-ca04ca539fd0",
+        "value": "En tout cas , les chacals , les sangliers et les gazelles y font leur demeure , et les perdrix leurs nids .Avec les plantes aromatiques , les moines composent ce cordial si estimé qu ' on appelle eau des Carm - es .Cette journée commença pour moi par une messe solitaire dans la grotte d ' Élie , pendant que les autres pèlerins faisaient autour du monastère la procession de saint Marc .",
+        "words": [
+          "plantes",
+          "aromatiques",
+          "eau",
+          "moines"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/c416619f-4695-5ccb-9808-f30ca3ecf0cd",
+        "label": "Léonie de  Bazelaire"
+      }
+    ],
+    "label": "Chevauchée en Palestine / Léonie de Bazelaire",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k202321x",
+    "date": "1899",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/36fe5321-c19d-5fe7-bcca-6ff410672e98",
+      "label": "1899",
+      "begin": "1899",
+      "end": "1899"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/faith",
+      "label": "faith"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6453398d-0f74-5cad-a129-3c90ea7d9e09/fragment/ca3faaee-05dd-5e5b-befc-9348012d17d9",
+  "license": "Public domain",
+  "adjective": "délicieux"
+}

@@ -1,0 +1,79 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/70193c75-6244-521f-8809-a1e79a271967",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "exhalaisons",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/5d9f2647-cdd4-5489-88fd-aba4be71280d",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/5d9f2647-cdd4-5489-88fd-aba4be71280d/fragment/520a3e62-d8bc-57dd-923e-22de1ffbd5be",
+        "value": "P .Cette vitrine renferme quelques petits vases à parfum de Rhodes et de Chypre ( no 1887 , Aryballisque ; n ° 1887 ° , Vase amigdaloïde ) et des bijoux d ' époques différentes qui seront , en temps voulu , placés dans leurs séries chronologiques respectives .1793 , 1797 , 1798 : Bracelets en gros fil d ' or .",
+        "words": [
+          "Chypre",
+          "parfum",
+          "vases",
+          "Rhodes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5d9f2647-cdd4-5489-88fd-aba4be71280d/fragment/8280bbc9-a180-5fa2-a1b5-fe0885d6fee8",
+        "value": "D ' ailleurs les restes de ruines nombreuses et significatives nous démontrent que l ' endroit fut assez peuplé pendant de longs siècles , même après le triomphe du christianisme .En dehors des tissus , des parfums , des poissons salés , des confitures et des bonbons , ainsi que du henné ( fard pour les dames ) , Canope mettait en circulation les chapeaux aux bords très larges appelés par les Alexandrins pétases canopiques ( néxaoa xavcofîixâ ) .La ville était reliée à Alexandrie par un canal , dont les rives étaient bordées de beaux jardins , fermés par un mur d ' enceinte , appartenant aux riches Alexandrins .",
+        "words": [
+          "parfums",
+          "bonbons",
+          "confitures",
+          "poissons salés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5d9f2647-cdd4-5489-88fd-aba4be71280d/fragment/8378908b-40fe-5bae-8d49-e5c6b64fa687",
+        "value": "Dans le rayon b : Petite dalle en calcaire jaune , portant en relief un taureau d ' un travail remarquable .Dans le compartiment du centre , petits vases de toilette : un brûle - parfums ; d ' autres , destinés à contenir le kohol , c ' est - à - dire , les poudres noires dont les hommes et les femmes se teignaient les paupières et les sourcils ( nos 1 - 2 ) ; le n ° 3 était pour les parfums pâteux et les onguents parfumés ; nU 4 , vase pour broyer les couleurs .Pour des raisons d ' ordre pratique on a placé ici le n ° 5 , table d ' offrande en calcaire jaune , très bien conservée et finement travaillée .",
+        "words": [
+          "parfums",
+          "parfumés",
+          "poudres",
+          "onguents",
+          "paupières",
+          "sourcils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5d9f2647-cdd4-5489-88fd-aba4be71280d/fragment/c1c3fdf5-2b65-52d9-aa18-2b144765403e",
+        "value": "Le traitement de la phtisie amenait annuellement à Alexandrie une colonie élégante fort nombreuse .« A Alexandrie , dit Strabon , les eaux du Nil venant à croître au commencement de l ' été , remplissent le bassin du lac , et ne laissent subsister aucune partie marécageuse d ' où pourraient s ' élever de dangereuses exhalaisons .De plus c ' est à cette même époque que soufflent du nord les vents étésiens , qui arrivent après avoir traversé une si vaste étendue de mer : aussi l ' été est pour les Alexandrins une saison très agréable » .",
+        "words": [
+          "Alexandrie",
+          "dangereuses",
+          "exhalaisons"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/7e3f1aaa-051c-5898-820a-0c61e821053d",
+        "label": "Evaristo  Breccia"
+      }
+    ],
+    "label": "Alexandrea ad Aegyptum : guide de la ville ancienne et moderne et du musée gréco-romain / par E. Breccia",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6240587f",
+    "date": "1914",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f5b0a0f0-ba64-5e68-8930-5b07c4e72a9d",
+      "label": "1914",
+      "begin": "1914",
+      "end": "1914"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361058/",
+      "label": "Alexandria"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/5d9f2647-cdd4-5489-88fd-aba4be71280d/fragment/c1c3fdf5-2b65-52d9-aa18-2b144765403e",
+  "license": "Public domain",
+  "adjective": "dangereuses"
+}

@@ -1,0 +1,3018 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/d7b5e0d1-a4e8-5def-bcd6-0cdd61b7552c",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/001a0e28-8f4e-5873-b9b8-1fcafcced985",
+        "value": "^ Virg .Daphné ou garou , arbrisseau odoriférant .câsigjhëtë , es ( Y .",
+        "words": [
+          "odoriférant",
+          "arbrisseau",
+          "garou",
+          "Daphné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/01b79dab-868b-544f-bcd3-405991d93b09",
+        "value": ") ^ Lucr .Odeur forte , fumée , exhalaison .» nïdôrôsus , a , um ( nidor ) , adj .",
+        "words": [
+          "forte",
+          "fumée",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/01d773fe-e28e-55b8-811f-e71e70a6e988",
+        "value": "Plin .Herbe à l ' odeur pénétrante , forte .Subst .",
+        "words": [
+          "Herbe",
+          "pénétrante",
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0311973d-32ad-57f2-90c4-fff249ad3bcb",
+        "value": "m , 138 ) .L ' air empesté de la contrée , trâdïtïo , ônis ( Irado ) , f .Cic .",
+        "words": [
+          "air",
+          "empesté",
+          "contrée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/033a939c-5a80-5b2e-9882-b01d7f6524aa",
+        "value": "Plin .Cassette de forme cylindrique ( destinée à contenir des livres , des papiers , des parfums , etc .) coffrel , écrin , portefeuille ; ( en t .",
+        "words": [
+          "parfums",
+          "Cassette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/03572ce6-d17d-526d-87fc-2e5992b9cd7a",
+        "value": "Apul .Sans odeur , sans parfum .^ Gell .",
+        "words": [
+          "parfum",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0366e8d5-eb1b-5721-a1c6-ec052418c29c",
+        "value": "Mart .Boîte à parfums et à onguent .narthex , êcis , Ace .",
+        "words": [
+          "parfums",
+          "onguent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/048fe1cd-c6a5-5125-aabd-6953f0134f05",
+        "value": "^ Plaut .Vase ou cui , sent les mets , casserole .focus , i , m .",
+        "words": [
+          "mets",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/04e79e66-547f-55b4-b790-10dfc3777e9b",
+        "value": "Cic .Odeur infecte , f Dépérissement , vétusté .Corrumpor situ .",
+        "words": [
+          "infecte",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0550f25b-2058-5d44-a910-af90c14fe2bf",
+        "value": "Plin .Sorte de mousse odoriférante .* sphëniscôii , i ( o - çrivto - y .",
+        "words": [
+          "odoriférante",
+          "mousse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/055e49ac-5d69-53cb-a8fe-c18e03c847a8",
+        "value": "Plin .Plante aromatique d ' Arabie .gâbâlus , i , m .",
+        "words": [
+          "aromatique",
+          "Arabie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0673d5f7-5e30-53d5-86f5-a562edbf454b",
+        "value": "Virg .Avoir une odeur forte .— floribus .",
+        "words": [
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/083a6d99-a969-5305-8d82-bb33c6487465",
+        "value": "ad loc .) et non parfumé de myrrhe .2 .",
+        "words": [
+          "parfumé",
+          "myrrhe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/084f2eb7-61b3-5796-b531-dfce4d22396b",
+        "value": "Mart .Poudre odoriférante .* dïâpàsôn ( Stà itcraràv , s .",
+        "words": [
+          "Poudre",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/08fa0cfd-530f-59f5-858f-b7db1fc7c8c4",
+        "value": "Cic .Parfums suaves .Mirificâ suavitate villa .",
+        "words": [
+          "suaves",
+          "Parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0a6a63c5-31d5-52b8-abfc-d837f0a2d77c",
+        "value": "Plin .Mauvaise odeur , infection ; amertume .— odoris .",
+        "words": [
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0b59408d-6bf1-5f36-9f8c-4d8965f46b71",
+        "value": "75 .) Exhaler ( une odeur ) .effrënâtë ( effrenatus ) , adv .",
+        "words": [
+          "odeur",
+          "Exhaler"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0c10cc9c-5b10-5350-a2cb-dd0e9bda1c28",
+        "value": "FRAGRANTIUS Solin .) En exhalant une odeur suave .frâgrantïa , s ( fragro ) , t .",
+        "words": [
+          "suave",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0c5f441e-d5f7-5d30-b89e-39a1bc84092e",
+        "value": "Suet .Le mulet sent mauvais .Gravis absinthius .",
+        "words": [
+          "mauvais",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0ca0bc78-1a73-51f6-a7f7-051b573a1539",
+        "value": "ETEO , FETEO ) , ère , intr .Laisser échapper une exhalaison désagréable , être fétide , exhaler une mauvaise odeur , puer .Anima foetet .",
+        "words": [
+          "mauvaise",
+          "désagréable",
+          "fétide",
+          "odeur",
+          "exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0cbecef7-c9c7-5a60-af41-dd2e9abe66c3",
+        "value": "Longtempspoussésàl ' aventure .) Lancer , exhaler .— odorem .",
+        "words": [
+          "exhaler",
+          "Lancer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0cd52091-87de-513a-a917-63af5e91d449",
+        "value": "- Aur .Baume , aromates .Odora pigmenta .",
+        "words": [
+          "Baume",
+          "aromates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0d44b32a-4edb-5374-9999-f1c51daca3d8",
+        "value": "Cheveux parfumés .Maie odorati anheliius oris .Ov .",
+        "words": "Maie odorati"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0de22b70-c174-5fa7-af85-4f93f77e534a",
+        "value": "Plin .Avec l ' odorat subtil .— odorari .",
+        "words": [
+          "subtil",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0e8d3113-e56a-5b1a-b257-bddd9643c7cc",
+        "value": "Luc .Plante aromatique de l ' Orient .Côsûra et Côsyra .",
+        "words": [
+          "aromatique",
+          "Orient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0f0100ee-8ba4-57f0-9563-9d90dcfefe44",
+        "value": "à gelu rigentia ) .Liquidi odores .Hor .",
+        "words": "odores"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0f847ac3-991f-5486-9f60-425ba566ca51",
+        "value": "^ Mart .Employé comme vase pour conserver des liquides et des parfums .^ Ov .",
+        "words": [
+          "parfums",
+          "liquides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/0fd53fea-ac1a-5c6c-848c-b1dc9f302268",
+        "value": "Varr .Avoir un arrière - goût de fer .— picem .",
+        "words": [
+          "fer",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/120546c6-adb7-5eae-afe3-e9126b9a2300",
+        "value": "Juncus Africanus est virosx mordacitatis , Plin .Le jonc d ' Afrique a un goût âpre et fétide .— eluvies .",
+        "words": [
+          "fétide",
+          "âpre",
+          "goût",
+          "jonc d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/123c7502-3f17-5269-8893-ee01e0deaa6b",
+        "value": "( vi , 4S ) .Esclave qui parfumait et frisait les cheveux de sa maîtresse .3 Ov .",
+        "words": [
+          "cheveux",
+          "parfumait",
+          "Esclave",
+          "frisait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/152bac1d-4826-5927-a5e0-083154f586dc",
+        "value": "Prud .Herbe d ' une saveur forte .Sucus odore austerus .",
+        "words": [
+          "Herbe",
+          "forte",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/15493cea-97f8-5727-8a57-8c5ad04a31a0",
+        "value": ") .Avoir telle ou telle odeur , sentir .— hircum .",
+        "words": [
+          "odeur",
+          "sentir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/159800d3-9f4a-5e25-bc39-e99d6735680d",
+        "value": "Plin .Vin aromatisé ou aromatique .ârômâtïtis , ïdis ( àpiù [ iaTÏTiç ) , f .",
+        "words": [
+          "Vin",
+          "aromatique",
+          "aromatisé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/17310663-53d7-5fbc-8fe1-1b6a57751389",
+        "value": "Arn .Fumée , odeur des chairs rôties .cnôdax , âcis ( xvc & ôaÇ ) , m .",
+        "words": [
+          "odeur",
+          "chairs rôties"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/18cb5adf-41d9-52b7-8d89-0e9ce5165389",
+        "value": "Plin .Mauvaise odeur , puanteur , fétidité .grâvesco , ïs , ère ( gravis ) , intr .",
+        "words": [
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/19107cc8-0dfc-5e07-b166-d5ef91e9c218",
+        "value": "Phsdr .Aspirer une odeur par le nez .— puirefacti cerebri .",
+        "words": [
+          "odeur",
+          "nez"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/19bded0d-8b45-5515-978e-a4a21abf17b2",
+        "value": "Mart .Odeur de cuisine , • f Abs .Nidor .",
+        "words": [
+          "Odeur",
+          "cuisine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1a255059-bc47-59e4-bdba-a1aab6051334",
+        "value": "Plaut .L ' haleine est fétide .Acrimonise foeientes .",
+        "words": [
+          "fétide",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1bf2d28a-fad9-5a18-832d-90f2957938c2",
+        "value": "Apic .Nettoyer , laver ( pour Ôter la mauvaise odeur ) .* excaecâtïo , ônis ( exeseco ) , f .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1ced36de-93bd-5033-b001-352e166c087a",
+        "value": "Plin .La vieillesse donne à l ' huile une odeur désagréable .Non sunt ea tsdia in metallis .",
+        "words": [
+          "huile",
+          "désagréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1daf305a-3958-5877-9394-461001e46b5f",
+        "value": "Gell .Nuages vaporeux .° i Aug .",
+        "words": [
+          "vaporeux",
+          "Nuages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1e216c53-56a3-58ef-90fa-c1de26f4c358",
+        "value": "Virg .Charger les autels d ' encens , de parfums , de riches offrandes .Cumulari maximo gaudio .",
+        "words": [
+          "encens",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1e977459-e176-5b19-b9eb-08efc36864ec",
+        "value": "Virg .Demeures ( ruches ) frottées de sucs odorants .^ Empoisonné .",
+        "words": [
+          "odorants",
+          "sucs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1f952160-cab4-5474-a811-95758d26e908",
+        "value": "Hier .Sorte de parfum à l ' usage des prêtres égyptiens .cypïra , se ( x - JiLE ! pa ) , .",
+        "words": [
+          "parfum",
+          "prêtres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1feb466d-02ff-56a8-b858-328d09e25dce",
+        "value": ") suffïtôr , ôrit ( suffio ) , m .PlinCelui qui parfume par des fumigations .suffïtûs , ûs ( suffio ) , m .",
+        "words": [
+          "fumigations",
+          "parfume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/1fede5f2-5c15-5f28-8b84-b405c062fcf4",
+        "value": "Plin .Parfum ( de nard ou d ' autres plantes ) , extrait des feuilles de la plante .fôlïâtûra , se ( folium ) , f .",
+        "words": [
+          "plantes",
+          "nard",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/20a3dcb1-4292-532e-a629-4eb21e8c41ad",
+        "value": "Stat .Exhaler le parfum des fleurs ( voy .plus bas ) .",
+        "words": [
+          "parfum",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/211aa9bd-e9bb-55be-ae78-2a3c1fb93f74",
+        "value": "Cxs .Exhalaisons délétères de la sentine .— inleslinorum .",
+        "words": [
+          "délétères",
+          "Exhalaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/23950c48-99e7-5525-9dc1-c661a2916109",
+        "value": "- Prisc .Action de brûler des parfums , fumigation .fûmïgo , âvi , âtum , are ( fumus et ago ) , intr .",
+        "words": [
+          "parfums",
+          "brûler"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2520dc52-19b5-5960-ada0-3b09724316c2",
+        "value": "Cels .Acore , plante aquatique vivace dont _ la racine est aromatique .acquïesco , quïëvi , quïêtum , ère ( ad .",
+        "words": [
+          "aromatique",
+          "racine",
+          "plante",
+          "Acore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/26ac1065-1df1-5156-bd7e-6574d2274aeb",
+        "value": "- Emp .Qui exhale une forte odeur de menthe .* mentis , is , î .",
+        "words": [
+          "forte",
+          "odeur",
+          "menthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/26b918d2-ed45-5777-b144-077c9bdb934a",
+        "value": "Virg .L ' odorat subtil ' des chiens .odôs , ôris , m .",
+        "words": [
+          "subtil",
+          "odorat",
+          "chiens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/26d03516-d416-5693-b7bb-299035227fb9",
+        "value": "- Cap .Exhalaison suave , bonne odeur .haie .",
+        "words": [
+          "suave",
+          "bonne",
+          "odeur",
+          "Exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2813334c-83ca-5ce3-92f4-1f46c6e5a142",
+        "value": "Apul .Cheveux qui exhalent le parfum de la cannelle .cinnamolgôs et cinnâmolgus , i ( y .",
+        "words": [
+          "parfum",
+          "cannelle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/28cddae8-9a2a-5ace-b26b-e0c672961099",
+        "value": "Cic .Ses discours ont un parfum d ' atticisme .Bedolet mihi .",
+        "words": [
+          "parfum",
+          "discours",
+          "atticisme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2912382a-d1a7-5a29-b302-c1342b82601c",
+        "value": "Virg .Chélydre , sorte de serpent amphibie venimeux et fétide .chëlyôn , § i ( yjhJov ) , n .",
+        "words": [
+          "fétide",
+          "venimeux",
+          "serpent",
+          "Chélydre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2a1a8321-3c38-5008-9f9e-bf39b771fdd0",
+        "value": "Ov .Chevelure parfumée .Modida fossa .",
+        "words": [
+          "parfumée",
+          "Chevelure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2a5ac6ab-577b-5aa4-a620-8607b086a0ec",
+        "value": "Dig .Plante aromatique qui ressemblait au costum et à l ' amomum .Voy .",
+        "words": "Plante aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2a80943b-0efe-5f9d-be4a-3c6c02d6124b",
+        "value": "Grands troupeaux de paons .wt Qui est à charge , pénible , désagréable , fort ( en pari , des odeurs ) , malsain .Odor gravis .",
+        "words": [
+          "fort",
+          "désagréable",
+          "odeurs",
+          "malsain",
+          "pénible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2c1704e3-2312-5b50-8fee-eb3d63b999c0",
+        "value": "Fronto .Qui sent , parfumé .|Subst .",
+        "words": [
+          "parfumé",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2deb07e6-443f-5ed7-94e1-f92a4b111e76",
+        "value": "Petit pois chiche , f Col .Petite gesse ; pelil pois de senteur .cïcercûTum , i , n .",
+        "words": [
+          "senteur",
+          "pois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2e490de6-e9e1-5ece-a120-842fbe3a9bff",
+        "value": "Plin .Parfum à la cannelle .cinnâmômum , i ( xtvvâ [ iwxov ) , n .",
+        "words": [
+          "cannelle",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2e88914c-7115-5b60-9705-65c0a59442d2",
+        "value": "|Percevoir par l ' odorat , sentir .■ — odorem suavitatis .Vulg .",
+        "words": [
+          "odorem",
+          "suavitatis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2f03a752-f6bb-5659-9c21-d2def0c99bfc",
+        "value": "( Des odeurs .) Gravitas odoris .Plin .",
+        "words": [
+          "odoris",
+          "Gravitas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/2ff64829-325c-5707-9a40-21b861d125ed",
+        "value": "Hor .Sentir moins bon , avoir moins de parfum .— spe nostra .",
+        "words": [
+          "bon",
+          "parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/303cf19e-6a4f-5513-b77e-7bee6f87e987",
+        "value": "Hor .Oindre , enduire , frotter d ' un corp - ^ gras ( parfum , onguent , huile ) .— postes amaricino .",
+        "words": [
+          "huile",
+          "parfum",
+          "onguent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/30c787af-64c1-5da9-8c03-c32a3c6ac85c",
+        "value": "Sorte de palmier d ' Arabie .* i Gomme et résine odorante qui en viennent .— arabicum .",
+        "words": [
+          "Gomme",
+          "résine",
+          "odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/322316cd-8478-598a-a9f0-64dc6d6a4b6e",
+        "value": "^ Hor .Odeur des aisselles .| Cic .",
+        "words": [
+          "aisselles",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/331e2f56-8f37-5871-9cc5-e8734254c91d",
+        "value": "Plin .Avoir l ' odorat très fin .TAu fig .",
+        "words": [
+          "odorat",
+          "très fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/33f9a263-cddd-551c-ae42-6b5a69fdd935",
+        "value": "Plin .On ne peut reconnaître ( le poison ) ni à l ' odeur ni à la saveur .1 Conception , intelligence .",
+        "words": [
+          "odeur",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/35d18ad3-fbd1-5af9-ae4f-fa25ef82803c",
+        "value": "Plin .Odeur repoussante .— locus .",
+        "words": [
+          "Odeur",
+          "repoussante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3635f1cb-e77d-589e-b65e-4f19ffb44257",
+        "value": "Plin .Mephitis , déesse des exhalaisons pestilentielles .mepte , pour ME IPSUM .",
+        "words": [
+          "exhalaisons",
+          "pestilentielles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3662219f-a657-57b5-9f88-b3a0e05b17a7",
+        "value": "Vitr .Chambre aux parfums dans les bains .Elâïtës , se ( ' EXaiTr .",
+        "words": [
+          "parfums",
+          "les bains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/37fe48c5-3c52-5b40-92f7-271c8e99aea1",
+        "value": "Ulp .Vin aromatisé .Nemo lepore , nemo suavilate condilior - Cic .",
+        "words": [
+          "Vin",
+          "aromatisé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/38fd9f7e-143e-504a-85f1-5a099a4ec8b7",
+        "value": "■ [ Petr .Parfums qui se vendaient dans la rue jséplasia , à Capoue .së - pôno , pôsûi , pôsïtum , ère ( Parf .",
+        "words": [
+          "Parfums",
+          "à Capoue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3903cf67-012d-54a9-a0dd-24d5bcca6e71",
+        "value": "Virg .Arbre sur la côte nord de l ' Afrique , portant un fruit doux et parfumé , que les Lotophages mangeaient , d ' où leur vient leur nom .|Prop .",
+        "words": [
+          "fruit",
+          "parfumé",
+          "sur la côte nord de l ' Afrique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/39203dd0-7abb-5f55-a9e6-e91176b06f98",
+        "value": "Unguen odor .Apul , Essence odorante .Incendere odores .",
+        "words": [
+          "odorante",
+          "Essence odorante",
+          "Apul"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/39a0fe57-1571-5dc9-b3d1-591aeafeacfa",
+        "value": "22 .Contrepoison à base de calament ( plante aromatique ) .f dïâcanthës ( 8t ' àxâvôvjç ) , gén .",
+        "words": [
+          "aromatique",
+          "calament"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/39a82f51-ab07-5fb3-bfc2-bb4a09c810d7",
+        "value": "Cic .Soleil tout sec ( auquel on s ' expose sans s ' être baigné et parfumé d ' essences ) .In illo sole .",
+        "words": [
+          "parfumé",
+          "essences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3a18f824-bda2-539e-8aa5-6d12ec16ccb9",
+        "value": "Plin .Huile d ' une odeur iorte .Méton .",
+        "words": [
+          "odeur",
+          "Huile",
+          "iorte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3a8d4868-d6c0-5614-b557-5a17f8bb1571",
+        "value": "Etre atteint par la foudre .Exhaler leur chaude haleine sur nos membres .Odores qui afflarentur e floribus .",
+        "words": [
+          "haleine",
+          "leur chaude",
+          "nos membres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3c598b2f-6853-5949-a3e1-b8598e1ecdad",
+        "value": "Tert .Parfum préparé avec la plante nommée telis ._ tëlis , Acc .",
+        "words": [
+          "Parfum",
+          "plante nommée telis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3ca879aa-0723-5b0b-8ead-4309807a04be",
+        "value": "Ambros .Rendu odoriférant , parfumé .* ôdôrïfïcus , a , um ( odor , facto ) , adj .",
+        "words": [
+          "parfumé",
+          "odoriférant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3d3820f8-0f82-5afe-b142-94aa53f26126",
+        "value": "Apul .Onguent parfumé .unguentârïus , a , um ( unguen - - tum ) , adj .",
+        "words": [
+          "parfumé",
+          "Onguent parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3da44090-78c5-5db7-ac62-2f1f5ddda272",
+        "value": "* , Apul .Rancissure , odeur de ■ vieux , décomposition que produit la vieillesse .1 Turp .",
+        "words": [
+          "odeur",
+          "■",
+          "Rancissure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3dae0130-5089-5bc6-bfb1-edae1bc39c0c",
+        "value": "Plin .Parfum pénétrant .— sapor .",
+        "words": [
+          "pénétrant",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3ddf03d6-6f21-5334-9c9a-104accb2d44c",
+        "value": "pûtëo , ui , ère ( puter ) , intr .Puer , sentir mauvais , être putréfie , être gâté .Tigna humide hsec putent .",
+        "words": [
+          "mauvais",
+          "sentir",
+          "Puer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3f02c2a1-5d52-5afe-8f77-f92a409243ee",
+        "value": "Hor .Parfums liquides , essences odériférantes .Liquidum iter .",
+        "words": [
+          "Parfums",
+          "essences",
+          "odériférantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/3f448bdc-1381-5afd-87ef-14d112bb8ff6",
+        "value": ".Répandre des exhalaisons marécageuses , pulrides .( Au fig .",
+        "words": [
+          "exhalaisons",
+          "marécageuses",
+          "pulrides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/4045e4e3-fd26-58cc-a1c2-8d997deb1588",
+        "value": "fûmïgo , âvi , âtum , are ( fumus et ago ) , intr .Fumer , exhaler de la vapeur .Montes fumigant .",
+        "words": [
+          "exhaler",
+          "vapeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/40f4ae42-79a6-5bb6-9970-25829832a2a7",
+        "value": "Vulg .Nard , nom de plusieurs plantes aromatiques .— Ilalicum .",
+        "words": [
+          "plantes",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/412aeac3-3bce-54e5-97be-7022961c869b",
+        "value": "Solin .Avoir l ' arôme du vin .— suaviter unguentum .",
+        "words": [
+          "vin",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/42d005af-7d5a-5d98-b536-8d968a347f32",
+        "value": "Col .Exhalaison , vapeur , odeur .■ ( Rutil .",
+        "words": [
+          "odeur",
+          "vapeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/44d59d99-c453-5313-8108-a1f94345f3a6",
+        "value": "Col .Rendre odorant , ïn - ôdôrus , a , um , adj .Pers .",
+        "words": "odorant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/44eee045-f40b-5e64-a1d5-8eb0b5f1e69c",
+        "value": "Mart .Chevelure parfumée .Pingue vinum .",
+        "words": [
+          "parfumée",
+          "Chevelure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/47209ecb-f7a6-5ea8-b4d1-8728431a2c35",
+        "value": "Veg .Substance odorante .Achareus , i , m .",
+        "words": [
+          "odorante",
+          "Substance odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/477652ef-6800-5572-bb27-c842be5dc72f",
+        "value": "Plin .Vin ou huile parfumée de nard .nardïnus , a , um ( vâpoivoç ) , adj .",
+        "words": [
+          "Vin",
+          "huile",
+          "parfumée",
+          "nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/47970241-099b-5a8d-a833-7a042d9ec870",
+        "value": "° i Aug .Brûler des parfums , de l ' encens .^ Tr .",
+        "words": [
+          "encens",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/47c54fd0-84d6-5097-9ba3-db697f707acd",
+        "value": "Virg .Brûler le cèdre odorant pour s ' éclairer pendant la nuit .— urbes hostium .",
+        "words": [
+          "odorant",
+          "cèdre",
+          "pendant la nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/47d1dd63-f57a-57de-825d-f2302ba2b0e7",
+        "value": "Cels .Parfum , encens .* thymïâmâtêrïum , ïi ( thymiama ) , n .",
+        "words": [
+          "encens",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/482b7160-408f-5a17-b95f-6fa88896a3a5",
+        "value": "MarcEmp .Styrax ou storax , arbuste qui distille un baume odorant ; baume qui porte le même nom .Styx , Gén .",
+        "words": [
+          "Styrax",
+          "odorant",
+          "baume",
+          "arbuste",
+          "storax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/48817f41-8327-5f3c-b4a2-d0bcda4bf52d",
+        "value": "Plin .Outre en peau de bouc , y ' Qui a l ' odeur du bouc .— alx .",
+        "words": [
+          "odeur",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/48e96b23-27df-52c1-bd4e-a45cc2b9b171",
+        "value": "Hor .Parfum de Cos .* fsecûlentïa , se ( fseculentus ) , f .",
+        "words": [
+          "Cos",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/490571aa-644d-59c1-b8cd-884117f3ab91",
+        "value": "^ Plin .Plante dont l ' odeur ressemble à celle de l ' aurone ( abrotonum ) .lèucanthës , is ( XsuxavSI .",
+        "words": [
+          "odeur",
+          "aurone"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/4958641e-cd07-52bf-b16e-7dfd8eeca27e",
+        "value": "- Flacc .La puanteur infecte l ' air .Morbus sxviens » Gell .",
+        "words": [
+          "puanteur",
+          "infecte",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/49f58f88-a36e-594c-865d-c68bae525c9b",
+        "value": "Virg .Faire brûler des parfums en l ' honneur des pénates .— precibus et igné puro .",
+        "words": "parfums"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/4a7a6e11-749e-5c87-a5fa-cabf6c228b94",
+        "value": "Vulg .Petite boîte à parfums , sachet de parfums .olfactôrïus , a , um ( olfacio ) , adj .",
+        "words": [
+          "parfums",
+          "sachet",
+          "boîte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/4a92a362-ec2f-5631-b11e-ecea56f818f3",
+        "value": "Cic .Fumée ou odeur d ' une substance brûlée , fumigation , odeur .T Plin .",
+        "words": [
+          "odeur",
+          "fumigation",
+          "substance brûlée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/4b3e98d9-69df-5eee-aac2-878c4286c7ff",
+        "value": "Virg .Qui sent mauvais , puant .* ôlentïa , se ( oleo ) , f .",
+        "words": [
+          "puant",
+          "mauvais",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/4f893ad2-91c7-5fc7-8e0c-0dd4c8a9b8ab",
+        "value": "Apul .Baumier , suc du baumier , baume ( employé comme parfum , remède ou huile à brûler ) .« [ Au plur .",
+        "words": [
+          "parfum",
+          "baume",
+          "remède",
+          "huile à"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/517c9acd-1903-59e1-b121-9c7ea8eaa637",
+        "value": "Plin .Odeur forte .Gravis hircus .",
+        "words": [
+          "forte",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/51cb3a55-0a72-558e-83c9-06a76be7bdca",
+        "value": "Transvaser du vin , le tirer des tonneaux , des cruches .— ambrosis odorem .Virg .",
+        "words": [
+          "odorem",
+          "ambrosis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/520d68e8-478f-5104-85f3-cdb44a95fa81",
+        "value": "^ Catull .Odeur forte des aisselles .% Man .",
+        "words": [
+          "forte",
+          "aisselles",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/528a02bb-ef26-578a-a9ab-a41eb6065f4d",
+        "value": "Sen .Les parfums et la pourpre s ' achètent au poids de l ' or .— prsmaturam mortem immortati nominis memoriâ .",
+        "words": [
+          "parfums",
+          "pourpre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5398dac8-652c-5c8d-852e-f4d995b0a49e",
+        "value": "^ Plin .Qui a l ' odeur du nard .* nardostâchïum etnardostàtïum , i ( rapôdoravu ; ) , n .",
+        "words": [
+          "odeur",
+          "nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5491a926-f0e8-5521-a856-c84f503dedda",
+        "value": "Juv .Objets en forme de coquilles , ou faits de coquilles : salière , coupe à boire , petite boîte à parfums .« [ Plin .",
+        "words": [
+          "parfums",
+          "boîte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/54998bef-44a5-526f-8497-b81dfae838c7",
+        "value": "Col .Brûler de bonnes odeurs dans le cellier .— sulfure lanam .",
+        "words": [
+          "bonnes",
+          "odeurs",
+          "cellier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/553c6010-bf6c-5713-96d2-a06d7fe568f2",
+        "value": "Plin .Amome , plante odoriférante de l ' Orient dont les Romains liraient un baume .âmôr , ôris ( Arch .",
+        "words": [
+          "odoriférante",
+          "plante",
+          "Amome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5584bdc5-1c5f-539b-815b-1c02c5250f92",
+        "value": "Cic .Air empesté ; insalubrité , contrée malsaine .Pestilentiie possessores .",
+        "words": [
+          "Air",
+          "empesté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/559adb06-0554-5d32-bc1a-0e009dcd43f8",
+        "value": "411 ) .Qu ' on peut sentir , odorant .\" \\ Marcell .",
+        "words": "odorant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/55ea814f-27aa-56c3-adf8-ad0e67549312",
+        "value": "Slat .Avoir une ' odeur , sentir .exhârëno .",
+        "words": [
+          "odeur",
+          "sentir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/571d8c5c-eb5f-590b-b638-3b1b33b1b70f",
+        "value": "• [ Plin .De cédrat , arbre odoriférant de l ' Afrique employé dans l ' ébénistene du luxe .Voy .",
+        "words": [
+          "Afrique",
+          "odoriférant",
+          "cédrat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/574a1883-d18e-5529-a254-2be0b72cc392",
+        "value": "Chercher à aspirer un souffle de liberté .^ Emanation , d ' où odeur , parfum ; lumière , éclat ; chaleur ; écho .Dulcis spiravit crinibus aura .",
+        "words": [
+          "parfum",
+          "odeur",
+          "Emanation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/57a27841-c67e-55ad-ae6e-60214ea0025e",
+        "value": "- lsid .Balayure , rebut ; odeur forte , puanteur .lustrâtïo , ônis ( 1 .",
+        "words": [
+          "puanteur",
+          "forte",
+          "odeur",
+          "rebut",
+          "Balayure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/582134a1-1651-5bbb-a14b-fd112bc622a8",
+        "value": "foetôr ( FJETOR et FETOR ) , ôris ( foeteo ) , m .Mauvaise odeur , fétidité , puanteur .Foetores oris emendare .",
+        "words": [
+          "puanteur",
+          "odeur",
+          "fétidité",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5823c25e-2be3-5686-8b19-ca1c8a150843",
+        "value": "Aug .Odeur de cadavre .câdàvërôsus , a , um ( cadaver ) , adj .",
+        "words": [
+          "Odeur",
+          "cadavre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/587f544c-c1b2-516e-ab76-f0724ea092ea",
+        "value": "Pers .Avoir une odeur faible .— color .",
+        "words": [
+          "faible",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/589bf38b-5f05-52bc-bca8-6c81f0056c2e",
+        "value": "Rive émaillée de roses .— oleum .Musc , ( gynaec .",
+        "words": "oleum"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/58c5cd50-42ee-5915-b94d-df8ea824ebd3",
+        "value": "Aug .Nauséabond , qui exhale une mauvaise odeur , fétide .grâvëôlentïa , x ( graveolens ) , f .",
+        "words": [
+          "mauvaise",
+          "fétide",
+          "odeur",
+          "Nauséabond"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/59ffd420-d384-5a55-9915-17c04e314edb",
+        "value": "SU .La terre qui répand de noires vapeurs .Quo sesluanlia vina suspirent .",
+        "words": [
+          "vapeurs",
+          "noires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5c7c3cee-f866-5b61-81d4-845cef3b5e1d",
+        "value": "Ptôi .Vjn parfumé avec de l ' aunée .Nectenebis .",
+        "words": [
+          "parfumé",
+          "aunée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5ce2c107-f717-566e-9c05-8eece67a0861",
+        "value": "Embaumer ( les morts ) .\" { Assaisonner , relever , parfumer .— fungos , herbas .",
+        "words": [
+          "parfumer",
+          "Assaisonner"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5d48aa02-e3dc-55be-8a3a-9e16a77bcb78",
+        "value": "Vulg .Sentir une odeur suave .Non odorantur .",
+        "words": [
+          "suave",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5dcf066c-8133-59fb-b500-cd1d3e23067d",
+        "value": "Virg .Meute de chiens à l ' odorat subtil .1 Plur .",
+        "words": [
+          "subtil",
+          "odorat",
+          "chiens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/5f9fbf40-5072-5e88-852b-59526d68ba3a",
+        "value": "( spiro ) , m .Souffle , vent , exhalaison , émanation , odeur .— unguenti suavis .",
+        "words": [
+          "odeur",
+          "vent",
+          "exhalaison",
+          "Souffle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/60594e8f-9bfe-5dde-bb84-7f7347fbbc25",
+        "value": "Plin .L ' odeur de l ' oignon qui fait pleurer .— fumus .",
+        "words": [
+          "odeur",
+          "oignon",
+          "pleurer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6166c193-2983-5af0-9ae0-418110d0de58",
+        "value": "Plin .Odeur très violente .^ Fig .",
+        "words": [
+          "Odeur",
+          "très violente"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/62823039-be79-5559-add1-ea28695fd958",
+        "value": "Fronto .ExIiMcr de loin une odeur ; se faire sentir de loin .* praeôlo , ire , intr .",
+        "words": [
+          "odeur",
+          "de loin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/631e77e8-5127-5e16-8ec8-54adad389fd6",
+        "value": "Plaut .Aisselles qui sentent le bouc .* hircïpës , pëdis ( hircus et pes ) , adj .",
+        "words": [
+          "bouc",
+          "sentent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/63780413-a632-5ef1-9bd5-e4943ff91d3b",
+        "value": "- à - d .impression douloureuse , sensation brûlante , saveur acre , piquante ; action de la rouille qui ronge .î ( Au fig .",
+        "words": [
+          "acre",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/64a13ec8-2874-5db9-92dd-075d48c0ef1d",
+        "value": "Inscr .Suave , odorant , parfumé .Neutr .",
+        "words": [
+          "parfumé",
+          "odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/654d34b3-d4ee-5d0f-a2c1-9f035802ce35",
+        "value": "Ne rien dénoter d ' étranger .^ Se faire connaître par son odeur , se trahir , se laisser deviner .Aurum huic olet .",
+        "words": [
+          "odeur",
+          "son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/66994f0b-8b7e-588e-afc9-1a9cab2b16a6",
+        "value": "Stat .Odeur enivrante ( du vin ) .Subst .",
+        "words": [
+          "vin",
+          "Odeur",
+          "enivrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/66997532-dc59-5e4b-92ed-df756908f6cd",
+        "value": "Plin .Parfum de Chypre , huile parfumée de troène ou de souchet .1 .",
+        "words": [
+          "Chypre",
+          "parfumée",
+          "Parfum",
+          "troène",
+          "souchet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/670b33e0-0f38-5e7d-8cc1-1105251495af",
+        "value": "Hor .Relever par un noeud des cheveux parfumés de myrrhe .^ Contenir .",
+        "words": [
+          "myrrhe",
+          "cheveux",
+          "parfumés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6870c4e2-2e19-5dfe-adc1-f24cd0b9bf5d",
+        "value": "- Emp .Parfum extrait du castor .1 .",
+        "words": [
+          "Parfum",
+          "castor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/68a82087-1f09-5c65-ae8e-1b088897dfff",
+        "value": "Plin .Plante d ' Egypte , espèce d ' arôme .ôfella , s ( offa ) , f .",
+        "words": [
+          "arôme",
+          "Plante d ' Egypte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/68e10597-c76e-5af0-8a21-f55d17d78dc9",
+        "value": "Cic .Libations magnifiques de vin et de parfums ( faites sur un tombeau ) .respersus , M Abl .",
+        "words": [
+          "vin",
+          "parfums",
+          "tombeau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/694328eb-16a5-5ec4-9772-db78e1a84e65",
+        "value": "L ' arbre laisse son fruit s ' épanouir en ombre ( accroît son feuillage au détriment du fruit ) .Des feux s ' exhalent de temps à autre .Exspirant unguenta .",
+        "words": [
+          "exhalent",
+          "de temps",
+          "autre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6a17a948-cb9c-58e6-bb74-2f6db9b33015",
+        "value": "Virg .Elle parfuma d ' ambroisie tout le corps de son fils .— nomen .",
+        "words": [
+          "corps",
+          "ambroisie",
+          "parfuma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6b4deb60-12c2-5a5d-a575-e287ed9c56f8",
+        "value": "Suet .L ' odeur de moisi qu ' exhalent les termes surannés .1 .",
+        "words": [
+          "odeur",
+          "moisi",
+          "exhalent",
+          "termes surannés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6b8c6067-8b79-5931-86aa-b63d6de231e7",
+        "value": "Claud .Air empesté .— vitiis civitatem .",
+        "words": [
+          "Air",
+          "empesté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6b976567-8e7a-5f74-9ee8-d5054d73ed7e",
+        "value": "Isid .Devenir fétide , se corrompre .* foetïdo , are ( foelidus ) , tr .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6c6375bc-0539-54f5-970b-f12dc41a1c8c",
+        "value": "Plin .Balsamique , ' qui a l ' odeur du baume .balsamum , i ( j3iXa2p .",
+        "words": [
+          "odeur",
+          "baume",
+          "Balsamique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6c8838da-9593-5d39-b8f5-bdaab4dd32f7",
+        "value": "Plin .Pierre précieuse inconnue , à odeur de myrte .* \\ Plin - Variété de la plante appelée tithymallus .",
+        "words": [
+          "odeur",
+          "myrte",
+          "Pierre précieuse inconnue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6c95d3b4-8ce0-597b-ac07-ed0e0589ebe9",
+        "value": "Cato .Vin ' parfumé d ' origan .ôrïgànôn et ôrïgànum , i ( ôpEÎÏKVOV , ( ôpEÎÏKVOV , n .",
+        "words": [
+          "parfumé",
+          "origan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6ce5f01d-aa66-5b69-bb60-60597fd9bbd6",
+        "value": "|Lucr .Odeur agréable .nectârëa ( NECTARIA ) , se ( s .",
+        "words": [
+          "agréable",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6e28e990-7efd-57d2-9e52-676de5b4c28d",
+        "value": "Plin .Les roses exhalent un parfum .Emissa de .",
+        "words": [
+          "parfum",
+          "roses",
+          "exhalent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6ed95bea-57ed-56ba-a4fb-7e7c03711f66",
+        "value": "Pall .Fumer ( en pari , des exhalaisons de la terre ) .Potor Mosellx Tiberim ruclas .",
+        "words": [
+          "terre",
+          "exhalaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6f806406-623b-5df8-acae-513d47910357",
+        "value": "Mart .De bouc , qui a une odeur de bouc .Absolt .",
+        "words": [
+          "odeur",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6fcb1faa-50d7-5aaa-8d3a-dc297bf05a86",
+        "value": "Titin .Légèrement parfumé .ôbunctus , a , um ( ob , ungo ) , adj .",
+        "words": [
+          "parfumé",
+          "Légèrement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/6fd994f7-1ed4-5640-81ab-7b9ae6aaa350",
+        "value": "Plin .Millepertuis odorant .♦ trâgizo ( Infin .",
+        "words": "odorant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7028f345-9ed5-50fc-a84c-4098834bec4c",
+        "value": "Plin .Sorte de jonc odorant .Teucrïa , s , f .",
+        "words": [
+          "odorant",
+          "jonc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/708325c0-5e71-5c27-8c5d-a9a8cf34ae0f",
+        "value": "Plin .Corriger une haleine fétide .Fig .",
+        "words": [
+          "fétide",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/72210c2f-e2ae-56ad-9071-2be88ceaee6a",
+        "value": "Hor .L ' odeur ( de la graisse ) me fait porter le - nez au vent ( pour flairer ) .Supinantur jugi devexa .",
+        "words": [
+          "odeur",
+          "graisse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/72533bb7-5f78-5983-9447-f37f2938f21b",
+        "value": "Plin .Panchaïé , contrée de l ' Arabie Heureuse , abondante en parfums , et surtout en encens .* panenrestarïus ( PANCHRISTARIUS ) , ïi ( panchrestus ) , m .",
+        "words": [
+          "encens",
+          "parfums",
+          "Arabie",
+          "Panchaïé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7392a559-9b5f-5f1c-92bc-c81e6ffd9a05",
+        "value": ") Mart .Vase à plusieurs ouvertures pour faire une pluie de parfums .7 Cic .",
+        "words": [
+          "parfums",
+          "Vase"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7415a433-1783-5c95-91ef-51a94c5bce15",
+        "value": "Plin .Hièble , sureau , plante à odeur forte .Actseon , ônis fAx - ra - iav ) .",
+        "words": [
+          "forte",
+          "odeur",
+          "sureau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/751d261a-7c16-5448-92cd-4191a06bebec",
+        "value": "- Inscr .Essence , parfum , huile parfumée ( dont on se servait pour se parfumer le corps et les vêtements , aux bains comme à table , et aussipour parfumer les morts ) .Unguentis oblitus .",
+        "words": [
+          "huile",
+          "parfumée",
+          "parfumer",
+          "parfum",
+          "corps",
+          "se parfumer",
+          "vêtements",
+          "parfumer les morts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/754c3ebd-3549-5d0b-803e-75b18fa7cf1e",
+        "value": "— unguentis .Cic Etre luisant de parfums .Mra nilent usu .",
+        "words": [
+          "parfums",
+          "luisant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7592e2b1-13ad-5c8e-b513-7dec6a9ec789",
+        "value": "- Vlacid .Etre rance , sentir mauvais .^ Au fig .",
+        "words": [
+          "mauvais",
+          "rance",
+          "sentir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/763aa69c-3f0d-512c-b4ab-43047ee43909",
+        "value": "Salv .Fleuri , éclatant , qui exhale l ' odeur des fleurs .* f Prud .",
+        "words": [
+          "odeur",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/77852764-ce96-58ea-81e8-dc8a1bb588fa",
+        "value": "Taps .Bonne odeur .* bënëplàcëo , ûi , ïtum , ëre , intr .",
+        "words": [
+          "odeur",
+          "Bonne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/77e7aae7-ecc1-5dc1-b1bc-a2832321ba1e",
+        "value": ") .Légèrement parfumé .^ Subst .",
+        "words": [
+          "parfumé",
+          "Légèrement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/787ac92c-35a3-5ac7-8213-cb2f472e7450",
+        "value": "Inscr .Aspersion ' de parfums ( dans le cirque et dans le théâtre ) , pluie d ' eaux de senteurs .( Au plur Sen .",
+        "words": [
+          "parfums",
+          "eaux",
+          "théâtre",
+          "cirque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7931460b-d002-571b-b92d-286965a23e39",
+        "value": "Citronnier , i Plin .Cédrat , arbre d ' Afrique dont le bois est parfumé ( Thuia orientalis de Linné ) .cïtus , a , um ( cieo ) , p .",
+        "words": [
+          "bois",
+          "parfumé",
+          "arbre",
+          "Cédrat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/793217a6-06de-5316-a119-7e36183bb67a",
+        "value": "Virg .Miel parfumé .♦ frâgranter ( frâgrans ) , adv .",
+        "words": "parfumé"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7a5032a1-c1ce-5fd9-b828-ec9609f7b46d",
+        "value": "52 , 19 ) .Brûle - parfums , cassolette .- * thymïâmatizo , are ( thymiama ) , intr .",
+        "words": [
+          "parfums",
+          "cassolette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7ae6579c-73a9-5da0-9576-8358a3fec28e",
+        "value": "Plin .Mauvaise odeur .— telrum .",
+        "words": [
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7b4b64d6-bf7f-51d8-b9eb-136749deee6d",
+        "value": "Virg .Un souffle parfumé s ' exhala de sa chevelure .Aura bona fioris .",
+        "words": [
+          "parfumé",
+          "chevelure",
+          "souffle parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7bfb3384-2ed4-53c5-98f2-60892f1ecbdf",
+        "value": "Paul , ex Fest .Parfumé d ' essence de cédrat .cïtrum , i ( citrus ) , n .",
+        "words": [
+          "Parfumé",
+          "essence de cédrat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7cbec772-638b-5192-a39d-defc8cc41cf9",
+        "value": "IV , 250 .) Parfum des dieux .^ Boisson délicieuse ; toute chose douce et agréable .",
+        "words": [
+          "Parfum",
+          "dieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7e002fcb-5731-538c-a213-dc17d66af466",
+        "value": "hid .Mauvaise odeur .* ôlax , âcis ( oleo ) , adj .",
+        "words": [
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7e17b1ec-04a4-502a-a6eb-94fd7386cf10",
+        "value": "Plin .Espèce de trèfle à longues feuilles et à odeur de bitume , vraisembl .psoralier .",
+        "words": [
+          "odeur",
+          "bitume",
+          "trèfle à"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7f35ae45-d013-5c82-aada-70651e3c9faa",
+        "value": "Plin .Exhalaison , haleine , f Cic .Pall .",
+        "words": [
+          "haleine",
+          "Exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/7f5b1a24-a158-5d83-9485-5e0f157fd0ab",
+        "value": "Sueur provoquée par le bain chaud .Jusqu ' à ce qu ' elles ( les cantharides ' i soient asphyxiées par la fumée .Exhalalio vaporata .",
+        "words": [
+          "fumée",
+          "cantharides",
+          "asphyxiées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8036612c-4346-514a-96a2-cb4b1bccb7b8",
+        "value": "Macr .Parfums aromatiques .1 Apul .",
+        "words": [
+          "aromatiques",
+          "Parfums aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/80a9b46c-eaa8-53fd-a8fd-53ba601395e4",
+        "value": "Tibull .Que ses tempes répandent une odeur de nard .*Tr .",
+        "words": [
+          "odeur",
+          "nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/81b863fa-315b-5710-8d71-4c6224923da4",
+        "value": "Lucr .Rance , pourri , fétide .* rancesco , ère ( ranceo ) , intr .",
+        "words": [
+          "fétide",
+          "pourri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/81d9da7a-25cd-56b6-9a24-b44d393085db",
+        "value": "Aug .Vase ou boîte à parfums .Plin .",
+        "words": [
+          "parfums",
+          "boîte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8243a270-6a9a-54f9-96c9-9ba05a104b5b",
+        "value": "Mart .Saveur piquante .^ Au mor .",
+        "words": [
+          "piquante",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/834644b5-a2d5-5a1f-889f-816814903819",
+        "value": "- Aur .Qui a une odeur de brûlé .nîdûlor , âri ( nidulus ) , intr .",
+        "words": [
+          "odeur",
+          "brûlé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/839f3b18-b684-5346-a228-02dd4111e595",
+        "value": "Plin .Saveur piquante .Acumina dolorum .",
+        "words": [
+          "piquante",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/875e2eef-73ac-550c-98bb-f6c3e5aa394b",
+        "value": "( xxiv , 19 , 184 ) .Millepertuis odorant ou fenugrec * Telis , idis , f .Inscr .",
+        "words": [
+          "odorant",
+          "fenugrec",
+          "Millepertuis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/88536486-0466-5f44-afec-1e6a305b5246",
+        "value": "Ambr .Le fruit parfumé de la religion .1 Qui produit des parfums .",
+        "words": [
+          "parfumé",
+          "religion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8a62ef40-f68c-5b84-9aa8-73380704065d",
+        "value": "Pers .Exhalaison fétide ; pestilentielle .^ Tac .",
+        "words": [
+          "fétide",
+          "pestilentielle",
+          "Exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8a98e036-3962-5008-b378-979712526278",
+        "value": "Claud .Le soufre puant .* [ Qui a l ' odorat fin .",
+        "words": [
+          "puant",
+          "soufre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8b171a3e-2749-5f68-994e-9d9df48507dd",
+        "value": "Lucr .Saveur aroère de l ' eau de mer .Vlp .",
+        "words": [
+          "eau de mer",
+          "Saveur",
+          "aroère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8bd71d05-3249-5c8b-9288-96a0785a6ac2",
+        "value": "Sid .De parfum , relatif aux parfums .Tabernam unguentariam exercere .",
+        "words": [
+          "parfum",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8be099f3-2446-5d1f-967a-d543e86f5485",
+        "value": "Plin .Sentir le bouc , avoir une odeur de safran .Ali fig .",
+        "words": [
+          "odeur",
+          "safran",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8d68f666-c657-5a37-9ec3-94f45d07fe3a",
+        "value": "Plin .Grappe d ' une vigne sauvage , que l ' on ne recueille que pour son parfum ou pour des médicaments .1 .",
+        "words": [
+          "parfum",
+          "vigne sauvage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8e99c4da-2421-50a9-806a-8eee58e99a18",
+        "value": "Plaut .Sentir mauvais , puer .1 .",
+        "words": [
+          "mauvais",
+          "puer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8efb935e-cd68-5ad3-bd9a-bdd666d4fe34",
+        "value": "Plin .Faire aux dieux de riches sacrifices ( avec beaucoup d ' encens et de parfums .) Large frequentare locum .",
+        "words": [
+          "encens",
+          "parfums",
+          "dieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8f1ec6ac-408b-5339-87ee-20a5743f0771",
+        "value": "Stat .ë ' exhaler ( en pari , d ' un parfum ) , avoir une odeur .— graviter .",
+        "words": [
+          "parfum",
+          "odeur",
+          "exhaler"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/8fc0210d-2493-5e94-b6cf-a37b2ce7ddbb",
+        "value": "Prise ) , ère , intr .Etre odorant , avoir une certaine odeur , sentir .Anima redolens .",
+        "words": [
+          "odorant",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/903b669f-fab4-58d8-b469-f22ac1b415c4",
+        "value": "Juven .Sentine puante .Mullus gravis est .",
+        "words": [
+          "puante",
+          "Sentine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/90613ad2-ed18-53cc-b682-889ec2fdd3b0",
+        "value": "Aug .Mauvaise odeur , puanteur ( au prop .et au fig .",
+        "words": [
+          "puanteur",
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9081b3e9-5b08-5b40-9817-5ace187e69d6",
+        "value": "Aug .Exhaler un parfum délicieux .frâgum , i , ordin .",
+        "words": [
+          "parfum",
+          "délicieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/908fc7e4-b028-5253-87a4-d2039bc064bc",
+        "value": "Plin .Plante à racine odorante , de laquelle on extrayait un parfum ( peut - être la gantelée ou ladigitale pourprée ) .Baccanas , arum , f .",
+        "words": [
+          "odorante",
+          "parfum",
+          "pourprée",
+          "ladigitale",
+          "gantelée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/91e73a8e-92e6-5efe-bd7c-58a2754cc6d2",
+        "value": "Apul , Essence odorante .Incendere odores .Cic .",
+        "words": "odores"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/948912af-96be-56da-a338-f6b9405bd967",
+        "value": "- Maur .Plein d ' un parfum d ' atticisme .Thyneus ( THYNN ^ US ) , a , um ( Thyni ) , adj .",
+        "words": [
+          "parfum",
+          "atticisme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9568ffde-28d2-517e-a159-b1f5192fec64",
+        "value": "Sen .L ' odeur du soufre sentie plusieurs fois amène le délire .Alienatse discordia mentes .",
+        "words": [
+          "odeur",
+          "soufre",
+          "plusieurs fois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9616bcec-1aa0-5d18-a2e1-0335c1be2169",
+        "value": "Plin .Sorte de pierre précieuse ayant la couleur et le parfum de la myrrhe .àrômâtizo , are ( àptoiia - csÇio ) , intr .",
+        "words": [
+          "parfum",
+          "myrrhe",
+          "pierre précieuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9688d9a9-98f7-56ea-bab3-9bf04f5856da",
+        "value": "Hier .Anelh , plante odoriférante .* ânëthus , i , m .",
+        "words": [
+          "odoriférante",
+          "Anelh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/96e3c13a-ba0c-5cac-9e39-167f98f267bd",
+        "value": "Stat .Remplir d ' encens , parfumer .|Plin .",
+        "words": [
+          "parfumer",
+          "encens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/97552ee2-dd32-52ee-929b-2fa4bdde5bbd",
+        "value": "Tert .Qui a perdu sa mauvaise odeur .* expdus , i ( ïÇoSoç ) , f .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "sa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/99272d00-6112-5225-a8f7-3198d50fb8c2",
+        "value": "Luc .Aurone , plante aromatique .abrumpo , is , rûpi , ruptum , ère ( ab , rumpo ) , tr .",
+        "words": [
+          "aromatique",
+          "plante aromatique",
+          "Aurone"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9932c547-979d-538b-a4ac-6d7f478a349f",
+        "value": "Apul .Sucs du baume , ^ parfums dont on se servait pour arroser les rues ( dans les noces , les funérailles ) .Balsanus , a .",
+        "words": [
+          "parfums",
+          "baume",
+          "rues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9a1ce073-15fe-5704-8cbb-acce2fbe9d72",
+        "value": "Plin .^ Marchand de parfums , parfumeur .|UNGUENTARIA , x , il .",
+        "words": [
+          "parfums",
+          "parfumeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9a304604-308c-565f-9ad9-9310666f3c01",
+        "value": "Plaut .D ' où vient cette odeur de parfums ? 2 .âdôleo ( mêmes formes ) , de ad et oleo , « grandir » .",
+        "words": [
+          "odeur",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9a4aef32-e1a5-5778-880e-66a42623ccfc",
+        "value": "Vulg .Exhaler une odeur aromatique .âron ( ARUM ) , i ( apov ) , n .",
+        "words": [
+          "aromatique",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9b5c5e1a-be11-5f65-bcce-09c26ed5e1aa",
+        "value": "- Aur .Onguent aromatique .dïâbâthràrïus , ïi ( diabathrum ) , m .",
+        "words": [
+          "aromatique",
+          "Onguent aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9b7436ce-5d5c-5508-aae9-888d7dba38c7",
+        "value": "Genre de prononciation rude à l ' oreille .Herba odoris asperi .Plin .",
+        "words": [
+          "odoris",
+          "Herba",
+          "odoris asperi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9ba2cd39-70f1-56af-aae9-461103b77190",
+        "value": ") .Parfum suave .suavillum .",
+        "words": [
+          "suave",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9bae0c40-a8c2-53b6-b7c5-3bd452f1ecbe",
+        "value": "Plin .Suc vénéneux du carpathum .D .",
+        "words": [
+          "vénéneux",
+          "carpathum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9bc84417-dcd3-5e87-9fcc-f7503003cd1a",
+        "value": "Plin .Préparé avec des fleurs , parfumé .Anthium , ïi , n .",
+        "words": [
+          "parfumé",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9d9281e0-f2d2-534d-8074-bf830e5d42ac",
+        "value": "Apul .Odeur d ' une chose rôtie ou brûlée , odeur de graillon .— culinse .",
+        "words": [
+          "odeur",
+          "Odeur",
+          "graillon",
+          "chose rôtie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9f2b8692-b072-5e36-acf8-424ebda4e372",
+        "value": "- Val .Substance astringente ( qui sert à épaissir et à resserrer les essences , afin qu ' elles gardent mieux et plus longtemps leur parfum ) .* stymmâticus , a , um ( < rruu .",
+        "words": [
+          "parfum",
+          "elles",
+          "astringente",
+          "essences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/9f3987c1-91a6-5c45-8f19-9b50436fde70",
+        "value": "127 , 3 ; 130 , 19 ) .Musc ( animal dont la peau était très recherchée pour les fourrures à cause de son parfum ) .* \\ ( T .",
+        "words": [
+          "parfum",
+          "peau",
+          "animal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a01739f4-adb1-5cac-b548-048d07fec761",
+        "value": "Gell .Le parfum des fleurs .| Air , atmosphère .",
+        "words": [
+          "parfum",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a0326cbb-08f6-5b60-bde4-dbeb5df94f60",
+        "value": "Prop .Huile parfumée , essence , parfum .oïla , s , f .",
+        "words": [
+          "parfumée",
+          "parfum",
+          "essence",
+          "Huile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a06b9d37-16bb-55e4-8fa6-628b01722267",
+        "value": "Prop .Huile , parfum de nard .nâres , ïum .",
+        "words": [
+          "parfum",
+          "nard",
+          "Huile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a11e06e7-f807-54e1-ad36-ca2e60d74057",
+        "value": "Col .Guérir les abeilles avec l ' odeur du galbanum .— vulneris sestus .",
+        "words": [
+          "odeur",
+          "abeilles",
+          "galbanum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a1344fd0-8a91-5178-8b3d-24d5498cd590",
+        "value": "96 ) .Sorte de myrrhe ; ( parfum ) .Trôglôdytae , ârum ( TpuYA ° S ' JTat ) , m .",
+        "words": [
+          "parfum",
+          "myrrhe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a1ab2f4a-49d8-51e9-8088-ee06fee8478b",
+        "value": "Vomir des flots de sang .— odorem de corpore .Luc .",
+        "words": [
+          "odorem",
+          "corpore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a1dc375d-fbbb-5ca6-95ce-610b779206ed",
+        "value": "Col .Parfumer le miel .^ Flairer , sentir .",
+        "words": [
+          "Parfumer",
+          "miel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a1f68ff8-c8ec-5cfb-a294-34172a708106",
+        "value": "Plin .Parfums falsifiés , vendus dans la rue Séplasia .2 .",
+        "words": [
+          "Parfums",
+          "falsifiés",
+          "rue Séplasia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a269b61c-8846-58f0-a635-865e188c8e41",
+        "value": "Plin .Vin aromatique , assaisonné de poivre et de miel .2 .",
+        "words": [
+          "Vin",
+          "aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a26f68d9-f9ad-5ab2-85b2-0dd9df6d214f",
+        "value": "Plaut .Sentir bon , sentir mauvais .— nihil .",
+        "words": [
+          "bon",
+          "mauvais",
+          "sentir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a2ba028b-dafa-595d-b08a-9dc3933185ec",
+        "value": "Nez eamard .|Nez , odorat .Nasus Mis nullus erat .",
+        "words": [
+          "odorat",
+          "Nez"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a3028630-62a6-518f-84fc-54bc4dedccaf",
+        "value": "- Iren .Exhalaisons des parfums .* suâvëôlentïa , se ( suaveolens ) , S .",
+        "words": [
+          "parfums",
+          "Exhalaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a3920c04-2845-58e3-8c11-dfc987995f66",
+        "value": "ex .) ; saveur acre et piquante .mordâcïtër ( mordax ) , adv .",
+        "words": [
+          "acre",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a4036509-74aa-5e84-8e9b-b95101c9cb6a",
+        "value": "Plin .Odeur faible .Dilutior defecius .",
+        "words": [
+          "faible",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a40e582a-ca57-55a3-9ae0-f3513cc88d93",
+        "value": "4 , 22 ) .Hrûle - parfums , cassoletie .thymïnus , a , um ( thymum ) , adj .",
+        "words": [
+          "parfums",
+          "cassoletie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a51e92bd-1cab-596b-95e1-b1adf35f5523",
+        "value": "1 .MURRA ( parfum ) ._ myrrhitis .",
+        "words": [
+          "parfum",
+          "MURRA"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a6a3ef2d-2ff7-5fb4-a6cd-9a7a9b756ff9",
+        "value": "tr .Cheveux parfumés ( luisants ) .— collum .",
+        "words": [
+          "parfumés",
+          "Cheveux",
+          "luisants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a75c5d2e-71c5-5e08-8ad4-4dde94f802fd",
+        "value": "Catull .Exhaler une odeur suave .Acahtkus ridens .",
+        "words": [
+          "suave",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a76f58da-36af-511f-a9d5-87532a73fe1f",
+        "value": "Arbre de Carmanie .qui produit une résine odoriférante .stoebê , es ( o - ioiër , ) , f .",
+        "words": [
+          "résine",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a872dd2b-bac4-5535-801d-f69c5b912b01",
+        "value": "Rufin .Parfum , bonne odeur .^ Au fig .",
+        "words": [
+          "bonne",
+          "odeur",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a904867c-19c9-550f-8d97-4502e8f2b120",
+        "value": "Qui a les sens subtils ; partie .qui a l ' odorat subtil .— canis .",
+        "words": [
+          "subtil",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/a96d68cf-0fc1-57d0-9dac-19e7d354a0e5",
+        "value": "Plin .Plante aromatique inconnue .* sërïcoblatta ( SËRÏCABLATTA ) , x ( sericus , blatta ) , î .",
+        "words": [
+          "aromatique",
+          "aromatique inconnue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/aa4c7b59-5b45-5a93-8ac7-0a19d6e4dab6",
+        "value": "dig .Sorte de plante aromatique .♦ pentastïchôs , ôre ( ir £ VTâiruxoç ) , adj .",
+        "words": [
+          "aromatique",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/aac1e75c-d11d-5a82-ae82-504df69feb64",
+        "value": "Suet .La puanteur du cerveau en putréfaction .|( Par ext .",
+        "words": [
+          "puanteur",
+          "cerveau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/abc27cbc-1982-5d7b-959d-13d8ff6b6808",
+        "value": "T Vitr .Souffle , haleine , exhalaison , odeur .— venti .",
+        "words": [
+          "odeur",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ac192a03-93db-517d-83df-afc8dbade5ae",
+        "value": "Cic .Parfums d ' une odeur agréable et très pénétrante .Naribus acres canes .",
+        "words": [
+          "agréable",
+          "odeur",
+          "très pénétrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ad60e732-9751-591d-9652-445b1232cb93",
+        "value": "Sid .Jonc , roseau ( dont les Romains se servaient pour aromatiser le vin ) .|( Méton .",
+        "words": [
+          "roseau",
+          "Jonc",
+          "aromatiser"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ad8c6d0d-d922-5e93-b534-4e12ba90ff53",
+        "value": "Cic .Brûler de l ' encens et des parfums .— lychnos .",
+        "words": [
+          "encens",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ade8a05c-2ff6-5b4b-8764-4d37a021f7dd",
+        "value": "La feuille prudente du laurier .( Les anciens la mâchaient après avoir bu , pour dissimuler l ' odeur du vin .) Au pi .",
+        "words": [
+          "odeur",
+          "vin",
+          "anciens",
+          "après avoir bu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ae0a2947-ffa3-5c39-8679-e64e6ef6e7bc",
+        "value": "Scrib .Bois épineux et odorant ( vraisembl .bois de rose ) , Aspârâgïum , ïi , n .",
+        "words": [
+          "odorant",
+          "Bois épineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ae81f128-59f8-5181-abc4-b49e0f58da37",
+        "value": "Aus .Séplasia , rue de Capoue , où l ' on vendait des parfums .Fraus Seplasix .",
+        "words": [
+          "parfums",
+          "rue de Capoue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/af3b4fc9-09aa-525f-9f00-5329e8cc2071",
+        "value": "Scrib .Relatif aux couleurs , au fard , aux parfums .— instilor .",
+        "words": [
+          "parfums",
+          "couleurs",
+          "fard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/afc7b9be-7d39-5a2f-a26e-41d3996e0a0d",
+        "value": "Sen .Exhalaison des cuisines .^ ( Fig .",
+        "words": [
+          "cuisines",
+          "Exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b0f5baa5-2564-52ec-8143-b4d9062dbf58",
+        "value": "Lucr .Comme sentent \" les cadavres .Wouo — .",
+        "words": [
+          "cadavres",
+          "sentent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b108e8e9-dc5d-52ed-a3f5-8ab565f96f83",
+        "value": "fragro , are , intr .Exhaler une odeur forte et suave .Fragrantes thymo colles .",
+        "words": [
+          "suave",
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b1bb77c5-4457-5adf-9c60-a863ad4188b8",
+        "value": "Plin .Le suc de l ' euphorbe a une odeur repoussante .Redundantiam aures faslidiunt .",
+        "words": [
+          "odeur",
+          "repoussante",
+          "euphorbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b20dfc94-355c-522c-9609-15923a109c7d",
+        "value": "( ô % u > ) , m .Odeur , odeur bonne ou mauvaise .Odorem trahere naribus .",
+        "words": [
+          "mauvaise",
+          "bonne",
+          "odeur",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b2849c9e-e372-5d42-9eb9-77bdd301e40b",
+        "value": "Hor .Aspirer le parfum de l ' encens .— aeraspiritu .",
+        "words": [
+          "parfum",
+          "encens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b2950c7a-0494-567b-880e-3bd1c5356a98",
+        "value": "Cic ) .Action d ' oindre , d ' embaumer ( un cadavre ) .1 .",
+        "words": [
+          "embaumer",
+          "cadavre",
+          "oindre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b39fa9f8-1c34-52db-8517-0360c89f7d64",
+        "value": "Mart .Parfum composé par Cosmus .cosmïcos , on ( xoo - p / .",
+        "words": [
+          "Parfum",
+          "Cosmus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b44f7aa9-af23-5c8a-bb0a-c9b0131a2140",
+        "value": "Ov .Fumée qui s ' exhale d ' une substance brûlée , fumigation , parfum .* suff îmento , are ( suffimentum ) , tr .",
+        "words": [
+          "parfum",
+          "substance brûlée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b50c4f7b-dc2c-51c1-8a51-cc550da7df7c",
+        "value": "Plin .Marum , herbe odorante .Mârônëa et Mârônîa , as ( MapwvEia ) , f .",
+        "words": [
+          "odorante",
+          "herbe",
+          "Marum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b62a4eda-610a-5f8e-8e55-695db41c59cc",
+        "value": "Aug .Qui a une \" bonne odeur .rëd - ôleo , fit ( Parf .",
+        "words": [
+          "bonne",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b76c6661-b31b-52fd-8c13-d6a099413c8d",
+        "value": "Calull .Exhalant le parfum d ' Assyrie .Avec l ' Ace .",
+        "words": [
+          "parfum",
+          "Assyrie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b8cefc7e-681a-5bd2-8627-ee0417bf9f9d",
+        "value": "Symm .Avoir besoin de humer l ' air .( Au fig .",
+        "words": [
+          "air",
+          "humer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b8d57b80-f5bc-52ff-9bb4-460dbcc3f9d8",
+        "value": "ôdoro , âvi , âtum , are ( odor ) , tr .Rendre odorant , parfumer .— aéra fumis .",
+        "words": [
+          "parfumer",
+          "odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b9665c70-dfaf-5e1d-adb5-f7f76f7204ad",
+        "value": "Aer pennse .Luc Odeur d ' une plume .1 .",
+        "words": [
+          "plume",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ba4ab569-bf1e-5654-9902-e541d3db7e03",
+        "value": "Th .- Prise Acreté , odeur acre .| Intpr .",
+        "words": [
+          "acre",
+          "odeur",
+          "Acreté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ba5ce81f-ae1c-5974-bf4d-88b80541bb2f",
+        "value": "Scrib .Marchand de couleurs , de fard ou de parfums .2 .",
+        "words": [
+          "parfums",
+          "fard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ba8c80cf-39fb-5267-9e48-f2696a38adc1",
+        "value": "Hor .Le bouc fétide .Gravis sentina .",
+        "words": [
+          "fétide",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/badf169d-6712-56e2-83fe-400512f2cad8",
+        "value": "Plin .Ozène , sorte de polype à l ' odeur infecte .\\ Plin .",
+        "words": [
+          "infecte",
+          "odeur",
+          "Ozène",
+          "sorte de polype"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/bb432dd4-3660-5bf2-affb-d88afa88b6c3",
+        "value": "Tibull .Parfum de Syrie .— Arabus .",
+        "words": [
+          "Syrie",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/bbb363bb-c25b-576e-ac79-5220859fe622",
+        "value": ") Scrib .Qui dessèche , desséchant , dessiccatif .sic - dum , adv .",
+        "words": [
+          "desséchant",
+          "dessiccatif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/be39b081-3dd3-5b42-b4af-116b746dbde9",
+        "value": "^ ( Fig .) Parfum ; vent , air , soupçon .— est nonnullus dictaturs .",
+        "words": [
+          "air",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/be6055db-9d2a-5c81-805d-764b1bc058d7",
+        "value": "Plin .Qui tue les souris et les rats , sorte d ' aconit qui passe pour tuer les souris par son odeur .myôpâro , ônis , Ace .",
+        "words": [
+          "odeur",
+          "aconit",
+          "tue les souris",
+          "tuer les souris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/bec9c3ac-b562-594c-931f-8bc8eebcd00f",
+        "value": "Suet .Qui sent mauvais , infect .* ôlïgôcnxônïus , a , um ( ôXtyozpôvioç ) , adj .",
+        "words": [
+          "mauvais",
+          "infect",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c103827e-771b-5839-ad26-f32ac22bb723",
+        "value": "Plin .Agate qui , brûlée , donne ane odeur de myrrhe .^ Ethâlïa , se ( At8aAÎ < x ) , f .",
+        "words": [
+          "odeur",
+          "myrrhe",
+          "Agate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c132646b-fe60-5c7c-a283-464220ff2354",
+        "value": "vet .Plante qui a une odeur d ' ail , scordion ou germandrée .* scordiscârïus , ïi ( scordiscus ) , m .",
+        "words": [
+          "odeur",
+          "ail",
+          "germandrée",
+          "scordion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c21a7b0e-fec8-571a-acff-e7a0ffd50999",
+        "value": "Cic .Odeur agréable .Nihil visum est Mo Pane jucundius .",
+        "words": [
+          "agréable",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c26c4034-ebb6-5d5e-a52e-8b6872ad02ba",
+        "value": "Lucan .La foudre ( à cause de son odeur de soufre ) .+ sulfûrans , antis ( suifur ) , adj .",
+        "words": [
+          "odeur",
+          "soufre",
+          "foudre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c27a3cdc-c9e9-5b58-8fb8-186064c80d13",
+        "value": "Mart .Des cheveux ruissellent de parfums .D ' où le part .",
+        "words": [
+          "parfums",
+          "cheveux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c2850235-ccba-55e7-93fc-5dc43c1ae1bb",
+        "value": "Gell .Très puant , ei fig .très choquant .",
+        "words": [
+          "puant",
+          "Très"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c28962e4-9a94-5248-97e6-3033064d0cc1",
+        "value": "Lucr .Répandre une odeur désagréable .pèrônâtus , a , um ( pero ) , adj .",
+        "words": [
+          "désagréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c310e6c5-a121-5b3a-9c3b-3f1008cef521",
+        "value": "Plin .Basilic sauvage , herbe odoriférante .âcïnosus , a , um ( acinus ) .",
+        "words": [
+          "Basilic",
+          "odoriférante",
+          "herbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c3ca15fa-3d58-5338-830a-fe6153d14385",
+        "value": "( xm , 16 , 100 ) .Thuya , arbre odoriférant .Thyâmis , mïdis , Acc .",
+        "words": [
+          "odoriférant",
+          "Thuya"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c4cede84-eeda-52f6-b9d6-18d687857b3e",
+        "value": "~ Hor .Chevelure - bien peignée , parfumée .^ Cic .",
+        "words": [
+          "parfumée",
+          "Chevelure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c4f38d0a-d363-599e-b547-6fc7a3e2f3df",
+        "value": "Sen ' .Parfumé , embaumé .■ » unguento , âvi , are ( unguenlum ) , tr .",
+        "words": [
+          "embaumé",
+          "Parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c5fc19da-d41a-52eb-b25b-d4ca16dbbfc9",
+        "value": "Plin .Odeur d ' une rose qui ne s ' étend pas loin .Angusta sus .",
+        "words": [
+          "rose",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c61391a1-eabf-5ad2-8b33-7a97504a80b8",
+        "value": "Veg .Pépins ou marc de raisin brillé ( sorte de remède ) , f Sorte de condiment , de parfum .— Coa .",
+        "words": [
+          "parfum",
+          "condiment",
+          "marc de raisin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/c898e3b2-3128-5537-ab96-feaedc15020b",
+        "value": "Virg .Les abeilles ont reçu en elles des émanations ûe l ' ether .|( En partie .",
+        "words": [
+          "émanations",
+          "abeilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/cae15307-5463-5c1a-a73f-6ec4cd623189",
+        "value": "Plin .Suc ' dont l ' odeur est forte .^ Plin .",
+        "words": [
+          "forte",
+          "odeur",
+          "Suc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/cae7ab41-4f66-51df-835e-d0fb9fbb3daf",
+        "value": "^ Lucara .Substance pour embaumer lés mortr .venëo ( VJENEO ) , îvi ou ïi , îrt ( p .",
+        "words": "embaumer"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ceb8b0d3-44bc-5450-800d-e46b66e5c7f1",
+        "value": "( xxvn , 13 , 141 ) .Millepertuis odorant .trâgôpân , panis , Acc .",
+        "words": "odorant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/cf402de0-63e8-55ea-89ef-54e12ffcc15c",
+        "value": "Plin .Caslorinum oleum .Marc .",
+        "words": [
+          "oleum",
+          "Caslorinum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d19190b0-22fc-5d85-870d-a1e39eab6ffc",
+        "value": "- Prisc .Fruit du ben ( balanus ) , myrobolan , noix aromatique et parfum qu ' on en retire .myrôbrëchârïus ( MUROBRECHARIUS ) , ïi ( jj .",
+        "words": [
+          "Fruit",
+          "aromatique",
+          "parfum",
+          "noix"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d33638e6-f8c4-5490-b842-fd34ee657a92",
+        "value": "Thèbes , capitale de la Grèce entière .Saveur fade .( des vins vieux ) .",
+        "words": [
+          "fade",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d3b4cfc0-e3b8-50b5-860b-dedc98a1832c",
+        "value": "Aug .Parfum , aromate .ôdôrârïus , a , um ( odor ) , adj .",
+        "words": [
+          "aromate",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d415daa4-88f7-5c7f-a97d-834abcd16cd2",
+        "value": "Plin .Mastic , résine odorante du lentisque .^ mastïchïnus ou mastïcïnus , a , um ( p .",
+        "words": [
+          "résine",
+          "odorante",
+          "lentisque",
+          "Mastic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d7e1e932-fbb0-5870-a144-e360f919ba5c",
+        "value": "Plin .Parfum , baume .* hëgëmôn , ônis ( yiyep - .",
+        "words": [
+          "baume",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d87a6b64-e818-59b2-9fc4-738cbed7db2c",
+        "value": "Plin .Odeur vineuse .* vinti , adj .",
+        "words": [
+          "Odeur",
+          "vineuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/d953336d-db09-5493-8450-24a53e4024aa",
+        "value": "Plin .Vase , en forme de poire , où l ' on conservait les parfums , les baumes .TFig .",
+        "words": [
+          "parfums",
+          "baumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dabba9ef-98f1-5e36-ad65-56bbf7cba9ec",
+        "value": "Aug .) Fétide , qui exhale une mauvaise odeur .Fig .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "Fétide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dbadc1e3-e95d-5143-ac3a-198f8d91f673",
+        "value": "Plaut .Ces poutres sentent le pourri et l ' humidité .fidelia putet .",
+        "words": [
+          "sentent",
+          "poutres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dbdae299-236e-5fa4-a63b-348da091e48f",
+        "value": "Plin .L ' odeur des feuilles pénètre les étoffes .Morbus transit in eum .",
+        "words": [
+          "odeur",
+          "feuilles",
+          "étoffes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dca63b9f-c1da-5b73-ae8d-d4f14bd5bd79",
+        "value": "\\ ( Méton .) Parfum , essence , aromate ( ordin .au plur .",
+        "words": [
+          "aromate",
+          "Parfum",
+          "essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dce79edb-7c8e-53ce-8d89-c1b17336d85d",
+        "value": "pûtïdus , a , um ( puteo ) , adj .Puant , qui a mauvaise odeur , pourri .— vulnera .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dded387d-f282-5187-8160-daba507755ae",
+        "value": "Col .Pouliot , plante odoriférante .3Fig .",
+        "words": [
+          "Pouliot",
+          "plante odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/de28530c-d1f6-5c46-92c4-fe469d621216",
+        "value": "Des chaussures lâches , qui ne tiennent pas aux pieds .Nares follicantes .Apul .",
+        "words": [
+          "Nares",
+          "follicantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/de5a105a-3342-5b9b-9309-15e16580c226",
+        "value": "Mart .Odeur elfroyable elfroyable cruchon , y \" Cic .Lampr .",
+        "words": [
+          "Odeur",
+          "elfroyable elfroyable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/de5a4002-ea25-5bd6-a983-67efc68c3ac6",
+        "value": "Plin .Ecorce rouge et aromatique d ' un arbre de l ' Inde .mâcôr , ôra ( macer ) , m .",
+        "words": [
+          "aromatique",
+          "arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/dfcd4eaf-d149-5198-91de-75804397d180",
+        "value": "et intr .Avoir une odeur , sentir .— bene .",
+        "words": [
+          "odeur",
+          "sentir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/e1712021-c3d3-5877-80ef-52311f9e891d",
+        "value": "Cels .Baume adoucissant , Jiniment .âcôr , ôris ( aceo ) , m .",
+        "words": [
+          "Baume",
+          "adoucissant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/e4fa9086-fba5-52ac-b34b-d3999cae8c97",
+        "value": "Cassiod .Herbes odoriférantes .— fructus religionis .",
+        "words": [
+          "odoriférantes",
+          "Herbes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/e5e83e33-9540-51d8-be6b-d89a37332fee",
+        "value": "Virg .Exhaler l ' odeur du thym .Avecl ' Acc .",
+        "words": [
+          "odeur",
+          "thym"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/e828787e-2035-5c1e-9a19-6f31fe99d88c",
+        "value": "Cels .Sorte de poires parfumées .9S6 MYR MYR MYS * myrepsïcus , a , um ( jj .",
+        "words": [
+          "parfumées",
+          "poires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/e85d4227-e521-5bba-a75b-81121cc72283",
+        "value": "Ecorce .aromatique qui paraît ' être la cannelle sauvage .^ Virg .",
+        "words": [
+          "aromatique",
+          "cannelle",
+          "cannelle sauvage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/e87122c9-ecd8-5d20-96ac-41c1b67a9d6f",
+        "value": "Plin .Parfum ( dont a recette était déjà perdue du temps de Pline ) el qui avait l ' odeur de la panthère .pardus , i ( TtàpBoç ) , m .",
+        "words": [
+          "odeur",
+          "Parfum",
+          "panthère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ea741de4-fe2d-5684-9785-d6dbef62a449",
+        "value": "Rutil .Qui sent bon , parfumé , T \" Hor .Sen .",
+        "words": [
+          "bon",
+          "parfumé",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/eb326c1e-2a5b-5e7d-8418-e40c5cf9ef3e",
+        "value": "- Aur .Qui donne la nausée ; nauséabond .nausëâbundus et nausïâbundus , a , um ( nauseo ) , adj .",
+        "words": "nauséabond"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/eb6dfc55-0027-5cc3-bd88-d44c5668af52",
+        "value": "Le soufre puant .* [ Qui a l ' odorat fin .Odora canum vis .",
+        "words": [
+          "odorat",
+          "fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/eb98144b-c555-52ef-9baa-fdba1f4aa1f7",
+        "value": "Cic .' Sorte d ' onguent où de parfum , baume .hëdyosmôs , i ( ïi8ôo < rfj .",
+        "words": [
+          "parfum",
+          "onguent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ebed9132-3438-59b9-92bc-6b6a8499c815",
+        "value": "Hor .Echanger des vins contre des marchandises syriennes ( des parfums de Syrie ) .— merces .",
+        "words": [
+          "Syrie",
+          "parfums",
+          "vins",
+          "marchandises"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ec090624-b6a4-5031-b383-121cd3e2beb7",
+        "value": "Plaut .Par - 1014 ODO OECL OENO fum d ' Arabie .Unguen odor .",
+        "words": [
+          "Arabie",
+          "fum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ec882b58-694d-5f4e-81d2-9e6f980c84e2",
+        "value": "Amm .Montagne de la Mauritanie , connue par son bois odoriférant .* ancôrâtus , a , um ( ancora ) , p .",
+        "words": [
+          "bois",
+          "Mauritanie",
+          "odoriférant",
+          "Montagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ed6677f0-b4e7-5e90-913b-10af93fe0c73",
+        "value": "Plin .Anagyros ou bois puant , arbris - , .seau .",
+        "words": [
+          "bois",
+          "puant",
+          "arbris",
+          "Anagyros"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/eda1d33f-6bb1-5da8-855b-f73ffdd4144d",
+        "value": "- Aur .Rendre fétide .foetïdus ( F ^ ETIDUS et FETIDUS ) , a , um ( foeteo ) , adj .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/edd1cdb7-3508-563c-841e-4d4b88b269d3",
+        "value": "Jet .Dont l ' haleine est mauvaise , f ( Fig .) Sentir , trahir , annoncer .",
+        "words": [
+          "mauvaise",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/edd41ea8-93bd-53cd-bbbb-86d90f22b840",
+        "value": "Cic .Parfums doux .Quando annona moderatior ? Vell .",
+        "words": [
+          "doux",
+          "Parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ee11afe7-3f0f-5d15-a52b-943ec0c73c0a",
+        "value": "Plin .Nom indien d ' un arbre , d ' où l ' on retirait Velectrum ou résine odorante , sûuincûlus , i ( sipo ) , m .Plin .",
+        "words": [
+          "résine",
+          "odorante",
+          "Velectrum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/eeba376b-c8c9-52c4-b6b0-dc45815dcad2",
+        "value": "- Ant .) Sentir , exhaler une odeur .Undehicunguenla adolent .",
+        "words": [
+          "Sentir",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/efc555e6-54ce-51c0-b69f-03e26b248b0c",
+        "value": "Apul .Le bois plus odorant des cyprès .^ Du £ ays des parfums .",
+        "words": [
+          "bois",
+          "odorant",
+          "cyprès",
+          "plus odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f0e73fb1-d32d-5a77-adf3-6a28a7e42668",
+        "value": "Plin .Le citronnier a une odeur très pénétrante ; le cognassier aussi dans une certaine mesure .Quâdi , ôrum , m .",
+        "words": [
+          "odeur",
+          "très pénétrante",
+          "cognassier",
+          "citronnier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f4d3d9f2-6e4f-5c5f-a3dd-4cc48de07b83",
+        "value": "Quint .Collines parfumées de thym .— odore Assyrio .",
+        "words": [
+          "thym",
+          "parfumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f53f56d2-3303-5772-ab79-d1ab9c29b842",
+        "value": "Sen .Hommes qui sentent le bouc .hircûlus , i ( hircus ) , m .",
+        "words": [
+          "bouc",
+          "sentent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f63c5fdc-0eb3-5ff3-a51c-65f5d51b090a",
+        "value": "Cic .Odeur repoussante .1 Au fig .",
+        "words": [
+          "Odeur",
+          "repoussante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f7095138-9dda-5aff-8eda-3db03ec91a16",
+        "value": "Cic .Les parfums exhalés par les fleurs .1 Inspirer , être inspiré , subir l ' influence de .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f7381746-9744-59c4-a4e8-3283a551f1bb",
+        "value": "Juv .Un peu rance , un peu fétide .■ y ( Fig .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f75c2471-d686-537f-86de-1baa0585607e",
+        "value": "Plin .Percevoir la saveur • de l ' eau .Saluberrimum intelli ' gitur ( avec l ' Infin .",
+        "words": [
+          "eau",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f7ca727f-27be-58ce-a63c-58fc5fec1d0b",
+        "value": "Ov .Qui sent , qui sent bon .^ Plaut .",
+        "words": [
+          "bon",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f8dde290-010d-5b0e-a4f1-9f090a6db012",
+        "value": "Mart .Avoir une odeur désagréable .Se graviter habere .",
+        "words": [
+          "désagréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f9c97a67-977b-5589-9f8c-ba735e6fa059",
+        "value": "Virg .Myrrhe , résine odorante qui découle de cet arbre .\" \\ Plin .",
+        "words": [
+          "Myrrhe",
+          "résine",
+          "odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/f9fb8707-1a38-55df-a71b-64225f62d9b6",
+        "value": "Pers .Cette vaisselle sent mauvais .Pûtëôlânus , a , um ( Puteolî ) , & dj .",
+        "words": [
+          "mauvais",
+          "vaisselle",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/facff41e-9064-5968-ad92-b6a344bee613",
+        "value": "Plin .Odeur agréable et forte .Suavissime légère .",
+        "words": [
+          "agréable",
+          "forte",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/fb67c5d5-61c9-5137-b6fc-510cf14363b8",
+        "value": "Plin .Sorte de vigne à odeur d ' encens .lïbâmën , ïnis ( libo ) , n .",
+        "words": [
+          "odeur",
+          "encens",
+          "vigne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/fd636eed-a360-5e88-80db-feabe45edf6f",
+        "value": "Virg .Répandre un parfum d ' ambroisie .— venena in aliquem .",
+        "words": [
+          "parfum",
+          "ambroisie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/fe9ed33a-cd39-5d06-9d15-0c25585892a1",
+        "value": "Hor .Vin liquoreux .Virg .",
+        "words": [
+          "Vin",
+          "liquoreux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/ff587ca6-d3b2-5cc5-ba7f-cd05dc67c647",
+        "value": "Amm .Purifier une maison à l ' aide de parfums , f Plin .Ps .",
+        "words": [
+          "parfums",
+          "maison"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/663a1298-e50a-502c-802c-a4ee7bd42844",
+        "label": "Eugène  Benoist"
+      }
+    ],
+    "label": "Nouveau dictionnaire latin-français, rédigé... particulièrement d'après les grands dictionnaires de Forcellini, de Georges, de Freund et de Klotz, par Eugène Benoist,... Henri Goelzer,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5839455w",
+    "date": "1893",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5de7592d-5d13-5dac-8d5e-348bf33a90b7",
+      "label": "1893",
+      "begin": "1893",
+      "end": "1893"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8378483/",
+      "label": "Assyria (Roman province)"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/7df665a0-e285-5648-83be-bfb3fb0d6d09/fragment/b76c6661-b31b-52fd-8c13-d6a099413c8d",
+  "license": "Public domain"
+}

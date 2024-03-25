@@ -1,0 +1,534 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/2417e569-2593-5f29-bfe3-5bbb4bf83519",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/02c39e8b-b0c7-52ec-aa12-206323c43535",
+        "value": "4 arrondissements : Lecce , Brindisi , Gallipoli et Tarente ; 44 cantons , 130 communes , 448 , 000 habitants .Lecce , ville de 14 , 000 habitants , ville fortifiée , industrielle et commerçante , située dans une plaine @ fertile et parsemée de villages , elle est renommée pour ses dentelles , son huile et sa gomme odoriférante ; dans les environs se trouvent des carrières importantes .Otrante , ville de 2 , 500 habitants , sur l ' Adriatique .",
+        "words": [
+          "huile",
+          "Lecce",
+          "odoriférante",
+          "gomme",
+          "dentelles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/05a161b3-8e4c-57a4-af46-4ada28d1b042",
+        "value": "La profondeur de la vallée du Rhône y entretient un climat doux et favorable à divers genres de culture .Les vergers y produisent d ' ilssez bons fruits ; la vigne y fournit des vins spiritueux , les abeilles y fournissent le miel le plus parfume de la Suisse .Qui croirait , dit Malte - Brun , que dans une vallée environnée au nord , à l ' est et au midi par d ' innombrables glaciers , dont quelques - uns ont de 40 à 45 kilom .",
+        "words": [
+          "vins",
+          "parfume",
+          "miel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/0f58ab73-e3e1-5b9f-9b42-e63055fa3ee5",
+        "value": "Ophir peut seul lui être comparé à cet égard .On est aujourd ' hui fondé à croire que l ' Ophir d ' où les flottes du roi Salomon rapportaient des pierres gemmes , les bois odoriférants , l ' or et l ' étain était une toute autre contrée que l ' Ophir dont parle Moïse , d ' ailleurs d ' après la version du Septante le premier est rendu par Soopheira et le second par Ouphéir .L ' Ophir de Moïse était donc sans doute une contrée de l ' Arabie heureuse , tandis que l ' Ophir de Salomon devait être dans les Indes orientales .",
+        "words": [
+          "bois",
+          "odoriférants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/276290f0-4fe1-5e85-9985-444db70d02d4",
+        "value": "les sapins à 1 , 782 et l ' orme vert à 1 , 900 .On trouve le daphné odorant jusqu ' à une hauteur de 3 , 450 mètres .La culture des céréales cesse à 1 ; 226 et celle de la vigne à 560 .",
+        "words": [
+          "odorant",
+          "daphné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/294472ff-5a5d-531e-aa8e-a7ca51c54c52",
+        "value": "L ' Arno est une rivière diguée et canalisée comme celle du bassin du Pô , elle communique avec le Tibre par le canal de Chiana , et reçoit le Sieve , qui passe à San Marlino et et l ' Ombrone qui passe près de Pistoja .Entre l ' Arno et le Tibre , la côte est un pays pestilentiel appelé la Maremme , inculte , inondé , sans habitants ; on vient d ' y faire passer un canal qui porte les eaux de l ' Ombrone pour l ' assainir .Les principales rivières sont l ' Ombrone , dont un sous - affluent arrose Sienne ; la Marta , qui sort du lac Bolsena , reçoit un affluent qui passe à Viterbe , et finit au - dessous de Cornéto , l ' ancienne Tarquinii .",
+        "words": [
+          "pestilentiel",
+          "pays",
+          "Entre",
+          "la côte",
+          "' Arno",
+          "Maremme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/2f95c5d9-8e8f-58b3-8a1d-3fb75420a9d4",
+        "value": "Les rayons du soleil brûlant de l ' équateur y transforment la plante en arbuste , l ' arbuste en arbre gigantesque .C ' est là que mûrissent les fruits les plus s - ucculents et les aromates les plus piquanis , c ' est là que viennent éclore la canne à sucre , le caféier , le palmier , l ' arbre à pin , le pisang , le baobab , dont les rameaux gigdulesquescouvrentde son ombre un immense espace de terrain , les choux palmistes , le cacao , ia vanille , la cannelle , la noix muscade , le poivrier , le camphrier , etc .Ce n ' est plus une simple sève qui coule dans les veines de tous ces rois de la végétation , ce sont des baumes , des gommes , des sucs , que le combaumees , t l ' industrie de la vieille Europe ont su merce utiliser et faire servir au confortable du goût raffiné des gourmets modernes .",
+        "words": [
+          "cannelle",
+          "aromates",
+          "poivrier",
+          "noix",
+          "camphrier",
+          "cacao"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/35e850cf-fd88-5cfb-aa11-7f1581735949",
+        "value": "La Friedrichsstrasse , par exemple , a plus d ' un demimille car elle va en ligne droite de la porte de Halle à la porte d ' Oranienburg .Malheureusement , ces belles rues sont mal pavées , et bo \" dées de trottoirs trop étroits , le long desquels croupit un ruisseau profond d ' où , pendant les chaleurs de l ' été , s ' exhalent des odeurs aussi insalubres que désagréables .En outre , les maisons sont généralement bâties en briques et en plâtre .",
+        "words": [
+          "odeurs",
+          "désagréables",
+          "exhalent",
+          "les chaleurs de l ' été",
+          "aussi insalubres",
+          "belles rues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/3cb75f30-cad2-55c3-823b-248c05943b59",
+        "value": "Les immenses dépôts de sel minéral accompagnent principalement les dépôts de sédiment supérieur , et semblent comme ceux - ci avoir été couverts par les eaux de la mer .Nous citerons encore dans la province de Bannat une sorte de pouzzolane , des pienes ponces , des marbres de différentes qualités , surtout du rouge , de l ' albâtre , de l ' aimant , de l ' asbeste fibreuse verte , du cristal de roche , de l ' aventurine , des calcédoines , des jaspes , des grenats ordinaires , des opales nobles , des prétendue topazes inférieures , des bois opalisés et du bois bitumineux à odeur de truffe .« Une richesse plus riche , ajoute 31alte - Brun , c ' est la houille , qui , bien qu ' elle ne paraisse pas abondante , est en bonne voie d ' exploitation , surtout aux environs d ' CEdenbourg .",
+        "words": [
+          "albâtre",
+          "marbres",
+          "odeur",
+          "Nous",
+          "truffe",
+          "cristal de roche",
+          "bois bitumineux",
+          "aventurine",
+          "aimant",
+          "opales nobles",
+          "grenats ordinaires",
+          "asbeste fibreuse verte",
+          "bois opalisés",
+          "pienes ponces",
+          "calcédoines",
+          "jaspes",
+          "prétendue topazes inférieures",
+          "pouzzolane",
+          "la province de Bannat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/3f99b342-e27b-576a-9f8b-813b27740775",
+        "value": "L ' hiver n ' est jamais assez froid , ni les chaleurs de l ' été assez brûlantes pour interrompre les travaux de la campagne .Il pleut beaucoup moins qu ' en Europe ; les pluies tout ordinairement accompagnées de violents orages , que dissipe bientôt le Pompero , vent frais du sud - ouest , qui chasse en même temps les miasmes de J ' air et les émanations malsaines .« Les richesses du sol sont infinies .",
+        "words": [
+          "malsaines",
+          "émanations",
+          "miasmes",
+          "Europe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/40ee23e5-ba10-509f-9969-e5b4c403299d",
+        "value": "Il en est de même dans celle de Salamanque .Dans le royaume de Léon , leur chair doit son parfum aux glands doux qui leur servent de nourriture .Enfin les jambons de Galice sont renommés dans toute l ' Europe .",
+        "words": [
+          "parfum",
+          "son",
+          "leur chair",
+          "glands doux",
+          "Dans le royaume de Léon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/45cd1a09-97b6-5666-9011-e0ed37c986e4",
+        "value": "Selon Marco - Polo , le Tibet renferme huit royaumes .A l ' ouest du Thibet , Marco - Polo place la province de Gaindu , où l ' on trouvait un grand lac riche en perles , des mines de turquoises , de l ' or et plusieurs végétaux aromatiques .Cette contrée paraît répondre à celle de Gang - Desch .",
+        "words": [
+          "aromatiques",
+          "végétaux",
+          "A",
+          "ouest du Thibet",
+          "province de Gaindu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/4865762e-7540-5ecb-9dc5-76dd18d3a1ec",
+        "value": "a Elle se divise en deux parties : o 1 ° Le Delta , vaste plaine à peu près triangulaire , formé car des alluvions et arrosée par les canaux du fleuve , s ' étendant au sud jusqu ' auprès du Caire ; 20 L ' tigypte moyenne et haute , étroite vallée qui s ' étend du Caire à Syène .C ' est une légion toute agricole et la contrée de l ' Afrique qui produit le plus de céréales , sans fumure * et presque sans labour : l ' orge que l ' on cultive partout et qui est la nourriture à pu près exclusive des chevaux ; le blé , abondant surtout ddns la haute Egypte et très - propre à la fabrication despotes ( surtout le saïii , c ' est - à - dire Je froncent de la hpute Egypte ) , rcais peu es - timé à cause de l ' odeur ammoniacale que le manque de soin ds cultivateurs dans le déqui ' ' Page , ; ' ; l , i faUcontacter ; le dourah , mais , sorgho ' gt < le rnjitét et le riz que l ' on cultive sur - tout dans le Delta , à Zagazig .à Mansourah , à Damiette .",
+        "words": [
+          "Zagazig",
+          "Afrique",
+          "odeur",
+          "ammoniacale",
+          "Delta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/4ee3c2bf-be3b-5556-a3b5-bcd609a2bcc2",
+        "value": "Un grand nombre de plantes , ornées de fleurs brillanti - s , sont indigènes de la Sibérie .Le muguet , la violette , l ' ellébore noir , le virâtre blanc , l ' iris jaune - blanc , l ' iris des près , l ' anémone , la potentille , la gentiane des marais et l ' élégant astragale des montagnes offrent en beaucoup d ' endroits l ' assemblage des couleurs les plus variées , et répandent des parfums dont le mélange rappelle les contrées les plus méridio nales .Le joli robinier - caragan , le daphné altaïque , l ' amandier nain , la gentiane altaïque , l ' œillet superbe et la valériane croissent sur les flancs des monts Altaï , tandis qu ' à leurs pieds fleurissent l ' aster de Sibérie , la tulipe sauvage et le rosier à fleurs de pimprenelle .",
+        "words": [
+          "violette",
+          "parfums",
+          "muguet",
+          "ellébore noir",
+          "anémone",
+          "iris jaune",
+          "gentiane des",
+          "élégant astragale des montagnes",
+          "les plus méridio nales",
+          "iris des près",
+          "virâtre blanc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/5a13ebb4-4b79-536d-b6a0-fd6b2ff751bd",
+        "value": "A la suite du tremblement de terre de 1692 , elle changea de place .« L ' eau de la Géronstère a une saveur ferrugineuse qui est moins acidulée , moins pk quante que celle des autres eaux de Spa .Elle répand une odeur désagréable , qui est celle du gaz hydrogène Rulfllré .",
+        "words": [
+          "saveur",
+          "eau de la"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/5f6e764d-a05d-5576-ad87-9ddfbc30a2bf",
+        "value": "Ces mouvements violents des vents arrêtés par un obstacle ont rendu célèbres le cap des Tempêtes , le cap Horn , le cap de Bonne - Espérance , le cap Sud de la terre de Diémen , le détroit de Bab - clMandel et la Bouche du Dragon , en Amérique .Les exhalaisons du sol communiquent aux vents leurs vertus particulières .Ainsi , le simoun des Arabes porte beaucoup de gaz nitreux .",
+        "words": [
+          "exhalaisons",
+          "vents",
+          "sol"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/611b0a08-e054-5acd-931d-58982fb13f2f",
+        "value": "Sur la belle route plantée d ' arbres qui conduit à Stavelot et à Malmédy , connue de temps immémorial , la Sauvenière jouit à une certaine époque d ' une vogue incroyable .Cette eau a une saveur acidulée , piquante , agréable et moins ferrugineuse que celle du Pouhon .Elle exhale une odeur des plus sulfureuse , qui disparaît presque aussitôt qu ' elle est puisée .",
+        "words": [
+          "Cette eau",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/676312d6-5d04-5b84-9205-00bea78f9612",
+        "value": "Mais la chaleur et la rareté de l ' eau rendent tes parties oasses de la côte presqu ' inhabilables .Les palmiers , les lauriers , les oliviers , les siyrax et d ' autres plantes aromatiques couvrent tes îles et les côtes basses Vers le 24 ° de latitude , la côte d ' Habesch forme un grand enfoncement nommé J8 baie Sale ou le golfe Immonde par les navigateurs anciens .Les géographe Arabes nomment la côte qui suit ce port le Baza , nom que l ' on retrouve dans celui du promontoire Baziumades anciens , aujourd ' hui Raz - cl - Comol ou cap Comol .",
+        "words": [
+          "plantes",
+          "aromatiques",
+          "oliviers",
+          "lauriers",
+          "palmiers",
+          "îles",
+          "côtes",
+          "siyrax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/6bc53a8e-0b1d-5a5b-b819-95daf3f1ca9c",
+        "value": "AVIGNON , chef lieu , sur le Rhône , a de nombreuses manufactures , une fonderie , des fabri ques de vert - de - gris et d ' acide nitrique , et une raffinerie de salpêtre .Son commerce consiste en vin , eau - de - vie , eau - forte , huile , fruits secs , soie , laine , drogues médicinales , parfums , miels , etc .31 , 907 habitants .",
+        "words": [
+          "soie",
+          "huile",
+          "parfums",
+          "laine",
+          "miels",
+          "fruits secs",
+          "drogues médicinales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/6f0870e7-36d0-5174-bae7-e68e6f256821",
+        "value": "« L ' eau de la Géronstère a une saveur ferrugineuse qui est moins acidulée , moins pk quante que celle des autres eaux de Spa .Elle répand une odeur désagréable , qui est celle du gaz hydrogène Rulfllré .Versée dans un verre , elle paraît parfaitement transparente ; elle de - vient ensuite trouble , et peu à peu il se forme au fond du verre un dépôt de couleur roussâtre .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "gaz hydrogène"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/766b5514-3561-506a-a03a-af561c2e7180",
+        "value": "Elle sortent avec abondance des fentes de la roche avec un bruit qu ' on entend à quelque distance , en laissant échapper une très - grande quantité de gaz acide carbonique qui leur donne l ' apparence d ' une eau en ébullition .Elles répandent une légère odeur de soufre , leur saveur est piquante et agréable .La température de ces sources est de 9 ° 71 ' centigrades .",
+        "words": [
+          "agréable",
+          "odeur",
+          "leur",
+          "soufre",
+          "Elles",
+          "légère",
+          "piquante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/777ade25-ad17-5cc3-a043-b36a6278903f",
+        "value": "Le sol de cette partie de la France est fertile dans les terres basses , pierreux et sec dans les montagnes , où il est surtout propre à la vigne .Outre les productions en grains et en vin , on récolte dans ce département de la garance , du safran , de l ' anis de la omme de cerisier , de la térébenthine , des ecorces aromatiques et médicinales ; on y trouve des mines de fer , de houille , du jaspe , des géodes , des calcédoines et du plâtre ; de le .terre à porcelaine , à poterie , à creusets ; des sources d ' eaux minérales et salées : on y élève des abeilles et beaucoup de vers à soie ; on y fabrique des soieries , des toiles peintes , du papier et de la faïence .",
+        "words": [
+          "plâtre",
+          "safran",
+          "aromatiques",
+          "médicinales",
+          "anis",
+          "térébenthine",
+          "garance",
+          "mines",
+          "ecorces",
+          "jaspe",
+          "omme de cerisier",
+          "calcédoines",
+          "géodes",
+          "ecorces aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/7c88b206-81ae-5047-afab-f97f416196a2",
+        "value": "Dans la presqu ' île de Malacca , des forêts où croissent le bois de .santal , l ' aloès , la casse odorante , et plusieurs autres arbres précieux , conservant toute l ' année leur brillante verdure , tandis que dans les plaines et les vallées l ' air est embaumé par les exhalaisons d ' une innombrable quantité de fleurs .La teck , dont le bois dur et presque inaltérable est si utile dans les constructions , fait l ' ornement de la Cochinchine , de la presqu ' île de Malacca et des bords du Gange .",
+        "words": [
+          "odorante",
+          "fleurs",
+          "air",
+          "casse",
+          "santal",
+          "exhalaisons",
+          "embaumé",
+          "aloès",
+          "plaines",
+          "toute l ' année",
+          "vallées",
+          "plusieurs autres arbres précieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/84acfddd-4987-52db-a721-3f970bb2cdea",
+        "value": "Là aussi on trouve beaucoup de bois de teinture et des espèces particulières de blés , comme le durra , le holcus , le cambu , le kébru , qui appartiennent presqu ' exclusivement à la zone torride , tandis que sur les montagnes de cette zone , à une altitude représentant notre zone tempérée , on retrouve le blé commun de nos contrées , et jusqu ' aux plantes qui , en Sibérie , végètent dans les plaines froides et exposées au vent glacial du pôle .L ' aspect de la végétation sous l ' équateur , écrit Malte - Brun , enchante l ' imagination , c ' est là que les plantes déploient les formes les plus majestueuses , de même que dans les frimas du nord , 1 écorce des arbres est couverte de lichen et de mousse , de même entre les Tropiques le cymbidium et la vanille odorante animent le tronc de l ' anarardiumet du figuier gigantesque .La verdure fraîche des feuilles du poihos contraste avec les orchidées variées de mille couleurs bizarres .",
+        "words": [
+          "odorante",
+          "vanille",
+          "Tropiques",
+          "cymbidium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/86d235e1-f653-584b-bd6a-a469bb4dc15e",
+        "value": "Après les Cafrds , la nation la plus considérable de cette grande contrée est celle des Hottentots , qui habitent des villages appelés Kraals , composés de huttes de huit pieds de diamètre .Les Hottentots sont généralement très - laids , et cherchent encore à se rendre plus hideux et plus dégoûtants en se couvrant le corps d ' une composition de beurre et de suie , qui répand autour d ' eux une odeur infecte .Ils ont le travail en horreur , et regardent comme un souverain bonheur la stupide inaction dans laquelle ils restent tant que le sentiment du besoin ne les en fait pas sortir .",
+        "words": [
+          "infecte",
+          "odeur",
+          "corps",
+          "dégoûtants",
+          "beurre",
+          "Hottentots",
+          "hideux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/9c672117-69bc-59a7-bcd2-91462cc3b210",
+        "value": "Les Phéniciens furent les premiers qui pénétrèrent dans les mers du nord pour chercher cette matière .On en fait encore à Stolpe , en Poméranie , et à Kœnigsberg , des petits bijoux , des poudres d ' odeur , on en extrait un acide appelé acide succinique , utiles dans les laboratoires de chimie et surtout une huile fine qui sert dans la composition des vernis gras , blancs ou transparents , auxquels elle donne beaucoup d ' éclat .Les Danois et les Italiens exportent en grande partie l ' ambre brut et y gagnent la main - d ' œuvre .",
+        "words": [
+          "odeur",
+          "poudres",
+          "bijoux",
+          "Kœnigsberg",
+          "Poméranie",
+          "Stolpe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/a0909978-51cb-5492-aee3-de4addc8e7ec",
+        "value": "« De la salle Loin à XIV , on peut voir par deux larges baics ornées de cariadites accouplées , deux autres salons de styles tout différents .C ' est d ' abord le salon des Fleurs , en stuc blanc tapissé de treillages dorés et de fines arabesques ; tout autour se développe un bassin de marbre blanc dans lequel croissent et s ' épanouissent les plantes les plus rares , les fleurs les plus belles et du parfum le plus suave , dominées par de gracieuses statues et de jaillissantes fontaines .Au milieu de la salle s ' élève une jardinière à quatre étages , contournée par des sièges .",
+        "words": [
+          "suave",
+          "parfum",
+          "fleurs",
+          "plantes",
+          "salon des Fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/af779958-c988-5af8-87ff-7a9cb81479f1",
+        "value": "A Tegarra et en quelques autres endroits un sel gemme d ' une blancheur éblouissante s ' étend en vastes couches sous un banc de roche , c ' est le seul minéral connu dans le désert .Les produits végétaux sont disséminés et très - ra res , parmi eux on cite une herbe aromatique semblable au thym ; la plante qui porte les graines du Sahara , des acacias et d ' autres buissons épineux , des orties , des ronces , le henné est une sorte de sainfoin que les chameaux mangent avec avidité .Rarement ou trouve un bouquet de dattiers et d ' autres espèces de palmiers .",
+        "words": [
+          "aromatique",
+          "thym",
+          "acacias",
+          "herbe",
+          "orties",
+          "ronces",
+          "buissons épineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/b172e99c-b20a-5d83-a2c1-037df1e54c6c",
+        "value": "Cette eau a une saveur acidulée , piquante , agréable et moins ferrugineuse que celle du Pouhon .Elle exhale une odeur des plus sulfureuse , qui disparaît presque aussitôt qu ' elle est puisée .Elle pétille dans le verre et se trouble ensuite en déposant une poudre roussâtre pâle .",
+        "words": [
+          "odeur",
+          "Elle",
+          "aussitôt",
+          "des plus sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/b5372f03-0804-5544-a178-4dfefbe0ddd6",
+        "value": "Le peuplier blanc est tellement commun en Sibérie que Pallas s ' étonnait que le coton qu ' il porte ne fût pas utilisé .Le peuplier baumier , qui dans nos jardins n ' est qu ' un arbrisseau , élève majestueusement sa tige et répand dans les airs les molécules odorantes de ses bourgeons résineux .La Sibérie ne produit ni pommes ni poires ; les fruits insipides du poirier sauvage de la Daourie et du poirier à feuilles de saule sont de la grosseur d ' une cerise ; l ' abricot du même pays est d ' un goût aigrelet .",
+        "words": [
+          "airs",
+          "odorantes",
+          "peuplier",
+          "molécules odorantes",
+          "ses bourgeons résineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/be4af7c6-7722-50c4-a33d-170f18d44017",
+        "value": "Ce département tire son nom de la plus haute de ses montagnes ; son territoire , généralement montagneux , est sec , pierreux et aride dans les parties élevées , mais les parties basses sont très - fertiles surtout la belle vallée de la Limagne .Les productions de ce département consistent en grains , vins , châtaignes , fruits , plantes aromatiques , pâturages , miel , plomb , antimoine et houille .On y trouve des sources minérales et thermales .",
+        "words": [
+          "plomb",
+          "fruits",
+          "vins",
+          "plantes",
+          "aromatiques",
+          "miel",
+          "pâturages",
+          "antimoine",
+          "houille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/c0852f59-b5e4-5807-9b71-e9140afce2a9",
+        "value": "CLIMAT .— Les provinces des Pays - Bas , conquête de l ' homme sur l ' Océan , empruntent aux brumes de la mer et aux exhalaisons des marais leur brouillard et leur humidité .Cependant l ' hiver y règne pendant quatre mois de l ' année et couvre la terre de frimas et les eaux de glaces ; le vent d ' est , qui souffle fréquemment pendant cette saison , dissipe les miasmes d ' une atmosphère insalubre .",
+        "words": [
+          "exhalaisons",
+          "marais",
+          "brumes",
+          "provinces des Pays - Bas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/c0955fad-6e76-5556-afb9-d055ac48921a",
+        "value": "Cette magnifique conquête faite sur là nature par le génie de l ' homme , la nature la lui fait payer , comme toutes celles qu ' il lui arrache .La fièvre est endémique dans les polders de l ' Harlemmermeer et se manifeste surtout pendant les chaleurs de l ' été , quand les exhalaisons de cette terre fangeuse versent dans l ' air ces miasmes qui , en tant d ' endroits du globe , donnent naissancè aux fièvres paludéennes .» LA MER ET LES COTES .",
+        "words": [
+          "air",
+          "exhalaisons",
+          "miasmes",
+          "les chaleurs de l ' été",
+          "terre fangeuse",
+          "l ' Harlemmermeer",
+          "polders"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/c29ee963-587c-54b3-8bac-a4c659d43727",
+        "value": "Les oliviers , les amandiers , les figuiers forment des forêts de l ' aspect le plus charmant .Les cyprès , les pins piniers annoncent une nature nouvelle , égayée par les fleurs rouges des grenadiers , et les douces senteurs du jasmin , de l ' oranger et du citronier dont les fruits dorés brillent comme des étoiles au milieu des feuillages vert foncé des jardins de l ' Europe méridionale .Dans les plaines se trouvent le glaïeul , le t convolvulus tricolore , les narcisses magnifiques ; Il le long des ruisseaux , des haies splendides de lauriers - roses égaient le paysage , tandis que près des ruines le pittoresque scanthe vous rappelle les variations de la végétation tout entière .",
+        "words": [
+          "fleurs",
+          "jasmin",
+          "cyprès",
+          "douces",
+          "oranger",
+          "grenadiers",
+          "douces senteurs",
+          "citronier",
+          "pins piniers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/c64c48a4-d92b-5bcd-a5d7-f3c0fadd3fac",
+        "value": "Cesdifférences témoignent en faveur de l ' homme d ' un développement intellectuel hors ligne , et nous pourrions mieux mesurer cette différence si nous savions en quoi consiste l ' action cérébrale , ce qu & nous ignorons absolumeilt .» Si , pris isolément , les sens de l ' homme sont inférieurs à ceux de plusieurs animaux , si sa vue ne peut lutter contre la vue puissante de l ' aigle , si le lièvre a l ' ouïe plus développée , si le chien a l ' odorat plus subtil , si enfin le toucher même est inférieur à celui de beaucoup d ' espèces , la réunion de ces cinq sens compense largement ce qui peut manquer à chacun d ' eux .Le sens de la vue est plus complet chez l ' homme que chez la plupart des antres animaux , la position des yeux qui permet à cet organe de doubler l ' impression reçue par les objets extérieurs , est un grand avantage sur les animaux dont les yeux sont placés de chaque côté de la tête .",
+        "words": [
+          "subtil",
+          "odorat",
+          "homme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/c810da9e-ac64-5d6b-b1be-141f060ddd10",
+        "value": "Leshabitanis - - vWfcnJr presque tous de la chasse aux £ $ £ 0 * 3 M iis , et peu d ' établissements du Gro - ëûlif iuMseptentrional sont dans un état aussi prospérer en quelques années ils ont pris assez de peaux et d ' huile de phoque pour charger un brick de trois cents tonneaux .D ' ailleurs , il est facile aux regards les moins attentifs de constater le commerce du lieu ; sur la grève , parmi , les rochers , autour des huttes , sont amoncelés d ' horribles débris à tous les degrés de décomposition , et ces ignobles voiries dont l ' odorat n ' est pas moins choqué que la vue , rendirent assez désagréable notre séjour dans cette station .« Mais derrière la ville comme tout était différent .",
+        "words": [
+          "odorat",
+          "assez désagréable",
+          "station",
+          "choqué"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/d568f6ea-4914-513c-b7d2-f563549b7b1c",
+        "value": "— Les provinces des Pays - Bas , conquête de l ' homme sur l ' Océan , empruntent aux brumes de la mer et aux exhalaisons des marais leur brouillard et leur humidité .Cependant l ' hiver y règne pendant quatre mois de l ' année et couvre la terre de frimas et les eaux de glaces ; le vent d ' est , qui souffle fréquemment pendant cette saison , dissipe les miasmes d ' une atmosphère insalubre .Il arrive souvent que le Zuyderzée est entièrement pris par les glaces ; dans la saison chaude , les vents pluvieux sont ceux d ' ouest , qui viennent de l ' Océan , et ceux du sud - ouest qui viennent à la fois de l ' Océan et des larges embouchures de l ' Escaut et de la Meuse .",
+        "words": [
+          "atmosphère",
+          "miasmes",
+          "insalubre",
+          "pendant cette saison",
+          "pendant quatre mois de l ' année"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/d86d6042-d355-5703-800e-fd3874690ab9",
+        "value": "Pendant l ' hiver , l ' air y est froid , sec et vif ; il est brûlant pendant l ' été .Les feuilles des arbres sont raides et luisantes , les branches noueuses et contournées , lesécorces sèches et rugueuses , les fruits mèlentàleurs parfums des saveurs acres et piquantes .Les animaux sont maigres et farouches .",
+        "words": [
+          "parfums",
+          "saveurs",
+          "feuilles des arbres",
+          "fruits mèlentàleurs",
+          "lesécorces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/d8bacb14-051a-5f16-a96e-d590e58c32e0",
+        "value": "Les montagnes abondent en bois , cuivre , fer , antimoine , houille , granit .Quant au commerce , il consiste principalement en bestiaux , grains , vin , fer , poisson et parfums .PERPIGNAN , chef - lieu , sur la Tet , à 3 kilom .",
+        "words": [
+          "fer",
+          "vin",
+          "parfums",
+          "poisson",
+          "grains",
+          "bestiaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/dc16f98f-3833-5d17-a91f-c2146f42f10b",
+        "value": "Sa vallée est très - importante pour tourner le Tech en France ; elle forme en grande partie l ' Ampurdan , pays de montagnes et de marais , célèbre dans toutes : es opérations militaires , et qui est symétrique du Roussillon .5 ° Le Fluvia arrose Olot , Castelfollit , Bascara .6 ° Le LIobregat , torrent qui descend du col de Pertus et recueille toutes les eaux des Pyrénées ; il finit dans des marais pestilentiels près d ' Ampurias ( Emporiae ) .",
+        "words": [
+          "arrose",
+          "Fluvia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/ecdacaec-f609-5af4-972a-43317d51ad34",
+        "value": "Les objets principaux de trafic sont les thés , qui viennent de Kiachta , sur la frontière de Lhine , jusqu ' à Tobolsk en Russie , par l ' irtisch et le Tobol ; les fers de Sibérie ; les turquoises et les pierres précieuses , apportées par les Boukariens , dont le voyage ne dure pas moins d ' un an .Les parfums , les tapis , les châles persans , l ' ambre de la Baltique ; les étoffes et les mous : selinesdes Tatares Criméens et Nogaï ; les cuirs des Cosaques de l ' Ukraine et le caviar des Cosaques d ' Aktuba ; les chevaux des Kalmoucks ; l ' orfèvrerie , les vins , les pipes , les fourrures d ' Allemagne ; la coutellerie , les articles de toilette ; les étoffes de France ou d ' Angleterre ; l ' horlogerie de la Luisse , etc ., etc .",
+        "words": [
+          "orfèvrerie",
+          "parfums",
+          "vins",
+          "étoffes",
+          "tapis",
+          "fourrures",
+          "ambre de la Baltique",
+          "châles persans",
+          "chevaux des Kalmoucks",
+          "mous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/f5094057-897b-5de8-b2de-9a4618717967",
+        "value": "On les désigne sous le nom de lagunes .L ' Océan est une immense nappe d ' eau qui recouvre à peu près les trois quarts de la surface du globe ; par ses exhalaisons qui rafraîchissent et humectent , il entretien la vie végétale et fournit les aliments nécessaires à ces canaux d ' eau courante qui , en coulant toujours , ne se udent jamais ., Le dessèchement lent et subit de l ' Océan suf - firait a plonger dans le néan - t toute la nature organique .",
+        "words": [
+          "Océan",
+          "exhalaisons",
+          "ses"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4d0b255c-59dc-547e-b127-0fee9dd353fe",
+        "label": "Alphonse  Baralle"
+      }
+    ],
+    "label": "Atlas universel, contenant la géographie physique, politique , historique, théorique, militaire, industrielle, agricole & commerciale du monde... : précédé d'une astronomie et d'un planisphère céleste / le texte par F. de La Brugère,... et Alphonse Baralle,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6569199b",
+    "date": "1877",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/de17e344-6024-513a-9c04-cb7c6378de14",
+      "label": "1877",
+      "begin": "1877",
+      "end": "1877"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11497250/",
+      "label": "Red River Delta"
+    },
+    {
+      "@id": "https://sws.geonames.org/6255146/",
+      "label": "Africa"
+    },
+    {
+      "@id": "https://sws.geonames.org/359493/",
+      "label": "Zagazig"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0cbd88d6-3716-5cc6-a5bc-430ec1dfe5ef/fragment/4865762e-7540-5ecb-9dc5-76dd18d3a1ec",
+  "license": "Public domain",
+  "adjective": "ammoniacale"
+}

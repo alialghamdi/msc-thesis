@@ -1,0 +1,145 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/1936a6ea-83d3-5ed8-8261-05e3d9ea09db",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfum",
+    "parfumeur"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/2d817951-327e-56f6-94fa-ce7ff5f142c1",
+        "value": "Pététin était un médecin de Lyon .président perpétuel de la Société de médecine de Lyon , ennemi des nouvelles doctrines magnétiques il observa et montra à ses collègues une femme cataleptique qui voyait , entendait , sentait , goûtait et odorait par le creux épigastrique et le bout des doigts .Ceci se passait en 1787 .",
+        "words": [
+          "Lyon",
+          "odorait",
+          "femme cataleptique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/43499d2d-f1fc-56af-ad6a-0fbd24989c92",
+        "value": "Il a vu que Ic souffle sur la face a pour effet singulier de changer l ' état hypnotique du sujet , et qu ' un second souffte détermine le réveil .JI a vu aussi que les sens , et notamment le toucher , l ' odorat et t ' ouïe , peuvent atteindre tout a coup chez les sujets hypnotisés une hyperacuité des plus remarquables cette modification sensorielle lui a même paru capable d ' expliquer rationnellement quctquM uns des ettets mcrveitteux obtenus par les magnétiseurs de profession .Enfin , il a observé le pouvoir de la suggestion verbale pour provoquer des hattucinations , des émotions , des paralysies , etc .",
+        "words": [
+          "odorat",
+          "remarquables",
+          "sujets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/4d466c80-3855-50bd-a1be-76ce2d4f19f9",
+        "value": "Ces songes provoqués au moyen d ' excitations sensorielles ne diffèrent nuttement des effets que l ' on obtient chez les hystériques endormies par suggestion .Un jour , on lui fait respirer de l ' eau de Cologne il rêve qu ' il est dans la boutique d ' un parfumeur , et l ' idée du parfum éveille celle de l ' Orient il est au Caire , dans la boutique de Jean Farina .On lui pince légèrement la nuque il rêve qu ' on lui pose un vésicatoire , ce qui réveitte le souvenir d ' un médecin qui le soigna dans son enfance .",
+        "words": [
+          "parfum",
+          "lui",
+          "eau de Cologne",
+          "parfumeur",
+          "boutique",
+          "au Caire",
+          "la boutique de Jean Farina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/9064e701-b576-594c-beac-045b6fc0a1c8",
+        "value": "< Les yeux sont fermés , tes paupières cèdent difficilement aux ei ! brts qu ' on t ' ait avec la main pour les ouvrir ; cette opération , qui n ' est pas sans douleur , laisse voir le globe de t ' œit convutsé et porté vers le haut , et quelquefois vers le bas de l ' orbite .< Quelquefois l ' odorat est comme anéanti .On peut leur faire res pirer l ' acide muriatique ou l ' ammoniaque , sans qu ' ils en soient incom modés , sans même qu ' ils s ' en doutent .",
+        "words": [
+          "odorat",
+          "anéanti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/96eb4aaa-8d10-5f67-9e37-f6b5179006eb",
+        "value": "ti peut devenir le siège de sensations erronées du mt ' mf genre .Le sujet sentira , par exempte , qu ' on lui envoie de mauvaises odeurs par le trou de la serrure , etc .7 ' ouc ~ er .",
+        "words": [
+          "mauvaises",
+          "odeurs",
+          "sujet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/c4f783a2-f4af-5523-a470-17cfa7f2489f",
+        "value": "L ' un .de nous est arrivé à provoquer le sommeil léthargique en fat ~ oan : odorat par i impression prolongée du musc .Les impressions gustatives n ' ont guère été essayées nous avons vu les titillations du pharynx réussir chez plusieurs sujets ; mais dans ce cas la causalité est peut - être complexe , car , presque toujours , le sujet fixe son regard et immobilise sou thorax .",
+        "words": [
+          "musc",
+          "odorat",
+          "prolongée",
+          "léthargique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/cf9f2c9a-05e0-5e41-90b2-3eb62eb38e22",
+        "value": "Le sens visuel présente parfois une suractivité telle que l ' étendue du champ visuel peut être doublée , de même que l ' acuité visuelle , etc .L ' odorat peut être si développé que le sujet retrouve , guidé par l ' odeur , les morceaux cachés d ' une carte de visite qu ' on lui a fait sentir avant de la déchirer ( Taguet ) .L ' ou ! e est tellement Sae qu ' une conversation peut être entendue à un étage inférieur ( Âzam ) .",
+        "words": [
+          "odeur",
+          "odorat",
+          "développé",
+          "sujet",
+          "morceaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/ed46fdaa-bcc8-551e-bc5f-39f3f914e7e6",
+        "value": "Goût , Si on a présenté à t hypnotique un morceau de papier , par exemple , en lui disant que c ' est , un gâteau , à son révei ! , elle va le manger avec détices .Dans d ' autres circonstances , elle sera convaincue que les aliments sont empoisonnés .Si on lui a suggéré l ' idée d ' une substance nauséeuse , la sensation pourra être assez intense pour provoquer le vomissement .",
+        "words": [
+          "empoisonnés",
+          "aliments"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/99c22866-a261-5d94-8857-a82c07467927",
+        "label": "Charles Féré"
+      }
+    ],
+    "label": "Le magnétisme animal / par Alfred Binet et Ch. Féré,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k77218q",
+    "date": "1890",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/58",
+      "label": "Eau de cologne"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/8b887aab-7f5f-5800-996d-0e09e84c2409",
+      "label": "1890",
+      "begin": "1890",
+      "end": "1890"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/7b905006-ea5f-5c69-b4a8-3fdee8ecb2f9",
+      "label": "boutique"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/b2d9331b-b689-5f54-8c70-fd0c4bbf79e6",
+      "label": "la boutique de Jean Farina"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/excitement",
+      "label": "excitement"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/envy",
+      "label": "envy"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/12605302-9104-5a30-9bdb-175199d5209c/fragment/4d466c80-3855-50bd-a1be-76ce2d4f19f9",
+  "license": "Public domain"
+}

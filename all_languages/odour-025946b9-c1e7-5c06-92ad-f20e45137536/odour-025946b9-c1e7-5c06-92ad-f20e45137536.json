@@ -1,0 +1,547 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/025946b9-c1e7-5c06-92ad-f20e45137536",
+  "@graph": "http://data.odeuropa.eu/wikisource",
+  "label": "odour",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/00bc0b4a-4abc-5ff4-ba21-ca45e7ad7489",
+        "value": "It grows 30 to 50 ft .high , has leaves a foot or more long , heart - shaped and bluntly auricled at the base , and fragrant pale yellowish - white flowers , 3 to 4 in .across .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/017c14d5-c361-5503-a4c4-6306db6eea60",
+        "value": "The corns should be plump , even in size , and the colour should be uniform from end to end .The sample should have a sweet odour , and it should be dry to the touch .The presence of light or weevilled corns may be detected by the fact that they float in water .",
+        "words": [
+          "sweet",
+          "odour",
+          "The sample"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/036e8da5-0470-5c16-a3c9-e9f85ca88394",
+        "value": "From the time the barley is first cast out of the cistern up to the stage of the young floor , or No .1 piece , it has a pleasant ethereal odour resembling apples .Drs Thomson , Hope and Coventry stated in the earlier part of the 19th century that they distilled “ spirits ” from germinating barley at this stage .",
+        "words": [
+          "odour",
+          "it",
+          "resembling apples",
+          "pleasant ethereal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/06e2e613-3cc5-53e0-bb27-50aaa8b02a9f",
+        "value": "the well - known gulf weed , probably transported from the Atlantic ; Zostera marina , forming dense beds in muddy bays ; the roots are cast up by storms and are valuable to dress the fields .Among the land plants may be noted the blue anemone ; the ranunculus along the road - sides , with a strong perfume of violets ; the Malta heath , which flowers at all seasons ; Cynomorium coccineum , the curious “ Malta fungus , ” formerly so valued for medicinal purposes that a guard was set for its preservation under the rule of the Knights ; the pheasant ’ s - eye ; three species of mallow and geranium ; Oxalis cernua , a very troublesome imported weed ; Lotus edulis ; Scorpiurus subvillosa , wild and cultivated as forage ; two species of the horseshoe - vetch ; the opium poppy ; the yellow and claret - coloured poppy ; wild rose ; Crataegus azarolus , of which the fruit is delicious preserved ; the ice - plant ; squirting cucumber ; many species of Umbelliferae ; Labiatae , to which the spicy flavour of the honey ( equal to that of Mt Hymettus ) is ascribed ; snap - dragons ; broom - rape ; glass - wort ; Salsola soda , which produces when burnt a considerable amount of alkali ; there are fifteen species of orchids ; the gladiolus and iris are also found ; Urginia scilla , the medicinal squill , abounds with its large bulbous roots near the sea ; seventeen species of sedges and seventy - seven grasses have been recorded .There are four species of lizard and three snakes , none of which is venomous ; a land tortoise , a turtle and a frog .",
+        "words": [
+          "strong",
+          "perfume",
+          "the ranunculus",
+          "of violets",
+          "at all seasons",
+          "the Malta heath",
+          "Lotus edulis",
+          "Oxalis cernua",
+          "Cynomorium coccineum",
+          "Scorpiurus subvillosa",
+          "Urginia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/0a65e47e-f6f1-5d4b-a946-6d81553958cb",
+        "value": "The trial is held in the Acropolis of Athens , and the sham philosophers , dreading a verdict against them , throw themselves from the rock .A Cynic flings away his scrip in the hurry , and on examination it is found to contain , not books or loaves of bread , but gold coins , dice and fragrant essences ( 44 ) .At the end Lucian baits his hook with a fig and a gold coin , and catches gluttonous strollers in the city while seated on the wall of the Acropolis .",
+        "words": [
+          "gold",
+          "fragrant",
+          "essences",
+          "books",
+          "loaves of bread"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/0bd97eb8-5afa-5028-aff3-4f46dc042825",
+        "value": "The Malagasy have never had any organized religious system or forms of worship ; there are no temples , images or stated seasons of devotion , nor is there a priesthood , properly so - called .Yet they have never been without some distinct recognition of a supreme being , whom they call Andriamànitra , “ The Fragrant One , ” and Zànahàry , “ The Creator ” — words which are recognized all over the island .They have also retained many ancient sayings , proverbial in their style , which enforce many of the truths of natural religion as to the attributes of God .",
+        "words": "Fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/1012a1d4-2e0e-55ef-8278-f51bf1020ab0",
+        "value": "O .* )   the fruit of Mammea americana ( natural order Clusiaceae ) , a large tree with opposite leathery gland - dotted leaves , white , sweet - scented , short - stalked , solitary or clustered axillary flowers and yellow fruit 3 to 6 in .in diameter .",
+        "words": [
+          "sweet",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/109e0518-ca55-56e4-8a5a-6f4032276d15",
+        "value": "* )   Petrography .— Marbles are uniformly crystalline , and hence have no bedding or schistosity which would tend to make them fissile , MARBLE 677 emits a fetid odour when struck ; and the colour , being of organic origin , is discharged on calcination .Black marbles , more or less dense in colour , are quarried in various parts of Ireland , especially at Kilkenny and near Galway , but the finest kind is obtained from near Ashford in Derbyshire .",
+        "words": [
+          "fetid",
+          "odour",
+          "MARBLE 677"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/10f42b00-df5b-5ad1-b436-a956896840fa",
+        "value": "Fusees or vesuvians consist of large oval heads fixed on a round splint .These heads consist of a porous mixture of charcoal , saltpetre , cascarilla or other scented bark , glass and gum , tipped with common igniting composition .When lighted they form a glowing mass , without flame .",
+        "words": [
+          "scented",
+          "bark",
+          "other scented",
+          "cascarilla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/12c3909d-1330-5efb-ae47-ec0317362b85",
+        "value": "( 1903 ) , 20 , 136 .The leading industries are the refining of sugar , fishing , trade , the weaving of jusi cloth , the making of cigars , and the cultivation of ilang - ilang - trees ( Cananga odorata ) for their flowers , from which a fine perfume is distilled ; ilang - ilang is one of the principal exports , mostly to France .Tagalog and Spanish are the principal languages .",
+        "words": [
+          "perfume",
+          "fine",
+          "their flowers",
+          "ilang",
+          "ilang - ilang - trees ( Cananga odorata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/141148b5-bee8-5839-8e89-b0d60b4f99f6",
+        "value": "painter , was born in Glasgow .He studied for a year under John Knox , a Glasgow landscapist of some repute , was then engaged at Cumnock , painting the ornamental lids of snuff - boxes , and afterwards employed in Edinburgh by Lizars , the engraver , to colour the illustrations in Selby ’ s British Birds and similar works .Meanwhile he was working unweariedly from nature , greatly influenced in his early practice by the water - colours of H .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/16f4b974-9ddd-5b87-ae59-dbbf95ead5d0",
+        "value": "Tetzel , in conjunction with a friend , Conrad Wimpina , had published a set of counter - theses .John Mayr of Eck , a noted controversialist and professor of theology in the university of Ingolstadt , scented the Hussite heresy in the Theses , and denounced them in a tract entitled Obelisks .Luther at once answered in his Asterisks .",
+        "words": [
+          "scented",
+          "John Mayr of",
+          "a noted controversialist"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/17252e67-fe95-54a3-89f0-39f54b5f05d7",
+        "value": "— Heavy rainfall , high temperature and fertile soil combine to cover the greater part of the state , and particularly the alluvial regions and the coast swamps , with a most luxuriant subtropical vegetation , both arborescent and herbaceous .Louisiana is justly celebrated for the beauty and fragrance of its flowers .The range of temperature is not sufficient to give the variety of annual wild flowers of more northern climates ; nevertheless flowers cover the bottom lands and uplands in great profusion .",
+        "words": [
+          "fragrance",
+          "of its flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/1a9993ba-2dff-5605-a1c0-53f0790ac62e",
+        "value": "Burckhardt in 1814 estimated the crowd at Arafa at 70 , 000 , Burton in 1853 at 50 , 000 , ʽ Abd el - Razz ā k in 1858 at 60 , 000 .This great assemblage is always a dangerous centre of infection , and the days of Mina especially , spent under circumstances originally adapted only for a Bedouin fair , with no provisions for proper cleanliness , and with the air full of the smell of putrefying offal and flesh drying in the sun , produce much sickness .Literature .",
+        "words": [
+          "smell",
+          "the air",
+          "of putrefying offal and flesh",
+          "produce much sickness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/1e678a9e-9805-5b31-b3cd-46aa1036774e",
+        "value": "The colour of most black limestone is due to the presence of bituminous matter .Such limestone commonly < section end = \" Marble \" / > MARBLE 677 emits a fetid odour when struck ; and the colour , being of organic origin , is discharged on calcination .Black marbles , more or less dense in colour , are quarried in various parts of Ireland , especially at Kilkenny and near Galway , but the finest kind is obtained from near Ashford in Derbyshire .",
+        "words": [
+          "fetid",
+          "odour",
+          "MARBLE 677"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/1f2e5d6a-312f-5377-a11c-ed011eff545a",
+        "value": "683 ) .Nitriles yield ketones ( the nitrogen being eliminated as ammonia ) , the best yields being given by the aromatic nitriles ( E .Blaise , ibid .",
+        "words": [
+          "aromatic",
+          "nitriles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/20cd44c1-f6af-537f-9bbd-ee766acbc903",
+        "value": ", & c .The following trees are characteristic of Madagascar vegetation , some of them being endemic , and others very prominent features in the landscape : the traveller ’ s - tree ( Urania speciosa ) , with its graceful crown of plantain - like leaves growing like an enormous fan at the top of a tall trunk , and affording a supply of pure cool water , every part of the tree being of some service in building ; the Raphia ( rofia ) palm ( Sagus ruffia ) ; the tall fir - like Casuarina equisetifolia or beefwood tree , very prominent on the eastern coast , as well as several species of screw - pine ( Pandanus ) ; the Madagascar spice ( Ravintsara madagascariensis ) , a large forest tree , with fragrant fruit , leaves and bark ; a beautiful - leaved species of Calophyllum ; and the Tangèna ( Tanghinia veneniflua ) , formerly employed as a poison ordeal .On the lagoons and lower reaches of the rivers the Vìha ( Typhonodorum lindleyanum ) , an arum endemic to Madagascar , grows in great profusion to a height of 12 or 13 ft .",
+        "words": [
+          "fruit",
+          "fragrant",
+          "leaves",
+          "bark",
+          "the Tangèna ( Tanghinia veneniflua",
+          "the Madagascar spice ( Ravintsara"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/27e1e6f6-6396-5aeb-959f-9d0266527c60",
+        "value": "The flowers , 5 to 8 in .across , are white and have a strong but not disagreeable scent .It was brought to England in 1752 .",
+        "words": [
+          "strong",
+          "scent",
+          "not disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/2e69592c-2dff-5bb7-b9cf-612916fa35cc",
+        "value": "This ulcer slowly spreads , and its floor is covered with a discharge in which septic micro - organisms undergo cultivation ; in this way the ulcer becomes highly offensive .By the use of antiseptic lotions and a frequent change of dressings , however , all unpleasant smell can be checked or prevented .As the ulcer extends it is apt to implicate large blood - vessels , so that serious , and sometimes alarming , haemorrhages take place .",
+        "words": [
+          "smell",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/386e6518-e04b-5b21-97ca-ac7d676c7722",
+        "value": "The same authorities recommend a powder , composed of larvicide ( an aniline substance ) , chrysanthemum flowers , and valerian root , to be burnt in bedrooms .Anointing the skin with strong - smelling substances is of little use in the open air , but more effective in the house ; turpentine appears to be the best .Exposure at night should be avoided .",
+        "words": [
+          "substances",
+          "the",
+          "smelling",
+          "strong - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/40015d8a-c85a-587a-a9cd-123d5bc56724",
+        "value": "Very generally these glands are common to both sexes , and it is in such cases that their function as a means of mutual recognition is most evident .It has been suggested that the above - mentioned callosities or “ chestnuts ” on the limbs of horses are vestigial scent - glands ; and it is noteworthy that scrapings or shavings from their surface have a powerful attraction for other horses , and are also used by poachers and burglars to keep dogs silent .The position of such glands on the lower portions of the limbs is plainly favourable to a recognition - taint being left in the tracks of terrestrial animals ; and antelopes have been observed deliberately to rub the secretion from their face - glands on tree - trunks .",
+        "words": [
+          "scent",
+          "“ chestnuts",
+          "to keep dogs silent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/414a602a-3c8c-5b8b-8d9e-bcb7e25dea35",
+        "value": "in diameter and upwards of 70 ft .high , bearing a profusion of large , powerfully lemon - scented creamy - white flowers .It is an evergreen tree , easily recognized by its glossy green oval oblong leaves with a rusty - brown under surface .",
+        "words": [
+          "scented",
+          "white flowers",
+          "large",
+          "powerfully lemon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/42b4238d-270f-530e-b5eb-a854f195f53e",
+        "value": "Oxycedrus ) , growing to the height of 40 or 50 ft ., was formerly abundant , but has been almost exterminated , as its scented wood is prized by the cabinet - maker .Several of the native trees and shrubs now grow only in situations which are nearly inaccessible , and some of the indigenous plants are of the greatest rarity .",
+        "words": [
+          "wood",
+          "scented",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/43f13405-3d1d-5a50-b844-542837f3ae72",
+        "value": "Its thick rind yields a very astringent juice , rich in tannin , and containing a gamboge - like resin .The soft and juicy pulp is snow - white or rose - coloured , and of delicious flavour and perfume .It is wholesome , and may be administered in fever .",
+        "words": [
+          "perfume",
+          "delicious",
+          "The soft and juicy pulp"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/49664ba5-4aa4-5f6c-8717-538b05c6ac9b",
+        "value": "of Carlsbad by rail .Marienbad is enclosed on all sides except the south by gently sloping hills clad with fragrant pine forests , which are intersected by lovely walks .The principal buildings are : the Roman Catholic church , which was completed in 1851 ; the English church , the theatre , the Kurhaus , built in 1901 , and several bathing establishments and hospitals .",
+        "words": [
+          "fragrant",
+          "pine forests"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/499e453e-76d5-5ffb-800e-583b308f25fd",
+        "value": "Its specific gravity varies from 1015 to 1025 .It tastes salt and has a faint odour .It is alkaline in reaction , but is much less alkaline than blood - serum .",
+        "words": [
+          "odour",
+          "faint",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/4c79ffa9-ea45-50cf-940f-5435be01c4d0",
+        "value": "Until the existence of this physical constant was discovered , any theoretical conclusions as to whether in any particular circumstances the resistance of the lubricant would follow the law of viscous flow or that of eddying motion was impossible .Thus Tower , being unaware of the discovery of the criterion , which was published in the same year as his reports , was thrown off the scent in his endeavour to verify the evidence he had obtained as to the finite thickness of the film by varying the velocity .He remarks in his first report that , “ according to the theory of fluid motion , the resistance would be as the square of the velocity , whereas in his results it did not increase according to this law .",
+        "words": [
+          "scent",
+          "his",
+          "Tower"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/4c91df10-bae2-531c-a3c0-bb865b225f19",
+        "value": "A perforated spur , with a special secreting gland in connexion with it , is found attached to each hind - leg of the males of the existing species of Monotremata .Scent - glands , & c .— Besides the universally distributed sweat - glands connected with the hair - system , most mammals have special glands in modified portions of the skin , often involuted to form a shallow recess or a deep sac with a narrow opening , situated in various parts of the surface of the body , and secreting odorous substances , by the aid of which individuals recognize one another .",
+        "words": [
+          "Scent",
+          "glands"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/59a84c1a-65eb-53da-ba20-ac6f7e5f2e50",
+        "value": "The family was of Huguenot extraction ( see Martineau , James ) and professed Unitarian views .The atmosphere of her home was industrious , intellectual and austere ; she herself was clever , but weakly and unhappy ; she had no sense of taste or smell , and moreover early grew deaf .At the age of fifteen the state of her health and nerves led to a prolonged visit to her father ' s sister , Mrs Kentish , who kept a school at Bristol .",
+        "words": [
+          "smell",
+          "she",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/5ef50063-f4d4-524a-a25b-7a036627b106",
+        "value": "These probably afford the principal means by which wild animals are able to become aware of the presence of other members of the species , even at great distances .To this group of structures belong the suborbital face - gland , “ larmier , ” or “ crumen , ” of antelopes and deer , the frontal gland of the muntjak and of bats of the genus Phyllorhina , the chin - gland of the chevrotains and of Taphozous and certain other bats , the glandular patch behind the ear of the chamois and the reed - buck , the glands on the lower parts of the legs of most deer and a few antelopes ( the position of which is indicated by tufts of long and often specially coloured hair ) , the interdigital foot - glands of goats , sheep , and many other ruminants , the temporal gland of elephants , the lateral glands of the musk - shrew , the gland on the back of the hyrax and the peccary ( from the presence of which the latter animal takes the name Dicotyles ) , the gland on the tails of the members of the dog - tribe , the preputial glands of the musk - deer and beaver ( both well known for the use made of their powerfully odorous secretion in perfumery ) , and also of the swine and hare , the anal glands of Carnivora , the perineal gland of the civet ( also of commercial value ) , the caudal glands of the fox and goat , the gland on the wing - membrane of bats of the genus Saccopteryx , the post - digital gland of the rhinoceros , & c .Very generally these glands are common to both sexes , and it is in such cases that their function as a means of mutual recognition is most evident .",
+        "words": [
+          "hare",
+          "odorous",
+          "their",
+          "the swine",
+          "powerfully odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/616cac6a-da95-5758-8a04-6e2bfbf1a701",
+        "value": "Its hardness is less than 4 , but it takes a good polish like marble : it is rather denser than marble , having a specific gravity of 3 .Mosquitoes in the house may be destroyed by the fumes of burning sulphur or tobacco smoke .According to the experiments of Celli and Casagrandi , these are the most effective culicides ; when used in sufficient quantity they kill mosquitoes in one minute .",
+        "words": [
+          "in",
+          "fumes",
+          "in the house",
+          "destroyed",
+          "Mosquitoes in",
+          "of burning sulphur or tobacco smoke"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/76369807-eee9-5a29-a482-98763debf1b3",
+        "value": "Magnolias are trees or shrubs with deciduous or rarely evergreen foliage .They bear conspicuous and often large , fragrant , white , rose or purple flowers .The sepals are three in number , the petals six to twelve , in two to four series of three in each , the stamens and carpels being numerous .",
+        "words": [
+          "fragrant",
+          "white",
+          "rose or purple flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/77774e57-049c-5fa4-9287-cbeed44045bb",
+        "value": "Sa .)   connected with major , greater , nor with amaracus ) , in botany , the common name for some aromatic herbs or undershrubs , belonging to the genus Origanum ( natural order Labiatae ) .Wild marjoram is O .",
+        "words": [
+          "herbs",
+          "aromatic",
+          "some",
+          "undershrubs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/978e2080-798e-58fc-b240-ccf0a9df1377",
+        "value": "Alhagi manna ( Persian and Arabic tar - angub ī n , also known as terendschabin ) is the produce of Alhagi maurorum , a small , spiny , leguminous plant , growing in Arabia , Asia Minor , Persia , Afghanistan , Baluchistan and northern India .This manna occurs in the form of small , roundish , hard , dry tears , varying from the size of a mustard seed to that of a coriander , of a light - brown colour , sweet taste , and senna - like odour .The spines and pods of the plant are often mixed with it .",
+        "words": [
+          "odour",
+          "like",
+          "senna",
+          "hard",
+          "This manna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/9a7d7800-9121-5c23-b95d-ad43c961aa43",
+        "value": "He was just making preparations to settle definitely in Damascus when he died in 1632 .His great work , The Breath of Perfume from the Branch of Green Andalusia and Memorials of its Vizier Lis ā n ud - D ī n ibn ul - Khat ī b , consists of two parts .The first is a compilation from many authors on the description and history of Moslem Spain ; it was published by Wright , Krehl , Dozy and Dugat as Analectes sur l ’ histoire et la littérature des Arabes d ’ Espagne ( Leiden , 1855 – 1861 ) , and in an abridged English translation by P .",
+        "words": [
+          "Perfume",
+          "from the Branch of Green Andalusia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/9c038c36-0f4f-5ba4-8340-6a6053767e7c",
+        "value": "D .400 in the odour of sanctity in a convent at Ribla on the Orontes , whence orthodoxy spread over mid - Syria .But nothing sure is known of him , and not much more about a more historical personage , Yuhanna Marun ( John Sirimensis of Suedia ) , said to have been patriarch of Antioch , to have converted Lebanon from Monothelism , and to have died in A .",
+        "words": [
+          "odour",
+          "of sanctity",
+          "in a convent at Ribla on the Orontes",
+          "mid - Syria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/9c55d48d-0d1d-5e89-ac11-ecbfc8842f1a",
+        "value": "The female makes her nest of moss , dried leaves and grass in the hollow of a tree , but sometimes in a hole among rocks or ruined buildings , and produces several young at a birth , usually from four to six .Though wild and untameable to a great degree if captured when fully grown , if taken young they are docile , and have frequently been made pets , not having the strong unpleasant odour of the smaller Mustelidae .The pine - marten appears to have been partially domesticated by the Greeks and Romans , and used to keep houses clear from rats and mice .",
+        "words": [
+          "odour",
+          "strong unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/a40421ef-04b3-5a3e-a32b-a82705eb7111",
+        "value": "There remains the question of protection against the parasite .Mosquitoes in the house may be destroyed by the fumes of burning sulphur or tobacco smoke .According to the experiments of Celli and Casagrandi , these are the most effective culicides ; when used in sufficient quantity they kill mosquitoes in one minute .",
+        "words": [
+          "in",
+          "fumes",
+          "in the house",
+          "destroyed",
+          "Mosquitoes in",
+          "of burning sulphur or tobacco smoke"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/a55e86ac-73e9-505d-8a33-41cae5adc20b",
+        "value": "long , 8 to 10 in .broad , oblong - obovate and heart - shaped at the base ; the open sweet - scented bell - shaped flowers 8 to 10 in .across , are white with a purple blotch at the base of the petals ; M .",
+        "words": [
+          "sweet",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/b7a59798-eec3-558b-a3d6-9b18b925b540",
+        "value": "stellata or Halleana , a charming deciduous Japanese shrub remarkable for producing its pure white starry flowers as early as February and March on the leafless stems ; and M .Watsoni , another fine deciduous Japanese bush or small tree with very fragrant pure white flowers 5 to 6 in .across .",
+        "words": [
+          "fragrant",
+          "very fragrant",
+          "pure white"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/bbe0c31c-bfb3-5174-9c8b-05fdbd3936f4",
+        "value": "A species of bamboo is very plentiful in the river valleys and in marshy situations .A large variety of fruit is produced , including the tamarind , mango , banana , pine - apple , guava , shaddock , fig , avocado - pear , litchi , custard - apple and the mabolo ( Diospyros discolor ) , a fruit of exquisite flavour , but very disagreeable odour .Many of the roots and vegetables of Europe have been introduced , as well as some of those peculiar to the tropics , including maize , millet , yams , manioc , dhol , gram , & c .",
+        "words": [
+          "banana",
+          "fig",
+          "guava",
+          "odour",
+          "very disagreeable",
+          "the tamarind",
+          "mango",
+          "pine - apple",
+          "custard - apple",
+          "shaddock",
+          "litchi",
+          "the mabolo ( Diospyros discolor )",
+          "avocado - pear"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/bf9e5def-ec2c-5e72-9271-9bd47f5d572f",
+        "value": "There are one to four large rough seeds , which are bitter and resinous , and used as anthelmintics .An aromatic liqueur distilled from the flowers is known as eau de créole in the West Indies , and the acrid resinous gum is used to destroy the chigoes which attack the naked feet of the negroes .The wood is durable and well adapted for building purposes ; it is beautifully grained and used for fancy work .",
+        "words": [
+          "liqueur",
+          "aromatic",
+          "the flowers",
+          "acrid",
+          "eau",
+          "acrid resinous gum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/bfe7c08d-f0ef-5b3b-934f-7ea6747c4cfb",
+        "value": "The first Portuguese expedition sent out to capture Malacca was under the command of Diogo Lopez de Siqueira and sailed from Portugal in 1508 .At Cochin Siqueira took on board certain adherents of Alphonso d ’ Alboquerque who were in bad odour with his rival d ’ Almeida , among them being Magellan , the future circumnavigator of the world , and Francisco Serrão , the first European who ever lived in the Spice Islands .Siqueira ’ s expedition ended in failure , owing partly to the aggressive attitude of the Portuguese , partly to the very justifiable suspicions of the Malays , and he was presently forced to destroy one of his vessels , to leave a number of his men in captivity , and to sail direct for Portugal .",
+        "words": [
+          "odour",
+          "bad",
+          "with",
+          "adherents of Alphonso d",
+          "At Cochin",
+          "Siqueira"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/c0b47e86-55e4-5a35-abcd-5bd100529aa9",
+        "value": "from the river Ayr , which flows through the south of the parish of Mauchline .It is noted for its manufacture of snuff - boxes and knick - knacks in wood , and of curling - stones .There is also some cabinet - making , besides spinning and weaving , and its horse fairs and cattle markets have more than local celebrity .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/c530a49c-5758-5d0e-9839-aa7bdee34842",
+        "value": "M .pumila , the dwarf magnolia , from the mountains of Amboyna , is nearly evergreen , and bears deliciously scented flowers ; it was introduced in 1786 .The Indian species are three in number , M .",
+        "words": [
+          "scented",
+          "deliciously scented",
+          "pumila",
+          "the dwarf magnolia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/c56812d5-80fd-5441-b673-4fb078f5b1fd",
+        "value": "A political event of the first importance now riveted his attention upon the north .Pod ě brad , who had gained the throne of Bohemia with the aid of the Hussites and Utraquists , had long been in ill odour at Rome , and in 1465 Pope Paul II .determined to depose the semi - Catholic monarch .",
+        "words": [
+          "ill",
+          "odour",
+          "at Rome",
+          "Pod ě brad",
+          "in 1465"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/c665bea4-7b72-5335-ad80-6ca9ee049655",
+        "value": "After remaining four days on the young floor three or four rootlets should have appeared , and the acrospire should have begun to grow up the back of the corn .The apple - like odour of the piece then gives place to one resembling that of the common rush , and this should continue the whole time that the malt remains on the floor .On the fifth day the piece is next moved to No .",
+        "words": [
+          "apple",
+          "odour",
+          "like",
+          "of the piece",
+          "that of the common rush"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/c89cb023-9519-5da9-afca-789102c3326c",
+        "value": "They are fervent , but though abounding in excellent morality , do not rise to any great height as poetry .Other Marathi poets who may be mentioned are Ś r ī dhar ( 1678 – 1728 ) , the most copious of all , who translated the Bh ā gavata Pur ā na , and the learned May ū ra or M ō r ō pant ( 1729 – 1794 ) , whose works smell too much of the lamp to satisfy European standards of criticism .Mah ī pati ( 1715 – 1790 ) was an imitator of Tuk ā r ā m , but his chief importance rests on the fact that he collected the popular traditions about national saints , and was thus the author of the Acta sanctorum of the Marathas .",
+        "words": [
+          "smell",
+          "too much",
+          "of",
+          "works"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/cbd6ffb2-84a0-55cd-864c-7602a9c8d2dd",
+        "value": "At the age of thirteen he was apprenticed , along with Horatio Macculloch and Leitch the water - colour painter , to John Knox , a landscapist of some repute .He afterwards worked for a year as a lithographer , was employed by the Smiths of Cumnock to paint the ornamental lids of their planewood snuff - boxes , and , having studied in Edinburgh at the “ Trustees ’ Academy , ” supporting himself meanwhile by designing and colouring book illustrations for Lizars the engraver , he established himself as an artist in Glasgow , where he became a fashionable portrait painter .He was in 1829 admitted a member of the Royal Scottish Academy ; and on the death of Sir George Harvey in 1876 he was elected president , and received the honour of knighthood .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/d5d96a27-e2a3-5f83-908e-f28c2985e445",
+        "value": "arboreus ) is a Californian bush , 2 to 4 ft .high , with fragrant yellow flowers .It is only hardy in the most favoured parts of the kingdom .",
+        "words": [
+          "fragrant",
+          "yellow flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/d8cb41b1-dc78-51be-a105-9f22e90d7c05",
+        "value": "Marjorana , and pot marjoram , O .Onites , are cultivated for the use of their aromatic leaves , either green or dry , for culinary purposes ; the tops are cut as the plants begin to flower and are dried slowly in the shade .His name occurs in several books of the New Testament , and doubtless refers in all cases to the same person , though this has been questioned .",
+        "words": [
+          "aromatic",
+          "their",
+          "leaves",
+          "Onites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/d9bfec8f-7616-578b-8c2d-66385678a486",
+        "value": ", 1860 , 58 , pp .5 , 19 ) obtained magnesium methyl , Mg ( CH3 ) 2 , and magnesium ethyl , Mg ( C2H5 ) 2 , as colourless , strongly smelling , mobile liquids , which are spontaneously inflammable and are readily decomposed by water .Grignard Reagent .",
+        "words": [
+          "smelling",
+          "magnesium",
+          "strongly smelling",
+          "mobile liquids"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/e87aa101-c146-5a4c-808d-3096beb96366",
+        "value": "Scent - glands , & c .— Besides the universally distributed sweat - glands connected with the hair - system , most mammals have special glands in modified portions of the skin , often involuted to form a shallow recess or a deep sac with a narrow opening , situated in various parts of the surface of the body , and secreting odorous substances , by the aid of which individuals recognize one another .These probably afford the principal means by which wild animals are able to become aware of the presence of other members of the species , even at great distances .",
+        "words": [
+          "substances",
+          "odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/f4936b8c-2958-5555-9b9b-80abf3d1bd35",
+        "value": "O ’ Hanlon , Life of Saint Malachy ( Dublin , 1859 ) ; articles in Dictionary of National Biography and Herzog - Hauck ’ s Realencyklopädie für protestantische Theologie .On the Prophecy , see the 456 MALACHOWSKI — MALACHY ⁠ snuff - boxes and various ornamental objects .Even folding doors , mantelpieces , table - tops and other articles of furniture have been executed in malachite , the objects being veneered with thin slabs cleverly fitted together so as to preserve the pattern , and having the interspaces filled up with fragments and powder of malachite applied with a cement .",
+        "words": "snuff"
+      }
+    ],
+    "label": "1911 Encyclopædia Britannica",
+    "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica",
+    "date": "1911",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/108",
+      "label": "Odor of sanctity"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29ce4f30-b5c5-5df4-b3eb-f13c313f90a9",
+      "label": "1911",
+      "begin": "1911",
+      "end": "1911"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/168665/",
+      "label": "Kafr Mīd"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/ce5e9ec3-6981-5bbd-a4fe-e3edcc94a1ae",
+      "label": "in a convent at Ribla on the Orontes"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/aaf387b1-53cc-53ae-8282-9b0f5fc034b0/fragment/9c038c36-0f4f-5ba4-8340-6a6053767e7c"
+}

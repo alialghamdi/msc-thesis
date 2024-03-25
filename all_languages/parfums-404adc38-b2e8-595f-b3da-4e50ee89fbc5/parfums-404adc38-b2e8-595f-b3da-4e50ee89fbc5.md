@@ -1,0 +1,151 @@
+## parfums
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/404adc38-b2e8-595f-b3da-4e50ee89fbc5 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | parfums |
+| source.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/06fd4bdf-b250-51ab-bfe0-9a24ca47cf32 |
+| source.excerpts.0.value | Triste , je pris la fleur .Les arômes puissants , Lentement exhalés de ses sanglants pétales , Semblaient une vapeur des mers orientales Dont les bords fortunés voient recueillir l ' encens .Pauvre insecte , sentant déjà venir l ' automne , Tu cherchas le moyen le plus doux de mourir . |
+| source.excerpts.0.words.0 | pétales |
+| source.excerpts.0.words.1 | vapeur |
+| source.excerpts.0.words.2 | puissants |
+| source.excerpts.0.words.3 | arômes |
+| source.excerpts.0.words.4 | mers |
+| source.excerpts.0.words.5 | exhalés |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/09e17535-56b8-5705-8ef3-3d80de6dea95 |
+| source.excerpts.1.value | On arrose Les portiques de nard , de baume , d ' eau de rose Et d ' huile de senteur .Autour des gros piliers Les blanches fleurs des lis s ' enroulent en colliers , Et pour garnir les murs d ' odorantes guirlandes , On a pillé les bois , les jardins et les landes ; Tout le sol est jonché de fleurs .Isbal surpris Veut s ' avancer . |
+| source.excerpts.1.words.0 | odorantes |
+| source.excerpts.1.words.1 | blanches fleurs des lis |
+| source.excerpts.1.words.2 | odorantes guirlandes |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/20aeb44d-d104-5c7b-8414-45d5dcd84c1e |
+| source.excerpts.2.value | Au lieu de résister , de craindre , de souffrir Répétant chaque jour ta plainte monotone .ORAISON FUNÈBRE D ' UN SCARABEE 83 Tu choisis ce tombeau , superbe , aérien , Tu t ' y couchas hier , tout vibrant de tendresse , Après avoir reçu la dernière caresse D ' une blonde cétoine et tu ne vis plus rien ! Rien ! dans l ' enivrement de l ' odeur capiteuse , Dans le sommeil très lourd qui fermait tes yeux d ' or , Dans les songes heureux où , croyant vivre encor , Tu franchissais déjà la frontière douteuse .Et là - haut , quelque part , au bout de l ' univers , Doit être un ciel plus gai , loin des grands saints moroses , Un ciel plein de rayons et de nuages roses Pour les papillons bleus et les insectes verts . |
+| source.excerpts.2.words.0 | odeur |
+| source.excerpts.2.words.1 | capiteuse |
+| source.excerpts.2.words.2 | hier |
+| source.excerpts.2.words.3 | Après |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/3c1a1d4f-3d5e-5160-b43d-efcee78bfc14 |
+| source.excerpts.3.value | PERLES NOIRES 257 Confondant l ' esclave et le maître , Le guerrier , le juge et le prêtre , L ' arbre , le vautour , le rocher , Le vieux Destin garde le monde , Versant à la terre féconde , Les rayons du divin archer .Sa flèche anime la matière ; Il donne aux fleurs du cimetière L ' effroyable vapeur des morts ; Il fait le berceau de la tombe , Et prend à l ' être qui succombe La substance des nouveaux corps .Il mêle l ' homme avec la bête , Il fait un aigle du poète , Il fait du tigre un conquérant ; Il mêle l ' homme avec la plante , Et plonge la rose sanglante Dans le coeur d ' un soldat mourant . |
+| source.excerpts.3.words.0 | effroyable |
+| source.excerpts.3.words.1 | vapeur |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/4cb54d74-968e-5ee9-a062-887cbe784293 |
+| source.excerpts.4.value | L ' écume prend les tons des marbres , L ' eau dort .Sous la voûte des arbres Flotte un nuage vénéneux .. |
+| source.excerpts.4.words | vénéneux |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/4f9b9738-3222-57e6-ac2c-885e8830a3fa |
+| source.excerpts.5.value | Le prêtre exaltait dans vos fêtes La puissance de Déméter .PERLES NOIRES 283 Vous représentiez la fortune , L ' espoir si cher aux coeurs meurtris , Le blond soleil , la pâle lune , Les doux parfums des prés fleuris .Perséphone était la semence , Poséidon les océans , Comme Cérés la terre immense , Et comme Ouranos les néants . |
+| source.excerpts.5.words.0 | prés |
+| source.excerpts.5.words.1 | doux parfums |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/6914c4f1-7777-5eb8-b436-b9559b5d31da |
+| source.excerpts.6.value | Mais , comme eux , avec un sourire , Prés de la mort , sachez écrire Un madrigal pour deux beaux yeux A UN JEUNE PAYSAN Fils du vieux sang gaulois , né sous un toit de chaume , On ne t ' a pas bourré la tête de latin Pendant dix ans , depuis cinq heures du matin Jusqu ' au soir , et tu vis sans avoir de diplôme .A toi les prés , à toi les champs , à toi l ' arôme De la brise sentant l ' aubépine et le thym ; A toi qui n ' as jamais , rêvant de haut destin , Du morne Panthéon contemplé le grand dôme ! Si l ' on pouvait choisir son rôle , j ' eusse été Comme toi , camarade , un fier gars effronté , L ' élégant du pays , le vrai coq du village .. |
+| source.excerpts.6.words.0 | thym |
+| source.excerpts.6.words.1 | brise |
+| source.excerpts.6.words.2 | champs |
+| source.excerpts.6.words.3 | aubépine |
+| source.excerpts.6.words.4 | arôme |
+| source.excerpts.6.words.5 | Panthéon |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/6d333f5b-bc3f-5a07-bcf0-cc5dbc79b61c |
+| source.excerpts.7.value | J ' ai longuement fourbi mon glaive , Pour qu ' il brille comme un miroir , Pour qu ' il puisse frapper sans trêve , Et que , tout rouge , sur la grève Je le lave en chantant ce soir .CLAIRONS J ' ai promis à ma bien - aimée Qui m ' a parfumé les cheveux , Que nul autre , dans notre armée , N ' acquerrait plus de renommée , Et je saurai tenir mes voeux ! Salut donc , toi , dieu de la guerre ! Si toujours tu me secondas Dans nos combats d ' enfants , naguère , Pour une lutte moins vulgaire Conduis - moi parmi les soldats ! Tu sais que dans mon oratoire Tu dépasses les autres dieux ; En toi j ' espère la victoire , De toi j ' attends honneur et gloire ; Regarde - moi du haut des cieux .Mars , amant de Vénus la blonde , Tu sais que je compte sur toi Pour régner sur la terre et l ' onde , Pour voir un jour l ' orbe du monde Tout entier soumis à ma loi . |
+| source.excerpts.7.words.0 | parfumé |
+| source.excerpts.7.words.1 | cheveux |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/6e2abb2f-982c-50fa-bf28-46ccb0a96fb7 |
+| source.excerpts.8.value | .L ' amour flottait dans l ' air comme un parfum très doux Et le pollen fécond tombait sur les corolles .LES CARPES ( Juillet , 1881 ) . |
+| source.excerpts.8.words.0 | parfum |
+| source.excerpts.8.words.1 | air |
+| source.excerpts.8.words.2 | très doux |
+| source.excerpts.8.words.3 | pollen |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/8646a90e-16ab-5362-a594-0410649f1f4b |
+| source.excerpts.9.value | Mais la flèche se dore Sous le pâle soleil , et les blonds émigrants Qui reviendront un jour chasser les conquérants S ' arrêtent , tout pensifs , pour regarder encore .— La bise emporte au loin les papillons d ' azur ; Ils s ' envolent , ouvrant leurs ailes diaprées Pour découvrir les fleurs de nouvelles contrées , Imprudents que la mort guette au coin d ' un vieux mur , Ils espéraient trouver derrière les collines Des parfums plus puissants aux lis immaculés , De longs chemins couverts , sablés de cornalines , Des prés toujours fleuris et des cieux étoiles .PERLES NOIRES 225 Ils espéraient trouver les splendeurs d ' autres mondes . |
+| source.excerpts.9.words.0 | fleurs |
+| source.excerpts.9.words.1 | parfums |
+| source.excerpts.9.words.2 | puissants |
+| source.excerpts.9.words.3 | lis immaculés |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/930f0376-43f7-5f5a-9628-2b312ae46747 |
+| source.excerpts.10.value | Un jeune esclave , avec mépris , 348 PERLES NOIRES Repousse l ' étranger .— Mais pourquoi cette fête , Ces fleurs et ces parfums , demande le poète , Quel dieu célébre - t - on ? — Tu n ' es donc pas de Tyr ? — Je suis un voyageur .— Avant de repartir Tu sauras qu ' aujourd ' hui notre belle maîtresse Azmilkath se marie . |
+| source.excerpts.10.words.0 | Tyr |
+| source.excerpts.10.words.1 | fleurs |
+| source.excerpts.10.words.2 | parfums |
+| source.excerpts.10.words.3 | poète |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/94188c49-f20d-5bea-b61a-8ef7d1f2836b |
+| source.excerpts.11.value | .Ça sent mauvais .SOUS LA PREMIÈRE PIERRE Echènay . |
+| source.excerpts.11.words.0 | mauvais |
+| source.excerpts.11.words.1 | sent |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/9789f1d8-8e6d-52b0-8dc2-a6d53f2f6c1c |
+| source.excerpts.12.value | MAUVAIS RÊVE Succombant sous l ' hiver vainqueur , La nature , aux beaux jours si forte , Par ce triste soir semblait morte , S ' harmonisant avec mon coeur .Et , tremblant d ' une ardeur farouche , Je disais : Te prierais - je en vain ? O Fortune ! Fais que je touche Le port avant l ' avril prochain ! Qu ' il ne me faille pas encor Entendre les chansons fatales , Voir la rose ouvrir ses pétales Aux effluves du soleil d ' or ! Car les chants des oiseaux prédisent Les oeufs nombreux , orgueil des nids ; Les parfums des roses attisent Les feux d ' amour jamais finis .Car le printemps est criminel , Atroce , puisqu ' il fait qu ' on aime ! Car la vie est le mal suprême , Et l ' amour le mal éternel ! CLAIRONS — Ainsi , sentinelle et poète , Soldat par la muse distrait , Je rêvais , en baissant la tête , Au carrefour de la forêt . |
+| source.excerpts.12.words.0 | roses |
+| source.excerpts.12.words.1 | parfums |
+| source.excerpts.12.words.2 | rose |
+| source.excerpts.12.words.3 | effluves |
+| source.excerpts.12.words.4 | avril prochain |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/9ea53ba0-a022-52c5-a12f-a5da493611ab |
+| source.excerpts.13.value | J ' ai mis sous la première pierre De la galerie un flacon , Dans le flacon cette prière Que je dirai sur mon balcon : SOUS LA PREMIERE PIERRE 105 O Toi , Seigneur de toutes choses , Quand ici je viendrai m ' asseoir , Fais - moi voir des couchants plus roses , L ' été , vers l ' horizon du soir .Donne aux frondaisons des grands aulnes Plus d ' émeraude au bord du pré , Et jette sur les moissons jaunes Les orgueils d ' un ton plus doré ; Anime la forêt profonde De plus agiles chants d ' oiseaux ; Blondis encore la fleur blonde Des nénuphars dans les roseaux ; Elève les blanches corolles De lis plus blancs et plus nombreux ; Adoucis les douces paroles Murmurantes des amoureux ; Sous les verts taillis des allées , Aux tiédes nuits des messidors , Cache des filles moins halées Et de jeunes garçons plus forts ; 106 IMPRESSIONS Enchante la nature en fête , Toute pleine d ' ardents frissons ; Et fais - moi dire , plus poète , La quintessence des chansons ! Que le foin parfumé m ' enivre , Comme le vin , comme l ' amour ! Je veux si je dois encor vivre , Au moins connaître un heureux jour Je veux oubliant mes désastres , Bientôt , citoyen des soleils , Raconter aux échos des astres Que la Terre a des soirs vermeils ! A LA SORBONNE Je t ' ai retrouvée , ô Sorbonne noire , Sorbonne , où , jadis , la craie à la main , Triomphant , je crus m ' ouvrir le chemin Étroit et croulant qui mène à la gloire ! Devant moi , bien haut , volait la Victoire ! Mon coeur s ' enflammait d ' un feu surhumain , Et , dans l ' orgueil fou de mon parchemin , Je rêvais déjà de faire l ' histoire ! Oh ! ne raillez pas ma jeune ferveur .J ' ignorais , qu ' hélas ! régne la faveur De Brest à Pékin , d ' Arkhangel au Caire ! 108 IMPRESSIONS D ' un diplôme obscur , j ' étais si content ! . |
+| source.excerpts.13.words.0 | parfumé |
+| source.excerpts.13.words.1 | foin |
+| source.excerpts.13.words.2 | Je t |
+| source.excerpts.13.words.3 | des messidors |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/a91e8f2d-819e-5f41-a871-8cea80164538 |
+| source.excerpts.14.value | — C ' est l ' heure inexorable où meurt le poitrinaire , Dont les acres vapeurs corrodent les poumons ; Et l ' Angelus lointain semble un glas mortuaire Accompagnant le choeur chanté par les démons .Si le Ciel interdit les trop ardentes fièvres , Les phtisiques mourant brûlés par les amours , Plus que tous ont vécu dans leurs printemps trop courts , Plus que tous ont senti des hymnes sur leurs lèvres .Mais auprès de Satan , peut - être le damné Sous les rouges arceaux où se tordent des flammes , Errant désespéré , rencontre - t - il des âmes Qui furent Cléopâtre , Aspasie et Phryné ! 226 PERLES NOIRES — Pourquoi songer aux morts retournés à la terre ? Ils sont passés , pourquoi songer au dur trépas ? Il doit venir ; pourquoi chercher le noir mystère , Quand la grande Faucheuse est déjà sur nos pas ? Sombre automne , oublions tes jours froids et moroses , Oublions tes douleurs comme au temps des aïeux , Nous avons les rubis du vin qui rend joyeux , Si nous ne pouvons plus aller cueillir des roses . |
+| source.excerpts.14.words.0 | ardentes |
+| source.excerpts.14.words.1 | fièvres |
+| source.excerpts.14.words.2 | phtisiques |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/c4e556c2-cb4f-5b1a-886b-56045179203c |
+| source.excerpts.15.value | J ' irai faire le tour de nos jardins flétris , Cherchant les fleurs d ' automne aux couleurs effacées , Puis dans mes pauvres mains tremblantes et glacées , J ' emporterai ces fleurs comme un trésor sans prix .84 IMPRESSIONS Pour m ' enivrer alors de leur odeur profonde , J ' en couvrirai mon lit ; je leur dirai , tout bas : O fleurs , ô douces fleurs , donnez un doux trépas A celui qui s ' en va , fatigué de ce monde .Au poète épuisé qui ne sait plus de vers Ouvrez le Paradis créé pour les bohèmes , Pour les écrivains fous , ciseleurs de poèmes , Pour les papillons bleus et les insectes verts . |
+| source.excerpts.15.words.0 | odeur |
+| source.excerpts.15.words.1 | fleurs |
+| source.excerpts.15.words.2 | leur |
+| source.excerpts.15.words.3 | profonde |
+| source.excerpts.15.words.4 | m |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/c96d5a64-9e5e-52b0-b29e-1ab5bd9810e1 |
+| source.excerpts.16.value | 220 PERLES NOIRES Aujourd ' hui , je suis toi , poète ! Ecris ! je dicterai les vers , Je ferai sonner dans ta tète Tous les échos de l ' univers .Car je suis la splendeur des choses , L ' hymne universel et vivant ; Je suis le doux parfum des roses , Je suis le jeune homme rêvant ! Je suis la gloire de la terre , Le génie et le roi vainqueur , Le prêtre songeant au mystère , L ' amant qui sent bondir son coeur ! Mon bras arrête l ' ignorance , Ma justice frappe le mal , Ma parole dit : espérance ! Et l ' on me nomme : l ' Idéal ! N .- D . |
+| source.excerpts.16.words.0 | roses |
+| source.excerpts.16.words.1 | doux parfum |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/c9eaed66-0442-5059-8ca0-be9d75ae0aad |
+| source.excerpts.17.value | La végétation puissante Monte en d ' étranges floraisons .Je ne sais d ' endroit où l ' on sente Plus de parfums et de poisons .L ' écume prend les tons des marbres , L ' eau dort . |
+| source.excerpts.17.words.0 | parfums |
+| source.excerpts.17.words.1 | poisons |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/d4952013-1621-5bd7-bea9-b6a55c59bb32 |
+| source.excerpts.18.value | Pourquoi , Ciel , qu ' aujourd ' hui j ' implore , Ne m ' as - tu pas alors permis De m ' envoler avec l ' aurore , Bien loin , vers des astres amis ? Car la terre est dure et farouche Pour le poète au front vermeil , Qui , se retournant sur sa couche , Cherche en vain l ' oubli du sommeil .— Par les fièvres des insomnies , Je songe , entre mes draps brûlants , Au bonheur dos vieilles momies , Si calmes depuis trois mille ans ! Avec de saintes amulettes , Dans les sarcophages étroits , Reposent sous les bandelettes Les reines à côté des rois .PERLES NOIRES 295 On a creusé le granit rose Pour leur ouvrir des panthéons , Et derrière la porte close , Rien n ' a troublé les pharaons , Jusqu ' au jour où , dans les fanfares Qui réveillaient les oasis , Bonaparte avec ses barbares Foula le sol aimé d ' Isis . |
+| source.excerpts.18.words.0 | fièvres |
+| source.excerpts.18.words.1 | depuis trois mille ans |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/ded272cf-ac0d-54f2-9959-ad0657f5c3c9 |
+| source.excerpts.19.value | Tu vas froide , en la froide nuit ; Et pourtant , sous ton flanc de glace , Le coeur a su trouver sa place ! Saute ! saute ! l ' amour te suit .Grise - toi de l ' odeur des menthes .. |
+| source.excerpts.19.words.0 | odeur |
+| source.excerpts.19.words.1 | menthes |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/dff50ae8-2c93-520e-9c4a-31a195169719 |
+| source.excerpts.20.value | Isbal chez Kelbilim se présente .On arrose Les portiques de nard , de baume , d ' eau de rose Et d ' huile de senteur .Autour des gros piliers Les blanches fleurs des lis s ' enroulent en colliers , Et pour garnir les murs d ' odorantes guirlandes , On a pillé les bois , les jardins et les landes ; Tout le sol est jonché de fleurs . |
+| source.excerpts.20.words.0 | huile |
+| source.excerpts.20.words.1 | baume |
+| source.excerpts.20.words.2 | nard |
+| source.excerpts.20.words.3 | eau de rose |
+| source.excerpts.20.words.4 | arrose |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/eb8f666c-b306-5309-8cdc-9b6c6e8820ab |
+| source.excerpts.21.value | Car le Ciel est l ' époux de la Terre Féconde ; Et , comme des parents gardent à leurs côtés Un enfant étourdi qui marche au bord de l ' onde , Ils gardent les humains dans leurs immensités , Bornant les mouvements innombrables du monde A la suprême fin de leurs stabilités .268 PERLES NOIRES O mon père , ô ma mère , écoutez ! Et , propices , Recevez le parfum précieux des épices Que brûle un feu brillant .Répandez vos faveurs Sur celui qui vous chante : à ses humbles ferveurs Accordez de savoir découvrir les auspices , Les trésors enfouis et les vertus des fleurs . |
+| source.excerpts.21.words.0 | parfum |
+| source.excerpts.21.words.1 | précieux |
+| source.excerpts.21.words.2 | épices |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/fe33ee48-d068-5454-87a9-21bd276a3a75 |
+| source.excerpts.22.value | PERLES NOIRES 341 Près des pilastres lourds les éléphants barrissent , Les grands oiseaux de mer éteignent les flambeaux , Les étalons sacrés , au vent de mer , hérissent Leurs crinières d ' argent en frappant des sabots , Et , plus bas , mesurant leurs pas hiératiques , Les prêtres longs - vêtus dans leurs robes de lin , Couronnés du trident , passent sous les portiques Pour aller saluer le jour à son déclin .Sur les trépieds d ' argent brûlent le cinnamome Et les puissants parfums engendrés du soleil : Car l ' astre , se couchant au bout de ce royaume , En féconde les fleurs jusque dans leur sommeil .Les éphébes , portant des corbeilles de roses , Vont jeter à la mer des pétales sanglants , Comme un suprême hommage au créateur des choses , Au grand Poséidon , roi des flots turbulents . |
+| source.excerpts.22.words.0 | parfums |
+| source.excerpts.22.words.1 | cinnamome |
+| source.excerpts.22.words.2 | puissants |
+| source.author.0.@id | http://data.odeuropa.eu/actor/70d657e5-7d08-5301-ad71-f50e15249bba |
+| source.author.0.label | Gabriel de Rarécourt de la Vallée  ; marquis de) Pimodan |
+| source.label | Poésies de Pimodan. Lyres et clairons. Le Coffret de perles noires... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k61124867 |
+| source.date | 1899 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/72 |
+| smellSource.0.label | Flower |
+| time.0.@id | http://data.odeuropa.eu/time/36fe5321-c19d-5fe7-bcca-6ff410672e98 |
+| time.0.label | 1899 |
+| time.0.begin | 1899 |
+| time.0.end | 1899 |
+| place.0.@id | https://sws.geonames.org/267008/ |
+| place.0.label | Tyre |
+| emotion.0.@id | http://data.odeuropa.eu/emotion-type/doubt |
+| emotion.0.label | doubt |
+| relevantExcerpt | http://data.odeuropa.eu/source/87cd2305-a413-5661-9721-346ac8a7854e/fragment/930f0376-43f7-5f5a-9628-2b312ae46747 |
+| license | Public domain |

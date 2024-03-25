@@ -1,0 +1,313 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c029c190-8c55-533b-a3eb-124fe7bb79b1",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "smell",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/0245aeee-3db0-5a6b-b9b6-bc56659979eb",
+        "value": "It is thoroughly Syrian , and that is to say that it is thoroughly ugly , and cramped , squalid , uncomfortable , and filthy — just the style of cities that have adorned the country since Adam ' s time , as all writers have laboured hard to prove , and have succeeded .The streets of Magdala are anywhere from three to six feet wide , and reeking with uncleanliness .The houses are from five to seven feet high , and all built upon one arbitrary plan — the ungraceful form of a drygoods drygoods box .",
+        "words": [
+          "reeking",
+          "The",
+          "with",
+          "uncleanliness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/11afd1f6-b2ce-5262-afcc-23c12175a42d",
+        "value": "He took me back and flooded me with hot water , then turbaned my head , swathed me with dry tablecloths , and conducted me to a latticed chicken - coop in one of the galleries , and pointed to one of those Arkansas beds .I mounted it , and vaguely expected the odours of Araby again .They did not come .",
+        "words": [
+          "I",
+          "odours",
+          "of Araby"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/18f2d12c-506f-51be-822c-36e65a1adcdb",
+        "value": "It is just like any other Oriental city .That is to say , its Moslem houses are heavy and dark , and as comfortless as so many tombs ; its streets are crooked , rudely and roughly paved , and as narrow as an ordinary staircase ; the streets uniformly uniformly carry a man to any other place than the one he wants to go to , and surprise him by landing him in the most unexpected localities ; business is chiefly carried on in great covered bazaars , celled like a honeycomb with innumerable shops no larger than a common closet , and the whole hive cut up into a maze of alleys about wide enough to accommodate a laden camel , and well calculated to confuse a stranger , and eventually lose him ; everywhere everywhere there is dirt , everywhere there are fleas , everywhere everywhere there are lean , broken - hearted dogs ; every alley is thronged with people ; wherever you look your eye rests upon a wild masquerade of extravagant costumes ; the workshops are all open to the streets , and the workmen visible ; all manner of sounds assail the ear , and over them all rings out the muezzin ' s cry from some tall minaret , minaret , calling the faithful vagabonds to prayer ; and superior to the call to prayer , the noises in the streets , the interest of the costumes — superior to everything , and claiming the bulk of attention first , last , and all the time — is a combination combination of Mohammedan stenches , to which the smell of even a Chinese quarter would be as pleasant as the roasting roasting odours of the fatted calf to the nostrils of the returning returning Prodigal .Such is Oriental luxury — such is Oriental splendour ! We read about it all our days , but we comprehend it not until we see it .",
+        "words": [
+          "smell",
+          "odours",
+          "stenches",
+          "in the streets",
+          "pleasant",
+          "of even a Chinese quarter",
+          "of the fatted calf",
+          "Mohammedan",
+          "to the nostrils of the returning returning Prodigal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/2794ba74-50f1-5e03-b280-83137f555d94",
+        "value": "In the park are rustic seats , here and there , in secluded nooks that are dark with shade ; there are rivulets of crystal water ; there are lakelets , with inviting , inviting , grassy banks ; there are glimpses of sparkling cascades cascades through openings in the wilderness of foliage ; there are streams of clear water gushing from mimic knots on the trunks of forest trees ; there are minute marble temples perched upon grey old crags ; there are airy look - outs whence one may gaze upon a broad expanse of landscape and ocean .The palace is modelled after the choicest forms of Grecian architecture , and its wide colonnades surround a central court that is banked with rare flowers that fill the place with their fragrance , and in their midst springs a fountain that cools the summer air , and may possibly breed mosquitoes , but I do not think it does .The Grand Duke and his Duchess came out , and the presentation ceremonies were as simple as they had been at the Emperor ' s .",
+        "words": [
+          "fragrance",
+          "their",
+          "rare flowers",
+          "breed mosquitoes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/3ac1712c-e94c-5320-a777-8d35004a5f8c",
+        "value": "Other Arabs were filling black hog - skins with water — skins which , well filled , and distended with water till the short legs projected painfully painfully out of the proper line , looked like the corpses of hogs bloated by drowning .Here was a grand Oriental picture which I had worshipped a thousand times in soft , rich , steel engravings ! But in the engraving there was no desolation ; no dirt ; no rags ; no fleas ; no ugly features ; no sore eyes ; no feasting flies ; no besotted ignorance in the countenances ; no raw places on the donkeys ' backs ; no disagreeable jabbering in unknown tongues ; no stench of camels ; no suggestion that a couple of tons of powder placed under the party and touched off would heighten the effect and give to the scene a genuine interest and a charm THE ORIENTAL KISS .171 which it would always be pleasant to recall , even though a man lived a thousand years .",
+        "words": [
+          "stench",
+          "of camels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/3b4cde9d-ed72-561d-81f7-9859b67cfd52",
+        "value": "It was only a different kind of smell , but not conspicuous on that account , because we have a great deal of variety in that respect .We didn ' t smell , there on the Jordan , the same as we do in Jeru - salem ; and we don ' t smell in Jerusalem just as we did in Nazareth , or Tiberias , or Cesarea Philippi , or any of those other ruinous ancient towns in Galilee .No , we change all the time , and generally for the worse .",
+        "words": [
+          "Tiberias",
+          "smell",
+          "we",
+          "We",
+          "in Jerusalem",
+          "any of those other ruinous ancient towns in Galilee",
+          "in Nazareth",
+          "on the Jordan",
+          "Cesarea Philippi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/432ac335-7889-5165-be33-596c56f64c27",
+        "value": "George , who killed the dragon , and so on out to the hollow place under a rock where Paul hid during his flight till his pursuers gave him up ; and to the mausoleum of the five thousand Christians who were massacred in Damascus in 1861 by the Turks .They say those narrow streets ran blood for several days , and that men , women , and children were butchered indiscriminately and left to rot by hundreds all through the Christian quarter ; they say , further , that the stench was dreadful .All the Christians who could get away fled from the city , and the Mahommedans would not defile their hands by burying the The thirst for blood extended to the high lands of Hermon and Anti - Lebanon , and in a short time twenty - five thousand more Christians were massacred and their possessions laid waste .",
+        "words": [
+          "stench",
+          "dreadful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/43d6025c-84a9-5f77-a555-7ffa785aabf0",
+        "value": "My face smarted for a couple of hours , but it was partly because I got it badly sun - burned while I was bathing , and stayed in so long that it became plastered over with salt .No , the water did not blister us ; it did not cover us with a slimy ooze and confer upon us an atrocious fragrance ; it was not very slimy ; and I could not discover that we smelt really any worse than we have always smelt since we have been in Palestine .It was only a different kind of smell , but not conspicuous on that account , because we have a great deal of variety in that respect .",
+        "words": [
+          "the",
+          "I",
+          "smelt",
+          "we",
+          "fragrance",
+          "us",
+          "it",
+          "ooze",
+          "atrocious",
+          "really any worse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/4f243c7e-4328-5769-be77-924166e01171",
+        "value": "Of all the unchristian beverages that ever passed my lips , Turkish coffee is the worst .The cup is small , it is smeared with grounds ; the coffee is black , thick , unsavoury unsavoury of smell , and execrable in taste .The bottom of the cup has a muddy sediment in it half an inch deep .",
+        "words": [
+          "smell",
+          "execrable",
+          "the coffee",
+          "unsavoury unsavoury"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/86ae7ddf-2422-59b7-81c1-258cdf5a2854",
+        "value": "The shops here are mere coops , mere boxes , bath - rooms , closets — anything you please to call them — on the first floor .The Turks sit cross - legged in them , and work and trade and smoke long pipes , and smell like — like Turks .That covers the ground .",
+        "words": [
+          "smell",
+          "The",
+          "like — like Turks"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/be84aa77-c495-5c2d-89e4-921e76b41831",
+        "value": "The cadaverous , half nude varlets that served in the establishment had nothing of poetry in their appearance , nothing of romance , nothing of Oriental splendour .They shed no entrancing odours — just the contrary .Their hungry eyes and their lank forms continually suggested one glaring , unsentimental fact — they wanted what they term in California square I went into one of the racks and undressed .",
+        "words": [
+          "odours",
+          "They",
+          "entrancing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/bf11c64c-8af3-515c-a047-567f6c578f96",
+        "value": "No , the water did not blister us ; it did not cover us with a slimy ooze and confer upon us an atrocious fragrance ; it was not very slimy ; and I could not discover that we smelt really any worse than we have always smelt since we have been in Palestine .It was only a different kind of smell , but not conspicuous on that account , because we have a great deal of variety in that respect .We didn ' t smell , there on the Jordan , the same as we do in Jeru - salem ; and we don ' t smell in Jerusalem just as we did in Nazareth , or Tiberias , or Cesarea Philippi , or any of those other ruinous ancient towns in Galilee .",
+        "words": [
+          "smell",
+          "It",
+          "different kind of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/bf2e20d9-edab-5522-9dd8-25d9ec20fae2",
+        "value": "I cannot be imposed upon any more by that picture of the Queen of Sheba visiting Solomon .I shall say to myself , You look fine , madam , but your feet are not clean , and you smell like a camel .Presently a wild Arab in charge of a camel - train recog - nised an old friend in Ferguson , and they ran and fell upon each other ' s necks and kissed each other ' s grimy , bearded faces upon both cheeks .",
+        "words": [
+          "smell",
+          "you",
+          "your",
+          "like a camel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/ca43d240-9b87-5d8b-9d3b-1c5e53d4dff5",
+        "value": "I thought of it then , and superb as the bath was , I was sorry I had taken it , and was about to go and explain to the landlord .But a finely curled and scented poodle dog frisked up and nipped the calf of my leg just then , and before I had time to think , I had soused him to the bottom of the tank , and when I saw a servant coming with a pitcher I went off and left the pup trying to climb out and not succeeding very well .Satisfied revenge was all I needed to make me perfectly happy , and when I walked in to supper that first night in Damascus I was in that condition .",
+        "words": "scented"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/ca5e27f1-ab39-5968-9ac6-ab7752dce9ef",
+        "value": "Stayed till midnight , but not permitted to land by these infamous foreigners .They smell inodorously — they do not wash — they dare not risk cholera .Thursday — Anchored off the beautiful cathedral city of Malaga , Spain .",
+        "words": [
+          "smell",
+          "They",
+          "inodorously"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/cf699524-faf1-5a46-ae5a-70176e76b9e6",
+        "value": "214 out from the shores .It yields quantities of asphaltum ; fragments of it lie all about its banks ; this stuff gives the place something of an unpleasant smell .All our reading had taught us to expect that the first plunge into the Dead Sea would be attained with dis - tressing results — our bodies would feel as if they were suddenly pierced by millions of red - hot needles ; the dreadful smarting would continue for hours ; we might even look to be blistered from head to foot , and suffer miserably for many days .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "this stuff"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/d4162b69-1f27-5ad8-b237-17ec7b09d4e9",
+        "value": "Many and many a time , in fancy , I have lain in the marble bath , and breathed the slumbrous fragrance of Eastern spices that filled the air ; then passed through a weird and complicated system of pulling and THE NEW PILGRIM ' S PROGRESS .36 hauling , and drenching , and scrubbing by a gang of naked savages who loomed vast and vaguely through the steaming steaming mists , like demons ; then rested for awhile on a divan fit for a king ; then passed through another complex ordeal , and one more fearful than the first ; and , finally , swathed in soft fabrics , been conveyed to a princely saloon and laid on a bed of eider down , where eunuchs , gorgeous of costume , fanned me while I drowsed and dreamed , or contentedly gazed at the rich hangings of the apartment , the soft carpets , the sumptuous furniture , the pictures , and drank delicious coffee , smoked the soothing narghili , and dropped , at the last , into tranquil repose , lulled by sensuous odours from unseen censers , by the gentle influence of the narghili ' s Persian tobacco , and by the music of fountains that counterfeited the pattering of summer rain .That was the picture , just as I got it from incendiary books of travel .",
+        "words": [
+          "odours",
+          "sensuous",
+          "the narghili ' s Persian tobacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/d4b504cb-7e15-5d59-9d16-6c6d90d97b66",
+        "value": "DAMASCUS THE ETERNAL .99 Though old as history itself , thou art fresh as the breath of spring , blooming as thine own rose - bud , aud fragrant as thine own orange flower , O Damascus , pearl of the Damascus dates back anterior to the days of Abraham , and is the oldest city in the world .It was founded by Uz , the grandson of Noah .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/d555bcf6-9233-567d-b1a8-7ef2fd06dbfa",
+        "value": "The poor old sheik we saw at Cesarea Philippi with his ragged band of a hundred followers , would have been called a king in those ancient times .It is seven in the morning , and as we are in the country , the grass ought to be sparkling with dew , the flowers enriching the air with their fragrance , and the birds singing in the trees .But alas , there is no dew here , nor flowers , nor birds , nor trees .",
+        "words": [
+          "the air",
+          "the flowers",
+          "fragrance",
+          "their",
+          "the grass",
+          "in the trees"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/d8c09db1-dcd3-5f81-bbac-4509757e3c48",
+        "value": "It was a very solemn place .I expected that the spiced odours of Araby were going to steal my senses now , but they did not .A copper - coloured skeleton , with a rag around him , brought me a glass decanter of water , with a lighted tobacco pipe in the top of it , and a pliant stem a yard long with a brass mouth - piece to it .",
+        "words": [
+          "I",
+          "odours",
+          "my",
+          "now",
+          "my senses",
+          "spiced",
+          "of Araby",
+          "steal my"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/d9f9d0c9-03c4-5db4-bbad-f3cc5b288e57",
+        "value": "Some of us bathed for more than an hour , and then came out coated with salt till we shone like icicles .We scrubbed it off with a coarse towel and rode off with a splendid brand - new smell , though it was one which was not any more disagreeable than those We have been for several weeks enjoying .It was the variegated villany and novelty of it that charmed us .",
+        "words": [
+          "smell",
+          "We",
+          "those",
+          "for several weeks",
+          "splendid brand - new",
+          "any more disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/ddc1dd8d-012b-563d-b841-a3e42aebca6b",
+        "value": "He never left any chance for newspaper controversies about who won the battle .He made this valley , so quiet now , a reeking slaughter - pen .Somewhere in this part of the country — I do not know exactly where — Israel fought another bloody battle a hundred hundred years later .",
+        "words": "reeking"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/df905ec7-f1a3-5a11-935c-eb08a7f7119b",
+        "value": "disagreeably .The more he polished the worse I smelt .It was alarming .",
+        "words": [
+          "I",
+          "smelt",
+          "worse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/f28f85b1-2eb1-5ac6-9a27-d42aa41edafe",
+        "value": "For years and years I have dreamed of the wonders of the Turkish bath ; for years and years I have promised myself that I would yet enjoy one .Many and many a time , in fancy , I have lain in the marble bath , and breathed the slumbrous fragrance of Eastern spices that filled the air ; then passed through a weird and complicated system of pulling and THE NEW PILGRIM ' S PROGRESS .36 hauling , and drenching , and scrubbing by a gang of naked savages who loomed vast and vaguely through the steaming steaming mists , like demons ; then rested for awhile on a divan fit for a king ; then passed through another complex ordeal , and one more fearful than the first ; and , finally , swathed in soft fabrics , been conveyed to a princely saloon and laid on a bed of eider down , where eunuchs , gorgeous of costume , fanned me while I drowsed and dreamed , or contentedly gazed at the rich hangings of the apartment , the soft carpets , the sumptuous furniture , the pictures , and drank delicious coffee , smoked the soothing narghili , and dropped , at the last , into tranquil repose , lulled by sensuous odours from unseen censers , by the gentle influence of the narghili ' s Persian tobacco , and by the music of fountains that counterfeited the pattering of summer rain .",
+        "words": [
+          "the air",
+          "I",
+          "fragrance",
+          "slumbrous",
+          "of Eastern spices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/f423d86a-c719-5984-8d1b-34b3e1230310",
+        "value": "Presently my man sat me down by a tank of hot water , drenched me well , gloved his hand with a coarse mitten , and began to polish me all over with it .I began to smell disagreeably .disagreeably .",
+        "words": [
+          "smell",
+          "I",
+          "disagreeably"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/faead4e3-3d51-5549-abe6-13b7e1c5ad43",
+        "value": "The place is crowded with people all the time , and as the gay - coloured Eastern fabrics are lavishly displayed displayed before every shop , the great Bazaar of Stamboul is one of the sights that are worth seeing .It is full of life , and stir , and business , dirt , beggars , asses , yelling pedlers , porters , dervishes , high - born Turkish female shoppers , Greeks , and weird - looking and weirdly - dressed Mohammedans Mohammedans from the mountains and the far provinces — and the only solitary thing one does not smell when he is in the Great Bazaar is somtthing which smells good .CHAPTER III .",
+        "words": [
+          "smell",
+          "good",
+          "smells",
+          "one",
+          "which"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4befd612-ee68-5f1e-8e8b-40d8c3af9562",
+        "label": "Samuel Langhorne CLEMENS"
+      }
+    ],
+    "label": "New Pilgrim's Progress. A book of travel in pursuit of pleasure. By Mark Twain. The Journey Home",
+    "date": "1870",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/78c87a1c-9032-5273-97e0-968dd7fce3a2",
+      "label": "1870",
+      "begin": "1870",
+      "end": "1870"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/293322/",
+      "label": "Tabarīya"
+    },
+    {
+      "@id": "https://sws.geonames.org/294098/",
+      "label": "Nazareth"
+    },
+    {
+      "@id": "https://sws.geonames.org/3680237/",
+      "label": "Jordán"
+    },
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/ae046754-badf-5d2b-9178-8bbf6293ae00",
+      "label": "any of those other ruinous ancient towns in Galilee"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/b6e7af49-b07c-597d-a38f-c7632ce8ebd2",
+      "label": "Cesarea Philippi"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/fb262d63-89a1-5ff0-a1b5-d5632259b095/fragment/3b4cde9d-ed72-561d-81f7-9859b67cfd52"
+}

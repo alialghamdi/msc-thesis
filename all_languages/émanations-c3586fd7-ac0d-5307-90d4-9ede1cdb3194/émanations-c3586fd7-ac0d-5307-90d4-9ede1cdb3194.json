@@ -1,0 +1,80 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c3586fd7-ac0d-5307-90d4-9ede1cdb3194",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "émanations",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/16733748-4903-52f2-b7b4-06c580742a85",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/16733748-4903-52f2-b7b4-06c580742a85/fragment/0823e507-89d6-541d-ac2a-2d443c0b2320",
+        "value": "— Loyer , 150 mille francs .être que très - insalubre , dans un lieu humide et exposé aux brouillards et aux émanations de la rivière , enserré entre plusieurs grands monuments qui arrêteront les courants d ' air , et dans un lieu où l ' on ne peut bâtir que sur pilotis , ce qui entraînera encore une grande dépense , et sera de plus une cause d ' humidité .Enfin , il est une dernière considération non moins importante que celles que nous venons de passer en revue ; elle est d ' un intérêt majeur ; il s ' agit de l ' enseignement et du progrès de la , médecine et de la chirurgie : il est évident que , sous ce double rapport , le nouvel Hôtel - Dieu sera mieux placé à gauche de Notre - Dame , parce qu ' il sera pour ainsi dire dans le quartier Latin , à proximité de la Faculté de médecine , des professeurs et des étudiants .",
+        "words": [
+          "émanations",
+          "très - insalubre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16733748-4903-52f2-b7b4-06c580742a85/fragment/49d26636-c303-51c1-9f25-b7109bc85ac0",
+        "value": "occuper surtout de la salubrité des hôpitaux ; d ' ailleurs on peut encore aujourd ' hui respecter le sentiment populaire qui n ' a jamais séparé l ' asile central de la souffrance du sanctuaire de l ' église métropolitaine , et au lieu de construire l ' Hôtel - Dieu à droite de Notre - Dame , on peut le construire à gauche ; dans cette position , il pourra avoir tous les avantages qu ' on doit rechercher dans un hôpital , et dans celui - ci en particulier .Le nouvel Hôtel - Dieu , élevé du côté de la rue de la Bùcherie , dans une partie de l ' espace compris entre la place Maubert et la rue Saint - Jacques , entre le boulevard Saint - Germain et le quai Montebello , qui ne serait plus un quai , puisqu ' il faudrait combler le petit bras de la Seine , aurait toutes les conditions hygiéniques et de commodité qu ' on doit exiger ; il répondrait à tous les besoins et réunirait tous les avantages qu ' on doit se proposer dans un hôpital salubre ; n ' étant plus situé sur le bord de la Seine , il ne serait exposé ni à l ' humidité , ni aux brouillards , ni aux émanations du fleuve .Il aurait une étendue de terrain convenable et tout l ' espace qu ' on pourrait désirer pour éviter l ' encombrement .",
+        "words": [
+          "émanations",
+          "espace compris entre la place Maubert et la rue Saint - Jacques",
+          "la Bùcherie",
+          "le boulevard Saint - Germain",
+          "le quai Montebello",
+          "nouvel Hôtel - Dieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16733748-4903-52f2-b7b4-06c580742a85/fragment/cb977ace-df55-5ae6-84b4-392827307c2a",
+        "value": "Pour que les maisons d ' une population nombreuse ne soient pas insalubres , il faut que de grands espaces libres et découverts suppléent à ce qui manque d ' air autour de chaque individu .Il est bien établi que l ' encombrement surtout , le défaut d ' air et de lumière , l ' humidité , les émanations fétides sont les causes principales des accidents qui surviennent spontanément sur des plaies simples , comme sur celles qui sont accidentelles , chez des malades dont la constitution paraît vigoureuse et dont la santé a été toujours bonne .Il est donc de toute sagesse et de toute humanité de chercher à éloigner ces causes dans la construction d ' un hôpital .",
+        "words": [
+          "émanations",
+          "fétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16733748-4903-52f2-b7b4-06c580742a85/fragment/f13fcb65-fc4e-5e95-90ea-547605258ab2",
+        "value": "u Au surplus , où trouverait - on , sur un autre point de la ville à portée de la masse de la population , un emplacement de plus de deux hectares , aussi bien aéré et aussi largement dégagé que celui dont l ' administration a fait choix .» La première remarque que nous ferons sur l ' emplacement choisi pour reconstruire l ' Hôtel - Dieu , c ' est qu ' il sera encore placé sur les bords de la Seine , exposé par conséquent , comme l ' ancien Hôtel - Dieu , à l ' humidité , aux brouillards , aux émanations fétides du fleuve , causes , qui comme on le sait , produisent , avec l ' encombrement , les accidents des plaies , l ' érysipèle , l ' infection purulente , la mortalité en un mot .Dans cet endroit les caves seront - elles à l ' abri des grosses eaux de la Seine , comme il arrive pour l ' Hôtel - Dieu actuel .",
+        "words": [
+          "émanations",
+          "fétides",
+          "' Hôtel - Dieu",
+          "ancien Hôtel - Dieu"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/0f5cb522-fba8-5147-bba9-58c3a166489d",
+        "label": "Alphonse Alexandre  Boinet"
+      }
+    ],
+    "label": "Quelques réflexions sur la reconstruction de l'hôtel-Dieu de Paris. Moyen de faire cette reconstruction à bon marché. Avantage des secours chirurgicaux à domicile. Par le Dr Boinet",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6470615m",
+    "date": "1864",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/eb87ecc6-9fe7-5dff-bbc1-70c245c11107",
+      "label": "1864",
+      "begin": "1864",
+      "end": "1864"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12511093/",
+      "label": "Ancien hôtel-Dieu de Vire"
+    },
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/16733748-4903-52f2-b7b4-06c580742a85/fragment/f13fcb65-fc4e-5e95-90ea-547605258ab2",
+  "license": "Public domain",
+  "adjective": "fétides"
+}

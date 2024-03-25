@@ -1,0 +1,463 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/1207eea2-94a7-5513-8458-2cc965943ecb",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odorante",
+    "parfums",
+    "essence"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/04761ba2-c348-50d1-8d82-2419ba467eb2",
+        "value": "François BROUSSE , Diplôme d ' honneur .flaissanee dct Jour Nonchalamment couchée au sommet des collines , L ’ aurore suit de près l ’ étoile qui s ’ enfuit ; Et , parfumant de .thym ses lèvres purpurines , Elle attend que Phébus ait dissipé la nuit .",
+        "words": [
+          "parfumant",
+          "sommet",
+          "collines",
+          "dct Jour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/05200883-0514-50dd-89c4-af64c01bfbd0",
+        "value": "Si envolé dans les abstractions , extatique d ' irréelle vie , fasciné d ’ idées , l ’ homme sent bien cependant frémir la chair , puisqu ’ il se marie .Une fois marié , sa femme , à la cuisine , fera mijoter les petits oignons et l ’ odeur du roussi ne lui dira rien .Le frisson des jaunes feuillets lui tiendra lieu de caresses ? .",
+        "words": [
+          "odeur",
+          "roussi",
+          "Une fois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/1d7298ea-5567-5ecc-8865-75a6cd2f8455",
+        "value": "Lui , le Soleil , n ’ est - il pas l ’ éblouissant , l ’ incomparable roi de l ’ Or ? Et vous , philantrophes , cœurs généreux , âmes sensibles , continuez à maudire l ’ Argent .Appelez - le le plus vil des métaux , trouvez - iui des odeurs criminelles .Persistez , sans jamais désespérer , à employer vos incessants labeurs à améliorer l ’ Humanité pervertie .",
+        "words": [
+          "métaux",
+          "odeurs",
+          "criminelles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/1fde45a8-4dcf-51e3-aa1e-38a533275d70",
+        "value": "Souvent égarées d ’ arbre en arbre , ces lianes traversent des bras de rivières sur lesquels elles jettent des ponts et des arches de fleurs .Du sein de ces massifs embaumés , le superbe magnolia élève son cône immobile ; surmonté de ses larges roses blanches , il domine toute la forêt et n ’ a d ’ autre rival que le palmier , qui balance légèrement auprès de lui ses éventails de verdure .« Une multitude d ’ animaux placés dans ces retraites parla main du Créateur , y répandent l ’ enchantement et la vie .",
+        "words": [
+          "embaumés",
+          "magnolia",
+          "forêt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/2b3fc7f2-e679-5afb-8ead-bfef83257b82",
+        "value": "Charmante en ses grâces pudiques et voluptueuses à la fois , la nature plutôt lasse que morte s ’ enveloppe en ses voiles blancs et ruine entre les ruines hiver sous un précoce hiver , elle semble une fleur de poésie séchée ayant gardé le parfum si doux des fleurs mortes .Sans que s ’ arrêtent la force de ses décolorations , l ’ ivoirie de ses déroulements sans fin et l ’ éloignement de ses mirages , la blanche nature fait aux poètes des aumônes d ’ aurores et d ’ espérances , jusqu ’ à l ’ heure où , se dépouillant de son suaire , se délivrant de sa prison de satin blanc , elle apparaît radieuse de jeunesse printanière an milieu des fleurs embaumées de senteurs captivantes sous un ciel givré d ’ étoiles .* * * En la triste saison qui éveille des idées de déclin , d ’ adieu , de mort , la frêle vierge aux yeux suaves et purs , aux yeux de saphirs mouillés , certes dans de douces cernures , a cette expression la plus mystérieuse qui soit faite d ’ une sorte de regard fixe , de sileuce et de la beauté passagère des choses qui semblent naître et mourir au même instant .",
+        "words": [
+          "senteurs",
+          "captivantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/31320771-8db3-54cc-961a-ec4b5a89125a",
+        "value": ") ENGAP .ANNIVERSAIRE De fêter son nom j ’ étais folle L ’ ignoriez - vous boutons et fleurs Oh ! îœpliez votre corolle Gomme j ’ enterre dans mon cœur , Le souvenir de mon vainqueur Gardez vos parfums , doux symbole , De fêter son nom j ’ étais folle De Mars fini , bientôt Avril Je voulais ., oh ! cela m ’ affole Avec vous , fleurs leurrant l ’ exil Le griser du parfum subtil Du nectar de votre corolle .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "boutons",
+          "Mars fini",
+          "bientôt Avril"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/352a5b6e-b2ec-5417-9c84-abd60ee3f31d",
+        "value": "Tout parle encore d ’ elle et du bonheur passé ; Son cœur n ’ est plus , mais sa belle âme est revenue .Une odeur d ’ encensoir dans l ’ air est retenue ; Tout meuble , tout objet par l ’ odeur caressé Conserve longuement son parfum oppressé Une sensation de caresse ingénue .Là , sur un guéridon , l ’ ouvrage abandonné ; Les bésicles d ’ argent près d ’ un bouquet fané Qui , dans cette atmosphère où flotte l ’ agonie , Exhale un long soupir , un éternel adieu , Tandis qu ’ une suave et divine harmonie Du Ciel rempli d ’ espoir tombe et remonte à Dieu .",
+        "words": [
+          "parfum",
+          "odeur",
+          "son",
+          "air",
+          "encensoir",
+          "longuement",
+          "caressé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/3546d7e4-25bc-54fb-a35f-efe8f6130faa",
+        "value": "La joie semblait s ’ épandre en vapeurs embaumées sur la nature qui respirait tout alentour les suaves parfums d ’ une pure innocence .Serait - ce la résurrection de cette époque de félicité que la terre connut jadis et dont les poètes antiques chantèrent sur leui ’ S luths l ’ énivrant souvenir ? Assisterions - nous à l ’ avénement de quelque prince assez puissant pour refaire le partage égal des biens entre hommes , assurer la paix et la fraternité universelles ? Yerrait - on enfin se réaliser le rêve si souvent caressé d ’ un monde idéal où la bonté native de l ’ homme , dépouillée de tout élément de corruption , aura assis son règne sur les ruines de l ’ égoïsme et de l ’ envie , sur les bases de la justice et de la charité ? Oui , cette neige qui a blanchi la terre souillée de crimes innombrables , cette brise aux douces senteurs qui a chassé l ’ air vicié , ces chants joyeux , ces sons semblent présager une ère nouvelle .Voici que le soleil darde quelques rayons derrière les nuages bleus qui tamisent sa blanche lumière .",
+        "words": [
+          "senteurs",
+          "douces",
+          "brise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/44d38e18-956b-5ce9-b00a-9e6209b811c1",
+        "value": ".Pour une autre O Syrène ! mon cœur hautain Se livre à tes douces pâtures , N ’ y mords que si ta bouche atteint L ’ exquise odeur des fraises mûres ..",
+        "words": [
+          "odeur",
+          "exquise",
+          "pâtures",
+          "fraises mûres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/6609f72c-0b5b-5f9e-a645-d1b52f4f0626",
+        "value": "ANNIVERSAIRE De fêter son nom j ’ étais folle L ’ ignoriez - vous boutons et fleurs Oh ! îœpliez votre corolle Gomme j ’ enterre dans mon cœur , Le souvenir de mon vainqueur Gardez vos parfums , doux symbole , De fêter son nom j ’ étais folle De Mars fini , bientôt Avril Je voulais ., oh ! cela m ’ affole Avec vous , fleurs leurrant l ’ exil Le griser du parfum subtil Du nectar de votre corolle .L ’ ignoriez - vous boutons et fleurs Je sentais pour lui dans mon âme Comme vous germer dans vos cœurs Du pur amour monter la flamme A moi les tristesses de femme , .",
+        "words": [
+          "subtil",
+          "parfum",
+          "fleurs",
+          "nectar",
+          "corolle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/6ebf848b-a09e-526e-8417-12d684b3fefd",
+        "value": "Le mirage a fait place à l ’ ivresse , Votre rêve est semblable à l ’ éclat du matin , Le monde vous sourit , le bonheur vous caresse , Effleurant votre front de son souffle divin .La vie a des sentiers de ronces et d ’ épines Mais aussi des sentiers où croissent en tout temps Les lis , les blancs jasmins , les pâles églantines Elles diverses fleurs aux parfums odorants .En mettant ' votre main dans une main loyale , En acceptant l ’ appui d ’ un cœur affectueux , Vous prenez un sentier où la fleur idéale Ne fera jamais place aux rosiers épineux .",
+        "words": [
+          "parfums",
+          "odorants",
+          "lis",
+          "jasmins",
+          "églantines",
+          "diverses fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/72a4484b-79a5-571e-a2e1-fcb171af1cef",
+        "value": "Au salon j ’ entendais les parents réunis ; Mon cœur battait bien fort .A peine étais - je prête , Mon Pierre , tu parus au seuil de ma chambrette , Et tu m ’ offris ton bras , sans voir le tendre adieu , Rapide , recueilli comme l ’ on parle à Dieu , Que mon âme adressait à ce doux sanctuaire Témoin des longs soupirs que ce jour a fait taire : « O petit coin béni toujours orné de fleurs , « Toi , le plus sûr abri de mon trouble et mes pleurs ! « Mes pieux souvenirs d ’ enfance et de jeunesse , « En m ’ éloignant de vous quel sentiment m ’ oppresse ! « En toi , nid embaumé , que de rêves éclos ! « Leur parfum survivra lorsque tu seras clos .« Si je reviens prier , ah ! plus aucun déboire « A te conter alors , cher crucifix d ’ ivoire ! » J ’ allais vers l ’ avenir confiante en ton cœur ; Ne souriait - il pas à notre amour vainqueur Le Ciel qui bénissait tant de persévérance ? Certes , il nous donnait bien plus que l ’ espérance ! Oli ! t ’ aimer librement , quelle félicité ! On trouve double joie au bonheur mérité ; Et Dieu sait si j ’ avais gagné cette journée Où l ’ heure des adieux ne serait plus sonnée .",
+        "words": [
+          "parfum",
+          "Leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/751d0ab0-d467-5256-979a-203dfabde3bc",
+        "value": "LÉONCE GIRARD SUî \\ l ’ aile du ï \\ ÈVE III BALLADE ROUGE A Toi .Au chant berceur de ma caresse S ’ ouvrent tes lèvres de satin , Telle une rose avec paresse S ’ ouvre aux frais baisers du matin Lorsque d ’ iris le ciel s ’ est teint Et qu ’ il s ’ élève des verdures Où les pleurs tremblent et du thym L ’ exquise odeur des fraises mûres ..",
+        "words": [
+          "odeur",
+          "thym",
+          "exquise",
+          "fraises mûres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/84e190d4-6b71-5146-9021-98f2081a6b24",
+        "value": "Je sais que tes dents de tigresse En font un suave festin , Tu t ’ en rougis avec ivresse Et , lorsque mon baiser mutin Arrête leur affreux destin , J ’ aspire , au sang de leurs tortures Qui sur tes lèvres a déteint .L ’ exquise odeur des fraises mûres ..",
+        "words": [
+          "odeur",
+          "exquise",
+          "fraises mûres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/8b69ba16-ff9d-5c36-8942-7e519c437939",
+        "value": "Le vent fort et triomphant , Le monstre qui hurle et brame Sur les monts et sur la lame Comme un énorme olifant .LA HARPE 35 9 Dans l ’ espace qui s ’ imprègne D ’ odeurs de combats , je règne En féroce souverain , Je veux , sous mes doigts d ’ airain , Que tout se ploie et me craigne ! Mon souffle aux grands tourbillons Creuse de profonds sillons Dans l ’ atmosplière où je gronde Et fais tournoyer la ronde Des feuilles , roux papillons .Sur les toits gris , crisse et grince Girouette grêle et mince ! Vous , arbres de la forêt Je vous écartèlerai De ma formidable pince ! Nuages sombres et lourds Il faut que , sur mon parcours , Votre masse croule et roule , Farouche comme une boule Fuyante de noirs vautours .",
+        "words": [
+          "odeurs",
+          "espace"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/91d62bd6-7c06-5195-84e9-1b56e40e2733",
+        "value": "Cyprien DUMAS , Diplôme d ’ honneur .COMMUNION Ce soir je respirais l ’ odeur d ’ une hyacinthe ..",
+        "words": [
+          "odeur",
+          "je",
+          "hyacinthe",
+          "Ce soir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/9e828f9e-c359-51f4-a186-2cf3f1adc3e0",
+        "value": "Gardez vos parfums , doux symbole Que nul n ’ entende mon sanglot J ’ éteindrai ma tendresse folle En vain j ’ implorerai le flot De m ’ accorder le dernier lot Trépasser ou devenir folle .De fêter son nom j ’ étais folle L ’ ignoriez - vous boutons et fleurs ? Oh ! repliez votre corolle Gomme j ’ enterre dans mon cœur Le souvenir de mon vainqueur Gardez vos parfums doux symbole .LOUIS BRU .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "boutons",
+          "doux symbole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/ae895a34-e1b9-59be-a103-8d513b15f2fb",
+        "value": "Voulant un soin tout délicat pour leurs couleurs .Les autres nœuds les nœuds , d ’ amour rouges ou roses Que vous liez et déliez au gré du sort , Qui vous laissaient comme un subtil parfum de roses Vous ne pouvez plus les nouer sans un remord .Dites adieu , raidi dans la cravate blanche .",
+        "words": [
+          "subtil",
+          "parfum",
+          "roses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/af633507-8c87-52dd-ac57-034c176b0e24",
+        "value": ".et moi je pleure sur les yeux fermés à la lumière du beau soleil ; sur les fleurs que la nuit et le jour balancent sans parfum sur leurs tiges altières .Tu chantes près de la rivière dont la nappe paresseuse a des moirures d ’ argent , où les platanes se mirent au fil de l ’ onde , tu chantes avec la source limpide où tes lèvres se trempent , où les gouttes d ’ eau te couvrent de paillettes de cristal ; tu chantes joyeuse d ’ être mouillée comme un lys par la rosée .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "je",
+          "la nuit",
+          "jour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/b8784d67-e1b1-5043-b466-5eaf86a4d542",
+        "value": "F .La fleur a son désir quand au loin s ’ évapore La nuit , bien doucement , et qu ’ arrive l ’ aurore , Anxieuse , elle attend , frissonnante d ’ amour , Pour livrer sa beauté , quand paraît un beau jour , Qu ’ un rayon de soleil tendrement la caresse Et verse en son calice une ineffaçable ivresse , Qui ranime l ’ éclat de ses vives couleurs Et répande dans l ’ air ses mystiques senteurs .* * * Vous êtes une fleur comme elle , jeune fille , Et l ’ éclat de vos yeux où la jeunesse brille , Vous en donne la grâce en toute sa beauté .",
+        "words": [
+          "fleur",
+          "air",
+          "senteurs",
+          "mystiques",
+          "ses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/c0564ab1-4e57-5cb3-bf3b-921bc56f3437",
+        "value": "On distinguait le gai tintement des clochettes , les sons nasillards des musettes et des hautbois tandis que des voix d ’ anges accompagnaient de leurs chœurs mélodieux cette musique surnaturelle .La joie semblait s ’ épandre en vapeurs embaumées sur la nature qui respirait tout alentour les suaves parfums d ’ une pure innocence .Serait - ce la résurrection de cette époque de félicité que la terre connut jadis et dont les poètes antiques chantèrent sur leui ’ S luths l ’ énivrant souvenir ? Assisterions - nous à l ’ avénement de quelque prince assez puissant pour refaire le partage égal des biens entre hommes , assurer la paix et la fraternité universelles ? Yerrait - on enfin se réaliser le rêve si souvent caressé d ’ un monde idéal où la bonté native de l ’ homme , dépouillée de tout élément de corruption , aura assis son règne sur les ruines de l ’ égoïsme et de l ’ envie , sur les bases de la justice et de la charité ? Oui , cette neige qui a blanchi la terre souillée de crimes innombrables , cette brise aux douces senteurs qui a chassé l ’ air vicié , ces chants joyeux , ces sons semblent présager une ère nouvelle .",
+        "words": [
+          "suaves",
+          "vapeurs",
+          "parfums",
+          "embaumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/c5bc645e-073e-535a-ad33-e3a981475741",
+        "value": "Les feuillages ont pris une nuance d ’ ambre ; Hélas ! voici venir les ides de septembre ! Comme une plainte maladive , autour de moi Les choses ont des tons pâles , des airs d ’ émoi ; C ’ est l ’ avis du départ imminent , c ’ est la note Des adieux où le coeur se résigne et sanglote .O mes Lares chéris , si ma dévotion N ’ invoqua point d ’ abord votre protection Et ne vous chanta point d ’ ardents panégyriques , Elle veut vous offrir , ô mes dieux domestiques , Sur un mode ancien , au moment de partir , Non l ’ essence du nard ou les parfums de Tyr , Mais des gâteaux dorés de miel , une écuelle Pleine de lait , avec l ’ odorante canelle , Pendant qu ’ à vous s ’ élèveront , reconnaissants , En méandres légers , les vœux de mon encens .Les feuillages ont pris une nuance d ’ ambre ; Hélas ! voici venir les ides de Septembre .",
+        "words": [
+          "Tyr",
+          "odorante",
+          "parfums",
+          "nard",
+          "essence",
+          "canelle",
+          "écuelle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/c8b116c6-f199-5767-92d8-361133b33c82",
+        "value": "Il en est parfois comme grisé : « La nuit était délicieuse .Le génie des airs secouait sa chevelure bleue , embaumée de la senteur des pins , et l ’ on respirait la faible odeur d ’ ambre qu ’ exhalaient les crocodiles couchés sous les tamarins du fleuve .La lune brillait au milieu d ’ un azur sans tache , et sa lumière gris perle descendait sur la cime indéterminée des forêts .",
+        "words": [
+          "faible",
+          "odeur",
+          "senteur",
+          "embaumée",
+          "chevelure",
+          "ambre",
+          "pins",
+          "exhalaient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/ccb9c2b9-e19b-5208-ae0a-0ce6f599e37c",
+        "value": "Monte plus haut , Chrysis .Ton charme souverain Fait converger vers toi , triomphe d ’ allégresse , Et les Regards Humains et les tièdes caresses De ces vents embaumés qui soufflent des deux Grèces Et ces vagues Regards , qui sous le ciel serein Sortent des flots , rongeant le môle Alexandrin .— Hô ! Barque d ’ Osmis , glissant dans les roseaux Parmi les papyrus , les lotus ; sur les eaux Du Nil mystérieux dont au ciel sont les urnes , Hô ! Barque d ’ Hânubis , chargée d ’ esprits nocturnes Dans le blafard reflet , dans la lueur amie Du croissant aminci ; quelle est cette momie Qui sous le masque d ’ or cache son fin profil ? — Que sait - on de sa vie ; et son nom quel fut - il ? — Celle que nous allons conduire dans la crypte Creusée POUR Pharaon Tout - Puissant , ( Roi d ’ Egypte , Fils des Dieux , adoré lui - même par les Dieux , Vainqueur des Nahasi , des Lybiens odieux Et de Peuples divers , courbés sous ses sandales Plus nombreux que ne sont dans ses temples les dalles ; Maîtres des Trois Pays , de la mer au désert ) ; Fut belle , et fut aimée .",
+        "words": [
+          "embaumés",
+          "vents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/cf4650de-94dc-5eab-9495-f3139b1b1f4f",
+        "value": ".Car ta bouche où dort ma détresse , Où ma douleur toujours s ’ éteint , A leur douce saveur , maîtresse ; Et si j ’ en pille le butin , Ton haleine , zéphir lutin , M ’ en apporte les senteurs pures ..",
+        "words": [
+          "leur",
+          "senteurs",
+          "pures",
+          "zéphir",
+          "saveur",
+          "Ton haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/cf9fa22b-693d-56f7-b3a5-f3496d66396a",
+        "value": "» A Ginisty , à Colonne , à Claretie , à Baudu , à Derbilly , à Leygues , aux interprètes comme aux spectateurs , essayez donc de leur arracher autre chose que des exclamations d ’ enthousiasme , de fierté et de contentement d ’ avoir pu assister à cette manifestation unique .Ils ont raison Quels décors ! quels tableaux ! quelle éblouissance ! des fleurs , des couleurs et comme des parfums glissant évaporés dans cette atmosphère de rêve ! Des fûts , des colonnes , des blocs de marbre , envahis , absorbés par une végétation extraordinaire , inouïe , une poussée puissante de magnolias , de lauriers - roses , de tamaris , d ’ oliviers qui s ’ enchevêtrent , se fondent en un tout exubérant de sève et de vie ardente .Cette flore luxuriante qui a lait pousser des cris d ’ admiration conduit à la base de l ’ Acropole sacrée dont l ’ architecture savante s ’ érige dans le bleu limpide de notre ciel .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "lauriers",
+          "couleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/d04c790d-400b-5ce0-892c-69b5dd2736e4",
+        "value": "* * * Vous êtes une fleur comme elle , jeune fille , Et l ’ éclat de vos yeux où la jeunesse brille , Vous en donne la grâce en toute sa beauté .Gomme elle aussi donnez , divine royauté , Des effluves à l ’ air , des parfums à la brise ; Cette ivresse des sens que l ’ âme poétise .Gomme elle , le désir , quand paraît le printemps Dont l ’ auréole d ’ or entoure nos vingt ans , Font naître en votre cœur une attente anxieuse De l ’ astre du doux rêve , âme mystérieuse , Qui toute palpitante à la vôtre s ’ unit Dans l ’ amour , dans l ’ hymen ; que tout au ciel bénit .",
+        "words": [
+          "air",
+          "parfums",
+          "effluves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/dca3444b-968f-5c16-8809-1cd6d9dd3f5d",
+        "value": "» Donc , une grande passion dans une non moins grande nature : Chateaubriand est dans son élément et il va pouvoir déployer avec maëstria les sublimes ressources de son génie .Ce subtil sentiment qu ’ est l ’ amour est fixé par l ’ auteur et exhale à chaque page ses grisants parfums .Voici , après l ’ aveu , l ’ état de deux êtres que trop de bonheur accable : « Notre promenade fut presque muette Quelquefois nous versions des pleurs , quelquefois nous essayions de sourire .",
+        "words": [
+          "parfums",
+          "grisants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/df24d2d5-02cf-5d05-a034-0f85017ffda9",
+        "value": ".Tu chantes ainsi que la fauvette gazouillante dans un jardin délicieux où s ’ ouvrent les grandes corolles nymphéas à la chaleur molle d ’ une journée d ’ été ; tu chantes dans la sérénité radieuse du soir , où frissonnent en les nids des caresses nouvelles ; où les couches parfumées de fleurs se colorent de feux nouveaux ; tu chantes la beauté de la nature ..",
+        "words": [
+          "fleurs",
+          "parfumées",
+          "jardin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/e0223caa-3a60-54b2-80e1-9c570260cab6",
+        "value": ".Telle vient sur le vent lointain L ’ exquise odeur des fraises mûres ..",
+        "words": [
+          "odeur",
+          "exquise",
+          "fraises mûres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/e6809279-6eea-538b-88c7-7dff57e386df",
+        "value": "Rien , baguette magique à la vertu certaine , Qui fait à l ’ unité dépasser la centaine ! Rien , le biceps du numéro ! Rien , le grand repoussoir de la chose existante ! Rien , ce gaz qui dans l ’ air nous élève une tente ! Rien , ce vent , gros de tourbillons , Creusant dans le désert la tombe aux caravanes ! Rien , trait du ciel jetant l ' incendie aux savanes ! Rien , qui féconde les sillons .Rien , les élans issus de causes printanières ! Rien , les seins frémissants qui vous ont des manières De dire : « Je vous aime ! » Rien , la plume qui va portant l ’ aigle eu son aire ! Rien , la sinistre faulx du noir factionnaire Qu ’ on n ’ a jamais pu désarmer ! Rien , qui donne aux oiseaux les stances cadencées , Et sème les iris et les liliacées Dans le riant velours des prés ! Ce rien qui des saisons amène la clôture , Et qui s ’ en va prêcher l ’ amour de la nature Aux milles insectes diaprés ! Rien , qui sur les toits pose en rang les hirondelles Quand vient la bise , et dit , passant au milieu d ’ elles « Voici l ’ hiver , partez devant ! » Rien , qui marque aux pigeons les routes parcourues , Et dans leur vol superbe en angle met les grues Pour mieux lutter contre le vent ! Rien , le zéphyr qui fait une lyre des saules ! Rien , cet aimant qui sait diriger les boussoles ! Rien , fil dompteur du feu du ciel ! Rien , ces parfums si doux , envolés des corbeilles De chaque renouveau ! Rien , qui montre aux abeilles Comment se fabrique le miel ! Rien , en bas , le cloaque et ses larves grouillantes ! Rien , en haut , dans l ’ azur , ces ailes scintillantes De vierges qui dansent en rond ! Rien , la mer qui tantôt semble toute dormante , Et tantôt va baiser de sa lèvre écumante Le soleil ou la lune au front ! Rien , cette goutte d ’ eau par laquelle commence La rivière , et , plus tard , qui fait la mer immense ! Rien , cette boule de limon D ’ où naquit l ’ homme ! Rien , la matière première De toute chose ! Rien , le grand jet de lumière Qui sage a sacré Salomon ! Rien , le feu cérébral qui brille comme un phare ! Rien , cet éclat vibrant ..",
+        "words": [
+          "doux",
+          "parfums",
+          "abeilles",
+          "corbeilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/ebcaa547-5cd6-5534-9628-75abb640b825",
+        "value": "Mais ses yeux 11e voient pas la trace De ma forte et lente douleur Le souvenir de mon vainqueur Partout me hante , me carresse Je demande au puissant Seigneur Que ce trop long martyre cesse , Du fossoyeur le travail presse Car sous terre il place mon cœur .Gardez vos parfums , doux symbole Que nul n ’ entende mon sanglot J ’ éteindrai ma tendresse folle En vain j ’ implorerai le flot De m ’ accorder le dernier lot Trépasser ou devenir folle .De fêter son nom j ’ étais folle L ’ ignoriez - vous boutons et fleurs ? Oh ! repliez votre corolle Gomme j ’ enterre dans mon cœur Le souvenir de mon vainqueur Gardez vos parfums doux symbole .",
+        "words": [
+          "doux",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/ecdc7abd-d8f3-5e3d-803b-2a62dfb4ce5c",
+        "value": "PROLOGUE Béziers , noble cité , sœur des cités latines , Salut ! Ferme et debout sur d ’ antiques ruines .Ta haute basilique aux féodales tours , Ainsi qu ’ une Acropole aux clairs rayons du jour Se dresse , et tes regards , entre les Pyrénées Et les Cévennes , vont à l ' horizon lointain Chercher sous le grand ciel la Méditerranée , Ondoyante et changeante , aux reflets de satin , Où chantent dans l ’ azur les antiques sirènes , Où les voiles d ’ argent des légères carènes Passent dans le brouillard transparent du matin ! Bienheureuse cité ! La féconde Nature A répandu sur toi son multiple trésor : Dans tes vastes labours frissonnent les blés d ’ or Et les vignes te font une rouge ceinture ! Et quand sort du pressoir le sang du vin nouveau , Riche et fumant , et plein de sève nourricière , Son enivrant parfum embaume ton cerveau Et l ’ emplit de l ’ esprit glorieux de la Terre ! Et c ’ est pourquoi tes fils ont le sens vif et clair Et le cœur sur la main et l ’ âme généreuse , Et marchent tendant leur pensée aventureuse Vers tous les nobles buts qui s ' offrent en chemin î Jadis , ils bataillaient ! Maintenant l ’ épopée A fait place pour eux aux pacifiques jeux .Ils ont pendu le casque , et la lance et l ’ épée , Reliques des vieux temps , au foyer des aïeux ! LA HARPE 453 Ils rêvent désormais de victoires nouvelles ; Où viendront triompher sous le riant soleil La Poésie et la Musique , sœurs jumelles ! Toi par qui s ’ accomplit ce merveilleux réveil , Sois louée , ô cité , pour cette apothéose ! Et désormais , comme aujourd ’ hui , qu ’ à l ’ heure rose Où les coursiers cabrés de Phœbus , roi du jour , Chassent dans le ciel clair les étoiles mourantes , Longtemps , toujours , tu sois la ruche murmurante .",
+        "words": [
+          "parfum",
+          "vin",
+          "Son",
+          "enivrant",
+          "sang",
+          "cerveau",
+          "Cévennes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/f7c870e2-0be9-50e6-a987-441ab41c9356",
+        "value": "Déserte et blanche est la grande route bordée de trembles et entre le bleu pâle du ciel et la blancheur éclatante du sol , des cristallisations capricieuses pendent aux rameaux dénudés , aux buissons surgissants en aiguillettes inégales d ’ une finesse merveilleuse .Charmante en ses grâces pudiques et voluptueuses à la fois , la nature plutôt lasse que morte s ’ enveloppe en ses voiles blancs et ruine entre les ruines hiver sous un précoce hiver , elle semble une fleur de poésie séchée ayant gardé le parfum si doux des fleurs mortes .Sans que s ’ arrêtent la force de ses décolorations , l ’ ivoirie de ses déroulements sans fin et l ’ éloignement de ses mirages , la blanche nature fait aux poètes des aumônes d ’ aurores et d ’ espérances , jusqu ’ à l ’ heure où , se dépouillant de son suaire , se délivrant de sa prison de satin blanc , elle apparaît radieuse de jeunesse printanière an milieu des fleurs embaumées de senteurs captivantes sous un ciel givré d ’ étoiles .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "si doux",
+          "fleur de poésie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/f9ca7a97-a4f9-5aff-b0fc-210d419c5b0e",
+        "value": "Le prix d ’ honneur a été bien mérité par M .Emmanuel Auréjac , professeur au lycée de Montauban , qui nous a envoyé un recueil de choix aux pièces délicates , toutes parfumées d ’ un bon parfum d ’ atticisme et dont certaines ne se trouveraient pas déplacées dans une bonne anthologie classique .M .",
+        "words": [
+          "parfum",
+          "parfumées",
+          "pièces délicates",
+          "Emmanuel Auréjac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/fa80a012-0a2d-53b2-9cc5-c3141444de5c",
+        "value": "PETITS CONCOURS DERNIÈRE SÉRIE ( Trimestrielle ) No 13 .VERS A TERMINER Bouquet fané , témoin unique du Où j ’ ai dans ses beaux yeux émus , puisé des Quand un double baiser fut le sceau du ; Fleur discrète , tu meurs et ma lèvre d ’ Cherche en vain le parfum que t ’ ont ravi mes Puisque tant de bonheur n ’ a duré qu ’ un seul Expirant comme toi mais dédaigneux comme Que ne puis - je fermer mon âme à 1 ’ Et garder simplement , sans espoir de Mon bouquet sans parfum et mon cœur sans RAPH .No 14 .",
+        "words": [
+          "Fleur",
+          "sans",
+          "parfum",
+          "bouquet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/fabe8dc0-a248-5461-9a10-cdf07734f728",
+        "value": ".Je me suis enivré de l ’ intime espérance Que les fleurs recueillaient nos souvenirs d ’ enfance Pour nous les rendre aussi vivants et parfumés ; Et pris d ’ une mystique et troublante tendresse Sentant frémir en moi l ’ odorante caresse , En pleurant , j ’ ai baisé les calices aimés .Fernand RICHARD , 1er Diplôme d ’ honneur : — LE POÈTE — Toi qui viens chaque soir parler à mon oreille Alors que ma pensée harmonisant des sons Tente , craintivement , durant ma longue veille , La glane sainte aux champs des sublimes moissons ; Ombre qui me poursuis , toujours calme et sereine , Si tu ne peux , hélas ! de mon cœur abattu Enlever à jamais le doute qui m ’ entraîne Et me rend soucieux , .",
+        "words": [
+          "odorante",
+          "fleurs",
+          "parfumés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/fe0dedf7-c375-568b-802f-654af9e5878c",
+        "value": "Mais hélas ! une perle de sang Brille sur son bras nu , tombe et rougit la terre .O merveille ! Poussant ainsi qu ’ un rejeton , S ’ élève un lys de pourpre à la senteur amère .Les lys rouges sont nés du miracle , dit - on ! MARIE SANLAVILLE Iv ’ ATTBNTE Tiré de Henri Heine .",
+        "words": [
+          "senteur",
+          "amère",
+          "lys de pourpre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/ffcc6c36-8050-59a4-94f7-f6fb16345303",
+        "value": "Son visage de perle a la tristesse et l ’ enchantement des ciels crépusculaires après le coucher du soleil ; l ’ automnale mélancolie des paupières qui se plissent d ’ une bouche qui se décolore .Elle s ’ en va lentement vers le ciel blanc comme un souffle , une aile qni s ’ envole ; arrache de son cœur la blanche fleur qui y avait germée , qui l ’ embaumait de ses effluves délicieux ; soupire , comme si elle eut écouté des voix intérieures qui l ’ obsèdent , qui la mélancolisent , la détachent de tout ce qui l ’ avait attirée , de tout ce qui avait tenté son cœur ; qui lui montrent le chemin de croix se perdant dans l ’ immensité du Ciel ; qui lui découvrent s ’ évanouissant peu à peu dans les flocons nuageux , la vision du bonheur terrestre comme une fée transparente et blanche en sa parure de grésil et ses ailes de papillon , couleur de lys , couleur de perle .L ’ adieu suprême s ' égrène des lèvres de la Vierge haletante comme la fauvette de la mort , sa bouche apâlie chuchotte quelque blanche oraison , comme pour chasser d ’ obsédantes et nostalgiques chimères , ses beaux yeux et ses prunelles se meurent et ne sont plus les images d ’ astres d ’ argent errant sur les eaux calmes d ’ un lac ourlé de plantes et de fleurs , et blanche .",
+        "words": [
+          "fleur",
+          "délicieux",
+          "effluves"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d6ed645f-63f9-5ab6-bb61-f5a2833d4cbf",
+        "label": "Société littéraire de Cette"
+      }
+    ],
+    "label": "La Harpe : revue littéraire du Midi",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1417139s",
+    "date": "1897-12-01",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/154",
+      "label": "Spikenard"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/215",
+      "label": "Cinnamon"
+    }
+  ],
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/adf2c4a9-2ac8-5fbb-8f2f-a0dcf7b862bc",
+      "label": "écuelle"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/47b94357-a60e-59f9-9d51-f13a26347e5b",
+      "label": "1897-12-01",
+      "begin": "1897-12-01",
+      "end": "1897-12-01"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/267008/",
+      "label": "Tyre"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/love",
+      "label": "love"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/faith",
+      "label": "faith"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ca468013-0169-5ca4-8c3d-f23de3622014/fragment/c5bc645e-073e-535a-ad33-e3a981475741",
+  "license": "Public domain",
+  "adjective": "odorante"
+}

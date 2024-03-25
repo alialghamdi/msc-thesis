@@ -1,0 +1,701 @@
+## vapeurs, exhalaisons
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/39cb1093-9a84-5930-94f6-ca716a1c709e |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | vapeurs |
+| label.1 | exhalaisons |
+| source.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/03e9a29b-c14b-53eb-8422-ee793af28da3 |
+| source.excerpts.0.value | Elle est dure , cassante 5 et mêlée avec de bon suif , elle est propre à faire d ’ excellentes bougies .Elle ne salit point les doigts , 11e fond pas dans les grandes chaleurs , et jette une odeur très - agréable .O11 fait bouillir ce fruit dans l ’ eau , jusqu ’ à ce que le noyau , qui est au milieu , soit détaché de la cire qui l ’ enveloppe . |
+| source.excerpts.0.words.0 | odeur |
+| source.excerpts.0.words.1 | Elle |
+| source.excerpts.0.words.2 | très - agréable |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/117abba8-de90-562f-9ee6-82aee4233d8f |
+| source.excerpts.1.value | Au milieu des savanes et sur les collines arrondies on voit cioître le superbe palmier , le chêne vert , le laurier odoraut ( laurus borbonia ) , le laurier commun , le cèdre rouge et le pin , qui étend au loin S ’ on feuiL 246 EXAMEN BU S ü B I ) E L ^ EUROPE lage et son ombre 5 la colonne droite et attentée du figuier papayer , qui s ’ élève à 20 pieds de haut et que couronne un dais de feuilles larges et découpées , forme une des belles décorations de cette scène délicieuse ; tandis qu ’ à côté , les fleurs parfumées et le fruit sucré légèrement acidulé de l ’ oranger , qui se reproduit sous tant de formes différentes , réalisent , dans ces contré » s , la fable des Hespérides ; le papayer , l ' iin des pins beaux arb .vs que l ’ on connaisse , dont la fleur a l ’ odeur du muguet , le fruit la forme et la grosseur du melon : le sylphium , qui distille d ’ im long épi nue gomme jaunâtre ; et le magnotier , qui s ' élance de sou sol calcaire à la .hauteur de 100 pieds , et quelquefois au - delà : son tronc , parfaitement droit , est surmonté d ’ une tète épaisse et volumineuse ; son feuillage , d ’ un vert obscur , affecte nue forme conique : au centre des couronnes de feuilles qui terminent les branches , s ’ épanouit une fleur du blanc le plus pur ; cette fleur , la plus grande et la plus odorante des fleurs , qu ' à sa forme - ou prendrait pour une grande rose , est remplacée par un fruit eu forme de cône cramoisi , ressemblant à celui du pin , et qui en s ’ on - vrarit laisse voir , suspendues à des fils déliés de 6 pouces au moins , des semences arrondies en grains du plus beau corail rouge . |
+| source.excerpts.1.words.0 | odeur |
+| source.excerpts.1.words.1 | fleur |
+| source.excerpts.1.words.2 | muguet |
+| source.excerpts.1.words.3 | gomme jaunâtre |
+| source.excerpts.1.words.4 | sylphium |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/1f5682e3-0151-5ac2-8216-d58ffde0e808 |
+| source.excerpts.2.value | Le sucm qi ds fournissent est bien différent : l ’ un s ’ appelle sucre d ' érable , 16 * et l ’ autre sucre de plaine .L ’ arbre qui porte la gomme odorante { llquidambar styraciflua ) , le bois de fer ( car - pinus ostna ) , le micocoulier , les platanes , sur les bords de 1 Ohio , à l ’ ouest des monts Alleghanys , qui ont à peu - près le même diamètre que le célèbre dragonier d ’ Orotava , à Ténénffe j le grand cyprès , dont les branches s ’ étendent en parasol et préservent les bestiaux de l ’ ardeur du soleil , l ’ orme d ’ Amérique , le peuplier noir , le taccamahaca , se trouvent dans tous les lieux des Etats - Unis où le sol leur convient , sans montrer une grande préférence pour un climat plutôt que pour un antre .Les marécages , soit fangeux , soit desséchés , dont le fond est sablonneux et léger , sont peuplés de la famille précieuse des pins , dont les principales espèces . |
+| source.excerpts.2.words.0 | odorante |
+| source.excerpts.2.words.1 | gomme |
+| source.excerpts.2.words.2 | bois de |
+| source.excerpts.2.words.3 | llquidambar |
+| source.excerpts.2.words.4 | les lieux des Etats |
+| source.excerpts.2.words.5 | monts Alleghanys |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/1f59a430-d5ae-5ced-92d7-06ee6d70a872 |
+| source.excerpts.3.value | Cette corbeille , que les naturels nomment Ma - pirès , a la forme d ’ une espèce de sac carré de la grandeur de l ’ individu : il ne leur manque ni cotes , ni phalanges .Ce heu , d ’ où l ’ on jouit du plus beau coup - d ’ œil possible , est parsemé de vanille et autres fleurs odoriférantes : c ’ est le seul passage qui communique jusqu ’ à présent à la vallée des Amazones .Mama - rumi . |
+| source.excerpts.3.words.0 | fleurs |
+| source.excerpts.3.words.1 | odoriférantes |
+| source.excerpts.3.words.2 | vanille |
+| source.excerpts.3.words.3 | heu |
+| source.excerpts.3.words.4 | vallée des Amazones |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/245a23fb-4822-5eb6-9ef0-f7a1915fdf2c |
+| source.excerpts.4.value | Mais c ’ est dans la Virginie , dans les Etats du sud et de la Floride , que la flore américaine étale ses principales merveilles .L ’ éternelle verdure des vastes savanes , la solennelle magnificence des forêts primitives , et la sauvage exubérance des marécages , offrent à l ’ admiration du botaniste étonné tout ce que la forme , la couleur et le parfum ont d ’ attraits , pour récréer les sens et fixer l ’ attention .Parmi les végétaux , liabitans des bas rivages de la Floride , de la Géorgie et de la Caroline méridionale , on distingue le mangrove , le seul arbuste qui peut fleurir dans les lieux salés 5 l ’ odorant pancratium de la Caroline , dont les fleurs ont le blanc de la neige , et la magnifique lobelia cardinalis . |
+| source.excerpts.4.words.0 | parfum |
+| source.excerpts.4.words.1 | botaniste |
+| source.excerpts.4.words.2 | récréer |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/249b0bea-6727-5891-9638-81195e7dc16f |
+| source.excerpts.5.value | 27 L loquente plume , de Bryau Edwards .Il croît spontanément sur les flancs des montagnes qui regardent la mer 5 il y forme des bocages où l ’ on jouit d ’ une promenade commode , parce qu ’ aucun arbrisseau n ’ habite sous son ombre délicieuse , par l ’ air frais qu ’ on y respire en tout temps , parles parfums exquis qu ’ exhalent ses fleurs rivales de la neige , dont les touffes déliées flottent sur un fond de verdure sombre .Parmi les autres végétaux indigènes des Indes occidentales , il en est peu qui puissent intéresser la généralité des lecteurs : les plus curieux sont peut - être les fougères arborescentes . |
+| source.excerpts.5.words.0 | parfums |
+| source.excerpts.5.words.1 | exquis |
+| source.excerpts.5.words.2 | ses fleurs |
+| source.excerpts.5.words.3 | exhalent |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/2c43f30f-22ae-5140-9439-dac544cd45fb |
+| source.excerpts.6.value | Ce fruit est fort commun dans le pays de la Mobile $ il est très - rafraîcliissant .La Jacquemine a la forme et la couleur d ’ un limon 5 elle est odoriférante et a le goût des figues bananes .Ses pépins ressemblent à des fèves . |
+| source.excerpts.6.words.0 | odoriférante |
+| source.excerpts.6.words.1 | goût |
+| source.excerpts.6.words.2 | figues bananes |
+| source.excerpts.6.words.3 | Jacquemine |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/30591ee5-d069-53e2-b81f-aac163dad444 |
+| source.excerpts.7.value | L ’ éternelle verdure des vastes savanes , la solennelle magnificence des forêts primitives , et la sauvage exubérance des marécages , offrent à l ’ admiration du botaniste étonné tout ce que la forme , la couleur et le parfum ont d ’ attraits , pour récréer les sens et fixer l ’ attention .Parmi les végétaux , liabitans des bas rivages de la Floride , de la Géorgie et de la Caroline méridionale , on distingue le mangrove , le seul arbuste qui peut fleurir dans les lieux salés 5 l ’ odorant pancratium de la Caroline , dont les fleurs ont le blanc de la neige , et la magnifique lobelia cardinalis .Au milieu des savanes et sur les collines arrondies on voit cioître le superbe palmier , le chêne vert , le laurier odoraut ( laurus borbonia ) , le laurier commun , le cèdre rouge et le pin , qui étend au loin S ’ on feuiL 246 EXAMEN BU S ü B I ) E L ^ EUROPE lage et son ombre 5 la colonne droite et attentée du figuier papayer , qui s ’ élève à 20 pieds de haut et que couronne un dais de feuilles larges et découpées , forme une des belles décorations de cette scène délicieuse ; tandis qu ’ à côté , les fleurs parfumées et le fruit sucré légèrement acidulé de l ’ oranger , qui se reproduit sous tant de formes différentes , réalisent , dans ces contré » s , la fable des Hespérides ; le papayer , l ' iin des pins beaux arb . |
+| source.excerpts.7.words.0 | Floride |
+| source.excerpts.7.words.1 | Géorgie |
+| source.excerpts.7.words.2 | odorant |
+| source.excerpts.7.words.3 | fleurs |
+| source.excerpts.7.words.4 | pancratium |
+| source.excerpts.7.words.5 | lobelia |
+| source.excerpts.7.words.6 | mangrove |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/372e82e3-1aa6-55be-936b-5a2e11ab228d |
+| source.excerpts.8.value | On la fond dans l ’ eau , et on en fait de la cire pour les bougies .Elle est d ’ uri beau vert , et a l ’ odeur aromatique .D ’ autres enfin , comme Varbre d pois $ dont le fruit sert à en - 1 graisser le bétail ) i ’ arbre de vie , dont la feuille fait uit baume salutaire 5 Yarbre de cuir > a \ ee l ’ écorce duquel ou fait des cordages ; celle de Y arbre d beurre , qui sert à teindre en poudre , et sa noix à faire une huilé excellente ; On trouve , au pays des Illinois $ un petit arbris » iseau d ’ environ 3 pieds de haut : ù porte un fruit gros comme une pomme d ' apis , et oui b goût du citron . |
+| source.excerpts.8.words.0 | aromatique |
+| source.excerpts.8.words.1 | odeur |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/411860e2-a1d3-597b-9231-04aba4a0ca55 |
+| source.excerpts.9.value | Ses racines , de couleur citron , ne se divisent point , s ’ étendent horizontalement à une très - grande distance , et donnent naissance à quelques rejetons qui s ’ élèvent rarement à plus de 18 pouces .Les racines et l ’ écorce froissées donnent une odeur désagréable , mais le fruit fournit une excellente huile .Le long des torrens qui coulent dans les environs de YVest - Liberty - Town , il croît une espèce d 1 azalea qui s ’ élève de 12 , à i5 pieds . |
+| source.excerpts.9.words.0 | désagréable |
+| source.excerpts.9.words.1 | odeur |
+| source.excerpts.9.words.2 | racines |
+| source.excerpts.9.words.3 | écorce froissées |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/5607e211-733c-50b0-a398-e37d60163174 |
+| source.excerpts.10.value | Dans les bois , des lianes de toutes les familles , convolvulus dolichos , granadilla , raiana , paulinia , bignonia , seriana , etc ., forment , par leurs entrelacemens et leurs contours multipliés autour des palmiers les plus élevés , des figuiers , des cycas , des étacés , des zamias , m e multitude de berceaux où pendent en nombreux festons leurs longues pétioles , leurs feuilles armées d ’ épines , et leurs fleurs odorantes .Enfin , sur le penchant couvert des mornes , on trouve des cactus , des cierges , des opuntia , des aloës , des taberna montana rauvofia , et toutes sortes < Y euphorbes et lYapocins . |
+| source.excerpts.10.words.0 | fleurs |
+| source.excerpts.10.words.1 | odorantes |
+| source.excerpts.10.words.2 | feuilles |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/5d6f267e-9b9c-5ee9-8b79-21416f8c2082 |
+| source.excerpts.11.value | La Virginie , dont on connaît l ’ eau - de - vie de pêches , produit une grande quantité de ces fruits , ainsi que des pavies et des abricots excellens .Entre autres productions particulières à la Virginie , 011 remarque le dictame , dont l ’ odeur des feuilles tue le serpent à sonnettes , quand 011 les approche de son nez , et un arbre très curieux dont le fruit produit de la cire d ' un très - beau vert .Elle est dure , cassante 5 et mêlée avec de bon suif , elle est propre à faire d ’ excellentes bougies . |
+| source.excerpts.11.words.0 | odeur |
+| source.excerpts.11.words.1 | feuilles |
+| source.excerpts.11.words.2 | serpent |
+| source.excerpts.11.words.3 | Virginie |
+| source.excerpts.11.words.4 | dictame |
+| source.excerpts.11.words.5 | tue le |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/68688fda-bb8b-5b7e-b67e-260869853d8f |
+| source.excerpts.12.value | Un nombre prodigieux de 33 plantes extraordinaires et de fleurs inconnues pré - 33 sente un spectacle toujours varié , toujours nouveau .33 O11 y est éclairé avec des bois de senteur et des résines 33 odoriférantes ; on y marche sur des herbes parfumées j 33 on y foule aux pieds l ’ or et les pierreries .La terre 33 produit dans chaque saison , et n ’ exige aucun soin 33 pour produire . |
+| source.excerpts.12.words.0 | résines |
+| source.excerpts.12.words.1 | parfumées |
+| source.excerpts.12.words.2 | odoriférantes |
+| source.excerpts.12.words.3 | senteur |
+| source.excerpts.12.words.4 | herbes |
+| source.excerpts.12.words.5 | bois de |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/85827652-604c-5cb7-ba0b-bea7c98b3fe1 |
+| source.excerpts.13.value | Le havre de cette ville est un des meilleurs de l ’ Amérique .On y fabrique divers objets de luxe et de consommation , des chandelles de spermaceti ( ou cervelle de cachalot ) , plus blanches et plus belles que celles de cire 5 elles 11e répandent aucune odeur , ni aucune fumée .L ’ ile de Rhode - lsland a 6 lieues de loua sur O 3 de large . |
+| source.excerpts.13.words.0 | odeur |
+| source.excerpts.13.words.1 | chandelles de spermaceti |
+| source.excerpts.13.words.2 | cervelle de cachalot |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/8657151d-a560-55a9-98f3-8124c739acdc |
+| source.excerpts.14.value | L ’ une et Pautre sont fort escarpées et presque en tout temps couvertes de glaces qui traversent le Groenland du nord au sud .On aperçoit sur les montagnes des lichens bleus , jaunes , rouges , des mousses verdoyantes et quelque peu d ’ herbes et de bois : les rivages , les vallées et les plaines offrent des prairies d ’ un vert frais et éclatant , où le thym et l ’ angélique exhalent leur suave odeur .Dans la partie méridionale , le climat est supportable . |
+| source.excerpts.14.words.0 | bois |
+| source.excerpts.14.words.1 | suave |
+| source.excerpts.14.words.2 | odeur |
+| source.excerpts.14.words.3 | thym |
+| source.excerpts.14.words.4 | leur |
+| source.excerpts.14.words.5 | herbes |
+| source.excerpts.14.words.6 | rivages |
+| source.excerpts.14.words.7 | mousses |
+| source.excerpts.14.words.8 | angélique |
+| source.excerpts.14.words.9 | exhalent |
+| source.excerpts.14.words.10 | montagnes |
+| source.excerpts.14.words.11 | vallées |
+| source.excerpts.14.words.12 | lichens |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/97a4ac22-24ea-586d-bb9a-efbf5e5e8938 |
+| source.excerpts.15.value | Au nord - ouest du fort ( ÿborne de Natchitoclies , dans la Louisiane , se trop le lac Espagnol , au milieu duquel s ’ élève un gra ' rocher couvert de stalactites curieuses .Les lacs Mayaco , de Georges , et quelques autres de la Flot } offrent , il est vrai , quelques particularités , inade trop peu d ’ importance pour 11e pas passer outraelm appelé lac de la Floride n ’ a que quelques lieues éndne : il n ' est remarquable 74 li A C 8 • que par l ’ île deSerrope , qui s ’ élève au - dessus Je ses eaux comme une corbeille de verdure couronnée de fleurs odoriférantes .De tous les lacs de l ’ Isthme , celui de Chapain est le plus grand 5 il a 2 > lieues de long sur 6 de large . |
+| source.excerpts.15.words.0 | fleurs |
+| source.excerpts.15.words.1 | odoriférantes |
+| source.excerpts.15.words.2 | lacs |
+| source.excerpts.15.words.3 | lac de la Floride |
+| source.excerpts.15.words.4 | île deSerrope |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/9eead657-8aa2-58cc-81b9-38da85b51ad2 |
+| source.excerpts.16.value | On foule aux pieds dans les savanes de St - Domingue le cleome pentap / iyl / a , le lapidium virginium , le bunias cakile , le turnera pumicea , Yocymum americanum .Sur les bords de la mer , les grands raisiniers ( coccoloba uvifera ) croissent dans le sable et sur les rochers ; on trouve sur les coteaux des acacias de toutes espèces , et EXAMEN T ) U SOL DE l ’ EUROPE entre antres Y acacia farnèse ( mimosa farnesiana ) , formant des buissons charmans par la finesse de ses feuilles et le parfum de ses petites fleurs jaunes disposées en boules détachées et suspendues à une queue semblable à celle de la cerise .Là se trouve . |
+| source.excerpts.16.words.0 | grands |
+| source.excerpts.16.words.1 | parfum |
+| source.excerpts.16.words.2 | fleurs |
+| source.excerpts.16.words.3 | cerise |
+| source.excerpts.16.words.4 | acacia farnèse |
+| source.excerpts.16.words.5 | coccoloba |
+| source.excerpts.16.words.6 | Sur les bords de la mer |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/a05c6b1b-83ce-5718-af3f-6f25761a5fa2 |
+| source.excerpts.17.value | Le pays est en grande partie couvert de forêts ou de marais .Les productions des deux Carolines sont les mêmes que celles de la Géorgie : l ' olivier , X * oranger ? toutes les plantes odoriférantes , la vigne , les abeilles et les vers à soie y réussissent fort bien .Le gouvernement réside à BaleigJi , dans l ’ intérieur du pays , non loin de la source du Newn . |
+| source.excerpts.17.words.0 | Géorgie |
+| source.excerpts.17.words.1 | plantes |
+| source.excerpts.17.words.2 | odoriférantes |
+| source.excerpts.17.words.3 | vigne |
+| source.excerpts.17.words.4 | abeilles |
+| source.excerpts.17.words.5 | oranger |
+| source.excerpts.17.words.6 | olivier |
+| source.excerpts.17.words.7 | vers à |
+| source.excerpts.17.words.8 | deux Carolines |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/a0635ed7-c960-5518-87b1-385fda0f7092 |
+| source.excerpts.18.value | Quand , ou navigue sur l ’ Oréuoque supérieur , ou arrive aux embouchures du Sodomoni et du Guapo , où s ’ élève bien au - dessus des nues la cime sourcilleuse du Duïda , montagne dont la pente méridionale est * une savane sans arbres .L ’ air humide du soir est rempli du parfum qu ’ exhale les ananas , dont le fruit doré brille , au loin , au - dessous de la couronne de feuilles d ’ un vert bleuâtre .Dans les endroits où les eaux sortent du tapis de verdure , de hauts palmiers en éventail forment des groupes solitaires . |
+| source.excerpts.18.words.0 | parfum |
+| source.excerpts.18.words.1 | air |
+| source.excerpts.18.words.2 | exhale |
+| source.excerpts.18.words.3 | ananas |
+| source.excerpts.18.words.4 | du soir |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ab77e999-15a9-5246-9bfd-ed4559fe9fec |
+| source.excerpts.19.value | vs que l ’ on connaisse , dont la fleur a l ’ odeur du muguet , le fruit la forme et la grosseur du melon : le sylphium , qui distille d ’ im long épi nue gomme jaunâtre ; et le magnotier , qui s ' élance de sou sol calcaire à la .hauteur de 100 pieds , et quelquefois au - delà : son tronc , parfaitement droit , est surmonté d ’ une tète épaisse et volumineuse ; son feuillage , d ’ un vert obscur , affecte nue forme conique : au centre des couronnes de feuilles qui terminent les branches , s ’ épanouit une fleur du blanc le plus pur ; cette fleur , la plus grande et la plus odorante des fleurs , qu ' à sa forme - ou prendrait pour une grande rose , est remplacée par un fruit eu forme de cône cramoisi , ressemblant à celui du pin , et qui en s ’ on - vrarit laisse voir , suspendues à des fils déliés de 6 pouces au moins , des semences arrondies en grains du plus beau corail rouge .C ’ est ainsi que par ses fleurs , par son fruit et par sa grandeur , le magnolier suupasse ses rivaux . |
+| source.excerpts.19.words.0 | odorante |
+| source.excerpts.19.words.1 | fleur |
+| source.excerpts.19.words.2 | fleurs |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ad5ef5f1-063b-5b14-a70a-f22aeb9fa816 |
+| source.excerpts.20.value | La raquette de ce pays a la figure et le goût d ’ un cornichon confit .Ce fruit est fort commun dans le pays de la Mobile $ il est très - rafraîcliissant .La Jacquemine a la forme et la couleur d ’ un limon 5 elle est odoriférante et a le goût des figues bananes . |
+| source.excerpts.20.words.0 | fruit |
+| source.excerpts.20.words.1 | rafraîcliissant |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/adee5a19-d5e9-5dce-a23d-6a0b70d34e54 |
+| source.excerpts.21.value | Bogota .— La rivière Bogota , qui traverse la ville du même nom , qu ’ on appelle aussi Santa - Fé , environ 8 lieues avant sa jonction avec la Madeleine , fait une chute verticale de plus de 1200 pieds , sur un vaste bassin de rochers de formes et de couleurs différentes , ceint par un beau tapis de verdure , et par des arbres énormes auxquels pendent des fleurs odoriférantes .VAmazone . |
+| source.excerpts.21.words.0 | fleurs |
+| source.excerpts.21.words.1 | odoriférantes |
+| source.excerpts.21.words.2 | la Madeleine |
+| source.excerpts.21.words.3 | ville du |
+| source.excerpts.21.words.4 | Santa - Fé |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/bde756cf-1045-51a4-97ea-20b2733ca28f |
+| source.excerpts.22.value | C ’ est ainsi que par ses fleurs , par son fruit et par sa grandeur , le magnolier suupasse ses rivaux .Lts arbres qui croissent dans les savanes appartiennent à l ’ espèce aquatique ; ce sont le magnolia g / auca ( l ’ arbre à castor ) , Y olivier d ’ Amérhjue , et le gor / lonia lasianthus , argenté de fleurs odorantes ou ré urnes en grappes , - forment de petits bois percés à ET DE I .’ aM BRIQUE . |
+| source.excerpts.22.words.0 | fleurs |
+| source.excerpts.22.words.1 | odorantes |
+| source.excerpts.22.words.2 | magnolia |
+| source.excerpts.22.words.3 | olivier |
+| source.excerpts.22.words.4 | lonia |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/c0b14a43-60c8-5045-8f9f-7d123b644418 |
+| source.excerpts.23.value | L ’ on fait infuser cette poudre pendant vingt - quatre heures dans de l ’ eau fraîche , on la passe dans un linge , on la conserve dans une bouteille , et l ’ on en boit un verre à jeûn jusqu ’ à parfaite guérison .La raquette de ce pays a la figure et le goût d ’ un cornichon confit .Ce fruit est fort commun dans le pays de la Mobile $ il est très - rafraîcliissant . |
+| source.excerpts.23.words.0 | goût |
+| source.excerpts.23.words.1 | cornichon confit |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/c533f837-5209-518d-bf10-7c0fdb8e5e29 |
+| source.excerpts.24.value | C ’ est à juste titre qu ’ on vante la variété et la saveur des fruits des Indes occidentales \ les parties montagneuses produisent la pomme , la pcche , la figue rouge et blanche , le raisin , la grenade , Y orange , et tous les fruits de l ’ Europe 5 tandis que les lieux exposés à toute la chaleur du climat se parent des fruits indigènes qui surpassent ces étrangers naturalisés .Les principaux sont , la pomme de pin , la pomme canel / e , ainsi nommée par rapport à son parfum qui égale en douceur celui de cet épice 5 la sapotille ( sapodilla ) , la sapote ( sapota ) , la poire avocat , la noix et la pomme d ’ acajou , la noix de coco , le pridium , ou govyavier , la pomme à flan , les bigarades , la papaye , le shadeck , la grenadille , les prunes de Mojibin , les sirouelles , les caymites , les jaunes d ’ œufs les corosols , Vanana , les melons , les pastèques , ou melons d ’ eau , Y abricot , etc .On trouve la vanille sauvage dans les bois de Saint - Domingue et de la Jamaïque 5 Yaloës , quoique cultivé à la Barbade , croît spontanément sur le sol aride et rocheux de Cuba , des Lucayes et de plusieurs autres îles . |
+| source.excerpts.24.words.0 | parfum |
+| source.excerpts.24.words.1 | pomme |
+| source.excerpts.24.words.2 | pomme de pin |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/cd340a8d-0764-5653-9e51-14020b6f7ce3 |
+| source.excerpts.25.value | Paw , qui regarde comme exagérées toutes les relations en faveur de l ’ Amérique , aurait dû , je crois , sans craindre d ’ être taxé de crédulité , regarder aussi comme une exagération ou une ruse , les souffrances prétendues et inouïes des premiers aventuriers , comme ne tendant qu ’ à ôter aux Européens l ’ envie de leur disputer la jouissance de la découverte importante qu ’ ils venaient de faire , et à jeter un nouveau lustre sur leur persévérance à braver les maux qui les environnaient .Si l ’ Amérique n ’ eût été qu ’ un désert immense , infect et morbifère , eût - elle contenu , abstraction faite des animaux amphibies , autant d ’ êtres vivans , de volailles , de gibier , d ’ animaux domestiques et sauvages , et produit cette variété étonnante de fruits qui , tout sauvageons qu ’ on les cueille , sont cependant plus sucrés , plus agréables que les fruits de l ’ Europe 511 ’ eût - elle pas épargné aux Espagnols l ’ opprobre dont ils se « ont couverts , en assassinant tant de millions d ’ indigènes paisibles , confians , d ’ un abord simple , et exempts de malice et de rancune ? DÜ CLIMAT DI l ’ a MERIQÜE Quelle gloire tout autre que M .Paw trouvera - t - il à un peuple armé de cuirasses , de canons , d ’ armes meurtrières , de chevaux aguerris , de chiens de chasse , retranché derrière des redoutes imposantes , ou caché dans des citadelles flottantes , d ’ avoir vaincu ces paisibles habitans de l ’ Amérique , pour qui cet attirail était un spectacle nouveau 5 qui n ’ avait aucune idée de la poudre à canon et de ses effets , et qui étaient loin de supposer que des gens auxquels ils offraient sans défiance leurs villes , leurs vivres , fussent des monstres à figure humaine , qui devaient violer leurs femmes , leurs filles , piller leurs biens , leur mettre sans aucune provocation le poiguard sous la gorge , les faire brûler , dévorer par leurs dogues , ou les ensevelir vivans sous terre , pour leur procurer de Por ? Quand on pense que ces Américains venaient sans armes sur le rivage , qu ’ ils apportaient aux Espagnols avec confiance et gaieté tou tes les productions de leur sol 5 qu ’ ils prenaient ces nouveaux venus sur leurs épaules pour les aider à descendre à terre 5 que les matelots qui s ’ enfoncaient dans l ’ intérieur du pays étaient fêtés • que de tous côtés ils leur apportaient des vivres 5 qu ’ ils se disputaient à qui leur donnerait asile ; qu ’ ils remplissaient du coton le plus fin les lits suspendus dans lesquels ils couchaient , n ’ est - on pas en droit de se demander si c ’ étaient des peuples civilisés qui étaient descendus chez des sauvages , ou des sauvages chez des peuples civilisés , puisque ceux - ci avaient les vertus qui caractérisent l ’ homme , et les autres cette férocité de l ’ anthropophage ? Quoique les preuves nombreuses attestées par des écrivains et des voyageurs de tous les Etats de l ’ Europe , Payant aucun intérêt particulier , ni aucune considération à garderenvers l ’ Amérique , devraient suffire pour prouver que le Nouveau - Monde , lors de sa découverte , n ’ était pas un désert immense , infect et mortel , comme le prétend M . |
+| source.excerpts.25.words.0 | morbifère |
+| source.excerpts.25.words.1 | infect |
+| source.excerpts.25.words.2 | Amérique |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/d4966216-9a7c-5c2c-b25f-d6e642977b84 |
+| source.excerpts.26.value | Dans les terres de deuxième classe , se trouve le fagus castanea ( châtaignier ) ; quercus rubra ( chêne rouge ) 5 quercus tinctoria ( chêne noir ) 5 laurus sassafras ( sassafras ) 5 diospiros virginiana ( persimon ) 5 liquidambar styracif .ua ( swetgum ) gommier odorant \ nyssa villosa ( gum - tree ) , gommier qui ne donne ni gomme ni résine .Les terres de troisième classe 11e produisent guère que des chênes noirs et rouges , des chênes châtaigniers de montagne ( quercus prinus montana ) , des pins , et quelquefois des cèdres de Virginie . |
+| source.excerpts.26.words.0 | odorant |
+| source.excerpts.26.words.1 | tree |
+| source.excerpts.26.words.2 | nyssa villosa |
+| source.excerpts.26.words.3 | gum |
+| source.excerpts.26.words.4 | swetgum |
+| source.excerpts.26.words.5 | gommier odorant |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/e52956fe-58a5-5f46-afb7-d944cf2d259a |
+| source.excerpts.27.value | Parmi les végétaux , liabitans des bas rivages de la Floride , de la Géorgie et de la Caroline méridionale , on distingue le mangrove , le seul arbuste qui peut fleurir dans les lieux salés 5 l ’ odorant pancratium de la Caroline , dont les fleurs ont le blanc de la neige , et la magnifique lobelia cardinalis .Au milieu des savanes et sur les collines arrondies on voit cioître le superbe palmier , le chêne vert , le laurier odoraut ( laurus borbonia ) , le laurier commun , le cèdre rouge et le pin , qui étend au loin S ’ on feuiL 246 EXAMEN BU S ü B I ) E L ^ EUROPE lage et son ombre 5 la colonne droite et attentée du figuier papayer , qui s ’ élève à 20 pieds de haut et que couronne un dais de feuilles larges et découpées , forme une des belles décorations de cette scène délicieuse ; tandis qu ’ à côté , les fleurs parfumées et le fruit sucré légèrement acidulé de l ’ oranger , qui se reproduit sous tant de formes différentes , réalisent , dans ces contré » s , la fable des Hespérides ; le papayer , l ' iin des pins beaux arb .vs que l ’ on connaisse , dont la fleur a l ’ odeur du muguet , le fruit la forme et la grosseur du melon : le sylphium , qui distille d ’ im long épi nue gomme jaunâtre ; et le magnotier , qui s ' élance de sou sol calcaire à la . |
+| source.excerpts.27.words.0 | fruit |
+| source.excerpts.27.words.1 | fleurs |
+| source.excerpts.27.words.2 | oranger |
+| source.excerpts.27.words.3 | laurier |
+| source.excerpts.27.words.4 | savanes |
+| source.excerpts.27.words.5 | fleurs parfumées |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/eb821f04-e437-545c-a673-d3ea97847d70 |
+| source.excerpts.28.value | Deux autres , moins considérables , se rendent dans le même fleuve .Le lac de Titica , entre Cusco et la ville d ’ Aréquipa , a 88 lieues de circuit , 100 brasses de profondeur : il reçoit douze rivières , plusieurs ruisseaux 5 nourrit deux espèces de poissons dans ses eaux douces , auxquelles le soufre et le bitume donnent une mauvaise odeur .Ce lac , qui est très fréquenté par les oies et les oiseaux sauvages , renfermait sous les Incas , entre autres îles , celle où Manco - Capac , fondateur de la monarchie péruvienne , fit élever en l ’ honneur du soleil tin temple dont les murs étaient revêtus d ’ or , et tout ce qui servait à l ’ usage des prêlres ou aux sacrifices était composé des matières les plus précieuses 3 elles furent jetées dans * ce lac , lors de l ’ invasion des Espagnols . |
+| source.excerpts.28.words.0 | mauvaise |
+| source.excerpts.28.words.1 | odeur |
+| source.excerpts.28.words.2 | soufre |
+| source.excerpts.28.words.3 | bitume |
+| source.excerpts.28.words.4 | entre Cusco et la ville d ’ Aréquipa |
+| source.excerpts.28.words.5 | lac de Titica |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ec611db2-d934-5d05-89cd-aa3bef7d44ea |
+| source.excerpts.29.value | Hum - boldt , acquiert une nouvelle .importance , si l ’ on se rappcdle que le même terrain primitif renferme les feux souterrains jusqu ’ aux bords des cratères enflammés , que l ' odeur du pétrole se fait sentir de temps en temps , et que la plupart des sources chaudes de l ’ Amérique sortent du gneiss et du schiste micacé .Dans l ’ intérieur des terres , entre Porto - Securn et la baie des Saints , au Brésil , 011 trouve , dit - on , dans les lieux secs , un arbre fort grand , fort épais , dont tontes les branches , percées de trous profonds , rassemblent une humeur aqueuse cpii 11e déborde ni ne diminue jamais , quelque quantité qu ’ on en puisse tirer . |
+| source.excerpts.29.words.0 | odeur |
+| source.excerpts.29.words.1 | pétrole |
+| source.excerpts.29.words.2 | de temps en temps |
+| source.excerpts.29.words.3 | schiste micacé |
+| source.excerpts.29.words.4 | sources chaudes |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/f55b9561-a1d8-5693-b420-6c35d0359c1a |
+| source.excerpts.30.value | Parmi les autres arbres on remarque cependant le sorbiery dont j ’ ai déjà parlé .On rencontre encore dans les îles de Saint - Laurent le sassafras y le laurier et le mûrier rouge 5 ils sont dans le même état de langueur que les chênes : quant aux hêtres y aux ifs y et aux frênes de montagnes , ou les retrouve dans les contrées septentrionales de l ’ Ancien et du Nouveau - Monde 5 mais les festons légers de la vigne sauvage , ses grappes 254 33 X A H E îf DU SOL DE l ’ EUBOïE pendantes , et les lieurs odorantes de V asclépias de Syrie , forment un ornement caractéristique des forêts du Canada .Le lilium canadense , semblable au lys sarrane dans le Kamschatka , et 1 e gins - seng ( panax quinquefolium ) commun à l ’ Amérique et à la Tartane , font apercevoir un rapport entre les flores septentrionales de l ’ Asie et de l ' Amérique . |
+| source.excerpts.30.words.0 | odorantes |
+| source.excerpts.30.words.1 | hêtres |
+| source.excerpts.30.words.2 | vigne |
+| source.excerpts.30.words.3 | laurier |
+| source.excerpts.30.words.4 | sassafras |
+| source.excerpts.30.words.5 | frênes |
+| source.excerpts.30.words.6 | ifs |
+| source.excerpts.30.words.7 | mûrier rouge |
+| source.excerpts.30.words.8 | V asclépias |
+| source.excerpts.30.words.9 | les îles de Saint - Laurent |
+| source.excerpts.30.words.10 | lieurs odorantes |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ffc03b0c-4cca-500a-b69b-452d7e2e00ea |
+| source.excerpts.31.value | Le long des torrens qui coulent dans les environs de YVest - Liberty - Town , il croît une espèce d 1 azalea qui s ’ élève de 12 , à i5 pieds .Ses fleurs , parfaitement blanches , et plus grandes que celles des autres espèces connues , répandent l ’ odeur la plus suave .L ' ‘ azalea coccinea , dont la fleur est de couleur capucine , croît au contraire sur le sommet des montagnes , et fleurit deux mois auparavant . |
+| source.excerpts.31.words.0 | odeur |
+| source.excerpts.31.words.1 | la plus suave |
+| source.excerpts.31.words.2 | Ses fleurs |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/02fe61de-4024-5e6b-9d2a-4667c599d84e |
+| source.excerpts.32.value | ; tandis que les forêts de l ’ Amérique offraient à chaque pas au voyageur altéré des sapotilles et des sapo ' éesy le premier des fruits , tant pour l ’ excellence de la Pliait < Jue pour l ’ encens qu ’ elles fournissent ; la pomme de pin , si vantée par les Européens mêmes ; la pomme canelle , ainsi appelée , par rapport à sa forme , à sa crème , qui a un parfum plus fin que la canelle ; le chilimoye , la piaque - mine , les manieis , Yanone , les mures sucrées , la Jacquemine , dont j ’ ai déjà parlé ; le cacliiman - cœur - de - bœuf , autre espèce de pomme - canelle , ainsi nommée , à cause de sa forme , de sa grosseur , de sa couleur ; les pommes d ’ acajou , rouges , jaunes , dont ou fait des compotes agréables ; des abricots succulens , parfumés , et gros comme la tête d ’ un enfant , qui se mangent tantôt crus , tantôt confits dans du vin avec du sucre et de la canelle , tantôt en marmelade avec des amandes d ’ acajou et des pistaches ; des avocats violets , verts , jaunes ( espèce de poires d ’ une pâte moelleuse , surpassant en grosseur les 3çj6 rr , onucTiotJS utiles de l ’ europb plus gros coings ) ; riesgouyaves roses , jaunes , blanches ( .autre espece de poires , qui , mêlées avec du vin , lui donnent le parfum de l ' ambroisie ) ; des corosols , pleins d ’ un jus rafraîchissant , dont les moindres sont gros comme un boulet de 12 , et les beaux , comme la cuisse tV un homme ordinaire ; des papayes , qui font des con - k fîtu res si agréables ; et des coqs , qui donnent des fruits sucrés tous les mois ; des oranges de huit espèces différentes : des chadeks roses , jaunes , blancs , gros comme la tête d ’ un homme 5 des limons , des cédrats , des bergamotes , des citrons doux , aigres ; des janiplia , qui changent de feuilles tous les mois , et produisent une espèce d ’ orange qui a le goût du coing 5 d r s siro elles , des moubins ( espèce de prunes de mirabelle pdus parfumées et plus charnues que celles - ci ) 5 des caïmiiés de deux espèces ( sorte d ^ p , runes de l ’ espèce de danns , dont le suc est laiteux et sqcré , et la chair de la couleur de la prune de monsieur : les grosses sont comme de forts ■ œufs de dinde ) j des jaunes - d ' œufs } ainsi appelés , à eatise de sa ressemblance avec .le jaune d ' un œuf cuit ( espèce de reine - claude , dont la chair est plus substantielle , mais moins jutteuse que celle - ci ) ; des dattes , des cocos , des pacanes , et quatre autres espèces de noix ; des cerises aigrelettes , plus belles que celles de Montmorency j des tropes ( espèce de cerise dont la douceur est relevée par une légère acidité , renfermée dans une coque verte , qui se casse en deux lorsqu ’ on la mord , et présente une cerise d ’ or sans peau ) ; des raquettes ( sorte de figues dont on n ’ a pas encore pu fixer la superbe couleur de pourpre ; des noix d ’ acajou , plus fines et pl ns goûtées que celles d ’ Europe , et dont les coques rendent plus d ’ huile que ces dernières ; des ananas de ET DE i / aMÉRIQUE . |
+| source.excerpts.32.words.0 | parfum |
+| source.excerpts.32.words.1 | parfumées |
+| source.excerpts.32.words.2 | citrons |
+| source.excerpts.32.words.3 | ambroisie |
+| source.excerpts.32.words.4 | poires |
+| source.excerpts.32.words.5 | bergamotes |
+| source.excerpts.32.words.6 | prunes de mirabelle |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/1e991603-f3f5-59de-a741-269496f1f3c6 |
+| source.excerpts.33.value | 4 ° 7 rier - rose , < lu cajier , du cacaoyer , du sirouellicr , du monbin , des orangers , etc .L ’ Europe produit - elle des arbres qui exilaient une odeur aussi suave que le laurier canclle de Saint - Domingue , qui fournit une canelle blanche qui a l ’ odeur de la muscade , et dont la saveur est très - piquante ; que les feuilles du bois d ’ inde , que 1 estorax , dont on tire un baume odoriférant , en faisant des incisions dans l ’ écorce , et dont on emploie le bois en menuiserie ; ( pie le sassafras et tant d ’ autres ? Que peut - elle comparer au cirier végétal de la Louisiane , qui éclaire le nouvel hémisphère , à Yarbre au pois , si utile par la nourriture qu ’ il fournit aux bestiaux , à Yarbre de cuir , dont l ’ écorce sert à faire des cordages très - solides , à Yarbre d beurre dont on emploie l ’ écorce intérieure pour teindre en pourpre , et la noix à faire une très - bonne huile 5 au sylphium de la Floride , qui purifie la bouche et blanchit les dents ; au papayer , dont le fruit confit est stomachique , et la semence un vermifuge , dont les feuilles fournissent une espèce de savon , et les tiges des tuyaux de pqie ; au palmier aréquier ou palmiste royal , qui s ’ élève souvent à la Guyane jusqu ’ à 200 pieds de hauteur , dont le fruit sert à faire ces confitures exquises que l ’ on envoie en Europe ; à la plante à soie de Surinam , dont les feuilles renferment une espèce de chanvre qui a quelque ressemblance avec la soie , et dont on fait des cordes , des filets , des corbeilles et des étoffes , dont le fruit contient une substance savonneuse , qui se dissout dans l ’ eau , et avec laquelle 011 lave le litige : à Yanoara de la Guyane qui fournit une liqueur agréable , et un fruit dont le noyau sert aux nègres à faire des anneaux et des devises 5 au tamarinier épineux , qui produit de longues gousses renfermant quelques pulpes avec un grain d ’ un goût acide et agréable , dont on se sert dans la médecine et dans la préparation du tabac ; au bois dentelle , dont l ’ écorce intérieure n ’ est qu ’ une dentelle élégante avec laquelle les dames garnissent leurs robes ; au maquey , qui fournit à - la - fois du vin , du vinaigre , du miel , du fil , des aiguilles , des toiles , et du bois propre à bâtir et à brûler ? Le maqney remplace aussi le chanvre de l ’ Asie et le - roseau à papier des Egyptiens .Les fragmens des manuscrits aztèques écrits sur du papier maqney , sont d ’ autant plus intéressans , que les seuls hiéroglyphes qui existent à Vienne , à Rome , à Veletri , sont écrits sur des peaux de cerfs mexicains . |
+| source.excerpts.33.words.0 | suave |
+| source.excerpts.33.words.1 | odeur |
+| source.excerpts.33.words.2 | baume |
+| source.excerpts.33.words.3 | odoriférant |
+| source.excerpts.33.words.4 | substance |
+| source.excerpts.33.words.5 | muscade |
+| source.excerpts.33.words.6 | arbres |
+| source.excerpts.33.words.7 | laurier |
+| source.excerpts.33.words.8 | chanvre |
+| source.excerpts.33.words.9 | canelle blanche |
+| source.excerpts.33.words.10 | saveur |
+| source.excerpts.33.words.11 | palmier |
+| source.excerpts.33.words.12 | Domingue |
+| source.excerpts.33.words.13 | très - piquante |
+| source.excerpts.33.words.14 | tamarinier |
+| source.excerpts.33.words.15 | feuilles du bois d ’ inde |
+| source.excerpts.33.words.16 | 1 estorax |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/1f341930-a2c4-5739-bfa9-11eb3146b3d5 |
+| source.excerpts.34.value | Ce pays a été trop peu exploré pour pouvoir en offrir l ’ herbier .Tout ce qu ’ on en sait , c ’ est que , parmi les arbres , il y en a plusieurs dont le tronc a près de trois pieds de diamètre : leurs feuilles ressemblent à celles du laurier : leur écorce a le goût du poivre , elle est d ’ une odeur pénétrante ; ou l ’ app ' elle de yvinter , parce que le navigateur de ce nom est le premier qui l ’ a apportée en Europe .Elle sert d ’ antidote à ceux qui mangent de la chair de lion marin . |
+| source.excerpts.34.words.0 | pénétrante |
+| source.excerpts.34.words.1 | odeur |
+| source.excerpts.34.words.2 | elle |
+| source.excerpts.34.words.3 | feuilles |
+| source.excerpts.34.words.4 | poivre |
+| source.excerpts.34.words.5 | laurier |
+| source.excerpts.34.words.6 | leur écorce |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/214c2822-18ab-542a-82b1-98c073d0d2ea |
+| source.excerpts.35.value | Le cotonier - soie a souvent 12 pieds de circonférence : on en construit des canots d ’ une charge considérable .La Guyane est si fertile , que les arbres plient sous le poids de leurs fruits 5 les champs abondent en légumes , les prairies en fleurs odoriférantes , en eyidendrum mosquito et torito , plantes fameuses de l ’ Amérique méridionale ; en anguloa y ou fleur de Saint - Esprit : en bletia , etc .Les montagnes et les forêts sont couvertes d ’ arbres d ’ une hauteur prodigieuse et d ’ animaux divers ; l ’ intérieur de la terre est rempli de mines d ’ or , d ’ argent , de cuivre et de pierres précieuses ; les rivières fourmillent de poissons . |
+| source.excerpts.35.words.0 | Guyane |
+| source.excerpts.35.words.1 | fleurs |
+| source.excerpts.35.words.2 | plantes |
+| source.excerpts.35.words.3 | odoriférantes |
+| source.excerpts.35.words.4 | eyidendrum |
+| source.excerpts.35.words.5 | fleur de Saint |
+| source.excerpts.35.words.6 | anguloa |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/2472d3ae-66ff-55f5-a311-2d6ef82bce0c |
+| source.excerpts.36.value | Les médecins sauvages , pour la faire , prennent un vase , y mettent la fleur , ensuite de l ’ huile d ’ ours par - dessus 5 ils exposent le vase bien bouché au soleil levant .La chaleur concentrée du vase donne à l ’ huile une couleur rouge et une odeur agréable qui guérit et purifie toutes sortes de plaies .Il y a même des plantes qui ont la vertu de servir de contre - poison : heureux ceux qui savent les connaître et en user comme il convient ! Les sauvages connaissent des milliers de simples qui sont propres à purifier la masse du sang . |
+| source.excerpts.36.words.0 | huile |
+| source.excerpts.36.words.1 | agréable |
+| source.excerpts.36.words.2 | odeur |
+| source.excerpts.36.words.3 | guérit |
+| source.excerpts.36.words.4 | purifie toutes sortes de plaies |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/2cc823a4-340d-516e-ae95-a499360fc877 |
+| source.excerpts.37.value | A ses fleurs d ’ un bland - jaunâtre , assez semblables aux iis , succèdent des gousses brunes , longues de 6 pouces et fort étroites , renfermant quan - ET I ) E ^ AMÉRIQUE .3ll lité de grains fort petits , qui ont un goût aromatique et une odeur balsamique si agréable , qu ’ onles emploie dans le chocolat pour lui donner ce parfum enchanteur .Toute la vanille que consomme l ' Europe vient du Mexique , parla seule voie de la Vera - Crnz . |
+| source.excerpts.37.words.0 | aromatique |
+| source.excerpts.37.words.1 | agréable |
+| source.excerpts.37.words.2 | parfum |
+| source.excerpts.37.words.3 | qui |
+| source.excerpts.37.words.4 | odeur |
+| source.excerpts.37.words.5 | balsamique |
+| source.excerpts.37.words.6 | enchanteur |
+| source.excerpts.37.words.7 | chocolat |
+| source.excerpts.37.words.8 | goût aromatique |
+| source.excerpts.37.words.9 | onles |
+| source.excerpts.37.words.10 | lité de grains fort petits |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/2dc2a8d4-45ab-502d-994e-02bf93a6c416 |
+| source.excerpts.38.value | On y voit aussi du copal , arbre dont la gomme est un excellent baume , et aussi bon que celui du Pérou .Les animaux blessés à la chasse se guérissent d ' eux - mêmes , en se frottant contre l ’ arbre d ’ où découle ce baume , qui a une odeur aromatique .Les sauvages ont , dans leurs habitations , des cclo - ET DE I / A ME RI QUE , VJf ) quintes , des callebasses , dont ils font un sirop pectoral 5 du capillaire , ami de la poitrine 5 de la cassine , qui est un excellent diurétique . |
+| source.excerpts.38.words.0 | aromatique |
+| source.excerpts.38.words.1 | odeur |
+| source.excerpts.38.words.2 | baume |
+| source.excerpts.38.words.3 | animaux |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/325d361a-1d44-5b95-99e1-07a9a3df279c |
+| source.excerpts.39.value | Cet arbre , qui est de la hauteur d ' un des chênes d ’ Europe , et ne jette [ tas moins de branches , croît parmi les rochers , dans les terrains les plus incultes .Il est raboteux , tortu et plein de nœuds comme l ’ aubépine j les feuilles , qui ont quelque ressemblance avec celle du buis , ‘ sont vertes , lisses , dures , sèches , fragiles 5 ses Seurs , petites et unies ensemble comme celles du muguet , mais plus odorantes et d ’ un très - beau rouge .Son écorce est si épaisse , que , lorsque l ’ arbre en est dépouillé , il diminue des trois quarts de sa grosseur . |
+| source.excerpts.39.words.0 | odorantes |
+| source.excerpts.39.words.1 | feuilles |
+| source.excerpts.39.words.2 | muguet |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/3a05ffd4-3292-5458-89d1-cda6fa317c7a |
+| source.excerpts.40.value | Llyteu donne une excellente teinture en noir .Le slramonoïdes arboreum embaume l ' air par son odeur .A l ’ exception du mûrier , du cyprès , du laurier et du saule , tous les arbres du Chili diffèrent de ceux d ’ Europe . |
+| source.excerpts.40.words.0 | odeur |
+| source.excerpts.40.words.1 | son |
+| source.excerpts.40.words.2 | air |
+| source.excerpts.40.words.3 | embaume |
+| source.excerpts.40.words.4 | slramonoïdes arboreum |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/4210b14c-8c7d-59ec-b018-4f658a876c70 |
+| source.excerpts.41.value | ’ euroee canon ; il a depuis 6 jusqu ’ à 9 pouces de diamètre ; il sa tisfait tout - à - la fois le goût et l ’ odorat : on en fait des marmelades , des confitures , des tourtes qui surpassent , au dire des gourmets , tout ce qu ’ on connaît en Europe de plus exquis en ce genre .Les différens melons que l ’ on mange dans toute la Guyane l ’ emportent encore sur ceux d ’ Europe par la grosseur , le goût et le parfum .L ’ utilité du calebassier est trop connue pour en parler ici . |
+| source.excerpts.41.words.0 | parfum |
+| source.excerpts.41.words.1 | Europe |
+| source.excerpts.41.words.2 | la Guyane |
+| source.excerpts.41.words.3 | différens melons |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/4272a288-b315-53a2-8ab8-11fc7d530e0b |
+| source.excerpts.42.value | a cassine ou le thé des Apalachites ; la yerva canieni du Paraguay , qui a la rare vertu de purifier toutes les eaux , quelque amères ou corrompues qu ’ elles soient 5 le coca , le caamini , le mate , le palos , la robe du Paraguay , dont les profits se sont élevés depuis 10 jusqu ’ à i5 millions , suivant qu ’ on a plus ou moins travaillé aux mines où elles sont absolument nécessaires pour calmer les symptômes que produisent les vapeurs mercurielles sur les travailleurs 5 qnel ’ / zeràe , autrement dit le thé du Paraguay ; les Américains l ’ aiment tant , quç le Chili en lait à lui seul un commerce de 1 , 822 , 600 liv .par an ( 45o , ooo piastres ) ; que le capillaire , le celastrus , le petit tabac du Nord ; que le gins - eng du Canada ; les écorces du faul $ le gingembre , cette espèce de roseau dont la racine sert d ’ épice , quand on la fait sécher et réduire en poudre , et qui a la vertu de ramener la transpiration ; le mapou de Cayenne , dont le suc fait refluer le sang sur lui - même lorsqu ’ on s ’ est coupé , et qui guérit les blessures les plus profondes en moins de ^ 2 heures ; 1 e safran , la sauge , 1e tabac , le piment ou poivre des Antilles , dont les baies cueillies avant d ' avoir atteint leur maturité , conservent toujours leur goût aromatique ; l ’ alcornoquc , ce spécifique infaillible pour les maladies du foie , du poumon et les fluxions de poitrine ( 1 ) ? ( 1 ) L ' alcornoque est un arbre qui croît à la Terre - Ferme f et dont te bois est compacte et pesant .Dans la véritable acception du mot indien , il signiüe liège , quoiqu ’ il diffère essentiellement de celui - ci , qui est poreux et léger de sa nature . |
+| source.excerpts.42.words.0 | tabac |
+| source.excerpts.42.words.1 | baies |
+| source.excerpts.42.words.2 | sauge |
+| source.excerpts.42.words.3 | piment |
+| source.excerpts.42.words.4 | goût aromatique |
+| source.excerpts.42.words.5 | poivre des Antilles |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/4fd0c554-a0e7-59ff-9b7e-4e7f442afdb2 |
+| source.excerpts.43.value | Il perd 4 ^ 8 PRODUCTIONS UTILES DE l ’ euHOPB alors de sa vertu et de sa saveur , et il n ’ est regardé par les habitans que comme du café inférieur .Il y en a une autte espèce que l ’ on nomme triage 5 c ’ est celui qui reste après qu ’ on en a extrait le café , bon , régulier et qui n ’ est point cassé 5 enfin , la dernière qualité est celle du café mouillé à l ’ eau de mer : il devient d ’ un blanc mort , perd de son parfum , pour contracter une odeur de moisi ou de fèves .Les Anglais et les Français , qui aiment le café et le sucre autant que tout autre peuple , et qui en consommaient avant q * ue les Germains eussent eu aucune idée de ces deux productions , n ’ ont jamais songé à prendre , pour leur consommation particulière , du sucre de tcheou - fou en Chine , ni du café d ' Arabie , parce qu ’ ils ont reconnu que le sucre du Brésil , comme celui de Saint - Domingue , le café de la Martinique , du Borgne et du Rochelois à Saint - Domingue , étaient comparables , sinon supérieurs à ces mêmes productions de l ’ Asie . |
+| source.excerpts.43.words.0 | parfum |
+| source.excerpts.43.words.1 | odeur |
+| source.excerpts.43.words.2 | moisi |
+| source.excerpts.43.words.3 | café |
+| source.excerpts.43.words.4 | fèves |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/5587af2c-8cae-5913-a938-a109628c91e1 |
+| source.excerpts.44.value | On la récolte dans les deux intendances de la Vera - Cruz et d ’ Oaxaca , sur une étendue de terrain de quelques lieues carrées .La vanille vient fort bien sur les cotes des Ca ~ raques , à l ’ île de Cuba et à Saint - Domingue ^ où le fruit est très - long , mais moins odoriférant , à cause de la trop grande humidité , qui , en favorisant la végétation , est contraire au développement de l ’ aromate .En 180a , il sortit du port de Vera - Cruz 1793 milliers pesant do vanille . |
+| source.excerpts.44.words.0 | aromate |
+| source.excerpts.44.words.1 | odoriférant |
+| source.excerpts.44.words.2 | vanille |
+| source.excerpts.44.words.3 | Saint - Domingue |
+| source.excerpts.44.words.4 | cotes des Ca ~ raques |
+| source.excerpts.44.words.5 | l ’ île de Cuba |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/569ae6a5-414d-537c-8924-5f02e9fa5186 |
+| source.excerpts.45.value | Le café des mornes est en général plus gros que celui des plaines , à moins que le terrain soit plus sec , ce qui influe alors sur sa grosseur .Il se divise en deux parties égales ; il est d ’ un vert foncé tirant sur la corne de cerf avec un lustre soyé , argentin ; il a autant de bonté , de vertu et de parfum que celui de la plaine , quand on ne le récolte pas dans des terrains trop humides .L ’ exposition du nord ne lui est point favorable ; celle de l ’ Est le fatigue , à cause des brises de ce pays : on y remédie en laissant des arbres en assez grande quantité pour arrêter la force du vent . |
+| source.excerpts.45.words.0 | parfum |
+| source.excerpts.45.words.1 | plaine |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/5ab36f77-6c33-51d6-87bc-b5e7fe0b225c |
+| source.excerpts.46.value | La boisson vineuse qui ressemble au cidre , a une odeur de viandeéchauffée , que l ’ on corrige quand on le veut .Mais quand on peut vaincre le dégoût qu ’ inspire cette odeur fétide , on préfère le pulque à toute autre boisson .Il est stomachique , fortifiant , sur - tout très - nourrissant . |
+| source.excerpts.46.words.0 | fétide |
+| source.excerpts.46.words.1 | odeur |
+| source.excerpts.46.words.2 | boisson |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/6510e93e-2a03-54ef-8bf4-3673ac2d2680 |
+| source.excerpts.47.value | Le cacao est la monnaie courante du pays $ il fait la principale richesse des habitans : ils recueillent aussi beaucoup de tabac , des melons délicieux .C ’ est , comme l ' observe très - bien le Voyageur français , le pays de la fertilité , de la richesse , des parfums , des fleurs , des fruits , de la chasse , des jolies femmes , des beaux hommes , et la patrie du bonheur .Aîaragnan est le nom d ’ une île qui forme un gouvernement particulier habité par lesTopinambons . |
+| source.excerpts.47.words.0 | fruits |
+| source.excerpts.47.words.1 | fleurs |
+| source.excerpts.47.words.2 | parfums |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/6910dc78-4fcf-51a3-a8dc-cc612ddca6e0 |
+| source.excerpts.48.value | Tous les arbustes du Chili , à l ’ exception du myrte et de la sauge , sont différens de ceux d ’ Europe .Y ? arbre à encens produit un encens aussi bon que celui d ’ O - rient , quoique l ’ arbuste en soit différent .Le chilea distille de toutes ses brandies une résine aromatique blanche d ’ abord , et qui devient ensuite jaunâtre . |
+| source.excerpts.48.words.0 | encens |
+| source.excerpts.48.words.1 | arbuste |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/6cb89527-f705-5647-ac14-4b51ddd21b82 |
+| source.excerpts.49.value | Le palu ^ 11 a s ’ élève fort haut , et quatre hommes quelquefois peuvent à peine l ’ embrasser .Ses fleurs ont la couleur et l ’ odeur des lis , mais elles sont de deux tiers plus petites , et pendent en bas .Il y a deux espèces de temo , le blanc et le jaune . |
+| source.excerpts.49.words.0 | odeur |
+| source.excerpts.49.words.1 | lis |
+| source.excerpts.49.words.2 | Ses fleurs |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/6d755c07-3edb-5db7-b049-d37ad251fff3 |
+| source.excerpts.50.value | 11 ressemble à un boulet d « 028 examen nu son de i .’ euroee canon ; il a depuis 6 jusqu ’ à 9 pouces de diamètre ; il sa tisfait tout - à - la fois le goût et l ’ odorat : on en fait des marmelades , des confitures , des tourtes qui surpassent , au dire des gourmets , tout ce qu ’ on connaît en Europe de plus exquis en ce genre .Les différens melons que l ’ on mange dans toute la Guyane l ’ emportent encore sur ceux d ’ Europe par la grosseur , le goût et le parfum . |
+| source.excerpts.50.words.0 | il |
+| source.excerpts.50.words.1 | odorat |
+| source.excerpts.50.words.2 | goût |
+| source.excerpts.50.words.3 | gourmets |
+| source.excerpts.50.words.4 | euroee |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/6ffe3064-a9df-5211-8c26-85a55c854a96 |
+| source.excerpts.51.value | 5 pieds de haut , que Lmnée a décrit imparfaitement , puisqu ’ il dit qu ’ il n ’ a pas de feuilles 5 taudis qu ’ il en produit des groupes magnifiques d ’ un vert frais et brillant comme les aulnes , et dont l ' ombre conserve aux autres aibres un sol humide .Le palmier aréquier , dont le fruit fait d ’ excellentes confitures 3 Yaonara , qui fournit une liqueur agréable ; le palmier onctueux , d ’ où découle une gomme parfumée 3 le palmiste , qui produit un chou excellent à manger 3 le cocotier , le dattier .Il y a en outre deux palmiers qui sont reconnus pour être particuliers à cette partie de l ’ Amérique , mais qui , de même que plusieurs autres plantes de la Guyane , 11 ’ ont pas trouvé leur place dans le système de Linnée . |
+| source.excerpts.51.words.0 | parfumée |
+| source.excerpts.51.words.1 | gomme |
+| source.excerpts.51.words.2 | palmier |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/7fced4c2-8276-511d-a1f4-5e28b7fda707 |
+| source.excerpts.52.value | Ou leur attribue beaucoup d ’ autre » vertus .Les racines du colliguai , brûlées , répandent une odeur suave et très - pénétrante .La murtilla donne une baie plus grande que celle du myrte , dont la figure et la couleur ressemblent à la grenade . |
+| source.excerpts.52.words.0 | suave |
+| source.excerpts.52.words.1 | odeur |
+| source.excerpts.52.words.2 | très - pénétrante |
+| source.excerpts.52.words.3 | racines du colliguai |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/80aac323-05b2-58f7-b8dc-ce2ba83e5eb1 |
+| source.excerpts.53.value | Le convolvulus jalapa , ou vrai jalap , qui croît naturellement dans la Californie , dans la province de Xa - Jappa , au Mexique .Le copaifera ofjicinalis et le tolui - fera balsamum , deux arbres qui donnent une résine odorante , connue dans le commerce sous le nom de baume de capivi et de tolu .ET DE L 7 A mÉRIQUB . |
+| source.excerpts.53.words.0 | résine |
+| source.excerpts.53.words.1 | odorante |
+| source.excerpts.53.words.2 | deux arbres |
+| source.excerpts.53.words.3 | copaifera |
+| source.excerpts.53.words.4 | tolui - fera balsamum |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/80ab6fe8-165e-53ff-bbbe-a09419a555db |
+| source.excerpts.54.value | Les Anglais et les Français , qui aiment le café et le sucre autant que tout autre peuple , et qui en consommaient avant q * ue les Germains eussent eu aucune idée de ces deux productions , n ’ ont jamais songé à prendre , pour leur consommation particulière , du sucre de tcheou - fou en Chine , ni du café d ' Arabie , parce qu ’ ils ont reconnu que le sucre du Brésil , comme celui de Saint - Domingue , le café de la Martinique , du Borgne et du Rochelois à Saint - Domingue , étaient comparables , sinon supérieurs à ces mêmes productions de l ’ Asie .C ’ est parce que les Turcs et les Chinois ont trouvé que le sucre du Brésil , quoique moins blanc , et n ’ ayant pas autant de saveur et de corps que celui de Saint - Domingue , était cependant plus substantiel et d ’ une douceur plus éloigné du miel que celui de Y Egypte 5 qu ’ il n ’ avait pas en outre cette odeur étrange que celui de la Chine exhale ; enfin , que le çafé des Antilles avait autant de feu et de parfum que les leurs , qu ’ ils n ’ ont pas hésité à se servir de ces productions de l ’ Amérique , qui étaient en outre à meilleur marché et en plus grande abondance .Je ne m ’ étendrai pas davantage sur la supériorité du sucre de l ’ Amérique sur celui de tout autre pays j quant à celle du café , je me contenterai de citer ET DE L ’ AMERIQUE . |
+| source.excerpts.54.words.0 | parfum |
+| source.excerpts.54.words.1 | odeur |
+| source.excerpts.54.words.2 | exhale |
+| source.excerpts.54.words.3 | étrange |
+| source.excerpts.54.words.4 | sucre |
+| source.excerpts.54.words.5 | Saint |
+| source.excerpts.54.words.6 | Egypte |
+| source.excerpts.54.words.7 | Domingue |
+| source.excerpts.54.words.8 | çafé des Antilles |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/8eb95b5e-f78f-5230-8e23-15176f164237 |
+| source.excerpts.55.value | Les myrtes s ’ élèvent à 4 ° pieds de hauteur .Il croît sur leur écorce une mousse qui a l ’ odeur et le goût de l ’ ail .On récolte dans les deux îles de ce nom beaucoup de cresson , d ’ oseille , de pourpier , de raves et de végétaux bons contre le scorbut . |
+| source.excerpts.55.words.0 | odeur |
+| source.excerpts.55.words.1 | ail |
+| source.excerpts.55.words.2 | mousse |
+| source.excerpts.55.words.3 | goût |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/8f1c7e32-e5e6-56f3-92e7-e1cc736d5695 |
+| source.excerpts.56.value | 067 ’ fie fut - elle pas couverte de marais ? Cenotlirus , fils de Lycaon , étant venu , an rapport deDenys d Halycar - nasse , pour l ’ habiter avec une colonie , et ayant trouvé le pays désert , inculte , ne fut - il pas obligé de chercher une habitation sur les montagnes ? Les marais qui subsistaient encore du temps d ’ Annibal , au - dessus de Plaisance , dans la partie septentrionale de l ’ Italie ^ 11e firent - ils pas perdre un œil à ce grand capitaine , pour avoir été obligé de s ’ y arrêter plusieurs jours ? M .Paw croit - il que l ’ air de Rome soit bonifié par les exhalaisons des marais Pontms , et par les vapeurs sulfureuses du royaume de Naples ? Il n ’ ignore pas ce que sont devenues ces familles allemandes que le pap £ Benoît XIV avait établies aux environs de Home , et quel air on respire autour de Jla / itoue , de ses environs , dans une partie de f Afrique , dans l ’ île de j .Madagascar , La Chine et le Bengale sont les pays du monde oit il y a le plus d ’ habitaus 5 cependant ils offrent quantité ’ de déserts et de marais ' . |
+| source.excerpts.56.words.0 | Rome |
+| source.excerpts.56.words.1 | Naples |
+| source.excerpts.56.words.2 | Afrique |
+| source.excerpts.56.words.3 | vapeurs |
+| source.excerpts.56.words.4 | air |
+| source.excerpts.56.words.5 | exhalaisons |
+| source.excerpts.56.words.6 | sulfureuses |
+| source.excerpts.56.words.7 | royaume |
+| source.excerpts.56.words.8 | Home |
+| source.excerpts.56.words.9 | marais Pontms |
+| source.excerpts.56.words.10 | Jla |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/909912bb-6486-5d71-ad0c-89f4e3760e15 |
+| source.excerpts.57.value | Quatorze épidémies et mortalités ont couvert l ’ Angleterre de deuil , et ont étendu leurs fureurs jusque sur les bestiaux , les volailles et les oiseaux .3bïameit nu sol de l ’ eukoee qui sert à la construction , est remarquable par l ’ odeur très - forte d ’ ail qui sort de ses feuilles et de son bois liais ; le cotonier ordinaire , celui appelé de Siam , qui est originaire à l ’ Amérique ; le leibo , arbre haut et touffu , qui produit une espèce de laine plus douce et plus line que le coton 5 le mopa - mopa , d ’ où découle sans cesse une gomme qui sert à faire une sorte de lacqne ou vernis si durable , qu ’ on 11e peut ni le détacher , ni même le ternir avec l ’ eau bouillante 5 le saule f que M ." VYildenow a norpmé humboldtiana ; les lauriers et myrtes divers ; le metapalo ( tue - pieu ) , arbre parasite qui se nourrit de la substance de celui qui lui sert d ’ appui , qui le consume par deg ' rés , prend sa place à la fin , et devient si gros qu ' on en fait des canots de la première grandeur , • les palmistes divers , donL la cime aerienne contraste d ’ une manière surprenante avec le feuillage épais des ceiba , avec les forêts de lauriers et de melastomes qui l ’ entourent . |
+| source.excerpts.57.words.0 | odeur |
+| source.excerpts.57.words.1 | ail |
+| source.excerpts.57.words.2 | feuilles |
+| source.excerpts.57.words.3 | l |
+| source.excerpts.57.words.4 | très - forte |
+| source.excerpts.57.words.5 | bois liais |
+| source.excerpts.57.words.6 | cotonier |
+| source.excerpts.57.words.7 | eukoee |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/a7269f7c-4a2f-5320-bac0-66b7e7a12191 |
+| source.excerpts.58.value | — Tout le monde sait que l ’ Europe n ’ avait primitivement ni abricotiers , ni pêchers , ni cerisiers , ni poiriers , ni pommiers , ni pruniers , ni figuiers , ni mûriers , ni groseillers , ni amandiers , etc .; tandis que les forêts de l ’ Amérique offraient à chaque pas au voyageur altéré des sapotilles et des sapo ' éesy le premier des fruits , tant pour l ’ excellence de la Pliait < Jue pour l ’ encens qu ’ elles fournissent ; la pomme de pin , si vantée par les Européens mêmes ; la pomme canelle , ainsi appelée , par rapport à sa forme , à sa crème , qui a un parfum plus fin que la canelle ; le chilimoye , la piaque - mine , les manieis , Yanone , les mures sucrées , la Jacquemine , dont j ’ ai déjà parlé ; le cacliiman - cœur - de - bœuf , autre espèce de pomme - canelle , ainsi nommée , à cause de sa forme , de sa grosseur , de sa couleur ; les pommes d ’ acajou , rouges , jaunes , dont ou fait des compotes agréables ; des abricots succulens , parfumés , et gros comme la tête d ’ un enfant , qui se mangent tantôt crus , tantôt confits dans du vin avec du sucre et de la canelle , tantôt en marmelade avec des amandes d ’ acajou et des pistaches ; des avocats violets , verts , jaunes ( espèce de poires d ’ une pâte moelleuse , surpassant en grosseur les 3çj6 rr , onucTiotJS utiles de l ’ europb plus gros coings ) ; riesgouyaves roses , jaunes , blanches ( .autre espece de poires , qui , mêlées avec du vin , lui donnent le parfum de l ' ambroisie ) ; des corosols , pleins d ’ un jus rafraîchissant , dont les moindres sont gros comme un boulet de 12 , et les beaux , comme la cuisse tV un homme ordinaire ; des papayes , qui font des con - k fîtu res si agréables ; et des coqs , qui donnent des fruits sucrés tous les mois ; des oranges de huit espèces différentes : des chadeks roses , jaunes , blancs , gros comme la tête d ’ un homme 5 des limons , des cédrats , des bergamotes , des citrons doux , aigres ; des janiplia , qui changent de feuilles tous les mois , et produisent une espèce d ’ orange qui a le goût du coing 5 d r s siro elles , des moubins ( espèce de prunes de mirabelle pdus parfumées et plus charnues que celles - ci ) 5 des caïmiiés de deux espèces ( sorte d ^ p , runes de l ’ espèce de danns , dont le suc est laiteux et sqcré , et la chair de la couleur de la prune de monsieur : les grosses sont comme de forts ■ œufs de dinde ) j des jaunes - d ' œufs } ainsi appelés , à eatise de sa ressemblance avec . |
+| source.excerpts.58.words.0 | parfum |
+| source.excerpts.58.words.1 | crème |
+| source.excerpts.58.words.2 | canelle |
+| source.excerpts.58.words.3 | forêts |
+| source.excerpts.58.words.4 | Amérique |
+| source.excerpts.58.words.5 | Européens |
+| source.excerpts.58.words.6 | pomme de pin |
+| source.excerpts.58.words.7 | sapotilles |
+| source.excerpts.58.words.8 | pomme canelle |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/af0e9938-1efc-523a-89ed-e0d030aa86f8 |
+| source.excerpts.59.value | Ce fruit est odorant .On en fait un vin délicat , qui se conserve et est stomachique .Le romarillo ressemble au romarin d ’ Europe . |
+| source.excerpts.59.words.0 | vin |
+| source.excerpts.59.words.1 | stomachique |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/b0010ddb-67bb-5706-a229-27eef1c5bf9c |
+| source.excerpts.60.value | Il serait difficile décompter le nombre d ’ espèces de fruits : cependant les principales sont la pomme de pin , le mango , le tamarin , etc .* Les plantes chaudes aromatiques que l ’ on trouve ici , qui sont vraiment indigènes , et dont se servent Ordinairement les habitans dans leurs sauces , dans , Lins ragoùîa , ou qui forment la base de leurs diffet 364 EXA3IEN EU SOL T ) E e ’ EUROPE rentes boissons , sont le gingembre , la turmérique , plusieurs sortes de poivre , le café américain , le capsicum , nommé improprement poivre de Guinée , et le laurus canelle ( qanellier sauvage ) .Parmi les plantes médicinales on trouve eu abondance la contrayerva ( spigelia anthelmentica ) , le me - choacan , 1 ejalap , Yamyris , qui produit la gommeélémi , et le gayac . |
+| source.excerpts.60.words.0 | plantes |
+| source.excerpts.60.words.1 | aromatiques |
+| source.excerpts.60.words.2 | chaudes aromatiques |
+| source.excerpts.60.words.3 | café |
+| source.excerpts.60.words.4 | gingembre |
+| source.excerpts.60.words.5 | capsicum |
+| source.excerpts.60.words.6 | laurus |
+| source.excerpts.60.words.7 | turmérique |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/be63bf3c-67ce-5245-8216-b4fa605198f8 |
+| source.excerpts.61.value | Toute l ’ île est parsemée de terrains cultivés avec soin , de plantations de cafiers , de coton , de riches habitations , et des plus cliarmans points de vue , ornés d ’ arbres qui forment une perspective de verdure perpétuelle .On y respire un air frais et embaumé du parfum que répandent les orangers .Paramaribo , autrefois village indien , est aujourd ' hui la capitale de tout ce pays . |
+| source.excerpts.61.words.0 | parfum |
+| source.excerpts.61.words.1 | air |
+| source.excerpts.61.words.2 | répandent |
+| source.excerpts.61.words.3 | frais |
+| source.excerpts.61.words.4 | orangers |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/bea80e38-51b8-571f-945d-0e0d8bc594f8 |
+| source.excerpts.62.value | Ses fleurs représentent un bouton de soie jaune .Elles exhalent une odeur aromatique dont les femmes se servent dans leurs vêtemeus .Aux fleurs succèdent des baies longues d ’ une palme , grosses comme le pouce , dont on fait une encre assez bonne . |
+| source.excerpts.62.words.0 | aromatique |
+| source.excerpts.62.words.1 | odeur |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/bff9dabe-4647-5575-bbf9-17540f776977 |
+| source.excerpts.63.value | L ’ opération se termine dans l ’ espace de trois ou quatre jours .La boisson vineuse qui ressemble au cidre , a une odeur de viandeéchauffée , que l ’ on corrige quand on le veut .Mais quand on peut vaincre le dégoût qu ’ inspire cette odeur fétide , on préfère le pulque à toute autre boisson . |
+| source.excerpts.63.words.0 | odeur |
+| source.excerpts.63.words.1 | cidre |
+| source.excerpts.63.words.2 | boisson vineuse |
+| source.excerpts.63.words.3 | viandeéchauffée |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/c50a5bfd-289b-541d-8ac4-4c32132aebb9 |
+| source.excerpts.64.value | Les environs de la ville de Valparaiso , qui compte 30 , 000 habitans , fournissent du froment , du savon , du marroquin , des cordages et des fruits secs .Les pluies , qui sont en été si fréquentes dans le Brésil , 11e sont si rares au Pérou et au Chili , que parce que les vents alizés qui soufflent des côtes de l ’ Afrique , apportent les exhalaisons de l ’ Océan , et qu ’ une partie du fluide qui s ’ en évapore continuellement , arrive aux Cordillières , où ces vapeurs se condensent , pour re - * T DE l ’ amÉKIQVÏ .343 tomber de là sur les régions situées à l ’ est . |
+| source.excerpts.64.words.0 | Brésil |
+| source.excerpts.64.words.1 | exhalaisons |
+| source.excerpts.64.words.2 | en été |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/c52455da-9037-5a3d-a5fe-922bd064e176 |
+| source.excerpts.65.value | Le chilea distille de toutes ses brandies une résine aromatique blanche d ’ abord , et qui devient ensuite jaunâtre .La jarilla est toute résineuse , balsamique et d ’ un parfum agréable .Les feuilles prises en forme de thé , sont bonnes pour les putréfactions internes } infusées dans de l ’ esprit - de - vin , et exposées au soleil pendant vingt jours , elles fournissent un baume excellent pour les blessures récentes . |
+| source.excerpts.65.words.0 | agréable |
+| source.excerpts.65.words.1 | parfum |
+| source.excerpts.65.words.2 | jarilla |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/c5faaaf8-02d5-5892-8860-c4b22e754600 |
+| source.excerpts.66.value | châteaux des ombrages du Nouveau - Monde , et bientôt de ses solitudes .Ils ont fait venir de l ’ Arabie , les jasmins 5 de la Chine , des orangers 5 du Brésil , des ananas 5 du Chili , des fraisiers , le sensuel datura arborea , le cle - rodindrum gracieux j du Pérou , la voluptueuse héliotrope , la brillante capucine , la charmante marguerite , et une foule innombrable d ’ autres fleurs parfumées , de toutes les parties de la zone torride .Enfin , les insectes , les oiseaux , les coquilles , les minéraux et les terres même des pays les plus éloignés , remplissent leurs cabinets . |
+| source.excerpts.66.words.0 | fleurs |
+| source.excerpts.66.words.1 | parfumées |
+| source.excerpts.66.words.2 | orangers |
+| source.excerpts.66.words.3 | héliotrope |
+| source.excerpts.66.words.4 | datura |
+| source.excerpts.66.words.5 | ananas |
+| source.excerpts.66.words.6 | jasmins |
+| source.excerpts.66.words.7 | voluptueuse |
+| source.excerpts.66.words.8 | marguerite |
+| source.excerpts.66.words.9 | fraisiers |
+| source.excerpts.66.words.10 | capucine |
+| source.excerpts.66.words.11 | zone torride |
+| source.excerpts.66.words.12 | rodindrum |
+| source.excerpts.66.words.13 | cle |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/d57fafac-f621-5359-bed9-2151a6a36c71 |
+| source.excerpts.67.value | Ils servent aux carrossiers .Leurs feuilles ont la couleur et la forme de celles du citronnier , et l ’ odeur et le goût de la noix de muscade .Le litre est d ’ une hauteur médiocre . |
+| source.excerpts.67.words.0 | odeur |
+| source.excerpts.67.words.1 | Leurs feuilles |
+| source.excerpts.67.words.2 | noix |
+| source.excerpts.67.words.3 | goût |
+| source.excerpts.67.words.4 | noix de muscade |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/d8991a7d-0bd8-5091-835b-37187d7450f5 |
+| source.excerpts.68.value | Y ? arbre à encens produit un encens aussi bon que celui d ’ O - rient , quoique l ’ arbuste en soit différent .Le chilea distille de toutes ses brandies une résine aromatique blanche d ’ abord , et qui devient ensuite jaunâtre .La jarilla est toute résineuse , balsamique et d ’ un parfum agréable . |
+| source.excerpts.68.words.0 | résine |
+| source.excerpts.68.words.1 | aromatique |
+| source.excerpts.68.words.2 | chilea |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/d9669977-e910-57f0-b6ef-05fc6f871578 |
+| source.excerpts.69.value | De chaque coté on aperçoit un bosquet d ' arbres superbes qui penchent leurs têtes sur les deux bords , et forment un ombrage délicieux .Les chants variés d ’ une foule d ’ oiseaux et le parfum des fleurs qui embellissent ses rives , semblent s ' être réunis dans cette extrémité ET DE ^ AMÉRIQUE .351 du monde pour enchanter tous les sens des voyageurs . |
+| source.excerpts.69.words.0 | parfum |
+| source.excerpts.69.words.1 | fleurs |
+| source.excerpts.69.words.2 | extrémité |
+| source.excerpts.69.words.3 | ses rives |
+| source.excerpts.69.words.4 | ^ AMÉRIQUE |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/dc5ecc64-8eda-5874-b29a-821b2c7c537d |
+| source.excerpts.70.value | La Laponie , jusqu ’ à ce jour , fournit de certains insectes dont la taille surpasse de beaucoup celle de leurs analogues qui virent dans des pays cultivés .Si la plaine aride de Cuinana , dans l ’ Amérique méridionale , après avoir été humectée et réchauffée par les rayons du soleil , répand cette odeur de musc qui , sous la zone torride , est commune aux jaguars , aux petites espèces de chats - tigres , aux cahiais , aux vautours galinazo , aux crocodilles , aux vipères et aux serpens à sonnettes * , si partout où l ' on remue le sol , on est frappé de la masse de substances organiques qui tour - à - tour se développent , se transforment , se décomposent , ou servent quelquefois d ’ aiimens , puisqu ’ on voit des enfans de la tribu des Chaymas retirer de la terre et manger des mille - pieds ou scolopendres de 10 pouces de longueur sur 7 lignes de large ; le midi de l ’ Allemagne , et d ’ autres parties de l ’ Europe , ne sont - elles pas remplies de chrisalides , de hannetons , qui ravageraient les récoltes en totalité , si des abas d ’ eau considérables ne venaient à propos les détruire ? Si après une forte pluie on trouve , dans certains endroits de l ’ Amérique , la terre couverte de petits cra - 1 pauds un peu moins gros que le hanneton ordinaire , le reste du globe est - il plus exempt de pareils phénomènes ? N ’ ont - ils pas été signalés à des époques très - reculées ? N ’ est - il pas tombé des chenilles de différentes grosseurs dans la haute Hongrie , en 1672 ; en Suède , en 17495 près de la forêt de Thuringe en 17925 entre Leobschntz et Troppau , le 14 février i8o5 5 près de Légau , en 1811 , dans la vallée de l ’ Orbe , en Suisse , en 1816 ? Si les Açores , en i8o5 , ont été inondées par un nuage de sauterelles de couleurs et de grosseurs différentes , l ’ Asie n ’ a - t - elle pas régulièrement ses pluies de sauterelles , l ’ Ukraine ses pluies de sauterelles et de crapauds ? Personne n ’ ignore que depuis Henncpin , le Clerc , le chevalier de Tonti , jusqu ’ à M .Dumont , tous ceux qui ont écrit sur la Louisiane se sont contredits les uns les antres , tantôt sur un article , tantôt sur un autre * M . |
+| source.excerpts.70.words.0 | Açores |
+| source.excerpts.70.words.1 | Asie |
+| source.excerpts.70.words.2 | odeur |
+| source.excerpts.70.words.3 | musc |
+| source.excerpts.70.words.4 | substances organiques |
+| source.excerpts.70.words.5 | midi |
+| source.excerpts.70.words.6 | torride |
+| source.excerpts.70.words.7 | en i8o5 |
+| source.excerpts.70.words.8 | plaine aride de |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/e0525559-9648-5aec-80de-383858cbc641 |
+| source.excerpts.71.value | Le pays des vallées , c ’ est - à - dire , ce long espace qui s ’ étend entre les Corddlières et la mer du Sud , est la partie la plus agréable du Pérou .Mille ruisseaux divers serpentent de mille façons différentes au milieu de la verdure , et rafraîchissent Pair5 les collines sont parées de fleurs brillantes et odoriférantes qu ' entretient une légère rosée que dissipent les premiers rayons du soleil .Il ne tombe jamais de pluie dans tontes ces vallées 5 on n ’ y voit point d ’ orages : l ’ on ignore ce que c ’ est que le tonnerre . |
+| source.excerpts.71.words.0 | fleurs |
+| source.excerpts.71.words.1 | odoriférantes |
+| source.excerpts.71.words.2 | collines |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/e2d74d1a-ed92-555a-85d8-7e53bd3210bc |
+| source.excerpts.72.value | Elle sert d ’ antidote à ceux qui mangent de la chair de lion marin .Il croît entre les rochers des espèces de pois sauvages et diverses sortes d ’ herbes odoriférantes : les unes sont comme de Vivraie , les autres comme de la sauge .Elles sont bonnes pour le scorbut . |
+| source.excerpts.72.words.0 | odoriférantes |
+| source.excerpts.72.words.1 | herbes |
+| source.excerpts.72.words.2 | pois sauvages |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/e72e2a74-65a8-5ef6-9b69-6644bd4305aa |
+| source.excerpts.73.value | La murtilla donne une baie plus grande que celle du myrte , dont la figure et la couleur ressemblent à la grenade .Ce fruit est odorant .On en fait un vin délicat , qui se conserve et est stomachique . |
+| source.excerpts.73.words.0 | fruit |
+| source.excerpts.73.words.1 | odorant |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/e787dcf1-793e-5b22-ad35-9a1e4a3d015c |
+| source.excerpts.74.value | Tandis qu ' en Amérique les plaines , les montagnes , , les forêts , présentent aux amateurs , dans la partie du nord , l ’ odorant panerai ium , le lilas , le laurier tulipe dont le parfum est si délicieux , le liliurn canadense et un grand nombre d ’ autres fleurs J dans la Floride occidentale , le magnolicr , la plus odorante des fleurs 5 celle du papayer , qui a l ’ odeur du muguet , l ’ odoriférant tylphium , le parfum balsamique de l ’ arbre d ’ anis , dont les Floridiens composent une liqueur qui donne une odeur si agréable au thé , Y acacia : dans la Louisiane , la jacquemine musquée , la fleur des divers lauriers , des orangers , de la piaqtœminc , dont le parfum approche du réséda : dans Le Mexique , la ' vanillé PRODUCTIONS UTILES DE l ’ îüROPB voluptueuse , les linons , les cédrats , les bergamotes , la belle convulvacée , dont la racine tubéreuse fournit le jalap , le myrthe , la fleur suave du cacaoyer , celle du smilax , du melk 5 dans la Nouvelle - Grenade , celle de Y agave ou l ’ aloës pite , la vigne des indigènes , qui croît en forme de pyramide à la hauteur de 3o pieds : quand l ’ arbre a trente ans , il donne une fleur odoriférante qui dure trois mois ; celles du marronier , que l ’ Europe a réussi à naturaliser , mais dont la fleur a perdu de son parfum et de son éclat , et le fruit de sa grosseur ; dans le Pérou , les tulipiers , les chirimoya , dont les fleurs sont si recherchées par les dames pour leur odeur , les mûriers , les acacias , les orangers , les bergamotes , la reine Marguerite , qui fait en automne le principal ornement des jardins d ’ Europe ; la capucine , dont les couleurs brillantes sont l ’ image de celles de l ’ aurore ; la belle de jour , qui a l ’ odeur du genêt d ' Espagne ; la belle de nuit celle du muguet ; Vhélio ~ trope , dont le parfum rappelle le voluptueux Empire des Incas ; dans le Chili , le datura arborea avec ses longues cloches blanches , plus suaves qu ’ aucun aro - maîe d ' Arabie , le vôleameria ou clerodindrum , dont les fleurs blanches et roses , rassemblées en touffes de la grosseur d ’ une orange , exhalent une odeur plus fine que la tubéreuse , le parfum gracieux du fraisier ; dans le Paraguay , la Terre - Eerme et le Brésil , les fleurs des plantes diverses du tropique , celles du enfler .du laurier canelle , des baumes de Capivi , de Copahu , du bois de Brésil , du myrthe et des dilïéretis arbres à tpice ; dans les Antilles , l ’ odeur douce et suave du frangipanicr blanc et rose , celte de Y acacia pompon , du jasmin double , du chevre - feuille , du lilas , du lau - ET DE L ’ AMÉRIQUE .4 ° 7 rier - rose , < lu cajier , du cacaoyer , du sirouellicr , du monbin , des orangers , etc . |
+| source.excerpts.74.words.0 | suave |
+| source.excerpts.74.words.1 | douce |
+| source.excerpts.74.words.2 | odeur |
+| source.excerpts.74.words.3 | lilas |
+| source.excerpts.74.words.4 | myrthe |
+| source.excerpts.74.words.5 | Antilles |
+| source.excerpts.74.words.6 | chevre |
+| source.excerpts.74.words.7 | baumes de |
+| source.excerpts.74.words.8 | bois de Brésil |
+| source.excerpts.74.words.9 | laurier canelle |
+| source.excerpts.74.words.10 | lau |
+| source.excerpts.74.words.11 | acacia pompon |
+| source.excerpts.74.words.12 | dilïéretis arbres à |
+| source.excerpts.74.words.13 | frangipanicr blanc |
+| source.excerpts.74.words.14 | jasmin double |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ec5034ee-0a38-547b-8c33-3e97330ace71 |
+| source.excerpts.75.value | , etc .Tandis qu ' en Amérique les plaines , les montagnes , , les forêts , présentent aux amateurs , dans la partie du nord , l ’ odorant panerai ium , le lilas , le laurier tulipe dont le parfum est si délicieux , le liliurn canadense et un grand nombre d ’ autres fleurs J dans la Floride occidentale , le magnolicr , la plus odorante des fleurs 5 celle du papayer , qui a l ’ odeur du muguet , l ’ odoriférant tylphium , le parfum balsamique de l ’ arbre d ’ anis , dont les Floridiens composent une liqueur qui donne une odeur si agréable au thé , Y acacia : dans la Louisiane , la jacquemine musquée , la fleur des divers lauriers , des orangers , de la piaqtœminc , dont le parfum approche du réséda : dans Le Mexique , la ' vanillé PRODUCTIONS UTILES DE l ’ îüROPB voluptueuse , les linons , les cédrats , les bergamotes , la belle convulvacée , dont la racine tubéreuse fournit le jalap , le myrthe , la fleur suave du cacaoyer , celle du smilax , du melk 5 dans la Nouvelle - Grenade , celle de Y agave ou l ’ aloës pite , la vigne des indigènes , qui croît en forme de pyramide à la hauteur de 3o pieds : quand l ’ arbre a trente ans , il donne une fleur odoriférante qui dure trois mois ; celles du marronier , que l ’ Europe a réussi à naturaliser , mais dont la fleur a perdu de son parfum et de son éclat , et le fruit de sa grosseur ; dans le Pérou , les tulipiers , les chirimoya , dont les fleurs sont si recherchées par les dames pour leur odeur , les mûriers , les acacias , les orangers , les bergamotes , la reine Marguerite , qui fait en automne le principal ornement des jardins d ’ Europe ; la capucine , dont les couleurs brillantes sont l ’ image de celles de l ’ aurore ; la belle de jour , qui a l ’ odeur du genêt d ' Espagne ; la belle de nuit celle du muguet ; Vhélio ~ trope , dont le parfum rappelle le voluptueux Empire des Incas ; dans le Chili , le datura arborea avec ses longues cloches blanches , plus suaves qu ’ aucun aro - maîe d ' Arabie , le vôleameria ou clerodindrum , dont les fleurs blanches et roses , rassemblées en touffes de la grosseur d ’ une orange , exhalent une odeur plus fine que la tubéreuse , le parfum gracieux du fraisier ; dans le Paraguay , la Terre - Eerme et le Brésil , les fleurs des plantes diverses du tropique , celles du enfler .du laurier canelle , des baumes de Capivi , de Copahu , du bois de Brésil , du myrthe et des dilïéretis arbres à tpice ; dans les Antilles , l ’ odeur douce et suave du frangipanicr blanc et rose , celte de Y acacia pompon , du jasmin double , du chevre - feuille , du lilas , du lau - ET DE L ’ AMÉRIQUE . |
+| source.excerpts.75.words.0 | Grenade |
+| source.excerpts.75.words.1 | Espagne |
+| source.excerpts.75.words.2 | Paraguay |
+| source.excerpts.75.words.3 | Brésil |
+| source.excerpts.75.words.4 | Louisiane |
+| source.excerpts.75.words.5 | Mexique |
+| source.excerpts.75.words.6 | agréable |
+| source.excerpts.75.words.7 | odorante |
+| source.excerpts.75.words.8 | parfum |
+| source.excerpts.75.words.9 | odorant |
+| source.excerpts.75.words.10 | odeur |
+| source.excerpts.75.words.11 | fleur |
+| source.excerpts.75.words.12 | fleurs |
+| source.excerpts.75.words.13 | leur |
+| source.excerpts.75.words.14 | liqueur |
+| source.excerpts.75.words.15 | réséda |
+| source.excerpts.75.words.16 | celle |
+| source.excerpts.75.words.17 | odoriférant |
+| source.excerpts.75.words.18 | délicieux |
+| source.excerpts.75.words.19 | odoriférante |
+| source.excerpts.75.words.20 | fine |
+| source.excerpts.75.words.21 | vanillé |
+| source.excerpts.75.words.22 | orangers |
+| source.excerpts.75.words.23 | thé |
+| source.excerpts.75.words.24 | acacias |
+| source.excerpts.75.words.25 | datura |
+| source.excerpts.75.words.26 | tubéreuse |
+| source.excerpts.75.words.27 | jardins |
+| source.excerpts.75.words.28 | lilas |
+| source.excerpts.75.words.29 | fleurs blanches |
+| source.excerpts.75.words.30 | muguet |
+| source.excerpts.75.words.31 | partie |
+| source.excerpts.75.words.32 | acacia |
+| source.excerpts.75.words.33 | tulipiers |
+| source.excerpts.75.words.34 | dames |
+| source.excerpts.75.words.35 | myrthe |
+| source.excerpts.75.words.36 | forêts |
+| source.excerpts.75.words.37 | reine |
+| source.excerpts.75.words.38 | plaines |
+| source.excerpts.75.words.39 | Europe |
+| source.excerpts.75.words.40 | Amérique |
+| source.excerpts.75.words.41 | montagnes |
+| source.excerpts.75.words.42 | en automne |
+| source.excerpts.75.words.43 | nord |
+| source.excerpts.75.words.44 | amateurs |
+| source.excerpts.75.words.45 | capucine |
+| source.excerpts.75.words.46 | fraisier |
+| source.excerpts.75.words.47 | mûriers |
+| source.excerpts.75.words.48 | papayer |
+| source.excerpts.75.words.49 | agave |
+| source.excerpts.75.words.50 | gracieux |
+| source.excerpts.75.words.51 | cédrats |
+| source.excerpts.75.words.52 | bergamotes |
+| source.excerpts.75.words.53 | la Nouvelle |
+| source.excerpts.75.words.54 | racine tubéreuse |
+| source.excerpts.75.words.55 | plantes diverses |
+| source.excerpts.75.words.56 | genêt d |
+| source.excerpts.75.words.57 | fleur odoriférante |
+| source.excerpts.75.words.58 | cacaoyer |
+| source.excerpts.75.words.59 | smilax |
+| source.excerpts.75.words.60 | belle convulvacée |
+| source.excerpts.75.words.61 | tylphium |
+| source.excerpts.75.words.62 | jacquemine musquée |
+| source.excerpts.75.words.63 | magnolicr |
+| source.excerpts.75.words.64 | marronier |
+| source.excerpts.75.words.65 | linons |
+| source.excerpts.75.words.66 | aloës pite |
+| source.excerpts.75.words.67 | laurier tulipe |
+| source.excerpts.75.words.68 | liliurn canadense |
+| source.excerpts.75.words.69 | Vhélio |
+| source.excerpts.75.words.70 | fleur des divers lauriers |
+| source.excerpts.75.words.71 | arbre d ’ anis |
+| source.excerpts.75.words.72 | trope |
+| source.excerpts.75.words.73 | maîe d ' Arabie |
+| source.excerpts.75.words.74 | vôleameria |
+| source.excerpts.75.words.75 | piaqtœminc |
+| source.excerpts.75.words.76 | clerodindrum |
+| source.excerpts.75.words.77 | panerai ium |
+| source.excerpts.75.words.78 | Terre - Eerme |
+| source.excerpts.75.words.79 | la Floride occidentale |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ef5d3f0c-5fe5-5776-8f41-721a4605213c |
+| source.excerpts.76.value | Leurs feuilles , prises en petite quantité , ont toutes les pro - ET DE 1 , ’ amÉRTQUS .3 ^ 7 priétés du tlié chinois , le même goût , le même parfum .Elles sont stomachiques , et s ' appliquent avec succès sur les blessures . |
+| source.excerpts.76.words.0 | parfum |
+| source.excerpts.76.words.1 | tlié chinois |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/ef7c3d12-5222-59e8-8b27-4caf33b9d8dd |
+| source.excerpts.77.value | ET DE L 7 A mÉRIQUB .Bol Dans l ’ intendance de la Vera * Cruz , on trouve la liane parfumée ( epidendrum vanille ) ; le myrte , dont la graine est une épice agréable , connue sous le nom de pimienta de Tabasco ; le smilax , dont la racine est la vraie salsepareille ; le melck , le coton , une espèce d 1 acacia indica , qui donne une teinture en noir , supérieure à toutes celles de l ’ Europe 3 des liquidarnbar , des amyriSj etc .L ’ iucca , le dracœna borealis , le convallaria , et plusieurs autres espèces de cette famille , ornent les monts et les vallées . |
+| source.excerpts.77.words.0 | parfumée |
+| source.excerpts.77.words.1 | graine |
+| source.excerpts.77.words.2 | myrte |
+| source.excerpts.77.words.3 | l |
+| source.excerpts.77.words.4 | liane |
+| source.excerpts.77.words.5 | Cruz |
+| source.excerpts.77.words.6 | smilax |
+| source.excerpts.77.words.7 | epidendrum vanille |
+| source.excerpts.77.words.8 | intendance de la Vera |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/f26fac94-fc3c-5086-badb-ed51257cc9b5 |
+| source.excerpts.78.value | Humboldt , ne suffirait pas pour retracer toutes les orchidées magnifiques qui ornent les vallées des Andes du Pérou .La province de Truxillo produit beaucoup de Z > / e , de maïs , de vignes , d ' oliviers , de poivre appelé agi , de canne à sucre , HP eau - de - vie , de fruits et de légumes , dont on fait un grand commerce 5 du manie y fruit excellent très - odoriférant , dont 011 fait des conserves .Jean de Gütierrez , de Tolède , trouva dans cette province , en 1676 , des trésors immenses cachés par les Indiens , ET rt E 1 / AMERIQUE . |
+| source.excerpts.78.words.0 | canne |
+| source.excerpts.78.words.1 | odoriférant |
+| source.excerpts.78.words.2 | oliviers |
+| source.excerpts.78.words.3 | vignes |
+| source.excerpts.78.words.4 | poivre appelé |
+| source.excerpts.78.words.5 | province de Truxillo |
+| source.author.0.@id | http://data.odeuropa.eu/actor/d6218618-b01d-52fb-aa84-8f7ee916fa60 |
+| source.author.0.label | Drouin de Bercy |
+| source.label | L'Europe et l'Amérique comparées ; par M. Drouin de Bercy, colon et propriétaire à Saint-Domingue, lieutenant-colonel d'état-major provisoire dans l'armée française, lors de l'expédition sous le général Leclerc. Avec six planches coloriées. Tome premier [-second]. |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k3045707j |
+| source.date | 1818 |
+| source.language | fr |
+| carrier.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/417 |
+| carrier.0.label | Air |
+| carrier.0.exemplifies | http://data.odeuropa.eu/vocabulary/olfactory-objects/417 |
+| time.0.@id | http://data.odeuropa.eu/time/9b09a08c-fed6-5c7d-bc3a-78c60930c9b6 |
+| time.0.label | 1818 |
+| time.0.begin | 1818 |
+| time.0.end | 1818 |
+| place.0.@id | https://sws.geonames.org/2542007/ |
+| place.0.label | Morocco |
+| place.1.@id | https://sws.geonames.org/6255146/ |
+| place.1.label | Africa |
+| place.2.@id | https://sws.geonames.org/3169070/ |
+| place.2.label | Rome |
+| place.3.@id | https://sws.geonames.org/3172394/ |
+| place.3.label | Naples |
+| place.4.@id | https://sws.geonames.org/33365/ |
+| place.4.label | Kūh-e Jalā |
+| place.5.@id | https://sws.geonames.org/7290143/ |
+| place.5.label | Home Counties |
+| emotion.0.@id | http://data.odeuropa.eu/emotion-type/doubt |
+| emotion.0.label | doubt |
+| relevantExcerpt | http://data.odeuropa.eu/source/95817aab-9953-5b7a-976e-2b3493821ce6/fragment/8f1c7e32-e5e6-56f3-92e7-e1cc736d5695 |
+| license | Public domain |
+| adjective | sulfureuses |

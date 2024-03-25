@@ -1,0 +1,1180 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c0092b1a-7d3e-5777-81cc-b1378f75267f",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "Aromatic",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/011df70b-3f45-5260-a64b-5438e412d140",
+        "value": "It is alfo familiar to infants , and to people of a certain conftitution ; and to them cof - , tivenefs is very prejudicial .It may arife , in the firft place , from fome - thing taken into the body , or generated in the inteftines ; from a fer - mentation and corruption of the mafs of aliments ; from the bile being abundant and acrid , or from blood or pus poured into the inteftines ; from the inteftines themfelves being eroded , or deprived of their natural mucus ; from the humours being driven from the furface of the body towards the inward parts , as by cold , efpecially when ap - plied to the feet ; or from a general corruption of the whole body , as in the phthifis , heftic , or putrid fever , efpecially towards the end of thefe diforders .In fevers it is fometimes falutary , or even puts an end to the difeafe altogether , or at leaft renders it milder : more frequently , however , deriving its origin from putrefcency , it is of no fervice , but rather exhaufts the ftrength of the patient .",
+        "words": [
+          "mucus",
+          "inteftines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/03c3cc7a-e304-55bf-b215-f2748631d7e1",
+        "value": "By ridina - and walking - .- By fupporting the tone of the fyftemâ   Bittersâ   Bark â   Aromatics .Retrocedent goutâ   AfTedting the ftomach , to be treated h PÂ ° ^ ^ ' ' ' ' \" lcordialsâ   AfafoEtidaâ   Volatile alkaliâ   Opium .",
+        "words": [
+          "Bark",
+          "Aromatics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/06646a91-8a6b-56bc-9563-b163020e5504",
+        "value": "From the fame caufes proceed hemorrhages from every part of the body , hardly THEORY OF MEDICINE .39 ^ be reftrained ; a moft intolerable fetor of the breath and all the \\ crements ; the higheft debility and laxity of the folids ; the putre - ilion ailing as a poifon to the nervous lyftem , and at length bringing on death .An acrimony of the acid kind never takes place in the human Mood , nor in any of the humours fecretcd from it ; though one of them , namely the milk , turns acid fpontaneoufly in a very fliort time after it is drawn from the breaft .",
+        "words": [
+          "fetor",
+          "of the breath",
+          "moft intolerable",
+          "all the \\ crements"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/09268ce7-f560-5bf7-85d6-440f8dc5a3f7",
+        "value": "The circumstance that aromatic leaves are also very scarce , sug - gests the idea that these , too , serve as an attraction to insects .Aromatic plants abound most in arid countries , and on Alpine heights ; both localities where winged insects are comparatively scarce , and where it may be necessary to attract them in every possible way .Dr .",
+        "words": [
+          "Aromatic",
+          "plants",
+          "in arid countries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/0b71a38e-8233-57ab-a0e5-2a98453fc0a9",
+        "value": "When the hofpitals are filled with dyfenteric patients , fome of the nurfes will be infected with the flux only , and others with this fever , ending in thefe bloody and gangrenous ftools .In the beginning the heat is moderate ; and even in the ad - vanced ftate , on firft touching the fliin , it feeins inconfiderable ; hut upon feeling the pulfe for fome time , we are fenfible of an uncommon ardour ( the color ? nordtcans , as it has been called ) , leaving an umpleafant fenfation on the fingers for a few minutes after .The tongue is commonly dry ; and , without conftant care of the nurfe , becomes hard and brov ^ ' n , with deep chips : but this fymptom is common to molt fevers .",
+        "words": [
+          "uncommon",
+          "ardour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/0d2a007b-be9f-5916-b570-f64156776ea3",
+        "value": "For in that case numbers of winged insects would certainly have entered , and the flowers would then , as in every other part of the world , have been rendered attractive to them by the development of coloured petals ; and this character once acquired would long maintain itself , even if the insects had , from some unknown cause , subsequently disappeared .After the preceding paragraphs were written , it occurred to me , that if this reasoning were correct , New Zealand plants ought to be also deficient in scented flowers ; because it is a part of the same theory , that the odours of flowers have , like their colours , been developed to attract the insects required to aid in their fer - tilization .I therefore at once applied to my friend Dr .",
+        "words": [
+          "scented",
+          "flowers",
+          "odours",
+          "of flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/0ee83808-98c5-5346-87eb-1477e2465cc1",
+        "value": "In fome , the difeafe brought on a verv troublefome cough , purulent expedoration , haemoptoe , and hedic ; m which they lingered on for feveral weeks , and then died tabid .If a gentle eafy fweat came on the third or fourth day ; if the pulfe became more flow , firm , and equal ; if the floughs of the fauces caft off in a kindly manner , and appeared at the bottom tolerably clean and florid ; if the breathing was more - foft and free , â  ¢ and fome degree of vigour and quicknefs returned in the eves ; all was well , and a falutary crifis followed foon by a continuatice of the fweat , and a turbid , fubfiding , farinaceous urine , a plenciful expeÂ £ loration , and a very large delquamation of the cuticle .But if a rigor came on , and the exanthemata fuddenly difuppeared or turned livid ; if the pulfe grew very imall and quick , and the fkiii remained hot and parched as it were , the bre - ithing mo ; e ditflculr , the eyes dead and giafly , the urine pale and limpui , a phienf .",
+        "words": [
+          "florid",
+          "the floughs of the fauces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/0f0f784e-0549-5c0b-944b-cc367a36aa9e",
+        "value": "The lips and teeth , efpecially near the height , are furred ip with a very black tenacious fordes .At the onfet of the fever , he urine is often crude , pale , and vapid , but grows much higher - oloured in the advance , and frequently rcfembles a flrong ixivium , or citrine urine , tinged with a fmall quantity of blood ; t is without the lead fediment or cloud , and fo continues for nany days together : by degrees it grows darker , like dead ftrong ligh - coloured beer , and fmells very rank and ofFenfive .In .",
+        "words": [
+          "it",
+          "very rank",
+          "citrine",
+          "fmells",
+          "like dead ftrong ligh - coloured beer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/12dfd3ca-da6d-5424-a096-89c24913f111",
+        "value": "Burying the dead in fwampy countries is another occupation which has proved fatal to many , and which ought to be entrufted to negroes or the natives of the country .The effluvia from the ground vvheti newly opened , whether from graves or ditches , arc far more dangerous than from the fame fwampy foil when the furface is undifturbed ; nay , in fome places it has been found al - moll : certain death for an European to dig a grave , unlefs long fea - foncd to the country .In ail cafes where it is pra6ticable , , the fhips which ' ' vifit thefe unhealthy countries Ihould anchor at as great a diftance as poffiblc from fliore ; or if obliged to anchor near marlhy grounds or fwamps , efpecially during fummer or in hot weather , and when the winds blow diredtly tvom thence , the gun - ports which would admit the noxious land - breeze ought to be kept Ihut , efpecially at night .",
+        "words": [
+          "effluvia",
+          "from the ground",
+          "more dangerous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/135147f7-7287-5262-bc30-4f22771db166",
+        "value": "2 .A putrid ( tate of the air , arifing either from a multiti ' de of dead bodies left urburied , as after a battle , or from tlie evaporation of corrupted lakes and marHies .One of the mod remarkable difeafes incident to an army is related by Diod ' - ^ rus , as brcuking out among the Carthaginians at the fiege of Syracufe .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/14cad918-9cdc-5ae4-bc6f-b842f1ced7f1",
+        "value": "3 .By correding the putrid or putrelcent matter remaining in the body by diluents and antifeptics .4 .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/15369302-81a2-5b1b-a885-57bca1f66cd9",
+        "value": "If the fail fhould occafion a little fmoke between decks , this inconve - nience will be fufficiently comuenfated by ns keeping off the direÂ » Si : ftream of the fwampy fhore effluvia ; which now being obliged to form a curve before they reach the more diftant parts of the velTel , muft needs be greatly diverted and fcattcred .The beft preferv ^ tive againft the mifchievous impreflions of a putrid fog , or of a marlhy exhalation , is a dole , Ihelteredi and covered place ; fuch as the lower apartments in a Ihip , or a houfe in which there are no doors or windows facing the fwamps .If in fuch places a fire be kept either at the doors and other inlets to a houfe , or in the chambers , as is pradifed in fome unhealthy countries during the rainy or foggy feafon , it will prove an excel - lent and effe6tual protection aj ^ ainrt the injuries of a bad air .",
+        "words": [
+          "putrid",
+          "fog",
+          "a"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1715d44f-8b35-5c40-affc-8bcd1aaed84e",
+        "value": "Ihirty gentlemen and ladies of the firft rank i Kome having made an exciirfion , upon a party of nleafure towards the mouth of the Tyber , the Jnd fuddenly ^ ifting ^ E ' .from the outh over the putrid marfhes , when twenty - nile weÂ « - immediately feizcd with a tertian fever , only one efcaping .ficknefs , which rages from June to September , and is called byr the natives the tntemperies .",
+        "words": [
+          "putrid",
+          "marfhes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/17b0faed-258d-58c2-95a9-9d986c46540f",
+        "value": "Nor are the fl - i .p - ftewardS and ' their fervants , whofe bufmefs it is to deliver out their proviJi - ons to the { hips ' crews , and who fpend the moft of their time amongft the putrid and rancid effluvia of the places in which thole a ^ rovifxons are kept , more fubjea to putrid fevers ^ ^ 1 ^ ^ \" ^ ^ ^ ' ^ ^ ^ ^ ^ ^ ^ ^ niates .But whatever be in tliis , we are well affured tha fome pa - ticular putrid fermentations produce noxious vapours , which , unit - ed with thofe of marHies , render them the more pernicious .",
+        "words": [
+          "rancid",
+          "putrid",
+          "effluvia",
+          "of the places"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/186908e6-7c7e-5880-afc7-ba86257646ff",
+        "value": "The confequenCes of long - continued coftivenefs , are firft an af - feition of the alimentary canal , and then of the whole body .The ftomach is difeafed , and does not digeft the aliments properly ; the whole body is left deftitute of its ufual ftimulus ; the blood is cor - rupted , perhaps from the reforption of the putrid matter into it .The circulation through the abdominal vifcera is impeded ; hence frequent and irregular congeftions , varices of the veins , hemor - rhoids , & c .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1afd6b3c-0f92-567a-8cdb-0e04613c1da9",
+        "value": "American Tertiary , 138 Honeysuckers , birds specially adapted to Australia , 392 Hooker , Dr ., on deficiency of odours in New Zealand plants , 464 JToplocetws , European Pliocene , 112 Iloplophoneus , N .American Tertiary , 1 .",
+        "words": [
+          "odours",
+          "in New Zealand"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1cec5c91-f1f7-5ebe-8f47-690acbf63071",
+        "value": "cnnff and ficknefs , are inftantaneous .It is a fmell difficult to de - ioribc ; but It IS well known to the nurfes and attendants about the iick , as It ufually accompanies fevers of extreme malienity , and with the peculiar difcharges from the bliftered parts , mty be reckoned among the conftant fymptoms of a bad fever .Some compare the imell to that of rotten ftraw .",
+        "words": [
+          "It",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1d04aba0-d458-56eb-a8db-f0c04b3d3c29",
+        "value": "Means of avoiding â   Means of refilling infeftion .Produced by the [ amid wind , a peftiferous vapour common in the deferts of Afia and Africa .Signs of an unhealthy country , and employments moft dangerous to Europeans .",
+        "words": [
+          "vapour",
+          "peftiferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1daac6a5-b25e-5d66-92cb-133dac71dcac",
+        "value": "\" There are a few exceptional cases , but these seem even more rare than might be expected , so that the confirmation of theory is very complete .The circumstance that aromatic leaves are also very scarce , sug - gests the idea that these , too , serve as an attraction to insects .Aromatic plants abound most in arid countries , and on Alpine heights ; both localities where winged insects are comparatively scarce , and where it may be necessary to attract them in every possible way .",
+        "words": [
+          "aromatic",
+          "leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1f1a9ac6-3012-51bf-b97e-79bac61696aa",
+        "value": "A fecond cafe of tlie irregular gout is the retrocedenU When this afFeds the ftomach and intefiines , relief is to be inftantly attempted by the free , ufe of ftrong wines , joined with aromatics , and given ' warm : or , if thefe Hiall not prove powertui enoueh , ardent fpirits muft be employed , and are to be given - in a hrie dofe .In moderate attacks , ardent fpirits , impregnated with garlic or with afafoetida , may be employed ; or , even with - out the ardent fpirits , a folution of afafoetida , with the volatile al - kali , may anlwer the purpofe .Opiates are often an effeftual remedy ; and may be joined with aromatics , as in the eleauar .",
+        "words": [
+          "garlic",
+          "afafoetida",
+          "al - kali"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1f34d9bb-d562-5fc5-ab64-8469e37ef73d",
+        "value": "ffi vias , but efpecially the ftomach , is loaded with an oftenfive matter , or contradled , and convulfcd with the irritjtion of its ftimulus , there is no procuring a laudable fweat , till that is removed ; after which a neceffary quantity of fweat breaks out of its own accord , thefe parts promoting it when , by an abflerging medicine , they are eafed of the burden or flimulus wiiich opprefles them .\" \" All thefe acute putrid fevers ever require fome evacuation to bring them to a perfedl crifis and folution , and that even by flools , which muft be promoted by art , where Nature does not do the bufinefs hcrfelf .On this account , an ill - timed fcrupuloufnrfs about the iveaknefs of the body is of bad confequence in thefe urging cir - < : Â « mltauce5 ; for it is that which fcems chiefly to make cvacu - YELLOW FEVE - R .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/1fc19cca-bac1-55d7-a987-5113ddf0211d",
+        "value": "On the 17th it bccarne extremely violent , particularly in the heel ; when it inftantaneoufly left the parts afFe6ted , and in the fan > e manner , and with equal velocity ( as in the two former fits ) , it flew into the calves of his legs , thigh ' s , arid abdoihfen ; and when it had reached the ftomach , it caufed hirri to vomit the fame kind of corrofive acid as in the two former fits ; and though the quantity was no more than a tea - fpoonful , he became perfe - itly well in ' two days .\" The fame fymptoms of fetid urine , and pfFenfivc fweats , attended the .patient in this fliort paro .",
+        "words": [
+          "urine",
+          "fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/23e562b2-7dd6-540b-8220-db1eb6237e58",
+        "value": "On thefe occafions he ufed fuch aromatics as were then known , viz .cinnamon , caflia , myrrh , and feveral odo - riferous plants ; likewife fome minerals , fuch as nitre , fulphur , and pitch , and caufed them to receive the vapours through a fun - nel into the uterus .Gargles , a kind of fomentations for the mouth , were alfo known to Hippocrates * In the quinfcy he ufed a gargle made of marjoram , favory , celery , mint , and nitre , boiled with water and .",
+        "words": [
+          "cinnamon",
+          "pitch",
+          "myrrh",
+          "odo",
+          "odo -",
+          "fome",
+          "fulphur",
+          "caflia",
+          "feveral",
+          "riferous plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/28872550-bf5f-50be-ad31-5b8d0a54a8e4",
+        "value": ": ry fetid .The ftools , efpecially near the height , or in the Iccline of the fever , are for the mofb part intolerably fetid , green , id , or black , frequently with fevere gripes and blood .When .",
+        "words": [
+          "fetid",
+          "intolerably fetid",
+          "The ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/2a16a1a0-892e-59d9-bae7-b9464989b3dc",
+        "value": "When there was any reparation , the craffamentum was of a very lax texture .The ftools , after the firft day , were fetid , inclined to a black colour , and were very rarely bilious , foft or liquid , excepting when forc - ed by art ; for an obftinate coftivenefs attended the febrile flate .The unne vvas difcharged in a large quantity , was pale , fome - times limpid , and rarely of a higher than a ftraw colour , except when tlie weather was very warm , and then it was more faturated , of a deep colour , and difcharged in fmalkr quantities .",
+        "words": [
+          "fetid",
+          "The ftools",
+          "after the firft day"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/2d9b78a9-3bc7-5e63-b000-5953f6de2abd",
+        "value": "thofe in the event proved floughs of fuperficial ulcers ( which fometimes , however , eat very deep into the parts ) .The tongue at this time , though only white and moill at the , top , was very foul at the root , and covered with a thick yellowilli , or brown coat .The breath alfo now began to be very naufeous ; which ofFenfive fmell increafed hourly , and in f ; me became at length intolerable , and tliat too fometimes even to the patients themfelves .",
+        "words": [
+          "tongue",
+          "very",
+          "foul"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/2e7192a5-5040-5e14-8b8c-2b167cd25452",
+        "value": "He then took opium , and flept three or four hours after it ; and the vomiting ceafcd : he took foine panada , and tixir hours after that the purge of manna and tainarinds , ^ T .which â  ¢ gave him eight ftools , and carried a good deal more of the putrid bilious matter off downwaids ; and got fome reft after it : he then took of an antifeptic julep often , and light nouril ' nmcnt , a little acid , at the intervals ; and repeated the purge on ilie third day , as dire61cd .Being called out of the town , 1 did not fee him till I found him free from the fever and ail its fyiTiptoms , on the fourth morning after ; he faid he had followed my dircaionsj YELLOW FEVEK .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/2f071da9-9ced-5ef3-88ff-54b3941d050e",
+        "value": "But if a rigor came on , and the exanthemata fuddenly difuppeared or turned livid ; if the pulfe grew very imall and quick , and the fkiii remained hot and parched as it were , the bre - ithing mo ; e ditflculr , the eyes dead and giafly , the urine pale and limpui , a phienf .or coma fucceeded , with a coldilh clammy Iweat on the face or ex - tremities , life was defpaired of ; efpecially if a fingultus and choaking or gulping in the throat attended , with fuddcn , liquid , involuntary , livid ftonls , intolerably fetid .In fome tew patients Dr .",
+        "words": [
+          "fetid",
+          "liquid",
+          "livid",
+          "intolerably fetid",
+          "involuntary",
+          "ftonls"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/327bbfb1-24b2-5943-96e6-d28124b74219",
+        "value": "t ) were , common ; that fome had bloody ftools ; that others were feized with a delirium , fo as to run about and beat all that came in thehr â    way ; tha : the phyhcians knevi ' no cure ; and that it was the more fatal OS the fick were abaiidoned by every body on account of the contagion .As to the caufe , the autiior takes notice of the multi - tude of people confined within a narrow compafs ; of the fitua - tion of the camp in a low and wet ground ; of the fcorching heiits in the middle of the day , fucceeded by the cold and damp air from the marfhes in the night - time ; to thefe he adds , the putrid fteams arihng firft from the raarflies - , and afterwards from the bodies of thofe who lay unburied .â   This difteniper feems to have been a com - pound of the marlh and pedilential fever .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/33706f6d-5e97-576c-bae9-a5a1fdd8117d",
+        "value": "( 1 ) In the firft cafe , the fenfe of weight , and diften - Gon , of the kidney ( if any there were ) , goes off luddenlv , and , at the fame iime , the urine is mixed with pus , which fubfides to the bottom in a great quantity upon the breaking of the abfcefs , but afcer ^ wards in lefs .It the matter is white ^ thick , and not fetid , the ulcer fome - iimes heals ; otherwife a hcdlip fever comes on , and the patient is cut off : or , laflly , the ulcer may continue a long time without proving fatal .The ulcer generally heals foon , or not at all .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/339d9619-bf28-52c7-9ac0-570f5919cdac",
+        "value": "Thofe arc folt , yellowift ) , of fome confiftence , and not of an cxtraor * INTRODUCTION .^ binary ill fmell , that anfwer to the quantity of what is taken in - r .rdlv , and that are voided at the ufual hours , are thebeft of all .",
+        "words": [
+          "ill",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/392ab042-3cdf-5b85-b59b-e1365264f826",
+        "value": "ed with a ficknefs ar fto : nach , fomuimes with a diingerous purging , and often with fevers , accompanied With bad lymptoms , whicii others have entirely cfcaped .It now remains to confider the proper method of curing putrid PUTRID FEVER .fevers on the fuppofitlon thai the infection has been allowed to operate till the blood becomes radically tainted , anl of confe - quence the nervous fvltem affcaed to fiich a degree , that its power cannot be reftored by any of the fimple medicines above mentioned .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/3e25c775-b39a-59d1-9b5f-1d4c2d9dc833",
+        "value": "By avoiding animal food .The putrid or putrefcent matter already prefent in the body , hiay be evacuated partly by frequent evacuation of the contents â  ¢ bf the inteftines ; and more efleaually ftill by fupporring the excretions of perfpiration and urine by the plentiful ufe ofdiluems .That which remains in the body may be rendered more mild and innocent by the ufe of diluents , or may be corre6ted by the ufe of antifeptics , ' as the vegetable acids , & 6c .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/3f6b7dfd-9f61-5940-a56e-15b55ea20fe0",
+        "value": "fea ^ ^ nd \" death ; ftreets crowded with funerals , bells tolling from morning to night , and horfcs jaded with dragging the dead m hearfes ^ o their graves .At that time a flight cut ot the fein , tl ^ leaft fcratch of a nail , or the moft inconfiderable wound , turned quicklv to a fpreading putrid ulcer , which m twenty - four hours confumed thJ flefli even to the bone .This fad .",
+        "words": [
+          "putrid",
+          "confumed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/42ac1b24-aeee-55c8-87c8-3eb5dc455d1f",
+        "value": "157 that by this means the putrid animal and vegetable fubftances dif - perfed over the contiguous countries are earned off into the fea .â   The noxious vapours arillng from fens fpi ead but a little way .Dr .",
+        "words": [
+          "vapours",
+          "noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/43bd3dc4-2158-50c7-89a5-a3e5816168f7",
+        "value": "In his works we find , a great number of fumigants for the difeafes of women , to promote the mcnftrual flux , to check it , to help conception , and to eafe pains in the matrix , or the fuffbcation of it .On thefe occafions he ufed fuch aromatics as were then known , viz .cinnamon , caflia , myrrh , and feveral odo - riferous plants ; likewife fome minerals , fuch as nitre , fulphur , and pitch , and caufed them to receive the vapours through a fun - nel into the uterus .",
+        "words": [
+          "he",
+          "aromatics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/4a86d06a-bb00-5fa8-a665-a7b759634ba8",
+        "value": "\" With regard to the caufes of fevers , however , Dr .Lind is of opinion , that noxious vapours arifing from the earth are for the mdft part to he blamed .Even in countries feemingly dry , and ifvhere violent rains are nor frequent , he thinks that the air may load itfcif with putrid exhdlations fi - om the ground ; and that , except in the burning deferts of Arabia or Africa , people are no - where exempt from difeafes occafioned by putrid moifture .",
+        "words": [
+          "vapours",
+          "noxious",
+          "from the earth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/4e348926-eb83-587b-9de7-ca7e1fe00a86",
+        "value": "Of this the follow - ing inftances have been given .A lady afflided with the bilious colic , had intolerably fetid difcharges of corrupted matters up - wards and downwards .A gentlewoman , only in paflTmg the room , was immediately feized with a retching and ficknefs , which continued twenty - four hours .",
+        "words": [
+          "fetid",
+          "intolerably fetid",
+          "A lady",
+          "difcharges",
+          "fetid difcharges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/52668129-6798-5246-945d-e4b6d1a1e995",
+        "value": "The fens , even in different counties of England , arc known to be very prejudicial to the health of thole who live near them , and ftiU more fo to ftrangers ; but the woody and raarfhy lands in hot countries are much more pernicious to the health of Europeans .In all thofe unhealthy platies , particularly during fogs or rains , a raw vapour , dilagreeable to the fmell , arifcs from the eahlh , and efpeciilly in the liuts or houfes .But of all the vapours which infeft the torrid zone , the moft malignant and Â £ ? tal are the barmattans : they are faid to arrive from the conflux of feveral rivers in the king of Dormeo ' s dominions at Benin ( the moft unwholefome part of Guinea ) , where travellers arc obliged to be carried on men ' s backs for feveral days ' journey , through fwampy grounds , and over marflics , amidft ftinking ooze , and thickets of mangrove trees which arc annually overflown .",
+        "words": [
+          "fmell",
+          "dilagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/530c7ab4-c8ec-5019-99fd-060cc8999031",
+        "value": "It appears , therefore , from the concurrent teftiipony of the moft eminent phyficians , chat the moft proper medicine to be ufed , either as a preventive or cure , for remitting or intermitting diforders , IS the Peruvian bark , adminiftcred with proper precautions , and .^ fter the yrimcs vice have been evacuated of the putrid bilious matter colle .Â £ lcd in them .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/548bcff4-cf90-5c48-8647-8a65940076fe",
+        "value": "In thofe fpecies of tritaophya ^ Sec .be - longing to this clafs , enumerated by Sauvages , the fame remedies alone were ufeful ; but in that peftilential diftemper which he calls Tritaophya Vratijlavlenfts , he tells us that vvafliing the body with â    water fometinies hot , fometimes cold , watery clyfters , and plenty of aqueous arink , were likewifc of ufe .* ' No alteration is made in their properties by the mixture of .",
+        "words": [
+          "aqueous",
+          "arink"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/549ea358-e712-5aa8-ade3-289fa9f71b2a",
+        "value": "The effluvia from the ground vvheti newly opened , whether from graves or ditches , arc far more dangerous than from the fame fwampy foil when the furface is undifturbed ; nay , in fome places it has been found al - moll : certain death for an European to dig a grave , unlefs long fea - foncd to the country .In ail cafes where it is pra6ticable , , the fhips which ' ' vifit thefe unhealthy countries Ihould anchor at as great a diftance as poffiblc from fliore ; or if obliged to anchor near marlhy grounds or fwamps , efpecially during fummer or in hot weather , and when the winds blow diredtly tvom thence , the gun - ports which would admit the noxious land - breeze ought to be kept Ihut , efpecially at night .Or if the ( hip rides with her head to the wind , a thick fail ought to be put upon the foremaft , along which the fmoke from the fire - place might be made conftantly to play and afcend .",
+        "words": [
+          "noxious",
+          "land - breeze"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/56711524-efeb-5518-8837-c4db3aa02231",
+        "value": "When this is in a moderate degiee , and affe6ls only the fluids effufed , with the fubftance of the cellular texture , the part is faid to be affedled with a Gangrene ; but if the putrefaaion affedl alfo the veffels and mufcles of the part , the difeafe is faid to be a Sphacelus .A gangrene may arife from a putrid ferment - a Â £ ling on the matter which is mofl : commonly effufed , and likewife from that matter being peculiarly difpofed to putrefadlion ; as particularly feems to be the cafe of the l ed globules of blood eftufed in a large quantity .In a third manner alfo , a gangrene feems frequently to arife from the violent excitement of the inflammation deftroying the tone of the veffels ; whereby the whole fluids ftagnate and run into putrefa6lion , which taking place in any degree deftroys fur - ther the tone of the veffels , and fpreads the gangrene .",
+        "words": [
+          "putrid",
+          "ferment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/56f7ea4a-5796-57c7-a499-609cbfb8835b",
+        "value": "In moderate attacks , ardent fpirits , impregnated with garlic or with afafoetida , may be employed ; or , even with - out the ardent fpirits , a folution of afafoetida , with the volatile al - kali , may anlwer the purpofe .Opiates are often an effeftual remedy ; and may be joined with aromatics , as in the eleauar .uni opiatum ; or they m ay be ufefully joined with volatile alkah and camphire .",
+        "words": [
+          "Opiates",
+          "aromatics",
+          "the eleauar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/594f04a7-de3d-50d1-9bfa-f2ff636cbb3f",
+        "value": "a remedy of the fame kind : but though not found hurtful , there is no fufEcient evidence of its proving a radical cure .Camphire , and fome aromatic oils , have the power of allaying the pain , and of removing the inflammation from the part af - feded : but thefe remedies commonly make the inflammation only fliift from one part to another , and therefore with the hazard of its falling upon a part where it , may be more dangerous ; and they have fometimes rÂ « idered the gout retrocedcnt .From thefe reflc6tions it will appear , that fome danger muH : attend every external application to the parts affefled during a paroxyfm j and that therefore the common pra6lice of commit - tino the perfon to patience and flannel alone , is eftabliflud upon the % eft foundation .",
+        "words": [
+          "oils",
+          "aromatic",
+          "Camphire",
+          "fome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/5c88ec91-4a5d-5f28-9e03-70e5f719b106",
+        "value": "A gentlewoman , only in paflTmg the room , was immediately feized with a retching and ficknefs , which continued twenty - four hours .The nurfe who attended was fuddenjy feized with a giddinefs and vomiting from the bad fmell , which , as flie expreflTed it , j - eached into her ftomach .The vomiting became more fevere at night , accompanied with a purging and frequent Ihiverings .",
+        "words": [
+          "bad",
+          "fmell",
+          "The nurfe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/5f44c9f3-eb6f-5835-a0bd-54404e35ec94",
+        "value": "That which is black , livid , green , or of the Colour of a leek , indi - cates alarming confequences .The fame is to be faid of that which fmells very ill ; and if at the fame time it be livid , death is not far off .The vomiting of blood is very often mortal .",
+        "words": [
+          "very ill",
+          "that",
+          "fmells"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/618c2329-8fdc-5500-95f3-3c19cf5587c9",
+        "value": "Dresser , for lists of the characteristic birds of Northern and Arctic Europe : To Dr .Hooker , for information on the colours and odours of New Zealand plants : To Mr .Kirby , for a list of the butterflies of Chili : To Professor Mivart , for a classification of the Batrachia , and an early proof of his article on \" Apes \" in the Encyclopedia Britannica : To Mr .",
+        "words": [
+          "odours",
+          "Mr .",
+          "Hooker",
+          "of New Zealand plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/62ad2eee-0f8e-5893-9f57-24f209112379",
+        "value": "The Papilionidee are unsurpassed in the world , presenting such grand genera as Teinopalpus and Bhu - tanitis ; the yellow - marked Ornitliopterce ; the superb \" Brookiana ; \" the elegant Leptocercus ; and Fapilios of the \" Coon , \" \" Philo - xenus , \" \" Memnon , \" \" Protenor , \" and especially the ' green - and - gold - dusted ' \" Paris \" groups .The Moths call for no special observations , except to notice the existence in Northern India of a number of forms which resemble in a striking manner some of the most remarkable of the above mentioned groups of the genus Papilio , espe - cially the \" Protenor \" group , which there is reason to believe is protected by a peculiar smell or taste like the Eeliconias and Danaidse .Coleoptera .",
+        "words": [
+          "smell",
+          "peculiar",
+          "like the Eeliconias and Danaidse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/63778849-a1d5-5c63-a0ee-13c993f8b89d",
+        "value": "That thefe dews do not penetrate deep into the earth is evi - dent from the conftant drynefs and liardnefs of fuch fpots of ground , in - thofe countries , as are not covered with grafs and other vegetables .Thus the large rivers in the dry feafon being confined within nar - row bounds , leave a great part of their channel uncovered , which havina its moifture totally exhaled , becomes a folid hard cruft ; but no foolier do the rains tall , than by degrees this long parched up cruft of earth and clay gradually foftens , and the ground , which before had not the leaft fmell , begins to emit a ftench , which in four or five weeks becomes exceedingly nolfomCj at which time the fick - jiefs is generally raoft violent .This ftcknefs , however , is not different from the remitting fevet which has been defcribed under fo many various forms and names .",
+        "words": [
+          "the",
+          "exceedingly",
+          "fmell",
+          "in four or five weeks"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/6524081f-8da4-5b2f-9eb0-fd63f3e3701a",
+        "value": "But M .Chirac , who was fent by the court to enquire into its nature , found the caufe to arifc from fome marllies that had been made by an inun - jlation of the fen ; and obferved , that the corrupted fleams , which fmelled like gunpowder , were carried to the town by the wind , which had long blown from that quarter .About two thirds of| iofe who were takeii ilJ > died , In fuch as were opened , the braia PUTRID FEVER .",
+        "words": [
+          "by the wind",
+          "like gunpowder",
+          "fmelled",
+          "the corrupted fleams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/66a34adf-9ccc-5214-a8a6-ee37de0f575c",
+        "value": ".: ry fetid .The ftools , efpecially near the height , or in the Iccline of the fever , are for the mofb part intolerably fetid , green , id , or black , frequently with fevere gripes and blood .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/66a6496f-8d3b-5511-a342-a622d959130c",
+        "value": "In certain cafes it is indeed evident , that a n6xious matter is introduced into the body , and proves the cauie of fever .But even in thefe cafes it appears , that the noxious matter is thrown out again , without having fufi : ered any change : that the fever often terminates before the matter is expelled : and that , upon many cccafions , without waiting the fuppofed time of concoction , the fever can be cured ; and by remedies that do not feem to operate upon the fluids , or to produce any evacuation .But though he thus reafons againfl - the notion of .",
+        "words": [
+          "matter",
+          "noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/69b28cc9-aef6-5214-b42d-89c776288c0c",
+        "value": "As by our tafte we judge of the foluble parts of bodies , fo by m - Imeii we judge of thofe very volatile and fabtile parts which V off mto the ajr ; and , like the organ of tafte , that of fmell is t ' pt moift , that It may have the more exquifite fenfation , pirtly Its proper mucus , and partly by the tears which defcend from â  ¢ V , eyes .Some kinds of odours greatly afFea : the nervous fyftem , ani ; i , uce the moft furprifmg effeds .Some gratefully excite if , ' immediately recruit the fpirits when almofl finking ; while .",
+        "words": [
+          "odours",
+          "Some kinds",
+          "afFea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/6ed501b3-763a-5059-9340-0ba87a5c98e0",
+        "value": "Or if the ( hip rides with her head to the wind , a thick fail ought to be put upon the foremaft , along which the fmoke from the fire - place might be made conftantly to play and afcend .If the fail fhould occafion a little fmoke between decks , this inconve - nience will be fufficiently comuenfated by ns keeping off the direÂ » Si : ftream of the fwampy fhore effluvia ; which now being obliged to form a curve before they reach the more diftant parts of the velTel , muft needs be greatly diverted and fcattcred .The beft preferv ^ tive againft the mifchievous impreflions of a putrid fog , or of a marlhy exhalation , is a dole , Ihelteredi and covered place ; fuch as the lower apartments in a Ihip , or a houfe in which there are no doors or windows facing the fwamps .",
+        "words": [
+          "effluvia",
+          "fwampy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/70e5e9e2-4b2a-51f3-8834-4e41da95a22e",
+        "value": "It is in vain to harals the miierable patient with vitriolic acid , and a multitude of naufcous and tormenting drugs .If ftools can be procured , and the bowels kept conftantly loafe , fo that the acrid and putrid coUuvios arc car - ried oft ' as faft a ; i they are fecrcted froin the difenfcd mafs , that the ftomach may be preferved , and able to retain bark , the diieafe inay be conquered : if not , the patient will die .\" As to wliat is called fever , there is nothing , after the firft ftage YELLOW FEVER .",
+        "words": [
+          "putrid",
+          "acrid",
+          "coUuvios"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7111d56c-a9d3-5fcd-b794-72ff1044fcc7",
+        "value": "Our auihor never obfervcd in one of them the Ihrill bark - ing noife that we fiequently hear in inflammatory quinfics .The breath of all the difeafed was v ^ y haufeous ; of fome infufFera - bly fetid , efpecially in the advance of the diforder to a crifis ; and many , about the fourth or fifth day , fpit oft avail : quantity of flinking purulent mucus , tinged fometimes with blood - ; and forhe - tim .es the matter w .",
+        "words": [
+          "fetid",
+          "breath",
+          "fome",
+          "bly fetid",
+          "haufeous",
+          "of all the difeafed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/721cc453-5b8a-50e3-9b12-c5d7915f8eb2",
+        "value": "The air was vitiated , noiiome , and thick ; infomuch that tlie lighted torches or candle burnt dim , and feemed ready to be extinguifhcd : even the human voice loil its natural tone .The fmcll of the ground and of the houles was raw and ofFenflve ; but the vapour arifing from putrid water in the ditches was much worfe .All this , however , feemed tolerable , whentomparedwiLh the infinite numbers of infcifls Iwanningcver / - TREATMENT OF TERTIAN FEVER .",
+        "words": [
+          "putrid",
+          "vapour",
+          "in the ditches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7ad1cd37-93e6-5e22-9d9b-b49ccb966d98",
+        "value": "When the fever becomes fo violent , during the third fit , as to end m death , which is generally the cafe , fome of the fick have a coma ; in others the delirium becomes more violent .The difcharges now become more fetid , and have a cadaverous fmell ; the ftools are in - voluntary ; the pulfe is fo quick , fmall , and irregular , that it is fcarce to be counted , or even felt ; a cold fweat is difFufcd over the whole body , efpecially the head and neck : the face becomes Hip - pocratic aiid convulfed ; the patient picks the bed - clothes ; a fub - fultus tendinum comes on ; the Tick lie conft ^ antly on tlieir backs and infenfibly Aide down to the foot of the bed ; their extremities grow cold ; they are then feized with convulfions , with which the Icene clofes .In this fever , the urine , which at the beginning is pale , becomes of a deeper colour by degrees , but without depofiting any fediment .",
+        "words": [
+          "fetid",
+          "cadaverous",
+          "more fetid",
+          "fmell",
+          "The difcharges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7b135e93-cb6f-575a-aae6-932c942d95d5",
+        "value": "The fteora of catnphorated vinegar warmed , is ftill more powerful for this puipofe .But , be - fides correiling the ill quality of the air , and purifying the cham - ber , another good effeft is produced from fuch fteams and fmoke as are inoffenfive to the lungs .As foon as the vapour becomes denfe , the nurfes and patients become defirous of the admilTion of frelli air by the door or windows .",
+        "words": [
+          "good",
+          "effeft",
+          "from fuch fteams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7b2f6cf6-ca0a-5d5d-838c-8a85da1c1891",
+        "value": "in being flint , a diarrhoea is a common fymptoni , but is not critical .In the worft cafes , a flux apnears in the lafl : ftage ; then the ftools are involuntary , colliquative , ichor - ous , or bloody , and have a cadaverous fmell ; the eff ? 6ts of a .mortification of the bowels , and the figns of approaching death .",
+        "words": [
+          "cadaverous",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7b746e79-b525-57a8-87ca-c1595a05bc95",
+        "value": "3 .In the ftate of excretions , frequent , loofe , and fetid ftools j high - coioured turbW THEORY OF MEDICINE .69 line ; fetid fweats ; and the fetor of blifters .",
+        "words": [
+          "fetid",
+          "ftools",
+          "loofe",
+          "ftate of excretions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7e9e8557-e143-5b95-9638-0a6368d00fe3",
+        "value": "i i Â » But the moft powerful of all the remote cayfes is juftly thought to be the effluvia of marfhes replete with pwtfid animal lubftanccs .We have not , however , been able to determine from what kind ot putrid animal fubftances thefe effluvia derive their virus , i - or that every kind of putrefadion has not fuch an efFed appears from this , that neither pradical anatomifts , nor thofe who by their trades are expofed to the putrid effluvia of animals , for mftance , iuch tanners and butchers as keep their ( hops and ftalls very dirty , are more fubie6 \\ than others to putrid difeafes .Nor are the fl - i .",
+        "words": [
+          "putrid",
+          "effluvia",
+          "of animals"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/7f7ea1a3-7977-5d40-84b6-876209d86886",
+        "value": "\" He was now ordered the bark with proper laxatives ; demul - cents for his cougli ; the milk and vegetable diet were continued , and he drank affes * milk in plenty .This courfe agreed withjiini for fome lime ; he became ftronger , could walk with more tree - Jom , and even bear the motion of a carriage : but about the be - ginning of 06tober the matter became fetid , although there was a confulerable diicharge from both wounds , his pulfÂ « continued at 120 in the morning , and he had a he6lic paroxyfm every after - noon , when his pulle rofe to 130 .\" At this time Dr .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/80fc2c7b-ce4f-5b2f-9d3d-ae62889c28bd",
+        "value": "Thick noifome fogs , chiefly after fun - fet , arifing from the valleys , and particularly from tl ; je mud , flime , or other impurities .In hot countries , the fmell of thefe fogs may be compared to that of a new - cleaned ditch .Difeafes , therefore , arifmg from this caufe , generally take place in the night , or before fun - rifing .",
+        "words": [
+          "ditch",
+          "of",
+          "of a",
+          "that of",
+          "fmell",
+          "new -",
+          "a new",
+          "cleaned ditch",
+          "- cleaned",
+          "In hot countries",
+          "of thefe fogs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/8130e42a-d821-54d8-b0a3-137a81a0a41c",
+        "value": "vomiting , which continues , in fpite of all remedies , till a mortifi - cation and death enfue .Inftead of this , it is proper to give large draughts of warm water , which , without any additional ftimuluS ' to the coats of the ftomach , evacuates its acrid and putrid contentsj commonly with great relief to the patient ; the warm water alfo acSls as an emollient fetus to the inflamed coats of the ftomach ; and thus abates the inflammation , and prevents the gangrene and mortification from coming on .After the patient has by this means vomited feven or eight times or oftener , and difcharged a great quantity of yellow , and blackilh bilious matter , as they often do , a grain , or a grain and a half , o \\ crude opium is given , in order to procure fome refpite from the violent retching , vomiting , and anxiety .",
+        "words": [
+          "putrid",
+          "acrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/814b0959-9cf1-5f5f-a8a5-36a64d9ab062",
+        "value": "In the ftate of excretions , frequent , loofe , and fetid ftools j high - coioured turbW THEORY OF MEDICINE .69 line ; fetid fweats ; and the fetor of blifters .4 - The cadaverous 11 of the whole body .",
+        "words": [
+          "fetid",
+          "fetor",
+          "line",
+          "fweats",
+          "of blifters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/830e210a-df27-500d-b8d7-96a0759c6de7",
+        "value": "A difeafe therefore may happen to j part of the body , either folid or fluid , or to any one of the fu ; tions : and thofe may occur , either Tingle or fevcral of them joi , toge ; hcr ; whence the diftincUon of difcafes into / imple and c pcund .^ We have examples of the moft fimple kinds of difeafe ^ , in rupture or other injury of any of the corporeal organs , by wh means they become lefs tit for performing their offices ; or , ' thou the organs ihemfclves Ihould remain found , if the folids or flu have degenerated from a healthy llate ; or if , having loft ih proper qualities , they have acquired others of a different , perh ; of a noxious nature ; orlaftly , if the moving powers ihall bccoi too weak or too ftrong , or diredl their force in a way contrary what nature requires .he greater the .",
+        "words": "noxious"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/847a2dee-9cf4-5368-a491-cf3cf8ffc4c9",
+        "value": "Indeed great anxiety and oppreffion on the [ jr ^ cordia always precede pulhilar eruptions of any kind in ail forts of fevers .This eruption Ihould be promoted by foft eafy cordials and proper diluents ; to which iTiould be fometimes added fome gentle aromatics .Thcfe tend to calm the univcrfal uneafi - lefs commonly complained of , and alfo very elFedually promote i diaphorefis , or kindly breathing fweats , with which tlie miliafry .",
+        "words": [
+          "gentle",
+          "aromatics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/85e5f811-b73a-5fc4-90a5-468d8586fa88",
+        "value": "But in cafes ot intermiticnts and remittents which originate in marfliy fituations â  ¢ no fuch evidence is affbrded , for there is no authentic inftance ot thefe being contagious or communicable from one to another â    \" As no other exhalations or noxious matters than ihofe which * Does the union of dead animal and vegetable fubftances prevent tl .c Â « Ha ^ : 5 miSt ttcup with putrid water , taken from a ditch , in tlic metdows rfhe outh fide of Edinburgh ( which in lummcr contain a con ^ fiderabfe quantity of extremely putrid ^ agnating water ) , and - ^ oU ^ ^ ^ ^ ? withTDure water , I put a bit ot mutton into each cup , and let ^ i ' ^ m ; set cHn th open air .The mutton in the pure water began to putrefy .",
+        "words": [
+          "putrid",
+          "water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/87e8fd62-e862-58e5-b022-e434046996e5",
+        "value": "On the firfl : day , many of them at times were a little delirious , but afterwards not until the recefs of the fever .The blood faved on venefeaion had not any inflam - matory cruff ; in warm weather , it was florid like arterial blood , and continued in one foft homogeneous - like mafs , without any feparation of the ferum after it was cold .When there was any reparation , the craffamentum was of a very lax texture .",
+        "words": [
+          "florid",
+          "it",
+          "like arterial blood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/8a8c8d1d-adae-5ecd-95e2-e58d7290f0cc",
+        "value": "The flomach contained a quan - tity of an atrabilious liquor , which , when poured on the ground , produced a feniible efFervefcence ; and , when mixed with acid of vitriol , a violent ebullition gnfued .The dead bodies fo quickly tnrnec ^ putrid , that at the end of fijf hours their fetor vi - as intoler - able ; and , in fome of them , worms were found already lodged iq the flomach .His M ^ jefty ' s ftiip the Tweed being at that time in Cadiz - bay , fgveral of her men were taken ill when on ihore , but by being ' carried on board all of them recovered .",
+        "words": [
+          "putrid",
+          "fetor",
+          "their",
+          "able",
+          "The dead bodies",
+          "at the end of fijf hours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/8acb9a94-1fc4-5c59-b2f2-62e6569c567e",
+        "value": "Prevention and cure .] As difeafes of the putrid kind never arife without an infedlion received from fome quarter or other , the methods of prevention mull evidently be red * uced to two general heads , i .To avoid receiving the infeÂ £ l ; ion into the body ; and , 2 .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/8e877072-8ba8-5007-9891-bda7d61b5538",
+        "value": "Some compare the imell to that of rotten ftraw .It often refembles the ( lilagreeable fmell of a perfon labouring under the condue .t rmail - pox at their turn , though not fo ftrong .",
+        "words": [
+          "fmell",
+          "of a perfon",
+          "lilagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/8f22ebdf-f4f8-5285-a327-80c3df813743",
+        "value": "l and vege ab .e fubftances afe to lender the effluvia of fenny f ^ cs more pe n ous than they would other wile be .The dations of the Nile and Ganges are followed by a lieaithy lealoa is , VARIATIONS OF TERTIAN FEVER .",
+        "words": [
+          "effluvia",
+          "of fenny f"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/92a2017a-c685-5483-a503-ba2dd971b6d0",
+        "value": "2 .Scroi ^ \\ \\ \\ x \\ dL { mej enteric a ) , fimple , internal , with palenefs of tliL ' face , want of appetite , fwelling of the abdomen , and unufal fetor of the excrements .3 .",
+        "words": [
+          "fetor",
+          "of the excrements",
+          "unufal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/930bd0c1-f859-5da9-8b4b-e61fc468ae9d",
+        "value": ".the tongue being covered with a vifcid mucus .The tafte is frequently depraved ; when , for example , we have a perception of tafte vvithout the application of any thing to the tongue ; or , if any thing be applied to it , when we perceive a tafte different from \\ vhat it ought to be .",
+        "words": [
+          "mucus",
+          "vifcid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/96f5312b-f225-5bec-acbd-a94748a48ebc",
+        "value": "Thefe by raifing a gentle ealy fv ^ cat , or at leall : a plentiful perfpiration , calm the hurry of the fpiriis , and a lefrelhing fleep enfues .Where the confufion and dejc6lion fpirits are very confiderable , bliilers have been advifed to be ap - plied to the neck , occipur , or behind the ears , and during all this a free ufe of thin wine - whey , fome pleafant ptifan or grtiel , with a - little foft wine , muft be indulged in .Indeed the patients , in : tliis cafe , fhould drink frequently : though fuch qtjantities may not be net - efTary as in the ardent , or even putrid malignant feverii , yet they fliould be fuff ^ cient to carry on the work of dilution , fupport the fweats , and fupply the blood with frelh and whole - Ibme fluidsj in place of that noxious matter which is continually pafling ofF .",
+        "words": [
+          "very",
+          "confufion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/97015c82-b2e2-5493-896f-f5f1773d34e0",
+        "value": "1 .Diabetes [ mcllitus ) , with - urine of the fmell , colour , and tafte of honey .2 .",
+        "words": [
+          "of honey",
+          "fmell",
+          "Diabetes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/99643320-53ae-5eee-9934-31e907bd48b9",
+        "value": "But though he thus reafons againfl - the notion of .e vers being an effort of nature for concoaing and expelling a morbific matter , the doaor by no means denies that the caufe of fever frequently ope - rates upon the fluids , and particularly produces a putrefcent ftate of them this he acknowledges is frequently the cafe : but at the fame time he maintams , that fuch a change of the fluids is not com - monly the caufe of fever ; that very often it is only an eff ed , and that there is no reafon for believing the termination of the fever to depend uoon the expulfion of the putrid matter ..",
+        "words": [
+          "putrid",
+          "the",
+          "matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/9ba7bcfa-8d03-57b0-9a22-008e4bae326d",
+        "value": "which are fuppofed to harbour infedlion , it muft : be obfervcd , that the ufual cuftom of only unpacking and cxpofing fuch materials to the open air , is in many inftances ^ infufficicnt to deftroy the latent feeds of difeafe .â   It is certain , indeed , that in moft cafes the contagious particles are more readily and fatally commu - nicated from the clothes of a fick perfun than from his body .The fpreading abroad , therefore , of contaminated clothes to dry , or to be PUTRID FEVER .",
+        "words": [
+          "perfun",
+          "from the clothes",
+          "the contagious particles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/9c8251dc-d390-5bff-a48d-f71205f69c90",
+        "value": "With regard to drink , he takes a great deal of pains to diflinguifh the good waters from - tiie bad .The befl , in his opinion , ought to be clear , light , with - out fmell or taffe , and taken out of the fountains that turn towards the eaft .The falt - vi ^ ters , thofe that he calls hard , and thofe that rife out of fenny ground , are the worft of all ; he condemns alfo thofe that come from melted fnow .",
+        "words": [
+          "fmell",
+          "taffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/9cc0f5f5-da94-582d-8e96-c891eb6d6c6f",
+        "value": "* It appears fi - om the experiments of M - Lavoifier , that hydrogen is alfo the refult of decompoled water ; and that water is a compofition of hydrogen and oxygen kept in a fluid ilate by its union with caloric , aad confifts of 8j parts in 100 of oxygen and ij of hydrogen .j88 CAUSES OF INSALUBRITY < t Wc may , therefore , from what has now been ftatcd , conclude , that neither carbonic nor hydrogen gas , fu ' gly or combined , is the miafma or effluvium by which the difeafes in queftion are pro - duced .That neither the Water of marges , nor the exhalations which arife from thence , are feptic or promoters of putrefaftion , has been fully demonftrated by the experiments of Dr .",
+        "words": [
+          "effluvium",
+          "hydrogen gas",
+          "carbonic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/9cd32221-9d8e-5766-8bc7-3c616decdbe4",
+        "value": "3 .With a putrid diaihcfis .II .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/9cf1ddcf-59b0-561e-b749-88cdb389e5ad",
+        "value": "The ufual fymptoms of fcurvy , viz .livid fpots , and rotten fetid gums , alfo frequently occur ^ For this the Peruvian bark is very ufeful , both as a febrifuge and antifcorbutic .A tertian accompanied with worms is taken notice of by Sir John Pringle in his treatife on the difeafes of the army .",
+        "words": [
+          "fetid",
+          "gums",
+          "ufeful",
+          "the Peruvian bark",
+          "antifcorbutic",
+          "very ufeful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/a0c78168-92f3-5bac-9471-9b7a6e680314",
+        "value": "es the matter w .is quite livid , and of an abominable fmell .The noftiils , likewife , in many were greatly inflamed and exco - riated , continually dripping down a moil fliarp ichor or fanious matter , fo excefiively acrid , that it not only corroded the lips , cheeks , and hands of the children that laboured under the difeafe , but even the fingers and arms of the very nutfes that attended tiiem : as this ulceration of the noftrils came on , it commonly caufed an almoft incefTant fneezing in the children ; but few adults wei ' e affected with it , at leaft to any canfiderable degree .",
+        "words": [
+          "abominable",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/a73fc588-56a7-5cce-a19e-eca88d27d46d",
+        "value": "Tiiis may be done , i .By avoiding any new appli - cation of putrid or puirefcent matter .2 .",
+        "words": [
+          "putrid",
+          "matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/aa8fede9-1f23-56df-a6e8-5b18438b870d",
+        "value": "Ix .three or four times a - day for a few days , in an infufion of mint - leaves with a Little fnake - yoot , made as tea ; whicli he did , and recovered perfedtly welf in feven or eight days ' time .\" This patient being feized in fo violent a manner , and recover - ing in fd fhort a time , and fo near to the rule which the elegant Celfus recoinmends , C / Va , tute , et jucunde , not only confirmed the above manner of reafoning on the caufe and nature of this difeafe to be right , but made me determine to follow the fame method as I poffibly could ever fince , and I muft add , with the fame good fuccefs alfo , when I am called fo early in the difeafe that I can flridHy purfue it , which is too feldom the cafe ; for in general the phyfician is not called till the fourth or fifth day , or later , when the putrid acrid bilious matter is a great part of it carried into the blood , which it has fo diffolved and brought its whole mafs into a colllquated , putrid , gangrenefcent flate , that the beft of methods , and the moft efficacious medicines , however judicioufly timed and applied , are precarious and uncertain ; or fdmetimes it is fo far advanced , that the ableft phyfician can do no more than tell the relations of the fick tliat it is too late , and that they can live but a few hours : for I know no difeafe in which the re - covery of the patient fo much depends upon the right or wrong method of treating it , at the very firfl ; attack or beginning of the difeafe , as this fever does ; for by thus difcharging and carrying the putrid , acrimonious , bilious matter , out of the body before much of it is carried into the blood , not only maft of the bad fymptoms which attend the fecond ( late of the fever are prevented from coming on , but the hcemorrhagies , and the yellownefs of the & in , & c .",
+        "words": [
+          "infufion",
+          "of mint - leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/adc6a5ad-c0b5-57e7-9ce5-61c3e28fea5d",
+        "value": "This fenfe is more acute about the middle of the feptum id the ojfa Jpongicfa , where the membrane is thicker and fofter * m m the deeper cavities , where the membrane is thinner , s nervous , and lefs filled with blood - vcifels ; although even â    icfe do not feem to be \" altogether deftitute of the feufe of moiling .As by our tafte we judge of the foluble parts of bodies , fo by m - Imeii we judge of thofe very volatile and fabtile parts which V off mto the ajr ; and , like the organ of tafte , that of fmell is t ' pt moift , that It may have the more exquifite fenfation , pirtly Its proper mucus , and partly by the tears which defcend from â  ¢ V , eyes .Some kinds of odours greatly afFea : the nervous fyftem , ani ; i , uce the moft furprifmg effeds .",
+        "words": [
+          "mucus",
+          "fmell",
+          "exquifite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/af5d9d8d-4e20-5ba4-9192-474633bd64ad",
+        "value": "Neverthelefs , it is indifpenfably neceffary in the beginning of the difeafe ; and if omitted at that time , the violent heat and motion of the blood increafe the putrefcence of the humours to fuch a degree as to bring on the fatal confequences much fooner than would Otherwife have happened .After bleeding , we come to the fecond indication of cure , namely , tp evacuate ^ as much of the bilious and putrid humours as foon and as fafely as we can .The irritable ftate of the ftomach , from the putrid biliousjiumours conftantly attending this fever , with almoffc continual retchings , and violent vomitings , feem to indicate the giving of an emetic : but the ftomach is always obferved to be fo riolently ftimulated and irritated , and moft comiuonly inflamed by the acrimony of the putrefent bile , that any emetic , even the moft mild and gentle , given in the fmalleft dofe , brings on an inceffant .",
+        "words": [
+          "putrid",
+          "humours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/b0218dff-eade-51b3-ac2f-db0d728a8081",
+        "value": ".i i Â » But the moft powerful of all the remote cayfes is juftly thought to be the effluvia of marfhes replete with pwtfid animal lubftanccs .We have not , however , been able to determine from what kind ot putrid animal fubftances thefe effluvia derive their virus , i - or that every kind of putrefadion has not fuch an efFed appears from this , that neither pradical anatomifts , nor thofe who by their trades are expofed to the putrid effluvia of animals , for mftance , iuch tanners and butchers as keep their ( hops and ftalls very dirty , are more fubie6 \\ than others to putrid difeafes .",
+        "words": [
+          "effluvia",
+          "of marfhes",
+          "pwtfid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/b033eb00-5cf2-5c26-bb59-67d98b5b3ce5",
+        "value": "Huxham .The latter obferves , that this difeafe was preceded by long , cold , and wet feafons ; by which probably the bodies of people were debilitated , and more apt to receive contagion , which poflibly alfo might be produced by the ftagnant and putrid waters .The attack of this difeafe was veiy different In different perfons .",
+        "words": [
+          "putrid",
+          "putrid waters",
+          "the ftagnant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/b104ed94-a920-5721-8902-5b2c9f7d925d",
+        "value": "The mortality is in proportion to the denfity and duration of the fv ; g .It has a raw ' putrid fmell ; and is fometimes fo thick , that a pcrfon or hoofs Csirinot be difcerncd through it , at the diftancc of lifbcn or twenry fix4i ; ind it continues fo for ten or fourteen days ; during which i66 VARIATIONS OF TERTIAN FEVERÂ » it opens the feams of flilps , fplits or opens the crevices of wood aÂ » if flirunk or dried with a great fire , and deftroys both man and beaft .In the year 1754 or 1755 , the mortalitv occafioned in Guinea by this llinking fog was fo great , that in feveral negro towns the living were fcarce fufficient to bury the dead .",
+        "words": [
+          "putrid",
+          "It",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/b391ee01-a247-527f-8696-330e63f4ca18",
+        "value": "\" 23d , â   He is much worfe , not from the croupy fymptoms being increafed , for thefe are diminifhed , but ficknefs and purging are come on , with total lofs of appetite , and great languor , weak and frequent pulfe .â   Thefe fymptoms I fuppofed were the efFed of the mercury , he having taken upon the whole forty grains of calomel } and two or three drachms of mercurial ointment having been rub - bed in , allowing for what might be wafted by the perfon ' s hand who applied it , â   I therefore la ' id afide the mercurial ointment and the calomel , gave him fome aromatic confeftion , and ordered him frequently fome cordial nutriment .\" 24th .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/b96929ec-b8bb-5ccd-adba-b9d56c7cea9a",
+        "value": "Notw ithltanding plentiful evacuations , this delirium continued for two months with fhort intervals ; when the cafe was found to be plainly maniacal .A nurfe , upon raiflng this perfon up in her arms , perceived an intolerably bad fmell , and was inftantly feized with iliiverings , ficknefs , and head - ach .Finding herfelf very ill , flic took a vomit in lix hours afterwaids , and palfed the night in jjrofufe fvveats by means of a fudorific draught .",
+        "words": [
+          "fmell",
+          "intolerably bad",
+          "perfon",
+          "nurfe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/ba57e3ca-6374-5e17-a082-4208b63e74e3",
+        "value": "' Lind on all occafions recommends the avoiding of ftagnant water , or putrid marfhes ; the ufe of proper food , clean - linefs , and fobriety .Of the propriety of removing from the neigh - bourhood of thole places whofe peftilential effluvia produce the diforders , we cannot pofTibly entertain a doubt ; and of the effi - cacy of proper food in preventing putrid diforders he gives a re - markable inftance in the Siieernefs man - of - war , bound to the Eaft Indies .As they went out , the men being apprehenfive of ficknefs in fo long a voyage , petitioned the captain not to oblige them to take up their fait provifions , but rather to permit them to live upon the other fpecies of their allowance .",
+        "words": [
+          "putrid",
+          "effluvia",
+          "peftilential"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/bb73b002-6f3c-530b-a266-3af06035a7de",
+        "value": "' ] Very few recover after an empyema has been once formed , efpecially if the operation of paracentefis be neglect , ed .After this operation is performed , if a gi ; Â » at quantity of bloody - fetid pi ! s be difcharged , if the fever continue , and if the patient fpLt up a purulent , pale , frothy , livid , or green matter , with a decay of ftrength , there is no hope : but when a fmall quantity of pus , of a vyhitc colour , not very fetid , is difcliarged ; when the fever and thirft ' prefently ceafe , the appetite returns , and fxces of a gocd confiftence are difcharged , the flrength alfo returning in fome degree ; there is then hope of a perfe61 : recovery .If the mat - ter be liot dried up in feven weeks * time , the difeafe readily changes to a hftulous ulcer , which is very difficult to cure .",
+        "words": [
+          "fetid",
+          "very fetid",
+          "quantity of pus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/c01c8721-7a3b-5252-b461-d28587d660be",
+        "value": "three or four times a - day for a few days , in an infufion of mint - leaves with a Little fnake - yoot , made as tea ; whicli he did , and recovered perfedtly welf in feven or eight days ' time .\" This patient being feized in fo violent a manner , and recover - ing in fd fhort a time , and fo near to the rule which the elegant Celfus recoinmends , C / Va , tute , et jucunde , not only confirmed the above manner of reafoning on the caufe and nature of this difeafe to be right , but made me determine to follow the fame method as I poffibly could ever fince , and I muft add , with the fame good fuccefs alfo , when I am called fo early in the difeafe that I can flridHy purfue it , which is too feldom the cafe ; for in general the phyfician is not called till the fourth or fifth day , or later , when the putrid acrid bilious matter is a great part of it carried into the blood , which it has fo diffolved and brought its whole mafs into a colllquated , putrid , gangrenefcent flate , that the beft of methods , and the moft efficacious medicines , however judicioufly timed and applied , are precarious and uncertain ; or fdmetimes it is fo far advanced , that the ableft phyfician can do no more than tell the relations of the fick tliat it is too late , and that they can live but a few hours : for I know no difeafe in which the re - covery of the patient fo much depends upon the right or wrong method of treating it , at the very firfl ; attack or beginning of the difeafe , as this fever does ; for by thus difcharging and carrying the putrid , acrimonious , bilious matter , out of the body before much of it is carried into the blood , not only maft of the bad fymptoms which attend the fecond ( late of the fever are prevented from coming on , but the hcemorrhagies , and the yellownefs of the & in , & c .alfo , and the fever , foon fubfide too ; for I have never feen any ha ^ morrhagy come on , and but little yellownefs , or in forae none , when they were thus treated .",
+        "words": [
+          "putrid",
+          "putrid acrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/c474e21e-15ec-5f60-bfe3-7d459b863ab2",
+        "value": "The tongue at this time , though only white and moill at the , top , was very foul at the root , and covered with a thick yellowilli , or brown coat .The breath alfo now began to be very naufeous ; which ofFenfive fmell increafed hourly , and in f ; me became at length intolerable , and tliat too fometimes even to the patients themfelves .The fccond or third day every fym , ; rom became much more aggravated , and the fever much more confidorable ; and thofe that bad fl ; rugglcd with it tolerably well for thirty or forty iioiirs , were forced to fubmit .",
+        "words": [
+          "breath",
+          "intolerable",
+          "fmell",
+          "ofFenfive",
+          "very naufeous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/c60c5e0a-eb45-5940-83b2-7df56eb1a082",
+        "value": "Thus the mod favourable crifis in the plague , and in inoft pcftilential fevers , happens when nature excites tumors Kindly fuppurating in the groin or arm - pits .\" We here proteft againft the humoral pathology : but the author proceeds , â  ¢ a \" ^ r ^ l ^ obferved it to be among the mod certain charafler - mics of the worlT : fevers , that the blifters either do not rife and WI , _ or difcharge fuch yellow , greenifh , fetid , and highly otFenfivc Ituhh , that even experienced nurfcs could give a pretty certain con - jedturc from the blifters , of the difFerent degrees of malignity in the ^ ver .We have more than once endeavoured to conceal the bad ftate of fome - patients in the hofpital ; but a difcovery was al - tvays made of their condition in the wafh - houfe , from ' the linen lent there llained with the difcharges from the bliftered parts .",
+        "words": [
+          "fetid",
+          "highly otFenfivc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/c739e402-f0c2-5e77-907e-fa0ce7136111",
+        "value": "St .John ; but it does not appear from thefe cafes , thjt Jofe noxious effluvia produced any fymptoms ^ ^ ^ ^ ' ^ ^ hng th ^ ^ ^ ^ ^ ^ putrid or peftilential fevers : on the contrary , they aaed as diredt Culants ' and occafioned inflammatory affeclions without bemg preceded by that fenfe of debility which always precedes thofp fevers that are occafioned by febrile contagion .Â « H v ^ ng now fliown thai the difeafes which prevail moft gene - rally durini the autumnal feafon in low and marfhy htuat .",
+        "words": [
+          "effluvia",
+          "noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/c935de5d-77de-5c62-b049-34415e758b0f",
+        "value": "has alfo been delivered down from age to age , refpedling the caufcs of continued fevers of the nervous or putrid kind .* â  ¢ ' I ' he do ( 51rine formerly taught refpcÂ £ ling thcfe was , that they derived their exiftence from the effluvia of dead aud putrid animal IN MARSHY SITUATIONS .193 i - ubftances : but , from more recent and accirrate obfervations , it appears that the contagion by which th .",
+        "words": [
+          "putrid",
+          "effluvia",
+          "putrid animal",
+          "of dead aud putrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/cc876357-3449-5623-8eb9-375213ccf8d0",
+        "value": "Chin .olm * - Noxious effluvia indeed frequently anfe from putrid animal fubftances in confined fituations .Dr .",
+        "words": [
+          "putrid",
+          "effluvia",
+          "from putrid",
+          "Noxious",
+          "putrid animal fubftances",
+          "olm *"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/cd1e8052-60b5-5e37-8d68-717d0c3f93b7",
+        "value": "patient in this fliort paro .- < yfm as in thofe oi 1753 and 1754 : the fweat continued but two nights , and the urliie fetid â  ¢ ohly forty - cfght hours .\" As Mr .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/ce200f21-d139-5517-892a-b5b924faf6aa",
+        "value": "Next to the fmoke of wood for purifying a tainted air , that of gun - powder is to be eflecmed the beft ; and it has this further good property , that it is entirely inoffenfive to the lungs .The cafcarilla - bark , when burning , gives a moft agreeable fcent to the chamber of the fick ; and is at leaft an elegant prefervative , and may pre - vent bad fmells from taking effcâ  ¬ t .The fteora of catnphorated vinegar warmed , is ftill more powerful for this puipofe .",
+        "words": [
+          "bad",
+          "fmells",
+          "The cafcarilla - bark"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d0877611-7254-5f2f-ad7c-1ebbf8bf6d3f",
+        "value": "Even in countries feemingly dry , and ifvhere violent rains are nor frequent , he thinks that the air may load itfcif with putrid exhdlations fi - om the ground ; and that , except in the burning deferts of Arabia or Africa , people are no - where exempt from difeafes occafioned by putrid moifture .In moft of the hot countries , however , the ; pernicious efFeds of the putrid vapours are by no means equivocal .In Guinea , they feem to be more extraordinary than any - where elfe in the world ; neither indeed can it be fuppofed , that a hot dnd moifl : atmofpherc can be without putrefcency .",
+        "words": [
+          "putrid",
+          "vapours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d0bc298c-b17d-5c66-a61b-1845a8db1a8b",
+        "value": "miffible , becaufe it is icarcely conceivable That fuch aUeratioa is made - in the quality of fluids in putrid fevers is manifeft from the contagious eflFeas of the feveral excretions .But in cafes ot intermiticnts and remittents which originate in marfliy fituations â  ¢ no fuch evidence is affbrded , for there is no authentic inftance ot thefe being contagious or communicable from one to another â    \" As no other exhalations or noxious matters than ihofe which * Does the union of dead animal and vegetable fubftances prevent tl .c Â « Ha ^ : 5 miSt ttcup with putrid water , taken from a ditch , in tlic metdows rfhe outh fide of Edinburgh ( which in lummcr contain a con ^ fiderabfe quantity of extremely putrid ^ agnating water ) , and - ^ oU ^ ^ ^ ^ ? withTDure water , I put a bit ot mutton into each cup , and let ^ i ' ^ m ; set cHn th open air .",
+        "words": [
+          "noxious",
+          "in cafes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d308359b-f646-5ef0-9c5a-60d090ab0a86",
+        "value": "Grose , of Winflow , who does not attempt to give a name to the clifeafe in which yeaft appears to l ^ ave been of fervice .No putrid fymptoms indeed feem to have been manifelled .* ' In May , 1798 , the child of John J ( then refident ? .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d65e19f4-2355-5fa1-9dfe-e1b3fed960a7",
+        "value": "; yet there was obierved an univerfal fieiy eruption pn fome perfons , without the leaft abatement of the lymptoms , nay almoll every fymptom feemed more aggravated , particularly the ' feyer , load at breaft , anxiety , and delirium ; and our author knew more than one or two patients die in the moft raging phreiTfy , covered vvith the moft univerfally fiery afti he ever faw ; fo that , as in the higheft qonfluent fmali - pox , it feemed only to denote the quantity of the difeafe , as he terms it .He had under his care a young gentleman , about twelve years of age , whofe tongue , fauces , and tonfils , were as black as ink , and he fwallowed with extreme difficulty ; he continually fpit off immenfe quantities of a black , fanious , and very fetid matter , for at leaft eight or ten days iâ   about the feventh day , his fever being fomewhat abated , he fell into a bloody dyfentery , though the bloody , fanious , fetid expectoration ftill continued , with a moft violent cough .He at length , indeed , got over it , to the very great furpi ife of every one that faw him .",
+        "words": [
+          "fetid",
+          "matter",
+          "he",
+          "very fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d7a712ca-7252-568f-9846-815f19e1971a",
+        "value": "\" We ought ( faid Hippo - crates ) to compare the urine with the purulent matter which runs ftom ulcers .As the pus , which is white , and of the fame quality \" with the fediment of the urine we are now fpeaking of , is a fign that the ulcer is on the point of clofing ; fo that which is clear , and of another colour than white , and of an ill fmell , is a fign that the wker is virulent , and in the fame manner difficult to be cured : the urines that are like this we have defcribed , are only thofe which may be named good ; all the reft are ill , and difFer from one another only in the degrees of more and lefs .The firft never appear but when nature has overcome the difeafe ; and are a fign of the concoc - tion of humours , without which you cannot hope for a certain cure .",
+        "words": [
+          "ill",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d8bb153b-2f73-5636-a4ba-86e8f39f54e9",
+        "value": "The north - caft and fouth - eaft winds \" arc always unhealthy , but particularly fo during the harmattan ieafori .Some years this vapour is fcarcely perceptible ; but in otlicrs it is thick , noxious , and deftruiStive to the blacks as well as whites .The mortality is in proportion to the denfity and duration of the fv ; g .",
+        "words": [
+          "perceptible",
+          "vapour",
+          "noxious",
+          "it",
+          "Some years"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/d95d2cfa-6d69-5434-b379-b10337021c7e",
+        "value": "p - ftewardS and ' their fervants , whofe bufmefs it is to deliver out their proviJi - ons to the { hips ' crews , and who fpend the moft of their time amongft the putrid and rancid effluvia of the places in which thole a ^ rovifxons are kept , more fubjea to putrid fevers ^ ^ 1 ^ ^ \" ^ ^ ^ ' ^ ^ ^ ^ ^ ^ ^ ^ niates .But whatever be in tliis , we are well affured tha fome pa - ticular putrid fermentations produce noxious vapours , which , unit - ed with thofe of marHies , render them the more pernicious .Hence evidently proceeds the extreme unheakhfulneis of a pl ^ ce ea - Culpi , on the eaftern bank of the Ganges .",
+        "words": [
+          "vapours",
+          "noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/da513715-4c00-55db-a611-eb986a111bad",
+        "value": "2 .By evacuating the putrid or .putrefcent matter already prefent in the body .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/dad867f7-5154-5839-9909-82e760cc5a82",
+        "value": "Jicknefs , and rigors , - were greatly abated by the vomit , yet a conftaut heat and tlnrft , with a low puHe , and a violent pain in the breaft , indicated the neceffuy of applying a blifter to the attested parts , which next morning removed all her complaints .borne are immediately fenfible of having received an infeaion from the firft attack : they generally compare the firft impreflixjn to an earthy difagreeable fmell , reaching dovn , as tliey exprefs It , mto the ftomach , as from a grave newly opened , but not quite io raw as the cadaverous ftench ; and the effeas of it , flii .cnnff and ficknefs , are inftantaneous .",
+        "words": [
+          "fmell",
+          "the firft",
+          "earthy difagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/db5d903e-69d7-552c-81b5-d21236941938",
+        "value": "The tongue becomes more foul ; the teeth and infide of the hps are covered with a black cruft ; the breath grows hot and fetid : another remiflion enfues , attended with a fweat ; but this remiflion is both fliorter and lefs obvious than the fiift .This fecond remiflion is fucceeded by a paroxyfm , in which the fymptoms are far more violent than in the former ; that which the patient difcharges by vomiting and purging is more fetid ; the mouth , teeth , and infide of the lips , are not only covered with a black cruft - , but the tongue becomes fo dry and ftifF , that the pa - tient ' s voice can fcarce be heard .Violent delirium , with reft ; lefl \" - nefs and anxiety , come on chiefly during the paroxyfm ; nor do thefe fymptoms abate till the fever remits , and the patient fweats .",
+        "words": [
+          "fetid",
+          "more fetid",
+          "the patient",
+          "fecond"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/db90b192-b805-594b-81bc-f4463ab7393e",
+        "value": "Lind is of opinion , that noxious vapours arifing from the earth are for the mdft part to he blamed .Even in countries feemingly dry , and ifvhere violent rains are nor frequent , he thinks that the air may load itfcif with putrid exhdlations fi - om the ground ; and that , except in the burning deferts of Arabia or Africa , people are no - where exempt from difeafes occafioned by putrid moifture .In moft of the hot countries , however , the ; pernicious efFeds of the putrid vapours are by no means equivocal .",
+        "words": [
+          "putrid",
+          "exhdlations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/dd67efb2-9c83-5d3a-b068-a4b3fc908c28",
+        "value": "tnken out wailicd ' ^ f ^ ^ y ^ ^ Sure water , and found perfedly fwect - That m tlie pure ^ vat \" .s no become intolerably fetid , and on that account was thrown aw ^ y - feveTh day the mutton in the marflr water was walhed ^ f ^ ^ ^ \" ^ ^ ^ t7fr ni as before .When it had lain in about lix weeks , it ftul tÂ « nuw ed y S and the lic , uor around it of the fame Imcll and colour a ^ t fiWt After two month .",
+        "words": [
+          "fetid",
+          "intolerably fetid",
+          "the mutton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/dd9566ac-d6c1-51fb-bfa9-258db96ee7ed",
+        "value": "1 heir Huids confequentlv become , from day to day , more and more putreiccnt , and of courfe the moie apt to breed ' and contra ^ this cliiorder .This difpolltion is likewife induced by their being ftow ^ - ^ ed very clofe together , and that for a confiderable length of time , and in a foul air , efpecially when the weather happens to be too ttomiy to permit the hatches and port - holcs to be kept open ..",
+        "words": [
+          "foul",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/e0b3f827-ea78-5cc5-96d9-26597a10cfd6",
+        "value": "thefc fifties however are feldom to be ufcd in continued fevers .For the fame reafon , aromatic and fpiriiuous liquors are to be avoided ; and in anfwering the prefent indication , we muft abftain from all fermented liquors except thofe of the low ^ oft quality .Otlier ftimuli are , the fenfatlon of thirft , crudities or corrupted humoure in ihc flomach , a preternatural retention of the fasces in the m - teftincs , and a general acrimoiw of all the humours , which is in moft fevers to be fufpefted .",
+        "words": [
+          "aromatic",
+          "liquors",
+          "fpiriiuous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/e1bacb88-e55b-5f07-b239-a71cb0c6150f",
+        "value": "In the worft cafes of this fever , and efpecially when it coincides with the dyfentery , the flools are frequently bloody ; in which dangerous ftate , if any thing could be done , it was attempted by medicines of the fame kind .In proportion to the putrid nature of the ftools , opiates and aflringents were ufed â  ¢ with the greater caution .If the difeafe terminated in a fuppuration upon one of the parotid glands ( for the gland itfelf does not fuppurate ) , the abfcefs was opened without waiting for a diftindt flu6luation , which migh - never happen ; the pus being often fo vifeid , that after it was ripe the part felt nearly as hard as if the fuppuration had not begun .",
+        "words": [
+          "putrid",
+          "the",
+          "opiates",
+          "aflringents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/e7744538-e4cb-5b19-8a87-195dc64df576",
+        "value": "1 h .is praaice he employed , after purging the reft of the body , in an apoplexy , jnveterate pains of the head , a certain fort of iaunl dice , aponfumption , and the greateft part of chronical difeafes , i * or that purpofe he made ufe of the juices of feveral plants as celery â  ¢ to which he fometimes added aromatic drugs , makintr ' th * - â    patients foufF up this mixture into their noftrils .^ Hrufed ^ ^ fo ' powders compounded of myrrh , the flowers of brafs , and white hellebore , which he caufed them to put up into the nofe , to make them fneeze , and to draw the phlegm from the brain .",
+        "words": [
+          "aromatic",
+          "drugs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/e9509163-6f48-5a03-aa70-dddf81442490",
+        "value": ", th an inceflant hngultus : the whole prima vies become at Lft affedted ; a bloody dylentery comes on , followed by a fphacelation of .the inteftines ; as is evident from the black , fanious , and bloody ftools , extremely fetid and infedious .Vibices , or large , black , and bluifh marks refembling bruifes , are frequently feeu towards the clofe of the fever ; and , when attended with livuhty and coldnefs of the extremities , are certain tokens of approaching death .",
+        "words": [
+          "the",
+          "fetid",
+          "extremely fetid",
+          "fanious",
+          "infedious",
+          "bloody ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/eb1fd392-d053-5ff6-ab30-cc80510ee738",
+        "value": "The two former , however , are genera of wide range , which may have originated in New Zealand by the introduction of plants with handsome flowers , which the few indigenous insects would be attracted by , and thus prevent the loss of their gay corollas ; so that these discoveries will not much affect the general character of the flora , and its very curious bearing on the past history of the islands through the relations of flowers and insects .In judging of the relation here supposed to exist , it must be remembered , that if the New Zealand insects have been intro - duced from the surrounding countries by chance immigrations at distant intervals , then , as we go back into the past the insect fauna will become poorer and poorer , and still more inadequate than at present to lead to the development of attractive flowers and odours .This quite harmonizes with the fact of the ancient indigenous flora being so remarkably scentless and inconspi - cuous , while a few of the more recently introduced genera of plants have retained their floral attractions .",
+        "words": [
+          "attractive",
+          "flowers",
+          "odours",
+          "the New Zealand"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/eb937ca6-a19b-58f0-9f73-891df24d7e8b",
+        "value": "The oiificeof the ftomcich appeared to have been greatly affedled , the fpots upon it being ulcerated .The liver and lungs feeined to be putrid , both from their texture and colour .The flomach contained a quan - tity of an atrabilious liquor , which , when poured on the ground , produced a feniible efFervefcence ; and , when mixed with acid of vitriol , a violent ebullition gnfued .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/eb99aec5-3a5a-558b-a240-2fc6e6144429",
+        "value": "Where the confufion and dejc6lion fpirits are very confiderable , bliilers have been advifed to be ap - plied to the neck , occipur , or behind the ears , and during all this a free ufe of thin wine - whey , fome pleafant ptifan or grtiel , with a - little foft wine , muft be indulged in .Indeed the patients , in : tliis cafe , fhould drink frequently : though fuch qtjantities may not be net - efTary as in the ardent , or even putrid malignant feverii , yet they fliould be fuff ^ cient to carry on the work of dilution , fupport the fweats , and fupply the blood with frelh and whole - Ibme fluidsj in place of that noxious matter which is continually pafling ofF .In this view alfo a thin chicken - broth is of fervice , botli as food and phyfic , efpeciallv towards the decline of the difeafe ; and for the fame reafon tfiin jellies of hartlhorn , fago , panada , are ufeful , adding a little wine to them , and the juxce of Seville orange and lemon .",
+        "words": [
+          "matter",
+          "noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/ee2f80a3-69aa-5dc9-bad4-e6c32297e4c2",
+        "value": "A heat , immoderate thirft , and delirium , now come on .The tongue becomes more foul ; the teeth and infide of the hps are covered with a black cruft ; the breath grows hot and fetid : another remiflion enfues , attended with a fweat ; but this remiflion is both fliorter and lefs obvious than the fiift .This fecond remiflion is fucceeded by a paroxyfm , in which the fymptoms are far more violent than in the former ; that which the patient difcharges by vomiting and purging is more fetid ; the mouth , teeth , and infide of the lips , are not only covered with a black cruft - , but the tongue becomes fo dry and ftifF , that the pa - tient ' s voice can fcarce be heard .",
+        "words": [
+          "fetid",
+          "foul",
+          "breath"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/f0acfd44-d3ae-5dfe-ae92-7dc4b0932f5c",
+        "value": "[ PAUT III .\" New Zealand plants are remarkably scentless , both in regard to the rarity of scented flowers , of leaves with immersed glands containing essential oils , and of glandular hairs .\" There are a few exceptional cases , but these seem even more rare than might be expected , so that the confirmation of theory is very complete .",
+        "words": [
+          "scented",
+          "essential",
+          "plants",
+          "flowers",
+          "leaves",
+          "glandular hairs",
+          "remarkably scentless"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/f2f35175-3cc6-5220-be37-f87988c60cca",
+        "value": "Rappelons encore ici un instant quels sont lÃ © s gaz connus , quelle est la nature des Ã © mana - tions qui vicient lâ   air des salles , afin que la raison , fortifiÃ © e par lâ   expÃ © rience , ne cesse de prÃ © sider aux expÃ © diens que nous mettons en usage pour procurer aux malades un air plus pur .Je sais que tout cela est connu , que je ne fais que des rÃ © pÃ © titions ennuyantes , et ce - pendant mon devoir mâ   oblige dâ   y revenir , parce que jâ   ai la certitude que dans presque tous les hÃ ´ pitaux de seconde ligne lâ   on nâ   a pas encore pu se dÃ © cider Ã   abandonner les baies de geniÃ ¨ vre , le vinaigre , les plantes aroma - tiques et autres parfums de cette nature , comme uniques moyens de purifier lâ   air .Deux sortes de gaz qui diffÃ ¨ rent par leur pesanteur spÃ © cifique occupent le vide des salles remplies de malades .",
+        "words": [
+          "aroma",
+          "parfums",
+          "les plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/f3c03730-da1a-504c-813d-2fe555dc372a",
+        "value": "{ reaion , ^ with his conclufions from them , we ( hall give in his own won .s : in a man who died on the eleventh day of a yellow fever , whofe bodv emitted no bad fmell thirty - fix hours after death , and was Itul yel - low , 1 found all the bowels of the abdomen found ; the liver and fpleen were remarknbly fb ; as alfo the ftomach and inteftiues .There was no fuffufion of the bile eitbar in the inteftines or Ito - mnch .",
+        "words": [
+          "bad",
+          "fmell",
+          "thirty - fix hours after"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/f83d31f0-fb91-518f-8bd6-c6a0463297a9",
+        "value": "In urine there is often a fort of cloud hanging in the veflel in which it is received ; the higher riiis rifes , or the farther diftant it is from the bottom , or the more different from the colour of the laudable fediment above mentioned , the more there is of crudity .That which is yellow , or of a fandy - cdour , denotes abundance of bile ; that which is black is the worft , efpecially if it has an ill fmell , and is either altogether muddy or al - together clear .That whofe fediment is like large ground wheat , or tittle flakes or fcales fpread one upon another , or bran , prefages ill , efpecially the laft .",
+        "words": [
+          "ill",
+          "it",
+          "cdour",
+          "fmell",
+          "fandy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/fabc9891-cf8e-5eca-a750-d848f2b38912",
+        "value": "\" Things now wore a proraifing afpe6l ; the matter , though difcharged in great quantity , was perfe6lly mild and free fnml air ; and he feemed to be gaining ll ^ iength very faft , when , on the iifih day from the operation , he became feverifli , hot , and rclt - Icfs ; his .cough and difficulty of breathing returned j the matter acquired an offenfive fmell ^ and his pulfe rofe to 140 - He now felt the filver canula fo uneafy that we were obliged to withdraw it , and ufe only a bit of bougie .H - o \\ ^ ver , after taking a dofc of lalts , and increafing the quantity of the cryftab of tartar , fo as to keep his belly very open , the matter became more mild , his pulfe fell to 120 , and the fever abated much .",
+        "words": [
+          "fmell",
+          "offenfive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/fcbae988-4f4f-59d3-a8de-ea2483048e1e",
+        "value": "Ana - tomy was not in the leaft improved by them , nor did furgery re - ceive anv advancement till the time of Albucafis , who lived pro - l ) ably in tbe I2th century .They added a great deal to botany and the materia medica , by the introduction of new drugs , of the aromatic kind efpecially , from the eafl : , many of which are of Gonfiderable ufe , They alfo found out the way of making fugar ; and by help of that / fyrups ; which two new materials are of great ufe in mixing up cbnnpound medicines .With regard to their prad ' lice , in fome few particulars thcjr deviated from thp Qrecks , Their purging medicines were much milder than thofe formerly in ufe ; ' and even when they did pre - fcribe the old ones , they gave them in a much Ipfs dole than for ^ merly .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/ff14c004-b4d9-5e68-8aed-d185981f1247",
+        "value": "The b \" J ^ ' \" g - g ' \" Â ° \" l ' { , ! contributed not a little to fpread the infedion .I he ground being marOiy , the putrid water flowed from the old graves mto the new ones , I ' hich infeaed the grave - diggers and thole that attended the funerals ; and from this caule many were fudden .y fe .",
+        "words": [
+          "putrid",
+          "water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/ffdfd5e8-8465-516a-b98e-802020f55fe8",
+        "value": "which the putrid and cxcrcmentitious parts mufl be thrown out the proper paffagcs .The digeftion of the food , fccrction of humours , and excretion of tl \\ c putrid parts of the food , arc ferrcd to this clafs , which , though neceflliry to hfe , may yet interrupted for a conliderable time without danger .A ai / ' ^ a / e takes place when the body has fo tar declined fror found itaic , tl > at its fundlions are cither quiie impeded , or p formed with difficulty .",
+        "words": "putrid"
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/9b6fe3a1-2bab-53a0-9c20-247d3345a1c5",
+        "label": "London School of Hygiene and Tropical Medicine"
+      }
+    ],
+    "label": "Commercial. No. 13 (1893). Correspondence respecting the sanitary convention signed at Dresden on April 15, 1893",
+    "url": "http://archive.org/details/b2491499x",
+    "date": "1893",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/78",
+      "label": "Plant"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5de7592d-5d13-5dac-8d5e-348bf33a90b7",
+      "label": "1893",
+      "begin": "1893",
+      "end": "1893"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/110041/",
+      "label": "Al ‘Āriḑ"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0ebcb23a-1cb5-5873-aec5-0d1d03f83313/fragment/09268ce7-f560-5bf7-85d6-440f8dc5a3f7"
+}

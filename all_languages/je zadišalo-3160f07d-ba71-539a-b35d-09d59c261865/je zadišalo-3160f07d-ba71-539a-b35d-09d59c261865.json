@@ -1,0 +1,265 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/3160f07d-ba71-539a-b35d-09d59c261865",
+  "@graph": "http://data.odeuropa.eu/text-annotation",
+  "label": "je zadišalo",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/02a59162-da9b-52e5-a2c1-477d4efcadbc",
+        "value": "Skuhala je zajtrk; ko so zaropotali lonci na mizi in je zadišalo po kavi, se je zbudila mala Francka.",
+        "words": [
+          "na mizi",
+          "je zadišalo",
+          "po kavi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/0552c3cc-65f8-5385-b24b-e51648d96c6e",
+        "value": "Nizke, zadehle izbe; vlažne stene, samo nad posteljo sveta podoba, morda glava Kristusova, s trnjevo krono in krvavimi kapljami na čelu; pohištva ni, ljudje spe na tleh, na cunjah in s cunjami so odeti.",
+        "words": "zadehle"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/10b316ca-020b-59ba-bbff-4abbc40846b9",
+        "value": "Praznovali so svatbo v zakajeni gostilnici.",
+        "words": [
+          "zakajeni",
+          "gostilnici ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/11c351a2-fffd-5dfc-8e51-e8bedf6a34ac",
+        "value": "V izbi je dišalo močno po žganju in zrak je bil poln tobakovega dima.",
+        "words": [
+          "močno",
+          "po žganju",
+          "dišalo",
+          "izbi",
+          " poln tobakovega dima .",
+          "poln tobakovega dima . "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/13187e7a-e1b3-58a0-8df4-d8fc3e1a1136",
+        "value": "Iz znanih skrivnostnih besed, ki jih človek bere in ki begajo medtem njegove misli po tujih krajih, med grehi prejšnjega življenja, med upi prihodnosti, je vstajala globoka sladkost in je polnila srce do vrha, vstajalo je iz njih cingljanje zvončkov pred oltarjem, mogočno petje orgel in duh kadila, ki je plaval nad glavami in je legal na vse pobožno ljudstvo, kakor blagoslovljen pajčolan.",
+        "words": [
+          "kadila",
+          "duh",
+          "ki je plaval nad glavami in je legal na vse pobožno ljudstvo , kakor blagoslovljen pajčolan ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/1efd226a-510b-594d-a86d-6684036a3e71",
+        "value": "„Jaz, prijatelj, sem se lotil resno svojega poklica, kakor sem nameraval, ko sem bil še v šoli ...“\\r\f\\r\f\\r\f\\r\f„Za gospodo, ko človek ni smel vanj, če je dišal po govedi.",
+        "words": [
+          "dišal",
+          "po govedi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/2ecdbdfd-8e50-551e-b508-9e75acbc7238",
+        "value": "Mati je prinesla na mizo tri majhne sajaste lonce; zadišalo je iz kuhinje po prekipelem mleku, ki se je bilo razlilo po ognjišču in ta duh se je mešal prijetno z duhom še vrele kave.",
+        "words": [
+          "iz kuhinje",
+          "po prekipelem mleku",
+          "zadišalo je"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/585a1e77-6e10-59e0-b014-990116a6e288",
+        "value": "Zacingljali so zvončki, orgle so se oglasile na koru, oblak dišečega dima se je vzdignil izpred oltarja.",
+        "words": [
+          "dišečega",
+          "dima"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/62aa1352-1ad9-527b-8a83-bedb4b896967",
+        "value": "V izbi je bilo zadehlo, dišalo je še po mrliču, po svečah in po žganju.",
+        "words": [
+          "dišalo",
+          "izbi",
+          " po žganju",
+          " po žganju ",
+          "po svečah "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/7660d5b7-f295-5162-a73a-e1938e0e9822",
+        "value": "Izba bo čisto prazna, dišalo bo po mrličih, po ugašenih lojevih svečah.",
+        "words": [
+          "dišalo",
+          " po ugašenih lojevih svečah",
+          "po mrličih "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/7bf0f321-29c0-55aa-9733-65a3d08fcabd",
+        "value": "Pozno ponoči je šla Francka iz zadehle sobe in je stopila na prag.",
+        "words": [
+          "zadehle",
+          "zrak"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/8cbe5a97-47ae-550f-9400-e8e899a9e2d5",
+        "value": "Šinilo je mimo, tudi sladki vonj je mahoma izginil — vse je bilo pusto naokoli, ob tiru golo kamenje, grmičevje in žalostne samotne smreke.",
+        "words": [
+          "sladki",
+          "vonj"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/8da0b614-a4d4-51a6-9f69-87e4ba3ad316",
+        "value": "Francki je bilo težko in sladko; spala je nemirno; blago dišeč vzduh se je vzdigal zunaj iz vrta, iz doline, iz pokošenih travnikov in je plaval v sobo; iz vse tople noči je klicalo pritajeno, proseče — iz doline je klicalo, iz vrta, tam od plota, kjer se je širila senca visokega kostanja ...",
+        "words": [
+          "dišeč",
+          "blago"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/8fe3875a-4cfb-596f-bca1-945bf149ceda",
+        "value": "Čevljar, Mihov sosed in prijatelj, je sedel neprestano, od zgodnjega jutra, v umazani, zakajeni izbi, kjer je dišalo po špiritu in po slabem siru; nihče ni vedel, odkod je dobival denar — vsi, ki so zahajali sem, so bili berači, ali popivali so časih do pozne noči.",
+        "words": [
+          "umazani",
+          "izbi",
+          "zakajeni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/9958670e-1379-52a3-bd00-960958c8a607",
+        "value": "Ves skrivnosten in prazniški je bil ta šum — Francki je bilo, da stopa s sklonjenim životom in pobožno povešenimi očmi v veliko cerkev, kjer buče orgle in je zrak poln dišečega kadila.",
+        "words": [
+          "kadila",
+          "dišečega",
+          "poln",
+          "zrak"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/a0995293-1a61-5d6c-9420-32d7eca6af25",
+        "value": "Popil je bil že tri četrti kislega vina, ki je dišalo zoprno po špiritu, in glava mu je bila težka, po razbeljenem čelu mu je tekel mrzel pot.",
+        "words": [
+          "zoprno",
+          "dišalo",
+          "vina",
+          "po špiritu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/a4dfd743-a7ec-57ca-91f0-762f7971a776",
+        "value": "Tam je bilo drevje bolj košato, kostanji so že cveteli in če je zapihal veter, so padali na klop dišeči cvetovi.",
+        "words": "dišeči"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/a8bd0f03-b7af-53e5-bc25-c7ca197eb489",
+        "value": "Zazdelo se ji je celo časih, da se premika, da se vzdiga in da plava kleče — kakor v sanjah, kadar je mislila, da širi roke in da leti stoje preko rumenega pšeničnega polja, tako da se noge niti ne dotikajo klasja — in vse, cerkev, oltar, Mati božja na oltarju, vse je plavalo mirno in počasi navzgor, v megli dišečega kadila, izza katere so trepetale luči neštevilnih sveč.",
+        "words": [
+          "kadila",
+          "dišečega",
+          "ji",
+          " Mati božja na oltarju",
+          " cerkev ",
+          " oltar ",
+          "megli "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/b1e3b2b9-f056-52dd-adfd-46b5d71aa8b3",
+        "value": "Kostanji so šumeli in dišeči cvetovi so padali nanju.",
+        "words": [
+          "cvetovi",
+          "dišeči"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/ba2938ed-425a-502f-a762-33e9b94829eb",
+        "value": "Zrak je bil vroč in težak, kričali so, peli in popivali vso noč; tudi ženin se je upijanil in je plesal neprestano z vsemi ženskami.",
+        "words": [
+          "Zrak",
+          "težak",
+          "težak ",
+          " vroč"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/bee0a143-8c46-5f71-bdb4-4cdf1c1cd39a",
+        "value": "Krojač sam je stal na pragu, kadil je dišeče smodke in se je smehljal vljudno ljudem, ki so prihajali mimo, tako da jih je zavajal že njegov sladki obraz.",
+        "words": [
+          "dišeče",
+          "kadil",
+          "smodke",
+          "vljudno ljudem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/c207a578-2d77-58b2-94c2-d9c48f5d1559",
+        "value": "Skozi mala okenca so gledali neznani ljudje, časih je opazila Francka čudovit klobuk na glavi gosposke ženske, bilo ji je, kakor da je zadišalo sladko in opojno od teh lepih tujih ljudi, ki so nosili s sabo vonj daljnih krajev, kjer je sreča in veselje in bogastvo.",
+        "words": [
+          "tujih ljudi",
+          "ji",
+          "opojno ",
+          "zadišalo",
+          " opojno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/c78b8478-df8e-58ca-93c7-344d1c76178a",
+        "value": "Obrazi suhi, potni; mož sope na glas, napil se je bil žganja in leži z razgaljenimi prsmi, smrdeča sapa polni težki vzduh; otroci imajo starikave obraze, komaj so prišli iz zibke, pa se jim čelo guba, lezejo obrvi na oči, lica upadajo; žena ne spi, legla je, ali ko je bil zaspal mož, je vstala in sedi na klopi ob peči, kolena privzdignjena skoro do obraza, glavo oprto v dlani ...",
+        "words": [
+          "sapa",
+          "smrdeča"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/e380f03b-d049-5685-9c15-899617cbca27",
+        "value": "Kostanj je zašumel in velik dišeč cvet je padel mednja na klop; oba sta čutila, kako je bilo nekdaj, in nista mogla govoriti.",
+        "words": [
+          "dišeč",
+          "cvet",
+          "mednja na klop"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/e928fa4e-7707-5d21-843a-037974a93399",
+        "value": "Ko je ugledal rdeče, prijetno dišeče meso, so se mu zasvetile oči; jedel je molče in hitro, z levico je držal krožnik, kakor da bi se bal zanj.",
+        "words": [
+          "prijetno",
+          "dišeče"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/abf0f377-098e-5513-b418-9d5418ac6146",
+        "label": "Cankar, Ivan"
+      }
+    ],
+    "genre": [
+      {
+        "@id": "http://data.odeuropa.eu/genre/LIT",
+        "label": "Novels & poetry"
+      }
+    ],
+    "label": "Na klancu",
+    "url": "http://nl.ijs.si/imp/wikivir/dl/WIKI00401-1902.html",
+    "date": "1902",
+    "language": "sl"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6c22fc6b-e1d1-57c7-a253-774753518225",
+      "label": "1902",
+      "begin": "1902",
+      "end": "1902"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/93501/",
+      "label": "Mayzī"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/7494566f-cc14-500a-8e7f-7e6a7984ddd4/fragment/02a59162-da9b-52e5-a2c1-477d4efcadbc"
+}

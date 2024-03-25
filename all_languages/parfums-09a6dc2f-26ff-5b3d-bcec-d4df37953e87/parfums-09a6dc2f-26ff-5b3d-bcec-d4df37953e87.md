@@ -1,0 +1,293 @@
+## parfums
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/09a6dc2f-26ff-5b3d-bcec-d4df37953e87 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | parfums |
+| source.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/054005da-2913-52cb-bf36-5a4d1da715c4 |
+| source.excerpts.0.value | Les rues noires et tortueuses où les commères menaient si grand tapage , ainsi que celles qui les avoisinaient , les rues de la Truye qui File , des An - douilles , du Poisson Salé , et bien d ' autres , n ' étaient pas moins puantes et bourbeuses que les rues des autres villes .Les édiles , si sévères quant aux personnes , laissaient les tas de fumier , les détritus et les « bourriers » s ' étaler en paix au beau milieu des ruisseaux croupis où les grosses femmes braillardes enfonçaient leurs pieds qui en remuaient la puanteur .Ces « bourriers » facilitaient singulièrement la contagion de l ' épidémie , quand ils ne provoquaint pas la maladie elle - même . |
+| source.excerpts.0.words.0 | puanteur |
+| source.excerpts.0.words.1 | édiles |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/1465e344-d43d-5f00-8bb5-1e63b4450e7b |
+| source.excerpts.1.value | Tous deux s ' occupaient de fards , l ' un par goût naturel , l ' autre par devoir professionnel , car le médecin , à l ' époque , était plus souvent consulté pour la beauté du corps et du visage que pour la santé .Catherine de Médicis avait ramené d ' Italie la mode des cosmétiques et des parfums , et donné à ses fils l ' habitude de s ' oindre et de se peindre comme des femmes .Enfin , tous deux s ' adonnaient aux pratiques secrètes et sacrifiaient aux divinités païennes . |
+| source.excerpts.1.words.0 | parfums |
+| source.excerpts.1.words.1 | cosmétiques |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/15778aca-5c46-555b-9c43-f3bc55a16bb1 |
+| source.excerpts.2.value | Pline l ' indique déjà dans son chapitre XXXVIII .Afin de parfumer les fards , on faisait mastiquer des pastilles aux esclaves appelées « cosmètes » , qui avaient pour fonction de cracher .Avant de cracher , l ' esclave devait souffler sur un miroir de métal qu ' elle tendait à sa maîtresse afin que celle - ci la perfection diceluy . |
+| source.excerpts.2.words.0 | parfumer |
+| source.excerpts.2.words.1 | pastilles |
+| source.excerpts.2.words.2 | fards |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/17c70eef-e39d-52c0-94e8-dadf83e45b39 |
+| source.excerpts.3.value | Il se garde bien , d ' ailleurs , de rien démontrer .Mais , quand tu voudras retourner faire des prophéties , il te faudra prendre bonne quantité de semence de lin , avec racine d ' althe 1 , afin d ' en faire parfum et ramollir ton cerveau , car il est trop dur .. |
+| source.excerpts.3.words.0 | parfum |
+| source.excerpts.3.words.1 | semence de lin |
+| source.excerpts.3.words.2 | althe |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/19ffe8af-a5f8-57c9-b44e-b61813320479 |
+| source.excerpts.4.value | Nostradamus , en composant son Traité des Farde - ments , sacrifie au goût du temps , auquel Catherine de Médicis a inspiré l ' amour des cosmétiques et des parfums , et , de plus , suit les prescriptions de ses vieux livres orientaux .Les parfums ont toujours tenu une grande place dans les pays du Levant , et plus particulièrement en Egypte et en Assyrie .Il a dû emprunter à ses manuscrits ses principales recettes , en y ajoutant simplement les produits du Midi . |
+| source.excerpts.4.words.0 | parfums |
+| source.excerpts.4.words.1 | Assyrie |
+| source.excerpts.4.words.2 | Egypte |
+| source.excerpts.4.words.3 | les pays du Levant |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/223223eb-25c7-5515-8ddc-40dc023e06ae |
+| source.excerpts.5.value | Les rues sont traversées , de distance en distance , par des guirlandes de buis et de romarin d ' où pendent les armes de France et de Savoie .Le sol est couvert de sable de carrière et d ' herbes aromatiques .Les cloches des églises carillonnent , et , cependant , il n ' y a pas un seul cri de joie . |
+| source.excerpts.5.words.0 | aromatiques |
+| source.excerpts.5.words.1 | herbes |
+| source.excerpts.5.words.2 | sable de |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/227447ca-f376-5086-a190-cc9e37de1a03 |
+| source.excerpts.6.value | Et quand en voudrez user , mettez - en dedans la bouche bien petit comme ferait le poids de demi - escu .Nostradamus , en composant son Traité des Farde - ments , sacrifie au goût du temps , auquel Catherine de Médicis a inspiré l ' amour des cosmétiques et des parfums , et , de plus , suit les prescriptions de ses vieux livres orientaux .Les parfums ont toujours tenu une grande place dans les pays du Levant , et plus particulièrement en Egypte et en Assyrie . |
+| source.excerpts.6.words.0 | parfums |
+| source.excerpts.6.words.1 | Nostradamus |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/272aaac0-301f-5302-80ce-0f9b8b18da57 |
+| source.excerpts.7.value | Cette fois le venin lui semble fort particulier .Il épaissit le sang ; il est âcre et sort de la peau en pustules charbonneuses .Il provoque des gangrènes , et les malades , tout secoués par la fièvre , pourrissent dans leur lit . |
+| source.excerpts.7.words.0 | pustules |
+| source.excerpts.7.words.1 | charbonneuses |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/2b2d4f4a-235d-5c91-8bb9-873bcbd0cf0f |
+| source.excerpts.8.value | chrétien à la surface , païen peut - être au fond » .Païen , il le fut sans aucun doute , et il avait - l ' âme d ' un prêtre d ' Osiris quand , penché sur le bassin d ' airain , au milieu du parfum des cassolettes , il attendait l ' apparition de son génie familier .Depuis sa plus tendre enfance , l ' antiquité occupait son esprit . |
+| source.excerpts.8.words.0 | parfum |
+| source.excerpts.8.words.1 | prêtre |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/341017c0-497d-5f21-bd42-b8020beb40a2 |
+| source.excerpts.9.value | Mais , dès que la nuit a vaincu la lumière , les dieux antiques le reprennent .Nostradamus attise les feux des cassolettes où brûlent les parfums sacrés .N ' est - il pas lui - même un prêtre dans le temple de quelque divinité païenne ? Il trace autour de lui le cercle magique , puis s ' assied sur le trépied d ' airain et attend . |
+| source.excerpts.9.words.0 | parfums |
+| source.excerpts.9.words.1 | cassolettes |
+| source.excerpts.9.words.2 | sacrés |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/3a9de704-2201-5feb-8fa8-ba2f077bf61b |
+| source.excerpts.10.value | Et notez que ceste composition se fait après savon muscat , poudre de violettes , etc .Hormis la bonté et odeur que ceste composition rend aux choses , si est ce que vous en portiez à la bouche , elle vous la rendra tout le jour d ' une merveilleuse odeur ; ou si la bouche était puante ou par les dents corrompues ou par mauvaises vapeurs sortants de l ' estomach ou qui aurait quelque ulcère puante en sa personne ou bien quelque cas étrange , en tenir en peu à la bouche et en temps de peste s ' en servir souvent ; car ne se peut trouver odeur qui plustost déchasse le mauvais et pestiféré air .» Nostradamus surveille la préparation du remède , exécuté par l ' apothicaire « pur et sincère » Joseph Turel Mercurin , et tous ceux qui en prennent sont préservés de la peste , alors que les autres meurent immanquablement . |
+| source.excerpts.10.words.0 | puante |
+| source.excerpts.10.words.1 | mauvais |
+| source.excerpts.10.words.2 | odeur |
+| source.excerpts.10.words.3 | bouche |
+| source.excerpts.10.words.4 | air |
+| source.excerpts.10.words.5 | bonté |
+| source.excerpts.10.words.6 | tout le jour |
+| source.excerpts.10.words.7 | composition |
+| source.excerpts.10.words.8 | merveilleuse |
+| source.excerpts.10.words.9 | pestiféré |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/3c41fc0e-6924-5376-96c2-2708e4e9898d |
+| source.excerpts.11.value | Édit de 1454 .de gros ballots tout parfumés de l ' odeur des Iles , ou mouler la cire de Provence en beaux cierges fins qui s ' en allaient brûler dans les églises et cheminer , aux processions , entre les doigts des dévots .Ils avaient même des conservateurs de leurs privilèges , nommés par le roi ou le comte . |
+| source.excerpts.11.words.0 | odeur |
+| source.excerpts.11.words.1 | parfumés |
+| source.excerpts.11.words.2 | églises |
+| source.excerpts.11.words.3 | Iles |
+| source.excerpts.11.words.4 | ballots |
+| source.excerpts.11.words.5 | cire de Provence |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/412b9dcc-a154-515f-9801-f625a4f9a389 |
+| source.excerpts.12.value | Sur la table de travail , au milieu des livres , de l ' encrier , de là plume , du couteau et des parchemins vierges destinés aux pactes , la même tête de mort faite pour rappeler aux magiciens et aux initiés du grand art leur véritable condition , qui n ' est point d ' être personnes vivantes de chair tiède , mais squelette et crâne aux orbites vides .Le même parfum de palma - Christi et de menthe se dégageait des cassolettes .Des devises hébraïques étaient tracées sur le mur de gauche . |
+| source.excerpts.12.words.0 | parfum |
+| source.excerpts.12.words.1 | cassolettes |
+| source.excerpts.12.words.2 | menthe |
+| source.excerpts.12.words.3 | palma |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/4839a005-a387-5316-9bde-a076b38bd961 |
+| source.excerpts.13.value | Ces deux médecins astrologues n ' avaient rien des savants rébarbatifs et moroses qui se tiennent enfermés dans une tour d ' ivoire et vivent en anachorètes ; ils avaient mené leur existence dans un décor fastueux ; ils s ' étaient vus entourés de toutes les choses délicates que produit l ' industrie des hommes et que suscite leur désir de se faire remarquer des princes .Ils avaient dormi dans des chambres tendues de tapisseries de haute et de basse lisse , respiré le parfum des fleurs et des herbes aromatiques qui jonchaient les mosaïques polychromes des salles où glissaient les longues traînes des dames couvertes de voiles , entendu les plaintes langoureuses des violes d ' amour ; ils avaient disputé avec le roi le plus libéral du siècle , et rien n ' était plus loin d ' eux que le fanatisme .. |
+| source.excerpts.13.words.0 | parfum |
+| source.excerpts.13.words.1 | fleurs |
+| source.excerpts.13.words.2 | chambres |
+| source.excerpts.13.words.3 | herbes |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/4841d88f-5bbd-56b9-8ff8-c73b2f249068 |
+| source.excerpts.14.value | L ' idée était juste , mais le moyen employé fort insuffisant .Tous les efforts de Nostradamus durent tendre à remplacer ces bois et ces eaux de senteur par quelque matière volatile douée de plus d ' énergie .Mais le futur médecin , de nouveau , s ' éloigne de la ville : sa mule le porte à travers la campagne , et , sur son passage , c ' est comme une résurrection . |
+| source.excerpts.14.words.0 | bois |
+| source.excerpts.14.words.1 | senteur |
+| source.excerpts.14.words.2 | eaux |
+| source.excerpts.14.words.3 | matière volatile |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/62f4c3a4-8f6b-565f-af5e-e4a982a157bc |
+| source.excerpts.15.value | Les bocaux et flacons contenant les produits nécessaires aux combinaisons et mélanges du grand œuvre s ' alignent sur des planchettes .Dans une cassolette brûle le parfum de menthe et de palma - Christi qui chasse les mauvais esprits et les fantômes nuisibles .Partout l ' on voit , tracés sur 1 . |
+| source.excerpts.15.words.0 | parfum |
+| source.excerpts.15.words.1 | menthe |
+| source.excerpts.15.words.2 | cassolette |
+| source.excerpts.15.words.3 | palma |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/69902d15-53dd-5c00-ba94-4f64c2c97ecf |
+| source.excerpts.16.value | Ils sont faits 1 .Histoire et Chronique de Provence , par César Nostradamus pour deux personnes , mais on en a mis six , trois à la tête , trois aux pieds , qui doivent toujours rester sur le flanc , jamais sur le dos , car il n ' ont pas la place de bouger , et , dans leurs moindres mouvements , se cognent , se pincent s ' écorchent , en laissant échapper de dessous leurs gros draps trempés de sueur des odeurs fétides , infectes .On les a entassés là sans distinction d ' âge ni de sexe . |
+| source.excerpts.16.words.0 | infectes |
+| source.excerpts.16.words.1 | odeurs |
+| source.excerpts.16.words.2 | fétides |
+| source.excerpts.16.words.3 | Provence |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/6a9512ba-9911-5355-b773-4bd1d59a19ad |
+| source.excerpts.17.value | Ainsi , ce n ' est que d ' un ciel largement déployé devant soi que l ' on voit tomber ces feux que les philosophes appellent astres errants , et que ses petits camarades prenaient pour des étoiles se détachant du ciel .Nostradamus les détrompa : il leur apprit que c ' étaient des exhalaisons sulfureuses que le vent allume comme il allume le charbon .Il leur enseignait aussi que les nuées ne puisent pas dans I a mer , ainsi que le croit communément le vulgaire igno ' ant , mais qu ' elles étaient formées d ' un amas de vapeurs - lue l ' on voit s ' élever de terre par les temps de brouillard . |
+| source.excerpts.17.words.0 | exhalaisons |
+| source.excerpts.17.words.1 | sulfureuses |
+| source.excerpts.17.words.2 | Nostradamus |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/6b312ab9-b488-52f6-ba7e-ca4fd5acf939 |
+| source.excerpts.18.value | Trois fois Nostradamus répéta son invocation à l ' Éternel .Et il balançait lentement le miroir , de la main droite , au - dessus du réchaud d ' où montait la fumée odorante du safran .Quand sa prière fut terminée , il souffla trois fois sur le miroir et dit encore : Venez , Anaël , venez , et que ce soit votre bon plaisir d ' être en moi par votre volonté , au nom du Père Tout - Puissant + , au nom du Fils très sage + , au nom du Saint - Esprit très aimable + . |
+| source.excerpts.18.words.0 | odorante |
+| source.excerpts.18.words.1 | safran |
+| source.excerpts.18.words.2 | fumée |
+| source.excerpts.18.words.3 | fumée odorante |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/6f090b4a-0e87-5c6f-a288-31c4e89fe26e |
+| source.excerpts.19.value | Et gardez d ' en mettre guières ; car il suffit à chaque foys d ' en mettre la grosseur d ' un poix .Et pour garder que ne face point de mal aux dents à la longue , faites qu ' il soit toujours destrempé avec d eau odorante cy dessoubz escrite passée par la bouche .Nostradamus , d ' autres part , n ' oublie pas l ' amour . |
+| source.excerpts.19.words.0 | odorante |
+| source.excerpts.19.words.1 | il |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/760a04fd-de55-5e69-ae71-89e94b173cf9 |
+| source.excerpts.20.value | Au xvie siècle , « à Lyon , lorsqu ' on apercevait seulement ès rues les médecins , chirurgiens et barbiers esleus pour panser les malades , chascun courait après eux à coups de pierres pour les tuer , comme chiens enragés , criant qu ' ils ne devoyent aller que ^ de nui et .» rants , tels que le genévrier , le frêne ou l aloès et , quand le malade était riche , de l ambre et du musc qui dissipaient la puanteur de sa chambre .Certes , il ne niait point qu ' il importait de purifier l air ; il était même tout à fait persuadé que le principal était justement d ' en tuer la pestilence ; mais il ne pensait pas qu ' on le pût faire avec du musc et de l ' aloès , et qu ' il suffit d ' arroser les maisons d ' eau de rose additionnée de vinaigre pour que la peste perdît son venin . |
+| source.excerpts.20.words.0 | puanteur |
+| source.excerpts.20.words.1 | musc |
+| source.excerpts.20.words.2 | chambre |
+| source.excerpts.20.words.3 | aloès |
+| source.excerpts.20.words.4 | ambre |
+| source.excerpts.20.words.5 | genévrier |
+| source.excerpts.20.words.6 | frêne |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/8876e6cd-21dd-586d-bdc0-41ce06133e98 |
+| source.excerpts.21.value | Quand les propos devenaient par trop injurieux , celle qui les tenait était condamnée à une amende de dix sous ; si la coupable ne se trouvait pas en mesure de payer , elle devait s ' acquitter en nature : on lui attachait une corde sous les aisselles , et on la plongeait trois fois dans la rivière afin de lui rafraîchir le tempérament 2 .Les rues noires et tortueuses où les commères menaient si grand tapage , ainsi que celles qui les avoisinaient , les rues de la Truye qui File , des An - douilles , du Poisson Salé , et bien d ' autres , n ' étaient pas moins puantes et bourbeuses que les rues des autres villes .Les édiles , si sévères quant aux personnes , laissaient les tas de fumier , les détritus et les « bourriers » s ' étaler en paix au beau milieu des ruisseaux croupis où les grosses femmes braillardes enfonçaient leurs pieds qui en remuaient la puanteur . |
+| source.excerpts.21.words.0 | puantes |
+| source.excerpts.21.words.1 | rues |
+| source.excerpts.21.words.2 | bourbeuses |
+| source.excerpts.21.words.3 | rues des autres villes |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/8c55505d-cf40-5b09-a932-2f107c3d27df |
+| source.excerpts.22.value | Ce qu ' il met dans sa grosse pompe d ' étain n ' est - il pas tout simplement quelque puissant désinfectant , et ne faut - il pas voir en Nostradamus le père de l ' antiseptie ? C ' est bien probable .Jusqu ' alors , les médecins pressentaient qu ' il fallait purifier l ' air , et avaient cru y parvenir en faisant brûler des bois odoriférants .L ' idée était juste , mais le moyen employé fort insuffisant . |
+| source.excerpts.22.words.0 | bois |
+| source.excerpts.22.words.1 | air |
+| source.excerpts.22.words.2 | odoriférants |
+| source.excerpts.22.words.3 | médecins |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/8f82b692-899f-5ccd-a8f0-e3648b0c75f6 |
+| source.excerpts.23.value | Et ayez quelque petite pierre de marbre de la largeur d ' une heures , ou plus ou moins .Et quelque autre petite pièce de la grandeur et rotondité d ' une table d ' un tollier ; et le broyerez fort sur reconnût à l ' odeur si la salive était saine et parfumée à son goût .Le mot « fard » vient d ' ailleurs de « farda » , mot italien qui signifie salive . |
+| source.excerpts.23.words.0 | parfumée |
+| source.excerpts.23.words.1 | odeur |
+| source.excerpts.23.words.2 | salive |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/9723e19d-78a4-5816-a859-37e48d40c3fc |
+| source.excerpts.24.value | Et notez que pour noblement le dit sublimé préparer et à fin que la face soit de telle beauté qu elle ne soit faite que pour regarder et rendent le fard durable pour longtemps et subitement dans deux jours rendre un vinaigre noir ou brun , blanc comme fin papier , prendrez de céruse de Venise le poids de trois onces et la donnerez à un peintre qu ' il la broie fort sur son marbre avec d ' eau rose .Et quand elle sera bien broyée , vous la destremperez avec une livre et demye d ' eau rose ou quelque eau de bonne senteur .Et la mettrez dans une grande terrine de terre et la ferez un peu chauffer . |
+| source.excerpts.24.words.0 | senteur |
+| source.excerpts.24.words.1 | eau |
+| source.excerpts.24.words.2 | eau rose |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/a0164506-3f7c-579a-920e-0d143ae06a2d |
+| source.excerpts.25.value | Et y remettrez d ' autre .Et cela ferez six foys et à la dernière foys faites qu ' il soit de quelque bonne eau de rose odorante .Et qu ' il ne bouille que deux ou trois ébullitions . |
+| source.excerpts.25.words.0 | odorante |
+| source.excerpts.25.words.1 | eau de rose |
+| source.excerpts.25.words.2 | six foys |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/ab694421-4874-5664-8dcc-ee778075e3fe |
+| source.excerpts.26.value | Les nouvelles les plus sinistres étaient apportées ; la bête noire faisait rage aux alentours ; le nombre des victimes dont on l ' accusait dépassait l ' imagination .Toute l ' Université était sur les dents ; tous les médecins astrologues se plongeaient dans les plus profonds calculs afin de produire clairement au jour , suivant les règles et principes de l ' astrologie et des sciences surnaturelles , les causes de cette pestilence dont l ' air était infecté .Ils pensaient communément « que les astres , aidés des secours de la nature , s ' efforcent , par leur céleste puissance , de protéger la race humaine et , de concert avec le soleil , de percer par la force du feu l ' épaisseur des nuages » 1 afin de la guérir de ses maux . |
+| source.excerpts.26.words.0 | air |
+| source.excerpts.26.words.1 | infecté |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/acdf14d8-39d9-5032-a4bd-630ae06f2213 |
+| source.excerpts.27.value | Elle avait été le grand fléau du moyen âge ; elle ne devait pas davantage épargner la Renaissance .Pourquoi , d ' ailleurs , eût - elle disparu de France ? On lui ménageait de si bonnes retraites , on lui fournissait de si bons moyens de se propager et de se renouveler ! Les rues étaient encombrées d ' immondices qui pourrissaient en tas ou se liquéfiaient , embourbant jusqu ' au mollet les pieds qui s ' y aventuraient ; les égoûts engorgés exhalaient des souffles puants ; et la médecine , encore qu ' elle en fît l ' objet de ses plus constantes recherches , n ' avait guère trouvé autre chose pour en dompter la furie et en conjurer l ' enragement que de lui jeter de l ' eau bénite en prononçant de certaines paroles .Mais ce qui contribuait plus que toute autre chose à la répandre , c ' était « la terreur folle d ' un mal réputé implacable , tour à tour considéré comme une punition du ciel ou une émanation de l ' enfer 1 . |
+| source.excerpts.27.words.0 | puants |
+| source.excerpts.27.words.1 | immondices |
+| source.excerpts.27.words.2 | souffles |
+| source.excerpts.27.words.3 | égoûts |
+| source.excerpts.27.words.4 | souffles puants |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/b709d252-0114-5186-b4c5-561bef73994b |
+| source.excerpts.28.value | Là , il n ' était point de distinction : que l ' on fût papiste ou parpaillot , de quelque autorité ecclésiastique que l ' on se recommandât , elle tuait sans rien vouloir entendre .A cet enragement , Nostradamus opposait sa poudre désinfectante , dont la vertu était extraordinaire .Depuis quatre ans , il vivait en contact permanent avec l ' horrible fléau qui faisait fuir tous les gens et trembler les médecins , depuis quatre ans il plongeait dans son horreur , recueillait ses humeurs , respirait son haleine infecte , et ses miasmes corrompus . |
+| source.excerpts.28.words.0 | poudre |
+| source.excerpts.28.words.1 | désinfectante |
+| source.excerpts.28.words.2 | Nostradamus |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/bd6a4372-8bc7-55aa-b9e8-bfddb636c6cc |
+| source.excerpts.29.value | .l ' air sent l ' ail et le piment frit .Mais Nostradamus entre dans l ' église . |
+| source.excerpts.29.words.0 | air |
+| source.excerpts.29.words.1 | ail |
+| source.excerpts.29.words.2 | sent |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/be594080-619a-5c99-b7f3-7c030137bb3b |
+| source.excerpts.30.value | Mais écoutez - le plutôt nous en vanter les mérites divers et nombreux : Et je vous veux ici inscrire la composition que souvent ai fait faire pour Monseigneur le Révérendissime Evesque de Carcassonne , Monseigneur Ammanien de Fays , de laquelle il se sent la vie au corps : et pour ce que l ' âme , quant à la faculté de Médecine , n ' est autre chose qu ' une chaleur naturelle , et , défaillant la chaleur , défault la vie , par le moyen de cette composition la complexion mélancolique a esté changée en sang , combien que soient deux humeurs discrepantes dyamétralement de tous I ) oincts ; tout ainsi la fumée qui est matière chaude et humide si est ce que de premier instant se convertit en suie fuligineuse , qui est froide et seiche de la nature de la terre .Ainsi cette composition vient rajeunir le personnage qui en use : s ' il est personnage triste ou mélancolique le rend joyeux , allègre ; s ' il est homme timide , le rend audacieux ; s ' il est taciturne , le rend affable par le changement des qualités ; s ' il est homme malingre , le rend doux et lénitif , le commuant comme de l ' âge de trente ans ; s ' il commence que le poil de la barbe lui vienne gris , retarde la vieillesse de beaucoup , garde de la couleur non mye les ans , mais réjouit le cœur et toute la personne tant entièrement que le jour qu ' il en a pris , son estomac rendra une odeur , se sentira tant content sans es chauffer nature , sans nullement l ' altérer , préservant de douleur de teste , de mal de costé , augmente la semence spermatique en si grande abondance que l ' homme fait tout ce qu ' il veut sans soi fâcher ni altérer aucunement ; il conserve les quatre humeurs en telle symétrie et proportion que si l ' homme l ' avait en nativité , il ne pourrait avoir de uniment ; mais celuy qui nous a appris de naître aussi nous a appris de mourir 1 .Ainsi qu ' il le dit lui - même , il donna de cette incom - parable pommade , où se mêlait la poudre de lapis - lazuli à cllee de corail et aux feuilles d ' or , à l ' évêque de Carcassonne , qui en éprouva grand bien et en réclama plusieurs fois , ce qui obligea Nostradamus de se rendre chez les apothicaires . |
+| source.excerpts.30.words.0 | odeur |
+| source.excerpts.30.words.1 | estomac |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/be5e30fb-77bb-5c8b-af5d-e379776edfb8 |
+| source.excerpts.31.value | A cet enragement , Nostradamus opposait sa poudre désinfectante , dont la vertu était extraordinaire .Depuis quatre ans , il vivait en contact permanent avec l ' horrible fléau qui faisait fuir tous les gens et trembler les médecins , depuis quatre ans il plongeait dans son horreur , recueillait ses humeurs , respirait son haleine infecte , et ses miasmes corrompus .Et il avait toujours sa robuste santé , ses belles couleurs vermeilles , comme si la mort eût reculé devant lui . |
+| source.excerpts.31.words.0 | infecte |
+| source.excerpts.31.words.1 | son |
+| source.excerpts.31.words.2 | haleine |
+| source.excerpts.31.words.3 | miasmes |
+| source.excerpts.31.words.4 | ses |
+| source.excerpts.31.words.5 | Depuis quatre ans |
+| source.excerpts.31.words.6 | depuis quatre ans |
+| source.excerpts.31.words.7 | corrompus |
+| source.excerpts.31.words.8 | faisait fuir tous les gens et trembler les médecins |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/beb8e898-f596-507c-97ab-1a56fa50ff45 |
+| source.excerpts.32.value | Des pansements jaunâtres traînent dans la boue du plancher avec les épluchures , les flaques d ' eau sale et les déjections des malades .Les vases d ' étain ou de plomb qu ' on approche de leurs lèvres ne sont jamais récurés , et leur vue seule avec l ' odeur qui s ' en dégage , donne l ' envie de vomir .Une sueur aigre colle les uns aux autres tous ces corps entassés que recouvrent les draps . |
+| source.excerpts.32.words.0 | odeur |
+| source.excerpts.32.words.1 | vases |
+| source.excerpts.32.words.2 | lèvres |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/c4cf5693-42db-5752-9351-d8e1ada54590 |
+| source.excerpts.33.value | Ge vin provenait de leurs vignes , et cette huile de leurs champs .De ces champs , il y en a tout autour de Salon , car l ' olivier se plaît fort en cette sécheresse où meurent les graines potagères , et partout l ' on voit tourner des moulins dont les grosses meules écrasent les panerées d ' olives qui deviennent alors cette huile parfumée que les gens gardent chez eux dans de grandes jarres de terre blonde .Et les cigales font chanter les oliviers , cependant que l ' eau mousse aux barrages des moulins . |
+| source.excerpts.33.words.0 | huile |
+| source.excerpts.33.words.1 | parfumée |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/cae57943-92b7-59f9-9873-e543f595da86 |
+| source.excerpts.34.value | La composition de ces crèmes de beauté demande beaucoup de soin et d ' attention .Lisez plutôt la façon de faire « les fardements et senteurs pour illustrer et embellir la face » .Toute femme , même celle qui fait souvent enfant , se déchet tous les ans de cinq pour cent comme fait la cassia fistula pour bon temps qu ' elle aye . |
+| source.excerpts.34.words.0 | senteurs |
+| source.excerpts.34.words.1 | embellir la face |
+| source.excerpts.34.words.2 | illustrer |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/cc95141a-2871-5235-b2cb-c72e16a845a9 |
+| source.excerpts.35.value | .Nostradamus composera des pommades pour adoucir les feux des premières dents , et des confitures qui rafraîchiront les nourrissons et leur feront l haleine parfumée .Il compare en sa pensée les charmes les plus secrets de ses deux épouses , et à se souvenir de l ardeur amoureuse qui l ' a porté au lit de la première , il sent mieux combien il a vieilli . |
+| source.excerpts.35.words.0 | parfumée |
+| source.excerpts.35.words.1 | confitures |
+| source.excerpts.35.words.2 | haleine parfumée |
+| source.excerpts.35.words.3 | Nostradamus |
+| source.excerpts.35.words.4 | nourrissons |
+| source.excerpts.35.words.5 | rafraîchiront les |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/d5e71a7a-9fc6-5320-bcc1-0504c6218de6 |
+| source.excerpts.36.value | Ses poumons s ' emplissent de l ' air rustique et pur qui balaie les miasmes respirés dans les chambres puantes des malades .Mais cet air lui - même est empoisonné : il charrie la fièvre maligne que la funeste conjonction des astres a répandue sur la Provence .Comme une bête enragée , la peste suit le cours des rivières , et Nostradamus va la chercher là où il sait la trouver , car il entend bien se colleter avec elle , mais cette fois seul à seul , libre de ses actes , et n ' en devant rendre compte à personne . |
+| source.excerpts.36.words.0 | empoisonné |
+| source.excerpts.36.words.1 | air |
+| source.excerpts.36.words.2 | Provence |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/d7483eca-26e9-5b03-a6b6-752f3a0ef702 |
+| source.excerpts.37.value | Bientôt dame Anne Ponsart prend si bien l ' habitude de voir le jeune homme entrer auprès de son mari qu ' elle ne quitte même plus son rouet ou sa grande bassine à confitures quand Chavigny traverse la maison pour gravir , d ' une sandale légère , l ' étroit escalier en spirale qui mène au cabinet haut perché du maître .La demeure du médecin astrologue est tout embaumée de l ' odeur de fruits qui s ' échappe de la cuisine , et Anne a fort à faire avec toutes les compotes et les gelées de son mari .Le docteur , en effet , a toujours quelque nouvelle recette qu ' il veut expérimenter , ce qui fait une grande dépense de bassines , de pilons , de tamis et de vases que récurent les servantes , cependant que dame Ponsart emplit de petits pots qui s ' en vont rafraîchir les humeurs des bonnes gens de Salon et d ' ailleurs . |
+| source.excerpts.37.words.0 | odeur |
+| source.excerpts.37.words.1 | fruits |
+| source.excerpts.37.words.2 | embaumée |
+| source.excerpts.37.words.3 | cuisine |
+| source.excerpts.37.words.4 | demeure |
+| source.excerpts.37.words.5 | La demeure |
+| source.excerpts.37.words.6 | demeure du médecin astrologue |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/df5d112a-0d0d-5cdc-a35f-6b13c53748ee |
+| source.excerpts.38.value | De tant de termes savants , de dissertations , d ' arguments et d ' arguties , maintenant que l ' ennemi était dans la place , il ne sortait plus que quelques gestes vains , que Nostradamus jugeait fort incapables de juguler le fléau .Il fut bientôt las d ' ordonner , sous l ' ceil de ses maîtres , des fumigations faites avec des bois secs et odorifé - 1 .Au xvie siècle , « à Lyon , lorsqu ' on apercevait seulement ès rues les médecins , chirurgiens et barbiers esleus pour panser les malades , chascun courait après eux à coups de pierres pour les tuer , comme chiens enragés , criant qu ' ils ne devoyent aller que ^ de nui et . |
+| source.excerpts.38.words.0 | bois |
+| source.excerpts.38.words.1 | odorifé |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/e1982b12-7573-5804-adc4-18f9c376ca32 |
+| source.excerpts.39.value | Les riches ne dormaient plus .Ils pensaient à leurs jarres d ' où coulait l ' huile parfumée des olives , à leurs magasins pleins de cire et d ' épices .Qu ' iraient - ils faire sur les grands chemins ? Etait - ce leur place d ' errer comme des vagabonds par les routes innombrables , de s ' échauffer au soleil , de s ' enrhumer à la pluie ? Leur esprit subtil leur fournissait mille arguments . |
+| source.excerpts.39.words.0 | huile |
+| source.excerpts.39.words.1 | parfumée |
+| source.excerpts.39.words.2 | olives |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/e19b1443-8c33-5bbd-9d96-8916f2962958 |
+| source.excerpts.40.value | Il y reste plusieurs heures enfermé avec les malades , afin d ' étudier sur eux les effets de la peste .Quand il a achevé de se convaincre que la contagion se trouve répandue dans l ' air , il prescrit une poudre de senteur qu ' il a inventée et qui est , de son propre aveu , fort excellente , mais ne se peut faire qu ' une fois l ' an ., En voici - la composition , telle que Nostradamus lui - même la donne dans le chapitre VIII de son « Excellent et moult utile opuscule , à tous nécessaire qui désirent avoir connaissance de plusieurs exquises receptes » . |
+| source.excerpts.40.words.0 | excellente |
+| source.excerpts.40.words.1 | air |
+| source.excerpts.40.words.2 | poudre |
+| source.excerpts.40.words.3 | senteur |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/e2fd7793-a894-5afc-a6c1-e34d7703b6a2 |
+| source.excerpts.41.value | Or , quand nous voulions la mouvoir , et chaque fois qu ' on la consultait sur des choses cachées , voici ce qu ' il fallait faire .On la plaçait au milieu de la maison , purifiée partout par des parfums d ' Arabie , et on mettait simplement dessus un bassin rond composé de divers métaux , à la partie inférieure duquel étaient gravées avec délicatesse ; et à des espaces exactement mesurés , les vingt - quatre lettres de l ' alphabet .Là s ' arrêta , suivant la science des rites , après s ' être rendu favorable par des enchantements prescrits la divinité qui préside à la connaissance de l ' avenir , un homme vêtu d ' une robe de lin , chaussé aussi de brodequins de lin , la tête entourée d ' un turban de lin , et tenant à la main une branche de verveine , plante d ' un favorable augure . |
+| source.excerpts.41.words.0 | métaux |
+| source.excerpts.41.words.1 | parfums |
+| source.excerpts.41.words.2 | Arabie |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/ea25cadd-05fe-588a-8df4-31261a034763 |
+| source.excerpts.42.value | On les a entassés là sans distinction d ' âge ni de sexe .Et ils mêlent leurs maux affreux et différents , leurs fièvres , leurs abcès , leur tuberculose ou leur syphilis , se soufflant bouche à bouche leurs haleines puantes , bavant , souffrant , geignant , hurlant en tas , et en venant à se haïr d ' une si grande colère qu ' on en trouve parfois d ' étranglés .Des pansements jaunâtres traînent dans la boue du plancher avec les épluchures , les flaques d ' eau sale et les déjections des malades . |
+| source.excerpts.42.words.0 | puantes |
+| source.excerpts.42.words.1 | fièvres |
+| source.excerpts.42.words.2 | abcès |
+| source.excerpts.42.words.3 | tuberculose |
+| source.excerpts.42.words.4 | syphilis |
+| source.excerpts.42.words.5 | haleines puantes |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/f4fce1dd-3ae3-5db9-925c-b94fb9b99bbf |
+| source.excerpts.43.value | Le voici sur la grand ' route ; il se dirige du côté de de la Garonne ; il a franchi le pont - levis ; un fossé profond et de hautes murailles le séparent de cette ville damnée où il n ' y a plus que des cadavres dans les rues , des mourants dans les lits , des fous furieux partout , des femmes hurlantes , des fossoyeurs , des barbiers avec des bassins pleins de déjections , et des médecins vêtus comme pour une mascarade .Ses poumons s ' emplissent de l ' air rustique et pur qui balaie les miasmes respirés dans les chambres puantes des malades .Mais cet air lui - même est empoisonné : il charrie la fièvre maligne que la funeste conjonction des astres a répandue sur la Provence . |
+| source.excerpts.43.words.0 | puantes |
+| source.excerpts.43.words.1 | chambres |
+| source.excerpts.43.words.2 | miasmes |
+| source.excerpts.43.words.3 | poumons |
+| source.excerpts.43.words.4 | des malades |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/f9033a90-eaef-5ef0-b2ea-263e1820bd6c |
+| source.excerpts.44.value | Qu ' en votre Nom ils prient et agissent dans la droiture pour m ' instruire et me montrer ce que je leur demanderai .Sur un réchaud de fer vierge , garni de charbons ardents qui lui empourpraient le visage , il jeta le safran oriental dont le parfum attire Anaël et , poursuivant sa prière , il ajouta : Et ce , pour ce et avec ce que je verse devant votre face , ô mon Dieu , qui êtes tri - un , bon , et dans la plus sublime élévation , qui voyez au - dessus des chérubins et des séraphins , et qui devez juger les siècles par le feu , exaucez - moi .Trois fois Nostradamus répéta son invocation à l ' Éternel . |
+| source.excerpts.44.words.0 | parfum |
+| source.excerpts.44.words.1 | safran oriental |
+| source.excerpts.44.words.2 | Anaël |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/fff7cb6f-27af-5bdf-881a-73bed574f0a2 |
+| source.excerpts.45.value | Et celui qui est noir est aussi bon .Mais j ' en ai veu de couleur noire , qui estai naturel mais de odeur estait bastard quand au gris 1 .Nostradamus serait même passé par Argenton , où il aurait demandé à voir un nommé Pitard , qu ' on disait mort . |
+| source.excerpts.45.words.0 | odeur |
+| source.excerpts.45.words.1 | j |
+| source.excerpts.45.words.2 | estait bastard |
+| source.author.0.@id | http://data.odeuropa.eu/actor/9517c1e6-3f7b-5ef6-bc4e-5608193ec5a9 |
+| source.author.0.label | Paul  Louvet |
+| source.label | La vie de Nostradamus (4e édition) / par Jean Moura et Paul Louvet |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k97606467 |
+| source.date | 1930 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/710a0177-6088-5079-b0e0-940122488f28 |
+| time.0.label | 1930 |
+| time.0.begin | 1930 |
+| time.0.end | 1930 |
+| place.0.@id | https://sws.geonames.org/357994/ |
+| place.0.label | Egypt |
+| place.1.@id | https://sws.geonames.org/8378483/ |
+| place.1.label | Assyria (Roman province) |
+| place.2.@id | http://data.odeuropa.eu/place/3056f50d-ab79-5b8a-ab01-2df555e5c290 |
+| place.2.label | les pays du Levant |
+| relevantExcerpt | http://data.odeuropa.eu/source/6fbf2206-b999-50ec-972e-f256f85b7157/fragment/19ffe8af-a5f8-57c9-b44e-b61813320479 |
+| license | Public domain |

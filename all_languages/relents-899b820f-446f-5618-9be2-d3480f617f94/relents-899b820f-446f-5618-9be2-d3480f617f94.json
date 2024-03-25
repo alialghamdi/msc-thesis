@@ -1,0 +1,307 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/899b820f-446f-5618-9be2-d3480f617f94",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "relents",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/00423a7e-21d8-5689-a37f-a223fe60ef04",
+        "value": "Puis , ce sont des angles subits , saillants ou rentrants , des murailles renflées , ventrues , tassées , plantées sans souci d ' alignement , flanquées d ' encorbellements ; des seuils de porte ou des marches d ' escalier empiètent sur le passage .Parfois les maisons , l ' une vers l ' autre penchées , en un équilibre problématique , finissent par se toucher , formant des couloirs obscurs , bouchant le ciel , laissant , dans l ' étroite ruelle , flotter des parfums malodorants .Soudain , un coude brusque , au détour duquel surgit un escalier , montant ou descendant , aux marches raides , inégales , bossuées , visqueuses , accédant à un passage voûté , noir , inquiétant , où s ' ouvrent des enfoncements suspects , de ténébreux corridors , des allées profondes et mystérieuses , des portes crasseuses , entrebâillées , laissant filtrer un rais de lumière hésitante , donnant accès à des antres hypothétiques .",
+        "words": [
+          "parfums",
+          "maisons",
+          "malodorants",
+          "étroite ruelle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/05bd132b-4d31-5468-b061-edd83434fb00",
+        "value": "Et rien ne transparaît , en ce site merveilleux , des 102 VERS LE BLEU forts ni des bastions qui la protègent ; rien de farouche n ' altère du tableau l ' immarcescible sérénité , car les ouvrages de défense , comme timides en cette douceur , semblent dissimuler leurs môles sinistres , s ' enrober de vêtements joyeux , s ' enfouir , pudiques , sous la feuillée .Monts couronnés d ' ombrages verdoyants , collines vêtues de jardins fleuris , peuplées de maisons blanches ; vallons frais et parfumés , gorges profondes et vallées paradisiaques , parées de pampres , d ' arbres pompeux , d ' une végétation des pays du Soleil , — parc immense et prestigieux , — telle est la contrée bénie et magnifiante où règne Alger - la - Belle .I .",
+        "words": [
+          "parfumés",
+          "frais",
+          "contrée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/11d1ef68-cb51-52ab-a836-b0a790b59457",
+        "value": "Des antres s ' offrent là , exigus et encombrés , où se démènent , en danses caractéristiques , des aimées de rencontre ; où s ' égosillent , en chants originaux et d ' un charme barbare , des bardes indigènes à la voix nasillarde et gutturale .Rutilance et scintillements des féminins atours , sous les clartés fumeuses des lampes ; harmonies cacophoniques et singulières ; cohue indescriptible , noyée en la buée grise ; trémoussements et gesticulations symboliques et ahurissants ; atmosphère étouffante , irrespirable , supplice et indignation du nerf olfactif , — tel est , en gros , le tableau des contingences .En d ' autres locaux , moins tumultueux , opèrent des Aïssaouas , charmeurs de serpents , avec accompagnement d ' un sauvage orchestre saturé des sons criards 94 VERS LE BLEU d ' une flûte aigrissime et de crincrins écorchants ( 1 ) Puis , plus timides et moins en évidence , des repaires silencieux où les fumeurs de Kiff ( 2 ) se livrent en paix à leur dégradante passion .",
+        "words": [
+          "olfactif",
+          "irrespirable",
+          "étouffante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/14e41779-471e-5dff-a6c4-fa1b47fa8450",
+        "value": "C ' est ainsi que , dans le pays , on .désigne ces insectes piquants , mordants , démangeants , répugnants , insupportables ! Certaines personnes sont , plus que d ' autres , aptes à les recueillir , et il est parfois fort difficile de s ' en débarrasser .J ' ai connu des personnes à qui cette cir - 18 VERS LE BLEU constance néfaste avait rendu le séjour tout à fait odieux .",
+        "words": [
+          "insupportables",
+          "insectes",
+          "répugnants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/1ed28a40-6f84-5dac-837b-72db8b28b4b2",
+        "value": ".ou ailleurs ; des triperies gluantes exhalant des odeurs fades ; d ' innombrables débris d ' autopsies horribles et lamentables ; ..",
+        "words": [
+          "odeurs",
+          "fades",
+          "débris",
+          "gluantes",
+          "triperies gluantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/20125e55-c7b8-59a8-add8-2bd2e7c1ae49",
+        "value": "AUTOUR D ALGER 129 mense , savoureux et odorant bouquet d ' aubépines , dont le charme alliciant sollicite au repos .Puis , c ' est la dégringolade par le raidillon tortueux , sous le surplomb de haies luxuriantes où des figuiers , des lierres , des aubépines , des ronces concourent à qui mieux mieux à cimenter des murailles végétales , parfumées encore de plantes aromatiques se bousculant , en un struggle for life , à la conquête d ' un illusoire espace .Et c ' est le déboucher au fond d ' un vallon compliqué , où la venelle s ' entortille en méandres fantasques , en grimpades et en sursauts inopinés , côtoyant des jardins plantureux et coquets où de paisibles demeures sont tapies , emmi les fleurs et l ' opulence des arbres de luxe ; s ' insinuant sous des berceaux de fraîcheur où s ' aperçoivent , en contre - bas , à travers le rideau de charmilles , des prés verdoyants et fleuris , un ruisseau glougloutant , des bosquets ; rampant , plus loin , à flanc de coteau , avec , d ' autre part , le développement du versant opposé , tout en jardins , en bouquets d ' arbres , en maisons , en tohu - bohu végétal de choses de Nature ; — et , vers le fond , un éploiement d ' étendue , une ouverture d ' horizon allongeant , entre les collines , une vision d ' espaces vers la mer .",
+        "words": [
+          "plantes",
+          "parfumées",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/320be4d7-e410-5155-adc9-4aa0247cde6a",
+        "value": "Cela nous induit tout de suite à conclure que la Fête des moutons n ' est certes pas une fête pour les moutons ! Il y a quelques années encore , ces hécatombes avaient pour conséquence de transformer la Kasbah tout entière en un vaste et immonde charnier , les naturels ayant coutume d ' occire leurs victimes en pleine rue , devant leurs portes ! Ce n ' étaient alors qu ' amas horribles de dépouilles sanguinolentes , d ' entrailles et de résidus sans nom traînant partout , encombrant le passage , où le ruisseau charriait des flots de sang et d ' ordures écoeurantes ! Les mouches innombrables et la chaleur aidant , il en résultait un foyer inéluctable de pestilence , dispensatrice d ' épidémies et d ' une inénarrable infection ! Aussi l ' administration a - t - elle fini par prononcer un quos ego salutaire , en coupant court à cette pratique barbare , répugnante et nuisible .Cet ukase a même failli provoquer une émeute ! Quoi qu ' il en soit , c ' est à l ' abattoir commun que l ' on tue maintenant les moutons , et si , dans la Kas - ALGER 79 bah , il sent toujours assez mauvais , on n ' a plus à y subir que le parfum sut generis et coutumier , qui fait partie intégrante du caractère de l ' endroit .Et , finies ces flâneuses déambulations , en redescendant , par les petites rues animées ou solitaires , vers les centres de la vie européenne , on songe , avec mélancolie , que de l ' étrange cité d ' Orient il ne survivra bientôt plus que le souvenir ! .",
+        "words": [
+          "parfum",
+          "sut generis",
+          "assez mauvais",
+          "sent",
+          "la Kas - ALGER"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/39c1c3fb-9995-5496-bb9d-0b6ceb8de7af",
+        "value": "et d ' autres , et d ' autres .Ailleurs , ce sont des monceaux de vêtements : burnous , gandourahs , étoffes de soie rayée , ajustements de femmes , hardes neuves ou de rencontre ; des déballages de bimbeloteries , de bijoux , de maroquineries brodées : des pipes , des bracelets , des porte - monnaie , des couteaux , des pendants d ' oreilles ; — toute AU DESERT l8l la collection des affiquets compliqués des femmes indigènes : argent , cuivre , clinquant ; et des babouches , et de lourdes chaussures de cuir , exhalant une odeur forte de tannerie ; ..",
+        "words": [
+          "forte",
+          "odeur",
+          "chaussures",
+          "tannerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/3af80c1e-c7a6-59be-bb3d-a7d21161abf8",
+        "value": "40 VERS LE BLEU Tout autour , c ' est le luxe élégant des palmiers au stipe vigoureux , à la couronne archaïque et altière ; c ' est l ' exubérance luxuriante des bananiers , aux longues feuilles d ' un vert tendre et gai , dentelées , gracieuses , ondoyantes , s ' inclinant en courbes harmonieuses .Et ce sont des cactus , énormes , hérissés , orgueilleux ; et des buissons fleuris , aux suaves parfums , et de frêles arbustes aux feuillages étranges , et des halliers halliers et des plantes inconnues , et toute la mystérieuse beauté , et tout le charme divin , et toute les somptueuses et natives manifestations de la Nature , en sa fécondité de l ' âge d ' or ..",
+        "words": [
+          "suaves",
+          "parfums",
+          "plantes",
+          "buissons",
+          "cactus",
+          "arbustes",
+          "halliers halliers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/488d00e6-2634-54f0-ba08-456369b8b3b0",
+        "value": "Les yeux mi - clos , figés en une immarcescible béatitude , les plus ancestraux paraissent totalement abstraits de ce qui les entoure , ensevelis dans une torpeur voisine du sommeil : ils savourent le kieff , la somnolente oisiveté si chère aux Arabes .D ' autres , taciturnes ou devisant en rares paroles articulées à voix basse , fument la cigarette ou le chibouk , humant , par intervalles , l ' odorant kaoua ( 1 ) en de minuscules tasses de métal ou de faïence , placées à terre à leur portée .D ' autres encore , groupés en rond , jouent aux dés ou aux dames , ou manient des cartes , sortes de tarots cabalistiques ; mais l ' intérêt de la partie ne va jamais jusqu ' aux éloquences bruyantes , et n ' est point pour troubler la sereine placidité des joueurs .",
+        "words": [
+          "odorant",
+          "cigarette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/69606dd8-a59a-5c6a-be73-85565658d57e",
+        "value": ".Plus rien ne s ' aperçoit , vers les régions rocheuses , que les premières assises érigées en spectres noirs et bizarres , découpés sur le fond terne , monotone , de funèbres tentures endeuillées ; et la terre , et le désert ont disparu , ensevelis sous le linceul des ombres nocturnes , dont émergent , à peine perceptibles , vers les oasis du Vieux - Biskra , les masses opaques , con - 252 VERS LE BLEU fuses , plus sombres , des forêts et des bouquets de palmiers Tout est calme et tout est paix ; c ' est la trêve au labeur ; c ' est l ' heure où la Nature , assoiffée de repos , ne respire , en son recueillement , que lassitude , que langueur et que mélancolie Et la brise , plus douce , exhalant une haleine de fraîcheur , apporte du désert des senteurs embaumées Et c ' est enfin la Nuit , la nuit sereine , où les ultimes clartés de la Terre semblent peu à peu remonter vers la voûte éthérée ; la nuit douce et sans émoi , dont le manteau tutélaire enveloppe le Monde ! ..",
+        "words": [
+          "douce",
+          "haleine",
+          "senteurs",
+          "embaumées",
+          "brise",
+          "désert",
+          "oasis du Vieux - Biskra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/842e6f2f-9ed7-5396-8cc2-69bf5fe192c3",
+        "value": "Des arbres sont là , au mièvre feuillage tremblottant , enguirlandés de lianes et de tiges de grimpants rosiers , fleuris de toutes leurs roses , qu ' on dirait faites de chair nacrée , vermeille et odorante .S ' élançant de branche en branche en détours capricieux , ALGER 39 s ' enroulant en fantaisistes volutes aux troncs et aux ramures , formant d ' aériens bouquets , en l ' espace balancés , les sarments fleuris et fous de liberté répandent aux en tours l ' ivresse parfumée ! Puis , c ' est un petit lac , vêtu de plantes vertes , peuplé de touffes de roseaux qui sont des Papyrus .Tout est repos , en ce coin exquis et riant , et tout est fraîcheur .",
+        "words": [
+          "lac",
+          "sarments",
+          "ivresse parfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/9675fb54-d8af-582d-965f-7c5fad42f460",
+        "value": "Cela siffle , stride , grince , gémit ; cela tient par un bout au gros orteil du pied droit , tandis que s ' escriment les mains à l ' autre extrémité ; et cela sert à fabriquer des anneaux , des bracelets , des bagues , d ' autres menus objets en os ou en corne noircis .Tout au bout de la rue , sur un coin , s ' ouvre un renfoncement d ' où s ' échappent des relents graillonneux et malodorants .En cette fuligineuse officine s ' élabore la zelabia , friandise fort recherchée .",
+        "words": [
+          "relents",
+          "Tout",
+          "malodorants",
+          "graillonneux",
+          "renfoncement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/a527e207-8634-51d7-83db-f8d0569646e5",
+        "value": "Qu ' on se figure un réduit de quelques mètres en carré , blanchi à la chaux .Au milieu , sur un fourneau bas , une immense chaudière en ébullition , d ' où s ' échappe un épais nuage de vapeur et dont les émanations chatouillent assez agréablement l ' odorat .En ses flancs éructants retentissent des bouillonnements de tonnerre , des glouglous tumultueux et prometteurs , des bruits alléchants et de bon augure .",
+        "words": [
+          "émanations",
+          "odorat",
+          "chatouillent",
+          "assez agréablement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/a89cc4e6-1dec-55c6-bf1a-4c968471860f",
+        "value": "Celle - ci , à partir du Panier - Fleuri , se déroule en un panorama continu de sites prestigieux ; tantôt , accoudée au faste sévère des bois de pins drapés , en plis sombres , sur l ' escarpement ardu qui la borde à gauche , elle rampe , en frise , au - dessus d ' un entassement de vallons , de montagnes , de vallons encore , où la terre semble sursauter en vagues énormes , vêtues de vert , crêtées de vert , charriant des flots de vert ; en teintes , en tons , en nuances lumineuses , multiples à l ' infini , tendres , sévères , fondues , lavées ; dégradées aux distances , — avec , entre deux monts , une perspective embuée et lointaine sur la mer .Tantôt , elle s ' allonge entre deux talus d ' une effervescence débraillée où se condensent , en fouillis , cactus , agaves , fougères , ronces et lentisques ; où les lavendes , les thyms , les menthes poivrées , les sauges AUTOUR D ' ALGER 127 dépensent des énergies plantureuses en senteurs balsamiques .Plus loin , ce sont de riantes campagnes , en large envolée vers la droite , s ' inclinant , à gauche , en pente douce vers des prés fleuris , vers des vallonnements boisés , montueux , accidentés ; vers des déclivités indécises estompées en pâleurs où , vers les fonds surgit encore , en vision de rêve , le dévalement des blancheurs de Mustapha se mirant dans la baie bleutée , les moutonnements sylvestres , imprécis et floconneux qui ceinturent la mer et , au - dessus , toujours , en dominante austère et solennelle , la silhouette embrumée , vaporeuse , haut portée , de l ' Atlas neigeux , suspendue sur l ' horizon ! .",
+        "words": [
+          "senteurs",
+          "balsamiques",
+          "agaves",
+          "fougères",
+          "cactus",
+          "lentisques",
+          "thyms",
+          "ronces",
+          "sauges",
+          "ALGER",
+          "plantureuses",
+          "menthes poivrées",
+          "lavendes",
+          "AUTOUR"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/b842dc28-a6e2-5a77-9d06-125c0c375147",
+        "value": "Tout autour , le rocher est à pic , et l ' on accède en 156 VERS LE BLEU ville , au sortir de la gare , par un pont hardi et iéger qu ' on s ' obstine à appeler le pont d ' El Kantara , ce qui est un pléonasme , car en Arabe , el kantara veut dire : le pont .Le dit Kantara est jeté au - dessus de l ' abîme effrayant où coule le Rhummel , cours d ' eau torrentueux et malodorant , qui sert de déversoir à la ville .Il semble , aux âges préhistoriques , s ' être frayé un passage au sein des roches en quelqu ' effroyable cataclysme .",
+        "words": [
+          "malodorant",
+          "eau",
+          "cours",
+          "torrentueux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/b980b42f-aee8-5d8f-bbfb-20a084e32af5",
+        "value": "Ce sont des paquets , des amoncellements de tous les légumes d ' Europe , encombrant le pavé , emplissant la boutique , en un accord parfait de toutes les verdures potagères ; puis des tas d ' herbages inconnus , éléments abstrus de mixtures nationales .Des pyramides de fruits multicolores , partout érigées , émettent une senteur vineuse , font éclater des tons dorés , pour - ALGER 59 prés ; étendent des polychromies joyeuses , alléchantes .Aux murs pendent des chapelets d ' oignons , d ' aulx , des régimes de dattes ambrées , de brunes grenades , des bananes appétissantes ; des bottes de piments rouges , d ' énormes outres en peau de bouc .",
+        "words": [
+          "senteur",
+          "vineuse",
+          "ALGER",
+          "pyramides de fruits multicolores"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/baa5003c-8b3c-52c1-bd6b-8c4e33e39909",
+        "value": "Ce parc , rendez - vous et séjour habituel des étrangers et des touristes , est admirablement conçu et entretenu .Assez spacieux , et s ' étendant surtout en longueur , il déroule au regard d ' attrayantes perspectives , au sein des allées que forment et recouvrent les troncs bizarres et les opulentes ramures parfumées des gommiers , des mimosas , des caroubiers , les stipes originaux et les panaches ondoyants des palmiers , ..",
+        "words": [
+          "parfumées",
+          "palmiers",
+          "mimosas",
+          "ramures",
+          "gommiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/ce494459-6941-50f9-949d-ffd58f7ade02",
+        "value": "Et ce sont , derechef , d ' autres merveilles .Des arbres sont là , au mièvre feuillage tremblottant , enguirlandés de lianes et de tiges de grimpants rosiers , fleuris de toutes leurs roses , qu ' on dirait faites de chair nacrée , vermeille et odorante .S ' élançant de branche en branche en détours capricieux , ALGER 39 s ' enroulant en fantaisistes volutes aux troncs et aux ramures , formant d ' aériens bouquets , en l ' espace balancés , les sarments fleuris et fous de liberté répandent aux en tours l ' ivresse parfumée ! Puis , c ' est un petit lac , vêtu de plantes vertes , peuplé de touffes de roseaux qui sont des Papyrus .",
+        "words": [
+          "odorante",
+          "roses",
+          "chair",
+          "tiges de grimpants rosiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/d9c01cf5-968b-53aa-a7e6-a50208508034",
+        "value": ".Et la halle , pareillement , est bondée d ' étals surchargés de denrées , débordant jusque par terre ; d ' éventaires croulant sous le poids , sur lesquels des viandes sanguinolentes suscitent des idées de massacre , où des fumées suspectes dénoncent d ' écoeurants fricots .Et c ' est , en ces espaces restreints , sous la lumière blanche et le soleil qui cuit , une cohue grouillante , effervescente , bouillonnante , houleuse , indescriptible ; une intégrale synthèse de toutes les races du pays ; une étude ethnologique et démographique prise sur le vif ; une réédition de la biblique tour de Babel , où se pressent , se prélassent , se coudoient , se bousculent , en leurs costumes appropriés , en leurs manières d ' être habituelles , des Arabes de toutes les teintes , du blanc au noir , des Kabyles , des Touaregs , des Khroumirs , des métis , des Juifs , des nègres ; de curieux échantillons de femmes nomades ; tous les mercantis , les trafiquants et les caravaniers du désert , faisant valoir leurs marchandises en boniments verbeux et convainquants .",
+        "words": [
+          "sanguinolentes",
+          "halle",
+          "écoeurants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/dbba691f-daeb-5649-aeb0-33441e7fc3c3",
+        "value": "L ' endroit , du reste , est captivant .Aux lèvres du chemin , où se creuse la combe en un extravagant fouillis vert d ' où s ' exhalent des haleines de feuilles , se dressent en éventail de vieux troncs déjetés et tors , aux cassures lépreuses , attestant des luttes sauvages où les vents furent meurtriers .Surgissant , en ossatures de membres rabougris , aux moignons douloureux , d ' un broussailleux fourré où s ' entremêlent , enchevêtrés , de jeunes sarments issant de leur pied , des herbes folles , des fougères et des touffes d ' aloès , les troncs noueux se pavoisent , plus haut , de tentures de feuilles , de toutes parts déployées en effervescences vertes , rabattues en pans d ' ombrages , étalées en rideaux de fraîcheur , épaissies en voûtes de frondaisons vivaces et impénétrables .",
+        "words": [
+          "haleines",
+          "exhalent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/e566f89f-f281-5d76-b4d8-4bdec92bcce0",
+        "value": "Mais il faut voir les palmiers et surtout les gigantesques bambous , hauts et forts comme des arbres , qui décorent le Square Bresson , et forment là , en pleine ville , une véritable oasis délicieuse d ' ombre et de fraîcheur .Il faut aussi voir et revoir le Jardin Marengo , où l ' on peut passer de longues heures en douces et folles rêveries , parmi les allées ombreuses et les petits chemins sinueux , berceaux de verdure luxuriante et exotique , suave et parfumée .De ce séjour captivant , on ■ a peine à s ' arracher .",
+        "words": [
+          "Jardin Marengo",
+          "suave",
+          "parfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/f0ae5146-d3f4-56dc-8dcd-874cea045d49",
+        "value": "Graves et résignés , les boutiquiers , assis , attendent les chalands .Cordonneries exhalant une odeur forte et caractéristique .En un espace exigu , assis en rond sur le sol 58 VERS LE BLEU tapissé de couvertures et de nattes , les ouvriers confectionnent de solides chaussures arabes , sortes de pantoufles à l ' empeigne très évidée , larges et arrondies du bout , dénuées de talons ; des babouches plus coquettes , en maroquin jaune ou rouge ; de luxueuses bottes écarlates , enjolivées de pièces rapportées , sans pieds , et que l ' on chausse , telles des guêtres , rentrées dans le soulier .",
+        "words": [
+          "forte",
+          "odeur",
+          "caractéristique",
+          "Cordonneries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/f24e102a-9ce6-5365-9a6f-e9642766d021",
+        "value": "Puis , ce sont , de part et d ' autre , des parcs spacieux en parades d ' orgueil , où rivalise de coquetterie toute l ' aristocratie végétale : — palmiers , ficus et yuccas ; orangers , citronniers , mandariniers ; néfliers du Japon , caroubiers et figuiers ; mimosas et gommiers ; bananiers aux énormes feuilles dentelées et ondoyantes ; eucalyptus , lauriers , rhododendrons , acanthes gigantesques , magnoliers et vernis du Japon , — voisinant avec de monstrueux cactus , avec des parterres de floraisons somptueuses et multicolores .Et toute cette magnificence s ' étale en groupes , en massifs , en peuplements , en bosquets , ou en judicieux isolements ; et c ' est une orgie de couleur , une indicible profusion de fleurs , de fruits vermeils , de verdures en teintes innombrables , de parfums enivrants et suaves .Des pins élancés , des pins - parasols érigent çà et là AUTOUR D ' ALGER 123 des cîmes ténébreuses ; des lierres ambitieux ébouriffent des tignasses au long de troncs chenus ; des lianes flexibles , des rosiers grimpants , des pampres capricieux s ' enlacent aux ramures , balancent en l ' espace d ' élégantes paraboles fleuries .",
+        "words": [
+          "suaves",
+          "fruits",
+          "parfums",
+          "enivrants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/f73e08d4-6107-5bdf-b20c-6ca995d4a000",
+        "value": "d ' Afrique .AUTOUR D ALGER 129 mense , savoureux et odorant bouquet d ' aubépines , dont le charme alliciant sollicite au repos .Puis , c ' est la dégringolade par le raidillon tortueux , sous le surplomb de haies luxuriantes où des figuiers , des lierres , des aubépines , des ronces concourent à qui mieux mieux à cimenter des murailles végétales , parfumées encore de plantes aromatiques se bousculant , en un struggle for life , à la conquête d ' un illusoire espace .",
+        "words": [
+          "odorant",
+          "bouquet",
+          "savoureux",
+          "aubépines",
+          "charme",
+          "alliciant",
+          "AUTOUR D ALGER"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/7bdbf3a3-c824-514f-854a-7ac64a526342",
+        "label": "E A de Molina"
+      }
+    ],
+    "label": "Vers le Bleu, impressions algériennes... / E.-A. de Molina",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57897626",
+    "date": "1908",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9d001fb0-0fcf-545d-bb34-70893ca0ca62",
+      "label": "1908",
+      "begin": "1908",
+      "end": "1908"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6276785/",
+      "label": "Marj et Tout"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/5021c987-c2d2-5d4c-8a5a-ae3723f285ab",
+      "label": "renfoncement"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/000554ab-e222-5f73-885f-0871927f6bb4/fragment/9675fb54-d8af-582d-965f-7c5fad42f460",
+  "license": "Public domain",
+  "adjective": [
+    "graillonneux",
+    "malodorants"
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ce3be828-a0d4-5693-82d2-c4da53dfcd94",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "émanations",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/04c99575-00a7-5281-8cde-69950c20f7ec",
+        "value": "Ces cochons ont près de deux mètres de la queue au groin .Quand on entre dans le couloir sur lequel donnent les cases , l ' odorat est étrangement frappé par le mélange des odeurs alcooliques diverses .On se croirait chez un de ces liquoristes des boulevards extérieurs , où toutes les liqueurs en fûts laissent échapper leur parfum .",
+        "words": [
+          "odeurs",
+          "odorat",
+          "cases",
+          "couloir",
+          "alcooliques diverses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/0633957e-526f-5d99-abf3-e687a2cda4c2",
+        "value": "En .ce moment les démolitions de l ' Hôtel - Dieu embarrassent un peu la rue du Fouarre , mais cela ne gêne pas les danseurs : émanations de l ' hôpital ; ils en viennent ou ils vont y aller .Le Chalet .",
+        "words": [
+          "émanations",
+          "Hôtel - Dieu",
+          "rue du Fouarre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/0ef378ed-36bc-5cd5-a734-274e90df15e3",
+        "value": "La cuisine du soir répond à celle du matin .Des marmites s ' échappent des exhalaisons pleines de promesses .Les gamins reprennent leur travail ; l ' épluchage d ' un baquet de pommes de terre .",
+        "words": [
+          "exhalaisons",
+          "marmites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/11827de9-e662-5bc5-9e8d-3003abe67a30",
+        "value": "Depuis que je suis au monde , j ' entends dire que les ouvriers sont malheureux .La récolte manque - t - elle ? On s ' écrie : — Comment va manger l ' ouvrier ? Fait - il froid ? - - Comment va faire l ' ouvrier ? Démolit - on un quartier puant et malsain : , — - Où va loger l ' ouvrier ? etc .84 PARIS HORRIBLE J ' estime particulièrement l ' ouvrier , le bon ouvrier surtout , celui qui fréquente l ' atelier et non l ' assom , moir ; je le coudoie souvent de près , et je serre de bon coeur sa main rude .",
+        "words": [
+          "puant",
+          "malsain",
+          "quartier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/1326ff61-2cf8-5e3b-b62d-ee50d2195af6",
+        "value": ".Dès qu ' on met le pied sur la porte , l ' odorat est affecté par une étrange odeur , un mélange sans nom dans lequel dominent tour à tour la graisse rance , le moisi , et cette émanation indéfinissable et écoeurante que connaissent tous ceux qui sont entrés dans une chambrée de caserne .En même temps une buée grasse et humide , trouée seulement à certains points , par la flamme crue des becs de gaz , s ' épaissit devant les yeux .",
+        "words": [
+          "odeur",
+          "odorat",
+          "émanation",
+          "indéfinissable",
+          "étrange",
+          "moisi",
+          "écoeurante",
+          "graisse",
+          "chambrée de caserne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/1f3c8b86-56c1-5667-8ff9-0d9580fd5084",
+        "value": "Ah ! oui , l ' odeur .Et 76 PARIS HORRIBLE pourtant vous l ' avez déjà ressentie cette odeur , quand vous avez visité avec moi les cités de la Route de la Révolte ..",
+        "words": [
+          "odeur",
+          "vous",
+          "cités",
+          "Et 76 PARIS HORRIBLE",
+          "Route de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/23a3a5b1-dac4-54d4-b302-dd7b992e5d7a",
+        "value": "' Là , vous trouverez , à votre gré , des îlots entiers de j gigantesques cahutes , de cages à dix étages dont le I Lapon et l ' Arabe ne voudraient à aucun prix .Lessentiers de communication y sont remplacés par des j mares puantes ; et ces cloaques étroits sont obscuréj ment encaissés entre deux rangs de forteresses l suantes et brûlantes ; espèces de sombres repaires qui I recèlent dans leurs implacables profondeurs , les mil sères de toute une population .\\ Ahl Paris n ' est pas seulement le Paris brillant , \\ pimpant , viveur et tapageur du boulevard des ! Italiens , de l ' avenue de l ' Opéra et des Champs - Ely \\ sées ; il renferme aussi le Paris désolé , affamé , désesl péré , effroyable , des quartiers sombres , infects et f moisis , où des milliers d ' êtres humains , sans feu ,sans pain , sans force et sans espoir , végètent , en atî tendant la fin , dans une atmosphère de pestilence et l de malédiction .",
+        "words": "puantes"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/2f8ca612-e856-57a9-ba99-d49771fc1850",
+        "value": "Mais là , on se trouve en opposition avec les ivrognes qui tiennent au goût spécial de leur liqueur favorite .N ' entendez - vous pas , par exemple , vanter le parfum de l ' eau - de - vié de marc ? Or , ce parfum est un poison I MM .Dujardin et Audigé ont fait des expériences pour classer les divers alcools dans l ' ordre de leur puissance toxique .",
+        "words": [
+          "parfum",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/300569fd-e43d-5bee-b29a-f16aa0b7aafd",
+        "value": "Naturellement aussi ce sont les « dames » qui règlent les dépenses de leurs « hommes » , et il n ' est pas rare d ' entendre un cavalier dire à sa danseuse après une valse : — Et maintenant , qu ' est - ce que tu m ' offres ? On parle des odeurs infectes de Paris .Que dirait - on donc si l ' on allait passer quelques minutes seulement dans un bal comme celui - là , où , dans une atmosphère surchauffée par le gaz , s ' agitent , dansant sur les mains , sur le dos , sur la tête , trente couples dont la propreté n ' est pas la qualité dominante et où les vapeurs du punch et du vin chaud , la fumée de la pipe , le saucisson à l ' ail et l ' huile rance du plancher mêlent fraternellement leurs effluves ? Et pourtant il y a là souvent des enfants , des bébés , que leurs mères — des fillesmères — de quinze , seize , dix - sept ans au plus , apportent , les confiant à une amie pour aller danser , s ' asseyant avec eux à la table , et quelquefois , quand ils crient , faisant taire leurs plaintes avec une cuillerée de gros bleu ou de vin à la française ! ..",
+        "words": [
+          "effluves",
+          "bal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/33f26e99-f641-5632-838d-7cbd49ee0326",
+        "value": "ET PARIS ORIGINAL 75 De tous côtés , par la rue de Gharonne , par le faubourg , par la rue de Vaucanson , par la rue Crozatier , les chiffonniers arrivent .Ils ploient sous le fardeau des hottes , remplies de détritus dont l ' odeur lès précède ; ils vont d ' une marche rendue vacillante par l ' éreintement d ' une nuit , passée à courir à travers les rues , se penchant mille fois avec leur lourd fardeau , pour explorer les tas d ' ordures .Les reins sont brisés , les jambes endolories ; au bout du bâton sur lequel la main , machinalement , se cramponne , la lanterne se balance , lançant , une lueur indécise et mourante .",
+        "words": [
+          "odeur",
+          "détritus",
+          "une nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/3e05e977-f89d-5f30-b47f-ba88a003a9f6",
+        "value": "Les autres tours ne sont pas plus surnaturels .» Pour les allumettes brûlées soùs le nez , mademoiselle Mariani aspire le plus d ' air qu ' elle peut , et , pendant que le soufre fume , elle exhale tout doucement cet air , de sorte que l ' odeur ne peut lui entrer dans les narines .Pour l ' allumette tenue devant l ' oeil , elle fixe un point devant elle , et elle est d ' une volonté assez énergique pour ne pas broncher .",
+        "words": [
+          "odeur",
+          "air",
+          "elle",
+          "exhale",
+          "allumettes brûlées",
+          "mademoiselle Mariani"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/3f3f909f-d4a3-53f0-a8be-d87e60e6f6ad",
+        "value": "Nous restions là des journées entières , inactifs , et n ' osant sortir , car le patron nous avait prévenus que s ' il arrivait quelque chose à faire , ceux qui seraient dehors n ' auraient rien .Et puis , il faisait froid , et on avait un poêle en fonte qui remplissait le bureau d ' émanations malsaines .Ce n ' était pas tout .",
+        "words": [
+          "malsaines",
+          "émanations",
+          "bureau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/4433f380-d0e2-50f5-993c-3de60d22d55e",
+        "value": "Naturellement les danseurs du lieu ne se contentent pas delà consommation réglementaire à laquelle leur donne droit leur entrée .Naturellement aussi ce sont les « dames » qui règlent les dépenses de leurs « hommes » , et il n ' est pas rare d ' entendre un cavalier dire à sa danseuse après une valse : — Et maintenant , qu ' est - ce que tu m ' offres ? On parle des odeurs infectes de Paris .Que dirait - on donc si l ' on allait passer quelques minutes seulement dans un bal comme celui - là , où , dans une atmosphère surchauffée par le gaz , s ' agitent , dansant sur les mains , sur le dos , sur la tête , trente couples dont la propreté n ' est pas la qualité dominante et où les vapeurs du punch et du vin chaud , la fumée de la pipe , le saucisson à l ' ail et l ' huile rance du plancher mêlent fraternellement leurs effluves ? Et pourtant il y a là souvent des enfants , des bébés , que leurs mères — des fillesmères — de quinze , seize , dix - sept ans au plus , apportent , les confiant à une amie pour aller danser , s ' asseyant avec eux à la table , et quelquefois , quand ils crient , faisant taire leurs plaintes avec une cuillerée de gros bleu ou de vin à la française ! .",
+        "words": [
+          "Paris",
+          "infectes",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/48018bf1-9bb3-59d5-bb84-1ae77e8f39a4",
+        "value": "Quelle différence avec l ' antichambre du bureau pour les domestiques : là - bas on est gai , on rit , on jacasse .Les petites bonnes au bonnet à rubans roses , les cuisinières au nez rougi , les cochers guindés dans leur cravate , les valets de chambre bien pommadés et « sentant bon » avec les parfums de leurs maîtres , s ' amusent comme des dieux .G ' estpresque une réunion , et plus d ' une cuisinière revenant du marché , y monte sans autre motif que de venir tailler une bavette .",
+        "words": [
+          "bon",
+          "parfums",
+          "sentant",
+          "cochers",
+          "cuisinières",
+          "valets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/567dbedb-cf54-5ae2-97d9-bd5c881be903",
+        "value": "Elle mérite qu ' on s ' y arrête .Noire et puante , elle ren - 18 PARIS HORRIBLE chérit en hideur sur tous les autres amas de masures de la contrée .Je ne crois pas qu ' aucun des anciens bouges de la Cité l ' ait jamais dépassée en ignominie .",
+        "words": [
+          "puante",
+          "contrée",
+          "hideur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/56b902ae-d452-530a-a9e2-4db1db430369",
+        "value": "Il est rare en effet de voir une fille à peu près propre dans cette rue .Toutes sont des maritornes sur le retour , alcoolisées , abruties , fumant comme des Suisses et bourrant leur nez de tabac .Dans la triste maison à gros numéro qui orne la rue , c ' est pis encore .",
+        "words": [
+          "tabac",
+          "nez",
+          "fumant",
+          "bourrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/56d8693f-23fc-52e6-98ad-38173b799d41",
+        "value": ".puis , avec l ' odeur de l ' alcool , on sent l ' odeur de la porcherie ..",
+        "words": [
+          "odeur",
+          "alcool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/729c7bf7-45b9-50c7-99d9-ec400e19fac4",
+        "value": "Faute d ' argent , ceux qui avaient jusqu ' à présent PARIS HORRIBLE eu un chez soi l ' avaient abandonné , et avaient établi leur domicile dans la salle où nous travaillions .Quand on ouvrait les pupitres , il se répandait aux alentours une affreuse odeur de fromage ranci et d ' eau - de - vie de marc qu ' on y serrait entre une chemise sale et une paire de souliers éculés .» On ne transforme pas impunément une chambre en étable humaine .",
+        "words": [
+          "odeur",
+          "affreuse",
+          "eau",
+          "ranci",
+          "vie de",
+          "fromage ranci"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/772a89d9-279b-5a84-99d6-00b222f8217c",
+        "value": ".Avez - vous vu dans les petites rues borgnes , ces écussons peints en vermillon , à droite et à gauche de la porte bâtarde d ' une allée humide , noire et puante ? On y a collé une demidouzaine de petits carrés de papier multicolores , où , avec une déplorable orthographe , on demande « un segrélaire , à 2 , 000 francs , — un teneur de livres , 1 , 800 francs , — un caissier de 3 à 4 , 000 , — plusieurs employés de bureau , — une demoiselle de compagnie — et des jeunes gens logés chez leurs parents .» ET PARIS ORIGINAL 105 Remarquez en passant que ces petits papiers sont toujours les mêmes .",
+        "words": [
+          "puante",
+          "allée",
+          "petites rues borgnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/905723a3-5e4b-5acf-bda2-1f4ea5f3a4e1",
+        "value": ".L ' odeur vous fait reculer à dix pas de distance .Comment peut - on vivre là ? Comment , aux premières chaleurs , le choléra ne fait - il pas table rase ? C ' est inconcevable , surtout quand on songe que ces malheureux ne se soutiennent que par le vitriol et le campêche , — eau - de - vie et vin , à deux sous le grand verre , — qui leur brûlent l ' estomac ! Comme on le voit , ce n ' est point à sa belle situation que la cité doit son nom .",
+        "words": [
+          "odeur",
+          "fait reculer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/9094ffcf-bb00-56e8-b82b-a700a6d7167b",
+        "value": "Attendez ; n ' entrez pas si vite .Ne voyez - vous pas ? Ne sentez - vous pas ? Ah ! vous vous plaigniez tout à l ' heure des senteurs du cuir à demi tanné : Effluves printanières , brises embaumées à côté des odeurs de la Cité Jeanne - d ' Arc .Mais regardez donc ! Les impasses , les allées , depuis longtemps dépourvues de paA ' és , ne forment que des canaux de boue liquide .",
+        "words": [
+          "cuir",
+          "senteurs",
+          "odeurs",
+          "embaumées",
+          "printanières",
+          "brises",
+          "tout à l ' heure",
+          "Effluves",
+          "Cité Jeanne - d ' Arc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/946cf708-e5db-5b4a-b0d1-6fce886ff35d",
+        "value": "La plus éthérée en apparence ne demande qu ' une occasion pour faire réapparaître son fond de caractère voyou .La caque sent toujours le hareng .Entre toutes , en dépit de l ' auréole dont on lui a ceint la tête , la Parisienne est peut - être celle qui se prête le moins à la transformation en grande dame .",
+        "words": [
+          "hareng",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/9ae9e6c8-a1cd-58af-b002-1f53babbc873",
+        "value": "Il faut donc autant que possible faire disparaître ces huiles : c ' est ce qu ' on appelle épurer ou rectifier le produit .Mais là , on se trouve en opposition avec les ivrognes qui tiennent au goût spécial de leur liqueur favorite .N ' entendez - vous pas , par exemple , vanter le parfum de l ' eau - de - vié de marc ? Or , ce parfum est un poison I MM .",
+        "words": [
+          "spécial",
+          "goût",
+          "ivrognes",
+          "liqueur favorite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/9fefcce5-2a5e-58d6-a4e4-6a6bd5ac1bde",
+        "value": "Un joli nom , cettefois , — pour une bien laide chose .Nous suivrons l ' avenue des Gobelins , toute remplie des senteurs caractéristiques des tanneries voisines , et nous prendrons , sur la place d ' Italie , — hier un coupe - gorge hideux , aujourd ' hui un square magnifique , — le boulevard de la Gare , jusqu ' à la rue Jeanned ' Arc .Pas beau déjà ce boulevard de la Gare .",
+        "words": [
+          "senteurs",
+          "square",
+          "tanneries voisines",
+          "avenue des Gobelins",
+          "boulevard de la Gare",
+          "place d ' Italie",
+          "rue Jeanned"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/b02c573b-5dd1-503e-83a4-f4a2ba7bdb4c",
+        "value": "Le poivre et la moutarde déterminèrent une dartre dans les fosses nasales .Le médecin appelé par lés parents prescrivit des cataplasmes émollients ..",
+        "words": [
+          "cataplasmes",
+          "émollients",
+          "médecin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/c69cfae8-e293-5ecc-ac14-2854b5c1b1bf",
+        "value": "Quand on entre dans le couloir sur lequel donnent les cases , l ' odorat est étrangement frappé par le mélange des odeurs alcooliques diverses .On se croirait chez un de ces liquoristes des boulevards extérieurs , où toutes les liqueurs en fûts laissent échapper leur parfum ..",
+        "words": [
+          "parfum",
+          "leur",
+          "liqueurs en",
+          "des boulevards extérieurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/d79bdf70-e186-5f94-a90a-6f154d26af3e",
+        "value": "Elles aussi sont sur les portes , bravant la pluie et le froid , les pieds dans la boue , appelant du doigt et de la voix les quelques ivrognes qui s ' égarent dans la rue .Car il faut être ivre ou bien poussé par la curiosité pour pénétrer dans ces tristes tanières où l ' humidité suinte sur les murs et où dès la porte l ' odeur de moisissure vous prend à la gorge .Dans la rue des Etuves , c ' est du haut d ' une lucarne par laquelle elles passent la tête , que les femmes vous appellent .",
+        "words": [
+          "odeur",
+          "tanières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/dfc2ed51-bbd5-565d-bfb7-8d971eb50adc",
+        "value": ".Eh ! bien , faut - il le dire ? Ce mélange est infiniment moins écoeurant que l ' atmosphère sui generis de certains cafés - brasseries , à une heure du matin , quand depuis de longues heures , l ' ail des saucissons et la vapeur de 180 PARIS HORRIBLE la choucroute se mêlent à la fumée des pipes et aux exhalaisons méphitiques que produit l ' agglomération .Mais je reviens à mes .",
+        "words": [
+          "atmosphère",
+          "exhalaisons",
+          "méphitiques",
+          "écoeurant",
+          "cafés",
+          "brasseries",
+          "depuis de longues heures",
+          "une heure du matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/ea17aa15-f715-5131-bc01-624818e6231f",
+        "value": "Il porte quelquefois une redingote et des gants .Il est bien peigné , bien brossé , il peut sentir la bergamote ..",
+        "words": [
+          "sentir",
+          "bergamote"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/f42ff5a5-cebd-5283-90fd-52f26514c1bf",
+        "value": "Ils déjeunent .Une bonne odeur de rata s ' exhale de leurs assiettes en grosse faïence à fleurs * cette faïence dé campagne dont les naïves peintures réjouissent l ' oeil .C ' est plaisir de les voir manger à discrétion , — car ici , on ne les rationne pas .",
+        "words": [
+          "bonne",
+          "odeur",
+          "assiettes",
+          "rata"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8100832f-c700-545e-870b-1f80820ed7b9",
+        "label": "Georges  Grison"
+      }
+    ],
+    "label": "Paris horrible et Paris original / Georges Grison",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57732556",
+    "date": "1882",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/260c497d-a092-5af7-b2cf-cfe26f14f0f6",
+      "label": "1882",
+      "begin": "1882",
+      "end": "1882"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8505019/",
+      "label": "Rue du Fouarre"
+    },
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/embarrassment",
+      "label": "embarrassment"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0cf29be2-c1eb-5497-bc99-b574c15abf12/fragment/0633957e-526f-5d99-abf3-e687a2cda4c2",
+  "license": "Public domain"
+}

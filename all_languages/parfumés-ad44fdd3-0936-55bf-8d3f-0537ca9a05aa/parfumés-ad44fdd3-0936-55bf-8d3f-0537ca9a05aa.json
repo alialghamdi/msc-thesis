@@ -1,0 +1,1680 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ad44fdd3-0936-55bf-8d3f-0537ca9a05aa",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumés",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/01213f30-cb9c-5c8a-bc17-667a952baf50",
+        "value": "Les plants doivent être espacés les uns des autres , de 0m , 75 à 1 mètre en tous sens .Les feuilles et les semences des daturas constituent des calmants et des narcotiques puissants .Leur action est due à la daturine qu ' ils contiennent .",
+        "words": [
+          "narcotiques",
+          "feuilles",
+          "puissants",
+          "calmants",
+          "semences des daturas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/02a4e928-1bf1-5a5a-a06b-eb4b6516ed88",
+        "value": "5 ° Le copalme d ' Orient est fourni par le Liquidambar orientale , qui croît dans l ' Asie Mineure , à l ' île de Chypre .Le parfum de la résine qu ' on en extrait rappelle celui de la vanille .Ce produit est liquide et constitue aussi le copalme ou storax fluide .",
+        "words": [
+          "résine",
+          "parfum",
+          "vanille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/02e6ed1c-6cc7-5b09-83f0-8aa70a6cea0c",
+        "value": "Le prix de la poudre de deuxième choix vaut de 55 à 60 francs .Par la torréfaction , la chicorée acquiert un arome qui rappelle celui du café brûlé .Elle est brun rougeâtre , un peu odorante avec une saveur amère ; mais son parfum , quoique très agréable , n ' a pas la finesse délicieuse que possède le café en poudre .",
+        "words": [
+          "chicorée",
+          "arome",
+          "café brûlé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0391789d-e86b-5e0d-a265-1acdd2d0c76e",
+        "value": "Le Thuya articulata ou Gallitris quadrivatvis est un arbre pyramidal .La résine dont son bois est imprégné a une odeur pénétrante qui rappelle un peu celle du camphre .Il existe aussi en Algérie et dans l ' Atlas .",
+        "words": [
+          "bois",
+          "résine",
+          "pénétrante",
+          "odeur",
+          "camphre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/04216f36-880b-53b8-9aa0-a4956006bb38",
+        "value": "Ses feuilles sont composées de 4 à 8 paires de folioles .Ses fleurs , blanches et odorantes , sont pédicellées et à capitules pédon - culés .Ses gousses sont larges , planes et linéaires .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/08a67f7f-5636-5686-8d46-d906bc96d595",
+        "value": "La poudre pure de café flotte sur l ' eau ; celle à laquelle on a mêlé de la poudre de chicorée tombe en partie au fond du liquide .La poudre qui provient de cafés qui ont été lavés ne donne jamais une infusion ayant un goût prononcé , une saveur agréable et aromatique .Succédanés du café .",
+        "words": [
+          "aromatique",
+          "agréable",
+          "infusion",
+          "saveur",
+          "cafés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/08b5027f-97f0-53b0-9784-390d90742766",
+        "value": "Ce dernier est le plus abondant dans le commerce ; son odeur est forte et sa saveur est amère .Le baume du Pérou est employé par la médecine , la confiserie et la parfumerie .2 .",
+        "words": [
+          "baume",
+          "parfumerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/08edfc7d-df88-50d5-8dea-2ab6206a6732",
+        "value": "3 ° La troisième classe comprend les petunoïdes , espèces velues et visqueuses , à fleurs blanches , à corolle en tube cylindrique divisé en lobes aigus ou obtus .1 ° Tabac odorant .( Nicotiana suaveolexs , Leh .",
+        "words": [
+          "Tabac",
+          "odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/09074679-f942-53e6-bc6a-8cf050a24bc0",
+        "value": "La multiplication par graines est bien moins rapide que le marcottage , parce que les semences ne germent qu ' une année après qu ' elles ont été confiées à la terre .Le suc qu ' on obtient en incisant les écorces est abondant ; il a une odeur balsamique qui est très agréable , mais sa saveur est acre et amère .Cette résine constitue le copalme liquide , ou styrax liquide , ou siorax liquide .",
+        "words": [
+          "acre",
+          "odeur",
+          "suc",
+          "il",
+          "amère",
+          "balsamique",
+          "très agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/094740df-43ed-5817-846b-d6b39281183d",
+        "value": "Composition de l ' opium .Le suc qui découle des incisions faites sur les capsules du pavot est blanc et opaque ; il a une consistance laiteuse , une saveur très âcre et une odeur vireuse .A l ' air il s ' épaissit ou se concrète promptement , prend une coloration jaune - brun plus ou moins foncée et se couvre d ' une pelli cule mince et irisée .",
+        "words": [
+          "très",
+          "odeur",
+          "il",
+          "vireuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0a042c9d-84d3-5820-b5b6-f40e63f24a44",
+        "value": "Ses fleurs sont grandes et roses .Le tabac que fournit cette variété est corsé , très séveux , très parfumé et excellent pour la poudre .On l ' a abandonné en France parce qu ' il y dégénère facilement .",
+        "words": [
+          "parfumé",
+          "tabac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0a799796-f3cc-51dc-94f5-a4513c340129",
+        "value": "Le point essentiel pendant cette opération est d ' éviter toute fermentation et de prendre toutes les précautions voulues pour que les fruits ne soient pas en contact avec la terre , ce qui est nuisible à leur qualité .Les fruits munis de leur pulpe et qui fermentent , contractent une odeur désagréable .A Java , la dessiccation a lieu sous des hangars .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "fruits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0ab59336-a134-5b96-ba22-f7c25207042c",
+        "value": "— Plantes astringentes .— Plantes médicinales .— Plantes funéraires .",
+        "words": [
+          "médicinales",
+          "Plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0ac05975-a424-5636-8d29-6ce8859ff791",
+        "value": "Elle est aussi répandue à la Colombie .C ' est elle qui fournit le cacao de la Gugane et le cacao de Cayenne qui sont riches en matières grasses , mais qui sont moins parfumés que le cacao de Caracas .5 ° Theobroma sylvestris .",
+        "words": [
+          "parfumés",
+          "cacao",
+          "cacao de Cayenne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0c3ab2bc-9d27-56fc-b19c-b2d665406849",
+        "value": "Le produit de cette distillation est le tafia .La mélasse proprement dite , celle qui provient de l ' égout - tage du sucre , donne , par la distillation , un alcool incolore , mais pourvu d ' une odeur particulière , qui est due à l ' huile essentielle que contient l ' écorce de la canne .On colore ce produit avec du caramel ou avec une liqueur qu ' on obtient avec 15 grammes de clous de girofle , 15 grammes de goudron de bois , 500 grammes d ' écorce de chêne , 2 kilogr .",
+        "words": [
+          "odeur",
+          "particulière",
+          "alcool",
+          "mélasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0c4eff11-c63a-5899-a97a-39448cfeb32f",
+        "value": "Le Chenopodium ambrosioïdes est annuel et haut de 0 , 50 à 0m , 60 ; il est originaire du Mexique et commun dans l ' Europe méridionale , à la Martinique , etc .Ses feuilles alternes , sessiles , lancéolées , ont une saveur âcre , mais aromatique , très agréable .Elles constituent le thé du Mexique , qu ' on regarde comme très tonique .",
+        "words": [
+          "aromatique",
+          "âcre",
+          "très agréable",
+          "feuilles",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0cf602ea-ebdb-5825-bea1-78c526dd4af7",
+        "value": "; ceux - ci , appelés végétaux lacticifères , fournissent , par suite des incisions qu ' on fait sur leur tronc , ou le caoutchouc ou la gutta - percha ; enfin , les végétaux astringents comme le cachou , le Kino , contiennent dans leurs fruits et leurs feuilles un principe amer et surtout très astringent , quon utilise comme produit médical ou qui est employé dans le tannage des cuirs .Les baumes non utilisés par la parfumerie appartiennent à la classe qui comprend les arbres résineux .Divers végétaux mentionnes dans cette division , comme la gomme , le camphre , le kino , le sang - dragon , pourraient être classés parmi les plantes médicinales ou pharmaceutiques .",
+        "words": [
+          "baumes",
+          "parfumerie",
+          "arbres résineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0d225a72-ac02-5425-b169-a7df914bbe4c",
+        "value": "Par la torréfaction , la chicorée acquiert un arome qui rappelle celui du café brûlé .Elle est brun rougeâtre , un peu odorante avec une saveur amère ; mais son parfum , quoique très agréable , n ' a pas la finesse délicieuse que possède le café en poudre .Nonobstant , on en fait grand usage dans le nord de la France , en Suisse , en Allemagne , etc .",
+        "words": [
+          "odorante",
+          "parfum",
+          "son",
+          "amère",
+          "très agréable",
+          "Elle",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/0d31f91a-7d3f-575e-b01a-ec3e8501af08",
+        "value": "Les semences du curcas fournissent une huile très purgative .C ' est pourquoi on désigne souvent ces graines sons les noms de Pignon de V Inde , noix des Barbades , Pignon de Barbarie , noisette purgative .Le séné que fournit la casse fistuleuse ou casse purgative , est utilisé à Constantinople depuis le treizième siècle .",
+        "words": [
+          "graines",
+          "purgative"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/10d3823b-92b5-5dae-8d3d-56fca8bccab3",
+        "value": "Il est excitant .Le marc qu ' on fait bouillir fournit une boisson qui est plus tonique qu ' aromatique ou excitante .En Egypte , on le nomme kovah ou kahouch .",
+        "words": [
+          "aromatique",
+          "tonique",
+          "excitante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/1258415d-4970-5b52-af3c-5a9a63363483",
+        "value": "— Caoutchouc 281 — II .— Gutta - percha 285 Les arbres astringents .Les tabacs récoltés en Italie fument mal , mais on fabrique de bonne poudre avec le tabac de Salerne .",
+        "words": [
+          "arbres",
+          "astringents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/138a8842-6ec7-5cab-9493-5c74fed8d995",
+        "value": "Suivant divers observateurs , les amandes du cacaoyer ainsi traitées seraient plus riches en huile essentielle .C ' est pourquoi on mêle souvent le cacao de la Guyane au cacao de Caracas qui est peu parfumé .La méthode indienne , qui consiste à sécher le cacao au moyen de la fumée , est peu suivie dans l ' Amérique du Sud , parce que les amandes séchées à la fuméedun feu de bois ne sont pas estimées .",
+        "words": [
+          "peu",
+          "parfumé",
+          "cacao",
+          "cacao de Caracas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/13f4040f-edb9-5b7c-94e7-0a1ba70d1fe6",
+        "value": "Les cafés qui proviennent de caféiers situés sur les élévations ont une couleur claire , un arome prononcé comme le Moka , le Bourbon , le Java , etc .; ceux qui ont été récoltés dans les caféières situées sur des terrains bas et humides sont tou - jours plus développés , avec une nuance verdâtre et un goût de vert très accusé , comme le Martinique , le Guadeloupe , le Haïti , etc .Le café Bourbon a un grain allongé , gros , aigu par un de ses bouts et blanchâtre avec un sillon peu prononcé ; il est presque inodore ; sa saveur est amère ; néanmoins il est recherché à la Réunion .",
+        "words": [
+          "goût",
+          "très accusé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/14fe8dc9-036d-570d-93c3-dce582c41894",
+        "value": "Elle est importée en Europe du Paraguay , des Antilles .Elle est tonique et fébrifuge .On la nomme quelquefois quinquina aromatique .",
+        "words": [
+          "tonique",
+          "fébrifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/153b2ccb-40c9-5212-8521-576686eb2e71",
+        "value": "Il est le sweet - gum - tree des Américains .La résine qu ' il contient a une forte odeur de benjoin .Le Liquidambar styraciflua est très rustique et supporte très bien les plus grands froids .",
+        "words": [
+          "résine",
+          "forte",
+          "odeur",
+          "benjoin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/15e13f04-4cda-5772-bbb1-493032d72ccd",
+        "value": "Il est susceptible de s ' altérer pendant les voyages .Ce thé , appelé souvent thé Peko ou Pak - ho , diffère peu du thé Souchong , mais son odeur est plus prononcée , plus délicate .Le thé Pekoë orange est remarquable par sa finesse et sa suavité , mais il est rare en Europe .",
+        "words": [
+          "odeur",
+          "son",
+          "prononcée",
+          "délicate",
+          "thé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/16c345b1-a95a-58b4-a559-a4614367ff03",
+        "value": "Le tabac du Nord est fort , corsé ; on l ' utilise dans la fabrication de la poudre ; il se rapproche du tabac de Hollande .Le tabac du Pas - de - Calais est moins fort , mais il n ' a pas suffisamment de sève et d ' arôme ; il entre dans la fabrication du tabac à fumer .Le tabac du Lot est le plus estimé ; il est fort et corsé .",
+        "words": [
+          "tabac",
+          "de",
+          "arôme",
+          "Calais",
+          "Pas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/17fc2be0-45cc-5d29-8c5c-e43920789ffe",
+        "value": "— III .Plantes aromatiques à parfums , à épices et condimentaires .— IV .",
+        "words": [
+          "parfums",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/18ef5a64-2112-5027-b9fa-69dc4a00c247",
+        "value": "2 ° Opium de Smyrne .— Il a une couleur brun - noirâtre , une odeur très forte et vireuse , une saveur âcre , amère et nauséeuse .Il durcit à l ' air .",
+        "words": [
+          "très forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/1c5aef56-31c9-5e1a-aeb6-b785cd8b642f",
+        "value": "Son tronc est gris cendré .Ses feuilles sont composées de 4 à 8 paires de folioles ovales , oblongues et glabres ; ses fleurs jaunâtres , odorantes et nombreuses , sont en grappes lâches et axillaires .Ses gousses sont pendantes , cylindriques , lisses et longues de 0m , 50 à 0m , 60 : on y remarque intérieurement des cloisons ligneuses , minces et transversales .",
+        "words": [
+          "odorantes",
+          "nombreuses",
+          "feuilles",
+          "ses fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/1ddd8a26-690b-5d9b-9d00-c5420554c223",
+        "value": "Cet arbre , de 6 à 8 mètres de hauteur , se plaît dans les sables maritimes meubles et frais .Ses fleurs blanches odorantes sont en grappes terminales et dressées .Son écorce est riche en kino .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "blanches odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2192cc39-9f0b-5b4d-955a-82c626366865",
+        "value": "Cette opération est faite dans un appareil appelé brûloir et sur un feu vif .Pendant ce brûlage , la fève se gonfle et dégage beaucoup d ' odeur .On doit l ' arrêter lorsqu ' on voit apparaître sur les grains de café une sorte de rosée qui n ' est autre que la caféine qui s ' est dégagée .",
+        "words": [
+          "odeur",
+          "fève"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/22c24564-b5e4-5337-8a08-fafbd3df41fe",
+        "value": "Exposé à l ' air , le lactucarium conserve sa dureté ; tandis que la thridace se ramollit .L ' un et l ' autre ont une odeur vireuse , désagréable et une saveur acre et amère .Ces deux produits ont des propriétés narcotiques , mais moins prononcées que celles que possède l ' opium .",
+        "words": [
+          "désagréable",
+          "acre",
+          "odeur",
+          "vireuse",
+          "amère",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/23ed6add-e1a9-57aa-ba6d-df580d64aaef",
+        "value": "Dès que les cabosses ont été détachées des branches , on les ouvre pour retirer les semences qu ' elles contiennent , à l ' aide d ' un bâton arrondi ou d ' une spatule .Alors on stratifié les fèves avec du sable ou de la terre , soit sur le sol soit dans une fosse , dans le but de provoquer une fermentation qui a l ' avantage de faire disparaître leur principe amer et de les rendre plus aromatiques .On les remue chaque jour en ajoutant une nouvelle couche de sable .",
+        "words": [
+          "aromatiques",
+          "amer",
+          "fèves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/240ee0b0-aa7a-5f0d-be28-a515198107f2",
+        "value": "III .Plantes aromatiques .— Plantes à parfums .",
+        "words": [
+          "aromatiques",
+          "Plantes aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/257cb1d8-b4fd-52c3-8bef-5667ae552fb3",
+        "value": "Le sang - dragon du palmier est rouge - brun ; sa cassure présente des points luisants .Il donne une poudre rouge ayant une très légère odeur balsamique .Sa saveur est faiblement astringente .",
+        "words": [
+          "odeur",
+          "balsamique",
+          "très légère",
+          "poudre rouge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/25e99fb1-774e-587c-a377-4f403bc6b917",
+        "value": "Ses feuilles sont opposées , simples ou entières .Ses fleurs , disposées en panicules ou en eymes corymbiformes , sont blanches , roses ou purpurines et odorantes .Le fruit est une capsule ovoïde , oblongue ou linéaire , s ' ouvrant en deux valves de bas en haut ; il contient de nombreuses graines bordées d ' une aile qui est ordinairement denticulée .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2669ccbf-c877-5bb8-a554-7bd0d77efea9",
+        "value": "Dryobalanops camphora ou aromatica .Cet arbre aromatique et résineux acquiert de grandes dimensions dans les îles de Sumatra et de Kalémantan .On le rencontre principalement près des rivages de la mer .",
+        "words": [
+          "aromatique",
+          "résineux",
+          "Kalémantan",
+          "îles de Sumatra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/29b554e8-ab85-53c6-acaa-b6f44b2d8809",
+        "value": "D ' après Braconnot , l ' absinthe contient une matière azotée très amère , une substance azotée insipide , une résine très amère , une huile volatile très verte , de la chlorophylle et des sels de potasse .L ' huile essentielle a une très forte odeur , mais elle nest pas amère .Elle se fonce et s ' épaissit en vieillissant .",
+        "words": [
+          "forte",
+          "odeur",
+          "huile essentielle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2b2d81dd-bfa7-5950-a5f1-c75455a521d2",
+        "value": "2 ° Thé Souchong ou Siao - Tchong ( petite espèce ) .Ce thé est le plus fort des thés noirs ; il est très renommé en Chine , mais sa saveur est plus faible que celle des thés verts .Le the Souchong associé au thé Pekoë permet de faire une infusion exquise .",
+        "words": [
+          "faible",
+          "thé",
+          "saveur",
+          "thés verts",
+          "thés noirs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2bfa47c4-dde2-5cf7-b6ff-f87603c92499",
+        "value": "Elle constitue le baume de Tolu qu ' on nomme aussi baume de Saint - Thomè , baume de Cartkagène , baume d ! Amérique et qu ' on utilise dans la pharmacie .La parfumerie s ' en sert pour faire des pastilles balsamiques .3 .",
+        "words": [
+          "parfumerie",
+          "pastilles balsamiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2c118b91-491a-5209-8627-ce3833334089",
+        "value": "Le soir , on les rentre sous des hangars .Ce procédé appelé terrage , très usité à Caracas , charge toujours les amandes , qui sont alors foncées en couleur , de quelques parties terreuses , mais il rend le goût du cacao moins âpre , plus aromatique .Le point essentiel pour bien réussir est d ' éviter la fermentation putride .",
+        "words": [
+          "Caracas",
+          "aromatique",
+          "amandes",
+          "cacao"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2d3cc867-4ef1-579d-a206-b30c14aa970b",
+        "value": "Les racines de rhubarbe ont des teintes différentes , suivant les espèces auxquelles elles appartiennent .1 ° La racine de la rhubarbe rhapontic ou rhubarbe de France est marbrée de rouge et de blanc ; elle laisse dans la bouche une viscosité douce et gluante ; elle est légère , et moins odorante que les racines des autres espèces .2 ° La racine de la rhubarbe ondulée est jaune foncé , légère et non fibreuse .",
+        "words": [
+          "odorante",
+          "bouche",
+          "racine",
+          "rhubarbe",
+          "rhubarbe de",
+          "racines des autres espèces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/2e135138-da89-5235-b478-ec215ce5379e",
+        "value": "On connaît trois sortes de baume du Pérou : le blanc qui est liquide et qui développe une odeur suave , le brun qui est presque solide et le noir qui est sirupeux .Ce dernier est le plus abondant dans le commerce ; son odeur est forte et sa saveur est amère .Le baume du Pérou est employé par la médecine , la confiserie et la parfumerie .",
+        "words": [
+          "forte",
+          "odeur",
+          "son",
+          "sa",
+          "amère",
+          "dernier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/34557bb0-be15-5471-b4ad-60be5db5c8e3",
+        "value": "Ses feuilles sont composées de 10 à 12 paires de folioles , glabres et linéaires .Ses fleurs jaunes développent une faible odeur de girofle .Ses gousses sont planes , linéaires et tomenteuses ou blanchâtres .",
+        "words": [
+          "faible",
+          "odeur",
+          "girofle",
+          "fleurs jaunes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/3784a06e-add1-5e4d-bbb1-45b766da5c05",
+        "value": "Végétation .Cette plante est vivace , à rhizome rampant , à tubercules charnus , palmés et parfumés .Sa tige est simple , dressée et haute de 0m , 50 à 0m , 60 .",
+        "words": [
+          "parfumés",
+          "plante",
+          "tubercules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/3a421047-fbdd-5d92-b803-4d2eb450db62",
+        "value": ".350 Camomille fausse , • 354 — odorante Camphre anglais 272 — de Chine 272 — français 272 — hollandais 272 — - malais 272 Camphrier .— 269 Camphrier du Japon .",
+        "words": [
+          "Camphrier",
+          "Camomille",
+          "odorante",
+          "Camphre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/3d443bc0-851c-5ff3-b836-0ddf41e752cf",
+        "value": "Cette résine est d ' abord fluide et jaunâtre , mais elle s ' épaissit promptement quand elle est en contact de l ' air ; sa saveur est amère et son odeur très désagréable .8 ° Le Boswellia thurifera , grand arbre des montagnes du centre de l ' Inde , fournit un baume jaune - orange à odeur très agréable , qui est très employé en médecine sous le nom de Gunda .9 ° Le Gardenia lucida et le G .",
+        "words": [
+          "odeur",
+          "baume",
+          "très agréable",
+          "Boswellia thurifera"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/4241dcaf-f8ba-562f-b41d-45502dd10884",
+        "value": "de gutta .La gutta - percha qui vient de Chine et qui est en pains aplatis , est blanchâtre , mais son odeur est désagréable .La chaleur de l ' eau bouillante la rend très malléable .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "son",
+          "gutta - percha"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/42530987-bffc-5ea7-a2d6-b671ce06c4f7",
+        "value": "Le camphre qui a été sublime est une substance blanche , cristalline demi - transparente ; il brûle à lair avec une flamme fuligineuse .Son odeur est caractéristique , et elle est bien connue en Europe , dans l ' Inde , en Perse , etc .Emplois .",
+        "words": [
+          "Inde",
+          "odeur",
+          "Son",
+          "elle",
+          "caractéristique",
+          "Europe",
+          "Perse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/45c4448a-3473-5b5d-af51-b1ee748b9c74",
+        "value": "La qualité est très inférieure , mais elle sert à frauder la gomme arabique .Elle développe une odeur qui rappelle celle de l ' acide acétique , et contient beaucoup de bassorine et très peu d ' arabine .12 .",
+        "words": [
+          "odeur",
+          "acide acétique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/4986f739-d90a-5c1f-acf6-8c8df5077a5c",
+        "value": "L ' écorce du Oedrela Guyanensis est aussi utilisée à la Guyane comme écorce fébrifuge .La cascarille , écorce du Croton elatheria , arbrisseau qui croit dans les sols secs et pierreux dans l ' Amérique méridionale , a une odeur aromatique très agréable , surtout quand on la brûle .Cette écorce est roulée comme celle de la cannelle .",
+        "words": [
+          "odeur",
+          "aromatique très agréable",
+          "arbrisseau",
+          "cascarille",
+          "Croton elatheria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/4df4c7da-a534-5f95-a6c5-435207ec55b9",
+        "value": "Usages .La poudre de chicorée ou de café chicorée n ' a pas le parfum du café en poudre , ni les propriétés excitantes qu ' il possède , mais ajoutée au café , bien que sa saveur soit très amère , elle constitue un mélange économique qui est très apprécié par les populations du Nord de la France et de l ' Europe .Les racines vertes ou sèches de chicorée donnent lieu en Belgique à des transactions commerciales très importantes .",
+        "words": [
+          "parfum",
+          "poudre",
+          "excitantes",
+          "très amère",
+          "chicorée",
+          "café chicorée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/4fe492f8-5cb5-5b82-9509-773f335943c1",
+        "value": "Le baume de copahu est obtenu à l ' aide d ' incisions faites sur les troncs du Copaïfera officinalis et du Copaïfera Jacquini , arbres de la famille des Légumineuses , qui existent au Brésil , à la Guyane et dans l ' Amérique méridionale .Cette résine est semi - fluide ; son odeur est douce et aromatique , mais sa saveur est un peu amère .Le commerce la vend aussi sous les noms de copahu du Brésil ou copahu de la Colombie , suivant sa provenance .",
+        "words": [
+          "aromatique",
+          "douce",
+          "odeur",
+          "son",
+          "sa",
+          "saveur",
+          "Cette résine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/4fea525f-74a2-54d5-80dc-2725d3ffd3af",
+        "value": "Ses fleurs sont blanches ou roses .Le Gautheria fragrans , arbrisseau de 2 mètres , a des fleurs roses en grappes et très odorantes .Il est originaire du Nepaul .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "très odorantes",
+          "Gautheria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/50075a10-7a8b-58da-b296-87f9d8cf9b7a",
+        "value": "Le premier , lorsqu ' il est raffiné ou épuré , est blanc , cristallisé , inodore et inaltérable à l ' air sec .Sa saveur est douce et agréable .Le sucre que produit la Cochinchine est brun et grossier ; il est inférieur en qualité au sucre de Java , de Siam et des Philippines .",
+        "words": [
+          "agréable",
+          "douce",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/505f81f4-2d48-523b-ad98-c9a80ef43c09",
+        "value": "9 ° Le Gardenia lucida et le G .gummifera produisent dans le Mysore et la province de Bombay , une résine ambrée très odorante appelée dik kamali .Elle est très en usage dans les hôpitaux de l ' Inde .",
+        "words": [
+          "résine",
+          "Mysore",
+          "odorante",
+          "ambrée très odorante",
+          "dik",
+          "province de Bombay"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/51844352-9b8d-5309-9aab-ce55c496e40e",
+        "value": "Cette espèce est herbacée , pubescente , très rameuse et haute de 0m , 80 à un mètre .Ses feuilles sont ovales et den - tées ; elles développent , une odeur peu agréable quand on les froisse .Ses fleurs sont grandes , blanches et odorantes ; ses fruits presque ronds sont gros , hérissés de pointes longues et aiguës .",
+        "words": [
+          "odeur",
+          "elles",
+          "peu agréable",
+          "feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/5515415f-5c8e-5913-9428-6b69ab0a4328",
+        "value": "2 .Dryobalanops camphora ou aromatica .Cet arbre aromatique et résineux acquiert de grandes dimensions dans les îles de Sumatra et de Kalémantan .",
+        "words": [
+          "aromatica",
+          "Dryobalanops",
+          "camphora"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/55850930-fe05-5952-a1b5-e3f4bd46f226",
+        "value": "Cinnamomum zelanicum .Cet arbre aromatique et toujours vert est de petite taille ; il a des feuilles opposées , pétiolées , ovales et oblongues .Ses racines contiennent une essence jaunâtre à odeur camphrée , qui peut donner du camphre .",
+        "words": [
+          "aromatique",
+          "arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/5705d83f-e6a4-53a9-b4d7-243a8cab3f69",
+        "value": "100 avec le café Bourbon et le Malabar , et elle s ' élève à 20 pour 100 avec les cafés des Antilles et d ' Haïti .Le café qui a été bien brûlé ou torréfié est brun - roux et aromatique ; il cède à l ' eau chaude ayant au plus 98 degrés de chaleur , 40 p .100 de ses principes solubles .",
+        "words": [
+          "aromatique",
+          "café"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/58013853-fb1f-53ec-8c01-fd6c956882b9",
+        "value": "Ce thé est très estimé en Angleterre et dans l ' Amérique du Nord .Son arome est agréable et sa saveur parfumée .On le récolte sur les mêmes sujets que le thé Pekoë , après ce dernier .",
+        "words": [
+          "agréable",
+          "parfumée",
+          "saveur",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/59ad5adb-bb81-54c7-a8fc-da0500d8a021",
+        "value": "Sa culture est facile , mais elle ne peut avoir lieu en Europe qu ' en serre .Les feuilles de cette composée servent à faire des infusions très agréables , parfumées , sudorifiques et pectorales , qui remplacent celles qu ' on obtient avec le thé .Leur saveur est astringente .",
+        "words": [
+          "parfumées",
+          "sudorifiques",
+          "très agréables",
+          "feuilles",
+          "pectorales",
+          "cette composée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/5d82cd01-9dac-5f45-9db9-47b5b4a24031",
+        "value": "Il est légèrement torréfié .Son parfum est délicat et rappelle celui de la rose .Il est susceptible de s ' altérer pendant les voyages .",
+        "words": [
+          "parfum",
+          "rose",
+          "délicat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/5dc71d50-a905-5110-8125-01c500352f6e",
+        "value": "La véritable région du tabac est comprise entre le 42e et le 46e degré de latitude .Cette zone comprend le Maryland , le Lot , le Lot - et - Garonne et la Virginie , contrées où la chaleur est assez élevée pour que les plantes puissent mûrir avant les froids d ' automne et fournir des tabacs corsés et ayant une odeur pénétrante et agréable .Fig .",
+        "words": [
+          "Maryland",
+          "agréable",
+          "pénétrante",
+          "odeur",
+          "tabacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/5e4a51d8-ce2e-5174-9a54-68e421bf6cf7",
+        "value": "800 , quantité qui égale la moyenne des fabriques françaises , mais qui est supérieure a celle de l ' Allemagne .La mélasse de la betterave n ' a pas la saveur fraîche agréable , mielleuse , que possède la mélasse de la canne à sucre .Son odeur désagréable , son âcreté , son goût prononcé amertume , et la grande proportion de sels de potasse quelle contient , obligent à la vendre à bas prix .",
+        "words": [
+          "mélasse",
+          "saveur",
+          "betterave",
+          "fraîche agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/5ee436e6-32b5-5a00-bfa6-281660ab1017",
+        "value": "Comme ces frênes demandent beaucoup d ' air et de chaleur , on les espace de 2 à 3 mètres les uns des autres .La manne pour laquelle on les cultive exsude naturellement des troncs et des branches depuis la mi - juin jusqu ' à la fin de juillet .On croit en Sicile que cet épanchement a pour cause des piqûres faites par la cigale dite Cicada ou Tetigonia orni .",
+        "words": [
+          "exsude",
+          "à la fin de juillet",
+          "depuis la mi - juin jusqu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/633441f2-3f70-588f-a85a-76cbb3da217b",
+        "value": "En général , les terres silico - calcaires , argilo - calcaires ou silico - argileuses , caillouteuses ou non , profondes , fraîches , fertiles et qui se refroidissent lentement en automne , sont éminemment propres à la culture du tabac .Le carbonate de chaux rend le tabac plus odorant .Les tabacs récoltés sur des terrains privés de potasse se fument mal , ainsi que l ' a démontré M .",
+        "words": [
+          "odorant",
+          "tabac",
+          "carbonate de",
+          "plus odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/633a31b2-50aa-5846-acde-21ff2fc85bb3",
+        "value": "Le café de Java est gros , allongé et jaune verdâtre ; son odeur est forte .Le café d ' Haïti est irrégulier , vert clair ou blanchâtre ; il est rarement pelliculé ; son odeur et sa saveur sont moins agréables que celles du café Martinique .Le café Martinique est de grosseur moyenne , allongé , verdâtre ou vert clair avec une pellicule argentée et un sillon bien marqué ; sa saveur herbacée est très franche .",
+        "words": [
+          "Haïti",
+          "odeur",
+          "il",
+          "moins agréables",
+          "saveur",
+          "café Martinique",
+          "café d ' Haïti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/65c89f04-d0db-5f46-b73c-38e1dbc79153",
+        "value": "Ne peuvent être classés ni en première , ni en seconde qualité : 1 ° Les tabacs sans sève ; 2 ° Les tabacs mal triés par qualités ; 3 ° Les tabacs déchirés ; 4 ° Les tabacs à grosse côte susceptibles de se salpêtrer .La commission doit ranger comme non marchands , ou rejetés de la livraison , les tabacs suivants : 1 ° Les tabacs ayant contracté une mauvaise odeur ; 2 ° Les tabacs amollis par un excès de fermentation ; 3 ° Les tabacs verts ou gelés ; 4 ° Les tabacs moisis ou avariés ou qui auraient été pressés lorsqu ' ils étaient encore verts .Les tabacs rejetés doivent être détruits en présence des experts .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "tabacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/65fd639e-f293-5bb4-a8ac-9a45b4399f6b",
+        "value": "La résine , d ' à ¬ bord liquide , se liquéfie à l ' air .Sou odeur est agréable .Elle constitue le baume de Tolu qu ' on nomme aussi baume de Saint - Thomè , baume de Cartkagène , baume d ! Amérique et qu ' on utilise dans la pharmacie .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/67f2566b-3c41-5df4-8fd3-c58138cd78ef",
+        "value": "Ces feuilles développent un parfum très agréable qui rappelle assez bien celui que possède la vanille .Ce principe odorant a pour base la couma - rine qu ' on trouve dans la fève tonka .Cette orchidée vit sur des arbres appartenant aux genres Nuxia , Cupania et Melicoca .",
+        "words": [
+          "odorant",
+          "fève tonka",
+          "couma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/69c712ef-c847-5496-90b2-c4fff56649bc",
+        "value": "La mélasse de la betterave n ' a pas la saveur fraîche agréable , mielleuse , que possède la mélasse de la canne à sucre .Son odeur désagréable , son âcreté , son goût prononcé amertume , et la grande proportion de sels de potasse quelle contient , obligent à la vendre à bas prix .ALCOOL .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "son",
+          "sels de potasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/6af82540-3005-5f67-8704-6167d5addbc5",
+        "value": "En général , les thés verts du commerce viennent des provinces de Kiang - si , de Nyan et de Hoeï .Ils contiennent plus de tanin que le thé noir et sont plus après ; de plus ils sont plus aromatiques et ont une action plus enivrante .Le thé noir vient de Fo - Kien qui est au sud et voisin de la province de Canton .",
+        "words": [
+          "aromatiques",
+          "enivrante",
+          "thé",
+          "tanin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/6e215361-d2ef-5b81-8fa7-f8b8fc6e75c4",
+        "value": "Il peut atteindre 5 mètres de circonférence .Cet arbre plaît en Océanie par son port , son ombrage et son odeur .Il croît aussi à Java , en Chine , dans la Guinée , au Japon .",
+        "words": [
+          "odeur",
+          "son",
+          "arbre",
+          "Océanie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/6e380a74-3588-5020-8863-056e8ae239f6",
+        "value": "in - 18 de 432 pages et 69 figures 3 .50 Tome III : Plantes aromatiques , à parfums , à épices et eondimentaires .1 vol .",
+        "words": [
+          "parfums",
+          "aromatiques",
+          "Plantes",
+          "épices",
+          "eondimentaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/704f4536-7e47-51d7-a50c-c00b2403c597",
+        "value": "Ses feuilles obovées et dentées constituent le thé du Canada , le thé de montagne .Son odeur est très agréable .Cet arbrisseau est indigène dans les montagnes boisées et sablonneuses du Canada à la Virginie .",
+        "words": [
+          "odeur",
+          "très agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/735ff849-15b7-523f-921e-7c8e8c3b909a",
+        "value": "de cuir neuf et tanné .Cette teinture aromatique sert pour 100 litres d ' alcool de mélasse .Quand elle a fermenté pendant 15 jours , on la colore avec du caramel .",
+        "words": [
+          "aromatique",
+          "alcool",
+          "mélasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/7b54ea95-a5c5-53fb-903e-5719d66dcf41",
+        "value": "Ses fleurs sont blanches , solitaires et longuement pédonculées ; elles s ' épanouissent de juillet à septembre .Les fleurs de la camomille romaine ont une odeur aromatique aromatique agréable , et une saveur amère , chaude et balsamique .Fig .",
+        "words": [
+          "odeur",
+          "fleurs",
+          "balsamique",
+          "saveur",
+          "camomille romaine",
+          "aromatique aromatique agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/7eb04234-f6c1-5d05-9b0f-72b8085303f2",
+        "value": "Les jeunes plants doivent être protégés contre un soleil ardent .La sandaraque se présente sous forme de larmes luisantes jaune pâle , allongées , et ayant une cassure vitreuse ; son odeur est faible .Elle est soluble seulement dans l ' alcool et sert à faire un beau vernis .",
+        "words": [
+          "faible",
+          "odeur",
+          "son",
+          "larmes",
+          "sandaraque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/864d14ba-106d-53b2-b1ad-8ec485572e9b",
+        "value": "L ' un et l ' autre ont une odeur vireuse , désagréable et une saveur acre et amère .Ces deux produits ont des propriétés narcotiques , mais moins prononcées que celles que possède l ' opium .Ils servent à préparer des sirops calmants et des pâtes spéciales .",
+        "words": [
+          "prononcées",
+          "narcotiques",
+          "produits",
+          "propriétés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/877eb350-c155-57bf-b509-0c246c9f9d26",
+        "value": "Torréfaction on brûlage .Le café est soumis à une torréfaction dans le but de développer son arome et ses propriétés excitantes .Cette opération est faite dans un appareil appelé brûloir et sur un feu vif .",
+        "words": [
+          "son",
+          "excitantes",
+          "café",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/878774ea-900f-5a00-a844-cb7baad6ece3",
+        "value": "Houblon , anis , coriandre , fenouil , angélique , rosier , jasmin , tubéreuse , cassie , héliotrope , géranium rosat , menthe , lavande , vanille , benjoin , citronnelle , myrrhe , vétiver , patchouli , bois de santal , eucalyptus , benjoin , myrrhe , poivrier , cannellier , giroflier , muscadier , moutarde , etc .— Plantes astringentes .— Plantes médicinales .",
+        "words": [
+          "astringentes",
+          "Plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/897f178a-364d-5688-b775-7458cecc338a",
+        "value": "Le café moïca ( COFFEA ARABICA ) , appelé aussi café rond , produit des grains petits , jaune verdâtre , souvent presque ronds parce que les fruits très fréquemment n ' ont qu ' une seule graine .Ce café est le plus estimé à cause de sa saveur et de son odeur qui sont très agréables .Cette espèce a été découverte en 1285 , c ' est - à - dire deux siècles avant que sa culture se soit développée dans l ' Yémen , sur les montagnes qui bordent la mer Rouge .",
+        "words": [
+          "odeur",
+          "très agréables",
+          "café"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/8eb383ac-3f58-5f9a-96e8-d69a3f3254b0",
+        "value": "Il est de même des tabacs du Paraguay , Chili , etc .Les tabacs d ' Orient , de Perse , de Macédoine , de Grèce sont parfumés et de bonne qualité ; ils ont une couleur claire toute spéciale .Le tabac récolté dans la province d ' Oran rappelle un peu le tabac du Levant .",
+        "words": [
+          "Macédoine",
+          "Grèce",
+          "parfumés",
+          "Perse",
+          "Orient",
+          "tabacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/901f3fe2-a1a1-54eb-8d1d-66a387ac3862",
+        "value": "Voici comment sont classés les principaux tabacs français : Tabacs forts , propres à la poudre : Lot , Xord , Lot - et - Garonne , Ille - et - Vilaine .Le tabac de Hollande est assez fort et son arome est prononcé .Il est excellent pour la poudre .",
+        "words": [
+          "prononcé",
+          "arome",
+          "tabac de Hollande"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/93bb101a-d33c-5b74-b610-de59c36d834f",
+        "value": "Sa tige est rouge - brun ; ses feuilles sont alternes , ovales aiguës et dentées .Les fleurs axillaires exhalent une odeur très suave ; elles sont violettes en dehors et blanc jaunâtre en dedans ; ses fruits capsulaires sont moins développés et leurs pointes sont plus courtes .; Les fleurs des daturas sont grandes et ont la forme d ' un entonnoir .",
+        "words": [
+          "odeur",
+          "fruits",
+          "elles",
+          "très suave",
+          "fleurs axillaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/94044ef8-20ea-5fce-ac6b-14177e196244",
+        "value": "On croit en Sicile que cet épanchement a pour cause des piqûres faites par la cigale dite Cicada ou Tetigonia orni .Le suc sirupeux qu ' on récolte alors tous les matins est concret et blanc jaunâtre ; il est soluble dans l ' eau et sa saveur est douce et un peu nauséabonde .Cest depuis midi jusqu ' au soir qu ' il s ' écoule , et c ' est pendant la nuit qu ' il s ' épaissit et prend de la solidité .",
+        "words": [
+          "douce",
+          "suc",
+          "sa",
+          "il",
+          "saveur",
+          "peu nauséabonde",
+          "alors tous les matins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/94f3791e-1477-59e1-9fc6-f13b40cc7ac7",
+        "value": "Schloesing , les tabacs du Lot et du Lot - et - Garonne seraient aussi forts que celui de Virginie .La nicotine est un liquide huileux , sans couleur , soluble dans l ' eau , l ' alcool , l ' éther , les huiles grasses et la potasse ; elle a une odeur très forte .Dans la pipe , pendant la combustion du tabac , il se produit du carbonate d ' ammoniaque , de la nicotianine , de l ' hydrogène carboné , de l ' acide carbonique , de l ' oxyde de carbone et de l ' huile empyreumatique .",
+        "words": [
+          "huiles",
+          "très forte",
+          "odeur",
+          "elle",
+          "liquide",
+          "nicotine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/954859c8-b1f6-5d04-8035-95b4d748ed9e",
+        "value": "Le café de la Havane est petit , régulier et vert jaunâtre ; son sillon le partage en deux parties égales .Le café de Java est gros , allongé et jaune verdâtre ; son odeur est forte .Le café d ' Haïti est irrégulier , vert clair ou blanchâtre ; il est rarement pelliculé ; son odeur et sa saveur sont moins agréables que celles du café Martinique .",
+        "words": [
+          "forte",
+          "odeur",
+          "son",
+          "café de Java"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/96bbf262-c80b-5db7-b051-5f8a913a7e50",
+        "value": "On la cultive pour l ' élégance de ses fleurs qui apparaissent de juillet à septembre et qui doublent très facilement .Les fleurs doubles sont plus stimulantes que les fleurs simples .Cette plante développe une odeur pénétrante .",
+        "words": [
+          "fleurs",
+          "stimulantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/98efd5f5-8899-5fba-a487-2a44fe7ff459",
+        "value": "Alors cette enveloppe est sèche et raccornie .Le café qu ' on expose longtemps à l ' action d ' un soleil ardent perd de sa couleur verte , de son arome et de sa saveur .Le point essentiel pendant cette opération est d ' éviter toute fermentation et de prendre toutes les précautions voulues pour que les fruits ne soient pas en contact avec la terre , ce qui est nuisible à leur qualité .",
+        "words": [
+          "café",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/9bac4ac9-4fe1-5469-892f-09da3ca1ae2a",
+        "value": "Ses fleurs blanches sont en corymbes axillaires et longuement pédonculées .Son aubier est épais et mou , son bois à tissu lâche est blanc veiné de ronge , avec une forte odeur camphrée .Ses baies noirâtres ont la grosseur d ' un pois .",
+        "words": [
+          "bois",
+          "forte",
+          "odeur",
+          "camphrée",
+          "aubier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/9cf6a4d2-4c96-5109-853f-22ed301f3f6b",
+        "value": "Ses feuilles sont ovales et den - tées ; elles développent , une odeur peu agréable quand on les froisse .Ses fleurs sont grandes , blanches et odorantes ; ses fruits presque ronds sont gros , hérissés de pointes longues et aiguës .Ce datura est commun en Cochinchine et dans les Indes orientales .",
+        "words": [
+          "fruits",
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/9d461b13-4214-582d-bc90-e9a034d31069",
+        "value": "— Eucalyptus citriodora , grand arbre à écorce blanche et lisse .Ses feuilles contiennent une huile essentielle à odeur de citron .Il est répandu en Australie .",
+        "words": [
+          "huile",
+          "odeur",
+          "feuilles",
+          "citron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/9d7dcf8a-2f3d-5490-b2b3-dff1ccd19284",
+        "value": "On le vend souvent comme café de la Martinique .Le café du Brésil est très gros , régulier , jaune , légèrement pédiculé et à odeur forte .Il provient de caféiers cultivés , ayant des cerises rouges .",
+        "words": [
+          "forte",
+          "odeur",
+          "café du Brésil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/9ebab9ef-f9e8-5a8c-8918-b783a08aff37",
+        "value": "de semences contient plus de 500 .A Nossi - Bé , les indigènes donnent le nom de quinquina de Madagascar au Ooertnera longifolia , parce que son écorce est regardée comme fébrifuge .Au Sénégal , les nègres appellent le Khaya senegalensis ou Swietena senegalmsis , quinquina du Sénégal , arbre qui croît sur les rives de la Gambie , à cause de l ' amertume très prononcée de son éorcec .",
+        "words": [
+          "quinquina",
+          "fébrifuge",
+          "indigènes",
+          "son écorce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/9f6b5d1f-0e5f-5ad8-8af5-e2835026f56c",
+        "value": "— Grande absinthe .Toutes les parties ont une odeur forte , aromatique et une amertume proverbiale .La petite absinthe ( Artemisia pontica ) est aussi utilisée dans la fabrication de la liqueur d ' absinthe .",
+        "words": [
+          "aromatique",
+          "forte",
+          "odeur",
+          "Toutes les parties"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a0d201fd-df3d-5701-8c33-68a4c2d0a26e",
+        "value": "Composition .Les racines de rhubarbe teignent la salive en jaune , sont aromatiques , et ont une saveur très amère .Elles contiennent du tanin , de l ' amidon , de l ' acide pectique , de l ' oxa - late , du malate et du gallate de chaux , du fer , de la silice , du ligneux , et deux substances jaunes , très amères , peu solubles dans l ' eau , auxquelles Caventou a donné les noms de rhubarin et rhubarine .",
+        "words": [
+          "aromatiques",
+          "très amère",
+          "saveur",
+          "racines de rhubarbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a43b3bb1-7029-5aa8-a47e-c7c3f224b2b5",
+        "value": "On complète la préparation du sol eu y ajoutant des engrais très actifs , des fumiers un peu décomposés .On ne doit pas fertiliser la couche arable à l ' aide de fumiers nouveaux très pailleux , très ammoniacaux , et appliqués dans une forte proportion , car ils ont l ' inconvénient de favoriser la multiplication des insectes qui attaquent les racines de rhubarbe , et de communiquer à celles - ci une odeur qui nuit à leur qualité thérapeutique .Culture .",
+        "words": [
+          "odeur",
+          "celles - ci",
+          "fumiers nouveaux",
+          "racines de rhubarbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a5963c7e-4ab5-5e44-9f74-cd2eece0d849",
+        "value": "Ce tabac est jaunâtre et très doux .On le fume principalement dans le chibouk , pipe spéciale qui est en bois de jasmin ou de merisier odorant , ou dans le narghileh ou tuyau flexible fixé à un vase , dans lequel la fumée traverse une eau parfumée .Il ne vaut pas le tabac de Constantinople parce qu ' il est moins fin et moins agréable pour cigarettes .",
+        "words": [
+          "bois",
+          "parfumée",
+          "odorant",
+          "fumée",
+          "jasmin",
+          "eau",
+          "tuyau",
+          "merisier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a5c0b1c3-2439-53b6-bfd5-6d8008d0e90e",
+        "value": "Les bons tabacs à fumer ont des feuilles fines , souples , , minces , des côtes peu prononcées , une couleur jaune - brun ou jaune doré , un goût doux et agréable , une sève abondante , un arome prononcé , une gomme très apparente ; de tels tabacs brûlent facilement et conservent leur feu .Les tabacs de mauvaise qualité sont lourds , rudes , cassants , spongieux ; ils ont une couleur jaune rouge et terne , un goût herbacé ou acide , un arôme âcre , piquant au gosier , une gomme consistante ; des tabacs de qualité aussi secondaire brûlent difficilement , perdent aisément leur feu et fournissent de la poudre qui est peu estimée .En général , les feuilles amples , épaisses , charnues et dures au toucher constituent le tabac gras .",
+        "words": [
+          "arôme",
+          "tabacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a7c960ea-0245-5822-af08-134674f2d3ef",
+        "value": "000 litres de jus .Le jus de canne est gris verdâtre , opaque ; sa saveur est douce et sucrée , et son odeur rappelle l ' odeur balsamique de la canne .Il contient : Eau de 70 à 75 pour 100 .",
+        "words": [
+          "douce",
+          "odeur",
+          "canne",
+          "son",
+          "sa",
+          "sucrée",
+          "balsamique",
+          "saveur",
+          "jus de canne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a8d993fd-8629-5441-9477-9fad3fdbc1a3",
+        "value": "Au Sénégal , les nègres appellent le Khaya senegalensis ou Swietena senegalmsis , quinquina du Sénégal , arbre qui croît sur les rives de la Gambie , à cause de l ' amertume très prononcée de son éorcec .L ' écorce du Oedrela Guyanensis est aussi utilisée à la Guyane comme écorce fébrifuge .La cascarille , écorce du Croton elatheria , arbrisseau qui croit dans les sols secs et pierreux dans l ' Amérique méridionale , a une odeur aromatique très agréable , surtout quand on la brûle .",
+        "words": [
+          "Guyane",
+          "fébrifuge",
+          "Oedrela Guyanensis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/a9f0af9e-d4f3-5b2a-ab23-52fb0e3f2db3",
+        "value": "Cet alcaloïde se cristallise en filaments blancs et soyeux .Sur 100 grammes de café , le Martinique en contient 3 , 58 Brésil 2 , 90 Java 2 , 52 Moka 2 , 16 Cayenne 2 , 00 Saint - Domingue 1 , 78 On peut dire , en général , que l ' arôme est en raison directe de la dessiccation des grains .Avec l ' âge , le café bien conservé perd de son humidité , et le goût de vert qu ' il possède quand il vient d ' être récolté .",
+        "words": [
+          "Martinique",
+          "café",
+          "grains",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/aa5fb6c1-9bb0-544a-814e-dfbfe55644b4",
+        "value": "Dans les départements du sud - ouest et de l ' ouest , on dessèche généralement le tabac dans des greniers , sous des hangars et dans des granges mal aérées ou sous les auvents que présentent au midi les maisons d ' habitation .Un séchoir est réputé bon , lorsque les rayons du soleil n ' y pénètrent pas , quand il est éloigné des lieux qui produisent des émanations nauséabondes , lorsqu ' il n ' est pas situé dans un endroit humide ou sur le bord d ' un cours d ' eau , lorsqu ' il a des ouvertures et que celles - ci permettent d ' établir à volonté des courants d ' air ; enfin quand on peut facilement y maintenir une chaleur douce .L ' administration publie chaque année qu ' elle accordera des primes aux propriétaires qui construiront des séchoirs d ' après les dispositions des séchoirs que possède la Hol - lande ; mais peu de cultivateurs jusqu ' à ce jour ont profité de ces encouragements , parce que les primes offertes ne sont pas en rapport avec les dépenses que nécessitent ces bâtiments spéciaux .",
+        "words": [
+          "émanations",
+          "nauséabondes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/aa80aafa-55bb-585e-899b-dff80e28c963",
+        "value": "On en brûlait souvent aussi dans le but d ' être agréable au dieu appelé Ataguju .Les Incas croyaient que les parfums qui se dégageaient de ces incinérations montaient au ciel et qu ' ils rendaient heureux les idoles qu ' ils adoraient .Le coca , d ' après des faits mille fois constatés et bien connus , calme la faim , facilite le travail de la digestion et accroît l ' énergie .",
+        "words": [
+          "parfums",
+          "Incas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/ad332013-ab1f-541d-9de1-ef76e37ceb13",
+        "value": "Les feuilles de cette composée servent à faire des infusions très agréables , parfumées , sudorifiques et pectorales , qui remplacent celles qu ' on obtient avec le thé .Leur saveur est astringente .CHAPITRE VII .",
+        "words": [
+          "astringente",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/ad91aa59-258b-5dad-8854-b6539183f8bb",
+        "value": "La moyenne culture les laboure d ' abord à la charrue , et termine leur préparation en les ameublissant avec la bêche .Le fumier donne du poids , de la gomme , un tissu serré et un arome agréable .Les matières fécales sont prohibées dans les localités , où l ' on récolte des feuilles pour le scaferlati et les cigares .",
+        "words": [
+          "agréable",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/ad96906c-cc7f-5cf5-aba6-4ec936f86a01",
+        "value": "On obtient la résine qu ' il renferme en opérant sur les troncs de larges incisions destinées à enlever l ' écorce .On connaît trois sortes de baume du Pérou : le blanc qui est liquide et qui développe une odeur suave , le brun qui est presque solide et le noir qui est sirupeux .Ce dernier est le plus abondant dans le commerce ; son odeur est forte et sa saveur est amère .",
+        "words": [
+          "suave",
+          "odeur",
+          "baume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b1cd360e-698e-5b50-919d-4904d7b8eb16",
+        "value": "Les fleurs doubles sont plus stimulantes que les fleurs simples .Cette plante développe une odeur pénétrante .On la multiplie au moyen de semis exécutés , en avril ou mai à une exposition chaude et abritée .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b272ee6f-23ed-5b8f-8f6d-51dcc2c3bcd8",
+        "value": "Ses feuilles radicales sont oblongues et spatulées ; ses feuilles caulinai - res sont acuminées , sessiles et semi - amplexicaules .Ses fleurs sont blanches en dedans et vertes au dehors ; elles sont très odorantes pendant la nuit .Cette espèce est très cultivée en Perse , dans les parties montagneuses ; elle fournit le tabac appelé à Chiraz tomba - kou ou tombaki .",
+        "words": [
+          "très",
+          "fleurs",
+          "elles",
+          "odorantes",
+          "pendant la nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b314d97b-9012-55d6-a4d4-ad046a7e9cad",
+        "value": "— Cet opium a une cassure homogène et luisante , une couleur brune hépatique ou rougeâtre .Sa saveur est âcre et amère .2 ° Opium de Smyrne .",
+        "words": [
+          "amère",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b363faaa-2ec1-5e05-be38-68c3ef959b82",
+        "value": "Les gros grains subissent une seconde fois l ' action d ' une râpe dite moulin de fin .Le tabac suffisamment fin est emmagasiné en grandes masses dans des cases spéciales bien closes , pour qu ' il fermente , que son arome se développe et qu ' il devienne piquant , énergique et sternutatoire .Pendant cette fermentation qui dure huit à dix mois , la température s ' élève de nou - ( 1 ) Sous le nom de robe on désigne une feuille sans déchirure .",
+        "words": [
+          "tabac",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b3e3c65a-0dc7-5402-b090-1bf4b145ae98",
+        "value": "Elle est tonique et fébrifuge .On la nomme quelquefois quinquina aromatique .CHAPITRE VI .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b4a67d9e-aa62-5126-b95b-323e48860a4e",
+        "value": "Les Egyptiens et les Grecs connaissaient ses propriétés thérapeutiques .Cette plante , que l ' on nomme souvent camomille odorante , est commune dans les lieux secs , chauds et sablonneux du centre et du midi de la France .On la cultive en plein champ en Italie , en Espagne et en France .",
+        "words": [
+          "France",
+          "odorante",
+          "plante",
+          "camomille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b53ced95-564c-5445-b5c5-b4148e8a8674",
+        "value": "6 .Les feuilles du Galycanthus precox ou Ghimonanthus fragrans , qui est originaire de la Chine et du Japon , et dont les fleurs blanches développent une odeur très agréable , remplacent aussi les feuilles de thé .7 .",
+        "words": [
+          "odeur",
+          "très agréable",
+          "fleurs blanches",
+          "Galycanthus",
+          "Ghimonanthus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b56c99e2-237d-53e4-9d24-c7bd52164773",
+        "value": "— Le tabac est à maturité quand ses feuilles se sont légèrement marbrées d ' un jaune - brun , ou de jaune pâle , lorsqu ' elles se crispent à leur extrémité , se cassent net quand on veut les plier , lorsque la surface offre des inégalités ou des boursouflures , et présente une sorte de velouté qu ' on distingue aisément à la réverbération du soleil .Les feuilles , arrivées à cet état , ont une inclinaison prononcée , et elles développent une odeur de nicotine ; en outre , leur surface est gommeuse et elles ont atteint leur développement maximum .Les feuilles destinées à servir de couverture ( robe ) dans la fabrication des cigares , ne doivent pas être récoltées trop mûres .",
+        "words": [
+          "odeur",
+          "elles",
+          "feuilles",
+          "nicotine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b6c75e73-c40c-5953-aa9c-2dcfd2006d37",
+        "value": "Renard contenait 15 pour 100 de morphine .Les graines sont dépourvues de principes narcotiques , mais elles sont oléagineuses .Composition de l ' opium .",
+        "words": [
+          "narcotiques",
+          "graines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b7d3505c-0237-51fd-8028-40989714e0e9",
+        "value": "Dans le Nord , on doit les employer avec prudence et ménagement .Elles communiquent au tabac une odeur particulière peu agréable et le rend ammoniacal ; en outre , les feuilles qu ' on récolte sur les pieds qui ont subi leur influence ont un tissu grossier , spongieux , dépourvu de gomme et elles sont d ' une dessiccation plus difficile .Quand on veut employer ces engrais , il faut les appliquer avant l ' hiver .",
+        "words": [
+          "odeur",
+          "tabac",
+          "feuilles",
+          "particulière peu agréable",
+          "ammoniacal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b91d9710-030d-56ab-b7d7-fcbf25989b76",
+        "value": "Ce procédé appelé terrage , très usité à Caracas , charge toujours les amandes , qui sont alors foncées en couleur , de quelques parties terreuses , mais il rend le goût du cacao moins âpre , plus aromatique .Le point essentiel pour bien réussir est d ' éviter la fermentation putride .Dans d ' autres contrées , après avoir retiré les amandes des cabosses , on les expose de suite à l ' action du soleil pour les faire sécher .",
+        "words": "putride"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/b9f6f973-842d-5705-ae18-7aa3d51ee811",
+        "value": "Elles entrent dans la préparation du baume tranquille .Dans certaines maladies on fume les feuilles sèches des daturas comme on fume celles de la digitale .Dans l ' Inde , les natifs emploient souvent les daturas dans un but criminel .",
+        "words": [
+          "feuilles",
+          "digitale",
+          "fume",
+          "daturas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/ba604f3b-d868-5828-b656-a0895de5a0e9",
+        "value": "Le meilleur est récolté dans la province d ' Utrecht .Le tabac de Maryland est très léger et odorant ; il sert exclusivement à faire du tabac à fumer .Le tabac de Virginie est gras , corsé et aromatique ; il fournit d ' excellente poudre ; celui du Kentucky est moins gras et moins fort .",
+        "words": [
+          "odorant",
+          "léger",
+          "tabac de Maryland"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/bb78008b-f75e-5fe6-bd03-cbae72d3810f",
+        "value": "Feuilles variables , ovales , oblongues , ondulées , légèrement velues , décurrentes sur le pétiole ; les supérieures amplexicaules .Fleurs d ' août à septembre , blanches , à odeur de jasmin ; corolle à tube très long , grêle et à divisions inégales et obtuses .Cette espèce est originaire de la Nouvelle - Hollande , et rappelle un peu le Nicotiana fragrans qui est originaire de la Nouvelle - Calédonie ; elle a été introduite en Europe en 1800 .",
+        "words": [
+          "odeur",
+          "jasmin",
+          "Fleurs",
+          "d ' août à septembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/bca54919-26e4-56fc-9b25-d6a877a0ce07",
+        "value": "Le Brésil produit de très bon tabac .Les bons tabacs à fumer ont des feuilles fines , souples , , minces , des côtes peu prononcées , une couleur jaune - brun ou jaune doré , un goût doux et agréable , une sève abondante , un arome prononcé , une gomme très apparente ; de tels tabacs brûlent facilement et conservent leur feu .Les tabacs de mauvaise qualité sont lourds , rudes , cassants , spongieux ; ils ont une couleur jaune rouge et terne , un goût herbacé ou acide , un arôme âcre , piquant au gosier , une gomme consistante ; des tabacs de qualité aussi secondaire brûlent difficilement , perdent aisément leur feu et fournissent de la poudre qui est peu estimée .",
+        "words": [
+          "arome",
+          "tabacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/bcb30ddf-10b0-56e5-a4a7-66525af7679b",
+        "value": "La cocaïne agit énergiquement sur le système nerveux .Les feuilles ont une odeur qui plaît ; elles laissent dans la bouche une fraîcheur agréable et salubre .Les populations péruviennes les mâchent et avalent leur salive après leur avoir associé un peu de poudre de chaux ou de craie ( Slipta à toccra ) .",
+        "words": [
+          "agréable",
+          "odeur",
+          "bouche",
+          "elles",
+          "salubre",
+          "fraîcheur",
+          "feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/bd1c9291-56a5-52d5-93d4-b7f5a61a003e",
+        "value": "Le café Bourbon a un grain allongé , gros , aigu par un de ses bouts et blanchâtre avec un sillon peu prononcé ; il est presque inodore ; sa saveur est amère ; néanmoins il est recherché à la Réunion .Le cafe de Saint - Domingue a un grain jaunâtre et une saveur peu agréable .Le café de la Havane est petit , régulier et vert jaunâtre ; son sillon le partage en deux parties égales .",
+        "words": [
+          "peu agréable",
+          "saveur",
+          "Saint",
+          "Domingue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/bdabe288-b943-5966-b2e8-12250d0c8762",
+        "value": "On les propage à l ' aide de leurs graines qu ' on sème en pépinière dans un jardin .C ' est lorsque les plants ont un ou deux ans de végétation qu ' on les transplante à demeure en les espa - çant les uns des autres de 0m , 65 ou 0m , 75 , et c ' est lorsqu ' ils sont âgés de huit à dix ans qu ' on leur demande de la gomme adragante .C ' est en opérant des incisions sur les tiges et les ramifications principales qu ' on voit apparaître sur les écorces le suc gommeux à l ' état mou , mais ce suc ne tarde pas à se solidifier sous l ' action de l ' air et du soleil .",
+        "words": [
+          "gomme",
+          "adragante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/beaa8fcf-8d07-5101-97d0-70338dbaf23b",
+        "value": "Le camphre est employé en médecine et en pharmacie .On le regarde comme un excellent aphrodisiaque .DRAGONNIER OU SANG - DRAGON .",
+        "words": [
+          "excellent",
+          "aphrodisiaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/beba0a1f-9f5c-5502-b23a-6213a9ae485c",
+        "value": "Cette huile est siccative .Je ne puis terminer ce chapitre sans dire un mot de l ' Olea fragrans ou Osmanlhus fragrans , arbrisseau de 1 mètre à 1m , 50 , dont des petites fleurs jaunes odorantes servent en Chine , comme celles du jasmin ou Molu - Kwa , à aromatiser le thé .Cet arbuste appartient à la famille des Oléacées .",
+        "words": [
+          "jasmin",
+          "odorantes",
+          "jaunes odorantes",
+          "arbrisseau",
+          "petites fleurs",
+          "aromatiser",
+          "Olea",
+          "Osmanlhus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/bf6faa20-0f76-5f2d-a27c-d0ddecd52217",
+        "value": "Le tabac de Maryland est très léger et odorant ; il sert exclusivement à faire du tabac à fumer .Le tabac de Virginie est gras , corsé et aromatique ; il fournit d ' excellente poudre ; celui du Kentucky est moins gras et moins fort .Le tabac de Connecticut est très estimé sur le marché de New - York .",
+        "words": [
+          "aromatique",
+          "tabac de Virginie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/c4de9c8a-2b9e-5886-b2a1-1c75356a6a07",
+        "value": "Nonobstant , on en fait grand usage dans le nord de la France , en Suisse , en Allemagne , etc .Elle adoucit les propriétés excitantes du café .On la vend sous les noms de café moka , fleur de moka , moka des dames , crème de moka , etc .",
+        "words": [
+          "café",
+          "propriétés excitantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/c6d474ac-c0f4-507e-8d9f-1e618bfbcc62",
+        "value": "Le tabac du Lot est le plus estimé ; il est fort et corsé .La poudre qu ' il fournit a beaucoup de montant , mais elle est privée de l ' arôme pénétrant qui distingue le tabac de Virginie .Le tabac du Lot - et - Garonne est aussi très bon , mais il est moins recherché que le précédent .",
+        "words": [
+          "tabac",
+          "poudre",
+          "pénétrant",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/c88e8b79-b620-58d6-a0fc-dc83749280ff",
+        "value": "Il provient de la première récolte des thés verts et ne subit pas une torréfaction aussi prolongée .Son parfum est agréable , mais sa saveur est un peu acre si on le prend seul .2 ° Thé poudre à , canon ou tchoû - t ' châ ( perlé ) .",
+        "words": [
+          "agréable",
+          "parfum",
+          "Son",
+          "sa",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/c9500ddb-e634-56f4-a51e-0fc05f1b16e1",
+        "value": "Plantes aromatiques .— Plantes à parfums .Plantes à .",
+        "words": [
+          "parfums",
+          "Plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/ca7886e5-c101-543e-a581-13167437c4e5",
+        "value": "Sur 100 grammes de café , le Martinique en contient 3 , 58 Brésil 2 , 90 Java 2 , 52 Moka 2 , 16 Cayenne 2 , 00 Saint - Domingue 1 , 78 On peut dire , en général , que l ' arôme est en raison directe de la dessiccation des grains .Avec l ' âge , le café bien conservé perd de son humidité , et le goût de vert qu ' il possède quand il vient d ' être récolté .De plus , sa densité diminue ainsi que le nombre de grains contenus dans un décimètre cube .",
+        "words": [
+          "goût",
+          "café bien conservé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/cb5dfab0-1513-51bb-a984-b220f60a8ebe",
+        "value": "La racine de gingembre à l ' état normal est grise ou gris - brun ; sa saveur est âcre ; son odeur est forte , pénétrante , et elle provoque l ' éternuement .La racine qui a été décortiquée est blanchâtre ; son odeur est forte , mais elle est moins aromatique , moins huileuse ; par contre , sa saveur est plus forte , plus brûlante .Le gingembre qui vient de la Jamaïque est blanc jaunâtre , parce qu ' il a été mondé et séché au soleil .",
+        "words": [
+          "forte",
+          "odeur",
+          "son",
+          "elle",
+          "racine",
+          "sa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/cefde7c7-6431-556f-b95f-88ba1089fcf5",
+        "value": "Quand on craint la pluie on les rentre immédiatement .Les feuilles une fois détachées des tiges se détériorent facilement sous l ' action de la rosée ou des pluies ; elles perdent de leur partie gommeuse , de leur sève et de leur parfum .C ' est donc à tort qu ' on les laisserait passer la nuit dans les champs , dans les parties du nord , de l ' est ou du sud - ouest de la France .",
+        "words": [
+          "parfum",
+          "elles",
+          "feuilles",
+          "sève"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/cf556810-5a4b-5518-9990-b2bce411a273",
+        "value": "de jus .Ce jus est intermédiaire , quant à son arôme , entre l ' alcool de la canne et l ' alcool de la betterave .La richesse saccharine du jus varie entre 10 et 20 pour 100 .",
+        "words": [
+          "jus",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d1ed800d-b0b2-5758-ad2c-40be01ff7eb0",
+        "value": "Ce produit est rarement pur .Son odeur est peu agréable .4 .",
+        "words": [
+          "odeur",
+          "Son",
+          "peu agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d59e727d-102e-5f90-8eba-dfc39a969d21",
+        "value": "Capsule presque ronde dépassant à peine le calice .Cette espèce , originaire du Mexique , fournit un tabac parfumé et principalement le tabac de Manille , mais moins fort que le tabac des espèces précédentes .Elle est peu délicate et très répandue dans le midi de l ' Europe , en Asie , en Afrique et en Egypte .",
+        "words": [
+          "Manille",
+          "parfumé",
+          "tabac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d640b14b-39a1-5b50-a531-ffc3fd383a18",
+        "value": "5 ° Opium de Perse .— 11 est de couleur rougeâtre ; son odeur est plus prononcée que celle développée par l ' opium égyptien .On le récolte dans les provinces d ' Ispahan , Fars , Khorassan , etc .",
+        "words": [
+          "odeur",
+          "son",
+          "11",
+          "plus prononcée",
+          "opium égyptien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d6ab72bc-450c-5265-b925-476491c07ce2",
+        "value": "Ceux de Perse et principalement les tabacs de Chiraz sont remarquables par leur belle qualité .Les tabacs de Java et de Sumatra sont fins et très parfumés .Au nombre des tabacs récoltés dans la Macédoine , on distingue principalement ceux qu ' on récolte dans les plaines et qu ' on nomme Guibeck .",
+        "words": [
+          "parfumés",
+          "Java",
+          "Sumatra",
+          "tabacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d77e4629-b7bd-5934-8bff-c615f7d581a9",
+        "value": "Ses feuilles sont composées de 4 à 6 paires de 9 folioles glabres , ovales et dentées ou sommet .Ses fleurs blanches , en panicules pendantes à l ' extrémité des rameaux , exhalent une odeur agréable ; elles s ' épanouissent en mai et juin .Ses graines mûrissent en automne .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs",
+          "en mai et juin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d7f18034-8f62-5a9d-a1eb-a80b3bf636ee",
+        "value": "Cette poudre est blanche .La résine sandaraque est astringente , stimulante , diurétique .On l ' utilise aussi en médecine .",
+        "words": [
+          "diurétique",
+          "astringente",
+          "stimulante",
+          "résine sandaraque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/d85f404e-45b4-5aea-ac7b-a1cd5151932b",
+        "value": "La couleur a pour cause principale l ' influence exercée par le sol , le climat , le degré de maturité et l ' âge du café .Les cafés qui proviennent de caféiers situés sur les élévations ont une couleur claire , un arome prononcé comme le Moka , le Bourbon , le Java , etc .; ceux qui ont été récoltés dans les caféières situées sur des terrains bas et humides sont tou - jours plus développés , avec une nuance verdâtre et un goût de vert très accusé , comme le Martinique , le Guadeloupe , le Haïti , etc .",
+        "words": [
+          "prononcé",
+          "Bourbon",
+          "Java",
+          "arome",
+          "cafés",
+          "Moka"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/dabd4cdb-864b-5919-b656-fb553629e1c6",
+        "value": "La résine balsamique qu ' il fournit est employée en médecine et dans le feutrage .Cette résine est d ' abord fluide et jaunâtre , mais elle s ' épaissit promptement quand elle est en contact de l ' air ; sa saveur est amère et son odeur très désagréable .8 ° Le Boswellia thurifera , grand arbre des montagnes du centre de l ' Inde , fournit un baume jaune - orange à odeur très agréable , qui est très employé en médecine sous le nom de Gunda .",
+        "words": [
+          "odeur",
+          "son",
+          "sa",
+          "amère",
+          "très désagréable",
+          "Cette résine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e052fe45-eec0-54d1-9947-0c3891ef5a32",
+        "value": "en Turquie , Perse , en Cochinchine , Chine , dans l ' Inde et au Japon .Les tabacs de Syrie les plus recherchés sont d ' abord le tabac noir de Sinai , ceux de Yenidjé - Karasou , puis les tabacs brun clair de Salonique , Alep , Djebal et Yanina , et ensuite les tabacs dits Latakieh ou Latakié et le tabac Tombaki qui sont très parfumés .Les meilleurs tabacs de Manille et des Philippines sont partout regardés comme de premier choix .",
+        "words": [
+          "Alep",
+          "tabac",
+          "parfumés",
+          "tabacs",
+          "Salonique",
+          "tabac noir",
+          "Djebal",
+          "Yanina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e07d3c49-7983-5cbe-ba51-6212cc0b3b28",
+        "value": "Le gingembre qui vient de la Jamaïque est blanc jaunâtre , parce qu ' il a été mondé et séché au soleil .On y observe des stries longitudinales ; son odeur est forte et agréable .Le gingembre le plus répandu dans le commerce présente deux ou trois tubercules réunis ; son épiderme gris jaunâtre couvre une couche rouge ou brunâtre .",
+        "words": [
+          "agréable",
+          "forte",
+          "odeur",
+          "son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e09b8348-f308-58d4-ba20-999ede8c730d",
+        "value": "Elle sert aussi à préparer le vin , le sirop , la tisane et l ' eau d ' absinthe , le baume tranquille , la poudre vermifuge .Les brasseurs substituent parfois l ' absinthe au houblon ; la bière qui en résulte est très enivrante .On remplace quelquefois la grande absinthe par deux autres espèces : 1 ° La petite absinthe ou absinthe pemtique ( ABTEHISIA PONTICA , L .",
+        "words": [
+          "bière",
+          "enivrante",
+          "houblon",
+          "très enivrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e15731af-3995-5699-a098-9e579ef283c5",
+        "value": "Elle fleurit en juillet .Lorsqu ' elle est en fleur , elle a une saveur très acre , très amère et une odeur fortement vireuse .Ces deux plantes peuvent être cultivées dans toute l ' Europe , mais la première végète mieux dans les climats frais que dans les contrées chaudes .",
+        "words": [
+          "odeur",
+          "elle",
+          "saveur",
+          "très acre",
+          "fortement vireuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e1b96905-22ff-5102-b63b-70601a8f2d8a",
+        "value": "Ils doivent être espacés en tous sens de 0m , 25 à 0m , 30 .Pendant l ' été , on opère les binages nécessaires , et on arrose pendant les fortes chaleurs , si les circonstances l ' exigent et le permettent .L ' année suivante , on répète les mêmes soins d ' entretien .",
+        "words": [
+          "arrose",
+          "Pendant l ' été"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e284d711-5d7f-579e-942a-5718f488c2ab",
+        "value": "Si vers le sixième ou le huitième jour on constatait , en plongeant la main dans le milieu des masses , un commencement de fermentation , il faudrait ne pas tarder de les démonter .Les feuilles qui fermentent dans les masses d ' une manière apparente , deviennent sèches et perdent leur gomme et leur arôme .Triage des feuilles .",
+        "words": [
+          "feuilles",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e468ad48-a606-5ba1-b7dc-85dd93415470",
+        "value": "— Usages .Les anciens peuples connaissaient le gingembre comme plante aromatique .Il a été mentionné par Dioscoride et Pline .",
+        "words": [
+          "aromatique",
+          "gingembre",
+          "plante aromatique",
+          "anciens peuples"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e729c337-37ef-5ea7-b47a-806e0159f5c4",
+        "value": "Les tabacs du département d ' Ile - et - Vilaine doivent leur qualité secondaire à la nature argileuse et humide des marais sur lesquels on les cultive .Le tabac qu ' on récolte en Belgique et en Hollande sur les polders argileux et humides est acre , peu odorant et manque d ' onctuosité .Il en est de même du tabac qui est cultivé sur la vaste tourbière de Peel ( Hollande ) .",
+        "words": [
+          "Belgique",
+          "odorant",
+          "tabac",
+          "Hollande"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/eb0b548b-39d9-55fb-9f00-98c011299447",
+        "value": "Ses feuilles toujours vertes sont glabres , opposées , ovales , lancéolées et très entières .Ses fleurs , blanches ou ambrées , rappellent par leur odeur suave celle du jasmin d ' Espagne .Ses fruits sont bacciformes et en grappes axillaires ; leur diamètre dépasse rarement 0m , 015 : ils comprennent deux loges séparées par une cloison et contiennent deux graines juxta - posées .",
+        "words": [
+          "Espagne",
+          "suave",
+          "odeur",
+          "fleurs",
+          "leur",
+          "jasmin d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/f046c2f4-cf31-5496-9eaf-111d3a83920c",
+        "value": "Elle occupe d ' importantes surfaces dans l ' Inde et dans les îles du Cap - Vert .Cette plante est élégante et a le port d ' un petit arbre ; mais elle développe une odeur vireuse peu agréable .Sa tige est arrondie , grisâtre et grosse comme le bras ; ses feuilles sont alternes , larges et longuement pétiolées : ses fleurs sont pâles , jaunes et disposées en cymes corymbiformes ; les fleurs mâles sont terminales et les fleurs femelles axillaires ; elles produisent des fruits à trois coques monospermes contenant chacune une semence noire .",
+        "words": [
+          "odeur",
+          "elle",
+          "plante",
+          "vireuse peu agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/f0f6f56f-e098-5b86-9076-fd1ea7f20933",
+        "value": "Les chaleurs excessives crispent les feuilles , arrêtent leur développement , et réduisent le poids du produit .Les brouillards altèrent le parfum des feuilles , et modifient la solidité de leur tissu .Les vents violents brisent les tiges , déchirent et anéantissent les feuilles ; la grêle et les pluies d ' orage produisent les mêmes désastres .",
+        "words": [
+          "parfum",
+          "feuilles",
+          "brouillards"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/f4657bce-3baa-5519-833b-f4dcf2feef1d",
+        "value": "Comme toutes les autres plantes herbacées épyphites , qui appartiennent au genre Angroecum , cette orchidée produit des feuilles coriaces , en rubans longs de 0m , 08 à 0m , 12 et larges de 8 à 14 millimètres .Ces feuilles développent un parfum très agréable qui rappelle assez bien celui que possède la vanille .Ce principe odorant a pour base la couma - rine qu ' on trouve dans la fève tonka .",
+        "words": [
+          "parfum",
+          "très agréable",
+          "feuilles",
+          "vanille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/f5c8e3e5-fa14-575b-9563-1b6b1a32cfb3",
+        "value": "Au Cap de Bonne - Espérance , l ' arak ou rhum des nègres est une eau - de - vie extraite de la canne à sucre .A la température de 205 ° , le sucre se transforme en caramel avec une odeur particulière , et il devient un colorant qui est très en usage dans l ' économie domestique .La bagasse sert à fertiliser les champs consacrés à la culture de la canne , ou on l ' emploie comme combustible , ou bien on l ' utilise dans l ' alimentation des bêtes à cornes .",
+        "words": [
+          "odeur",
+          "particulière",
+          "sucre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/f5e4a440-4735-555f-8a83-e16b044e2b3d",
+        "value": "Variétés commerciales .La racine de gingembre à l ' état normal est grise ou gris - brun ; sa saveur est âcre ; son odeur est forte , pénétrante , et elle provoque l ' éternuement .La racine qui a été décortiquée est blanchâtre ; son odeur est forte , mais elle est moins aromatique , moins huileuse ; par contre , sa saveur est plus forte , plus brûlante .",
+        "words": [
+          "pénétrante",
+          "forte",
+          "âcre",
+          "odeur",
+          "son",
+          "elle",
+          "sa",
+          "saveur",
+          "racine de gingembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/fc4caa59-1d76-55bc-9727-2aa18d188bed",
+        "value": "TROISIÈME DIVISION .LES ARBRES LACTICIFÈRES .Les lames qu ' on obtient ainsi servent , en les superposant , à faire des pains ronds ou des rouleaux qui sont livrés au commerce .",
+        "words": [
+          "ARBRES",
+          "LACTICIFÈRES"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/fd60f482-7ddc-55f8-8cd8-b22460914265",
+        "value": "Ceux qui sont situés à mi - côte ont des feuilles moins larges , mais les thés quon en obtient ont plus de valeur .Les arbustes qu ' on rencontre sur les plateaux élevés ont des feuilles plus petites , mais les thés qu ' ils fournissent sont très aromatiques .Les thés chinois les plus recherchés , les plus estimés et les plus chers , sont récoltés dans les montagnes des provinces de Fo - King et de Tche - Kiang , qui sont de très belles contrées .",
+        "words": [
+          "aromatiques",
+          "arbustes",
+          "plateaux",
+          "thés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/fdf63155-17a7-5d27-8fbc-de39531be495",
+        "value": ".91 Pavot blanc ou medicinal ..",
+        "words": [
+          "Pavot",
+          "medicinal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/fea7bbbd-0f49-5311-b3c8-67acf6d241ea",
+        "value": "l ' hectare .A la Havane , le sol qui dans la Vuelta de Abajo , produit du tabac qui n ' a pas de rival sous le rapport de la finesse et de l ' arôme , contient sur 100 parties 90 de sable , 6 à 7 d ' argile et 2 à 3 d ' humus , et un peu de potasse .Lorque l ' argile s ' élève à 10 pour 100 dans les Partidas , le tabac est plus fort et il contient plus de nicotine .",
+        "words": [
+          "tabac",
+          "sol",
+          "arôme",
+          "Havane",
+          "la Vuelta de Abajo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/febeadf8-4d94-56b0-81f2-6f937fae68ce",
+        "value": "Cet arbre aromatique et toujours vert est de petite taille ; il a des feuilles opposées , pétiolées , ovales et oblongues .Ses racines contiennent une essence jaunâtre à odeur camphrée , qui peut donner du camphre .Cette espèce est indigène dans les îles de la Sonde , de Ceylan , aux Moluques et dans l ' Inde .",
+        "words": [
+          "odeur",
+          "camphre",
+          "racines",
+          "essence",
+          "camphrée"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6e5e9254-faf1-5a3e-b987-580a3e6e8264",
+        "label": "Gustave  Heuzé"
+      }
+    ],
+    "label": "Les plantes industrielles. Plantes narcotiques, saccharifères, pseudo-alimentaires, lactifères, résineuses, astringentes, médicinales et funéraires / par Gustave Heuzé,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k165926r",
+    "date": "1893/1895",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/227",
+      "label": "Tobacco"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3711326f-a69f-5f94-b6a8-7fe04cc1eff5",
+      "label": "1893/1895",
+      "begin": "1893",
+      "end": "1895"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/170063/",
+      "label": "Aleppo"
+    },
+    {
+      "@id": "https://sws.geonames.org/261779/",
+      "label": "Ioannina"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/de1994c1-f3b6-50c4-a80c-e9b0905574c2",
+      "label": "Salonique"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/43d9393e-9b7f-54b1-abcc-c1ca463cb086",
+      "label": "Djebal"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/e20eb523-484c-594d-b255-2e08472b2ad9/fragment/e052fe45-eec0-54d1-9947-0c3891ef5a32",
+  "license": "Public domain"
+}

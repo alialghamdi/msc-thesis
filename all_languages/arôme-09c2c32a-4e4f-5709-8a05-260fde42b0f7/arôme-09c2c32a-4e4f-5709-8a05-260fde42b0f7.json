@@ -1,0 +1,242 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/09c2c32a-4e4f-5709-8a05-260fde42b0f7",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "arôme",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/060ee7d5-97a6-5385-9aac-a9360b723f19",
+        "value": "Aux coussins de byssus , dans la pourpre des lits , Sans bruit , parfois un corps de marbre rose ou d ' ambre Ou se soulève à peine ou s ' allonge ou se cambre \" ; Le lin voluptueux dessine de longs plis .Sentant a sa chair nue errer l ' ardent effluve , Une femme d ' Asie , au milieu de l ' étuve , Tord ses bras énervés en un ennui serein ; Et le pâle troupeau des filles d ' Ausonie S ' enivre de la riche et sauvage harmonie Des noirs cheveux roulant sur un torse d ' airain .FFERROUD .",
+        "words": [
+          "femme",
+          "effluve"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/0ad58cf4-58f4-50e0-91e5-3c6f29c855b9",
+        "value": "rtiN un calme enchanté , sous l ' ample frondaison De la forêt , berceau des antiques alarmes , Une aube merveilleuse avivait de ses larmes , Autour d ' eux , une étrange et riche floraison .Par l ' air magique où flotte un parfum de poison , Sa parole semait la puissance des charmes ; Le Héros la suivait et sur ses belles armes Secouait les éclairs de l ' illustre Toison .Illuminant les bois d ' un vol de pierreries , De grands oiseaux passaient sous les voûtes fleuries Et dans les lacs d ' argent pleuvait l ' azur des cieux .",
+        "words": [
+          "parfum",
+          "air",
+          "poison",
+          "magique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/0ec6d347-7e78-5695-a0b8-93eabb919c16",
+        "value": "Criblant le dôme obscur , Midi splendide y rôde Et , sur mes cils mi - clos alanguis de sommeil , De mille éclairs furtifs forme un réseau vermeil Qui s ' allonge et se croise à travers l ' ombre chaude .A7ers la gaze de feu que trament les rayons , Vole le frêle essaim des riches papillons Qu ' enivrent la lumière et le parfum des sèves ; Alors mes doigts tremblants saisissent chaque fil Et dans les mailles d ' or de ce filet subtil , Chasseur harmonieux , j ' emprisonne mes rêves .LA CONQUE PAR quels froids Océans , depuis combien d ' hivers , — Qui le saura jamais , Conque frêle et nacrée ! — La houle , les courants et les raz de marée T ' ont - ils roulée au creux de leurs abîmes verts ? Aujourd ' hui , sous le ciel , loin des reflux amers , Tu t ' es fait un doux lit de l ' arène dorée .",
+        "words": [
+          "parfum",
+          "sèves",
+          "enivrent",
+          "gaze de feu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/2fcba724-7b10-5377-8438-19093c52459b",
+        "value": "LE RÉVEIL D ' UN DIEU EA chevelure éparse et la gorge meurtrie , Irritant par les pleurs l ' ivresse de leurs sens , Les femmes de Byblos , en lugubres accents , Mènent la funéraire et lente théorie .Car sur le lit jonché d ' anémone fleurie Où la Mort avait clos ses longs yeux languissants , Repose , parfumé d ' aromate et d ' encens , Le jeune homme adoré des vierges de Syrie .Jusqu ' à l ' aurore ainsi le choeur s ' est lamenté .",
+        "words": [
+          "parfumé",
+          "encens",
+          "aromate",
+          "anémone"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/3088ac53-db00-551d-910a-caaf759287d1",
+        "value": "C ' est là que Gracchus a parlé Et l ' airain vibre encor de la rumeur du verbe .LE CYDNUS oous l ' azur triomphal , au soleil qui flamboie , La trirème d ' argent blanchit le fleuve noir Et son sillage y laisse un parfum d ' encensoir Avec des sons de flûte et des frissons de soie .A la proue éclatante où l ' épervier s ' éploie , Hors de son dais royal se penchant pour mieux voir , Cléopâtre debout en la splendeur du soir Semble un grand oiseau d ' or qui guette au loin sa proie .",
+        "words": [
+          "soie",
+          "parfum",
+          "son",
+          "encensoir",
+          "frissons",
+          "flûte",
+          "trirème",
+          "CYDNUS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/353fe2b0-0c07-5cdd-baa2-8321f49c1016",
+        "value": "En ses yeux glauques brille un sinistre dessein , Et chaque battement de son coeur fait se tordre Les vipères d ' azur qui rampent sur son sein .ARTÉMIS JL ' ACRE senteur des bois montant de toutes parts , Chasseresse , a gonflé ta narine élargie , Et , dans ta virginale et virile énergie , Rejetant tes cheveux en arrière , tu pars ! Et du rugissement des rauques léopards Jusqu ' à la nuit tu fais retentir Ortygie , Et bondis à travers la haletante orgie Des grands chiens éventrés sur l ' herbe rouge épars .Et , bien plus , il te plaît , Déesse , que la ronce Te morde et que la dent ou la griffe s ' enfonce Dans tes bras glorieux que le fer a vengés ; Car ton coeur veut goûter cette douceur cruelle De mêler , en tes jeux , une pourpre immortelle Au sang horrible et noir des monstres égorgés .",
+        "words": [
+          "bois",
+          "ACRE senteur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/3a19b84d-2a53-5acf-b34e-95fe44851dba",
+        "value": "C ' est pourquoi les soldats , par force et par prière , Contraignirent leur chef à tourner en arrière , Et , malgré lui , disant un éternel adieu Au triste eampement du port de Saint - Mathieu , Pizarre , par la mer nouvellement ouverte , Avec Bartolomé suivant la découverte , Sur un seul brigantin d ' un faible tirant d ' eau Repartit , et , doublant Punta de Pasado , Le bon pilote Ruiz eut la fortune insigne , Le premier des marins , d ' avoir franchi la Ligne Et poussé plus au sud du monde Occidental .La côte s ' abaissait , et les bois de santal Exhalaient sur la mer leurs brises parfumées .De toutes parts montaient de légères fumées , Et les marins , joyeux , accoudés aux haubans , Voyaient les fleuves luire en tortueux rubans A travers la campagne , et tout le long des plages Fuir des champs cultivés et passer des villages .",
+        "words": [
+          "parfumées",
+          "mer",
+          "bois de santal",
+          "côte",
+          "Exhalaient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/3ec01a0c-0698-56b3-9480-c81cb82063b7",
+        "value": "Les chiffres enlacés que liait l ' entrelacs S ' effacent chaque jour de la peau fine et blanche ; A peine si mes yeux peuvent suivre la branche De lierre que tu fis serpenter sur les plats .Mais cet ivoire souple et presque diaphane , Marguerite , Marie , ou peut - être Diane , De leurs doigts amoureux l ' ont jadis caressé ; Et ce vélin pâli que dora Clovis Eve Évoque , je ne sais par quel charme passé , L ' âme de leur parfum et l ' ombre de leur rêve .LA DOGABESSE EE palais est de marbre où , le long des portiques , Conversent des seigneurs que peignit Titienj Et les colliers massifs au poids du marc ancien Rehaussent la splendeur des rouges dalmatiques .",
+        "words": [
+          "parfum",
+          "leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/40281614-1b2b-5dc3-a126-8f9158894416",
+        "value": "Sur la roche uniformément grise Où la lame sans fin de l ' Atlantique brise , Le pétale fané pend au dernier pistil .Et pourtant je ne sais quel arôme subtil Exhalé de la mer jusqu ' à moi par la brise , D ' un effluve si tiède emplit mon coeur qu ' il grise ; Ce souffle étrangement parfumé , d ' où vient - il ? Ah ! Je le reconnais .C ' est de trois mille lieues Qu ' il vient , de l ' Ouest , là - bas où les Antilles bleues Se pâment sous l ' ardeur de l ' astre occidental ; Et j ' ai , de ce récif battu du flot kymrique , Respiré dans le vent qu ' embauma l ' air natal La fleur jadis éclose au jardin d ' Amérique .",
+        "words": [
+          "subtil",
+          "parfumé",
+          "tiède",
+          "souffle",
+          "arôme",
+          "effluve",
+          "étrangement parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/416a970a-e104-56c5-9ea0-5625bc6d0c5e",
+        "value": "Il a peint l ' Océan splendide , immense et triste , Où le nuage laisse un reflet d ' améthyste , L ' éméraude écumante et le calme saphir ; Et fixant l ' eau , l ' air , l ' ombre et l ' heure insaisissables , Sur une toile étroite il a fait réfléchir Le ciel occidental dans le miroir des sables .BRETAGNE POUR que le sang joyeux dompte l ' esprit morose , Il faut , tout parfumé du sel des goémons , Que le souffle atlantique emplisse tes poumons ; Arvor t ' offre ses caps que la mer blanche arrose .L ' ajonc fleurit et la bruyère est déjà rose .",
+        "words": [
+          "parfumé",
+          "BRETAGNE",
+          "sel des goémons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/60789ef6-6e8f-5416-aa2a-089809ae2edc",
+        "value": "Certe , aux champs de l ' espace , en ces combats étranges , Que les noirs Séraphins livrèrent aux Archanges , Cet écu fut gagné par un Raron du ciel ; Comme ceux qui jadis prirent Constantinople , Il porte , en bon croisé , qu ' il soit George ou Michel , Le soleil , besant d ' or , sur la mer de sinople .ARMOR POUR me conduire au Raz , j ' avais pris à Trogor Un berger chevelu comme un ancien Evhage ; Et nous foulions , humant son arôme sauvage , L ' âpre terre kymrique où croît le genêt d ' or .Le couchant rougissait et nous marchions encor , Lorsque le souffle amer me fouetta le visage ; Et l ' homme , par delà le morne paysage Étendant un long bras , me dit : Sell euz ar - mor ! Et je vis , me dressant sur la bruyère rose , L ' Océan qui , splendide et monstrueux , arrose Du sel vert de ses eaux les caps de granit noir ; Et mon coeur savoura , devant l ' horizon vide Que reculait vers l ' Ouest l ' ombre immense du soir , L ' ivresse de l ' espace et du vent intrépide .",
+        "words": [
+          "sauvage",
+          "son",
+          "nous",
+          "arôme",
+          "j",
+          "genêt",
+          "Trogor",
+          "au Raz"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/657fe223-613b-5cc3-aec7-0761f217845d",
+        "value": "Et le Romain sentait sous la lourde cuirasse , Soldat captif berçant le sommeil d ' un enfant , Ployer et défaillir sur son coeur triomphant Le corps voluptueux que son étreinte embrasse .I ^ ournant sa tête pâle entre ses cheveux bruns Vers celui qu ' enivraient d ' invincibles parfums , Elle tendit sa bouche et ses prunelles claires ; Et sur elle courbé , l ' ardent Imperator Vit dans ses larges yeux étoiles de points d ' or Toute une mer immense où fuyaient des galères .1LIX0NI DEO FAB .",
+        "words": [
+          "bouche",
+          "parfums",
+          "tête",
+          "invincibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/6db14fb2-5f48-5f3f-8135-73fba35d2d4e",
+        "value": "Les bois sont verts , et voici la saison D ' immoler à Faunus , en ses retraites sombres , Un bouc noir ou l ' agnelle à la blanche toison .LE TEPIDARIUM EA - myrrhe a parfumé leurs membres assouplis ; Elles rêvent , goûtant la tiédeur de décembre , Et le brasier de bronze illuminant la chambre Jette la flamme et l ' ombre à leurs beaux fronts pâlis .Aux coussins de byssus , dans la pourpre des lits , Sans bruit , parfois un corps de marbre rose ou d ' ambre Ou se soulève à peine ou s ' allonge ou se cambre \" ; Le lin voluptueux dessine de longs plis .",
+        "words": [
+          "parfumé",
+          "myrrhe",
+          "chambre",
+          "décembre",
+          "TEPIDARIUM"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/74efc302-38bf-5aed-86a4-90b283a69c17",
+        "value": "SOIR DE BATAILLE EE choc avait été très rude .Les tribuns Et les centurions , ralliant les cohortes , Humaient encor dans l ' air où vibraient leurs voix fortes La chaleur du carnage et ses acres parfums .D ' un oeil morne , comptant leurs compagnons défunts , Les soldats regardaient , comme des feuilles mortes , Au loin , tourbillonner les archers de Phraortes ; Et la sueur coulait de leurs visages bruns .",
+        "words": [
+          "air",
+          "parfums",
+          "acres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/82023e28-ccf2-5510-ac1f-009df0e4f240",
+        "value": "Et d ' un bout de la salle immense à l ' autre bout , Dompté par l ' oeil terrible où la colère bout , Le troupeau monstrueux en renâclant recule .FUITE DE CENTAURES ILS fuient , ivres de meurtre et de rébellion , Vers le mont escarpé qui garde leur retraite ; La peur les précipite , ils sentent la mort prête Et flairent dans la nuit une odeur de lion .Ils franchissent , foulant l ' hydre et le stellion , : Ravins , torrents , halliers , sans que rien les arrête ; Et déjà , sur le ciel , se dresse au loin la crête De l ' Ossa , de l ' Olympe ou du noir Pélion .",
+        "words": [
+          "odeur",
+          "lion",
+          "mont escarpé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/83fd6ca5-6786-56ae-8e20-70d6e22449ec",
+        "value": "ÉDITEUR NESSUS Du temps que je vivais à mes frères pareil Et comme eux ignorant d ' un sort meilleur ou pire , Les monts Thessaliens étaient mon vague empire Et leurs torrents glacés lavaient mon poil vermeil .Tel j ' ai grandi , beau , libre , heureux , sous le soleil ; Seule , éparse dans l ' air que ma narine aspire , La chaleureuse odeur des cavales d ' Epire Inquiétait parfois ma course ou mon sommeil .Mais depuis que j ' ai vu l ' Epouse triomphale Sourire entre les bras de l ' Archer de Stymphale , Le désir me harcèle et hérisse mes crins ; Car un Dieu , maudit soit le nom dont il se nomme ! A mêlé dans le sang enfiévré de mes reins Au rut de l ' étalon l ' amour qui dompte l ' homme .",
+        "words": [
+          "odeur",
+          "air",
+          "j",
+          "chaleureuse",
+          "parfois ma course ou mon sommeil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/aa154f3c-ea3e-567f-945d-0163ac78c407",
+        "value": "■ • LE BAIN ■ ■ \" ; ' ■ E ' HOMME et la bête , tels que le beau monstre antique , Sont entrés dans la mer , et nus , libres , sans frein , Parmi la brume d ' or de l ' acre pulvérin , Sur le ciel embrase font un groupe athlétique .Et l ' étalon sauvage et le dompteur rustique , Humant à pleins poumons l ' odeur du sel marin , Se plaisent à laisser sur la chair et le crin Frémir le flot glacé de la rude Atlantique .La houle s ' enfle , court , se dresse comme un mur Et déferle .",
+        "words": [
+          "odeur",
+          "sel",
+          "chair"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/e535e523-d40b-56d2-b946-1b8df85e4b92",
+        "value": "Qu ' importe un monument funéraire , des cierges , Le psaume et la chapelle ardente et l ' ex - voto ? Puisque le vent du Nord , parmi les cyprières , Pleure et chante à jamais d ' éternelles prières Sur le Grand Fleuve où gît Hernando de Soto .CAROLO QUINTO IMPERANTE CELUI - LÀ peut compter parmi les grands défunts , Car son bras a guidé la première carène A travers l ' archipel des Jardins de la Reine Où la brise éternelle est faite de parfums .Plus que les ans , la houle et ses acres embruns , Les calmes de la mer embrasée et sereine Et l ' amour et l ' effroi de l ' antique sirène Ont fait sa barbe blanche et blancs ses cheveux bruns .",
+        "words": [
+          "parfums",
+          "archipel des Jardins de la Reine",
+          "grands défunts"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/5e4b405a-e614-5b91-9881-ddf849ca9c98",
+        "label": "José Maria de  Heredia"
+      }
+    ],
+    "label": "Les trophées / par José-Maria de Heredia ; [avec des planches de G. Rochegrosse gravées par E. Decisy]",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5460394q",
+    "date": "1914",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f5b0a0f0-ba64-5e68-8930-5b07c4e72a9d",
+      "label": "1914",
+      "begin": "1914",
+      "end": "1914"
+    }
+  ],
+  "place": [
+    {
+      "@id": "http://data.odeuropa.eu/place/33ad47a0-9fa7-5f76-9e4c-c2255225acad",
+      "label": "Trogor"
+    },
+    {
+      "@id": "https://sws.geonames.org/118694/",
+      "label": "Rāz"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/anger",
+      "label": "anger"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/desire",
+      "label": "desire"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/courage",
+      "label": "courage"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/excitement",
+      "label": "excitement"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/203641e2-a459-5d2c-a287-fe674cc2f09c/fragment/60789ef6-6e8f-5416-aa2a-089809ae2edc",
+  "license": "Public domain"
+}

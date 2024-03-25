@@ -1,0 +1,75 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f4da0ea5-26c6-5ee7-8ba1-c45f9729564e",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "odour",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/c96de2cb-b37a-5f9c-84e3-c12ec0baa396",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/c96de2cb-b37a-5f9c-84e3-c12ec0baa396/fragment/2cd5a052-3d3e-58b0-a3e7-fbd42204c811",
+        "value": "II G 82 OLD TOURAINE The Guises were fairly maddened with blood ; gallows and scaffold were not enough for them ; heads were stuck upon the railings of the castle , the markets were befouled with the dead bodies , the Loire rolled thick with human corpses , the chateau and the woods were crammed with dead : a man was brought in while De Guise was breakfasting , hung by the neck to the window - bars , and sent with a stab to join the others .The whole place reeked like a shambles , so that the Queen - mother , persuaded by the softer spirits of her Court , left Amboise at last , and riding through the woods still filled with ghastly traces of the massacre , massacre , carried off the young King and Queen to forget the heretics in fresh riots and debauchery at Chenonceaux .1 Only one among the Guises had shown any compassion compassion for the martyrs , Anne d ' Este , the daughter of Renee de France and the Duke of Ferrara , and mother of Madame de Montpensier and Henri this man had already laid down his life for the royal family at Amboise .",
+        "words": [
+          "reeked",
+          "The whole place",
+          "like a shambles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c96de2cb-b37a-5f9c-84e3-c12ec0baa396/fragment/3983f170-8bdb-546c-91d6-6914ff0580a1",
+        "value": "Gatien lived and prayed , are still to be seen ; but the modern buildings ( of the Sacred Heart ) contrast contrast somewhat too sharply with the bygone religious memories which the place unconsciously awakens , and which are preserved in the old door and shortened shortened spire , alone , that face the entrance .But the impressions of the modern Marmoutier are at least far preferable to the terrible disappointment that awaits the visitor to Plessis - lez - Tours ; he must boldly discard the vision that the scenes of Qnentin Durward Durward conjured up , he must approach with more than one sense blunted to the possibilities of offence , for the abode of the once dreadful Louis is reduced to an evil - smelling shed filled with the carts of the night scavengers .There can still be traced ( chiefly in the imagination imagination of the attendant ghoul ) the outline and the walls and ditches of the park , the little nook beneath a stairway where Balue was hidden in his cage , and certain problematical and earthy hollows which are supposed to lead by subterranean passages to the town of Tours ; at their other end was the house of Tristan l ' Hermite ; the house that is called his , at any rate exists , and though nearly certainly built in 1 This word is said to be mains monasterium .",
+        "words": [
+          "smelling",
+          "evil - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c96de2cb-b37a-5f9c-84e3-c12ec0baa396/fragment/c0412e3e-08c8-576d-b7f0-ac51fd250522",
+        "value": "de la Ferriere , Le Siecle et les Valois .96 OLD TOURAINE suddenly and died — of a pleurisy , so it was given out ; but rumours were persistently spread that her death was owing to the scent of some gloves skilfully prepared by Rene , the Queen ' s Florentine perfumer ; and these reports gained credence from the fact that Ambroise Pare , in his examination of the body , was forbidden to look at the brain , the sole organ that Rene ' s poisons would have touched .Be this as it may , Jeanne d ' Albret was too good a woman for her existence to be long tolerated ; her honesty , like Semblancay ' s long before , was too transparent , her truth too courageous , for life among the Court of Catherine de Medicis , and when her duty to her son brought her into contact with that Court , she was only allowed to live long enough to complete the negotiations , and not too long for the interests of the Queen - mother .",
+        "words": [
+          "scent",
+          "Rene",
+          "of some gloves",
+          "the Queen ' s Florentine perfumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c96de2cb-b37a-5f9c-84e3-c12ec0baa396/fragment/f6e916d6-4bdd-504d-90ae-e27a42eacb9e",
+        "value": "At Blois the first negotiations were begun by Beauvais , tutor to the young Prince of Navarre , who was sent by Jeanne d ' Albret to the Court while she herself went throughout her estates establishing the BLOIS { Continued ) 153 reformed religion , strengthening the University of Beam , and chasing the Catholic priests out of the country .Beauvais came back overjoyed with the reception , but , says Bordenaye , ceux qui n ' avaient l ' entendement opil £ par les crudites et viscosites de l ' ambition et de l ' avarice avaient ces trop grandes caresses pour Towards the end of 1 5 7 1 Jeanne d ' Albret left her son under the care of Beauvais , Beauvais , and travelled by way of Biron ( which she reached on 2 ist January in the new year ) towards Poitiers , where the Pope ' s legate met her coach and passed it without a sign , for the Queen of Navarre was in no good odour at the Vatican , and Paul V .had very vehemently exclaimed against the marriage of a son of this determined heretic with a Valois princess .",
+        "words": [
+          "the",
+          "odour",
+          "good",
+          "Paul",
+          "the Queen",
+          "at the Vatican"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/de273c09-44a0-58c2-aaed-f632fdf26ae7",
+        "label": "Theodore Andrea COOK"
+      }
+    ],
+    "label": "[Old Touraine. The life and history of the famous châteaux of France.]",
+    "date": "1893",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5de7592d-5d13-5dac-8d5e-348bf33a90b7",
+      "label": "1893",
+      "begin": "1893",
+      "end": "1893"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8373481/",
+      "label": "Al Fātīkān"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/c96de2cb-b37a-5f9c-84e3-c12ec0baa396/fragment/f6e916d6-4bdd-504d-90ae-e27a42eacb9e",
+  "adjective": "good"
+}

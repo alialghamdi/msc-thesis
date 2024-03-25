@@ -1,0 +1,1127 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ed71397b-a373-54d3-97b2-1a12cf4811ac",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumerie",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0008b0c9-307f-5c40-8b8a-5a8829a34b9f",
+        "value": "— La Renaissance devait ouvrir franchement l ' ère des parfums en France ; François I * r avait ramené d ' Italie de3 parfumeurs qui se chargèrent d ' initier les seigneurs de la cour et les belles dames aux voluptés des arômes suaves .La vanille , lo genêt d ' Espagne , étaient les odeurs préférées , ainsi que le musc .Notre subtilité moderne veut quelque chose de plus finement enivrant ; elle laisse la vanille aux crèmes et le musc aux maritornes .",
+        "words": [
+          "musc",
+          "odeurs",
+          "vanille",
+          "genêt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/037cf32d-a6ef-5d2c-a740-2878a73f7f86",
+        "value": "« Les Carthaginois , les Phéniciens étaient également fort experts dans la fabrication des parfums .« Les Hébreux , ayant été longtemps en Egypte , avaient pris également le goût des parfums .Balkis , venant visiter Salomon , en apporta à profusion et jamais dans Jérusalem on n ' en vit autant .",
+        "words": [
+          "parfums",
+          "Hébreux",
+          "Egypte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/08c40ccd-eaba-5a23-a88f-73283292c804",
+        "value": "PIERRES ET PARFUMS MAGIQUES 3l curiosité alliéo à la gourmandise fit le malheur de sa descendance , Voluptueusement elle aspira le parfum des roses ; l ' Eden , d ' après la tradition , était assez voisin do la Perse et los roses de la vallée de Kaohemyre sont célèbres pour leurs subtils effluves .« Après avoir découvert ces trésors qui , au cours des siècles , devaient embaumer les humains ; après avoir été chassés du Paradis Terrestre , il est tout naturel de penser qu ' en se voyant forcés do coupher à la belle étoilo , do so livrer à toutes sortes d ' oxpédients pour arriver à vivre , Adam et Eve , qui eussent été dignes d ' être Normands par leur amour des pommes , se dirent probablement que pour rentrer en grâce et aboutir à réintégrer le Paradis perdu , il fallait flatter Celui qui , dans sa colère , les avait mis à la porte comme do vulgaires maraudeurs .L ' idée géniale leur vint sans doute de faire monter vers la Divinité la fumée odorante des résines aromatiques , pensant ainsi so faire bienvenir ou tout au moins intriguer l ' Etre Suprême par cetto fumée intempestive .",
+        "words": [
+          "embaumer",
+          "embaumer les humains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/09d6e0a7-0ccf-5c7c-b69f-2638b8e976b9",
+        "value": "« Après avoir découvert ces trésors qui , au cours des siècles , devaient embaumer les humains ; après avoir été chassés du Paradis Terrestre , il est tout naturel de penser qu ' en se voyant forcés do coupher à la belle étoilo , do so livrer à toutes sortes d ' oxpédients pour arriver à vivre , Adam et Eve , qui eussent été dignes d ' être Normands par leur amour des pommes , se dirent probablement que pour rentrer en grâce et aboutir à réintégrer le Paradis perdu , il fallait flatter Celui qui , dans sa colère , les avait mis à la porte comme do vulgaires maraudeurs .L ' idée géniale leur vint sans doute de faire monter vers la Divinité la fumée odorante des résines aromatiques , pensant ainsi so faire bienvenir ou tout au moins intriguer l ' Etre Suprême par cetto fumée intempestive .De là à reprendre contact si on les interrogeait , il n ' y avait qu ' un pas .",
+        "words": [
+          "odorante",
+          "fumée",
+          "résines",
+          "aromatiques",
+          "fumée odorante",
+          "bienvenir",
+          "intriguer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0b69c933-414e-5adb-8057-a3082d481bf7",
+        "value": "« On volt dans le livre des Védas , comme dans 3 a L ' ART DE SE Î ' AIRR AIMER les prescriptions do Zoroastre , l ' encens jouer le premier rôle dans lo rito religieux pour les parfums .« Les Egyptiens , qui furent d ' habiles parfumeurs , prirent certainement cette connaissance do la flore chez les peuples d ' Orient , qui possédaient la plus merveilleuse collection de balsamiques et d ' essences d ' arbres qu ' il fût au monde .« Sous les Ptolémées , en Egyple , la parfumerie fit de réels progrès ; il y avait à Alexandrie de nombreuses fabriques qui fournissaient le monde entier .",
+        "words": [
+          "balsamiques",
+          "parfumeurs",
+          "Egyptiens",
+          "essences d ' arbres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0bfff027-9b20-522b-a5a6-0e6d0f678fe8",
+        "value": "« Au contraire les parfums magiques , préparés et distillés par un initié , suivant les formules de la Kabbale , donnent à ceux et à celles qui en font usage , le contentement , l ' énergie et le courage qui rendent capables de réaliser les plus grandes choses .Le parfum magique crée autour de la femme qui s ' en sert une invisible atmosphère de charme et d ' attirance , une sorte d ' aura qui la fait aimer de tous , la rend sympathique , même à première vue , aux plus indifférents .Elle sème l ' amour autour d ' elle .",
+        "words": [
+          "parfum",
+          "magique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0c056188-43ca-5fcd-927d-f7b82be00549",
+        "value": "— Vaura feminea , Vodor di femina , ou plus simplement le parfum personnel , PIERRES ET PARFUMS MAGIQUES 4l est l ' apanage de quelques personnes .Jadis les courtisanes , les beautés célèbres passaient pour connaître des philtres qui les faisaient aimer , alors que seule , leur beauté capiteuse et aussi le parfum que dégageait leur être étaient la véritable cause de leur puissance .« La Sulamitc Abisag , Judith , Dalila et mille autres beautés célèbres possédaient ce don précieux de dégager une suave odeur .",
+        "words": [
+          "parfum",
+          "capiteuse",
+          "philtres",
+          "leur être"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0dce338a-9191-5542-af03-ae7d7059c7c1",
+        "value": "< i Solon interdit de vendre des parfums .Héraphilc , auteur grec , dans son Traité des Parfutns , cito l ' origine des parfums qu ' employaient les anciens .« Les beautés grecques , les riches mécènes et même les esclaves qui vivaient de cette griserie perpétuelle des parfums , ne pouvaient être que des voluptueux , et malgré la valeur des héros de la guerre de Troie , valeur fort sujette à caution , paraît - il , Car l ' histoire prétend quo ces foudres dé guerre s ' amusaient sous leurs tentes à vivre la douce vie au milieu de beautés charitables quo n ' effrayait point la promiscuité de la soldatesque .",
+        "words": [
+          "parfums",
+          "anciens",
+          "Héraphilc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0f6eb647-f69b-518c-92af-b2f7fd1e05db",
+        "value": "« Les Scythes s ' enivraient des vapeurs du chaiivro que l ' on jetait sur une pierre rougio au feu .« Céphisodorc dit que les parfums les plus coûteux étaient réservés à la toilette des pieds .« On chassa honteusement de Sparlo les parfumeurs , parce qu ' ils fraudaient la qualité des huiles .",
+        "words": [
+          "parfums",
+          "Céphisodorc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/0f7a9dd7-7f9b-5b8b-9e96-b13ab42a2984",
+        "value": "« Un philtre d ' amour est une drogue dont l ' émanation — plus ou moins agréable — doit , d ' abord , pénétrer la peau , ensuite , en ressortir ; c ' est une drogue qui agit sur le sixième sens , le sens génésiaque , parce que dans cette opération l ' émanation artificielle devient naturelle , émanation de la bête , émanation de la peau .Une chemise trempée de sueur rendra un homme amoureux de sa propriétaire , un mouchoir de dentelle humecté des plus suaves extraits ne servira à rien .« .",
+        "words": [
+          "mouchoir",
+          "extraits",
+          "chemise",
+          "humecté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/103e0b1b-bc38-5994-b313-d86a822902d7",
+        "value": "« Chaque homme porte en lui , sur son visage , dans son attitude , dans sa manière de vivre , dans ses qualités et dans ses vices , la signature de la planète dont il dépend .Il préviendra toute maladie , tout ennui , il sera sûr de vivre heureux , s ' il a soin de s ' entourer des pierres , des plantes , des animaux et des parfums qui sont marqués du même sceau planétaires que lui .« Nous entendons souvent des » personnes attribuer au hasard leurs préférences .",
+        "words": [
+          "pierres",
+          "parfums",
+          "plantes",
+          "animaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/11c27d7e-0152-5b9f-8b53-3a69a068fa8a",
+        "value": "« Catherine de Médicis amena d ' Italie René , son parfumeur et son complice .Le Florentin tenait boutique au Ponl - au - Changc et n ' arrivait pas à contenter son élégante clientèle , car les parfums étaient très appréciés en France , et maître René en fabriquait de très fins , de très subtils , ainsi que des poisons qui , à cette époque , se glissaient facilement parmi les objets parfumés .Du laboratoire du Florentin s ' échappaient des vapeurs mortelles d ' une suavité perfide .",
+        "words": [
+          "parfums",
+          "parfumés",
+          "poisons",
+          "au",
+          "Ponl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/11dcd928-a8b3-519a-a92c-9225ef858434",
+        "value": "« Il est donc tout naturel de conclure que dès lors , toute la cour devait s ' imprégner de parfums , ainsi que sous le précédent règne , où Richelieu vaporisait sa chambre avec des parfums quo les laquais lançaient par des soufflets , l ' instrument que nous connaissons étant encore ignoré .« Sous Louis XV , la Cour de Versailles eut droit vraiment au nom de Cour parfumée .La divine Marquise dépensait annuellement un demi - million pour sa parfumerie .",
+        "words": [
+          "parfumée",
+          "Cour",
+          "Sous Louis XV",
+          "Cour de Versailles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/141e8bd9-c27c-5e6d-9ff6-100b0fba1ab7",
+        "value": "A plus forte raison , stimulé par ce philtre .« Un philtre d ' amour est une drogue dont l ' émanation — plus ou moins agréable — doit , d ' abord , pénétrer la peau , ensuite , en ressortir ; c ' est une drogue qui agit sur le sixième sens , le sens génésiaque , parce que dans cette opération l ' émanation artificielle devient naturelle , émanation de la bête , émanation de la peau .Une chemise trempée de sueur rendra un homme amoureux de sa propriétaire , un mouchoir de dentelle humecté des plus suaves extraits ne servira à rien .",
+        "words": [
+          "peau",
+          "émanation",
+          "drogue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/151b3302-5f86-5d73-b0cd-563789d21c44",
+        "value": "Faire usage du premier parfum venu , se parer au hasard d ' une pierre précieuse quelconque est aussi ridicule , pour ne pas dire aussi imprudent , que d ' absorber étant malade un médicament inconnu .« Au contraire les parfums magiques , préparés et distillés par un initié , suivant les formules de la Kabbale , donnent à ceux et à celles qui en font usage , le contentement , l ' énergie et le courage qui rendent capables de réaliser les plus grandes choses .Le parfum magique crée autour de la femme qui s ' en sert une invisible atmosphère de charme et d ' attirance , une sorte d ' aura qui la fait aimer de tous , la rend sympathique , même à première vue , aux plus indifférents .",
+        "words": [
+          "parfums",
+          "magiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/15b395ca-d655-5ff5-b73b-5439981e20d4",
+        "value": "Or , pour la délivrer de cet ensorcellement et parce que l ' air qui l ' environne est conta - DU CHARME ET DE l / ENSORCELLEMENT 6l gieux et contaminé , qu ' on lui applique des parfums odoriférants , afin qu ' ils purifient l ' air ; vous obtiendrez le même résultat en l ' arrosant d ' eau distillée , de canellcs , de girofles , de musc et d ' ambre .Par ce moyen , l ' ancienne coutume s ' est étendue jusqu ' à nous , et les femmes ont retenu ceci , à savoir que si elles remarquent que les enfants aient pris quclqu ' objct nuisible , pour les purger de ce mal , elles les parfument d ' encens ; puis elles les gardent et les font séjourner dans une atmosphère claire et pure , et leur pendant au cou des pierres précieuses , comme une escarbouclc , une hyacinthe , ou un saphir , et Dioscoridc estime que l ' aloès pendu en la maison , ou la valériane , servent de médicament secourable pour ce mal .Toutefois il sera utile de flairer souvent l ' hysopc et le lys .",
+        "words": [
+          "pierres",
+          "encens",
+          "femmes",
+          "aloès",
+          "valériane",
+          "saphir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/263f8e7b-c3de-5183-97be-3ae5e0519518",
+        "value": "Le principal « me paraît être la connexion ordinaire de ces « cheveux avec le tempérament , et , par là même , « avec le caractère qui résulte de celui - ci ; or , l ' cs « pèce de caractère associé à ce genre de cheveux « n ' est pas communément des plus heureuse , « quoiqu ' il y ait beaucoup d ' exceptions à ce prin « cipe passé en proverbe .Un autre motif d ' aver « sion pour les cheveux couleur de feu , c ' est que < ( l ' humeur qui les lubrifie exhale souvent une « odeur fétide , étrangères aux autres espèces de « cheveux ..",
+        "words": [
+          "fétide",
+          "odeur",
+          "cheveux",
+          "les",
+          "humeur",
+          "étrangères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/26df4def-9cf0-5c4f-8cc3-eafdbe1de599",
+        "value": "Si une femme boit à jeun de la décoction de saule , elle deviendra stérile et ce pour autant que le saule perd soudain sa semence .Le même effet est produit par le parfum de l ' ongle d ' une mule , l ' urine et la sueur de celle - ci , et l ' eau avec laquelle les serruriers où maréchaux éteignent le feu de leur forge , si l ' une ou l ' autre de ces choses sont prises par la femme après la fin de ses règles .Mais surtout c ' est un long et continu trémoussement qui est apte à arrêter la conception , car après que la femme se sera excessivement trémoussée , à la suite du coït , elle ne pourra retenir la semence génitale et la rendra donc inopérante .",
+        "words": [
+          "parfum",
+          "sueur",
+          "urine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/28b11b81-04e3-52e7-be2a-a410921d6a54",
+        "value": "Elle fabriquait du sublimé , du fard , des broderies fausses , des eaux pour le teint , du blanc et mille autres drogues pour le visage , avec de la lie de vin , de l ' asphodèle , de l ' encre de baguenaudier , de ' la serpentaire , ' du fiel , du verjus .Elle fabriquait des parfums de roses , de fleurs d ' oranger , de jasmin , de chèvrefeuille , de petits oeillets ' mus * qués pulvérisés dans du vin .Elle faisait une teinture pour blondir les cheveux , avec de ( s sarments , du chêne , du seigle , des marruches , du salpêtre , de > l ' alun et toutes espèces d ' autres choses ' .",
+        "words": [
+          "roses",
+          "parfums",
+          "jasmin",
+          "chèvrefeuille",
+          "fleurs d",
+          "petits oeillets ' mus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/28e8e9ff-f327-5d2e-8490-0a45e4001925",
+        "value": "Il est vrai que M \" * de Pompadour , affligée de certains petits désagréments intimes , devait s ' inonder d ' eaux de senteur ; aussi fut - il de mode , parmi les élégants , de changer de parfum à chaque heure du jour ; c ' était une manière habile de faire sa cour à la favorite .« Vers 1770 , Caltcau , rue Mauconseil , fournissait une grande partie des artistes dramatiques , pour les gants et les parfums .« Voici , de ce parfumeur , un compte daté du 28 novembre 1773 , que nous avons trouvé aux Archives Nationales ( t .",
+        "words": [
+          "parfums",
+          "Vers 1770"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/29ba4391-4ceb-59b8-b724-c905b4fadce3",
+        "value": "Balkis , venant visiter Salomon , en apporta à profusion et jamais dans Jérusalem on n ' en vit autant .« Judith , pour séduire Holophcrne afin de pouvoir l ' occire tout à son aise , prit un bain aromatisé , puis se couvrit de parfums et sa beauté troublante , malgré son âge , car on dit qu ' elle avait près de cinquante printemps , était incomparable ; c ' est en effet un véritable miracle à cet âge , les PIERRES ET PARFUMS MAGIQUES 33 femmes orientales étant flétries de très bonne heure .« Joseph d ' Arimathio et Nicodème ensevelirent lo Christ dans un linceul qui renfermait cent livres d ' aloès et de myrrho .",
+        "words": [
+          "parfums",
+          "aromatisé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/29c646f2-a5ae-5783-933e-b92ddd054f81",
+        "value": "La magie noire , — c ' est - à - dire plus ou .moins noire , n ' anticipons pas , car toute magie , sans être exactement blanche , n ' est pas forcément noire , — offre à l ' amoureux la nature entière et PEUT - ON ETRE MAÎTRE DE L1 AMOUR ? 0 ses secrets : les herbes , les fleurs , les parfums , les pierres précieuses et tant d ' autres produits encore , appartenant aux règnes animal , végétal et minéral ; ajoutons que l ' emploi de ces produits doit être fait à telle époque et ' avec l ' usage de telles paroles , — là est la condition toute magique sans laquelle l ' émeraude reste l ' émeraudo et le plantain le plantain .Avant de passer en revue les moyens , d ' ailleurs très limités , de la magie blanche en matière naturelle , les moyens très limités aussi de la médecine naturelle , acquis à l ' art de plaire , d ' obtenir l ' amour , et de conserver la puissance , amoureuse , nous allons ouvrir la drageoire mystérieuse , l ' herbier secret et l ' écrin magique que trois fées noires , dépêchées vers nous par Satan , tendent , en leurs mains vaporeuses , à la faim et à la soif curieuses de nos désirs coupables .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "pierres précieuses",
+          "herbes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/2c89f0b2-e53a-5d36-8547-ba273ee5c24c",
+        "value": "« Ce fut Olhon qui conduisit son maître , qu ' il dovait détrôner , à cet effémincmenl .Il apprit à Néron la science des parfums , et l ' élève docile en usait si largement qu ' il se parfumait mémo la plante des pieds .Peut - être ce soin était - il nécessité par Une sudation affectante pour le nerf ol ^ factif .",
+        "words": [
+          "parfums",
+          "parfumait",
+          "Néron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/342b2fe1-e18e-5751-95d9-a55c83a19c7d",
+        "value": "Néron , qui , d ' un coup de pied dans le ventre , tua son irascible épouse Poppée , lui fit des funérailles splendides ; il épandit une quantité considérable dé parfums sur son bûcher * « Les parfumeurs , à Rome , étaient presque tous des Grecs ; il leur était attribué un quartier où les élégants allaient flâner , emplissant les boutiques spéciales à celte industrie de leurs personnes et de leurs amis .« Trop do voluplé finit par faire effondrer Une nation puissante , artiste , ayant la conception du 36 L ' ART DE SE FAIRE AIMER beau , mais aveuglée par ses passions et bouleversée par les révolutions perpétuelles , les crimes , les visions sanguinaires des cirques où le sang des martyrs montait comme le parfum le plus précieux vers l ' Etre Suprême , si odieusement outragé de toutes les façons .< ( Moyen âge .",
+        "words": [
+          "parfum",
+          "précieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/356efff5-3c00-5904-b421-3196f8c0df97",
+        "value": "« La reine Christine emploie , depuis ces dernières années , l ' eau d ' Espagne distillée précieusement pour elle .Jadis elle affectionnait le parfum des orchidées des Philippines ; la guerre a changé ses habitudes et lui a fait renoncer à ce parfum favori .« La petite reine Wilhclminc se parfume à l ' eau de Cologne ; mais elle emploie à cet usage un demi - litre quotidiennement .",
+        "words": [
+          "parfum",
+          "elle",
+          "Jadis",
+          "orchidées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/35deb0d3-43d0-5209-b87e-11ff2b82899b",
+        "value": "PIERRES ET PARFUMS MAGIQUES 37 « La Renaissance .— La Renaissance devait ouvrir franchement l ' ère des parfums en France ; François I * r avait ramené d ' Italie de3 parfumeurs qui se chargèrent d ' initier les seigneurs de la cour et les belles dames aux voluptés des arômes suaves .La vanille , lo genêt d ' Espagne , étaient les odeurs préférées , ainsi que le musc .",
+        "words": [
+          "France",
+          "suaves",
+          "parfums",
+          "arômes",
+          "parfumeurs",
+          "belles dames"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/37a78836-5a07-5cbc-b4e9-1305b05300e3",
+        "value": "« Le parfum à la mode était la frangipane , qui dura assez longtemps .Puis , après la peau d ' Espagne aux violentes senteurs , la tubéreuse , le musc , le patchouli , viendront embaumer l ' air où respirent les beautés de la cour de Louis XIII .« De Louis XIV à Louis XVI .",
+        "words": [
+          "Espagne",
+          "air",
+          "patchouli",
+          "musc",
+          "senteurs",
+          "violentes",
+          "embaumer",
+          "tubéreuse",
+          "de Louis XIII"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/3b5a7cfe-ebcf-5d65-b8cf-53d672a8aada",
+        "value": "« La petite reine Wilhclminc se parfume à l ' eau de Cologne ; mais elle emploie à cet usage un demi - litre quotidiennement .« Quant à la princesse héritière de Roumanie , ses parfums favoris sont la triple essence de jasmin , l ' essence de roses et l ' héliotrope blanc .« La femme élégante , celle qui veut ne laisser dans son sillage que le parfum de l ' honnête femme , choisit une odeur discrète , et les parfums violents trouvent à se placer parmi la foule tapageuse des coquettes qui tiennent à se faire remarquer .",
+        "words": [
+          "roses",
+          "parfums",
+          "jasmin",
+          "essence",
+          "héliotrope blanc",
+          "triple essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/3bc581d8-6103-5ad3-9993-85e0a47f2438",
+        "value": "— Quant à Louis XIV , il y a lieu d ' être perplexe .« Dolaeus dit que Louis XIV ne supportait aucun parfum et d ' autre part , lo parfumeur Françoys ( 1680 ) dit que le somptueux monarque « aimait s ' enfermer dans son cabinet avec M .Martial et lui voir composer les parfums qu ' il portait sur 38 L ' ART DE SE FAIRE AIMER sa personne sacrée » .",
+        "words": [
+          "parfum",
+          "parfumeur",
+          "Louis XIV",
+          "Dolaeus",
+          "( 1680"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/3c1bada5-c27a-5115-bfc1-b6dc5d87ba50",
+        "value": "Moyen pour conserver la toute puissance amoureuse , ou pour la reconquérir lorsqu ' on l ' a perdue , cela dans l ' âge le plus avancé .Herbas , Fleurs , Parfums et Pierres magiques .Indications et Conseils recueillis par un sorcier - philosophe des temps modernes .",
+        "words": [
+          "Parfums",
+          "Fleurs",
+          "Pierres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/3f9cc0ec-7ef3-520b-abf6-1e3f026a89fc",
+        "value": "moins besoin d ' être fortifiées ; , on les frotte avec le doigt ; on réitère celle opération matin et soir pendant quelque temps .Pour enlever la mauvaise odeur des dénis cariées , pilez de la quihlc - fcuille , faites - en tiédir le jus , et frottez - vous les gencives avec .Celle plante est vivace , à fleur rosacée , la * ' racine est astringente fébrifuge .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "dénis cariées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/401cd9cc-712e-5add-8fa4-a17ebad9ebdc",
+        "value": "Ce philtre était tout simplement l ' aura feminea que dégageait le corps de cette femme impudente , lubrique , comme la possédait aussi Messaline , la prostituée impériale , que les orgies de Subure attendaient frénétiquement pâmée .On peut lui appliquer l ' ode à la rose de Sapho : Son sein épanoui parfume le zéphirc , Son charme s ' insinue au fond de notre coeur , Il y répand une douce langueur .C ' est là volupté qu ' on respire .",
+        "words": [
+          "sein",
+          "parfume",
+          "zéphirc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/438aa6e2-3df6-5136-9064-f205f7c71f7b",
+        "value": "A ces personnes désireuses d ' augmenter leur bien - être , nous dirons : Portez toujours sur PIERRES ET PARFUMS MAGIQUES 39 vous un parfum qui soit en harmonie avec la planète sous le signe de laquelle vous êtes né .Faire usage du premier parfum venu , se parer au hasard d ' une pierre précieuse quelconque est aussi ridicule , pour ne pas dire aussi imprudent , que d ' absorber étant malade un médicament inconnu .« Au contraire les parfums magiques , préparés et distillés par un initié , suivant les formules de la Kabbale , donnent à ceux et à celles qui en font usage , le contentement , l ' énergie et le courage qui rendent capables de réaliser les plus grandes choses .",
+        "words": [
+          "parfum",
+          "pierre précieuse quelconque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/43a03a73-c88c-5bdf-85c2-11b841eb58af",
+        "value": "« Ce fut à Aviccnnc , le philosophe arabe qui vivait au xe siècle , qu ' on dut la distillation de l ' essence de roses .« Les femmes du moyen âge se parfumaient donc peu ; cependant il existait en France la corporation des parfumeurs - gantiers , qui avait reçu de Philippe - Auguste ses premiers statuts en 1190 .Ils furent imprimés par le roi Jean en i357 , par Henri II d ' Angleterre se prétendant roi de France en 1 / 126 , par Henri III en i582 , et Louis XIV , en i656 , les renouvela et les augmenta .",
+        "words": [
+          "femmes",
+          "parfumaient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/4789f06d-2026-56ab-8690-446c1b4f5a85",
+        "value": "« Quant à la princesse héritière de Roumanie , ses parfums favoris sont la triple essence de jasmin , l ' essence de roses et l ' héliotrope blanc .« La femme élégante , celle qui veut ne laisser dans son sillage que le parfum de l ' honnête femme , choisit une odeur discrète , et les parfums violents trouvent à se placer parmi la foule tapageuse des coquettes qui tiennent à se faire remarquer .« Aura Femlnea .",
+        "words": [
+          "parfum",
+          "odeur",
+          "parfums",
+          "discrète",
+          "violents",
+          "sillage",
+          "femme élégante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/4eb48f43-7f2e-5d07-9605-9f961610fdd0",
+        "value": "Ce sont les seuls Arabes qui voient l ' arbre de l ' encens et encore ne le voient - ils pas tous ; on dit que c ' est le privilège de trois mille familles seulement qui le possèdent par droit héréditaire ; que pour cela ces individus sont sacrés ; que lorsqu ' ils taillent ces arbres ou en font la récolte , ils ne se souillent ni par le commerce des femmes , ni en assistant à des funérailles , et que ces observances religieuses augmentent la qualité de la marchandise .« Les Anciens , selon Pline , se servaient de plusieurs parfums à son époque ; c ' étaient le nard valant cent deniers la livre , l ' encens , le cinnamome mille deniers , et ensuite augmenté de moitié .« La casia ou cannelle , le myrobolam ( noix de ben ) , lo balamus odorant , le baume ( balsamodendron opobalsamum ) .",
+        "words": [
+          "encens",
+          "parfums",
+          "cinnamome",
+          "Anciens",
+          "nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/4f0ec953-753f-5291-891d-6bb633301124",
+        "value": "Que notre livro vous suffise 1 Ceci dit , passons aux pierres et aux parfums magiques .CHAPITRE III PIERRES ET PARFUMS MAGIQUES fauteur d ' une petite brochure intitulée Conseils infaillibles pour semer l ' Qmoiir ( i ) s ' exprime ainsi à propos des parfums magiques : < < Le temps n ' est plus où la science astrologique était dédaignée , et méprisée , Noire époque a vu se produire dans petto branche de la connaissance de l ' occulte , comme dans toutes les autres , une magnifique renaissance , Personne à présent ne s ' aviserait de mettre en douie l ' influence des pla » nètes sur la terre , sur ses habitants , sur tout ee qu ' elle porte et sur tout ce qu ' elle contient , « Qu ' il soit question de la reproduction des ani , maux , do la floraison dos plantes ou de certaines maladies de l ' homme , on est forcé de reconnaître l ' influence du soleil .Qui songerait à mettre en doute le pouvoir de la lune sur les marées , sur les indispositions périodiques de la femme , sur cer ( l ) cer ( l ) infaillibles , à la portée de tous , pour semer l ' Amour et la sympathie autour de soi , pour obtenir lç bonheur et lo propager au moyen des parfums magiques ci des pierres astrologiques , En vente au Cabinet psy » eniquô , a Paris , 98 , rue Blanche .",
+        "words": [
+          "parfums",
+          "magiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/50fab3dc-1e3d-5d09-90b9-4a1ff5e0cba4",
+        "value": "« Joseph d ' Arimathio et Nicodème ensevelirent lo Christ dans un linceul qui renfermait cent livres d ' aloès et de myrrho .« Ezéchiel et Isaïe défendirent les parfums ; cependant les filles de Sion no laissèrent pas de se baigner dans des eaux fortement additionnées de parfums .« Dans le Cantique des Cantiques , la Sulamite s ' inonde do nard , de myrrhe , d ' aloès .",
+        "words": [
+          "parfums",
+          "eaux",
+          "filles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/5e30d18a-edcc-5305-b575-59275b9e4dd6",
+        "value": "« A la campagne , les paysans n ' ont jamais cessé de croire à la vertu de certaines pierres .— Saphir foncé .Saturne .",
+        "words": "Saphir"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/63157038-ab02-5eec-8942-e8174111a24a",
+        "value": "« La prêtresse de Didymc , oracle des Branchides , se préparait à recevoir la communication divino en respirant les émanations d ' une fontaine , et la Pythie de Delphes se grisait des vapeurs de l ' antre pour divaguer ensuite tout à son aise .« Les Scythes s ' enivraient des vapeurs du chaiivro que l ' on jetait sur une pierre rougio au feu .« Céphisodorc dit que les parfums les plus coûteux étaient réservés à la toilette des pieds .",
+        "words": [
+          "vapeurs",
+          "Scythes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/65138932-4fbf-5163-aea5-0b401c163afe",
+        "value": "Que , par aventure , le corps 3oit découvert avant sa complète décomposition , on ne trouvera , au premier examen , nulle marque de blessure et , si on l ' autopsie , nulle trace do poison .Un médecin , versé dans la connaissance de la magie botanique , reconnaîtrait seul sur le cadavre l ' odeur caractéristique de la solanée .Médicament et poison , la mandragore est encore pour le sorcier un excitant ; comme pour ses ancêtres du moyen âge , elle remplacé pour 24 L ' ART DE SE FAIRE AIMER lui l ' éthcr , le haschish , l ' opium , la morphine et les autres drogues intellectuelles en faveur près des déséquilibrés contemporains .",
+        "words": [
+          "odeur",
+          "caractéristique",
+          "cadavre",
+          "médecin",
+          "solanée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/6552f84f-25e6-563a-882e-3a8a940450e5",
+        "value": "« Ce qui prouve que Thaïs , toute belle fût - elle , ne sentait pas l ' ambroisie et que de ce corps admirable , malgré les parfums , se dégageait une aura féminça détestable ; cela se produit , hélas I en bien ou en mal .< ( Horace parle d ' une vieille femme , éprise de lui , qui sentait le bouc .Quid libi vis millier .",
+        "words": [
+          "sentait",
+          "bouc",
+          "vieille femme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/6600e2e7-8829-5338-9443-01c8268bd397",
+        "value": "« Saint Clément d ' Alexandrie dit que l ' on parfumait tout : murailles , lits , pieds , mains , et même jusqu ' aux objets destinés à un usage intime » « Mais où la magnificence des parfums se déployait , c ' était pour les funérailles .Néron , qui , d ' un coup de pied dans le ventre , tua son irascible épouse Poppée , lui fit des funérailles splendides ; il épandit une quantité considérable dé parfums sur son bûcher * « Les parfumeurs , à Rome , étaient presque tous des Grecs ; il leur était attribué un quartier où les élégants allaient flâner , emplissant les boutiques spéciales à celte industrie de leurs personnes et de leurs amis .« Trop do voluplé finit par faire effondrer Une nation puissante , artiste , ayant la conception du 36 L ' ART DE SE FAIRE AIMER beau , mais aveuglée par ses passions et bouleversée par les révolutions perpétuelles , les crimes , les visions sanguinaires des cirques où le sang des martyrs montait comme le parfum le plus précieux vers l ' Etre Suprême , si odieusement outragé de toutes les façons .",
+        "words": [
+          "Rome",
+          "parfums",
+          "parfumeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/67ead6de-72b5-5955-b5d2-8bffa731a99c",
+        "value": "; d ' user convenablement de tous les biens et de toutes les jouissances que l ' auteur dé la nature voulut bien nous accorder , tant pour soutenir notre existence matérielle , que pour trouver quelques fleurs sur la mer orageuse de la vie sociale , comme lumière , air , sons , musique , aliments , boissons , assaisonnements , plaisirs sexuels , exercices , jeux , etc .; d ' écarter lés nombreux agents qui tendent sans cesse à troubler l ' harmonie des fonctions et à compromettre le bien inappréciable de la santé , comme odeurs malsaines , matières en putréfaction , chaleurs ou froids intenses , etc .; de connaître ces lois sacrées de la saine morale , base de toute félicité sur cette terre , par la sérénité de l ' âme , la paix du coeur qu ' elle procure , et dont le mépris entraîne irrévocablement avec soi les peines rongeantes des L ' ART D ' ÊTRE AMOUREUX ET PUISSANT l65 remords et l ' agitation tumultueuse de toutes les opérations de l ' intelligence ; en un mot , de parcourir une longue carrière , exempte autant que possible des maux et des infirmités auxquels se trouve exposée notre frêle économie .",
+        "words": [
+          "malsaines",
+          "matières",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/685688fd-4f47-57ed-9377-073224fcf58c",
+        "value": "Cela se fait de la manière suivante .On prend du jus de pavot , de mandragore , de ciguë , do la semence de jusquiamc et de la lie de vin , et on y ajoute un peu de musc , pour en rendre l ' odeur plus agréable .Puis , formez - en des pelotes aussi grosses que vous pouvez en empoigner dans la main .",
+        "words": [
+          "odeur",
+          "musc",
+          "plus agréable",
+          "jus",
+          "ciguë",
+          "mandragore",
+          "pavot",
+          "lie de",
+          "semence de jusquiamc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/713d2c63-6485-5181-bff2-f03a66cbf505",
+        "value": "Mais si le maléfice procède des yeux , vous vous en rendrez compte de la manière suivante : la personne offensée perdra sa couleur , elle ne Jèvera jamais les yeux , mais les tiendra toujours baissés , elle soupirera souvent , et son coeur sera étreint d ' angoisse , sans qu ' on aperçoive aucun symptôme de mal , et elle versera des larmes salées çt amères .Or , pour la délivrer de cet ensorcellement et parce que l ' air qui l ' environne est conta - DU CHARME ET DE l / ENSORCELLEMENT 6l gieux et contaminé , qu ' on lui applique des parfums odoriférants , afin qu ' ils purifient l ' air ; vous obtiendrez le même résultat en l ' arrosant d ' eau distillée , de canellcs , de girofles , de musc et d ' ambre .Par ce moyen , l ' ancienne coutume s ' est étendue jusqu ' à nous , et les femmes ont retenu ceci , à savoir que si elles remarquent que les enfants aient pris quclqu ' objct nuisible , pour les purger de ce mal , elles les parfument d ' encens ; puis elles les gardent et les font séjourner dans une atmosphère claire et pure , et leur pendant au cou des pierres précieuses , comme une escarbouclc , une hyacinthe , ou un saphir , et Dioscoridc estime que l ' aloès pendu en la maison , ou la valériane , servent de médicament secourable pour ce mal .",
+        "words": [
+          "air",
+          "musc",
+          "girofles",
+          "odoriférants",
+          "ambre",
+          "eau distillée",
+          "contaminé",
+          "parfums odoriférants",
+          "6l gieux",
+          "canellcs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/739ab11a-d1aa-523a-933a-869132b2ae0b",
+        "value": "— M ™ Tallien se lança dans toutes les excentricités d ' une parvenuo ; elle voulut copier les impératrices romaines et baigna son beau corps dans le lait , dans les fraises , et s ' inondait de parfums subtils .« Joséphine avait gardé le souvenir des effluves de son île ; la créole avait la passion des parfums et ce fut souvent une cause de discorde avec Napoléon dont les narines habituées à respirer l ' odeur de la poudre , se trouvaient péniblement affectées par ces émanations violentes et multiples de parfums si libéralement épandus .» Les Cours au xvin * siècle aimaient à la passion la bergamote , le jasmin et l ' oeillet .",
+        "words": [
+          "odeur",
+          "parfums",
+          "poudre",
+          "émanations",
+          "violentes",
+          "effluves",
+          "Napoléon",
+          "multiples",
+          "créole",
+          "Joséphine",
+          "péniblement affectées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/788658d0-4659-5342-9a6b-dd3e79588c7a",
+        "value": "C ' est le même Martial , parfumeur alors en renom , dont Molière parle dans la comtesse d ' Escarbagnas .« Il est donc tout naturel de conclure que dès lors , toute la cour devait s ' imprégner de parfums , ainsi que sous le précédent règne , où Richelieu vaporisait sa chambre avec des parfums quo les laquais lançaient par des soufflets , l ' instrument que nous connaissons étant encore ignoré .« Sous Louis XV , la Cour de Versailles eut droit vraiment au nom de Cour parfumée .",
+        "words": [
+          "parfums",
+          "chambre",
+          "cour",
+          "imprégner",
+          "sous le",
+          "le précédent",
+          "précédent règne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/7c0d5ab9-fe32-5105-afab-65a44add63a5",
+        "value": "Faites que la fumée en passe sous la fille et arrive , par un entonnoir ou un autre instrument percé , dans sa vulve ; si elle est déflorée , elle pissera aussitôt et ne pourra retenir son urine .Mais si elle est chaste et qu ' elle n ' a jamais encore coïté , elle recevra ce parfum dans sa vulve sans aucun dommage et ne pissera pas , ce qui prouvera qu ' elle est toujours pucelle .Si quel - 88 L ' ART DE SE FAIRE AIMER qu ' un , par manière de passe - temps , voulait que la fille ou la femme non seulement pissât , mais qu ' elle jetât et répandît sa semence , il ferait ainsi : il scierait du bois d ' aloès et le ferait brûler ; il en ferait passer la fumée par la vulve et aussitôt la semence en sortirait avec abondance , chose vraiment assez plaisante .",
+        "words": [
+          "parfum",
+          "elle",
+          "vulve"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/7d94b34e-b2d0-55ba-aa13-22320db9b9a2",
+        "value": "» Pour mioux définir cetto influonce des parfums en amour , c ' est - à - dire sur le bonheur intégral do l ' être humain , nous ne saurions mieux faire que de citer la très - savante et très - savoureuse petite étude que fit sur ce sujet M \" 1 * do Tramar , dans son intéressant volume , YEvangile Profane ( i ) .« < Le premier parfumeur du monde , colul qui peut , sans crainte de so le voir contester , revendiquer le brevet do parfumeur , est sans contredit la Nature , dit M \" \" de Tramar .Le parfum naquit donc avant l ' humanité , puisque , selon les Livres saints , Dieu créa le monde , onsuite l ' homme et .",
+        "words": [
+          "de",
+          "parfumeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/8048b886-7d70-5be0-b328-309f8a42e446",
+        "value": "Ce que contient notre Art do se faire aimer est répandu dans nombre d ' ouvrages plus ou moins faciles à trouver chez les libraires , et qui contiennent , en même temps que quelques préceptes importants et très réalisables , nombre de pages digressives , où l ' extrasurnaturcl , c ' est - à - dire l ' impossible , l ' emporte sur la plus mystérieuse incohérence .Choisir les pages les plus claires des chapitres les plus voilés , recueillir les recettes dont la réussite a été éprouvée , pour rejeter celles qui sont impossibles au commun des mortels , en peu de mots , former un bouquet anthologiquc propre à la vue et à l ' odorat de tous , telle aura été notre tâche .Ajoutons que nous avons emprunté à quelques auteurs modernes certaines pages fort suggestives .",
+        "words": [
+          "odorat",
+          "commun des mortels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/84885a88-c42e-53e8-9671-3a0dd7ca6082",
+        "value": "Notre subtilité moderne veut quelque chose de plus finement enivrant ; elle laisse la vanille aux crèmes et le musc aux maritornes .« Catherine de Médicis amena d ' Italie René , son parfumeur et son complice .Le Florentin tenait boutique au Ponl - au - Changc et n ' arrivait pas à contenter son élégante clientèle , car les parfums étaient très appréciés en France , et maître René en fabriquait de très fins , de très subtils , ainsi que des poisons qui , à cette époque , se glissaient facilement parmi les objets parfumés .",
+        "words": [
+          "Italie",
+          "parfumeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/84c4d7d0-24f0-5dd3-8b58-9ed7aa072ca3",
+        "value": "Le Florentin tenait boutique au Ponl - au - Changc et n ' arrivait pas à contenter son élégante clientèle , car les parfums étaient très appréciés en France , et maître René en fabriquait de très fins , de très subtils , ainsi que des poisons qui , à cette époque , se glissaient facilement parmi les objets parfumés .Du laboratoire du Florentin s ' échappaient des vapeurs mortelles d ' une suavité perfide .« Le parfum à la mode était la frangipane , qui dura assez longtemps .",
+        "words": [
+          "vapeurs",
+          "mortelles",
+          "perfide",
+          "laboratoire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/85db054d-46b8-5ef4-a544-dfa86e2481f7",
+        "value": "Malgré cela , la Tsarine dépense cinquante mille francs par an pour ses parfums et cosmétiques qui lui sont expédiés de ' Paris .« La reine Alcxandra d ' Angleterre , impératrice des Indes , est fanatique d ' un parfum qui , depuis 1829 , est celui de la famille royale et que le parfumeur de la Cour est seul autorisé à fabriquer .C ' est l ' ess - bouquet composé d ' ambre , d ' essence de roses , de musc , de jasmin , de violettes , de fleurs de lavande et d ' oranger .",
+        "words": [
+          "parfum",
+          "parfumeur",
+          "depuis 1829"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/8afe62f7-8305-514e-84c1-956959ef107a",
+        "value": ", beaucoup d ' être humains en dégagent les parfums ; c ' est plus agréable que de propager des odeurs nauséabondes comme , malheureusement , il arrive à certaines gens , pour le désagrément de leurs voisins .» » Ce que nous avons dit au sujet des parfums s ' applique également aux pierres précieuses , dit encore l ' auteur de la brochure citée plus haut ( Moyens infaillibles pour semer l ' amour ) .De toutes les substances terrestres il n ' en est pas qui aient plus de sympathies pour toutes les substances sidérales que les véritables pierres précieuses .",
+        "words": [
+          "parfums",
+          "pierres précieuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/8ee6dbe2-1925-5bb0-91af-a97403e0dc27",
+        "value": "Peut - être ce soin était - il nécessité par Une sudation affectante pour le nerf ol ^ factif .Ses esclaves aussi so parfumaient ainsi que les cohortes , dont on parfumait encore les aigles .« Saint Clément d ' Alexandrie dit que l ' on parfumait tout : murailles , lits , pieds , mains , et même jusqu ' aux objets destinés à un usage intime » « Mais où la magnificence des parfums se déployait , c ' était pour les funérailles .",
+        "words": [
+          "parfumait",
+          "parfumaient",
+          "aigles",
+          "cohortes",
+          "Ses esclaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/90e9772a-7a36-5dd9-85cb-aac4528e2447",
+        "value": "Mais l ' homme et la femme se délecteront merveilleusement s ' ik DES APHRODISIAQUES 107 prennent l ' un el l ' autre du poivre long de pyrèthre et de galaxa , le tout bien broyé et pris dans du miel .* * « On entend , en matière médicale , par aphrodisiaque ( mot grec qui signifie déesse de la volupté ) , tout agent hygiénique ou pharmaceutique susceptible d ' opérer dans les organes génitaux un degré de force ou d ' excitation insolite propre à donner aux sexes le désir et la faculté de répéter un plus grand nombre de fois que d ' habitude l ' acte qui a pour but la propagation de l ' espèce .11 n ' est que trop commun .",
+        "words": [
+          "aphrodisiaque",
+          "agent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/910e47bc-2226-5ca2-8e2c-50abff0c474c",
+        "value": "Martial et lui voir composer les parfums qu ' il portait sur 38 L ' ART DE SE FAIRE AIMER sa personne sacrée » .C ' est le même Martial , parfumeur alors en renom , dont Molière parle dans la comtesse d ' Escarbagnas .« Il est donc tout naturel de conclure que dès lors , toute la cour devait s ' imprégner de parfums , ainsi que sous le précédent règne , où Richelieu vaporisait sa chambre avec des parfums quo les laquais lançaient par des soufflets , l ' instrument que nous connaissons étant encore ignoré .",
+        "words": [
+          "parfumeur",
+          "Martial"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/915d097f-c6a6-5d6a-84ff-ae771fbee0f0",
+        "value": "la femme .« La narino sonsuollc d ' Eve dut sans doute découvrir l ' odeur divine des fleurs do l ' Eden ; curieuse 1 certes , elle nous l ' a prouvé surabondamment avec son histoire do pomme ; pommo ou pêche , n ' importe ! le résultat fut déplorable , et la ( 1 ) VfiWflOite Profane , par \\ \\ \" la comtesse dq Tramar , Vielor - Havard et C \" , éditeurs , Paris , 1905 .PIERRES ET PARFUMS MAGIQUES 3l curiosité alliéo à la gourmandise fit le malheur de sa descendance , Voluptueusement elle aspira le parfum des roses ; l ' Eden , d ' après la tradition , était assez voisin do la Perse et los roses de la vallée de Kaohemyre sont célèbres pour leurs subtils effluves .",
+        "words": [
+          "odeur",
+          "divine",
+          "fleurs do l ' Eden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/91dde71d-0352-53d1-ae37-2fb201a7576b",
+        "value": "« Les prêtres se livraient à la fabrication des parfums .On compte sur la Stèle des offrandes , du musée de Leyde , plus de cent noms d ' aromates divers .« Les Carthaginois , les Phéniciens étaient également fort experts dans la fabrication des parfums .",
+        "words": [
+          "aromates",
+          "musée de Leyde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/92e867c6-3543-5ac6-bc57-c41c557124d6",
+        "value": "C ' est là volupté qu ' on respire .< t Les vers de Parny donnent celte impression de séduction de l ' aura feminea : Ce chapeau , ce ruban , ces fleurs , Qui formaient hier sa parure Do sa flottante cheveluro ' Conservent ' les douces odeurs .« De quelle princesse de rêve est - il question en celte poésie amoureuse ? « Henri II devint éperdument épris de la princesse de Çondé à un bal où , fatigué , il était entré se reposer dans la chambre d ' alours de celte princesse .",
+        "words": [
+          "fleurs",
+          "odeurs",
+          "douces",
+          "ruban",
+          "hier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/94f47d0e-6980-5936-a0de-ed61e09009c5",
+        "value": "« La casia ou cannelle , le myrobolam ( noix de ben ) , lo balamus odorant , le baume ( balsamodendron opobalsamum ) .3 /L ' ART DK SE FAIRE AIMER < < Homère donne le nom d ' huiles aux parfums ; Jamblique cl Porphyre disent qu ' on parfumait les jeunes gens qui devaient recevoir en songo les communications des Divinités .« La prêtresse de Didymc , oracle des Branchides , se préparait à recevoir la communication divino en respirant les émanations d ' une fontaine , et la Pythie de Delphes se grisait des vapeurs de l ' antre pour divaguer ensuite tout à son aise .",
+        "words": [
+          "huiles",
+          "parfums",
+          "parfumait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/979c5682-4ee7-534d-a099-50f336f55fb4",
+        "value": "CHAPITRE III PIERRES ET PARFUMS MAGIQUES fauteur d ' une petite brochure intitulée Conseils infaillibles pour semer l ' Qmoiir ( i ) s ' exprime ainsi à propos des parfums magiques : < < Le temps n ' est plus où la science astrologique était dédaignée , et méprisée , Noire époque a vu se produire dans petto branche de la connaissance de l ' occulte , comme dans toutes les autres , une magnifique renaissance , Personne à présent ne s ' aviserait de mettre en douie l ' influence des pla » nètes sur la terre , sur ses habitants , sur tout ee qu ' elle porte et sur tout ce qu ' elle contient , « Qu ' il soit question de la reproduction des ani , maux , do la floraison dos plantes ou de certaines maladies de l ' homme , on est forcé de reconnaître l ' influence du soleil .Qui songerait à mettre en doute le pouvoir de la lune sur les marées , sur les indispositions périodiques de la femme , sur cer ( l ) cer ( l ) infaillibles , à la portée de tous , pour semer l ' Amour et la sympathie autour de soi , pour obtenir lç bonheur et lo propager au moyen des parfums magiques ci des pierres astrologiques , En vente au Cabinet psy » eniquô , a Paris , 98 , rue Blanche .( Prix : franco , 0 fr .",
+        "words": [
+          "parfums",
+          "magiques",
+          "pierres astrologiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/9ea8f4ba-b941-585d-bf90-5970da0559d2",
+        "value": "Jadis elle affectionnait le parfum des orchidées des Philippines ; la guerre a changé ses habitudes et lui a fait renoncer à ce parfum favori .« La petite reine Wilhclminc se parfume à l ' eau de Cologne ; mais elle emploie à cet usage un demi - litre quotidiennement .« Quant à la princesse héritière de Roumanie , ses parfums favoris sont la triple essence de jasmin , l ' essence de roses et l ' héliotrope blanc .",
+        "words": [
+          "parfume",
+          "eau de Cologne",
+          "petite reine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/9fc63408-baed-5cf0-b64c-c3b5496824d1",
+        "value": "Il paraît cependant que la ruse fut éventée , car la descendanco des premiers habitants du globe continua à piétiner le sol sans espoir de retour ; mais le parfum était né de cette application et depuis on fit brûler sous le nez de tous les dieux connus et inconnus toutes les réslnos , racines , fleurs , branches , herbes odoriférantes , et c ' est ainsi quo los premiers parfums furent désignés ! Per fumum ( Par la fumée ) .« On volt dans le livre des Védas , comme dans 3 a L ' ART DE SE Î ' AIRR AIMER les prescriptions do Zoroastre , l ' encens jouer le premier rôle dans lo rito religieux pour les parfums .« Les Egyptiens , qui furent d ' habiles parfumeurs , prirent certainement cette connaissance do la flore chez les peuples d ' Orient , qui possédaient la plus merveilleuse collection de balsamiques et d ' essences d ' arbres qu ' il fût au monde .",
+        "words": [
+          "encens",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a15eec5e-04f5-5fb4-95ce-cc98dc4f0275",
+        "value": "« Martial dit de Thaïs : Talc maie Thaïs olcl , quam non ( ullonis avari Testa velus , média sed modo fracla cia , Non ab amorc recens herens , non ora leonis ; Non dclracla cani Transliberina cutis .« Ce qui prouve que Thaïs , toute belle fût - elle , ne sentait pas l ' ambroisie et que de ce corps admirable , malgré les parfums , se dégageait une aura féminça détestable ; cela se produit , hélas I en bien ou en mal .< ( Horace parle d ' une vieille femme , éprise de lui , qui sentait le bouc .",
+        "words": [
+          "corps",
+          "parfums",
+          "ambroisie",
+          "aura",
+          "féminça détestable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a2593bc4-b558-55aa-b5a5-7984eaa20e80",
+        "value": "Ces fleurs doivent êlrc 40 L ' ART DE SE FAIRE AIMER cueillies entre cinq et sept heures du soir pour donner au produit toute la suavité désirable .Malgré cela , la Tsarine dépense cinquante mille francs par an pour ses parfums et cosmétiques qui lui sont expédiés de ' Paris .« La reine Alcxandra d ' Angleterre , impératrice des Indes , est fanatique d ' un parfum qui , depuis 1829 , est celui de la famille royale et que le parfumeur de la Cour est seul autorisé à fabriquer .",
+        "words": [
+          "parfums",
+          "cosmétiques",
+          "Tsarine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a3c05508-200f-5efb-a158-2cfea86d92c7",
+        "value": "— Après l ' éclipsé de Cartilage , ce fut Gênes qui se mit à fabriquer les parfums .Les Vénitiens s ' en occupèrent aussi , niais on peut dire que toute l ' Italie fut bientôt le centre de la parfumerie .« Nous avons vu que le principe des parfums était l ' hommage rendu aux dieux .",
+        "words": [
+          "Italie",
+          "parfumerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a5e6ede5-5705-59b9-a3d8-d8b11a6eb761",
+        "value": "Co fut parée , parfumée , que Cléopâtro , nonchalamment étendue sur sa galère qui voguait sur le Cydnus , alla à la rencontre de son ennemi Marc - Antoirte , qui devait devenir son esclave , lo plus amoureux des vaincus .« Les prêtres se livraient à la fabrication des parfums .On compte sur la Stèle des offrandes , du musée de Leyde , plus de cent noms d ' aromates divers .",
+        "words": [
+          "parfums",
+          "prêtres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a7c56b55-974e-584d-b958-94f761de4ba5",
+        "value": "« Céphisodorc dit que les parfums les plus coûteux étaient réservés à la toilette des pieds .« On chassa honteusement de Sparlo les parfumeurs , parce qu ' ils fraudaient la qualité des huiles .< i Solon interdit de vendre des parfums .",
+        "words": [
+          "huiles",
+          "parfumeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a937b192-b9fc-5864-bdc4-33cd7360b706",
+        "value": "Du laboratoire du Florentin s ' échappaient des vapeurs mortelles d ' une suavité perfide .« Le parfum à la mode était la frangipane , qui dura assez longtemps .Puis , après la peau d ' Espagne aux violentes senteurs , la tubéreuse , le musc , le patchouli , viendront embaumer l ' air où respirent les beautés de la cour de Louis XIII .",
+        "words": [
+          "parfum",
+          "frangipane",
+          "dura assez longtemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a98bfb76-86f4-54b5-b7e1-92344e2bba92",
+        "value": "« Directoire et Empire .— M ™ Tallien se lança dans toutes les excentricités d ' une parvenuo ; elle voulut copier les impératrices romaines et baigna son beau corps dans le lait , dans les fraises , et s ' inondait de parfums subtils .« Joséphine avait gardé le souvenir des effluves de son île ; la créole avait la passion des parfums et ce fut souvent une cause de discorde avec Napoléon dont les narines habituées à respirer l ' odeur de la poudre , se trouvaient péniblement affectées par ces émanations violentes et multiples de parfums si libéralement épandus .",
+        "words": [
+          "parfums",
+          "subtils",
+          "™"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/a9eb366d-d4ae-5986-92a3-b73dcbcfa8be",
+        "value": "« Aura Femlnea .— Vaura feminea , Vodor di femina , ou plus simplement le parfum personnel , PIERRES ET PARFUMS MAGIQUES 4l est l ' apanage de quelques personnes .Jadis les courtisanes , les beautés célèbres passaient pour connaître des philtres qui les faisaient aimer , alors que seule , leur beauté capiteuse et aussi le parfum que dégageait leur être étaient la véritable cause de leur puissance .",
+        "words": [
+          "parfum",
+          "PARFUMS",
+          "PIERRES",
+          "Vodor",
+          "Vaura"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/ac87f50e-c4df-5e09-9d93-72c2eca9314f",
+        "value": "Dans le cas où on n ' aurait à sa disposition que des mandragores sèches , on fera durer la macération deux fois plus longtemps ( i ) .Après s ' être livré à ces manipulations minutieuses , le sorcier a en sa possession un aphrodisiaque d ' une vertu cxtraordihairemcnt puissante .Quand la jeune épousée — - si récalcitrante soitclle — aura absorbé la valeur d ' un grand verre à bordeaux de cet élixir , elle sera complètement domptée .",
+        "words": [
+          "puissante",
+          "aphrodisiaque",
+          "sorcier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/acbb8bcc-b152-5471-98b7-f114050fb55d",
+        "value": "RECETTES POUR LA BEAUTE FEMININE , IQQ > Pour se faire désirer dei femmes .Il faut prendre le coeur d ' un pigeon vierge et le faire avaler par une vipère ; la vipère en mourra à cause de l ' emblème de vertu et d ' innocence qu ' est le pigeon , tandis qu ' elle est l ' emblème de vice et de calomnie ; donc la vipère mourra dans un temps plus ou moins long ; prenez alors sa tête , faites - la sécher jusqu ' à ce qu ' elle n ' ait plus d ' odeur , alors écrascz - la dans un mortier avec le double de graine de chônevis et buvez la poudre qui en proviendra dans un verre de vin de quatre ans , auquel vous aurez mêlé quelques gouttes de l ' extrait d ' opium connu sous le nom de laudanum ; alors votre teint deviendra éclatant , vos lèvres rosées , et toutes les femmes vous désireront , quel que soit votre âge .Ceci est infaillible , et l ' expérience en réussira toujours , pourvu qu ' elle soit faite en jours et heures convenables .",
+        "words": [
+          "plus",
+          "odeur",
+          "extrait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/ad752ea2-18c1-50c0-9283-2c594fafa920",
+        "value": "Ses esclaves aussi so parfumaient ainsi que les cohortes , dont on parfumait encore les aigles .« Saint Clément d ' Alexandrie dit que l ' on parfumait tout : murailles , lits , pieds , mains , et même jusqu ' aux objets destinés à un usage intime » « Mais où la magnificence des parfums se déployait , c ' était pour les funérailles .Néron , qui , d ' un coup de pied dans le ventre , tua son irascible épouse Poppée , lui fit des funérailles splendides ; il épandit une quantité considérable dé parfums sur son bûcher * « Les parfumeurs , à Rome , étaient presque tous des Grecs ; il leur était attribué un quartier où les élégants allaient flâner , emplissant les boutiques spéciales à celte industrie de leurs personnes et de leurs amis .",
+        "words": [
+          "parfums",
+          "parfumait",
+          "pieds",
+          "mains",
+          "lits",
+          "murailles",
+          "Saint Clément d ' Alexandrie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/b016c276-3f01-5795-a582-e54984d70abc",
+        "value": "3 /L ' ART DK SE FAIRE AIMER < < Homère donne le nom d ' huiles aux parfums ; Jamblique cl Porphyre disent qu ' on parfumait les jeunes gens qui devaient recevoir en songo les communications des Divinités .« La prêtresse de Didymc , oracle des Branchides , se préparait à recevoir la communication divino en respirant les émanations d ' une fontaine , et la Pythie de Delphes se grisait des vapeurs de l ' antre pour divaguer ensuite tout à son aise .« Les Scythes s ' enivraient des vapeurs du chaiivro que l ' on jetait sur une pierre rougio au feu .",
+        "words": [
+          "Delphes",
+          "émanations",
+          "fontaine",
+          "Pythie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/b20f8e4c-629a-5d3e-8e2c-0b0bfc86ec9a",
+        "value": "— Ces pratiques énervan * tes , — nous parlons des parfums — séduisirent les Romains et co fut alors dans la Rome antique l ' orgio païenne dans toute sa splendeur .Il flottait dans l ' air des parfums énervants , dissolvant les énergies , et cependant ce peuple connut la victoire , le rayonnement de sa puissance s ' étendit sur le monde , dit Sénèque .« Ce fut Olhon qui conduisit son maître , qu ' il dovait détrôner , à cet effémincmenl .",
+        "words": [
+          "air",
+          "parfums",
+          "énervants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/b621679b-b630-563d-b1f1-c269573d54be",
+        "value": "« Dans Madame de Chambley , Alexandre Dumas attribue à son héroïne l ' aura feminea .Il se dégage de tout son être un suave parfum de géranium .Cette particularité n ' est pas bien fréquente , cependant elle existe , et soit l ' ambre , soit la violette , soit la rose , etc .",
+        "words": [
+          "suave",
+          "parfum",
+          "géranium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/b79e124b-e630-5922-a716-e8e7937d2508",
+        "value": "La divine Marquise dépensait annuellement un demi - million pour sa parfumerie .Il est vrai que M \" * de Pompadour , affligée de certains petits désagréments intimes , devait s ' inonder d ' eaux de senteur ; aussi fut - il de mode , parmi les élégants , de changer de parfum à chaque heure du jour ; c ' était une manière habile de faire sa cour à la favorite .« Vers 1770 , Caltcau , rue Mauconseil , fournissait une grande partie des artistes dramatiques , pour les gants et les parfums .",
+        "words": [
+          "parfum",
+          "eaux de",
+          "chaque heure du jour",
+          "M \" *",
+          "les élégants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/baac2143-a88c-52ee-8fc9-8e4b3831e847",
+        "value": "N ' est - co point aussi pour leur faire prendre en patience les longueurs du siège do Troie que l ' on inventa le jeu de l ' oie ? PIERRES ET PARFUMS MAGIQUES 35 « Epoque romaine .— Ces pratiques énervan * tes , — nous parlons des parfums — séduisirent les Romains et co fut alors dans la Rome antique l ' orgio païenne dans toute sa splendeur .Il flottait dans l ' air des parfums énervants , dissolvant les énergies , et cependant ce peuple connut la victoire , le rayonnement de sa puissance s ' étendit sur le monde , dit Sénèque .",
+        "words": [
+          "parfums",
+          "Romains",
+          "énervan * tes",
+          "orgio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/bdb29c20-a978-54f4-ac96-de76e9a08c9c",
+        "value": "De là à reprendre contact si on les interrogeait , il n ' y avait qu ' un pas .Il paraît cependant que la ruse fut éventée , car la descendanco des premiers habitants du globe continua à piétiner le sol sans espoir de retour ; mais le parfum était né de cette application et depuis on fit brûler sous le nez de tous les dieux connus et inconnus toutes les réslnos , racines , fleurs , branches , herbes odoriférantes , et c ' est ainsi quo los premiers parfums furent désignés ! Per fumum ( Par la fumée ) .« On volt dans le livre des Védas , comme dans 3 a L ' ART DE SE Î ' AIRR AIMER les prescriptions do Zoroastre , l ' encens jouer le premier rôle dans lo rito religieux pour les parfums .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "racines",
+          "parfums",
+          "odoriférantes",
+          "herbes",
+          "branches",
+          "réslnos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/be551148-1a3d-5b45-9ca4-7ac4b054acd6",
+        "value": ", etc ., beaucoup d ' être humains en dégagent les parfums ; c ' est plus agréable que de propager des odeurs nauséabondes comme , malheureusement , il arrive à certaines gens , pour le désagrément de leurs voisins .» » Ce que nous avons dit au sujet des parfums s ' applique également aux pierres précieuses , dit encore l ' auteur de la brochure citée plus haut ( Moyens infaillibles pour semer l ' amour ) .",
+        "words": [
+          "parfums",
+          "odeurs",
+          "nauséabondes",
+          "gens",
+          "être humains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/bf1d95b4-9902-5a69-891d-071047530247",
+        "value": "( Petit Albert ) .( t Les choses consacrées à Vénus sont , entre les métaux : le cuivre jaune et rouge ; entre les pierreries : la cornaline , le béryl et le cérat ; entre les arbres et les plantes : le myrthe , la lanoise , l ' oranger et autres arbrisseaux odoriférants , le scrpollct , l ' émula campana , la coriandre , la valériane ; entre les animaux , le lapin , la brebis , la chèvre , les vers à soie et le caméléon qui est changeant comme la lune , la torpille , les huîtres et les grenouilles .» ( Clavicules de Salomon ) .",
+        "words": [
+          "odoriférants",
+          "oranger",
+          "arbrisseaux",
+          "valériane",
+          "myrthe",
+          "coriandre",
+          "béryl",
+          "scrpollct",
+          "lanoise",
+          "émula campana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/bf542dfa-78f6-5573-a39b-c762b5ac74a7",
+        "value": "« Les Egyptiens , qui furent d ' habiles parfumeurs , prirent certainement cette connaissance do la flore chez les peuples d ' Orient , qui possédaient la plus merveilleuse collection de balsamiques et d ' essences d ' arbres qu ' il fût au monde .« Sous les Ptolémées , en Egyple , la parfumerie fit de réels progrès ; il y avait à Alexandrie de nombreuses fabriques qui fournissaient le monde entier .Co fut parée , parfumée , que Cléopâtro , nonchalamment étendue sur sa galère qui voguait sur le Cydnus , alla à la rencontre de son ennemi Marc - Antoirte , qui devait devenir son esclave , lo plus amoureux des vaincus .",
+        "words": [
+          "Alexandrie",
+          "parfumerie",
+          "Sous",
+          "Sous les",
+          "Ptolémées",
+          "les Ptolémées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/c415f224-fd00-59a1-9a67-f31072e3eb3c",
+        "value": "« Nous pourrions multiplier ces exemples .11 suf * fit d ' avoir fouilleté les historiens et les chroniqueurs pour se rendre compte de cette loi : Jamais une femme n ' a été heureuse si , consciemment ou non , elle n ' a fait usage des parfums qui convenaient à sa nature planAaire , c ' est là une inéluctable vérité qu ' aucun initié ne s ' aviserait de met ' tre en doute .» Pour mioux définir cetto influonce des parfums en amour , c ' est - à - dire sur le bonheur intégral do l ' être humain , nous ne saurions mieux faire que de citer la très - savante et très - savoureuse petite étude que fit sur ce sujet M \" 1 * do Tramar , dans son intéressant volume , YEvangile Profane ( i ) .",
+        "words": [
+          "parfums",
+          "femme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/c54ad615-ca72-5a67-9fbf-3eb84736c312",
+        "value": "« Les Anciens , selon Pline , se servaient de plusieurs parfums à son époque ; c ' étaient le nard valant cent deniers la livre , l ' encens , le cinnamome mille deniers , et ensuite augmenté de moitié .« La casia ou cannelle , le myrobolam ( noix de ben ) , lo balamus odorant , le baume ( balsamodendron opobalsamum ) .3 /L ' ART DK SE FAIRE AIMER < < Homère donne le nom d ' huiles aux parfums ; Jamblique cl Porphyre disent qu ' on parfumait les jeunes gens qui devaient recevoir en songo les communications des Divinités .",
+        "words": [
+          "odorant",
+          "cannelle",
+          "baume",
+          "noix",
+          "casia",
+          "balsamodendron",
+          "balamus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/c82f1420-1012-5d99-a20d-268c06c3461b",
+        "value": "' H faillit mourir , tant sa passion le tourmenta .PIERRES ET PARFUMS MAGIQUES 43 « L ' aura feminea de M ™ 8 de Maintenon devait être un parfum mitigé d ' encens et se fards .« Ninon de Lcnclos possédait , au suprême degré , l ' aura feminea ; ce fut sa puissance sur les générations qui se pâmèrent à ses pieds , jusque presque à sa mort .",
+        "words": [
+          "parfum",
+          "encens",
+          "fards",
+          "PARFUMS",
+          "PIERRES",
+          "mitigé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/c96fd20b-110a-5a1b-ad98-7cd449a5eb1c",
+        "value": "96 L ' ART DB 8E FAIRB AIMER moyens de SQ faire aimer sont à la portée de tous , plus ou moins dangereux , plus ou moins Innocents , mais plutôt innocents que dangereux ; plutôt Innocents surtout si on les emploie seuls , Laissoz dono , chers lecteurs , en leur octroyant le mépris qu ' ils méritent , les liseuses de maro et les marchands de philtres .Que notre livro vous suffise 1 Ceci dit , passons aux pierres et aux parfums magiques .CHAPITRE III PIERRES ET PARFUMS MAGIQUES fauteur d ' une petite brochure intitulée Conseils infaillibles pour semer l ' Qmoiir ( i ) s ' exprime ainsi à propos des parfums magiques : < < Le temps n ' est plus où la science astrologique était dédaignée , et méprisée , Noire époque a vu se produire dans petto branche de la connaissance de l ' occulte , comme dans toutes les autres , une magnifique renaissance , Personne à présent ne s ' aviserait de mettre en douie l ' influence des pla » nètes sur la terre , sur ses habitants , sur tout ee qu ' elle porte et sur tout ce qu ' elle contient , « Qu ' il soit question de la reproduction des ani , maux , do la floraison dos plantes ou de certaines maladies de l ' homme , on est forcé de reconnaître l ' influence du soleil .",
+        "words": [
+          "pierres",
+          "parfums",
+          "magiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/cde07bfe-639d-5fb2-ae6e-7d5f085fcd18",
+        "value": "Moyen pour conserver la toute puissance amoureuse , ou pour la reconquérir lorsqu ' on l ' a perdue , cela dans l ' âge le plus avancé .Herbes , Fleurs , Parfums et Pierres magiques .Indications et Conseils recueillis par un sorclcr - phllosopbe des temps modernes .",
+        "words": [
+          "Parfums",
+          "Fleurs",
+          "Herbes",
+          "Pierres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/d0d5f441-426c-564c-8913-e9d0f986d312",
+        "value": "Pour enlever la mauvaise odeur des dénis cariées , pilez de la quihlc - fcuille , faites - en tiédir le jus , et frottez - vous les gencives avec .Celle plante est vivace , à fleur rosacée , la * ' racine est astringente fébrifuge .Dçuxième recette .",
+        "words": [
+          "racine",
+          "astringente",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/d12ae316-324a-52bc-94d0-29d81209cb02",
+        "value": "— Tout le monde sait que la pierre aimantée est despotiquement influencée par l ' étoile polaire .— Certaines pierres sont d ' une sensibilité des plus délicates , plusieurs meurent lorsque les personnes qui les portent sont atteintes de certaines maladies ; les perles ne restent brillantes que si elles sont portées et en contact avec la peau , l ' hydrophanc n ' a son reflet que dans l ' eau , d ' autres gemmes perdent leur éclat si elles sont atteintes par des exhalaisons putrides .— Le [ \\ [ \\ L ' ART DE SE FAIRE AIMER grand occultiste Porta prétendait « qu ' à chaque maladie , qu ' à chaque péché correspond une pierre , de sorte qu ' en posant sur la main du malade ou du pécheur toutes les pierres les unes après les autres , on peut connaître le mal ou le péché ; car lorsque la pierre correspondant au mal ou au péché est posée sur la main , elle dégage un fluide avertisseur » .",
+        "words": [
+          "putrides",
+          "perles",
+          "exhalaisons",
+          "autres gemmes",
+          "Certaines pierres",
+          "hydrophanc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/d33e956a-f28d-5294-9bda-27ce718547cd",
+        "value": "M Epoque moderne .— L ' impéralrice Alexahdra fait cultiver spécialement pour elle , à Grasse , la violette parfumée .Elle se sert pour sa toilette de cette eau qui avant est analysée au Laboratoire impérial de la Pharmacie .",
+        "words": [
+          "Grasse",
+          "parfumée",
+          "violette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/d3854b91-6e75-566b-bb1b-d5d0fb3629ac",
+        "value": "LeS 12 \" L ' ART DE SB FAIRE AIMER * » uns ' l ' appelaient mère par jci , les autres mère par là ; voilà la vieille , * la matrone arrive , tout lé ; monde la connaissait 1 Avec tous ces * soucis elle ne manqdait jamais ni messe ni vêpres ; elle ne négligeait aucun couvent de moines ou de soeurs , car .elle 6e confessait là , mais elle y tramait aussi ses complotsi Dans sa maison , elle fabriquait des parfums , falsifiait des essences , benjoin , ambre , musc .Elle avait une chambre tpute emplie ' d ' alambics , de bouteilles , dé vases .",
+        "words": [
+          "parfums",
+          "musc",
+          "benjoin",
+          "ambre",
+          "essences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/d97205b3-b437-550c-ba76-6e5f0ab39123",
+        "value": "Faites distiller par l ' alambic du jus do pavot dit opium et des tôles d ' oignons dans un vase de verre et mêlez cela avec les autres médicaments et compositions et donnez - en à celui que vous voudrez faire dormir autant qu ' il en pourra contenir dans la coque d ' une noix , car ce breuvage avalé remplira la lête de vapeurs , de sorte qu ' elle la disposera au sommeil .L ' eau de mandragore , tirée d ' un bain d ' eau bouillante , produira le même résultat , et celui qui en boira ne sera pas incommodé par sa mauvaise odeur .On compose encore un médicament plus efficace avec les drogues suivantes .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "eau de mandragore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/e100031c-5228-5354-90c0-306d6b9a7d29",
+        "value": "— Sorciers et Sorcières 10 CHAPITRE III .— Pierres el parfums magiques 27 CHAPITRE IV .— La fascination 47 CHAPITRE V .",
+        "words": [
+          "parfums",
+          "magiques",
+          "Pierres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/e1d45cac-3095-5327-a374-87aad28067d9",
+        "value": "Ils devinrent après , non seulement le culte de la divinité , mais celui de la créature .Les Croisés , retour d ' Orient , apportèrent la science des parfums délicats ; ils apprirent des peuples lointains l ' art d ' enfermer les parfums dans des cassolettes , dans des flacons , et môme ils avaient apporté les fameuses Pomandre ( pommes d ' ambre ) et l ' Oiseau de Chypre fait de pâtes odoriférantes que l ' on faisait brûler .« Ce fut à Aviccnnc , le philosophe arabe qui vivait au xe siècle , qu ' on dut la distillation de l ' essence de roses .",
+        "words": [
+          "parfums",
+          "cassolettes",
+          "odoriférantes",
+          "pâtes",
+          "flacons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/e1d4ec5a-2161-5f44-b9db-df3c6182a9b1",
+        "value": "« La narino sonsuollc d ' Eve dut sans doute découvrir l ' odeur divine des fleurs do l ' Eden ; curieuse 1 certes , elle nous l ' a prouvé surabondamment avec son histoire do pomme ; pommo ou pêche , n ' importe ! le résultat fut déplorable , et la ( 1 ) VfiWflOite Profane , par \\ \\ \" la comtesse dq Tramar , Vielor - Havard et C \" , éditeurs , Paris , 1905 .PIERRES ET PARFUMS MAGIQUES 3l curiosité alliéo à la gourmandise fit le malheur de sa descendance , Voluptueusement elle aspira le parfum des roses ; l ' Eden , d ' après la tradition , était assez voisin do la Perse et los roses de la vallée de Kaohemyre sont célèbres pour leurs subtils effluves .« Après avoir découvert ces trésors qui , au cours des siècles , devaient embaumer les humains ; après avoir été chassés du Paradis Terrestre , il est tout naturel de penser qu ' en se voyant forcés do coupher à la belle étoilo , do so livrer à toutes sortes d ' oxpédients pour arriver à vivre , Adam et Eve , qui eussent été dignes d ' être Normands par leur amour des pommes , se dirent probablement que pour rentrer en grâce et aboutir à réintégrer le Paradis perdu , il fallait flatter Celui qui , dans sa colère , les avait mis à la porte comme do vulgaires maraudeurs .",
+        "words": [
+          "parfum",
+          "roses",
+          "subtils",
+          "effluves",
+          "Eden",
+          "Perse",
+          "PARFUMS",
+          "PIERRES",
+          "vallée de Kaohemyre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/e23ddaa5-eba2-50bb-947d-2a3ff7cc8311",
+        "value": "« Dolaeus dit que Louis XIV ne supportait aucun parfum et d ' autre part , lo parfumeur Françoys ( 1680 ) dit que le somptueux monarque « aimait s ' enfermer dans son cabinet avec M .Martial et lui voir composer les parfums qu ' il portait sur 38 L ' ART DE SE FAIRE AIMER sa personne sacrée » .C ' est le même Martial , parfumeur alors en renom , dont Molière parle dans la comtesse d ' Escarbagnas .",
+        "words": [
+          "parfums",
+          "lui",
+          "Martial"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/e2b6a82a-629f-5d29-84f0-9740bbca4099",
+        "value": "Jadis les courtisanes , les beautés célèbres passaient pour connaître des philtres qui les faisaient aimer , alors que seule , leur beauté capiteuse et aussi le parfum que dégageait leur être étaient la véritable cause de leur puissance .« La Sulamitc Abisag , Judith , Dalila et mille autres beautés célèbres possédaient ce don précieux de dégager une suave odeur .« Martial dit de Thaïs : Talc maie Thaïs olcl , quam non ( ullonis avari Testa velus , média sed modo fracla cia , Non ab amorc recens herens , non ora leonis ; Non dclracla cani Transliberina cutis .",
+        "words": [
+          "suave",
+          "odeur",
+          "Sulamitc",
+          "mille autres beautés célèbres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/e2dabe59-e654-5e64-b366-d8773a462fdc",
+        "value": "Elle avait en même temps à sa solde l ' astrologue Cosme Ruggierri et le parfumeur René le Florentin .Catherine de Médicis , comme toutes les dames de la cour des Valois , ne se servait que de parfums magiques savamment préparés .« M ™ de Montcspan , une habituée des Messes Noires , ne ' se servait que de sachets fabriqués sui - 30 L ' ART DE SB FAIRE AIMER vaut les rigoureuses données de la science astrale .",
+        "words": [
+          "parfums",
+          "magiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/ec73c956-dc75-547c-bc84-2e6b61482fb9",
+        "value": "( Porta .) Pour faire une pomme endormante .Cela se fait de la manière suivante .",
+        "words": [
+          "pomme",
+          "endormante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/ef289952-593a-51a0-b3f6-0287b058a892",
+        "value": "Nous allons , nous , en faveur des hommes sensés , traiter de certaines expériences , de celles qui nous semblent se rapprocher le plus près de la vérité , afin qu ' ils apprennent eux - mêmes à les connaître et à les composer .Premièrement , il faut considérer les choses qui provoquent le sommeil , comme le pavot , la jusquiame , la noix métcllc , la mandragore et autres drogues semblables ; si par leur mauvaise odeur elles déplaisent , il y faut mêler du sturase , du musc et autres odeurs et mêler le tout ensemble .Si vous voulez donner à manger cette composition , faites - la épaisse , et si vous désirez la présenter à boire , faites - la liquide et claire .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "musc",
+          "drogues",
+          "odeurs",
+          "jusquiame",
+          "mandragore",
+          "pavot",
+          "sturase",
+          "noix métcllc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/f0f2f8a1-6ac3-5144-bbcb-194fc90d8109",
+        "value": "» Les Cours au xvin * siècle aimaient à la passion la bergamote , le jasmin et l ' oeillet .Puis le xix * siècle , plus favorisé par les progrès de la chimie , put à son aise délecter toute la lyre des odeurs lointaines les plus extraordinaires .Les white - roso , les essences de géranium que les Pères Blancs distillent dans notre colonie d ' Algérie , à El - Biar , ne laissent rien à désirer ; c ' est l ' âme de la fleur ravie par la puissance humaine , et le xx ' siècle verra s ' épanouir , sans doute , quelque nouvelle trouvaille .",
+        "words": [
+          "odeurs",
+          "lointaines les plus extraordinaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/f170cccb-4662-5d6a-af03-f4282b409c0c",
+        "value": "Une voix mystérieuse les avertit de ce qui leur manque pour vivre heureuses et les pousse à s ' entourer de certaines couleurs , de certaines pierres et de certains parfums .A ces personnes désireuses d ' augmenter leur bien - être , nous dirons : Portez toujours sur PIERRES ET PARFUMS MAGIQUES 39 vous un parfum qui soit en harmonie avec la planète sous le signe de laquelle vous êtes né .Faire usage du premier parfum venu , se parer au hasard d ' une pierre précieuse quelconque est aussi ridicule , pour ne pas dire aussi imprudent , que d ' absorber étant malade un médicament inconnu .",
+        "words": [
+          "parfum",
+          "personnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/f1a9815f-4cb6-5528-aeb5-bd69ec8524af",
+        "value": "» ( Clavicules de Salomon ) .11 suffit , pour se servir efficacement des parfums et des gemmes magiques , de savoir sous quel signe planétaire on est né , et de choisir le parfum et la pierre affectés au signe ( i ) .EmcraudC .",
+        "words": [
+          "pierre",
+          "parfum",
+          "parfums",
+          "gemmes magiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/f5dcbc8f-941d-56eb-bac0-142cf879e15d",
+        "value": "« Nous entendons souvent des » personnes attribuer au hasard leurs préférences .Elles diront par exemple : C ' est singulier , mais pourquoi est - ce que je déteste la couleur bleue ? Pourquoi la fleur que je préfère est - ello la rose ? Pourquoi mon parfum de prédilection est - il la verveine ? Il n ' y a là aucun hasard , c ' est que ces personnes se rendent compte d ' une façon obscure et instinctive de ce qui leur convient le mieux .Une voix mystérieuse les avertit de ce qui leur manque pour vivre heureuses et les pousse à s ' entourer de certaines couleurs , de certaines pierres et de certains parfums .",
+        "words": [
+          "parfum",
+          "fleur",
+          "rose",
+          "je",
+          "verveine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/f6c5933b-b3cd-5c03-9064-90b4890c4816",
+        "value": "Encore , pour nous mettre à l ' abri de tout reproche , ne feronsnous connaître que celles qui figurent dans le Codex et dans les ouvrages d ' auteurs placés entre les mains de quiconque s ' adonne à l ' étude des sciences pharmaceutiques .DES APHRODISIAQUES III DIABLOTINS STIMULANTS Gingembre 1 gros Safran d ' Orient 4 gros Musc 2 gros Ambre gris 8 grains Girofle 2 gros Mastic en larmes 6 gros « Réduisez le tout en poudre fine , et mêlez - le parfaitement à deux livres de sucre blanc pulvérisé , pour en faire une pâle que vous diviserez en pastilles de i5 grains .« Dose : On prendra 8 , io , 12 ou i3 pastilles , et plus par jour , selon l ' effet qu ' on en ressentira .",
+        "words": [
+          "Ambre gris",
+          "Musc",
+          "Safran",
+          "Girofle",
+          "Gingembre",
+          "STIMULANTS",
+          "APHRODISIAQUES"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/f84b3e93-fc1d-543b-b719-1436a466047e",
+        "value": "Elles diront par exemple : C ' est singulier , mais pourquoi est - ce que je déteste la couleur bleue ? Pourquoi la fleur que je préfère est - ello la rose ? Pourquoi mon parfum de prédilection est - il la verveine ? Il n ' y a là aucun hasard , c ' est que ces personnes se rendent compte d ' une façon obscure et instinctive de ce qui leur convient le mieux .Une voix mystérieuse les avertit de ce qui leur manque pour vivre heureuses et les pousse à s ' entourer de certaines couleurs , de certaines pierres et de certains parfums .A ces personnes désireuses d ' augmenter leur bien - être , nous dirons : Portez toujours sur PIERRES ET PARFUMS MAGIQUES 39 vous un parfum qui soit en harmonie avec la planète sous le signe de laquelle vous êtes né .",
+        "words": [
+          "pierres",
+          "parfums",
+          "couleurs"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/9d3ff6f2-8800-52d9-9bcf-2087fcebccea",
+        "label": "Jean d'  Herbenoire"
+      }
+    ],
+    "label": "L'art de se faire aimer : 1000 conseils d'amour à l'usage des amants, des fiancés et des époux / Jean d'Herbenoire",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5487157g",
+    "date": "1913",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/32b6ab38-a8c1-5e01-b054-ba6bf666a54f",
+      "label": "1913",
+      "begin": "1913",
+      "end": "1913"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361058/",
+      "label": "Alexandria"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/14c2d9f5-a050-5af8-a478-e7b9a81d80d1/fragment/bf542dfa-78f6-5573-a39b-c762b5ac74a7",
+  "license": "Public domain"
+}

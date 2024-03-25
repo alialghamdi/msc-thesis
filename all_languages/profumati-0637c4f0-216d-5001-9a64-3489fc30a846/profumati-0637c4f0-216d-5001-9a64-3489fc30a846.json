@@ -1,0 +1,701 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/0637c4f0-216d-5001-9a64-3489fc30a846",
+  "@graph": "http://data.odeuropa.eu/liberliber",
+  "label": "profumati",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/0dfa1f1f-e215-5646-94e6-964742079b99",
+        "value": "La camera era rischiarata da alcuni candelabri d ' oro posti ai quattro angoli .Un profumo inebbriante impregnava l ' aere .La porta a vetri colorati che dava sui terrazzo fu chiusa ; ma quando un lampo infiammava il cielo , si vedeva quella porta cangiarsi in un rabesco di mille colori .",
+        "words": [
+          "profumo",
+          "inebbriante",
+          "l ' aere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/128dafb7-e4e3-5119-b5da-7cf9ef5c9b2c",
+        "value": "Maria , che aveva osservato il segno da me fatto a Bar Abbas per isbarazzarci di Giovanni , ci aveva lasciati soli .Il RabbÃ ¬ ed io passeggiavamo sotto un pergolato di vite carico ancora di pampini violacei e di grappoli dorati , contemplando in silenzio il grandioso spettacolo del lago e le montagne vaporose della Galilea e della Perea , le piccole ville e i villaggi , che riposavano sulle rive dell ' acqua , in mezzo ai giardini profumati .Il RabbÃ ¬ sembrava assorto .",
+        "words": [
+          "profumati",
+          "giardini"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/14e8ff63-6ec8-5a71-97c7-d1539894a850",
+        "value": "Justus era caduto ai piedi di Maria e li baciava con ebbrezza , sclamando : - Gli Ã ¨ che io ti amo tanto , Maria ! Gli Ã ¨ che traverserei il deserto sopra le mie ginocchia per arrivare fino a te , Maria ! Un anno , un anno intero , mio Dio , ho sofferto il supplizio di vederti nelle braccia d ' un altro , di sentire il rumore dei suoi baci , di sfiorare il soffio delle tue carezze .Mi sono trascinato la notte sotto le tue finestre , come un essere che striscia , per aspirare un profumo che trapelasse dalla tua camera , ed ho inteso ..",
+        "words": [
+          "profumo",
+          "la notte",
+          "Mi",
+          "sotto le tue finestre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/186d875c-8e15-5fd4-85a2-6218ba1cb443",
+        "value": "Dietro questo corteggio seguiva un ' appendice inevitabile : il libertino , il bertone , vestiti di una clamide scarlatta , celeste , o verde ; i suonatori d ' arpa , di flauto , e di tamburo venuti dalla Siria ; l ' auletride jonia - cantante che si scritturava per le feste particolari ; - le fellatrici di Lesbos ; gli effeminati , i delicati della Frigia - giovani schiavi dai capelli lunghi ed ondeggianti , dai grandi orecchini , dalle tuniche a larghe maniche e dagli stivaletti verdi .Poi i bei giovanotti di Sibaris e di Taranto dalla pelle profumata , i membri epilati , il corpo ricoperto di stoffe trasparenti , come le ninfe .Poi i leziosi e le tribadi di Sparta , che pytismate lubricant orbem ( Giovenale ) , e sono rinomate nelle lotte femminili .",
+        "words": "profumata"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/19c3a6e7-ea38-50e9-9610-7b9accb020f9",
+        "value": ".Infine , tutto ciÃ ² che l ' arte della profumeria di tutti i climi e di tutti i paesi aveva inventato di piÃ ¹ soave e di piÃ ¹ inebbriante .Tutto ciÃ ² fu posto in bell ' ordine su canestrine che stavano sul tavolo , e risplendeva alla luce , deliziando la vista e l ' odorato .",
+        "words": [
+          "soave",
+          "profumeria",
+          "inebbriante",
+          "di tutti i climi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/1ac877f4-d0d4-54f5-8064-274dfe2a1204",
+        "value": "Ormai , egli non poteva restare piÃ ¹ sotto il bel cielo del suo paese , ove aveva tessuto tanti idillii nella prima fase della sua missione .Dopo aver gettato la sua terribile parola , che lo tratteggiava a figlio di Dio , egli non poteva piÃ ¹ abbandonarsi ai dolci amori dell ' infanzia , dei fiori , della donna , dei profumi , alla sua morale gaia , alla sua sottile ironia contro le bizzarre pratiche dei Farisei .Gli era mestieri ora regnare nelle regioni della folgore .",
+        "words": [
+          "profumi",
+          "egli"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/1f122312-a80e-5250-8871-a5ab37cef12b",
+        "value": "V ' erano ancora i Marsigliesi dalle dita vellutate , e gli emigranti da Capua e da Opicus , che si prestavano ai piaceri mostruosi .Intorno ed in mezzo a questo nuvolo profumato , scintillante d ' oro , di pietre preziose , di seta , di colori vivi , svolazzava quella gioventÃ ¹ d ' Alcinous di cui io era il capo - assente in quel giorno - adornata , arricciata , profumata , azzimata di chiridata - la tunica siriaca a maniche lunghe e larghe color ciliegia .In mezzo a questa folla , la quale assorbiva , incantava , abbagliava la gente onesta di tutti i giorni , si distingueva il mio ipocrita amico Justus , mascherato da saga , che vendeva degli istrumenti infami , messi in mostra su delle ceste portate da schiavi .",
+        "words": [
+          "profumato",
+          "profumata",
+          "in quel giorno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/1f5e5c8f-634e-553b-a212-a17555ee76a7",
+        "value": "Il RabbÃ ¬ se ne andava in broda di giuggiole a questi atti di deferenza e di delicatezza .Amava anche gli odori e i profumi , e molto i fiori ; ma sopratutto si mostrava tenero delle profusioni che si usavano per la cura della sua persona .CiÃ ² aveva un non so che d ' aria regale ; ed egli si spacciava per figlio di Davide .",
+        "words": [
+          "odori",
+          "profumi",
+          "molto i fiori"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/216f2f57-cf1f-505e-9516-a3ba3129a706",
+        "value": "Dall ' altra , il deserto , Gerico , il Giordano dalle limpide acque .Nel basso , Bethlemme - quella verde collina , ancora risplendente ai raggi del mattino , adorna degli ultimi fichi verdi , dei pampini violetti , di cedri ed aranci , un mazzetto di giardini - di cui un labirinto di sentieruoli bianchi forma un delizioso e profumato saico .Nell ' originale \" infondo \" .",
+        "words": [
+          "profumato",
+          "delizioso",
+          "saico"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/246bd493-b588-5600-b9f7-c4d41dc0df7c",
+        "value": "Durante tutto il tempo dell ' abluzione e dell ' abbigliamento , non rivolsi una sola parola ad alcuno ; lasciai fare , come un testimonio o come un padrone .Quando tutto fu in ordine , le mie unghie tagliate , i miei piedi profumati , un ' altra schiava vestita tutta di bianco e celeste con una cintura di porpora , venne a prendermi .Quattro suonatori d ' arpa la precedevano .",
+        "words": [
+          "profumati",
+          "piedi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/24be4c87-c0d8-511e-a2da-793382e111ed",
+        "value": "- Gli Ã ¨ precisamente quello che si dicevano fra loro quei furfanti dei suoi discepoli .ImperciocchÃ ¨ e ' avrebbero preferito vendere quell ' odore prezioso , e mangiarlo in un bel desinare al paschah .Il RabbÃ ¬ udÃ ¬ i loro brontolamenti , e disse loro : Tacete , branco d ' infingardi ! C ' Ã ¨ stato dei paschah fino ad oggi e ce ne sarÃ   anche per l ' avvenire , lo avete fatto e lo farete , fino a che non sarete impiccati ; per me questo Ã ¨ l ' ultimo .",
+        "words": [
+          "odore",
+          "prezioso",
+          "in un bel desinare al paschah"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/2adb5552-7511-57e2-a245-b6d14fdd3525",
+        "value": "Poi dei giojelli , orecchini , collane , braccialetti , spilli , fibulae , scheggiali .Poi profumi squisiti di tutte le qualitÃ   ; la nicerontina , quell ' odore soporifero inventato dall ' eunuco Nicerontas ; il nardo di Persia preparato dalla saga Folia , detto foliatum ; il balsamo di Mendes , gli unguenti di Cipro ; il nardo Achaemenium , degli olii di Arabia e di Siria , del malobathrum di Sidone ; l ' olio arabico pei capelli , e quello di mirabolano pel corpo , l ' opobalsamum di Gerico , l ' amone dell ' Assiria , la mirra di Oronte , il timo di Cipro , il cinnamomo dell ' India , le pastiglie diapasmate inventate da Cosmos per profumare e rinfrescare l ' alito nelle ore dell ' amore , l ' unguento reale della Partia ..",
+        "words": [
+          "odore",
+          "profumi",
+          "profumare",
+          "squisiti",
+          "soporifero",
+          "la nicerontina",
+          "le pastiglie diapasmate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/2dec1a92-9895-5f67-be4e-c8c4ead97f19",
+        "value": "Da quando in qua , aggiungevo , fa egli giustiziare avanti il giudizio ? Questo romano Ã ¨ scuro e severo , ma giusto , o meglio , Ã ¨ schiavo della legalitÃ   .L ' uomo che l ' altro giorno ha trucidato un popolo disarmato , avrebbe del pudore questa notte e civetterebbe col cosa se ne dirÃ   a Gerusalemme ? Hum , hum ! Un soffio d ' aria profumata che mi carezzÃ ² le narici , malgrado la stoffa tesa sul mio viso , m ' avvisÃ ² ch ' eravamo vicini ad un giardino .Ancora una rivelazione .",
+        "words": [
+          "profumata",
+          "aria",
+          "mi",
+          "le narici"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/2f0fdb3b-0801-5d84-bd5a-be903dbb2db1",
+        "value": "Poi , caro te , non venirmi tanto vicino .Puzzi troppo la cipolla .Io non sapeva che nella mia casa si nudrissero cosÃ ¬ male i profeti .",
+        "words": [
+          "Puzzi",
+          "la cipolla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/335e15c1-130a-59f7-b89c-1fb1fc86cf54",
+        "value": "Servirono tutte quelle leccornie sul nostro tavolo , mentre le schiave si abbandonavano ad una danza sfrenata .Poi ci aspersero di profumi e di foglie di rose , la cui freschezza mi temperÃ ² .Di poi , probabilmente dietro un segno di Claudia , tutte sparirono , eccettuata una schiava nera , che si sarebbe detta di marmo egiziano , tanto era bella , e che restÃ ² ritta , immobile ai piedi della sua padrona .",
+        "words": [
+          "mi",
+          "profumi",
+          "ci",
+          "di foglie di rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/345d2b79-07dc-52e6-bfbc-afea3e71f630",
+        "value": "Il soffitto era di cedro d ' Africa , che valeva piÃ ¹ dell ' oro , scolpito a spalliera di fiori e di foglie , con dei grappoli in rilievo .I muri erano tappezzati di una stoffa che sembrava tessuta e filata di perle , profumata da viole , da bottoni di rosa ed iridi , rallegrata da un nuvolo di uccelletti indiani come il contenuto di uno scrigno di pietre preziose messe giÃ ¹ .Delle svelte colonne d ' oro separavano le pareti in diverse inquadrature e sostenevano il soffitto .",
+        "words": [
+          "profumata",
+          "da viole",
+          "I muri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/3abf2767-8e9d-528e-a4e7-398d1b50f5b2",
+        "value": "Sentivo sotto i miei piedi la fina sabbia del fiume .L ' odore che m ' inebbriava non poteva venire che da qualche conserva , poichÃ ¨ l ' autunno nei nostri climi non ha di quei fiori .Udii qualcuno della scorta allontanarsi , probabilmente per andar a prendere degli ordini , e ritornare poco dopo , sempre silenziosamente .",
+        "words": [
+          "odore",
+          "m",
+          "di quei fiori",
+          "da qualche conserva"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/436e8d5a-2764-5dca-a75e-99bcab680cbd",
+        "value": "Ma in quel lampo di sosta Moab si gettÃ ² ventre a terra , saltÃ ² alla gola del mostro , col suo pugnale , lo squartÃ ² d ' alto in basso e si tenne avvinto al suo collo come ad un albero .Il coccodrillo si dibattÃ ¨ ancora alcuni minuti , poi , nell ' ultimo spasimo dell ' agonia , slanciÃ ² a dieci passi lontano Moab svenuto , tanto per l ' orribile fetore della bestia quanto per lo sforzo fatto .I guardiani del circo accorsero allora , onde spazzare quelle carcasse , e trovarono Moab ancora vivente .",
+        "words": [
+          "fetore",
+          "orribile",
+          "della bestia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/4e36a637-62e4-5e0b-8d7b-8be935c3c637",
+        "value": "Lilla le sciacquÃ ² all ' acqua di rose .Vetustilla le asciugÃ ² con una pasta di mandorle profumata , poi con un lino d ' Egitto fino come una tela di ragno .Sabina , che aveva tolto il famoso anello di Tiberio , lo rimise all ' annulare .",
+        "words": [
+          "profumata",
+          "una pasta di mandorle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/4f7d6a3b-8c96-5a0e-ad18-daa68675ba2a",
+        "value": "- Se codesto giorno trovasi in un anno qualunque , il tempo non l ' ha ancora segnato nel suo libro .Un minuto dopo , l ' usignuolo gorgheggiava nei giardini del palazzo , stesi ai piedi dell ' Ophel e bagnati dalle acque deliziose di Enrogel ; le tortorelle gemevano , il vento del mezzodÃ ¬ folleggiava con le fragranze della valle di Siloam , le farfalle svolazzavano , spiegando il loro scrigno di gioielli in mezzo ai fiori della corte .Il pranzo di Pilato e del suo ospite era pronto .",
+        "words": [
+          "fragranze",
+          "il vento del mezzodÃ",
+          "della valle di Siloam"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/5561b4a9-1713-5834-b327-677a77a9202c",
+        "value": "Quella sala , di forma ovale , non era molto vasta .Il soffitto era mobile ed alternava secondo le ore e le fasi del pranzo , mostrando ora l ' empireo gemmato di stelle , ora dei quadri di dii e di dee ignude , le cui voluttÃ   esaltavano il cervello degli spettatori ; altre volte cangiavasi in un nuvoleto bianco e rosato che aspergeva i convitati di una rugiada d ' essenze odorose .Questa volta il soppalco rappresentava il firmamento : e ' si avrebbe creduto di cenare sotto i raggi delle stelle .",
+        "words": [
+          "odorose",
+          "essenze",
+          "esaltavano il cervello degli spettatori"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/585ffa1c-79c7-5a84-826b-1942d52c645b",
+        "value": "I leoni per altro non si affrettarono .Alcuni , odorando l ' aria o battendosi i fianchi colla coda , sedettero sopra le lacche , mentre gli altri fecero lentamente un movimento in avanti .Uno dei cavalli , il piÃ ¹ spaventato , vedendo avvicinare il pericolo , si slanciÃ ² e cominciÃ ² a correre pel circo , demente e scapigliato , trascinando il suo cavaliere .",
+        "words": [
+          "l ' aria",
+          "odorando",
+          "Alcuni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/58c5f458-e040-55cf-ade2-c1c4abf6b84a",
+        "value": "Esse si pavoneggiavano .Talune attillate nelle loro tuniche gialle o verdi , con sandali gialli legati al collo del piede da coreggie dorate , mostravano i piedi nudi , bianchi e provocanti , tenevano il capo avvilupato in un piccolo mantello di stoffa di color vivo , i capelli tinti in giallo con dello zafferano , o in rosso col succo della barbabietola , o in celeste con del pastello , o semplicemente spolverati con polvere d ' oro , di lapis , di guado , o stropicciati con cenere profumata .Altre , con vesti babiloniche , o in tuniche di seta , trascinavano delle dalmatiche abbottonate sul davanti , fatte di stoffe dipinte , variate di fiori e ricami , ed avevano sul capo una mitra a colori , o una tiara scarlatta , o un nimbo d ' oro .",
+        "words": [
+          "profumata",
+          "cenere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/5b9a7167-607d-56d2-a650-3f2e5d7ec7a9",
+        "value": "LÃ   pure , era restata per vent ' anni , presso Eleazar , l ' arca del Signore dopo che era stata perduta dagli Israeliti , presa dai Filistei , posta prima nel Tempio di Dagon a Asdhot e poi venduta .All ' undecima ora , essi poterono vedere il bel villaggio di Emmaus - a due miglia da Gerusalemme - in mezzo ai giardini verdi , brillanti , profumati , ove il pampino porporino ed il grappolo dorato aspirano all ' ombra dell ' ulivo , e si arrampicano intorno i fichi .Questa vegetazione , in questo sito , Ã ¨ un fuggevole bacio della natura che diviene sempre piÃ ¹ aspra , nuda , dirupata a misura che si ascende verso l ' altipiano del monte degli Ulivi e di Sion .",
+        "words": [
+          "profumati",
+          "a due miglia da Gerusalemme",
+          "giardini verdi",
+          "il bel villaggio di Emmaus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/5db2b8b4-4737-583c-beea-560f467233e3",
+        "value": "Maria sapeva ove il RabbÃ ¬ alloggiava , ed era venuta a raggiungerlo .Sia che l ' orribile puzza del sito le avesse ispirato tale idea , o che avesse un progetto preparato , vedendo il RabbÃ ¬ addossato al lebbroso , ella si avvicinÃ ² a lui e gli versÃ ² sui capelli i profumi del suo vaso .Il RabbÃ ¬ se ne andava in broda di giuggiole a questi atti di deferenza e di delicatezza .",
+        "words": [
+          "profumi",
+          "puzza",
+          "orribile",
+          "del",
+          "del sito",
+          "del suo vaso",
+          "sito"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/5f8908ae-73ea-5c80-8275-9ae9fee4f55b",
+        "value": "Le torri , le porte , i teatri ricordavano una di quelle belle cittÃ   d ' Italia ove la vita non ha altro scopo che di divertirsi nei circhi , di mendicare il pane presso i padroni , e di andare a saccheggiare il mondo .I giardini d ' aranci , di datteri , di melagrani circondavano i bastioni della cittÃ   ; e rose la profumavano .Al di lÃ   dei muri , l ' anfiteatro ; al di dentro , dei portici , delle sinagoghe , un tempio a Zeus , dei palazzi da re .",
+        "words": [
+          "profumavano",
+          "rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/607318fb-d020-5701-a674-3beb0be3367b",
+        "value": ".PerchÃ ¨ mi stupirei adesso che questo rovo non produca delle viole ? Pazzo ! L ' hai voluto tu stesso , miserabile ! Oh ! perchÃ ¨ non restai nel mio paese ! Hispalis era cosÃ ¬ bella ! Il suo bel fiume limpido come il cielo ; il suo cielo trasparente come le pupille delle sue donne ; i suoi giardini ove ondeggia la palma , ove s ' apre il fiore dell ' aloÃ ¨ , ove la rosa canta , l ' arancio scintilla dei suoi profumi nelle notti imbalsamate ..",
+        "words": [
+          "la rosa",
+          "profumi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/626c54ab-eaa0-5b2b-9880-d99771b98829",
+        "value": "Una mano al petto , l ' altra sul fianco , la testa alta e un po ' indietro , mentre fissava lo sguardo su Pilato , sembrava ammirare gli intagli in legno di cedro del soffitto .Puzzava d ' aglio come tutti gli spagnuoli uniti insieme .E siccome Justus lo incalzava troppo da vicino , egli spingeva di tanto in tanto il piede indietro , affin d ' allontanarlo e tenerlo al suo seguito , non al suo fianco .",
+        "words": [
+          "d ' aglio",
+          "Puzzava"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/66fb621d-0e25-5d3f-803b-3c794c03a231",
+        "value": "Portava dinanzi a sÃ ¨ una sporta ripiena di quelle ciambelle di frumento a forme impudiche , che i Romani chiamano coliphia o cunni siliginei , e ne offriva alle donne , che le accettavano senza sembrarne offese .Poi dispensava delle gerse di escremento di coccodrillo , di cerussa , o di gesso , delle fiale piene di non so qual ingrediente , ch ' egli indicava agli uomini per quel terribile filtro che le venditrici di profumi dicevano venire da Roma , e chiamavano coppe del desiderio , acqua d ' amante , satyricon , bulbus , o hippomane .AhimÃ ¨ ! avevamo mandato a Roma circa due secoli fa ( 187 anni av .",
+        "words": [
+          "profumi",
+          "acqua d ' amante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/685a1cf2-7bf7-5e11-9d70-7bb9630f10a1",
+        "value": "Roma aveva innalzato tutto ciÃ ² alla sua grandezza , aggiungendovi le infamie spigolate nel resto del mondo , e ce lo rimandava trionfante , orgoglioso e risplendente .I nostri Ebrei si contentavano di bere : i poveri , i nostri buoni vini della Siria ; i ricchi , i vini della Grecia o di Roma , il cecubo , il falerno , il metimnese , con o senza aromi , e di berne fino al punto , sempre maledicendo , di non piÃ ¹ sapere se maledicessero Aman o Mordecai .Alcuni anni avanti , due pii anziani , Rabba e Zira , avevano bevuto insieme , e si erano altercati , cadendo sotto il tavolo , in tal guisa che Rabba aveva ucciso Zira .",
+        "words": [
+          "aromi",
+          "il falerno",
+          "il cecubo",
+          "il metimnese"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/686534c8-3a8f-5d49-bccf-0a17445dac36",
+        "value": "Sopra la bireme , i marinai siciliani si affrettavano ad asciugare la rugiada della notte , a stendere i tappeti di Cartagine , e le schiave di Claudia si preparavano a ricever la loro padrona , che si era alzata e si disponeva a venire sul ponte .Claudia sembrava incantata dalla vista di quella Joppa , alla quale Hiram aveva inviato il suo legno di cedro , di quel porto ove Giona s ' era imbarcato per quel terribile viaggio che doveva finire in maniera cosÃ ¬ insolita e cosÃ ¬ fantastica ; di quella distesa di sabbia , punteggiata da palme , da fichi , melagrani , posto avanzato in quella pianura di Sharon , che i libri sacri hanno profumata di rose ; di quella distesa di colline , risplendenti di rose e d ' ambra , che si stendevano dinanzi i suoi occhi , e che formano il paese di montagna della Giudea , di Beniamino e d ' Efraim .Claudia restÃ ² a contemplare tutto ciÃ ² fino al momento in cui la bireme approdÃ ² e fu tirata sulla riva , e che i marinai appoggiarono alla prora una scalea in legno di cedro incrostata d ' argento e di rame .",
+        "words": [
+          "profumata",
+          "di rose",
+          "i libri sacri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/6b24a1dd-2f14-59b6-b5df-73ff9a068590",
+        "value": "Due schiave italiane mi risvegliarono quasi , presentandomi una bianca tunica ornata di frangie azzurre .Dopo avere pettinato e profumato i miei bei capelli biondi , li cinsero di una corona di rose , come per le vittime destinate al supplizio .Durante tutto il tempo dell ' abluzione e dell ' abbigliamento , non rivolsi una sola parola ad alcuno ; lasciai fare , come un testimonio o come un padrone .",
+        "words": [
+          "profumato",
+          "i",
+          "miei",
+          "i miei",
+          "bei capelli biondi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/6b38de41-81dc-5ba0-b8c6-8f965aab7e72",
+        "value": "Trovai stupida la mia condotta , e piÃ ¹ io approfondiva il carattere di Claudia , piÃ ¹ ella mi diveniva un mistero .Non avevo , in tutta la mia vita , incontrato una donna piÃ ¹ casta di questa impura , la quale esalava la lussuria come una rosa di Sharon esala l ' odore .Non ho conosciuta una donna piÃ ¹ fredda di quella cui trovavo recondita nella tempestosa organizzazione di Claudia .",
+        "words": [
+          "odore",
+          "esala",
+          "esalava",
+          "come una rosa di Sharon",
+          "in tutta la mia vita"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/6ca00d1a-966d-5a2f-a0a0-8076ab3d56d0",
+        "value": "Ma se il RabbÃ ¬ mostrava tutti i sintomi della morte , gli altri due condannati parevano ancora rigogliosi di vita .Si fece loro inghiottire il resto del vino aromatizzato onde stordirli e finirli .Il tempo stringeva .",
+        "words": [
+          "vino",
+          "aromatizzato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/762cb779-d860-54c9-80bc-50d79cec3059",
+        "value": "Tu hai abitato Roma .Tu sai dunque una parte della mia storia , la parte infame , quella che traboccava da Capri , e si spandeva in fetide onde sopra la cittÃ   dei sette colli .Hai udito forse raccontare delle mostruositÃ   che la plebe vigliacca ha bisogno di credere per non confessare a sÃ ¨ stessa di non essersi sola imbragata nella poltiglia .",
+        "words": [
+          "fetide",
+          "onde sopra la cittÃ   dei sette colli"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/79444457-bd88-5ffe-9f24-21cf3d048dc1",
+        "value": "Sul letto stesso , uno sciame di pappagalli , di piccoli cani , di scimmiotti scambiavano colpi di becco , e colpi di denti , aizzati l ' un contro l ' altro ora da Antipas ora dai suoi nani , e facendo un diavoleto indescrivibile .All ' estremitÃ   del letto tenevasi una bella schiava greca che profumava i piedi del tetrarca .Alla testa , una schiava siriaca ancora piÃ ¹ bella gli strappava i capelli bianchi .",
+        "words": [
+          "profumava",
+          "i piedi del tetrarca"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/7bedc05a-5bd4-56a5-9f4b-755bb7b2acc9",
+        "value": "CavÃ ² fuori il suo vaso da sotto la tonica e crac ! lo ruppe sul capo del RabbÃ ¬ .Ah ! belloccia mia , non puoi immaginarti di che odore delizioso - cosa dirti ? di costoletta arrostita , di minestra all ' aglio , di rosmarino , che so io ! - si riempÃ ¬ la casa .Ed eccoti il RabbÃ ¬ inondato da quell ' untume che gli scorre da per tutto .",
+        "words": [
+          "di rosmarino",
+          "odore",
+          "io",
+          "delizioso",
+          "di costoletta arrostita",
+          "di minestra all ' aglio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/7fb51bf1-54a5-58df-a488-8ebfe08cd2bb",
+        "value": "Delle volatiche coprivano le dita , i ginocchi , ed il mento .Le pomette delle guancie rosse e gonfie ; gli occhi di un colore di rame , oscurati , velati sotto le profonde rughe cagionate dalle sopracciglia contratte ; le labbra tumide ; il naso carico di sarcosi nerastre ; i denti neri , le orecchie floscie , allungate come quelle dell ' elefante ; in tutto il corpo , delle ulcere che davano un umore nero e fetido , le nuove rodendo le vecchie ..",
+        "words": [
+          "fetido",
+          "delle ulcere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/81a6a7cd-c8bb-5482-ae3c-af29f66b9d5b",
+        "value": "Traversarono dei giardini d ' aranci e di cedri , ove la vite ed i fichi prosperano frammisti agli ulivi , ai mandorli , ai sicomori , alle palme .L ' uva era matura , i pomidoro scarlatti si allineavano a spalliera , le mele della Siria rallegravano gli occhi col loro colore giallo o porpora , il mirto e la rosa selvatica profumavano l ' aria .Lo sguardo si riposÃ ² sopra questi giardini fino a Beth Dagon - ove si trovano ancora i ruderi di un tempio dedicato a quella divinitÃ   marina dei Filistei , per la quale Goliath giurava , nel cui tempio Sansone , cieco ed avvilito , fu ucciso , e che fu rovesciato dall ' arca del Signore allorchÃ ¨ i Filistei la misero nel suo tempio stesso , dopo aver vinto Hophni e Phineas , figli di Eli .",
+        "words": [
+          "l ' aria",
+          "profumavano",
+          "la rosa selvatica",
+          "il mirto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/8c958268-1727-5d9e-9928-e6bd884cc6ab",
+        "value": "- Sei almeno felice ora ? gli domandÃ ² Ida con un accento di sensibilitÃ   e di tenerezza infinita .Pilato esitÃ ² un momento a rispondere - Ã ¨ lui stesso che me lo disse poi - indi esclamÃ ² : - Come un uomo che dopo aver delibate le aurore profumate della primavera sotto il cielo della Campania , nel golfo di Baia , si trova trasportato , in pien meriggio , sotto il sole di luglio nelle pianure della Siria .Il sole Ã ¨ bello , splendido , ma brucia ed uccide .",
+        "words": [
+          "profumate",
+          "della primavera",
+          "un uomo",
+          "in pien meriggio , sotto il sole di luglio",
+          "nelle pianure della Siria",
+          "sotto il cielo della Campania , nel golfo di Baia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/8f974a46-7486-5998-9863-1cb44d53b5e9",
+        "value": "Sabina , che aveva tolto il famoso anello di Tiberio , lo rimise all ' annulare .Polla tagliÃ ² le unghie , e le lucidÃ ² con un cosmetico oleoso e profumato .In quel momento , mentre Chione , Clio , Calamide ed Eunoe si occupavano dei piedi di Claudia , d ' una bianchezza abbagliante , - quei piedi che davano il batticuore alla gioventÃ ¹ d ' Alcinous di Roma , quando ella passava per la Via Sacra , - mentre Glicera le calzava degli stivaletti rossi dai talloni dorati , e che Marcella li annodava con dei cordoni di seta ed oro a quelle caviglie ed a quelle gambe tanto cantate dai poeti , due adolescenti Galli , dai capelli castagni arricciati , e dalla schiappa corta e bianca , portarono lo asciolvere di Claudia .",
+        "words": "profumato"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/903b08f6-eff7-5e29-a378-c5ad986eb32e",
+        "value": "- Egli annasa dietro la porta la tua Maria che si veste , disse Bar Abbas ridendo .- Non sarebbe certo un famoso cane , risposi io , poichÃ ¨ siamo in mezzo ad un aere pregno di profumo .- Per conto mio preferisco il profumo della cucina , rispose Bar Abbas .",
+        "words": [
+          "io",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/98f91f22-67a2-5cb9-9e0d-a5865b48bf53",
+        "value": "Aveva venduto la sua piccola casa di Magdala .Del prezzo che ne aveva ricevuto , aveva comperato da un profumiere di Tiberiade una fialetta di essenza di nardo , e precedendo la compagnia dei Galilei , si recava al paschah .Maria sapeva ove il RabbÃ ¬ alloggiava , ed era venuta a raggiungerlo .",
+        "words": [
+          "essenza",
+          "una fialetta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/98fe4ad7-7deb-5ef8-8ea3-db5b8c60088f",
+        "value": "E poi sono stato quasi quasi rapito ancor io .Forse che il pranzo quotidiano mi darebbe una bella cera ? Una mariuola , alla vostra porta stessa , si Ã ¨ aggrappata al mio mantello , che non ne poteva piÃ ¹ , dicendomi con una bocca rosea , - che odorava deliziosamente di cipolla , - che aveva adornato il suo letto con un tappeto dipinto d ' Egitto , che aveva profumata la sua stanza con mirra , aloÃ ¨ e cinnamomo , e che m ' invitava quasi che mi fossi il re Salomone24 Proverbi , VII ..",
+        "words": [
+          "profumata",
+          "mi",
+          "deliziosamente",
+          "la",
+          "di cipolla",
+          "la sua",
+          "odorava",
+          "con mirra",
+          "cinnamomo",
+          "stanza",
+          "Una mariuola",
+          "sua stanza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/9f97a50f-d047-55f3-b7ec-12f312c82e84",
+        "value": "Poi Cinzia lavÃ ² la pelle prima con dell ' acqua tepida , poi con della fredda , in cui durante la notte era restato in fusione del nardo d ' Etiopia .Cloe si presentÃ ² con una conchiglia d ' oro , e dopo aver respirato sopra uno specchio , per mostrare alla sua padrona che il suo alito era puro , e convenientemente profumato dalle pastiglie di Cosmos , umettÃ ² con della saliva un pizzico di rosso molto allungato cui distese leggermente sulle labbra di lei .Delia aveva giÃ   lavati i denti di Claudia , con una dolce spugna di Bretagna .",
+        "words": [
+          "profumato",
+          "alito",
+          "convenientemente profumato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/a3bf1915-3c48-51e1-b058-5d0c902198c5",
+        "value": "Il moto mi faceva bene .La respirazione fuori dell ' orribile puzzo della prigione , quantunque non fosse pienamente libera , m ' insoffiava la vita .Tutto il creato taceva , eccetto la rondinella laboriosa , che prendeva in iscambio le prime luci rosse della piena luna per quella del sole che tramonta .",
+        "words": [
+          "puzzo",
+          "m",
+          "orribile",
+          "della prigione",
+          "insoffiava la vita"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/a4b90f5d-7355-5d25-a0e7-3df1aa596738",
+        "value": "Finito il pranzo , continuammo a scendere e montare le colline che conducono al Giordano , costeggiammo monti petrosi , e ci riposammo per bere alla fontana Elisha , vicino alla valle limitata dalla via romana che mena a Gerico .Il sole tramontava , ed avevamo sotto gli occhi i sobborghi della cittÃ   - uno sciame di casuccie bianche in mezzo ai sicomori - e la superba cittÃ   di palazzi , festosamente adorna di piante balsamiche ed odorose .Gerico Ã ¨ la cittÃ   amata da Cleopatra - da Cleopatra che aveva Menfi ed Alessandria ; - la cittÃ   preferita da Erode , che possedeva Gerusalemme , Cesarea , Ptolemaide e ove egli visse ed ove morÃ ¬ .",
+        "words": [
+          "odorose",
+          "piante balsamiche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/a8276700-0ecf-50d6-a3d0-8281a78aa4e0",
+        "value": "La cortigiana delle feste era figlia di Cesare nell ' intimitÃ   .La dicevano frivola : ed il suo spirito era ornato di tutte le gemme ed i profumi della poesia greca e romana .A Capri , ella aveva figurato nella mandria di Cesonius Priscus , l ' intendente della voluttÃ   di Tiberio , e vi aveva imparato la politica del mondo , maneggiandola con Sejano che le faceva orrore .",
+        "words": [
+          "profumi",
+          "della poesia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/a8d2e566-1b1f-5657-b791-4c705b24d3b6",
+        "value": "L ' atto fastoso di Maria lo inebbriÃ ² .Tanto piÃ ¹ ch ' ella si mise ad asciugargli i piedi con la sua splendida capigliatura , dopo averglieli profumati alla foggia romana .Ora questa prodigalitÃ   di profumi non ebbe lo stesso successo appo i discepoli , che appo il loro maestro .",
+        "words": [
+          "profumati",
+          "i piedi",
+          "alla foggia romana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/a93ff99a-dfd5-50c3-8d07-343b1886a8cb",
+        "value": "Tutt ' intorno a quella magica sala , delle statue d ' alabastro , ignude , sostenevano dei candelabri che la rischiaravano come se il sole del mezzogiorno l ' avesse inondata della sua luce .Dei vasi di fiori profumavano l ' aere e accarezzavano lo sguardo .Nellâ   originale \" Questa \" .",
+        "words": [
+          "profumavano",
+          "l ' aere",
+          "Dei vasi di fiori"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/a96d8fa5-198b-509b-8759-86e5262389fb",
+        "value": "Mi avvicinai a GesÃ ¹ e gli susurrai all ' orecchio : spera ! Egli sorrise di nuovo tristemente .Era di costume di dare a bere ai condannati , prima di attaccarli alla croce un certo vino aromatizzato che li stordiva .Se il condannato non aveva nÃ ¨ un parente nÃ ¨ un amico per offrirgli questo beveraggio , se nessuna donna pietosa della cittÃ   non compiva quest ' opera di caritÃ   , il fisco somministrava il vino .",
+        "words": [
+          "vino",
+          "aromatizzato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/b01f5399-7774-520c-8044-47654eebc7f7",
+        "value": "I discorsi allegri , lusinghieri , bellicosi s ' incrociavano in mezzo ad un brillante rumorÃ ¬ o da un capo all ' altro della sala .I fiori imbalsamavano , il vino inebbriava , gli effluvii misti dei cibi e dei profumi mettevano in fuoco il sangue .Questo splendore di vasi d ' oro , di lumi , di stoffe dai vivi colori di cui i convitati si erano pavesati , il sorriso delle donne , le canzoni degli istrioni , i bizzarri motti dei buffoni , le smorfie dei parassiti .",
+        "words": [
+          "profumi",
+          "misti",
+          "dei cibi",
+          "effluvii",
+          "mettevano in fuoco il sangue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/b1746bc5-c3fb-5bd5-bd37-4b4d573df816",
+        "value": "- Non sarebbe certo un famoso cane , risposi io , poichÃ ¨ siamo in mezzo ad un aere pregno di profumo .- Per conto mio preferisco il profumo della cucina , rispose Bar Abbas .La piÃ ¹ bella donna del mondo non vale un quarto di capriuolo bene speziato .",
+        "words": [
+          "profumo",
+          "mio",
+          "della cucina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/b746d8b6-d232-56dc-82a3-c00d8a637e76",
+        "value": "Giammai donna fu piÃ ¹ fedele al suo amante amato , di quel che lo era Maria per me cui ella amava sÃ ¬ poco .Dovunque ella passava , tradita dai suoi profumi , dal suo seguito , dalla sua abbagliante bellezza , dai suoi adornamenti , dalla sua insolenza , dal suo riso che si sarebbe detto una cascata di perle sur un bacino d ' oro , un riddare di raggi , dovunque la si mostrava , un vivo commovimento seguivala .Le altre donne impallidivano ; gli uomini le si affollavano attorno .",
+        "words": [
+          "profumi",
+          "ella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/b8248df6-bf31-5f78-8c22-f3f930b661ea",
+        "value": "Sii felice , se lo puoi , se la felicitÃ   puÃ ² esistere in codeste affezioni apopletiche che scattan di botto e muoiono all ' istante .PerÃ ² , se un giorno fossi visitata dalla disgrazia , ricordati di me , che non dimenticherÃ ² mai di qual balsamo tu hai profumato le ore del mio spaventevole dolore .Addio .",
+        "words": [
+          "profumato",
+          "le ore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/b9bfb054-a671-5880-bb56-1f0f1b6efb94",
+        "value": "Non inquietarti del passato della mia padrona e di penetrarne le angoscie .La mia conclusione Ã ¨ questa : io conosco il pudore , la purezza , il profumo di questa viola mammola che custodisco da quasi due anni , e quali che sieno le apparenze e le ombre che abbiano velato , forse offuscato , il suo candore , non c ' Ã ¨ una figlia di Sion che possa esserle paragonata .Io la vedo disgraziata e sola .",
+        "words": [
+          "io",
+          "profumo",
+          "di questa viola mammola",
+          "da quasi due anni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/be6b1396-2a7a-59df-8590-34b0e2bb3cd8",
+        "value": "Il tablinum fu dunque vivamente rischiarato .Thorix l ' aveva profumato con dei vasi di fiori , pei quali egli faceva nelle sue stanze una temperatura tropicale .Riuniti in quella camera , ravvicinati , la conversazione si animÃ ² un poco piÃ ¹ .",
+        "words": [
+          "profumato",
+          "dei vasi di fiori",
+          "Thorix"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/c3dd7b7b-d41f-5348-9ae4-b08ab0639650",
+        "value": "Il lorarium restava sempre ritto ed impassibile all ' altra estremitÃ   del bacino .E gli uccelli cantavano ; le api ronzavano ; le farfalle andavano a zonzo ; l ' aria era profumata dai primi baci della primavera .Dei fiori delle ajuole , dei verdi ramoscelli sugli alberi , e dinanzi a me la sola donna che io ho amata , divorata ! Fuggii , e non so come mi trovai nella sala del giudizio , ove caddi annichilato .",
+        "words": [
+          "profumata",
+          "l ' aria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/c9bdc091-2fc9-574a-9413-443199714391",
+        "value": "Avevano passato colÃ   la loro giornata in una mezza oscuritÃ   .Eccettuato alcuni caprai che avevano condotto le loro bestie per leccare quel po ' d ' acqua fetida che viene dalla valle di Hinnom , niun ' anima viva si era avvicinata a quel sito .Ma , dal momento in cui il sole principiÃ ² a declinare dietro il Moriah , quei soldati avevano osservato verso il monte degli Olivi e lo Scopas , dei piccoli gruppi d ' uomini che venivano dalla parte di Goreb , da Bezetha , dal Mizpeh , dall ' Akra , gli uni discendendo il fianco della collina , gli altri uscendo dalle porte , e che , stretti alle mura , si avanzavano a passi lenti e misteriosi verso la casa .",
+        "words": [
+          "acqua",
+          "fetida",
+          "dalla valle di Hinnom"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/cb414be8-76b1-51a7-8ca7-960befc7afdd",
+        "value": "Una giornata splendida ; il sole era in festa .L ' aria ripiena di canti e di profumi ; la terra dei fiori .Sotto un piccolo portico che copriva il ballatoio dei gradini del giardino , sopra dei cuscini , avviluppato di coltri giaceva un ammalato .",
+        "words": [
+          "profumi",
+          "L ' aria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/ccd159f6-3658-59a6-b6b7-00344ab10856",
+        "value": "In quello stato mi avvolsero in un mantello di lana scarlatto , e mi trasportarono in un ' altra camera riscaldata in grado minore , ove gli schiavi principiarono l ' operazione della frizione .Quando le mie membra furon rimescolate e le mie giunture disarticolate , gli schiavi mi fregarono con olio profumato .Mi sentii rinascere .",
+        "words": [
+          "olio",
+          "profumato",
+          "mi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/dd427117-8243-5c9f-8ef4-6dea86719b83",
+        "value": "Avevamo passato una parte della sera sul terrazzo del Sud , dinanzi al quale si svolge la catena dei monti di Scopas e degli Olivi , e donde , per un appiattamento di questi monti , si vede il mar Morto , come una lama d ' oro durante il giorno , come una nube violetta la sera ed il mattino .Passeggiando lentamente , l ' uno vicino all ' altro ; cogliendo qui un fiore , lÃ   una foglia dai vasi di majolica azzurra , agli arbusti odoranti schierati sul parapetto , io le aveva modulato quella cosa selvaggia e splendida che si chiama : il Cantico dei Cantici di Salomone .Ella aveva ascoltato distratta , poi mi aveva detto : - SÃ ¬ , codesto canto Ã ¨ bello come le armonie del deserto ; ma io preferisco l ' Odissea .",
+        "words": [
+          "odoranti",
+          "arbusti",
+          "schierati sul parapetto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/ddba35f3-959a-5ffc-b087-0d357badbada",
+        "value": "Queste schiave portavano il terzo servizio e le bellaria , ossia le ciambelle , le composte , ed i camangiari zuccherati .Sopra dei vassoi d ' argento dorato e di porcellana delle Indie , trasparente come il cristallo , e dipinta di fiori ed animali , s ' ammonticchiavano i pasticci d ' uccelletti , beccafichi , tordi , ortolani , dell ' uva di Corinto e di Sicilia , delle noci inzuccherate , dei cotogni irti di chiodi di garofani che parevano tanti porcospini , delle tarte al mele dell ' Imetto , dei fichi , delle pesche , delle fragole , mille frutti infine , ed un Priapo in pasta di mandorle , il seno adorno di piccoli fiori e gioielli simulati in zucchero , profumati come una cortigiana ed imitati alla perfezione .Le schiave ci versarono nell ' istesso tempo dei vini di Cadice e di Sicilia , fluidi come l ' olio , dolci come il mele , e che insinuavano la febbre e la vertigine nelle vene .",
+        "words": [
+          "profumati",
+          "come una cortigiana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/ddee6f7a-7521-5c8f-bbb7-27010de0dc18",
+        "value": "Il segnale fu dato .Il capo del batlanim bruciÃ ² dell ' incenso che riempÃ ¬ del suo bianco fumo e del suo forte profumo tutta la sinagoga , ed intuonÃ ² un salmo di David che fu cantato dall ' intera assemblea .Finito il salmo , il Hazzan andÃ ² all ' estremitÃ   orientale della sinagoga , allontanÃ ² , inchinandosi , il velo che copre l ' arca , l ' aprÃ ¬ e ne tirÃ ² fuori il Torah - ruotolo ove sono scritti i cinque libri - lo portÃ ² intorno ai banchi del popolo , di maniera che tutti potessero baciarlo , o toccarlo colla mano diritta , ed ascendendo i gradini della piattaforma , lo presentÃ ² al Sheliach .",
+        "words": [
+          "forte",
+          "incenso",
+          "profumo",
+          "suo",
+          "tutta la sinagoga"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/e264188e-dbbf-5af6-9881-2dfd30dc1b98",
+        "value": "Mi dissi : Cosa vuole quella donna che si nasconde e che mi getta in mezzo a tentazioni cosÃ ¬ seducenti ? Il cangiamento che s ' era operato nella mia posizione mi dava a riflettere .Per uno sforzo di volontÃ   , finsi l ' indifferenza , e scendendo nella vasca d ' acqua profumata , mi misi a nuotare ed a giocare colle ragazze , assolutamente come se fossi stato coi miei giovani amici nel Giordano , o nelle acque azzurre di Genezareth .Non poterono strapparmi neppure un bacio ; e Dio sa che scrigno di bellezza e di gioventÃ ¹ era aperto dinanzi ai miei occhi ! Giuseppe ne sarebbe stato vinto .",
+        "words": [
+          "profumata",
+          "acqua",
+          "mi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/e85a9cfe-fc14-5fa7-a378-1572dc6ab6e7",
+        "value": "I loro sguardi furono all ' istante colpiti dalla presenza della folla che siedeva tutta intorno e di quel gruppo rosso ed immobile che era piÃ ¹ vicino ad esse .Le loro narici fiutavano un odore forte , acre e pestilenziale .I coccodrilli coi loro occhi piccoli e rossastri scorsero a prima vista le tigri che stavano loro di faccia : e d ' uno sguardo di traverso , a dieci passi dalla loggia di Claudia , i condannati .",
+        "words": [
+          "forte",
+          "acre",
+          "odore",
+          "pestilenziale",
+          "Le loro narici"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/f2932290-7d1f-5d96-b654-ca98c2dd0397",
+        "value": "Sembrava un po ' imbarazzato .Noi ci trovavamo in una sala vivamente illuminata , dove un gruppo di persone si disponeva a dar l ' assalto ad una cena , ch ' egli avrebbe indovinata al suo profumo , se non avesse scÃ ´ rto a diritta , per la porta aperta , le tavole preparate ed i domestici all ' opera ; dall ' altra , uno sciame di giovani schiave che portano i cuscini , i ventagli ed i fiori della loro padrona ; e ritta nel mezzo della sala , bella come un giorno di primavera , la padrona stessa circondata dai suoi convitati .L ' esitazione di Cneus Priscus non durÃ ² per altro che un istante .",
+        "words": [
+          "profumo",
+          "egli",
+          "suo",
+          "una sala vivamente illuminata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/f38f8b64-910b-5f7c-9778-56f7f50eebc1",
+        "value": "Io conosceva il sito .Traversammo due o tre sale imbalsamate dalle esalazioni degli alberi e dai fiori del giardino , ed arrivammo infine nel triclinium riservato , che il re Erode aveva fatto costruire per le sue cene voluttuose colla bella Mariamne , la piÃ ¹ bella e la piÃ ¹ amata delle sue nove mogli e delle sue numerose favorite .Quella sala , di forma ovale , non era molto vasta .",
+        "words": [
+          "esalazioni",
+          "degli alberi",
+          "dai fiori del giardino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/f4f29805-e27c-5a48-9b8d-e6b6deca8b04",
+        "value": "Ad un tratto , una musica dolce ed invisibile irrugiadÃ ² il banchetto , come per calmarne la febbre e preparare l ' assopimento .Si aspirava questa freschezza di melodie , ciascuno si cullava a quell ' ondulazione di suoni profumati d ' estasi .Ma ecco che ad un cenno di Erodiade , una porta s ' apre , cinquanta schiave nubiane nude si dispongono in fila con candelabri d ' oro alle mani , ed una visione simile ad un raggio di sole s ' insinua nella sala .",
+        "words": "profumati"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/fd6df8de-3263-50e0-8dfe-6dce1a060b95",
+        "value": "Il fatto sta che il figlio del sagan venne via scandalizzato da Bethania , e che jeri sera ebbe luogo da Hannah una riunione onde chiamare GesÃ ¹ a render conto della sua condotta .Tu comprendi che io difesi la libertÃ   dei desinari , dei lebbrosi , delle mani sporche , degli odori e delle profumatrici ; ma fui nella minoranza .Fu adottata la decisione , malgrado la mia ben nutrita eloquenza - la sola cosa che io mi abbia sempre ben nutrito , - di mandare una intimazione al RabbÃ ¬ .",
+        "words": [
+          "odori",
+          "io",
+          "profumatrici"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/fe50d0b2-8689-53e4-b6b7-dabbd9cf4ba6",
+        "value": "Il sagan ed io entrammo in una stanza laterale ove Noah venne a raggiungerci e dirci che Ida fra qualche istante sarebbe pronta .Infrattanto i miei servi , Thorix e Febea presentavano sopra bacini dei frutti canditi , delle bibite agghiacciate , dei vini d ' ogni paese , profumati e puri , dell ' idromele , ed una quantitÃ   di dolciumi che io aveva inviati alcune ore prima .Non ebbi il coraggio di veder Ida da sola .",
+        "words": [
+          "profumati",
+          "dei vini",
+          "alcune ore prima"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/ffb9754c-e6d8-54b5-b3b4-815222e8d127",
+        "value": "- Bah ! disse egli , quei birbi se la caveranno coll ' aguzzare di nuovo le loro spade domani .Ed ordinÃ ² che si ponesse un ' altra pastiglia di mirra nelle cassolette d ' oro che profumavano il suo appartamento .Pilato , invece , alla vista di quella terribile catastrofe si strappÃ ² i capelli dalla disperazione .",
+        "words": [
+          "profumavano",
+          "il suo appartamento",
+          "nelle cassolette"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/fc22f614-0552-5bb3-b6e9-47a8126908f9",
+        "label": "Ferdinando Petruccelli della Gattina"
+      }
+    ],
+    "label": "Memorie di Giuda",
+    "date": "1883",
+    "language": "it"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6345e1a7-16cf-584c-b652-3c134011b20a",
+      "label": "1883",
+      "begin": "1883",
+      "end": "1883"
+    }
+  ],
+  "place": [
+    {
+      "@id": "http://data.odeuropa.eu/place/26926081-6562-5d69-bb8d-4df4f6939aa8",
+      "label": "giardini verdi"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/a7558be3-9598-579b-9ada-56587bff8283",
+      "label": "a due miglia da Gerusalemme"
+    },
+    {
+      "@id": "https://sws.geonames.org/12625039/",
+      "label": "Nicopolis"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/a2bafb25-ceb3-5380-9b8a-ed7a5ea8ead4/fragment/5b9a7167-607d-56d2-a650-3f2e5d7ec7a9",
+  "adjective": "profumati"
+}

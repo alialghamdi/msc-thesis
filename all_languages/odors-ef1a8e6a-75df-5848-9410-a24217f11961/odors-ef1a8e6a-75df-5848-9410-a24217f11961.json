@@ -1,0 +1,1882 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ef1a8e6a-75df-5848-9410-a24217f11961",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "odors",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/04ffdb2c-66e0-50e4-a29f-064dfb70eecb",
+        "value": "Some of the littoral aquatic plants , such as Myriophyllum and a number of the filamentous alga , possess a natural odor that is strongly \" vegetable \" and , at times , almost fishy ; but the odor is obtained only when the plants are crushed or when fragments are broken off and scattered through the water Under ordinary conditions of growth in a reservo , r this does not happen and therefore no odor is imparted to the water except through decomposition .There are on record some apparent exceptions to the rule that the attached growths cause no odor .Hyatt * described a growth of Meridion circulare at the headwaters of the Croton River , in 1 88 1 , that was supposed to have affected the ent .",
+        "words": [
+          "odor",
+          "the attached growths"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/051edfad-b947-5977-b4e0-94b10ec578aa",
+        "value": "Most of the vegetable odors are caused by vegetable matter in solution .Brown - colored waters invariably have a sweetish - vegetable odor , and the intensity of the odor varies almost directly with the depth of the color .Both color and odor are due to the presence of certain glucosides , of which tannin is an example , extracted from leaves , grasses , mosses , etc .",
+        "words": [
+          "odor",
+          "the intensity",
+          "sweetish - vegetable",
+          "Brown - colored waters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/0541f540-03f0-51be-968e-10b4ec4f39ee",
+        "value": "It is difficult to classify the odors of surface - waters on a satisfactory basis , but they fall into three general groups : I .Odors caused by ' organic matter other than living organ - isms .2 .",
+        "words": [
+          "Odors",
+          "by",
+          "organic matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/06e323b1-9b4f-55d1-9a8f-1b97e63c4521",
+        "value": "It is not surprising , either , that the Synura should have been overlooked in the water , because the organ - ism disintegrates readily and a comparatively small number of colonies are able to produce a considerable odor .The times of the occurrence of the odor - namely , in the spring and autumn - are worth noting , as they correspond with the seasons when Synura grows best and when it is most com - monly found .In February , 1892 , the cucumber taste again appeared in the Boston water .",
+        "words": [
+          "odor",
+          "in the spring and autumn"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/07029cb0-f124-519a-843e-b46b89bde5c5",
+        "value": "11 / nature of the odoriferous substances and their relation to the life of the organisms .At one time it was supposed that it was only by decay that the organisms became offensive .It is now a well - established fact that many living organ - isms have an odor that is natural to them and that is pecul - iar to them , just as a fresh rose or an onion has a natural and peculiar odor .",
+        "words": [
+          "offensive",
+          "organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/076810e1-ae8e-5aaa-9313-d55f7545e8e0",
+        "value": "It is now a well - established fact that many living organ - isms have an odor that is natural to them and that is pecul - iar to them , just as a fresh rose or an onion has a natural and peculiar odor .It has been found , also , that in most cases , â   and it may be true in all cases , â   the odor is produced by compounds analogous to the essential oils .In some cases the oily compounds have been isolated by extraction with ether or gasoline .",
+        "words": [
+          "odor",
+          "by compounds analogous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/08704b20-2c62-512f-8d5e-3f8016b6c98f",
+        "value": "This is supported by the fact that , when the organisms do decay , the bacteria increase in number and the odor of the water changes in character .The natural odor is given off by some substance inside of the organism , and when this substance becomes liberated the odor is more easily detected .The odor is intensified by heat - ing by mechanical agitation , and by change in the density of the water containing the organisms .",
+        "words": [
+          "odor",
+          "natural",
+          "more",
+          "by some substance inside of the organism"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/18d58879-f1d3-5bf6-bfae-a7a508cdf84a",
+        "value": "In some cases the oily compounds have been isolated by extraction with ether or gasoline .Odors due to these oils have been called ' ' odors of growth \" because the oils are produced during the growth of the organisms .The oil - globules may be seen in many genera if they are examined with a sufficiently high power .",
+        "words": [
+          "oils",
+          "odors",
+          "Odors",
+          "due to these oils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1abe207d-01fd-596d-a1f5-8ce019fcc2e9",
+        "value": "In addition to the odor , these substances have a slight astringent taste .Colorless waters containing organic matter of other origin may have vegetable odors , but they are usually less sweetish and more straw - like or peaty .Akin to the vegetable odors are the earthy odors caused by finely divided fin * A D ^ ? rat0IT thG \" C0 , d 0d0r \" is ^ served by shaking a partly I theÂ ° nose Th ^ ' h ^ râ  ¢ ^ moving theLpper fnd a ' p p Â £ later ITT ' n h i * Â ° btained by heati \" 6 a P ortio \" boi in ' Wh E Watch - e lass to a point just short of tic m g \" , .",
+        "words": [
+          "vegetable",
+          "odors",
+          "Colorless waters containing organic matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1d32c893-93f7-5e33-a930-fdd6cf93087f",
+        "value": "Between these two extremes one meets with odors that vary in intensity and in character , and that are often the source of much annoyance and complaint .It is difficult to classify the odors of surface - waters on a satisfactory basis , but they fall into three general groups : I .Odors caused by ' organic matter other than living organ - isms .",
+        "words": [
+          "odors",
+          "of surface - waters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1dea3d00-6ffb-577c-b0ab-6207f7cc5fef",
+        "value": "A decided odor is one that would force itself upon the attention and that might make the water unpalatable .The term il very strong \" is reserved for those odors that make a water unfit for drinking .This term is seldom used .",
+        "words": [
+          "very strong",
+          "odors",
+          "that make a water unfit for drinking"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2259aecc-1599-5561-a208-1dcb852ac449",
+        "value": "Almost all surface - waters have some odor .Many times â  ¢ it is too faint to be noticed by the ordinary consumer , though it can be detected by one whose sense of smell is carefully trained .On the other hand , the water in a pond may have so strong an odor that it is offensive several hundred feet away .",
+        "words": [
+          "smell",
+          "by one",
+          "the ordinary consumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/22c8f113-8b6e-5968-ad8b-233a782179fa",
+        "value": "Sudbury system passed through it on its way to the city Chemical analysis of the water and microscopical examination of the mud failed to reveal the cause of the odor .It was found , however , that fragments of fresh - water sponge ( Spon gilla fluviatalis ) were constantly collecting on the screen and that these had the \" cucumber odor .\" It was decided therefore that the fresh - water sponge was the cause of the odor .",
+        "words": [
+          "cucumber",
+          "odor",
+          "fragments of fresh - water sponge ( Spon gilla fluviatalis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/252adc29-672b-5160-b8a5-daafb2f83359",
+        "value": "They are difficult to describe , but they can be readily identified .Particular odors are associated with particular organisms .If an organ - ism is present in sufficient numbers its particular odor will be observed ; if it is not present in sufficient numbers its odor will not be observed .",
+        "words": [
+          "odors",
+          "Particular",
+          "particular organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2aa17d97-131f-50b2-a111-65e60494eae0",
+        "value": "2 .Odors produced by the decomposition of organic matter in water are not uncommon .They are described , somewhat imperfectly , by such terms as moldy , musty , unpleasant , disagreeable , offensive .",
+        "words": [
+          "not uncommon",
+          "matter",
+          "Odors",
+          "of",
+          "organic matter",
+          "of organic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2b510c01-be7a-58a3-83b3-2849d8185218",
+        "value": ", of the animal kingdom .The effect which they exert on the odor of a water is difficult to determine because they are seldom found in a reservoir where the floating microscopic organisms are absent .In many cases where a peculiar odor of a water has been charged to some of these littoral forms , subsequent investigation has made it probable that the odor was really caused by limnetic organisms that had been overlooked in the first instance .",
+        "words": [
+          "odor",
+          "of a water",
+          "in a reservoir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2defa358-d018-50f6-bacb-1a728e2c5116",
+        "value": "II5 well .A very faint odor is one that would not be detected by the ordinary consumer .A faint odor is one that would be detected if attention were called to it but that otherwise would not attract notice .",
+        "words": [
+          "odor",
+          "very faint",
+          "by the ordinary consumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2fd370e0-c750-5b05-9d5b-b24170ce4626",
+        "value": "The fact was noted long ago that the addition of sal to water that was affected with certain odors developed I oily flavor .Many of the odors caused by organisms are o a marked oily nature .The oil - globules in these organ - ODORS IN WATER - SUPPLIES .",
+        "words": [
+          "odors",
+          "marked oily",
+          "by organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/3064ba5e-1b7b-5103-bfc0-6257cd042df7",
+        "value": "c .are sufficient to cause a perceptible odor .The floating microscopic organisms , or the plankton , are responsible for most of those peculiar nauseating odors that are the cause of complaint in so many public water - supplies .",
+        "words": [
+          "odor",
+          "perceptible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/32061b43-4eaf-51d0-aaa6-f55398252937",
+        "value": "A faint odor is one that would be detected if attention were called to it but that otherwise would not attract notice .A distinct odor is one that would be readily detected and that might cause the water to be looked upon with disfavor .A decided odor is one that would force itself upon the attention and that might make the water unpalatable .",
+        "words": [
+          "distinct",
+          "the",
+          "odor",
+          "that might cause the",
+          "the water to be looked upon with disfavor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/366ef3d6-e643-5fb9-8e74-adab569b6017",
+        "value": "1 .The odors caused by organic matter other than living organisms may be included under the general term vegetable .They vary in character in different waters and at different seasons .",
+        "words": [
+          "vegetable",
+          "odors",
+          "by organic matter other than living organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/37039651-5ab0-501a-b89f-431d762f6552",
+        "value": "Speaking generally it may be said that in reservoirs that are large and deep the organisms attached to the shores pro - duce little or no effect on the odor of the water ; and that in small shallow reservoirs where the aquatic vegetation is thick they do not impart any characteristic \" natural \" odor , but they may produce a sort of vegetable taste and a disagreeable odor due to decomposition .Some of the littoral aquatic plants , such as Myriophyllum and a number of the filamentous alga , possess a natural odor that is strongly \" vegetable \" and , at times , almost fishy ; but the odor is obtained only when the plants are crushed or when fragments are broken off and scattered through the water Under ordinary conditions of growth in a reservo , r this does not happen and therefore no odor is imparted to the water except through decomposition .There are on record some apparent exceptions to the rule that the attached growths cause no odor .",
+        "words": [
+          "odor",
+          "natural",
+          "at times",
+          "to the water",
+          "strongly \" vegetable \"",
+          "almost fishy",
+          "a number of the filamentous alga",
+          "as Myriophyllum",
+          "Some of the littoral aquatic plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/386975ba-52a3-5d62-a935-76dee68a7497",
+        "value": ".It is believed that the sense of taste is quite limited and that many so - called tastes are really odors , the gas or vapor given off by the substance tasted reaching the nose not only through the nostrils but through the posterior nares .Thus an odor tasted is often stronger than an odor smelled .",
+        "words": [
+          "odors",
+          "the gas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/3cf87da5-3bad-5cbd-a6b6-e31bb1949539",
+        "value": "Morever the odor produced by the sponge is not the \" cucumber odor , \" although at is similar to it .There is good reason to believe that the cucumber odor ' â    observed in 188 1 was due to Synura .One need not dispute , the observation that the sponge that collected on the Farm Fond screens had the cucumber odor , for no doubt the spon - e was covered with Synura , as it is often covered with other organisms .",
+        "words": [
+          "cucumber",
+          "odor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/3e8e13d4-3ed2-5a9e-ace3-1119801cee81",
+        "value": "3 .Odors caused by living organisms .1 .",
+        "words": [
+          "Odors",
+          "by living organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/42fdd3f0-cc25-579c-b933-79ca57eeefe8",
+        "value": "At that time some water experts disagreed with this opin - ion .They claimed that the amount of sponge found in the pond was not sufficient to produce the odor .In the light of modern microscopical examinations we are coming to believe that the dissenters were right and that the fresh - water sponge was not the cause of the cucumber odor .",
+        "words": [
+          "odor",
+          "They",
+          "in the pond"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/438746e8-191a-5c00-b295-8427475b5c6e",
+        "value": "They claimed that the amount of sponge found in the pond was not sufficient to produce the odor .In the light of modern microscopical examinations we are coming to believe that the dissenters were right and that the fresh - water sponge was not the cause of the cucumber odor .The author has taken â    masses of Spongilla and allowed them to rot in a small quan - tity of water till the odor was unbearable .",
+        "words": [
+          "cucumber",
+          "odor",
+          "we",
+          "the fresh - water sponge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/47556541-6004-53ed-ab7e-dfb7d233aa9b",
+        "value": "The effect which they exert on the odor of a water is difficult to determine because they are seldom found in a reservoir where the floating microscopic organisms are absent .In many cases where a peculiar odor of a water has been charged to some of these littoral forms , subsequent investigation has made it probable that the odor was really caused by limnetic organisms that had been overlooked in the first instance .Speaking generally it may be said that in reservoirs that are large and deep the organisms attached to the shores pro - duce little or no effect on the odor of the water ; and that in small shallow reservoirs where the aquatic vegetation is thick they do not impart any characteristic \" natural \" odor , but they may produce a sort of vegetable taste and a disagreeable odor due to decomposition .",
+        "words": [
+          "odor",
+          "peculiar",
+          "of a water",
+          "limnetic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/475cbf21-bdb5-5424-8a52-2385b09ee81a",
+        "value": "It may be said to represent the first stages of decomposition .As decomposition progresses the unpleasant odors become dis - agreeable , and then offensive .It is seldom that the decom - position of vegetable matter in water produces odors worse than < ' decidedly unpleasant .",
+        "words": [
+          "offensive",
+          "unpleasant",
+          "odors",
+          "dis - agreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/49131ae5-6b2a-5499-a726-60e5afaeaeda",
+        "value": "Increased pressure also leads to the same ^ The natural odor of the organisms is due to some oily substance analogous to those substances found in higher plants and animals , and that give the odor to the Peppe - mt and the herring .The fact was noted long ago that the addition of sal to water that was affected with certain odors developed I oily flavor .Many of the odors caused by organisms are o a marked oily nature .",
+        "words": [
+          "odors",
+          "certain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/4e130d7f-8dfa-5c1b-97c8-9eead6201ddf",
+        "value": "Further , the intensity of the odor varies with the number * of organisms present .If water that contains an organism which has a natural odor is filtered through paper , the odor of the filtered water f will be much fainter than before , and the filter - paper on which the organ - isms remain will have a strong odor .If the organisms are concentrated by the Sedgwick - Rafter method , the concentrate will have a decided taste and odor .",
+        "words": [
+          "strong",
+          "odor",
+          "natural",
+          "much fainter",
+          "the filter - paper",
+          "an organism",
+          "of the filtered water f"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/4f0839cd-0d11-5675-9217-381517d401af",
+        "value": "C , by an extensive growth of Cristatella .* All of these cases where odors in water - supplies have been attributed to certain limnetic organisms lack corroboration .The author once examined a reservoir where a mass of Melosira varians several feet thick covered the slopes to a con - siderable depth .",
+        "words": [
+          "in",
+          "odors",
+          "in water - supplies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5185ea5c-accd-5524-8019-8000148137e4",
+        "value": "odor as intense as that observed in 1881 .Morever the odor produced by the sponge is not the \" cucumber odor , \" although at is similar to it .There is good reason to believe that the cucumber odor ' â    observed in 188 1 was due to Synura .",
+        "words": [
+          "cucumber",
+          "odor",
+          "by the sponge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/52f0bb06-163d-5011-971a-9933ff239a25",
+        "value": "The production of the oil represents a stor - ing - up of energy .The odors have been called \" odors of disintegration , \" because they are most noticeable when the breaking up of the organism causes the oil - globules to be scattered through the water .It is sufficient , however , to call them the \" natural odors \" of the organisms , to distinguish them from the very different odors produced by their decom - position .",
+        "words": [
+          "odors",
+          "they",
+          "most noticeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5326b7a0-effb-5253-a7ba-cccfa4635b82",
+        "value": "Brown - colored waters invariably have a sweetish - vegetable odor , and the intensity of the odor varies almost directly with the depth of the color .Both color and odor are due to the presence of certain glucosides , of which tannin is an example , extracted from leaves , grasses , mosses , etc .In addition to the odor , these substances have a slight astringent taste .",
+        "words": [
+          "odor",
+          "mosses",
+          "tannin",
+          "certain glucosides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/56d51cee-f96a-55f0-98e7-6df353e9a02f",
+        "value": "There is good reason to believe that the cucumber odor ' â    observed in 188 1 was due to Synura .One need not dispute , the observation that the sponge that collected on the Farm Fond screens had the cucumber odor , for no doubt the spon - e was covered with Synura , as it is often covered with other organisms .It is not surprising , either , that the Synura should have been overlooked in the water , because the organ - ism disintegrates readily and a comparatively small number of colonies are able to produce a considerable odor .",
+        "words": [
+          "cucumber",
+          "the",
+          "odor",
+          "the sponge",
+          "the spon - e",
+          "on the Farm"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/59727862-25c2-5915-89d5-3d0477f3948b",
+        "value": "The natural odor is given off by some substance inside of the organism , and when this substance becomes liberated the odor is more easily detected .The odor is intensified by heat - ing by mechanical agitation , and by change in the density of the water containing the organisms .Many of the odor - pro - ducing organisms are very delicate .",
+        "words": "odor"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5a7f09e6-3559-5f62-bb3a-047108924e84",
+        "value": "on ly withm recent years that these odors have been well understood , and even now there is much to be learned about the chenucal ODORS IN WATER - SUPPLIES .11 / nature of the odoriferous substances and their relation to the life of the organisms .At one time it was supposed that it was only by decay that the organisms became offensive .",
+        "words": [
+          "substances",
+          "odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5cfa7c0a-f349-5a83-98dd-784638fc480f",
+        "value": "Many of the odor - pro - ducing organisms are very delicate .Heating breaks them up and drives off the odoriferous substances .The flow of water through the pipes of a distribution system is suffic .",
+        "words": [
+          "substances",
+          "odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5d8abd29-1a0f-5fd6-9f34-191003cf3b87",
+        "value": "The reader will understand that these defini - tions are far from exact , and that the intensity of odors varying in character cannot be well compared .A faint fishy odor , for example , might often attract more attention than a distinct vegetable odor .Heating a water usually intensifies its odor .",
+        "words": [
+          "odor",
+          "faint fishy",
+          "distinct vegetable",
+          "might often attract more attention"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5fa15c04-129f-5c8a-bfcb-ce47372c3f96",
+        "value": "This causes an intensification of their odor .Increased pressure also leads to the same ^ The natural odor of the organisms is due to some oily substance analogous to those substances found in higher plants and animals , and that give the odor to the Peppe - mt and the herring .The fact was noted long ago that the addition of sal to water that was affected with certain odors developed I oily flavor .",
+        "words": [
+          "the",
+          "odor",
+          "natural",
+          "of the organisms",
+          "some oily substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/60118f3b-17a0-52f7-9a25-bb7ca38a46fd",
+        "value": "31 This system , which , for convenience , we may call the \" in - dividual counting system , \" does not always give satisfactory results .In the Boston water - supply it was found often that a sample which a simple inspection showed to be heavily laden with algae and which was offensive both in appearance and in odor gave a low figure in the count , while a sample that was clear and agreeable to the taste gave a very high figure .This was due largely to the great difference in the size of the organisms .",
+        "words": [
+          "odor",
+          "offensive",
+          "a sample",
+          "algae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/64626a2a-08ee-56c7-8fda-538c42c738ff",
+        "value": "â   Odors Caused by Living Organisms .â   Character of Odoriferous Substances .â   Intensity of Odors .",
+        "words": "Odoriferous"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6b0fb6bb-71b0-5bed-a477-3132006b0863",
+        "value": "Collectively they make up the greater part of the plankton .They include almost all the troublesome odor - producing organisms in water - sup - plies .In the open water , however , one often finds some of the littoral forms that have been detached from the shore and scattered through the water by the currents , or that are para - sitically attached to some of the limnetic forms .",
+        "words": [
+          "odor",
+          "producing",
+          "organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6bdabe1a-652b-5db1-bbf2-d2692a1891f3",
+        "value": "1 23 isms may be observed with the microscope .The number of oil - globules varies according to the age and condition of the organisms , and the intensity of the odor varies with the number of oil - globules present .Finally , the oily substances have been extracted from the organisms and it has been found that they possess the same odor as that observed in the water containing them .",
+        "words": [
+          "odor",
+          "intensity"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6dc00265-792f-5d80-bdfc-c5bc7da91076",
+        "value": "They are quite similar in character ; but the musty odor is more intense and is usually applied only to sewage - polluted water .The moldy odor suggests a damp cellar , or perhaps a decaying tree - trunk in a forest .The bacteriologist will recognize this odor as similar to that given off by certain bacteria growing on nutrient gelatine .",
+        "words": [
+          "odor",
+          "moldy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/728a8b05-ad44-57d3-96fb-b66900ad05e0",
+        "value": "It was found , however , that fragments of fresh - water sponge ( Spon gilla fluviatalis ) were constantly collecting on the screen and that these had the \" cucumber odor .\" It was decided therefore that the fresh - water sponge was the cause of the odor .The conclusion was quite generally accepted and th report has been quoted extensively .",
+        "words": [
+          "the",
+          "odor",
+          "-",
+          "the fresh",
+          "fresh -",
+          "- water sponge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7418a473-772c-54c7-98e0-5eadee6b7774",
+        "value": "The odors have been called \" odors of disintegration , \" because they are most noticeable when the breaking up of the organism causes the oil - globules to be scattered through the water .It is sufficient , however , to call them the \" natural odors \" of the organisms , to distinguish them from the very different odors produced by their decom - position .It was stated in Chapter IV that the microscopic organ - isms are not found in ground - waters ( except when stored in open reservoirs ) nor in streams in sufficient abundance to cause trouble .",
+        "words": [
+          "them",
+          "natural",
+          "very different",
+          "odors",
+          "their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/78eca590-907f-53dd-8c9f-4d88c9f85514",
+        "value": "At one time it was supposed that it was only by decay that the organisms became offensive .It is now a well - established fact that many living organ - isms have an odor that is natural to them and that is pecul - iar to them , just as a fresh rose or an onion has a natural and peculiar odor .It has been found , also , that in most cases , â   and it may be true in all cases , â   the odor is produced by compounds analogous to the essential oils .",
+        "words": [
+          "odor",
+          "peculiar",
+          "natural",
+          "an onion",
+          "a fresh rose",
+          "many living organ - isms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7965f84a-83a5-5de6-9961-564a02f5bd8a",
+        "value": "A series of experiments was made at one time to show that the amount of oil present in the organisms was sufficient to account for the odors observed in drinking - water .Some of the familiar essential oils , such as oil of peppermint , oil of clove , cod - liver oil , etc ., were diluted with distilled water , and the amount of dilution at which the odor be - came unrecognizable was noted .",
+        "words": [
+          "essential",
+          "cod - liver",
+          "oil of peppermint",
+          "oil of clove"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/79abc6bb-7cd0-5e5c-bbd1-6cf5bb88f645",
+        "value": "are sufficient to cause a perceptible odor .The floating microscopic organisms , or the plankton , are responsible for most of those peculiar nauseating odors that are the cause of complaint in so many public water - supplies .In most , if not in all , cases the odor is due to the presence of an oily substance elaborated by the organisms during their growth .",
+        "words": [
+          "odors",
+          "peculiar nauseating",
+          "the plankton",
+          "The floating microscopic organisms",
+          "in so many public water - supplies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7b79a90e-19e2-551d-9c75-1ad1e42f18db",
+        "value": "Some of the familiar essential oils , such as oil of peppermint , oil of clove , cod - liver oil , etc ., were diluted with distilled water , and the amount of dilution at which the odor be - came unrecognizable was noted .The oil of peppermint was recognized when diluted 1 : 50000000 ; the oil of clove , 1 : 8000000 ; cod - liver oil , 1 : 1 000 000 ; etc .",
+        "words": [
+          "odor",
+          "unrecognizable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7bafafda-6c5b-594b-8056-8e5b4f5a8630",
+        "value": "This term is seldom used .The reader will understand that these defini - tions are far from exact , and that the intensity of odors varying in character cannot be well compared .A faint fishy odor , for example , might often attract more attention than a distinct vegetable odor .",
+        "words": [
+          "odors",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7c5e623c-f7d8-55f3-ac1a-3cbf5654f608",
+        "value": "2 .Odors caused by the decomposition of organic matter .3 .",
+        "words": "Odors"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7c64d75a-735e-5e0b-88ef-f723a9395e23",
+        "value": "The flow of water through the pipes of a distribution system is suffic .ent to cause the disintegration of many forms , and it is a matter of common observation that in such cases the odor of a water at the service - taps is more pronounced than at the reservoir .If the density of a water is increased by adding to it some sub - stance , such as salt , the organisms may become distorted if not ' actually broken up .",
+        "words": [
+          "odor",
+          "more pronounced",
+          "of a water",
+          "at the reservoir",
+          "at the service - taps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/85f19bca-05a6-562d-8798-62d5e211f5cf",
+        "value": "If the density of a water is increased by adding to it some sub - stance , such as salt , the organisms may become distorted if not ' actually broken up .This causes an intensification of their odor .Increased pressure also leads to the same ^ The natural odor of the organisms is due to some oily substance analogous to those substances found in higher plants and animals , and that give the odor to the Peppe - mt and the herring .",
+        "words": [
+          "odor",
+          "their",
+          "causes an intensification of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8a661712-0d36-5200-8b27-5e4965459183",
+        "value": "A severe storm tore away the fragile fila - ments , and masses of Melosira passed into the distribution - pipes and caused a noticeable vegetable and oily odor in the water .In connection with the relation of the littoral organisms to odors in water - supplies some reference should be made to the \" cucumber taste \" that has been a frequent cause of complaint against the Boston water - supply .In 188 1 the trouble was very severe .",
+        "words": [
+          "odors",
+          "in water - supplies",
+          "littoral organisms",
+          "the Boston water - supply"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8d17534a-4db3-545e-820f-00b8fce63954",
+        "value": "The subject may be pursued therefore from the standpoint of odor , though in many instances the .best way to observe the odor of the water is to taste it ..",
+        "words": [
+          "odor",
+          "of the water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8d21bc33-18d1-5161-a836-55b22e4b1b85",
+        "value": "A distinct odor is one that would be readily detected and that might cause the water to be looked upon with disfavor .A decided odor is one that would force itself upon the attention and that might make the water unpalatable .The term il very strong \" is reserved for those odors that make a water unfit for drinking .",
+        "words": [
+          "odor",
+          "decided",
+          "that might make the water unpalatable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8dfe517e-576f-5b1a-a024-c96af7b06110",
+        "value": "It was stated in Chapter IV that the microscopic organ - isms are not found in ground - waters ( except when stored in open reservoirs ) nor in streams in sufficient abundance to cause trouble .It is in the quiescent waters of ponds and lakes and reservoirs that they develop luxuriantly , and it is to the reservoir that one should look first when investigating the cause of an odor in a public water - supply .The littoral organisms found on the sides of reservoirs Il8 THE MICROSCOPY OF DRINKING - WATER include the flowering aquatic plants , the Characea ; , the filamentous alga , etc .",
+        "words": [
+          "odor",
+          "in a public water - supply"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8e583201-e0aa-5314-838a-3007916c76af",
+        "value": "OB OPS IN WATER - SUPPLIES .II9 Hydrodictyon utriculatum and other Chlorophycese : Forbes investigated a water - supply where a growth of Chara was thought to be the cause of a bad odor ; and Weston has stated that serious trouble was caused in Henderson , N .C , by an extensive growth of Cristatella .",
+        "words": [
+          "odor",
+          "bad",
+          "II9 Hydrodictyon utriculatum",
+          "other Chlorophycese",
+          "a growth of Chara"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8eac5e8c-06d6-51e6-9465-94de4a4fc3e5",
+        "value": "As observations multiply , the list may be extended and some genera may be changed from one group to another .The organisms printed in heavy type have given trouble in water - supplies , either by producing odors or by making the water turbid and unsuitable for laundry purposes .DIATOMACE ^ E .",
+        "words": [
+          "odors",
+          "The organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/96758207-0572-518d-9019-0ccbca25334c",
+        "value": "By far the most important service that the micro - scopical examination renders is that of explaining the cause of the taste and odor of a water and of its color , turbidity , and sediment .Several of the microscopic organisms give rise to objectionable odors in water and , when sufficiently abundant , have a marked influence on its color .They also make the water turbid and cause unsightly scums and sedi - ments to form .",
+        "words": [
+          "odors",
+          "objectionable",
+          "in water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/9b850d9f-f595-5251-ab09-5acca37e3600",
+        "value": "This pond was so situated that all the water of th .Sudbury system passed through it on its way to the city Chemical analysis of the water and microscopical examination of the mud failed to reveal the cause of the odor .It was found , however , that fragments of fresh - water sponge ( Spon gilla fluviatalis ) were constantly collecting on the screen and that these had the \" cucumber odor .",
+        "words": [
+          "the",
+          "odor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/9c57f4ba-fb02-5456-ad33-37424a2ffd9f",
+        "value": "The number of oil - globules varies according to the age and condition of the organisms , and the intensity of the odor varies with the number of oil - globules present .Finally , the oily substances have been extracted from the organisms and it has been found that they possess the same odor as that observed in the water containing them .A series of experiments was made at one time to show that the amount of oil present in the organisms was sufficient to account for the odors observed in drinking - water .",
+        "words": [
+          "substances",
+          "odor",
+          "they",
+          "the same",
+          "in the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a4b16ef3-8dfe-574a-a4d9-748f6aa8b7bc",
+        "value": "The moldy odor suggests a damp cellar , or perhaps a decaying tree - trunk in a forest .The bacteriologist will recognize this odor as similar to that given off by certain bacteria growing on nutrient gelatine .The odors of decomposition naturally are associated with the odors of the other groups , and one often finds it conven - ient to use such expressions ^ distinctly vegetable and fatntly moldy \" or ' ' decidedly fishy and unpleasant .",
+        "words": [
+          "odor",
+          "growing",
+          "The bacteriologist",
+          "similar to that given off by certain bacteria growing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a790287b-6f1b-561a-8136-bf74402a0afe",
+        "value": "They are described , somewhat imperfectly , by such terms as moldy , musty , unpleasant , disagreeable , offensive .An unpleasant odor is produced when the vegetable matter in water begins to decay .It may be said to represent the first stages of decomposition .",
+        "words": [
+          "odor",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a7f5de0a-ad78-54ed-9e86-d8b544f9eb8b",
+        "value": "Both color and odor are due to the presence of certain glucosides , of which tannin is an example , extracted from leaves , grasses , mosses , etc .In addition to the odor , these substances have a slight astringent taste .Colorless waters containing organic matter of other origin may have vegetable odors , but they are usually less sweetish and more straw - like or peaty .",
+        "words": [
+          "odor",
+          "these substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a81b78c7-e029-5544-8e00-2c1ce1393550",
+        "value": "If these organisms are placed in distilled water , the water will acquire the odor of the ongmal water .Thus , the relation between particular odors and particular organisms has been well established .Indeed ^ J ^ bse nce of a micro S cop ^ cÂ £ exarrnna ^ * There are some exceptions to this .",
+        "words": [
+          "odors",
+          "particular"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a97ef39b-3a38-50fd-b7cb-9ac591ad2ffe",
+        "value": "The odor is intensified by heat - ing by mechanical agitation , and by change in the density of the water containing the organisms .Many of the odor - pro - ducing organisms are very delicate .Heating breaks them up and drives off the odoriferous substances .",
+        "words": [
+          "odor",
+          "very delicate",
+          "-",
+          "pro - ducing organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/aaf250a2-ac72-5854-8700-04adc4ceefd4",
+        "value": "â   Intensity of Odors .â   Characteristic Odors of Different Organisms .â   Extent to which CONTENTS .",
+        "words": [
+          "Characteristic",
+          "Odors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/af24425e-c201-5c3a-98d5-8e93918392c9",
+        "value": "It is believed that the sense of taste is quite limited and that many so - called tastes are really odors , the gas or vapor given off by the substance tasted reaching the nose not only through the nostrils but through the posterior nares .Thus an odor tasted is often stronger than an odor smelled .Chemically pure water is free from both taste and odor .",
+        "words": [
+          "odor",
+          "stronger",
+          "odor smelled"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b0af3cb9-2213-529d-bac3-be25cfbece8f",
+        "value": "In practice , therefore , it has become customary to use the general term vegetable instead of the terms straw - like , swamp - like , marshy , peaty , sweetish , etc .The intensity of an odor may be indicated by using the prefixes very faint , faint , distinct , decided , very strong .In a general way the following values may be assigned to these terms , which are applied not only to the vegetable odors but to the odors of the other groups as ODORS IN WATER - SUPPLIES .",
+        "words": [
+          "distinct",
+          "very strong",
+          "odor",
+          "faint",
+          "decided"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b109a100-ceb8-5370-b187-ebaa46a304e0",
+        "value": "Finally , the oily substances have been extracted from the organisms and it has been found that they possess the same odor as that observed in the water containing them .A series of experiments was made at one time to show that the amount of oil present in the organisms was sufficient to account for the odors observed in drinking - water .Some of the familiar essential oils , such as oil of peppermint , oil of clove , cod - liver oil , etc .",
+        "words": [
+          "odors",
+          "of oil",
+          "in drinking - water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b22c9b0e-f8eb-5234-beb2-3340731a086d",
+        "value": "In many cases where a peculiar odor of a water has been charged to some of these littoral forms , subsequent investigation has made it probable that the odor was really caused by limnetic organisms that had been overlooked in the first instance .Speaking generally it may be said that in reservoirs that are large and deep the organisms attached to the shores pro - duce little or no effect on the odor of the water ; and that in small shallow reservoirs where the aquatic vegetation is thick they do not impart any characteristic \" natural \" odor , but they may produce a sort of vegetable taste and a disagreeable odor due to decomposition .Some of the littoral aquatic plants , such as Myriophyllum and a number of the filamentous alga , possess a natural odor that is strongly \" vegetable \" and , at times , almost fishy ; but the odor is obtained only when the plants are crushed or when fragments are broken off and scattered through the water Under ordinary conditions of growth in a reservo , r this does not happen and therefore no odor is imparted to the water except through decomposition .",
+        "words": [
+          "odor",
+          "disagreeable",
+          "they",
+          "of the water",
+          "the organisms",
+          "natural \"",
+          "in reservoirs that are large and deep",
+          "in small shallow reservoirs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b284420f-a47a-5de5-8e34-d9d40e5b3a37",
+        "value": "A faint fishy odor , for example , might often attract more attention than a distinct vegetable odor .Heating a water usually intensifies its odor .* A water that has a faint odor when cold may have a distinct odor when hot .",
+        "words": [
+          "odor",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b2b65d22-1a45-5a37-9b80-4d3c1baa7b0a",
+        "value": "In the light of modern microscopical examinations we are coming to believe that the dissenters were right and that the fresh - water sponge was not the cause of the cucumber odor .The author has taken â    masses of Spongilla and allowed them to rot in a small quan - tity of water till the odor was unbearable .This water was â  ¢ then diluted with distilled water to see how large a mass of water the decayed sponge would affect .",
+        "words": [
+          "odor",
+          "unbearable",
+          "masses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b77ac748-f221-5ddb-a8f7-d77da596b886",
+        "value": "The bacteriologist will recognize this odor as similar to that given off by certain bacteria growing on nutrient gelatine .The odors of decomposition naturally are associated with the odors of the other groups , and one often finds it conven - ient to use such expressions ^ distinctly vegetable and fatntly moldy \" or ' ' decidedly fishy and unpleasant .' ' 3 The odors of drinking - water due to the presence of living organisms are the most important because of their common occurrence , because of their offensive nature and because they affect large bodies of water .",
+        "words": [
+          "odors",
+          "of decomposition",
+          "of the other groups"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b85a252a-4258-502d-8534-d70f406c0f4c",
+        "value": "The water had a decided odor of cucumbers , which was intensified at times to a \" fish - oil \" odor .Heating made the odor very strong and offensive .A noted expert made an examination and concluded that the seat of the trouble was in Farm Pond , _ one of the sources of supply .",
+        "words": [
+          "very strong",
+          "odor",
+          "offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/bbbf2c31-f1af-567e-b766-4608905096f6",
+        "value": "Most of the bad tastes observed in drinking - water are due not to in - organic but to organic substances either in solution or in sus ~ pension .Such substances almost invariably produce odors as well as tastes .The subject may be pursued therefore from the standpoint of odor , though in many instances the .",
+        "words": [
+          "odors",
+          "Such substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/bc7f85bf-2369-574f-b389-485f8281aeca",
+        "value": "â   Extent to which CONTENTS .Water - supplies are Afflicted with Odors .â   Cucumber Odor Not Caused by Fresh - water Sponge .",
+        "words": [
+          "Odors",
+          "supplies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/bd4e6566-9791-5643-b81b-f73b8e694933",
+        "value": "ately is usually odorless .In certain sections of the country it has a sulphurous odor .If it is contaminated or drawn from a swampy region it may be somewhat moldy or unpleasant .",
+        "words": [
+          "odor",
+          "sulphurous",
+          "it",
+          "In certain sections of the country"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c301a3f1-1d7c-54af-bdb4-a2edbf79fdc2",
+        "value": "It .on ly withm recent years that these odors have been well understood , and even now there is much to be learned about the chenucal ODORS IN WATER - SUPPLIES .11 / nature of the odoriferous substances and their relation to the life of the organisms .",
+        "words": [
+          "odors",
+          "WATER",
+          "SUPPLIES",
+          "the chenucal ODORS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c4753534-d099-54e9-9a30-8ac931b1ddd5",
+        "value": "Many times â  ¢ it is too faint to be noticed by the ordinary consumer , though it can be detected by one whose sense of smell is carefully trained .On the other hand , the water in a pond may have so strong an odor that it is offensive several hundred feet away .Between these two extremes one meets with odors that vary in intensity and in character , and that are often the source of much annoyance and complaint .",
+        "words": [
+          "odor",
+          "offensive",
+          "the water",
+          "so strong an",
+          "in a pond",
+          "that it is offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c5948f4f-33d2-518c-9892-dec03bc898ee",
+        "value": "One need not dispute , the observation that the sponge that collected on the Farm Fond screens had the cucumber odor , for no doubt the spon - e was covered with Synura , as it is often covered with other organisms .It is not surprising , either , that the Synura should have been overlooked in the water , because the organ - ism disintegrates readily and a comparatively small number of colonies are able to produce a considerable odor .The times of the occurrence of the odor - namely , in the spring and autumn - are worth noting , as they correspond with the seasons when Synura grows best and when it is most com - monly found .",
+        "words": [
+          "odor",
+          "considerable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c7056a4c-7d79-5c7b-9fd0-80bec013fcb0",
+        "value": "The Cyanophyceae especially collect near the surface .In quiet waters they often form unsightly and ill - smelling scums .Occasional exceptions to the general rule are observed .",
+        "words": [
+          "smelling",
+          "they",
+          "ill - smelling",
+          "unsightly",
+          "scums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c909e05f-f84f-5827-8446-ac563a90d315",
+        "value": "A very faint odor is one that would not be detected by the ordinary consumer .A faint odor is one that would be detected if attention were called to it but that otherwise would not attract notice .A distinct odor is one that would be readily detected and that might cause the water to be looked upon with disfavor .",
+        "words": [
+          "odor",
+          "faint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d3e6cda0-c4e8-5e02-bcde-39a02a3f360c",
+        "value": "The author once examined a reservoir where a mass of Melosira varians several feet thick covered the slopes to a con - siderable depth .A severe storm tore away the fragile fila - ments , and masses of Melosira passed into the distribution - pipes and caused a noticeable vegetable and oily odor in the water .In connection with the relation of the littoral organisms to odors in water - supplies some reference should be made to the \" cucumber taste \" that has been a frequent cause of complaint against the Boston water - supply .",
+        "words": [
+          "odor",
+          "oily",
+          "in the water",
+          "noticeable vegetable",
+          "of Melosira"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d46a04c2-8721-5c26-bbeb-1dacd268991f",
+        "value": "If water that contains an organism which has a natural odor is filtered through paper , the odor of the filtered water f will be much fainter than before , and the filter - paper on which the organ - isms remain will have a strong odor .If the organisms are concentrated by the Sedgwick - Rafter method , the concentrate will have a decided taste and odor .If these organisms are placed in distilled water , the water will acquire the odor of the ongmal water .",
+        "words": [
+          "odor",
+          "the concentrate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d7015af4-3308-5eff-87ef-a562b7c157ed",
+        "value": "On the other hand , the water in a pond may have so strong an odor that it is offensive several hundred feet away .Between these two extremes one meets with odors that vary in intensity and in character , and that are often the source of much annoyance and complaint .It is difficult to classify the odors of surface - waters on a satisfactory basis , but they fall into three general groups : I .",
+        "words": [
+          "odors",
+          "one",
+          "that are often the source of much annoyance and complaint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d8ab8779-5304-5b8a-9d0b-e16f15639ddf",
+        "value": "It is seldom that two observers will agree as to the most appropriate descriptive adjective .To one person the odor of a water may be straw - like , to another swamp - like , to another / ^ .This is due to the fact that the sense of smell in man is not well cultivated .",
+        "words": [
+          "straw",
+          "odor",
+          "of a water",
+          "To one person"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d8f3e49d-0c4b-52f9-9570-f3d7f9563dd3",
+        "value": "The floating microscopic organisms , or the plankton , are responsible for most of those peculiar nauseating odors that are the cause of complaint in so many public water - supplies .In most , if not in all , cases the odor is due to the presence of an oily substance elaborated by the organisms during their growth .This has been proved by long - continued observa - tions and experiments , during the course of which the follow - ing facts have been noted : The odors referred to vary in character .",
+        "words": [
+          "substance",
+          "odor",
+          "an"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d9253df5-5918-5af8-ac21-d9845228c647",
+        "value": "If the organisms are concentrated by the Sedgwick - Rafter method , the concentrate will have a decided taste and odor .If these organisms are placed in distilled water , the water will acquire the odor of the ongmal water .Thus , the relation between particular odors and particular organisms has been well established .",
+        "words": [
+          "odor",
+          "the water",
+          "of the ongmal water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/db5390c5-dd51-5a90-87f8-d709558c120e",
+        "value": "As decomposition progresses the unpleasant odors become dis - agreeable , and then offensive .It is seldom that the decom - position of vegetable matter in water produces odors worse than < ' decidedly unpleasant .' ' The disagreeable odors usually can be traced to decaying animal matter , and , as a rule , offen - sive odors are observed only in sewage or in grossly polluted water .",
+        "words": [
+          "vegetable",
+          "matter",
+          "odors",
+          "worse",
+          "vegetable matter",
+          "decidedly unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/dc694a6a-642e-5653-9634-306543f4ced7",
+        "value": "* A water that has a faint odor when cold may have a distinct odor when hot .Most of the vegetable odors are caused by vegetable matter in solution .Brown - colored waters invariably have a sweetish - vegetable odor , and the intensity of the odor varies almost directly with the depth of the color .",
+        "words": [
+          "vegetable",
+          "odors",
+          "by",
+          "vegetable matter",
+          "solution",
+          "matter in",
+          "by vegetable",
+          "in solution"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ddd097dc-32ed-5635-b68a-78e8c39090f8",
+        "value": "observers are often able to tell the nature of the organisms present by a simple observation of the odor .That the odors are not due to the decomposition of the organism is proved by the character of the odors themselves and by the fact that they are not accompanied necessarily by large numbers of bacteria or by the presence of free ammonia or nitrites .This is supported by the fact that , when the organisms do decay , the bacteria increase in number and the odor of the water changes in character .",
+        "words": [
+          "odors",
+          "they",
+          "free"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/df34671e-d5c9-5d8c-85fa-fdeaed4b6fea",
+        "value": "If this is true it would take a mass of sponge several feet thick over the entire bottom of Farm Pond to produce an .odor as intense as that observed in 1881 .Morever the odor produced by the sponge is not the \" cucumber odor , \" although at is similar to it .",
+        "words": [
+          "odor",
+          "in",
+          "intense"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e17b7f55-ed89-55e9-a507-b5e6e1f45c73",
+        "value": "13 3 .By far the most important service that the micro - scopical examination renders is that of explaining the cause of the taste and odor of a water and of its color , turbidity , and sediment .Several of the microscopic organisms give rise to objectionable odors in water and , when sufficiently abundant , have a marked influence on its color .",
+        "words": [
+          "odor",
+          "sediment",
+          "of a water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e44f48ac-553c-5213-89f5-51e6c1d74d9e",
+        "value": "The terms moldy and musty are more specific than the terms unpleasant , disagreeable , and offensive , but they are difficult to define .They are quite similar in character ; but the musty odor is more intense and is usually applied only to sewage - polluted water .The moldy odor suggests a damp cellar , or perhaps a decaying tree - trunk in a forest .",
+        "words": [
+          "odor",
+          "musty",
+          "more intense",
+          "to sewage - polluted water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e4bba8d3-51c8-5c6c-8c69-0054c23414c2",
+        "value": "Particular odors are associated with particular organisms .If an organ - ism is present in sufficient numbers its particular odor will be observed ; if it is not present in sufficient numbers its odor will not be observed .Further , the intensity of the odor varies with the number * of organisms present .",
+        "words": [
+          "odor",
+          "particular",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e6e63c49-5aba-5e64-9927-c36243b5f9c9",
+        "value": "Colorless waters containing organic matter of other origin may have vegetable odors , but they are usually less sweetish and more straw - like or peaty .Akin to the vegetable odors are the earthy odors caused by finely divided fin * A D ^ ? rat0IT thG \" C0 , d 0d0r \" is ^ served by shaking a partly I theÂ ° nose Th ^ ' h ^ râ  ¢ ^ moving theLpper fnd a ' p p Â £ later ITT ' n h i * Â ° btained by heati \" 6 a P ortio \" boi in ' Wh E Watch - e lass to a point just short of tic m g \" , .When SUffiClent ' y coo > \" ver is slipped aside and the observa - Il6 THE MICROSCOPY OF DRINKING - WATER .",
+        "words": [
+          "vegetable",
+          "odors",
+          "earthy",
+          "by finely divided fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e76b08c5-cf65-5d4c-b246-ed3c3878cc76",
+        "value": "In 188 1 the trouble was very severe .The water had a decided odor of cucumbers , which was intensified at times to a \" fish - oil \" odor .Heating made the odor very strong and offensive .",
+        "words": [
+          "oil",
+          "fish",
+          "odor",
+          "The water",
+          "at times",
+          "decided",
+          "of cucumbers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/eab846dd-62e3-550f-ab81-e9a4d12a5fa4",
+        "value": "That the odors are not due to the decomposition of the organism is proved by the character of the odors themselves and by the fact that they are not accompanied necessarily by large numbers of bacteria or by the presence of free ammonia or nitrites .This is supported by the fact that , when the organisms do decay , the bacteria increase in number and the odor of the water changes in character .The natural odor is given off by some substance inside of the organism , and when this substance becomes liberated the odor is more easily detected .",
+        "words": [
+          "odor",
+          "of the water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ec09afbf-4193-5ee5-b800-ffde584d7cb1",
+        "value": "particles of organic matter , clay , etc .The two odors are often associated in the same sample .2 .",
+        "words": "odors"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ecfe0361-57b1-572b-b084-a21bfa0128ac",
+        "value": "If an organ - ism is present in sufficient numbers its particular odor will be observed ; if it is not present in sufficient numbers its odor will not be observed .Further , the intensity of the odor varies with the number * of organisms present .If water that contains an organism which has a natural odor is filtered through paper , the odor of the filtered water f will be much fainter than before , and the filter - paper on which the organ - isms remain will have a strong odor .",
+        "words": [
+          "odor",
+          "the intensity"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f135198e-8b25-578d-950c-793f70444c73",
+        "value": "Heating a water usually intensifies its odor .* A water that has a faint odor when cold may have a distinct odor when hot .Most of the vegetable odors are caused by vegetable matter in solution .",
+        "words": [
+          "distinct",
+          "odor",
+          "faint",
+          "A water that"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f136dbfc-f81e-5de1-98d1-cca61bca20e4",
+        "value": "It is seldom that the decom - position of vegetable matter in water produces odors worse than < ' decidedly unpleasant .' ' The disagreeable odors usually can be traced to decaying animal matter , and , as a rule , offen - sive odors are observed only in sewage or in grossly polluted water .The terms moldy and musty are more specific than the terms unpleasant , disagreeable , and offensive , but they are difficult to define .",
+        "words": [
+          "disagreeable",
+          "odors",
+          "sive",
+          "to decaying animal matter",
+          "in grossly polluted water",
+          "only in sewage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f16cc858-c2dd-5a63-ad15-617e9774619e",
+        "value": "Thus an odor tasted is often stronger than an odor smelled .Chemically pure water is free from both taste and odor .Water containing certain substances in solution , as sugar , salt , etc .",
+        "words": [
+          "odor",
+          "pure water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f3ebaea8-36cb-5c67-acc1-3f96440ecade",
+        "value": "This water was â  ¢ then diluted with distilled water to see how large a mass of water the decayed sponge would affect .It was found that with a dilution of i to 50 000 there was no perceptible odor .If this is true it would take a mass of sponge several feet thick over the entire bottom of Farm Pond to produce an .",
+        "words": [
+          "odor",
+          "perceptible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f43e5e2e-9219-5bd0-a836-d298f41d6f66",
+        "value": "The senses of taste and odor are distinct , but they are closely related to each other .There are some substances , like salt , that have a taste but no odor , and there are other substances , like vanilla , that have a strong odor but no taste ..",
+        "words": [
+          "strong",
+          "vanilla",
+          "substances",
+          "odor",
+          "salt",
+          "some substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/fe697b37-f435-59ea-9348-fa3178173a8f",
+        "value": "The odors of decomposition naturally are associated with the odors of the other groups , and one often finds it conven - ient to use such expressions ^ distinctly vegetable and fatntly moldy \" or ' ' decidedly fishy and unpleasant .' ' 3 The odors of drinking - water due to the presence of living organisms are the most important because of their common occurrence , because of their offensive nature and because they affect large bodies of water .It .",
+        "words": [
+          "offensive",
+          "odors",
+          "of drinking - water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/fe9ebf94-209c-598a-9774-6bdf5f36a1e5",
+        "value": "The intensity of an odor may be indicated by using the prefixes very faint , faint , distinct , decided , very strong .In a general way the following values may be assigned to these terms , which are applied not only to the vegetable odors but to the odors of the other groups as ODORS IN WATER - SUPPLIES .II5 well .",
+        "words": [
+          "vegetable",
+          "odors",
+          "ODORS",
+          "WATER",
+          "SUPPLIES",
+          "of the other groups"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/0040cdbd-e9cf-55d9-91ff-47460996fb64",
+        "value": "If the color is much above .50 the water has an unsightly appearance , a distinct vegetable odor and a sweetish and somewhat astringent taste .But the pres ence of organic matter is objectionable for another reason It helps to furnish food - material for the microscopic organisms \" and these may render the water very disagreeable .",
+        "words": [
+          "odor",
+          "distinct vegetable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/0c22d7e0-2c20-5277-baed-2f58ed82c2a2",
+        "value": "When very strong the odor of Anabaena much re - sembles razv green - corn , or even a nasturtium stem .The prevailing odor , however , is grassy , i .e .",
+        "words": [
+          "odor",
+          "prevailing",
+          "grassy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/0d211bd0-5add-5540-b571-44ab997d7004",
+        "value": "Fishy .The aromatic odors are due chiefly to the Diatomaceae .The strongest odor is that produced by Asterionella .",
+        "words": [
+          "aromatic",
+          "odors",
+          "the Diatomaceae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1239a073-c4ff-5ad0-8811-db183963fe39",
+        "value": "Thus , the production of the odor by the oil is quite within the range of possibility .An interesting fact brought out by the experiments was that the odor of the oils varied with different degrees of dilution not only in intensity but in character .* This variation of the character of the odor with its intensity is important to notice , as it accounts for the different descriptions of the same odor in a water - supply at diffe rent times and by different people .",
+        "words": [
+          "odor",
+          "of the oils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/126b66ef-621d-5a5b-8105-f1bef9d11122",
+        "value": "125 Group .Aromatic Odor .Organism .",
+        "words": [
+          "Aromatic",
+          "Odor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/12b56403-10ab-55d1-9fdf-e938992ce3ed",
+        "value": "Candied violets .Aromatic â   violets â   fishy .Grassy and moldy â   green - corn â   nas - turtiums , etc .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/13f48029-0e4e-5a15-994a-daa94a64c6f9",
+        "value": "66 $ of nitrogen .They found that the \" pig - pen \" odor was due \" to the breaking down of highly organized compounds of sulphur and phosphorus and to the presence of this high percentage of nitrogen .The gas given off during decomposition was found to have the following composition : Marsh - gas 0 .",
+        "words": [
+          "odor",
+          "They",
+          "\" pig - pen \""
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1548d12c-0e6b-5e53-9606-cac474037e0c",
+        "value": "Prospect Laboratory , 2 Mucor , 207 Myriophyllum , 251 Nais , 251 Nassula , 229 Natural odors of organisms , 117 Navicula , 169 Naviculeas , 169 Nauplius , 242 Nematogena ; , 182 Nephrocytium , 191 Nitella , 203 Nitrogen , effect of , on the growth of microscopic organisms , 91 298 INDEX .Nitzschia , 174 Nostoc , 183 Nostocacese , 183 Noteus , 239 Notholca , 239 Notommatadae , 238 Ocular micrometer used in Sedg - wick - Rafter Method , 22 Odor - producing substances in mi - croscopic organisms , 121 Odors caused by littoral organisms , 118 caused by microscopic organ - isms , 116 caused by organic matter , 114 caused by the coloring matter of water , 115 , chemical , 127 , classification of odors due to organisms , 125 in water - supplies , 113 , 128 , methods of observing , 115 , natural , of organisms , 117 of growth , 117 of decomposition , 116 of disintegration , 117 ( terms describing their inten - sities , 114 CEdogoniaceee , 202 Oil of Anabsana , 124 of Uro - glena , 124 ; the cause of odors in organ - isms , 122 Oils , dilution at which their odor ceases to be recognized , 123 Ophiocytium , 192 Organic matter , removal from res - ervoir sites , 139 Oscillaria , 177 , 185 Oscillariese , 185 Ostracoda , 243 Oxygen , dissolved in water , 137 Palmella , 190 Palmellacepe , 190 Paludicella , 247 Paludicella , growth of , in Brooklyn water - pipes , 155 Pandorina , 195 Paramsecium , 228 Parker , G .H .",
+        "words": [
+          "substances",
+          "odor",
+          "odors",
+          "Odors",
+          "Odor",
+          "their",
+          "Oils",
+          "organisms",
+          "124 of Uro - glena",
+          "Oil of Anabsana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/19cbf745-c436-5257-acdb-97734077891d",
+        "value": "Aeration after filtration is beneficial to a limited extent .It seems probable that the best solution of the problem will involve the removal of the organisms from tin - water by some form of filtration , and the removal of the odor - producing substances by some absorptive or oxidizing agent CHAPTER X .STORAGE OF SURFACE - WATER .",
+        "words": [
+          "substances",
+          "odor -",
+          "producing",
+          "oxidizing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1a15b56f-1773-5366-8b94-dc7f7a77c6d4",
+        "value": "On the Impurity of the Water Supply .( Odor caused by Spongilla .) Boston , 1881 .",
+        "words": [
+          "Odor",
+          "by Spongilla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1f13cc68-6d02-55cd-a88a-a5765962011d",
+        "value": "* This variation of the character of the odor with its intensity is important to notice , as it accounts for the different descriptions of the same odor in a water - supply at diffe rent times and by different people .* On one occasion seven people out of ten who were asked to observe the odor of very highly diluted kerosene oil declared that it smelled like \" perfumery .\" 124 THE MICROSCOPY OF D KINKING - WATER .",
+        "words": [
+          "odor",
+          "smelled",
+          "it",
+          "like \" perfumery",
+          "of very highly diluted kerosene oil",
+          "seven people out of ten who were"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/1f9e1004-6866-5646-81f9-aa2424d11369",
+        "value": ", ., Some of the microscopic organisms have distinctive odors of decomposition .The Cyanophyce * when decaying give a ODORS IN WATER - SUPPLIES .",
+        "words": [
+          "odors",
+          "distinctive",
+          "of decomposition",
+          "Some of the microscopic organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2298426b-656b-5543-a114-8fd19b5a2bc7",
+        "value": "the dilution was only 1 : 2 000 000 .Thus , the production of the odor by the oil is quite within the range of possibility .An interesting fact brought out by the experiments was that the odor of the oils varied with different degrees of dilution not only in intensity but in character .",
+        "words": [
+          "odor",
+          "by the oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/23f5ab57-34d8-5971-a3cd-b8b8788366c0",
+        "value": "The character of this odor changes with its intensity .When few organisms are present the water may have an undefinable aromatic odor ; as they increase the odor resembles that of a rose geranium ; when they are very abundant the odor becomes fishy and nauseating .The other diatoms given in the table produce the aromatic odor only when present in very large numbers .",
+        "words": [
+          "odor",
+          "the water",
+          "nauseating",
+          "fishy",
+          "undefinable aromatic",
+          "resembles that of a rose geranium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/2551fae0-6684-5e36-868a-27b1caed3ca0",
+        "value": "One naturally asks , \" What is the effect of these organ - isms growing in the pipes ? \" In a certain sense they tend to improve the quality of the water by reducing the number of floating microscopic organisms ; but they themselves must in time decay , and any one whose nose has ever had an experi - ence with decomposing sponge will appreciate the fact that better places for these organisms may be found than the dis - tribution systems of our water - supplies .It should be stated , however , that in all probability very large quantities would be required to produce tastes or odors that would be noticed in the water .Perhaps the greatest objection to their presence is the fact that they tend to impede the flow of water in the pipes .",
+        "words": [
+          "in the water",
+          "odors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/3452bb96-e9f2-5986-95f8-f97e970b6fd4",
+        "value": "\" 124 THE MICROSCOPY OF D KINKING - WATER .The nature of the odoriferous oils or oily substances is not well known .Calkins , who isolated the odoriferous prin - ciple of Uroglena with gasoline and ether , describes it as being similar to the essential oils .",
+        "words": [
+          "oils",
+          "odoriferous",
+          "oily substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/366b5c45-1b2a-5014-9bbb-a8aff132c36d",
+        "value": "In a previous chapter it was stated that the microscopic organisms are widely distributed both in this country and abroad .Wherever they are found in abundance they must inevitably affect the odor of the water .The question is often asked , \" Are growths of organisms such as Asterionella , Synura , etc .",
+        "words": [
+          "odor",
+          "of the water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/36a80ad5-7459-58d9-a3fc-529fd42701bc",
+        "value": "There are two Protozoa that have an aromatic odor .The odor of Cryptomonas is sweetish and resembles that of the violet .The odor of Mallomonas is similar to that of Cryptomonas , but when strong it becomes fishy .",
+        "words": [
+          "odor",
+          "sweetish",
+          "of Cryptomonas",
+          "resembles that of the violet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/36e3ba83-a3ca-5569-9819-fdd0185a1aa8",
+        "value": ", classification of diatoms , 168 Sorastrum , 193 Sorby , H .C , method of microscopi - cal examination , 2 Sphagnum , 251 Sphasrozosma , 199 Sphaerozyga , 184 Spirogyra , 200 Sponge , growth of , in water - pipes , 151 , 152 Spongidas , 248 Spongilla , 249 , odor caused by , 119 Spring overturning ( spring circula - tion ) , 59 Stagnant pools , growth of organ - isms in , 133 Stagnation , 58 - 60 effects of , 99 , 134 Statoblasts , 246 3oo INDEX .Standard Unit , 29 , 31 Staurastrum , 198 Staurogenia , 193 Stauroneis , 170 Stentor , 227 Stephanodiscus , 175 Stigeoclonium , 202 Storage of ground - water , 141 Storage reservoirs , low - level gate , 140 , soil to be removed from site of , 139 , 140 Storage of surface - water , 130 Stratification of water , 51 Suctoria , 230 Surface - water , organisms in , 45 , storage of , 130 Surirella , 174 Surirellese , 174 Swamps , effect of , on water , 131 , growth of organisms in , 131 Synchseta , 237 Synchsetadje , 237 Syncrypta , 220 Synedra , 172 Synura , 219 , odor caused by , 120 Tabellaria , 173 Tabellaries , 173 Taste , its relation to odor , 113 Temperature of lakes and ponds , 52 of water in distribution pipes , 146 of water , methods of observa - tion , 52 Tentaculifera , 230 Tetmemorus , 198 Tetrapedia , 182 Tetraspora , 190 Thermocline , 62 , its relation to the vertical dis - tribution of microscopic organ - isms , no Thermophone , 53 - 56 Tintinnidium , 227 Tintinnus , 226 Trachelocerca , 230 Trachelomonas , 219 Transparency of water , 73 Triarthra , 237 Triarthradse , 237 Trinema , 214 Tubifex , 251 Turbidity of water , 72 Ulothricheas , 202 Ulothrix , 202 Unit , Standard , 29 , 31 Uroglena , 220 oil isolated , 124 Utricularia , 252 Uvella , 220 Vaucheria , 201 Vaucheriacese , 200 Vertical distribution of microscopic organisms , 107 Volvocina , 222 Volvocineae , 193 Volvox , 194 Vorticella , 225 Water analyses , value of , 9 Water - pipes , growth of organisms in , 146 Weights and measures , conversion tables , 256 Wind , effect of , on horizontal dis - tribution of microscopic organ - isms , 106 , effect of , on vertical distribu - tion of microscopic organisms , 109 Xanthidium , 198 Zooglcea , 29 Zoothamnium , 226 Zygnema , 200 Zygnemacea ? , 199 Zygogonium , 200 PLATE I .",
+        "words": [
+          "odor",
+          "Sponge",
+          "Spongilla",
+          "152 Spongidas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/3933742d-cfa0-52ba-bdc4-d2d5f57f719b",
+        "value": "The odor of Cryptomonas is sweetish and resembles that of the violet .The odor of Mallomonas is similar to that of Cryptomonas , but when strong it becomes fishy .126 THE MICROSCOPY OF DRINKING - WATER .",
+        "words": [
+          "odor",
+          "fishy",
+          "of Mallomonas",
+          "similar to that of Cryptomonas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/3e37d2fd-1475-5003-8799-200cc8172642",
+        "value": "The Cyanophyce * when decaying give a ODORS IN WATER - SUPPLIES .127 \" pig - pen \" odor .Beggiatoa and some species of Chara give the odor of sulphuretted hydrogen .",
+        "words": [
+          "odor",
+          "\" pig - pen \""
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/408cce35-93a4-5d8f-8c60-fffef07f57bd",
+        "value": "126 THE MICROSCOPY OF DRINKING - WATER .The grassy odors are produced by the Cyanophyceae .Anabaena is the most important organism of this class .",
+        "words": [
+          "odors",
+          "grassy",
+          "by the Cyanophyceae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/444bfb07-f6df-5045-be70-ccc101e7cb8a",
+        "value": "It is quite common .Water rich in Uroglena has an odor not unlike that of cod - liver oil .The odor of Synura is almost as bad and almost as common .",
+        "words": [
+          "odor",
+          "Water rich in Uroglena",
+          "not unlike that of cod - liver oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/4680f486-c77b-5657-8a97-74a2dd6ed7c8",
+        "value": "c .would render a water - unfit to drink because of its odor , yet a tumblerful of such water would contain but eight milligrams of solid matter , and only ' one half of this would be organic matter .- It is almost in - conceivable that such a small amount of organic matter could cause trouble unless some poisonous principle were present , and so far as is known no such substance has been found .",
+        "words": [
+          "odor",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/4d486ccb-2751-5f08-a08d-e804e131331b",
+        "value": "Of the diatoms that occur in ground - water exposed to the light Asterionella is by far the most troublesome .Others may make the water turbid , but the Asterionella is very odoriferous .In surface - waters it has been found that this or - ganism develops most vigorously after the stagnation periods .",
+        "words": [
+          "odoriferous",
+          "very odoriferous",
+          "the Asterionella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/4d6aea86-4746-5b53-a47a-1899fa12631a",
+        "value": "The other blue - green algae have odors that may be called grassy , but they are less distinctive than in the case of Anabaena .The fishy odors are the most disagreeable of any observed in drinking - water .That produced by Uroglena is perhaps the worst .",
+        "words": [
+          "odors",
+          "fishy",
+          "the most disagreeable of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/4f1af15c-6f34-5b64-bb45-c8dd5277f84a",
+        "value": "The other diatoms given in the table produce the aromatic odor only when present in very large numbers .There are two Protozoa that have an aromatic odor .The odor of Cryptomonas is sweetish and resembles that of the violet .",
+        "words": [
+          "odor",
+          "aromatic",
+          "two Protozoa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5319988c-752b-5a15-abbd-8b409db35cd7",
+        "value": "The subject of the removal from drinking - water of the odors produced by microscopic organisms is not treated in this work because the results thus far obtained do not warrant pub - lication .Ordinary filtration is not likely to prove entirely successful , because the odor - producing substances are capable of passing unchanged through sand layers of considerable thickness .Aeration after filtration is beneficial to a limited extent .",
+        "words": [
+          "substances",
+          "odor -",
+          "producing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/53f075c1-7c8e-5f6f-ad07-158d4122129d",
+        "value": "It is possible that with young children and invalids such disorders may be more common than has been supposed .The subject of the removal from drinking - water of the odors produced by microscopic organisms is not treated in this work because the results thus far obtained do not warrant pub - lication .Ordinary filtration is not likely to prove entirely successful , because the odor - producing substances are capable of passing unchanged through sand layers of considerable thickness .",
+        "words": [
+          "odors",
+          "by microscopic organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/542bdbbc-7b2e-5953-8f4f-9e6589792be7",
+        "value": "The latter somewhat resembles clam - shells .Dinobryon has a fishy odor and sug - gests sea - weed .The odor of Bursaria is like that of Irish moss .",
+        "words": [
+          "odor",
+          "fishy",
+          "Dinobryon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/548250ad-3b99-532d-a694-2a90c6044fba",
+        "value": "Water is often without odor even when large num - bers of organisms are present .This is either because the organisms have not produced oil , or because the oil is odor - lesl Sometimes water rich in organisms will have an oily flavor with no distinctive odor .This is true in the case of some species of Melosira .",
+        "words": [
+          "water",
+          "odor",
+          "the oil",
+          "distinctive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/59793a03-2262-555c-be62-7face8a6a68f",
+        "value": "Aromatic â   geranium - Faintly aromatic .Aromatic .- fishy .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5e5cbcd1-cc5f-5fbb-b0d6-366e51e5b27b",
+        "value": "They can be traced usually to some pollution by manufactur - ing waste , though a vigorous decomposition of organic matter has been known to give an odor resembling carbolic acid .Similar odors are sometimes caused by the coating on the inside of new distribution - pipes .The extent to which water - supplies are afflicted with odors 123 THE MICROSCOPY OF DRINKING - WATER .",
+        "words": [
+          "odors",
+          "sometimes",
+          "Similar",
+          "by the coating on the inside of new distribution - pipes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/5f215e0b-f299-5fba-acfa-99a9f1cfc172",
+        "value": "Water rich in Uroglena has an odor not unlike that of cod - liver oil .The odor of Synura is almost as bad and almost as common .It resembles that of a ripe cucumber .",
+        "words": [
+          "odor",
+          "almost as bad",
+          "almost as common",
+          "of Synura"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6789571f-794a-5962-a214-9288954b1f69",
+        "value": "the odor of freshly cut grass .The other blue - green algae have odors that may be called grassy , but they are less distinctive than in the case of Anabaena .The fishy odors are the most disagreeable of any observed in drinking - water .",
+        "words": [
+          "odors",
+          "they",
+          "grassy",
+          "less distinctive",
+          "Anabaena",
+          "The other blue - green algae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6c07e8fe-cb13-5989-9f21-aabaea8b0cbe",
+        "value": "In many cases it is quite odorless .Water is often without odor even when large num - bers of organisms are present .This is either because the organisms have not produced oil , or because the oil is odor - lesl Sometimes water rich in organisms will have an oily flavor with no distinctive odor .",
+        "words": [
+          "Water",
+          "odor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6eb0e8df-0fe7-5035-8090-da429166e747",
+        "value": "The aromatic odors are due chiefly to the Diatomaceae .The strongest odor is that produced by Asterionella .The character of this odor changes with its intensity .",
+        "words": [
+          "odor",
+          "The strongest",
+          "by Asterionella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/6ed1e2df-3fed-5b79-b975-3e2cbd48fb38",
+        "value": "This is true in the case of some species of Melosira .Many organisms impart a vegetable and oily taste , without a distinctive odor .This is true of Synedra pulchella and Stephanodiscus .",
+        "words": [
+          "odor",
+          "distinctive",
+          "Many organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/70874b43-7e3e-567e-ae49-5a78f673e05c",
+        "value": "Dinobryon has a fishy odor and sug - gests sea - weed .The odor of Bursaria is like that of Irish moss .It also reminds one of a salt marsh .",
+        "words": [
+          "odor",
+          "like that of Irish moss",
+          "of Bursaria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/79438640-80b4-543c-9c66-03681aa05599",
+        "value": "It \" stays in the mouth \" and is most noticeable at the back part of the tongue .Glenodinium and Peridinium both produce fishy odors .The latter somewhat resembles clam - shells .",
+        "words": [
+          "odors",
+          "fishy",
+          "Glenodinium",
+          "Peridinium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/7b182f61-048f-5ffe-92be-9b5fc4ae50e6",
+        "value": "In a number of instances this fibrous matting stopped up the taps , and even large pipes were choked .The water at the same time had a distinctly moldy and unpleasant odor .The fibrous matting proved to be Paludicella .",
+        "words": [
+          "odor",
+          "unpleasant",
+          "The water",
+          "distinctly moldy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/820bdd92-4dab-5c9f-987e-da65ae205941",
+        "value": "The oil of peppermint was recognized when diluted 1 : 50000000 ; the oil of clove , 1 : 8000000 ; cod - liver oil , 1 : 1 000 000 ; etc .The odor of kerosene oil could not be detected when diluted 1 : 800 000 .The amount of oil present in water containing a known num - ber of organisms was estimated for comparison .",
+        "words": [
+          "odor",
+          "of kerosene oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/8311bff1-e1ce-5551-b6ba-420ee00b003c",
+        "value": "Beggiatoa and some species of Chara give the odor of sulphuretted hydrogen .All the odors given off by the decomposition of microscopic organisms are offensive .They are particularly so when the organisms contain a high percentage of nitrogen .",
+        "words": [
+          "offensive",
+          "odors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/839373da-fe24-547d-869f-7763761091fe",
+        "value": ", method of mi - croscopical examination , 2 Macrobiotus , 251 Malacostraca , 240 Mallomonas , 221 , peculiar case of vertical distri - bution , no Massachusetts ponds and reser - voirs , microscopic organisms in , 82 Massachusetts State Board of Health , examination of water - sup - plies , 2 Mastigophora , 215 Mastigocerca , 238 Melicertadae , 235 Melosira , 174 , odor caused by , 119 Melosirese , 174 Meridion , 173 , odor caused by , 118 Merismopedia , 182 Meyenia , 250 Micrasterias , 198 Microcodon , 236 Microcodidae , 236 Microcoleus , 186 Microns , table for transforming , 257 Microscopical examination of water , 8 , as indicating sewage contam - ination , 10 , as explaining the chemical analysis , 12 , as explaining the cause of tur - bidity and odor of water , 13 , as a method of studying the food of fishes , 13 Microscopical examinations , num - ber made in New England and New York , 3 Micrometer used in Sedgwick - Rafter Method , 22 Micro - organisms , effect of , upon health , 128 , use of the term , 9 , relative number at various depths , in , 112 Microscope , outfit necessary for water analysis , 22 Microcystis , 181 Monadina , 217 Monas , 217 Mt .Prospect Laboratory , 2 Mucor , 207 Myriophyllum , 251 Nais , 251 Nassula , 229 Natural odors of organisms , 117 Navicula , 169 Naviculeas , 169 Nauplius , 242 Nematogena ; , 182 Nephrocytium , 191 Nitella , 203 Nitrogen , effect of , on the growth of microscopic organisms , 91 298 INDEX .Nitzschia , 174 Nostoc , 183 Nostocacese , 183 Noteus , 239 Notholca , 239 Notommatadae , 238 Ocular micrometer used in Sedg - wick - Rafter Method , 22 Odor - producing substances in mi - croscopic organisms , 121 Odors caused by littoral organisms , 118 caused by microscopic organ - isms , 116 caused by organic matter , 114 caused by the coloring matter of water , 115 , chemical , 127 , classification of odors due to organisms , 125 in water - supplies , 113 , 128 , methods of observing , 115 , natural , of organisms , 117 of growth , 117 of decomposition , 116 of disintegration , 117 ( terms describing their inten - sities , 114 CEdogoniaceee , 202 Oil of Anabsana , 124 of Uro - glena , 124 ; the cause of odors in organ - isms , 122 Oils , dilution at which their odor ceases to be recognized , 123 Ophiocytium , 192 Organic matter , removal from res - ervoir sites , 139 Oscillaria , 177 , 185 Oscillariese , 185 Ostracoda , 243 Oxygen , dissolved in water , 137 Palmella , 190 Palmellacepe , 190 Paludicella , 247 Paludicella , growth of , in Brooklyn water - pipes , 155 Pandorina , 195 Paramsecium , 228 Parker , G .",
+        "words": [
+          "odors",
+          "Natural",
+          "Navicula",
+          "Nais",
+          "Nassula",
+          "Myriophyllum",
+          "Nauplius",
+          "Naviculeas",
+          "of organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/845b562c-c857-5a68-8438-906abc9982bf",
+        "value": "Anabaena is the most important organism of this class .There are several species that have slightly different odors .The grassy odor is usually accompanied by a moldy odor , which is probably due to decomposition , as this organism decays rapidly .",
+        "words": [
+          "odors",
+          "slightly different",
+          "several species"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/84bb83e2-936f-5edc-9ddd-93fb79fde288",
+        "value": "There are , moreover , microscopic organisms that produce oils that have a distinc - tive odor , but that occur in drinking - water in such small num - bers that the odor is noUletected .The organisms that have a distinctive odor and that are found in large numbers are comparatively few .Not more tha twenty - five have been recorded and only about half a dozen have given serious trouble .",
+        "words": [
+          "odor",
+          "distinctive",
+          "organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/896b2d69-db40-5abc-885a-7de8771f3d14",
+        "value": "Edw .Lane ) Volvox globatoras the cause of tlie fishy taste and odor of the Hemlock Lake Water in 1888 .Ann .",
+        "words": [
+          "odor",
+          "Volvox",
+          "of the Hemlock Lake Water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/994d5810-3f24-5f62-be6d-f6ce696bba3a",
+        "value": "When few organisms are present the water may have an undefinable aromatic odor ; as they increase the odor resembles that of a rose geranium ; when they are very abundant the odor becomes fishy and nauseating .The other diatoms given in the table produce the aromatic odor only when present in very large numbers .There are two Protozoa that have an aromatic odor .",
+        "words": [
+          "odor",
+          "aromatic",
+          "The other diatoms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/9ad03e4e-9adb-5f9a-b42b-0cd6a2264885",
+        "value": "DlATOMACE ^ E Asterionella Cyclotella Diatoma Meridiem Tabellaria Protozoa Cryptomonas Mallomonas CyANOPHYCEjE Anabffina Rivularia Clathrocystis Coelosphffirium Aphanizomenon ChlorophycEjE Volvox Eudorina Pandorina Dictyosphasrium Protozoa Uroglena Synura Dinobryon Bursaria Peridinium Glenodinium Natural Odor .Aromatic â   geranium - Faintly aromatic .Aromatic .",
+        "words": [
+          "Aromatic",
+          "geranium",
+          "aromatic",
+          "Faintly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a02e3819-8997-5eb9-87bf-2ebc3d6e6041",
+        "value": "INDEX .Absorption of light by water , 75 Acarina , 251 Achlya , 208 Acineta , 231 Acinetaria , 230 Actinophrys , 215 Algae , 188 Amorphous matter , 29 Amoeba , 213 Amphipoda , 240 Amphora , 168 Anabaena , 184 , decomposition of , 127 , in Cedar Swamp , 131 , oil isolated , 124 Anacharis , 252 Anguillula , 251 Anthophysa , 217 Anuraea , 239 Anureeada ; , 239 Aphanizomenon , 185 , growth in winter , 101 Aphanocapsa , 181 Aphanothece , 182 Arcella , 213 Aromatic odors , 124 , 126 Arthrodesmus , 198 Ascomycetes , 206 Asellus aquaticus , 240 Aspergillus , 207 Asplanchna , 237 Asplanchnadse , 237 Asterionella , 172 , growth of , in Brooklyn , 142 , growth of , in ground water , 141 , weight of , 129 Attachment to filter funnels , Sedg - wick - Rafter Method , 19 , 20 Autumnal overturning ( autumnal circulation ) , 61 Bacteria , in distribution pipes , 148 Bacteriological examination of water , 8 Batrachospermum , 251 Bdelloida , 236 Beggiatoa , 177 Blank , for recording results of mi - croscopical examination , 32 Bleaching of water by sunlight , 70 Bosmina , 243 Boston Water Works Laboratory , 2 Brooklyn Water Works Laboratory , 2 Brooklyn water - supply , growth of Asterionella , 142 , growth of Paludicella , 155 Brachionus , 239 Branchipus , 244 Botryococcus , 191 Brachionidee , 239 Bryozoa , 245 , growth of , in water - pipes , 152 Bursaria , 228 Canals , organisms found in , 48 293 294 INDEX .Canthocamptus , 242 Cell , errors in the , 28 , used in Sedgwick - Rafter Method , 21 Centrifuge , use of , in concentrating microscopic organisms , 6 , 38 Ceratium , 223 Ceratophyllum , 252 Cercotnonadina , 217 Cercomonas , 217 Chsetonotus , 251 Chsetophora , 203 Chaitophoraceae , 202 Chara , 203 , odor caused by , 119 Characese , 203 Chemical analysis of water , 8 , relation to the growth of microscopic organisms , 87 - 92 Chestnut Hill Reservoir , tempera - ture of , 57 Chlamydomonadina , 221 Chlamydomonas , 221 Chlorine , effect of , on the growth of microscopic organisms , 88 Chlorophycere , 188 , seasonal distribution of , 100 Choano - flagellata , 222 Chroococcacese , 180 Chroococcus , 180 Chydorus , 244 Chrysomonadina , 219 Ciliata , 224 Circulation periods in lakes , 67 Cladocera , 243 Cladophora , 201 Cladothrix , 177 Classification of diatoms , 167 of lakes according to tempera - ture , 63 - 68 of Massachusetts Ponds and Reservoirs according to the microscopic organisms present , 82 .",
+        "words": [
+          "Aromatic",
+          "odors",
+          "240",
+          "Asellus",
+          "126 Arthrodesmus",
+          "Aphanothece",
+          "198 Ascomycetes",
+          "Aphanocapsa",
+          "Arcella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a0b8a56e-a916-5037-947e-7f1c5894e01b",
+        "value": "D ., method of mi - croscopical examination , 2 Macrobiotus , 251 Malacostraca , 240 Mallomonas , 221 , peculiar case of vertical distri - bution , no Massachusetts ponds and reser - voirs , microscopic organisms in , 82 Massachusetts State Board of Health , examination of water - sup - plies , 2 Mastigophora , 215 Mastigocerca , 238 Melicertadae , 235 Melosira , 174 , odor caused by , 119 Melosirese , 174 Meridion , 173 , odor caused by , 118 Merismopedia , 182 Meyenia , 250 Micrasterias , 198 Microcodon , 236 Microcodidae , 236 Microcoleus , 186 Microns , table for transforming , 257 Microscopical examination of water , 8 , as indicating sewage contam - ination , 10 , as explaining the chemical analysis , 12 , as explaining the cause of tur - bidity and odor of water , 13 , as a method of studying the food of fishes , 13 Microscopical examinations , num - ber made in New England and New York , 3 Micrometer used in Sedgwick - Rafter Method , 22 Micro - organisms , effect of , upon health , 128 , use of the term , 9 , relative number at various depths , in , 112 Microscope , outfit necessary for water analysis , 22 Microcystis , 181 Monadina , 217 Monas , 217 Mt .Prospect Laboratory , 2 Mucor , 207 Myriophyllum , 251 Nais , 251 Nassula , 229 Natural odors of organisms , 117 Navicula , 169 Naviculeas , 169 Nauplius , 242 Nematogena ; , 182 Nephrocytium , 191 Nitella , 203 Nitrogen , effect of , on the growth of microscopic organisms , 91 298 INDEX .",
+        "words": [
+          "odor",
+          "by",
+          "118",
+          "of water",
+          "Meridion",
+          "235 Melosira",
+          "119 Melosirese",
+          "Mastigocerca",
+          "238 Melicertadae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a0d8d8da-e50d-5aaf-95e7-c2c8c2264f37",
+        "value": "allowed to stand in a jar .The odor of the water and the effects of the iron oxide in washing were decidedly trouble - some .Crenothrix was not found in Lake Tegel , but was found in many wells , in the reservoirs at Charlottenburg and in the unfiltered water of the river Spree .",
+        "words": [
+          "odor",
+          "of the water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a15080f8-9684-5613-a1fe-b1b88ab86ced",
+        "value": "New London Water Commissioners , 1880 , 27 - 30 .Tast es and Odors of Surface Waters .Jour .",
+        "words": [
+          "Odors",
+          "of Surface Waters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a1825904-fe2c-52ac-b36b-a5a7178388c2",
+        "value": "The free ammonia and nitrites increase .After the supply of oxygen has become exhausted , putrefaction through the agency of the anaerobic bacteria takes place and the water acquires offensive odors .Increasing amounts of mineral matter are taken up from the bottom by the lower layers of water .",
+        "words": [
+          "the",
+          "offensive",
+          "the water",
+          "odors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/a87a974e-fc2f-5ad5-8b27-c3bdf7e4d860",
+        "value": ", studies of Lake Geneva , 5 Fragilaria , 173 Fredericella , 246 ., growth of , Grassy odors , 124 , 126 Ground - water , character of , 42 , organisms in , 43 , 44 .45 storage of , 141 in water - pipes of Boston , 153 Fungi , 20S j seasonal distribution of , 101 Funnel errors , 25 Gammarus pulex , 240 Genevan Commission , experiments on the transparency of water , 73 Geographical distribution of micro - scopic organisms , 77 Glenodinium , 223 Gloeocapsa , 181 Glceocystis , 190 Glceothece , 182 Gomphonema , 170 Gomphonemeze , 170 Gonium , 195 Gonyostomum , 218 Gordius , 251 Gymnodinium , 223 Halteria , 225 Hardness , effect ' of , on the growth of microscopic organisms , 91 Hassal ' s method of microscopical examination , 1 Hazen , Allen , method of comparing turbidities of water , 72 Heliotropism of diatoms , 98 Heliozoa , 215 Hensen ' s method of collecting mi - croscopic organisms , 5 Heteromonadina , 217 Heterophrys , 215 Heterotricha , 226 Himantidium , 172 Hippuris , 252 Holotricha , 228 Horizontal distribution of micro - scopic organisms , 106 Hyalotheca , 199 Hydatina , 238 Hydatinadse , 237 Hydra , 251 Hydrodictyon , 192 .",
+        "words": [
+          "odors",
+          "Grassy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b0101d82-aef4-597d-8f36-9c980ac4467f",
+        "value": "With certain degrees of dilution some other Protozoa have the salt - marsh odor , reminding one of the sea .Fishy odors are said to be produced by Volvox , Eudorina , and Pandonna .These Chlorophyceae are sometimes classed with the Protozoa , so that it may be said in a general way that the fishy odors are produced by microscopic organisms belonging to the animal kingdom .",
+        "words": [
+          "Fishy",
+          "odors",
+          "Eudorina",
+          "Pandonna",
+          "by Volvox"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b0d2694a-4378-50f9-ab99-36c320658da4",
+        "value": "Fishy odors are said to be produced by Volvox , Eudorina , and Pandonna .These Chlorophyceae are sometimes classed with the Protozoa , so that it may be said in a general way that the fishy odors are produced by microscopic organisms belonging to the animal kingdom ., .",
+        "words": [
+          "odors",
+          "fishy",
+          "These Chlorophyceae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b17dafa3-5491-5124-9cff-2de0cee7247b",
+        "value": "These are the direct effects .Odors of the water that are caused by the growth of organisms that have been stimulated by the acquired food - materials are the indirect effects .The disagreeable effects of stagnation are not dependent upon the depth of a pond , except in so far as the depth affects thermal stratification .",
+        "words": [
+          "Odors",
+          "of the water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b4ab50a7-45ac-551e-af3f-ee6a735e8a27",
+        "value": "An interesting fact brought out by the experiments was that the odor of the oils varied with different degrees of dilution not only in intensity but in character .* This variation of the character of the odor with its intensity is important to notice , as it accounts for the different descriptions of the same odor in a water - supply at diffe rent times and by different people .* On one occasion seven people out of ten who were asked to observe the odor of very highly diluted kerosene oil declared that it smelled like \" perfumery .",
+        "words": [
+          "odor",
+          "same",
+          "at",
+          "its intensity",
+          "in a water - supply",
+          "at diffe rent times"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c4c6ac43-bc9c-5f89-92bb-3099cd31ad83",
+        "value": "e .the odor of freshly cut grass .The other blue - green algae have odors that may be called grassy , but they are less distinctive than in the case of Anabaena .",
+        "words": [
+          "odor",
+          "of freshly cut grass"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c6a62c79-7f04-5a47-a61f-561947e0e8da",
+        "value": "When the bad water at the bottom is carried to the surface during the periods of circulation the entire body of water is affected by it .The color increases , the organic matter increases , and the odor may become unpleasant .These are the direct effects .",
+        "words": [
+          "odor",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c800be23-bd47-5df9-ad39-e16eeb2b5d37",
+        "value": "C , method of microscopi - cal examination , 2 Sphagnum , 251 Sphasrozosma , 199 Sphaerozyga , 184 Spirogyra , 200 Sponge , growth of , in water - pipes , 151 , 152 Spongidas , 248 Spongilla , 249 , odor caused by , 119 Spring overturning ( spring circula - tion ) , 59 Stagnant pools , growth of organ - isms in , 133 Stagnation , 58 - 60 effects of , 99 , 134 Statoblasts , 246 3oo INDEX .Standard Unit , 29 , 31 Staurastrum , 198 Staurogenia , 193 Stauroneis , 170 Stentor , 227 Stephanodiscus , 175 Stigeoclonium , 202 Storage of ground - water , 141 Storage reservoirs , low - level gate , 140 , soil to be removed from site of , 139 , 140 Storage of surface - water , 130 Stratification of water , 51 Suctoria , 230 Surface - water , organisms in , 45 , storage of , 130 Surirella , 174 Surirellese , 174 Swamps , effect of , on water , 131 , growth of organisms in , 131 Synchseta , 237 Synchsetadje , 237 Syncrypta , 220 Synedra , 172 Synura , 219 , odor caused by , 120 Tabellaria , 173 Tabellaries , 173 Taste , its relation to odor , 113 Temperature of lakes and ponds , 52 of water in distribution pipes , 146 of water , methods of observa - tion , 52 Tentaculifera , 230 Tetmemorus , 198 Tetrapedia , 182 Tetraspora , 190 Thermocline , 62 , its relation to the vertical dis - tribution of microscopic organ - isms , no Thermophone , 53 - 56 Tintinnidium , 227 Tintinnus , 226 Trachelocerca , 230 Trachelomonas , 219 Transparency of water , 73 Triarthra , 237 Triarthradse , 237 Trinema , 214 Tubifex , 251 Turbidity of water , 72 Ulothricheas , 202 Ulothrix , 202 Unit , Standard , 29 , 31 Uroglena , 220 oil isolated , 124 Utricularia , 252 Uvella , 220 Vaucheria , 201 Vaucheriacese , 200 Vertical distribution of microscopic organisms , 107 Volvocina , 222 Volvocineae , 193 Volvox , 194 Vorticella , 225 Water analyses , value of , 9 Water - pipes , growth of organisms in , 146 Weights and measures , conversion tables , 256 Wind , effect of , on horizontal dis - tribution of microscopic organ - isms , 106 , effect of , on vertical distribu - tion of microscopic organisms , 109 Xanthidium , 198 Zooglcea , 29 Zoothamnium , 226 Zygnema , 200 Zygnemacea ? , 199 Zygogonium , 200 PLATE I .DIA TO MA CEAZ .",
+        "words": [
+          "odor",
+          "Tabellaria",
+          "Synedra",
+          "Synura",
+          "Syncrypta",
+          "Tabellaries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/c8432fd2-29d1-5a6d-ab60-6b41f515cbe7",
+        "value": "Not more tha twenty - five have been recorded and only about half a dozen have given serious trouble .More extended observations may lengthen this llSt The distinctive odors produced by these organisms may be grouped around three general terns .- aromattc , grassy , and M ^ - and f Â ° r cÂ ° nvenienCe they bG tabulatÂ £ d aS follows : ODORS IN WATER - SUPPLIES .",
+        "words": [
+          "odors",
+          "distinctive",
+          "by these organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ca92417f-eb86-54ec-be49-c9945ccde76e",
+        "value": ", method of con - centrating microscopic organisms , 6 Draparnaldia , 202 Enchelys , 229 Encyonema , 169 Endoparasites of man found in water , 11 Entomostraca , 240 Enumeration of organisms by the Sedgwick - Rafter Method , 23 Epistylis , 226 Epithemia , 171 Errors in the Sedgwick - Rafter Method , 25 296 INDEX .Euastrum , 198 Eudorina , 19S Euglena , 218 Euglenina , 218 Euglenoidea , 217 Euglypha , 214 Eunotia , 171 Euplotes , 225 Facultative limnetic organisms , 105 Filter used in Sedgwick - Rafter Method , 15 Filter - basins , ( infiltration basins , ) growth of organisms in , 45 Filter - beds , growth of organisms on , Filter - galleries , ( infiltration galler - ies , ) growth of organisms in , 45 Fishy odors , 124 , 126 Flagellata , 216 Flosculariadse , 235 Floscularia , 235 Forbes , F .F .",
+        "words": [
+          "Fishy",
+          "odors",
+          "of organisms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/caaadc59-d593-5b38-a624-0d77f5ef0978",
+        "value": "Absorption of light by water , 75 Acarina , 251 Achlya , 208 Acineta , 231 Acinetaria , 230 Actinophrys , 215 Algae , 188 Amorphous matter , 29 Amoeba , 213 Amphipoda , 240 Amphora , 168 Anabaena , 184 , decomposition of , 127 , in Cedar Swamp , 131 , oil isolated , 124 Anacharis , 252 Anguillula , 251 Anthophysa , 217 Anuraea , 239 Anureeada ; , 239 Aphanizomenon , 185 , growth in winter , 101 Aphanocapsa , 181 Aphanothece , 182 Arcella , 213 Aromatic odors , 124 , 126 Arthrodesmus , 198 Ascomycetes , 206 Asellus aquaticus , 240 Aspergillus , 207 Asplanchna , 237 Asplanchnadse , 237 Asterionella , 172 , growth of , in Brooklyn , 142 , growth of , in ground water , 141 , weight of , 129 Attachment to filter funnels , Sedg - wick - Rafter Method , 19 , 20 Autumnal overturning ( autumnal circulation ) , 61 Bacteria , in distribution pipes , 148 Bacteriological examination of water , 8 Batrachospermum , 251 Bdelloida , 236 Beggiatoa , 177 Blank , for recording results of mi - croscopical examination , 32 Bleaching of water by sunlight , 70 Bosmina , 243 Boston Water Works Laboratory , 2 Brooklyn Water Works Laboratory , 2 Brooklyn water - supply , growth of Asterionella , 142 , growth of Paludicella , 155 Brachionus , 239 Branchipus , 244 Botryococcus , 191 Brachionidee , 239 Bryozoa , 245 , growth of , in water - pipes , 152 Bursaria , 228 Canals , organisms found in , 48 293 294 INDEX .Canthocamptus , 242 Cell , errors in the , 28 , used in Sedgwick - Rafter Method , 21 Centrifuge , use of , in concentrating microscopic organisms , 6 , 38 Ceratium , 223 Ceratophyllum , 252 Cercotnonadina , 217 Cercomonas , 217 Chsetonotus , 251 Chsetophora , 203 Chaitophoraceae , 202 Chara , 203 , odor caused by , 119 Characese , 203 Chemical analysis of water , 8 , relation to the growth of microscopic organisms , 87 - 92 Chestnut Hill Reservoir , tempera - ture of , 57 Chlamydomonadina , 221 Chlamydomonas , 221 Chlorine , effect of , on the growth of microscopic organisms , 88 Chlorophycere , 188 , seasonal distribution of , 100 Choano - flagellata , 222 Chroococcacese , 180 Chroococcus , 180 Chydorus , 244 Chrysomonadina , 219 Ciliata , 224 Circulation periods in lakes , 67 Cladocera , 243 Cladophora , 201 Cladothrix , 177 Classification of diatoms , 167 of lakes according to tempera - ture , 63 - 68 of Massachusetts Ponds and Reservoirs according to the microscopic organisms present , 82 .of microscopic organisms , 156 Classification of microscopic organ - isms according to their abundance , 77 Classifications of miscroscopic or - ganisms , schedule of , 33 Clathocystis , 181 Cleaning glassware , directions for , 258 Clean watershed , definition of , 130 Closterium , 197 Cocconeis , 171 Cocconema , 169 Cocconidese , 171 Codonella , 227 Ccelastrum , 193 Ccelomonadina , 218 Ccelomonas , 218 Ccelospha ^ rium , 182 Cold Spring Brook , color of , 69 Coleps , 229 Collection of samples , apparatus for , 253 Color of water , 68 - 72 , effect on the growth of mi - croscopic organisms , 88 Color readings , table for transform - ing , 258 Color standards , 69 Colpidium , 230 Coluridffi , 238 Colurus , 239 Compressibility of water , 50 Concentrating attachment to filter - funnels , Sedgwick - Rafter Method , 19 - 20 Concentration of organisms by the Sedgwick - Rafter Method .",
+        "words": [
+          "odor",
+          "by",
+          "Chara",
+          "Chsetonotus",
+          "Characese",
+          "Chsetophora",
+          "Cercotnonadina",
+          "Cercomonas",
+          "Chaitophoraceae"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d3e38fc8-951d-5bec-8806-abff5db735cc",
+        "value": ", method of micro - scopical examination , 3 Peck , Prof .James L , studies of fish - food , 6 , 13 Pectinatclla , 247 , odor caused by , 119 Pediastrum , 193 Pelagic organisms , 105 Penicillium , 206 Penium , 197 Peridinium , 223 Peritricha , 225 Phacus , 219 Phseophycea ; , 188 Philodinadfe , 236 Phycochromophycese , 179 Phycocyanine , 179 Phycomycetes , 207 Phyllopoda , 244 Physical examination of water , 8 Physical properties of water , SO Phytoglcea , 29 Phytozoa , 210 Pinnularia , 170 Pipe - moss , 152 , effect of , on capacity of water pipes , 154 Plankton , definition of , 5 Plankton Net Method , 34 Plankton pump , 7 , 38 Plankton studies in America , 6 Planktonokrit , 6 , 38 Pleuronema , 230 Pleurosigma , 170 Ploima , 236 Plon Biological Laboratory , 6 Plumatella , 246 Polyarthra , 237 Polyedrium , 192 Polyzoa , 245 Ponds , growth of organisms in , 132 INDEX .299 Potamogeton , 252 Precision of the Sedgwick - Rafter Method , 28 Protococcacese , 191 Protococcoideas , 190 Protococcus , 192 Protozoa , 209 , seasonal distribution of , 101 Protozoan cell , 210 Pseudo - raphidieae , 171 Rafter , Geo .",
+        "words": [
+          "odor",
+          "by",
+          "219 Phseophycea",
+          "Phycomycetes",
+          "Penium",
+          "Phacus",
+          "Phycocyanine",
+          "119 Pediastrum",
+          "Peritricha",
+          "Penicillium",
+          "193 Pelagic organisms",
+          "Peridinium",
+          "236 Phycochromophycese"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d5c52033-77ef-515f-be56-7e8cc06f3a8b",
+        "value": "127 \" pig - pen \" odor .Beggiatoa and some species of Chara give the odor of sulphuretted hydrogen .All the odors given off by the decomposition of microscopic organisms are offensive .",
+        "words": [
+          "odor",
+          "some",
+          "of sulphuretted hydrogen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/d9466155-1402-50ac-a2a3-022253f9d00c",
+        "value": "The grassy odor is usually accompanied by a moldy odor , which is probably due to decomposition , as this organism decays rapidly .When very strong the odor of Anabaena much re - sembles razv green - corn , or even a nasturtium stem .The prevailing odor , however , is grassy , i .",
+        "words": [
+          "odor",
+          "razv green -",
+          "a nasturtium stem",
+          "of Anabaena much"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/db2638fd-457d-5752-98e5-0700245225d3",
+        "value": "This is true of Synedra pulchella and Stephanodiscus .There are , moreover , microscopic organisms that produce oils that have a distinc - tive odor , but that occur in drinking - water in such small num - bers that the odor is noUletected .The organisms that have a distinctive odor and that are found in large numbers are comparatively few .",
+        "words": [
+          "oils",
+          "odor",
+          "tive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e31fc4b7-0352-58aa-bb07-e46ae1cc4324",
+        "value": "Fortunately for the consumers , a by - pass around the distributing - reservoir permits the water to be pumped from the aqueduct directly into the distribution system .This is used whenever the Asterionella in the reservoir become abundant enough to cause a bad odor .Water that has been filtered is practically a ground - water .",
+        "words": [
+          "the",
+          "odor",
+          "bad",
+          "the Asterionella",
+          "Asterionella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e8405d45-3d72-5ee5-90d3-81db37365d99",
+        "value": "R .Remarks on the Tastes and Odors of Surface Waters .Jour .",
+        "words": [
+          "Odors",
+          "of Surface Waters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/e8c81893-a31e-5c24-a1bb-7c2b02a1b481",
+        "value": "The nature of the odoriferous oils or oily substances is not well known .Calkins , who isolated the odoriferous prin - ciple of Uroglena with gasoline and ether , describes it as being similar to the essential oils .It was non - volatile at the tem - perature of boiling water .",
+        "words": [
+          "odoriferous",
+          "prin - ciple of Uroglena",
+          "Calkins",
+          "similar to the essential oils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/eb0cb1fb-f2b1-55b2-95f8-528cc7222ffc",
+        "value": "Calkins has stated that in 1404 samples from surface - water supplies in Massachusetts odors were observed as follows : Per Cent of Â ° dor - Samples Affected .No odor 20 Vegetable 26 Sweetish 7 Aromatic 6 Grassy * 5 Fishy 3 Moldy 10 Disagreeable 6 Offensive 7 The intensity of these odors was not stated .Many of them probably were not strong enough to cause complaint .",
+        "words": [
+          "Aromatic",
+          "Vegetable",
+          "odor",
+          "odors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ecd25dbb-c55b-55cb-adbe-6c5f3d47f1cb",
+        "value": "There are several species that have slightly different odors .The grassy odor is usually accompanied by a moldy odor , which is probably due to decomposition , as this organism decays rapidly .When very strong the odor of Anabaena much re - sembles razv green - corn , or even a nasturtium stem .",
+        "words": [
+          "odor",
+          "The grassy",
+          "moldy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ee32a3eb-2b59-5292-b5da-4edd8ff91511",
+        "value": "295 Copepoda , 241 Corethra , 251 Coscinodiscese , 175 Cosmarium , 197 Counting - cell , Sedgwick - Rafter Method , 21 Counting , methods of , by Sedgwick - Rafter Method , 30 Crenothrix , 177 , growth in distribution - pipes , 151 , growth of , in ground - waters , 43 .144 Cristatella , 247 , odor caused by , 119 Crustacea , 239 , seasonal distribution of , 103 Cryptomonas , 221 Crypto - Raphidiese , 174 Crystal Lake , temperature of , 61 Cucumber taste , 119 Cyanophycese , 179 , seasonal distribution of , 100 Cyclops , 242 Cyclotella , 175 Cylindrospermum , 184 Cymbella , 168 Cymbelleae , 168 Cypris , 243 Cystiphone , 180 Cystoflagellata , 223 Daphnia , 243 Decantation error , 28 Decapoda , 240 Decomposition , odors of , 116 of organisms , 127 Deep ponds , organisms in , 86 Degree of concentration , 24 Density of water , 51 Desmidiere , 196 Desmidium , 199 Diaphanometers , 72 Diaptomus , 242 Diathermancy of water , 52 Diatoma , 173 Diatomacea : , 157 , cell of , 157 , cell - contents , 161 , classification of , 167 , external secretions , 162 , growth of , at different depths , 97 , markings , 160 , movement , 163 , multiplication of , 164 , reproduction of , 166 , seasonal distribution of , 94 , shape and size , 159 , structure of valve , 161 , succession of , 95 Dictyosphrerium , 191 Difflugia , 214 Diglena , 238 Dimorphococcus , 191 Dinobryon , 221 Dino - flagellata , 222 Disc , use of , for comparing the turbidities of water , 75 Disintegration , errors of , 27 Dissolved oxygen in Lake Cochitu - ate , 137 Distribution - pipes , diminution of microscopic organisms in , 147 - 150 , growths of organisms in , 150 Docidium , 197 Dolley , Dr .C .",
+        "words": [
+          "Deep",
+          "odor",
+          "odors",
+          "of",
+          "Crustacea",
+          "Decomposition",
+          "Cryptomonas",
+          "116 of organisms",
+          "Crypto",
+          "Decapoda",
+          "Cristatella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/ee474fea-e93f-564a-a4dc-8f0723f9e23f",
+        "value": "Out of 71 water - supplies taken from ponds and reservoirs , 45 , or 63 $ , were found to have given trouble from bad tastes or odors , and about two thirds of these had given serious trouble .Calkins has stated that in 1404 samples from surface - water supplies in Massachusetts odors were observed as follows : Per Cent of Â ° dor - Samples Affected .No odor 20 Vegetable 26 Sweetish 7 Aromatic 6 Grassy * 5 Fishy 3 Moldy 10 Disagreeable 6 Offensive 7 The intensity of these odors was not stated .",
+        "words": [
+          "in",
+          "odors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f18109b8-e1e0-5e07-a980-71b0f4dc0931",
+        "value": "maximum density â   and the water was prob - ably in a state of permanent stagnation .The sample was bright , clear , colorless , and without odor .The material on the bottom was found to be almost perfectly clean gravel .",
+        "words": [
+          "odor",
+          "The sample"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f3eeec69-1c04-5740-8d1c-afae82941406",
+        "value": "\" Besides the odors above described , water - supplies some - times become affected with what have been called \" chemical odors , \" â   such as those of carbolic acid , creosote , tar , etc .They can be traced usually to some pollution by manufactur - ing waste , though a vigorous decomposition of organic matter has been known to give an odor resembling carbolic acid .Similar odors are sometimes caused by the coating on the inside of new distribution - pipes .",
+        "words": [
+          "odor",
+          "resembling carbolic acid",
+          "manufactur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/f4d2a762-eb68-551e-8111-be8e3e26907e",
+        "value": "It also reminds one of a salt marsh .With certain degrees of dilution some other Protozoa have the salt - marsh odor , reminding one of the sea .Fishy odors are said to be produced by Volvox , Eudorina , and Pandonna .",
+        "words": [
+          "marsh",
+          "odor",
+          "salt - marsh",
+          "some other Protozoa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/faf4a359-abe2-540b-865c-831ce13cfe10",
+        "value": "Ofo The gas that remained dissolved in the water containing the Anabaena was practically all C0 2 and represented a large per - centage of the total gas produced .\" Besides the odors above described , water - supplies some - times become affected with what have been called \" chemical odors , \" â   such as those of carbolic acid , creosote , tar , etc .They can be traced usually to some pollution by manufactur - ing waste , though a vigorous decomposition of organic matter has been known to give an odor resembling carbolic acid .",
+        "words": [
+          "tar",
+          "chemical",
+          "odors",
+          "creosote",
+          "of carbolic acid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/fe5910d7-d74e-592f-a252-ae5c63827233",
+        "value": "Similar odors are sometimes caused by the coating on the inside of new distribution - pipes .The extent to which water - supplies are afflicted with odors 123 THE MICROSCOPY OF DRINKING - WATER .was well shown by the investigations of the Massachusetts State Board of Health .",
+        "words": [
+          "odors",
+          "DRINKING"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/fe62d27c-d836-50ca-b7ce-39df85e32be9",
+        "value": "Drown .A Study of odors observed in the Drinking Waters of Massa - chusetts .Gary N .",
+        "words": [
+          "odors",
+          "in the Drinking Waters of Massa - chusetts"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d999096b-1fe2-5d93-854d-9f0eb4f7f1b5",
+        "label": "George Chandler Whipple"
+      }
+    ],
+    "label": "The microscopy of drinking-water",
+    "url": "http://archive.org/details/b21938544",
+    "date": "1899",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/109",
+      "label": "Oil"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/36fe5321-c19d-5fe7-bcca-6ff410672e98",
+      "label": "1899",
+      "begin": "1899",
+      "end": "1899"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/9865306/",
+      "label": "Najran Drinking Water Station"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/15965ed3-e165-5ed5-b7df-7895840cb1e6/fragment/b109a100-ceb8-5370-b187-ebaa46a304e0"
+}

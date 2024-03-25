@@ -1,0 +1,564 @@
+## odeur
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/48aaecfb-274f-545a-a45c-109bb736fa1b |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | odeur |
+| source.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/00249cdf-e273-5bd0-ba07-d84c3fc3b6d6 |
+| source.excerpts.0.value | Puis il y a cette grande ombre , qui tombe du ro - cher .Je crois respirer encore l ' air aromatique et pur ; il me semble que des limpidités bleues m ' enveloppent encore .San Roque blanchit au talon de son isthme ; AI - gésiras , sur son rivage , brille comme une perle aban - donnée du Ilot ; la sierra de Hogen , la sierra de Sa - norra lui font une couronne . |
+| source.excerpts.0.words.0 | aromatique |
+| source.excerpts.0.words.1 | air |
+| source.excerpts.0.words.2 | Je |
+| source.excerpts.0.words.3 | pur |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/01020b29-e34e-51b6-85e9-30fd63f27234 |
+| source.excerpts.1.value | Refuser brutalement de nous conduire au bazar 1 oh , pour cela non ! seulement il proteste , les mains dévotement croisées sur la poitrine , que nous n ' y trouverons rien ! absolument rien ! Après quoi , nous voyant décidés , il cède , et pénètre avec nous dans la cour du Kan , parfaitement sale , il en faut convenir : — Voyez ! c ' est intenable ! — s ' écrie Micaël , en écartant ma robe , de peur qu ' elle ne frôle un ballot .En effet , dans l ' étroit espace qu ' enferment quatre murs : paquets de peaux tannées , sacoches de vieu chiffons mal cordés , balles de coton , épices , toisons , bois odorants , marchandises d ' assez trivial aspect s ' empilent en désordre , çà et là remuées par des portefaix , qui certes n ' ont pas abusé du bain .L ' étage supérieur nous montre des tapis , des coussins , des plateaux . |
+| source.excerpts.1.words.0 | bois |
+| source.excerpts.1.words.1 | odorants |
+| source.excerpts.1.words.2 | épices |
+| source.excerpts.1.words.3 | peaux tannées |
+| source.excerpts.1.words.4 | balles de coton |
+| source.excerpts.1.words.5 | chiffons mal cordés |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/02c66856-988b-5391-bb21-a90f35aeca1f |
+| source.excerpts.2.value | Les horizons démesurés de la Vieille - Castille ne sont pas parvenus à m ' arracher un bâillement .Le despoblado que nous traversons aujourd ' hui , ces terrains uniformément dépliés , repliés , qui nous montrent à toutes les profondeurs le même trou peau harcelé du même pâtre ; cette lande , partout égale , vêtue de cistes et de chamérops ; les nudités du sol , le ciel d ' un éclat sans merci ; ces haleines , qui toujours nous apportent le parfum des orangers ; les vagues pourpres , les vagues d ' or que promène le vent sur les grandes surfaces ; cette pérennité des lignes , des couleurs et des sensations , ne me cause aucune impatience : je ne m ' en fatigue pas plus que je ne me lasserais de l ' infini .Au fait , je m ' y sens libre ; c ' est le souverain attrait du steppe sans borne et sans diversité . |
+| source.excerpts.2.words.0 | parfum |
+| source.excerpts.2.words.1 | orangers |
+| source.excerpts.2.words.2 | lande |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/0dfb6f6e-b897-5fca-9147-619b7eb6c785 |
+| source.excerpts.3.value | Soudain , résonnait une musique militaire ; des litanies s ' égrenaient le long des murs , les feux rouges que projetait la flamme des torches frappaient les façades , embrasaient les murailles ; et lorsqu ' on courait aux fenêtres , on voyait dans les profondeurs de la calle passer les capuces , passer les cuirasses , passer les croix , passer les bannières ; un peuple devant , un peuple derrière , tout ce fourmillement enveloppé des fumées de la poix ! Du haut en bas des maisons , de misérables cailles encagées , éperdues , font entendre leur appel .Cette note redoublée , si limpide et si caressante alors que par une belle nuit de juin on l ' entend dans les prés , qu ' elle se mêle aux fraîches senteurs de l ' herbe et que chacun de nos pas l ' emmène plus loin ; cette chanson des campagnes , sereine , pure comme la rosée , dont les transparences nous font rêver d ' étoiles , de printemps , de 1 .Eau fraîche ; l ' Andalous , qui volontiers supprime une consonne , deux quand il en trouve l ' occasion , prononce aguà freca et même allà freca , au lieu d ' aguà fresca . |
+| source.excerpts.3.words.0 | senteurs |
+| source.excerpts.3.words.1 | campagnes |
+| source.excerpts.3.words.2 | une belle nuit de juin |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/0f567f4a-505b-5ba3-974c-4b8d97a0770e |
+| source.excerpts.4.value | - La mort est la seule chose , en Portugal , qui prenne des airs coquets .Il y en a une autre , qui nous met l ' imagination au galop : le voisinage des tropiques , Tenez , ces bananes à pleine corbeille ! Elles arrivent de Madère , c ' est à deux pas ; on prend , comme on prendrait les pommes de son jardin , ces beaux fruits à la robe d ' or , à la pulpe fondante et parfumée ; on trouve 1 .Celui - ci renfermait le cercueil d ' un petit enfant . |
+| source.excerpts.4.words.0 | Madère |
+| source.excerpts.4.words.1 | parfumée |
+| source.excerpts.4.words.2 | tropiques |
+| source.excerpts.4.words.3 | voisinage |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/15a0506d-cb90-52ed-a109-f48468e8cabe |
+| source.excerpts.5.value | Puis vient la blafarde et sinistre figure de Philippe II , ce conquérant , cet oppresseur du Portugal .La bibliothèque , avec ses étudiants assis autour des tables , leur tête pensive inclinée sur quelque in - folio , respire la bonne odeur des bouquins .Les robes noires , les visages un peu pâles se dessinent dans cette lumière adoucie . |
+| source.excerpts.5.words.0 | bonne |
+| source.excerpts.5.words.1 | odeur |
+| source.excerpts.5.words.2 | bouquins |
+| source.excerpts.5.words.3 | bibliothèque |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/16235c60-0ad1-52bd-8a48-dd431bb8cbee |
+| source.excerpts.6.value | Mais ce que je préfère , voyez - vous , à telle ou telle des pantomimes : c ' est le caractère génial .Ce sont les déserts qui se déroulent par delà ; c ' est ce balancement des palmiers , près du puits dans les sables ; c ' est l ' Afrique aux clartés pourpres , c ' est l ' Egypte avec ses mystères plus vieux que l ' antiquité ; ce sont les chansons entendues sur d ' autres rives ; ces battements de mains qui scandent la phrase ; ces phrases ellesmêmes , vagues , interrompues , reprises , qui portent sur leur aile la senteur des mimosas pour aller , courant par les vides espaces , s ' évanouir en d ' insondables profondeurs .1 . |
+| source.excerpts.6.words.0 | Afrique |
+| source.excerpts.6.words.1 | senteur |
+| source.excerpts.6.words.2 | mimosas |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/17327b75-ab7f-5c14-b0d6-9f28585c098b |
+| source.excerpts.7.value | Dans ces immensités abandonnées au bon plaisir de Dieu , parmi les fleurs que sa main y a semées , l ' âme grandit de toute l ' ampleur des horizons .Les pieds de nos bêtes , froissant quelque herbe aromatique , en faisaient monter des saveurs qu ' en un autre temps , sur une autre terre , nous avions respirées .alors que par les vastitudes où se dresse le Sinaï , nous allions seuls , laissant derrière nous la caravane , et que nos chameaux arrachaient et broyaient les plantes de bonne odeur . |
+| source.excerpts.7.words.0 | aromatique |
+| source.excerpts.7.words.1 | herbe |
+| source.excerpts.7.words.2 | saveurs |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/185d244e-effc-58f3-8712-4a3065e586a4 |
+| source.excerpts.8.value | Ceinture écarlate autour du corps , noire couverture à l ' épaule , ses compagnons écoutent les couplets .Les émanations parfumées du soir montent des prairies ; attelés à l ' antique , des taureaux traînent leur lourde charrette comble de fourrage .Le labrador revient des champs , pas vif , tête haute , bêche sur le dos . |
+| source.excerpts.8.words.0 | émanations |
+| source.excerpts.8.words.1 | parfumées |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/1cddbd34-159a-540a-9a15-9f7d13eab0e6 |
+| source.excerpts.9.value | Notre madrée Zingara de sourire , de Je frôler de sa jupe .de lui faire respirer les fleurs qui parfument ses tempes .L ' autre s ' élance , embrasse l ' air , se désole . |
+| source.excerpts.9.words.0 | fleurs |
+| source.excerpts.9.words.1 | respirer |
+| source.excerpts.9.words.2 | lui |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/1f3e19b5-0b50-59cd-84fa-844d09dde481 |
+| source.excerpts.10.value | C ' est bientôt la nuit , je m ' appuye à l ' embrasure de ma fenêtre ; j ' ai la mer devant moi ; au - dessous , la terrasse du rempart , et ce nègre , accoudé sur un canon , - qui contemple l ' espace où glissent , comme des serpents d ' or , les lumières du soir .Le nègre a posé près de lui sa mandoline ; parfois il en caresse , du bout d ' une plume , les cordes qui babillent doucement ; puis il roule une cigarette , aspire le parfum d ' une orange , en exprime le jus à ses lèvres , et de nouveau s ' accoude au mur , la mandoline aux mains , le regard sur ces fonds infinis .C ' est son plaisir , à lui ; joie sereine , faite de choses exquises : un son , un arôme , quelques gouttes de nectar . |
+| source.excerpts.10.words.0 | orange |
+| source.excerpts.10.words.1 | parfum |
+| source.excerpts.10.words.2 | nègre |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/2149830f-ed36-5d9a-87ab-16f4599736b6 |
+| source.excerpts.11.value | jusqu ' à devenir un fil souple et fort , il va se faire tisser en Angleterre .Qui dit fabrique , le plus souvent dit enfer : le sol est charbonneux , le ciel est noir , l ' air empeste ; des humidités fétides suintent le long des murs ; au lieu d ' arbres , des cheminées ; jamais une fleur ne hasarda ses parfums dans ce lieu maudit ; où qu ' on regarde , on a l ' œil navré ! Oh bien , mon ami , perdez ces idées .Voici devant nous une allée de bananiers , dont les feuilles un peu déchirées par le vent de mer ondulent avec lenteur , croisant sur nos têtes des éventails d ' un vert blond , tandis que leurs régimes d ' or pâle nous mettent à deux doigts des lèvres , ces fruits allongés dont l ' arôme plus suave que celui de la fraise ou de l ' ananas , parle de Soudan , de Nigritie , que sais - je ? de toute sorte de lieux pleins de mystère et de soleil . |
+| source.excerpts.11.words.0 | fleur |
+| source.excerpts.11.words.1 | air |
+| source.excerpts.11.words.2 | parfums |
+| source.excerpts.11.words.3 | fétides |
+| source.excerpts.11.words.4 | lieu |
+| source.excerpts.11.words.5 | humidités |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/27f06aff-bf3b-5956-a7b5-13c920d5fdb8 |
+| source.excerpts.12.value | Chaque balcon laisse couler vos regards sur une poésie nouvelle .C ' est l ' horizon illimité jusqu ' en ces dernières profondeurs où la lumière a le dernier mot ; c ' est le chaos des roches mêlées de fougères , de géraniums , de camélias , jusqu ' au moment où elles disparaissent sous un fouillis d ' orangers ; ce sont des symphonies de nuances , de parfums et de chansons .Car le rossignol , niché dans les lauriers , le rouge - gorge dans les myrtes , échangent leurs défis . |
+| source.excerpts.12.words.0 | parfums |
+| source.excerpts.12.words.1 | fougères |
+| source.excerpts.12.words.2 | camélias |
+| source.excerpts.12.words.3 | géraniums |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/2d6d9289-d75b-5440-9367-fad01f122305 |
+| source.excerpts.13.value | De 1788 à 1868 , deux cent quatre - vingt - huit mille hérétiques furent enchaînés sur les galères ou jetés dans les prisons .Par des soirées qui avaient le charme de celle - ci : — car le même soleil plongeait au couchant , les orangers donnaient les mêmes parfums , de mêmes vapeurs nageaient , flottantes et limpides dans le même ciel — des phalanges sinistres , affublées du san - benito , passaient sur le pont où nous passons .Elles s ' en allaient mourir où l ' on va rire aujourd ' hui . |
+| source.excerpts.13.words.0 | vapeurs |
+| source.excerpts.13.words.1 | parfums |
+| source.excerpts.13.words.2 | orangers |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/312e5413-c952-5105-90f9-a715e189310e |
+| source.excerpts.14.value | Le grillon venait de sentir la terre ; un arôme trop subtil pour les perceptions de nos sens l ' avait effleuré ; captif dans l ' entrepont .il avait découvert ; il respirait les brises embaumées ; il célébrait les jardins en fleurs ; bientôt on cria : « Terre ! » et le Brésil sortit des îlots .Ah ! mon ami , n ' y a - t - il point chez nous aussi , un hôte mystérieux , bien chétif , bien enchaîné ! mais qui , pourtant , a découvert des régions nouvelles ; et , lorsqu ' un parfum lui vient de là - haut , il se met a chanter , et notre cœur bondit . |
+| source.excerpts.14.words.0 | embaumées |
+| source.excerpts.14.words.1 | brises |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/31cceb58-59b7-511c-b141-37dc66875e68 |
+| source.excerpts.15.value | appelle ce garçon , coiffé de là montera , cigarette aux lèvres ; qui , les mains dans les poches , nous regardait partir : — Voulez - vous venir avez nous ? C ' est dit , Tomaso prend par la bride ce bucéphale , par le licou cet autre : les craintifs sont rassurés .Une de ces fraîcheurs parfumées , comme les belles nuits en lèguent au jour , dans les pays du soleil , nous met l ' allégresse au cœur .Notre caravane a pris le chemin de Churiana . |
+| source.excerpts.15.words.0 | parfumées |
+| source.excerpts.15.words.1 | fraîcheurs |
+| source.excerpts.15.words.2 | pays du |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/332e2234-a984-50f6-966b-5d76226b9430 |
+| source.excerpts.16.value | — Ali ! mon ami , quelle joie d ' avoir chaud , d ' avoir trop chaud , de se mouvoir librement dans une atmosphère bienveillante , de nager à pleines brasses dans l ' abondance des dons de Dieu ! Les magies de ce beau pays lui viennent moins de telle production rare que de l ' exubérance des sèves qui font à leur guise , sans que rien en arrête ni l ' expansion ni le jet .On va , on rêve ; cela paraît la chose la plus naturelle du monde que d ' errer parmi les bananiers , que de sentir sur soi l ' haleine des dattiers , que d ' écarter les branches des orangers en fleurs et que de cueillir les pommes d ' or .Au fait , le paradis est notre patrie ; là seulement nous nous sentons chez nous . |
+| source.excerpts.16.words.0 | haleine |
+| source.excerpts.16.words.1 | dattiers |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/3c805283-e18d-56b8-8fb1-5ff7716d1c26 |
+| source.excerpts.17.value | dans l ' éclat de ses faïences , dans la grâce de ses arceaux , avec ses intermittences de murs austères , d ' entrelacs , do rosaces , de guipures , de croissants , des mille combinaisons qu ' inventa la fantaisie et que dompta le compas .La mosaïque diamantée , ce transparent émail découvert par les Arabes ( dont les chrétiens ont perdu le secret ) , jette à toutes les parois ses nappes chatoyantes .On retrouve la niche du Koran , creusée sous une voûte basse , miracle de broderies . |
+| source.excerpts.17.words.0 | chrétiens |
+| source.excerpts.17.words.1 | chatoyantes |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/3d6e4675-76bc-578d-b4f5-5024b2ef79e0 |
+| source.excerpts.18.value | Elle ne m ' a pas laissé .leurs cheveux noirs , languissantes , rieuses en dépit de la majesté , un peu pâles , un peu grasses ; comme empâtées , sitôt que disparaît la première jeunesse , par les molles émanations du Guadalquivir , par les effluves émollients des prairies et les doux nonchaloirs de l ' oisiveté .Les filles du peuple , mieux découplées , plus sveltes et plus vives , promènent là dedans leurs yeux espiègles avec leurs pompons de fleurs . |
+| source.excerpts.18.words.0 | émanations |
+| source.excerpts.18.words.1 | molles |
+| source.excerpts.18.words.2 | prairies |
+| source.excerpts.18.words.3 | effluves |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/3e43c2ee-4ad1-5a29-a4e2-be295f5601b6 |
+| source.excerpts.19.value | Vous les connaissez , les transparences des forêts de pins ! Vos regards ont plongé dans ce jour atténué .Toute cette fluidité de l ' air ; clartés , profondeurs , la vibration du feuillage , les saveurs de la résine , la sauvage senteur des plantes bocagères vous ont tenu charmé .Tandis que siflle la vapeur et que vous entraîne le convoi , vous restez là , n ' est - ce pas ? Vous errez sous ces dômes , en ces retraites inviolées ! Les aiguilles des pins tapissent le sol , la mousse y déroule son velours . |
+| source.excerpts.19.words.0 | résine |
+| source.excerpts.19.words.1 | senteur |
+| source.excerpts.19.words.2 | saveurs |
+| source.excerpts.19.words.3 | plantes bocagères |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/3f57f698-abc1-5222-bc9a-be9cb0b2917b |
+| source.excerpts.20.value | En 1814 , un gouverneur arriva , qui en fit un paradis .De larges allées se prolongent sous les mûriers de la Chine , arbre résistant , aux racines tordues , vigoureuses , presque sculpturales ; le géranium arrondit sur nos têtes ses ombelles écarlates ; grenadiers , agaves , tamarisques , toute sorte de verdures énergiques , légères , plumassées , dentelées , glauques , brillantes , foisonnent dans l ' ombre ; le datura suspend à dix pieds du sol ses grandes cloches au parfum enivrant ; tout contre la montagne , les pins ont croisé leurs branches ; des canons mettent leur bronze parmi ces fleurs ; c ' est une expansion de sève , c ' est une fougue de végétation que ne connaissent guère nos pays tempérés .Là - dessous vont errant les Mores , amis des jardins . |
+| source.excerpts.20.words.0 | parfum |
+| source.excerpts.20.words.1 | enivrant |
+| source.excerpts.20.words.2 | datura |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/400cbc56-02dc-51d6-a3c5-eca338f0942e |
+| source.excerpts.21.value | Le nègre a posé près de lui sa mandoline ; parfois il en caresse , du bout d ' une plume , les cordes qui babillent doucement ; puis il roule une cigarette , aspire le parfum d ' une orange , en exprime le jus à ses lèvres , et de nouveau s ' accoude au mur , la mandoline aux mains , le regard sur ces fonds infinis .C ' est son plaisir , à lui ; joie sereine , faite de choses exquises : un son , un arôme , quelques gouttes de nectar .Qu ' en dites - vous ? Se pénétrer ainsi de lumière , songer , peut - être se souvenir ; nos habitués d ' estaminet peuvent en rire ! Moi , je trouve cela plus noble qu ' une bille poussée sur un tapis vert , dans les écœurantes fumées de l ' alcool et du tabac . |
+| source.excerpts.21.words.0 | nectar |
+| source.excerpts.21.words.1 | arôme |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/40cfd846-cfaa-5965-9982-31228459b8db |
+| source.excerpts.22.value | Les érudits ont beau ranger le site au compte de l ' illusion , tant pis pour les savants : c ' est bien ici la Sierra ; des solitudes pareilles aux steppes décrits par Cervantes étendent à perte d ' horizon leurs tristesses ; Cardeno en a .de son pas mal assuré , froissé l ' herbe odorante ; il gravissait ces versants pour fuir les humains ; il pleura , vers cette eau limpide , les lambeaux de sa raison perdue , flottante encore , accrochée aux buissons .— Allez , dès qu ' il s ' agit d ' idéal , les faits sont des menteurs , le rêve seul parle vrai . |
+| source.excerpts.22.words.0 | odorante |
+| source.excerpts.22.words.1 | herbe |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/42eb5828-d57e-57a1-8462-db805471090e |
+| source.excerpts.23.value | Il n ' y a que nos gracieuses Andalouses pour s ' étaler à leur aise .Couchées à demi , leurs fraîches robes de mousseline légèrement soulevées , leur chevelure noire parfumée d ' un bouquet ; souriantes , nonchalantes , elles agitent languissamment l ' éventail , et respirent les roses qui couvrent leurs genoux .On dirait des odalisques dans un harem . |
+| source.excerpts.23.words.0 | parfumée |
+| source.excerpts.23.words.1 | roses |
+| source.excerpts.23.words.2 | bouquet |
+| source.excerpts.23.words.3 | chevelure |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/44c10e86-c5d8-56f6-bb4c-1d1e66cd93d5 |
+| source.excerpts.24.value | Aloès , figuiers , cactus et grenadiers croissent en haies , en libres massifs , au hasard , comme il convient aux sèves , comme il plait au soleil .Des bois d ' orangers alternent avec les jardins ; là - dessous , quelque champ de fèves parfume l ' air ; les oliviers agitent çà et là leur glauque feuillage ; toutes les fois qu ' une berge encadre la route , dès que s ' étendent les jachères , bardanes , glaïeuls , liserons , pervenches , immortelles et chrysanthèmes jettent leur étoile parmi les raquettes des nopals ou les dards des agavés .Dans ces routes à l ' aventure , marchent d ' un pas pesant les bœufs sous le joug . |
+| source.excerpts.24.words.0 | air |
+| source.excerpts.24.words.1 | parfume |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/48c26eba-9609-5d9b-ba5a-b67a19b25b59 |
+| source.excerpts.25.value | Qui dit fabrique , le plus souvent dit enfer : le sol est charbonneux , le ciel est noir , l ' air empeste ; des humidités fétides suintent le long des murs ; au lieu d ' arbres , des cheminées ; jamais une fleur ne hasarda ses parfums dans ce lieu maudit ; où qu ' on regarde , on a l ' œil navré ! Oh bien , mon ami , perdez ces idées .Voici devant nous une allée de bananiers , dont les feuilles un peu déchirées par le vent de mer ondulent avec lenteur , croisant sur nos têtes des éventails d ' un vert blond , tandis que leurs régimes d ' or pâle nous mettent à deux doigts des lèvres , ces fruits allongés dont l ' arôme plus suave que celui de la fraise ou de l ' ananas , parle de Soudan , de Nigritie , que sais - je ? de toute sorte de lieux pleins de mystère et de soleil .Voici de grands hybiscus , des arbustes dont la fleur pourpre , une coupe immense , sort telle quelle du rameau nu ; cela aussi , fait penser aux pays des nègres . |
+| source.excerpts.25.words.0 | suave |
+| source.excerpts.25.words.1 | fruits |
+| source.excerpts.25.words.2 | ananas |
+| source.excerpts.25.words.3 | fraise |
+| source.excerpts.25.words.4 | arôme |
+| source.excerpts.25.words.5 | allée de |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/49159c07-e699-56d0-8fd3-2e69323e4d06 |
+| source.excerpts.26.value | de l ' ombre , dans la calle de la Sierpei .Leur teint mat , plus pâle que l ' ivoire , leurs grands yeux caressants et rieurs , les palpitations intermittentes de l ' éventail , ce nonchaloir plein de grâce et de séduction répand des effluves de beauté , si bien qu ' on se croirait transporté dans cette atmosphère des musées , toute réchauffée de l ' inspiration des maîtres et tout imprégnée des harmonies de la couleur .Les corbeilles de roses mettent là dedans leurs parfums ; une bouffée de vent , qui a passé sur les jardins , apporte l ' arôme des orangers ; des toiles tendues très haut , comme dans les bazars levantins , nous donnent des visions d ' Orient ; ces troupes , fusil sous le bras , crosse retournée , qui reviennent de la procession , nous ramènent en Espagne ; cette gitana , son enfant jeté sur le dos , qui court d ' un pas élastique , d ' un geste rapide nous montre les lignes de sa main , sourit à notre refus , et , prompte comme la panthère , saisit le réal qu ' on lui présente ; ces boutiques où l ' aguador débite la limonade et l ' eau glacée ; ces patios en marbre , plus splendides , moins agrestes que ceux de Cordoue , mais où l ' oranger va s ' arrondir à trente pieds du sol , où le bananier étale son parasol d ' un vert bleu , que défen - , dent les portes en bois rare constellées de clous sarrasins ; tout nous parle de Séville la belle , de la capitale des Yusuf , des Yakoub , des temps héroïques ; rien ne nous rappelle que cette radieuse et que cette séduisante , épanouie sous les embrasements du soleil , doucement bercée au murmure des fontaines , s ' éclairait jadis de feux plus sombres , et que les gémissements mêlés aux prières qui montaient de ses bûchers , lui servaient de sérénades et de chansons . |
+| source.excerpts.26.words.0 | effluves |
+| source.excerpts.26.words.1 | des musées |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/4bb01669-72ba-5b1c-a5a3-37e368d67d0d |
+| source.excerpts.27.value | La route n ' a pas cessé de monter ; les croupes se relèvent , les versants se font abruptes .Nous irions longtemps de la sorte , parmi ces quintas qui recommencent de projeter leurs pins des tropiques , de masser leurs éclatants géraniums , de laisser courir dans les ormeaux leurs lianes aux fleurs embaumées .Un paon s ' est perché sur la branche de ce déodora ; il y déploie son plumage que constellent les yeux de Vénus , son aigrette vibre dans la dentelle du feuillage ; une sorte de nuit parfumée règne sous ces couverts , tandis que les bras rugueux des chênes portent toute une végétation de fougères , dont les palmes mollement recourbées se laissent aller à l ' abandon . |
+| source.excerpts.27.words.0 | embaumées |
+| source.excerpts.27.words.1 | géraniums |
+| source.excerpts.27.words.2 | pins des tropiques |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/4e134292-940c-54f8-8f16-b788e6dc39c4 |
+| source.excerpts.28.value | y placera un matelas , posera un grand plat d ' eau sur ce trépied : vous voilà servi .Mais , si tout est pauvre , tout est net ; une de ces propretés éblouissantes , parfumées de marjolaine et de thym , mille fois préférables aux recherches du luxe le plus raffiné .Nous avons longtemps devisé avec notre hôtesse , un cordon bleu , naguère cuisinière du gouverneur de Gibraltar . |
+| source.excerpts.28.words.0 | thym |
+| source.excerpts.28.words.1 | parfumées |
+| source.excerpts.28.words.2 | marjolaine |
+| source.excerpts.28.words.3 | éblouissantes |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/4ebb8b47-fd8d-5bad-a39e-0b8099c8f8e8 |
+| source.excerpts.29.value | comme un soupir .Le chèvrefeuille de l ' Himalaya , exhale tout près ses senteurs enivrantes .La sierra Bermeja , d ' une magnifique ariditc , dresse au loin ses pitons qui forment un rempart à notre Éden . |
+| source.excerpts.29.words.0 | Himalaya |
+| source.excerpts.29.words.1 | senteurs |
+| source.excerpts.29.words.2 | exhale |
+| source.excerpts.29.words.3 | enivrantes |
+| source.excerpts.29.words.4 | ses |
+| source.excerpts.29.words.5 | chèvrefeuille |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/50f59fc5-35c8-59c6-bfaf-87478190c6ab |
+| source.excerpts.30.value | Ses caresses défont notre courage .Elle a d ' énervantes émanations qui montent du sol , qui tombent des feuillées , qui vont assoupir en nous jusqu ' à la faculté de vouloir .Si la charmoresso ne rencontre point chez nous ce veilleur bien arme . |
+| source.excerpts.30.words.0 | émanations |
+| source.excerpts.30.words.1 | énervantes |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/57b54ac7-4083-5f3c-a683-8bb966d318f0 |
+| source.excerpts.31.value | Nous voilà partis pour Oporto .Le Tagc s ' est longtemps déroulé , semé de flottilles , entre les villages et les quintas qui nous jetaient leurs parfums .Parfois le fleuve se perdait ; parfois sa grande ligne d ' argent , soudain retrouvée , éclairait l ' horizon . |
+| source.excerpts.31.words.0 | parfums |
+| source.excerpts.31.words.1 | longtemps |
+| source.excerpts.31.words.2 | villages |
+| source.excerpts.31.words.3 | quintas |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/5a2d5143-42c0-5f72-81e1-81cf6d710a1a |
+| source.excerpts.32.value | Le couchant peut bien parer la terre de joyaux , les oiseaux chanter , les bosquets parler d ' amour , un frisson nous a pris .Et pourtant le ciel rayonne , les orangers fleurissent , l ' eau clapote dans les bassins , une neige de pétales a couvert les allées , le ruissenor 1 se réjouit de vivre ; et , sous la feuille des bananiers , des haies de jasmins ont ouvert leurs amphores au doux parfum .Vous souvient - il de nos romanceros espagnols ? Vous l . |
+| source.excerpts.32.words.0 | doux |
+| source.excerpts.32.words.1 | parfum |
+| source.excerpts.32.words.2 | haies |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/5ae43119-f65f-58f2-8e0e-c0af2801ed01 |
+| source.excerpts.33.value | Rien n ' est beau comme leur front qui a souffert et qui a dominé la douleur .Si je ne retrouve plus dans leurs yeux ces limpidités flottantes , pareilles à la goutte de rosée que balance en un matin d ' avril quelque rameau printanier ; si les grâces de l ' ignorance s ' en sont allées , si le charme qui j accompagne les éclosions nouvelles a disparu ; si l ' es - poir , qu ' une magnifique actualité remplace , s ' est retiré r ' comme ces vapeurs diaphanes , plus attrayantes en r leurs mystérieux replis que l ' éclat même de la cam - - pagne et du ciel tout à coup dévoilés ; si je devine sur ce teint bronzé quelque trace de hâle , quelques blessures à ces fortes mains ; pourtant je reconnais un roi .C ' est bien ici le monarque de la création ; c ' est le maître de soi - même , qu ' avait voulu mon Dieu . |
+| source.excerpts.33.words.0 | vapeurs |
+| source.excerpts.33.words.1 | diaphanes |
+| source.excerpts.33.words.2 | attrayantes |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/5faea1c4-9936-5d2a-9bd1-638eb9a7035a |
+| source.excerpts.34.value | Nous irions longtemps de la sorte , parmi ces quintas qui recommencent de projeter leurs pins des tropiques , de masser leurs éclatants géraniums , de laisser courir dans les ormeaux leurs lianes aux fleurs embaumées .Un paon s ' est perché sur la branche de ce déodora ; il y déploie son plumage que constellent les yeux de Vénus , son aigrette vibre dans la dentelle du feuillage ; une sorte de nuit parfumée règne sous ces couverts , tandis que les bras rugueux des chênes portent toute une végétation de fougères , dont les palmes mollement recourbées se laissent aller à l ' abandon .Au tournant du chemin , des roches , là - haut , ont percé la nue ; elles se sont échelonnées , mettant l ' un sur l ' autre crêtes et pitons , jusqu ' à ce château de la Peila , au dernier sommet , dans sa grâce , avec ses tours si fines , ses créneaux si nets , ses donjons massifs , son grand air de chevalerie et de défi ! — Toute cette image féodale , sarrasine , pleine de fantaisie et d ' audace , s ' est profilée d ' un seul jet sur le ciel . |
+| source.excerpts.34.words.0 | parfumée |
+| source.excerpts.34.words.1 | déodora |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/5ff56e4c-642a-5a64-93f6-4af8415a0f4f |
+| source.excerpts.35.value | Alors la plaine , prolongée jusqu ' aux derniers horizons — car les sierras se sont effacées — nous montre d ' innombrables manadas , et des troupeaux de novillos t , répandus partout .Ils peuplent les despoblados où fleurit le ciste , où le palmier nain étale son éventail , que verdissent par places des touffes d ' herbe aux pénétrantes senteurs .Les taureaux , en attendant l ' heure qui sonnera leur agonie , vont libres , éparpillés sur le sol ; on voit lentement se mouvoir les taches brunes , les taches fauves . |
+| source.excerpts.35.words.0 | senteurs |
+| source.excerpts.35.words.1 | pénétrantes |
+| source.excerpts.35.words.2 | herbe |
+| source.excerpts.35.words.3 | palmier |
+| source.excerpts.35.words.4 | despoblados |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/676264b3-b1fa-5688-bfd9-58fa2ed41141 |
+| source.excerpts.36.value | C ' étaient les juifs du Maroc , vêtus de tuniques blanches , avec leurs corbeilles combles de dattes fraîches et de bananes jaune d ' or .Les terrasses , suspendues à toutes les hauteurs , nous jetaient le parfum de leurs verveines avec l ' arôme de leurs œillets .Parmi la foule des matelots , les jolies filles d ' Oporto promenaient leur taille souple , leurs traits fins , leurs yeux noirs . |
+| source.excerpts.36.words.0 | parfum |
+| source.excerpts.36.words.1 | arôme |
+| source.excerpts.36.words.2 | terrasses |
+| source.excerpts.36.words.3 | leurs verveines |
+| source.excerpts.36.words.4 | leurs œillets |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/69a06e88-6fd6-59b7-b5bb-dd5ee8146e55 |
+| source.excerpts.37.value | lage , sans compter la figure des acheteurs .Là , sous l ' ombre du toit de pagode , nous avons fait à l ' espagnole : grignoté des arachides , savouré le malva visco , respiré les parfums , mangé des fruits .Après quoi , traversant les parvis de la cathédrale , bien silencieuse et bien solennelle à cette heure , avec son dôme à perte de vue , projeté sur le transept ; passant sous le crocodile empaillé1 , suspendu , gueule ouverte , dans la grande ombre de la puerta del Lagarto ; nous avons pris notre chemin vers la Giralda , non sans donner un regard au roi saint Ferdinand , statue équestre hardiment campée sur le grillage de la capilla Major . |
+| source.excerpts.37.words.0 | parfums |
+| source.excerpts.37.words.1 | nous |
+| source.excerpts.37.words.2 | malva |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/6bcde56e-1a87-5745-a194-8525567264d2 |
+| source.excerpts.38.value | Quelque chose de moi restera sous ces couverts .Je me suis assise parmi les cistes aux corolles vermeilles , les sauges aux longs épis se sont balancées sur ma tête ; les volubilis aux coupes azulines m ' ont regardée avec leurs grands yeux bleus ; j ' ai respiré la senteur des orangers , ils m ' ont jeté leurs blanches averses ; ma main s ' est trempée aux courants , j ' ai entendu le ruissenor1 .— Hélas ! 1 . |
+| source.excerpts.38.words.0 | senteur |
+| source.excerpts.38.words.1 | orangers |
+| source.excerpts.38.words.2 | sauges |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/6c2d7a6b-99e3-527d-bd8e-39917951f55f |
+| source.excerpts.39.value | Qu ' elle gardait de mystère , la sala de Descanzo 1 .en ce beau soir tranquille ! Que ce vieil oranger planté Ipar les sanglantes mains de don Pèdre , réveillait de souvenirs ! Maria Padilla s ' est - elle assise à son ombre ? ce tronc noir et raboteux qui déchire le sol , a - t - il appuyé ses membres délicats ? a - t - elle respiré le parfum des roses ' l hruissenor modulait - il sa plainte en de mêmes accents ? la brise qui passe a - t - elle soulevé , d ' un souffle pareil , Iles boucles de ses cheveux ? s Ces lieux sinistres et doux , exercent une sorte de [ prestige .Nouveaux ! et pourtant il semble que nous [ les avons connus , que nous les avons aimés . |
+| source.excerpts.39.words.0 | parfum |
+| source.excerpts.39.words.1 | roses |
+| source.excerpts.39.words.2 | hruissenor |
+| source.excerpts.39.words.3 | ce beau soir tranquille |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/6fad53e2-0fe4-5915-a864-b9f471177f78 |
+| source.excerpts.40.value | Et cette autre inscription murmurera tout bas , près de vous , ces autres paroles arabes , dédiées à la belle Linda : — ( l Louez Dieu ! Le doigt de l ' artiste a délicatement brodé ma robe , après avoir orné mon diadème de joyaux ! » Plus haut , le tocador de la Reina , sorte de cage suspendue au milieu des airs , s ' entoure d ' une galerie à jour .Cette pierre du pavé , ouvragée comme une dentelle , laissait monter les parfums , quand on voulait respirer autre chose que les tièdes haleines accourues d ' Afrique , ou que " le souffle vif qui descend de lu Nevada .Un abîme de verdure s ' approfondit en dessous . |
+| source.excerpts.40.words.0 | Afrique |
+| source.excerpts.40.words.1 | parfums |
+| source.excerpts.40.words.2 | tièdes |
+| source.excerpts.40.words.3 | pierre du pavé |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/70b8a09d-207e-5666-90c7-ab61097daef6 |
+| source.excerpts.41.value | Je m ' en souviendrai longtemps de l ' écume vagabonde , des couplets du rossignol qui enchantaient ces abris , du calme qui les enveloppait , de ce nonchaloir , de cet apaisement sous les gratuités d ' un ciel dont l ' azur avait dépouillé son trop d ' éclat pour se faire plus doux , mieux rapproché de notre cœur .Si l ' on savait prendre son bien où il est ! Si l ' on savait retenir par leur robe étoilée , les chansons de la nuit , par leur aile scintillant de rosée , les cantiques du matin ! Si nous savions saisir ces choses fraîches , parfumées , lumineuses , bienfaisantes , que Dieu a libéralement jetées devant nos pas , nous disant : « Elles sont à toi ! » Mais on ne veut pas .On ferme les yeux ( j ' entends le gros des hommes ) , pour ne point voir les splendeurs du soleil à son lever ; on ferme les oreilles pour ne point écouter ( je dis durant des nuits entières ) ce que chuchote le vent sur la prairie , les accents qu ' il promène dans les forêts , ce concert des firmaments aux abîmes de j l ' éther ! En vain le chèvrefeuille exhale ses aromes le long du ruisseau , les prés se diaprent en vain de mar - guerites , de sauges , de coquelicots , et de bluets ; l ' air vif qu ' on respire à l ' aurore , les mélancoliques pensers du soir , ces contemplations silencieuses qui mettent l ' immensité dans notre âme , nous ne les comprenons plus . |
+| source.excerpts.41.words.0 | choses |
+| source.excerpts.41.words.1 | parfumées |
+| source.excerpts.41.words.2 | fraîches |
+| source.excerpts.41.words.3 | bienfaisantes |
+| source.excerpts.41.words.4 | lumineuses |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/70be123c-52b8-5f2d-b4df-7f32526ea9ac |
+| source.excerpts.42.value | Ni sombrero , n veste aux boutons d ' argent , ni ceinture écarlate ; on ne rencontre que des messieurs , plus ou moins étolfés , plus ou moins étriqués .La femme du peuple ne met pas de fleur dans ses cheveux , il faut renoncer à cette coiffure si fraîche et si parfumée des Andalouses ; elle jette sur sa tête un chàle de laine noire dont la ligne triviale et dure , serrée contre les joues , enlaidirait Vénus .Les senoras — on le prétend — portent la mantille . |
+| source.excerpts.42.words.0 | parfumée |
+| source.excerpts.42.words.1 | Andalouses |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/70e2fd73-2858-56f9-aa96-e4ba264c49e7 |
+| source.excerpts.43.value | Vous demeurez immobile .Qu ' est - ce donc ? La houri musulmane vous aurait - elle enlacé , vous aussi ? Resteriez - vous défaillant sous les caresses de son regard ? Le jet des colonnes par centaines ; les allées qui en traversent le fourré ; le jour clément et solennel pénètrent - ils votre âme d ' un recueillement sacré ? Avez - vous saisi là - bas , au bout des travées , ce battement d ' ailes , et ce vol des oiseaux voyageurs , et cette palpitation des branches , et ces gazouillements de l ' eau que vous envoient par toutes les nefs largement ouvertes , le ciel , les fontaines , la nature entière conviée à glorifier Allah ? Devinez - vous , dans la nuit des perspectives , suivez - vous , parmi les fûts légers , la robe des imans et leur turban pâle ? Avez - vous surpris le pas furtif des femmes , ployées dans leur blanc linceul ? Le murmure des récitateurs du Koran vient - il bercer votre oreille ? entendezvous la mystérieuse mélopée des croyants prosternés , leur visage tourné vers l ' Orient ? Quelque haleine chargée du parfum des orangers fait - elle lentement balancer les œufs d ' autruche , avec leur longue houppe en fils purpurins ? Sentez - vous les chaudes clartés qui s ' échappent des marbres précieux ? Vos regards baignentils dans ces couleurs limpides que les mosaïques , les azuleyos , les entrelacs peints d ' outremer , de pourpre , d ' ambre , d ' améthyste et d ' or , soudain rencontrés du soleil , jettent sur le sol ou bien laissent suspendues en échelle de paradis ? Comprenez - vous l ' ineffable poésie de cette création de Dieu , tout à coup mêlée aux élans de la pensée humaine ? Admirez - vous quelle splendeur accompagne ce soleil , qui entre librement , comme un maître et comme un roi , dans la maison du Dieu dont la main joncha de soleils le firmament , ainsi que le laboureur sème de froment une jachère ? La grâce touchante de ce clapotement des ruisseaux , le doux mystère du babil des hirondelles , la suavité de ces aromatiques bouffées , toute cette vie émue , sereine , qui rayonne de bonheur et qui donne la paix , vous a - t - elle saisi ? Alors que faut - il penser , dites - moi , du monarque très chrétien , saint Ferdinand , fils bien - aimé de l ' Église , qui mura les arceaux , qui ferma les travées , qui bannit l ' air , le jour , les chansons .le ciel : plâtrant les murs . |
+| source.excerpts.43.words.0 | marbres |
+| source.excerpts.43.words.1 | parfum |
+| source.excerpts.43.words.2 | chargée |
+| source.excerpts.43.words.3 | orangers |
+| source.excerpts.43.words.4 | fontaines |
+| source.excerpts.43.words.5 | œufs d |
+| source.excerpts.43.words.6 | fils purpurins |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/73bf8b6a-8130-5660-b5d8-bb2dda35cb1a |
+| source.excerpts.44.value | Mas dulce que almibar 1 ! crient les vendeurs d ' oranges .Remarquez - vous ce mot arabe : almibar ! Pour moi , l ' entendre ici , dans la belle Séville , me donne un de ces tressaillements que provoquent je ne sais quels riens : souflle , arôme , frôlement d ' ailes , et c ' est la poésie du voyage , et c ' en est l ' enchantement .Une émotion cependant , vient de se produire là - bas . |
+| source.excerpts.44.words.0 | arôme |
+| source.excerpts.44.words.1 | souflle |
+| source.excerpts.44.words.2 | belle Séville |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/75d28763-67dd-5088-be3a-05a35237d22a |
+| source.excerpts.45.value | Si l ' on savait prendre son bien où il est ! Si l ' on savait retenir par leur robe étoilée , les chansons de la nuit , par leur aile scintillant de rosée , les cantiques du matin ! Si nous savions saisir ces choses fraîches , parfumées , lumineuses , bienfaisantes , que Dieu a libéralement jetées devant nos pas , nous disant : « Elles sont à toi ! » Mais on ne veut pas .On ferme les yeux ( j ' entends le gros des hommes ) , pour ne point voir les splendeurs du soleil à son lever ; on ferme les oreilles pour ne point écouter ( je dis durant des nuits entières ) ce que chuchote le vent sur la prairie , les accents qu ' il promène dans les forêts , ce concert des firmaments aux abîmes de j l ' éther ! En vain le chèvrefeuille exhale ses aromes le long du ruisseau , les prés se diaprent en vain de mar - guerites , de sauges , de coquelicots , et de bluets ; l ' air vif qu ' on respire à l ' aurore , les mélancoliques pensers du soir , ces contemplations silencieuses qui mettent l ' immensité dans notre âme , nous ne les comprenons plus .Cela nous embarrasserait , cela nous ennuierait . |
+| source.excerpts.45.words.0 | exhale |
+| source.excerpts.45.words.1 | ses |
+| source.excerpts.45.words.2 | chèvrefeuille |
+| source.excerpts.45.words.3 | aromes |
+| source.excerpts.45.words.4 | des nuits entières |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/76fba19c-bf30-5b0d-a58b-70f20fbb8613 |
+| source.excerpts.46.value | » Tel est le Credo du brave homme .Tout le jour nous serions restés dans cette ombre , dans cette fraîcheur ; tout le jour nous aurions respiré l ' arôme des beaux fruits qui éclairaient le bois .On les cueillait , on les entassait ; à travers le fourré , des rires répondaient aux rondenas ; chacun des couverts avait son groupe joyeux : filles , femmes aux vestes éclatantes , et les petits enfants ramageaient , et les oiseaux chantaient . |
+| source.excerpts.46.words.0 | nous |
+| source.excerpts.46.words.1 | arôme |
+| source.excerpts.46.words.2 | tout le jour |
+| source.excerpts.46.words.3 | Tout le jour |
+| source.excerpts.46.words.4 | beaux fruits |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/79ece13f-11c6-57e9-a986-27992587fbed |
+| source.excerpts.47.value | Les jolousies soigneusement closes semblent inviter aux sérénades .Dès que s ' enlre - bâille quelque porte massive , le patio , ce jardin des génies de l ' Orient , mystère de parfums et de grâce , nous laisse apercevoir les jets du rosier , la tentilre des clématites , le couvert des bananiers aux larges feuilles , et les cordons odorants du myrte qui va nouer ses arcs en un diadème capricieux , d ' où tombent des obscurités pleines de caresses et pleines de langueur .L ' azulejo , faïence arabe d ' un ton chaud et doux , sert de repoussoir aux emportements de cette végétation . |
+| source.excerpts.47.words.0 | odorants |
+| source.excerpts.47.words.1 | clématites |
+| source.excerpts.47.words.2 | rosier |
+| source.excerpts.47.words.3 | jardin |
+| source.excerpts.47.words.4 | patio |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/7b6c6904-7f13-5b7c-9164-ed7e71c01b1c |
+| source.excerpts.48.value | Avez - vous vu la fleur idéale , celle des fées , le grand ciste blanc , au flot d ' étamines plus brillants que l ' or , aux pétales si purs et si frêles qu ' une haleine , semble - t - il , en ternirait la candeur ? Quelque nymphe qui se jouait dans le maquis les a touchés du bout de ses doigts , elle y a mis sa fantasque empreinte : une tache noire , dont le velours se peint de reflets pourprés .Voici le sommet ! Les mains un peu malmenées , les habits ça et là déchirés , le front moite et la poitrine haletante , nous nous sommes laissé choir , tout de notre long , sur le gazon odorant .Bien bas à nos pieds , le pin monumental , el pino gordo , celui qu ' on voit de Cordoue marquer la cime , promène sur le tapis des cistes son ombre qui frissonne . |
+| source.excerpts.48.words.0 | odorant |
+| source.excerpts.48.words.1 | haletante |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/7ddaf9dc-214e-5cc4-80bb-9963f206a554 |
+| source.excerpts.49.value | Le soir descendait , la fraîcheur montait , on respirait les limpidités du flot .Chaque paysanne qui chevauchait derrière son cabellero , balançant sa jolie tête ornée de fleurs , laissait après elle un parfum de roses et d ' orangers : il ne nous en fallait pas plus .Mais autre chose a passé . |
+| source.excerpts.49.words.0 | parfum |
+| source.excerpts.49.words.1 | roses |
+| source.excerpts.49.words.2 | tête |
+| source.excerpts.49.words.3 | orangers |
+| source.excerpts.49.words.4 | paysanne |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/7fbdec63-c03a-5cf3-8c2b-1b9755c5619d |
+| source.excerpts.50.value | Des siècles ont passé sur leur tête ; et cette tête plus jeune , plus fraîche , plus virginale qu ' il y a cinq cents ans , disparaît sous une tenture de boutons à peine éclos .Par - dessus la voûte embaumée , des palmiers balancent leur panache .La Puerta ciel Pardon , rigide , massive , découpe en plein mur son fer à cheval évidé . |
+| source.excerpts.50.words.0 | embaumée |
+| source.excerpts.50.words.1 | palmiers |
+| source.excerpts.50.words.2 | voûte |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/7fbed702-e68b-5137-bf0a-f66692b44a14 |
+| source.excerpts.51.value | Les plafonds voûtés ont gardé ces belles mosaïques en bois précieux dont les revêtirent les kalifes africains .Ces portes basses , qu ' ils aimaient à dissimuler dans les angles ; le jet d ' eau qui rafraîchissait la salle aux festins ; les odorantes averses qui tombaient du dôme ; ces liquides fusées qui jaillissaient entre les dalles de marbre ; ces mille poésies de la vie arabe , notre gros pâté de maçonnerie les recèle dans ses flancs .Il vous fera voir encore sa monumentale cuisine : vraie cuisine de Gargantua ; et , sous les cheminées , ( gigantesques voùtes terminées en fuseau ) , l ' âtre où l ' on mettait les bœufs à la broche . |
+| source.excerpts.51.words.0 | odorantes |
+| source.excerpts.51.words.1 | dôme |
+| source.excerpts.51.words.2 | salle aux festins |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/802fb7f0-668e-52e2-98d1-8759e8408a6f |
+| source.excerpts.52.value | Les solennités glacées qui planaient sur le visage de Philippe II , recouvrent encore son empire .Un ennui pareil aux soporifiques effluves qu ' exhalait la cour de Madrid , monte des jachères , déroule jusqu ' au bout des cieux sa pesante ampleur , et nous laisse figés ! D ' autres ont senti de tels frissons .Je n ' ai rien éprouvé de pareil . |
+| source.excerpts.52.words.0 | nous |
+| source.excerpts.52.words.1 | effluves |
+| source.excerpts.52.words.2 | exhalait |
+| source.excerpts.52.words.3 | soporifiques |
+| source.excerpts.52.words.4 | cour de Madrid |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/87a1f120-bbe6-5bcc-9009-a6c4c85ab8dc |
+| source.excerpts.53.value | Il nous semble que son âme erre encore sous ces ombrages , aux lieux qu ' elle aimait .Il nous semble , lorsque la brise nous apporte quelque fugitive senteur , ressaisir un parfum émané d ' elle .Le site est secret , il a ce calme recueilli des amours innocentes et tristes . |
+| source.excerpts.53.words.0 | parfum |
+| source.excerpts.53.words.1 | senteur |
+| source.excerpts.53.words.2 | fugitive |
+| source.excerpts.53.words.3 | brise |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/87fb96fd-a9ac-502d-9845-e5fdd2279133 |
+| source.excerpts.54.value | D ' épais favoris , crépus , seule barbe que porte l ' Andalous , élargissent le masque solide ; la lèvre inférieure , légèrement proéminente , donne à Yhombre3 je ne sais quoi de hautain ; un fort menton , une mâchoire prononcée , des proportions qui restent un peu massives sous la beauté , nous remettent en mémoire le sang visigoth , tandis que ces gros bourgs , campés avec leur tour puissante sur chaque sommet , réveillent chez nous des idées de sombre vigueur et d ' autorité pesante , encore plus que d ' élégance moresque ou de poétique royauté .Pourtant les campinas 4 aux jupes fleuries , mouchoir bariolé sur les chéveux , rose à la bouche , les yeux pleins de lumière , l ' étincelle aux lèvres , tendent vers nous leurs corbeilles de fruits : sentez - vous le parfum des oranges ? Les huttes des cantonniers s ' abritent sous un toit de cactus .Au - dessus des haies d ' aloès , quelque 1 . |
+| source.excerpts.54.words.0 | parfum |
+| source.excerpts.54.words.1 | oranges |
+| source.excerpts.54.words.2 | corbeilles |
+| source.excerpts.54.words.3 | campinas |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/8c06fb5e-f36e-5f3a-bb82-4cd737a4b495 |
+| source.excerpts.55.value | fcuulés , d ' aériennes dentelles , mille fantaisies pour consoler nos yeux .Voyez plutôt ces tours , lourdement assises parmi les arêtes au fil ténu ; regardez ce tourillon à la fine spirale ; suivez - le quand il monte , quand il s ' aiguise , quand son dard va percer les cieux ! Avez - vous franchi la Puerta del Pardon ? Son double fer à cheval a - t - il enveloppé d ' une ligne idéale les orangers en fleurs ? En respirez - vous l ' arôme , au milieu de ce patio solitaire , printanier , loin du bruit ? Vous redirai - je les magies du clair - obscur , les lueurs indécises , la grande tache noire qui tombe de l ' arc prolongé , l ' ombre toute blonde sous les jeunes rameaux , l ' éclat de la lumière sur le vernis des feuilles ? et sentez - vous l ' impression du silence , l ' Orient vous a - t - il ressaisi ? Une fontaine achève l ' aspect ; de vasque en vasque , le jet s ' épand .Quelques aguadores , baril sur l ' épaule , viennent chacun muni d ' un siphon , pomper avec leurs lèvres , l ' eau des bassins supérieurs . |
+| source.excerpts.55.words.0 | arôme |
+| source.excerpts.55.words.1 | patio |
+| source.excerpts.55.words.2 | Puerta del Pardon |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/8d6c728e-083a-560f-8ae8-d11fe604423c |
+| source.excerpts.56.value | Les cèdres immenses , projetés dans leur ampleur séculaire , étendent sur la fontaine leur puissante verdure , qui lui font un couvert plein d ' ombre et plein de paix .Un grand figuier y mêle ses feuilles odorantes ; des lierres se suspendent au rocher ; l ' eau coule taciturne .Pas un murmure ne rompt le silence , pas une mouche ne vient mettre au soleil le chatoiement de son corselet ou le bruissement de ses ailes ; la ramée des cèdres reste immobile , à peine une aiguille vibre - t - elle ça et là ; les feuilles s ' abattent jusqu ' au sol , comme pour fermer le sanctuaire ; les troncs rougeâtres se détachent sur cette nuit verte ; et sur cette pierre , près de la source , une longue trace sanglante marque l ' endroit où , transpercée , Inès s ' affaissa . |
+| source.excerpts.56.words.0 | odorantes |
+| source.excerpts.56.words.1 | feuilles |
+| source.excerpts.56.words.2 | figuier |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/931a80d6-03ba-5d0e-91ad-544ef890b86c |
+| source.excerpts.57.value | Il y a des grappes de mimosas qui mesurent plus d ' un mètre .L ' alamanda nerifolia — il faut bien qu ' en face de cette glorieuse université , je vous décoche quelques noms latins — se couvre de longs tubes jaunes et parfumés ; le Coleus blumei , jette au hasard son feuillage brun , dentelé , que borde un liséré vert : cet autre arbuste , balance un panache pourpre au bout de chacun de ses rameaux nus .Êtes - vous plus avancé ? Non ? Alors je vous fais grâce des serres . |
+| source.excerpts.57.words.0 | parfumés |
+| source.excerpts.57.words.1 | Coleus |
+| source.excerpts.57.words.2 | alamanda nerifolia |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/93c9778a-fd87-52e2-8197-efe240b185b1 |
+| source.excerpts.58.value | La plaine s ' est noyée sous les fleurs ; grenadiers , vignes , figuiers , les berges du chemin , la prairie , les jachères , tout s ' épanouit , tout foisonne .Voici devant nous un couvert d ' arbres immenses ; le vent qui a passé sur eux m ' apporte une pluie de pétales odorants : j ' ai revu les orangers ' Et là - bas , ces blancs donjons , ces palmiers , ces murailles blanches , c ' est Cordoue .la gemme des sultans . |
+| source.excerpts.58.words.0 | Cordoue |
+| source.excerpts.58.words.1 | odorants |
+| source.excerpts.58.words.2 | pétales |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/942138ad-f26d-5534-9da6-055a3a81f9c5 |
+| source.excerpts.59.value | Comme partout , un jet d ' eau parle de fraîcheur .« Contemple - moi ! dit la sentence arabe : tu en apprendras plus que si tu étudiais un commentaire sur l ' art décoratif ! » Et quand vous aurez admiré l ' ineffable blancheur de ces colonnes , à qui les rayons du matin prêtent un éclat laiteux ; quand vos yeux auront interrogé le mystère de ces lattes entrecroisées , qui ferment encore les tribunes où se blottissaient les femmes ; lorsqu ' ils se se - font arrêtés sur la niche aux pantoufles , ce bijou qui semble sortir des mains d ' un orfèvre ; vous irez chercher le boudoir de la Sultane , mirador penché sur le jardin de Linderaja ; vous contemplerez son dôme de bois dentelé à travers lequel on voit les cieux ; vous vous accouderez aux balustres de marbre ; vous aspirerez l ' arôme des orangers en fleurs .Et cette autre inscription murmurera tout bas , près de vous , ces autres paroles arabes , dédiées à la belle Linda : — ( l Louez Dieu ! Le doigt de l ' artiste a délicatement brodé ma robe , après avoir orné mon diadème de joyaux ! » Plus haut , le tocador de la Reina , sorte de cage suspendue au milieu des airs , s ' entoure d ' une galerie à jour . |
+| source.excerpts.59.words.0 | orangers |
+| source.excerpts.59.words.1 | arôme |
+| source.excerpts.59.words.2 | boudoir |
+| source.excerpts.59.words.3 | Sultane |
+| source.excerpts.59.words.4 | jardin de Linderaja |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/970997db-7969-5979-b580-c7150de5c407 |
+| source.excerpts.60.value | Les vignes sortent d ' un terrain caillouteux .Rares et chauffés du soleil , leurs fruits gardent le parfum do la lande : le vin de Peûo réjouit encore le cœur des Espagnols .2 . |
+| source.excerpts.60.words.0 | parfum |
+| source.excerpts.60.words.1 | lande |
+| source.excerpts.60.words.2 | leurs fruits |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/9b3c108b-844f-5244-be90-aaeec211be8f |
+| source.excerpts.61.value | Puis , l ' on s ' enfonce en quelqu ' un de ces sentiers tout enchevêtrés de lianes , enfouis entre deux haies de cactus .Le soir est venu , des parfums imprègnent l ' air , le rossignol chante , des perspectives immenses se prolongent vers le sud .Nos femmes , accroupies sur les tombes d ' un cimetière , semblent des figures de MichelAnge , enveloppées du voile de marbre , pleurant dans ces tragiques attitudes que rencontre la douleur . |
+| source.excerpts.61.words.0 | air |
+| source.excerpts.61.words.1 | parfums |
+| source.excerpts.61.words.2 | Le soir est venu |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/9be77cba-b91f-5c6f-a0ee-09161d6a507f |
+| source.excerpts.62.value | Un petit garçon .traînes des liserons ; l ' œillet sauvage que leur sabot a froissé répand une suave odeur , le coquelicot agite sa coupe écarlate ; et c ' est ici , dans ces despoblados 1 tout fleuris , tout parfumés , que se livra , par un jour pareil , entre Maures et chrétiens , la fameuse bataille de las Navas de Tolosa2 .Des milliers d ' Arabes y périrent ; plus d ' un chevalier catholique y mordit la poussière ; car les mécréants se battaient bien . |
+| source.excerpts.62.words.0 | suave |
+| source.excerpts.62.words.1 | odeur |
+| source.excerpts.62.words.2 | parfumés |
+| source.excerpts.62.words.3 | liserons |
+| source.excerpts.62.words.4 | œillet sauvage |
+| source.excerpts.62.words.5 | despoblados |
+| source.excerpts.62.words.6 | de las Navas de |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/9beb42c1-ece2-5f37-881b-670637da6c11 |
+| source.excerpts.63.value | La vieille Isis , la berceuse antique , nous a repris dans ses bras .Murmures des bosquets , hymnes des fleuves , ombre diaphane des nuées , tout fait de nous des dormeurs païens ; les arômes de la terre en fleur nous enivrent ; les fatalités historiques nous tranquillisent ; les sérénités olympiennes sont redescendues sur nos fronts ; l ' ambroisie s ' est approchée de nos lèvres ; nos songes ont escaladé le ciel ; que vient - on nous parler de Dieu ? — Dieu ! c ' est nous qui le sommes ! Pour moi , j ' ai grand ' peur que nous ne soyons morts .Où vais - je ? . |
+| source.excerpts.63.words.0 | terre |
+| source.excerpts.63.words.1 | ambroisie |
+| source.excerpts.63.words.2 | arômes |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/a0e2098b-79b5-596c-bed7-3cff314e8b1b |
+| source.excerpts.64.value | L ' orgue soutient les voix .Celles - ci , d ' abord hésitantes , s ' affirment , se prolongent au travers de la forêt vibrante , et l ' on croirait entendre les pleurs des Maures , alors qu ' ils lamentaient leur belle Cordoue , leur Zeca ravagée , leur Espagne aux doux parfums .Bientôt , des récitations ont pris la place du Miserere . |
+| source.excerpts.64.words.0 | Espagne |
+| source.excerpts.64.words.1 | Cordoue |
+| source.excerpts.64.words.2 | doux |
+| source.excerpts.64.words.3 | parfums |
+| source.excerpts.64.words.4 | Zeca |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/a3eba711-e6fa-53e3-b8d3-6e4c8fd977e7 |
+| source.excerpts.65.value | Parmi la foule des matelots , les jolies filles d ' Oporto promenaient leur taille souple , leurs traits fins , leurs yeux noirs .On respirait l ' effluve des orangers .Chaque palais , chaque masure , chacune de ces calles , jetée au rocher dans son audace et dans ses bigarrures , nous envoyait un sourire . |
+| source.excerpts.65.words.0 | orangers |
+| source.excerpts.65.words.1 | effluve |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/ae764c12-6a10-5b0a-bb3d-2c2b887a67e9 |
+| source.excerpts.66.value | Non , je ne rêve point .Une brise tiède m ' arrive par les fenêtres ouvertes ; la fraîcheur niatinière , tout imprégnée de l ' arôme des orangers , a caressé mon front ; notre hôtel , quelque ancien palais des Maures , exhausse au - dessus de ma tête ses plafonds rayés de poutrelles ; son parvis étend sous nos pas les nattes andalouses ; sur les galeries à jour , combles de fleurs , le ciel a mis des profondeurs bleues ; notre premier mot s ' échappe en un cri d ' adoration : « Dieu est grand ! » — Mais nous n ' ajoutons pas : « Mahomet est son prophète ! » La belle matinée pour courir .! Un reste d ' ombre emplit les rues . |
+| source.excerpts.66.words.0 | orangers |
+| source.excerpts.66.words.1 | arôme |
+| source.excerpts.66.words.2 | hôtel |
+| source.excerpts.66.words.3 | parvis |
+| source.excerpts.66.words.4 | palais des Maures |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/b526070e-d914-5d40-8483-ce626e2de04e |
+| source.excerpts.67.value | Il vous fera voir encore sa monumentale cuisine : vraie cuisine de Gargantua ; et , sous les cheminées , ( gigantesques voùtes terminées en fuseau ) , l ' âtre où l ' on mettait les bœufs à la broche .Quand on a bien fait sonner sous ses pas le parvis des salles désertes , quand le froid de la mort a bien saisi le cœur , on sort par ce vaste portail , on va retrouver les tièdes effluves : on erre aux sentiers qu ' ombragent les déodoras , on frôle ces murailles vêtues du velours des mousses , on va dans la quinta du Marquis dp , Loulé , contempler Mafra , dont le blanc monastère s ' accroche aux versants lointains , on s ' égare parmi les bosquets du Marquis de Pombal ! Un grand nom répond à l ' autre ; c ' est Saldana , c ' est Montserrat , c ' est 0 Marquez de Monte - Cristo , un Brésilien , avec son castcl more , ses vasques d ' eau jaillissantes , son colossal Araucaria , ses cèdres de Virginie , les splendides fleurons de ses plantes grasses , épanouies dans les rochers .Et toujours nous le verrons , ce palais de la Pena , porté sur son piton , embrassé des verdures qui montent à l ' assaut , marqué d ' un trait sur , enlevé d ' une grâce exquise , tandis que les vapeurs promenées par quelque souffle venu de l ' Océan le voilent à demi , le découvrent à moitié , s ' entortillent à ses tourelles comme le voile d ' une captive ou l ' écharpc d ' un cavalier sarrasin ; puis , tout a coup déchirées , le laissent resplendir dans son ineffable beauté . |
+| source.excerpts.67.words.0 | tièdes |
+| source.excerpts.67.words.1 | effluves |
+| source.excerpts.67.words.2 | salles |
+| source.excerpts.67.words.3 | Montserrat |
+| source.excerpts.67.words.4 | déodoras |
+| source.excerpts.67.words.5 | Saldana |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/b7ba0e77-eb53-5537-ace9-af56ed4037db |
+| source.excerpts.68.value | Leur teint mat , plus pâle que l ' ivoire , leurs grands yeux caressants et rieurs , les palpitations intermittentes de l ' éventail , ce nonchaloir plein de grâce et de séduction répand des effluves de beauté , si bien qu ' on se croirait transporté dans cette atmosphère des musées , toute réchauffée de l ' inspiration des maîtres et tout imprégnée des harmonies de la couleur .Les corbeilles de roses mettent là dedans leurs parfums ; une bouffée de vent , qui a passé sur les jardins , apporte l ' arôme des orangers ; des toiles tendues très haut , comme dans les bazars levantins , nous donnent des visions d ' Orient ; ces troupes , fusil sous le bras , crosse retournée , qui reviennent de la procession , nous ramènent en Espagne ; cette gitana , son enfant jeté sur le dos , qui court d ' un pas élastique , d ' un geste rapide nous montre les lignes de sa main , sourit à notre refus , et , prompte comme la panthère , saisit le réal qu ' on lui présente ; ces boutiques où l ' aguador débite la limonade et l ' eau glacée ; ces patios en marbre , plus splendides , moins agrestes que ceux de Cordoue , mais où l ' oranger va s ' arrondir à trente pieds du sol , où le bananier étale son parasol d ' un vert bleu , que défen - , dent les portes en bois rare constellées de clous sarrasins ; tout nous parle de Séville la belle , de la capitale des Yusuf , des Yakoub , des temps héroïques ; rien ne nous rappelle que cette radieuse et que cette séduisante , épanouie sous les embrasements du soleil , doucement bercée au murmure des fontaines , s ' éclairait jadis de feux plus sombres , et que les gémissements mêlés aux prières qui montaient de ses bûchers , lui servaient de sérénades et de chansons .1 . |
+| source.excerpts.68.words.0 | Espagne |
+| source.excerpts.68.words.1 | roses |
+| source.excerpts.68.words.2 | leurs |
+| source.excerpts.68.words.3 | parfums |
+| source.excerpts.68.words.4 | orangers |
+| source.excerpts.68.words.5 | jardins |
+| source.excerpts.68.words.6 | corbeilles |
+| source.excerpts.68.words.7 | arôme |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/b9b73fb4-7e92-5cd9-9608-ae4ed9d4e1e8 |
+| source.excerpts.69.value | Oui , nous marchions ainsi .L ' aubépine arrondissait devant nous ses buissons argentés ; un jasmin jaune , aux senteurs exquises , tapissait les murs de quelque vieux clos ; il y avait des chèvrefeuilles enroulés aux branches des chênes ; le long des ruisseaux , l ' arum ouvrait son cornet brun ; des troupeaux de chèvres s ' égrenaient sur les versants , l ' on eût dit un collier de perles défilées .Et la flore , à mesure que nous gravissons , se fait plus sauvage . |
+| source.excerpts.69.words.0 | jasmin |
+| source.excerpts.69.words.1 | senteurs |
+| source.excerpts.69.words.2 | exquises |
+| source.excerpts.69.words.3 | aubépine |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/bad96046-d014-5606-a24f-0013d00b80bc |
+| source.excerpts.70.value | Et , tandis que Manuele chante ainsi .les souffles qui passent nous apportent des odeurs sauvages , les étoiles vibrent , le cheval aux capachos a pris les proportions d ' un dromadaire , le mozo semble un géant , des silhouettes insensées bondissent autour de nous .Parfois , Manuele détourne brusquement notre coche pour le porter sur la droite ou sur la gauche . |
+| source.excerpts.70.words.0 | odeurs |
+| source.excerpts.70.words.1 | sauvages |
+| source.excerpts.70.words.2 | souffles |
+| source.excerpts.70.words.3 | étoiles |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/c232535f-e8d1-599f-9cb2-22e50a07fdd3 |
+| source.excerpts.71.value | Hélas ! ils sont partout .La terre espagnole n ' exhale pas seule cette odeur de carnage ; les buées écarlates montent sous tous les cieux .— Mon ami , ne nous enflons point . |
+| source.excerpts.71.words.0 | odeur |
+| source.excerpts.71.words.1 | buées écarlates |
+| source.excerpts.71.words.2 | terre espagnole |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/ca45bb19-a627-5d4d-bec1-b6ef61111feb |
+| source.excerpts.72.value | Le fleuve , qui seul est resté vivant , promène dans les prés , jette à travers les collines sa large trace où se sont oubliées quelques clartés .Puis , cela même s ' atténue ; le convoi glisse dans les ténèbres ; mais l ' air a d ' ineffables tiédeurs , des bouffées odorantes nous caressent , et les lucioles , diamants des nuits brésiliennes , volent à travers l ' emportement du convoi .Les voilà parsemées sur nos vêtements ! dans chaque buisson , sur le fond noir des berges , l ' étincelle paraît , disparaît , jette la phosphorescence de son éclair . |
+| source.excerpts.72.words.0 | air |
+| source.excerpts.72.words.1 | nous |
+| source.excerpts.72.words.2 | odorantes |
+| source.excerpts.72.words.3 | ineffables |
+| source.excerpts.72.words.4 | bouffées odorantes |
+| source.excerpts.72.words.5 | tiédeurs |
+| source.excerpts.72.words.6 | diamants des nuits |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/caff89f3-4ea0-58ea-ab00-2f6b0756077c |
+| source.excerpts.73.value | Dans les habitations plus humbles , une salle basse réunit sous son jour timide les jeunes filles qui travaillent , groupées en cercle , les doigts agiles , l ' œil vif ; et , parmi leurs tresses , s ' épanouit quelque bouton de rose ou l ' étoile blanche des grands jasmins .Partout avril promène l ' arôme des orangers en fleur .Prenez - en votre parti , vous n ' y échapperez pas plus que nous , qui en respirons les suavités . |
+| source.excerpts.73.words.0 | orangers |
+| source.excerpts.73.words.1 | arôme |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/ce8c962e-2107-5e0a-a60a-8b3f7b07d46f |
+| source.excerpts.74.value | Ainsi que Prométhée sur son rocher , le destin l ' a clouée aux siècles morts .La pestilence de ces cadavres aura vite fait de l ' achever .Tant pis pour elle . |
+| source.excerpts.74.words.0 | ces cadavres |
+| source.excerpts.74.words.1 | pestilence |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/cfec9089-1f5b-5daf-8b87-10dbae968465 |
+| source.excerpts.75.value | Au mur , se suspend l ' image de la Virgen .Un bouquet de fleurs , une branche d ' oranger parfument le réduit .Il me semble voir réalisée , cette poétique histoire des nids tout pavés de pierres brillantes , tout chamarrés de coquillages , tout constellés de brins de corail , bâtis par je ne sais plus quels oiseaux des tropiques , pour y abriter leurs amours . |
+| source.excerpts.75.words.0 | branche |
+| source.excerpts.75.words.1 | parfument |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/d4716dec-4d7c-5764-9a7a-82a572683641 |
+| source.excerpts.76.value | Ce matin , nos yeux qui ne se sont pas fermés , n ' ont pas la peine de s ' ouvrir .Ah ! ce n ' est plus notre Cordoue champêtre , aux longues files de mules qui rentraient le soir sous leur fourrage odorant .Les clochettes ne promènent point ici de chansons agrestes . |
+| source.excerpts.76.words.0 | Cordoue |
+| source.excerpts.76.words.1 | odorant |
+| source.excerpts.76.words.2 | le soir |
+| source.excerpts.76.words.3 | fourrage |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/d6cbd340-30c3-5d71-881b-ac5e56259493 |
+| source.excerpts.77.value | Puis , l ' étendue recommence à déployer sa robe diaprée .Chaque bouffée de vent moire les genêts , froisse les chamérops , nous apporte l ' odeur des lavandes ; le soleil glisse en rayons d ' argent sur la feuille des agavés ; les champs de renoncules semblent un drap d ' or jeté sur le désert .Nous avons retrouvé nos costumes andalous : la montera , le sombrero , la rouge ceinture , les passepoils écarlates , les cantaras au bras des femmes , et ce cri des pays embrasés : Aguà aguà freca ! Quien quiere aguâ1 ! Les vagons , cependant , courent au nord . |
+| source.excerpts.77.words.0 | odeur |
+| source.excerpts.77.words.1 | lavandes |
+| source.excerpts.77.words.2 | genêts |
+| source.excerpts.77.words.3 | chamérops |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/dde273bc-03d6-521e-9ce2-cf6c7b98881c |
+| source.excerpts.78.value | Il s ' agit de parfums ; c ' est peu de chose ; d ' ailleurs Micaël n ' en vend pas , de sorte qu ' il laisse flotter la bride , et même nous sert de trucheman .— Quels aromates vous faut - il ? — Voyons , ce n ' est pas facile à dire : il nous faut les romes d ' Afrique , tels qu ' ils s ' exhalent des forêts de limosas , tels que les remue de son aile l ' oiseau qui î balance sur les caféiers en fleurs ; tels que la reine e Shéba .Bref , nous ne savons pas ce que nous oulons . |
+| source.excerpts.78.words.0 | ils |
+| source.excerpts.78.words.1 | aromates |
+| source.excerpts.78.words.2 | exhalent |
+| source.excerpts.78.words.3 | forêts de limosas |
+| source.excerpts.78.words.4 | romes |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/de5a9609-43dc-5f83-b95b-85a5d5f1afbb |
+| source.excerpts.79.value | C ' est un Andalous aux passions ardentes , joyeux , bien portant , et qui sait ce qu ' il veut .Quand nous abaissons la glace , des parfums sauvages entrent par bouffées avec les fraîcheurs du matin .De petits ruisseaux laissés par l ' hiver et que l ' été boira , luisent à l ' aventure . |
+| source.excerpts.79.words.0 | parfums |
+| source.excerpts.79.words.1 | sauvages |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/df8329e2-99dc-5e4d-8225-6984e6458a04 |
+| source.excerpts.80.value | Nous avons longtemps devisé avec notre hôtesse , un cordon bleu , naguère cuisinière du gouverneur de Gibraltar .Nous avons respiré l ' arôme des basilics , des lavandes et des menthes qui foisonnent autour du puits .Nous savons par cœur les images dont s ' ornent les murs : la Virgen , en costume de cour ; les quatre parties du monde , qui , du fond des vallées de notre Jura jusqu ' aux colonnes d ' Hercule , étalent leurs plumes d ' autruche , leur collier de perles , leur diadème de cacique , leurs grâces minaudières et leur toileltc premier Empire . |
+| source.excerpts.80.words.0 | Nous |
+| source.excerpts.80.words.1 | lavandes |
+| source.excerpts.80.words.2 | arôme |
+| source.excerpts.80.words.3 | menthes |
+| source.excerpts.80.words.4 | basilics |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/e06a2c0a-942d-5129-aba1-0d7c1cbf8b11 |
+| source.excerpts.81.value | Almanzor le retient .Les parfums se répandent , les belles esclaves se mettent à danser .Sur un signe du roi , on apporte une coupe . |
+| source.excerpts.81.words.0 | parfums |
+| source.excerpts.81.words.1 | répandent |
+| source.excerpts.81.words.2 | mettent à danser |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/e3199a9d-f3d1-56c5-9273-08ae043277c7 |
+| source.excerpts.82.value | Les pieds de nos bêtes , froissant quelque herbe aromatique , en faisaient monter des saveurs qu ' en un autre temps , sur une autre terre , nous avions respirées .alors que par les vastitudes où se dresse le Sinaï , nous allions seuls , laissant derrière nous la caravane , et que nos chameaux arrachaient et broyaient les plantes de bonne odeur .San - Pedro d ' Alcantara , le pueblo qu ' a fondé le génél ' al Conchès , assied église et château sur cette colline , au milieu des cannes à sucre . |
+| source.excerpts.82.words.0 | bonne |
+| source.excerpts.82.words.1 | odeur |
+| source.excerpts.82.words.2 | plantes |
+| source.excerpts.82.words.3 | nous |
+| source.excerpts.82.words.4 | le Sinaï |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/e72240ac-3b63-5dc1-9464-9ffb376a1ff6 |
+| source.excerpts.83.value | Dieu merci ! des collines mettent là - haut leurs verdoyants festons ; des arbres immenses en couronnent les crêtes ; au milieu de tant de proses et de régularités , cette explosion de la nature fait du bien .Si vous entrez dans le Paseo public , vous verrez les bignonias en fleurs accrocher leur chevelure au faîte des déodoras ; vous y verrez , dans sa colossale ampleur , l ' Araucaria exelsa , plateaux sur plateaux , traversés du fût mince et fort qui les Soutient , jusqu ' au point où la pyramide perce le ciel de son dard .L ' Espagnol ne s ' abandonne jamais , le Portugais semble ne s ' être jamais possédé ; l ' Espagnol se révère , le Portugais semble s ' oublier ; l ' Espagnol soigne tout ce qui l ' approche , sa personne avant tout ; le Portugais semble négliger tout ce qui l ' avoisinc , sa personne plus que tout ; l ' Espagnol met de la décision dans ses moindres mouvements , le Portugais semble livrer à l ' aventure sa démarche , son port , et jusqu ' à sa volonté . |
+| source.excerpts.83.words.0 | déodoras |
+| source.excerpts.83.words.1 | bignonias |
+| source.excerpts.83.words.2 | le Paseo public |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/e98c3e4d-9414-5aef-8bcd-063a9562d73e |
+| source.excerpts.84.value | Il chante pour lui , pour Dieu , pour ses amours ; il raconte l ' émouvante beauté de ces retraites ; il emplit l ' étendue des splendeurs de sa voix .Que nous en avons guéé , de ces nos enchantés ! Que de fraîcheur leurs oasis nous ont versée ! Que nous nous sommes attardés sous ces grandes ramées , et que nous en avons respiré les parfums ! Parfois , un troupeau de chèvres , sveltes et fauves comme des gazelles , traversait l ' eau .Elles suivaient la barre qui fermait à demi l ' embouchure ; on les voyait se détacher . |
+| source.excerpts.84.words.0 | parfums |
+| source.excerpts.84.words.1 | nous |
+| source.excerpts.84.words.2 | Parfois |
+| source.excerpts.84.words.3 | grandes ramées |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/edf152c5-42b7-5aff-95ad-9505f0c52c62 |
+| source.excerpts.85.value | Courbez les cintres , croisez les lignes , festonnez les arceaux , logez au faite les nids d ' abeilles , que les stalactites découpées viennent rompre l ' austérité de l ' arc sarrasin .Partout de l ' air , partout du jour ! Faites courir sur le mur les sentences du Livre , suspendez aux poutres cinq mille lampes alimentées d ' huile vierge , parfumées d ' aloès .Qu ' un luminaire d ' or massif brûle éternellement devant le Mirhab . |
+| source.excerpts.85.words.0 | parfumées |
+| source.excerpts.85.words.1 | aloès |
+| source.excerpts.85.words.2 | huile vierge |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/eed50c15-8add-5c2e-898a-4a0317714919 |
+| source.excerpts.86.value | Leur miroir , qui reflète jusqu ' aux brins d ' herbe , porte des flottilles de bateaux : pirogues relevées de proue et de poupe , tantôt serrées côte à côte , tantôt oubliées solitaires en quelque sentier limpide , toujours répétées d ' un trait net dans les profondeurs de l ' eau .Un paysan et sa femme ont empilé sur ce batelet leur récolte de foin aux pénétrants arômes .Debout tous deux , ils enfoncent l ' aviron , poussent l ' esquif , glissent doucement sur les vertes transparences . |
+| source.excerpts.86.words.0 | foin |
+| source.excerpts.86.words.1 | pénétrants |
+| source.excerpts.86.words.2 | arômes |
+| source.excerpts.86.words.3 | paysan |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/f03bb143-1be5-5af7-aa3a-849e1bc31e1a |
+| source.excerpts.87.value | Ils viennent s ' y mettre au vert et y boire un certain bouillon de scicrpe2 dont on célèbre les vertus .Je crois plus aux bienfaisants effluves des berceaux de vigne , des branches odorantes qu ' étalent les figuiers , des brises qui ont frôlé le dôme résineux des pins .A partir de Chiclana , on entre dans un pays plus africain que l ' Afrique . |
+| source.excerpts.87.words.0 | odorantes |
+| source.excerpts.87.words.1 | brises |
+| source.excerpts.87.words.2 | branches |
+| source.excerpts.87.words.3 | effluves |
+| source.excerpts.87.words.4 | figuiers |
+| source.excerpts.87.words.5 | berceaux |
+| source.excerpts.87.words.6 | bienfaisants |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/f08df6ad-f382-57ef-b4c3-4ce7a247e407 |
+| source.excerpts.88.value | Pour comprendre la beauté du monument , il faut en perdre l ' aspect général .Alors , quand du milieu de la Cour des Orangers , cheminant parmi les pétales que chaque pas effleure , qui froissés rendent une plus suave odeur , on s ' avance dans l ' ombre portée de la tour ; lorsque l ' édifice ne présente plus que sa partie arabe : cette rouge façade éclairée du grand arceau moresque ; alors les merveilleuses alternances d ' air et de solidité , de sérieux et de caprice , la richesse des enluminures , la sobriété des fenêtres élégantes et rares , tout ravit nos yeux .Le minaret sarrasin a retrouvé son unité première , nous goûtons l ' ineffable bonheur d ' admirer sans retour . |
+| source.excerpts.88.words.0 | suave |
+| source.excerpts.88.words.1 | odeur |
+| source.excerpts.88.words.2 | pétales |
+| source.excerpts.88.words.3 | Cour des Orangers |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/f4ac0cd5-7030-55e7-8d68-3ee794191efc |
+| source.excerpts.89.value | Et nous sommes là , vers cette eau , sous les mêmes cèdres ! — Cinq siècles ont passé sur cette tragédie ; il nous semble que l ' assassinat s ' est accompli hier .Nous cheminons sous les berceaux d ' orangers , nous respirons l ' arôme des rosiers en fleurs , nous traversons les longues allées des grenadiers pourpres .La maisonnette , avec ses salles basses , avec son voile de citronniers , avec sa ceinture de verveines , avec ses bouquets d ' héliotropes rit toujours aux éclosions de mai . |
+| source.excerpts.89.words.0 | Nous |
+| source.excerpts.89.words.1 | rosiers |
+| source.excerpts.89.words.2 | arôme |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/f8ba297e-a739-5149-8e7f-5c5376271b12 |
+| source.excerpts.90.value | L ' audace des bons pères ne va pas .il est vrai , jusqu ' à ramener le ciel dans l ' église ; bien moins songent - ils à convier les souffles balsamiques , en ouvrant les nefs que parfumait jadis la cour des Orangers .Mais ils nous ont rendu le Mirhab . |
+| source.excerpts.90.words.0 | parfumait |
+| source.excerpts.90.words.1 | église |
+| source.excerpts.90.words.2 | nefs |
+| source.excerpts.90.words.3 | cour des Orangers |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/f8f87f2d-400a-5c74-9a38-825a5301f2eb |
+| source.excerpts.91.value | C ' était celle d ' un grillon , que suivant la coutume de son pays , YEstremeîïo avait enfermé dans une cage et pris avec lui .Le grillon venait de sentir la terre ; un arôme trop subtil pour les perceptions de nos sens l ' avait effleuré ; captif dans l ' entrepont .il avait découvert ; il respirait les brises embaumées ; il célébrait les jardins en fleurs ; bientôt on cria : « Terre ! » et le Brésil sortit des îlots . |
+| source.excerpts.91.words.0 | subtil |
+| source.excerpts.91.words.1 | terre |
+| source.excerpts.91.words.2 | nos |
+| source.excerpts.91.words.3 | arôme |
+| source.excerpts.91.words.4 | grillon |
+| source.author.0.@id | http://data.odeuropa.eu/actor/365bcbb9-e87d-5627-9d40-6d7820b180b8 |
+| source.author.0.label | Valérie de  Gasparin |
+| source.label | Andalousie et Portugal / par l'auteur des "Horizons prochains" [comtesse A. de Gasparin] |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k62132937 |
+| source.date | 1886 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/78 |
+| smellSource.0.label | Plant |
+| time.0.@id | http://data.odeuropa.eu/time/cf202db9-febf-584e-9501-ba6356d75cf6 |
+| time.0.label | 1886 |
+| time.0.begin | 1886 |
+| time.0.end | 1886 |
+| place.0.@id | https://sws.geonames.org/347305/ |
+| place.0.label | Jabal at Tīh |
+| emotion.0.@id | http://data.odeuropa.eu/vocabulary/plutchik/sadness |
+| emotion.0.label | sadness |
+| emotion.1.@id | http://data.odeuropa.eu/emotion-type/nostalgia |
+| emotion.1.label | nostalgia |
+| emotion.2.@id | http://data.odeuropa.eu/emotion-type/disappointment |
+| emotion.2.label | disappointment |
+| relevantExcerpt | http://data.odeuropa.eu/source/ddd43a4c-f8df-5325-8783-e99c86b0724f/fragment/e3199a9d-f3d1-56c5-9273-08ae043277c7 |
+| license | Public domain |
+| adjective | bonne |

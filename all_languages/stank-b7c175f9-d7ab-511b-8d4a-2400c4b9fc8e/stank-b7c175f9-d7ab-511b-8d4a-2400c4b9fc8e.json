@@ -1,0 +1,105 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/b7c175f9-d7ab-511b-8d4a-2400c4b9fc8e",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "stank",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48/fragment/73ad2532-0660-5465-badc-f86828897079",
+        "value": "This is our garden ; carefully piled up and left behind by the retiring monks .My mule is stabled under my trussel - bed ; he and others of his kind ; so that my meat is flavoured and my room is perfumed with an allpervading allpervading scent of mule .Often in the night one steps into the gallery for a breath of air , but only to be driven back by odours from the earth below .",
+        "words": [
+          "perfumed",
+          "scent",
+          "my room",
+          "allpervading allpervading",
+          "of mule"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48/fragment/7fa0c24c-c3f8-5f92-8a81-8cb9b651a0c2",
+        "value": "On the track I reach a cafe , simpler than that in the entrance of Wady Aly ; the establishment consisting of a pole and mat , a hole in the ground , a brazier and cup , a pipe and tobacco - bag , and a couple of stones for seats .For one piastre you can buy a cup of mocha and a whiff of jebile .Yacoub now ambles up .",
+        "words": [
+          "you",
+          "whiff",
+          "of jebile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48/fragment/b4aa9eda-d8dd-54f1-b922-924076f1c8cc",
+        "value": "These shards will turn into mulberry - trees , and that copper moon will bury itself in the earth .' Stifling in the reek , and blistering in the sun , we leave the gallery and turn into the lane .An open gate invites us to come in .",
+        "words": [
+          "we",
+          "reek"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48/fragment/df83e872-af15-5da0-bffb-51ff16009faf",
+        "value": "My mule is stabled under my trussel - bed ; he and others of his kind ; so that my meat is flavoured and my room is perfumed with an allpervading allpervading scent of mule .Often in the night one steps into the gallery for a breath of air , but only to be driven back by odours from the earth below .Garden ! OUR VILLAGE .",
+        "words": [
+          "odours",
+          "one",
+          "from",
+          "in the night",
+          "from the earth below"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48/fragment/f4470758-d424-5914-8bd9-78ae528aae6d",
+        "value": "dust , and the bazaars with filth .Dogs , mules and camels fouled the roads , and every suburb stank with dead and unburied animals .Beasts were slaughtered in the street , and the offal left to fry and rot .",
+        "words": [
+          "camels",
+          "Dogs",
+          "stank",
+          "mules",
+          "every suburb",
+          "the roads",
+          "with dead and unburied animals"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/c30a6142-c208-56ff-aedb-7dd3fdf9ff4c",
+        "label": "William Hepworth DIXON"
+      }
+    ],
+    "label": "British Cyprus",
+    "date": "1879",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/55",
+      "label": "Dog"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/23",
+      "label": "Cadaver"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/508",
+      "label": "Camel"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e5c3d1f1-1348-5148-88b1-1c422c9482f4",
+      "label": "1879",
+      "begin": "1879",
+      "end": "1879"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8477211/",
+      "label": "Mowaileh Suburb"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/9900f656-5e54-5fa1-a5e4-687f204221ae",
+      "label": "the roads"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/87c37a9c-5b98-5b3f-8dc0-2a86cba84e48/fragment/f4470758-d424-5914-8bd9-78ae528aae6d"
+}

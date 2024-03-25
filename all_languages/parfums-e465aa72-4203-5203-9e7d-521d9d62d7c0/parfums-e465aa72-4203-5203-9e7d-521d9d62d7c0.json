@@ -1,0 +1,59 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/e465aa72-4203-5203-9e7d-521d9d62d7c0",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/c29a5925-8f2c-5092-a29a-b9490d945112",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/c29a5925-8f2c-5092-a29a-b9490d945112/fragment/96cf715a-7c67-554e-84a6-42afa1dd84a4",
+        "value": "I Laissez votre pensée me suivre et je vous conduirai en France , mon pays .Nous n ' irons point vers cette région aimée du soleil , vers ce midi enchanté dont les brises molles et tièdee fléchissent sous des ondées de parfums ; non : ce n ' est point là que fut mon berceau .Traversons votre Rhin , comptons autant de pas qu ' un voyageur peut en mesurer pendant une longue journée de marche , et nous viendrons enfin au fond d ' un petit village perdu dans les brumes du Nord .",
+        "words": [
+          "parfums",
+          "région",
+          "midi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c29a5925-8f2c-5092-a29a-b9490d945112/fragment/d0c6f9b5-1f4a-578c-941f-9c154d3be9d2",
+        "value": "llpritlapsrpleea ceswrswa : ; , : , Laiseiurs votre pensée me suivre et je vooaooadùirsi ec France , mon pays .Nous n ' irons point vers cette région aimée du soleil , vers ce midi enchanté dont les brises molles et tièdes fléchissent sous des ondées de parfums ; non : ce n ' es point là que fut maa berceau .Traversons votre Rhin , comptons autant de pas qu ' n ; voyageur peut en mesurer pendant une longue journé de marche , et noua viendrais enfin au fond d ' un peti village perdu dans les brames du Nord .",
+        "words": [
+          "parfums",
+          "région",
+          "midi"
+        ]
+      }
+    ],
+    "label": "Candide : journal à cinq centimes : paraissant le mercredi et le samedi de chaque semaine",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6253679f",
+    "date": "1865-05-03",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/010f83f7-870a-5c22-98b8-cc9d1ad5565c",
+      "label": "1865-05-03",
+      "begin": "1865-05-03",
+      "end": "1865-05-03"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    },
+    {
+      "@id": "https://sws.geonames.org/2993966/",
+      "label": "Midi"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/c29a5925-8f2c-5092-a29a-b9490d945112/fragment/96cf715a-7c67-554e-84a6-42afa1dd84a4",
+  "license": "Public domain"
+}

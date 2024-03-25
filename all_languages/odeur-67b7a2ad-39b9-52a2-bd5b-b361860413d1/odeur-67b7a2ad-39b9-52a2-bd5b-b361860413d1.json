@@ -1,0 +1,300 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/67b7a2ad-39b9-52a2-bd5b-b361860413d1",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/1160d92f-2d5c-5d48-8bc6-61a43d6993ac",
+        "value": "habba al - baraka .On l ’ emploie comme condiment ; elle possède en effet une saveur aromatique .On en retire aussi une très petite quantité d ’ huile , qu ’ on emploie en frictions contre les rhumatismes .",
+        "words": [
+          "aromatique",
+          "elle",
+          "saveur aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/2a893e76-22f2-5504-9780-8e9faa8b91f3",
+        "value": "Enfin , sous le nom de « les deux hennés » , on vend un mélange de henné et de senné , teignant aussi directement les cheveux en noir .Le henné est cultivé dans tous les jardins à cause de la suave odeur de ses fleurs .Avicenne dit cpie le henné et l ’ indigo sont la source où puisent ceux qui veulent teindre les cheveux en noir ( L .",
+        "words": [
+          "suave",
+          "odeur",
+          "ses fleurs",
+          "les jardins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/3438e047-38a3-58d8-ac11-7bed834c8314",
+        "value": "— Satureia Thymbra L .; on écrit aussi avec un ^ et un ; : satar , k > zatar ; d ’ une façon générale , toutes les labiées aromatiques sont des zatar .433 .",
+        "words": [
+          "aromatiques",
+          "labiées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/3534f858-c2d0-5176-9300-4e21c259da96",
+        "value": ".Pierre judaïque Pin Œ uf 38 9 Pistache 55 Pivoine Olive 93 Plantain Ongles Platane Ongles odorants .44 Plomb Onyx Poire Opoponax 4 7 6 Poireau Or Pois chiche Orcanette Poisson Orcliis Poivre Origan Poix .",
+        "words": [
+          "Pivoine",
+          "odorants",
+          "Pistache",
+          "Ongles odorants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/4ea271ea-8181-5fab-80e5-3a7086076214",
+        "value": "Le Galbanum est une gomme résine , fournie par une ombellifère , peut - être Ferula galbaniflua Boissieu , ou F .rubri - caulis Boissieu ; il porte aussi le nom de bârizad — * ■ > ( 35 ) < * — Il est encore employé en pharmacie pour la préparation du diacliylon et du baume de Fioraventi ; en Orient , on l ’ emploie comme aphrodisiaque .121 .",
+        "words": [
+          "aphrodisiaque",
+          "diacliylon",
+          "rubri",
+          "caulis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/51bf3b49-bc18-5172-b0c3-6a032c5e5a8e",
+        "value": "arborea , nilotica , articulala .44 - Arm ar Atueü , ongles odorants , azfâr at - lyb w £ ■ P .— Appelés encore « blattes de Byzance » ; ce sont les opercules cornés d ' une coquille , Strombus lentiginosus .",
+        "words": [
+          "odorants",
+          "ongles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/53b27a32-f142-5257-bdd8-c2805b4e6e14",
+        "value": "— Anthémis nobilis L .; à Beyrouth , on donne ce nom à une petite Camomille , très commune au printemps , à odeur très vive , Anthémis pseudocotula Boissier .Boissier ( Flora Orientalis ) fait du bâboûnij Achillea fragrantissima Schimper , ce qui est une erreur .",
+        "words": [
+          "Beyrouth",
+          "odeur",
+          "Anthémis",
+          "au printemps",
+          "très vive",
+          "petite Camomille",
+          "Boissier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/58b89337-371e-5d6d-831c-f7642fbdd928",
+        "value": ", acore vrai , dont le rhizome nous arrive aujourd ’ hui du sud de la Russie .L ’ odeur est aromatique et agréable , la saveur piquante et amère .Le nom vulgaire est ' aqclci ar - ryha .",
+        "words": [
+          "aromatique",
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/59ad730e-dfdf-56f4-999f-2fba1dfa7cd9",
+        "value": "— Peganum HarmalaL .Les graines jouissent de propriétés sudorifiques et surtout emménagogues , mais leur emploi amène une certaine ivresse joyeuse que Belon signalait déjà [ Singularitez , p .20y ) ; le même auteur dit que les Égyptiens usaient de la plante pour se parfumer et chasser les mauvais esprits .",
+        "words": [
+          "sudorifiques",
+          "graines",
+          "emménagogues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/6242f198-70d6-56c8-8f91-b2cf7a552125",
+        "value": "Les graines jouissent de propriétés sudorifiques et surtout emménagogues , mais leur emploi amène une certaine ivresse joyeuse que Belon signalait déjà [ Singularitez , p .20y ) ; le même auteur dit que les Égyptiens usaient de la plante pour se parfumer et chasser les mauvais esprits .2 44 - Harna , cloportes , hadya — Le clo porte ordinaire , Oniscus Asellus , et i ’ armadille , Ar - madillo ofïicinarum , qui venait d ’ Italie , étaient employés autrefois comme diurétiques ; on les appelait encore « porcelets de Saint - Antoine » .",
+        "words": [
+          "parfumer",
+          "se parfumer",
+          "plante",
+          "chasser les"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/6708eb77-83bc-52c4-9b96-3051b2813f20",
+        "value": "jaune ou citrin sont fournis par un même arbre , Santalum album L ., qui pousse dans l ’ Inde ; la différence de coloration est due à dés différences dans l ’ âge de l ’ arbre ; leur odeur est agréable et due à une essence très employée en médecine .Le s .",
+        "words": [
+          "Inde",
+          "agréable",
+          "odeur",
+          "leur",
+          "essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/6c1c97eb-d933-5ab3-ba3b-d75830cb07cc",
+        "value": "Ce ne fut que dix siècles plus tard qu ’ on connut la plante qui fournissait la drogue .Le rhizome de galanga .à odeur aromatique et saveur forte n ’ est plus employé en thérapeutique ; on lui substitue souvent celui de l ’ Alpinia Galanga Svvartz .",
+        "words": [
+          "rhizome",
+          "galanga"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/6df5d3e0-539f-558b-b3c0-f58f5770bf33",
+        "value": ", légumineuse .Il possède une saveur agréable et répand en brûlant une odeur agréable .26 - 7 .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/7846114f-2edb-58d9-b936-5e03be7f21d7",
+        "value": "i Soie 207 Son .r 46 ? Soucbet comestible 201 Souchet odorant 433 Soude 5i5 Soufre i32 Spatbe de palmier ..",
+        "words": [
+          "odorant",
+          "Souchet",
+          "palmier",
+          "comestible",
+          "Soucbet",
+          "Spatbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/7d69063a-90b7-576e-b335-d44bd94c7724",
+        "value": "— Cyclamen europæum L ., très commun au Liban et connu encore sous le même nom , qui signifie « encens de Marie » et qui lui est donné à cause de son odeur très douce et suave .86 .",
+        "words": [
+          "Liban",
+          "suave",
+          "odeur",
+          "encens",
+          "très douce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/846551eb-ebcc-579a-89ee-a73dab335493",
+        "value": "* * * .— Matière odorante contenue dans une poche ventrale du chevro - tain porte - musc , Moschus moschiferus .374 .",
+        "words": [
+          "odorante",
+          "musc",
+          "Matière",
+          "Moschus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/8a5e421d-5b14-5c8e-9a3e-17c39bde7ff2",
+        "value": "282 .Iedem , ladanum , lâdan — Matière ré sineuse odorante qui exsude de divers cistes , Cistus ladaniferus L ., C .",
+        "words": [
+          "odorante",
+          "Matière",
+          "ladanum",
+          "ré sineuse odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/977d88df-ed7f-56f1-8595-9637de7dc64b",
+        "value": "o i 98 • Habel Gulcul , cassia tora , liabb al - qdqil jxUb — Cassia Tora L .; plante annuelle de I Arabie et de 1 Inde , à odeur fétide , dont les graines — * - » • ( 52 ) • € < • — sont réputées aphrodisiaques .Les autres parties de la plante sont employées comme topiques pour combattre les maladies de peau .",
+        "words": [
+          "Inde",
+          "fétide",
+          "odeur",
+          "aphrodisiaques",
+          "graines",
+          "Arabie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/af145a71-4611-5edb-8d22-8e6cbde83030",
+        "value": "Narces , narcisse , narjis — Narcissus pseudo - Narcissus L .— Rhizome de i ’ Alpinia ofïicinarum Hance , plante à port de roseau qui pousse en Extrême - Orient et qui fut introduite en thérapeutique par les médecins arabes ( Al - Kindy , ix c siècle ) .Ce ne fut que dix siècles plus tard qu ’ on connut la plante qui fournissait la drogue .",
+        "words": [
+          "plante",
+          "Alpinia",
+          "Rhizome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/b4de3a72-d3af-5608-9beb-8a71478d1b5d",
+        "value": "433 .Saherade , souchet odorant , souci s — Cyperus rotundus L .Les tubercules du Cyperus esculentus , variété voisine , sont recherchés sous le nom de habb al - ’ aziz .",
+        "words": [
+          "odorant",
+          "souchet",
+          "Cyperus",
+          "Saherade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/b81473a5-bf70-503c-8baf-8921c3a80875",
+        "value": "La culture en fut introduite en Amérique au xvi e siècle .Le gingembre renferme une huile essentielle aromatique et une résine à saveur brûlante ; on en prépare une confiture très estimée dans les pays chauds .L ’ aunée ( n ° 280 ) porte le nom de zanjabyl balacly .",
+        "words": [
+          "résine",
+          "huile",
+          "aromatique",
+          "gingembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/cd83e46b-4751-58cc-9656-a1431265216e",
+        "value": "— Appelés encore « blattes de Byzance » ; ce sont les opercules cornés d ' une coquille , Strombus lentiginosus .Leur nom vient de leur forme et de l ’ odeur qu ’ ils dégagent en brûlant .£ 45 .",
+        "words": [
+          "odeur",
+          "ils",
+          "leur",
+          "dégagent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/ceac2f22-c78d-5114-ab67-90f579ad1b50",
+        "value": "Garcia , carvi , karaoayâ — Carum Carvi L .: ombellifère dont les graines aromatiques entrent dans la composition du kumel .Jiè jJ 1 o4 .",
+        "words": [
+          "aromatiques",
+          "graines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/dd6a1e91-f62d-5ad7-936c-5fe7ceb48762",
+        "value": "Le rhizome de galanga .à odeur aromatique et saveur forte n ’ est plus employé en thérapeutique ; on lui substitue souvent celui de l ’ Alpinia Galanga Svvartz .4 i 8 .",
+        "words": [
+          "aromatique",
+          "forte",
+          "odeur",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/f09a654b-6115-5472-b42e-416733ef7952",
+        "value": "Galia , confection , cfhâlia aJI * .— Confection astringente connue aussi sous le nçm de soukk ; on la préparait en ajoutant à la confection rainik un peu de musc et d huile de giroflée .La confection ramik elle - même était à base de noix de galle , miel , cannelle , etc .",
+        "words": [
+          "astringente",
+          "huile de giroflée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/f87339e2-3628-556e-ac4f-f389004995f5",
+        "value": ".— Fruit du Myristica fragrans Houtt , connu sous le nom vulgaire de ajouz al - tyb h noix odorante » .L ’ arille porte le nom de macis .",
+        "words": [
+          "odorante",
+          "noix",
+          "Myristica"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/faaad73c-d3ed-56e7-aa56-d6bf3b2481df",
+        "value": ", et qu ’ on récoltait autrefois en peignant les poils des chèvres qui les broutent .Le ladanum , tombé dans l ’ oubli , contient une essence à odeur suave d ’ ambre .Sur les pentes du Liban poussent C .",
+        "words": [
+          "suave",
+          "odeur",
+          "essence",
+          "ambre",
+          "ladanum"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/a60c0a5f-4a0b-51a9-aa75-41295c777481",
+        "label": "Pierre  Guigues"
+      }
+    ],
+    "label": "Les noms arabes dans Sérapion \"Liber de simplici medicina\" : essai de restitution et d'identification de noms arabes de médicaments usités au moyen âge / par le Dr Pierre Guigues,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k30450237",
+    "date": "1905",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/72082e32-e83d-5d5c-9219-9f39b9101eb3",
+      "label": "1905",
+      "begin": "1905",
+      "end": "1905"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/276780/",
+      "label": "Beyrouth"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/963e4a05-4169-5168-9e34-3201b52586f1/fragment/53b27a32-f142-5257-bdd8-c2805b4e6e14",
+  "license": "Public domain"
+}

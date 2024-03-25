@@ -1,0 +1,101 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/0a406a50-17b2-597e-9e85-019f2a86b4cc",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "putride",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/1439ee2e-2c72-5c75-aec5-c593329c97d3",
+        "value": "Le dépôt dans le bas - ventre à sa silite des couches , si fréquenta l ' Hôtel - Dieu , n ' est donc qu ' un symptôme de la maladie putride , ou iir * effet de méfastafe , à laquelle les femmes sont alors spécialement disposées à raison de la foiblesse particulière du bas - ventre & de l ' état naturel de décomposition des humeurs .Les vapeurs putrides qui s ' élevent des matieres excré * mentitielles des entrailles , la pression qui se sait sur tous les viseeres - , rétat particulier de l ' athmosphere , le local froid & humide , toutes ces : causes & beaucoup d ' autres enlevent , à des visceres déjà bien affaiblis , le peu qui leur refre .d ' énergie .",
+        "words": [
+          "putrides",
+          "vapeurs putrides",
+          "matieres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/17cf9a29-146d-558a-83c9-8e84a9eae483",
+        "value": "Ce remede administré depuis long - tems par des nations étrangères , a paru souvent insuffifant , comme il l ' a été depuis dans l ' Hôtel - Dieu même de Paris ; c ' est pourquoi j ' ai pensé qu ' il falloit reconnoître ( on insuffisance sans le négliger , & qu ' on devroit s ' attacher spécialement aux moyens de prévenir cette maladie , sur - tout dans l ' Hôtel - Dieu de Paris .Oserois - je dire que je crois avoir trouvé les causes de cette maladie ; ce qui conduiroit naturellement aux moyens pro - , pres à la prévenir ? Cette maladie n ' est pas due primitivement aux miasmes méphitiques des autres salles , comme le croit le vulgaire .Ces miasmes ne doivent être comptés tout au plus que comme des causes secondaires .",
+        "words": [
+          "méphitiques",
+          "salles",
+          "miasmes méphitiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/1f298771-9b40-52f4-82a9-26937447ccbf",
+        "value": "Ces miasmes ne doivent être comptés tout au plus que comme des causes secondaires .Les miasmes existent toujours ; mais la fievre puerperale ne regne qu ' en certains tems , qu ' en certaines saisons , qu ' on peut déterminer avec précision .En rapprochant son invasion des observations météorologiques , on voit qu ' elle ne s ' est mani - .",
+        "words": [
+          "miasmes",
+          "fievre",
+          "puerperale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/28e8505d-d14d-57a1-a4f2-debafcecec8e",
+        "value": "0n a trouvé sou vent du fang en quantité confidérable dans les poulmons , parce que pendant la grossesse la pression sur tous les gros vaifJ feaux du bas - ventre sait refluer beaucoup dé sang à la poitrine , d ' oll résutte toux & paîpitatiorr .Le dépôt dans le bas - ventre à sa silite des couches , si fréquenta l ' Hôtel - Dieu , n ' est donc qu ' un symptôme de la maladie putride , ou iir * effet de méfastafe , à laquelle les femmes sont alors spécialement disposées à raison de la foiblesse particulière du bas - ventre & de l ' état naturel de décomposition des humeurs .Les vapeurs putrides qui s ' élevent des matieres excré * mentitielles des entrailles , la pression qui se sait sur tous les viseeres - , rétat particulier de l ' athmosphere , le local froid & humide , toutes ces : causes & beaucoup d ' autres enlevent , à des visceres déjà bien affaiblis , le peu qui leur refre .",
+        "words": [
+          "maladie",
+          "femmes",
+          "putride",
+          "Hôtel - Dieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/85b01bf5-e805-5911-a7d9-9093c33c4cc0",
+        "value": "On en expulsera les humeurs par des laxatifs toniques & l ' on redonnera ensuite de l ' énergie par des doux cordiaux .Ce vomitif chasTe les humeurs putré * j £ antes du canal intesîinal , il rétablit les mouve .mens vitaux & devient propre à recomposer les fluides .",
+        "words": [
+          "humeurs",
+          "vomitif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/dacdcb5b-e421-5946-8ec1-08d1b3b89ba8",
+        "value": "La lumiere dit soleil .combinée avec l ' eau des végétaux , s ' exhale de leurs filieres en un principe essentiel à la respiration & à la vie des animaux : principe que la chymie moderne appelle air déphlogistiqué ; que Dairebel , chymiste Hollandois , qui l ' avoit formé le premier , appelloit élément clarifié , que Becker qui le connut , appella nître de la vie , & auquel la chymie modçree donne aujourd ' hui trnt de noms , que ses effrayantes nomencla .tares écarteront bientôt de la science de la nature .",
+        "words": [
+          "air",
+          "déphlogistiqué"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/e6404d1d-cbd1-5a45-b649-e015e054224f",
+        "value": "tares écarteront bientôt de la science de la nature .Quand les végétaux sont privés de la lumiere , ils n ' exhalent plus qu ' une vapeur méphitique nuisible à la vie .Pline dit que les feuilles des arbres sont sensibles à la nourriture que leur apporte la lumiere ; que le sang est également sensible à la présence de ce même fluide , qui le met en une espece de fermentation & augmente son volume .",
+        "words": [
+          "ils",
+          "vapeur",
+          "végétaux",
+          "exhalent"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/60c3a397-c53f-5ef3-aa48-1e456c3e923f",
+        "label": "Alphonse Louis Vincent  Leroy"
+      }
+    ],
+    "label": "Essai sur l'histoire naturelle de la grossesse et de l'accouchement . Par Me Alphonse Leroy,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9766271s",
+    "date": "1787",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/be0ee383-2b67-58c7-8ae9-7e2cb036257f",
+      "label": "1787",
+      "begin": "1787",
+      "end": "1787"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/79c4460b-aefc-54f2-a8dc-7f16e713cc8c/fragment/28e8505d-d14d-57a1-a4f2-debafcecec8e",
+  "license": "Public domain",
+  "adjective": "putride"
+}

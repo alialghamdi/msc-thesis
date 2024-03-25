@@ -1,0 +1,417 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/0cd2963f-795b-5db6-bb78-21223b7411e8",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "it",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/0aa0096d-1c7b-5869-9191-1fb780a18db1",
+        "value": "The flowers appear on the earth ; the time of the singing of birds is come , and the voice of the turtle is heard in our land .The Fig - tree putteth forth her green figs , and the vines , with the tender grape , give a good smell .Arise , my love , my fair one , and come So we sang with Solomon as a soft spring day led us out of the gate of Jerusalem .",
+        "words": [
+          "smell",
+          "good",
+          "the vines",
+          "the tender grape",
+          "The Fig"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/133100df-799a-57ac-b10b-036e4d5145de",
+        "value": "The next morning , under the mulberries and over the stones , we descended to Beyrout , and it was startling to feel how suddenly the spell was broken .A few fat Franks , and a few sailors , and a few bales of cotton , and much sea - port stench , and the mongrel population of a Levantine city , dissolve the dream .Strange , in Beyrout is the image of the East , in its still picturesqueness , in its placid repose .",
+        "words": [
+          "port",
+          "stench",
+          "much",
+          "sea -",
+          "few fat Franks",
+          "a few sailors",
+          "the mongrel population",
+          "a few bales of cotton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/14ed4979-3a49-5be5-87f7-22a266725fe9",
+        "value": "Was it not the magic to draw from your purse the Philosopher ' s Stone ? The court - physician of Zobeide , relapsing into reverie , smiles vaguely as he says salaam â  ¢ as if the advantage were his â   as if you were not bearing away Avith you in those odours the triumphs of the rarest alchemy .Breathing fragrance , you enter a khan opening upon the bazaar , that of Assad Pacha , a stately and beautiful building , consisting of a lofty domed court , the dome supported by piers , Avith a gallery running quite around it .Private rooms for the choicest goods open out of the gallery .",
+        "words": [
+          "you",
+          "fragrance",
+          "Assad"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/1882e59f-6ffa-5758-ae0d-66c4618fa44d",
+        "value": "Despite the gentle Juliet , the melody of the name should accord with the sweetness of the odour , and the name of the Sultan ungarnished with these thundering tailpieces tailpieces would be as little agreeable as the prefix of to our own President .The Sultan is the Lord of three seas , and of the odour of Paradise , and of the seat of the Caliphs ; but what faith did George the Fourth ever defend , except that extraordinary creed of his being the first gentleman in Europe ? And what were the 262 THE WANDERER IN SYRIA .We descended into the valley with extreme satisfaction , satisfaction , for it is one of the places which satisfy imagination .",
+        "words": [
+          "odour",
+          "of Paradise",
+          "The Sultan",
+          "of the seat of the Caliphs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/1d10008d-0f56-5620-91ab-ff2e51d1ce9d",
+        "value": "That stone is in our purses - the old magician knows it , and he knows the charm to educe it .He opens a jar , and a dreamy odour penetrates our brains .It is distilled of flowers culled from the gardens of the Ganges : or is this delicate perfume preferable , â   this zatta , loved of poets and Houris , which came to the doctor ' s grandfather from Bagdad ? Attar of roses did Golden Sleeve suggest ? Here is the essence of that divinest distillation of the very heart of summer .",
+        "words": [
+          "odour",
+          "dreamy",
+          "our brains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/2bf8fce3-7ed0-5ce2-bc9e-283fcc3325c4",
+        "value": "Fortunately it was possible to obtain fresh fruit from Gaza , and the Commander , who was as good a cook as he was w * arrior , undertook to commemorate the day by an original pudding .Ah ! Hadji Hamed , long cook of the Ibis , in whose destiny a desert journey with these Howadji was not included , your image returned in that dreary quarantine , fragrant and cloud - wreathed Avith the fumes of Kara Kooseh and of Yakhnee .Hadji Hamed , it is as impossible to speak of the Commander ' s commemorative pudding , as it was to eat it .",
+        "words": [
+          "fragrant",
+          "fumes",
+          "fumes of Kara Kooseh",
+          "of Yakhnee"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/35949208-d450-595d-9c81-974bbc7e385d",
+        "value": "Its aim is to state a fact , not to impart an impression .The latter , however , is the object of a general book of travels , and the facts must yield only their juice and their aroma to the traveller , if he would share his pleasure with others .Guide - books are not absorbingly interesting , and give small idea of the countries they describe .",
+        "words": [
+          "aroma",
+          "their",
+          "to the traveller"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/3739be56-8f21-5475-9225-a6e383c3af6f",
+        "value": "But we have received visits in our hotel from an Armenian merchant , young and comely , â   why not Khadra ' s cousin ? â   and he brought with him silks and stuffs at which all that was feminine in our natures swelled with delight .Tempted by his odours , Ave have come to his garden .The room is small and square , and rough - plastered .",
+        "words": [
+          "odours",
+          "his"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/3a84bcc2-6a1f-581a-9ad6-3a21b9e8fbb5",
+        "value": "Yet Beyrout is built upon a long and lovely slope of the Lebanon , and has fine gardens and trellised balconies overhanging its summer sea .There , on some enchanted morning , you may inhale the fragrant Shiraz , taste the last sherbet of roses , and be lost once more in the Syren ' s song .But some May evening , as you recede over that summer sea , and watch the majesty of Lebanon robing itself in purple darkness ; and lapsing deeper into memory , behold the dreamy eyes of Khadra , and the widowed Joy of the and the Delight of the and the Pearl of the until Night and the Past have gently withdrawn Syria from your view ; do you sigh that the East can be no longer a dream , but a memory , do you feel that the rarest romance of travel is now truly ended , do you grieve that no wealth of experience equals the dower of hope , and say in your heart â   What ' s won is done , Joy ' s soul lies in the doing Or as a snoAV - peak of Lebanon glances through the moonlight like a star , do you fear lest the 138 THE WANDERER IN SYRIA .",
+        "words": [
+          "Shiraz",
+          "fragrant",
+          "you",
+          "on some enchanted morning"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/3b768ee8-32ab-5d5c-af0a-bc75d68e8e99",
+        "value": "A forest of sparkling minarets , and the billoAvy beauty of endless foliage â   that Avas all .And like Aveary travellers , before whom flowery lawns of repose glide along the plain â   like Princes who see from far the aerial spires dreaming over the Sleeping Beauty â   suddenly , as if we heard the cool measures of Damascus fountains and scented its garden odours , we plunged forward through the grain that SAvayed and sang around us , and loud shouting the cry of the galloping Arabs , Es sham shereef , the beautiful , the blessed , we dashed upon the full run over the plain , nor paused until our brows were cooled in the groves of Damascus .Then we stopped , and reining up by a broken and greenly - mossed fountain , across which lay a bar of gold - dusted sunshine , in vision returned the September afternoon under the grape trellises and the figs of the Italian lake of Orta , which whispered , as a less of a greater â   Damascus .",
+        "words": [
+          "garden",
+          "scented",
+          "odours",
+          "we",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/4153ac55-a51a-5797-bf7a-04ea5b855304",
+        "value": "The crowd parted before us like a phosphorescent sea , so bright were the floAving robes .My brain reeled Avith the abrupt change from the luminous green silence of the environs to the twilight dimness of the bazaar , full of spicy odours , and gorgeous colours , and various forms , chequered with the penetrant sunshine that fell in burning drops through rents in the overshadowing overshadowing matting .There was scarcely time to see , none to think .",
+        "words": [
+          "spicy",
+          "odours",
+          "My",
+          "of the bazaar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/4317ed51-f0f6-5150-aeb1-92d02e86908d",
+        "value": "What Bermuda 36 THE WANDERER IN SYRIA .the odours of Portugal were in the air .I knew that a strong hand was at the wheel , and a faithful eye at the bow , and that the fleet Nebraska w - as staunch and sure .",
+        "words": [
+          "odours",
+          "of Portugal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/45efcfa0-eb70-5919-b6f9-bbf9d6934e23",
+        "value": "This evening , in Jerusalem , I was telling the story of our day ' s ride in the valleys to the younger Miss Duck , and dwelt somewhat elaborately and THE WANDERER IN SYRIA .60 and the prairies , â   that is the spirit , which , like the camel , on the first morning , will raise its head and scent the wild fascination of the desert ; which will shout aloud and rejoice in the morning and in the stars â   crying , Ha ! ha ! to the desert , as the horse cries to the trumpets .THE JOY OF THE WHOLE EARTH .",
+        "words": [
+          "scent",
+          "on the first morning"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/493bac9c-13b3-577e-84dd-4877a8d3480f",
+        "value": "He advances as if his advent were the coming of grace and beauty , and the carriage of his neck and head is comically conceited , beyond words .My camel never suggested a pleasurable emotion to me but once , and that was on this first morning , when , as we moved from the camp , he lifted his head towards the desert and sniffed , as if he tasted home and his natural freedom in the unpolluted air .The camels seem to be only half tamed , and sometimes , seduced by the fascination of the desert ' s breath , they break from the caravan , and dash away in a wild grotesque trot , straight into the grim silence of the wilderness , bearing the luckless QUARANTINE .",
+        "words": [
+          "he",
+          "sniffed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/4b4d6954-93d7-5040-87ff-f724f812c242",
+        "value": "company from the door , and greeting us as English , smilingly ushered us in .The air of the outer room was warm and odorous with incense .The faithful Avere kneeling on the floor , weeping , kissing the pavement and muttering prayers .",
+        "words": [
+          "odorous",
+          "The air",
+          "with incense",
+          "of the outer room"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/4d8bee67-224e-5afe-9a93-83fc4fb7507f",
+        "value": "It was our daily amusement to watch the old Ishmael , whose mind and life were like the desert around us , putting contemptuously away from us upon his tottering donkey , his withered ankles and clumsy shoes dangling along over the sand â   away from us , stately travellers upon MacWhirter and El Shiraz , for whom Shakspeare sang , and Plato thought , and Raphael painted , and to whom the old Ishmael ' s country , its faith and its history , were but incidents in the luxury of Life .Yet Ishmael maintained the balance well , and never relaxed his sniffing contempt for the Howadji , who , in turn , mused upon the old man , and figured the strange aspect of his mind .Like a bold bare landscape it must have been , or rather like the skeleton of a landscape .",
+        "words": "sniffing"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/4dbe16fd-d7c5-531b-9df9-315a0c83430a",
+        "value": "Q BETHLEHEM .195 Then your sense is seized in the voluptuous embrace of the odours , â   of the brilliant flames , motionless in the warm air , â   of the sheen of tapestry , and the flexile richness of the monks ' robes at the altar , and your dazzled sense reels , an intoxicated Roman , through this Bethlehem grotto , which the luxurious Hadrian , after Rome had conquered Jerusalem , consecrated to Adonis .But you see that it is low and irregular , that the ceiling and walls are rock â   that it is only a rough place of refuge , if you strip away gold and tapestry .",
+        "words": [
+          "odours",
+          "your",
+          "in the warm air",
+          "of the brilliant flames",
+          "this Bethlehem grotto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/577f8dc3-6f73-5b9b-9b1e-466dfff12a75",
+        "value": "Sandal - wood to burn upon your nargileh , mystic bits to lay upon your tongue , so that the startled Bedoueen , as you pass in the bazaar , and breathe upon him in passing , passing , dreams that you came from Paradise , and have been kissed by Houris .Was it not the magic to draw from your purse the Philosopher ' s Stone ? The court - physician of Zobeide , relapsing into reverie , smiles vaguely as he says salaam â  ¢ as if the advantage were his â   as if you were not bearing away Avith you in those odours the triumphs of the rarest alchemy .Breathing fragrance , you enter a khan opening upon the bazaar , that of Assad Pacha , a stately and beautiful building , consisting of a lofty domed court , the dome supported by piers , Avith a gallery running quite around it .",
+        "words": [
+          "you",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/5887a172-20cd-5f1c-b6b3-e9f85369cc54",
+        "value": "It is the 15th of July , 1099 , and that evening Jerusalem is , for the first time , properly a Christian city .But once more , while we yet stand lost in these memories of the city , an odour , as of rose - water , sweetens the air .The Christian bells have ceased ringing suddenly .",
+        "words": [
+          "odour",
+          "the air",
+          "of rose - water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/66d9eb76-cd8d-5ec3-9900-959643807650",
+        "value": "We discover that we have procured Oriental garments that we cannot wear , which are probably second - hand , and impart a peculiar odour , making us wonder how the plague smells .We have various beautiful caps , that heat our heads â   choice Turkish slippers that tumble us down stairs â   Damascus blades that break with a little bending â   spices and odours of blessed Araby that we surreptitiously eject at back window ' s â   and gold - threaded napkins of Arabian linen , that let our fingers through in the using .Yet for these oriental luxuries we have not paid more than a dozen times their value ; and when , after a surfeit of sentiment , did poets ever awake without the headache ? The solemn pomp of this oriental shopping , however , is no less pathetic than poetic .",
+        "words": [
+          "odours",
+          "spices",
+          "Damascus blades",
+          "of blessed Araby"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/79209e28-7df8-56e8-815d-efdf104eff2e",
+        "value": "Huge pots of flowers stood near the Avails , that blazed with all the brilliancy of positive colour , and glistening , trailing , and blossoming plants were ranged along the marble - margined fountain .Roses , lemons , and orange - trees , grouped their foliage , clustered their flowers , and perfumed the sun .The light was not a glare , but a thick , odorous luminousness dashed with the cool dusk of shadows from the trees .",
+        "words": [
+          "Roses",
+          "perfumed",
+          "their",
+          "lemons",
+          "orange - trees",
+          "the sun"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/8aaaeca9-9a42-5c09-b292-2e7c49521ea1",
+        "value": "You exist in exquisite sensation , but are no longer conscious conscious of a body .You comprehend an unbodied joy whose race is just The cool , fragrant dimness permeates your frame .You fall softly into sleep as into an abyss of clouds .",
+        "words": [
+          "fragrant",
+          "your"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/8ef33cfe-30f9-5749-ab15-f52dba83fc28",
+        "value": "It is not , I believe , so much because they treat of the objects you are seeing , as because they seem to you the natural , the poetic , and therefore most profound , suggestions of the character of the place .And in the same way , as you advance through the Syrian summer , the fragrant and voluptuous imagery of Solomon ' s Song is the most felicitous expression of your experience there .The reason of this is , surely , that the permanent interest of various lands is intellectual .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/9357d858-0f49-53ee-8ab8-c304aeddf411",
+        "value": "And so in the famous portraits portraits of the world are the beautiful women arrayed The Arabian Poets are right when they clothe their heroines in magnificence , and enshrine them in garden pavilions .So , under birds of paradise melting in lustrous heavens , and under the luxuriant splendour of tropical trees , should the lover steal , enchanted , to that bower , and pressing aside opposing flowers , whose souls , by that pressure , exhale in passionate odours to his brain â   look in upon his love .But a simple white muslin and a rose ? Ah ! Traddles , they are sweet and pretty , and they suit the dearest But the Eastern Beauty is another glory than the pale sweetness of your Blonde .",
+        "words": [
+          "odours",
+          "splendour",
+          "passionate",
+          "tropical trees",
+          "to his brain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/aad92d29-b755-55c5-9ad9-60c85443c779",
+        "value": "58 THE WANDERER IN SYRIA .that grew among the flinty stones , cheering as the odours of land that breathe around the seamen .seamen .",
+        "words": [
+          "odours",
+          "of land",
+          "the seamen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/ab359bd0-5dcf-5588-9e87-56a5584054e2",
+        "value": "They were all led out of the court .Even MacWhirter turned his back upon me and went , sniffing and pompous , out into the beautiful landscape .landscape .",
+        "words": [
+          "sniffing",
+          "MacWhirter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/b0230496-ec18-5f98-82dd-7197b2696259",
+        "value": "He opens the door .A gleam of soft light , and a warm odour of incense .stream outward .",
+        "words": [
+          "warm",
+          "odour",
+          "of incense"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/b2d82b2c-7b52-5c3a-b887-751315686522",
+        "value": "14 lived and bought poetry , and at twilight our treasures follow us to the hotel .We discover that we have procured Oriental garments that we cannot wear , which are probably second - hand , and impart a peculiar odour , making us wonder how the plague smells .We have various beautiful caps , that heat our heads â   choice Turkish slippers that tumble us down stairs â   Damascus blades that break with a little bending â   spices and odours of blessed Araby that we surreptitiously eject at back window ' s â   and gold - threaded napkins of Arabian linen , that let our fingers through in the using .",
+        "words": [
+          "odour",
+          "peculiar",
+          "smells",
+          "We",
+          "us",
+          "the plague",
+          "Oriental garments"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/b4853a75-20f8-5bc1-ab8c-b8b3b31bf955",
+        "value": "Roses , lemons , and orange - trees , grouped their foliage , clustered their flowers , and perfumed the sun .The light was not a glare , but a thick , odorous luminousness dashed with the cool dusk of shadows from the trees .Gazelles stood and ran in the court , filling the sunny bliss with the most delicate grace of life ; and among the fragrant trees birds sang , â   why not the Bulbul , dying a melodious rose - death to crown our joy ? From the end of the court , a broad , lofty staircase , staircase , with elaborately - wrought balusters , ascended to a galleried recess , before which hung a vine of passion - flowers in blossom , transfigured in light , a tapestry of Paradise , and touching the pavement below , it trailed languidly upon the glossy marble .",
+        "words": [
+          "odorous",
+          "thick",
+          "luminousness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/babd0a9a-a419-58c1-8468-264d27eadcba",
+        "value": "He opens a jar , and a dreamy odour penetrates our brains .It is distilled of flowers culled from the gardens of the Ganges : or is this delicate perfume preferable , â   this zatta , loved of poets and Houris , which came to the doctor ' s grandfather from Bagdad ? Attar of roses did Golden Sleeve suggest ? Here is the essence of that divinest distillation of the very heart of summer .But , O opulent Howadji ! no thin , pale , Constantinople perfume is this , but the viscous richness of Indian roses .",
+        "words": [
+          "perfume",
+          "delicate",
+          "preferable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/c8ea9d71-cbf4-5e8a-ab60-df8d70a19598",
+        "value": "It is distilled of flowers culled from the gardens of the Ganges : or is this delicate perfume preferable , â   this zatta , loved of poets and Houris , which came to the doctor ' s grandfather from Bagdad ? Attar of roses did Golden Sleeve suggest ? Here is the essence of that divinest distillation of the very heart of summer .But , O opulent Howadji ! no thin , pale , Constantinople perfume is this , but the viscous richness of Indian roses .As many wide acres of bloom went to this jar as to any lyric of Hafiz .",
+        "words": [
+          "Constantinople",
+          "perfume",
+          "pale",
+          "thin",
+          "viscous richness",
+          "of Indian roses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/d1f369a8-ed1b-5594-b4eb-b98170b59d0a",
+        "value": "Carlyle , as Chairman of a Committee of the Anti - Rosewater Philanthropists , would proceed upon a visit of examination to the quarantine at Gaza , he would discover its paramount advantage of the combination of the greatest amount of practical physical suffering with the smallest possibility of mental comfort .There is not the faintest odour of rose - water in any corner of the establishment , or of the policy which dictates it .Had the journey been earlier performed by that gentleman , we should surely have had one other proposal for the solution of the Irish question , namely , the erection of a quarantine upon the Gaza model , large enough to shovel all Ireland into , there to digest itself at In the quarantine you would read if you could .",
+        "words": [
+          "odour",
+          "the faintest",
+          "of rose - water",
+          "in any corner of the establishment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/e2506837-c38e-5e68-bf92-d92bcc0efb31",
+        "value": "ON THE HOUSETOP .But it is intolerable intolerable in Jerusalem , where , in the presence of the NUNC DIMITTIS .347 spectrally among the hogsheads and boxes , like the fair forms of dreams lingering upon the awakening eye , among the familiar furniture of the chamber .",
+        "words": [
+          "intolerable intolerable",
+          "it",
+          "in Jerusalem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/f803325a-9493-5c06-a2bd-b544146410db",
+        "value": "I like these glittering shreds and patches , and remnants of magnificence .Despite the gentle Juliet , the melody of the name should accord with the sweetness of the odour , and the name of the Sultan ungarnished with these thundering tailpieces tailpieces would be as little agreeable as the prefix of to our own President .The Sultan is the Lord of three seas , and of the odour of Paradise , and of the seat of the Caliphs ; but what faith did George the Fourth ever defend , except that extraordinary creed of his being the first gentleman in Europe ? And what were the 262 THE WANDERER IN SYRIA .",
+        "words": [
+          "sweetness",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/f8e9d3e3-dd40-5c79-84bd-9066b1a6aec7",
+        "value": "By what right ? inquired the Howadji .He says he sold it , eight years ago , to the Armenian ' s Shekh , for six hundred piastres , and not a para has yet been paid ; so he will take the explained Golden Sleeve , between his morning whiffs .And this was the reason the Shekh would not come farther than El Harish ? Probably , EXIT VERDE GIOVANE .",
+        "words": [
+          "his",
+          "whiffs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/fa24fb3f-37eb-50ed-bf06-8b0997fce971",
+        "value": "This is the great Syrian desert â   six hundred leagues in length , three hundred in breadth , extending extending from Aleppo to the Arabian Sea , from Egypt to the Persian â   O great American interrupted the Pacha , are you Most certainly I am , and that strip of palm land which begins to glimmer through the dying night is Egypt , of which a Turkish Pacha said , Egypt is the most beautiful farm , but Syria is a charming I continued , Arab signifies in the 52 THE WANDERER IN SYRIA .master of Europe , Asia , and Africa , conquered by our victorious sword and by our terrific lance , Lord of three seas ( White , Black , and Red ) , of Damascus the odour of Paradise , of Bagdad , the seat of the Caliphs , of the fortresses of Belgrade , Agria , and a multitude of countries , islands , straits , nations , generations , and of so many victorious armies which repose beneath the shadow of our sublime Porte , I â   the shadow of God on earth That is the name of the king of this country , the style of the Sultan ; and it is as sensible and sonorous as the of the applied to the English King George the Fourth , or Most Christian to the last Sovereigns of France .I like these glittering shreds and patches , and remnants of magnificence .",
+        "words": [
+          "odour",
+          "of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/fa6fb5ce-0f9a-5e23-8da6-cfb07ea996fc",
+        "value": "You climb crumbling steps , and emerge from darkness upon the top of the bazaar , on a ledge of a Roman ruin , and look down into the sunny greenness of the great mosque , which you cannot more nearly approach .Then down , and by all the beautiful fabrics of the land , hung with the tin - foiled letters that surround pieces of English prints , and Avhich the colour - loving eye of the Oriental seizes as an ornament for his oaati wares , you pass into the region of drugs and apothecaries , and feel that you are about visiting that Persian Doctor in Mecca Avho dealt in nothing but mira - culous balsams and infallible elixirs , whose potions Avere all sweet and agreeable , and the musk and aloe wood which he burned , diffused a delicious odour through the shop .Surely he was courtphysician courtphysician to Zobeide .",
+        "words": [
+          "odour",
+          "delicious",
+          "through the shop"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/fc204194-667d-5772-aee8-0faa4b78e4f9",
+        "value": "Leisurlie regained his beaming smile , as he discovered there was no hope of authentic information information upon any subject ; and in his grateful gladness of heart , he proposed that the venerable venerable white beard of our guest should be incensed â   a delicacy of hospitality exclusively oriental .The wise men of the East , using the advantages which custom secures to them , have a pleasant way of clapping hands AA * hen bearded visitors arrive , and order slaves to bring chafingdishes chafingdishes heaped with burning gums , of which the odour escapes through holes in the lid of the vessel , and Avhich , held under the beard , imparts a perfume that lingers for several days after .It is no more than a just homage to that manly ornament , of which we Avestern men of razors have no adequate idea .",
+        "words": [
+          "perfume",
+          "odour",
+          "that",
+          "Avhich",
+          "chafingdishes chafingdishes heaped with burning gums",
+          "for several days after",
+          "through holes in the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/ffe8b86c-5c9a-598b-a7af-bddff2f43558",
+        "value": "The light was not a glare , but a thick , odorous luminousness dashed with the cool dusk of shadows from the trees .Gazelles stood and ran in the court , filling the sunny bliss with the most delicate grace of life ; and among the fragrant trees birds sang , â   why not the Bulbul , dying a melodious rose - death to crown our joy ? From the end of the court , a broad , lofty staircase , staircase , with elaborately - wrought balusters , ascended to a galleried recess , before which hung a vine of passion - flowers in blossom , transfigured in light , a tapestry of Paradise , and touching the pavement below , it trailed languidly upon the glossy marble .Slightly raised from the level of the court , and entirely open to it , were alcoves loftily - arched , carpeted , and divanned with luxurious stuffs .",
+        "words": [
+          "trees",
+          "fragrant",
+          "the Bulbul",
+          "vine of passion - flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/fff52fb8-0fc4-5da3-bbf5-b39206440fa4",
+        "value": "The night swallows the sound , and only the stars shine .And even as you might vaguely discern the sheen of Persian silks , and scent the odour of rare fruits in a caravan from Bagdad , passing your camp in the moonlight , so through the twilight of reverie pass the stately forms of noble thoughts , and the night is perfumed with hopes that love the future .Like a night of meditation after a busy day , is the desert journey after our busy life .",
+        "words": [
+          "odour",
+          "perfumed",
+          "scent",
+          "you",
+          "the night",
+          "of Persian silks",
+          "of rare fruits"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8d0fa698-8cef-540d-982b-c73a34e1f66f",
+        "label": "George William Curtis"
+      }
+    ],
+    "label": "Wanderer in Syria",
+    "date": "1852",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/ef973b5e-df67-59b0-8e26-e4ced9fe9b79",
+      "label": "1852",
+      "begin": "1852",
+      "end": "1852"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/16e769bf-a66c-5b43-aa32-7e7ea52ea7c5/fragment/e2506837-c38e-5e68-bf92-d92bcc0efb31",
+  "adjective": "intolerable intolerable"
+}

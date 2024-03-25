@@ -1,0 +1,74 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/2af7615e-821f-520a-8a45-9d84dbd4b3fe",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "empestée",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/033ec25a-6518-5d0e-825a-f2878635335a",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/033ec25a-6518-5d0e-825a-f2878635335a/fragment/441d68a6-afc3-5730-a0bc-5119c74bc68b",
+        "value": "Le 16 , la 26 / 53 est à Celles - les - Condé et facilite la progression des chars de combat dans les bois dominant la vallée du Surmelin .Le bombardement de toute cette région devient épouvantable ; l ' atmosphère est partout empestée de gaz toxiques .La 26 / 53 , au cours de cette lutte acharnée , organise défensivement les lisières de bois de la Jute qu ' elle occupe elle - même toute une nuit , face à l ' ennemi qui tient la ferme J anvier .",
+        "words": [
+          "atmosphère",
+          "gaz",
+          "toxiques",
+          "empestée",
+          "région"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/033ec25a-6518-5d0e-825a-f2878635335a/fragment/7c364361-a150-50f2-a824-e5401b1f274e",
+        "value": "L ' air est encore empesté par l ' ypérite .La chaleur torride accable les hommes et fait dégager des décombres de ce pauvre village , des odeurs pestilentielles .Une section de la 26 / 53 doit travailler pour assainir ces ruines .",
+        "words": [
+          "odeurs",
+          "pestilentielles",
+          "hommes",
+          "accable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/033ec25a-6518-5d0e-825a-f2878635335a/fragment/d854a957-617c-54b3-adce-bb3fbae11fbd",
+        "value": "Le village est un vrai charnier .L ' air est encore empesté par l ' ypérite .La chaleur torride accable les hommes et fait dégager des décombres de ce pauvre village , des odeurs pestilentielles .",
+        "words": [
+          "air",
+          "empesté"
+        ]
+      }
+    ],
+    "label": "Historique de la compagnie divisionnaire 26/53 du 10e régiment du génie",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6336300n",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/612",
+      "label": "Gas"
+    }
+  ],
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/331414b7-459f-57c8-8b42-305a321c0b0b",
+      "label": "atmosphère"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/annoyance",
+      "label": "annoyance"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/033ec25a-6518-5d0e-825a-f2878635335a/fragment/441d68a6-afc3-5730-a0bc-5119c74bc68b",
+  "license": "Public domain",
+  "adjective": "toxiques"
+}

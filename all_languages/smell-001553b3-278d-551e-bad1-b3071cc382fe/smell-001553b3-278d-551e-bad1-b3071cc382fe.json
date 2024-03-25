@@ -1,0 +1,92 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/001553b3-278d-551e-bad1-b3071cc382fe",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "smell",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0/fragment/388f658a-5592-5407-89bf-4a848175d245",
+        "value": "Dr .Moyse , the well - known blind philosopher , could distinguish a black dress on his friends by the smelLâ   The distance which a dog tracks his master is scarcely credible , and it is strange that the ancients attributed a similar faculty to the goose .Olaiis Borrich informs us , that the guides between Smyrna , Aleppo , and Babylon , when travelling the Desert , ascertain distances by the smell of the sand .",
+        "words": [
+          "Moyse",
+          "smelLâ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0/fragment/3a724f2b-5304-5dbf-ab27-36d25a6053b8",
+        "value": "In the Medical Essays and Observations , the case is related of a young lady who is blind , but who knew her friends by the touch ; for where any of them took her by the hand , she would call them by their right names .A deaf , dumb , and blind girl , in the asylum at Hartpool , still reco ^ zes the various inmates of the house by touch and smell , and can distinguish a silver spoon from 120 of baser metal .Casper Hauser could read after sunset , the numbers of a house at the distance of 1 80 paces , which in daylight he could not distinguish .",
+        "words": [
+          "house",
+          "the",
+          "smell",
+          "of the",
+          "the house",
+          "the various",
+          "A deaf , dumb , and blind girl",
+          "in the asylum at Hartpool",
+          "inmates of",
+          "various inmates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0/fragment/c82a4f43-2b77-5f36-b123-9c8abfee8c59",
+        "value": "Petetin , however , was greatly as - tonished on accidentally discovering that she heard him perfectly when he spoke near her stomach .Having satisfied himself of the fact by repeated trials , he afterwards perceived that it was the same with respect to the senses of sight and smell .The cataleptic patient read with the stomach , even through an intervening opaque substance : he also found that it was not necessary to speak directly upon the stomach in order to be heard , but that it sufiiced to speak at one end of a conductor , of which the other end rested upon the stomach .",
+        "words": [
+          "smell",
+          "he"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0/fragment/e365b5ea-e469-584e-81b9-6a8a34c7c5d4",
+        "value": "During the continuance of the paroxysm he was quite in - , sensible ; though pricked , pinched , or struck , he felt nothing .He could not see when his eyes were forced open ; he could not smell even the most volatile spirit , nor could he hear the report of a pistol when fired close beside him .Here , then , is no foundation for the hypothesis of one sense supplying the place of another , because all the external senses were as - certained to be completely dormant .",
+        "words": [
+          "smell",
+          "he",
+          "He",
+          "the most volatile spirit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0/fragment/f965dfd8-be3f-5787-8422-985839ce5959",
+        "value": "Moyse , the well - known blind philosopher , could distinguish a black dress on his friends by the smelLâ   The distance which a dog tracks his master is scarcely credible , and it is strange that the ancients attributed a similar faculty to the goose .Olaiis Borrich informs us , that the guides between Smyrna , Aleppo , and Babylon , when travelling the Desert , ascertain distances by the smell of the sand .ANIMAL MAGNETISM .",
+        "words": [
+          "Aleppo",
+          "Babylon",
+          "smell",
+          "of the sand"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/ab5db478-7f7d-5404-b276-6048a0a547dc",
+        "label": "Royal College of Physicians of Edinburgh"
+      }
+    ],
+    "label": "Animal magnetism, and homoeopathy : with notes illustrative of the influence of the mind on the body",
+    "url": "http://archive.org/details/b21689210",
+    "date": "1843",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b8763c2d-0392-5f16-b521-208643ca65b3",
+      "label": "1843",
+      "begin": "1843",
+      "end": "1843"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/170063/",
+      "label": "Aleppo"
+    },
+    {
+      "@id": "https://sws.geonames.org/5107612/",
+      "label": "Babylon"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/54c57a6c-0848-5559-ae33-a4be2bbf85b0/fragment/f965dfd8-be3f-5787-8422-985839ce5959"
+}

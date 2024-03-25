@@ -1,0 +1,384 @@
+## parfumée
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/af7d18a2-67ca-5c71-bf78-cb29b6d1cc35 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | parfumée |
+| source.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/01e30494-1161-5f32-aec8-30cf6706aa5e |
+| source.excerpts.0.value | — Le laurier - rose , ce bel arbrisseau , est considéré maintenant comme une plante assez vulgaire ; il orne un peu trop les portes des marchands de vin .LES PLANTES ET FLEURS D ’ APPARTEMENTS 57 Laurier - Tin ( famille des Caprifoliacées ) .— Cet arbuste est rustique dans le midi et dans l ’ ouest de la Musa ensete dans un bac en bois drapé d ’ étoffe . |
+| source.excerpts.0.words.0 | Laurier |
+| source.excerpts.0.words.1 | FLEURS |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/04afd6f6-4ae1-5843-8d30-49283755bd96 |
+| source.excerpts.1.value | — La famille des lis renferme une grande quantité de plantes qui sont aussi belles , aussi majestueuses les unes que les autres .Les lis ont des fleurs de toute beauté , un parfum agréable ; leur tige émerge d ’ un bouquet de superbes feuilles et leur donne un aspect des plus élégants .Le lis blanc est le plus connu et le plus cultivé ; il nous vient de l ’ Orient et fleurit en juin ; malheureusement , son parfum bien qu ’ agréable est tellement pénétrant qu ’ il est impossible de le placer dans les appartements , à moins que ce ne soient d ’ immenses pièces dans lesquelles l ’ air se renouvelle d ’ une façon permanente . |
+| source.excerpts.1.words.0 | agréable |
+| source.excerpts.1.words.1 | parfum |
+| source.excerpts.1.words.2 | fleurs |
+| source.excerpts.1.words.3 | lis |
+| source.excerpts.1.words.4 | tige |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/0a3b73f4-3528-574e-888b-3cecd460f2ec |
+| source.excerpts.2.value | C ’ est pendant sa jeunesse qu ’ on l ’ emploie comme plante d ' agrément , il est joli , gracieux , et le vert bleu de son feuillage est d ’ une nuance délicate .Son odeur est agréable , mais très prononcée .L ’ eucalyptus glo - bulus peut être placé dans une jardinière ou un cache - pot assez élégant . |
+| source.excerpts.2.words.0 | agréable |
+| source.excerpts.2.words.1 | très prononcée |
+| source.excerpts.2.words.2 | odeur |
+| source.excerpts.2.words.3 | Son |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/0b225d0c-2041-5788-92c4-d2135a60ae3f |
+| source.excerpts.3.value | Jasmins ( famille des Jasminées ) .— Les jasmins ont une odeur exquise , des fleurs et des feuilles charmantes qui ont le privilège de se renouveler pendant longtemps et avec lesquelles on fait des bouquets délicieux ; le jasmin le plus connu est le jasmin blanc d ’ Orient ; viennent ensuite celui d ' Espagne et celui de Chine .La bignone ou jasmin de Virginie est une plante à feuilles et à fleurs fort grandes et très décoratives , mais elle envahit entièrement le mur sur lequel elle pousse . |
+| source.excerpts.3.words.0 | odeur |
+| source.excerpts.3.words.1 | fleurs |
+| source.excerpts.3.words.2 | jasmin |
+| source.excerpts.3.words.3 | exquise |
+| source.excerpts.3.words.4 | feuilles |
+| source.excerpts.3.words.5 | jasmins |
+| source.excerpts.3.words.6 | pendant longtemps |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/0e24f279-48af-5104-ab22-a630f4c4ad6a |
+| source.excerpts.4.value | C ’ est de juillet à octobre qu ’ a lieu leur floraison ; toutes celles qui se trouvent sur les marchés et chez les horticulteurs viennent chaque année du Midi .Dans cette région oh fait des cultures immenses de tubéreuses dont on extrait le parfum .Glaïeuls ( famille des Iridées ) . |
+| source.excerpts.4.words.0 | parfum |
+| source.excerpts.4.words.1 | tubéreuses |
+| source.excerpts.4.words.2 | région |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/0f4a39c9-5159-59fd-92af-87fb48efd351 |
+| source.excerpts.5.value | Nous avons eu les roses les plus gracieuses pendant le mois de juin mais les Bengales - Bourbon et les noisettes fleurissent en juillet jusqu ’ aux gelées , ainsi que les roses perpétuelles telles que la rose du Roi .Nous aurons comme fleurs les œillets de Chine , les whitlavia , les amarantes , les arnebias , les cacalies , les ancolies , les crucianellas , le pourpier à grandes fleurs , le mélilot bleu , le gypsophile , l ’ impatiens , le thlaspis , le zinia , le pois de senteur , etc .Comme plantes exclusivement décoratives par leur feuillage , on peut citer : l ’ amarante , les ricins , les acanthes , les aralias , les balisiers , les bambous , les caladiums , les cordylines , les ficus et les fougères . |
+| source.excerpts.5.words.0 | senteur |
+| source.excerpts.5.words.1 | mélilot |
+| source.excerpts.5.words.2 | pois |
+| source.excerpts.5.words.3 | thlaspis |
+| source.excerpts.5.words.4 | impatiens |
+| source.excerpts.5.words.5 | zinia |
+| source.excerpts.5.words.6 | gypsophile |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/12a92e6e-bc40-5a1e-8a1f-ccdde107c40c |
+| source.excerpts.6.value | Elle ne se conserve pas , il faut donc éviter de la toucher ; dans ce cas , et lorsque les fraises sont superbes et viennent d ’ être cueillies , il est permis de les servir sans les éplucher , placées sur des feuilles dans un compotier .Au mois de février fleurissent les violettes ; on en piquera quelques - unes au milieu des fraises , les deux parfums se mêleront agréablement .Mars . |
+| source.excerpts.6.words.0 | parfums |
+| source.excerpts.6.words.1 | violettes |
+| source.excerpts.6.words.2 | Au mois de février |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/13dfbe72-d1c9-581f-ba06-4b90e8189e80 |
+| source.excerpts.7.value | On suit avec intérêt leur développement .Quand elles sont en fleurs , il faut se méfier de leur parfum .Cf ' ocus ( famille des Iridacées ) . |
+| source.excerpts.7.words.0 | parfum |
+| source.excerpts.7.words.1 | leur |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/22ec347e-bbbc-5ae9-a0a8-32d0a1c3f0d3 |
+| source.excerpts.8.value | Les suspensions peuvent être accrochées au plafond , elles contiendront des zerbinas , des saxifrages sarmen - teux , des cymballaires , des ficoïdes , des euphorbes , etc .Pendant la belle saison , les fleurs seront répandues à profusion dans la salle à manger , en ayant toutefois le soin d ’ éviter d ’ y placer celles dont le parfum peut être nuisible aux convives .Comme milieu de table , si c ’ est à la campagne , on prendra un plat de terre assez profond qui sera rempli de sable humide ; on y piquera des branches de fleurs coupées , arrangées avec goût ; la tige de ces fleurs ne LES PLANTES ET FLEURS D ’ APPARTEMENTS 19 sera pas trop haute , afin de ne pas gêner la vue , ce qui est désagréable . |
+| source.excerpts.8.words.0 | parfum |
+| source.excerpts.8.words.1 | fleurs |
+| source.excerpts.8.words.2 | nuisible |
+| source.excerpts.8.words.3 | la salle à manger |
+| source.excerpts.8.words.4 | Pendant la belle saison |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/25889dc5-1438-5b6e-a34c-59bf10ef156d |
+| source.excerpts.9.value | Triteleia ( famille des Liliacées ) .— Les tiges florales de cette plante ne dépassent guère 12 ou lo centimètres , aussiseprète - t - elle facilement à la culture en pots ou en jardinière ; il faut mettre plusieurs bulbes ensemble pour obtenir un bouquet odorant d ’ un blanc immaculé .Les soins à donner aux triteleias sont les mêmes que ceux que l ’ on prodigue aux autres plantes à oignons . |
+| source.excerpts.9.words.0 | plante |
+| source.excerpts.9.words.1 | bouquet odorant |
+| source.excerpts.9.words.2 | tiges florales |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/2cf56984-5cee-5ce4-a5c7-320ddba795bc |
+| source.excerpts.10.value | On les sème dans le mois de mai .Pois de senteur ( famille des Légumineuses ) .— Cette plante peut grimper jusqu ’ à la hauteur de deux mètres ; ses fleurs assez variées de couleur ont une odeur douce qui est des plus agréables . |
+| source.excerpts.10.words.0 | Pois |
+| source.excerpts.10.words.1 | senteur |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/2fcba91d-a584-504a-a5ed-49da18f1c1cc |
+| source.excerpts.11.value | Le mimosa par exemple , si joli et si décoratif tout à la fois ; il en existe plusieurs espèces ayant toutes la même fleur mais dont le feuillage est différent .Bien disposé dans des vases , il garnit une pièce et dure longtemps ; il est prudent de se méfier du parfum qu ’ il répand autour de lui car il est susceptible de donner de violents maux de tête .Le mimosa paraît avoir acquis , depuis quelques années la faveur du public parisien . |
+| source.excerpts.11.words.0 | parfum |
+| source.excerpts.11.words.1 | vases |
+| source.excerpts.11.words.2 | violents maux de tête |
+| source.excerpts.11.words.3 | pièce |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/303e82ec-d628-5afb-9369-fd4aca8a7ce6 |
+| source.excerpts.12.value | Comme bordure dans les jardinières composées exclusivement de fleurs blanches elle est toute indiquée .Les feuilles de cette plante ont la propriété d ’ exhaler une bonne odeur se rapprochant de celle du foin coupé ; on les place dans le linge auquel elles communiquent leur parfum .Bruyères ( famille des Éricacées ) . |
+| source.excerpts.12.words.0 | bonne |
+| source.excerpts.12.words.1 | parfum |
+| source.excerpts.12.words.2 | odeur |
+| source.excerpts.12.words.3 | elles |
+| source.excerpts.12.words.4 | leur |
+| source.excerpts.12.words.5 | celle |
+| source.excerpts.12.words.6 | linge |
+| source.excerpts.12.words.7 | feuilles de cette plante |
+| source.excerpts.12.words.8 | foin coupé |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/3079b423-cd46-52e0-847f-1ffb32d98b6f |
+| source.excerpts.13.value | .Il y a plusieurs espèces de pivoines , entre autres , celle de Chine , la pivoine en arbre et la pivoine odorante dont le parfum rappelle un peu celui de la rose .Ces fleurs coupées sont faites pour garnir de grands et beaux vases ou des corbeilles au milieu d ’ une table . |
+| source.excerpts.13.words.0 | odorante |
+| source.excerpts.13.words.1 | parfum |
+| source.excerpts.13.words.2 | rose |
+| source.excerpts.13.words.3 | pivoine |
+| source.excerpts.13.words.4 | pivoines |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/3080dfbd-0ccf-5f40-979c-715bdc11ac82 |
+| source.excerpts.14.value | Pois vivace .— Cette plante , comme le pois de senteur , nous offre de belles fleurs roses ou blanches et orne d ’ une façon gracieuse les balcons en grimpant à une hauteur de un à deux mètres , ses touffes sont énormes , mais ses fleurs ne jouissent d ' aucun parfum .CHAPITRE XIII PLANTES GRIMPANTES Nous avons consacré quelques lignes , dans un chapitre précédent , aux plantes qui grimpent en s ’ attachant à des ficelles ou à des treillages ; nous voulons en nommer quelques - unes qui sont tout à fait propres à cet usage ; néanmoins presque toutes les familles pour - raient se prêter à ce genre de garnitures . |
+| source.excerpts.14.words.0 | parfum |
+| source.excerpts.14.words.1 | fleurs |
+| source.excerpts.14.words.2 | senteur |
+| source.excerpts.14.words.3 | plante |
+| source.excerpts.14.words.4 | balcons |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/32507c88-66e2-5a2c-9e69-90ca3dd60228 |
+| source.excerpts.15.value | Dans ce jardin d ’ hiver , il sera bon de placer une fontaine ; le bruit de l ’ eau est toujours agréable à entendre , et l ’ utilité s ’ en fait sentir : 1 ° pour les arrosages ; 2 ° afin d ’ entretenir une certaine fraîcheur dans l ’ atmosphère et d ’ atténuer le fâcheux effet de la vapeur .MANIÈRE DE FAIRE UNE * CORBEILLE DE FLEURS .Pour faire une corbeille , on procède comme pour un bouquet ; mais au lieu d ’ eau c ’ est du sable ou de la mousse très humide que l ’ on emploie , la terre glaise peut encore convenir dans ce cas . |
+| source.excerpts.15.words.0 | FLEURS |
+| source.excerpts.15.words.1 | CORBEILLE |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/3db96f03-7d77-5057-9fc2-df0c7f6c34e3 |
+| source.excerpts.16.value | Vet ' veines ( famille des Yerbénacées ) .— Parmi les verveines , ce sont les hybrides qu ’ il faut choisir et cultiver ; il en existe un très grand nombre d ’ espèces , toutes plus charmantes les unes que les autres ; elles affectent une grande variété de couleurs et exhalent une odeur douce et discrète ; il faut les placer parmi les plantes de taille plus que moyenne .La chaleur et l ’ eau leur réussissent toujours . |
+| source.excerpts.16.words.0 | douce |
+| source.excerpts.16.words.1 | odeur |
+| source.excerpts.16.words.2 | elles |
+| source.excerpts.16.words.3 | discrète |
+| source.excerpts.16.words.4 | verveines |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/4223f14a-effa-53cc-bec1-482943f53a09 |
+| source.excerpts.17.value | Les lis ont des fleurs de toute beauté , un parfum agréable ; leur tige émerge d ’ un bouquet de superbes feuilles et leur donne un aspect des plus élégants .Le lis blanc est le plus connu et le plus cultivé ; il nous vient de l ’ Orient et fleurit en juin ; malheureusement , son parfum bien qu ’ agréable est tellement pénétrant qu ’ il est impossible de le placer dans les appartements , à moins que ce ne soient d ’ immenses pièces dans lesquelles l ’ air se renouvelle d ’ une façon permanente .A côté du Us blanc nous avons le lis tigré , le lis doré , le lis rouge , le lis des jardiniers , le lis safrané ; ces espèces , surtout le lis des jardiniers peuvent être cultivées en pots et sont fort belles au milieu d ’ un groupe d ’ autres fleurs . |
+| source.excerpts.17.words.0 | agréable |
+| source.excerpts.17.words.1 | parfum |
+| source.excerpts.17.words.2 | son |
+| source.excerpts.17.words.3 | air |
+| source.excerpts.17.words.4 | pénétrant |
+| source.excerpts.17.words.5 | les appartements |
+| source.excerpts.17.words.6 | en juin |
+| source.excerpts.17.words.7 | Orient |
+| source.excerpts.17.words.8 | lis blanc |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/4ae0f0ad-c388-5a06-96da-17e2e8f9e48b |
+| source.excerpts.18.value | A côté des primevères , et leur ressemblant beaucoup , nous trouvons les Auricules , fleurs charmantes qui font les délices des Anglais pour la garniture de leurs fenêtres .Le lièsêda ( famille des Résédacées ) est une des plantes les plus connues et dont tout le monde apprécie le mérite et le parfum délicieux ; on la cultive en abondance et elle est vendue partout ; la variété à grandes fleurs est très recherchée .Dans les bouquets , à l ’ époque où le réséda fleurit , il faut en placer en grande quantité . |
+| source.excerpts.18.words.0 | parfum |
+| source.excerpts.18.words.1 | plantes |
+| source.excerpts.18.words.2 | délicieux |
+| source.excerpts.18.words.3 | tout le monde |
+| source.excerpts.18.words.4 | lièsêda |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/5993222e-a151-5d9a-bf78-a6618713a737 |
+| source.excerpts.19.value | C ’ est l ’ emblème de la modestie , la fleur qui sied à tous les âges , à toutes les conditions ; elle croît à peu près sous tous les climats et tous les peuples sont heureux de la posséder .Il en existe différentes espèces : nous avons d ’ abord la violette des bois , qui nous fait tressaillir d ' aise quand au printemps nous l ' apercevons se cachant sous les touffes d ' herbe fraîchement éclose ; c ’ est une des premières fleurs des beaux jours ; la violette des Pyrénées , la violette des quatre saisons dont on trouve à acheter des bouquets pour quelques sous , on peut en remplir des corbeilles en entourant le tout de mousse ; il existe plusieurs variétés de cette espèce , les unes à fleurs simples , les autres à fleurs doubles , à fleurs blanches , d ’ autres rouges ou violettes ; la violette russe ou du Gzar est remarquable par la longueur de sa tige et le développement de sa magnifique corolle ; enfin la violette de Parme , la plus délicate et la plus parfumée , se cultive en pot , sous châssis .Un pot de cette espèce de fleurs suffit pour répandre un doux parfum dans une pièce . |
+| source.excerpts.19.words.0 | parfumée |
+| source.excerpts.19.words.1 | violette |
+| source.excerpts.19.words.2 | au printemps |
+| source.excerpts.19.words.3 | violette russe |
+| source.excerpts.19.words.4 | Gzar |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/5f583f12-ca05-5ccd-a6a1-bb38a60a9837 |
+| source.excerpts.20.value | — Le chèvrefeuille est un arbuste qui comprend trois familles différentes : le chèvrefeuille volubile , non volubile , et le chèvrefeuille de serre .Ses fleurs sont jolies et ont un doux parfum très agréable ; elles s ’ épanouissent au printemps .Lierre ( famille des Araliacées ) . |
+| source.excerpts.20.words.0 | doux |
+| source.excerpts.20.words.1 | parfum |
+| source.excerpts.20.words.2 | fleurs |
+| source.excerpts.20.words.3 | très agréable |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/667cee70-bb5c-55af-8c6d-8f9902196d73 |
+| source.excerpts.21.value | Oui , si vous tenez aux plantes rares , telles que les orchidées , les palmiers , les fougères des tropiques , ces reines de l ’ horticulture ne peuvent convenir qu ’ aux fortunés ; mais si votre budget est plus restreint , il vous restera encore un grand nombre d ’ arbustes rus - 1 — — mm 2 AVANT - PROPOS 4 tiques , de fougères vulgaires et même de plantes des champs et des bois qui , disposées avec goût et entretenues avec soin offriront un coup d ’ œil des plus agréables ? Les amateurs de plantes aquatiques auront une liste aussi fournie que variée .Il y a encore les oignons à fleurs dont le développement est curieux à observer , et l ’ effet charmant , quand les fleurs s ’ épanouissent et brillent des plus vives couleurs en embaumant l ’ air de leur parfum subtil .Les plantes aériennes , s ’ il est permis de donner ce nom à celles qui peuvent pousser suspendues à un fîl dans un paquet de mousse humide , une éponge , sont d ’ un aspect bizarre et gracieux qui étonne à première vue . |
+| source.excerpts.21.words.0 | subtil |
+| source.excerpts.21.words.1 | parfum |
+| source.excerpts.21.words.2 | fleurs |
+| source.excerpts.21.words.3 | air |
+| source.excerpts.21.words.4 | leur |
+| source.excerpts.21.words.5 | oignons |
+| source.excerpts.21.words.6 | embaumant |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/6b5744f7-06b5-5043-85b2-a3a1baabeba7 |
+| source.excerpts.22.value | 2 ° Les iris h rhizome sont ceux qui renferment le plus grand nombre de genres et les plus connus .En première ligne se place l ’ iris germanique , qui aune superbe fleur de deux nuances , l ’ iris de Florence dont la fleur est blanche et dont la racine fournit la poudre d ’ iris rappelant l ’ odeur suave de la violette .Tous les iris fleurissent au commencement de l ’ été . |
+| source.excerpts.22.words.0 | suave |
+| source.excerpts.22.words.1 | odeur |
+| source.excerpts.22.words.2 | fleur |
+| source.excerpts.22.words.3 | violette |
+| source.excerpts.22.words.4 | poudre |
+| source.excerpts.22.words.5 | iris |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/6c20839c-babb-51d6-a047-0f2be82eefc6 |
+| source.excerpts.23.value | Les hémérocalles sont rustiques et peuvent se cultiver dans toutes les terres .Il en existe une espèce à fleurs blanches dont le parfum rappelle celui de la vanille , et une autre espèce dont les fleurs plus grandes que les autres sont d ’ un jaune fauve très joli .( l ) Pour apprendre lesnomsdes plantes ainsique les premières notions de botanique , nous recommandons la Petite Flore de M . |
+| source.excerpts.23.words.0 | parfum |
+| source.excerpts.23.words.1 | vanille |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/6cd4377b-a0e3-5bfa-92db-944f96197fbd |
+| source.excerpts.24.value | Thlaspis ou téraspic vivace ( famille des Crucifères ) .— On appelle encore le thlaspis corbeilled ’ argent , il pousse en touffes qui forment de jolies bordures ; il jouit d ' un agréable parfum .Si l ’ on a cueilli des bouquets de cette plante , il faut bien veiller dans la pièce où ils sont placés à ne pas laisser entrer les abeilles qui sont très friandes du suc de ces fleurs . |
+| source.excerpts.24.words.0 | agréable |
+| source.excerpts.24.words.1 | parfum |
+| source.excerpts.24.words.2 | il |
+| source.excerpts.24.words.3 | thlaspis |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/73e774ab-d6bc-579d-9586-a0aeca50fcf0 |
+| source.excerpts.25.value | — Ces plantes fort jolies comptent de nombreuses espèces parmi lesquelles figurent : le narcisse doré , à fleurs jaune pâle avec un calice orangé , le narcisse incomparable , toujours de couleur jaune , le narcisse grand monarque dont les fleurs réunies en bouquet tirent beaucoup sur le blanc .La grande jonquille ou narcisse odorant est d ’ un jaune foncé ; enfin le plus connu , le narcisse des poètes , se trouve dans les bois des environs de Paris , il est jaune d ’ or et n ’ a aucun parfum .Les oignons de narcisse peuvent se cultiver en appartement , ils font très bien dans une jardinière au milieu de la mousse verte . |
+| source.excerpts.25.words.0 | parfum |
+| source.excerpts.25.words.1 | odorant |
+| source.excerpts.25.words.2 | narcisse |
+| source.excerpts.25.words.3 | aucun |
+| source.excerpts.25.words.4 | grande jonquille |
+| source.excerpts.25.words.5 | les bois des environs de Paris |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/7d079331-af1d-5c04-a654-99ef97044396 |
+| source.excerpts.26.value | Des guirlandes de violettes de Parme pour les jeunes femmes et des guirlandes blanches pour les jeunes filles sont charmantes .LES PLANTES ET FLEURS D APPARTEMENTS 39 Il existe des petits tubes de verre munis d ’ un crochet , pour placer les fleurs soit au corsage , soit dans les cheveux ; le tube est rempli d ’ eau ou de coton mouillé Bouquet de corsage mouté .et se dissimule facilement ; par ce moyen , les fleurs restent fraîches au grand étonnement de tous . |
+| source.excerpts.26.words.0 | fleurs |
+| source.excerpts.26.words.1 | FLEURS |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/802774ce-510b-5424-a797-241cab8aa8bb |
+| source.excerpts.27.value | L ’ Angleterre et la France ont dix espèces d ’ orchidées indigènes ; la vanille est de la même famille .Ce sont les plus précieuses des fleurs cultivées , les unes pour leur beauté , d ’ autres pour leur parfum .Les ressemblances qu ’ elles affectent sont quelquefois merveilleuses ; dans certaines espèces , les fleurs sont semblables à une grosse araignée , ou à différents insectes ; dans l ’ oncidier papillon , par exemple ( oncidiuspapilio ) , on croirait voir un papillon merveilleux . |
+| source.excerpts.27.words.0 | parfum |
+| source.excerpts.27.words.1 | leur |
+| source.excerpts.27.words.2 | fleurs cultivées |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/8de66294-74e4-5dbd-b031-5a6d962bede5 |
+| source.excerpts.28.value | .44 Eucalyptus 52 Eucalyptus globulus 52 Euphorbe 18 Eaux ébénier 104 Fétuque 109 Ficoïde 18 , 104 F ’ icus 7 , 14 , 47 , 101 , 108 F ' icus élaslica 51 Figue 29 , 30 , 31 Fleurs des champs 119 Flouve odorante 109 Fougère .. |
+| source.excerpts.28.words.0 | Eucalyptus |
+| source.excerpts.28.words.1 | Figue |
+| source.excerpts.28.words.2 | Fougère |
+| source.excerpts.28.words.3 | odorante |
+| source.excerpts.28.words.4 | Euphorbe |
+| source.excerpts.28.words.5 | Eucalyptus globulus |
+| source.excerpts.28.words.6 | Flouve |
+| source.excerpts.28.words.7 | Fétuque |
+| source.excerpts.28.words.8 | Fleurs des champs |
+| source.excerpts.28.words.9 | Ficoïde 18 |
+| source.excerpts.28.words.10 | Eaux ébénier |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/8ef28769-4694-531e-bb57-4da9dbf8c68f |
+| source.excerpts.29.value | Pois de senteur ( famille des Légumineuses ) .— Cette plante peut grimper jusqu ’ à la hauteur de deux mètres ; ses fleurs assez variées de couleur ont une odeur douce qui est des plus agréables .Sa culture est facile , il suffit de semer ses graines sur place dès le commencement du printemps . |
+| source.excerpts.29.words.0 | douce |
+| source.excerpts.29.words.1 | odeur |
+| source.excerpts.29.words.2 | ses fleurs |
+| source.excerpts.29.words.3 | plante |
+| source.excerpts.29.words.4 | plus agréables |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/8f6037d1-8eab-5f60-9ef9-d758c6d50802 |
+| source.excerpts.30.value | ■ — Le musc est peu ornemental , nous en parlons néanmoins parce que cette plante est fort connue et recherchée dans beaucoup de provinces du Nord et de l ’ Ouest .Il est peu de familles dans ces régions qui ne possèdent un pot de mimulus sur leur fenêtre ; ces fleurs répandent une odeur de musc assez prononcée .Escehschollzie ( Coquelicot jaune ) . |
+| source.excerpts.30.words.0 | odeur |
+| source.excerpts.30.words.1 | musc |
+| source.excerpts.30.words.2 | assez prononcée |
+| source.excerpts.30.words.3 | ces fleurs |
+| source.excerpts.30.words.4 | mimulus |
+| source.excerpts.30.words.5 | dans ces régions |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/a0789484-3ce2-54a7-8d30-19b94fa741f1 |
+| source.excerpts.31.value | Tubéreuse ( famille des Liliacées ) .— Les tubéreuses sont de belles plantes dont les fleurs blanches se terminent en épi et exhalent une odeur des plus suaves , mais des plus pénétrantes ; c ’ est pour cette raison qu ’ il ne faut jamais les placer dans les appartements , si ce n ’ est dans les jardins d ’ hiver où l ’ on ne séjourne pas longtemps .C ’ est de juillet à octobre qu ’ a lieu leur floraison ; toutes celles qui se trouvent sur les marchés et chez les horticulteurs viennent chaque année du Midi . |
+| source.excerpts.31.words.0 | odeur |
+| source.excerpts.31.words.1 | fleurs |
+| source.excerpts.31.words.2 | plantes |
+| source.excerpts.31.words.3 | plus suaves |
+| source.excerpts.31.words.4 | jardins |
+| source.excerpts.31.words.5 | tubéreuses |
+| source.excerpts.31.words.6 | les appartements |
+| source.excerpts.31.words.7 | plus pénétrantes |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/a5a71569-7fee-5399-ab4a-d880f41ae254 |
+| source.excerpts.32.value | 29 Pétunia 78 , 105 , 106 Phlox ., 72 , 104 , 106 , 109 110 Phoenix cauaiiensis 63 Phyllocactus 97 Pied d alouette 103 , 109 Pivoine 72 Plantes à oignons 48 Plantes aquatiques 20 , 48 Plantes bulbeuses 48 Plantes grasses 7 , 48 Plantes grimpantes 48 Plantes ornementales 48 Plumbago 110 Poire 31 Poires de Saiut - Gerinaia 23 Pois de senteur .. |
+| source.excerpts.32.words.0 | senteur |
+| source.excerpts.32.words.1 | Phoenix cauaiiensis |
+| source.excerpts.32.words.2 | Phyllocactus |
+| source.excerpts.32.words.3 | Gerinaia |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/a6e35335-95a5-529b-bcb7-48b5f47a678e |
+| source.excerpts.33.value | Elles sont en général charnues et épaisses comme les cactus , quelquefois épineuses et affectent les formes les plus bizarres .Les fleurs des plantes grasses varient du blanc au jaune et au rouge ; douées pour la plupart d ’ un parfum et d ’ une beauté remarquables , elles fleurissent facilement dès qu ’ elles sont un peu poussées .On a remarqué que ces végétaux ont très peu de racines et se contentent de fort peu de terre , aussi y LES PLANTES ET FLEURS D ' APPARTEMENTS 97 a - t - il des espèces qui vivent dans des pots tout à fait minuscules . |
+| source.excerpts.33.words.0 | parfum |
+| source.excerpts.33.words.1 | elles |
+| source.excerpts.33.words.2 | remarquables |
+| source.excerpts.33.words.3 | fleurs des plantes grasses |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/ad51e3b0-682a-52d7-8636-cc755271e10b |
+| source.excerpts.34.value | On les vend dans des petites voitures où elles offrent à nos yeux un coup d ’ œil délicieux et varié .Il y a là les anémones rosées , les jacinthes blanches , les narcisses odorants , les violettes de Parme , la giroflée quarantaine et le mimosa .Disposées au milieu de nos plantes à feuillage vert , elles produisent un effet charmant . |
+| source.excerpts.34.words.0 | odorants |
+| source.excerpts.34.words.1 | narcisses |
+| source.excerpts.34.words.2 | anémones |
+| source.excerpts.34.words.3 | giroflée |
+| source.excerpts.34.words.4 | violettes de Parme |
+| source.excerpts.34.words.5 | mimosa |
+| source.excerpts.34.words.6 | jacinthes blanches |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/af7fa1e0-5629-5381-93bc-b8c4cbacedc0 |
+| source.excerpts.35.value | — L ’ héliotrope LES PLANTES ET FLEURS D ’ APPARTEMENTS 7 .Ï est une des plantes les plus connues et les plus aimées ; elle doit cette préférence et cette vogue à la multitude de ses fleurs autant qu ’ à son parfum délicieux ; il existe des héliotropes d ’ un violet presque blanc , d ’ autres d ’ un violet très foncé ; ils craignent la trop grande chaleur et ne demandent que très peu d ’ eau .En bouquet , celte plante se marie d ’ une façon charmante avec les roses et les autres fleurs . |
+| source.excerpts.35.words.0 | parfum |
+| source.excerpts.35.words.1 | son |
+| source.excerpts.35.words.2 | ils |
+| source.excerpts.35.words.3 | elle |
+| source.excerpts.35.words.4 | plantes |
+| source.excerpts.35.words.5 | délicieux |
+| source.excerpts.35.words.6 | héliotropes |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/c148606c-05bb-56f3-918d-17ff083821cd |
+| source.excerpts.36.value | — Les géraniums sont des plantes trop connues pour que nous soyons obligé d ’ en parler longuement ; nous dirons seulement qu ’ ils sont jolis , gracieux et que la culture en est on ne peut plus facile ; ils aiment par - dessus tout la sécheresse .On compte de nombreuses espèces de géraniums ; il y en a des doubles et des simples ; le géranium lierre est très décoratif et garnit fort bien les vases grecs et les suspensions ; il y a encore le géranium rosa dont on extrait un parfum servant à falsifier l ’ essence de roses , mais on le place souvent parmi les pelnr - goniums .Pélargonium . |
+| source.excerpts.36.words.0 | parfum |
+| source.excerpts.36.words.1 | roses |
+| source.excerpts.36.words.2 | géranium |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/c4a9c1bb-83dc-565a-bd44-e514fd7e13c5 |
+| source.excerpts.37.value | Si on veut avoir des fleurs en septembre il faut alors semer les némophiles , les soucis de Trianon , les campanules , le pourpier , le leptosiphon , etc ., pour être repiqués en pot à l ’ automne et fleurir l ’ année suivante on trouve les aconits divers , l ’ aspérule odorante , la benoite , la buglosse , les calcéolaires , l ’ alysse ou corbeille d ’ or , etc .On peut déjà planter en terre les colchiques , la fritillaire , les lis blancs , le perce - neige , les scilles , etc . |
+| source.excerpts.37.words.0 | odorante |
+| source.excerpts.37.words.1 | buglosse |
+| source.excerpts.37.words.2 | benoite |
+| source.excerpts.37.words.3 | aconits |
+| source.excerpts.37.words.4 | aspérule |
+| source.excerpts.37.words.5 | l ’ automne |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/cc676b93-b1dc-5d89-8a31-f85c513d9a3a |
+| source.excerpts.38.value | — Les ixoras exigent une certaine chaleur et une certaine humidité , ils prospèrent et fleurissent dans les serres à la même température que les Orchidées ; ils peuvent donc trouver leur place dans la décoration des appartements ; leurs feuilles doivent être lavées souvent , on doit aussi les visiter alin d ’ en éloigner les cochenilles , les kermès et autres animaux qui proviennent des serres .Les ixoras ont environ un mètre de hauteur , leur feuillage est somptueux et leurs fleurs d ’ une élégance particulière ; elles sont blanches lavées de rose et répandent une odeur des plus agréables .Rhodoleia championi . |
+| source.excerpts.38.words.0 | odeur |
+| source.excerpts.38.words.1 | elles |
+| source.excerpts.38.words.2 | leur |
+| source.excerpts.38.words.3 | des plus agréables |
+| source.excerpts.38.words.4 | leurs fleurs |
+| source.excerpts.38.words.5 | ixoras |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/d4531487-536c-5bb1-b01f-c9a0928845b4 |
+| source.excerpts.39.value | Comme fleurs , les jardinières ne manqueront pas encore de garniture car il y a les morisias , les lobelias , les phlox , les cupidones , les campanules , les agératums , les amaryllis d ’ aulomne , les colchiques d ’ automne , les passe - roses , etc .Lorsque l ’ on veut avoir du gazon en pot ou en caisse , c ’ est à cette époque qu ’ il faut le semer de préférence , le ray - grass anglais est l ’ herbe qui devient la plus fine , il y a encore l ’ agrostis vulgaire , la fétuque des près , la canche flexible , la flouve odorante , etc .Pour avoir des fleurs en mai ou en juin , on sème au mois d ’ août : les coréopsis , la linaire , l ’ immortelle annuelle , le muflier , la saponaire , etc . |
+| source.excerpts.39.words.0 | odorante |
+| source.excerpts.39.words.1 | flouve |
+| source.excerpts.39.words.2 | gazon |
+| source.excerpts.39.words.3 | agrostis |
+| source.excerpts.39.words.4 | canche |
+| source.excerpts.39.words.5 | fétuque des près |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/d8b4c8cf-c231-5c05-8702-3cadaef40e85 |
+| source.excerpts.40.value | — La giroflée est une plante vulgaire mais très jolie et très aimée ; elle pousse à l ’ état sauvage sur les vieux édifices et les vieux murs ; dans ces endroits elle produit un effet des plus décoratifs .Parmi les giroflées , il y ala quarantaine à fleurs odorantes et de couleur variée ; la giroflée grecque , la giroflée de Mahon , le rameau d ’ or .C ’ est une de ces plantes qui a inspiré àSaintine le petit chef - d ’ œuvre intitulé Picciola . |
+| source.excerpts.40.words.0 | fleurs |
+| source.excerpts.40.words.1 | odorantes |
+| source.excerpts.40.words.2 | giroflées |
+| source.excerpts.40.words.3 | giroflée |
+| source.excerpts.40.words.4 | fleurs odorantes |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/daaa0b1b-26da-5b0a-8540-1442e7e5babd |
+| source.excerpts.41.value | Pétunias ( famille des Solanées ) .— Les pétunias se prêtent facilement à la culture en pots , aussi les trouve - t - on un peu partout ; ces charmantes fleurs sont très décoratives et jouissent d ’ une odeur douce et agréable la culture en est très facile ; elles arrivent quelquefois à un développement de 10 à 12 centimètres , leur couleur varie du blanc au violet foncé ; il existe depuis quelques années des pétunias à fleurs doubles .Aspérule ( famille des Rubiacées ) . |
+| source.excerpts.41.words.0 | agréable |
+| source.excerpts.41.words.1 | douce |
+| source.excerpts.41.words.2 | odeur |
+| source.excerpts.41.words.3 | fleurs |
+| source.excerpts.41.words.4 | pétunias |
+| source.excerpts.41.words.5 | depuis quelques années |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/dac8344b-25cd-5fae-815a-0b574d9f920c |
+| source.excerpts.42.value | Juin .Le mois de juin nous offre à choisir entre un grand nombre de roses qui embaument l ’ air de leur parfum .Les dahlias , les rhododendrons , les fuchsias , les adonis , les pélargoniums , les kalmias , les lis , les belladones , les pétunias , le réséda , les phlox , les clarkias élégants , les gidias , les linaires , les saxifrages , etc , , fleurissent à cette époque . |
+| source.excerpts.42.words.0 | parfum |
+| source.excerpts.42.words.1 | roses |
+| source.excerpts.42.words.2 | air |
+| source.excerpts.42.words.3 | leur |
+| source.excerpts.42.words.4 | mois de juin |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/dd04c7b4-d6c9-5ce1-b60a-3fbe0eedcee6 |
+| source.excerpts.43.value | Oncidie à fleurs maculées .— Le genre Oncidium est celui qui produit le plus grand nombre d ’ espèces d ’ orchidées ; elles sont douées d ’ un coloris superbe et bigarré , et ont une longue durée et une agréable odeur ; ces espèces ont entre elles un tel air de famille qu ’ il est impossible de s ’ y tromper .Ces plantes sont toutes d ’ un prix fort élevé et vont bien dans les salons et les boudoirs élégants et riches . |
+| source.excerpts.43.words.0 | agréable |
+| source.excerpts.43.words.1 | odeur |
+| source.excerpts.43.words.2 | elles |
+| source.excerpts.43.words.3 | ces espèces |
+| source.excerpts.43.words.4 | espèces d ’ orchidées |
+| source.excerpts.43.words.5 | Oncidium |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/de777dce-0f99-582b-9692-4459984e530d |
+| source.excerpts.44.value | Pendant ce mois les fruits sont à peu près les mêmes qu ’ en mars , les fraises déjà nommées continuent à donner ; on varie la décoration des compotiers en les ornant de primevères , de pensées et de lilas qui est en pleine floraison à cette époque .Ces fleurs si belles ne peuvent se placer sans inconvénient dans les appartements à cause de l ’ odeur trop prononcée qu ’ elles dégagent .On trouve encore au fruitier comme poires , la bergamote de Pâques et de Hollande , le beurré rance et le bon chrétien qui se garde jusqu ’ en juin . |
+| source.excerpts.44.words.0 | odeur |
+| source.excerpts.44.words.1 | fleurs |
+| source.excerpts.44.words.2 | les appartements |
+| source.excerpts.44.words.3 | trop prononcée |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/e153adcc-39b2-5676-ac98-eae74b22a1ac |
+| source.excerpts.45.value | Agapantke ( famille des Liliacées ) .— Appelée encore tubéreuse bleue ; cette fleur disposée en ombelle croît souvent au bout d ’ une tige mesurant un mètre de hauteur ; elle n ’ a aucune odeur .Ornithogale ( famille des Liliacées ) . |
+| source.excerpts.45.words.0 | aucune |
+| source.excerpts.45.words.1 | odeur |
+| source.excerpts.45.words.2 | fleur |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/e31c7e19-f5c8-5091-9401-78f0349a7320 |
+| source.excerpts.46.value | Ces fleurs coupées sont faites pour garnir de grands et beaux vases ou des corbeilles au milieu d ’ une table .LES PLANTES ET FLEURS D ’ APPARTEMENTS 73 Pyrèthre ( famille des Composées ) .— Le pyrèthre est originaire du Caucase ; c ’ est une belle plante dont la Heur a beaucoup de ressemblance avec la reine - marguerite , ses feuilles sont bien découpées et sa tige élégante ; il y a le pyrèthre rose , le blanc , le rouge foncé , le rouge clair , le lilas et le violet . |
+| source.excerpts.46.words.0 | FLEURS |
+| source.excerpts.46.words.1 | PLANTES |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/e77252a4-8c54-5738-b035-d084bf6f5aa2 |
+| source.excerpts.47.value | Héliotrope ( famille des Borraginées ) .— L ’ héliotrope LES PLANTES ET FLEURS D ’ APPARTEMENTS 7 .Ï est une des plantes les plus connues et les plus aimées ; elle doit cette préférence et cette vogue à la multitude de ses fleurs autant qu ’ à son parfum délicieux ; il existe des héliotropes d ’ un violet presque blanc , d ’ autres d ’ un violet très foncé ; ils craignent la trop grande chaleur et ne demandent que très peu d ’ eau . |
+| source.excerpts.47.words.0 | héliotrope |
+| source.excerpts.47.words.1 | FLEURS |
+| source.excerpts.47.words.2 | PLANTES |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/ea300710-50a3-5d48-9458-97979d921b52 |
+| source.excerpts.48.value | Il en existe différentes espèces : nous avons d ’ abord la violette des bois , qui nous fait tressaillir d ' aise quand au printemps nous l ' apercevons se cachant sous les touffes d ' herbe fraîchement éclose ; c ’ est une des premières fleurs des beaux jours ; la violette des Pyrénées , la violette des quatre saisons dont on trouve à acheter des bouquets pour quelques sous , on peut en remplir des corbeilles en entourant le tout de mousse ; il existe plusieurs variétés de cette espèce , les unes à fleurs simples , les autres à fleurs doubles , à fleurs blanches , d ’ autres rouges ou violettes ; la violette russe ou du Gzar est remarquable par la longueur de sa tige et le développement de sa magnifique corolle ; enfin la violette de Parme , la plus délicate et la plus parfumée , se cultive en pot , sous châssis .Un pot de cette espèce de fleurs suffit pour répandre un doux parfum dans une pièce .En bouquet elle donne un air de fête et d ’ élégance à l ’ appartement qu ’ elle garnit . |
+| source.excerpts.48.words.0 | doux |
+| source.excerpts.48.words.1 | parfum |
+| source.excerpts.48.words.2 | pièce |
+| source.excerpts.48.words.3 | cette espèce de fleurs |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/eab0584c-37c8-5e20-a7fc-b51a0076597a |
+| source.excerpts.49.value | Ce changement d ’ air ne doitjamais êtrefaitnile matin ni le soir .Quelques fleurs de nos pays commencent déjà à se montrer , ce sont : les violettes dont le parfum nous paraît d ’ autant plus délicieux qu ’ elles sont plus rares , les hépatiques et les pâquerettes apparaissent aussi ; les fleurs du Midi continuent à nous arriver , et les plantes de serre sont toujours à notre disposition .Il faut redoubler de soins et de précautions pour elles à cette époque , les arroser toujours avec modération et ne pas omettre à leur égard les soins de propreté qui sont une partie de leur hygiène . |
+| source.excerpts.49.words.0 | parfum |
+| source.excerpts.49.words.1 | fleurs |
+| source.excerpts.49.words.2 | nous |
+| source.excerpts.49.words.3 | violettes |
+| source.excerpts.49.words.4 | hépatiques |
+| source.excerpts.49.words.5 | plus délicieux |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/ef0f08a0-72b8-573c-998b-405b5e4cdc37 |
+| source.excerpts.50.value | CHAPITRE VII LES FLEURS A LA MODE .— LES ORCHIDÉES , LES CHRYSANTHÈMES , LES VIOLETTES , LES ROSES , LES MIMOSAS ET LES FLEURS DU MIDI , LES CYCLAMENS .Parmi ces plantes , 42 l ’ art de cultiver il en est d ’ importation récente qui peuvent se cultiver assez facilement ; on les dispose dans des bûches de bois rustique recouvertes de mousse ; on place ces jardinières improvisées dans des coins , ou on les suspend en l ’ air , c ’ est d ’ un effet merveilleux . |
+| source.excerpts.50.words.0 | ROSES |
+| source.excerpts.50.words.1 | FLEURS |
+| source.excerpts.50.words.2 | MIMOSAS |
+| source.excerpts.50.words.3 | VIOLETTES |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/f0d3caec-cf0a-5f91-9f32-4762bc9e6fd0 |
+| source.excerpts.51.value | Les poires sont celles de Saint - Germain , d ’ Angleterre d ’ hiver ; décembre est le mois des pommes , parmi celles - ci on remarque le calville blanc , le châtaignier , le petit api , etc .LES PLANTES ET FLEURS D APPARTEMENTS 33 CHAPITRE V LES FENÊTRES , LES BALCONS , LES PLAFONDS GARNIS PAR LES PLANTES GRIMPANTES .Quand on a une maison à la campagne , ou simplement un balcon à Paris ou dans une ville , on peut utiliser les plantes grimpantes d ’ une façon charmante et tout - à - fait artistique , en garnissant avec leur feuillage les fenêtres , les balcons , voire même quelquefois les plafonds . |
+| source.excerpts.51.words.0 | FLEURS |
+| source.excerpts.51.words.1 | PLANTES |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/f75504b3-de5d-5216-a4d6-e1bc73b90635 |
+| source.excerpts.52.value | Ses longues grappes de fleurs d ’ un mauve superbe ont Suspension en terre cuite garnie de plantes tombantes .une odeur des plus agréables .Cette plante ne réclame pas grands soins , mais demande une exposition à la chaleur . |
+| source.excerpts.52.words.0 | odeur |
+| source.excerpts.52.words.1 | des plus agréables |
+| source.author.0.@id | http://data.odeuropa.eu/actor/f3497fef-4424-50c3-810e-a1e1f931a735 |
+| source.author.0.label | Louise Rousseau |
+| source.label | L'art de cultiver les fleurs et plantes d'appartements et de les faire servir à la décoration de l'intérieur / par Mme Louise Rousseau... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k3045280z |
+| source.date | 1892 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/223 |
+| smellSource.0.label | Violet |
+| time.0.@id | http://data.odeuropa.eu/time/9d67ed54-fc4e-5dd3-9e81-8cf97ee284c7 |
+| time.0.label | 1892 |
+| time.0.begin | 1892 |
+| time.0.end | 1892 |
+| place.0.@id | https://sws.geonames.org/6685480/ |
+| place.0.label | Gazār |
+| relevantExcerpt | http://data.odeuropa.eu/source/fb01a281-149f-5bb8-a934-28e46b5583cb/fragment/5993222e-a151-5d9a-bf78-a6618713a737 |
+| license | Public domain |

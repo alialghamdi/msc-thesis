@@ -1,0 +1,177 @@
+## malodorantes
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/8e2d6ff8-984b-5fc0-8383-7f0a25f4a2ba |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | malodorantes |
+| source.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/05c61ef1-2d99-5b22-9dad-d129744166f1 |
+| source.excerpts.0.value | Valeur alimentaire .— Le pain est à peu près la seule nourriture de bien des gens qui l ' accompagnent parfois d ' un peu de fromage ou d ' herbes odoriférantes .Un portefaix en mange environ deux tchéreks par jour ( i , 5oo grammes ) . |
+| source.excerpts.0.words.0 | odoriférantes |
+| source.excerpts.0.words.1 | herbes |
+| source.excerpts.0.words.2 | fromage |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/078da1ad-3487-5c7e-8cd6-118dfa879096 |
+| source.excerpts.1.value | L ' opium de Perse est , après l ' opium de Smyrne , le plus riche en morphine ; il y a quelques années on l ' exportait en grandes quantités pour les usages pharmaceutiques .Mais les fabricants de Chiraz se sont aperçus que l ' huile de sésame mélangée à l ' opium ne lui donnait ni goût appréciable ni odeur , et que le même produit ainsi falsifié se boursouflait mieux au feu .L ' usage est devenu général de faire ce mélange , et , depuis ce temps , les fabricants se plaignent avec mélancolie que l ' Europe ne se fournit plus chez eux ; ils n ' avaient pas pensé qu ' on dosait dans l ' opium , avant de l ' acheter , la richesse en morphine . |
+| source.excerpts.1.words.0 | Chiraz |
+| source.excerpts.1.words.1 | odeur |
+| source.excerpts.1.words.2 | produit |
+| source.excerpts.1.words.3 | opium |
+| source.excerpts.1.words.4 | huile de sésame |
+| source.excerpts.1.words.5 | fabricants |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/0a9a3985-4857-5687-815d-85dbd7a5a70b |
+| source.excerpts.2.value | On ne travaille qu ' à certaines époques de l ' année .Ce charbon contient beaucoup de sulfure ; il brûle en donnant une forte odeur d ' anhydride sulfureux .J ' ai des échantillons irrisés comme les minerais de cuivre panaché . |
+| source.excerpts.2.words.0 | charbon |
+| source.excerpts.2.words.1 | forte |
+| source.excerpts.2.words.2 | odeur |
+| source.excerpts.2.words.3 | il |
+| source.excerpts.2.words.4 | anhydride sulfureux |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/0d84ca72-675e-560f-987f-6f6c4f1d3ea6 |
+| source.excerpts.3.value | Ces cercles sont posés sur une forme en osier recouverte de chiffons .Les fours sont au nombre de douze environ , et ont la forme du four des pains taftoun , mais la sole sur laquelle repose le combustible contient un appel d ' air qui permet d ' obtenir une température plus élevée et moins de mauvaise odeur .On chauffe le four en brûlant environ 2 kilogrammes de fumier de cheval et de chameau . |
+| source.excerpts.3.words.0 | odeur |
+| source.excerpts.3.words.1 | air |
+| source.excerpts.3.words.2 | de mauvaise |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/1e300962-7338-57a8-960b-88dd54d8f2b2 |
+| source.excerpts.4.value | Ce sont de véritables voyages d ' exploration .Et si les teintureries se reconnaissent aux grandes étoffes bleues pendues au travers du chemin pour sécher , et qui barbouillent de couleur les passants , si les tanneries se distinguent par l ' odeur et les fours à briques par la fumée , il faut souvent errer longtemps avant de trouver les savonneries et les verreries , et surtout les maisons , toutes semblables aux autres , où l ' on fait les tapis , les châles et les étoffes de soie .Heureux si l ' on n ' arrive pas enfin devant une maison fermée , pour s ' entendre dire par les voisins qu ' on ne travaille plus depuis quelques jours , pour cause de deuil ou de fête , pour protester contre le Gouverneur ou contre le Parlement , par suite de grèves ou par manque de clients ! La Perse eut de bonne heure une industrie prospère ; les briques émaillées ornaient les palais des Achéménides , les tapisseries de laine et les tissus brodés de fils d ' or couvraient le sol et les murs de la Perse , avant qu ' on sût même les imiter en Grèce , et les su - jets de Darius et de Xerxès étaient plus civilisés que les voisins qui les traitaient de barbares . |
+| source.excerpts.4.words.0 | odeur |
+| source.excerpts.4.words.1 | tanneries |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/242b4f3c-911d-5d7a-bd38-5cc9b3ea8eda |
+| source.excerpts.5.value | Au fond sur un tas de sable on place les pains ; sur une sole on place le combustible le plus économique , fumier de cheval séché et fiente de chameau desséchée .Ce combustible donne une fumée intense et une forte odeur qui imprègne le pain , et ne contribue pas à le rendre appétissant .Fig . |
+| source.excerpts.5.words.0 | forte |
+| source.excerpts.5.words.1 | odeur |
+| source.excerpts.5.words.2 | combustible |
+| source.excerpts.5.words.3 | pain |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/269c4ced-5493-5dc6-87ec-aa0a70500fde |
+| source.excerpts.6.value | Les marchands de savon font remarquer qu ' ils n ' emploient pas la graisse des animaux que le Coran dénonce comme impurs , et je vis , chez l ' un d ' eux , renverser une cuve de soude où , pour reprendre l ' aréomètre , j ' avais trempé les doigts et que j ' avais souillée de mon contact de chrétien .Pour visiter une tannerie , je fus obligé de déboutonner mon gilet , et de franchir sur une planche étroite et peu solide les cuves où , dans la chaux , séjournaient les peaux malodorantes , en prononçant à haute voix le nom du sixième imam , faute de quoi j ' aurais vu les peaux pourrir immédiatement .Mais quelquefois les idées religieuses empêchent tout perfectionnement . |
+| source.excerpts.6.words.0 | je |
+| source.excerpts.6.words.1 | malodorantes |
+| source.excerpts.6.words.2 | peaux |
+| source.excerpts.6.words.3 | une tannerie |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/2b87a5f3-a2f8-595f-addf-2778c3a9cdbb |
+| source.excerpts.7.value | La plupart du temps , l ' usine n ' est qu ' une chambre obscure et sale , sans fenêtres et sans air ; les fabriques de tissus , de velours et de châles , sont toujours installées dans des caves malsaines , pour être à l ' abri de la sécheresse de l ' air et de la poussière , générale dans toute la Perse .Les ouvriers y sont entassés , à demi nus , dans une promiscuité malodorante .Quelques travaux , comme le cardage de la laine pour le feutre , sont , de l ' avis unanime , mortels pour qui les accomplit , et pourtant personne ne cherche à les modifier . |
+| source.excerpts.7.words.0 | malodorante |
+| source.excerpts.7.words.1 | promiscuité |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/3d9f3c32-f7aa-591a-b069-7480b597f527 |
+| source.excerpts.8.value | — On a un savon brassé , assez mou ; on emploie , soit de l ' huile de ricin pure , soit un mélange de suif et d ' huile de ricin .Savons parfumés .— La plupart du temps , ce sont les femmes qui préparent le savon parfumé pour leur usage . |
+| source.excerpts.8.words.0 | parfumés |
+| source.excerpts.8.words.1 | Savons parfumés |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/498cd8b3-22a3-5774-9988-218f8e074cb4 |
+| source.excerpts.9.value | Malgré ce temps , quatre fois plus long qu ' en Europe , l ' apprêt semble ne pas dépasser le nôtre .Le levain , qui est de la pâte de deux jours , est peu acide , et possède l ' odeur alcoolique faible .Cela tient à ce que , tandis que chez nous . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | levain |
+| source.excerpts.9.words.2 | alcoolique faible |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/53d7065a-a5ba-524f-a396-628c0818a3d6 |
+| source.excerpts.10.value | — L ' huile à brûler est encore la principale matière pour l ' éclairage .Même à Téhéran , on voit encore beaucoup de ces petites lampes en terre , sales , malodorantes et peu éclairantes , et dans les campagnes c ' est le seul procédé employé .Le lampe est en terre . |
+| source.excerpts.10.words.0 | Téhéran |
+| source.excerpts.10.words.1 | peu |
+| source.excerpts.10.words.2 | malodorantes |
+| source.excerpts.10.words.3 | sales |
+| source.excerpts.10.words.4 | campagnes |
+| source.excerpts.10.words.5 | ces petites lampes en terre |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/574d06f2-4c90-58b6-b5bb-0d6e4ff1cc05 |
+| source.excerpts.11.value | - Si on délaie le mast avec de l ' eau , et qu ' on baratte , on en retire du beurre , et l ' eau qui reste s ' appelle dough .Le beurre obtenu est blanc , acide légèrement avec l ' odeur spéciale du mast .Le dough est un liquide acide , dont l ' acidité augmente chaque jour . |
+| source.excerpts.11.words.0 | odeur |
+| source.excerpts.11.words.1 | spéciale |
+| source.excerpts.11.words.2 | beurre |
+| source.excerpts.11.words.3 | mast |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/5cf0ee3f-e37a-518c-a844-da0bb76ae5de |
+| source.excerpts.12.value | Les noghls se font comme nos dragées , mais l ' enveloppe de sucre n ' est pas lisse .On trempe le grain odoriférant dans un sirop de sucre , plusieurs fois , puis on le laisse refroidir .Les plus appréciés sont ceux à la badiane , à l ' anis ou au bidmechk ( ~ L ~ eJ ~ « saule égyptien a salix sygostomon ) . |
+| source.excerpts.12.words.0 | grain |
+| source.excerpts.12.words.1 | odoriférant |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/797130ef-5c2f-5cca-a9b8-03a759282940 |
+| source.excerpts.13.value | Fabrication de l ' opium ( J , b - ' , tériah ) .- Le fabricant achète l ' opium brut aux paysans ; c ' est une pâte rougeâtre à odeur forte .Si on l ' emploie à ce moment , on a un opium blond très apprécié . |
+| source.excerpts.13.words.0 | forte |
+| source.excerpts.13.words.1 | odeur |
+| source.excerpts.13.words.2 | pâte |
+| source.excerpts.13.words.3 | opium brut |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/84a75639-ec03-51fc-a0f4-83d1bbcd0856 |
+| source.excerpts.14.value | Dans ce genre , rentrent les amandes grillées au sucre , et le laoz , spécialité de Chiraz , mélange d ' anis , d ' amandes , de noisettes pilées , agglutinées , trempées dans du sucre et parfumées à l ' eau de rose .Les gors ( ( jo ~ ) sont des pastilles de sucre parfumées à la rose , au tamarin indien , au citron ou au gingembre .Pâtisseries . |
+| source.excerpts.14.words.0 | rose |
+| source.excerpts.14.words.1 | parfumées |
+| source.excerpts.14.words.2 | sucre |
+| source.excerpts.14.words.3 | gingembre |
+| source.excerpts.14.words.4 | tamarin |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/89a4ba3c-d2e4-510c-bc3a-0f1b72b18fb7 |
+| source.excerpts.15.value | Préparation .- Quand elles sont jaunes , on les empile dans des dépôts qui ne doivent être ni humides ni trop secs , et on les abandonne à la fermentation qui détruit les matières albuminoïdes et développe l ' arôme .Les tas ont 1 m . |
+| source.excerpts.15.words | arôme |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/a32faf99-c926-507e-a961-1b052828a098 |
+| source.excerpts.16.value | 65 CHAPITRE II .— Savons ( fabrication à Yezd , fabrication à Téhéran , fabrication à Kerman , savons parfumés , renseignements ) .67 CHAPITRE III . |
+| source.excerpts.16.words.0 | parfumés |
+| source.excerpts.16.words.1 | savons |
+| source.excerpts.16.words.2 | Yezd |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/b599d2d9-b74b-508f-8b96-f9342cc8abb1 |
+| source.excerpts.17.value | C ' est là qu ' on l ' allume .Mais l ' huile employée n ' est jamais homogène , ni rectifiée à l ' acide sulfurique , aussi la fumée et l ' odeur sont - elles épouvantables .La consommation d ' huile est très grande , et toutes les villes ont des fabriques d ' huile d ' éclairage . |
+| source.excerpts.17.words.0 | huile |
+| source.excerpts.17.words.1 | odeur |
+| source.excerpts.17.words.2 | fumée |
+| source.excerpts.17.words.3 | épouvantables |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/b6b285c0-2551-5f9a-b633-bc022508f770 |
+| source.excerpts.18.value | On en recueille la moitié .On obtient ainsi un alcool sans odeur appréciable employé pour l ' éclairage .Analyses . |
+| source.excerpts.18.words.0 | odeur |
+| source.excerpts.18.words.1 | appréciable |
+| source.excerpts.18.words.2 | alcool |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/b7043adc-ece4-50cd-8540-be137e59968a |
+| source.excerpts.19.value | Le dough est un liquide acide , dont l ' acidité augmente chaque jour .On le boit avec des herbes odoriférantes , menthe ou estragon .Il a une saveur acide , une odeur spéciale qui rappelle un peu celle du cidre . |
+| source.excerpts.19.words.0 | odoriférantes |
+| source.excerpts.19.words.1 | herbes |
+| source.excerpts.19.words.2 | menthe |
+| source.excerpts.19.words.3 | estragon |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/c42f85e2-3888-5836-a06f-bcddd7fe8787 |
+| source.excerpts.20.value | Puis le savon est coulé dans des moules .Quelquefois , le fabricant parfume son savon .Alors il met le J feuilles de rose ou les oranges dans la cuve elle - même après l ' ébullition . |
+| source.excerpts.20.words.0 | parfume |
+| source.excerpts.20.words.1 | savon |
+| source.excerpts.20.words.2 | Quelquefois |
+| source.excerpts.20.words.3 | fabricant |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/d516f977-2bfe-5441-b3f9-1029d8c47854 |
+| source.excerpts.21.value | 1 kilogramme de raisin donne 2 litres d ' arak .Ce produit a souvent une odeur infecte ; le prix varie de 0 fr .5o à 2 francs le litre suivant l ' odeur et le soin apporté à la préparation . |
+| source.excerpts.21.words.0 | infecte |
+| source.excerpts.21.words.1 | odeur |
+| source.excerpts.21.words.2 | produit |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/e1e8ee05-1a8d-5d70-a2fe-17d29021def8 |
+| source.excerpts.22.value | On le boit avec des herbes odoriférantes , menthe ou estragon .Il a une saveur acide , une odeur spéciale qui rappelle un peu celle du cidre .C ' est agréable à boire , mais il y a une grande quantité d ' alcool , et les premières fois que l ' on en boit sans méfiance , on s ' endort immédiatement . |
+| source.excerpts.22.words.0 | odeur |
+| source.excerpts.22.words.1 | acide |
+| source.excerpts.22.words.2 | spéciale |
+| source.excerpts.22.words.3 | cidre |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/e548d40f-12ba-50d1-ae32-55fd4fb038a9 |
+| source.excerpts.23.value | Savons parfumés .— La plupart du temps , ce sont les femmes qui préparent le savon parfumé pour leur usage .Elles fondent le savon dans une cuve de cuivre , et y ajoutent soit des oranges vertes , soit de la myrthe , soit plus souvent de l ' eau de roses assez forte . |
+| source.excerpts.23.words.0 | parfumé |
+| source.excerpts.23.words.1 | femmes |
+| source.excerpts.23.words.2 | savon |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/ece4388e-1b5f-5aaf-9281-f68fb581dbe1 |
+| source.excerpts.24.value | On a un savon brassé , contenant plus d ' eau et plus d ' impuretés .Ce savon a d ' ailleurs une odeur infecte .On le laisse refroidir et sécher un peu . |
+| source.excerpts.24.words.0 | infecte |
+| source.excerpts.24.words.1 | odeur |
+| source.excerpts.24.words.2 | savon |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/f259307c-f2ea-57df-a9a8-37ab16d6f444 |
+| source.excerpts.25.value | 100 des hommes que j ' ai VIS étaient fumeurs d ' opium , et l ' on m ' a dit que les femmes fumaient dans la même proportion .Alors qu ' à Téhéran on se cache pour fumer l ' opium , à Kerman tout le monde fume dans les rues , et l ' odeur acre flotte partout .9 Culture du pavot . |
+| source.excerpts.25.words.0 | Téhéran |
+| source.excerpts.25.words.1 | Kerman |
+| source.excerpts.25.words.2 | acre |
+| source.excerpts.25.words.3 | odeur |
+| source.excerpts.25.words.4 | rues |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/f4bd92a5-e4f1-565f-a96b-d52d2c1580ef |
+| source.excerpts.26.value | Alors il met le J feuilles de rose ou les oranges dans la cuve elle - même après l ' ébullition .Naturellement l ' odeur est faible .Renseignements . |
+| source.excerpts.26.words.0 | faible |
+| source.excerpts.26.words.1 | odeur |
+| source.author.0.@id | http://data.odeuropa.eu/actor/d5646d7e-14de-55ab-a943-2e0ebd36f312 |
+| source.author.0.label | France. Ministère de l'instruction publique |
+| source.label | Nouvelles archives des missions scientifiques et littéraires : choix de rapports et instructions / publié sous les auspices du Ministère de l'instruction publique et des beaux-arts |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k63227950 |
+| source.date | 1908 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/9d001fb0-0fcf-545d-bb34-70893ca0ca62 |
+| time.0.label | 1908 |
+| time.0.begin | 1908 |
+| time.0.end | 1908 |
+| place.0.@id | https://sws.geonames.org/112931/ |
+| place.0.label | Tehran |
+| place.1.@id | http://data.odeuropa.eu/place/e188322c-a6f4-5935-af02-a92a76bcfa41 |
+| place.1.label | campagnes |
+| relevantExcerpt | http://data.odeuropa.eu/source/ff99f0aa-34f7-5e56-af60-620260c81040/fragment/53d7065a-a5ba-524f-a396-628c0818a3d6 |
+| license | Public domain |
+| adjective.0 | sales |
+| adjective.1 | peu |

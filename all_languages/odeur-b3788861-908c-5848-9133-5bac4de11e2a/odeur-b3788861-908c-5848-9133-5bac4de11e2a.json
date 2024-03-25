@@ -1,0 +1,144 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/b3788861-908c-5848-9133-5bac4de11e2a",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/113c3c0a-59f7-5d17-a2b5-d8c62343aff5",
+        "value": "Après cinq heures de marche , nous atteignîmes le sommet du Pentélique .Jamais je n ' ai respiré un air plus frais et plus parfumé ; jamais mes yeux ne se sont ouverts sur un plus merveilleux spectacle .Eleusis , l ' isthme de Corinthe , l ' immense plaine de l ' Attique , Athènes , entourée de ses jolies montagnes , et plus loin , les îles d ' Égine et de Salamine s ' étalaient devant nous .",
+        "words": [
+          "parfumé",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/1fc664b5-355b-5c2a-841b-8873495c7ac5",
+        "value": "Les toilettes sont plus fraîches et plus élégantes que les autres jours , PÈLERINAGE A JÉRUSALEM .15 et on respire partout un parfum religieux qui pénètre l ' âme et la réjouit .Pourquoi faut - il que l ' Allemagne et l ' Angleterre protestantes se montrent sous ce rapport plus chrétiennes que la France catholique ! Je trouve le type des Prussiens un peu différent de celui des Allemands des bords du Rhin , de la Bavière et de l ' Autriche : leur figure est plus ronde , plus animée , plus énergique , mais moins distinguée que celle de leurs voisins .",
+        "words": [
+          "parfum",
+          "religieux",
+          "réjouit",
+          "pénètre l"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/465d4473-9422-505c-9a55-febb18c7dfdc",
+        "value": "plus que nous pour voir ce jour , mais leurs coeurs ne battirent pas plus fort que les nôtres , et leur joie ne surpassa pas la nôtre .Madeleine aussi devançait l ' aube du jour pour aller , avec des parfums et des aromates , au tombeau de son bien - aimé , et elle vit , aux premiers rayons du soleil , la pierre du sépulcre renversée et le sépulcre vide .Nous ne voyons encore , aux premiers rayons du soleil , que les montagnes de la Judée .",
+        "words": [
+          "parfums",
+          "aromates",
+          "tombeau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/5c592a7b-373b-5701-84d1-9c038a9f11e4",
+        "value": "Les habitants du désert paient de leurs chevreaux et de leurs agneaux tes riches marchandises .Les Arabes de Saba et Ramé t ' enrichissent par le commerce des aromates , des pierres pré .cieuses et de l ' or .",
+        "words": [
+          "Saba",
+          "aromates",
+          "pierres pré",
+          "Ramé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/632e8bff-4e1a-53c8-89e8-5c3fd74c22b7",
+        "value": "Mais si je ne puis prolonger mon séjour à Jérusalem ni respirer plus longtemps le pieux 220 PÈLERINAGE A JÉRUSALEM .parfum qui s ' exhale de ses ruines , j ' emporte du moins son souvenir dans mon coeur , et j ' espère le conserver aussi fidèlement que ses premiers enfants captifs à Babylone .Jérusalem sera désormais pour moi comme le faisceau de myrrhe de l ' épouse des Cantiques : sa suave odeur embaumera toute ma vie .",
+        "words": [
+          "parfum",
+          "j",
+          "ruines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/71b0da87-b789-5858-aab8-e978379d3863",
+        "value": "Bien qu ' on n ' y trouve pas la régularité ou le désordre calculé qu ' on admire clans les nôtres , le Tasse aurait pu néanmoins les prendre pour modèles dans sa description des jardins d ' Herminie .La variété des plantes exotiques que nous étions habitués à voir uniquement dans les serres , nous surprend et nous ravit au milieu des champs qu ' elles embaument de leurs parfums .Combien nous regrettons de ne pouvoir les examiner à notre aise ! Mais la chaleur est si forte qu ' elle nous ôte la respiration , et la lumière du soleil si éblouissante qu ' elle nous empêche de fixer les objets .",
+        "words": [
+          "parfums",
+          "nous",
+          "embaument",
+          "champs",
+          "milieu",
+          "plantes exotiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/b5df27a8-3284-5a94-a9c6-8fcfa4a988bb",
+        "value": "104 PÈLERINAGE A JÉRUSALEM .Les Arabes d ' Oman offrent à tes marchands le fer poli , la cannelle , le roseau aromatique , et l ' Arabe du Dedan des tapis pour t ' asseoir .Les habitants du désert paient de leurs chevreaux et de leurs agneaux tes riches marchandises .",
+        "words": [
+          "aromatique",
+          "cannelle",
+          "roseau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/d3c90630-8917-54a1-bb01-da1958ffd2f0",
+        "value": "Beyrouth est située sur une colline mollement ondulée qui se détache de la chaîne du Liban pour aller mourir à la mer .On aime à voir du port ses maisons sans toit , cachées au milieu d ' une verdure fraîche et lustrée , avec ses jardins étages et plantés d ' orangers , de mûriers , de figuiers , de caroubiers , de platanes , qui offrent un aspect si différent de celui de nos jardins , et qui répandent au loin leur odeur pénétrante .En mettant le pied dans cette ville , la pre ( 1 ) pre ( 1 ) XXXIII , - 9 ( 2 ) Nah 6 98 PÈLERINAGE A JÉRUSALEM .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/dad4aaad-2e17-5de3-b5b7-0d06b3922a79",
+        "value": "227 geur .Le soleil n ' y arrive qu ' à travers d ' épais vérendas en natte ; l ' air y pénètre difficilement , et il y a des moments où la foule est si compacte qu ' on ne peut plus ni avancer ni reculer : on y - respire alors une odeur de rélent qui soulève le coeur .Mais si l ' on sort des régions de la réalité pour n ' envisager le Caire qu ' au point de vue poétique et artistique , je conviens qu ' il y a peu de villes qui puissent soutenir avec lui la comparaison .",
+        "words": [
+          "odeur",
+          "rélent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/e279bd2a-7ad2-5933-8918-aa065a9f750f",
+        "value": "parfum qui s ' exhale de ses ruines , j ' emporte du moins son souvenir dans mon coeur , et j ' espère le conserver aussi fidèlement que ses premiers enfants captifs à Babylone .Jérusalem sera désormais pour moi comme le faisceau de myrrhe de l ' épouse des Cantiques : sa suave odeur embaumera toute ma vie .Le 5 octobre , à .",
+        "words": [
+          "Jérusalem",
+          "suave",
+          "odeur",
+          "sa",
+          "moi",
+          "Cantiques",
+          "toute ma vie"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/11e7dc43-b2de-5a7a-b99a-6b97bccd2dd4",
+        "label": "J  Massoni"
+      }
+    ],
+    "label": "Pèlerinage à Jérusalem en passant par l'Allemagne et la Grèce, par M. l'abbé Massoni,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k56130813",
+    "date": "1863",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b1c4d6ab-6cbc-5029-8cd2-6f2a356643ba",
+      "label": "1863",
+      "begin": "1863",
+      "end": "1863"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/optimism",
+      "label": "optimism"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/edc5d146-752d-52db-ad79-c0aab001fcf1/fragment/e279bd2a-7ad2-5933-8918-aa065a9f750f",
+  "license": "Public domain"
+}

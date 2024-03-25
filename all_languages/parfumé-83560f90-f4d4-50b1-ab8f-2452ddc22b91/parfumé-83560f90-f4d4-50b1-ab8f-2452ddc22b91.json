@@ -1,0 +1,305 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/83560f90-f4d4-50b1-ab8f-2452ddc22b91",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumé",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/02bee0f2-6244-5526-aa55-145963f16966",
+        "value": "Et voici qu ' une langueur trouble , une attente , semble se parfumer étrangement et se peupler de musiques lointaines , d ' harmonies inconçues à l ' état naturel , de ces harmonies infixables , fluides et voluptueuses que connaissent seuls les infortunés initiés des drogues hallucinatoires : opium , haschisch ou éther .On est littéralement saisi par la sensation , et l ' on ne peut , à ce moment , songer que ces parfums , cette musique exquise , n ' ont pas de réalité objective , sont uniquement suscités par les rayons L qu émettent le diadème et le peplum de fils d ' argent ..",
+        "words": [
+          "parfums",
+          "exquise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/06ddc8d6-d798-51a4-ac95-d9f068a7566f",
+        "value": "Et silencieuse , lentement , voiles pendantes , Frappant la mer au clair clapotis de ses rames , Une barque de pêche remonte vers le port Où cligne l ' incendie épars des premiers feux .A ras de dunes , Classiquement importune A ce soir parfumé d ' essences recueillies , La pleine lune Caresse d ' inutile ivoire le ciel vert .Indifféré et monotone , je regarde : Le long chenal s ' ennuie comme une allée déserte Sur qui le phare , Selon le rythme vigilant de sa paresse , Jette , en reflets versicolores , un prisme bref .",
+        "words": [
+          "parfumé",
+          "dunes",
+          "ras",
+          "essences recueillies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/0e32f121-9059-521c-986b-3238ad3bcd25",
+        "value": "Suscitateur païen de l ' immortelle Joie , Tout le fervide azur , reflétant la mer bleue , Chauffe lascivement , au bout du promontoire , Notre paresse libre et nue de jeunes dieux .Viens ! je suis ivre de soleil et de toi ; et je veux — Daphnis et Pan , comme autrefois Rieurs et purs — goûter le cédrat parfumé De tes lèvres , ô bien - aimé , Sans glose , à nul demain , d ' un ridicule espoir .Laisse au pallide cœur des chrétiens détestés De remettre aux futurs vagues d ' Eternité Les idéaux baisers de leurs piètres étreintes ; Laisse aux amants sentimentaux éperdument : Toujours - jamais , Platon et son Unité sainte .",
+        "words": [
+          "cédrat",
+          "cédrat parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/175e12e5-80f4-5a93-a1c9-a0f4af46e671",
+        "value": "MARIE Pour Tristan Klinger .L ' aurore sous les bois qui pleure et qui sourit , le soleil à travers les branches ; c ' est Marie ! Parmi les lys des scabieuses ont fleuri ; parmi les lys ont poussé des pervenches : les cheveux noirs sur les épaules blanches ! Il y a des ramiers sous les saules ; au bord de la source ils se penchent : rattache tes cheveux épars sur tes épaules et chante ; chante en cueillant des fleurs qu ' effeuillera le vent , et dont nous boirons le parfum vivant ensemble , deux à deux , tout le long de la sente ! L ' aurore sous les bois , l ' aurore qui sourit , qui frissonne et qui pleure de joie , le soleil à travers les branches , le soleil comme un fruit dans les rameaux qui ploient • c ' est toujours à l ' heure où je te revois ! Philéas LEBESGUE .LE CANAL Spectacle quotidien , le canal de la Deule , odieux , nauséeux , roulant son eau boueuse , me fait bien regretter les clairs et gais canaux de Hainaut où les joncs , les roseaux et les poissons se jouent dans la transparence de l ' eau .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/1e9a1552-fdff-5b49-8c35-f5684e0e7f03",
+        "value": "Morte ! ton souvenir Fleurit , cruel sanglot , dans mon cœur poignardé Qui regarde une fois encore Ton lent départ blessé déchiré d ' adieux fous .Dis , nos baisers paradisiaques se joindront : La double fleur de nos caresses éternelles Refleurira , calice aux fraicheurs radieuses , Sous l ' unique baiser ruisselant de parfums ! Aussi bien , pour jamais , parmi la nuit qui monte Nos âmes , dénouées de leur étreinte , En gestes à tâtons de vaines tentacules , Au large , Réfugieront , désemparées , leurs agonies Vers les bouées hallucinées du Souvenir .Oh ! quelle bien - aimée , ce soir , s ' en est allée ? Et quel piano de spleen lointain a fait éclore Sous le cristal miraculeux de sa chanson Le cœur félé d ' un souvenir sirénéen ? PAUL CASTIAUX .",
+        "words": [
+          "parfums",
+          "paradisiaques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/20c96b25-4423-5dc9-96b5-b87d159ed70a",
+        "value": "Tout près , Sur les prairies multicolores de la mer Le troupeau des bateaux pêcheurs broute et rumine Sous des voiles enflées , rouges , noires et blanches Comme les robes empesées des Zélandaises .Derrière des moissons De seigles et de blés fluorescents d ' écume Se pose un vole léger de papillons frôleurs , Barques lointaines , Cabrant à fleur de lames Leur double élytre qui s ' accole Sous la glu rouge , noire et blanche des pollens .Sous la tente tendue de son unique voile Il se pavane , heureux , et rit de son tangage : Le nubile frisson d ' écume blanche et rose Lèche sa blonde chair d ' adolescent vainqueur .",
+        "words": [
+          "pollens",
+          "fluorescents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/2d779015-c8b1-5bed-84cf-d4c7346a7a42",
+        "value": ".Anthrope , ivre et le cerveau lourd de l ' histoire des âges , s ' en fut , n ' osant bouger la paix des sarcophages où , sous l ' oubli pyramidal des siècles las , de grands déchus mouraient , qui ne parleraient pas ; s ' en fut et dit , les mains levées , les mains émues , naïvement , en pauvres gestes vers les mondes , vers quelqu ' hostile et vain zénith , naïvement : « 0 Destin ! me voici plein de tristesse et vieux , et l ' esprit tintinnabulant de fausses gloires — J ' ai pourtant , en des temps de lauriers éclatants , rènant du poing quelque quadrige bondissant escaladé des capitoles de fumée ; — Encor je sens la fadeur tiède des encens — - — Encor j ' ai dans les ouies la joie de la canaille .— Mais voici que le Temple est las de ses murailles où s ' aggrippa l ' orgueil obstiné des trophées .",
+        "words": [
+          "encens",
+          "tiède",
+          "fadeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/345825cd-ab5e-5768-9454-4319e9d842b9",
+        "value": "Ajoutons que l ' illusion ne cessera plus , de tout le spectacle , et sera le complément harmonique des autres sensations imposées bientôt .Durant cet état — de musique parfumée , si j ' ose dire , — le cerveau s ' exalte d ' un coup à une mentalité mystique éminemment réceptive , prête à communier , hors des réalités vulgaires , avec le monde merveilleux du Possible ..",
+        "words": [
+          "parfumée",
+          "musique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/34f9b569-d77d-535a-8e42-5ae31602979e",
+        "value": "EDOUARD CHARPENTIER .MON BONHEUR Les yeux clos je revois les corps délicieux de celles dont l ' amour enivra ma jeunesse et l ' odeur de leur chair semble flotter encore en ma chambre d ' exil , ce soir de never more — A mon appel les doux fantômes sont venus ..",
+        "words": [
+          "odeur",
+          "corps",
+          "celles",
+          "je",
+          "leur chair",
+          "A",
+          "ce soir de",
+          "chambre d ' exil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/4f2fabd3-1cf9-5b9b-94ac-90abcda68677",
+        "value": ".Vaincre , vivre ? c ' est créer cette joie que d ' autres cueillent , fleur immatérielle que l ' aube givre , épanouie à même ton seuil ; c ' e t rayonner ton sang miraculeux comme une aurore torturée de gloire , incendiant les mondes de ses feux tels — que la rose et que la lèvre en vivent transfigurées , miraculées : le parfum de la rose chante aux lèvres ! et que s ' épanouisse aux roses leur chanson ! et que le jour s ' élève riche et calme comme un qui sort vers la moisson ! Vaincre , vivre , Poète ? c ' est que ton livre s ' ouvre comme un vantail que l ' on rejette tel — qu ' on t ' oublie , tel — qu ' on s ' enivre de l ' eau que ta parole change en vin , dans ce festin des épousailles de la douleur humaine et de l ' orgueil divin ..",
+        "words": [
+          "parfum",
+          "rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/7160eb96-d7f6-5711-b704-6bad49bdc9e2",
+        "value": "Ce soleil emplit la moitié du ciel ébloui , menace de tout engloutir dans son irradiation , lorsque , soudain , avec un paroxysme lumineux , le globe - météore éclate , comme une pièce d ' artifice en un poudroiment d ' or .— Et c ' est de la poussière de rêve qui se condense peu à peu , s ' agglutine en linéaments de tableaux , dans les modulations inspiTatrices des musiques et des parfums .L ' on entre de plain - pied dans le monde du Possible .",
+        "words": [
+          "parfums",
+          "poussière de rêve"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/72d6f976-57b8-58de-8ea3-39d8b6da1889",
+        "value": "Et de jolis enfants , dénouant pour te plaire les jeux dont ils cernaient un vieux bouc complaisant , t ' apporteront , ravis devant ta beauté claire , ainsi qu ' aux dieux vivants que le pays venère , de la plaine et des bois les antiques présents .Et tu riras dans la lumière enchanteresse , le cœur si plein d ' amour et la chair de parfums et les bras si comblés d ' invisibles promesses , que ton corps sera plus avide de caresses qu ' un navire échoué ne l ' est du flot marin .Alors , les jours lascifs et ravisseurs qui rôdent par les jardins d ' été te prendront dans leurs bras robustes comme ceux des faunes en maraude et te posséderont dans les clairières chaudes .",
+        "words": "parfums"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/7a5a446e-abe8-5844-9557-de0b0c64f5f4",
+        "value": "Le Soleil va se dresser de toute sa hauteur .Et la senteur épaisse des bacchantes qui s ' appellent mangeant des fruits A vec leurs dents luisantes et leurs narines fraîches , Dans les vignes pleines et les feuilles gaies , Vapeur du désir de la terre , montera Comme l ' encens de la sève et du besoin ivre .INCIPIT LUX ! Je sens , - par les doigts attentifs et transparents dont les cercles parcourent l ' atmosphère , Et , debout , les paupières réfléchissantes - Je vois la tache éclatante d ' une maison au soleil ; Et , au loin , dans le fond de la lumière et dans la terre , — j ' entends une cadence qui a le goût du miel profond .",
+        "words": [
+          "senteur",
+          "épaisse",
+          "bacchantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/7f1e724c-ff34-5192-a41e-5af7635e2cc7",
+        "value": ".senteurs du tabac blond et des roses , mêlées ..",
+        "words": [
+          "roses",
+          "senteurs",
+          "tabac blond"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/88a5ce01-037b-5ee1-a9c6-5c7893aa8361",
+        "value": "Dès après l ' explosion de l ' Ftoile - du - Rêve , une sensation d ' héroïsme , de génialité magnifie le slJec - tacle qui se condense de la poussière lumineuse .C ' est comme si la musique parfumée de tantôt , devenue trop intense , se transmuait en espèces visibles et audibles .Car les couleurs vraies d ' un tableau merveilleux se dégagent de l ' éparse luminosité , avec les sons modulés d ' un Verbe non compris ( au sens étroit du mot ) , mais senti et su dans l ' intuition exaspérée qui révèle sa beauté .",
+        "words": [
+          "parfumée",
+          "musique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/9b4714a8-d05f-5563-8822-878a2123ecc0",
+        "value": "Parmi la glace nue et blanche de la nef L ' orgue chante pour les âmes en purgatoire , L ' orgue chante des palinodies Pour les âmes des trépassés .Exhalant — oh ! classiquement mélancolique L ' indolente anémie du style liturgique Sur la mélancolie cosmique de cette heure ..",
+        "words": [
+          "Exhalant",
+          "indolente",
+          "mélancolique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/a5a856f8-f90c-592a-a06d-251d5fb03a6c",
+        "value": "LA CHAMBRE CLOSE Pour Pierre Castiau La chambre close et sombre remplie de pàle silence et d ' ombre la chambre tranquille et ouatée et la nuit calme qui l ' envahit — on dirait une vieille qui annonce l ' heure ou de l ' eau qui frappe le vieux ii ? iii - — et les enfants sont partis par les plaines et les soleils sont morts aux horizons .La vieillesse ouatée et morne des vieux canaux \\ T ; des est entrée dans la vieille chambre et avec elle les odeurs insipides de choses mortes et qui attendent — il semble que la jeune femme est partie et que les fous sont maintenant entrés dans le canal — et les heures s ' oscillent humides dans ce silence on dirait de l ' eau qui s ' égoutte ou des pas menus par les rues noires on dirait de la douleur qui s ' effeuille ou un vieux parchemin plié sur un linceul ..",
+        "words": [
+          "choses",
+          "odeurs",
+          "insipides",
+          "vieille chambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/a6097809-96bb-522a-a635-b8c822a3c014",
+        "value": "On flotte dans l ' espace , au milieu du fourmillement lumineux des étoiles lointaines , dans les Infinis extra - terrestres , dont la merveilleuse reproduction efface l ' artificialité .Et voici qu ' une langueur trouble , une attente , semble se parfumer étrangement et se peupler de musiques lointaines , d ' harmonies inconçues à l ' état naturel , de ces harmonies infixables , fluides et voluptueuses que connaissent seuls les infortunés initiés des drogues hallucinatoires : opium , haschisch ou éther .On est littéralement saisi par la sensation , et l ' on ne peut , à ce moment , songer que ces parfums , cette musique exquise , n ' ont pas de réalité objective , sont uniquement suscités par les rayons L qu émettent le diadème et le peplum de fils d ' argent .",
+        "words": [
+          "parfumer",
+          "drogues",
+          "trouble",
+          "éther",
+          "opium",
+          "haschisch",
+          "voluptueuses",
+          "étrangement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/a9fba579-b5d9-59bb-8456-b5fe7b1334b9",
+        "value": "Son vice te secoue en de fiévreux sursauts Et tes larges égouts bordant tes pavés chauds Semblent rouler , entre leurs bords , son sang putride .Et louve ainsi que toi , mais louve au pas rôdeur , Elle laisse l ' empire entier flairer l ' odeur Et la crevasse en feu de son ventre torride .EMILE VERHAEREN .",
+        "words": [
+          "odeur",
+          "flairer",
+          "crevasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/ad27ee5f-01b5-5777-9304-4d2d29c041e1",
+        "value": "Oh ! vraiment , par ce soir d ' intime reposoir , Le parc est recueilli ainsi qu ' un salon vide Et sorti au grand air De la maison de quelque notable opulent Abritant son luxe solide Derrière les écrans de la haute fenêtre Aux croisillons serrés , là - bas , dans la grand ' rue .Contre ce lourd massif de verdure attendrie , Une rose sauvage , nubile à peine , Se dodeline des pavanes souriantes ; Une rose , petite fille , Gracile , et frissonnant à ce premier printemps , Ecarte les pudeurs vierges de ses pétales , Sous le regard sévère et puissant des gros arbres , Frileuse de sentir , Frôlant , baiser , la fleur limpide de son sang , Un frottis de parfum suave d ' acacias .Mais voici que , blessant les antennes de l ' heure , Filtre par les vitrails de la nef allongée Derrière le jardin , Le spleen en mélopée d ' un orgue puritain .",
+        "words": [
+          "suave",
+          "parfum",
+          "fleur",
+          "rose",
+          "pétales",
+          "acacias",
+          "pudeurs",
+          "vierges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/b09d1a6b-de5c-53d2-bbea-d22782034869",
+        "value": "Car les couleurs vraies d ' un tableau merveilleux se dégagent de l ' éparse luminosité , avec les sons modulés d ' un Verbe non compris ( au sens étroit du mot ) , mais senti et su dans l ' intuition exaspérée qui révèle sa beauté .— Chant des strophes , images colorées , odeurs suaves , croisent leurs vibrations au même point de la conscience .Comment dire le paysage évoqué ( on jouait un poème inédit du génial poète américain G .",
+        "words": [
+          "suaves",
+          "odeurs",
+          "colorées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/b7891a14-f068-53a6-b292-5065535f9fa3",
+        "value": "Ville , tu es en proie au rut de Messaline : Tes desirs sont hantés par ses désirs malsains Et les mêmes soirs d ' or qui allument ses seins Brulent , avec leurs feux , tes nocturnes collines .Son vice te secoue en de fiévreux sursauts Et tes larges égouts bordant tes pavés chauds Semblent rouler , entre leurs bords , son sang putride .Et louve ainsi que toi , mais louve au pas rôdeur , Elle laisse l ' empire entier flairer l ' odeur Et la crevasse en feu de son ventre torride .",
+        "words": [
+          "putride",
+          "sang"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/c6550d20-18e6-5ee9-875f-2fc5f2ef40f2",
+        "value": "Cimetière de Brest — Novembre 1904 .VALSES Maladive douceur des valses que tu joues , Parfums de la nuit blonde et des roses nocturnes Et sourires des fleurs qui meurent dans les coupes ..",
+        "words": [
+          "Parfums",
+          "Maladive",
+          "nuit blonde",
+          "roses nocturnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/c8047f24-a1b9-505d-bf49-31d50383a040",
+        "value": "Un sinistre troupeau de sirènes , au large , Dans la nuit et la pluie et le brouillard s ' effare ; Et les hou - hou hallucinés du bateau - phare Hèlent les grands steamers meuglant dans le brouillard .— Songe : le soir est bleu , là - bas , et les étoiles Fleurissent la tiédeur de la nuit parfumée Où la ville s ' endort au bercement des palmes ; Songe aux riches baisers de ce soir bien - aimé Qui rêve , au bord marin des terrasses obscures , Parmi l ' odeur balsamique des figues mûres .Au large ! Evadons - nous vers les pays sacrés ! Chausse , bon chemineau , les souples espadrilles Toutes blanches encore des routes de Sicile ; Voici le havresac et le bâton ferré , Voici des yeux avides et des muscles fidèles : Secouant le linceul des brumes harassantes , Je veux fuir , libre faune , aux routes éclatantes , Avec mon cœur adolescent , vers le soleil ! Meuglement — ô steamer ! — de sirène .",
+        "words": [
+          "parfumée",
+          "odeur",
+          "balsamique",
+          "tiédeur",
+          "terrasses",
+          "figues mûres",
+          "bord marin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/d1d3f473-69c2-5166-9617-4f3c7b895d45",
+        "value": "Et dans le pré , sur un seul rang , les gars le corps virant , de droite à gauche , fauchent ; fourches hautes , les femmes remuent ainsi que des drapeaux en flammes , les foins épars .C ' est la fête de la sueur ; à la lueur des serpes et des piques , l ' odeur humaine envahit l ' air les bras sont forts , les fers sont clairs et les gestes épiques .De grands torses poilus et roux brûlent dans la poussière ; l ' herbe ondule en vagues de lumière ; les près roulent , de l ' un à l ' autre bout , , , l ' or des reflets et l ' or des moires .",
+        "words": [
+          "odeur",
+          "air",
+          "sueur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/d3508d55-8b66-5111-a36a-21921ebedb70",
+        "value": "Le Rêve seul est digne et juste , et nous repose ; ne pouvant rien tenir , jamais il no promit .mais sa fleur monstrueuse et largement éclose exhale des parfums où s ' enivre l ' esprit .L ' Être alors , du réel dépassant tout vestige , en dehors de l ' espace ; inconscient du temps , ouvrant des ailes d ' or à des cieux éclatants , boit l ' azur chimérique aux coupes du vertige .",
+        "words": [
+          "parfums",
+          "sa fleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/dc2dfe10-79cb-5172-82e2-a3ea8cbb32ea",
+        "value": "RENÉ GHIL .MATIN En la chlamyde d ' or du soleil ruisselant , Le grand matin , roi des lumières virginales , Sous le divin azur ivre de joie païenne , Du zénith jusqu ' à l ' horizon , Au large de la mer adolescente Que cingle Le plein vent emportant en sa chevauchée rude Les acres parfums des varechs , Le grand matin Proclame l ' héroïque gloire de son rire .Toute la plage Débordante de clarté blonde Et frottée de caresse dyonisiaque S ' allonge , volupté franche de bronze clair , Chauffant sous le soleil sa juvénile sieste .",
+        "words": [
+          "acres",
+          "varechs",
+          "acres parfums",
+          "MATIN"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/dc789fe7-ebb9-5222-9c84-abaf48981251",
+        "value": ".Mais non , tout nous étouffe ; comme tout nous étouffe ! Ah le peuple gourd des sourds , leurs cris , leur front court et les relents gras qu ' ils soufflent ! Mais non , la Ville ne saura pas nos bras exaltés dans ses rues ; ces bras en appel sont submergés par le flot gris des grandes crues , qui fait un lac morne avec les vergers .Mais non , tout nous écarte et nous exile ; bouviers et troupeaux ne sont pas , oh pas même hostiles mais indifférents à nos signaux .",
+        "words": [
+          "relents",
+          "gras"
+        ]
+      }
+    ],
+    "label": "Les Bandeaux d'or : anthologie de poèmes et prose",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1269231b",
+    "date": "1906",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3232e19f-2ca8-507d-aef8-2c23b8426af5",
+      "label": "1906",
+      "begin": "1906",
+      "end": "1906"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/3030473/",
+      "label": "Bray-Dunes"
+    },
+    {
+      "@id": "https://sws.geonames.org/291074/",
+      "label": "Ras al-Khaimah"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/amusement",
+      "label": "amusement"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/8e0745e7-9546-5605-b516-3698c30367e9/fragment/06ddc8d6-d798-51a4-ac95-d9f068a7566f",
+  "license": "Public domain"
+}

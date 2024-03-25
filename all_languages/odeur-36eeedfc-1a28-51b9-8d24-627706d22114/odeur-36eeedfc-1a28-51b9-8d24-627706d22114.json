@@ -1,0 +1,2335 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/36eeedfc-1a28-51b9-8d24-627706d22114",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/00ed523c-494d-5a39-b953-9f2148868e83",
+        "value": "aromatischer WeingeitlJ ( Chimie ) .— En pharmocologie , on donne le nom d ' alcoolat * aux alcools chargés , par voie de aifCillation , des principes volatils d ' une ou plusieurs substances odorantes .Ces dissolutions étaient appelées autrefois esprits , eaux , eaux SI ) il .",
+        "words": [
+          "odorantes",
+          "substances",
+          "alcoolat",
+          "alcools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0161e7ff-a9e4-55f8-b351-3fdb44ba5975",
+        "value": "« Il a , dit - il , un arôme particulier qui rappelle véritablement l ' odeur des fleurs , et cet arÔme • différent de tous les autres , ne sautait être imité facilement .» FLEURS DB PRINTEMPS Extraits de roses , de violettes ( les deux esprits de pommade ) 0 , 56 litre de chacun .Extrait de roses triple , de caanie 70 , 85 grain , de chacun .",
+        "words": [
+          "roses",
+          "violettes",
+          "FLEURS",
+          "DB PRINTEMPS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/01661924-cb5c-573f-878d-db9b6762fbe6",
+        "value": "Bibliothèque Lacroix .jaune rougeâtre , d ' une saveur douce sucrée d ' abord , un peu âcre et piquante sur la langue , d ' une odeur très - suave et pénétrante ; sa texture est très - fine et se rompt facilement .La cannelle moyenne est plus épaisse que la première , ayant été extraite des tiges les plus fortes du cannellier , ou les plus Agées .",
+        "words": [
+          "pénétrante",
+          "douce",
+          "odeur",
+          "sa",
+          "très - suave"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/023a2f58-2072-5c10-b388-1aeb568b606c",
+        "value": "— Genre de plantes de la famille des cQrymbifères , à feuilles très - découpées , à fleurs grandes , ordinairement solitaires , tantôt jaunes et tantôt pourprées .Les fleurs de camomille sont très - employées en médecine ; elles ont une odeur fortement aromatique , pénétrante ; leur saveur est d ' une amertume âcre .Elles sont stimulantes , toniques et anti - spasmodiques ; on les emploie pour combattre l ' atonie des organes , les vers , les fièvres intermittentes , les coliques nerveuses et venteuses , les gastralgies indépendantes d ' une inflammation de l ' estomac , les névroses , etc .",
+        "words": [
+          "pénétrante",
+          "âcre",
+          "odeur",
+          "fleurs",
+          "elles",
+          "leur",
+          "fortement aromatique",
+          "camomille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0285ec59-a346-5d90-a0da-0b588e22d70c",
+        "value": "du Constructeur .) Bouquets ou odeurs pour le mouchoir .( Econom .",
+        "words": [
+          "mouchoir",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/02b46cb0-5bcd-5b96-8914-50d0f3434b06",
+        "value": "— Guide pratique du Parfumeur , Dictionnaire raisonné des Cosmétiques et Parfums , contenant : la description des substances employées en parfumerie , les altérations ou falsifications qui peuvent les dénaturer , etc ., les formules de plus de 500 préparations cosmétiques , huiles parfumées , poudres dentifrices dilatoires , eaux diverses , extraits , eaux distillées , essences , teintures , infusions , esprits aromatiques , vinaigres et savons de toilette , pastilles , crèmes , etc .avec des considérations hygiéniques sur les préparations cosmétiques qui peuvent offrir des dangers dans leur emploi , i vol .",
+        "words": [
+          "huiles",
+          "parfumées",
+          "esprits",
+          "essences",
+          "extraits",
+          "vinaigres",
+          "teintures",
+          "eaux distillées",
+          "savons de toilette",
+          "eaux diverses",
+          "préparations cosmétiques",
+          "poudres dentifrices dilatoires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/049b6359-cbec-5a66-ab0b-f7919182af11",
+        "value": "Substance résineuse découlant des incisions pratiquées au pin des forêts et au pin maritime .Elle est d ' une couleur jaunâtre , a une saveur amère et l ' odeur de la térébenthine .On en fait des vernis , des bougies , des torches etc .",
+        "words": [
+          "odeur",
+          "amère",
+          "térébenthine",
+          "Elle",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/04afdc06-33d5-53b1-96b6-05f05b369528",
+        "value": "La cannelle commune provient des grosses branches du ■ cannellier plus avancé en âge : elle est rude , épaisse , d ' une - couleur jaune livide , d ' une saveur âcre , mordicante , laissant une certaine viscosité sur la bouche , d ' une odeur forte qui approche de celle de la punaise .Elle fournit une plus grande - quantité ' d ' huile essentielle , parlla distillation , que les deux autres ; mais cette huile est plus pesante et d ' une odeur beaucoup moins suave .La meilleure cannelle est mince , élastique , d ' un jaune pâle , ' , d ' un brillant poli , d ' une cassure éclatante , ayant une saveur chaude , aromatique , un goût sucré et fort doux ; elle devient souple dans la bouche , et le goût piquant dont elle affecte la langue est assez supportable .",
+        "words": [
+          "huile",
+          "odeur",
+          "Elle",
+          "beaucoup moins suave"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/06e290ba-42e8-5062-b42e-20ec3ccfa45a",
+        "value": "Les fleurs de camomille sont très - employées en médecine ; elles ont une odeur fortement aromatique , pénétrante ; leur saveur est d ' une amertume âcre .Elles sont stimulantes , toniques et anti - spasmodiques ; on les emploie pour combattre l ' atonie des organes , les vers , les fièvres intermittentes , les coliques nerveuses et venteuses , les gastralgies indépendantes d ' une inflammation de l ' estomac , les névroses , etc .La plus importante de ses propriétés est d ' être vermifuge .",
+        "words": [
+          "stimulantes",
+          "spasmodiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/095c4f5a-d70d-5fdc-8c1c-ffcf016d7e0e",
+        "value": "4 ° BAUME DE TOLU , résine balsamique connue dans le commerce sous le nom de baume d ' Amérique , de Carthagène , produite par une espèce de miroxilum qui croit spécialement dans la province de Carthagène , aux environs de la ville de Tolu .Ce baume , qui tient le milieu entre les baumes liquides et les baumes secs , est d ' une consistance molle , d ' une couleur jaune verdâtre dorée , d ' une saveur aromatique agréable , d ' une odeur suave tirant sur celle du benjoin .( Lunel , Guide du Parfumeur ) .",
+        "words": [
+          "suave",
+          "odeur",
+          "baume",
+          "benjoin",
+          "aromatique agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0a4b012d-1095-52b8-b66d-d408a824706f",
+        "value": "Les produits formés dans cette fermentation sont de l ' alcool , du gaz acide carbonique et une matière particulière , qui n ' est autre que le ferment décomposé .LA FERMENTATION PUTRIDE a lieu dans les matières animales et végétales , par laquelle , le principe de la vie s ' éteignant , les éléments des corps se combinent dans des proportions diverses , et donnent naissance à des produits infects .La présence d ' un air humide et stagnant , une température - de 20 à 35 degrés la favorisent beaucoup .",
+        "words": [
+          "PUTRIDE",
+          "éléments des corps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0c62eacd-17d4-5cd9-ab9e-35c70b179426",
+        "value": "Les éponges sont ovipares , et se trouvent dans les mers ou sur les rochers .Avant de livrer les éponges au commerce , on leur fait subir diverses préparations pour leur donner plus de souplesse , les nettoyer et leur enlever leur odeur désagréable .On s ' en sert , ainsi préparées , pour la toilette , pour laver les meubles , glaces , ustensiles , En chir rurgie , on s ' en sert pour dilater certaines cavités fistuleuses ou retirer le pus de quelques plaies ; en médecine , on les emploie contre les goitres et les scrofules .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "leur",
+          "Avant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0d3d6d3d-5555-59e3-b35d-6c90f4dca9c3",
+        "value": "Dans le temps de l ' essaimage , ils exhalent une odeur assez forte , qui , avec le bruit qu ' ils font entendre en volant , est sans doute pour la jeune femelle qui veut se faire féconder un moyen de les rencontrer .Cette odeur prononcée présage la sortie des essaims .Les mœurs des faux - bourdons sont très douces et très - paisibles ; ils quittent peu la ruche et ne sortent que pendant la grande chaleur du jour et sans s ' éloigner .",
+        "words": [
+          "odeur",
+          "prononcée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0e13fe45-d16e-533b-9b2a-fa2fa6d4bc5f",
+        "value": "Malheureusement on la trouve trop souvent falsifiée dans le commerce , et avec une addition , dans des proportions variables , d ' huile de chenevis et surtout d ' huile de lin .Cette sophistication se reconnaît facilement à l ' odeur sui generis que répand le mélange pendant sa combinaison .Quand l ' huile de colza n ' est point falsifiée , elle est presque toujours mal épurée ; épaisse et visqueuse , elle encrasse les lampes , brûle mal , charbonne et produit de la fumée .",
+        "words": [
+          "sui generis",
+          "odeur",
+          "mélange",
+          "pendant",
+          "combinaison",
+          "pendant sa",
+          "sa combinaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0e78c058-919a-51a6-88b4-1ac488b9cf30",
+        "value": "Ce baume est transparent , d ' une consistance semblable à celle du sirop cuit .Sa couleur est d ' un rouge brun très - foncé , son odeur agréable et pénétrante .4 ° BAUME DE TOLU , résine balsamique connue dans le commerce sous le nom de baume d ' Amérique , de Carthagène , produite par une espèce de miroxilum qui croit spécialement dans la province de Carthagène , aux environs de la ville de Tolu .",
+        "words": [
+          "agréable",
+          "pénétrante",
+          "odeur",
+          "son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/0f38b8be-bbdb-557d-b08d-ed518d476600",
+        "value": "C ' est co mélange qui , introduit dans les lampes , y brûle avec ou sans mèche .La flamme est claire , dense , brillante , bien plus belle que celle de l ' huile et presque sans odeur ; elle ne laisse exhaler aucune fumée , et la mèche quaud il y en a une , est à peine noircie par la combustion .Divers appareils sont usités pour son emploi .",
+        "words": [
+          "sans",
+          "odeur",
+          "elle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1070cc6c-4c62-59fc-81d4-b62d8e8f1669",
+        "value": "Aussitôt que le camphre est fondu , on découvre toute la partie vide du matras , et l ' on diminue le feu de manière à n ' obtenir qu ' un faible bouillonnement que l ' on soutient jusqu ' à l ' entière volatilisation du camphre .Le camphre raffiné est solide , blanc , fortement transi ucide , ayant un goût et une odeur caractéristiques , et sa densité est de 0 , 995 à 0 , 996 .Il est tendre , rayé par l ' ongle et très - flexible ; cependant on le réduit aisément en poudre en le broyant avec quelques gouttes d ' alcool ; il fond à 73 ° et bout à 204 ° ; il est très peu soluble dans l ' eau et l ' est beaucoup au contraire dans l ' alcool et l ' éther ; 100 p .",
+        "words": [
+          "odeur",
+          "camphre raffiné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/10b4c613-a6f8-57ee-8656-c6ac5ec1ea5d",
+        "value": "Voici comment se fait la préparation de l ' antimoine : en grand , on grille le sulfide antimonieux natif , puis on réduit l ' acide antimonieux produit , avec du charbon et de la potasse .En petit , on se contente de fondre 100 parties de sulfide antimonieux avec 42 de limaille de fer , 10 de sulfate sodique anhydre et 2 de charbon en poudres L ' antimoine est surtout employé pour la fabrication des caractères d ' imprimerie ; en médecine , on s ' en sert comme émétique , purgatif , vomitif caustique , et contre les affections de la gorge comme antiphlogistique .Aphte [ Angl .",
+        "words": [
+          "purgatif",
+          "émétique",
+          "sulfate sodique",
+          "sulfide antimonieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/11342b8e-d977-552b-9f25-1a847ff8e6b7",
+        "value": "Elle est sans odeur , mais douée d ' une saveur amijre .Sa racine , qui est pivotante , est réputée sudorifique , dépurative ; on l ' a préconisée , en décotion , contre les dartres , la teigne la syphilis constitutionnelle .On peut préparer des cataplasmes avec les feuilles de bardane ( LUNEL ) .",
+        "words": [
+          "racine",
+          "sudorifique",
+          "dépurative"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/12738ebc-8b6d-5dd5-9b13-7d7e7172cddf",
+        "value": "Le prix d ' exportation est de 5 francs par demi - kilog .La citronnelle est très - employée en Angleterre pour parfumer les savons , surtout le savon dit au miel .On l ' emploie aussi , mais avec peu de succès , pour parfumer la pommade .",
+        "words": [
+          "Angleterre",
+          "parfumer",
+          "citronnelle",
+          "savons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/134a0501-9a68-56a3-852a-feb9005479ba",
+        "value": "69 .— Canard sauvage qui sécrètent l ' odeur musquée .Le canard polonais , de petite taille , de couleur très - blanche , a le bec pointu , ce qui le distingue complétement .",
+        "words": [
+          "odeur",
+          "musquée",
+          "Canard sauvage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/17b6077b-8b40-5ddb-81fd-9db9a6fb3391",
+        "value": "Le grand galanga est une racine en morceaux longs de deux pouces et de 6 lignes à 2 pouces de diamètre , cylindriques , souvent bifurqués , d ' un brun rougeâtre extérieurement marqués de lignes frangées , circulaires , blanches .Le petit galanga est plus petit dans toutes ses dimensions ; sa couleur est plus brune et son odeur est beaucoup plus forte1 .Les fleurs du galanga fournissent une huile très - pénétrante de la plus agréable odeur .",
+        "words": [
+          "plus",
+          "odeur",
+          "son",
+          "petit galanga"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/180bd2de-ccaf-5450-8ad1-090103224f23",
+        "value": "— L ' essence de bergamotte est contenue dans la pulpe de la bergamotte ( fruit du citrus aurantium ) ; on l ' en extrait par expression ou par distillation .Celle que l ' on obtient par la distillation est plus limpide et moins altérable , mais son odeur est moins suave .L ' huile de bergamotte est colorée , jaune pâle ; son odeur particulière est fort agréable ; c ' est une des substances aromatiques dont les confiseurs et les parfumeurs font fréquemment usage .",
+        "words": [
+          "odeur",
+          "son",
+          "moins suave"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/19911403-9246-5d5d-8158-02e791822a96",
+        "value": "Quand l ' huile de colza n ' est point falsifiée , elle est presque toujours mal épurée ; épaisse et visqueuse , elle encrasse les lampes , brûle mal , charbonne et produit de la fumée .On sait que l ' épuration s ' obtient en traitant l ' huile par l ' acide sulfurique ; si l ' opération est négligemment conduite , l ' huile retient quelques parties aqueuses , dont il est assez difficile de la débarrasser complétement ; de là les pétillements de la flamme des lampes , — cause trop répétée du bris du verre , — et ( les émanations fréquentes de mauvaise odeur .L ' huile de noix est très - employée dans le nord de l ' Italie par les classes pauvres , qui s ' en servent pour l ' éclairage , ne pouvant se procurer de l ' huile d ' olive , dont le prix est trop élevé .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "émanations",
+          "acide",
+          "fréquentes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1ab78700-8141-53a4-95b3-91c30e3d43b4",
+        "value": "et hygiene ) Plante dont on compte plus de trois mille espèces , aussi variables dans leur forme que dans leur organisation ; quelques - unes contiennent des principes vénéneux qui peuvent produire des accidents redoutables .On doit donc cueillir avec beaucoup de soin les champignons et rejeter tous ceux qui ont une odeur fétide , une saveur âcre , amère ou acide , ceux dont la chair est coriace et tubéreuse , ceux dont la chair molle , aqueuse , change de couleur lorsqu ' on les casse ; enfin ceux qui croissent dans des lieux souterrains ou humides , sur des débris de substances animales ou végétales en putréfaction .Si les empoisonnements par les champignons sont devenus assez rares depuis longtemps , c ' est qu ' une sage police n ' a plus admis , sur les marchés de Paris , qu ' une seule espèce d ^ champignon , l ' agaricus edulis , ou champignon de couche ; aussi , lorsque des accidents ont eu lieu , à la suite de repas dans lesquels on a mangé des champignons , c ' est que ces champignons avaient été cueillis par des personnes qui se rendaient dans les bois avoisinant la capitale .",
+        "words": [
+          "fétide",
+          "odeur",
+          "champignons",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1be1a3b2-0f80-54b9-94a3-67212ceb0aa7",
+        "value": "Tous les bitumes naturels , imprégnant des sables ou des calcaires , n ' ont pas la même odeur ; mais aucun n ' a l ' odeur repoussante des goudrons provenant de la distillation dss houilles ou des boghead par lesquels on les remplace quelquefois .Les bitumes qui ont subi dans leur période de formation , ou même postérieurement à cette période , des influences volcaniques , ont un arome spécial .Ainsi , les minerais bitumineux d ' Auvergne , qui tous ont éprouvé une espèce de métamorphisme , en ont conservé une odeur particulière qui rappelle tout à fait celle de l ' ail ; il est vraisemblable qu ' ils doivent cette propriété à la présence d ' une très - lègère quantité d ' arsenic .",
+        "words": [
+          "spécial",
+          "bitumes",
+          "arome",
+          "leur période de formation",
+          "postérieurement à cette période"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1c1d06dd-8196-5bde-ba95-997f01688175",
+        "value": "Les fleurs très - odorantes , notamment la Rose , le Jasmin , l ' Œ illet , la Giroflée , et surtout le Lis , la Tubéreuse et les fleurs d ' Oranger , lorsqu ' on en place de gros bouquets dans des vases pour orner une console ou une cheminée , peuvent causer aux personnes délicates de violents maux de tête et des accidents nerveux .On peut les supporter sans grand inconvénient pendant le jour , dans un appartement spacieux ; mais ces bouquets parfumés n ' y doivent point séjourner pendant la nuit , Comme complément de l ' article Fleurs , nous donnons cidessous deux tableaux authentiques , dressés par M .Piver , sur la production des fleurs employées par la parfumerie dans le département des Alpes - Maritimes .",
+        "words": [
+          "parfumés",
+          "bouquets",
+          "pendant la nuit",
+          "pendant le jour",
+          "appartement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1c90a34b-2dd7-5dbe-b5dd-8669d4263d8c",
+        "value": "DISTILLATION SÈCHE .— Soumise à la distillation , elle se décompose en grande partie en donnant deif gaz inflammables , de l ' acide acétique , une petite portion de glycérine distillée sans altération et de l ' acroléine , cette substance à odeur si désagréable et qui caractérise la décomposition des graisses , des suifs et des huiles par la chaleur .( CHATEAU .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "elle",
+          "substance",
+          "acide acétique",
+          "acroléine",
+          "glycérine",
+          "gaz inflammables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1d9acc1c-b524-5507-97a4-b3a36526cfab",
+        "value": "Appartement * nouvellement peints .— Pour en lever l ' odeur de peinture , on place dans chaque pièce deux vases renfermant chacun 50 grammes d ' acide sulfurique .Il faut avoir soin de bien aérer l ' appartement après avoir enlevé les vases contenant l ' acide sufurique .",
+        "words": [
+          "peinture",
+          "odeur",
+          "vases",
+          "acide sulfurique",
+          "pièce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/1e4eb606-0697-54a8-ad3e-4222cd00da1d",
+        "value": "C ' est dans le bateau que l ' air est comprimé par des pompes spéciales , de là il est conduit par des tuyaux flexibles , dans la cloche immergée .Bâtons aromatiques russes ( Parfumerie ) .— On les emploie pour parfumer les appartements .",
+        "words": [
+          "aromatiques",
+          "aromatiques russes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2063d962-59dd-51b6-9162-d07fc2be71c3",
+        "value": "CITRONNELLE et essence de schœnante ou de lemongrass .— Ces parfums viennent principalement de Ceylan .On extrait la citronnelle par distillation des feuilles d ' une graminée sauvage , l ' antropogon schœnantus , très - commune dans l ' île de Ceylan , et qn ' on cultive aujourd ' hui sur une large échelle dans les environs de Galle et de Colombo .",
+        "words": [
+          "Ceylan",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/214b83de-ecb2-58e8-84df-8c3275bd6e39",
+        "value": "Elle se présente sous la forme d ' une substance blanche , transparente , gommeuse , sans odeur et sans goût .L ' action de la chaleur la jaunit , la décompose et en retire une odeur de pain grillé .La dextrine s ' obtient de plusieurs manières , par la diastase ( orge germée ) , par l ' acide sulfurique , l ' acide hydrochlorique , l ' acide nitrique et même les acides végétaux .",
+        "words": [
+          "odeur",
+          "pain grillé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/21a463db-09eb-5843-83b4-381a9861cce8",
+        "value": "Seulement , il faut prendre la précaution de ne les établir qu ' à une distance des bâtiments qui permette au soleil d ' agir librement sur les murailles , sinon elles pourraient être plus nuisibles qu ' utiles .Dans le cas où sur quelque point du domaine ou à proximité , il existerait des étangs , des marécages , donnant lieu à des brouillards fréquents ou à des émanations insalubres , il faut naturellement en éloigner les bàtiments de ferme .S ' il n ' était pas possible de s ' écarter suffisamment pour se mettre entièrement à l ' abri de ces influences malfaisantes , il conviendrait d ' interposer des rideaux d ' arbres entre les lieux où celles - ci prennent naissance et les bâtiments d ' exploitation .",
+        "words": [
+          "émanations",
+          "insalubres",
+          "marécages",
+          "étangs",
+          "fréquents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/21d2f812-8ab1-598a-b82c-2cd8cd1178d2",
+        "value": "Depuis quelques années il arrive • aussi en feuilles et en grandes plaques épaisses .« Le caout - chouc a une couleur ordinairement brunâtre ; il est sans odeur ni saveur ; sa densité varie de 0 , 92 à 0 , 94 ; il est inaltérable à l ' air , mou , flexible , imperméable et extrêmement élastique .Soumis à l ' action d ' une douce chaleur , il se ramollit assez pour se souder avec lui - même ; à une température supérieure , il entre én fusion , prend la consistance du goudron , et conserve cet état , après le refroidissement , pendant des années ; une chaleur plus élevée encore le décompose , et il donne alors à la distillation des huiles volatiles et odorantes ( raoutchine ) , qui jouissent de la propriété de le dissoudre rapidement .",
+        "words": [
+          "odeur",
+          "il",
+          "caout - chouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/21f2de6e-4564-5a56-a07e-c12425f99176",
+        "value": "» Orillantine ( parfumerie ) — C ' est un composé alcoolique légèrement aromatisé par un parfum quelconque , et dans lequel on fait dissoudre environ 1110 de son poids , soit de glycérine pure , soit d ' huile de ricin très fraîche .On s ' en s ' en sert en parfumerie pour lustrer les cheveux et la barbe .lit rieltilet - [ Angl .",
+        "words": [
+          "cheveux",
+          "parfumerie",
+          "barbe",
+          "lustrer les cheveux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/220cb55d-0a1a-56c6-82bb-2b09f350fc32",
+        "value": "45 centimètres , qui exhaussent le fond et l ' empêchent aussi de recevoir l ' humidité du sol .Il importe enfin de donner au fond une double inclinaison d ' arrière en avant et de chaque côté vers la ligne du milieu , de façon à ce que le coffre se vide intégralement sans difficulté jusqu ' au dernier grain , et sans qu ' aucune partie de celui - ci , restant dans les angles , puisse y vieillir , ou contracter diverses odeurs , ou un goût de moisi qui répugnent aux animaux , tout en leur offrant une nourriture qui a perdu de ses propriétés nutritives , de ses bonnes qualités .Les coffres ainsi disposés présentent , dans la partie la plus déclive du fond et sur le devant , un guichet manœuvrant dans des coulisses en bois , et qui , lorsqu ' il est ouvert , livre passage au contenu , lequel s ' échappe sur un petit canal légèrement incliné dans un vase quelconque , ainsi qu ' on le voit en la figure 22 .",
+        "words": [
+          "bonnes",
+          "odeurs",
+          "moisi",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/239237ac-449d-53e7-a70a-62e53c85059c",
+        "value": "Il faut choisir cette substance en belle écaille , blanche et transparente , inodore , insipide , cassante , onctueuse et douce au toucher .Le blanc de baleine , jaunissant à l ' air , et devenant acide et rance , doit être conservé bien enveloppé .BLANC DE ZINC .",
+        "words": [
+          "rance",
+          "blanc de baleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/24590ece-50b8-50bf-b669-c3e68f519b89",
+        "value": "— de lavande \\ 0 , 88 — — de rose .1 , 7 ? — BOUQUETS PRÉSENTANT L ' ODEUR D ' UN PARFUM SIMPLE Bouquet dit foin coupé .— On sait que l ' odeur du foin , odeur des plus agréables , est due à la présence d ' une graminée appelée flouve odorante ( anthoxantum odoratum ) .",
+        "words": [
+          "ODEUR",
+          "foin coupé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/25ebb6d4-9526-5b29-87dd-c2f0d58eb420",
+        "value": "Pour préparer l ' or , on broie dans un mortier de l ' or en feuilles avec du miel de première qualité .On délaye le mélange avec de l ' eau pure , on décante le liquide , on recueille la poudre qui s ' est précipitée au fond du vase , on la lave jusqu ' à ce qu ' elle ne donne plus aucune odeur , on la fait sécher et on l ' enferme dans un flacon .Pour s ' en servir , il suffit de la délayer dans de l ' eau gommée .",
+        "words": [
+          "aucune",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2646de08-1d0d-5a9d-9f75-c595f0894307",
+        "value": "Parmi la grande quantité de races étrangères , nous citerons le canard musqué , originaire d ' Amérique ; il acquiert des dimensions doubles de celles du canard ordinaire et se distingue comme les dindons par des caroncules rouges qui lui couvrent la tête et se renflent sur le bec .Sa viande a une odeur qui répugne généralement .Pour la rendre mangeable et appropriée à nos goûts , aussitôt qu ' il est tué on lui coupe la tète dans toute l ' étendue des caroncules , et on lui enlève le croupion , siége des organes Fig .",
+        "words": [
+          "odeur",
+          "viande"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/27fdf519-a0d3-5c72-82a4-363f51920b3c",
+        "value": "— Semence d ' une espèce de ketmie , genre de plantes de la famille des Malvacées , composées d ' herbes et d ' arbrisseaux exotiques , remarquables par la grandeur et la beauté de leurs feuilles .C ' est la ketmie odorante ( hibiscus hab - el - moschus ) qu ' on trouve aux Indes orientales et dans les contrées chaudes de l ' Amérique , qui fournit l ' ambrette .La capsule qui la contient est pyramidale , longue de 5 centimètres , et un peu rétrécie en pointe inférieurement .",
+        "words": [
+          "odorante",
+          "hibiscus",
+          "ambrette",
+          "ketmie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2ab36be9-bedb-5a5a-b6e6-d920ae5bfa07",
+        "value": "Il y a un trèsgrand nombre d ' élixirs ; nommons les principaux : l ' élixir de Garus , l ' élixir de la Grande Chartreuse ( voy .CHARTREUSE ) , l ' élixir de Spina , l ' élixir de Paracelse , l ' élixir antiseptique d ' Huxham , l ' élixir aromatique de Lefoulon , l ' élixir de Bories , l ' élixir de Clary , l ' élixir de longue vie , les élixirs de Leroy , de Corvisart , de Delabarre , de Desforges , de Lancelot , deGuillé , etc .Voici la composition de quelques uns d ' entre eux .",
+        "words": [
+          "élixir",
+          "Paracelse",
+          "Lefoulon",
+          "Spina",
+          "CHARTREUSE",
+          "élixir aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2c6bcede-efbe-5a06-80d1-de09072e1c00",
+        "value": "Le fond d ' une cave doit être uni , battu et tenu très - propre .Une bonne cave doit être à l ' abri de toutes les commotions et éloignée des lieux qui exhalent des odeurs fétides , tels que les fosses d ' aisance , les égouts , les marais , etc .Il faut éviter ( l ' y placer les bois verts , les vinaigres et toutes les matières qui sont susceptibles de fermentation .",
+        "words": [
+          "odeurs",
+          "fétides",
+          "cave"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2c938625-5605-586f-b51f-e193e5dd3a8a",
+        "value": "On emploie aussi les semences de beu , sorte de noix qu ' on trouve en Afrique et en Amérique , et qui donne par l ' expression une huile grasse , inodore , transpa - rente , appelée huile de ben .Cette huile se sépare en deux parties , l ' une solide et l ' autre liquide , très - difficilement congelable : on l ' utilise en parfumerie pour extraire les huiles essentielles des fleurs dont on ne peut rien retirer par la distillation , telles ' que le jasmin et la jonquille .( LUNEL .",
+        "words": [
+          "fleurs",
+          "jasmin",
+          "huiles essentielles",
+          "parfumerie",
+          "jonquille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2ca317fc-07a4-59d9-bbda-3b0330ffe5a8",
+        "value": "Cette plante croît aux bords des chemins , au pied des murs , dans les villages , les lieux incultes , et fleurit dans l ' année .Elle est sans odeur , mais douée d ' une saveur amijre .Sa racine , qui est pivotante , est réputée sudorifique , dépurative ; on l ' a préconisée , en décotion , contre les dartres , la teigne la syphilis constitutionnelle .",
+        "words": [
+          "sans",
+          "odeur",
+          "saveur",
+          "amijre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2cbe9005-693e-5c7c-98b3-a22f00a636b0",
+        "value": "gomme se rassemble en boules le long des branches et du tronc .Sous le rapport de la pureté , on distingue plusieurs sortes de gomme arabique , dont voici les principales : i0 gomme d ' Arabie véritable ; cette sorte est en boules de pe - tite dimension , blanche ou légèrement jaunâtre , la plus planche est la plus estimée ; elle est peu odorante , fade et complètement fendillée ; 2 ° gomme de Bassora , qui se présente en morceaux plus gros et plus irréguliers que la précédente .Elle est moins estimée , quoique pas plus colorée ; 3 ° gomme de Barbarie , elle se récolte sur la côte nord de l ' Afrique ; elle est jaune , quelquefois brune et plus ou moins transparente .",
+        "words": [
+          "odorante",
+          "peu",
+          "elle",
+          "fade",
+          "gomme",
+          "gomme arabique",
+          "gomme d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/2ffa56b9-29fb-5171-8692-91fcc227d283",
+        "value": "Les uns lui prêtent leurs forces , ce sont le bœuf et le cheval ; les autres , leurs instincts , leur industrie , leur ruse , ce Bont le chien , le chat et le furet .A l ' exception de ce dernier , qui est fort peu important à cause de sa petite taille , de son genre de vie , de l ' odeur désagréable qu ' il répand , tous les animaux auxiliaires sont en même temps alimentaires et industriels .En effet , toutes les fois qu ' un animal est auxiliaire , il rend de si grands services qu ' on le multiplie , et que chacun d ' eux , lorsque ses forces sont épuisées , renferme en lui une masse de produits que l ' homme cherche à utiliser .",
+        "words": [
+          "désagréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/30467d0a-39ec-54db-a4f0-e2e01f5375e0",
+        "value": "Les fraudeurs ne peuvent même pas falsifier impunément la cannelle en poudre , car .aucune poudre végétale ne possède l ' arôme de la cannelle véritable .EAU DE CANNELLE — Mettez 1 kilog .",
+        "words": [
+          "cannelle",
+          "arôme",
+          "poudre végétale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/30e202ec-affd-563f-89ee-cb90d8852c1b",
+        "value": "Réveil , sont des mélanges d ' extraits alcooliques de parfums , combinés dans des : proportions telles qu ' aucune odeur particulière ne domine .« Quand on fait un bouquet de plusieurs parfums , il faut les mélanger pour que , rapprochés , ils fassent un contraste ; en un mot , lorsqu ' un parfumeur veut faire un bouquet d ' odeurs primitives , il doit prendre des odeurs qui s ' accordent ensemble , le parfum alors sera harmonieux .» Nous donnons ci - dessous , d ' après le remarquable travail de MM .",
+        "words": [
+          "parfum",
+          "odeurs",
+          "primitives",
+          "parfumeur",
+          "harmonieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/322c507c-8e35-517d-87b7-6ebde36b91d8",
+        "value": "Le bitume est d ' un brun noirâtre ; il ressemble extérieurement à la houille , mais sa cassure , toujours homogène , est conchoïdale et brillante .Il est opaque , insipide , sans odeur et très - fragile .A la température ordinaire , il se réduit aisément en poudre , il fond vers 100 à 105 ° ; placé sur un corps en combustion , il s ' enflamme aisément et brûle avec une flamme claire , longue et fuligineuse .",
+        "words": [
+          "odeur",
+          "très - fragile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/32480e5a-aa34-5ce9-ab6d-dd2a683a3a51",
+        "value": "« Le caout - chouc a une couleur ordinairement brunâtre ; il est sans odeur ni saveur ; sa densité varie de 0 , 92 à 0 , 94 ; il est inaltérable à l ' air , mou , flexible , imperméable et extrêmement élastique .Soumis à l ' action d ' une douce chaleur , il se ramollit assez pour se souder avec lui - même ; à une température supérieure , il entre én fusion , prend la consistance du goudron , et conserve cet état , après le refroidissement , pendant des années ; une chaleur plus élevée encore le décompose , et il donne alors à la distillation des huiles volatiles et odorantes ( raoutchine ) , qui jouissent de la propriété de le dissoudre rapidement .Mis - en contact avec la flamme d ' une bougie , il prend feu promptement et brûle avec rapidité .",
+        "words": [
+          "huiles",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/32efe2cd-1e4e-5b8c-a385-61a55c25e83d",
+        "value": "prat .) — Nom donné à deux substances , l ' ambre gris et l ' ambre jaune , qui n ' ont rien de commun que d ' être toutes deux aromatiques : 1 ° AMBRE GRIS ( ambra grisea ) , dont on a longtemps ignore l ' origine , est regardé aujourd ' hui comme une concrétion qui se forme dans les intestins de certains cachalots , notamment du Physeter macrocephalus .On le trouve en masses irrégulières , et quelquefois en assez grande quantité , flottant sur les eaux de la mer , ou jeté sur le rivage des côtes de Coromandel , de Sumatra ; à la Chine , au Japon , sur les côtes d ' Afrique et du Brésil , à Madagascar , en Sicile , etc .",
+        "words": [
+          "ambre gris",
+          "aromatiques",
+          "substances",
+          "ambre jaune",
+          "AMBRE GRIS",
+          "ambra grisea",
+          "certains cachalots"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/35dcb355-13c8-5e80-855c-eb1b9339c543",
+        "value": "On laisse le coton en place le plus longtemps possible , et l ' on attend , si faire se peut , qu ' il tombe , pour ainsi dire , de luimême .Cependant , si la suppuration pénétrait à travers les couches et que les malades fussent par trop incommodés de l ' odeur fétide - et désagréable qui s ' en exhale alors , on pourrait les changer , mais en les remplaçant de suite par d ' autres , afin , de ne pas laisser aux plaies le temps d ' être frappées par l ' air .• Ce changement , on le comprend par ce que nous venons de dire , ne doit avoir lieu que dans le cas d ' absolue nécessité .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "les malades",
+          "suppuration",
+          "couches",
+          "fétide -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/35dd6616-3028-5720-bc33-780052dd847b",
+        "value": "Les parfumeurs , de même que les pharmaciens , en font d ' excellentes préparations pour désinfecter l ' haleine .Deux ou trois pastilles ou granules suffisent pour donner à la bouche une odeur et une .fraîcheur agréables .",
+        "words": [
+          "odeur",
+          "bouche",
+          "pastilles",
+          "granules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/36b39b1c-9267-57e9-88c9-7523179c2bf5",
+        "value": "Les alcoolats , comme les extraits d ' odeur ( aleoolés ) , peuvent se diviser : 1 * en alcoolats limpla ou esprits ; 2 * en alcoola \" composés qui comprennent toutes les eaux de toilette , eaux d ' odeur , eaux aromatique * composées , odeur * pour le mouchoir , e8sences , bouquets .Nous ne donnerons au présent article , que les formules des alcoolats simples : Les alcoolats simples se préparent généralement , en faisant infuser dans l ' alcool à 85 \" , pendant 24 à 36 heures , les substances dont il s ' agit d ' extraire l ' odeur , puis à ajouter à l ' infusion moitié autant d ' eau qu ' il y a d ' alcool , et soumettre le tout à la distillation .On recueille 1 à 2 0 / 0 près de bons produits ; rectifiant avec moitié d ' eau , on retire à 3 à 4 0 / 0 près ; enfin , on distille les flegmes et les résidus pour en extraire l ' alcool .",
+        "words": [
+          "odeur",
+          "substances",
+          "alcoolats simples",
+          "pendant 24 à 36 heures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/390d144e-b099-5990-9278-ad1f9504811b",
+        "value": "Une forte odeur de chlorure de chaux se dégagera pendant quelque temps ; mais en moins de trois heures cette odeur se trouvera entièrement évaporée .On ne doit avoir aucune crainte que cette odeur se communique au vin ou à la bière .ApPAREIL POUR NETTOYER LES TONNEAUX .",
+        "words": [
+          "odeur",
+          "bière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/3993dcd8-93f3-5df9-8cc9-94e79516c6b2",
+        "value": "i < ) « M < M , élixirs , baumes , quintessences , gouttes , alcools ; mais ces dénominations peu précises ont été remplacées avec raison par celle d ' alcoolats que les parfumeurs sérieux devraient tous adopter , pour éviter les confusions , et établir une fois pour toutes l ' ordre dans toutes ces dénominations si fausses dont on décore , trop souvent , les compositions de la parfumerie .Les alcoolats , comme les extraits d ' odeur ( aleoolés ) , peuvent se diviser : 1 * en alcoolats limpla ou esprits ; 2 * en alcoola \" composés qui comprennent toutes les eaux de toilette , eaux d ' odeur , eaux aromatique * composées , odeur * pour le mouchoir , e8sences , bouquets .Nous ne donnerons au présent article , que les formules des alcoolats simples : Les alcoolats simples se préparent généralement , en faisant infuser dans l ' alcool à 85 \" , pendant 24 à 36 heures , les substances dont il s ' agit d ' extraire l ' odeur , puis à ajouter à l ' infusion moitié autant d ' eau qu ' il y a d ' alcool , et soumettre le tout à la distillation .",
+        "words": [
+          "odeur",
+          "mouchoir",
+          "eaux",
+          "extraits",
+          "alcoolats",
+          "bouquets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/3b78f22f-645d-54d6-b021-2e66d61960f2",
+        "value": "La grande ciguë , aux feuilles grandes , d ' un vert très - foncé et un peu luisantes , est une plante vénéneuse extrêmement redoutable .Elle exhale une odeur vireuse , désagréable , surtout lorsqu ' on la froisse entre les doigts .On la trouve principalèment dans les lieux incultes et humides , parmi les décombres , près des habitations , etc .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "vireuse",
+          "Elle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/3d94540c-8f67-54cb-a0e6-1939dbf26a7b",
+        "value": "On doit choisir le gingembre nouveau , sec , difficile à rompre , d ' un goilt chaud et piquant , n ' ayant aucune filandre et ne présentant aucune altération .Le gingembre de la Jamaïque est long et mince ; il est blanc à l ' intérieur , donne une poudre brûlante , offre une odeur plus agréable et une plus forte - saveur que ceux des autres contrées .On retire du gingembre , par la distillation , une huile volatile très - caustique .",
+        "words": [
+          "Jamaïque",
+          "agréable",
+          "forte",
+          "odeur",
+          "saveur",
+          "contrées",
+          "gingembre de la Jamaïque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/40ba9b5c-155b-5c6d-82be-8a00902708d0",
+        "value": "On distingue dans le commerce trois sortes principales de girolle : 1 ° Le girofle anglais ou des Moluques , d ' un brun clair , et comme cendré , sensiblement quadrangulaire , pesant .Sa saveur est âcre , brûlante , très - fortement aromatique ; — 2 ° Le girofle de Bourbon , plus petit , moins foncé , et moins aromatique .3 ° Le girofle de Cayenne , grêle , aigu , sec , noirâtre , moins estimé que les deux précédents .",
+        "words": [
+          "aromatique",
+          "saveur",
+          "girofle de Bourbon",
+          "très - fortement aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/432f74f0-92bf-5a09-9caa-25ba37ee4526",
+        "value": "— On sait que l ' odeur du foin , odeur des plus agréables , est due à la présence d ' une graminée appelée flouve odorante ( anthoxantum odoratum ) .Or , cette herbe mûre , coupée et séchée , a l ' odeur de la fève de Tonka .Aussi , la préparation suivante , constituée principalement par un extrait de cette dernière substance , rappelie - t - elle l ' odeur dit bon foin coupé et sec : Extrait de fèves de Tonka 1 , 13 litre .",
+        "words": [
+          "odeur",
+          "de",
+          "fève",
+          "fève de",
+          "de Tonka",
+          "herbe mûre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/45d7c01c-194d-5f64-b629-20316d22414d",
+        "value": "Ils entrent dans la composition du baume de Fioraventi , du vinaigre des Quatre - Voleurs , etc .Le fruit du giroflier a une forme ovoïde , une - odeur faible et une saveur moins prononcée que celle des clous de girofle .On en tire une huile volatile qui possède les mêmes propriétés .",
+        "words": [
+          "faible",
+          "odeur",
+          "moins prononcée",
+          "de",
+          "clous",
+          "saveur",
+          "clous de",
+          "de girofle",
+          "fruit du giroflier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/47afcffd-0f4d-5c63-92c7-3ed112154033",
+        "value": "Les bécasses quittent l ' Allemagne au commencement de l ' été et y retournent sur la fin de l ' automne ; c ' est dans ce temps qu ' on en voit passer en France .Leur naturel est farouche , défiant ; quoique leurs yeux soient grands , elles ont la vue faible , et l ' on croit que leur odorat les dirige à la recherche de leur nourriture .Après un vol court et très - rapide , la bécasse s ' abaisse BÉLIER 145 Wsqnemdnt à lerVe \" et ' ç rt très - vite pour se blottir dans une eé ée .",
+        "words": [
+          "leur",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/497de58e-2420-51a2-bf6e-0b6de24588f8",
+        "value": "- Le café est le fruit du caféier ou cafter ( flg .67 ) d ' Arabie , avec lequel on fait cette boisson aromatique qui est d ' un si fréquent usage .Nous avons dit à l ' article BOISSON les qualités hygiéniques de cette liqueur , nous allons parler maintenant des signes qui doivent guider le choix des acheteurs .",
+        "words": [
+          "aromatique",
+          "boisson"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/4a34cc2a-d01d-5ad5-b70a-d42ec611fa43",
+        "value": "— Du collage pour la clarification .— Arôme , sève , bouquet et goût de terroir .- Du gouvernement et de la conservation des vins .",
+        "words": [
+          "sève",
+          "goût",
+          "Arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/4b9781f2-5a24-54ad-841b-3d2b7e8c4332",
+        "value": "CONSERVATION DU BEURRE .— Malgré le lavage qu ' on fait subir au beurre , il conserve toujours une certaine portion de caséïne et de sérum qui contribuent l ' un et l ' autre , dès le principe à lui donner une odeur fraîche et délicate ; mais qui bientôt changent , modifient d ' une façon fâcheuse ces qualités auxquelles succèdent insensiblement une odeur particulière qu ' on caractérise par le mot rance , et un goût âcre qui va en augmentant très - rapidement sous l ' influence d ' une température élevée , surtout à la surface ; ce qu ' il faut attribuer à l ' action de l ' oxygène de l ' air .Il se forme , à l ' aide de ce principe , des acides gras auxquels on a donné les noms d ' acide butyrique , caproïque , etc .",
+        "words": [
+          "âcre",
+          "odeur",
+          "fraîche",
+          "particulière",
+          "rance",
+          "délicate",
+          "sérum",
+          "goût",
+          "caséïne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/4bdc9037-b5e6-5e68-8a28-4272a133794c",
+        "value": "nue sous le nom de tulipe « due de Thol » possède un parfum .délicieux qui , jusqu ' à ce - jour , n ' a pas été extrait et exploité par les parfumeurs , probablement parce que la composition suivante en est une excellente imitation : Extraits de tubéreuse , de violette , de jasmin , ( les trois esprits de pommade ) 0 , 56 litre de charnu Extrait de roses 0 , 28 — — d ' iris 85 grammes .Essence d ' amandes .",
+        "words": [
+          "roses",
+          "violette",
+          "jasmin",
+          "délicieux",
+          "iris",
+          "tubéreuse",
+          "parfumeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/4db88ced-198c-5dba-ab56-eff5ef86b23d",
+        "value": "Piesse place au premier rang des préparations pour le mouchoir .« Il a , dit - il , un arôme particulier qui rappelle véritablement l ' odeur des fleurs , et cet arÔme • différent de tous les autres , ne sautait être imité facilement .» FLEURS DB PRINTEMPS Extraits de roses , de violettes ( les deux esprits de pommade ) 0 , 56 litre de chacun .",
+        "words": [
+          "odeur",
+          "fleurs",
+          "particulier",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/50bf69f6-5929-5392-a4ef-23eb74e42906",
+        "value": ", se font en remplaçant les deux huiles ci - dessus par des huiles de tubéreuse , à la rose , etc ., parfumées par enfleurage ou par macération .Encaustique [ Angl .",
+        "words": "parfumées"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/528e51cc-24a6-5329-9328-967df880f846",
+        "value": "On peut les supporter sans grand inconvénient pendant le jour , dans un appartement spacieux ; mais ces bouquets parfumés n ' y doivent point séjourner pendant la nuit , Comme complément de l ' article Fleurs , nous donnons cidessous deux tableaux authentiques , dressés par M .Piver , sur la production des fleurs employées par la parfumerie dans le département des Alpes - Maritimes .FLEURS EMPLOYÉES DANS LA PARFUMERIE ( Alpes - Maritimes ) ; LIEUX Fleurs Tubé - Vio - de Roses .",
+        "words": [
+          "fleurs",
+          "parfumerie",
+          "département des Alpes - Maritimes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/5452a5a3-47be-587e-aa55-265b092f8b84",
+        "value": "Essenz ] ( Parfumerie ) .— Les essences employées en parfumerie sont des substances organiqnes , liquides et quelquefois solides , douées d ' odeur , pouvant se distiller sans décomposition , non miscibles à l ' eau , solubles dans l ' alcool et l ' éther .Le docteur Ferdinand Hœfer indique ainsi les propriétés générales des essences : L ' odeur aromatique d ' un végétal ou de tout autre matière organique est en général due à une essence ou huile essentielle .",
+        "words": [
+          "odeur",
+          "substances",
+          "essences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/54ef4127-caf4-5020-875b-12da629d4aa6",
+        "value": "» Suivant le nombre de graines qu ' ils renferment , les fruits peuvent être monospermes , dispermes , trispermes , polyspermes , etc .Les principaux fruits employés en parfumerie sont les amandes , avelines , citrons , bergamote , oranges , cédrats , noix , muscades , cacao , etc .On emploie aussi les semences de beu , sorte de noix qu ' on trouve en Afrique et en Amérique , et qui donne par l ' expression une huile grasse , inodore , transpa - rente , appelée huile de ben .",
+        "words": [
+          "fruits",
+          "amandes",
+          "citrons",
+          "bergamote",
+          "parfumerie",
+          "avelines",
+          "noix",
+          "muscades",
+          "cacao"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/55c63f44-359b-57d1-9f55-0ff55842a2fc",
+        "value": "35 .BOUQUET A LA TULIPE Presque toutes les tulipes sont inodores ; cependant celle con .nue sous le nom de tulipe « due de Thol » possède un parfum .",
+        "words": [
+          "inodores",
+          "tulipes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/58fb2de8-85a3-5440-b20b-813f0acd9a13",
+        "value": "Les plus mauvaises sont celles d ' Alep et des Indes .) — Les nombreux produits retirés du goudron , et surtout les magnifiques matières colorantes rivalisent , par leur pureté , avec les nuances les plus délicates et les plus fraîches de la flore .Ils les dépassent même par leur beauté , et ils ont en quelque sorte révolutionné la teinture et l ' impression sur étoffes .",
+        "words": [
+          "matières",
+          "goudron",
+          "colorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/5aeee6de-cd28-5395-8fd2-4e7dc26a1de3",
+        "value": "2 ° Vapeur d ' ammoniaque : en faire aspirer à l ' animal une légère dose , et lui en verser quelques gouttes sur le sommet de la tète .3 ° Odeur de la châtaigne : gratter fortement sur un cheval quelconque la corne qu ' ils portent à la hauteur du genou et qu ' on appelle la châtaigne ; en recueillir la poussière et la faire sentir au cheval qu ' on veut dompter : il l ' aspire avec satisfaction ; on le caresse ; puis on recommence et ainsi de suite .Au bout de trois quarts d ' heure , le cheval est doux comme un mouton .",
+        "words": [
+          "Odeur",
+          "corne",
+          "châtaigne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/5c926b7c-a026-50b4-9f89-7622f1f0de68",
+        "value": "4 ° Rocou .— Le rocou est une matière de consistance pà - ' teuse , d ' une couleur rougeàtre et d ' une odeur forte .Elle recouvre les graines du rocouyer ( bixa orellana ) , arbrisseau de l ' Amérique méridionale .",
+        "words": [
+          "forte",
+          "odeur",
+          "matière",
+          "rocou"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/5dc2f359-de6a-5489-8826-8663736bee51",
+        "value": "Produit de la fermentation du moût ou jus de raisin .Considérés chimiquement , ils sont un composé d ' eau , d ' alcool , de matière sucrée , d ' acides malique , tartrique , acétique , de tartrate acidulé de potasse , d ' une matière colorante assez analogue au tannin , et quelquefois d ' une substance aromatique ( bouquet ) et d ' acide carbonique .Les vins sont d ' autant plus toniques , nourrissants et excitante qu ' ils contiennant plus d ' alcool ; les vins rouges sont généralement moins excitants que les blancs , surtout ceux de Bordeaux et du Rhin .",
+        "words": [
+          "aromatique",
+          "tartrate",
+          "substance",
+          "matière sucrée",
+          "acides malique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/5ece6e18-a72e-5763-94f6-084c406ca5f0",
+        "value": "C ' est à la faveur de l ' acide carbonique souterrain que les carbonates , phosphates , silicates insolubles , renfermés dans les terres arables , deviennent solubles dans l ' eau et peuvent pénétrer dans les tissus des plantes .L ' acide carbonique est un gaz asphyxiant , mais il n ' est pas délétère comme l ' oxyde de carbone .Il faut que l ' air renferme environ 30 pour 100 d ' acide carbonique pour qu ' il devienne irrespirable , mais le plus souvent les atmosphères viciées par la combustion du charbon et dans lesquelles les hommes périssent asphyxiés , sont bien loin de renfermer une proportion aussi forte de ce gaz .",
+        "words": "asphyxiant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/5fa0c3cf-ddcc-5754-9bb0-7316959c4c90",
+        "value": "Odeur agréable et franche .Saveur qui rappelle celle du froment .On en distingue généralement trois variétés : le martinique .",
+        "words": [
+          "froment",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/601ed820-ce19-54f3-ac57-d1a58b6f050c",
+        "value": "L ' arbre veut une terre légère en général , et fraîche ; sa végétation est fort irrégulière , et comme les coings ne se forment qu ' au sommet des rameaux ; on ne le taille guère que tous les trois ans , en supprimant le bois qui ne fructifie plus .Le fruit du coignassier a une odeur forte et une saveur âpre qui l ' empêche de pouvoir être .mangé cru .",
+        "words": [
+          "fruit",
+          "forte",
+          "odeur",
+          "âpre",
+          "saveur",
+          "coignassier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/605dda1b-ba19-520f-b825-148745dd7c25",
+        "value": "vent les égouts sont des aqueducs .Les égouts laissent échapper des miasmes infects souvent nuisibles .— En architecture , ce nom se donne aux dernières tuiles ou ardoises qui sont au bas 1 d ' un comble , et vont jeter les eaux pluviales en avant du mur .",
+        "words": [
+          "miasmes",
+          "infects souvent nuisibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/65f8d96b-e3a8-52e6-bed2-46000ee11f87",
+        "value": "Une graisse animale quelconque doit être rejetée lorsqu ' elle est rance , qu ' elle a une odeur repoussante et une saveur désagréable .— Traitée par l ' alcool bouillant , une pareille graisse laissé après l ' évaporation une matière brune , molasse , acide , d ' une odeur peu désagréable , d ' une saveur piquante , nauséeuse , irritant très - violemment l ' arrière - bouche en y laissant un sentiment de sécheresse .APPLICATIONS .",
+        "words": [
+          "odeur",
+          "piquante",
+          "nauséeuse",
+          "matière",
+          "alcool",
+          "saveur",
+          "peu désagréable",
+          "pareille graisse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/6625ba68-d4c9-5b19-a3b2-a78a76c92d82",
+        "value": "50 Odeur .— Presque aromatique .Le véritable bitume minéral , sans mélange aucun , possède une odeur sui generis qui est loin d ' être désagréable .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/68d6afad-5395-53a9-98ee-b245a0b53c86",
+        "value": "La cheminée peut se construire en tôle , en poterie ou en bois .Dans ce dernier cas , elle doit être en planches de bois dur , parfaitement assemblées , de manière à empêcher les émanations de l ' écurie de pénétrer dans les magasins à fourrages qu ' elle traverse .M .",
+        "words": [
+          "émanations",
+          "planches de bois dur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/69d9692c-a082-5c0b-8e9e-c9aae2b7316a",
+        "value": "L ' aloès caballin est sous forme de masse noires ; il a une odeur très - forte et se prépare , sans doute , avec des qualités inférieures d ' aloès .L ' aloès fétide est d ' un brun noirâtre , d ' une odeur animalisée , comme putride .L ' aloès Barbade enfin vient de la Jamaïque et de la Barbade .",
+        "words": [
+          "fétide",
+          "odeur",
+          "putride",
+          "aloès",
+          "animalisée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/6bf24875-7994-5b44-b469-bfe340443949",
+        "value": "On évalue la pureté de l ' étain à l ' intensité de son cri .Sa saveur et son odeur sont désagréables .Il fond à 210 degrés , n ' est pas volatil , s ' oxyde par l ' air et l ' oxygène à une température élevée , mais ne s ' altère pas à la température ordinaire .",
+        "words": [
+          "odeur",
+          "désagréables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/6c4118e1-ae9d-5fc7-80db-f204641be83b",
+        "value": "Celles dont elles sont le plus souvent atteintes sont la dyssenterie et la loque ou pourriture , et comme elles sont épidémiques , si l ' on ne prend pas à temps les précautions nécessaires , on ne tarde pas à voir périr les colonies tout entières .On reconnaît facilement quand les abeilles sont décimées par ces maladies à l ' odeur méphitique qu ' exhalent les ruches .On soigne la dyssenterie en changeant les abeilles de ruche et en mariant les populations .",
+        "words": [
+          "odeur",
+          "méphitique",
+          "exhalent",
+          "ruches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/6e47f3df-4b6c-5938-bc34-d409e0789c75",
+        "value": "— Ce corps est le produit de l ' union de i75 parties d ' azote avec 37 parties et demie d ' hydrogène .On le reconnaît à cette odeur piquante , particulière , qui fait pleurer et que l ' on sent avec tant de force quand on nettoie le vieux fumier des bergeries .Il se forme de l ' ammoniaque dans l ' air par les temps d ' orage , et il s ' en produit des quantités considérables dans la putréfaction des engrais , des plantes et des animaux .",
+        "words": [
+          "odeur",
+          "piquante",
+          "particulière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/6e96c038-5eee-54db-909a-53c6ff448f70",
+        "value": "- Les graisses sont insolubles dans l ' eau , leur densité est toujours moindre que celle de ce liquide .Leur odeur et leur saveur sont variables : tantôt faibles et non désagréables , comme celles des herbivores , domestiques et des oiseaux de basse - cour ; tantôt repoussantes et fortes , comme dans celles de la plupart des carnivores .Elles fondent entre 25 et 30 ° , s ' enflamment au contact d ' un corps .",
+        "words": [
+          "odeur",
+          "leur",
+          "fortes",
+          "faibles",
+          "repoussantes",
+          "saveur",
+          "non désagréables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/6f218861-d875-56b8-8019-f51dc65875d7",
+        "value": "Le cerfeuil est aussi employé comme plante médicinale en infusion ou en décoction .On prescrit le suc de ses feuilles comme apéritif , désobstruant , contre l ' ictère , les engorgements du foie etc .Mais c ' est principalement à l ' extérieur que cette plante est employée , en cataplasmes , et en lotions , contre les hémorrhoïdes .",
+        "words": [
+          "feuilles",
+          "apéritif",
+          "désobstruant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/71868d3c-1c20-5990-8c5d-bf5562150e1a",
+        "value": "1 , 7 ? — BOUQUETS PRÉSENTANT L ' ODEUR D ' UN PARFUM SIMPLE Bouquet dit foin coupé .— On sait que l ' odeur du foin , odeur des plus agréables , est due à la présence d ' une graminée appelée flouve odorante ( anthoxantum odoratum ) .Or , cette herbe mûre , coupée et séchée , a l ' odeur de la fève de Tonka .",
+        "words": [
+          "odorante",
+          "odeur",
+          "foin",
+          "des plus agréables",
+          "flouve",
+          "graminée",
+          "odoratum",
+          "anthoxantum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/71de50f4-6836-55aa-ba07-1083ab1740e9",
+        "value": "Il se forme , à l ' aide de ce principe , des acides gras auxquels on a donné les noms d ' acide butyrique , caproïque , etc ., qui apportent des modifications profondes à la saveur et à l ' odeur de cette substance alimentaire .Pour conserver au beurre toute sa fraîcheur et sa délicatesse de goût , il est nécessaire de le soustraire à l ' influence de l ' air .",
+        "words": [
+          "odeur",
+          "substance alimentaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/76d0c0c3-ea00-52e1-bc09-0ec6d7dac44a",
+        "value": "Fèves en général petites , presque arrondies , assez pelliculées ; différentes entre elles de forme et de grosseur , les unes larges et aplaties , d ' autres plus petites et arrondies , d ' autres roulées .Les fèves de moka ont une couleur jaune ou verdàtre , un parfum très - prononcé , et une saveur agréable plus sensible que dans les autres espèces .Quelques fèves sont enveloppées de leur coque , d ' autres sont entièrement noires .",
+        "words": [
+          "agréable",
+          "parfum",
+          "saveur",
+          "très - prononcé",
+          "fèves de moka"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/76df4540-c9c3-5b8e-a51c-a6e2347e2b46",
+        "value": "La durée de l ' ébullition doit être relative à la nature des substances qu ' on traite par la décoction .Les fleurs et les feuilles surtouj ; , dont le tissu est en général moins résistant , ne doivent être exposées qu ' à une ébullition très - passagère , surtout si elles sont odorantes : il ne faut les traiter que par infusion , Les racines et les écorces aromatiques ne doivent être exposées qu ' à une très - courte ébullition , parce que les principes aromatiques s ' évaporent ou se décomposent par l ' action de la chaleur , ou se séparent par suite d ' une sorte de distillation .Il est donc trèsessentiel , dans la préparation des décoctions , de faire attention à la manière dont l ' eau en ébullition agit sur les différentes substances , pour ne les soumettre que le temps convenable à l ' action de ce liquide .",
+        "words": [
+          "fleurs",
+          "racines",
+          "elles",
+          "odorantes",
+          "aromatiques",
+          "feuilles",
+          "écorces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/77ba3410-e8af-582b-a9e1-9b597acbec29",
+        "value": "Ses fleurs non encore épanouies sont , comme nous le disons plus haut , appelées clous de girofle .' Elles renferment une huile aromatique essentielle , épaisse , brune , très - pesante , d ' odeur d ' œillet , à laquelle elles doivent leur propriété aromatique et leur saveur àcre et brûlante .Les clous de giroflt s ' emploient comme assaisonnement et comme médicament , à cause de leurs propriétés stimulantes .",
+        "words": [
+          "huile",
+          "aromatique",
+          "odeur",
+          "œillet",
+          "aromatique essentielle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/7881d7da-88c6-53a0-97da-d233e450e52d",
+        "value": "Les allumettes fabriqués par le procédé de MM .BombesDevillers et Dalemagne ne donnent aucune odeur .Les Annales du génie civil ont publié dans la livraison de décembre 1871 , un article très - intéressant sur l ' histoire de la fabrication des allumettes chimiques et sur l ' importance que cette industrie a acquise en France .",
+        "words": [
+          "aucune",
+          "odeur",
+          "BombesDevillers",
+          "Dalemagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/79f8fb26-7885-57c9-9fcc-dbd35729b73a",
+        "value": "Les arbres sont sujets à des maladies , à des accidents qui doivent faire r < ' ) ett ' r , en tant que matériaux de construclion , les bois qui eii sont atteints à cause des défauts qui en résultent .Nous citerons : 1 ° L ' échauffement , premier degré de la décomposition du bois , qui s ' annonce ot ' dittaii * t - illt - lit par l ' odeur désagréable qu ' il exhale et par la présence de taches blanches ou rouges , disséminées en quantité plus ou moins considérable à sa surface .Cette altération provient de l ' emmagasinement des pièces de bois de coupe trop récente dans un local trop peu afol ' é ; Fig .",
+        "words": [
+          "bois",
+          "désagréable",
+          "odeur",
+          "exhale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/7a453afd-9b45-5f35-b495-82456fd7ddac",
+        "value": ") — Les couleurs jaune , rouge , verte et autres , que l ' on donne aux liqueurs , n ' ont été imaginées que pour flatter la vue ; elles ne contribuent en rien à la bonne qualité .La coloration des liqueurs est donc plutôt un objet de fantaisie que de nécessité ; en général elle n ' est pas favorable à la fabrication ; en même temps qu ' elle contribue à altérer et à dénaturer le parfum des liqueurs , elle agit , avec le temps , sur sa nuance naturelle .Bien que nous ne soyons pas partisan de la coloration artificielle des liqueurs , dit M .",
+        "words": [
+          "parfum",
+          "liqueurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/7cdae1c4-509c-5178-abd8-e06f0c360f02",
+        "value": "et recouvertes également de feuilles de roseau .Il est jaune pâle , son odeur est très - forte , sa saveur amère , chaude et aromatique .Sa consistance est celle du suif ; il prend à la longue un aspect grenu et cristallin .",
+        "words": [
+          "aromatique",
+          "chaude",
+          "odeur",
+          "son",
+          "sa",
+          "amère",
+          "saveur",
+          "très - forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/7e98e675-7289-5b2b-be10-89ac98cad7eb",
+        "value": "Chlor ] ( Chimie ) .— C ' est un gaz jaune verdâtre , d ' une odeur suffocante et très - dangereux à respirer .Si l ' on reste longtemps exposé à son action , il peut en résulter des crachements de sang et même la mort .",
+        "words": [
+          "odeur",
+          "gaz",
+          "suffocante",
+          "très - dangereux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/7f6cf733-877f-5ae6-91c3-32a4360be4c9",
+        "value": "Les pharmaciens se servent de l ' alcool pour les préparations , anatômiques , les teintures et les alcoolat ., les parfumeurs pour composer ces liqueurs aromatiques qu ' ils désignent sous le nom d ' esprits d ' odeurs , d ' extraits d ' odeurs , d ' eaux de senteur , etc .On l ' utilise encore pour la préparation des vernis sicatifs .",
+        "words": [
+          "liqueurs",
+          "aromatiques",
+          "eaux",
+          "parfumeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8052755c-c785-5eed-a2e8-d786e1281fe2",
+        "value": "La meilleure cannelle est mince , élastique , d ' un jaune pâle , ' , d ' un brillant poli , d ' une cassure éclatante , ayant une saveur chaude , aromatique , un goût sucré et fort doux ; elle devient souple dans la bouche , et le goût piquant dont elle affecte la langue est assez supportable .La cannelle qui est dure , épaisse comme une pièce de deux francs , d ' une couleur brune et noirâtre , ou qui a une saveur d ' un piquant insupportable , doit être mise au rebut ; c ' est pour cette raison qu ' on doit bien faire attention que les ballots ne soient pas falsifiés ou mélangés avec de la cannelle d ' une qualité inférieure .Les sophistications habituelles de la cannelle consistent à ajouter ou à substituer à ce produit des écorces exotiques plus - ou moins analogues , ou à l ' épuiser de son huile essentielle , en la faisant infuser dans l ' esprit de vin .",
+        "words": [
+          "cannelle",
+          "insupportable",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/82668782-2c06-506c-9c4a-6b8171494188",
+        "value": "4 ° La fibrine , la gélatine et l ' dlbutnine , — sé trouvant en proportions â peu près égales dans les poissons , nous ferons de ceux - ci une classé à part d ' aliments , en y ajoutant quelques crustacés , comme le homard , la langouste , l ' éorevisse , la crevette , etc .L ' osmazone , substance d ' une saveur et d ' une odeur agréables , qui existe dans les mammifères et les oiseaux et qui donne la couleur aux viandes rôties , se rencontre â peine dans les poissons .Sous le rapport de l ' alimentation , les poissons tiennent la milieu entre les végétaux èt les viandes .",
+        "words": [
+          "odeur",
+          "agréables",
+          "osmazone"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/82e67e49-5ce5-5e11-a515-4c81e18ca605",
+        "value": "Ceux - ci sont d ' une teinte plus noire , ridés , secs , sujets à se .moisir , - d ' une odeur et d ' une saveur presque nulles ; ils sont , en outre , aplatis , et ont perdu presque la moitié de leur volume .Mais il arrive aussi que , pour déguiser cette falsification , on fait tremper ces girofles épuisés dans une huile grasse aromatisée avec un peu d ' essence .",
+        "words": [
+          "odeur",
+          "ils",
+          "presque nulles",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/82f69883-db43-57fc-9471-0cbd0198d953",
+        "value": "Or , cette herbe mûre , coupée et séchée , a l ' odeur de la fève de Tonka .Aussi , la préparation suivante , constituée principalement par un extrait de cette dernière substance , rappelie - t - elle l ' odeur dit bon foin coupé et sec : Extrait de fèves de Tonka 1 , 13 litre .Extraits de géranium , de fleurs d ' oranger , de roses , de roses triple , de jasmin .",
+        "words": [
+          "odeur",
+          "foin",
+          "foin coupé",
+          "cette dernière substance",
+          "fèves de Tonka"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/841ce4f6-5046-5eb1-9211-bf643acef93c",
+        "value": ") — Nom donné à toute substance liquide introduite dans la bouche et de là dans le tube gigestif .Nous adopterons les divisions des boissons en : aqueuses , acidulés , fermentèes , spiritueuses et aromatiques .Boissons aqueuses .",
+        "words": [
+          "aromatiques",
+          "boissons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/843b5ed4-0b89-564c-a6e4-bbef3c83cb1b",
+        "value": "1 ° BAUME DU CANADA OU BAUME BLANC DU CANADA .— Il est transparent et a la même fluidité que la térébenthine du sapin ; il n ' en diffère que par son odeur , qui est plus suave et se rapproche de celle du citron ou du baume de la Mecque .On le tire du Canada , d ' une espèce de sapin nommé baumier de Gilead .",
+        "words": [
+          "suave",
+          "odeur",
+          "baume",
+          "il",
+          "citron",
+          "térébenthine",
+          "Il",
+          "sapin",
+          "Mecque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8454915a-d055-5c32-94d9-ea99b6b0a491",
+        "value": "die Galle ] .— Substance jaune verdàtre ou vert foncé , amer , et chargé d ' une odeur nauséabonde .Le fiel de bœuf est employé en teinture , il se décompose facilement à l ' air libre , et dissout presque toutes les matières grasses .",
+        "words": [
+          "odeur",
+          "nauséabonde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/84f5bed7-55cd-5803-a839-1a04c22049a7",
+        "value": "Son emploi est encore plus dangereux que le gaz liquide dont nous parlions en commençant ; il suffit quelquefois d ' approcher une bougie ou simplement une allumette enflammée d ' une lampe contenant du schiste , d ' un bidon même , pour déterminer l ' explosion du contenu et nécessairement des malheurs plus ou moins grands .Les vapeurs qui se dégagent pendant qu ' on transvase de grandes quantités de ce dangereux liquide sont assez inflammables pour prendre feu en présence du moindre corps en ignition .Des lampes alimentées au schiste font subitement explosion sans qu ' on ait rien fait pour provoquer cet accident .",
+        "words": [
+          "vapeurs",
+          "dangereux liquide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/867bffc9-de52-56b6-b6f5-48bc675f6dc3",
+        "value": "— Cette roche se trouve à la base de la formation crétacée ; elle recouvre les argiles du gault .C ' est la racine de cette plante qui sert dans la droguerie et la parfumerie .On distingue dans le commerce deux variétés de galanga , le grand et le petit .",
+        "words": [
+          "plante",
+          "parfumerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/86e9df3b-41bb-580a-859e-bc17ba054760",
+        "value": "37 .- Le Llquorl8te des Dames ou l ' art de préparer en quelques instants toutes sortes de liqueurs de table et des parfums de toilette avec toutes les fleurs cultivées dans les jardins , suivi de procédés très - simples et expérimentés pour mettre les fruits , à l ' eau - de - vie , faire des liqueurs et des ratafias , des vins de dessert , mousseux et non mousseux , des sirops rafraîchissants , etc ., 1 vol .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/875cae98-ff7e-5ef8-be3d-95a99a612333",
+        "value": "— L ' empoisonnement est l ' effet produit par les poisons sur l ' économie , et l ' on a défini les poisons : agents capables d ' occasionner la mort lorsqu ' ils sont introduits dans l ' estomac .Les poisons ont été divisés en irritants , narcotiques , narcoticoacres et sceptiques .Il est presque impossible de décrire d ' une manière générale les caractères de l ' empoisonnement , qui varient suivant l ' espèce de poison .",
+        "words": [
+          "irritants",
+          "narcotiques",
+          "poisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8760d9c7-0880-5b87-98b3-1ad41aaabc19",
+        "value": "Son parfum , son goût , et même sa texture ; tout est sensiblement modifié ; et il est devenu fade , grenu ; mais il se garde plus longtemps encore que le beurre salé chez lequel on retrouve à peu près les mêmes qualités que dans le beurre frais ordinaire .Il existe encore un moyen de conserver le beurre en lui gardant son fin parfum et sa délicatesse ; c ' est de le mettre frais dans des boîtes de fer blanc où on le tasse parfaitement en le recouvrant d ' une légère couche d ' eau acidulée au moyen de l ' acide tartrique ou d ' un liqnide composé de 6 grammes de bicarbonate de soude et d ' acide tartrique dissous dans un litre d ' eau .Après l ' addi1 tion d ' une quantité suffisante de l ' un de ces liquides préserva ; teurs pour couvrir la surface du beurre , on soude le couvercle .",
+        "words": [
+          "parfum",
+          "fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8b7bbd4b-2908-577c-a8d2-a6d2046f9e3a",
+        "value": "On distingue plusieurs sortes de fermentations : la fermentation s .accharine , alcoolique ou vineuse , acide , et putride , t La fermentation acide ( acétique ou acéteuse ) , a lieu toutes les ! • ' ois qu ' une liqueur spiritueuse ou vineuse est exposée au contact de l ' air , à une température au - dessus de 18 degrés , et qu ' elle renferme de la matière végéto - animale comme le gluten ion le ferment .La liqueur , en s ' échauffant , dégage l ' acide carbonique , dépose une matière assez .",
+        "words": [
+          "liqueur",
+          "putride",
+          "accharine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8c03b54b-41fa-5dfc-a6c3-10521c06242a",
+        "value": ".Og , 88 ou 2 — On fait fondre la cire et le blanc de baleine dans l ' huile d ' à - mandes , puis on y mélange en agitant , l ' eau de rose , enfin on parfume avec l ' essence .On fait des cold - cream à l ' amande , à la violette , à la tubéreuse , au jasmin , à la fleur d ' oranger , en remplaçant dans la formule ci - dessus l ' essence de rose par la quantité suffisante des essences des plantes que nous venons de citer .",
+        "words": [
+          "parfume",
+          "blanc de baleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8c554c6e-6a96-5a3c-b08d-9606eec26c69",
+        "value": "— Considérations à observer .Des spiritueux aromatiques non sucrés .— Emploi des écumes et des eaux provenant du lavage des filtres .",
+        "words": [
+          "spiritueux",
+          "aromatiques",
+          "spiritueux aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/8cd8c17a-39a2-5f71-a608-1bd9d49fcdd8",
+        "value": "On peut prendre celui qui , dans le commerce , est connu sous le nom de noir léger fin .On le mêle avec une quantité suffisante de colle préparée ; on y ajoute un peu de musc ou quelque autre aromate , pour masquer l ' odeur désagréable de la colle ; puis on broie le tout avec soin sur une glace à l ' aide d ' une molette .On donne ensuite à la pâte épaisse , ainsi obtenue , la forme de bâtons ou parallélipipèdes rectangles , à l ' aide de moules en bois incrustés de lettres et dessins qui doivent paraître en relief sur toutes les faces On fait dessécher lentement ces bâtons en les tenant recouverts de cendres ; enfin , la plupart sont dorés par l ' application d ' une feuille d ' or sur toute leur superficie humectée .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "aromate",
+          "musc",
+          "colle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/9013c34c-b208-5a4a-988b-f5bc28f9c5fe",
+        "value": "- Cette résine découle d ' un arbre qui croit dans l ' Arabie heureuse .Le véritable baume de la Mecque , qui est fort rare , est limpide et blanchâtre , âcre , aromatique et très - pénétrant .3 ° BAUME DU PÉROU .",
+        "words": [
+          "aromatique",
+          "baume",
+          "Mecque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/91393a6e-336d-5caa-b214-816562986f1b",
+        "value": "Bâtard .C ' est un liquide orange fonct1 presque noir , dont l ' odeur pénétrante et suffocante rappelle celle du chlore ; il colore la peau et la désorganise ; sa densitt est de 2 , 97 et à — 7 ° , 3 c .— Il se change en une masse feuilletér solide et gris d ' acier , qui ressemble totalement à l ' iode .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "suffocante",
+          "liquide",
+          "chlore",
+          "colore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/92f8f4b3-46ae-5a4d-9137-aaeecde22651",
+        "value": "Cela n ' est vrai qu ' en partie : en effet , tous les sels minéraux , toutes les matières colorantes que l ' eau peut contenir , en sont éliminés par la congélation , mais il n ' en est pas de même pour les matières organiques .Ainsi , la limpidité , la transparence de la glace , ne sont pas une preuve de sa pureté , et l ' on rencontre des cubes de glace d ' une limpidité remarquable dont cependant il s ' exhale une mauvaise odeur lorsque cette - glace est fondue .PROCÉDÉ EMPLOYÉ POUR RÉCOLTER LA GLACE .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "glace"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/93379d1d-87cf-54c9-b276-4bff5c6e6a95",
+        "value": "Si cependant le papier perdait sa transparence pendant l ' opération du décalque , on n ' aurait qu ' à humecter de nouveau le papier avec de la benzine fraîche .Pour réussir parfaitement , il faut se servir de benzine bien pure et fraîchement distillée ; autrement le papier pourrait conserver une légère odeur et mème quelques taches .» ( Études .",
+        "words": [
+          "papier",
+          "odeur",
+          "légère",
+          "benzine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/943a2981-0ea4-5b78-bb06-02c4f33673a2",
+        "value": ".C ' est la torréfaction qui donne au café son arôme , et y développe à la fois le tannin et une huile empyreumatique amère , à laquelle il doit fes propriétés excitantes .Mêlé au lait , le café perd la plus grande partie de ses propriétés ; il peut même devenir un débilitant pour les personnes qui en prennent tous les jours .",
+        "words": [
+          "amère",
+          "empyreumatique",
+          "excitantes",
+          "café",
+          "tannin",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/94cb0d5f-5b70-5c48-98a2-730056332f6b",
+        "value": "La cavité du ventre des faux - bourdons est occupée par des vaisseaux et des réservoirs dont l ' usage parait être de préparer et de contenir la liqueur fécondante et ie la déposer 4lans le corps de l ' abeille mère par l ' accouplement .Dans le temps de l ' essaimage , ils exhalent une odeur assez forte , qui , avec le bruit qu ' ils font entendre en volant , est sans doute pour la jeune femelle qui veut se faire féconder un moyen de les rencontrer .Cette odeur prononcée présage la sortie des essaims .",
+        "words": [
+          "assez forte",
+          "odeur",
+          "ils",
+          "exhalent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/95da85b9-d51b-50ed-99b4-e2cabc04158e",
+        "value": "Ces dissolutions étaient appelées autrefois esprits , eaux , eaux SI ) il .i < ) « M < M , élixirs , baumes , quintessences , gouttes , alcools ; mais ces dénominations peu précises ont été remplacées avec raison par celle d ' alcoolats que les parfumeurs sérieux devraient tous adopter , pour éviter les confusions , et établir une fois pour toutes l ' ordre dans toutes ces dénominations si fausses dont on décore , trop souvent , les compositions de la parfumerie .Les alcoolats , comme les extraits d ' odeur ( aleoolés ) , peuvent se diviser : 1 * en alcoolats limpla ou esprits ; 2 * en alcoola \" composés qui comprennent toutes les eaux de toilette , eaux d ' odeur , eaux aromatique * composées , odeur * pour le mouchoir , e8sences , bouquets .",
+        "words": [
+          "baumes",
+          "alcoolats",
+          "alcools",
+          "gouttes",
+          "parfumerie",
+          "élixirs",
+          "quintessences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/96bc4353-a028-5628-bce0-4c25a07d44a8",
+        "value": "— Les suifs , et en général les graisses animales , sont susceptibles d ' altérations qui sont préjudiciables à la santé , lorsque les corps gras sont destinés à l ' alimentation .Une graisse animale quelconque doit être rejetée lorsqu ' elle est rance , qu ' elle a une odeur repoussante et une saveur désagréable .— Traitée par l ' alcool bouillant , une pareille graisse laissé après l ' évaporation une matière brune , molasse , acide , d ' une odeur peu désagréable , d ' une saveur piquante , nauséeuse , irritant très - violemment l ' arrière - bouche en y laissant un sentiment de sécheresse .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "elle",
+          "repoussante",
+          "rance",
+          "graisse animale quelconque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/97608acb-fe8b-5fd0-bb7b-b37432c28650",
+        "value": "1 d ' autant plus abondant dans les tissus des vé - gétaux que ceux - ci étaient plus jeunes et doués d ' une plus grande énergie vitale ; tels sont les bourgeons , l ' extrémité des jeunes pousses ou des racines .A l ' état de mélange dans l ' air , l ' azote modère l ' action de l ' oxygène sur tous les corps de la nature ; à l ' état de combinaison , il communique aux substances organiques des propriétés nutritives ou fécondantes très - remarquables .Les .",
+        "words": [
+          "remarquables",
+          "substances organiques",
+          "fécondantes",
+          "tous les corps de la nature"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/97f450ec-6266-537e-9b3c-8070024cb5e1",
+        "value": "Cette décoction est employée non - seulement pour la teinture sur étoffes , mais aussi dans la maroquinerie et dans plusieurs autre industries ( l ) .» Orillantine ( parfumerie ) — C ' est un composé alcoolique légèrement aromatisé par un parfum quelconque , et dans lequel on fait dissoudre environ 1110 de son poids , soit de glycérine pure , soit d ' huile de ricin très fraîche .On s ' en s ' en sert en parfumerie pour lustrer les cheveux et la barbe .",
+        "words": [
+          "parfum",
+          "composé",
+          "parfumerie",
+          "aromatisé",
+          "Orillantine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/9813dcf5-7899-5c1d-969c-984e35ee026f",
+        "value": "L ' aloès du Cap est d ' une couleur foncée en masse , mais translucide et d ' un rouge foncé en lames minces .Sa saveur est très - amère ; son odeur aromatique , peu agréable .L ' aloès de l ' Inde , de qualité inférieure , est noirâtre ; sa cassure est terne .",
+        "words": [
+          "aromatique",
+          "odeur",
+          "son",
+          "peu agréable",
+          "très - amère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/985292df-8b85-5c14-aca5-a10a91da6c51",
+        "value": "Le fruit est la grenade .Les fleurs sèches ont , en médecine , de grandes propriétés astringentes .fire - damp ; Allem .",
+        "words": [
+          "astringentes",
+          "fleurs sèches",
+          "grandes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/98ae239a-f20f-536c-b8cf-0b8d1645563e",
+        "value": "En même temps on cherche à introduire par insufflation de l ' air dans les poumons à l ' aide d ' un tuyau ou d ' un soufflet : on ne doit employer ce moyen qu ' avec beaucoup de précaution .Enfin , on cherche à faire respirer des odeurs fortes , surtout de l ' ammoniaque , ou du fort vinaigre .Aussitôt qu ' en agissant ainsi on s ' aperçoit que l ' on parvient à réchauffer le corps , on peut le frictionner avec de l ' eau - de - vie , ou un autre liquide excitant , de l ' huile de térébenthine , entre autres , puis on le place dans un lit bien sec , mais froid , et dans une chambre sans feu .",
+        "words": [
+          "odeurs",
+          "fortes",
+          "ammoniaque",
+          "fort vinaigre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/99de2d92-e33b-5de5-9be9-3ab33957fc95",
+        "value": ") .: i K — En parfumerie , on donne le nom de bouquets aux parfums composés ( alcoolats et alcoolés composés ) , vendus pour le mouchoir , tandis qu ' on appelle extraits , esprits ou essences les parfums simples ( alcoolats et alcoolés simples ) , vendus pour le mème usage .Les bouquets , disent MM .",
+        "words": [
+          "parfums",
+          "esprits",
+          "essences",
+          "extraits",
+          "alcoolats",
+          "alcoolés simples",
+          "alcoolés composés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/99e5011f-9dd4-5240-a99e-e882a07ab928",
+        "value": "On les projette en couches plus ou moins épaisses sur les matières que l ' on veut désinfecter temporairement .Il est de première nécessité à la campagne , de chasser les gaz méphitiques produits par les déjections des hommes et des animaux .On a proposé dans ce but un grand nombre de procédés .",
+        "words": [
+          "gaz",
+          "gaz méphitiques",
+          "campagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/9a1ba8a9-c954-59c9-a401-7b0d3e4a4a03",
+        "value": "— Les essences employées en parfumerie sont des substances organiqnes , liquides et quelquefois solides , douées d ' odeur , pouvant se distiller sans décomposition , non miscibles à l ' eau , solubles dans l ' alcool et l ' éther .Le docteur Ferdinand Hœfer indique ainsi les propriétés générales des essences : L ' odeur aromatique d ' un végétal ou de tout autre matière organique est en général due à une essence ou huile essentielle .Beaucoup d ' essences se trouvent toutes formées dans les plantes ; le zeste du citron ou de l ' orange fournit , par la pression , l ' essence de citron .",
+        "words": [
+          "aromatique",
+          "essence",
+          "essences",
+          "huile essentielle",
+          "matière organique",
+          "végétal",
+          "odeur aromatique",
+          "docteur Ferdinand Hœfer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/9cf0ff20-571f-5893-824c-d373346e0826",
+        "value": "Sillon longitudinal bien ouvert , surtout vers le milieu de sa longueur ; quelquefois contourné .Odeur agréable et franche .Saveur qui rappelle celle du froment .",
+        "words": [
+          "agréable",
+          "Odeur",
+          "franche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/9ddca5b3-9609-536c-9ba4-3a45f3f12f42",
+        "value": "Les fleurs de cette espèce de ketmie sont jaunes , avec un fond pourpre , et leur calice est caduc , c ' est - à - dire qu ' il tombe avant la fleur .L ' ambrette s ' emploie encore en parfumerie à cause de son odeur qui participe à la fois de celle du muse et de celle de la vanille ; mais le règne de l ' ambrette a passé avec l ' usage de la poudre pour les cheveux : c ' était le parfum généralement adopté pour cette poudre .Bonastre , qui a fait l ' analyse de là graine de ketmie odorante , a trouvé : Parenchyme et humidité , 130 Mucilage au gomme .",
+        "words": [
+          "parfum",
+          "odeur",
+          "celle",
+          "poudre",
+          "muse",
+          "vanille",
+          "parfumerie",
+          "ambrette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/9e9dd75a-dfba-5774-b3d2-4874a9cf09a3",
+        "value": "On le trouve en masses irrégulières , et quelquefois en assez grande quantité , flottant sur les eaux de la mer , ou jeté sur le rivage des côtes de Coromandel , de Sumatra ; à la Chine , au Japon , sur les côtes d ' Afrique et du Brésil , à Madagascar , en Sicile , etc .Il est formé de couches concentriques ; sa cassure est écailleuse , parsemée de taches grises , mêlées de points noirs , jaunes et blancs ; il est opaque , d ' une consistance variable ; tantôt molle ou tenace , quelquefois dure et cassante , conservant cependant l ' impression de l ' ongle ; sa saveur est graisseuse ; son odeur forte , mais assez agréable , se dégage surtout à la chaleur et par le frottement .L ' ambre gris se ramollit à la chaleur , et constitue en fondant une huile épaisse , noirâtre , qui se volatilise complètement ; il brûle rapidement et répand une vive clarté ; il est insoluble dans l ' eau , très - soluble dans l ' alcool , les éthers et quelques huiles fixes .",
+        "words": [
+          "forte",
+          "odeur",
+          "son",
+          "sa",
+          "assez agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a066e170-0696-5f83-b91a-e158933c1522",
+        "value": "Cet arbuste atteint une hauteur de 2 à 3 pieds et un diamètre d ' un pouce .La gomme adragante qui en est le suc en sort naturellement .Elle durcit à l ' air en séchant .",
+        "words": [
+          "gomme",
+          "adragante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a2181951-b9fb-51e8-b7f8-99758a244b68",
+        "value": "Ses fleurs sont d ' un : bleu d ' azur .Son bois est dur , pesant , très - résineux , d ' une odéur aromatique et d ' une saveur âcre et amère ; il est employé en médecine comme sudorifique dans la goutte et les scrofules .Ce bois prend un très - beau poli , et sert dans la marqueterie où sa couleur brune , légèrement mêlée de jaune , est très - appréciée .",
+        "words": [
+          "aromatique",
+          "âcre",
+          "amère",
+          "sudorifique",
+          "saveur",
+          "Son bois",
+          "odéur aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a2bcbd06-d5f4-506b-8cf5-220a0c502ed2",
+        "value": "pour une pièce de la grandeur d ' une pipe d ' eau - de - vie , on prend quinze litres d ' eau , à laquelle on ajoute un litre de chlorure de chaux , d ' une valeur de 25 centimes ; on verse le tout 1 dans la barrique et on agite dans tous les sens pendant un quart d ' heure ; ensuite on lave , à plusieurs reprises , à l ' eau pure .Une forte odeur de chlorure de chaux se dégagera pendant quelque temps ; mais en moins de trois heures cette odeur se trouvera entièrement évaporée .On ne doit avoir aucune crainte que cette odeur se communique au vin ou à la bière .",
+        "words": [
+          "forte",
+          "odeur",
+          "chlorure de chaux",
+          "pendant quelque temps",
+          "en moins de trois heures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a407fabb-7af0-5dce-a2db-5682c17780bb",
+        "value": "— Les produits de sa combustion sont donc de l ' acide carbonique et de la vapeur d ' eau .Il est incolore ; il exhale , quand il est en grande quantité , une odeur faible , difficile à caractériser , mais que les mineurs reconnaissent facilement ; il est irrespirable ; pur , il asphyxie ; mélangé en forte proportion avec de l ' air , i cause un malaise particulier et des maux de tète .Sa pesanteur spécifique est beaucoup plus faible que celle de l ' air ; aussi il tend toujours à gagner la partie supérieure des excavations et se loge dans toutes les anfractuosités existant au faîte des gale .",
+        "words": [
+          "faible",
+          "odeur",
+          "il",
+          "Il",
+          "les mineurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a515fc8e-1517-560c-acd6-dcec9a03d132",
+        "value": "et Hygiène ) .— Plante potagère annuelle , dont tout le monde connaît l ' odeur et la saveur ; elle est très - fréquemment employée dans les cuisines ; sa culture est facile ; les bestiaux et surtout les lapins la mange avec avidité .Le cerfeuil est aussi employé comme plante médicinale en infusion ou en décoction .",
+        "words": [
+          "odeur",
+          "elle",
+          "saveur",
+          "tout le monde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a522dd5c-2753-510d-ba65-d93c26e337f1",
+        "value": "Bascule .Bâtons aromatiques .Benjoin ( parf .",
+        "words": "aromatiques"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a7f1db62-bc43-5221-b97d-fda34ece60e1",
+        "value": "25 de charbon en poudre ou fraisil pour désinfecter un mètre cube de matière .A la seconde classe appartiennent : 1 ° le sulfate de fer ; 2Q le sulfate de zinc , sels qui , préalablement dissous et ajoutés ensuite à la matière fécale , opèrent la décomposition des produits à odeur fétide , en agissant à la fois par leur a .cide et par leur base , DÉSINFECTION DES CABINETS D ' AISANOE .",
+        "words": [
+          "fétide",
+          "odeur",
+          "produits",
+          "sulfate de fer",
+          "sulfate de zinc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a809c6f6-c939-559a-945d-262e4249bfa6",
+        "value": "Cette plante croit sur la lisière des bois , dans les lieux pierreux , ombragés , où elle est assez commune , et montre ses fleurs en juin - juillet .Sa racine , qui est courte et tronquée , douée d ' une odeur aromatique prononcée et d ' une saveur amère acerbe , a été vantée comme tonique astringent dans les débilités , les diarrhées chroniques , les hémorrhagies passives .La benoite est , de plus , un bon fourrage pour les chevaux , les bœufs , les moutons , etc .",
+        "words": [
+          "odeur",
+          "astringent",
+          "Sa racine",
+          "saveur",
+          "aromatique prononcée",
+          "amère acerbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/a995b4fe-be36-585f-afd2-a77d6fd85960",
+        "value": "Quant aux liqueurs de table , elles sont moins excitantes et conviennent mieux après les repas .BOISSONS AROMATIQUES .— Les principales sont le café et lu thé .",
+        "words": [
+          "AROMATIQUES",
+          "BOISSONS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ab65d7ce-d365-5462-afb0-4305920e5bee",
+        "value": ") .— On f nomme ainsi tes individu ® mâles et adultes dIJ genre euvre , > animaux qui se distuigeeret par lewr longue barbe et l ' odeur M désagréable qu ' ils répandent et dont est imprégnée leur chair , i La salacité du bouc a été remarquée - de - tout temp .ÿ les ariens ont fait de cet animal l ' emblème de la lubricité .",
+        "words": [
+          "odeur",
+          "ils",
+          "chair",
+          "répandent",
+          "animaux",
+          "M désagréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ab936255-348f-5101-964d-2629d872a1ed",
+        "value": "— Opération par laquelle on purifie les habitations , les vêtements , enfin un objet ou un milieu quelconque des miasmes malsains qui les infectent .Voici les moyens de désinfection qui donnent les meilleurs résultats : 1 ° Les acides , et notamment les acides nitriques ou azotiques et chlorhydriques , qui doivent être employés pour combattre les émanations ammoniacales ; les acides nitreux et sulfureux , qui ont pour effet de décomposer les substances organiques ; 2 ° Le chlore et les chlorures de chaux , de soude ou de potasse , qui sont les meilleurs désinfectants connus ; 3 ° Les alcalis , tels que l ' amnioniaque , la chaux vive , la soude , la potasse , qui ont pour effet de neutraliser l ' action des acides malfaisants , par exemple , de l ' acide carbonique .Ces divers désinfectants s ' emploient en fumigations ou en lavages , On emploie aussi , comme désinfectants , la poudre de charbon et de plâtre , les cendres de houille ou de bois , le mâchefer pulvérisé , la tourbe non calcinée : ces poudres , en absorbant les produits gazeux qui s ' échappent des matières animales en décomposition , arrêtent aussi les émanations fétides .",
+        "words": [
+          "émanations",
+          "acides",
+          "alcalis",
+          "acides nitreux",
+          "acides nitriques ou azotiques et chlorhydriques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/abfc255b-c6e6-5dee-a7e9-f524c1c71c61",
+        "value": "— Sa couleur est jaunâtre quand il est pur et récemment préparé ; il blanchit en vieillissant .L ' odeur et la saveur sont suaves et analogues à celles du cacao torréfié .Il rancit lentement et peut se conserver plusieurs années dans un endroit frais et sec , et renfermé dans des lieux fermés hermétiquement .",
+        "words": [
+          "suaves",
+          "odeur",
+          "cacao torréfié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/afdf47b9-23d2-58fb-b9ab-a6f2ff443b2d",
+        "value": "C ' est celui dont on se sert le plus communément .Sa teinture sert à imprégner des feuilles de papier qui embaument les appartements de leur suave parfum , quand on les place sur des poëles chauds .Le benjoin tient le premier rang parmi les baumes naturels et il est l ' un des meilleurs dont on puisse faire usage .",
+        "words": [
+          "suave",
+          "parfum",
+          "leur",
+          "appartements",
+          "imprégner",
+          "feuilles de papier",
+          "Sa teinture"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b0ed4c53-0c9d-5b91-a50f-1d1f741188ec",
+        "value": "arrondies , peu pelliculées , peu sillonnées .Parfum doux et agréable .Couleur plus verte .",
+        "words": [
+          "agréable",
+          "doux",
+          "Parfum doux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b0fab017-6248-5a42-8f28-8cbb4ef11a3f",
+        "value": "CONSERVATION DE L ' ARÔME DU CAFÍf .— Le café , quand il sort du brûloir , torréfié , dégage et perd environ la moitié de son arôme ; alors , pour limiter cette déperdition , le fabricant ajoute , sur une quantité de 25 kilog .de café , 750 gr .",
+        "words": [
+          "café",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b12289ea-703d-585a-903d-7ccfe43aceef",
+        "value": "— Substance résineuse inflammable , qui fait partie des baumes , autant parce qu ' elle est odorante , que parce qu ' elle ' contient jusqu ' à 18 pour cent d ' acide benzoïque .Elle est employée dans la parfumerie à cause de sa délicieuse odeur de vanille .C ' est une excrétion du styrase benzoïn de Siam et de Sumatra .",
+        "words": [
+          "odeur",
+          "délicieuse",
+          "vanille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b2a04c57-f070-59d9-a4fb-3808c399fd3e",
+        "value": "Le GROSELLIBR est un genre d ' arbrisseaux de la famille des grossulariés .On en distingue plusieurs espèces ; le groseillier commun , originaire de nos bois , aux fruits rouges ou blancs , haut de quatre à cinq pieds , et portant des fleurs hermaphrodites ; le groseillier à maquereau , portant des fruits épineux , et servant à faire des haies ; le groseillier noir , plus communément appelé cassis , dont les fruits , noirs et aromatiques , servent à faire une liqueur tonique et excitante .( Voir CASSIS P .",
+        "words": [
+          "aromatiques",
+          "groseillier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b760c46a-c822-5910-aa6d-7088fc34b9a2",
+        "value": "Lorsque la corolle est d ' une seule pièce , on dit la fleur monopétale ; elle est dite polypétale lorsque la corolle est formée de plusieurs pièces .L ' époque de la dilatation des boutons arrivée daps la plante , les fleurs s ' en épanouissent pour former le lit nuptial dont les ornements se composent de couleurs riches et variées , du parfum le plus doux et des formes les plus élégantes .Alors , étalant dans l ' air leurs nombreuses surfaces , elles jouissent du stimulus atmosphérique , et accomplissent ainsi l ' acte de la fructification : elles protègent encore pendant ce temps , plus ou moins long , l ' œuf fécondé , et se flétrissent enfin quand la reproduction est assurée par la formation complète de la semence qui en est le résultat .",
+        "words": [
+          "parfum",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b876a5e3-6c94-5651-b5df-2c7749d04596",
+        "value": "Il est préférable alors de les nettoyer soit avec de l ' eau froide , soit même avec de la neige .Si , malgré les précautions que nous venons d ' indiquer , le mal se déclarait , on pourrait par l ' emploi des mêmes moyens arrêter ses progrès ; toutefois , on fera bien en outre de laver plusieurs fois par jour les parties malades avec de l ' eau sédative .Dûnger ] ( Econ .",
+        "words": [
+          "plusieurs fois par jour",
+          "sédative"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/b99cb62e-0a6d-5faa-921b-01343421c3c3",
+        "value": "( Chimie ; Économie domestique ) .— Substance résineuse inflammable , qui fait partie des baumes , autant parce qu ' elle est odorante , que parce qu ' elle ' contient jusqu ' à 18 pour cent d ' acide benzoïque .Elle est employée dans la parfumerie à cause de sa délicieuse odeur de vanille .",
+        "words": [
+          "odorante",
+          "acide benzoïque",
+          "Substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ba4c9e07-1028-52e0-ab9b-445906b827be",
+        "value": "Ils contiennent beaucoup moins d ' huile volatile que les clous proprement dits .Aux sortes précédentes on doit ajouter : 1 ° Le girofle de Hollande , de même provenance que le girofle anglais , auquel il ressemble beaucoup ; — 2 \" Le girofle de Batavia , de couleur tellement grise qu ' on le croirait avoir été l ' ohé dans de la chaux ou dans du plâtre ; il est peu aromatique : — 3 ° Enfin le girofle de Sainte - Lucie , ressemblant au girofle de Cayenne , avec lequel on le mélange souvent .Les clous de girofle doivent être de saveur franche et fortement prononcée , de couleur foncée , pesants et huileux .",
+        "words": [
+          "Cayenne",
+          "aromatique",
+          "girofle",
+          "Batavia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/bac71c19-1baa-5285-a292-ff7a368ec682",
+        "value": "BOUQUET A LA TULIPE Presque toutes les tulipes sont inodores ; cependant celle con .nue sous le nom de tulipe « due de Thol » possède un parfum .délicieux qui , jusqu ' à ce - jour , n ' a pas été extrait et exploité par les parfumeurs , probablement parce que la composition suivante en est une excellente imitation : Extraits de tubéreuse , de violette , de jasmin , ( les trois esprits de pommade ) 0 , 56 litre de charnu Extrait de roses 0 , 28 — — d ' iris 85 grammes .",
+        "words": [
+          "parfum",
+          "Thol"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/bc245513-89c7-59ae-8abc-15f86dd013b8",
+        "value": "La citronnelle est très - employée en Angleterre pour parfumer les savons , surtout le savon dit au miel .On l ' emploie aussi , mais avec peu de succès , pour parfumer la pommade .Clapier [ Angl .",
+        "words": [
+          "parfumer",
+          "pommade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/bce6ce1c-c35b-5857-af3a-7eae375e23a5",
+        "value": "C ' est donc à nous à ne pas laisser l ' atmosphère se modifier d ' une manière notable ou nuisible dans les intérieurs ; lorsqu ' il n ' est pas renouvelé , l ' air confiné s ' altère par diverses causes .Celui des étables de toutes sortes s ' use par la respiration de leurs habitants et aussi par les émanations qui s ' échappent des diverses parties du corps ou qui proviennent de la fermentation des matières excrémentielles .Concluons sur ce premier point : l ' air qui a servi à la respiration est impropre à remplir le même usage , et celui des lieux habités doit être incessamment renouvelé .",
+        "words": [
+          "émanations",
+          "étables",
+          "étables de toutes sortes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/bd38cb9a-50b0-50f9-9f17-a2d77f1776ba",
+        "value": "Carbonique [ ACIDE ] ( Chimie ) .— C ' est un gaz incolore , d ' une odeur et d ' une saveur piquante et aigrelette .Il est un des éléments constitutifs de l ' air qui en renferme en moyenne en volume .",
+        "words": [
+          "odeur",
+          "gaz",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/bf505973-5efd-5482-ba32-d4e9599da101",
+        "value": ".3 — Fondre le sucre dans la totalité de l ' eau , ajouter l ' alcool , puis parfumer convenablement avec les teintures réunies , colorer la liqueur en jaune clair avec la couleur de safran ou de caramel , laisser éclaircir et filtrer , Colchique [ Angl , colchicum ; allem .Zeitlose ] ( Horticulture et Hygiène ) , — Plante vivace , herbacée , reconnaissable à la l ' a .",
+        "words": [
+          "parfumer",
+          "teintures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/bf510124-04c5-51a6-9d83-b012367fe185",
+        "value": "3 ° Le girofle de Cayenne , grêle , aigu , sec , noirâtre , moins estimé que les deux précédents .Les girofles de Bourbon et de Cayenne sont souvent mêlés avec les pédoncules brisés de la fleur , qu ' on trouve sous forme de petites branches menues et grisâtres , d ' une odeur et d ' une saveur assez prononcées ; on les nomme griffes de girofle .Ils contiennent beaucoup moins d ' huile volatile que les clous proprement dits .",
+        "words": [
+          "odeur",
+          "fleur",
+          "saveur",
+          "assez prononcées",
+          "pédoncules brisés",
+          "griffes de girofle",
+          "girofles de Bourbon et de Cayenne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c0f0a4b0-32be-5c25-8b52-3f2f17bf77c8",
+        "value": "Piesse et 0 .Réveil , sont des mélanges d ' extraits alcooliques de parfums , combinés dans des : proportions telles qu ' aucune odeur particulière ne domine .« Quand on fait un bouquet de plusieurs parfums , il faut les mélanger pour que , rapprochés , ils fassent un contraste ; en un mot , lorsqu ' un parfumeur veut faire un bouquet d ' odeurs primitives , il doit prendre des odeurs qui s ' accordent ensemble , le parfum alors sera harmonieux .",
+        "words": [
+          "odeur",
+          "parfums",
+          "particulière",
+          "extraits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c2acd067-0a9e-5718-b547-17a5e75e9a69",
+        "value": "0 , 28 — — Mêlez et filtrez .BOUQUET DES FLEURS DU YAL - D ' AXttORRK Extraits de jasmin , de roses , de violettes , de tubéreuse , d ' iris ; les cinq esprits de pommade ) 0 , 50 litre de chacun .Essence de géranium .",
+        "words": [
+          "roses",
+          "jasmin",
+          "iris",
+          "violettes",
+          "tubéreuse",
+          "FLEURS",
+          "YAL"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c3739434-42e6-5bd0-bff8-baf62c503009",
+        "value": "20 AMBRE JAUNE ou SUCCIN .— Substance minérale , dure , cassante , susceptible d ' un beau poli , de couleur plus ou moins jaune , plus estimée quand elle tire sur le blanc ; sa pesanteur spécifique varie de 1 , 080 à 1 , 085 , sa saveur est peu agréable ; elle est sans odeur , mais en acquiert une légère par le frottement , et par ce moyen elle a aussi la propriété d ' être un peu magnétique ; l ' ambre jaune , exposé au feu , se ramollit , se fond , et brûle en répandant une odeur assez agréable .L ' ambre jaune , dit M .",
+        "words": [
+          "sans",
+          "odeur",
+          "elle",
+          "sa",
+          "légère",
+          "peu agréable",
+          "assez agréable",
+          "ambre jaune"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c393f529-cec6-5891-8dd5-2159e1a76d3e",
+        "value": "Pour obtenir l ' a cire brute où cire jaune , on exprime les rayons pour en séparer le miel ; on fait fondre la cire dans l ' eau bouillante , et on la coule dans des vases en terre ou en bois .La cire doit son odeur et sa couleur jaune à certaines matières étrangères qui s ' enlèvent par le blanchiment ; elle fond à 64 degrés .La cire blanche n ' a ni odeur ni saveur , et présente une densité de 0 , 966 ; elle est complètement insoluble dans l ' eau , mais elle se dissout en toute proportion dans les huiles et les graisses , ainsi què dans les essences et dans l ' éther ordinaire .",
+        "words": [
+          "cire",
+          "odeur",
+          "son",
+          "matières étrangères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c4973874-e6ea-59e7-8611-7c8cb404d480",
+        "value": "Witerhoeven , a employé avec un grand succès la nitro - benzine dans le traitement des ulcères .Quant à l ' acide phénique , ce produit est analogue à la créosote ' retirée du goudron de bois , ses propriétés conservatrices et antiputrides ont attiré aussi l ' attention des industriels .qu ' il valait il y a cinq ans tout au plus , ne vaut aujourd ' hui que 30 à 40 fr .",
+        "words": [
+          "acide",
+          "antiputrides",
+          "créosote",
+          "industriels",
+          "goudron de bois",
+          "conservatrices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c4a9e4e6-983a-5a27-9a7e-3412be214a21",
+        "value": "Voici les moyens de désinfection qui donnent les meilleurs résultats : 1 ° Les acides , et notamment les acides nitriques ou azotiques et chlorhydriques , qui doivent être employés pour combattre les émanations ammoniacales ; les acides nitreux et sulfureux , qui ont pour effet de décomposer les substances organiques ; 2 ° Le chlore et les chlorures de chaux , de soude ou de potasse , qui sont les meilleurs désinfectants connus ; 3 ° Les alcalis , tels que l ' amnioniaque , la chaux vive , la soude , la potasse , qui ont pour effet de neutraliser l ' action des acides malfaisants , par exemple , de l ' acide carbonique .Ces divers désinfectants s ' emploient en fumigations ou en lavages , On emploie aussi , comme désinfectants , la poudre de charbon et de plâtre , les cendres de houille ou de bois , le mâchefer pulvérisé , la tourbe non calcinée : ces poudres , en absorbant les produits gazeux qui s ' échappent des matières animales en décomposition , arrêtent aussi les émanations fétides .On les projette en couches plus ou moins épaisses sur les matières que l ' on veut désinfecter temporairement .",
+        "words": [
+          "émanations",
+          "fétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c51f88e9-a490-5398-bd11-e05b928440ea",
+        "value": "De là les éthers sulfurique , acétique , etc .Presquetous les éthers ont une odeur forte , une saveur chaude et piquante , une limpidité parfaite , une grande fluidité et volatilité .Ils se combinent avec l ' alcool et non avec l ' eau , et s ' enflamment facilement .",
+        "words": [
+          "forte",
+          "odeur",
+          "éthers",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c8225e2f-d870-5f42-8adf-14edfe357b73",
+        "value": "Toutefois , on ne tarda pas à reconnaître que ces huiles renfermaient un grand nombre de produits distincts ; et tout d ' abord , l ' industrie guidée par la chimie , distingua deux produits principaux : la benzine , essence volatile du goudron et Uacide phénique , saponifiable par les alcalis .Une autre application , moins justifiable peut - être , qui se fit et qui se continue de nos jours , est celle qui est destinée à imiter certains parfums naturels .Ainsi la benzine pure , traitée par lucide nitrique concentré , produit , comme nous le verrons , de .",
+        "words": [
+          "parfums",
+          "naturels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c9213d58-2239-5764-9876-a821e5caec95",
+        "value": "Le véritable bitume minéral , sans mélange aucun , possède une odeur sui generis qui est loin d ' être désagréable .Cette odeur , très - faible à la température ordinaire , augmente d ' énergie avec la chaleur .Au - dessus de l ? 0 ° , elle se modifie et devient plus âcre , ce qui résulte de ce que certaines essences volatiles se dégagent .",
+        "words": [
+          "odeur",
+          "très - faible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c9901571-db91-510d-9f0a-7b5192c01049",
+        "value": "Depuis quelques années , le hasard a fait découvrir un traitement qui , dans beaucoup de cas , a donné d ' excellents résultats .Il consiste à transporter les enfants dans les usines à gaz et à leur faire respirer à plusieurs reprises les vapeurs en suspension dans les salles d ' épuration .corail [ Angl .",
+        "words": [
+          "vapeurs",
+          "respirer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/c9a5912c-b44a-595f-b4c2-d3bb8f0ed8a4",
+        "value": "L ' ambrette s ' emploie encore en parfumerie à cause de son odeur qui participe à la fois de celle du muse et de celle de la vanille ; mais le règne de l ' ambrette a passé avec l ' usage de la poudre pour les cheveux : c ' était le parfum généralement adopté pour cette poudre .Bonastre , qui a fait l ' analyse de là graine de ketmie odorante , a trouvé : Parenchyme et humidité , 130 Mucilage au gomme .90 Matière albumineuse 14 Huile fixe fluide , J Matière concrète , l 16 Corps odorant , 4 Résine coloriée , / - 250 Ce sont les corps gras , résineux , acides ou non , qui constituent les quatre dernières substances indiquées dans cette analyse .",
+        "words": [
+          "odorante",
+          "graine de ketmie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ca41374c-ea8c-57d3-b17f-8692f54ac11f",
+        "value": "« Sa couleur varie du rouge - hyacinthe au rouge - grenat .Sa saveur est amère ; son odeur est assez vive quand il est récent , agréable , analogue à celle de la myrrhe .La cassure est unie , glacée , conchoïdale , d ' un jaune lactescent .",
+        "words": [
+          "agréable",
+          "odeur",
+          "son",
+          "myrrhe",
+          "amère",
+          "assez vive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/caf37b1a-d9cf-5bd0-b64e-b8e9c22d6e9f",
+        "value": "— Suc épaissi , gommeux , résineux , qu ' on retire , par incision ou ébullition , des feuilles de plusieurs espèces du genre aloe .Dans le commerce , il y a sept sortes principales d ' aloès : 10 l ' aloès succotrin ou socotrin ; 29 l ' aloès hépatique ; 3 \" l ' aloès du Cap de Bonne - Espérance ; 4 \" l ' aloès de l ' Inde dit mosambrun ; 5 * l ' aloès caballin ; 6 ° l ' aloès fétide ; 7 * l ' aloès Barbade .L ' aloès socotrin le plus estimé est ordinairement sec , solide et fragile à l ' extérieur , tandis que la partie centrale est molle .",
+        "words": [
+          "fétide",
+          "aloès",
+          "aloès Barbade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cb33b777-ed05-51ce-ae8a-a311d40371ae",
+        "value": "domest ) .— Opération par laquelle on purifie les habitations , les vêtements , enfin un objet ou un milieu quelconque des miasmes malsains qui les infectent .Voici les moyens de désinfection qui donnent les meilleurs résultats : 1 ° Les acides , et notamment les acides nitriques ou azotiques et chlorhydriques , qui doivent être employés pour combattre les émanations ammoniacales ; les acides nitreux et sulfureux , qui ont pour effet de décomposer les substances organiques ; 2 ° Le chlore et les chlorures de chaux , de soude ou de potasse , qui sont les meilleurs désinfectants connus ; 3 ° Les alcalis , tels que l ' amnioniaque , la chaux vive , la soude , la potasse , qui ont pour effet de neutraliser l ' action des acides malfaisants , par exemple , de l ' acide carbonique .",
+        "words": [
+          "miasmes",
+          "malsains",
+          "milieu",
+          "objet",
+          "habitations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cbed0160-2e37-50b3-897b-09c96d9922a5",
+        "value": "Le petit galanga est plus petit dans toutes ses dimensions ; sa couleur est plus brune et son odeur est beaucoup plus forte1 .Les fleurs du galanga fournissent une huile très - pénétrante de la plus agréable odeur .Galbanum [ Angl .",
+        "words": [
+          "huile",
+          "odeur",
+          "plus agréable",
+          "très -",
+          "fleurs du galanga"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cc0b9698-cc39-5bed-9727-578ec4554111",
+        "value": "' Elles renferment une huile aromatique essentielle , épaisse , brune , très - pesante , d ' odeur d ' œillet , à laquelle elles doivent leur propriété aromatique et leur saveur àcre et brûlante .Les clous de giroflt s ' emploient comme assaisonnement et comme médicament , à cause de leurs propriétés stimulantes .Ils entrent dans la composition du baume de Fioraventi , du vinaigre des Quatre - Voleurs , etc .",
+        "words": [
+          "stimulantes",
+          "médicament",
+          "assaisonnement",
+          "clous de giroflt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cc48c4c4-acc2-5089-9e9c-0b9d5613a27f",
+        "value": "Usèbe , à Vienne , ne laissent rien à désirer .L ' acide phénique pur , outre ses vertus antiseptiques bien connues , et qui rappellent complétement celles de la créosote , commence à jouer un rôle thérapeutique important ; on en fait un grand usage pour assainir les étables , les fermes , les boucheries , les wagons destinés au transport des bestiaux , etc .La marine militaire et la marine marchande en font un grand usage pour désinfecter la cale des navires .",
+        "words": [
+          "antiseptiques",
+          "acide phénique",
+          "assainir",
+          "bien connues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cd0e8b78-2a31-51d0-bd84-0d6f8dab6c14",
+        "value": "La nitro - benzine , sous le nom de guerre d ' essence de Mirbane , est employée pour parfumer les savons .Depuis on a multiplié la production de ces parfums factices , et on les applique même pour parfumer certains bonbons .Tout récemment , un médecin belge , M .",
+        "words": [
+          "parfumer",
+          "parfums",
+          "ces",
+          "bonbons",
+          "factices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cd943c8d-3ab9-538c-ab16-2bd9d571d28c",
+        "value": "Bourbon ordinaire .— Fèves plus fortes , moins arrondies , irrégulières , tantôt vertes , tantôt jaunes : parfum moins agréable .CONSERVATION DE L ' ARÔME DU CAFÍf .",
+        "words": [
+          "parfum",
+          "moins agréable",
+          "Fèves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cdd3efd6-4d4e-5a27-98b1-a77a4599afbb",
+        "value": "— Fruit du citronnier .Il est très - employé dans les ménages à cause du jus qu ' il contient , èt dont on se sert soit pour faire des sirops , des boissons rafraîchissantes , soit pour faire des essences parfumées .CONSERVATION DU CITRON .",
+        "words": [
+          "boissons",
+          "essences",
+          "essences parfumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ced6bc98-0456-5f26-be23-62fd0d79521e",
+        "value": "L ' ambre gris se ramollit à la chaleur , et constitue en fondant une huile épaisse , noirâtre , qui se volatilise complètement ; il brûle rapidement et répand une vive clarté ; il est insoluble dans l ' eau , très - soluble dans l ' alcool , les éthers et quelques huiles fixes .Par son odeur suave , aromatique et très - divisible , il entre dans plusieurs préparations cosmétiques ; mais il importe de l ' avoir très - pur , car on le sophistique avec de la cire ou des résines odorantes .20 AMBRE JAUNE ou SUCCIN .",
+        "words": [
+          "cire",
+          "aromatique",
+          "suave",
+          "odeur",
+          "résines",
+          "il",
+          "odorantes",
+          "très - divisible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/cf197675-fbb9-5866-b727-4e486259646a",
+        "value": "Elles y étaient à l ' état de réclusion étroite dans des étables basses , à l ' atmosphère humide et chaude ; on les y nourrissait de façon à favoriser la sécrétion du lait , mais on sait ce que valait ce dernier sous le rapport alimentaire , et l ' on sait mieux encore comment finissaient toutes ces malheureuses bêtes , par .une phthisie spéciale qui avait nom la pommelière .Leur existence en était singulièrement raccourcie ; leur viande , livrée à la consommation , nous a trop fait connaître ce qu ' on qualifiait énergiquement de « vache enragée , » le nec plus ultra de la mauvaise qualité .",
+        "words": [
+          "phthisie",
+          "pommelière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d16531f9-0e95-5480-88f2-cab67bab9538",
+        "value": "Pour emménager l ' engrais humain , il est donc nécessaire d ' établir des fosses mobiles ou un récipient quelconque .Quel que soit le mode qu ' on adopte pour servir de fosse mobile , il est indispensable ( le l ' installer convenabement , c ' est - àdire de manière à ce que les émanations n ' en affectent pas l ' odorat , qu ' il soit facile à enlever et à nettoyer .Le caveau ( fig .",
+        "words": [
+          "émanations",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d17cac98-1a60-5a0f-a574-714aa6cc06ca",
+        "value": "EXTRAIT DE RONDELET ! A En parfumerie sérieuse , on sait que certaines odeurs , combinées dans des proportions voulues , produisent un nouveau parfum d ' un caractère particulier et parfaitement distinct .— Or , chose curieuse , la lavande et le girofle réunis donnent précisément l ' odeur du Rondeletia , que les parfumeurs extraient très - rarement de la plante elle - même .Voici d ' après M .",
+        "words": [
+          "odeur",
+          "girofle",
+          "plante",
+          "lavande",
+          "parfumeurs",
+          "Rondeletia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d185e225-9b49-5112-bb8f-7558fd74bd7b",
+        "value": "Les graisses ronces se reconnaissent facilement à .leur odeur et à leur saveur ; il faut bien .set gaedec da les employer comme aliment .",
+        "words": [
+          "odeur",
+          "leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d34404fe-69e4-52ae-8900-27a241612e77",
+        "value": "( Chimie , Économie domestique ) .— Liquide incolore , très - mobile , d ' une odeur forte et pénétrante , surtout celle du commerce qui est généralement très - impure ; elle bout à + 86 ° et se solidifie à 0 ° ; elle est peu soluble dans l ' eau , soluble dans l ' alcool et l ' éther ; elle s ' enflamme facilement et brûle avec une flamme fuligineuse , ce qui la fait employer pour l ' éclairage , mêlée avec de l ' alcool .La chaleur la décompose en carbone et carbures d ' hydrogènes gazeux .",
+        "words": [
+          "pénétrante",
+          "forte",
+          "odeur",
+          "elle",
+          "celle",
+          "Liquide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d3ef7458-6108-55b9-802f-8f079ed8e5b1",
+        "value": "Alkahot ] ( Chimie et hygiène ) .— L ' alcool absolu est un liquide incolore , plus fluide que l ' eau , d ' une saveur brulante et d ' une odeur agréable j il bout à 78 ° 4 , SQÎUS la pression de 760 millimètres ; comparée à celle de l ' atr représentée par 1 , la densité de sa vapeur est de 1 , 5890 ; par rapport à l ' eau , h densité de l ' alcool est à 15 « , 0 , 8021 ; il est donc approximativement de 1 / 5 plus léger que ce liquide .Fortement hygrométrique , il se mêle à l ' eau en toutes proportions .",
+        "words": [
+          "agréable",
+          "odeur",
+          "liquide",
+          "brulante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d5035c3a-5fb4-5a68-8ff5-de90f6cce281",
+        "value": "— Faites dissoudre 500 grammes de chlorure de àno ou de sulfate de zinc dans deux ou trois verres d ' eau chaude et faites jeter cette eau dans l ' orifice des cabinets .Après quinze ou vingt minutes ils seront débarrassés de - toute odeur méphitique .( .",
+        "words": [
+          "odeur",
+          "méphitique",
+          "Après"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d680d19d-4440-5e38-832e-c647a4377407",
+        "value": "— Écorce d ' un arbuste propre aux lieux secs et incultes du midi de la France et de l ' Ettrope .La couleur de son écorce est blanche ou jaune paille , sa texture fibreuse ; ses fibres sont blanches et soyeuses , son odeur est désagréable , nauséeuse , sa saveur âcre et corrosive .On s ' en sert pour com - poser des vésicatoires .",
+        "words": [
+          "désagréable",
+          "âcre",
+          "odeur",
+          "son",
+          "nauséeuse",
+          "corrosive",
+          "écorce",
+          "fibres",
+          "sa saveur",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d69a8b3d-2b03-5011-b88a-9757aee8e677",
+        "value": "— de chaoun .EXTRAIT DE RONDELET ! A En parfumerie sérieuse , on sait que certaines odeurs , combinées dans des proportions voulues , produisent un nouveau parfum d ' un caractère particulier et parfaitement distinct .— Or , chose curieuse , la lavande et le girofle réunis donnent précisément l ' odeur du Rondeletia , que les parfumeurs extraient très - rarement de la plante elle - même .",
+        "words": [
+          "parfum",
+          "odeurs",
+          "parfumerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d6f52698-18bc-5bbe-9786-062de4abc4b2",
+        "value": "Le lit occupe ordinairement la place d ' une stalle et doit être assez élevé pour que le palefrenier puisse , sans se lever , inspecter toute l ' écurie ; le coffre à avoine peut se placer sous le lit .Quant aux trappes qui servent à descendre les fourrages Il Il grenier dans les râteliers , elle doivent être répudiées ; et cela pour plusieurs raisons ; elles laissent pénétrer dans le grenier l ' air humide et les émanations gazeuses , causes d ' altération pour les fourrages , et , par la poussière qu ' elles répandent dans l ' écurie au moment de la distribution des rations , elles exposent les chevaux à contracter de dangereuses affections des yeux et des voies respiratoires .Enfin , nous dirons qu ' une écurie qui remplira les conditions de propreté et de salubrité dont nous avons fait mention , ne laissera rien a désirer , si l ' on parvient à y maintenir , par une heureuse disposition des ouvertures , dans toutes les saisons de l ' année , une température qui variera entre 10 et 16 ° .",
+        "words": [
+          "émanations",
+          "gazeuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d75195cf-82ba-5a8f-8899-1406574ed13a",
+        "value": "La petite centaurée a des propriétés très - remarquables .La plante offre une amertume franche , prononcée , persistante dans toutes ses parties , mais est sans odeur .Elle fait partie des espèces amères et est considérée avec raison comme un bon tonique , réputé efficace dans l ' atonie des organes , les affections scrofuleuses , la dyspepsie , la fièvre muqueuse .",
+        "words": [
+          "sans",
+          "odeur",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d8e28566-a5ab-50e8-b313-9cb2e28e2516",
+        "value": "Alors , étalant dans l ' air leurs nombreuses surfaces , elles jouissent du stimulus atmosphérique , et accomplissent ainsi l ' acte de la fructification : elles protègent encore pendant ce temps , plus ou moins long , l ' œuf fécondé , et se flétrissent enfin quand la reproduction est assurée par la formation complète de la semence qui en est le résultat .Les fleurs très - odorantes , notamment la Rose , le Jasmin , l ' Œ illet , la Giroflée , et surtout le Lis , la Tubéreuse et les fleurs d ' Oranger , lorsqu ' on en place de gros bouquets dans des vases pour orner une console ou une cheminée , peuvent causer aux personnes délicates de violents maux de tête et des accidents nerveux .On peut les supporter sans grand inconvénient pendant le jour , dans un appartement spacieux ; mais ces bouquets parfumés n ' y doivent point séjourner pendant la nuit , Comme complément de l ' article Fleurs , nous donnons cidessous deux tableaux authentiques , dressés par M .",
+        "words": [
+          "Jasmin",
+          "Tubéreuse",
+          "Rose",
+          "Lis",
+          "fleurs",
+          "Giroflée",
+          "odorantes",
+          "fleurs d",
+          "très - odorantes",
+          "Oranger",
+          "Œ illet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d8f38f99-3913-5f19-a627-d5936294265f",
+        "value": "Une demi - heure après , on donne un coup de brosse , et si la terre ou la cendre a laissé quelque empreinte , on l ' efface en la frottant avec de la mie de pain .Quand à l ' odeur de l ' essence , qui est toujours désagréable , il suffit , pour la faire disparaître , de laver l ' étoffe avec de l ' esprit de vin rectifié ou de la soumettre à l ' action de la vapeur d ' eau .Il est important que l ' essence de térébenthine que l ' on emploie soit récente et pure .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "essence",
+          "étoffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/d983cd16-6328-5251-b166-848643c4ed19",
+        "value": "— C ' est la gomme de fécule ou d ' amidon .Elle se présente sous la forme d ' une substance blanche , transparente , gommeuse , sans odeur et sans goût .L ' action de la chaleur la jaunit , la décompose et en retire une odeur de pain grillé .",
+        "words": [
+          "odeur",
+          "substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/da7e7e09-8b29-5ccb-8f13-3fe6e938488a",
+        "value": "Bonastre , qui a fait l ' analyse de là graine de ketmie odorante , a trouvé : Parenchyme et humidité , 130 Mucilage au gomme .90 Matière albumineuse 14 Huile fixe fluide , J Matière concrète , l 16 Corps odorant , 4 Résine coloriée , / - 250 Ce sont les corps gras , résineux , acides ou non , qui constituent les quatre dernières substances indiquées dans cette analyse .Amendement , [ Angl .",
+        "words": [
+          "Résine",
+          "odorant",
+          "corps gras"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/dc86aee2-f546-54a0-a18b-f372bfd5efb0",
+        "value": "La cire , telle qu ' elle est livrée au commerce , sous la dénomination générale de cire jaune , est une substance compacte , plus ou moins dure , d ' une nuance plus ou moins jaune , suivant les pays où elle est récoltée , et le plus ou moins de soin qu ' on a mis à la fondre .L ' odeur en est aromatique , le goût presque insipide , la cassure nette .- Les cires de France , comme celles de l ' étranger , sont souvent sophistiquées , soit avec la résine , des graisses , soit avec tout autre matière , qu ' on y mélange lorsqu ' on la fait fondre en pain .",
+        "words": [
+          "aromatique",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/dcc529a3-60f7-52fa-8c31-f1279cd404fd",
+        "value": ", Engrais ) .— Nom donné par les habitants du Pérou à une substance d ' un jaune foncé , d ' une odeur forte et ambrée , formée d ' acide urique , d ' acide oxalique , d ' acide phosphorique , de chaux , de potasse , d ' ammoniaque , de sable quartzeux , d ' oxyde de fer et d ' une matière grasse .Le plus renommé se trouve aux îles de Chincha ( Pérou ) .",
+        "words": [
+          "forte",
+          "odeur",
+          "ambrée",
+          "substance",
+          "ammoniaque",
+          "chaux",
+          "potasse",
+          "acide oxalique",
+          "acide phosphorique",
+          "acide urique",
+          "oxyde de fer",
+          "sable quartzeux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/dd079d50-e089-5b87-829e-22d56477f774",
+        "value": "Il est presque impossible de décrire d ' une manière générale les caractères de l ' empoisonnement , qui varient suivant l ' espèce de poison .Toutefois , on devra le supposer , lorsqu ' une personne éprouve tout à coup une partie des symptômes suivants : « Odeur nauséabonde et infecte , saveur acide , alcaline , âcre , styptique ou amère ; sécheresse dans toutes les parties de la bouche ; constriction dons la gorge ; langue et gencives jaunes ou noirâtres , douleur plus ou moins aiguë dans toute l ' étendue du canal digestif et augmentant par la pression ; fétidité de l ' haleine ; rapports fréquents , nausées , vomissements douloureux , muqueux , bilieux ou sanguinolents ; hoquet , contipation ou selles abondantes ; difficulté de respirer ; angoisses , pouls fréquent , petit , serré , irrégulier , tantôt à peine sensible , tantôt , au contraire , fort et développé ; frissons et refroidissement des membres , ou chaleur brûlante à la peau ; sueurs froides et gluantes ; mouvements convulsifs des muscles de la face , et souvent contorsions horribles de tout le corps ; tête souvent renversée en arrière ; vertiges , paralysie ou grande faiblesse des jambes ; altération de la voix , etc .Il arrive , ce - pendant , que des pcrsonnnes meurent empoisonnées sans avoir offert ces symptômes , de même que d ' autres éprouvent les accidents les plus graves , qui ne sont cependant pas suivis d ' une mort prompte .",
+        "words": [
+          "infecte",
+          "Odeur",
+          "nauséabonde",
+          "acide",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/dd32740d-0bec-5484-8e87-e732a72878bd",
+        "value": "La cire doit son odeur et sa couleur jaune à certaines matières étrangères qui s ' enlèvent par le blanchiment ; elle fond à 64 degrés .La cire blanche n ' a ni odeur ni saveur , et présente une densité de 0 , 966 ; elle est complètement insoluble dans l ' eau , mais elle se dissout en toute proportion dans les huiles et les graisses , ainsi què dans les essences et dans l ' éther ordinaire .Elle renferme deux principes chimiques qu ' on parvient à séparer par l ' alcool : l ' un , appelé autrefois cèrine , soluble dans ce liquide , constitue un acide organique qu ' on nomme acide cérotique ; l ' autre , insoluble dans l ' alcool , porte le nom de myricine eu de mélissine , et renferme une espèce d ' éther formé par un autre acide organique et un alcool particulier .",
+        "words": [
+          "odeur",
+          "elle",
+          "cire blanche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/df93434f-8329-517a-b9d1-63aafe390807",
+        "value": "L ' aloès de l ' Inde , de qualité inférieure , est noirâtre ; sa cassure est terne .L ' aloès caballin est sous forme de masse noires ; il a une odeur très - forte et se prépare , sans doute , avec des qualités inférieures d ' aloès .L ' aloès fétide est d ' un brun noirâtre , d ' une odeur animalisée , comme putride .",
+        "words": [
+          "odeur",
+          "il",
+          "aloès",
+          "très - forte",
+          "aloès caballin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e15bfccc-d5f2-54b0-aa1f-e109fd1ef0a0",
+        "value": "moisir , - d ' une odeur et d ' une saveur presque nulles ; ils sont , en outre , aplatis , et ont perdu presque la moitié de leur volume .Mais il arrive aussi que , pour déguiser cette falsification , on fait tremper ces girofles épuisés dans une huile grasse aromatisée avec un peu d ' essence .Dans ce cas , c ' est seulement en les essuyant avec soin et en les dégustant qu ' on peut déceler la fraude .",
+        "words": [
+          "huile",
+          "aromatisée",
+          "girofles épuisés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e1f45084-b359-5fa2-9a3f-611146673434",
+        "value": "— Plante potagère annuelle , dont tout le monde connaît l ' odeur et la saveur ; elle est très - fréquemment employée dans les cuisines ; sa culture est facile ; les bestiaux et surtout les lapins la mange avec avidité .Le cerfeuil est aussi employé comme plante médicinale en infusion ou en décoction .On prescrit le suc de ses feuilles comme apéritif , désobstruant , contre l ' ictère , les engorgements du foie etc .",
+        "words": [
+          "plante",
+          "cerfeuil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e2e50885-f44c-552c-9ca3-2eb22f659136",
+        "value": "CeyIan en introduisent une partie dans les paquets qu ' ils font avec la première espèce .La cannelle commune provient des grosses branches du ■ cannellier plus avancé en âge : elle est rude , épaisse , d ' une - couleur jaune livide , d ' une saveur âcre , mordicante , laissant une certaine viscosité sur la bouche , d ' une odeur forte qui approche de celle de la punaise .Elle fournit une plus grande - quantité ' d ' huile essentielle , parlla distillation , que les deux autres ; mais cette huile est plus pesante et d ' une odeur beaucoup moins suave .",
+        "words": [
+          "forte",
+          "âcre",
+          "odeur",
+          "cannelle",
+          "elle",
+          "punaise",
+          "grosses branches du ■ cannellier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e30128a5-8a25-5269-b88e-2740375832e5",
+        "value": "Le dard arraché , on suce la plaie , si cela est possible , et l ' on fait des lotions avec de l ' eau contenant de l ' ammoniaque , du vinaigre , de l ' extrait de saturne , etc ., ou bien on la frotte avec des plantes vertes ( on recommande les plantes aromatiques , telles que l ' absinthe , le persil , la menthe , etc .) Si une abeille venait à s ' introduire dans l ' arrière bouche ou même dans le canal qui conduit à l ' estomac , il faudrait immédiatement boire de l ' eau salée : l ' abeille pourrait être entrainée dans l ' estomac sans danger .",
+        "words": [
+          "plantes",
+          "aromatiques",
+          "menthe",
+          "persil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e352d8b7-74d1-5fa4-a8ef-051ac5a6d25b",
+        "value": "On s ' en sert pour le blanchiment des toiles et de la pâte à papier ; dans les fabriques de toiles peintes on l ' emploie comme rongeur de certaines couleurs .Ce composé sert encore pour détruire les miasmes putrides qui se dégagent dans les salles d ' hôpitaux , les amphi * théâtres de dissection ; on le répand aussi dans les lieux d ' ai - sance pendant l ' été .Dans ce cas , c ' est P acide carbonique de l ' air qui produit un dégagement lent du chlore .",
+        "words": [
+          "putrides",
+          "miasmes putrides",
+          "pendant l",
+          "les salles d ' hôpitaux",
+          "ai - sance",
+          "amphi",
+          "les lieux d",
+          "théâtres de dissection"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e3c7d1dc-2df6-58d1-8d5e-aac762518d5c",
+        "value": "Les bitumes qui ont subi dans leur période de formation , ou même postérieurement à cette période , des influences volcaniques , ont un arome spécial .Ainsi , les minerais bitumineux d ' Auvergne , qui tous ont éprouvé une espèce de métamorphisme , en ont conservé une odeur particulière qui rappelle tout à fait celle de l ' ail ; il est vraisemblable qu ' ils doivent cette propriété à la présence d ' une très - lègère quantité d ' arsenic .( MALO .",
+        "words": [
+          "odeur",
+          "particulière",
+          "ail",
+          "minerais bitumineux d ' Auvergne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e8196d86-e83a-50db-89dd-9b587e8d9c1b",
+        "value": "— C ' est principalement avec le fruit du groseillier épineux , la groseille à maquereau , qu ' on fait un excellent vin ; il peut être d ' autant plus liquoreux que c ' est un des fruits les plus sacrés .Mais une attention particulière qu ' on doit avoir pour le bien confectionner , c ' est celle de prendre la groseille à sa maturité et de ne pas laisser passer ce point , car alors elle devient d ' un sucre fade et perd de son parfum .Un des moyens qui nous a le mieux réussi est celui de prendre : Groseilles 50 kilog .",
+        "words": [
+          "parfum",
+          "groseille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/e8ea7bb3-3615-55b3-b92d-83d66c856227",
+        "value": "Bâtons aromatiques russes ( Parfumerie ) .— On les emploie pour parfumer les appartements .Ils se composent ainsi : 1 .",
+        "words": [
+          "parfumer",
+          "appartements"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ea7c38b2-10cf-5bcb-a42d-b306a8e0ad66",
+        "value": "Toutefois , il est généralement de bonne pratique de n ' amener , sur un défrichement , les céréales pànaires qu ' en seconde ou en troisième récolte .L ' odeur Acre et persistante du brûlis , parait éloigner les allises , espèces de coléoptères herbivores .( LAFFINEUR ) .",
+        "words": [
+          "Acre",
+          "odeur",
+          "persistante",
+          "éloigner les",
+          "brûlis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/eb02224c-3a46-51ea-aae9-ef895d73d1f8",
+        "value": "faces en moellons , briques ou meulières , hourdé en mortier de chaux , en plâtre ou même en terre franche ; le radier est imperméable et disposé en forme de cuvette A , avec qn solin de ( T4Q , en ciment , au pourtour du caveau .Les barres de fer B sont destinées à soutenir le récipient C , et à l ' isoler du contact des matières , qui pourraient tomber dans la cuvette A , par suite de trop plein ou de fuites imprévues ; ces matières sont facilement ramassées , s ' il y a lieu , au moyen d ' une écope ; le caveau est lavé et il n ' y reste pas de mauvaise odeur .Nous renvoyons pour l ' étude complète de l ' engrais humain et de ses produits industriels , à l ' ouvrage de M .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/eb7cf916-062e-57bf-86a1-cff7d7be1556",
+        "value": "la nitro - benzine dont l ' odeur a beaucoup d ' analogie avec celle de l ' essence d ' amandes .La nitro - benzine , sous le nom de guerre d ' essence de Mirbane , est employée pour parfumer les savons .Depuis on a multiplié la production de ces parfums factices , et on les applique même pour parfumer certains bonbons .",
+        "words": [
+          "parfumer",
+          "nitro - benzine",
+          "savons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/eb7f2eb6-286d-54e9-9c37-29113334c505",
+        "value": "Pendant des siècles , le buis nain a été employé comme bordure dans le parterre ; c ' est encore une des bordures les plus usitées .Le buis a cependant plusieurs inconvénients graves , outre son aspect triste et sa mauvaise odeur ; il sert de refuge aux limaces , aux limaçons et à une multitude d ' insectes nuisibles , dont il favorise la multiplication .Il ne présente , comme compensation à ces défauts , qu ' un seul avantage , celui de soutenir très - bien la terre en occupant peu d ' espace , parce qu ' il peut être tondu avec des ciseaux une ou deux fois par an , et tenu ainsi très - près de terre sans que sa végétation ait à en souffrir .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "triste",
+          "buis",
+          "limaçons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ee43eb7f-fac2-5621-9e13-315f0b51e454",
+        "value": ") .— Genre de plante de la famille des myrtacées , à tronc pyramidal , à feuillesjopposées , luisantes , toujours vertes à fleurs roses et odorantes , en panicules .Ses fleurs non encore épanouies sont , comme nous le disons plus haut , appelées clous de girofle .",
+        "words": [
+          "odorantes",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/eedc6448-d36b-52ff-a229-8c755b256891",
+        "value": "cine surmontée d ' un tubercule charnu ou bulbe solide ; aux fleurs dont le calice est terminé inférieurement par un tube très ' long et très - grêle ; aux fleurs généralement roses , enveloppées , avantde s ' épanouir , dans des gaines ou spathes membraneuses .Le colchique est vénéneux ; son action contre la goutte et les rhumatismes , dit M ..",
+        "words": [
+          "vénéneux",
+          "colchique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/f003234c-3b65-5903-b803-4ff9b458d194",
+        "value": "Au - dessus de l ? 0 ° , elle se modifie et devient plus âcre , ce qui résulte de ce que certaines essences volatiles se dégagent .Tous les bitumes naturels , imprégnant des sables ou des calcaires , n ' ont pas la même odeur ; mais aucun n ' a l ' odeur repoussante des goudrons provenant de la distillation dss houilles ou des boghead par lesquels on les remplace quelquefois .Les bitumes qui ont subi dans leur période de formation , ou même postérieurement à cette période , des influences volcaniques , ont un arome spécial .",
+        "words": [
+          "calcaires",
+          "odeur",
+          "repoussante",
+          "goudrons",
+          "sables",
+          "Tous les bitumes naturels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/f16a0d23-5017-5c2f-a2c5-3b2f154f301d",
+        "value": "Ainsi la benzine pure , traitée par lucide nitrique concentré , produit , comme nous le verrons , de .la nitro - benzine dont l ' odeur a beaucoup d ' analogie avec celle de l ' essence d ' amandes .La nitro - benzine , sous le nom de guerre d ' essence de Mirbane , est employée pour parfumer les savons .",
+        "words": [
+          "odeur",
+          "essence d",
+          "nitro - benzine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/f4815668-1bdc-5ccc-82ec-ef62dec5b493",
+        "value": "Cependant il nous faut insister davantage sur les causes de viciation de l ' atmosphère des intérieurs , car ceci est capital .Et d ' abord le nombre d ' individus rassemblés dans le même espace , joint à l ' exiguïté du local , rend plus prompts et plus actifs les effets délétères des émanations qui , se mêlant à l ' air à mesure que l ' oxygène diminue , en modifient essentiellement les proportions et la composition , en altèrent sensiblement la pureté .Dans l ' intérieur des locaux habités par des animaux se développent : une grande quantité de calorique ; de la vapeur d ' eau provenant de la transpiration pulmonaire et de la sueur : vapeur d ' eau et calorique se logent entre les molécules de l ' air ; ils réchauffent , le raréfient , le rendent spécifiquement plus léger ; alors il n ' exerce plus sur le corps une pression suffisante .",
+        "words": [
+          "émanations",
+          "délétères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/f5ca079f-0755-55c7-a876-f297cfaeb304",
+        "value": ", elle est universellement employée par les ménagères pour le dégraissage des étoffes .Elle laisse une odeur désagréable qui se dissipe assez rapidement à l ' air .Bergamotte ( ESSENCE DE ) ( Econ .",
+        "words": [
+          "désagréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/fa8ec35e-e6d8-564f-a872-8ab5fec954e6",
+        "value": "Elle croît aussi aux Philippines , dans la Chine , au Mexique , à la Jamaïque .Sa racine entre dans la confection de beaucoup d ' eaux aromatiques et de quelques dentifrices .( 1 ) Traité pratique et élémentaire de Botanique appliquée à la Culture des plantes , par M .",
+        "words": [
+          "aromatiques",
+          "eaux",
+          "dentifrices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/fb999ccc-0341-5fba-b64f-5add127d22d6",
+        "value": "Les ouvrages d ' architecture rurale les plus recommandables prescrivent de donner une hauteur de 4 mètres au moins aux bergeries .L ' obligation d ' observer rigoureusement cette prescription est imposée par le grand nombre d ' animaux qu ' abritent constamment les bergeries , animaux qui vicient l ' air par leur respiration , par leurs émanations cutanées et par leurs déjections .Aussi le logement des bêtes ovines doit - il être bien aéré , car ce n ' est que par un bon système de ventilation que l ' on peut y maintenir les conditions de salubrité désirables .",
+        "words": [
+          "air",
+          "émanations",
+          "animaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/fd09d12b-3856-5b69-ab4e-a378d98df6e6",
+        "value": "Il est convenable , toutefois , de placer des ouvertures destinées à donner le jour aux écuries , de manière que la lumière ne puisse jamais frappor directement les yeux des animaux .Il est nécessaire que les écuries soient élevées et spacieuses , car le cheval vicie une grande quantité d ' air par la respiration et les exhalaisons cutanées .On a calculé que le volume d ' air nécessaire au cheval pour respirer librement , est de 25 à 30 mètres cubes .",
+        "words": [
+          "exhalaisons",
+          "écuries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/fd7ffef3-0f2a-55c3-9270-3b363fc6ca66",
+        "value": "vaise habitude de couper leur fil avec les dents , il en résulte à la longue une difformité très - apparente ; il en est de même chez les fumeurs qui se servent de pipes en terre , il suffit pour éviter cet inconvénient d ' entourer l ' extrémité de la pipe avec un peu de soie ou un tuyau de plume .Il ne faut pas laisser séjourner d ' aliments entre les dents et dans les cavités qu ' elles pourraient présenter ; la putréfaction qui en résulte donne une mauvaise odeur à l ' haleine et vicie la salive ; il est donc essentiel de se passer de l ' eau dans la bouche après les repas , et de faire quelquefois usage de la brosse ou même d ' un cure - dent .Il faut se garder de faire abus des poudres dentifrices rudes et acides ; elles ont la funeste propriété d ' user et de détruire l ' émail .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "haleine",
+          "vicie",
+          "aliments",
+          "après les repas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/fdbe185a-46ce-538d-af5e-03765d749e9d",
+        "value": "— Ce composé , appelé vulgairement arsenic ou mort - aux - rats , se rencontre dans le commerce sous forme de poudre blanche ou de masses blanches compactes .Il est inodore , a une saveur âcre et nauséabonde .Mis en contact avec les tissus organiques , il les ulcère rapidement , et une fois absorbé , l ' acide arsénieux agit alors comme un poison des plus violents .",
+        "words": [
+          "âcre",
+          "nauséabonde",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ff13cac6-14f3-5e9c-b412-b6329e278ca1",
+        "value": "Le péricarpe enveloppe le gruau , le périsperme enveloppe le gluten .Le gruau est blanc et dur ; le gluten friable et d ' un blanc gris ; il répand une odeur r semblable à celle de la fleur de châtaignier .Le gruau constitue ! la partie substantielle du grain , le gluten en est la partie génitrice , spermatique ; il sert à lier la farine de gruau ; il se trouve dans la rainure du grain : peu apparent dans le bout Fig 48 .",
+        "words": [
+          "odeur",
+          "il",
+          "gluten",
+          "r",
+          "fleur de châtaignier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/ffec295b-5ca1-50d4-ad2c-68e774eda2a1",
+        "value": "— Presque aromatique .Le véritable bitume minéral , sans mélange aucun , possède une odeur sui generis qui est loin d ' être désagréable .Cette odeur , très - faible à la température ordinaire , augmente d ' énergie avec la chaleur .",
+        "words": [
+          "désagréable",
+          "sui generis",
+          "odeur",
+          "véritable bitume minéral"
+        ]
+      }
+    ],
+    "label": "Dictionnaire industriel à l'usage de tout le monde, ou Les 10,000 secrets et recettes de l'industrie moderne.... I. A-G / par MM. les rédacteurs des \"Annales du génie civil\", E. Lacroix,... directeur de la publication",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9663843c",
+    "date": "1874/1881",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/275",
+      "label": "Turpentine"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/aafbb5d9-c49a-5c1b-9865-f387f0f5a0ae",
+      "label": "1874/1881",
+      "begin": "1874",
+      "end": "1881"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/8caabec6-d029-5c83-85ea-5e70d3557d06/fragment/843b5ed4-0b89-564c-a6e4-bbef3c83cb1b",
+  "license": "Public domain"
+}

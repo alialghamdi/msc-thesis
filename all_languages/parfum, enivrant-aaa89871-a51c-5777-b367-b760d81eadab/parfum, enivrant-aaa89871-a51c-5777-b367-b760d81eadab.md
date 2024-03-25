@@ -1,0 +1,111 @@
+## parfum, enivrant
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/aaa89871-a51c-5777-b367-b760d81eadab |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | parfum |
+| label.1 | enivrant |
+| source.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/0e579506-e764-53cf-99f4-48df3e13290b |
+| source.excerpts.0.value | ville , c ' est la joie du religieux , c ' est la vie du pèlerin .Yèrbum caro hic faclum est , Ici le Verbe : s ' ^ sufait chair ! Cette pensée préside à tout ; le pèlerin la trouve éveillée dans son coeur avant même que ses yeux s ' ouvrent à la 1 clarté du jour ; elle n ' y sommeille pas encore le soir , quand ses paupières appesanties appellent le remède aux fatigues d ' un pénible voyage ou ; d ' une longue contemplation ; elle anime la prière , sanctifie le travail , verse sur la vie de Nazareth un délicieux parfum , inconnu dans tout autre coin de cette terre de misère et de larmes .. |
+| source.excerpts.0.words.0 | Nazareth |
+| source.excerpts.0.words.1 | parfum |
+| source.excerpts.0.words.2 | délicieux |
+| source.excerpts.0.words.3 | vie |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/27e807b0-7d20-58cd-a71a-28bba0da2cde |
+| source.excerpts.1.value | .montag , nes ; arides qui , les - envi - ; ronnent ; ; c ' est comme un petit coin , du paradis terrestre ' ^ 518 — ; respirant encore le doux parfum des aimables vertus : de leur & divins visiteurs 1 .La distance d ; e > Nazarethau Garmelest dé douze lieues ' environ ; Nous ; Irâvèrsoris d ' abord une plaine fertile ; mais mal cultivée ; puis une prairie où nous comptons vingt - cinq tentes dé Bédouins , dont les troupeaux sont disséminés 1 eàet là dans de gras pâturages ; enfin une forêt réputée - dangereuse . |
+| source.excerpts.1.words.0 | doux |
+| source.excerpts.1.words.1 | parfum |
+| source.excerpts.1.words.2 | paradis |
+| source.excerpts.1.words.3 | aimables vertus |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/2ddb6904-f228-5c62-88e6-12eaa10618dc |
+| source.excerpts.2.value | De semblables coiffures , on le conçoit , peuvent être d ' une valeur considérable ; il en est , dit - on , qui pèsent jusqu ' à six à sept kilogrammes , celle de notre hôtesse en pesait certainement de trois à quatre .Notre curiosité satisfaite , nous nous empressons de gagner la rue , et je puis affirmer que je ne fus pas le dernier à évacuer la place ; la puanteur me suffoquait , et la vermine commençait à m ' avertir de sa présence .Nous rentrâmes au couvent vers neuf heures . |
+| source.excerpts.2.words.0 | puanteur |
+| source.excerpts.2.words.1 | nous |
+| source.excerpts.2.words.2 | rue |
+| source.excerpts.2.words.3 | avertir |
+| source.excerpts.2.words.4 | suffoquait |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/34e711bd-569a-5562-a47f-90f8a3212c78 |
+| source.excerpts.3.value | Mes amis et mes frères , les pierres du Calvaire s ' élèveraient contre moi si je ne vous redisais pas avec le même élan que Pierre l ' Ermite : / / faut délivrer Jérusalem 1 .Dieu le veut / La délivrer de sa pauvreté en l ' enrichissant de vos offrandes ; la délivrer de sa solitude en la visitant et en lui procurant dé nombreux visiteurs ; ' la délivrer dé son aveuglément en priant pour elle et 1 pour les trop rares pèlerins , qui vont la parfumer de la bonne odeur de leurs vertus .Ah ! si vous aviez vu . |
+| source.excerpts.3.words.0 | bonne |
+| source.excerpts.3.words.1 | parfumer |
+| source.excerpts.3.words.2 | odeur |
+| source.excerpts.3.words.3 | leurs vertus |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/5a675169-07df-53d2-b04f-e2d37b99f0f1 |
+| source.excerpts.4.value | Jérusalem n ' est pas une ville de guerre ; si elle est entourée d ' une muraille crénelée , c ' est uniquement pour la mettre à l ' abri des Arabes , toujours disposés à piller et à détruire , L ' enceinte actuelle a environ cinq kilomètres ; ; elle est , percée de quatre portes : celle de Jaffa , à l ' ouest ; de Sion , au midi ; il ' — 250 — de Saint - Etiënhé , à l ' est ; de Damas , au nord ; Les : rues , à peu d ' exceptions près , sont étroites , tortueuses , salesj désertes et , dans quelques quartiers , voûtées et obscures ; au milieu est un fossé profond , servant de chemin aux ânes , aux chevaux et aux chameaux .A droite et à gauche de ce fossé , d ' où s ' exhale souvent une puanteur insupportable , sont des trottoirs glissants , pavés très - irrégulièrement , à l ' usage des voyageurs .Nulle part , ni à Jérusalem , ni dans les autres villes de la Palestine , ni même dans la campagne , il n ' y a place pour la circulation des voitures . |
+| source.excerpts.4.words.0 | puanteur |
+| source.excerpts.4.words.1 | exhale |
+| source.excerpts.4.words.2 | insupportable |
+| source.excerpts.4.words.3 | fossé |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/60b4a42a-f1ef-50f3-a1de-ca1bb9ed97df |
+| source.excerpts.5.value | Au sortir de ce quartier qu ' on ne traverse qu ' au pas de course , vous entrez dans celui des Juifs , assemblage de , ruelles étroites , malpropres , sans pavé , bordées .de chétives maisons , où l ' on ne respire qu ' un air épais et fétide / où les yeux ne rencontrent que saletés , où les pieds né heurtent qu ' ordures - .Dans ces réduits puantsy où tout présente l ' aspect de la pauvreté et de lamisère ^ cinq à six mille Juifs sont entassés pêle - mêle , eatreile mont Sion d ' une part , et la mosquée d ' Omar ou l ' emplas cément du temple de Salomon de l ' autre . |
+| source.excerpts.5.words.0 | fétide |
+| source.excerpts.5.words.1 | air |
+| source.excerpts.5.words.2 | épais |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/6800a902-b807-51a3-b80b-0243336cae53 |
+| source.excerpts.6.value | Sans être tombée - aussi bas que Tyr , elle ne ^ - possède plus rien de son antique gloire .Sans doute en traversant les magnifiques jardins qui l ' entourent , en voyant ses beaux arbres si frais et si variés qui couvrent le voyageur de leur ombre en l ' enivrant de leur parfum , on se - — 5ÏÏA — • rail en droit d ' attendre une merveille de l ' Orient ; mais c ' est une riche ceinture sur des vêtements en lambeaux : Sidon est encore plus triste , plus sale que toutes les autres villes du ' pays .L ' église catholique est le seul édifice qui mérite attention , elle est tenue avec une décence et une propreté vraiment remarquables . |
+| source.excerpts.6.words.0 | Sidon |
+| source.excerpts.6.words.1 | parfum |
+| source.excerpts.6.words.2 | leur |
+| source.excerpts.6.words.3 | enivrant |
+| source.excerpts.6.words.4 | arbres |
+| source.excerpts.6.words.5 | villes |
+| source.excerpts.6.words.6 | Orient |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/72944817-c0b6-5975-ab93-53d7def362d4 |
+| source.excerpts.7.value | Ce ne fut pas sans peine que je quittai ce beau fleuve du Jourdain , si plein de délicieux souvenirs ; j ' aimais ses roseaux , ses rives couvertes de bosquets , et je sentis mon coeur se serrer , car je n ' avais aucun espoir de le revoir jamais : on ne fait pas deux fois dans une vie le dangereux voyage du Jourdain et de la mer Morte .— 107 — La mer Morte ' Pendant une déim % heure , nous longeons le - fleuve , respirant : avec délices l ' air frais et embaumé dé ses rives ; Tout a coup nous prenons à droite pour nous jeter dans la plaine et nous diriger directement vers la mer Morte .Quel changement subit s ' est opéré dans . |
+| source.excerpts.7.words.0 | nous |
+| source.excerpts.7.words.1 | embaumé |
+| source.excerpts.7.words.2 | frais |
+| source.excerpts.7.words.3 | rives |
+| source.excerpts.7.words.4 | Pendant |
+| source.excerpts.7.words.5 | mer Morte |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/795af1ca-ffcc-59a8-8c6f-92af26d24b31 |
+| source.excerpts.8.value | C ' est une place assez vaste , hérisséede poteaux à plusieurs ; branches , auxquels les bouchers ; suspendent , sans façon , les bêtes qu ' ils vont égorr gér .- Impossible de rendre l ' invincible horreur que l ' on éprouve à la vue de ce lieu infect : le sang , les entrailles , lés excrémepts restent sur place , et forment un montiticule d ' où s ' exhale une intolérable puanteur .Au sortir de ce quartier qu ' on ne traverse qu ' au pas de course , vous entrez dans celui des Juifs , assemblage de , ruelles étroites , malpropres , sans pavé , bordées . |
+| source.excerpts.8.words.0 | puanteur |
+| source.excerpts.8.words.1 | intolérable |
+| source.excerpts.8.words.2 | infect |
+| source.excerpts.8.words.3 | lieu |
+| source.excerpts.8.words.4 | excrémepts |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/7ecb7406-e0b4-53dc-ab32-cfd63a16e7d0 |
+| source.excerpts.9.value | Pour sortir de ce lieu inoffenso pede , sans accident , il faut y regarder de , près et renoncer courageusement au désir diexaminer les scènes variées qui vous entourent .Quand vous avez franchi ce dangereux passage , vous respirez plus à l ' aise ; vous n ' êtes plus oppressé par l ' odeur nauséabonde de tout ce qui vous environnait ; vous n ' êtes plus au centre de ces groupes nombreux d ' hommes , de femmes etd ' enfants , entremêlés d ' ânes , de mulets , de chameaux et de chiens ; vous pénétrez entre deux belles et impénétrables haies de nopals , dans les jardins de Jaffa , où l ' air est embaumé du parfum des fleurs qui embellissent ces lieux enchanteurs .Rien de beau , rien de fertile comme les bosquets qui encadrent cette ville - à l ' orient ; les citronniers , les figuiers , les orangers surtout , renommés pour la grosseur de leurs fruits , sont en si grande quantité et d ' une sève si luxuriante qu ' on aperçoit — 53 — à peine le sol . |
+| source.excerpts.9.words.0 | parfum |
+| source.excerpts.9.words.1 | odeur |
+| source.excerpts.9.words.2 | fleurs |
+| source.excerpts.9.words.3 | air |
+| source.excerpts.9.words.4 | vous |
+| source.excerpts.9.words.5 | embaumé |
+| source.excerpts.9.words.6 | nauséabonde |
+| source.excerpts.9.words.7 | lieux |
+| source.excerpts.9.words.8 | les jardins de Jaffa |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/9682b8b8-9df7-57e0-8960-f457f15aa7ab |
+| source.excerpts.10.value | Le Carmel .Un pèlerin ouvrant le matin les fenêtres de sa cellule du mont Carmel , est émerveillé de l ' air pur , embaumé qu ' il respire , et de l ' aspect imposant de la mer et de ses rivages incessamment blanchis d ' écume .Dès ce moment , il élève son coeur vers le Ciel , en attendant qu ' il puisse voler au sanctuaire de Marie pour renouveler son offrande de la veille , se plonger de nouveau dans la contemplation des faveurs dont elle enrichit ses enfants , et se préparer , sous les yeux de sa tendre Mère , à recevoir entre ses mains , à loger dans son coeur le Dieu qui fait sa - . |
+| source.excerpts.10.words.0 | embaumé |
+| source.excerpts.10.words.1 | le matin |
+| source.excerpts.10.words.2 | cellule du mont Carmel |
+| source.excerpts.10.words.3 | pèlerin |
+| source.author.0.@id | http://data.odeuropa.eu/actor/051bb9f8-5f70-5ef8-b64b-2e2fdd664705 |
+| source.author.0.label | Abbé  Becq |
+| source.label | Journal et impressions d'un pèlerin de Terre sainte, au printemps de 1855, par l'abbé Becq,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k57951306 |
+| source.date | 1857 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/200 |
+| smellSource.0.label | Tree |
+| time.0.@id | http://data.odeuropa.eu/time/a40fc0e0-1a15-5f1b-b083-1df49eecdc78 |
+| time.0.label | 1857 |
+| time.0.begin | 1857 |
+| time.0.end | 1857 |
+| place.0.@id | https://sws.geonames.org/6269133/ |
+| place.0.label | Middle East |
+| place.1.@id | https://sws.geonames.org/268064/ |
+| place.1.label | Sidon |
+| place.2.@id | http://data.odeuropa.eu/place/559d4bdb-f676-5e1a-b719-1e078df3e7c3 |
+| place.2.label | villes |
+| emotion.0.@id | http://data.odeuropa.eu/emotion-type/curiosity |
+| emotion.0.label | curiosity |
+| relevantExcerpt | http://data.odeuropa.eu/source/6f02190b-fadd-5b15-99b9-a618884d66df/fragment/6800a902-b807-51a3-b80b-0243336cae53 |
+| license | Public domain |

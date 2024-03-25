@@ -1,0 +1,136 @@
+## embaumé, fraicheur
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/0f887e50-9e7a-5118-a321-8d656af7d7d6 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | embaumé |
+| label.1 | fraicheur |
+| source.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/0a3c58ea-ed2b-5732-9ec3-ed51545592d1 |
+| source.excerpts.0.value | Peut - être me suis - je trompé .Et de combien de pensées consolantes cette ombre n ' est - elle pas encore te symbole 1 Ne nous prouve - t - elle pas quei ' homme porte avec lui et en lui toutes tes garanties de son bonheur , oui , toutes , et les seules conditions de son bonheur ? Ne nous prouve - t - elle pas que tes chercher ailleurs est folie et devient corruption et crime , comme le filet d ' eau qui s ' échappe de la source pure , se trouble et n ' est bientôt qu ' une flaque fétide ? Oh ton ombre , Schtémihl , c ' est l ' innoeence qui nous abrite si doucement ! c ' est l ' asile où repose une vie heureuse et cachée ! c ' est t ' amonr qui protége le cour Ah ! vous êtes aussi des ombres bienfaisantes , vous qui bercez l ' imagination du poète dans tes régions idéales vous êtes peut - étre des âmes pieuses et compatissantes , mortes de l ' air épais d ' ici - bas , et qui voulez soulager un peu ceux qui souffrent de votre mal ! Ilélas ! il est une autre ombre qne désirent tes poètes , et qui est peut - être sortie de la poche de l ' homme gris , si pas antérieurement déjà de la boite de Pandore < Kout - m ~ me * .Ctmmmo . |
+| source.excerpts.0.words | fétide |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/0e013f08-cfbd-5c54-9e86-c0274fb7c66b |
+| source.excerpts.1.value | ) mousse est fraîche autour des chênes ; La nature et ) ' âme sont pleines lie fleurs , d ' oiseaux et de concerts .Oh fjuets parfums ! et quelle fête four mon coeur si longtemps icrmc ' – A ) ) ot ) s , enivre - toi , poctc « fn rayon de nMi sur ta tète , ttans tes mains une fleur de ma ) Kt de bien douces rêveries « ans la liberté d ' un beau juur ! Xc crains pas de feuilles flétries Tout renaît comme ces prairies ; Tout est jeunesse , espoir , amour .fans l ' herbe qu ' incline ta trace Vit capricieux et rêvant , Et bois chaque brise qui passe , Comme ces cavales de Thrace Que fécondaient l ' air et le vent . |
+| source.excerpts.1.words.0 | parfums |
+| source.excerpts.1.words.1 | fjuets |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/15117131-133f-56b8-914f-b201111fc2eb |
+| source.excerpts.2.value | Admirant ce portrait qu ' un vif pinceau nous livre , Tous le diront issu du joyeux roi Henri .C ' est votre enfant à vous , c ' est votre fantaisie , Peut - être uu peu vous - même ( en tant que chaperon Cueillant de fleur en fleur parfum et poésie ) ; Mais quoi que vous disiez , pocte - papitton .Cette dernière fleur nous eût semblé moins belle Sans la poussière d ' or qu ' y secoua voire ai ) ' DufMM ) et prMmdttt du sang df Hem ) < V . |
+| source.excerpts.2.words.0 | parfum |
+| source.excerpts.2.words.1 | fleur |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/1b232daf-bbb5-5da2-93be-c618b55758de |
+| source.excerpts.3.value | · Laissez - nous donc reversanstroubte et sansmurmure , Laissez tes souvenirs rcnattrc dans nos copurs , Comme dans la paisible et joyeuse nature Sur les vieux troncs naissent des fleurs .Voyez comme un autel la terre se décore ; St ' s parfums exhalés montent comme un encens ; Écoutez le concert qu ' entendait Pythagore Dans tes cieux frémissants .Voici le soir , sortez . |
+| source.excerpts.3.words.0 | encens |
+| source.excerpts.3.words.1 | terre |
+| source.excerpts.3.words.2 | parfums exhalés |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/2d7c1460-b95b-544c-bea3-15556212cf78 |
+| source.excerpts.4.value | En avant ! toujours en avant ! Point de langueur rêveuse L ' herbe ou ) ' ou s ' endort en rêvant Est toujours dangereuse .La prairie embaume de fleurs , Mais des serpents y veillent ; La rêverie a des douceurs , Mais des pleurs s ' y réveillent .AUTOMNE . |
+| source.excerpts.4.words.0 | fleurs |
+| source.excerpts.4.words.1 | embaume |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/2fe2a779-898d-550a-aa7c-515acf4493be |
+| source.excerpts.5.value | i sylphe de l ' esprit , Ariel poétique .tvre de doux parfums et de douce musique , Dans l ' Italie en fleurs un soir je suis éclos , Tandis qu ' un rossignol chantait sur les rameaux .- Est - ce ainsi qu ' eût pu naître un poëmc classique ? J ' aspirais , j ' écoutais , quand Pétrarque me prit ; Et l ' air du rossignol je le redis pour Laure ; Pour maints cœurs amoureux je le redis encore . |
+| source.excerpts.5.words.0 | doux |
+| source.excerpts.5.words.1 | parfums |
+| source.excerpts.5.words.2 | Italie en |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/37604580-dde3-55bf-9ba7-8fb4f5096e11 |
+| source.excerpts.6.value | Pourquoi – me dites - vous - Enfant des fantaisies , U ' unc si prompte main cueillir vos poésies , Composant un bouquet des matinales fleurs Dont un soleil plus haut eût mieux peintles couleurs ? Pourquoi , dès que du ciel une rosée arrive , De votre âme prodigue épancher cette eau vive , Au licu de conserver dans votre amour jaloux Une onde qui plus tard deviendrait perle eu vous ? " Je dis « Oui , la pensée est un 1 ) leur de l ' Aurore , Mais qui sèche au soleil et dans l ' air s ' évapore , Si le vers du poète est lent à recueillir CcUc tanne qui tremble au plus léger zej ' hyr .Oui , te naissant parfum des ( leurs à peine ôciosex Hmbaume moins que t ' urne éclatante des roses Mais le bouton qui s ' ouvre a la vierge fraîcheur .Ht sa beauté rayonne à travers sa pudeur . |
+| source.excerpts.6.words.0 | parfum |
+| source.excerpts.6.words.1 | vierge |
+| source.excerpts.6.words.2 | urne |
+| source.excerpts.6.words.3 | peine |
+| source.excerpts.6.words.4 | naissant |
+| source.excerpts.6.words.5 | Hmbaume |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/39dec811-29d3-5e2f-9177-060fae973701 |
+| source.excerpts.7.value | ) ) implore au couchât ) ) une « " uttc .o rosée ! SERPENTS SOUS DES FLEURS .Le repos n ' est pas le repos Le regret ne sommeille Que dans la lutte et tes travaux ; – Le repos le réveille . |
+| source.excerpts.7.words.0 | rosée |
+| source.excerpts.7.words.1 | FLEURS |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/598f02cb-80a7-53b9-a5bc-92d85c9a417c |
+| source.excerpts.8.value | Un matin de printemps je partirais sans doute .Laissant ! a fantaisie au loin frayer ma route : Et j ' aimerais surtout , le soir , à m ' arrêter Au toit dont ! ' h6te heureux mp prierait de rester , Car toujours l ' étranger laisse , en quittant le chaume , Comme l ' encens au vase , un parfum qui t ' embaume .Attemagne , Allemagne , oh mon cœur est à toi , Terre de l ' espérance et de l ' antique foi . |
+| source.excerpts.8.words.0 | parfum |
+| source.excerpts.8.words.1 | encens |
+| source.excerpts.8.words.2 | vase |
+| source.excerpts.8.words.3 | t |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/59ee1a16-4782-5b19-a2a2-48af9bd42f49 |
+| source.excerpts.9.value | sous dont il enchante L ' écho mystérieux des bois Sont ceux que le rossignol chanta Li nuit , quand nul n ' entend sa voix .Le nom te plus doux que répète La vierge en son cœur embaumé Redoute l ' oreille indiscrète C ' est le doux nom du bien - aimé .Le plus doux hymne de ma lyre Est l ' hymne modulé tout bas Que seule mou âme soupire , Et nu ' un passant ne redit pas . |
+| source.excerpts.9.words.0 | embaumé |
+| source.excerpts.9.words.1 | vierge |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/5f2ac60a-835f-5529-a476-092d54f8a75e |
+| source.excerpts.10.value | t < - WtMmNMt < ' r J ' arrive du sein d ' une rosc ; t no rose tut mon hercenu ; Qu ' une rosé soit mon tombeau .Hn hiver , mou aile repose ; Mais au printemps , sans me lasser , Je cueiUe parfums et baiser .Pauvre roi si fier sur ton trône Lorsque , penche sous la couronne , Ton front ruisselle de sueur , Tu ! M ' t ) is nu ' ) ) hum ) ' ) < ' ) ' ) ' . |
+| source.excerpts.10.words.0 | parfums |
+| source.excerpts.10.words.1 | Je |
+| source.excerpts.10.words.2 | au printemps |
+| source.excerpts.10.words.3 | baiser |
+| source.excerpts.10.words.4 | Hn hiver |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/652facd1-5a70-504c-90b4-dd9353d53fd0 |
+| source.excerpts.11.value | fans l ' herbe qu ' incline ta trace Vit capricieux et rêvant , Et bois chaque brise qui passe , Comme ces cavales de Thrace Que fécondaient l ' air et le vent .Ht si , las d ' aller dès l ' aurore , Tu t ' endors sous l ' arbre embaumé , Que le sommeil te donne encore Le frais bouton qui vient d ' éclore , L ' azur et les parfums de mai PËM ) AM L ' ORÀCK .t . |
+| source.excerpts.11.words.0 | parfums |
+| source.excerpts.11.words.1 | embaumé |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/9694bb35-ebd7-5899-9f47-4b0ffc55ac3d |
+| source.excerpts.12.value | Je ne voulais d ' abord que retremper mon âme A ton âme , à ta voix , à tes regards , ô femme ! Je ne voulais , devant ton beau front virginal , Que mieux fixer en moi le sens de l ' idéal Je ne voulais qu ' un jour cueillir ton frais sourire Et tes fleurs de printemps pour en parer ma tyrc Mais voilà que mon cœur s ' est embaume de toi .Et que mon ciel d ' azur n ' est plus que sous ton toit , Et que je ne sais plus rêver , espérer , vivre , Qu ' aux lieux où ta beauté rayonne , enchaîne , enivre ; Ainsi le pèlerin qui , hrMe du soleil , nesceod dans le \ a ) ) on vers l ' ombre et le sommeil , Trouve l ' onde si pure et ta brise si douce , Qu ' il veut s ' asseoirau moins une heure surla mousse , Mais quand ses yeux ravis ont longtemps contemp ) ' Cet horizon suave et d ' ombrages voilé , Quand il a , parfumé de cent fleurs odorantes , Savouré tant de voix doucement murmurantes .H ne peut plus quitter le vallon , ses amours , Et jette son bourdon pour y vivre toujours . |
+| source.excerpts.12.words.0 | parfumé |
+| source.excerpts.12.words.1 | odorantes |
+| source.excerpts.12.words.2 | cent fleurs |
+| source.excerpts.12.words.3 | Savouré |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/a32d9f62-da46-51f0-8bae-01b3c51876ea |
+| source.excerpts.13.value | Si j ' ouvrais lesbattants , peut - être entrerait - elle 1 De peur de l ' effrayer fermons bien ce rideau .Mais quel air embaumé rafralchit mon cerveau ? Le parfum exhalé d ' une rose nouvelle .Je respire et j ' attends en vain j ' attends encor : Quel palais pour Foiseau vaudrait ce soleil d ' or ? Mais on ouvre ma porte « 0 douce bien - aimée Trois messagers d ' amour arrivés avant toi M ' ont chanté doucement que tu venais vers moi Le soleil l ' hirondelle et la brise embaumée . |
+| source.excerpts.13.words.0 | parfum |
+| source.excerpts.13.words.1 | air |
+| source.excerpts.13.words.2 | embaumé |
+| source.excerpts.13.words.3 | rose nouvelle |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/af952790-b908-59b0-a10d-a85281f38195 |
+| source.excerpts.14.value | .d ' UM ! tn < ) Ce qui parfois calma mon esprit et mon cœur , La verdure au printemps , ta rosée à l ' aurore , Un rêve , cette nuit , vint me le rendre encore i - Car j ' errais dans un hois embaumé de fraicheur .Et vous , dont m ' enivra souvent la douce odeur , Boutons mi - clos , j ' ai cru vous respirer encore , - Plus doux , - car au sentier soudain je vis éctore Chasseresse légère et de ce bois la fleur . |
+| source.excerpts.14.words.0 | embaumé |
+| source.excerpts.14.words.1 | hois |
+| source.excerpts.14.words.2 | fraicheur |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/be43adc0-cf30-5229-8bc6-c2f5e96bdc43 |
+| source.excerpts.15.value | d ' UM ! tn < ) Ce qui parfois calma mon esprit et mon cœur , La verdure au printemps , ta rosée à l ' aurore , Un rêve , cette nuit , vint me le rendre encore i - Car j ' errais dans un hois embaumé de fraicheur .Et vous , dont m ' enivra souvent la douce odeur , Boutons mi - clos , j ' ai cru vous respirer encore , - Plus doux , - car au sentier soudain je vis éctore Chasseresse légère et de ce bois la fleur .Elle fuit . |
+| source.excerpts.15.words.0 | douce |
+| source.excerpts.15.words.1 | odeur |
+| source.excerpts.15.words.2 | vous |
+| source.excerpts.15.words.3 | respirer |
+| source.excerpts.15.words.4 | m |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/dd13a709-8ad3-5918-8836-e605b59230a4 |
+| source.excerpts.16.value | t .EH Pour écrire tes vers tu t ' asseyais , poëte , A ta fenêtre ouverte à l ' air inspirateur ; Autour de la fenêtre un cep de vigne en fleur Enchainait ses festons odorants sur ta .tête . |
+| source.excerpts.16.words.0 | odorants |
+| source.excerpts.16.words.1 | vigne |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/ea57e180-7711-53f5-a5b2-6fab0b988241 |
+| source.excerpts.17.value | Allemagne , Allemagne , oh ! mon cœur est à toi , Terre de l ' espérance et de l ' antique foi Terre des simples cœurs , 6 naïve patrie De la grave science et de la rêverie Terre de souvenir et de fidélité .Abri toujours ouvert à l ' hospitalité Vallon mystérieux où les fleurs et les femmes Ont les plus doux parfums et tes plus vierges amos ; ( ) a l ' austère devoir est ettcor souverain , Ott fart est encor roi , l ' amour encor divin , La musique encor sœur des harpes seraphiques , Et tout beau front orne de ses grices pudiques .Allemagne , Allemagne , oh ! mon cœur est à toi , Terre de t ' esperance et do t ' antique M . |
+| source.excerpts.17.words.0 | doux |
+| source.excerpts.17.words.1 | fleurs |
+| source.excerpts.17.words.2 | parfums |
+| source.excerpts.17.words.3 | femmes |
+| source.excerpts.17.words.4 | Vallon |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/eab6d680-d189-5403-87c0-38396801a3f9 |
+| source.excerpts.18.value | t HËPART .Adtcu le printemps dans les plaines 11 ' appelle ; il embaume les airs ; L .) mousse est fraîche autour des chênes ; La nature et ) ' âme sont pleines lie fleurs , d ' oiseaux et de concerts . |
+| source.excerpts.18.words.0 | airs |
+| source.excerpts.18.words.1 | embaume |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/f918c5a7-7af8-5e17-8966-1fd3b869a2d1 |
+| source.excerpts.19.value | Allemagne , Allemagne , oh ! mon cœur est à toi , Terre de l ' espérance et de l ' antique foi .Et , pour rendre u ) < ) vie encore plus céleste , Un seul ami sincère , une épouse modeste , Violette cachée à l ' ombre de mon seuil Que son parfum trahit , mais qui se voile à i ' œi ) .Ht des enfants unis jouant autour de l ' àtre , Animant la maison de ! eur ~ ait6 folâtre . |
+| source.excerpts.19.words.0 | Violette |
+| source.excerpts.19.words.1 | parfum |
+| source.excerpts.19.words.2 | son |
+| source.author.0.@id | http://data.odeuropa.eu/actor/1f56183a-1af2-5486-902f-c9dd71454024 |
+| source.author.0.label | Adelbert von  Chamisso |
+| source.label | Ariel : sonnets et chansons / par M. N. [Nicolas] Martin. Suivis d'une traduction de "Pierre Schlémihl : L'homme qui a vendu son ombre" / [par N. Martin] |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k69307m |
+| source.date | 1841 |
+| source.language | fr |
+| carrier.0.@id | http://data.odeuropa.eu/object/b62c10ca-6598-5bbb-b3b3-cffd70c989df |
+| carrier.0.label | hois |
+| time.0.@id | http://data.odeuropa.eu/time/3d8951a3-8f95-57c1-aaff-faa90157bfa8 |
+| time.0.label | 1841 |
+| time.0.begin | 1841 |
+| time.0.end | 1841 |
+| place.0.@id | https://sws.geonames.org/72084/ |
+| place.0.label | Qā‘at Ḩays |
+| emotion.0.@id | http://data.odeuropa.eu/emotion-type/nostalgia |
+| emotion.0.label | nostalgia |
+| emotion.1.@id | http://data.odeuropa.eu/emotion-type/gratitude |
+| emotion.1.label | gratitude |
+| emotion.2.@id | http://data.odeuropa.eu/emotion-type/disappointment |
+| emotion.2.label | disappointment |
+| relevantExcerpt | http://data.odeuropa.eu/source/53759273-4453-5bd1-9e33-d467dbe061ae/fragment/af952790-b908-59b0-a10d-a85281f38195 |
+| license | Public domain |

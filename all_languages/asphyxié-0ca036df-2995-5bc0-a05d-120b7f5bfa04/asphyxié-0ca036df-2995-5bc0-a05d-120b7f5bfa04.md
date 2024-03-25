@@ -1,0 +1,192 @@
+## asphyxié
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/0ca036df-2995-5bc0-a05d-120b7f5bfa04 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | asphyxié |
+| source.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/118b8c41-e332-5653-9dd6-0de0c2246c46 |
+| source.excerpts.0.value | Les eaux du Nil retirées , il reste sur le sol une masse d ' animaux morts qui entrent en putréfaction , et l ' air est empesté de miasmes putrides .Un âne , un bœuf , un dromadaire meurt - il ? les Égyptiens le jettent , avec leur imprévoyance paresseuse , au premier endroit venu ! L ' inondation est - elle trop forte , la moitié de leurs cimetières s ' éboulent , les cadavres sont à découvert et répandent des miasmes pernicieux ! Leur faire une religion de l ' embaum ' ement serait inutile à présent .Déifier les animaux pour les forcer à les mettre en momies serait absurde ; mais il faudrait faire une loi de sûreté publique , et forcer à inhumer de telle sorte que ces inconvénients cessassent . |
+| source.excerpts.0.words.0 | répandent |
+| source.excerpts.0.words.1 | miasmes |
+| source.excerpts.0.words.2 | pernicieux |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/18001d4d-4a66-59ec-972c-ae7693c645fe |
+| source.excerpts.1.value | » Mais l ' une d ' elles , enveloppée dans un grand voile blanc , avec des pantalons couleur canari , est sortie et nous a fait signe à tous que nous pouvions entrer .Elle a soulevé le rideau pour nous livrer passage , et alors nous nous sommes trouvés dans un bouge sombre , ou , une odeur infecte nous prenait à la gorge .On lui a demandé où était le cheik , elle nous a désigné un coin de la hutte , d ' où partait un tintement de tambour de basque peu harmonieux . |
+| source.excerpts.1.words.0 | infecte |
+| source.excerpts.1.words.1 | odeur |
+| source.excerpts.1.words.2 | nous |
+| source.excerpts.1.words.3 | nous nous |
+| source.excerpts.1.words.4 | un bouge sombre |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/19e60aaa-aa33-58ec-8f38-b6ec5b4c7136 |
+| source.excerpts.2.value | Il en coûterait si peu au vice - roi d ' apprendre par un décret à son peuple que cela peut lui amener la peste , et de lui * ordonner d ' enterrer au moins à deux mètres ! Je ne comprends pas que la peste ne soit pas en permanence dans ce pays - là avec l ' incurie qui y règne .Après l ' inondation , Dieu sait la quantité de bêtes noyées qui restent sur la terre en état de putréfaction ! Les cimetières eux - mêmes sont quelquefois atteints par les eaux , et l ' on voit des cadavres mis à nu .Eh bien ! le gouvernement ne se préoccupe pas de parer à cela , l ' Arabe est bien trop indolent pour le faire de lui - même , et l ' infection devient aussi désagréable que dangereuse . |
+| source.excerpts.2.words.0 | putréfaction |
+| source.excerpts.2.words.1 | bêtes noyées |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/2651c909-eb42-50fc-93ee-d095e5f4c32a |
+| source.excerpts.3.value | La première station est à Datnanhour , petite ville qui 11 a rien de joli ; ses maisons sont presque toutes en terre ; les quelques - unes qui sont en pierres appartiennent à des négociants européens .Une foule d ' Arabes viennent Se presser aux portières des wagons , passant curieusement leurs têtes ; l ' été , c ' est insupportable , car ils obstruent l ' air et apportent une odeur nauséabonde .Les femmes fellahs viennent nous offrir de l ' eau dans des gargoullettes , des oranges . |
+| source.excerpts.3.words.0 | odeur |
+| source.excerpts.3.words.1 | air |
+| source.excerpts.3.words.2 | nauséabonde |
+| source.excerpts.3.words.3 | Arabes |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/293df980-3613-52fa-ae5f-a5d1085cf65c |
+| source.excerpts.4.value | Ces femmes sont charmantes sous plusieurs rapports , mais elles ont surtout un sans - façon , une familiarité qui vous met à l ' aise de suite : vous êtes chez elles comme chez vous .On nous a servi du café ; hélas ! il était parfumé à la rose ! .La seconde tasse était parfumée à l ' ambre ; bon gré , mal gré , il a fallu nous résigner à l ' avaler , car refuser à des Orientaux de prendre leur café serait les offenser . |
+| source.excerpts.4.words.0 | parfumé |
+| source.excerpts.4.words.1 | rose |
+| source.excerpts.4.words.2 | nous |
+| source.excerpts.4.words.3 | café |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/2c6f183b-eeae-5492-ab25-1bb03691f876 |
+| source.excerpts.5.value | Cela a un grave inconvénient , surtout avec les Orientaux , qui ont la manie de faire leurs cimetières dans les villes mêmes , et si par hasard ils sont en dehors , tout autour il y a toujours des maisons , une espèce 4 de village .Ainsi au Caire , à Choubrah , il y a un petit cimetière sur la route ; l ' été , en passant là , on est asphyxié .Une maison , qui donne même dans ce cimetière , a la réputation d ' être une maison maudite , car tous ceux qui l ' habitent meurent bien vite ; l ' odeur qui leur arrive du cimetière , voilà ce qui les tue . |
+| source.excerpts.5.words.0 | cimetière |
+| source.excerpts.5.words.1 | asphyxié |
+| source.excerpts.5.words.2 | l ' été |
+| source.excerpts.5.words.3 | Caire |
+| source.excerpts.5.words.4 | à Choubrah |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/2d8a277d-b722-5e78-a041-00ca3490056a |
+| source.excerpts.6.value | Dès que l ' on sort d ' Alexandrie , on se trouve entre le canal Mahmoudièh et le lac Marœotis .puis bientôt l ' on entre en plein dans le lac Marœotis ; à droite , on voit , au loin , la mer , à gauche , à perte de vue , on n ' aperçoit que les eaux stagnantes , dégageant des miasmes infects , du lac Marœotis .La première station est à Datnanhour , petite ville qui 11 a rien de joli ; ses maisons sont presque toutes en terre ; les quelques - unes qui sont en pierres appartiennent à des négociants européens . |
+| source.excerpts.6.words.0 | miasmes |
+| source.excerpts.6.words.1 | infects |
+| source.excerpts.6.words.2 | mer |
+| source.excerpts.6.words.3 | lac |
+| source.excerpts.6.words.4 | le lac Marœotis |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/32a36a0c-c493-5fbc-9ed0-609c92d1824b |
+| source.excerpts.7.value | Leur Prophète leur a dit : « Ceux qui mourront pendant le voyage iront tout droit au paradis .» Or , le paradis de Mahomet est , on le sait , un lieu enchanteur , où les rivières sont de lait , de raki , des liqueurs les plus exquises , où l ' eau est parfumée ; Et où enfin chaque fidèle musulman aura un essaie de jeunes et belles vierges ( appelées houris ) pour lui tout seul , et , ce qui est mieux encore , le pouvoir de les avoir ' il faut avouer que ce bon Prophète connaissait bien le cœur des hommes ! Pour les forcer à accomplir une religion dont les préceptes sont quelquefois assez durs à remplir , Il leur promet , Quoi ? .Un essaim de jeunes et belles houris ! » Aussi il faut voir comme le musulman est exact à suivre sa religion ! . |
+| source.excerpts.7.words.0 | parfumée |
+| source.excerpts.7.words.1 | liqueurs |
+| source.excerpts.7.words.2 | eau |
+| source.excerpts.7.words.3 | lait |
+| source.excerpts.7.words.4 | raki |
+| source.excerpts.7.words.5 | paradis de Mahomet |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/38a17f67-b285-58ff-9a08-6039b9d2e054 |
+| source.excerpts.8.value | Donc presque tous les Levantins , les Syriens , les Arméniens et les Européens ont leur harem , qui se compose de Nubiennes , mais surtout d ' Abyssiniennes ; ces dernières sont fort prisées par ces messieurs : elles sont généralement bien faites ; leurs bras , leur gorge , sont d ' un modèle parfait ; elles ont de grands yeux noirs veloutés , les dents bien blanches ; leur peau est couleur chocolat .Ces bonnes femmes chocolat ont plusieurs désavantages : d ' abord elles ont une odeur fort désagréable ; ensuite , elles attirent la vermine , à qui , il parait , cette odeur plaît .Les maisons 011 il y a de ces femmes en sont infestées . |
+| source.excerpts.8.words.0 | odeur |
+| source.excerpts.8.words.1 | elles |
+| source.excerpts.8.words.2 | fort désagréable |
+| source.excerpts.8.words.3 | Ces bonnes femmes chocolat |
+| source.excerpts.8.words.4 | attirent la vermine |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/6c43be01-817b-571d-82b6-52004fcc0283 |
+| source.excerpts.9.value | Ce sont eux qui , pour plaire à Mahomet ou pour amuser la foule , peutêtre encore pour leur propre agrément , se livrent à d ' horribles plaisanteries dont je n ' ai jamais pu comprendre le but .Les uns se font sortir les yeux de l ' orbite ; les autres prennent un morceau de fer rougi , passent la langue dessus ; l ' on entend le frou - frou de la chair brûlée , on sent l ' odeur qu ' elle exhale .Vautres se passent une aiguille d ' une joue à l ' autre , tandis que quelques - uns d ' entre eux se livrent à une promenade , peu séduisante selon moi , sur des lames d ' épées . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | chair |
+| source.excerpts.9.words.2 | exhale |
+| source.excerpts.9.words.3 | brûlée |
+| source.excerpts.9.words.4 | chair brûlée |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/74c71792-030d-5a17-8c9f-3c554166527d |
+| source.excerpts.10.value | S ' ils lui persuadaient que l ' ibis , le bœuf , le chat , etc ., étaient des animaux sacrés , c ' était uniquement pour le forcer à les embaumer avec soin , parce qu ' ils avaient compris qu ' avec cette terre tantôt sèche , crevassée par le soleil , tantôt rendue marais par l ' inondation , tous ces corps , mélangés à elle , deviendraient un sujet d ' infection , de maladie pour le pays .Aussi à cette époque la peste était chose inconnue en Égypte . |
+| source.excerpts.10.words.0 | corps |
+| source.excerpts.10.words.1 | embaumer |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/7543ecdc-d739-5e43-8f48-4b6a2f644085 |
+| source.excerpts.11.value | J ' ai passé quelques jours au château de Tell .Le soir , de huit à dix heures , je restais assise sur la grande terrasse ; du jardin m ' arrivait la douce émanation des fleurs , leurs suaves parfums m ' étaient apportés par la brise légère .C ' était au moment de la pleine lune ; son disque argenté était si lumineux qu ' à sa clarté j ' ai écrit plus d ' un chapitre de mon ouvrage , et je lisais facilement les caractères les plus fins . |
+| source.excerpts.11.words.0 | douce |
+| source.excerpts.11.words.1 | suaves |
+| source.excerpts.11.words.2 | fleurs |
+| source.excerpts.11.words.3 | leurs |
+| source.excerpts.11.words.4 | parfums |
+| source.excerpts.11.words.5 | émanation |
+| source.excerpts.11.words.6 | je |
+| source.excerpts.11.words.7 | Le soir , de huit à dix heures |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/834b562b-b820-52a1-8d32-8107471bc216 |
+| source.excerpts.12.value | La moyenne Égypte a pour elle une splendide végétation , et quelques ruines aussi .Le Fayoum , avec ses vastes champs de roses qui embaument l ' air ; le Fayoum , où fleurissait cette belle fleur vénérée des anciens , le lotus , et qu ' hélas ! on ne retrouve plus , mais où se voit encore le joli nopal , aux feuilles larges , épaisses , d ' un vert superbe , ce nopal qui forme des murailles de verdure autour des charpps de roses .Dans la moyenne Egypte , l ' ancien Saïd , la végétation est encore plus riche que dans la basse Égypte . |
+| source.excerpts.12.words.0 | Fayoum |
+| source.excerpts.12.words.1 | air |
+| source.excerpts.12.words.2 | embaument |
+| source.excerpts.12.words.3 | anciens |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/8d7c1473-b6ce-5df4-930b-386eef46acfd |
+| source.excerpts.13.value | Rien n ' est curieux comme de voir cette masse d ' œufs ( car un four contient jusqu ' à cinq Illille œufs ) s ' agiter , et enfin laisser s ' échapper de leurs coques brisées tous ces petits êtres .Seulement , il fait dans ces fours une chaleur accablante , et il y règne une odeur nauséabonde .Voilà un métier que je ne ferais Pas ! . |
+| source.excerpts.13.words.0 | odeur |
+| source.excerpts.13.words.1 | nauséabonde |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/93b509ab-2f5b-575c-80be-0f5ba68041a3 |
+| source.excerpts.14.value | De loin en loin on aperçoit un fragment de colonne en granit , quelques élégants chapiteaux : c ' est tout ce qu ' il reste d " 3 splendides maisons de Plaisance qui , sous les Ptolémées , embellissaient la voie canopienne .Ce canal est , du reste , une promenade charmante ; l ' air y est embaumé par les fleurs des grands lauriersroses que l ' on y rencontre à chaque pas ; la route est ombragée par de beaux tilleuls ; vers le haut du canal la Promenade serpente entre un petit lac d ' eau salée et le canal ; au loin , à perte de vue , s ' étend le lac Maraeotis , a l ' onde calme et bleue .1 ) , 3 loin en loin on aperçoit encore , de l ' autre coté du canal , un bouquet de palmiers se mirant dans les eaux , autour d ' eux quelques misérables huttes de fellahs . |
+| source.excerpts.14.words.0 | fleurs |
+| source.excerpts.14.words.1 | air |
+| source.excerpts.14.words.2 | embaumé |
+| source.excerpts.14.words.3 | grands lauriersroses |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/9f04a629-64d1-5472-af1f-fde7234f48a2 |
+| source.excerpts.15.value | On vous enferme dans la salle d ' attente ; les eunuques arrivent avec leur air fier et triomphant , leur énorme bâton à la main , bâton dont ils distribuent des coups à droite et à gauche pour faire faire place ; le ha - rem s ' avance , la principale femme ou favorite est soutenue par - dessous les coudes par deux eunuques ; elles s ' instalent dans les voitures , ferment les stores , et là elles boivent , mangent du riz , de la viande , jettent les os , les pelures , les restes par terre , s ' essuient les mains aux coussins .L ' ail , l ' oignon figurent toujours dans leur repas ; aussi les voitures ne sont ni propres ni parfumées quand elles sortent de la , et comme nettoyer , essuyer , balayer est une chose complètement inconnue en Egypte , elles restent dans cet état .On se trouve avec des Grecs , des Italiens qui ne sont pas précisément la ( leur des pois de l ' Italie et de la Grèce ; des Égyptiens qui quittent leurs souliers et charment leurs loisirs en se grattant les pieds , ce qui est trèsbien porté ici . |
+| source.excerpts.15.words.0 | parfumées |
+| source.excerpts.15.words.1 | voitures |
+| source.excerpts.15.words.2 | Egypte |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/a486d2ed-2327-5deb-934c-38f946089fce |
+| source.excerpts.16.value | Eh bien ! le gouvernement ne se préoccupe pas de parer à cela , l ' Arabe est bien trop indolent pour le faire de lui - même , et l ' infection devient aussi désagréable que dangereuse .Ceux qui gouvernaient les anciens Égyptiens , avec cette prudence , cette prévoyance qui les caractérisaient , avaient fait au peuple une loi religieuse d ' embaumer tous les corps .S ' ils lui persuadaient que l ' ibis , le bœuf , le chat , etc . |
+| source.excerpts.16.words.0 | corps |
+| source.excerpts.16.words.1 | embaumer |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/ae647e52-b4da-540d-93fc-515b8b432269 |
+| source.excerpts.17.value | Voyez ce qu ' il arrive à présent .Les eaux du Nil retirées , il reste sur le sol une masse d ' animaux morts qui entrent en putréfaction , et l ' air est empesté de miasmes putrides .Un âne , un bœuf , un dromadaire meurt - il ? les Égyptiens le jettent , avec leur imprévoyance paresseuse , au premier endroit venu ! L ' inondation est - elle trop forte , la moitié de leurs cimetières s ' éboulent , les cadavres sont à découvert et répandent des miasmes pernicieux ! Leur faire une religion de l ' embaum ' ement serait inutile à présent . |
+| source.excerpts.17.words.0 | putrides |
+| source.excerpts.17.words.1 | air |
+| source.excerpts.17.words.2 | miasmes |
+| source.excerpts.17.words.3 | empesté |
+| source.excerpts.17.words.4 | animaux morts |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/af76ffe7-d611-59eb-82d4-dd328ec65782 |
+| source.excerpts.18.value | Ces noirs sourcils si bien arqués le sont par un pinceau habile , l ' éclat du regard est l ' effet du kholl , la fraîcheur du teint a été préparée dans le laboratoire d ' un parfumeur .Sous tous ces trompe - l ' œil les rides accusatrices aPparaissent ; on dirait une vieille ruine badigeonnée à neuf , mais qui , pour en être plus ridicule , n ' en est pas Plus jolie ! On se dit : Pourquoi ne suis - je pas resté à distance ? Eh bien , de loin , les villes de l ' Orient paraissent charmantes , coquettes et jolies au possible , avec leurs blancs minarets , dont les flèches s ' élèvent fières et lancées dans les nues ; leurs maisons a la mauresque , avec leurs moucharabièhs finement découpés ; de ça de là , des bouquets de sycomores ou de palmiers ; tout cela fait , je le répète , un effet charmant ; mais si l ' on aPproche , si l ' on entre dans la ville , une odeur nauSéabonde vous saisit à la gorge , une saleté révoltante blesse et étonne le regard ; ces maisons qui de loin paraissaient si jolies , sont poudreuses , elles tombent en ruine ; ces balcons si artistement ciselés , des poutres en bois apparentes les soutiennent ; les rues tortueuses sont remplies d ' immondices ; des chiens galeux sont couchés à travers : que vous passiez à cheval , à âne ou à pied , ils ne se dérangent pas davantage ; c ' est à vous de vous déranger , car il faut vous garder de leur faire du mal , les musulmans vous feraient un mauvais parti .Chose curieuse , pour un musulman , le chien est une bête impure ; si un chien le touche , il ne peut plus faire ses prières avant de s ' être purifié ; jamais on ne voit un musulman caresser nn chien , et pourtant ils les laissent en paix , leur dofinent à manger ; s ' ils voient quelqu ' un les battre , ils se fâchent très - fort . |
+| source.excerpts.18.words.0 | odeur |
+| source.excerpts.18.words.1 | révoltante |
+| source.excerpts.18.words.2 | palmiers |
+| source.excerpts.18.words.3 | la ville |
+| source.excerpts.18.words.4 | Orient |
+| source.excerpts.18.words.5 | sycomores |
+| source.excerpts.18.words.6 | nauSéabonde |
+| source.excerpts.18.words.7 | villes de l |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/d7d0d453-6588-55c9-ad97-ec77076faf9a |
+| source.excerpts.19.value | Ainsi au Caire , à Choubrah , il y a un petit cimetière sur la route ; l ' été , en passant là , on est asphyxié .Une maison , qui donne même dans ce cimetière , a la réputation d ' être une maison maudite , car tous ceux qui l ' habitent meurent bien vite ; l ' odeur qui leur arrive du cimetière , voilà ce qui les tue .Pour se rendre aux tombeaux des Khalifes , on traverse aussi un cimetière dont j ' ai oublié le nom . |
+| source.excerpts.19.words.0 | odeur |
+| source.excerpts.19.words.1 | cimetière |
+| source.excerpts.19.words.2 | maison |
+| source.excerpts.19.words.3 | tue |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/d86aeeee-54a4-5ae3-b128-9192e4972cfc |
+| source.excerpts.20.value | ; ils ne prennent pas la peine de les refaire , souvent les ossements sont à nu : c ' est un spectacle écœurant que le dernier asile des morts .Et l ' été on ne peut les traverser sans être asphyxié par une odeur nauséabonde .Croyezvous que cela gène les musulmans ? Pas du tout . |
+| source.excerpts.20.words.0 | odeur |
+| source.excerpts.20.words.1 | nauséabonde |
+| source.excerpts.20.words.2 | l ' été |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/e0a4348b-3cef-5bf4-9639-3a99c57535a9 |
+| source.excerpts.21.value | On nous a servi du café ; hélas ! il était parfumé à la rose ! .La seconde tasse était parfumée à l ' ambre ; bon gré , mal gré , il a fallu nous résigner à l ' avaler , car refuser à des Orientaux de prendre leur café serait les offenser .mortellement ; le café est , comme anciennement chez certains peuples , le pain et le sel . |
+| source.excerpts.21.words.0 | parfumée |
+| source.excerpts.21.words.1 | ambre |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/e228751d-dc38-56dd-97e1-638c12569676 |
+| source.excerpts.22.value | Rien n ' est curieux comme de voir cette montagne sur laquelle reposent les pyramides , avec son flanc percé de toutes parts de puits tumulaires .; et vraiment l ' habitude qu ' avaient les anciens Égyptiens de choisir , pour placer leurs restes , le flanc des montagnes , était remplie d ' intelligence et de sagesse , tout comme celle qu ' ils avaient d ' embaumer tous les corps morts , même ceux des animaux : ils se préservaient ainsi de cette horrible peste , fléau de l ' Egypte .Voyez ce qu ' il arrive à présent . |
+| source.excerpts.22.words.0 | corps |
+| source.excerpts.22.words.1 | embaumer |
+| source.excerpts.22.words.2 | Egypte |
+| source.excerpts.22.words.3 | anciens Égyptiens |
+| source.excerpts.22.words.4 | embaumer tous |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/e2356de5-cfab-582d-8489-70f777639a60 |
+| source.excerpts.23.value | » Tous , avec une unanimité qui témoignait do notre peu de courage , nous les avons suppliés de n ' en rien faire et de laisser en paix , et le plus loin possibte de nous , ces affreuses bêtes .Un autre jour , dans une campagne , à Choubrah , les domestiques firent remarquer au maître du logis que , depuis deux ou trois jours , ils voyaient dans les appartements des traces gluantes qui indiquaient qu ' ils devait y avoir un serpent .Je m ' y rendis de suite . |
+| source.excerpts.23.words.0 | les appartements |
+| source.excerpts.23.words.1 | gluantes |
+| source.excerpts.23.words.2 | domestiques |
+| source.excerpts.23.words.3 | à Choubrah |
+| source.excerpts.23.words.4 | dans une campagne |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/ea9895c0-37ba-5b28-8f16-614de905973d |
+| source.excerpts.24.value | Il monta donc sur un superbe cheval qu ' il fit élégamment caracoler à , côté du mien .Arrivés à l ' endroit où nous devions nous séparer , il mit pied à terre , vint me baiser la main , me fit dire par le drogman qu ' il me remerciait de l ' honneur que je lui avais fait , qu ' il espérait me revoir , que sa tente était aussi la mienne , et que , telle que la fleur qui longtemps après elle laisse un doux parfum où elle a passé , j ' avais laissé dans sa tente un souvenir aussi doux mais plus durable .Avouez qu ' un Parisien n ' aurait rien trouvé de plus aimable à me dire ! Deux jours après , comme je l ' avais invité à venir , lui aussi , me rendre visite à Tell - el - Kébir , je le vis arriver avec trois de ses frères . |
+| source.excerpts.24.words.0 | doux |
+| source.excerpts.24.words.1 | parfum |
+| source.excerpts.24.words.2 | fleur |
+| source.excerpts.24.words.3 | j |
+| source.excerpts.24.words.4 | me |
+| source.excerpts.24.words.5 | longtemps après |
+| source.excerpts.24.words.6 | tente |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/ee08d02b-9f2d-5c24-8228-4aeeec098aaa |
+| source.excerpts.25.value | A Tell - el - Kébir , dans le désert de Suez , se trouve un beau château que Saïd Pacha a fait construire .Ce château , qui a été acheté par la Compagnie de l ' Isthme , est admirablement situé ; il est construit dans le style mauresque ; devant lui s ' étendent de superbes jardins que l ' oranger , le bananier , le grenadier , le citronnier , ombra - gent , où fleurissent les roses de mai au doux parfum ; .derrière , à droite et à gauche , c ' est le désert , sec , aride , effrayant à voir . |
+| source.excerpts.25.words.0 | doux |
+| source.excerpts.25.words.1 | parfum |
+| source.excerpts.25.words.2 | roses de mai |
+| source.author.0.@id | http://data.odeuropa.eu/actor/ea480cc7-ce47-54d2-a645-6394b8344dee |
+| source.author.0.label | Olympe  Audouard |
+| source.label | Les mystères de l'Égypte dévoilés (2e édition) / Mme Olympe Audouard |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k62078152 |
+| source.date | 1866 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/e35c8e6f-96ed-5e76-9036-bcc5c4ef3a09 |
+| time.0.label | 1866 |
+| time.0.begin | 1866 |
+| time.0.end | 1866 |
+| place.0.@id | https://sws.geonames.org/12088668/ |
+| place.0.label | Shobra |
+| place.1.@id | https://sws.geonames.org/360630/ |
+| place.1.label | Cairo |
+| place.2.@id | http://data.odeuropa.eu/place/f34a36bf-ed5d-5da3-99bb-42d695ad3a44 |
+| place.2.label | cimetière |
+| relevantExcerpt | http://data.odeuropa.eu/source/fadf64da-b2f3-5bee-941c-958d0e1d9847/fragment/2c6f183b-eeae-5492-ab25-1bb03691f876 |
+| license | Public domain |

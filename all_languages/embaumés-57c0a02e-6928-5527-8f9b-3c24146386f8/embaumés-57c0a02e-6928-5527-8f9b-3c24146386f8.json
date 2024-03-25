@@ -1,0 +1,113 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/57c0a02e-6928-5527-8f9b-3c24146386f8",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "embaumés",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/03eb4552-d17e-57a4-9711-be57acdca9d9",
+        "value": "Le cadavre , dont il était impossible de déterminer le sexe , était entièrement méconnaissable , sa figure n ' offrait qu ' une masse informe , les cheveux et les poils saisis avec une pince cédaient au moindre effort ; les organes contenus dans les cavités splanchniques se trouvaient dans un état correspondant .» Le cadavre embaumé par M .Sucquet se trouvait , au contraire , dans un état complet de conservation extérieure et profond ; puis , abandonné à l ' air libre , il se dessécha sans la moindre putréfaction et acquit une dureté comparable à celle du bois ou de la pierre .",
+        "words": [
+          "embaumé",
+          "cadavre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/41b70a7a-53b2-57db-b5f6-a762864df893",
+        "value": "Il suffit d ' en consigner en quelques mots les résultats .A MARSEILLE , trois cadavres ont été embaumés , à savoir : un à l ' Hôtel - Dieu , le 12 décembre 1862 .Femme de 55 ans , morte depuis deux jours , présentant un commencement de putréfaction ; le corps est resté dans son cercueil à la Morgue .",
+        "words": [
+          "embaumés",
+          "cadavres",
+          "Hôtel - Dieu",
+          "12 décembre 1862",
+          "A MARSEILLE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/4ead05d0-faa2-5370-8021-9b9d5d90c5c7",
+        "value": "» Le cadavre embaumé par M .Gannal exhalait une odeur de putréfaction suffocante , la peau complétement désorganisée présentait de nombreuses solutions de continuité , le linceul était en lambeaux et les fragments noircis par la matière animale putréfiée semblaient faire corps en beaucoup de points avec elle .Une couche de putrilage , en certains points de plusieurs millimètres d ' épaisseur , tapissait le fond du cercueil .",
+        "words": [
+          "odeur",
+          "suffocante",
+          "putréfaction",
+          "Gannal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/7ee76713-278f-534b-8544-7de70b574a7d",
+        "value": "Sucquet ; les cercueils soigneusement cachetés , puis inhumés en une profondeur de 70 centimètres dans les jardins de l ' école pratique ; l ' exhumation en eut lieu au bout d ' un an et deux mois , et les résultats suivants furent constatés .» Le cadavre embaumé par M .Gannal exhalait une odeur de putréfaction suffocante , la peau complétement désorganisée présentait de nombreuses solutions de continuité , le linceul était en lambeaux et les fragments noircis par la matière animale putréfiée semblaient faire corps en beaucoup de points avec elle .",
+        "words": [
+          "embaumé",
+          "cadavre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/aa1ebfae-bc5a-5d25-8d1a-d84393dbdc08",
+        "value": "Un mois après , deux autres cadavres , dont un d ' adulte et l ' autre d ' un enfant , ont été soumis à la même opération .Après soixante - dix purs , les cercueils ouverts nous ont offert les cadavres dans un état parfait de conservation ; ils n ' exhalaient aucune odeur , leur peau était brunâtre , couleur qui paraît due à l ' application immédiate de la poudre conservatrice , puisque le jeune sujet , dont la face avait été recouverte d ' un linge , avait cette coloration moins foncée .Il résulte de notre examen , que le nouveau procédé d ' embaumement , importé par M .",
+        "words": [
+          "odeur",
+          "ils",
+          "cadavres",
+          "leur peau",
+          "Après soixante - dix purs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/b567aeb3-9b64-51a2-9623-b388106b2592",
+        "value": "Ne pouvant conserver la vie , on a voulu du moins , par la conservation des éléments matériels et des formes extérieures du corps qu ' elle anima , donner à perpétuité à la mort l ' apparence d ' un paisible sommeil .De là la pratique si ancienne et si universelle qu ' on appelle encore l ' Embaumement , bien que l ' emploi des aromates , des résines , des Baumes , qui motivait ce nom , soit depuis longtemps abandonné .La décomposition des matières animales n ' a lieu que par la fermeniation des liquides qui les imbibent .",
+        "words": [
+          "résines",
+          "aromates",
+          "Baumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/d6a4c86e-d9ab-5818-b3a6-c62864116018",
+        "value": "EMBAUMEMENT KffÔCÉDÉ AUDIGIER EMBAUMEMENT PROCÉDÉ AUDIGIER Paris , Rue des Beaux - Arts , Il C ' est la loi de la nature que tout corps organisé dont la vie s ' est retirée se décompose et se dissolve .A peine refroidi , la fermentation putride commence son travail destructeur , et dans un temps ■ assez court , surtout si l ' action des agents extérieurs , l ' air , l ' eau , la chaleur , s ' exerce librement , le cadavre ne présente plus qu ' un emas informe de matières méconnaissables , dévorées par les vers , exhalant des miasmes infects .Un sentiment insurmontable de dégoût , d ' horreur et d ' effroi , corroboré chez divers peuples par des croyances religieuses , a de tout temps inspiré aux hommes le désir de préserver leurs restes de cette corruption .",
+        "words": [
+          "miasmes",
+          "putride",
+          "infects"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/f7b28a74-7dc2-5413-b313-3b6446e83d69",
+        "label": "Audigier"
+      }
+    ],
+    "label": "Embaumement, procédé Audigier",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9618878r",
+    "date": "1865",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/23",
+      "label": "Cadaver"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/fabad9b0-8df6-5138-ae23-3acc7b1448c9",
+      "label": "1862-12-12",
+      "begin": "1862-12-12",
+      "end": "1862-12-12"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/2995469/",
+      "label": "Marseille"
+    },
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/4a0262f2-b24b-501d-a6cb-6a7c61b67e97/fragment/41b70a7a-53b2-57db-b5f6-a762864df893",
+  "license": "Public domain"
+}

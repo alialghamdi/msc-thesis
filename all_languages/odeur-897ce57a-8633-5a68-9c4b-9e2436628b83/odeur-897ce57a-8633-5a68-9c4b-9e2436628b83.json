@@ -1,0 +1,644 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/897ce57a-8633-5a68-9c4b-9e2436628b83",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/0321bcc4-f9a2-59ea-9972-5f794039d355",
+        "value": "Du choix , de la torréfaction & du prix de la graine de Caffé .L E choix de la graine de Caffé ne consiste qu ' en deux circonstances j l ' une qu ' elle foit nette , c ' est - à - dire sans addition d ' aucune espéces de corps étrangers ; ce que la vue decouvre aisement ; l ' autre qu ' elle foit autant nouvelle qu ' il est possibles , de quoy on fera suffisamment assuré , si elle est bien entière si elle a un œil grisâtre & si elle est bien odorante , car lors qu ' elle est surannée , elle assez ordinairement quelques grains vermoulus , & d ' aillieurs elle est toûjours ou trop brune ou trop blanche , & ne fent presque rien .On avoit crû jusques icy que la blancheur de cette graine étoit une marque certaine de sa bonté , mais comme il m ' étoit arrivé plusieurs fois d ' en trouver de cette forte qui n ' avoit pas la moindre odeur , & & dont la teinture etoit presque insipide , je m ' avisay d ' en - ager un demes amis qui étoit a Marseille , de m ' en envoyer de tout frais debarqué & Ue la meilleur sorte , ne pouvant pas douter que celuy là ne fût de beaucoup plus reçent que celuy que nos droguistes tirent de Holande par Roüen , par cette raison que le premier est transporté en trespeu de temps , de l ' Arabie au grand Caire & du Caire à Mar - seille par la Mediteranée , au lieu que l ' autre est le plus ; souvent un année entiere sur la grande , Mer & beaucoup plus de temps encore dans les magasins des Hollandois , pendant quoy 1 tattion de l ' air peut bien enlever sa couleur grisâtre , que j ' ay toujours trouvée à celuy que j ' ay fait venir de Marseille , & auquel j ' ay trouvé moins de blancheur , mais beaucoup plus d ' odeurplus de goût & plus d ' efficacité , que dans celuy que je tirois auparavant de Roüen ; d ' où il en vient néanmoins encore une autre mechante espéce qui est d ' un gris assés brun , & qui n ' a acquis cette couleur , que pour avoir été exposée pendant plusieurs années , à toutes les ordures & à toute la vermine d ' un Magasin .",
+        "words": [
+          "odorante",
+          "elle",
+          "graine de Caffé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/0b2e2522-9f1d-5827-b79a-a216c9be7945",
+        "value": "Au surplus lorsqu ' il ne s agit que du plaisir , on peut faire choix du parfum qu ' on ayme le mieux , la pastille mê - me , & les autres parfums foli - des pouvant à cet effet être dissous dans de l ' esprit devin , ou dans telle autre liqueur que l ' on veut j mais sans cela on a assez d ' autres liqueurs odoriferantes , par exemple l ' eau - rose commune , l ' eau de roses muscades , l ' eau de mille fleurs , l ' eau de fleurs d ' oranges , l ' eau de Cordouë > l ' eau d ' Ange , & c .qui donnent un parfum tres agreable , aussi bien que le lait virginal de Benjoin , & la liqueur qui se trouve dans ces especes de pots pourris , qui font composés avec les fleurs les plus odoriserantes .Outre ces liqueurs , le lait virginal d ' Amarante que je fais preparer en nôtre Laboratoire , est d ' une odeur tres suave & tres salubre , a yant la propriete de fortifier le cerveau & le cœur , & de resister puissamment à toutes especes de mauvais air ; c ' est pourquoy il doit être prefere à toute autre liqueur odoriferante , lors qu ' en temps de peste , de pourpre , de petite verole , de dissenterie & de toute autre espece de maladies contagieuses , il s ' agit de rectifier un air malin & veneneux , & de s ' opposer à son insinuation dans la masse du sang .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "liqueur",
+          "lait",
+          "tres agreable",
+          "odoriserantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/1524dd65-dce8-57d2-b625-7311f9cfa943",
+        "value": "Mais parce qu ' il n ' y a point d ' amers Amplement composés de corpuscules acides & terrestres , & qu ' il en est dans lesquels ou les ignées ou les liquides entrent dans une quantité considerable , il en est aussi qui font plus ou moins amers & même plus ou moins rafraîchiflans & temperans .Or la seicheresse du Thé , nous fait comprendre qu ' entre ses parties élémentaires , il n ' y a presque point de corpuscules étherés n ' y encore moins de liquides : pour ce qui est de son odeur elle nous découvre qu ' il contient en soy - des particules ignées volatiles & fpi - tueuses , mais la douceur & : la delicatesss de cette odeur , nous persuade en mêllle temps - que ces particules n ' y font que dans une médiocre quantité .Ces choses présupposées , il seroit bien facile d ' expliquer la nature particul lère du Thé & les propriétés qui en dépendent , car ayant pour parties su l ' abondantes les acides , dont le propre est de coaguler les liqueurs plus substan tielles comme le fang le lait & c .",
+        "words": [
+          "Thé",
+          "odeur",
+          "particules ignées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/153faf6b-e852-5699-b542-edc43cd72107",
+        "value": "L E choix de la graine de Caffé ne consiste qu ' en deux circonstances j l ' une qu ' elle foit nette , c ' est - à - dire sans addition d ' aucune espéces de corps étrangers ; ce que la vue decouvre aisement ; l ' autre qu ' elle foit autant nouvelle qu ' il est possibles , de quoy on fera suffisamment assuré , si elle est bien entière si elle a un œil grisâtre & si elle est bien odorante , car lors qu ' elle est surannée , elle assez ordinairement quelques grains vermoulus , & d ' aillieurs elle est toûjours ou trop brune ou trop blanche , & ne fent presque rien .On avoit crû jusques icy que la blancheur de cette graine étoit une marque certaine de sa bonté , mais comme il m ' étoit arrivé plusieurs fois d ' en trouver de cette forte qui n ' avoit pas la moindre odeur , & & dont la teinture etoit presque insipide , je m ' avisay d ' en - ager un demes amis qui étoit a Marseille , de m ' en envoyer de tout frais debarqué & Ue la meilleur sorte , ne pouvant pas douter que celuy là ne fût de beaucoup plus reçent que celuy que nos droguistes tirent de Holande par Roüen , par cette raison que le premier est transporté en trespeu de temps , de l ' Arabie au grand Caire & du Caire à Mar - seille par la Mediteranée , au lieu que l ' autre est le plus ; souvent un année entiere sur la grande , Mer & beaucoup plus de temps encore dans les magasins des Hollandois , pendant quoy 1 tattion de l ' air peut bien enlever sa couleur grisâtre , que j ' ay toujours trouvée à celuy que j ' ay fait venir de Marseille , & auquel j ' ay trouvé moins de blancheur , mais beaucoup plus d ' odeurplus de goût & plus d ' efficacité , que dans celuy que je tirois auparavant de Roüen ; d ' où il en vient néanmoins encore une autre mechante espéce qui est d ' un gris assés brun , & qui n ' a acquis cette couleur , que pour avoir été exposée pendant plusieurs années , à toutes les ordures & à toute la vermine d ' un Magasin .Quant - a - ce qui regarde le prix de cette graine , il y a quelque temps qu ' elle se ne - gocioit en gros sur le pied de E Itiarante j u u \" a soixante li - vres le cent , mais depuis cinq ou six mois , elle a monte jusqu ' à quatre vingt , & celle de la bonne sorte le vend dans le détail vingt quatre & vingt cinq fols la livre , ce qui fait que les trompeurs font obligés de l ' augmenter par l ' addition des poix pour y trouver leur compte 5 car la preparation de la poudre de Caffé est maintenant si generalement connue , que tous ceux qui en usent habituellement se feroient donné la peine de le préparer , si les Marchands n ' eussent réduit son prix à quarante sols , sur lequel ils ne feroient presque aucun profit , s ' ils employoient du Caffé pur à vingt - quatre fols la livre , trois liv .",
+        "words": [
+          "Mer",
+          "Marseille",
+          "odeur",
+          "graine",
+          "plusieurs",
+          "Arabie",
+          "je m",
+          "Mar",
+          "Caire",
+          "seille",
+          "pas la moindre",
+          "grand Caire",
+          "jusques icy",
+          "un année"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/1557c19f-681c-51cd-b81b-3e2db634f085",
+        "value": "Elle est pourprée au dedans ôc verdâtre au dehors .Son odeur est plaisante .Elle vient sur un àrbrisseau que les Américains appellent Xuchimacutzli y ou Huchmllcut { li .",
+        "words": [
+          "plaisante",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/18e4d7d6-a2c6-567e-849e-7ab80d817ee3",
+        "value": "On peut bien juger que pour substituer les Vanilles , ils augmehtent considera blement la dose de la Canelle , dont la quantité excedante doit necessairement produire de méchans effets , mais tout cela ne seroit rien , s ' ils ne portoient leur sophistication & leurs tromperie jusqu ' à cet excez , de preferer le plus petit Cacao , Se d ' en augmen - ter la quantité ar de vielles amandes , ou meme d ' ajouter à leur confection , une con - siderable quantité de la pâte des Faiseur de pains d ' Espices , ce qui fait un falmigondys d ' autant plus malfaisant , que la poitrine & le ventre font tout ensemble irritez & trou - blez par l ' avion de la Canelle , des épiceries & du miel de cette pâte , ce qui est toû jours * suivy de diverses indispostions , qui ne tirent que trop souvent à de dangereuses consequences .Y ij C ' est pourquoy lors qu ' il s ' agit de choisir du Chocolat , il faut bien s ' appliquer à distinguer par l ' odorat & par le goût , l ' odeur & la faveur des véritables & des faux ingrediens , connoissance que je ne saurois commu - ce que je ne saurais communiquer , & qu ' on ne peut acquérir que par une espéce d ' habitude .Mais il est bien plus facile de connoistre le Chocolat qui est trop vieux fait , ou qui a été mal - conservé , puis qu ' il a ordinairement une espéce de moisissure à sa superficie , & qu ' en le flairant on découvre une odeur qui tient .",
+        "words": [
+          "Chocolat",
+          "odeur",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/190b5dbe-5bb8-53a3-a9e7-36b89f1c1661",
+        "value": "ses le nom de Vanilles , à cause que Fanilla en leur Langue signifie petite gaine ; & en effet si elles sont considerablement longues , elles font aussi fort étroites .Elles renferment une forte de l ez avec grains tres menus , mêlez avec une espece de Pulpe noirâtre balsamique & : tres odorante , ce qui fait qu ' elles rendent le Chocolat très savoureux , & qu ' elles luy communiquent des proprietez admirables contre la pluspart des mala - dies de la poitrine , & contre les venefices & poisons ; c ' est pourquoy on dit ordinaire - ment que la poudre de Va - nille est l ' ame du Chocolat , & en effet celuy qui est pré - paré par les trom peurs sans Vanilles , est à mon sens une assez méchante Boisson .Monsieur Ouel qui a beaucoup de terres & deffets dans les Isles , où l ' on fait un grand usage du Chocolat , a seeu par le rapport de quelques Espagnols Mexicains , que les Vanilles vertes ne sentent rien , & qu ' elles ne deviennent odo rantes que par une préparation secretteA l ' égard du Poivre de Mexique , c ' est le Poivre de Tabasco , que les Espagnols nomment Chilli , & que nous appelions Poivre d ' Inde , ou Poivre rouge , parce qu ' en effet ses goulies qui font ron - des vers la queuë & pointues à l ' autre extremité , sont d ' un assez beau rouge .",
+        "words": [
+          "odorante",
+          "Pulpe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/1d2d8c2f-de62-5e73-92d5-6a85b10999d1",
+        "value": "rences qui se trouvent dans le Thémême , que .nos negocians tirent du Japon & de la Chine , car celui que les Japonnois cul - t - vent & qu ' ils nomment chœ ou tcha ou encore tcha est d ' un verd clair & jaunâtre , & d ' une odeur si douce qu ' elle tire en quelque forte à celle de la violette , ce qui fait que ceux même d ' entre eux qui le négocient avec les Chinois , le nomment asses ordinaire - mens fleurs de cha ou tcha im , perial ; c ' est sans doute par cette raison & à cause de sa cherté excessive , que Monsieur Tavernier a pensé , que cette espéce de Thé étoit vé - ritablement de pures fleurs déseichées , mais c ' est un fait sur lequel je me fuis éclairci étant à Londres , avec plusieurs Marchands Hollandois qui pratiquent le commerce du Thé , & qui ont fait plusieurs fois le voyage des Indes Orientales , ayant appris d ' eux que les Chinois & les Japonnois font tant d ' état de nôtre saulge , & des autres denrées qui leurs viennent de l ' Europe , que pour les avoir par échange , il presentent toûjours à nos Marchands tous ce qu ' ils ont de plus exquis , & que cepen - dant il ne leurs ont jamais prc - fenté de ces prétendue fleurs de Thé .Ce n ' est pas que l ' arbrisseau qui produit les feuilles de Thé , ne produise aussi une forte de fleur jaunâtre , & ; à ce qu ' on croit semblable à celle du fumach , mais il est certain que cette fleur n ' a jamais été negotiée , & il est probable d ' ailleurs qu ' elle ne rendroit pas une teinture verte , ou que du moins le verd de cette teinture , seroit plus clair & : plus jaunâtre que celuy de la teinture que donne le Thé de la Chine , ce qui s ' accorderoit encore mains avec les sentimens de Monsieur Tavernier , qui nous a voulu faire entendre que la fleur de cha , donnoit plus de verd a sa teinture que le Thé dont on use à la Chine .",
+        "words": [
+          "douce",
+          "forte",
+          "odeur",
+          "violette",
+          "fleurs de Thé",
+          "nos negocians"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/23592a0d-a1de-5f4e-9eb4-12615a4e65c8",
+        "value": "Les Cassolettes Royales à Lampe & à Girandolles , fer .vant à parfumer & à des - infecter les Chambres pour le plaisir & pour la santé , tres commodement & à tres peu de frais , sans aucune aparence de fumée , la vapeur qui s ' en exhale étant imperceptible .Le Lait Virginal d ' Ama - rante , qui fortifie le Cœur ≤ Cerveau , & qui resiste à l ' air infecté qui cause la peste , la petite verolle , la dissenterie & les autres maladies populaires & : contagieuses , en la recevant en vapeur par la respiration , au moyen des Cassolettes Royales .",
+        "words": [
+          "parfumer",
+          "infecter",
+          "Chambres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/278f4856-9b51-5080-ba21-1f720300258d",
+        "value": "uy semblera par rapport a son goût , qui seul doit être caniulté » lors qu ' il s ' agit du çhol ) f & des doses des parfums & des Aromatiques > qu ' on veut faire entrer dans la composition du Chocolat ) ayant tous a peu prés les mêmes propriétés .Je ne fçaurosis être nean * moins du sentiment d ' un Comte Espagnol , qui veut que pour faire du boa Chocolat , on doive entièrement supprimer la Vanille , & augmenter les doses de l ' Ambre & du Musc ; car quand il seroit vray comme il nous l ' affilrc ) q uc la Vanille seroit méprisée dans la nouvelle Espagne , pour être nommée le parfum des pau vres , ce mépris ne viendroit a mon sens , que de ce qu ' elle y feroit trop commune , & cela ne m ' empêcheroit pas de la nommer icy le parfum des Ri - ches , parce qu ' elle y est fort chere , & qu ' elle a d ' ailleurs desqualitez qu ' on ne sçauroit trop estimer ..",
+        "words": [
+          "Vanille",
+          "Espagne",
+          "parfum",
+          "vres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/2b859204-f350-5d0d-8f71-8953d5939269",
+        "value": "t L ' Eau Ophtalmique , rOnguent oculaire , la Tutie pre - parée , & divers autres reme - des cotre les maladies des yeux .L ' Opiate Antivenerien , les Bougies , l ' Injection amortissante , l ' Onguent Cicatrisatif , & generalement les plus promts , les plus faciles & les plus assurez Specifiques contre les Ma - ladies Veneriennes .L ' Huile de Palmes , & l ' Em - plastre contre les douleurs des Rhumatismes & de la Goutte .",
+        "words": [
+          "Onguent",
+          "Bougies",
+          "Opiate",
+          "Cicatrisatif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/2d98584f-eabb-5769-8948-6beadf60a1a9",
+        "value": "Il en est de même des Gero - .Res , qui font les fruits , ou fe * Ion quelques - uns les fleurs d ' un Arbre qui croît aux Is - les des Moluques ; mais ils ont cela de plus que la canelle , qu ' ils abondent en une huile tres odorante & tres spiritueuse , qui se détachent très facilement de leurs parties terrestres , & qui donne une vertu cordiale & balsamique à toutes les compositions on - ils entrent .Au surplus , ils font trop connus dans le domestique , pour qu ' il soit necessaire d ' en parler icy plus particulièrement , mais je ne dois pas obmettre , de raporter le Formulaire qu ' on suivit dans la nouvelle Espagne , après que ces drogues y eurent été négociées .",
+        "words": [
+          "huile",
+          "odorante",
+          "fleurs",
+          "balsamique",
+          "spiritueuse",
+          "Moluques",
+          "cordiale",
+          "Is"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/2ede1c4f-a2f9-560b-ada3-e7de36d74e1a",
+        "value": "C ' est encore par cette rai - son , qu ' on trouve tant de différences dans la grandeur , & dans la consistance des feuil - les d ' une même forte de Thé , mais il est vray neanmoins que souvent les trompeurs ont grand part a cette ditterence , en ajoûtant au vray Thé les feüilles dentelées de plusieurs de nos plantes ; en quoy il paroît qu ' on ne sçauroit prendre trop de précaution lors qu ' il s ' agit de choisir le Thé Cependant il est à re - marquer que cette précaution ne doit pas toûjours s ' éten - dre , jusques à refuser les parcelles menues du bon Thé ; car il est assés ordinaire , que les plus delicates feuilles du Thé se brisent de la forte , lors 7 qu ' il est remué par ceux qui le chargent .On doit encore observer que souvent le plus excellent Thé , c ' est à dire celuy même qu ' on nomme fleurs de cha dégénéré en Thé commun , pour avoir été trop long - temps gardé ou mal confervé , car dans cet état , encore que ses feuilles ayent confervé leur propre forme ; son goût , son odeur & ses vertus se trouvent aneantiës , par la dissipation de ses parties subtiles & spiritueuses .CHAPITRE III .",
+        "words": [
+          "odeur",
+          "ses",
+          "fleurs de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/2fef8bd7-1e47-5c96-b2f1-492ae0b0a3c2",
+        "value": "A L ' égard de la graine , elle a tant de solidité qu ' on ne peut n ' y l ' amollir ny la cuire , foit en la faisant tremper , foit en la faisant boüillir dans l ' eau ; c ' est pourquoy s ' il étoit possible de tirer de tou - te sa substance une espéce d ' aliment , il seroit beaucoup plus pesant & plus indigeste que les differends ragoûts qu ' on fait avec nos fevés .J ' ay observé neanmoins qu ' elle n ' est qu ' à peine un jour ou deux dans l ' eau froide , sans jetter une espéce de germe , & sans rendre une teinture verdâtre ; ce qui destruit l ' opinion de ceux qui pretendent que les Arabes la passent sur le feu avant que de la negocier , à dessein d ' en détruire le germe , & d ' empêcher par cette precaution , qu ' elle ne foit cultivée dans d ' autres pays ; adjoustez que cette observation est soutenuë de l ' experience ; car Monsieur d ' Errerc qui fait icy un fort grand * commerce de Caffé , assure qu ' un Gentilhomme de ses amis , en a femé & en cultive avec succez pres de Dijon depuis plusieurs années , qui vient dans la même forme que celuy d ' Ara - bie dont il n ' est differend que par l ' odeur , qui n ' est pas à beaucoup pas si forte ny si agreable .CHAPITRE II .",
+        "words": [
+          "agreable",
+          "odeur",
+          "si forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/3c22ae3a-4fc1-5f42-883b-ff572e3f3ec3",
+        "value": "On peut aussi dans un même lieu en mettre deux ou tel autre nombre que l ' on veut , selon qu ' il doit être plus 3 ou moins parsumé , quoy qu ' un seul soit suffisant , pour ôter toute la mauvaise odeur d ' une grande cham bre , & pour la remplir du parfum dont on a fait choix .Il est à remarquer , qu ' en emplissant feulement les deux tiers du ' globule de quelque liqueur odoriserante que ce soit , elle ne se trouve qu ' à peine dissipée en l ' espace d ' une heure , pendant lequel il ne ' s ' use qu ' à peine pour trois de - niers d ' esprit de vin , si bien que la liqueur odoriferanre ne pouvant valoir qu ' à peu prés autant , il arrive que pendant tout le temps qu ' une Dame peut être à sa toilette , sa chambre est tres - agreable - ment parfumée , feulement en faisant au plus un sol de depense .Ce qu ' il y a en cela de commode , eil qu ' on n ' a pas la sujettion d ' observer la consommation de la liqueur , pour se mettre en peine d ' éteindre la Lampe lors que la globule pa - roit vuide , car bien qu ' il foit tres mince , j ' ay trouvé le moyen de le rendre propre à reiîffcer au feu sans contenir aucune liqueur , pendant tout le temps que l ' on veut .",
+        "words": [
+          "parfumée",
+          "liqueur",
+          "chambre",
+          "odoriserante",
+          "globule",
+          "odoriferanre",
+          "tres - agreable - ment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/3c40c358-7c38-5db9-8786-6d61e6eda96c",
+        "value": "Cependant comme le sirop dont il s ' agit est déja fort renommé , & : que nosartiftes en font une ample distribution , je ne fçau - rois m - e dispenser de décrire icv ) en quoy consille le bon usage qu ' on en doit faire .Pour cela je dois première - ment faire observer , que la baze de ce sirop peut être incorporée dans la conferve de î Thé , dans le sirop de Cassé , ou dans la pâte de Chocolat * sans rien perdre de sa vertu ) 2 que dans le vin & dans toutes autres fortes de liqueurs fermentées elle n ' a pas une efficacité suffisante , 3 qu ' il n ' y a aucuns fels n ' y fixe ny eiTen - tiels plus stomachiques , plus temperans , & plus difTolvans que ceux qu ' on tire a la fois du Thé , du Cassé , 6c du Cacao .Le premier usage que je fis de ces sels essentiels & fixes , fut de les ajoûter à un opiate cordial , que je donnois dans les maladies qui dépendent de la dépravation du sang mais je ne fûs pas long - temps sans m ' appercevoir , qu ' ils avoient rendu cet opiate en quelque forte Fébrifuge .",
+        "words": "stomachiques"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/41e91db4-a041-599a-a7d1-0466cea59ab6",
+        "value": "D la rcfjrïihïti ' oïï du Formulaire des Indien touchant la compofitirÚ ¡ du Chocolat .L Es Espagnols ayant pris racine dans les Indes , & avant pourvu au necessaire & à l ' utile , ils semirent en devoir de rechercher le voluptueux , ce qui leur fit découvrir qu ' une certaine plante de la nouvelle Espagne , produisoit une gousse fort aromatique qu ' ils destinerent à la confection du Chocolat à laquelle elle ajouta en effet beaucoup d ' agrément , ce qui leur donna lieu d ' en supprimer les ingrediens dont il a esté parlé dans le chapitre precedent , si bien qu ' ils ne composerent plus leur Chocolat qu ' avec cette gousse , le Sucre & le Cacao y ajoutant feulement un peu de Poivre d ' Inde .• La Plante dont dont je veux parler , étoit nommée par les Ind iens Tlixochitl , & ses goussès Mecafulhil .",
+        "words": [
+          "Espagne",
+          "aromatique",
+          "plante",
+          "Indes",
+          "Poivre d ' Inde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/47c64953-ef30-5312-8a0b-594374982c75",
+        "value": "Il faut encore remarquer que le sucre & le Cacao doi - vent être parfaitement incorporés ensembles , avant que d ' y ajouter les parfums & les Aromatiques , qui ne pourvoient être long - temps agitez sur la pierre chaude , sans perdre beaucoup de leurs parties odorantes & savoureuses , ce qui se fait plus ou moins facilement , felon que ces parties font plus ou moins delicates & subtiles 5 c ' est pourquoy l ' ambre & le musc doivent être pulverisés à part , afin de n ' être ajoûtez à la maire , qu ' après y avoir fait entrer la Vanille , la Canelle , & tous les autres aromatiques , qu ' il , efi : bon de pul veriser ensembles , par cette raison que ceux qui font fort secs , facilitent la division de ceux qui ont de l ' humidité comme la Vanille , ou de l ' huille , com - me les Gerofles , ce qui ne suffiroit pas neanmoins pour les disposer à passer par le tamis de soye ( comme on le doit faire ) si on n ' ad joûtoit au tout quelques morceaux de sucre à diverses reprises , ce qu ' on doit encore observer en pulverisant le musc & l ' ambre , quoyqueces parfums ne doivent pas être tamisés pour n ' en pas perdre beaucoup de parties .Il est a remarquer que le Chocolat , où l ' on fait entrer l ' ambre & : le musc , est ordi - nairement insupportable aux personnes qui font sujettes aux vapeurs , mais qu ' aussi sans ces parfums , on peut faire une forte de Chocolat fort agréable , feulement en augman - tant le nombre des Vanilles , sur lesquelles on doit avoir d ' autant moins de ménage - ment , qu ' elles contribuent beaucoup aux propriétés du Chocolat dégraissé , c ' est ainsi .que nos artistes ont nommé celuy dont je viens d ' enses gner la préparation , & au quel on peut donner indifferemment la forme de tablettes , celle de rouleaux , ou celle de M asses .",
+        "words": [
+          "parfums",
+          "musc",
+          "insupportable",
+          "fort agréable",
+          "ambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/49575900-9f01-56bb-b2dd-7fb610d090f5",
+        "value": "L ' eau rouge de la Reine d ' Hongrie arrêtera très foulent les fièvres intermittanes .L ' eau styptique fera d ' un grand effet contre les hémor - ragies du nez , contre les expectorations sanglantes , 8c .contre les perces de fang de la matrice .",
+        "words": [
+          "expectorations",
+          "eau styptique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/4e69d721-9cca-5873-946c-fbac69b51175",
+        "value": "Mais quoy que ce qu ' on nomme fleurs de cha , ne foit véritablement que la feuille du plus fin Thé du Japon , il est certain que sa teinture est infiniment plus agreable que celle du meilleur Thé de la Chine , & qu ' aussi il le vend comme dit Monsîeur Tavernier à un si haut prix dans le pays même , qu ' il y a lieu de croire que nos Marchands ne s ' en chargeroient pas , s ' ils êtoient obligés de l ' achepter au comptant ; mais il en : cer - tain que par leurs échanges ils en ont du plus excellent qui leur coûte aisés peu , pour le donner icy a beaucoup meil - 1 leur marché que les Mar - chands mêmes du Japon , & : pour faire néanmoins un gain tres - connderable dans ce commerce .Pour revenir maintenant à la distinction que je veux établir , je dois faire remarquer que le Thé de la Chine a ses feüilles plus grandes , d ' un verd plus brun , & d ' une odeur beaucoup moins agréa - ble que le cha du Japon , aussi la teinture de ce Thé est - elle plus verte & beaucoup moins plaisante , en forte même que l ' infusion du plus commun , a ¡ ; un goût qui approche en quelque forte de celle du sené .A tout prendre , il y a néan - moins aJIes de rapport entre * l ' arbrisseau qui produit le cha du Japon , & : celuy qui fournit le Thé de la Chine , pour s ' en faire une idée suffisante par l ' inspection de la figure qui est à la page qui fuit .",
+        "words": [
+          "Thé",
+          "odeur",
+          "sené",
+          "cha",
+          "beaucoup moins agréa - ble",
+          "ce Thé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/5077a05f-9572-5889-91bf-ccbbbf55e419",
+        "value": "Au surplus cette prépara - tion du Cacao dont je traiteray cy après plus particuliè - rement , ell ce qui a porté nos Artistes à donner à leur Chocolat le surnom de degraissé , que les connoisseurs ont trouvé preferable à toutes autres fortes de Chocolat , par cette raison - qu ' avec un Estomach tres soible , on en peut faire un grand usage , sans craindre d ' en ressentir aucune incom - modité , ce qui est journellement experimenté , par les personnes mêmes qui sont atteintes de toutes ces espéces de maladies qu ' on rapporte à Fin digestion .Si on veut ajouter à ces experiences une forte de raisonnement , on peut dire qu ' aprés cette correction , on est certain que le Chocolat ne peut être qu ' un très bon aliment ; car si d ' un côté il reste quelque chose dans le Cacao de la qualité froide & affoiblissante , elle est résinée dans la composition de la masse , par l ' addition des parfums & des aromatiques qu ' on y fait entrer & dont il fera parlé cy après .C ' est pourquoy bien que le sçavant Monsieur Bachot n ' aye avancé que par forme de problême , dans la fameuse Thése qui fut soûtenuë fous sa présidence le 1 5 Mars 1684 .",
+        "words": [
+          "parfums",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/529c6f1f-460d-52c6-b4b3-383fc61ac7f1",
+        "value": "sucre .Quelques Auteurs comparent cette feüille ' à celle du Sumach dont ils veulent que ce soit une espéce mais comme on sçait que la plante qui la produit n ' est qu ' un arbrisseau , quelques autres l ' ont coparée avec plus de raison au Piment - Royal , qu ' on nomme en latin chamœleagnus où Myrtus Brabantica , ; puisque les fleurs de cét arbrisseau font dentelées , amêres , & odorantes comme celles du Thé , je ne voudrois pas dire néanmoins que c ' en foit une espéce , mais , je ne voudrois pas aussi conclure avec Monsieur du Four , qu ' il doit être necessairement d ' une nature différente , par cette feule raison qu ' on le fait entrer dans la bière qui enyvre , & qu ' au contraire une des propriétés plus essentielles du Thé est de des - enyvrer ; car pour détruire l ' objection de Monsieur du Four , c ' est assés de dire qu ' étant en Angleterre , j ' a y pris plaisir a faire faire de la Bière feulement avec del ' Orge & c du Thé , qui étoit à la vérité infiniment plus agréa - bles que celle qu ' on prépare en Flandres avec le piment Royal , mais qui avec cette delicatesse de goût , ne laissoit pas d ' eny - vrer plus puissamment .En effet si Monsieur du Four eût propose cet objection à des Phisiciens avant que de la publier , il auroit apris qu ' elle peut d ' autant moins subsister , qu ' entre une simple infusion & une liqueur fermentée , il y a cette différence , que l ' infusion retient toujours les qualités , des ingrediens qui luy fervent de matiere , & qu ' au contraire , une liqueur ne sçauroit soûten ir la fermentation , sans devenir différente de ce qu ' elle étoit auparavant ; mais après tout , ces comparaisons de plantes me paroissent d ' autant plus inutiles , qu ' entre certaines espéces de nos plantes que nous raportons a un même genre , & que nous comprenons fous un même nom , il y a de notables différences dans leurs proprietez ; tellement que quand il seroit vray que nous aurions ici une forte de Thé , il feroit d ' autant plus différent de celuy qu ' on nous apporte des Indes qu ' outre la difference qui se trouveroit dans les espéces par rapport à la forme , il y auroit encore celle qui doit necessairement resulter de la diversité des climats : c ' est pourquoy je ne m ' arresteray pas à rapporter icy , ce qui a fait croire à quelques Auteurs qu ' on pouvoit encore prendre pour des espéces de ; Thé , la Betoine & quelqu ' autres plantes qui ont les feuilles dentelées , leurs reflexions n ' étant a mon sens d ' aucune consideration .",
+        "words": [
+          "Piment",
+          "Thé",
+          "fleurs",
+          "celles",
+          "odorantes",
+          "arbrisseau",
+          "Flandres",
+          "amêres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/592e9951-e6a4-5ad9-9b05-dfb609d6e1d4",
+        "value": "Du choix , de la conservation , & du prix de la poudre , ou farine de Caffe .L Es regles que j ' ay données dans le chapitre pre - cedent , pour le choix de la graine du Caffé , font plus que suffisantes pour ceux qui ne veuillent point être trompés à cét égard ; mais il n ' est pas à beaucoup prés si facile , de les mettre en état de precaution , contre les surprises de ceux qui vendent la poudre sophistiquée en la maniere qui a été ditte ; puisqu ' on ne peut principalement distinguer cette poudre , de celle qui a été fidellement preparée , que par une odeur particuliere , sur laquelle il m ' est impossible de m ' expliquer clairement , & sur laquelle il ny a que la delicatesse de l ' odorat & une longue experience , qui puissent établir une connoissance certaine ; ainsi tout ce que je puis dire à cet égard , est que si on la trouve fort odorante , & qu ' on puisse reconnoître par sa couleur , si la graine n ' a été trop , n ' y pas assés rotie , on pourra croire qu ' elle est du moins payable ; mais le meil * leur seroit de n ' en prendre que de gens dont on soit aiIilrés , ou du moins de la préparer foy même .Pour y procéder avec toute la précaution possible , il ne faut pas a l ' exemple ae quel - ques gens , la piler simplement dans un mortier , & la passer dans un tamis decouvert , car de cette façon , on ne conserve pas bien ses parties volatiles ; c ' est pourquoy il est beaucoup mieux de la broyer dans ces fortes de Moulinets qu ' on fabrique expres , & qu ' on trouve chez les Quincalleurs , encore faut il qu ' a - prés avoir mis la graine de Caffé dans un de ces moulinets , on recouvre son embouchure , avec un couvercle de tolle de fer ou au moins de fer blanc , ayant des bords comme le couvercle d ' une boëte , & ayant un trou dans son milieu feulement aÍfés .",
+        "words": [
+          "fort",
+          "odorante",
+          "odeur",
+          "la",
+          "poudre",
+          "odorat",
+          "particuliere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/5f0b1069-a7cc-586c-b7ed-ef5bba397c4d",
+        "value": "Enfin ils auroient achevé de se convaincre de la difference essentielle , qui se trouve entre les graisses chaudes & les graisses mufilagineuses , par la difficulté qu ' il y a d ' incorporer les unes , & la facilité qu ' on trouve à lier & amal - gamer les autres avec l eau & le lait j car de ce que la graisse du Chocolat s ' étend si aisément dans ces deux fortes de liqueurs , ils auroient conclud absolument qu ' elles different en nature de la pluspart des autres grailles , & que cette difference dépend de ses parties mufilagineufes , qui font comme un moyen entre deux extrêmes , & qui la rendent également analogique aux huiles , & aux simples liqueurs .Sur le fondement de ces puissantes considerations , j ' ay dû conclurre qu ' il étoit absolument necessaire pour faire un Chocolat aussi salubre qu ' agréable , de supprimer la graisse surabondante du Ca - cao , 6c j ' en ay recherche le moyen avec d ' autant plus de succés , que par cette soustraction , on ne luy ôte point la propriété de s ' amolir suffisamment , pour être incorporé avec le Sucre , & avec les autres ingrediens qui entrent dans la cornposition de cette pâte ; mais a l ' égard du Sucre j ' ay pensé que son blanchiment étoit une correction suffisante , par cette raison , que son musilage est composé de quelques parties resineuses & balsamiques , qui le rendent moins froid & moins relâchant que celuy du Cacao , ce qui fait qu ' il n ' a ny le fade ny l ' insipide de celuycy , qui dans le Chocolat commun , émousse & : envelo - pe les parties délicates des parfums & des aromatiques qui pourroient chatouiller plus agréablement le goût .Au surplus cette prépara - tion du Cacao dont je traiteray cy après plus particuliè - rement , ell ce qui a porté nos Artistes à donner à leur Chocolat le surnom de degraissé , que les connoisseurs ont trouvé preferable à toutes autres fortes de Chocolat , par cette raison - qu ' avec un Estomach tres soible , on en peut faire un grand usage , sans craindre d ' en ressentir aucune incom - modité , ce qui est journellement experimenté , par les personnes mêmes qui sont atteintes de toutes ces espéces de maladies qu ' on rapporte à Fin digestion .",
+        "words": [
+          "parfums",
+          "aromatiques",
+          "insipide",
+          "parties",
+          "chatouiller plus agréablement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/61d26226-b558-5b72-8739-7ac3cc468aa0",
+        "value": "La petitesse de ce globule n ' empêche pas qu ' il ne contienne une quantité considerable de liqueur à eause de sa forme ronde .C ' est dans sa capacité que doit être , contenuë la liqueur qu ' on , veut reduire en vapeur pour parfumer les chambres , ex il suffit pour qu ' elle y entre , qu ' on chauffe un peu le glo - bule , & qu ' on mette ensuite le bec dans la liqueur qu ' on y veut insinuër , car elle y eil : attirée naturellement par la chaleur & par le vuide ; alors ayant placé le globule sur le cercle qui est soûtenu par les deux consoles , & mis dans la lampe qui est au défions » un peu d ' esprit devint une petite mêche de coton , on allu - me cette mêche , qui sans se consommer fait une petite flamme tres agreable , au moyen de laquelle le globule étant échauffé , la liqueur boüillonne & s ' exhale par le petit tuyau , d ' où resulte une vapeur continuelle , qui elL presque imperceptible , & qui ne laisse pas de parfumer toute la chambre .On peut placer cette lampe en tel endroit de la chambre qu ' on veut , du moins si on en excepte le dessous de la cheminée , par le tuyau de laquelle la vapeur s ' exhaleroit .",
+        "words": [
+          "parfumer",
+          "liqueur",
+          "chambres",
+          "chambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/64d3c2e9-707d-5f6f-8f37-de2a94db3fc7",
+        "value": "J ' ay dit que la précau - tion de boucher la Chow colatiere pendant qu ' on mousse le Chocolat , etoit aussi inutile qu ' incommode , & j ' ay eu raison de l ' advancer > car il n ' en est pas du Chocolat comme du Thé & du Caffé , dont les parties volatiles se dissipent tres - facilement , puisque celles du Chocolat font plus embarassees dans ses par - ties grasses ., & ; qu ' il est assés probable d ' ailleurs , que la plu - part des parties odorantes qui s ' exhalent des parfums , retournent circulairement vers leurs masse comme celles de l ' Aymant ; puisqu ' il n ' y a point de parfums qui ne subsiste un temps tres - considerable , malgré la prodigieuse & continuelle dissipation de ses parties plus efficaces .Il y a encore cette observation à faire , qu ' on se sert de la masse du moul inet pour entrainer la moufle de la liqueur , à mesure qu ' on la verse dans la chique , ce qui doit engager encore à ne point embarasser son manche dans le trou du couvercle .",
+        "words": [
+          "parfums",
+          "odorantes",
+          "parties"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/66d4e5ac-51cf-5592-8328-43a1154c4cf1",
+        "value": "qui donnent un parfum tres agreable , aussi bien que le lait virginal de Benjoin , & la liqueur qui se trouve dans ces especes de pots pourris , qui font composés avec les fleurs les plus odoriserantes .Outre ces liqueurs , le lait virginal d ' Amarante que je fais preparer en nôtre Laboratoire , est d ' une odeur tres suave & tres salubre , a yant la propriete de fortifier le cerveau & le cœur , & de resister puissamment à toutes especes de mauvais air ; c ' est pourquoy il doit être prefere à toute autre liqueur odoriferante , lors qu ' en temps de peste , de pourpre , de petite verole , de dissenterie & de toute autre espece de maladies contagieuses , il s ' agit de rectifier un air malin & veneneux , & de s ' opposer à son insinuation dans la masse du sang .Il ya encore beaucoup d ' autres indispositions dans lesquelles on peut tirer un tres grand secours de ces Cassolettes , en mettant dans les globules certaines liqueurs convenables , car ces liqueurs étant receuës en fumée par la respiration , elles s ' insinuent di - rectement dans les poulmons , d ' où elles font incontinant portées au coeur , & ensuite dans les vaisseaux fan guinaires sans rien perdre de leur vertu , ce qui les rend plus efficaces que si elles avoient été prises par la bouche , puis .",
+        "words": [
+          "odeur",
+          "liqueur",
+          "odoriferante",
+          "je",
+          "lait",
+          "Amarante",
+          "tres suave",
+          "tres salubre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/67f29590-33c3-564c-9b6e-5601d1d09aca",
+        "value": "pour connoitre par une analyie exacte , la nature & les proprie - tés du Thé , du Caffe , & du Cacao , me fit trouver un nouveau moyen pour tirer les fels essentiels des plantes defseichées , ce qui me donna lieu d ' observer , que ceux qu ' on peut tirer de ces trois simples , étant reünis avec leurs autres principes , composoient un remede également facile , prompt , & affuré , pour la guerison de toutes les espéces de fiévres intermittantes j j ' en fis alors des épreuves qui eurent tout le succés qu ' on pouvoit fouhaitter , & contant de cette découverte , j ' étois prêt à la publier dans le Journal de Medecine , lors que des ad versaires jaloux , firent suspendre l ' impression de ce J ournal par un arrest surpris , qui n ' avoit pour fondement que des suppositions ; ce qui ne m ' empêcha pas de travailler au bien public , & de faire distribuer cet excellent Febrifuge , par les artistes qui tra - vaillent fous ma direction en conformité des intentions du Roy , à la recherche & verification des nouvelles décoûtes ee Medecine .Les naturalistes qui font assés experimentés pour juger des mixtes par leurs qualités iénnbles y n ' auront pas de peine à croire que le Thé & le Caffé , qui ont un goût amer âpre & astringent , ayent une vertu Febrifuge , sur tout après avoir refléchy sur ce quia été dit dans les chapitres precedens ; mais il n ' y a point de raisonnement détaché de l ' experience , qui puisse nous faire presumer cette vertu dans le Cacao ; c ' est pourquoy sans m ' engager dans des raisonnemens superstus , il se roit mieux de donner icy , la description du sirop donc ils ' agit , & d ' exhorter les artistes à le mettre à diverses épréu - ves , mais comme le plus grand mistere de sa préparation , con - fifie principalement en l ' ex - traction des tels ellentiels dont je dois remettre la publication un a autre temps , il feroit inutile de donner quant - apreient , un formule qui ne peut être executé , qu ' aprés la révé - lation d ' un secret que je me sens obligé de reserver .Cependant comme le sirop dont il s ' agit est déja fort renommé , & : que nosartiftes en font une ample distribution , je ne fçau - rois m - e dispenser de décrire icv ) en quoy consille le bon usage qu ' on en doit faire .",
+        "words": [
+          "Thé",
+          "astringent",
+          "goût",
+          "amer âpre",
+          "Caffé",
+          "Febrifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/685ecada-129f-5164-9021-22c163f16060",
+        "value": "Nous apprîmes aussi que ces mêmes Peuples com - prenoient cette conferve & cette liqueur sous le seul nom de Chocolate ou Chocolatl , par cette raison que dans leur Langue naturelle Choco signifie son , 6c atte ou atle eau , car ' lors qu ' on prépare cette liqueur , on l ' agite avec un instrument de bois d ' une ma - niere à faire du bruit , voila l ' étimologie du nom de Chocolat .î Cet aliment étoit lors aussi peu délicat que ses inven - teurs étoient peu raffinez ; mais après la conquête de la nouvelle Espagne , les Espagnols qui e trouvèrent dans * : tme espéce de necessite de s ' accoûtumer à son usage , ne manq uerent pas d ' encherir sur ce qu ' ils en avaient appris des Indiens , & de le rendre beaucoup plus agreable par la soubstraction de certaines drogues , qui sembloient n ' y être mises que pour en augmenter la quantité , & par l ' addition de divers aromatiques ou parfums qui pouvoient flatter le goût .Ce fut dans cet état qu ' ils commencerent à le negotier en Europe 6c particulierement en Espagne , où il fut bien - tôt dans une estime presque gé - nérale : cependant comme il ne se peut guére conserver au de - là de deux ans , & que les Négocians consommoient souD vent vent une bonne partie de ce temps à leurs Voyages , ils furent obligez de changer la disposition de ce commerce , & de nous apporter en subsiance , les ingrédiens qui font la base & l ' essentiel de cette composition ; ce fut alors que nous en apprîmes le myflere , & : que nos Physiciens Scolastiques se firent , fête d ' examiner le formulaire de cet ; .",
+        "words": [
+          "parfums",
+          "drogues",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/6a9ce4f7-365a-5e03-9bde-fa0b59842691",
+        "value": "Ce qu ' il y a en cela de commode , eil qu ' on n ' a pas la sujettion d ' observer la consommation de la liqueur , pour se mettre en peine d ' éteindre la Lampe lors que la globule pa - roit vuide , car bien qu ' il foit tres mince , j ' ay trouvé le moyen de le rendre propre à reiîffcer au feu sans contenir aucune liqueur , pendant tout le temps que l ' on veut .Ces parfums ont encore cela de plaisant , qu ' on en peut fai - re placer autant qu ' on veut , sur les branches des lustres de crystal , ou de toutes autres especes de Girandolles & de c handeliers à plaques , pour parfumer les salles & les cham - bres , lors des bals , des balets , ou des autres fêtes galantes , > car les lampes de ces Cassolettes font du moins un aussi agreable effet que les bou - gies y outre qu ' on peut y en mettre un tres grand nombre , sans craindre qu ' il fasse à beaucoup prés tant de fumée , que la moindre pastille mise dans une Cassolette commu - ne , ou que la moindre quantité d ' eau odoriserante mise sur une pellechaude , qui font les deux façons ordinaires de parfumer les chambres , ôcqui sot l ' une & l ' autre deffectueuses en cela , qu ' elles consomment beaucoup de matiere en peu de temps , & qu ' il en exha ' il en ex h a - le une vapeur si épaisse , qu ' il , ne se peut qu ' elle n ' apporte un grand dommage aux lits , aux tapisseries autres meubles .Au surplus lorsqu ' il ne s agit que du plaisir , on peut faire choix du parfum qu ' on ayme le mieux , la pastille mê - me , & les autres parfums foli - des pouvant à cet effet être dissous dans de l ' esprit devin , ou dans telle autre liqueur que l ' on veut j mais sans cela on a assez d ' autres liqueurs odoriferantes , par exemple l ' eau - rose commune , l ' eau de roses muscades , l ' eau de mille fleurs , l ' eau de fleurs d ' oranges , l ' eau de Cordouë > l ' eau d ' Ange , & c .",
+        "words": [
+          "Cassolette",
+          "agreable",
+          "parfumer",
+          "plaisant",
+          "Cassolettes",
+          "parfums",
+          "chambres",
+          "odoriserante",
+          "salles",
+          "cham",
+          "bres",
+          "eau odoriserante",
+          "pellechaude"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/6a9fa92a-f698-5e8f-83a0-14a712664e96",
+        "value": "Les Cristaux & l ' Esprit de Venus , ou Cuivre .Le Crocus astringent , le Crocus aperitif , la Teinture , l ' Extrait ôc le Sel deMars , Fer ou Acier .Le Sublimé doux , le Precipité blanc , le Precipité rouge , le Precipité jaune ou Turbit mineral , & l ' Huile de Mercure ou argent vif , & generalement toutes les preparations Chimiques des Metaux & Marcasites .",
+        "words": [
+          "astringent",
+          "Crocus",
+          "Sel deMars"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/7a700a6d-745b-5721-993b-f4b46699bb7b",
+        "value": "Cependant pour a joûter à la doctrine generale des amers , ce qui constituë l ' essence particuliere du Caffé , voicy ce que je dois faire remarquer .nouri Cette boisson toute simple qu ' on ne prend que comme nouriture ou par forme de ré - gal , ne laisse pas d ' avoir des propriétés médicinales , qui la doivent faire considerer au moins comme un aliment mé - dicamenteux ; c ' est pourquoy elle feroit beaucoup mieux en ..",
+        "words": [
+          "médicinales",
+          "dicamenteux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/85c05b70-c059-573d-8ade-3d5fd1cc8559",
+        "value": "Y ij C ' est pourquoy lors qu ' il s ' agit de choisir du Chocolat , il faut bien s ' appliquer à distinguer par l ' odorat & par le goût , l ' odeur & la faveur des véritables & des faux ingrediens , connoissance que je ne saurois commu - ce que je ne saurais communiquer , & qu ' on ne peut acquérir que par une espéce d ' habitude .Mais il est bien plus facile de connoistre le Chocolat qui est trop vieux fait , ou qui a été mal - conservé , puis qu ' il a ordinairement une espéce de moisissure à sa superficie , & qu ' en le flairant on découvre une odeur qui tient .de l ' aigre & du rance .",
+        "words": [
+          "Chocolat",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/8f6f3c71-5111-5798-b460-473381a40727",
+        "value": ".De le comp o c Omme on fait ordinairement une considerable quantité de Chocolat à la fois ) & qu ' il est bon que cette consection qui est \" aff èz longue , s ' acheve néanmoins en un mê - me jour , il est à propos aussî que deux personnes y travail - lent concurremment ; car tandis que l ' une s ' occupe à pré - parer le Cacao , l ' autre pulverise les parfums & les aroma - tiqnes .Pour faire le Chocolat ordinaire , la preparation du Cacao ne consîste qu ' à le griller en la maniere que je diray dirav bientot : mais pour saire un Chocolat dont l ' usage ne puisse avoir aucune nlau vasse suite , > il y a un peu plus de 01 istere , puisqu ' il s ' agit d ' extraire du Cacao , la quantité surafondante de son huile froide & muiflagineufe , sans néanmoins luy ôter cequ ' il en doit avoir pour être lavoureux , & pour faire corps avec le sucre .",
+        "words": [
+          "parfums",
+          "aroma",
+          "tiqnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/91b4e612-edcb-5002-94cd-046ff46b7e57",
+        "value": "- ge que bon l .uy semblera par rapport a son goût , qui seul doit être caniulté » lors qu ' il s ' agit du çhol ) f & des doses des parfums & des Aromatiques > qu ' on veut faire entrer dans la composition du Chocolat ) ayant tous a peu prés les mêmes propriétés .Je ne fçaurosis être nean * moins du sentiment d ' un Comte Espagnol , qui veut que pour faire du boa Chocolat , on doive entièrement supprimer la Vanille , & augmenter les doses de l ' Ambre & du Musc ; car quand il seroit vray comme il nous l ' affilrc ) q uc la Vanille seroit méprisée dans la nouvelle Espagne , pour être nommée le parfum des pau vres , ce mépris ne viendroit a mon sens , que de ce qu ' elle y feroit trop commune , & cela ne m ' empêcheroit pas de la nommer icy le parfum des Ri - ches , parce qu ' elle y est fort chere , & qu ' elle a d ' ailleurs desqualitez qu ' on ne sçauroit trop estimer .",
+        "words": [
+          "parfums",
+          "Aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/940423f9-b77d-5189-aa02-7245c0eab655",
+        "value": "m , q ui C est assez semblable à un Che - vreuil .Cet animal qu ' on voit au Royaume de Pegu dans les Indes , ne se repaist ordinaire - ment que d ' Herbes aromatiques , d ' où vient que cette matiere excrementeuse étant hors de cette tumeur , & exposée aux rayons du Soleil , devient un parfum tres suave , qui est tout ensemble cephalique , cordial & stomac hique .L ' Ambre gris est un Bicitnie qui découle de quelques fonta ines dans la mer , où il se condense , & d ' où il est jetté a bord , principalement ; sur le rivage des Isles Maldives , où il est digeré & ! exalté par la chaleur du Soleil .",
+        "words": [
+          "parfum",
+          "aromatiques",
+          "Herbes",
+          "Indes",
+          "Royaume",
+          "tres suave",
+          "matiere excrementeuse",
+          "Herbes aromatiques",
+          "Pegu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/99b907a4-9431-5ffd-b61a-c1b929a8e4d9",
+        "value": "La Pâte d ' Amande , la Crême de Perles , l ' Eau de Secondine , l ' Eau Me Fraises , l ' Eau & la Pomade Cosmetique , & diverses ses autres preparations pour corriger le vices de la peau , du j Visage & des mains .( Le Baume Apoplectique ou Parfum d ' Angleterre .L ' Enonce Vegetale , & divers autres remedes pour arrester la douleur & la Carie des dents : L ' Opiatte de Corail .",
+        "words": [
+          "Baume",
+          "Angleterre",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/9ad045b8-44be-5c44-9fa8-5235d5f1f667",
+        "value": "La pointe qu ' elles donnent au Chocolat , accommode mieux le goût des Espagnols que le nôtre ; c ' est pourquoy jl ell assèz rare pourq uoy il est allez rare qu ' on en mette dans nôtre Chocolat : cependant il est quelques François qui aiment cette faveur acre & : picquan - te , 6c qui par cette raison preferant le Chocolat qu ' on fait venir d ' Espagne , & : dans le ; - quel le goût de ce Poivre se fait toujours remarquer .Voicy maintenant quel étoit le Formulaire de cette pâte , avant que les Espagnols v eus sent ajoute les parfums & les aromatiques dont il fera parlé cy après .Prenez quatre livres de Cacao préparé comme il a été dit , trois livres de Sucre , dix - huit Vanilles , bc quinze grains de Poivre d ' Inde , pour faire du tout une massè de pâ - te suivant la methode .",
+        "words": [
+          "parfums",
+          "aromatiques",
+          "Espagnols"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/9c45ba21-8ef7-5b56-ab93-472ebde72c48",
+        "value": "tre les mains des Artifles que dans celles des Limonadiers , qui ne font pas assèz expéri - mentés dans la preparation des sîmples , pour conserver les parties plus essentielles de ceux qui passent par le feu , n ' y assez sçavans dans l ' art de guérir , pour être en état d ' enprefcrire le bon usage .Si on observe la couleur , l ' odeur , la faveur & la consi stance de cette boisson , pria - cipalement lors qu elle elt préparée avec le lait , on se persuadera aisement , que les parties subtiles & delicates du Caffé font grasses & étherées ) puisquelles , donnent a cette boisson une douceur en quelque forte onctueuse , & qu ' elles s ' unissent analogiquement avec les parties butireuses du lait sans les feparer de sa serosité , ce qui arriveroit infailliblement , s ' il y avoit dans cette teinture , aucun autres principes pre .dominants que les corpufcu - les étherez .",
+        "words": [
+          "odeur",
+          "boisson"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/9db5300b-a3e9-550c-bce1-fe4e276fc3c9",
+        "value": "On peut placer cette lampe en tel endroit de la chambre qu ' on veut , du moins si on en excepte le dessous de la cheminée , par le tuyau de laquelle la vapeur s ' exhaleroit .On peut même le cacher dans un recoin ou derriere un pilastre d ' al cove , observant seulement que plus il est bas placé , plus l ' air de la chambre se trouve également parfumé , le propre de la vapeur étant de monter .On peut aussi dans un même lieu en mettre deux ou tel autre nombre que l ' on veut , selon qu ' il doit être plus 3 ou moins parsumé , quoy qu ' un seul soit suffisant , pour ôter toute la mauvaise odeur d ' une grande cham bre , & pour la remplir du parfum dont on a fait choix .",
+        "words": [
+          "parfumé",
+          "air",
+          "chambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/a440a322-44ad-5168-af0a-1ccd9e1757d4",
+        "value": "A mon égard j ' ay inventé une nouvelle maniere de rotir le Caffé , dont le lecteur profitera sans doute avec plaisir ; elle consiste a un double rotisfoir qui est aussi a la verité travcrfé par une broche , & ' irouc en bien des endroits , mais qui se place dans un four - neau de reverbere construit expres , en forte que son amplitude n ' excede le volume du rotissoir , que de l ' espace de trois doigts dans toute sa circonference ; outre que d ' aillieurs les trous des deux tuyaux de ce rotissoir , font disposés de telle façon , que ceux du premier tuyau ne font pas vis - a vis ceux du second , étant au contraire directement opposés aux espaces pleines qui font entre ceux là ; Si bien que ces espaces reverberent la plus grande partie des particules volatiles qui en sortent , & que quand les autres se viennent presenter aux trous du second tuyau , elles font en quelque forte repoussées au dedans , par les parties du feu qui agissent continuel lement sur toute la surface pendant même que la broche tourne , au moyen du reverbere dont le fourneau est couvert .Au surplus , comme les fourneaux de reverbere conservent parfaitement bien la chaleur , ou n ' est pas obligé dans celuy - cy de rotir le Caffé avec un feu ardent , & l ' on peut même ( comme j ' ay fait ) trouver si justement la quantité , le degré , & le temps du feu qu ' on doit donner , qu ' aprés son entiere consommation , le Caffé se trouve precisement roti au degré qu ' il le doit être ; d ' où resulte deux avantages considerabjls : le premier que le Caffé roti a une douce chaleur , n ' a point cette facheuse acrimonie , qu ' on trouve ordinairement dans celuy qu ' un feu violent a imprégné de particules ignées : l ' autre que le Caffé torrésié sans aucun excez dans le plus ny dans le moins , est d ' autant plus salubre que quand il l ' est trop peu , sa teinture est pesante & indigeste , & qu ' au contraire quand il l ' est trop , elle est amere ter - reftre ∥ consequent astringente dans un degré excedent .Au surplus , je donneray bientost au public une nouvelle machine , qui fera encore preferable a celle icy dont par cette raison je me dispenseray de donner la figure .",
+        "words": [
+          "salubre",
+          "imprégné",
+          "particules ignées",
+          "celuy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/ba944b23-e23e-515a-82df-e6aaae335aa8",
+        "value": "P ref , o i r deruant a d , , qi - a ~ , rer li , Caciz 0 , Presoir Jeruant a le Cacao , Pour donner maintenant des instructions suffisantes sur les autres circonstances de la pâte de Chocolat , Je dois dire que le Cacao ainsi dégraillé , doit être mis de nouveau sur la pierre , & en suitte incorporé avec le sucre , qui doit être à cet effet auparavant pulverisé & passé par un tamis tres - fin , bien que dans la methode com - mune on se contente de le con - casser grossierement , ce qui empêche qu ' il ne s ' unisse avec Ic Cacao aussi intimement qu ' il est a fouhaitter , d ' où vient que le Chocolat ord inaire , à quelque chose de rude sur la langue lors qu ' on le mange en tablettes .Il faut encore remarquer que le sucre & le Cacao doi - vent être parfaitement incorporés ensembles , avant que d ' y ajouter les parfums & les Aromatiques , qui ne pourvoient être long - temps agitez sur la pierre chaude , sans perdre beaucoup de leurs parties odorantes & savoureuses , ce qui se fait plus ou moins facilement , felon que ces parties font plus ou moins delicates & subtiles 5 c ' est pourquoy l ' ambre & le musc doivent être pulverisés à part , afin de n ' être ajoûtez à la maire , qu ' après y avoir fait entrer la Vanille , la Canelle , & tous les autres aromatiques , qu ' il , efi : bon de pul veriser ensembles , par cette raison que ceux qui font fort secs , facilitent la division de ceux qui ont de l ' humidité comme la Vanille , ou de l ' huille , com - me les Gerofles , ce qui ne suffiroit pas neanmoins pour les disposer à passer par le tamis de soye ( comme on le doit faire ) si on n ' ad joûtoit au tout quelques morceaux de sucre à diverses reprises , ce qu ' on doit encore observer en pulverisant le musc & l ' ambre , quoyqueces parfums ne doivent pas être tamisés pour n ' en pas perdre beaucoup de parties .Il est a remarquer que le Chocolat , où l ' on fait entrer l ' ambre & : le musc , est ordi - nairement insupportable aux personnes qui font sujettes aux vapeurs , mais qu ' aussi sans ces parfums , on peut faire une forte de Chocolat fort agréable , feulement en augman - tant le nombre des Vanilles , sur lesquelles on doit avoir d ' autant moins de ménage - ment , qu ' elles contribuent beaucoup aux propriétés du Chocolat dégraissé , c ' est ainsi .",
+        "words": [
+          "Vanille",
+          "Cacao",
+          "parfums",
+          "musc",
+          "Canelle",
+          "odorantes",
+          "aromatiques",
+          "ambre",
+          "sucre",
+          "savoureuses",
+          "Aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/be495d53-9a82-514e-95c8-84e45fd0214e",
+        "value": "Les Sels de Thé , de CafFé & de Cacao .Le Cachou Ambré , & les Pastilles d ' Espagne pour la bouche £ c pour les Parfums .Toutes les especes de pots à Thé , de Caffetieres & de chocolatieres , nouvellement inventées par Monsieur de Blegny , pour preparer tres utilement le Thé , le Caffé & le Chocolat .",
+        "words": [
+          "Parfums",
+          "Pastilles",
+          "Cachou"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/bf60cd43-2a59-5caf-abf8-2d6b696921aa",
+        "value": "C ' est pourquoy ayant été pénétré par les remontrances de nos Artistes .Je me suis attaché à ce rafinement avec tant de succez , que j ' ay inventé un tres a greable moyen pour parfumer les chambres dans tous les differends besoins qu ' on en peut avoir J ' \\ & cela si commodement & à il peu de frais , qu ' il seroit difficile de donner au public une invention plus .avantageuse .",
+        "words": [
+          "parfumer",
+          "chambres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/c567aab9-6d86-5930-960f-a2c85c8061e1",
+        "value": "+ Le meilleur & le plus excellent Thé , a la plupart de fcs feuilles petites & delicates .Si en les observe peu après qu ' elles se font dilatées dans l ' eau chaude , on verra qu ' elles auront repris leur premiere verdeur , & après une infusion suffisante , on trouvera qu ' elles auront donné a l ' eau une teinture d ' un jaune clair & verdâtre , d ' un gout & d ' une odeur si a greable , qu ' il fembleque la violette & l ' ambre même y ayent quelque part , ce qu ' on apperçoit encore lors même qu ' on approche ses feüilles du nés , ou qu ' on les mâche avant que d ' avoir été mises en infusion , n ' ayant qu ' une médiocre amer - tune & qu ' une legere astriction .Au contraire le plus mé - chant Thé , a ses feuilles considérablement plus grandes , & plus epaisses , & qui demeu - rent d ' un brun enfoncé Aprés même qu ' elles se font dilatées dans l ' eau chaude , elles n ' ont presque point d ' odeur , & : l ' on découvre par la langue qu ' elles ont beaucoup d ' amertume & d ' astriction : Elles rendent une teinture rousse qui est d ' autant plus désagreable à l ' odorat & au goût , qu ' elle approche en quelque forte de celle du sené , & : qu ' une forte cjofe de sucre ne la sauroit corriger .",
+        "words": [
+          "odeur",
+          "violette",
+          "ambre",
+          "médiocre",
+          "a greable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/cfb97f1c-601c-5312-946a-e1b0b0d43322",
+        "value": "véritables Medecins , qui leurs fissent compren dre que le Sucre est une espéce de sel essentiel , que les acides font les principes dominans de toutes espéces de sels , que la propriété essentielle des acides est de rafraî chir , & que si la Chimie nous fournit des esprit acides qui font caustiques & brulans , comme l ' esprit de Nitre & l ' Eau forte , c ' est parce que ces esprits font des espéces de mixtes , qui abondent d ' ailleurs en particules ignées , qu ' on peut écarter & assoiblir fufiffamment , pour faire de ces mêmes esprits des liqueurs tres - rafraîchissantes , en y ajoûtant un volume d ' eau considerable : car après cela ces Medecins leurs perfuaderoient aisément , que les me - chans effets de l ' usage immodéré du Sucre , dépendent de la vertu relâchante 6c assoiblissante de ses parties mufilagineufes , & que cette vertu est suffisamment détruite , lors - que ces mêmes parties sont desunies & écartées par un certain volume de liqueur j outre que la vertu astringen - te & referralite du Caffé , eil : tellement opposée à celle que je viens de dire , qu ' il ne peut résulter de ce mélangé qu ' une qualité moyenne 5 c ' est pourq uoy on peut sans inconvénient consulter son goût , sur , l ' agrément qu ' on veut donner au Caffé par l ' addition du Sucre ; mais il est meilleur qu ' on l ' àye auparavant réduit fous les dureren - tes formes de sirops dont il Íe - , ra parlé cy après .On seroit beaucoup plus - mal si à l ' exemple de quelques personnes voluptueuse ; on ajoûtoit à la Boisson de Caffé l ' essence d ' Ambre , les Poudres de Canelle , de Gerofies & de Cardamome , ou quelques autres espéces de Parfums ou de drogues aromati - quesq ue ce loit ; parce que le mouvement de leurs parties volatiles , prevalant sur celuy de celles de Caffé , elles en interrompent l ' action , & pri - vent ceux qui en usent des bons effets qu ' ils en espérent .Aureste on ne prépare ordinairement la boisson de Caffé , que dans le temps mê - me qu ' on veut en user , & à la verité .",
+        "words": [
+          "Canelle",
+          "drogues",
+          "Parfums",
+          "aromati",
+          "Cardamome",
+          "Gerofies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/dae3e4c2-b3d8-5604-9f0a-078dbc20ec1a",
+        "value": "Si en les observe peu après qu ' elles se font dilatées dans l ' eau chaude , on verra qu ' elles auront repris leur premiere verdeur , & après une infusion suffisante , on trouvera qu ' elles auront donné a l ' eau une teinture d ' un jaune clair & verdâtre , d ' un gout & d ' une odeur si a greable , qu ' il fembleque la violette & l ' ambre même y ayent quelque part , ce qu ' on apperçoit encore lors même qu ' on approche ses feüilles du nés , ou qu ' on les mâche avant que d ' avoir été mises en infusion , n ' ayant qu ' une médiocre amer - tune & qu ' une legere astriction .Au contraire le plus mé - chant Thé , a ses feuilles considérablement plus grandes , & plus epaisses , & qui demeu - rent d ' un brun enfoncé Aprés même qu ' elles se font dilatées dans l ' eau chaude , elles n ' ont presque point d ' odeur , & : l ' on découvre par la langue qu ' elles ont beaucoup d ' amertume & d ' astriction : Elles rendent une teinture rousse qui est d ' autant plus désagreable à l ' odorat & au goût , qu ' elle approche en quelque forte de celle du sené , & : qu ' une forte cjofe de sucre ne la sauroit corriger .Apres ces remarques qui distinguent tres - précilement le plus excellent Thé du plus commun , on n ' aura pas de peine à reconnoistre les differens degrés demediocrité , qui se peuvent rencontrer dans • toutes les autres espéces de Thé ? qui ne peuvent être différentes ny entre elles n ' y par rapport au deux espéces qui viennent d ' être designées , que dans le plus ou le moins des bonnes ou des méchantes qualités de ces espéces , ce qui établit toutes les differences qu ' on peut trouver dans les divers prix du Thé .",
+        "words": [
+          "teinture",
+          "odeur",
+          "elles",
+          "odorat",
+          "point",
+          "désagreable",
+          "sené"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/e4de0d6a-8407-55ab-88a9-7808c0818b5f",
+        "value": "methode .Cette derniere description est celle qui est la plus ordir nairement suivie parmy nous , à cela prés que la pluspart des gens en suppriment le Poivre d ' Inde , & que les plus délicats substituent à la canelle le Cassia , lignea , qui est une autre écorce qui se tire des mêmes lieux que la canelle , & qui n ' en est presque point différente quant à la forme ; mais qui a plus dedélicatesse pour l ' odorat & pour le goût , ayant mê - me cette propriété , qu ' étant tenùë bien long - temps dans la bouche , elle s ' y réduit entiè - rement en une espece de mu - filage : Il se trouve encor beaucoup d ' autres formulaires entre les mains de divers particuliers , mais qui ne différent deceluy cy , ny entr ! , eux , mê - mes , que dans la diverfitédes doses de la Vanille , de l ' Am - bre & : , ' du Musc , à cela prés neanmoins que quelques - uns ajoutent aux ingrediens dont je viens de parler , quelques grains de Cardamome , ou une tres - petite quantité de Gin .genbre , deux autres espéces de drogues Aromatiques , ayants les vertus tant de fois répétée , dont chacun peut faire r el ufa .",
+        "words": [
+          "odorat",
+          "gens",
+          "Poivre d",
+          "bien long"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/e540f15c-0663-5e51-a9cc-d76137c18040",
+        "value": "& encore les alkalis ou corpuscules terrestres , qui en absorbant l ' humidité & l ' on & uo - sité qui relâchent les parties solides , resserrent & fortifient ces parties , il eil de necessité que cette Feuille foit considerablement stiptique & astringente .Si on conclut après cela qu ' ayant aussi des particules ignées volatiles & spirtueuses , dans une quantité asses confi - dérable pour le faire apercevoir par l ' odorat , il doit neçessairement reparer les esprit , & restituer les forces perdues , on aura pris une Idée aussi jusle que gencralle de la nature & des propriétés du Thé , ce qui doit suffire dans ce chapitre , ou je ne pourois entrer dans le détail de ses propriétés particulières .sans m ' engaeer a faire dans les chapitres suisans une ennuieufe répéti - tion .",
+        "words": [
+          "Thé",
+          "odorat",
+          "particules ignées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/ed01f2c8-6aa3-59d6-aa32-b218b0c22307",
+        "value": "Ces parfums ont encore cela de plaisant , qu ' on en peut fai - re placer autant qu ' on veut , sur les branches des lustres de crystal , ou de toutes autres especes de Girandolles & de c handeliers à plaques , pour parfumer les salles & les cham - bres , lors des bals , des balets , ou des autres fêtes galantes , > car les lampes de ces Cassolettes font du moins un aussi agreable effet que les bou - gies y outre qu ' on peut y en mettre un tres grand nombre , sans craindre qu ' il fasse à beaucoup prés tant de fumée , que la moindre pastille mise dans une Cassolette commu - ne , ou que la moindre quantité d ' eau odoriserante mise sur une pellechaude , qui font les deux façons ordinaires de parfumer les chambres , ôcqui sot l ' une & l ' autre deffectueuses en cela , qu ' elles consomment beaucoup de matiere en peu de temps , & qu ' il en exha ' il en ex h a - le une vapeur si épaisse , qu ' il , ne se peut qu ' elle n ' apporte un grand dommage aux lits , aux tapisseries autres meubles .Au surplus lorsqu ' il ne s agit que du plaisir , on peut faire choix du parfum qu ' on ayme le mieux , la pastille mê - me , & les autres parfums foli - des pouvant à cet effet être dissous dans de l ' esprit devin , ou dans telle autre liqueur que l ' on veut j mais sans cela on a assez d ' autres liqueurs odoriferantes , par exemple l ' eau - rose commune , l ' eau de roses muscades , l ' eau de mille fleurs , l ' eau de fleurs d ' oranges , l ' eau de Cordouë > l ' eau d ' Ange , & c .qui donnent un parfum tres agreable , aussi bien que le lait virginal de Benjoin , & la liqueur qui se trouve dans ces especes de pots pourris , qui font composés avec les fleurs les plus odoriserantes .",
+        "words": [
+          "parfum",
+          "liqueurs",
+          "parfums",
+          "odoriferantes",
+          "eau",
+          "roses muscades"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/edab72aa-3559-5df0-829d-3f6a0de8f108",
+        "value": "Cette derniere description est celle qui est la plus ordir nairement suivie parmy nous , à cela prés que la pluspart des gens en suppriment le Poivre d ' Inde , & que les plus délicats substituent à la canelle le Cassia , lignea , qui est une autre écorce qui se tire des mêmes lieux que la canelle , & qui n ' en est presque point différente quant à la forme ; mais qui a plus dedélicatesse pour l ' odorat & pour le goût , ayant mê - me cette propriété , qu ' étant tenùë bien long - temps dans la bouche , elle s ' y réduit entiè - rement en une espece de mu - filage : Il se trouve encor beaucoup d ' autres formulaires entre les mains de divers particuliers , mais qui ne différent deceluy cy , ny entr ! , eux , mê - mes , que dans la diverfitédes doses de la Vanille , de l ' Am - bre & : , ' du Musc , à cela prés neanmoins que quelques - uns ajoutent aux ingrediens dont je viens de parler , quelques grains de Cardamome , ou une tres - petite quantité de Gin .genbre , deux autres espéces de drogues Aromatiques , ayants les vertus tant de fois répétée , dont chacun peut faire r el ufa .- ge que bon l .",
+        "words": [
+          "drogues",
+          "Aromatiques",
+          "genbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/eeda014e-0921-59d3-b160-163fa557a5cc",
+        "value": "On peut même le cacher dans un recoin ou derriere un pilastre d ' al cove , observant seulement que plus il est bas placé , plus l ' air de la chambre se trouve également parfumé , le propre de la vapeur étant de monter .On peut aussi dans un même lieu en mettre deux ou tel autre nombre que l ' on veut , selon qu ' il doit être plus 3 ou moins parsumé , quoy qu ' un seul soit suffisant , pour ôter toute la mauvaise odeur d ' une grande cham bre , & pour la remplir du parfum dont on a fait choix .Il est à remarquer , qu ' en emplissant feulement les deux tiers du ' globule de quelque liqueur odoriserante que ce soit , elle ne se trouve qu ' à peine dissipée en l ' espace d ' une heure , pendant lequel il ne ' s ' use qu ' à peine pour trois de - niers d ' esprit de vin , si bien que la liqueur odoriferanre ne pouvant valoir qu ' à peu prés autant , il arrive que pendant tout le temps qu ' une Dame peut être à sa toilette , sa chambre est tres - agreable - ment parfumée , feulement en faisant au plus un sol de depense .",
+        "words": [
+          "mauvaise",
+          "parfum",
+          "odeur",
+          "cham bre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/f2924761-40c6-589a-ab50-c911bfb586cc",
+        "value": "Les Remedes du Roy com - muniquez par feu Monsieur le Prieur de Cabriere , Se divers autres remedes experimentez pour la guerison des Hernies ou Descentes .L ' Eau , les grains & les parfums Hysteriques , & divers autres Specifiques contre les Vapeurs , les Suffocations , les Retentions , les pertes blanches , 8c les autres maladies de la Matrice .Le Chocolat degraissé , le Caffé Volatile , & le Thé en conferve .",
+        "words": [
+          "Eau",
+          "parfums",
+          "grains",
+          "Hysteriques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/f5f33202-458c-5757-aba2-b01c6c3acf5e",
+        "value": "Lors que le commerce fut assez bien étably entre les deux continens , pour que les Habitans de la nouvelle Espagne , pussent tirer de celuy - cy toutes especes de commoditez , ils ne manquèrent pas d ' en tirer la canelle & les Gerostes , qu ' ils ajoutèrent bien - tôt après à la confection du Chocolat .Il y a peu de gens qui ne sçachent que la canelle est l ' écorce d ' un Arbre sauvage , qui vient sans culture en divers endroits des Indes Indes Orientales , & particuculierement dans les Isles de Ja va , de Malavar & de Zeïlan , & l ' ôn sçait encor quelle est fort odorante , & : fort agreable au goût ; c ' est pourquoy elle est comme tous les autres aromatiques cordiale , stomachiqu e & di ûretiq ue .Il en est de même des Gero - .",
+        "words": [
+          "agreable",
+          "odorante",
+          "aromatiques",
+          "fort odorante",
+          "canelle",
+          "Indes",
+          "cordiale",
+          "Malavar",
+          "Isles de Ja va",
+          "Zeïlan",
+          "stomachiqu"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/c6e6d076-9f59-5080-b99c-e2ab4eea63d4",
+        "label": "Nicolas de  Blegny"
+      }
+    ],
+    "label": "Le bon usage du thé, du caffé et du chocolat pour la préservation et pour la guérison des maladies / par Mr de Blégny,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6294696c",
+    "date": "1687",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/370",
+      "label": "Seed"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c348f838-4d5d-50dd-86f5-5068247fa4b8",
+      "label": "1687",
+      "begin": "1687",
+      "end": "1687"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/102358/",
+      "label": "Saudi Arabia"
+    },
+    {
+      "@id": "https://sws.geonames.org/12514761/",
+      "label": "Rue du Caire"
+    },
+    {
+      "@id": "https://sws.geonames.org/2995469/",
+      "label": "Marseille"
+    },
+    {
+      "@id": "https://sws.geonames.org/3038746/",
+      "label": "Aboncourt-sur-Seille"
+    },
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "https://sws.geonames.org/3868121/",
+      "label": "Viña del Mar"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/2bdeeb4a-1a88-5e01-a06e-11b610a8069c",
+      "label": "Mer"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/956d8f1e-6c09-542a-b35e-cb38e4688a97/fragment/153faf6b-e852-5699-b542-edc43cd72107",
+  "license": "Public domain",
+  "adjective": "pas la moindre"
+}

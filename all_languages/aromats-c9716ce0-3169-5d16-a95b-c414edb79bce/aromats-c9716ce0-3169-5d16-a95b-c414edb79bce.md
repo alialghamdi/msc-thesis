@@ -1,0 +1,1404 @@
+## aromats
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/c9716ce0-3169-5d16-a95b-c414edb79bce |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | aromats |
+| source.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/00499dbb-1e8d-5399-9cd3-ab312d6523c3 |
+| source.excerpts.0.value | FLEUR D ' ORANGE .Elle est employée dans les alimens et en médecine ; on la confit tout entière ou l ' on en fait des pâles et des conserves ; on en tire par la distillation une eau de fort bonne odeur , et qui est très usitée dans les potions cordiales , hystériques et céphaliques .Son odeur agréable vient de ce que quelques soufres et quelques sels de la fleur d ' orange se sont élevés avec l ' eau et s ' y sont mêlés ; elle réjouit le cœur et le cerveau ; elle fortifie l ' estomac et aide à la digestion par ses principes volatils , qui divisent et qui atténuent les parties grossières des alimens , raniment la masse du sang et augmentent la quantité des esprits . |
+| source.excerpts.0.words.0 | odeur |
+| source.excerpts.0.words.1 | fort bonne |
+| source.excerpts.0.words.2 | eau |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/00876fca-5771-5fa4-91b0-cd09c26fe42e |
+| source.excerpts.1.value | LAPIN .Les lapins sont ou sauvages ou domestiques ; les sauvages sont les plus délicats et les plus agréables au goût , non - seulement parce qu ' ils sont dans un plus grand mouvement , et qu ' ils contiennent moins d ' humidités superflues , mais encore parce qu ' ils se nourrissent de plusieurs plantes aromatiques , comme du thym , du serpolet , qui donnent à leur chair une saveur plus relevée et plus fine .Quand on veut manger le lapin , on doit le choisir gras et bien nourri , d ' un âge moyen . |
+| source.excerpts.1.words.0 | thym |
+| source.excerpts.1.words.1 | chair |
+| source.excerpts.1.words.2 | plantes |
+| source.excerpts.1.words.3 | aromatiques |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/019cc724-5f86-5b73-b01e-06eb7b078e2a |
+| source.excerpts.2.value | En Espagne , excepté dans les villes commerçantes et dans les couvens , on connaît à peine les tonneaux , les bouteilles et les caves .Le vin est fait avec la plus grande négligence ; on ne le laisse point vieillir , et , au lieu de s ' adoucir , il s ' épaissit en contractant une odeur d ' outre , nauséabonde et insoutenable .La mode a fait valoir les vins de Malaga ; mais le vieux vin sec de Xerez est le plus universellement estimé des connaisseurs . |
+| source.excerpts.2.words.0 | odeur |
+| source.excerpts.2.words.1 | vin |
+| source.excerpts.2.words.2 | il |
+| source.excerpts.2.words.3 | nauséabonde |
+| source.excerpts.2.words.4 | insoutenable |
+| source.excerpts.2.words.5 | outre |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/021b10c6-b39b-5f7f-9c98-deb6a57d5b1e |
+| source.excerpts.3.value | On doit choisir l ' étourneau jeune , gras , tendre , et qui ait été nourri de bons alimens .Il est naturellement d ' un tempérament sec ; ainsi , à moins qu ' il ne soit bien jeune et bien gras , on ne doit point s ' en 7 servir parmi les alimens , parce qu ' à mesure qu ' il vieillit , ses parties les plus balsamiques et les plus spiritueuses s ' échappent au - dehors ; sa chair devient dure , difficile à digérer , et même d ' une odeur forte et désagréable .Dans le temps des vendanges , l ' étourneau est plus gras , plus délicat et d ' un meilleur goût qu ' en aucun autre temps de l ' année , parce qu ' il aime beaucoup le raisin , dont il mange même avec excès . |
+| source.excerpts.3.words.0 | désagréable |
+| source.excerpts.3.words.1 | forte |
+| source.excerpts.3.words.2 | odeur |
+| source.excerpts.3.words.3 | sa chair |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/041b4895-cc74-5d14-a053-24509103851f |
+| source.excerpts.4.value | C ' est pourquoi , après la grande fureur de l ' ivresse causée par le mouvement tumultueux des esprits du cidre , on s ' endort , et quelquefois même pour assez de temps .On met fermenter le marc exprimé des pommes dans de l ' eau , et l ' on en fait une boisson humectante et rafraîchissante , appelée communément petit cidre ; elle est moins forte et moins piquante que le cidre .On fait aussi avec le suc des poires , exprimé et fermenté , une espèce de cidre et de liqueur vineuse appelée poiré . |
+| source.excerpts.4.words.0 | boisson |
+| source.excerpts.4.words.1 | rafraîchissante |
+| source.excerpts.4.words.2 | humectante |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/043a0733-7d8a-5fcd-8ea5-e11b3ebe91cf |
+| source.excerpts.5.value | SUPPLÉMENT .A ACORUS verus ou Calamus aromaticus .Cette plante est aromatique . |
+| source.excerpts.5.words.0 | aromaticus |
+| source.excerpts.5.words.1 | ACORUS |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/04a79312-9833-5f5f-b782-187c63bad546 |
+| source.excerpts.6.value | Les mulets de mer sont les meilleurs ; ceux d ' étang sont plus gras .En général , la chair de ce poisson est d ' une qualité médiocre , et fort souvent elle sent la vase .Voy . |
+| source.excerpts.6.words.0 | chair |
+| source.excerpts.6.words.1 | sent |
+| source.excerpts.6.words.2 | ce poisson |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/052d5cd3-97b7-58c9-8b22-3d682155781e |
+| source.excerpts.7.value | Le vin de Chio est placé dans ta classe des vins les plus exquis par nos APICIUS modernes .Celuide Stancou diffère peu des précédens ; son odeur est très suave et son goût très agréable .Le vin de Mételin peut être regardé comme un vrai nectar ; mais on nous l ' apporte très rarement ; c ' est ce qui fait qu ' il n ' est jamais servi que sur la table des personnes les plus opulentes . |
+| source.excerpts.7.words.0 | odeur |
+| source.excerpts.7.words.1 | son |
+| source.excerpts.7.words.2 | très agréable |
+| source.excerpts.7.words.3 | très suave |
+| source.excerpts.7.words.4 | Celuide Stancou |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/05acdb3f-6ccd-5598-a9f9-366d568bb5df |
+| source.excerpts.8.value | En général , ce vin pris modérément , et de temps en temps , est cordial , diurétique et stomachique ; mais son trop grand usage irrite et agace les nerfs .Celui qu ' on boit à Paris est souvent vert , et d ' un piquant désagréable .Voy . |
+| source.excerpts.8.words.0 | Paris |
+| source.excerpts.8.words.1 | désagréable |
+| source.excerpts.8.words.2 | piquant |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0812be97-fbec-5f97-b04e-64a8e78471fc |
+| source.excerpts.9.value | Cette racine n ' a point de grosseur déterminée ; il y a des ognons gros comme des pommes médiocres , et d ' autres qui ne le sont pas plus que des noix .Les uns et les autres ont un goût âcre , très piquant , et une odeur si forte qu ' elle pénètre les yeux jusqu ' à en exprimer des larmes .Il y a des ognons rouges et des ognons blancs ; ces derniers sont les moins forts . |
+| source.excerpts.9.words.0 | forte |
+| source.excerpts.9.words.1 | odeur |
+| source.excerpts.9.words.2 | uns |
+| source.excerpts.9.words.3 | elle pénètre les yeux |
+| source.excerpts.9.words.4 | à en exprimer des larmes |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/08ad2f50-19d2-51b6-bcde-2576b9c4d8a5 |
+| source.excerpts.10.value | Le girolle , dit le docteur DELAMARRE , est hépatique , astringent , cordial , stomacal , céphalique ; il atténue la pituite grossière ; on le met dans la bouche pour exciter la salive , et apaiser le mal de dents : ce qui conserve mieux les dents que ne fait la salivation excitée par la fumée du tabac et des diverses plantes aromatiques .Il corrige la mauvaise haleine et la puanteur de la bouche : il aide à la digestion ; il resserre le ventre .L ' eau distillée des clous encore récens a une odeur très gracieuse . |
+| source.excerpts.10.words.0 | puanteur |
+| source.excerpts.10.words.1 | bouche |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/09663b3a-bee5-5168-8172-a79a63ff219a |
+| source.excerpts.11.value | Les pêches conviennent , en temps chaud , aux jeunes gens bilieux et sanguins ; mais elles sont nuisibles aux vieillards , aux phlegmatiques , et à ceux qui ont l ' estomac faible .On doit les choisir d ' une odeur agréable , d ' une chair moelleuse , succulente , vineuse , qui soient bien colorées , bien mûres , et qui se séparent aisément de leur noyau .Les pêches confites sont extrêmement agréables aux malades , surtout à ceux qui sont altérés et qui ont la langue sèche ; car elles fortifient et rafraîchissent en même temps , et par - là elles sont extrêmement salutaires dans les maladies chaudes . |
+| source.excerpts.11.words.0 | agréable |
+| source.excerpts.11.words.1 | odeur |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/09c9aaf1-d332-5f40-b6d3-b58ca9b54545 |
+| source.excerpts.12.value | Ce thé a les feuilles plus fortement roulées que les autres espèces .Lorsque ce thé est nouveau , il donne une infusion claire et verte , d ' une saveur agréable , d ' une odeur de violette .Les Chinois prétendent que cette odeur ne lui est pas naturelle ; mais toujours est - il qu ' en Europe on se plaît à la lui donner , en mettant dans les caisses de thé des chapelets d ' iris de Florence bien sec . |
+| source.excerpts.12.words.0 | agréable |
+| source.excerpts.12.words.1 | odeur |
+| source.excerpts.12.words.2 | violette |
+| source.excerpts.12.words.3 | il |
+| source.excerpts.12.words.4 | infusion |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0aeb580b-fe43-5629-bd1d-5c48ab9f13c1 |
+| source.excerpts.13.value | Les herbes émollientes approchent beaucoup de la nature de celles - ci , comme , par exemple , les épinards , la poirée , l ' arroche , les choux , etc .On donne aussi les mêmes parties desséchées et réduites en poudre dans les mêmes cas , soit seules , soit mêlées à d ' autres remèdes carminatifs et vermifuges .La tanaisie est encore mise au rang des diurétiques chauds . |
+| source.excerpts.13.words.0 | vermifuges |
+| source.excerpts.13.words.1 | carminatifs |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0b43b431-5652-59bb-97e5-c34ed70adc3e |
+| source.excerpts.14.value | Le suc d ' absinthe donné à la dose d ' un gros , et quelquefois allié au quinquina , guérit les fièvres intermittentes .Les feuilles sont vulnéraires , détersives , résolutives , antiseptiques , en y ajoutant un peu d ' eau de mer ou de sel marin .La racine et les feuilles d ' ache sont diurétiques et employées dans les bouillons apéritifs ; on en met une poignée dans une chopine d ' eau . |
+| source.excerpts.14.words.0 | antiseptiques |
+| source.excerpts.14.words.1 | feuilles |
+| source.excerpts.14.words.2 | vulnéraires |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0de0ee5a-a8ee-52b6-a91c-5cc6201dac66 |
+| source.excerpts.15.value | Les personnes d ' un tempérament bilieux doivent en manger sobrement , parce que , prises avec excès , elles rendent les humeurs âcres , et échauffent un peu .Ceux qui mangent des asperges , dit JACQUIN , rendent des urines fétides , parce que cette plante , très diurétique , détache les sels urineux en grande quantité .Ceux qui sont sujets aux coliques néphrétiques , aux maux de reins , ou qui ont les vaisseaux fort étroits , ne doivent jamais faire usage de ce légume . |
+| source.excerpts.15.words.0 | fétides |
+| source.excerpts.15.words.1 | plante |
+| source.excerpts.15.words.2 | urines |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0e389875-1fb7-51fc-82fb-6dc8aa215ac3 |
+| source.excerpts.16.value | CORBEAU .C ' est un oiseau omnivore , qui aime les charognes , et dont la chair est dure , d ' une mauvaise odeur , et d ' un goût désagréable .CORIACE . |
+| source.excerpts.16.words.0 | mauvaise |
+| source.excerpts.16.words.1 | désagréable |
+| source.excerpts.16.words.2 | odeur |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0f654cb9-8b95-59e0-aaaf-f42ef5aff4c2 |
+| source.excerpts.17.value | La meilleure muscade est ferme , pesante , et a une substance oléagineuse lorsqu ' on la perce avec une épingle ou avec une aiguille .Les muscades sont tant soit peu astringentes , stomachiques , céphaliques ; elles aident la coction , corrigent l ' haleine , soulagent dans la défaillance et la palpitation de cœur .Leurs vertus aromatiques qui consistent en un esprit éthéré pénètrent et fortifient les parties nobles . |
+| source.excerpts.17.words.0 | astringentes |
+| source.excerpts.17.words.1 | muscades |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/0ffdd3bc-001b-5040-a705-485553d108b3 |
+| source.excerpts.18.value | Le romarin est stimulant , nerval , antispasmodique , emménagogue , stomachique ; employé extérieurement , il est résolutif : on s ' en sert en infusion , à l ' eau , au vin , à l ' alcohol , au vinaigre .On en prépare une eau distillée , une huile volatile , un esprit aromatique , un miel sirupeux , une conserve , etc .Le romarin , dit le docteur BUC ' HOZ , est un arbrisseau aromatique , à fleurs labiées , qu ' on cultive ordinairement dans les jardins , et qui se conserve toujours vert . |
+| source.excerpts.18.words.0 | aromatique |
+| source.excerpts.18.words.1 | esprit |
+| source.excerpts.18.words.2 | miel |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/114699c3-610a-5c72-91db-4e5dfd8d998f |
+| source.excerpts.19.value | Les asperges contenant beaucoup de sel ammoniacal , sont un excellent diurétique et apéritif .Quand elles sont fraîches , elles réveillent l ' appétit , provoquent les urines , et les rendent puantes .L ' irritation que les sels des asperges font sur les membranes des voies urinaires , produisent une sensation voluptueuse , et excitent à l ' amour . |
+| source.excerpts.19.words.0 | puantes |
+| source.excerpts.19.words.1 | elles |
+| source.excerpts.19.words.2 | provoquent les urines |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/12798e67-7311-5953-90e4-b05515f50c92 |
+| source.excerpts.20.value | POULE ou POULETTE D ' EAU .Les poulettes d ' eau , surtout quand elles sont jeunes et bien grasses , sont servies sur les meilleures tables ; cependant , elles ne sont pas toutes également bonnes : il y en a qui sentent le limon et le poisson , et qui sont d ' un goût assez désagréable ; d ' autres , au contraire , sont d ' une saveur exquise .Cependant on peut dire , en général , que , comme ces oiseaux ne vivent que d ' alimens grossiers qu ' ils trouvent autour des marais , des étangs et des rivières , leur chair est aussi chargée de sucs grossiers , et est par conséquent difficile à digérer . |
+| source.excerpts.20.words.0 | désagréable |
+| source.excerpts.20.words.1 | exquise |
+| source.excerpts.20.words.2 | saveur |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/12f17b89-ce36-517c-97ee-7473dad02f00 |
+| source.excerpts.21.value | On fait entrer les fleurs de romarin dans les sachets de senteur , dans les pots pourris ; elles sont la base de l ' eau de la reine d ' Hongrie : la fumée de cette plante desséchée purifie l ' air , et chasse les mauvaises odeurs ; c ' est un des aromates du peuple .Son odeur , trop forte , attaque les nerfs délicats des citadins , au lieu de leur rendre de la force et de l ' énergie .ROSSOLI . |
+| source.excerpts.21.words.0 | odeur |
+| source.excerpts.21.words.1 | Son |
+| source.excerpts.21.words.2 | trop forte |
+| source.excerpts.21.words.3 | citadins |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/1334da90-3712-579a-ae64-bb4a60c30529 |
+| source.excerpts.22.value | On emploie quelquefois les feuilles sèches du petit basilic pour donner du relief aux ragoûts .Le basilic fait uriner , dissipe les vents , et atténue l ' humeur mélancolique .On le qualifie aussi de pectoral et cordial . |
+| source.excerpts.22.words.0 | basilic |
+| source.excerpts.22.words.1 | uriner |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/1337bcc7-2934-5668-be33-ec68c612cd56 |
+| source.excerpts.23.value | Il a du poil , et non de la laine comme le bélier ; il pue beaucoup , et cette odeur n ' est pas dangereuse .La saveur de la chair de cet animal , ainsi que celle de la chèvre , est sauvagine et peu agréable .Cette dernière donne beaucoup de lait . |
+| source.excerpts.23.words.0 | celle |
+| source.excerpts.23.words.1 | peu agréable |
+| source.excerpts.23.words.2 | saveur |
+| source.excerpts.23.words.3 | sauvagine |
+| source.excerpts.23.words.4 | chair de cet animal |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/1440e7f5-9341-5921-9059-2e11399b9bd1 |
+| source.excerpts.24.value | AILE ( l ' ) , ou ALE des Anglais , est une espèce de bière qu ' on fait sans houblon , mais avec des ingrédiens âcres et piquans , qui excitent une fermentation très vive : elle est d ' un jaune clair transparent et fort piquante ; elle est plus agréable que la bière commune ; elle mousse et sort avec impétuosité de la bouteille .L ' aile est plus rafraîchissante , plus légère , plus apé - ritive et plus diurétique que les autres bières ; la quantité d ' acide carbonique qui s ' en dégage , la rend facilement enivrante .Les médecins anglais la font couper avec de l ' eau , et la donnent à leurs malades comme une tisane apéritive , tonique et rafraîchissante . |
+| source.excerpts.24.words.0 | enivrante |
+| source.excerpts.24.words.1 | diurétique |
+| source.excerpts.24.words.2 | aile |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/15c38a31-2195-5fff-8580-d6e1b9e9961b |
+| source.excerpts.25.value | MENTHE ou BAUME .Le sel volatil , huileux , aromatique qui est contenu dans cette plante , la rend très diurétique ; et l ' on peut s ' en servir à la manière du THÉ , selon TOURNEFORT .Elle est usitée en médecine comme stomachique échauffant , propre à chasser les vents de l ' estomac , et soulager la colique venteuse . |
+| source.excerpts.25.words.0 | aromatique |
+| source.excerpts.25.words.1 | sel |
+| source.excerpts.25.words.2 | plante |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/15f2a3aa-f26f-539b-813f-28d5c167e571 |
+| source.excerpts.26.value | On apprête la chair du cerf de plusieurs manières ; on la fait rôtir ou bouillir ; on en fait des pâtés , etc .La chair de ceux que l ' on tue aux mois d ' août et de septembre , que cet animal est en rut , est désagréable et d ' une odeur forte , approchante de celle de la chèvre .CERFEUIL . |
+| source.excerpts.26.words.0 | désagréable |
+| source.excerpts.26.words.1 | forte |
+| source.excerpts.26.words.2 | odeur |
+| source.excerpts.26.words.3 | chèvre |
+| source.excerpts.26.words.4 | chair de ceux |
+| source.excerpts.26.words.5 | aux mois d ' août et de septembre |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/168ff236-4ba7-5af4-a407-0d898bcb962f |
+| source.excerpts.27.value | Les plantes rafraîchissantes doivent avoir un effet contraire , puisqu ' elles ralentissent les mouvemens du sang , et empêchent par conséquent le suc nerveux d ' agir avec toute son énergie contre les fibrilles du cerveau : telles sont la laitue , l ' oseille , le pourpier , la citrouille , le concombre , le melon , les cerises , les fraises , les framboises , les mûres , etc .Les herbes émollientes approchent beaucoup de la nature de celles - ci , comme , par exemple , les épinards , la poirée , l ' arroche , les choux , etc .On donne aussi les mêmes parties desséchées et réduites en poudre dans les mêmes cas , soit seules , soit mêlées à d ' autres remèdes carminatifs et vermifuges . |
+| source.excerpts.27.words.0 | émollientes |
+| source.excerpts.27.words.1 | herbes |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/16ecc445-7c3b-57e6-a15c-9c0299ba1197 |
+| source.excerpts.28.value | On doit le choisir nouveau , bien mondé , net , blanc , sec , qui ne sente point le relan , et qui ait été fait avec de l ' avoine bien nourrie .Il est humectant et adoucissant , propre pour embarrasser les sels âcres de la poitrine , du sang et des autres humeurs ; il excite le sommeil , il rafraîchit , il restaure dans les maladies de consomption , et donne une bonne nourriture aux parties ; il est un peu pesant sur l ' estomac , et excite des vents .Il con - vient en tout temps , à tout âge et à toute sorte de tempérament , principalement à ceux dont les humeurs sont trop subtiles , trop âcres et dans un mouvement extraordinaire . |
+| source.excerpts.28.words.0 | adoucissant |
+| source.excerpts.28.words.1 | humectant |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/176ab28d-3000-52d4-b15f-5f05f480eb78 |
+| source.excerpts.29.value | Leurs vertus aromatiques qui consistent en un esprit éthéré pénètrent et fortifient les parties nobles .Ce fruit , dit ANDRY , est le plus tempéré de tous les aromates , et un des plus stomachiques .Elle convient particulièremènt avec le poisson , étant râpée par - dessus , et elle en corrige singulièrement la crudité . |
+| source.excerpts.29.words.0 | fruit |
+| source.excerpts.29.words.1 | aromates |
+| source.excerpts.29.words.2 | stomachiques |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/189b77ca-532f-5420-8649-23af3af70b19 |
+| source.excerpts.30.value | Plusieurs ont avancé que l ' excellence de ce miel venait des romarins qui sont très communs dans cet endroit ; ce qui prouve que cela ne vient pas plutôt des romarins que des autres plantes odorantes qui s ' y trouvent , c ' est que l ' on a observé que dans certaines années où les fortes gelées faisaient périr tous les romarins , le miel n ' en était pas moins excellent .Comme l ' odeur et la saveur des miels ne sont pas toujours les mêmes , il est assez probable que ces différences sont dues à la diverse nature des fleurs sur lesquelles ils ont été récoltés .Les pays abondans en serpolets , romarins , genêts et autres herbes aromatiques , fournissent un miel balsamique agréable au goût , tandis que les Contrées fertiles en plantes amères , telles que l ' absinthe , donnent un miel dont la saveur participe de celle de ces plantes . |
+| source.excerpts.30.words.0 | odeur |
+| source.excerpts.30.words.1 | miels |
+| source.excerpts.30.words.2 | saveur |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/193ff10c-2441-5ba3-bee0-e4f035857eed |
+| source.excerpts.31.value | L ' huile qu ' on en tire per descensum a les mêmes propriétés .Le girofle confit , pour être bon , doit avoir été cueilli tendre ; il doit aussi être d ' une odeur agréable , et fort peu chargé de sirop .Voy . |
+| source.excerpts.31.words.0 | agréable |
+| source.excerpts.31.words.1 | odeur |
+| source.excerpts.31.words.2 | girofle |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/19499c2b-5576-5a0a-bd8d-335101e90b8b |
+| source.excerpts.32.value | TOUTES - ÉPICES .Espèce de poivre qui réunit l ' odeur et la saveur de la cannelle , du girofle et du poivre .Voy . |
+| source.excerpts.32.words.0 | odeur |
+| source.excerpts.32.words.1 | cannelle |
+| source.excerpts.32.words.2 | girofle |
+| source.excerpts.32.words.3 | poivre |
+| source.excerpts.32.words.4 | saveur |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/1ae02eeb-9be6-5f85-968a-525cda94b879 |
+| source.excerpts.33.value | Les aromats fleurs sont celles de stæchas , de roses , d ' œillets , de safran , de lavande , etc .Les aromats fruits et semences sont le girofle , la muscade , le poivre , le cardamome , l ' anis , les cubèbes , la coriandre , le cumin , etc .Les aromats gommes ou résines sont le storax , le benjoin , la myrrhe , l ' encens , le mastic , le galbanum , les baumes de la Mecque et du Pérou , le camphre , l ' ambre gris , etc . |
+| source.excerpts.33.words.0 | anis |
+| source.excerpts.33.words.1 | girofle |
+| source.excerpts.33.words.2 | muscade |
+| source.excerpts.33.words.3 | poivre |
+| source.excerpts.33.words.4 | aromats |
+| source.excerpts.33.words.5 | coriandre |
+| source.excerpts.33.words.6 | cumin |
+| source.excerpts.33.words.7 | cardamome |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/1cd4ed0b-d546-52e0-9c4a-5f8133ceb44f |
+| source.excerpts.34.value | Nous appelons herbes aromatiques , celles qui ont une odeur forte et en même temps agréable ; telles que la sauge , le smyr - nium , le thym , la lavande , le basilic , le romarin , la sarriette , la citronnelle , la marjolaine , le serpolet , etc .Le genévrier , le liquidambar , sont des arbres aromatiques .Voy . |
+| source.excerpts.34.words.0 | aromatiques |
+| source.excerpts.34.words.1 | liquidambar |
+| source.excerpts.34.words.2 | genévrier |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/1d71525e-f643-5a90-ad97-ebb9266eb43c |
+| source.excerpts.35.value | TAMARINS .Les meilleurs tamarins ont une acidité agréable , une odeur vineuse ; ils doivent être choisis nouveaux , noirs , et de consistance assez ferme , cependant moelleuse .On doit prendre garde qu ' ils n ' aient été tenus dans une cave ; ce que l ' on reconnaîtra à leur consistance trop liquide , à l ' odeur de cave , et au gonflement des semences . |
+| source.excerpts.35.words.0 | agréable |
+| source.excerpts.35.words.1 | odeur |
+| source.excerpts.35.words.2 | vineuse |
+| source.excerpts.35.words.3 | meilleurs tamarins |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2047fd17-87e8-5233-aaa3-6467c113d6df |
+| source.excerpts.36.value | La marjolaine contient un peu de phlegme , beaucoup de sel volatil et d ' huile exaltée ; elle convient , dans les temps froids , aux mélancoliques , aux phlegmatiques , et à ceux dont l ' estomac ne digère qu ' avec peine .Son goût , et son odeur forte et aromatique , proviennent de ses sels volatils et de ses parties huileuses exaltées .Ces deux principes la rendent encore céphalique et propre pour fortifier les nerfs , pour l ' apoplexie , et pour les autres maladies du cerveau , parce qu ' ils divisent et atténuent les sucs visqueux et grossi ers qui débilitaient les fibres du cerveau , et que d ' ailleurs ils augmentent la quantité des esprits animaux . |
+| source.excerpts.36.words.0 | aromatique |
+| source.excerpts.36.words.1 | forte |
+| source.excerpts.36.words.2 | odeur |
+| source.excerpts.36.words.3 | son |
+| source.excerpts.36.words.4 | parties huileuses exaltées |
+| source.excerpts.36.words.5 | ses sels volatils |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/21bc11f0-7b1b-5027-b7f2-e0b376f1a0d6 |
+| source.excerpts.37.value | Le miel jaune , ou le miel commun , entre dans les gargarismes , comme médicament détersif , ainsi que dans les lavemens détersifs et laxatifs ; on en fait des cataplasmes , comme étant résolutif et maturatif ; enfin , au moyen de la cuisson , on lui donne une forme solide pour en faire des suppositoires .Il faut le choisir nouveau , épais , grenu , clair et transparent , d ' un goût doux et piquant , d ' une odeur douce et un peu aromatique .On remarque que les bilieux doivent s ' en abstenir , parce qu ' il se convertit aisément en bile . |
+| source.excerpts.37.words.0 | douce |
+| source.excerpts.37.words.1 | odeur |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2310f18a-fe72-5457-ada1-0c11973d96e8 |
+| source.excerpts.38.value | Liqueurs composées .Les esprits inflammables ont un goût un peu acre qui déplaît beaucoup à la plupart de ceux qui en boivent ; c ' est pour leur ôter ce goût désagréable , qu ' on a inventé plusieurs compositions auxquelles on a donné le nom de ratafiat , et qui ne sont autre chose que de l ' eau - de - vie ou de l ' esprit - de - vin , chargée de différens ingrédiens qu ' on y a mêlés .Ces ratafiats ont un goût , une odeur , et des propriétés différentes , suivant les matières qui sont entrées dans leur composition . |
+| source.excerpts.38.words.0 | désagréable |
+| source.excerpts.38.words.1 | acre |
+| source.excerpts.38.words.2 | goût |
+| source.excerpts.38.words.3 | esprits inflammables |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/23268cfd-782f-57cf-82ef-c6b8ef6631fb |
+| source.excerpts.39.value | Les différentes manières de préparer le moût , ses noms et ses qualités , lorsqu ' il avait subi quelque transformation , le pressoir , le mélange de l ' eau salée , et plusieurs autres ingrédiens étrangers à nos goûts , tels que la poix , des bois du midi , des herbes aromatiques , sont traités , dans l ' ouvrage du docteur HENDERSON , d ' une manière claire et complète .Nous admettons , avec lui que quelques - unes des substances qui devaient être ajoutées au vin , d ' après COLUMELLE , n ' avaient d ' autre résultat que de le clarifier ou de lui communiquer un parfum quelconque ; mais , après tout , ce chapitre ne donne pas une haute idée du goût des anciens , ni de l ' excellence de leurs vins , s ' ils étaient préparés se - lon les prescriptions de cet auteur .Dans le troisième chapitre , on tro la description des vases que les anciens employaient pour conserver leurs vins , et des celliers où ils les déposaient . |
+| source.excerpts.39.words.0 | parfum |
+| source.excerpts.39.words.1 | vin |
+| source.excerpts.39.words.2 | vins |
+| source.excerpts.39.words.3 | substances |
+| source.excerpts.39.words.4 | quelconque |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2504a902-fb9b-5e40-9eee-0b410447563c |
+| source.excerpts.40.value | Comme l ' odeur et la saveur des miels ne sont pas toujours les mêmes , il est assez probable que ces différences sont dues à la diverse nature des fleurs sur lesquelles ils ont été récoltés .Les pays abondans en serpolets , romarins , genêts et autres herbes aromatiques , fournissent un miel balsamique agréable au goût , tandis que les Contrées fertiles en plantes amères , telles que l ' absinthe , donnent un miel dont la saveur participe de celle de ces plantes .Les vieillards , ceux qui sont d ' un tempérament froid , et les personnes affectées de catarrhe , feront très bien de faire usage du miel comme aliment ; il leur convient , il redonne de la force à l ' estomac , est utile contre la toux et l ' asthme , favorise l ' écoulement des urines , lâche le ventre ; les bilieux et les jeunes gens doivent s ' en abstenir . |
+| source.excerpts.40.words.0 | plantes |
+| source.excerpts.40.words.1 | aromatiques |
+| source.excerpts.40.words.2 | herbes |
+| source.excerpts.40.words.3 | miel |
+| source.excerpts.40.words.4 | romarins |
+| source.excerpts.40.words.5 | genêts |
+| source.excerpts.40.words.6 | saveur |
+| source.excerpts.40.words.7 | serpolets |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/251a896d-e876-5626-b263-46c411f3982d |
+| source.excerpts.41.value | L ' exposition à la lumière , au soleil , hâte évidemment sa maturité .Lorsqu ' en , touchant un fruit il se détache , faute de sève , que son odeur et sa couleur sont exaltées , alors seulement il est bon à manger .Les fruits mûrs tempèrent l ' effervescence des humeurs , et se marient utilement dans l ' homme à l ' usage habituel des animaux . |
+| source.excerpts.41.words.0 | fruit |
+| source.excerpts.41.words.1 | odeur |
+| source.excerpts.41.words.2 | son |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/25981ccd-b4c7-5f24-b609-bc956fbc8aa4 |
+| source.excerpts.42.value | Elle est usitée en médecine comme stomachique échauffant , propre à chasser les vents de l ' estomac , et soulager la colique venteuse .En général , on regarde toutes les plantes de ce genre comme antiseptiques .Leur odeur est propre à donner du ton aux fibres du cerveau ; elles sont si salutaires , qu ' à Minorque leur nom est herba sana . |
+| source.excerpts.42.words.0 | antiseptiques |
+| source.excerpts.42.words.1 | plantes de |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2610bfc6-7c31-5fa4-bb63-c4db50aff5ec |
+| source.excerpts.43.value | Elles conviennent , dans les temps chauds , aux jeunes gens bilieux ; mais les personnes d ' un tempérament froid et phlegmatique doivent s ' en abstenir .On mêle ordinairement les courges avec des herbes aromatiques , avec le persil , l ' origan , la moutarde , le poivre et plusieurs autres matières âcres et volatiles , capables d ' aider à l ' atténuation du phlegme visqueux de ce fruit , et de lui donner un goût plus relevé .On confit encore les courges avec du sucre , pour les rendre plus agréables et plus salutaires . |
+| source.excerpts.43.words.0 | aromatiques |
+| source.excerpts.43.words.1 | herbes |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/288d67d6-ee16-56b7-a769-41bc63ba91b0 |
+| source.excerpts.44.value | Les SUBSTANCES ACRES qui sont assez ténues pour passer dans des tuyaux capillaires , doivent nécessairement en irriter les fibres , y produire des contractions plus considérables et des vibrations plus fortes .Plusieurs choses que nous prenons comme alimens , ou avec nos alimens , possèdent cette qualité dans quelque degré ; tels sont , 1 ° les sucs végétaux acides ; 2 ° les esprits et les liqueurs fermentées , particulièrement les vins piquans ; 3 ° les végétaux aromatiques , comme le fenouil , la sarriette , le thym , l ' ail , les ognons , les porreaux , etc .; 4 ° toutes les épices en général ; 5 ° tous les végétaux qui , par la putréfaction , se résolvent en une substance fétide , huileuse , alcaline . |
+| source.excerpts.44.words.0 | liqueurs |
+| source.excerpts.44.words.1 | vins |
+| source.excerpts.44.words.2 | aromatiques |
+| source.excerpts.44.words.3 | esprits |
+| source.excerpts.44.words.4 | végétaux |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2ac63ac8-1384-54e9-8bff-367719be950a |
+| source.excerpts.45.value | Cette plante a une odeur vireuse , désagréable ; on la cultive dans les jardins : les Italiens mangent son fruit en salade .Les feuilles sont narcotiques , assoupissantes ; on les fait cuire dans l ' eau , et on les applique extérieurement , pour apaiser les douleurs , pour arrêter les fluxions .On prépare , avec son fruit , une huile par infusion . |
+| source.excerpts.45.words.0 | narcotiques |
+| source.excerpts.45.words.1 | feuilles |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2bf07ecd-c0d4-54b3-9979-ffed83669467 |
+| source.excerpts.46.value | Les esprits inflammables ont un goût un peu acre qui déplaît beaucoup à la plupart de ceux qui en boivent ; c ' est pour leur ôter ce goût désagréable , qu ' on a inventé plusieurs compositions auxquelles on a donné le nom de ratafiat , et qui ne sont autre chose que de l ' eau - de - vie ou de l ' esprit - de - vin , chargée de différens ingrédiens qu ' on y a mêlés .Ces ratafiats ont un goût , une odeur , et des propriétés différentes , suivant les matières qui sont entrées dans leur composition .On en fait en France de plusieurs sortes , qui sont fort estimés ; on les trouvera sous les noms particuliers : on nous en apporte de différens endroits . |
+| source.excerpts.46.words.0 | odeur |
+| source.excerpts.46.words.1 | Ces ratafiats |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2d048274-edd8-5e24-b736-f815b90820d0 |
+| source.excerpts.47.value | Il y en a de plusieurs espèces .Nous ne parlons ici que de celui que l ' on cultive dans les jardins ; c ' est une petite plante d ' une odeur forte et agréable , et d ' une saveur aromatique .Le baume est bon à l ' estomac ; il fortifie beaucoup ; il excite l ' appétit ; il chasse les vents , et rend l ' haleine agréable . |
+| source.excerpts.47.words.0 | aromatique |
+| source.excerpts.47.words.1 | agréable |
+| source.excerpts.47.words.2 | forte |
+| source.excerpts.47.words.3 | odeur |
+| source.excerpts.47.words.4 | petite plante |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2dcc3a1c-dcc6-591a-a506-c81b62e13668 |
+| source.excerpts.48.value | Plante potagère , dont la racine est un assemblage de petites bulbes , en plus grand nombre que dans l ' échalotte , mais sans enveloppe commune , n ' étant attachées ensemble que par des fibres blanches et déliées .La feuille est longue , cylindrique , fistuleuse , menue , d ' une odeur et d ' une saveur approchante de celle de la ciboule .La tige estpetite , terminée par un paquet sphérique de petites fleurs purpurines , semblables à celles de l ' ognon . |
+| source.excerpts.48.words.0 | odeur |
+| source.excerpts.48.words.1 | feuille |
+| source.excerpts.48.words.2 | saveur |
+| source.excerpts.48.words.3 | ciboule |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/2eeb8c6c-3974-5cde-96d9-e38b8239a99b |
+| source.excerpts.49.value | Les alimens dont les animaux se servent , apportent aussi beaucoup de changement à leur chair .Quelle différence ne trouve - t - on pas entre les lapins nourris à la maison avec des choux , et ceux qui habitent les garennes , où ils vivent d ' herbes fortes et odorantes ? Combien les cochons domestiques , qui mangent mille saletés , diffèrent - ils des cochons sauvages ou sangliers , qui se nourrissent de gland et d ' autres alimens qui se trouvent dans les bois ? Pour ce qui est du sexe , comme les animaux mâles sont d ' un tempérament plus chaud que les femelles , leur chair est aussi plus sèche , moins chargée d ' humidités superflues , et plus propre à produire un bon aliment .La chair des animaux qui ont été châtrés , principalement dans leur jeunesse , est beaucoup plus tendre et plus agréable au goût , plus nourrissante et plus aisée à digérer que celle des animaux qui ne l ' ont point été ; parce que , dans ces derniers , il se fait assez souvent une perte considérable des principes les plus spiritueux et les plus balsamiques de la masse de leur sang par les parties de la génération , au lieu que , dans les autres , ces mêmes principes ne s ' échappent point au - dehors , et servent , par conséquent , à rendre leur chair plus succulente et d ' un goût moins fort et moins désagréable que n ' est celle des autres . |
+| source.excerpts.49.words.0 | odorantes |
+| source.excerpts.49.words.1 | fortes |
+| source.excerpts.49.words.2 | herbes |
+| source.excerpts.49.words.3 | animaux mâles |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/303b5d14-e5f1-51a0-8754-96c4f0975645 |
+| source.excerpts.50.value | En général , quand le fromage est trop nouveau , il est mou , visqueux et chargé d ' humidités : c ' est pourquoi il est alors pesant à l ' estomac , venteux et de difficile digestion ; cependant il nourrit beaucoup et lâche médiocrement le ventre .Quand , au contraire , le fromage est vieux , il est sec , piquant et brûlant sur la langue , d ' une odeur forte et désagréable , et propre à produire plusieurs mauvais effets .Il faut donc conclure que le fromage qui n ' est ni trop vieux ni trop nouveau est le plus salutaire de tous . |
+| source.excerpts.50.words.0 | désagréable |
+| source.excerpts.50.words.1 | forte |
+| source.excerpts.50.words.2 | odeur |
+| source.excerpts.50.words.3 | il |
+| source.excerpts.50.words.4 | fromage |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/313d2e10-4e39-58d7-93a8-c07591e41e13 |
+| source.excerpts.51.value | Les muscades sont tant soit peu astringentes , stomachiques , céphaliques ; elles aident la coction , corrigent l ' haleine , soulagent dans la défaillance et la palpitation de cœur .Leurs vertus aromatiques qui consistent en un esprit éthéré pénètrent et fortifient les parties nobles .Ce fruit , dit ANDRY , est le plus tempéré de tous les aromates , et un des plus stomachiques . |
+| source.excerpts.51.words.0 | esprit |
+| source.excerpts.51.words.1 | aromatiques |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/36f349a0-9f5d-5199-885d-e6843de7ea54 |
+| source.excerpts.52.value | On en trouve aussi aux environs de Paris .On doit choisir les truffes d ' une grosseur médiocre , assez dures , récentes , bien nourries , d ' une odeur etd ' un goût agréables , et qui n ' aient souffert aucune pourriture .Les meil - leures nous viennent du Périgord , du Limousin , de la Gascogne , de l ' Angoumois , et de plusieurs autres pays chauds . |
+| source.excerpts.52.words.0 | odeur |
+| source.excerpts.52.words.1 | agréables |
+| source.excerpts.52.words.2 | truffes |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/374cc975-32b3-55f0-8f43-ba17d4233812 |
+| source.excerpts.53.value | Cette plante peut être utile à l ' estomac ; c ' est pourquoi on s ' en sert dans les alimens et dans les sauces .Son odeur seule fortifie le cerveau , surtout si cette odeur est citronnée .Voy . |
+| source.excerpts.53.words.0 | odeur |
+| source.excerpts.53.words.1 | Son |
+| source.excerpts.53.words.2 | citronnée |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/381cc22c-0079-5b68-886b-2365b67ffe12 |
+| source.excerpts.54.value | C ' est une plante parasite , qui naît dans les lieux maritimes , aux Indes orientales ; ses fruits ressemblent à ceux du citronnier , et ont un petit goût amer .Les Indiens les mâchent continuellement avec de l ' aréca , du girofle , du cardamome ; ce qui donne à leur haleine , qui en a besoin , une odeur agréable .On se donne du bétel , dans l ' Inde , comme ici on s ' offre du tabac ; on n ' ose parler aux grands sans en avoir dans la bouche ; les femmes , et surtout celles qui sont galantes , en font un grand usage , et le regardent comme un puissant attrait pour l ' amour . |
+| source.excerpts.54.words.0 | agréable |
+| source.excerpts.54.words.1 | odeur |
+| source.excerpts.54.words.2 | continuellement |
+| source.excerpts.54.words.3 | girofle |
+| source.excerpts.54.words.4 | Indiens |
+| source.excerpts.54.words.5 | leur haleine |
+| source.excerpts.54.words.6 | cardamome |
+| source.excerpts.54.words.7 | aréca |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/38fc9d11-0c5c-5f4f-aa30-98298f11f01d |
+| source.excerpts.55.value | La vanille , dit LEMERY , est stimulante , stomachique , nervale , aphrodisiaque .Elle entre dans la composition de l ' alcohol de miel odorant , et l ' esprit volatil aromatique huileux .On l ' ajoute à la pâte du chocolat , qu ' elle rend d ' une saveur plus agréable et plus facile à digérer . |
+| source.excerpts.55.words.0 | odorant |
+| source.excerpts.55.words.1 | miel |
+| source.excerpts.55.words.2 | alcohol |
+| source.excerpts.55.words.3 | aromatique huileux |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/3989cce3-f900-50ab-9ab0-d327d0332481 |
+| source.excerpts.56.value | Le girofle convient en hiver aux vieillards , aux phlegmatiques , et à ceux qui abondent en humeurs grossières ; mais les jeunes gens d ' un tempérament chaud et bilieux doivent s ' en abstenir , ou en user modérément .Le girolle , dit le docteur DELAMARRE , est hépatique , astringent , cordial , stomacal , céphalique ; il atténue la pituite grossière ; on le met dans la bouche pour exciter la salive , et apaiser le mal de dents : ce qui conserve mieux les dents que ne fait la salivation excitée par la fumée du tabac et des diverses plantes aromatiques .Il corrige la mauvaise haleine et la puanteur de la bouche : il aide à la digestion ; il resserre le ventre . |
+| source.excerpts.56.words.0 | tabac |
+| source.excerpts.56.words.1 | aromatiques |
+| source.excerpts.56.words.2 | astringent |
+| source.excerpts.56.words.3 | diverses plantes |
+| source.excerpts.56.words.4 | girolle |
+| source.excerpts.56.words.5 | exciter la salive |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/3dd81862-90f4-5522-8a7b-6ec022804b70 |
+| source.excerpts.57.value | Le tabac , la véronique , les plantes vulnéraires , la fumeterre , le séné , la chicorée , le fraisier , la bourrache , le jalap , la rhubarbe , le thé et plusieurs autres végétaux amers , sont d ' une utilité universelle .Voici d ' autres effets communs aux amers , tant aromatiques que simplement savonneux : La sauge , le pouliot , l ' armoise , la lavande , l ' absinthe , l ' agaric , le marrube , le marum , la menthe , le myrte , l ' esprit volatil de corne de cerf , la piloselle , le romarin , la gentiane , le safran , l ' ache , le petit houx , le panicaut , l ' ellébore noir , etc ., étant administrés avec les précautions convenables , sont très utiles pour évacuer ce qui pourrait donner lieu à des suites fâcheuses après l ' accouchement ; de même que pour les fleurs blanches et autres affections hystériques . |
+| source.excerpts.57.words.0 | safran |
+| source.excerpts.57.words.1 | aromatiques |
+| source.excerpts.57.words.2 | menthe |
+| source.excerpts.57.words.3 | romarin |
+| source.excerpts.57.words.4 | myrte |
+| source.excerpts.57.words.5 | lavande |
+| source.excerpts.57.words.6 | sauge |
+| source.excerpts.57.words.7 | gentiane |
+| source.excerpts.57.words.8 | absinthe |
+| source.excerpts.57.words.9 | armoise |
+| source.excerpts.57.words.10 | amers |
+| source.excerpts.57.words.11 | savonneux |
+| source.excerpts.57.words.12 | agaric |
+| source.excerpts.57.words.13 | ellébore noir |
+| source.excerpts.57.words.14 | pouliot |
+| source.excerpts.57.words.15 | marrube |
+| source.excerpts.57.words.16 | marum |
+| source.excerpts.57.words.17 | esprit volatil de corne de cerf |
+| source.excerpts.57.words.18 | piloselle |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/3eb96412-42a8-5829-9088-dd7bb968e890 |
+| source.excerpts.58.value | ; elle fortifie puissamment les estomacs froids et débiles .La camomille romaine est stomachique , carminative , antispasmodique .On s ' en sert en infusion théiforme . |
+| source.excerpts.58.words.0 | antispasmodique |
+| source.excerpts.58.words.1 | carminative |
+| source.excerpts.58.words.2 | stomachique |
+| source.excerpts.58.words.3 | camomille romaine |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4148d030-514a-56ac-8450-7e4ad9b214bb |
+| source.excerpts.59.value | On connaît deux espèces de pouliot ; l ' une , qui est le pouliot à larges feuilles , et l ' autre à feuilles étroites .Toute la plante a une odeur aromatique , une saveur âcre , un peu brûlante .Cette plante est hystérique , apéritive , très bonne dans la toux opiniâtre et les rhumes invétérés ; son suc passe pour un excellent remède quand il s ' agit d ' apaiser la toux convulsive des enfans ; sa décoction , adoucie avec un peu de sucre , fait beaucoup de bien dans l ' enrouement , surtout si l ' on en fait usage en se couchant . |
+| source.excerpts.59.words.0 | aromatique |
+| source.excerpts.59.words.1 | odeur |
+| source.excerpts.59.words.2 | plante |
+| source.excerpts.59.words.3 | saveur |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/41ef4c43-2402-5442-a35b-96b53dc1baf3 |
+| source.excerpts.60.value | Les parties tenaces et gluantes des animaux , les alimens gras , se digèrent encore difficilement ; les graisses sont d ' autant moins saines qu ' elles sont plus visqueuses , plus rances et plus vieilles ; celles qui sont nouvelles , et qui se digèrent plus aisément , font moins de mal .Les chairs desséchées à la fumée , surtout quand elles y ont été long - temps , de même que le lard qui sent le rance ou qui est jaune , sont contraires à la santé .Tous les alimens qui diminuent ou altèrent la force fermentative et dissolvante du ventricule sont nuisibles ; ainsi , tout ce qui est gras , huileux , doux au goût , le miel , les liqueurs miellées , le raisin frais , les frui ts , les légumes , les pâtisseries , les racines fibreuses des racines et autres semblables alimens , mangés en quantité , et souvent , sont d ' autant plus nuisibles qu ' on les prend à jeun . |
+| source.excerpts.60.words.0 | rance |
+| source.excerpts.60.words.1 | chairs |
+| source.excerpts.60.words.2 | sent |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/42982fc9-41f1-511e-b279-879fa96eddf8 |
+| source.excerpts.61.value | Les têtes de choux , qu ' on nomme chouxfleurs , sont de beaucoup plus facile digestion que les autres choux , qu ' on emploie communément ; ils nuisent très rarement ; les choux d ' hiver sont moins venteux que ceux d ' été .Ils sont aussi plus indigestes , quand on les mange sortant d ' être cueillis ; mais si l ' on sépare les feuilles , et qu ' on donne pendant quelques jours le temps de sortir aux gaz délétères qu ' elles contiennent , alors ils donneront beaucoup moins de rapports désagréables , de vents , et se digéreront bien plus facilement .Les choux et les poreaux , dit le docteur JACQUIN , ne sont pas aussi sains que bien des personnes voudraient le persuader . |
+| source.excerpts.61.words.0 | gaz |
+| source.excerpts.61.words.1 | délétères |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4368db2a-38b2-55a1-ad87-ea42856bd4f2 |
+| source.excerpts.62.value | La sauge des jardins est encore distinguée en grande ét en petite .La petite diffère de la grande en ce que ses feuilles sont plus petites , plus blanches , d ' une odeur et d ' un goût plus fort et plus aromatique ; la petite sauge est plus estimée que la grande , elle a un très grand nombre de propriétés .Elle est bonne contre toutes les humeurs phlegmatiques ; d ' usage partout où il faut fortifier et dessécher . |
+| source.excerpts.62.words.0 | aromatique |
+| source.excerpts.62.words.1 | odeur |
+| source.excerpts.62.words.2 | ses feuilles |
+| source.excerpts.62.words.3 | goût |
+| source.excerpts.62.words.4 | petite sauge |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/44223de0-f509-5133-81df-fe22ee112c87 |
+| source.excerpts.63.value | Parmi les VINS GRECS , dont les anciens et les modernes ont toujours fait un si grand éloge , on compte celui de Chypre , qui rétablit les forces de ceux qui ont essuyé de grandes maladies .Cette espèce de vin est balsamique , quoiqu ' elle sente un peu le goudron ; néanmoins , elle est très agréable aux personnes qui s ' y sont une fois accoutumées .Il est bon d ' avertir que ce vin , qu ' on trouve partout , est rarement naturel . |
+| source.excerpts.63.words.0 | vin |
+| source.excerpts.63.words.1 | goudron |
+| source.excerpts.63.words.2 | espèce |
+| source.excerpts.63.words.3 | sente |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/446bce5a-eb4d-592a-b13f-bf6b47c1a2fe |
+| source.excerpts.64.value | CITRON ( jus de ) , LIMON ( jus de ) , ORANGE ( jus d ' ) , VERJUS , VINAIGRE , etc .Assaisonnemens aromatiques .Voy . |
+| source.excerpts.64.words | aromatiques |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4538a968-d04f-561b-97bc-91a80f74be97 |
+| source.excerpts.65.value | La meilleure farine est celle qui offre la couleur jaune citron , qui est sèche , grenue , pesante , qui s ' attache aux doigts , qui , pressée dans la main , reste en une espèce de pelote ; avec un peu d ' eau dans la main , elle doit donner une boulette qui s ' allonge sans se séparer , et s ' affermisse promptement à l ' air .Il faut toujours sentir les farines : celles qui sont altérées ont ordinairement une odeur aigre , ou infecte .Si les farines contenaient de la craie ou du plâtre , en les délayant à grande eau , il serait bien facile de reconnaître la falsification par le dépôt subit qu ' on obtiendrait . |
+| source.excerpts.65.words.0 | infecte |
+| source.excerpts.65.words.1 | aigre |
+| source.excerpts.65.words.2 | odeur |
+| source.excerpts.65.words.3 | celles |
+| source.excerpts.65.words.4 | farines |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/47028a4c-633e-5ff0-a8fc-580ca032d0bf |
+| source.excerpts.66.value | Régime qui convient aux personnes sujettes à l ' acidité .Les rapports aigres , un appétit excessif , quelquefois des choses extraordinaires , comme dans les pâles couleurs , les douleurs de colique , les tranchées , le changement de la couleur de la bile , de jaune en verte , une odeur aigre dans les excrémens , la sueur , la pâleur de la peau , la petitesse du pouls , quelques espèces d ' éruptions cutanées , sont les signes ordinaires de ces constitutions .Le principal siège de l ' acidité est dans l ' estomac et les intestins , d ' où elle passe quelquefois dans le sang et les autres sucs . |
+| source.excerpts.66.words.0 | aigre |
+| source.excerpts.66.words.1 | odeur |
+| source.excerpts.66.words.2 | sueur |
+| source.excerpts.66.words.3 | excrémens |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/496a6fbc-6c58-5469-961b-7eea5e1a99e9 |
+| source.excerpts.67.value | MACIS .C ' est une substance d ' une odeur très aromatique , et fort agréable ; elle a la même propriété que la noix muscade ; c ' est une de ses enveloppes ; quelques - uns la nomment fleur de muscade .Elle entre dans diverses recettes . |
+| source.excerpts.67.words.0 | très aromatique |
+| source.excerpts.67.words.1 | odeur |
+| source.excerpts.67.words.2 | noix muscade |
+| source.excerpts.67.words.3 | fort agréable |
+| source.excerpts.67.words.4 | substance |
+| source.excerpts.67.words.5 | fleur de muscade |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4aaa3c5e-d928-5e71-96e7-cbb6168c958d |
+| source.excerpts.68.value | CHOCOLAT .La vanille , dit LEMERY , est stimulante , stomachique , nervale , aphrodisiaque .Elle entre dans la composition de l ' alcohol de miel odorant , et l ' esprit volatil aromatique huileux . |
+| source.excerpts.68.words.0 | aphrodisiaque |
+| source.excerpts.68.words.1 | vanille |
+| source.excerpts.68.words.2 | stimulante |
+| source.excerpts.68.words.3 | stomachique |
+| source.excerpts.68.words.4 | nervale |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4ab1e9f2-7615-5120-89fe-e4051f78a931 |
+| source.excerpts.69.value | PLANTES ÉCHAUFFANTES .Les plantes aromatiques que l ' on regarde comme céphaliques dans l ' usage , ne peuvent qu ' animer la circulation et aiguiser les esprits ; telles sont le poivre , le girofle , la muscade , le thym , le serpolet , la sarriette , l ' origan , le laurier , le romarin , le basilic , etc .Les plantes stomachiques doivent aussi procurer le même effet . |
+| source.excerpts.69.words.0 | thym |
+| source.excerpts.69.words.1 | plantes |
+| source.excerpts.69.words.2 | aromatiques |
+| source.excerpts.69.words.3 | girofle |
+| source.excerpts.69.words.4 | muscade |
+| source.excerpts.69.words.5 | poivre |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4b3f3c4f-6ab0-5229-aca3-e116a208ae71 |
+| source.excerpts.70.value | GIMBLETTE .C ' est une sorte de pâtisserie , dans laquelle on fait entrer du sucre et le goût de la fleur d ' orange , ou de quelque autre substance aromatique ; elle se digère facilement ; on en donne beaucoup aux enfans , et même aux chiens gâtés des dames .Voy . |
+| source.excerpts.70.words.0 | aromatique |
+| source.excerpts.70.words.1 | fleur |
+| source.excerpts.70.words.2 | substance |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4b768e49-3f81-5fc5-936b-409985bc9e0a |
+| source.excerpts.71.value | La plante qui porte la coriandre est cultivée dans les jardins , à cause de ses graines dont on se sert assez communément dans les alimens , dans les confitures , dans les liqueurs spiritueuses et dans la bière ; elles sont vertes sur la plante , mais elles deviennent blanchâtres à mesure qu ' elles sèchent .Elles sont d ' un goût et d ' une odeur aromatique et fort agréable , quoique le reste de la plante ait une odeur très désagréable .Elle corrige la mauvaise haleine , fortifie l ' estomac , aide à la digestion ; étant prise après le repas , elle chasse les vents et résiste au mauvais air . |
+| source.excerpts.71.words.0 | aromatique |
+| source.excerpts.71.words.1 | odeur |
+| source.excerpts.71.words.2 | très désagréable |
+| source.excerpts.71.words.3 | fort agréable |
+| source.excerpts.71.words.4 | reste de la plante |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4b7a9080-b9f2-5c3e-81f8-cdedc42238c2 |
+| source.excerpts.72.value | Il y a deux espèces de marj olaine , qui sont toutes deux cultivées dans les jardins ; la première ne diffère de la seconde qu ' en ce que ses feuilles sont un peu plus grandes .On doit choisir les feuilles de la seconde espèce , parce qu ' elles sont plus odorantes , qu ' elles ont un goût plus aromatique , et qu ' en un mot elles ont plus de vertu .La marjolaine est vulnéraire , céphalique , hystérique , carminative , pectorale , stomacale , sternutatoire , et utile aux nerfs . |
+| source.excerpts.72.words.0 | aromatique |
+| source.excerpts.72.words.1 | odorantes |
+| source.excerpts.72.words.2 | feuilles |
+| source.excerpts.72.words.3 | goût |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/4d00e866-f9c8-5c63-9448-d5e066375bbc |
+| source.excerpts.73.value | Les POISSONS , nonobstant la surabondance de leur huile , n ' engraissent pas autant que la chair , à cause de leur qualité aqueuse .L ' huile dont les poissons abondent est sujette à rancir ou à se corrompre ; elle pèse souvent sur l ' estomac , et communique l ' odeur de rance à la sueur même ; ce qui se trouve vérifié dans quelques endroits où les habitans se nourrissent entièrement de poisson .Les oiseaux aquatiques regorgent de la même huile . |
+| source.excerpts.73.words.0 | odeur |
+| source.excerpts.73.words.1 | sueur |
+| source.excerpts.73.words.2 | rance |
+| source.excerpts.73.words.3 | huile dont les poissons abondent |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/53a8c6ed-cc13-531e-ab65-69354260f78a |
+| source.excerpts.74.value | ÉCHINÉE .Il ressemble beaucoup au gouj on par sa figure et par ses vertus ; mais sa chair est plus agréable à cause d ' un goût de violette qui lui est propre .Cette différence de goût marque que les principes de l ' éperlan sont plus exaltés que ceux du goujon ; c ' est pourquoi ils produisent un sentiment plus délicat sur l ' organe du goût . |
+| source.excerpts.74.words.0 | violette |
+| source.excerpts.74.words.1 | sa chair |
+| source.excerpts.74.words.2 | goût |
+| source.excerpts.74.words.3 | gouj |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/53e58424-25e9-5540-bb7b-0af18ab21625 |
+| source.excerpts.75.value | En effet , dans ce canton dont LA FONTAINE vante le sexe , dans le pays Remois , pays fertile en bons vins de plus d ' un genre , Aï et ses environs fournissent le mousseux qui mérite le plus sa réputation , non parce qu ' il pétille , mais parce qu ' en même temps il est fin , vineux et délicat .En général , ce vin pris modérément , et de temps en temps , est cordial , diurétique et stomachique ; mais son trop grand usage irrite et agace les nerfs .Celui qu ' on boit à Paris est souvent vert , et d ' un piquant désagréable . |
+| source.excerpts.75.words.0 | vin |
+| source.excerpts.75.words.1 | diurétique |
+| source.excerpts.75.words.2 | stomachique |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/5733bbe6-1180-511a-9374-1b57f6a7773c |
+| source.excerpts.76.value | THYM .Plante assez connue de tout le monde ; on s ' en sert dans les sauces , à cause de son goût et de son odeur aromatique .Le thym fortifie le cerveau , atténue et raréfie les humeurs visqueuses ; il est propre pour l ' estomac , il excite l ' appétit , il aide à la digestion , il chasse les vents . |
+| source.excerpts.76.words.0 | aromatique |
+| source.excerpts.76.words.1 | odeur |
+| source.excerpts.76.words.2 | son |
+| source.excerpts.76.words.3 | tout le monde |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/5cc706d4-3b34-57a2-a35a-27e245ae6ca1 |
+| source.excerpts.77.value | VANILLE .Ce sont des gousses brunes , plates , longues de cinq ou six pouces sur un de large , ridées par dehors , remplies de graines noires , presque aussi menues que du sable , et d ' une odeur approchant de celle du baume du Pérou .HERNANDEZ l ' estime propre pour fortifier l ' estomac et le cerveau , pour chasser les vents , exciter l ' urine , etc . |
+| source.excerpts.77.words.0 | celle |
+| source.excerpts.77.words.1 | baume du Pérou |
+| source.excerpts.77.words.2 | gousses |
+| source.excerpts.77.words.3 | odeur approchant |
+| source.excerpts.77.words.4 | graines noires |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/5d17a095-4869-5486-a895-024329f0580c |
+| source.excerpts.78.value | Il y a deux espèces générales d ' oranges : les unes sont amères , acides , petites , jaunâtres et verdâtres , ayant une odeur fort agréable ; les autres sont douces , plus grosses que les amères , d ' un jaune doré et d ' une bonne odeur .On se sert de ces deux espèces parmi les alimens ; on choisit les unes et les autres nouvelles , remplies de suc , d ' une odeur agréable et ayant une écorce mince .L ' écorce d ' orange amère sert beaucoup dans les alimens et en médecine ; on la confit , on en fait des zestes ; elle est stomacale , elle réjouit le cœur et le cerveau , elle ranime la masse du sang et donne de l ' appétit . |
+| source.excerpts.78.words.0 | agréable |
+| source.excerpts.78.words.1 | odeur |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/5d22a6bd-8163-5b4f-aa54-d0e668918b47 |
+| source.excerpts.79.value | THÉ SUISSE , FALTRANCK ou VULNÉRAIRE SUISSE .On a donné ce nom à un mélange assez arbitraire d ' herbes aromatiques , recueillies sur les montagnes de la Suisse et de l ' Auvergne ; on les coupe par petits morceaux , pour les déguiser ; on les fait sécher , et on les prend en infusion théiforme , qu ' on coupe avec le lait et qu ' on sucre .Cependant les plantes qu ' on emploie sont principalement la sarriette , la bugle , la pervenche , la verge d ' or , la brunelle , la verveine , l ' aigremoine , la scro - phulaire , la petite centaurée , la capillaire , les mille - feuilles , etc . |
+| source.excerpts.79.words.0 | Suisse |
+| source.excerpts.79.words.1 | aromatiques |
+| source.excerpts.79.words.2 | herbes |
+| source.excerpts.79.words.3 | montagnes |
+| source.excerpts.79.words.4 | Auvergne |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/5d7f6233-585f-5898-b6da-e990395a65f5 |
+| source.excerpts.80.value | A ACORUS verus ou Calamus aromaticus .Cette plante est aromatique .En médecine , on ne se sert ordinairement que de la racine , qui est âcre , un peu amère , blanche en dedans , extérieurement d ' un blanc verdâtre quand elle est récente , mais rougeâtre lorsqu ' elle est sèche . |
+| source.excerpts.80.words.0 | aromatique |
+| source.excerpts.80.words.1 | plante |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/5e3ec1a1-37e1-5753-bf46-36a03ab51800 |
+| source.excerpts.81.value | OMBRE .Espèce de truite ainsi nommée parce qu ' elle a une odeur de thym .Sa chair est délicieuse et facile à digérer , d ' un bon suc , et si salutaire qu ' on en permet l ' usage même aux malades . |
+| source.excerpts.81.words.0 | odeur |
+| source.excerpts.81.words.1 | thym |
+| source.excerpts.81.words.2 | Espèce de truite |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/602c8be3-986d-580e-b0d8-a162b2c52043 |
+| source.excerpts.82.value | Il y en a dont la grosseur du grain est semblable à celle des grains de coriandre , et d ' autres à celles du millet .Il est d ' une couleur fauve à l ' extérieur , blanchâtre en dedans , sans odeur et d ' une saveur d ' orge .Le sagou jaunit extérieurement par son contact avec la lumière , en séchant à l ' air . |
+| source.excerpts.82.words.0 | saveur |
+| source.excerpts.82.words.1 | orge |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/61b0f86f-9957-5ef6-a7b7-2cd658c4ea72 |
+| source.excerpts.83.value | On assure que la rue mangée de même à jeun , avec du pain , guérit radicalement les écrouelles .L ' aloès devient un purgatif doux , si on le prend en mangeant .PLINE observe que beaucoup d ' amers sont donnés comme remèdes stomachiques ; on les indique pour les poisons froids , pour les vents , les vers , les maux de tête , la fièvre , la cachexie , le défaut d ' appétit , la mauvaise odeur de l ' haleine ; indispositions qui supposent presque toujours que l ' estomac est vicié . |
+| source.excerpts.83.words.0 | doux |
+| source.excerpts.83.words.1 | aloès |
+| source.excerpts.83.words.2 | purgatif |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/623d29da-e1c3-5703-9805-927f93875d06 |
+| source.excerpts.84.value | SIROP D ' OEILLET .Il est fort agréable au goût et à l ' odorat ; il résiste au venin , réjouit le cœur , fortifie l ' estomac , et est sudorifique .On l ' emploie dans les fièvres malignes , le pourpre , la rougeole , la petite vérole , et les maladies contagieuses . |
+| source.excerpts.84.words.0 | agréable |
+| source.excerpts.84.words.1 | il |
+| source.excerpts.84.words.2 | odorat |
+| source.excerpts.84.words.3 | sudorifique |
+| source.excerpts.84.words.4 | réjouit le cœur |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/648add3d-f2bc-5dba-930b-82b97afeb5ec |
+| source.excerpts.85.value | ESTRAGON .L ' estragon est d ' un goût àcre , aromatique et accompagné d ' une douceur agréable , parce qu ' il contient beaucoup de parties huileuses exaltées et de sels volatils .Il fortifie le cœur et l ' estomac , excite l ' appétit et aide à la digestion par ses principes volatils et exaltés ; il provoque les sueurs et les urines , en atténuant les sucs visqueux et grossiers , et en détruisant les obstacles qu ' il rencontre dans les petits tuyaux , et qui empêchaient l ' écoulement des liqueurs . |
+| source.excerpts.85.words.0 | aromatique |
+| source.excerpts.85.words.1 | estragon |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/64cd5048-c973-50d3-8439-4dde761b8ed1 |
+| source.excerpts.86.value | Le P .LABAT ( Nouveau voyage aux îles de l ' Amérique , tome Ier ) dit fort à propos que « leur » goût et leur odeur restent en Amérique ; le sucre et le feu » altèrent nécessairement l ' un et l ' autre .J ' en ai apporté en » France ( ajoute - t - il ) que j ' avais fait faire à la Martinique » avec tout le soin possible , mais qui ne me paraissent plus » que comme de la filasse sucrée , en comparaison de ce qu ' ils » étaient avant qu ' ils fussent confits . |
+| source.excerpts.86.words.0 | odeur |
+| source.excerpts.86.words.1 | leur |
+| source.excerpts.86.words.2 | Amérique |
+| source.excerpts.86.words.3 | îles |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/657307d8-5b4e-52f6-a91c-dcc6d1affb7e |
+| source.excerpts.87.value | En général , on regarde toutes les plantes de ce genre comme antiseptiques .Leur odeur est propre à donner du ton aux fibres du cerveau ; elles sont si salutaires , qu ' à Minorque leur nom est herba sana .Le suc mêlé avec du vinaigre , et pris intérieurement , arrête le flux du sang , guérit le dégoût et l ' innapétence pour les alimens , et fait mourir les vers . |
+| source.excerpts.87.words.0 | odeur |
+| source.excerpts.87.words.1 | elles |
+| source.excerpts.87.words.2 | salutaires |
+| source.excerpts.87.words.3 | Leur |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6697efc7-b7e4-59d5-b704-4530f7be93f2 |
+| source.excerpts.88.value | Cette singulière discussion continua jusqu ' en 1778 , époque à laquelle un arrêt solennel de la Faculté de Paris fut prononcé en faveur du vin de Champagne .Notre intention n ' est point d ' appeler de ce jugement ; et nous abandonnons à leur sort les qualités diététiques du vin de Bourgogne ; mais , pour la saveur et le parfum , nous donnerons la préférence aux produits de la Côte - d ' Or , en dépit des arrêts de la médecine , en faisant seulement observer qu ' un véritable amateur de Bourgogne ne doit pas s ' attendre à recevoir ce vin sans altération , de ce côté du détroit .L ' expérience a démontré que les vins de la Romanée , de Chambertin , du Clos Vougeot , de Richebourg et de Saint - Georges , qui sont tous d ' une délicatesse parfaite , ne pouvaient passer la mer sans danger . |
+| source.excerpts.88.words.0 | parfum |
+| source.excerpts.88.words.1 | vin |
+| source.excerpts.88.words.2 | nous |
+| source.excerpts.88.words.3 | Côte |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/68544b1b-0565-5624-b92e-90227f9c944a |
+| source.excerpts.89.value | On fait rapprocher , par l ' évaporation , cette infusion , de manière à ce qu ' un œuf cru la surnage , et on laisse fermenter cette liqueur jusqu ' à ce qu ' elle exhale une odeur vineuse .Le vin de genièvre conserve l ' odeur et la saveur de ce fruit : on en tire , par la distillation , une liqueur alcoliolique connue sous le nom d ' eau - de - vie de genièvre .Voy . |
+| source.excerpts.89.words.0 | fruit |
+| source.excerpts.89.words.1 | odeur |
+| source.excerpts.89.words.2 | liqueur |
+| source.excerpts.89.words.3 | saveur |
+| source.excerpts.89.words.4 | vin de genièvre |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/68684176-698f-58be-97ea-d4afde95f67b |
+| source.excerpts.90.value | Le sel volatil , huileux , aromatique qui est contenu dans cette plante , la rend très diurétique ; et l ' on peut s ' en servir à la manière du THÉ , selon TOURNEFORT .Elle est usitée en médecine comme stomachique échauffant , propre à chasser les vents de l ' estomac , et soulager la colique venteuse .En général , on regarde toutes les plantes de ce genre comme antiseptiques . |
+| source.excerpts.90.words.0 | chasser |
+| source.excerpts.90.words.1 | stomachique échauffant |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6af6b082-7c2f-5ab1-a738-0bdb7d0b808c |
+| source.excerpts.91.value | CIDRÉ .On doit en général regarder comme les plus saines , dit le docteur LASERVOLE , celles qui flattent le goût et l ' odorat .Il est très important de les choisir bien mûres ; celles qui sont insipides , inodores , ne doivent point faire partie des alimens , car elles fatiguent l ' estomac , et causent des vents . |
+| source.excerpts.91.words.0 | odorat |
+| source.excerpts.91.words.1 | docteur |
+| source.excerpts.92.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6b746e89-c934-5a24-b73b-45598b937446 |
+| source.excerpts.92.value | , etc .Alimens âcres et aromatiques .Voy . |
+| source.excerpts.92.words.0 | aromatiques |
+| source.excerpts.92.words.1 | âcres |
+| source.excerpts.93.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6c5f380b-84f2-513b-b8cf-21eb975f8d5b |
+| source.excerpts.93.value | Avec ces qua - lités , dit LEMÉRY , il convient en tout temps , à toute sorte d ' âge et de tempérament .Quelques - uns en défendent pourtant l ' usage aux mélancoliques , et prétendent que , pour que sa chair soit saine , il faut la manger bouillie , et cuite avec des herbes aromatiques .CHICORÉE sauvage . |
+| source.excerpts.93.words.0 | aromatiques |
+| source.excerpts.93.words.1 | mélancoliques |
+| source.excerpts.94.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6c806445-56b0-5de2-adbd-bc17065acfaa |
+| source.excerpts.94.value | On prépare avec les feuilles une espèce de thé que l ' on nomme thé d ' Europe .On remarque que pour faire sécher convenablement ces feuilles , et développer leur arôme , il faut jeter dessus de l ' eau bouillante , ou les faire infuser dans cette eau pendant quatre ou cinq secondes , les exprimer , les étendre ensuite feuille à feuille , et les faire sécher sur des plaques chaudes à la manière du thé .Les feuilles de véronique sèches sont expectorantes et un peu astringentes : on s ' en sert en infusion théiforme , dans la toux , les maladies de poitrine , et la cachexie . |
+| source.excerpts.94.words.0 | feuilles |
+| source.excerpts.94.words.1 | arôme |
+| source.excerpts.95.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6d3b99cb-4f36-5f7b-be86-fec1b84b75da |
+| source.excerpts.95.value | Les bouillons légers , le pain bien levé , les herbes et les racines tendres , bouillies , sont de cette nature ; ils conviennent surtout aux enfans , aux valétudinaires , et à tous ceux chez qui les digestions ne se font qu ' imparfaitement .La coction des alimens est puissamment aidée dans les premières voies , par les sucs délayans , savonneux , atténuans , aromatiques , amers , et bilieux .Tout ce qui occasione plus de mouvemens dans les muscles , de force dans les fibres , d ' action dans les poumons , contribue beaucoup à la perfection du chyle , en diminuant sa viscosité . |
+| source.excerpts.95.words.0 | aromatiques |
+| source.excerpts.95.words.1 | sucs |
+| source.excerpts.96.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6d5c6d17-f4fa-50b7-9dbd-f46938fbbbc5 |
+| source.excerpts.96.value | On a donné ce nom au thé de la meilleure qualité .C ' est l ' espèce de thé dont les feuilles sont plus larges , mieux roulées , et ont le plus d ' odeur ; sa couleur est d ' un très beau vert .THÉ DU MEXIQUE . |
+| source.excerpts.96.words.0 | odeur |
+| source.excerpts.96.words.1 | sa |
+| source.excerpts.96.words.2 | thé |
+| source.excerpts.97.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6e41fd79-386c-566c-b0bd-1325c360dbc6 |
+| source.excerpts.97.value | Le goût des Romains pour les boissons mélangées , telles que le vin édulcoré par le miel et des substances aromatiques , passa de ces conquérans aux barbares .Bientôt ce fut un besoin de corriger , à force d ' épices , la saveur âcre et dure des vins du moyen âge : ainsi modifiés , ces vins prenaient le nom général de piment , probablement , dit le docteur HENDERSON , parce qu ' ils étaient préparés par les pigmentarii ou les apothicaires , ou plutôt , selon nous , parce que les apothicaires vendaient alors les épices ; car il était du bon ton de servir le vin et les épices séparément , afin que les convives pussent en faire le mélange à leur gré .L ' hypocras était une variété du piment . |
+| source.excerpts.97.words.0 | vins |
+| source.excerpts.97.words.1 | saveur |
+| source.excerpts.98.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/6e5f3257-4dbe-5342-a12d-da5d1c5f0546 |
+| source.excerpts.98.value | On en serre dans les armoires et tiroirs , pour communiquer au linge une bonne odeur .FLEUR DE MUSCADE .Voy . |
+| source.excerpts.98.words.0 | FLEUR |
+| source.excerpts.98.words.1 | MUSCADE |
+| source.excerpts.99.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/71ff36fe-bffc-5105-9870-a3f11547a39c |
+| source.excerpts.99.value | C ' est une espèce de pâté de veau haché avec des champignons , des truffes , des écrevisses , etc ., et beaucoup d ' assaisonnemens aromatiques .Il n ' y a que les personnes qui ont un fort tempérament et un bon estomac qui puissent se permettre cette sorte d ' aliment . |
+| source.excerpts.99.words.0 | aromatiques |
+| source.excerpts.99.words.1 | assaisonnemens aromatiques |
+| source.excerpts.100.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/73c6ab3c-65f9-54e0-84dd-82cf56b87c76 |
+| source.excerpts.100.value | Ce fruit est gros comme une noix de galle , rond , léger , d ' une couleur obscure , ayant l ' odeur et la saveur du girofle , mais plus faible : c ' est la raison pour laquelle on lui a donné le nom de noix de girofle ; il est aussi connu sous celui de noix de Madagascar , parce qu ' il nous est apporté de ce pays .Ce fruit est céphalique , stomachique et carminatif .Voy . |
+| source.excerpts.100.words.0 | carminatif |
+| source.excerpts.100.words.1 | stomachique |
+| source.excerpts.101.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/77040983-f206-52c9-8009-247c77a0d865 |
+| source.excerpts.101.value | ROSSOLI .On donne le nom de rossoli à une liqueur agréable qu ' on fait avec de l ' eau - de - vie brûlée , du sucre , de la cannelle , et quelquefois certains autres aromates .Il y a une sorte de rossoli , dit des six graines , ou clairet , qui se fait avec les semences d ' anis , de fenouil , d ' aneth , de coriandre , de carvi , de daucus de Crète . |
+| source.excerpts.101.words.0 | agréable |
+| source.excerpts.101.words.1 | cannelle |
+| source.excerpts.101.words.2 | liqueur |
+| source.excerpts.101.words.3 | aromates |
+| source.excerpts.101.words.4 | eau |
+| source.excerpts.101.words.5 | sucre |
+| source.excerpts.102.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/796c3636-a731-5d62-8a4b-8936c3bd9dfa |
+| source.excerpts.102.value | On les reconnaît à leurs petits pédicules cylindriques , crépus , ridés à leur base , très courts , qui soutiennent des petites têtes de la grosseur d ' un pois .Toute la substance de ce champignon est blanche , tant à l ' intérieur qu ' à l ' extérieur , d ' une odeur et d ' une saveur agréables .On s ' en sert dans l ' assaisonnement des cuisines . |
+| source.excerpts.102.words.0 | odeur |
+| source.excerpts.102.words.1 | agréables |
+| source.excerpts.102.words.2 | saveur |
+| source.excerpts.102.words.3 | substance de ce champignon |
+| source.excerpts.103.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7a00c70c-8ce8-5d6d-b11f-000b7fe6373e |
+| source.excerpts.103.value | POMME D ' AMOUR , POMME DORÉE , TOMATE .Cette plante a une odeur vireuse , désagréable ; on la cultive dans les jardins : les Italiens mangent son fruit en salade .Les feuilles sont narcotiques , assoupissantes ; on les fait cuire dans l ' eau , et on les applique extérieurement , pour apaiser les douleurs , pour arrêter les fluxions . |
+| source.excerpts.103.words.0 | désagréable |
+| source.excerpts.103.words.1 | odeur |
+| source.excerpts.103.words.2 | vireuse |
+| source.excerpts.103.words.3 | plante |
+| source.excerpts.104.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7bd482a7-6e0c-5398-b913-48c1e301afd5 |
+| source.excerpts.104.value | Ce goût , qui venait des anciens , avait dégénéré en véritable passion chez les Romains A Rome , les noms des lieux de réunion publique étaient dérivés du commerce qu ' on y faisait des boissons chaudes , et les citoyens qui n ' avaient pas leur ménage se rendaient aux thermopolia , comme aujourd ' hui les modernes fréquentent les cafés .Le goût des Romains pour les boissons mélangées , telles que le vin édulcoré par le miel et des substances aromatiques , passa de ces conquérans aux barbares .Bientôt ce fut un besoin de corriger , à force d ' épices , la saveur âcre et dure des vins du moyen âge : ainsi modifiés , ces vins prenaient le nom général de piment , probablement , dit le docteur HENDERSON , parce qu ' ils étaient préparés par les pigmentarii ou les apothicaires , ou plutôt , selon nous , parce que les apothicaires vendaient alors les épices ; car il était du bon ton de servir le vin et les épices séparément , afin que les convives pussent en faire le mélange à leur gré . |
+| source.excerpts.104.words.0 | vin |
+| source.excerpts.104.words.1 | aromatiques |
+| source.excerpts.104.words.2 | substances |
+| source.excerpts.104.words.3 | boissons |
+| source.excerpts.104.words.4 | Romains |
+| source.excerpts.105.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7d0ec1a1-225d-508b-86cf-3dee3db4e5d1 |
+| source.excerpts.105.value | Le bouc est le mâle de la chèvre .Il a du poil , et non de la laine comme le bélier ; il pue beaucoup , et cette odeur n ' est pas dangereuse .La saveur de la chair de cet animal , ainsi que celle de la chèvre , est sauvagine et peu agréable . |
+| source.excerpts.105.words.0 | odeur |
+| source.excerpts.105.words.1 | laine |
+| source.excerpts.105.words.2 | il |
+| source.excerpts.105.words.3 | beaucoup |
+| source.excerpts.105.words.4 | pue |
+| source.excerpts.105.words.5 | pas dangereuse |
+| source.excerpts.106.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7d53aa13-1e4c-56fb-b44c-11e64ca97b11 |
+| source.excerpts.106.value | THÉOPHRASTE , dans son Traité des plantes , nous apprend qu ' on enveloppait quelquefois les grappes d ' une cloché , pour les garantir de la trop grande ardeur du soleil .Les différentes manières de préparer le moût , ses noms et ses qualités , lorsqu ' il avait subi quelque transformation , le pressoir , le mélange de l ' eau salée , et plusieurs autres ingrédiens étrangers à nos goûts , tels que la poix , des bois du midi , des herbes aromatiques , sont traités , dans l ' ouvrage du docteur HENDERSON , d ' une manière claire et complète .Nous admettons , avec lui que quelques - unes des substances qui devaient être ajoutées au vin , d ' après COLUMELLE , n ' avaient d ' autre résultat que de le clarifier ou de lui communiquer un parfum quelconque ; mais , après tout , ce chapitre ne donne pas une haute idée du goût des anciens , ni de l ' excellence de leurs vins , s ' ils étaient préparés se - lon les prescriptions de cet auteur . |
+| source.excerpts.106.words.0 | aromatiques |
+| source.excerpts.106.words.1 | herbes |
+| source.excerpts.106.words.2 | bois du midi |
+| source.excerpts.106.words.3 | docteur HENDERSON |
+| source.excerpts.107.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7da14f00-d667-56ad-8db4-a2b97207224f |
+| source.excerpts.107.value | On nous apporte les oranges de la Provence , de la Sioutat , de Nice , du Portugal , de l ' Amérique , de la Chine et de plu - sieurs autres endroits .Les meilleures et les plus estimées pour leur bon goût , sont celles qui croissent aux pays chauds , nonseulement parce que le terrain de ces lieux étant chargé de beaucoup de soufres exaltés et de sels volatils , en communique une grande quantité à ces fruits , et leur donne une odeur agréable , mais encore parce que la chaleur du soleil y digère et y mûrit plus parfaitement leur suc , et le rend d ' un goût plus délicieux .On exprime le suc de l ' orange amère , on le mêle avec du sucre et de l ' eau , et l ' on en fait une boisson fort agréable , appelée communément orangeade , qui peut être donnée aux fébricitans dans le chaud de la fièvre . |
+| source.excerpts.107.words.0 | agréable |
+| source.excerpts.107.words.1 | odeur |
+| source.excerpts.107.words.2 | fruits |
+| source.excerpts.107.words.3 | sels volatils |
+| source.excerpts.107.words.4 | chauds |
+| source.excerpts.107.words.5 | soufres exaltés |
+| source.excerpts.108.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7dbe8564-373b-59a4-b8f5-5e99af246e10 |
+| source.excerpts.108.value | On lui a donné le nom de poivr d ' Inde ou de Guinée .Les gousses ont une saveur âcre et brûlante dans leur maturité , ou lorsqu ' elles sont rouges .Ce fruit sse pour nourrissant , restaurant et bienfaisant aux personnes bles et menacées de consomption ; on en fait beaucoup de et presque tous les médecins français , espagnols et itales recommandent dans les desserts , avec d ' autres ingréd ' une nature restaurante et corroborative . |
+| source.excerpts.108.words.0 | âcre |
+| source.excerpts.108.words.1 | saveur |
+| source.excerpts.108.words.2 | gousses |
+| source.excerpts.109.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7df14fa9-f44b-5bdd-b803-4c05a9ec1b08 |
+| source.excerpts.109.value | COCO .C ' est le fruit de quelques palmiers des Indes , de l ' Amérique et de l ' Afrique , qui offre des coques grosses comme la tête d ' un homme , qui contiennent dans leur intérieur une sorte de moelle blanchâtre , bonne à manger , d ' un goût qui approche de la noisette et de l ' amande ; aussi , on en fait des émulsions , et l ' on en tire une huile très fine , et qui est d ' un grand usage dans l ' Inde : quand les cocos ne sont pas encore mûrs , on en obtient une grande quantité d ' eau claire , odorante et fort agréable au goût : Il y a des cocos qui en contiennent jusqu ' à trois ou quatre livres .Lorsque le fruit est cuit , il n ' en reste presque plus . |
+| source.excerpts.109.words.0 | odorante |
+| source.excerpts.109.words.1 | fort agréable |
+| source.excerpts.109.words.2 | palmiers |
+| source.excerpts.109.words.3 | eau claire |
+| source.excerpts.110.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/7fa67ed2-1ede-50aa-9598-17cfca1ca544 |
+| source.excerpts.110.value | La fleur d ' orange convient en tout temps aux personnes âgées , aux phlegmatiques , aux mélancoliques , et à ceux dont l ' estomac est faible et ne digère qu ' avec peine .On doit choisir la fleur d ' orange blanche , belle , d ' une odeur agréable et nouvellement cueillie ; elle contient beaucoup d ' huile exaltée et de sel volatil .FLEZ et FLETELET . |
+| source.excerpts.110.words.0 | agréable |
+| source.excerpts.110.words.1 | odeur |
+| source.excerpts.110.words.2 | fleur d ' orange blanche |
+| source.excerpts.111.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/80b6af47-a7ed-5667-9c65-979ba7f93bce |
+| source.excerpts.111.value | L ' eau distillée de fraises passe pour fortifier le cœur , pour soulager dans les maladies de la poitrine , pour purifier le sang , et , prise en gargarisme , pour guérir les ulcères de la bouche et l ' esquinancie .Il faut les choisir grosses , bien nourries , mûres , pleines de suc , de bonne odeur et d ' un goût doux et vineux .La saison ordinaire des fraises commence au mois de mai jusqu ' à la mi - juillet . |
+| source.excerpts.111.words.0 | odeur |
+| source.excerpts.111.words.1 | goût |
+| source.excerpts.112.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/81620701-2f28-5cd8-a016-fbebb777af02 |
+| source.excerpts.112.value | BASILIC .Petite plante très odoriférante .Il y en a de deux espèces . |
+| source.excerpts.112.words.0 | odoriférante |
+| source.excerpts.112.words.1 | plante |
+| source.excerpts.113.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8454e029-1bc6-5c21-bb88-6ba2b18ef1ef |
+| source.excerpts.113.value | Les aromats racines sont le galanga , le gingembre , la zé — doaire , le calamus aromaticus , le souchet , l ' iris , etc .Les aromats bois sont l ' aloès , le santal citrin , etc .Les aromats écorces sont la cannelle , la casse ligneuse , l ' orange , etc . |
+| source.excerpts.113.words.0 | santal |
+| source.excerpts.113.words.1 | aloès |
+| source.excerpts.113.words.2 | aromats |
+| source.excerpts.114.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/85582536-45d8-5964-8963-50c719db2842 |
+| source.excerpts.114.value | En médecine , on ne se sert ordinairement que de la racine , qui est âcre , un peu amère , blanche en dedans , extérieurement d ' un blanc verdâtre quand elle est récente , mais rougeâtre lorsqu ' elle est sèche .Son odeur aromatique est agréable , quoique tirant un peu sur l ' ail ou le porreau .Les propriétés qu ' on lui attribue sont d ' être chaude et sèche , antiseptique , apéritive , atténuante , et ainsi propre à lever les obstructions du foie et de la rate , à faire uriner , procurer les menstrues , et préserver de la contagion . |
+| source.excerpts.114.words.0 | odeur |
+| source.excerpts.114.words.1 | Son |
+| source.excerpts.114.words.2 | ail |
+| source.excerpts.114.words.3 | porreau |
+| source.excerpts.114.words.4 | aromatique est agréable |
+| source.excerpts.115.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8653638c-dbc2-5bb5-8185-65c2fcff605d |
+| source.excerpts.115.value | Cette racine , que les Chinois nomment encore petsi est beaucoup employée par eux et les Japonais , dans l ' état de santé , et contre les maladies ; il passe pour être sto - machique , et rendre les forces aux personnes épuisées .L ' odeur agréable du ginseng , et sa saveur douce , un peu âcre , mêlée de quelque amertume , semblent la rapprocher du meum et de l ' angélique pour ses vertus .Il est bien rare de s ' en procurer du bon et sans vermoulure . |
+| source.excerpts.115.words.0 | agréable |
+| source.excerpts.115.words.1 | douce |
+| source.excerpts.115.words.2 | odeur |
+| source.excerpts.115.words.3 | angélique |
+| source.excerpts.115.words.4 | saveur |
+| source.excerpts.115.words.5 | meum |
+| source.excerpts.115.words.6 | ginseng |
+| source.excerpts.116.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8683fb71-49af-587b-adf4-cfb2d5cbbf76 |
+| source.excerpts.116.value | Sans entrer dans ces détails , nous dirons que la maturité est accompagnée de plusieurs phénomènes curieux .A mesure qu ' un fruit mûrit , il perd son âpreté , et les substances sucrées et aromatiques s ' y développent .L ' exposition à la lumière , au soleil , hâte évidemment sa maturité . |
+| source.excerpts.116.words.0 | aromatiques |
+| source.excerpts.116.words.1 | sucrées |
+| source.excerpts.116.words.2 | substances |
+| source.excerpts.117.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/86c9dd8a-c410-5879-9332-4c66bd9b2167 |
+| source.excerpts.117.value | RACK , Le rack est une liqueur spiritueuse très forte , que les habitans de l ' Indostan tirent , par la fermentation et la distillation , du sucre , des cannes à sucre mêlées avec le vin de cocotier , et quelquefois l ' écorce aromatique d ' un arbre nommé jugra .Cette liqueur est très enivrante , attaque facilement les nerfs , ce qui la rend dangereuse .Les Anglais font leur punch avec un rack qu ' on croit extrait du riz , par la distillation ; il conserve un goût empyreumatique fort rebutant . |
+| source.excerpts.117.words.0 | liqueur |
+| source.excerpts.117.words.1 | enivrante |
+| source.excerpts.117.words.2 | attaque facilement les nerfs |
+| source.excerpts.118.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8749b740-0301-5248-831b-7a754cca8adb |
+| source.excerpts.118.value | On trouve sur cet aliment une observation singulière , dans les auteurs d ' Histoire naturelle et de diète ; c ' est qu ' il se conserve bien plus longtemps que les autres sans se corrompre .ALDROVANDE dit qu ' un morceau de paon , cuit en 1672 , lui fut présenté en 1698 , et qu ' il avait une odeur agréable , approchant de celle du fenouil , quoiqu ' elle fût un peu vermoulue .On n ' a pas dit à ALDROVANDE les moyens , peut - être bien simples , qu ' on avait employés pour le conserver . |
+| source.excerpts.118.words.0 | agréable |
+| source.excerpts.118.words.1 | odeur |
+| source.excerpts.118.words.2 | celle |
+| source.excerpts.118.words.3 | fenouil |
+| source.excerpts.118.words.4 | morceau de paon |
+| source.excerpts.118.words.5 | en 1672 |
+| source.excerpts.118.words.6 | en 1698 |
+| source.excerpts.119.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/87fea5af-895a-5b54-9e55-a684409d7d6b |
+| source.excerpts.119.value | Lesbos , Chio et Thasos fournissaient les plus estimés ; leur couleur était d ' un jaune pâle , et leur bouquet d ' une odeur exquise .Le vin de Lesbos avait moins de parfum , mais plus de saveur ; celui de Thasos , généreux , doux , vieillissait lentement ; mais l ' âge lui donnait une odeur agréable de pomme .Le docteur CLARKE assure que les médailles de Chio , qui ne sont pas rares dans le Levant , ont toutes quelques rapports au vin de cette île , qui conserve encore son ancienne célébrité ; elles représentent , d ' un côté , un sphinx couronné de raisins , et de l ' autre , une amphore avec quelques emblèmes de la fertilité de l ' île . |
+| source.excerpts.119.words.0 | Thasos |
+| source.excerpts.119.words.1 | agréable |
+| source.excerpts.119.words.2 | parfum |
+| source.excerpts.119.words.3 | odeur |
+| source.excerpts.119.words.4 | vin |
+| source.excerpts.119.words.5 | pomme |
+| source.excerpts.119.words.6 | saveur |
+| source.excerpts.119.words.7 | Lesbos |
+| source.excerpts.120.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/88c1f74a-819b-5014-8535-2ba72274c5b8 |
+| source.excerpts.120.value | Elle convient , en temps froid , aux vieillards , aux phlegmatiques , aux mélancoliques , à ceux qui ont un estomac faible et qui ne digère pas bien ; mais elle ne convient point aux jeunes gens d ' un tempérament chaud et bilieux .La cannelle en poudre corrige la mauvaise odeur de l ' haleine , fortifie l ' estomac et le cœur provoque les mois , aide à l ' accouchement , aussi bien qu ' à la digestion , fait sortir les vents ; elle soulage les douleurs de ventre et celles des reins provenant de causes froides , les maladies des yeux , la suppression d ' urine et autres maladies occasionées par le froid .On la met au nombre des substances chaudes et sèches . |
+| source.excerpts.120.words.0 | mauvaise |
+| source.excerpts.120.words.1 | odeur |
+| source.excerpts.120.words.2 | cannelle |
+| source.excerpts.121.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/88e8ca8c-964e-5787-b6bc-fa1e663d6e1c |
+| source.excerpts.121.value | On les pile pour les mettre en cataplasme sur un estomac débile , et qui ne digère que difficilement .En les flairant souvent , on peut recouvrer l ' odorat affaibli .Les feuilles sèches , pulvérisées et bues avec du vin , font mourir les vers des enfans . |
+| source.excerpts.121.words.0 | odorat |
+| source.excerpts.121.words.1 | affaibli |
+| source.excerpts.122.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/89ce824b-c108-558c-a707-9836b344b75b |
+| source.excerpts.122.value | On mêle ordinairement le suc de citron avec du sucre , pour le rendre plus agréable et moins en état de produire de mauvais effets : les parties rameuses de l ' huile du sucre lient et embarrassent les acides du citron , et les empêchent de picoter trop fortement l ' estomac ou les autres parties du corps .Il faut choisir les citrons mûrs , assez gros , d ' une odeur et d ' un goût aromatique et piquant : les meilleurs sont ceux qui viennent dans les pays chauds .Il y a des citrons aigres et des citrons doux ; les doux ne se servent guère qu ' aux fruits dans les repas . |
+| source.excerpts.122.words.0 | aromatique |
+| source.excerpts.122.words.1 | odeur |
+| source.excerpts.122.words.2 | citrons |
+| source.excerpts.122.words.3 | goût |
+| source.excerpts.123.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8dcefbfb-cf65-5369-b8cc-bb06bb988090 |
+| source.excerpts.123.value | Les doux sont peu en usage , si ce n ' est l ' écorce , que l ' on confit ; les aigres sont beaucoup employés .On doit choisir les limons assez mûrs , bien colorés , d ' une odeur agréable , ressemblant à celle du citron .L ' écorce des limons aide à la digestion , donne une bonne bouche , ranime la masse du sang et les esprits ; elle produit les mêmes mauvais effets que l ' écorce de citron . |
+| source.excerpts.123.words.0 | agréable |
+| source.excerpts.123.words.1 | odeur |
+| source.excerpts.123.words.2 | citron |
+| source.excerpts.123.words.3 | limons |
+| source.excerpts.124.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8f373307-1c04-51d2-a3b4-fe47c65a55e8 |
+| source.excerpts.124.value | On en met aussi dans les infusions et décoctions carminatives ; on s ' en sert pour procurer les règles , faire passer les fleurs blanches , rendre fécondes les femmes qui passaient pour stériles à cause de la trop grande humidité de leur matrice .On préfère la graine d ' ammi apportée de Candie ou d ' Alexandrie , parce qu ' elle est plus aromatique .A son défaut on emploie celle de France , surtout des provinces méridionales . |
+| source.excerpts.124.words.0 | Candie |
+| source.excerpts.124.words.1 | Alexandrie |
+| source.excerpts.124.words.2 | aromatique |
+| source.excerpts.124.words.3 | graine |
+| source.excerpts.125.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/8feb10ee-b2e1-55ec-bfe4-8e9a9148e808 |
+| source.excerpts.125.value | Le gigot est un des mets les plus succulens et des plus substantiels .Lorsqu ' il vient des ARDENNES ou de PRÉSALÉ , il est difficile de manger une viande plus agréable : aussi on les fait rôtir , tandis que ceux qui sont plus fermes et moins bons , sont cuits souvent à la braise , ou en étuvée avec des substances aromatiques .Cette viande , qui convient presque à tout le monde , et dans toutes les circonstances , restaure essentiellement les personnes qui ont coutume de faire de violens exercices , et qui ne sont pas dans la première convalescence . |
+| source.excerpts.125.words.0 | substances |
+| source.excerpts.125.words.1 | substances aromatiques |
+| source.excerpts.125.words.2 | ARDENNES |
+| source.excerpts.126.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/907418fc-a722-5841-80cb-0a3f65e87b51 |
+| source.excerpts.126.value | Ils échauffent beaucoup quand on en use avec excès ; ils contiennent beaucoup de sel essentiel et d ' huile aromatique .L ' huile qu ' on en tire est plus grossière qu ' aucune de celles qui se tirent des autres aromates , puisqu ' elle va au fond de l ' eau , et cette grossièreté même faitla qualité brûlante et caustique qu ' on remarque dans le girofle ; c ' est pourquoi cet assaisonnement demande encore plus de précautions que le poivre et le gingembre .Le girofle convient en hiver aux vieillards , aux phlegmatiques , et à ceux qui abondent en humeurs grossières ; mais les jeunes gens d ' un tempérament chaud et bilieux doivent s ' en abstenir , ou en user modérément . |
+| source.excerpts.126.words.0 | aromates |
+| source.excerpts.126.words.1 | caustique |
+| source.excerpts.126.words.2 | brûlante |
+| source.excerpts.126.words.3 | girofle |
+| source.excerpts.127.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/90beca39-ed58-5642-a013-bec2d9c04f47 |
+| source.excerpts.127.value | Les aromats bois sont l ' aloès , le santal citrin , etc .Les aromats écorces sont la cannelle , la casse ligneuse , l ' orange , etc .Les aromats fleurs sont celles de stæchas , de roses , d ' œillets , de safran , de lavande , etc . |
+| source.excerpts.127.words.0 | orange |
+| source.excerpts.127.words.1 | cannelle |
+| source.excerpts.127.words.2 | aromats |
+| source.excerpts.127.words.3 | casse ligneuse |
+| source.excerpts.128.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9139495c-571d-5929-b4e4-7880dfcbc7ee |
+| source.excerpts.128.value | On remarque que pour faire sécher convenablement ces feuilles , et développer leur arôme , il faut jeter dessus de l ' eau bouillante , ou les faire infuser dans cette eau pendant quatre ou cinq secondes , les exprimer , les étendre ensuite feuille à feuille , et les faire sécher sur des plaques chaudes à la manière du thé .Les feuilles de véronique sèches sont expectorantes et un peu astringentes : on s ' en sert en infusion théiforme , dans la toux , les maladies de poitrine , et la cachexie .On prépare avec la véronique une eau distillée . |
+| source.excerpts.128.words.0 | astringentes |
+| source.excerpts.128.words.1 | expectorantes |
+| source.excerpts.128.words.2 | feuilles de véronique sèches |
+| source.excerpts.129.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/914b791f-0e83-54f2-aa80-838bcebd2701 |
+| source.excerpts.129.value | Le goût exquis et le parfum du fruit d ' ananas .rendent cette plante précieuse ; il réunit la saveur de plusieurs fruits excellens .On le mange cru ou confit , ou macéré dans du vin . |
+| source.excerpts.129.words.0 | fruits |
+| source.excerpts.129.words.1 | saveur |
+| source.excerpts.130.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/94adedb2-dcba-5258-abe2-519d1e87aff2 |
+| source.excerpts.130.value | HERNANDEZ l ' estime propre pour fortifier l ' estomac et le cerveau , pour chasser les vents , exciter l ' urine , etc .La vanille entre dans la composition du chocolat , et sert à lui donner une odeur agréable .Voy . |
+| source.excerpts.130.words.0 | agréable |
+| source.excerpts.130.words.1 | odeur |
+| source.excerpts.130.words.2 | vanille |
+| source.excerpts.131.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/94ff45ed-3f64-5e59-898e-cbaf356ebef0 |
+| source.excerpts.131.value | Le plus estimé se fait dans un petit bourg nommé Corbière , situé à trois lieues de Narbonné .Plusieurs ont avancé que l ' excellence de ce miel venait des romarins qui sont très communs dans cet endroit ; ce qui prouve que cela ne vient pas plutôt des romarins que des autres plantes odorantes qui s ' y trouvent , c ' est que l ' on a observé que dans certaines années où les fortes gelées faisaient périr tous les romarins , le miel n ' en était pas moins excellent .Comme l ' odeur et la saveur des miels ne sont pas toujours les mêmes , il est assez probable que ces différences sont dues à la diverse nature des fleurs sur lesquelles ils ont été récoltés . |
+| source.excerpts.131.words.0 | plantes |
+| source.excerpts.131.words.1 | odorantes |
+| source.excerpts.131.words.2 | miel |
+| source.excerpts.131.words.3 | romarins |
+| source.excerpts.131.words.4 | cet endroit |
+| source.excerpts.131.words.5 | faisaient périr |
+| source.excerpts.132.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/95f85d4f-36e2-502b-99f4-506e6addfa4d |
+| source.excerpts.132.value | Fruit d ' une espèce de limonier qui croît dans l ' Assyrie , dans la Perse , et que l ' on cultive dans les pays chauds .Ce fruit est fait comme une orange , mais beaucoup plus gros , d ' un jaune plus foncé , et d ' une odeur moins forte : son écorce est médiocrement épaisse , inégale et crevassée ; sa pulpe est semblable à celle du citron , remplie de suc , d ' un goût approchant de celui de l ' orange , mais qui n ' est point agréable .La pomme d ' Adam n ' est point employée en médecine , à cause de sa rareté . |
+| source.excerpts.132.words.0 | orange |
+| source.excerpts.132.words.1 | fruit |
+| source.excerpts.132.words.2 | odeur |
+| source.excerpts.132.words.3 | sa |
+| source.excerpts.132.words.4 | moins forte |
+| source.excerpts.132.words.5 | son écorce |
+| source.excerpts.133.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/988626a2-269a-50b9-9f7d-73b3b986390d |
+| source.excerpts.133.value | La grande absinthe est plus amère que la petite , ce qui fait croire qu ' elle a plus de vertu .Elles sont toutes les deux aromatiques et puissamment vermifuges ; elles sont encore cordiales , stomachiques et emménagogues .On les recommande dans les obstructions du foie , de la rate et des autres viscères ; dans les jaunisses , les pâles couleurs , les coliques venteuses , les flux de ventre , et dans toutes les maladies qui ont pour principe les mauvaises digestions . |
+| source.excerpts.133.words.0 | aromatiques |
+| source.excerpts.133.words.1 | vermifuges |
+| source.excerpts.134.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9d47a8e7-e46a-51e1-aece-2188ceed61a8 |
+| source.excerpts.134.value | Eau de mélisse .Cette eau , aromatique et spiritueuse , est propre pour les maladies hystériques , pour les maladies du cerveau , pour fortifier le cœur et l ' estomac , pour les palpitations et les faiblesses , pour résister au venin .La dose en est depuis une dragme jusqu ' à une once . |
+| source.excerpts.134.words.0 | aromatique |
+| source.excerpts.134.words.1 | spiritueuse |
+| source.excerpts.134.words.2 | eau |
+| source.excerpts.135.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9dd635e3-886f-5bed-9e48-7140356b434a |
+| source.excerpts.135.value | Elle est employée dans les alimens et en médecine ; on la confit tout entière ou l ' on en fait des pâles et des conserves ; on en tire par la distillation une eau de fort bonne odeur , et qui est très usitée dans les potions cordiales , hystériques et céphaliques .Son odeur agréable vient de ce que quelques soufres et quelques sels de la fleur d ' orange se sont élevés avec l ' eau et s ' y sont mêlés ; elle réjouit le cœur et le cerveau ; elle fortifie l ' estomac et aide à la digestion par ses principes volatils , qui divisent et qui atténuent les parties grossières des alimens , raniment la masse du sang et augmentent la quantité des esprits .L ' usage immodéré de cette fleur échauffe , rend la bile plus âcre , et peut causer par ce moyen différentes maladies . |
+| source.excerpts.135.words.0 | agréable |
+| source.excerpts.135.words.1 | odeur |
+| source.excerpts.135.words.2 | Son |
+| source.excerpts.135.words.3 | soufres |
+| source.excerpts.135.words.4 | sels de la fleur d ' orange |
+| source.excerpts.136.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9e31f3d6-0a53-58f2-ad16-5cfb11e2e8aa |
+| source.excerpts.136.value | Il est évident qu ' à moins de comparer leurs qualités à celles des vins modernes , il est impossible de nous en donner une idée exacte , et quels que soient les efforts du docteur HENDERSON pour arriver à ce but , on s ' aperçoit aisément des difficultés qu ' il a dû rencontrer dans cette partie de son travail .Il fait observer , avec raison , « qu ' il n ' est » pas toujours très facile de déterminer , d ' une manière précise , » les qualités distinctives des vins modernes , et que cette tâche » est nécessairement plus difficile à remplir pour les vins des » anciens ; mais que les termes au moyen desquels nous carac » térisons l ' odeur , la saveur et les propriétés essentielles des » nôtres , ayant aussi été employés dans l ' antiquité , on peut » déterminer , par analogie , jusqu ' à un certain point , quel » ques - unes des propriétés des vins anciens , et même établir » auxquels des produits de nos côteaux ces vins ressemblent » davantage .» La douceur était une qualité jugée à peu près indispensable dans les vins des anciens . |
+| source.excerpts.136.words.0 | odeur |
+| source.excerpts.136.words.1 | vins |
+| source.excerpts.137.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9e4cc88c-4e87-528f-ba18-3ab599f4a912 |
+| source.excerpts.137.value | On prépare aussi une boisson avec les groseilles , l ' eau et le sucre , appelée eau de groseilles , qui est en usage dans les grandes chaleurs de l ' été , pour rafraîchir et pour humecter .Enfin , l ' on fait avec les groseilles un sirop très usité en médecine , et même parmi les alimens ; il est rafraîchissant , humectant et fort agréable au goût : on le mêle dans de l ' eau et on le fait boire aux fébricitans .GRUAU . |
+| source.excerpts.137.words.0 | humectant |
+| source.excerpts.137.words.1 | rafraîchissant |
+| source.excerpts.137.words.2 | groseilles |
+| source.excerpts.138.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9efed51d-73e7-5235-a72a-be5c3cc0df2f |
+| source.excerpts.138.value | Les aromats gommes ou résines sont le storax , le benjoin , la myrrhe , l ' encens , le mastic , le galbanum , les baumes de la Mecque et du Pérou , le camphre , l ' ambre gris , etc .Nous appelons herbes aromatiques , celles qui ont une odeur forte et en même temps agréable ; telles que la sauge , le smyr - nium , le thym , la lavande , le basilic , le romarin , la sarriette , la citronnelle , la marjolaine , le serpolet , etc .Le genévrier , le liquidambar , sont des arbres aromatiques . |
+| source.excerpts.138.words.0 | agréable |
+| source.excerpts.138.words.1 | forte |
+| source.excerpts.138.words.2 | odeur |
+| source.excerpts.138.words.3 | thym |
+| source.excerpts.138.words.4 | Nous |
+| source.excerpts.138.words.5 | aromatiques |
+| source.excerpts.138.words.6 | herbes |
+| source.excerpts.138.words.7 | basilic |
+| source.excerpts.138.words.8 | romarin |
+| source.excerpts.138.words.9 | lavande |
+| source.excerpts.138.words.10 | sauge |
+| source.excerpts.138.words.11 | smyr - nium |
+| source.excerpts.139.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9f7bcc2f-8361-5243-9dcc-150b22f29e90 |
+| source.excerpts.139.value | MARJOLAINE .Plante odoriférante dont on se sert dans les sauces pour donner aux viandes une saveur plus relevée .La marjolaine contient un peu de phlegme , beaucoup de sel volatil et d ' huile exaltée ; elle convient , dans les temps froids , aux mélancoliques , aux phlegmatiques , et à ceux dont l ' estomac ne digère qu ' avec peine . |
+| source.excerpts.139.words.0 | viandes |
+| source.excerpts.139.words.1 | odoriférante |
+| source.excerpts.140.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/9fe0a9a3-2135-5673-9c6f-4ef67ef2bf85 |
+| source.excerpts.140.value | Les meilleurs tamarins ont une acidité agréable , une odeur vineuse ; ils doivent être choisis nouveaux , noirs , et de consistance assez ferme , cependant moelleuse .On doit prendre garde qu ' ils n ' aient été tenus dans une cave ; ce que l ' on reconnaîtra à leur consistance trop liquide , à l ' odeur de cave , et au gonflement des semences .On s ' en sert pour lâcher le ventre et pour rafraîchir : on les indique aussi dans les fièvres continues , soit en bol , soit en décoction et en lavement , pour ces divers cas . |
+| source.excerpts.140.words.0 | odeur |
+| source.excerpts.140.words.1 | cave |
+| source.excerpts.141.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/a0e5fed5-3f9d-573e-acc3-d9c7da133e0c |
+| source.excerpts.141.value | Vin de genièvre .Liqueur vineuse obtenue par la fermentation de l ' infusion des baies de genièvre .On fait rapprocher , par l ' évaporation , cette infusion , de manière à ce qu ' un œuf cru la surnage , et on laisse fermenter cette liqueur jusqu ' à ce qu ' elle exhale une odeur vineuse . |
+| source.excerpts.141.words.0 | Liqueur |
+| source.excerpts.141.words.1 | vineuse |
+| source.excerpts.141.words.2 | baies de genièvre |
+| source.excerpts.142.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/a15e91c6-3785-57de-b1a2-a2cfd3a82982 |
+| source.excerpts.142.value | BERGAMOTTE .La bergamotte est le fruit d ' une espèce de citronnier , qui est plus alongé que le citron , qui a une odeur plus agréable , et qu ' on a souvent nommé cédrat .Le suc de bergamotte est plus acide que celui du citron ; c ' est pourquoi on en fait rarement des limonades , que la quantité de sucre qu ' elles nécessiteraient renchérirait beaucoup . |
+| source.excerpts.142.words.0 | odeur |
+| source.excerpts.142.words.1 | plus agréable |
+| source.excerpts.142.words.2 | espèce |
+| source.excerpts.142.words.3 | bergamotte |
+| source.excerpts.142.words.4 | citronnier |
+| source.excerpts.143.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/a1fa5fd7-889a-5f9c-975a-771dff1d1dc4 |
+| source.excerpts.143.value | MACOQUIER .C ' est un fruit commun dans les Indes - Occidentales , qui a la forme de nos courges , la saveur du vin cuit , et qui est très agréable ; il relâche un peu ; il est encore très rafraîchissant et très tempérant .Mais ce n ' est pas une moindre erreur de prétendre que l ' usage du maigre est plus salutaire que celui de la viande ; que les alimens maigres se digèrent mieux , qu ' ils sont plus nourrissans , qu ' ils engraissent et fortifient davantage ; qu ' ils produisent un sang plus gras , plus lacteux , plus abondant , et donnent par conséquent plus d ' embonpoint : cette opinion n ' est pas moins opposée aux principes de la bonne physique qu ' à l ' expérience . |
+| source.excerpts.143.words.0 | Indes |
+| source.excerpts.143.words.1 | saveur |
+| source.excerpts.143.words.2 | cuit |
+| source.excerpts.144.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/a222989a-b597-5b1a-8e57-5a5e0ba594f4 |
+| source.excerpts.144.value | Sa fleur est appelée anthos , qui signifie fleur par excellence .Le romarin est stimulant , nerval , antispasmodique , emménagogue , stomachique ; employé extérieurement , il est résolutif : on s ' en sert en infusion , à l ' eau , au vin , à l ' alcohol , au vinaigre .On en prépare une eau distillée , une huile volatile , un esprit aromatique , un miel sirupeux , une conserve , etc . |
+| source.excerpts.144.words.0 | stimulant |
+| source.excerpts.144.words.1 | romarin |
+| source.excerpts.144.words.2 | antispasmodique |
+| source.excerpts.144.words.3 | stomachique |
+| source.excerpts.144.words.4 | emménagogue |
+| source.excerpts.144.words.5 | nerval |
+| source.excerpts.145.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/a3bf7205-b2ab-57f5-9bab-7dcf80c574b5 |
+| source.excerpts.145.value | Cette liqueur est très enivrante , attaque facilement les nerfs , ce qui la rend dangereuse .Les Anglais font leur punch avec un rack qu ' on croit extrait du riz , par la distillation ; il conserve un goût empyreumatique fort rebutant .On dit qu ' on en prépare dans l ' Inde une autre sorte plus pure , plus agréable . |
+| source.excerpts.145.words.0 | empyreumatique |
+| source.excerpts.145.words.1 | Anglais |
+| source.excerpts.145.words.2 | empyreumatique fort rebutant |
+| source.excerpts.146.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/a45371f6-44bb-5ae4-a078-075e1984cfb5 |
+| source.excerpts.146.value | ORANGE .Il y a deux espèces générales d ' oranges : les unes sont amères , acides , petites , jaunâtres et verdâtres , ayant une odeur fort agréable ; les autres sont douces , plus grosses que les amères , d ' un jaune doré et d ' une bonne odeur .On se sert de ces deux espèces parmi les alimens ; on choisit les unes et les autres nouvelles , remplies de suc , d ' une odeur agréable et ayant une écorce mince . |
+| source.excerpts.146.words.0 | bonne |
+| source.excerpts.146.words.1 | odeur |
+| source.excerpts.146.words.2 | fort agréable |
+| source.excerpts.146.words.3 | oranges |
+| source.excerpts.147.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/aa68c5d2-15a7-5b72-b2c3-e591600dda66 |
+| source.excerpts.147.value | Elle convient , dans les temps froids , aux vieillards , aux personnes dont les humeurs sont grossières et peu en mouvement , et dont l ' estomac ne digère pas facilement .On emploie cette corne en médecine ; elle est astringente : on en fait de la gelée , que l ' on nomme gelée de corne de cerf .Cette gelée est très nourrissante , et propre à modérer l ' impétuosité des fluides . |
+| source.excerpts.147.words.0 | astringente |
+| source.excerpts.147.words.1 | corne |
+| source.excerpts.148.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/aacb9646-4eab-56b2-9fb1-8bdc26a1fdbb |
+| source.excerpts.148.value | Les gens gras doivent manger et dormir peu , et faire beaucoup d ' exercice : c ' est en cela que consiste principalement la cure .Tout ce qui échauffe médiocrement , les substances stimulantes , qui abondent en un sel âcre , piquant , comme la moutarde , les raiforts , l ' ail , les ognons , les porreaux , les épiceries et les plantes aromatiques employées en assaisonnement , le safran , les semences carminatives , les viandes fort assaisonnées de sel , de poivre et de vinaigre , conviennent et dissolvent la graisse .Ces substances ont seulement l ' inconvénient de causer la soif , et la boisson abondante augmente la maladie , en délayant les fluides et relâchant les solides . |
+| source.excerpts.148.words.0 | plantes |
+| source.excerpts.148.words.1 | stimulantes |
+| source.excerpts.149.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ab3f0b47-a555-5475-b4a7-94384b8743a6 |
+| source.excerpts.149.value | En parlant des principaux vins de la Grèce et de l ' Asie , le docteur HENDERSON les représente comme le produit presque exclusif des îles Ioniennes et de l ' Archipel .Lesbos , Chio et Thasos fournissaient les plus estimés ; leur couleur était d ' un jaune pâle , et leur bouquet d ' une odeur exquise .Le vin de Lesbos avait moins de parfum , mais plus de saveur ; celui de Thasos , généreux , doux , vieillissait lentement ; mais l ' âge lui donnait une odeur agréable de pomme . |
+| source.excerpts.149.words.0 | Thasos |
+| source.excerpts.149.words.1 | odeur |
+| source.excerpts.149.words.2 | leur |
+| source.excerpts.149.words.3 | bouquet |
+| source.excerpts.149.words.4 | exquise |
+| source.excerpts.149.words.5 | Lesbos |
+| source.excerpts.149.words.6 | Chio |
+| source.excerpts.150.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/acad1537-4314-59f7-972b-8acf506d720e |
+| source.excerpts.150.value | ANANAS .Le fruit de l ' ananas est d ' une saveur délicieuse que l ' on ne trouve dans aucun autre , et qu ' il est presque impossible de définir .Le goût exquis et le parfum du fruit d ' ananas . |
+| source.excerpts.150.words.0 | fruit |
+| source.excerpts.150.words.1 | délicieuse |
+| source.excerpts.150.words.2 | saveur |
+| source.excerpts.151.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ace91d14-5fb4-5aac-b913-239c5aee40fa |
+| source.excerpts.151.value | Ils sont sucrés , et on en fait de très bonnes confitures .On dit qu ' il y a des espèces de giraumon qui sentent un peu le musc , ce qui relève leur saveur aqueuse .Voy . |
+| source.excerpts.151.words.0 | musc |
+| source.excerpts.151.words.1 | saveur |
+| source.excerpts.151.words.2 | sentent |
+| source.excerpts.151.words.3 | aqueuse |
+| source.excerpts.151.words.4 | giraumon |
+| source.excerpts.152.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ad58c23a-e958-504a-8b0f-9b7e210d5436 |
+| source.excerpts.152.value | AROMATS ou AROMATES .Matières végétales odoriférantes , dont les unes sont pour l ' usage des cuisines , et d ' autres pour les parfums , ou pour la pharmacie .Les aromats racines sont le galanga , le gingembre , la zé — doaire , le calamus aromaticus , le souchet , l ' iris , etc . |
+| source.excerpts.152.words.0 | parfums |
+| source.excerpts.152.words.1 | odoriférantes |
+| source.excerpts.152.words.2 | Matières végétales |
+| source.excerpts.153.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/af64a438-2ae6-5f4c-9bc4-50257cd2791a |
+| source.excerpts.153.value | On se donne du bétel , dans l ' Inde , comme ici on s ' offre du tabac ; on n ' ose parler aux grands sans en avoir dans la bouche ; les femmes , et surtout celles qui sont galantes , en font un grand usage , et le regardent comme un puissant attrait pour l ' amour .Il est très cordial et très stomachique .BETTE . |
+| source.excerpts.153.words.0 | stomachique |
+| source.excerpts.153.words.1 | très stomachique |
+| source.excerpts.154.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/b01afaf5-aec7-5494-9ef6-59501cce9811 |
+| source.excerpts.154.value | On fait un grand usage des panais dans les cuisines ; ils sont agréables au goût et nourrissans , mais un peu flatueux .L ' odeur et le goût du panais , dit J .BAUHlN , prouvent qu ' il possède une qualité incisive , atténuante , détersive et désopilative . |
+| source.excerpts.154.words.0 | odeur |
+| source.excerpts.154.words.1 | panais |
+| source.excerpts.155.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/b3599ba5-292e-5e65-a044-1ac50c98cbf5 |
+| source.excerpts.155.value | Quand on use des pistaches avec excès , elles hauffent beaucoup et causent d ' autres accidens , parce que chaleur que leurs sels volatils excitent s ' augmente à pro - rtion de la qualité de ces sels , et devient ensuite incom - bode .On doit choisir les pistaches pesantes , bien pleines , ; nouvelles , d ' une odeur agréable et d ' un bon goût .Elles con - viennent en tout temps , à toute sorte d ' âge et de tempérament , pourvu qu ' on en use modérément . |
+| source.excerpts.155.words.0 | agréable |
+| source.excerpts.155.words.1 | odeur |
+| source.excerpts.155.words.2 | pistaches |
+| source.excerpts.156.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/b4828c35-bb83-57a2-b85b-0641a35bf946 |
+| source.excerpts.156.value | On en prépare une eau distillée , une huile volatile , un esprit aromatique , un miel sirupeux , une conserve , etc .Le romarin , dit le docteur BUC ' HOZ , est un arbrisseau aromatique , à fleurs labiées , qu ' on cultive ordinairement dans les jardins , et qui se conserve toujours vert .On fait entrer les fleurs de romarin dans les sachets de senteur , dans les pots pourris ; elles sont la base de l ' eau de la reine d ' Hongrie : la fumée de cette plante desséchée purifie l ' air , et chasse les mauvaises odeurs ; c ' est un des aromates du peuple . |
+| source.excerpts.156.words.0 | aromatique |
+| source.excerpts.156.words.1 | romarin |
+| source.excerpts.156.words.2 | docteur BUC ' HOZ |
+| source.excerpts.157.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/b53094fb-e06e-57b8-8f25-f8a41039c469 |
+| source.excerpts.157.value | AUNÉE .La racine de cette plante est souvent employée en médecine ; elle contient beaucoup d ' huile et de sel essentiel et fixe : elle est détersive , vulnéraire , sudorifique , propre pour l ' asthme .Étant coupée en morceaux et mise dans une pinte de vin blanc , à la quantité de deux onces , elle fait un remède excellent contre toutes les maladies de la poitrine et du poumon , contre les maladies pestilentielles et malignes , contre toutes les espèces d ' hydropisies , même contre celles de la poitrine et de la matrice . |
+| source.excerpts.157.words.0 | sudorifique |
+| source.excerpts.157.words.1 | vulnéraire |
+| source.excerpts.157.words.2 | racine de cette plante |
+| source.excerpts.158.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/b63e8845-599c-5957-8573-a831c3bebe39 |
+| source.excerpts.158.value | Ceux qui en mangent pour la première fois , éprouvent une espèce d ' ivresse .Mais bientôt on s ' y accoutume , l ' estomac s ' en trouve bien , l ' haleine s ' en trouve parfumée , et le visage même agréablement coloré .On trouve en Amérique et aux Antilles , l ' autre espèce d ' areck , qu ' on nomme chou palmiste , areca oleracea ; il donne des baies oblongues , obtuses , un peu courbées , d ' un bleu pourpre , succulentes , de la grosseur d ' une olive moyenne ; c ' est le bourgeon du palmier , que mangent les Américains ; il est tendre , et a un goût délicat , qui ressemble à celui du porte - feuille d ' artichaut ; on l ' emploie cru , en salade , à la poivrade , cuit , frit ; et on en fait des beignets délicieux . |
+| source.excerpts.158.words.0 | parfumée |
+| source.excerpts.158.words.1 | haleine |
+| source.excerpts.159.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/b9a4372d-24f7-5f73-bdff-d268c80f892e |
+| source.excerpts.159.value | Voy .ABSINTHE , AILE ou ALE ( espèce de bière des Anglais ) , ALCOOL , ALICANTE ( vin d ' ) , ALKERMÈS ( liqueur ) , ANIS ( vin d ' ) , ARACK ( espèce d ' eau - de - vie ) , AzuCARILLOS , BAVAROISE , BIÈRE , BOUILLON , BRULEAU , CACIS OU CASSIS , CAFÉ , CAMOMILLE ( infusion de ) , CHAUDEAU ( bouillon chaud , et composé avec du lait , du vin , du sucre , des jaunes d ' œufs , des aromates ) , CHOCOLAT , CHOUSSET ( boisson des Turcs ) , CIDRE , COGNAC ( eau - de - vie de ) , CONSOMMÉ , CRÈME , EAU , EAUX COMPOSÉES , EAU - DE - VIE , ESPRIT - DE - VIN , ÉTHER , FENOUILLETTE , FRUSTRA — TOIRE ( eau sucrée simple , ou animée d ' un peu d ' eau - de - vie ou de quelques aromates ) , GLACE , GRAVE ( vin de ) , HUILE , HYDROMEL , HYPOCRAS , IGUR ( boisson des Turcs ) , Jus , LAIT , LIE , LIMONADE , LIQUEURS , MADÈRE ( vin de ) , MALAGA ( vin de ) , MALVOISIE ( vin de ) , MARASQUIN ( liqueur des Italiens ) , MÉLISSE ( infusion de ) , MENTHE ( infusion de ) , MÉTEL ( vin , vinaigre , eau - de - vie de ) , MOLLE ( liqueur vineuse ) , MOUSSEUX ( vin ) , MOUT ( de raisins ) , MUM ( espèce de bière ) , Musc ( liqueur ) , MUSCAT ( vin ) , MYRRHE ( liqueur résineuse ) , NECTAR , NÉROLI , OLÉOSACCHARUM , ORANGEADE , ORGEAT , OXYCRAT , OXYGALE ( lait aigre , boisson des Turcs ) , OXYMEL ( mélange de miel et de vinaigre ) , PICACE ( boisson faite avec des pommes et de l ' eau ) , PIQUETTE ( petit vin ) , POIRÉ , POPULO , PORTER ( bière des Anglais ) , PUNCH , QUAS ( liqueur des Russes ) , QUITSERA ( boisson faite avec du sucre et de la farine , etc .) , RACK ( liqueur des Indous ) , RATAFIAT , ROSSOLI , ROTA ( vin de ) , RUM , SAUGE ( infusion de ) , SIROPS d ' absinthe , d ' acacia , d ' alléluia , d ' althéa ou de guimauve , de berbéris ou d ' épine - vinette , de capillaire , de cerises , de chicorée , de jus de citrons ou de limons , de coings , de consoude , de fraises , de genièvre , de grenades , de groseilles rouges , de joubarbe , de jujubes , de lierre - terrestre , de menthe , de muguet , de mûres , de nénufar , de nerprun , de nicotiane ou tabac , d ' œillet , de pavot rheas ou coquelicot , de fleurs de pécher , de plantain , de pommes , de roses pâles , de roses sèches , de scammonée , de séné , de sureau , de tortue , de fleurs de tussillage , de verjus , de vinaigre , de violette , etc . |
+| source.excerpts.159.words.0 | liqueur |
+| source.excerpts.159.words.1 | MYRRHE |
+| source.excerpts.159.words.2 | OLÉOSACCHARUM |
+| source.excerpts.159.words.3 | ORGEAT |
+| source.excerpts.159.words.4 | ORANGEADE |
+| source.excerpts.159.words.5 | OXYCRAT |
+| source.excerpts.160.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/bba3b354-5e33-5c9f-aa20-c1c8e9018efb |
+| source.excerpts.160.value | C ' est une espèce de thé de la Chine , dont on a déjà extrait une légère teinture .Les feuilles en sont grandes ; mais il a peu d ' odeur .THÉ DE FRANCE . |
+| source.excerpts.160.words.0 | peu |
+| source.excerpts.160.words.1 | odeur |
+| source.excerpts.160.words.2 | il |
+| source.excerpts.160.words.3 | feuilles |
+| source.excerpts.161.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/bea4e05e-ebfd-5fb7-a9df-455512d76d98 |
+| source.excerpts.161.value | On assure que l ' éperlan est d ' un meilleur goût vers la fin de l ' été ou au commencement de l ' automne , qu ' en un autre temps de l ' année .On doit choisir l ' éperlan , dit LEMERY , beau , luisant , couleur de perle , d ' une chair tendre et délicate , et sentant la violette .Il nourrit médiocrement et se digère facilement ; il est estimé apéritif ; on ne dit point qu ' il produise de mauvais effets . |
+| source.excerpts.161.words.0 | violette |
+| source.excerpts.161.words.1 | sentant |
+| source.excerpts.162.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/bf1bfbbe-54f4-5c66-ba67-96cbc840d054 |
+| source.excerpts.162.value | En général , les sucs visqueux ne conviennent pas aux estomacs délicats .Le mauvais goût ou la mauvaise odeur qui se rencontrent en certaines terres , peuvent passer aux fruits qui y viennent .Les fruits pris avec excès , surtout dans un pays humide , ainsi que ceux qui n ' ont point atteint le degré de maturité convenable , peuvent occasioner des indigestions , des ventosités , des diarrhées , des fièvres intermittentes , même des dyssenteries et d ' autres maux . |
+| source.excerpts.162.words.0 | mauvaise |
+| source.excerpts.162.words.1 | mauvais |
+| source.excerpts.162.words.2 | odeur |
+| source.excerpts.163.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/bf8d87e0-2ec3-52b5-b788-77894f99432f |
+| source.excerpts.163.value | En effet , il n ' est pas rare de voir des vins de Champagne réunir la .vigueur des meilleurs vins de Bourgogne , avec une saveur piquante et agréable , qu ' on ne trouve dans axicune autre espèce de vin .Les vins de Bordeaux de Grave et de Pontac surtout , nourrissent beaucoup , et sont agréables à l ' estomac . |
+| source.excerpts.163.words.0 | agréable |
+| source.excerpts.163.words.1 | vins |
+| source.excerpts.163.words.2 | saveur |
+| source.excerpts.164.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/bffdd2cd-36f2-5f4e-afb7-45c024548126 |
+| source.excerpts.164.value | La gousse est soutenue par un pédicule rougeâtre , gros à peu près comme une plume à écrire .L ' arbre qui produit ce fruit est fort commun dans les Indes ; les Indiens font cuire son fruit vert et en mangent ; il est astringent .Les œufs sont nourrissans et sont un très bon aliment ; ils augmentent les sucs séminaux , rectifient les humeurs âcres de la poitrine , se digèrent facilement et sont bons pour les phthisiques . |
+| source.excerpts.164.words.0 | astringent |
+| source.excerpts.164.words.1 | Indes |
+| source.excerpts.165.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c0152ee4-882c-599b-8154-712ad3710355 |
+| source.excerpts.165.value | Il est possible que , dans les mucilages animaux , la décoction continuée de la chaleur , et peut - être sa combinaison , forment des substances gélatineuses avec des mucilages dont la viscosité est très grande .Le mélange et la combinaison de certains corps diminuent cette viscosité ; tel est le mélange de l ' eau , des acides , du sucre , des alliacées , des crucifères , des aromates et des parties extractives savonneuses de presque toutes les plantes .Les aulx sont de très bons correctifs de la disposition glaireuse ; ils accélèrent la digestion , et donnent aux vents une fétidité pareille et encore plus grande que celle des crucifères ; ce qui les différencie le - plus , c ' est leur activité supérieure et leur propriété de pénétrer dans les voies de la transpiration , ce que ne font pas les autres . |
+| source.excerpts.165.words.0 | aromates |
+| source.excerpts.165.words.1 | savonneuses |
+| source.excerpts.165.words.2 | parties |
+| source.excerpts.165.words.3 | sucre |
+| source.excerpts.165.words.4 | acides |
+| source.excerpts.165.words.5 | certains corps |
+| source.excerpts.165.words.6 | crucifères |
+| source.excerpts.165.words.7 | alliacées |
+| source.excerpts.165.words.8 | presque toutes les plantes |
+| source.excerpts.166.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c0378dbb-23df-55f5-8671-29e9b9c917be |
+| source.excerpts.166.value | Les clous de girofle fortifient les parties , ils resserrent , ils arrêtent le vomissement , ils résistent à la malignité des humeurs , ils apaisent le mal de dents , ils atténuent les humeurs grossières et visqueuses , ils aident à la digestion et rendent l ' haleine agréable .Ils sont fort usités dans les sauces , pour leur goût et leur odeur aro - matique .Ils produisent les bons effets que nous leur avons attribués par leurs principes volatils et exaltés , qui divisent et atténuent les alimens grossiers contenus dans l ' estomac , qui conservent les liqueurs dans une juste fluidité , et qui augmentent la quantité des esprits animaux . |
+| source.excerpts.166.words.0 | odeur |
+| source.excerpts.166.words.1 | leur |
+| source.excerpts.166.words.2 | Ils |
+| source.excerpts.166.words.3 | matique |
+| source.excerpts.167.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c05ab8cd-81a3-573d-98a1-62b58bcf2960 |
+| source.excerpts.167.value | Cependant les plantes qu ' on emploie sont principalement la sarriette , la bugle , la pervenche , la verge d ' or , la brunelle , la verveine , l ' aigremoine , la scro - phulaire , la petite centaurée , la capillaire , les mille - feuilles , etc .En faisant , parmi ces plantes , le choix de celles qui ont le goût le plus agréable , on pourrait encore en former une sorte de thé , qui dispenserait avantageusement de l ' autre .On se sert utilement du thé suisse pour exciter la transpiration , et contre les rhumes opiniâtres . |
+| source.excerpts.167.words.0 | agréable |
+| source.excerpts.167.words.1 | plantes |
+| source.excerpts.167.words.2 | goût |
+| source.excerpts.168.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c4878f10-34d1-51c7-b284-fbf2956750b1 |
+| source.excerpts.168.value | On doit regarder le fromage comme la partie la plus grossière et la plus compacte du lait : par - là on peut juger qu ' il nourrit beaucoup et qu ' il produit un aliment solide .Le bon fromage de Roquefort doit être frais , d ' une saveur douce et agréable , bien persillé , c ' est - à - dire parsemé de veines bleuâtres dans son intérieur .Les fromages du Diois , en Dauphiné , sont encore plus exquis et plus agréablement persillés que ceux de Roquefort . |
+| source.excerpts.168.words.0 | saveur |
+| source.excerpts.168.words.1 | fromage de Roquefort |
+| source.excerpts.169.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c4f8a0c5-706f-5c62-a802-4041ca714ad6 |
+| source.excerpts.169.value | Il y a plusieurs substances végétales dont on se sert en assaisonnement , lesquelles abondent en une huile aromatique extrêmement exaltée , comme les épiceries , le thym , la marjolaine , etc .Ces substances sont échauffantes , et la plupart de difficile digestion .La plus amie de l ' estomac est le fenouil ; la moutarde abonde en un sel et une huile très piquans , extrêmement actifs et échauffans . |
+| source.excerpts.169.words.0 | substances |
+| source.excerpts.169.words.1 | échauffantes |
+| source.excerpts.170.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c5b63f86-171f-5003-83e8-6f6f25d9689d |
+| source.excerpts.170.value | Il corrige la mauvaise haleine et la puanteur de la bouche : il aide à la digestion ; il resserre le ventre .L ' eau distillée des clous encore récens a une odeur très gracieuse .Elle est bonne pour les syncopes , ou défaillances de cœur . |
+| source.excerpts.170.words.0 | odeur |
+| source.excerpts.170.words.1 | très gracieuse |
+| source.excerpts.170.words.2 | eau distillée des clous encore récens |
+| source.excerpts.171.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c690707c-13d2-535e-96e6-c5fb1ca067f4 |
+| source.excerpts.171.value | Liqueur vineuse obtenue par la fermentation de l ' infusion des baies de genièvre .On fait rapprocher , par l ' évaporation , cette infusion , de manière à ce qu ' un œuf cru la surnage , et on laisse fermenter cette liqueur jusqu ' à ce qu ' elle exhale une odeur vineuse .Le vin de genièvre conserve l ' odeur et la saveur de ce fruit : on en tire , par la distillation , une liqueur alcoliolique connue sous le nom d ' eau - de - vie de genièvre . |
+| source.excerpts.171.words.0 | odeur |
+| source.excerpts.171.words.1 | liqueur |
+| source.excerpts.171.words.2 | vineuse |
+| source.excerpts.172.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c792477f-16ac-5098-9974-81c716c4c0e2 |
+| source.excerpts.172.value | Il convient beaucoup aux personnes dont l ' estomac est paresseux , et sujet aux congestions de sucs acides ; il est bon aux mélancoliques ; les scorbutiques s ' en trouvent parfaitement bien .La racine de raifort sauvage est employée dans les campagnes comme assaisonnement .On la râpe , on en fait une espèce de moutarde , dite des Allemands ; elle excite l ' appétit , plus encore que le précédent . |
+| source.excerpts.172.words.0 | racine |
+| source.excerpts.172.words.1 | raifort |
+| source.excerpts.172.words.2 | assaisonnement |
+| source.excerpts.172.words.3 | les campagnes |
+| source.excerpts.173.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c837f674-8462-5310-be14-d71cef8b421c |
+| source.excerpts.173.value | Il faut renoncer à l ' usage du lait quand on voit que les excrémens sont mêlés d ' une matière coagulée très dense , blanchâtre , verte ou jaune , et qu ' en même temps les hypocondres sont gonflés , qu ' on se sent lourd et très constipé ; c ' est aussi un avertissement pour le quitter , surtout chez les vaporeux des deux sexes .On peut prendre le lait de bien des manières : plusieurs médecins soutiennent que pur et chaud , sortant du pis , il n ' entraîne presque jamais après lui les inconvéniens particuliers au lait : souvent on le prend bouilli du froid , seul ou mêlé avec différentes liqueurs ; de l ' eau pure , par exemple , les décoctions des semences farineuses , comme de l ' orge ; les sucs , infusions ou décoctions des plantes vulnéraires , astringentes , adoucissantes , antiscorbutiques , sudorifiques ; l ' infusion de millepertuis , de violette , de bouillon blanc , le suc de cresson , la décoction d ' esquine ; le sucre , le sel , le miel , divers sirops et le fer rouillé , peuvent servir d ' assaisonnement au lait : il est employé lui - même comme assaisonnement dans les crèmes de riz , de gruau , d ' orge mondé .Quand il est dépouillé de la partie grasse , nommée beurre , il s ' appelle lait crémé ; quand il est privé de la substance caseuse , et de cette même partie grasse subtile , il prend le nom de petit - lait . |
+| source.excerpts.173.words.0 | plantes |
+| source.excerpts.173.words.1 | astringentes |
+| source.excerpts.173.words.2 | sudorifiques |
+| source.excerpts.173.words.3 | adoucissantes |
+| source.excerpts.174.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c8f09f5a-77a2-505e-aa5d-d994498486f4 |
+| source.excerpts.174.value | Les fruits de cette plante se mangent en salade ou cuits comme des concombres , dans nos provinces méridionales .Les habitans des Antilles et les Égyptiens les regardent aussi comme un aliment agréable .Les médecins conseillent de faire entrer cette plante dans les cataplasmes anodins et résolutifs qu ' on applique sur les hémorroïdes , les cancers , les brûlures et les parties externes du corps qui sont enflammées . |
+| source.excerpts.174.words.0 | agréable |
+| source.excerpts.174.words.1 | aliment |
+| source.excerpts.174.words.2 | Antilles |
+| source.excerpts.174.words.3 | habitans |
+| source.excerpts.174.words.4 | Égyptiens |
+| source.excerpts.175.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c903d552-5976-51cf-a6a0-95d517d005e4 |
+| source.excerpts.175.value | C ' est principalement à Cette et à Montpellier qu ' on la distille en grand , et d ' où on la distribue dans le commerce .Le néroli entre dans la composition des pastilles odorantes pour la fumigation , et il est d ' un grand usage dans les parfums , dans les essences odorantes à l ' alcool ou esprit - de - vin .NID D ' OISEAU ( Assaisonnement ) . |
+| source.excerpts.175.words.0 | parfums |
+| source.excerpts.175.words.1 | odorantes |
+| source.excerpts.175.words.2 | néroli |
+| source.excerpts.175.words.3 | essences odorantes |
+| source.excerpts.176.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c923238c-6378-5710-a971-3f1ec1449f1d |
+| source.excerpts.176.value | , etc .RACK , Le rack est une liqueur spiritueuse très forte , que les habitans de l ' Indostan tirent , par la fermentation et la distillation , du sucre , des cannes à sucre mêlées avec le vin de cocotier , et quelquefois l ' écorce aromatique d ' un arbre nommé jugra .Cette liqueur est très enivrante , attaque facilement les nerfs , ce qui la rend dangereuse . |
+| source.excerpts.176.words.0 | aromatique |
+| source.excerpts.176.words.1 | liqueur |
+| source.excerpts.177.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c9a3825b-0de6-5904-9bf5-1e781baaa6b9 |
+| source.excerpts.177.value | Il convient , principalement en temps froid , aux vieillards et aux personnes phlegmatiques et mélancoliques ; mais comme il échauffe beaucoup , et qu ' il met la masse du sang dans une forte agitation ; les personnes d ' un tempérament chaud et bilieux doivent s ' en abstenir , ou en user modérément .On en mange beaucoup en salade , dit le docteur BUC ' HOZ ; on en met infuser dans le vinaigre , pour lui communiquer une bonne odeur .L ' estragon mérite d ' ètre rangé parmi les plantes incisives , apéritives et digestives ; il augmente l ' appétit , fait couler les urines , les règles , dissipe les vents , détruit les obstructions , excite la sécrétion de la pituite et de la salive ; en tout , cette plante est d ' un usage très sain . |
+| source.excerpts.177.words.0 | bonne |
+| source.excerpts.177.words.1 | odeur |
+| source.excerpts.177.words.2 | vinaigre |
+| source.excerpts.177.words.3 | docteur BUC ' HOZ |
+| source.excerpts.178.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c9ce8795-5a48-5a0c-bb2b-2c540721dc91 |
+| source.excerpts.178.value | Partie qu ' on coupe au bas bout du bœuf , vers les cuisses , et qui fait une partie de la surlonge .FLEUR D ' ORANGE .Elle est employée dans les alimens et en médecine ; on la confit tout entière ou l ' on en fait des pâles et des conserves ; on en tire par la distillation une eau de fort bonne odeur , et qui est très usitée dans les potions cordiales , hystériques et céphaliques . |
+| source.excerpts.178.words.0 | FLEUR |
+| source.excerpts.178.words.1 | ORANGE |
+| source.excerpts.179.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/c9e10925-aaac-5003-a63c-7e994a14430e |
+| source.excerpts.179.value | Le fruit de l ' ananas est d ' une saveur délicieuse que l ' on ne trouve dans aucun autre , et qu ' il est presque impossible de définir .Le goût exquis et le parfum du fruit d ' ananas .rendent cette plante précieuse ; il réunit la saveur de plusieurs fruits excellens . |
+| source.excerpts.179.words.0 | parfum |
+| source.excerpts.179.words.1 | fruit d ' ananas |
+| source.excerpts.180.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ca420786-2e13-51b1-a1fb-0e9d30eedf1d |
+| source.excerpts.180.value | Les confiseurs emploient la poudre de cette racine pour donner de l ' odeur à quelques conserves , et pour faire de petites dragées .On en serre dans les armoires et tiroirs , pour communiquer au linge une bonne odeur .FLEUR DE MUSCADE . |
+| source.excerpts.180.words.0 | bonne |
+| source.excerpts.180.words.1 | odeur |
+| source.excerpts.180.words.2 | linge |
+| source.excerpts.181.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ca4fd73c-f059-5010-986a-bb03efa2f2f1 |
+| source.excerpts.181.value | L ' ail cultivé fait une partie considérable de la nourriture dans nos provinces méridionales : quelques - uns en prennent tous les matins avec du pain et du beurre frais dans le printemps , à l ' effet de se garantir de toutes maladies pendant le reste de l ' année .Quand on mange beaucoup d ' ail , il altère , échauffe considérablement , et occasione des maux de tête ; son odeur subsiste plusieurs jours dans l ' haleine ; on prétend y obvier en mangeant de la racine de persil , de bette ou d ' ache , après le repas ; mais ces remèdes ne sont rien moins qu ' infaillibles : des pommes crues , sans pain , pallient le mal , du moins pendant quelques heures .Cette bulbe est d ' une très grande utilité en médecine . |
+| source.excerpts.181.words.0 | odeur |
+| source.excerpts.181.words.1 | son |
+| source.excerpts.181.words.2 | haleine |
+| source.excerpts.181.words.3 | il |
+| source.excerpts.181.words.4 | après le repas |
+| source.excerpts.181.words.5 | plusieurs jours |
+| source.excerpts.182.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/cd17e0ec-40e2-515a-9adf-8e4ba700da26 |
+| source.excerpts.182.value | Matières végétales odoriférantes , dont les unes sont pour l ' usage des cuisines , et d ' autres pour les parfums , ou pour la pharmacie .Les aromats racines sont le galanga , le gingembre , la zé — doaire , le calamus aromaticus , le souchet , l ' iris , etc .Les aromats bois sont l ' aloès , le santal citrin , etc . |
+| source.excerpts.182.words.0 | gingembre |
+| source.excerpts.182.words.1 | calamus |
+| source.excerpts.182.words.2 | aromats |
+| source.excerpts.182.words.3 | aromaticus |
+| source.excerpts.182.words.4 | galanga |
+| source.excerpts.182.words.5 | zé |
+| source.excerpts.183.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/cdb18601-ea8c-5a4f-b3db-d8bbd586c3e6 |
+| source.excerpts.183.value | C ' est un arbrisseau épineux de la famille des rubiacées , dont le fruit est une baie uniloculaire , ovale et couronnée , qui naît dans l ' île de la Providence .Il a une très bonne odeur , une acidité très agréable , et forme une nourriture légère et rafraîchissante .Sa pulpe est semblable à celle d ' une pomme mûre . |
+| source.excerpts.183.words.0 | bonne |
+| source.excerpts.183.words.1 | odeur |
+| source.excerpts.184.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ce46b341-1fb7-55a7-8145-3b88ecc2d623 |
+| source.excerpts.184.value | le chapitre TEMPÉRAMENT , au commencement de cet ouvrage .Il y a plusieurs substances végétales dont on se sert en assaisonnement , lesquelles abondent en une huile aromatique extrêmement exaltée , comme les épiceries , le thym , la marjolaine , etc .Ces substances sont échauffantes , et la plupart de difficile digestion . |
+| source.excerpts.184.words.0 | aromatique |
+| source.excerpts.184.words.1 | thym |
+| source.excerpts.184.words.2 | marjolaine |
+| source.excerpts.184.words.3 | substances végétales |
+| source.excerpts.184.words.4 | épiceries |
+| source.excerpts.185.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d0309721-9910-51ed-a2a4-88b4a82eaa5a |
+| source.excerpts.185.value | GIROFLE , gérofle ou clou de girofle .Aromate que l ' on nous apporte des Indes , qui a une odeur forte et balsamique , avec une saveur vive , chaude et onctueuse .Les clous de girofle fortifient les parties , ils resserrent , ils arrêtent le vomissement , ils résistent à la malignité des humeurs , ils apaisent le mal de dents , ils atténuent les humeurs grossières et visqueuses , ils aident à la digestion et rendent l ' haleine agréable . |
+| source.excerpts.185.words.0 | forte |
+| source.excerpts.185.words.1 | odeur |
+| source.excerpts.185.words.2 | balsamique |
+| source.excerpts.185.words.3 | Indes |
+| source.excerpts.185.words.4 | Aromate |
+| source.excerpts.186.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d043ca40-cd0a-51b7-aba9-1e7a41f0ae8f |
+| source.excerpts.186.value | VIOLETTE .Petite plante qui donne une fleur fort odoriférante , dont on fait de la pâte , du sirop , de l ' eau et de la conserve .VISQUEUX et GÉLATINEUX ( Alimens ) . |
+| source.excerpts.186.words.0 | fort |
+| source.excerpts.186.words.1 | fleur |
+| source.excerpts.186.words.2 | odoriférante |
+| source.excerpts.186.words.3 | Petite plante |
+| source.excerpts.187.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d0fa5461-d597-5a0f-9600-fc1c9b8280bb |
+| source.excerpts.187.value | Les dragées qui contiennent des substances chaudes et actives exigent qu ' on soit réservé sur leur usage , sans quoi elles peuvent échauffer et irriter beaucoup .On doit surtout éviter celles qu ' on fait avec les essences , telles que le diavolini , qu ' on prétend aphrodisiaque , mais qui , à coup sûr , est très dangereux .PRINGLE et MACBRIDE ont remarqué que les succès de la drèche étaient dus particulièrement à la grande quantité d ' air fixe qu ' elle contient . |
+| source.excerpts.187.words.0 | aphrodisiaque |
+| source.excerpts.187.words.1 | essences |
+| source.excerpts.187.words.2 | diavolini |
+| source.excerpts.188.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d1c78b48-7d0e-52de-8929-afcbdbbb0cf6 |
+| source.excerpts.188.value | L ' infusion de cette plante , racine ou feuilles , dit CADET DE GASSICOURT , est une boisson amère , fort salutaire dans beaucoup de maladies ; on l ' emploie dans les bouillons et les tisanes .Cette plante est purgative , fébrifuge et apéritive ; elle convient dans les engorgemens de l ' abdomen , dans la jaunisse , les maladies du foie et de la rate .Si on le fait bouillir , dit TRAGUS , de façon toutefois que son suc ne soit point épuisé , il relâche le ventre ; mais si on le fait bouillir trois ou quatre fois , ou même davantage , le changeant autant de fois d ' eau , qu ' on l ' aura fait bouillir de fois , et qu ' on le mange ainsi préparé , il resserrera , ce qui ne doit point surprendre , parce que le suc du chou est détergent , et la substance est astringente ; il tend aussi à augmenter la bile noire , ainsi on en doit faire un usage très modéré . |
+| source.excerpts.188.words.0 | plante |
+| source.excerpts.188.words.1 | purgative |
+| source.excerpts.189.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d4427376-2ac3-5769-bdd4-32cc2d5ccca7 |
+| source.excerpts.189.value | Ce fruit a un goût et une odeur extrêmement agréables , prove - nant de son sel essentiel uni avec quelques parties huileuses un peu exaltées , qui , venant à picoter légèrement les nerfs du goût et de l ' odorat , excite une sensation agréable .Les framboises sont humectantes ; elles rafraîchissent , sont cordiales , fortifient l ' estomac , donnent bonne bouche et purifient le sang .Elles contiennent à peu près les mêmes principes que les fraises , et produisent à peu près les mêmes effets ; elles sont cependant plus humides et plus phlegmatiques , et moins resserrées en leurs parties , ce qui fait qu ' elles se corrompent aisément dans l ' estomac quand elles y demeurent trop long - temps . |
+| source.excerpts.189.words.0 | framboises |
+| source.excerpts.189.words.1 | humectantes |
+| source.excerpts.190.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d45c4e63-9e8b-5d0c-b6e5-ec07e69619b8 |
+| source.excerpts.190.value | Les aromats écorces sont la cannelle , la casse ligneuse , l ' orange , etc .Les aromats fleurs sont celles de stæchas , de roses , d ' œillets , de safran , de lavande , etc .Les aromats fruits et semences sont le girofle , la muscade , le poivre , le cardamome , l ' anis , les cubèbes , la coriandre , le cumin , etc . |
+| source.excerpts.190.words.0 | roses |
+| source.excerpts.190.words.1 | safran |
+| source.excerpts.190.words.2 | lavande |
+| source.excerpts.190.words.3 | œillets |
+| source.excerpts.190.words.4 | aromats |
+| source.excerpts.190.words.5 | stæchas |
+| source.excerpts.191.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d46d0e3c-27b2-5702-a14d-e9e41c9f1f8a |
+| source.excerpts.191.value | Bue avec du vin ou de l ' eau , ou appliquée sur le nombril , elle tue les vers et les fait sortir du corps ; bouillie avec de l ' eau et du vinaigre , et tenue dans la bouche , elle apaise la douleur des dents .Le parfum de cette graine arrête les catarrhes , dessèche le cerveau , et fait revenir l ' odorat perdu .NOURRITURE DES MORTS . |
+| source.excerpts.191.words.0 | parfum |
+| source.excerpts.191.words.1 | odorat |
+| source.excerpts.191.words.2 | perdu |
+| source.excerpts.191.words.3 | graine |
+| source.excerpts.191.words.4 | catarrhes |
+| source.excerpts.191.words.5 | arrête les |
+| source.excerpts.191.words.6 | dessèche le cerveau |
+| source.excerpts.192.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d573238d-eb67-5e1f-ba24-efdb47d33930 |
+| source.excerpts.192.value | Il y a des gens qui les aiment quand ils viennent de sortir tout nouvellement du ventre de la mère ; mais ils sont alors trop visqueux .Les lièvres qui habitent dans les lieux humides ne sont pas à beaucoup près si bons à manger que ceux qui vivent dans les plaines et dans les montagnes , parce que ces derniers se nourrissent d ' herbes aromatiques qui rendent leur chair d ' un goût plus exquis et plus relevé .Il faut encore remarquer que le lièvre est meilleur en hiver qu ' en été , parce que le froid mortifie et attendrit sa chair , qui est naturellement un peu dure et compacte . |
+| source.excerpts.192.words.0 | chair |
+| source.excerpts.192.words.1 | aromatiques |
+| source.excerpts.192.words.2 | herbes |
+| source.excerpts.193.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d5ae98cf-100c-5a7d-9990-e5dcaebd7a18 |
+| source.excerpts.193.value | L ' aile est plus rafraîchissante , plus légère , plus apé - ritive et plus diurétique que les autres bières ; la quantité d ' acide carbonique qui s ' en dégage , la rend facilement enivrante .Les médecins anglais la font couper avec de l ' eau , et la donnent à leurs malades comme une tisane apéritive , tonique et rafraîchissante .L ' aile de nos brasseurs n ' est autre chose que ce qu ' ils appellent encore métiers ; c ' est la simple décoction de l ' orge et du grain germé et moulu , et que l ' on nomme encore drèche ou malt moulu . |
+| source.excerpts.193.words.0 | malades |
+| source.excerpts.193.words.1 | tonique |
+| source.excerpts.193.words.2 | médecins anglais |
+| source.excerpts.193.words.3 | rafraîchissante |
+| source.excerpts.194.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d67dab62-f181-525b-9794-854b2930b4ca |
+| source.excerpts.194.value | Les ESPRITS FERMENTES contractent , durcissent et consolident plusieurs fibres vasculaires ensemble , particulièrement où elles se trouvent les plus tendres , comme dans le cerveau ; d ' où vient que ces esprits détruisent la mémoire et les facultés intellectuelles .Les VÉGÉTAUX ACIDES AUSTÈRES contractent et fortifient les fibres sans avoir aucun des mauvais effets des esprits fermentes ; tels sont les espèces d ' oseilles , dont les vertus résident dans un sel acide , astringent , antidote souverain contre l ' acide bilieux ; plusieurs espèces de fruits , comme les coings ; quelques espèces de poires avec leur marmelade ; les nèfles , les câpres , le fruit de l ' épine - vinette , les grenades , le pourpier .Parmi les boissons , les vins austères sont de ce genre ; les fruits verts ont aussi la même qualité , mais ils sont sujets à occasionner des éruptions sales sur la peau , à obstruer les nerfs et à causer des paralysies . |
+| source.excerpts.194.words.0 | ACIDES |
+| source.excerpts.194.words.1 | VÉGÉTAUX |
+| source.excerpts.194.words.2 | oseilles |
+| source.excerpts.195.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d81082fe-f35c-5a99-a0d6-a36ec6102853 |
+| source.excerpts.195.value | Les vins de Naples sont ordinairement légers , douceâtres , passent aisément , et sont préférés par un très grand nombre de personnes aux vins d ' Italie les plus en réputation .On prodigue plus d ' éloges à ceux qu ' on appelle Lacrima de Galliti et Chiarello piquante : la couleur de ces vins est rouge , très belle , et d ' une odeur très agréable .Aux vins de Naples , on peut ajouter celui de Tarente , celui de Syracuse , et une infinité d ' autres qu ' on n ' apporte jamais , ou du moins fort rarement dans nos . |
+| source.excerpts.195.words.0 | odeur |
+| source.excerpts.195.words.1 | très agréable |
+| source.excerpts.195.words.2 | belle |
+| source.excerpts.195.words.3 | ces vins |
+| source.excerpts.195.words.4 | Chiarello |
+| source.excerpts.195.words.5 | Lacrima |
+| source.excerpts.196.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d8edf182-3e1b-5465-bebb-285b3da111f8 |
+| source.excerpts.196.value | Fruit de l ' arbre nommé ravendsara , lequel croît dans l ' île de Saint - Laurent .Ce fruit est gros comme une noix de galle , rond , léger , d ' une couleur obscure , ayant l ' odeur et la saveur du girofle , mais plus faible : c ' est la raison pour laquelle on lui a donné le nom de noix de girofle ; il est aussi connu sous celui de noix de Madagascar , parce qu ' il nous est apporté de ce pays .Ce fruit est céphalique , stomachique et carminatif . |
+| source.excerpts.196.words.0 | fruit |
+| source.excerpts.196.words.1 | odeur |
+| source.excerpts.196.words.2 | girofle |
+| source.excerpts.196.words.3 | noix de galle |
+| source.excerpts.196.words.4 | saveur |
+| source.excerpts.196.words.5 | noix de girofle |
+| source.excerpts.197.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d989f5c8-0d3a-515c-9ee6-a98909d783f4 |
+| source.excerpts.197.value | BAUHlN , prouvent qu ' il possède une qualité incisive , atténuante , détersive et désopilative .On divise les panais en deux espèces , l ' une cultivée et l ' autre sauvage : la première , qui est plus grosse , plus charnue et plus tendre , est la meilleure à manger ; l ' autre , qui est plus menue , plus dure , est plus ligneuse et la moins saine ; elles sont , l ' une et l ' autre , d ' une longueur médiocre , d ' une odeur qui n ' est point désagréable , et elles ont au milieu un petit nerf qui s ' étend jusqu ' à leur extrémité .Ces racines sont moins venteuses que les navets : on les mange dans le potage , ou apprêtées à part avec du beurre ; mais il faut prendre garde de les trop assaisonner , car elles sont par elles - mêmes fort incisives , en sorte que le grand assaisonnement peut les rendre fort dangereuses à la santé : elles ne conviennent qu ' aux tempéramens froids et pituiteux . |
+| source.excerpts.197.words.0 | odeur |
+| source.excerpts.197.words.1 | elles |
+| source.excerpts.197.words.2 | point désagréable |
+| source.excerpts.197.words.3 | panais |
+| source.excerpts.198.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/d9bd3156-799e-57cf-9a4a-31f6d5d156b9 |
+| source.excerpts.198.value | Il y a deux sortes de framboises dont on se sert communément , les blanches et les rouges ; on doit les choisir grosses , mûres et pleines d ' un suc doux et vineux .Ce fruit a un goût et une odeur extrêmement agréables , prove - nant de son sel essentiel uni avec quelques parties huileuses un peu exaltées , qui , venant à picoter légèrement les nerfs du goût et de l ' odorat , excite une sensation agréable .Les framboises sont humectantes ; elles rafraîchissent , sont cordiales , fortifient l ' estomac , donnent bonne bouche et purifient le sang . |
+| source.excerpts.198.words.0 | fruit |
+| source.excerpts.198.words.1 | agréable |
+| source.excerpts.198.words.2 | odeur |
+| source.excerpts.198.words.3 | odorat |
+| source.excerpts.198.words.4 | parties |
+| source.excerpts.198.words.5 | extrêmement agréables |
+| source.excerpts.198.words.6 | sel essentiel |
+| source.excerpts.199.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/db8669b9-7893-5125-8519-52c5e3ed32a7 |
+| source.excerpts.199.value | Il fut long - temps à la mode , à cause des soins que la maréchale d ' EsTRÉES fit donner à sa préparation ; et il porta , par cette raison , le nom de vin de la maréchale .Au second rang on place les vins d ' Aï , fameux par leur bouquet aromatique d ' une odeur analogue à la pomme de pin , et par leur vivacité , plus précieuse pourtant lorsqu ' ils bouillonnent lentement , que lorsqu ' ils sautent avec impétuosité .Hautvilliers , Épernay , Pierry , Bousi et le clos des vins rouges de Saint - Thierry , près de Reims , suivent de près les crus d ' Aï et rivalisent avec eux . |
+| source.excerpts.199.words.0 | odeur |
+| source.excerpts.199.words.1 | bouquet aromatique |
+| source.excerpts.199.words.2 | pomme de pin |
+| source.excerpts.199.words.3 | vins d |
+| source.excerpts.200.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/dc064d94-40f9-5104-be4b-3bb3f62adcd7 |
+| source.excerpts.200.value | Le thé , dit LEMERY , est salutaire pour les maladies du cerveau , et pour celles du genre nerveux ; il réunit les esprits , il abat les vapeurs , il ôte le mal de tête , il empêche l ' assoupis - sement , il hâte la digestion , il purifie le sang , il excite l ' urine , il est convenable aux phthisiques et aux scorbutiques ; quand il est pris en grande quantité , il peut subtiliser un peu trop le sang ; il contient beaucoup d ' huile exaltée et de sel volatil .Le thé doit être choisi nouveau , en petites feuilles vertes et entières , d ' une odeur agréable et d ' un goût de violette ; on doit le garder dans des vaisseaux de verre , ou dans une boîte bien bouchée , de peur qu ' en s ' éventant il ne perde beaucoup de son odeur et de son goût agréable .Le thé , dit M . |
+| source.excerpts.200.words.0 | agréable |
+| source.excerpts.200.words.1 | odeur |
+| source.excerpts.200.words.2 | son |
+| source.excerpts.200.words.3 | violette |
+| source.excerpts.200.words.4 | thé |
+| source.excerpts.200.words.5 | boîte |
+| source.excerpts.200.words.6 | goût |
+| source.excerpts.201.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/dcfb3708-de6e-523d-b150-2da8da3b72c0 |
+| source.excerpts.201.value | On prépare avec les feuilles et les fleurs une eau , par distillation .On fait avec les fleurs une huile par macération , un alchool odorant .Étant prise en potion , elle provoque les mois ; elle fait uriner , et fait sortir les graviers des reins et de la vessie ; elle guérit la jaunisse et les maladies du foie . |
+| source.excerpts.201.words.0 | huile |
+| source.excerpts.201.words.1 | odorant |
+| source.excerpts.201.words.2 | fleurs |
+| source.excerpts.201.words.3 | alchool |
+| source.excerpts.201.words.4 | alchool odorant |
+| source.excerpts.202.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/deb5fdbf-011b-5f20-a345-b676f11e154f |
+| source.excerpts.202.value | Quand les femmes enceintes se sentent des dégoûts , des nausées , de la plénitude , elles doivent se condamner à la diète : si elles avaient de l ' appétit , elles seraient très imprudentes de ne pas se satisfaire .Il arrive aussi quelquefois qu ' elles ont une aversion marquée pour la viande , les œufs et toutes les substances animales ; c ' est un avertissement de la nature qui leur conseille de vivre de végétaux , et de les assaisonner avec des aromates ou des acides , pour tempérer leurs humeurs , qui ont trop de penchant à la putréfaction .Les femmes grosses sont aussi obligées de prendre beaucoup de boissons aqueuses pour délayer les excrémens , et en faciliter la sortie hors du corps . |
+| source.excerpts.202.words.0 | aromates |
+| source.excerpts.202.words.1 | substances animales |
+| source.excerpts.203.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e16a97d2-f142-5257-9591-fcaa338f0ac1 |
+| source.excerpts.203.value | L ' aloès devient un purgatif doux , si on le prend en mangeant .PLINE observe que beaucoup d ' amers sont donnés comme remèdes stomachiques ; on les indique pour les poisons froids , pour les vents , les vers , les maux de tête , la fièvre , la cachexie , le défaut d ' appétit , la mauvaise odeur de l ' haleine ; indispositions qui supposent presque toujours que l ' estomac est vicié .Les amers sont utiles dans plusieurs cas d ' hydropisie . |
+| source.excerpts.203.words.0 | mauvaise |
+| source.excerpts.203.words.1 | odeur |
+| source.excerpts.203.words.2 | stomachiques |
+| source.excerpts.204.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e282860e-5345-56f9-bb5a-a9d399a35e7f |
+| source.excerpts.204.value | ASPERGE .Les asperges contenant beaucoup de sel ammoniacal , sont un excellent diurétique et apéritif .Quand elles sont fraîches , elles réveillent l ' appétit , provoquent les urines , et les rendent puantes . |
+| source.excerpts.204.words.0 | diurétique |
+| source.excerpts.204.words.1 | asperges |
+| source.excerpts.204.words.2 | apéritif |
+| source.excerpts.204.words.3 | sel ammoniacal |
+| source.excerpts.205.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e2b85375-b1b5-5270-8dc9-436fd33ec8ad |
+| source.excerpts.205.value | Feuilles sèches de l ' arbuste appelé thé , qui porte des fleurs à six pétales .La feuille en est petite , arrondie ou très roulée ; son infusion est jaunâtre : sa saveur et son odeur sont douces , approchantes de celle du thé vert .C ' est l ' espèce que l ' on prend au lait . |
+| source.excerpts.205.words.0 | odeur |
+| source.excerpts.205.words.1 | douces |
+| source.excerpts.205.words.2 | feuille |
+| source.excerpts.205.words.3 | thé vert |
+| source.excerpts.206.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e3399d0e-2893-5d42-8ecf-d0b19d79ecf9 |
+| source.excerpts.206.value | PERSIL des jardins , ou persil vulgaire .Le persil a une odeur agréable et aromatique .Il provoque l ' urine , lève les obstructions , chasse les vents , corrige les mauvaises haleines , et résiste au venin ; il est propre contre la pierre de la vessie et des reins . |
+| source.excerpts.206.words.0 | aromatique |
+| source.excerpts.206.words.1 | agréable |
+| source.excerpts.206.words.2 | odeur |
+| source.excerpts.206.words.3 | persil |
+| source.excerpts.207.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e3d9b5f7-27f7-5cb6-9a73-6204eca2a877 |
+| source.excerpts.207.value | J ' en ai apporté en » France ( ajoute - t - il ) que j ' avais fait faire à la Martinique » avec tout le soin possible , mais qui ne me paraissent plus » que comme de la filasse sucrée , en comparaison de ce qu ' ils » étaient avant qu ' ils fussent confits .» Le suc exprimé de l ' ananas mûr , ayant bien fermenté pendant une couple de jours , devient une liqueur vineuse très agréable , d ' une belle couleur et d ' une odeur merveilleuse ; il semble rafraîchir et désaltérer , mais il enivre promptement ; en sorte qu ' il est dangereux étant pris en certaine quantité .Pomet dit que cette liqueur tourne et semble entièrement gâtée , si on la garde plus de trois semaines ; mais qu ' en la laissant tranquille autant de temps , elle revient à son premier état , et acquiert même plus de force . |
+| source.excerpts.207.words.0 | odeur |
+| source.excerpts.207.words.1 | liqueur |
+| source.excerpts.207.words.2 | ananas |
+| source.excerpts.207.words.3 | merveilleuse |
+| source.excerpts.207.words.4 | vineuse très agréable |
+| source.excerpts.207.words.5 | pendant une couple de jours |
+| source.excerpts.208.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e6cd254b-3d36-56fa-8320-13f40ff4a7bb |
+| source.excerpts.208.value | La semence du melon est une des quatre grandes semences froides .Le melon doit être d ' une odeur très agréable et d ' un goût exquis , récemment cueilli et assez mûr ; il doit avoir une chair tendre , moelleuse , délicieuse , rougeâtre ou jaunâtre ; en un mot , c ' est le goût seul qui peut faire différence des bons mêlons d ' avec les mauvais .MELONGÈNE . |
+| source.excerpts.208.words.0 | odeur |
+| source.excerpts.208.words.1 | très agréable |
+| source.excerpts.208.words.2 | melon |
+| source.excerpts.209.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/e7477918-bb36-5444-8902-949d5d0e0a29 |
+| source.excerpts.209.value | On l ' ajoute à la pâte du chocolat , qu ' elle rend d ' une saveur plus agréable et plus facile à digérer .On en fait une teinture alcoholique , dont quelques gouttes , ajoutées aux diverses espèces de liqueurs ou ratafias , donnent à ces derniers un parfum excellent .Voy . |
+| source.excerpts.209.words.0 | parfum |
+| source.excerpts.209.words.1 | excellent |
+| source.excerpts.209.words.2 | ces derniers |
+| source.excerpts.209.words.3 | espèces de liqueurs ou ratafias |
+| source.excerpts.210.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ea604a58-c576-5f21-98c5-78147c37e414 |
+| source.excerpts.210.value | De plus , leurs parties huileuses et salines étant plus étroitement unies l ' une à l ' autre , elles procurent un meilleur aliment .Au contraire , les œufs vieux ont essuyé une espèce d ' effervescence qui non - seulement dissipe les parties les plus volatiles , mais détruit aussi l ' union entre les principes huileux et salins ; c ' est pourquoi ils échauffent ; souvent d ' un goût et d ' une odeur désagréable , ils produisent de mauvais sucs .En général , pour que les œufs produisent de bons effets , il faut qu ' ils soient suffisamment cuits ; car quand ils ne le sont pas assez , ils restent glaireux , et par conséquent sont de difficile digestion ; mais s ' ils sont trop cuits , ils sont durs et pesans à l ' estomac , parce que la chaleur en ayant dissipé les principes les plus volatils et les plus exaltés , n ' y a laissé que les parties les plus grossières , qui , étant étroitement liées ensemble , font que les œufs sont durs et compactes . |
+| source.excerpts.210.words.0 | désagréable |
+| source.excerpts.210.words.1 | odeur |
+| source.excerpts.210.words.2 | œufs vieux |
+| source.excerpts.211.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ead77e2b-d64e-5b08-a2b3-6fef182c0228 |
+| source.excerpts.211.value | Le suc de la racine d ' iris de Florence est des plus efficaces pour les obstructions des viscères et pour l ' hydropisie : on a guéri plusieurs hydropiques avec ce suc seul , dont on leur faisait prendre quatre cuillerées dans six cuillerées de vin blanc , tous les matins à jeun .Les confiseurs emploient la poudre de cette racine pour donner de l ' odeur à quelques conserves , et pour faire de petites dragées .On en serre dans les armoires et tiroirs , pour communiquer au linge une bonne odeur . |
+| source.excerpts.211.words.0 | odeur |
+| source.excerpts.211.words.1 | poudre |
+| source.excerpts.211.words.2 | conserves |
+| source.excerpts.211.words.3 | cette racine |
+| source.excerpts.212.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/eb55f76e-9989-5ca9-98fe-14512f33c461 |
+| source.excerpts.212.value | Les aromats fruits et semences sont le girofle , la muscade , le poivre , le cardamome , l ' anis , les cubèbes , la coriandre , le cumin , etc .Les aromats gommes ou résines sont le storax , le benjoin , la myrrhe , l ' encens , le mastic , le galbanum , les baumes de la Mecque et du Pérou , le camphre , l ' ambre gris , etc .Nous appelons herbes aromatiques , celles qui ont une odeur forte et en même temps agréable ; telles que la sauge , le smyr - nium , le thym , la lavande , le basilic , le romarin , la sarriette , la citronnelle , la marjolaine , le serpolet , etc . |
+| source.excerpts.212.words.0 | mastic |
+| source.excerpts.212.words.1 | myrrhe |
+| source.excerpts.212.words.2 | encens |
+| source.excerpts.212.words.3 | camphre |
+| source.excerpts.212.words.4 | ambre gris |
+| source.excerpts.212.words.5 | benjoin |
+| source.excerpts.212.words.6 | résines |
+| source.excerpts.212.words.7 | baumes |
+| source.excerpts.212.words.8 | galbanum |
+| source.excerpts.212.words.9 | aromats |
+| source.excerpts.212.words.10 | storax |
+| source.excerpts.212.words.11 | Mecque |
+| source.excerpts.213.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ec9321a4-2380-5719-9c45-a9daa0ac43dd |
+| source.excerpts.213.value | On donne aussi les mêmes parties desséchées et réduites en poudre dans les mêmes cas , soit seules , soit mêlées à d ' autres remèdes carminatifs et vermifuges .La tanaisie est encore mise au rang des diurétiques chauds .La tanaisie s ' emploie aussi extérieurement dans les foulures et dans les entorses : on en pile les feuilles , on y mêle du beurre frais , et on les applique en cataplasme sur la partie affligée . |
+| source.excerpts.213.words.0 | diurétiques |
+| source.excerpts.213.words.1 | tanaisie |
+| source.excerpts.213.words.2 | chauds |
+| source.excerpts.214.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/eca88660-e069-5c97-8ff5-6bffc6b7003a |
+| source.excerpts.214.value | On fait une conserve avec les sommités de la plante : on en donne une demi - once à la fois .On dit que l ' ail n ' incommode point par son odeur , si l ' on mange de l ' ache aussitôt après .Un gros d ' extrait des feuilles d ' ache , mêlé avec deux gros de quinquina , est un fébrifuge assuré pour la fièvre quarte , et pour toutes celles où il y a des obstructions au basventre . |
+| source.excerpts.214.words.0 | odeur |
+| source.excerpts.214.words.1 | son |
+| source.excerpts.214.words.2 | ail |
+| source.excerpts.215.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ee1abcf9-3bcc-5393-9cce-d460a7815726 |
+| source.excerpts.215.value | PIMENT .C ' est une plante aromatique d ' une odeur forte mais agréable .Elle croît en Guinée , dans le Brésil , et dans nos provinces méridionales . |
+| source.excerpts.215.words.0 | aromatique |
+| source.excerpts.215.words.1 | agréable |
+| source.excerpts.215.words.2 | forte |
+| source.excerpts.215.words.3 | odeur |
+| source.excerpts.216.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/eefa2a4e-14d9-593d-9576-bf548a10c5b5 |
+| source.excerpts.216.value | Cette plante est purgative , fébrifuge et apéritive ; elle convient dans les engorgemens de l ' abdomen , dans la jaunisse , les maladies du foie et de la rate .Si on le fait bouillir , dit TRAGUS , de façon toutefois que son suc ne soit point épuisé , il relâche le ventre ; mais si on le fait bouillir trois ou quatre fois , ou même davantage , le changeant autant de fois d ' eau , qu ' on l ' aura fait bouillir de fois , et qu ' on le mange ainsi préparé , il resserrera , ce qui ne doit point surprendre , parce que le suc du chou est détergent , et la substance est astringente ; il tend aussi à augmenter la bile noire , ainsi on en doit faire un usage très modéré .CHOU - FLEUR . |
+| source.excerpts.216.words | astringente |
+| source.excerpts.217.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ef599f57-51a0-5d7c-9b56-793196d3acc3 |
+| source.excerpts.217.value | Parmi les derniers , ceux de Tœnia n ' admettaient aucune comparaison ; et le vin de Méroé , boisson favorite de CLÉOPATRE , avait de l ' analogie avec celui de Falerne .Le vin de Tœnia , d ' une couleur grise ou verdâtre , un peu astringent , quoique doux , se faisait remarquer par son odeur aromatique .On voit cependant , par une épigramme de MARTIAL , déjà indiquée , que la plupart des vins d ' Égypte étaient d ' une qualité fort inférieure ; et MACROBE déclare positivement qu ' ils étaient extrêmement froids et mous , malgré la chaleur du climat . |
+| source.excerpts.217.words.0 | aromatique |
+| source.excerpts.217.words.1 | odeur |
+| source.excerpts.217.words.2 | vin de Tœnia |
+| source.excerpts.218.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/efa35b5d-a1a0-53b8-a756-5805c65f9e57 |
+| source.excerpts.218.value | On donne ce nom en médecine à tous les agens qui ont la propriété d ' animer la vitalité des tissus organiques , d ' accélérer leurs mouvemens .Tels sont les alimens animaux chargés d ' osmazome , les alimens végétaux fortement épicés , les liqueurs fermentées , le café , la sauge , le romarin , la menthe , la mélisse , l ' hysope , l ' angélique , l ' anis , le fenouil , le raifort sauvage , le cochléaria , la cannelle , le macis , le girofle , l ' absinthe , la camomille romaine , les vins aromatiques , l ' éther , etc ., etc . |
+| source.excerpts.218.words.0 | cannelle |
+| source.excerpts.218.words.1 | vins |
+| source.excerpts.218.words.2 | aromatiques |
+| source.excerpts.218.words.3 | girofle |
+| source.excerpts.218.words.4 | macis |
+| source.excerpts.218.words.5 | éther |
+| source.excerpts.218.words.6 | raifort |
+| source.excerpts.218.words.7 | absinthe |
+| source.excerpts.218.words.8 | cochléaria |
+| source.excerpts.218.words.9 | camomille romaine |
+| source.excerpts.218.words.10 | végétaux fortement épicés |
+| source.excerpts.219.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f1e2d27a-877c-5a57-904d-ad825f88987e |
+| source.excerpts.219.value | Lorsque ce thé est nouveau , il donne une infusion claire et verte , d ' une saveur agréable , d ' une odeur de violette .Les Chinois prétendent que cette odeur ne lui est pas naturelle ; mais toujours est - il qu ' en Europe on se plaît à la lui donner , en mettant dans les caisses de thé des chapelets d ' iris de Florence bien sec .THON . |
+| source.excerpts.219.words.0 | odeur |
+| source.excerpts.219.words.1 | iris de Florence |
+| source.excerpts.219.words.2 | Chinois |
+| source.excerpts.219.words.3 | caisses |
+| source.excerpts.220.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f2a2f0f1-2bc8-5167-aede-362bcfe9985d |
+| source.excerpts.220.value | On donne le nom de glaireux à des alimens capables de produire des glaires dans l ' économie animale : tels sont les fruits non mûrs , et surtout les amandes de leurs noyaux ( que nous ne connaissons pas assez ) ; telles sont les graines huileuses et émulsives , qui , même après leur maturité , sont difficilement perméables aux sucs digestifs ; telles sont les chairs et surtout les parties tendineuses des animaux jeunes et oisifs , dont on tire si difficilement des extraits secs .Il est des personnes qui ont ce qu ' on nomme une constitution glaireuse , chez qui les parties mucilagineuses s ' accumulent dans l ' estomac , qui vomissent quelquefois des glaires filantes et visqueuses : ces personnes doivent particulièrement éviter les substances alimentaires dont nous venons de parler ; elles augmenteraient un vice qu ' elles doivent combattre par les acides , les sucs étendus d ' eau , les substances toniques , stomachiques et aromatiques .Voy . |
+| source.excerpts.220.words.0 | aromatiques |
+| source.excerpts.220.words.1 | substances |
+| source.excerpts.220.words.2 | parties |
+| source.excerpts.220.words.3 | stomachiques |
+| source.excerpts.221.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f4340e6f-f0ef-5e77-b514-33082c4bec42 |
+| source.excerpts.221.value | H HACHIS .Le hachis est un mets composé de viande coupée et hachée très menue , avec du beurre , du sel , du vinaigre , des épices , et autres substances aromatiques de haut goût ; c ' est un hors - d ' œuvre commun , au moyen duquel on ne laisse perdre aucun reste des viandes dont on a fait usage auparavant ; ce mets est ordinairement très assaisonné : on ne doit pas le permettre aux personnes dont l ' estomac est délicat , ou qui sont convalescentes .On a observé que quelques personnes digéraient moins bien le hachis que les viandes entières , parce que cette préparation , en rendant le passage plus facile , ne nécessite pas le mélange de la salive et de l ' air qui s ' y trouve : c ' est un point , dans la digestion , qui n ' a pas encore été assez examiné ; d ' ailleurs , comme cette préparation est souvent fort grasse , c ' est peut - être une raison pour qu ' elle répugne , non au goût , mais aux estomacs de beaucoup de personnes . |
+| source.excerpts.221.words.0 | aromatiques |
+| source.excerpts.221.words.1 | substances |
+| source.excerpts.222.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f4ee4333-e209-507f-9da6-2f6831641c7c |
+| source.excerpts.222.value | Les premières se prennent en infusion comme du thé .La cou - leur de cette infusion est , dit - on , agréable , et a un goût et une odeur qui font plaisir .Quant à la racine , il faut la faire bouillir un peu plus que le thé ; c ' est la pratique des Chinois , quand ils en donnent aux malades . |
+| source.excerpts.222.words.0 | agréable |
+| source.excerpts.222.words.1 | odeur |
+| source.excerpts.222.words.2 | infusion |
+| source.excerpts.223.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f581ff36-6ac3-5e0e-9978-62db27b603eb |
+| source.excerpts.223.value | Les vins rouges du Languedoc , du Roussillon et de la Provence , sont très négligés , selon le docteur HENDERSON , et ils ressemblent beaucoup à ceux d ' Espagne par leur couleur foncée , leur force et leur extrême épaisseur .Il nous semble pour - tant que l ' auteur ne leur a pas tout - à - fait rendu justice ; car nous avons bu , près de Montpellier , du vin de Saint - Georges d ' Orgues , capable de rivaliser avec celui de l ' Ermitage , par son odeur suave , son agréable consistance et un velouté digne des meilleurs crus .Les vins rouges de Roussillon , et principalement de Cahors et de la Côte du Lot , connus dans le commerce sous le nom de vins noirs , sont généralement employés à renforcer les vins légers du Bordelais ; ils supportent très bien la mer , et , quand ils ont vieilli , deviennent , d ' année en année , plus délicats sans rien perdre de leur chaleur . |
+| source.excerpts.223.words.0 | Montpellier |
+| source.excerpts.223.words.1 | suave |
+| source.excerpts.223.words.2 | odeur |
+| source.excerpts.223.words.3 | vin |
+| source.excerpts.223.words.4 | nous |
+| source.excerpts.223.words.5 | Saint |
+| source.excerpts.224.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f692301b-bf4d-573e-9bc1-40e052e66d86 |
+| source.excerpts.224.value | L ' usage journalier du radis peut guérir des hydropisiès com - mençantes ; on ne saurait trop le recommander dans les cas d ' affection scorbutique ; on applique la racine écrasée , sur la plante des pieds , pour les fièvres malignes et pour l ' hydropisie .Les radis qu ' on mange à Paris , ne possèdent point éminemment ce goût piquant qu ' ont ceux des provinces : la raison en est , que les jardiniers de Paris emploient beaucoup d ' engrais dans leurs jardins , et se servent d ' une grande quantité d ' eau pour arroser les plantes potagères ; ce qui fait que les sels de la plante ainsi nourrie , se trouvent noyés et dissous dans une eau mucilagineuse qui en émousse l ' action .RAFLE ( de raisin ) . |
+| source.excerpts.224.words.0 | Paris |
+| source.excerpts.224.words.1 | piquant |
+| source.excerpts.224.words.2 | radis |
+| source.excerpts.224.words.3 | goût |
+| source.excerpts.225.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f886cb05-bd84-5203-88f1-052f1898f8b6 |
+| source.excerpts.225.value | CERFEUIL .On met cette plante au nombre des apéritifs , des diurétiques , des fortifians et emménagogues .Elle purifie le sang , fait couler les règles et les urines , détruit les obstructions du foie , de la rate et des autres viscères ; le vin où l ' on a fait infuser du cerfeuil , est un excellent stomachique . |
+| source.excerpts.225.words.0 | diurétiques |
+| source.excerpts.225.words.1 | plante |
+| source.excerpts.225.words.2 | apéritifs |
+| source.excerpts.225.words.3 | fortifians |
+| source.excerpts.226.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/f8c9f081-c6e2-50dd-8b68-8877eb05cc7f |
+| source.excerpts.226.value | HYACINTHE ( confection d ' ) .Cet électuaire est cordial et stomachique .Il absorbe les aigreurs de l ' estomac et excite la transpiration . |
+| source.excerpts.226.words.0 | cordial |
+| source.excerpts.226.words.1 | stomachique |
+| source.excerpts.227.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/fb414771-93e6-5703-9cd4-d26b4952cafe |
+| source.excerpts.227.value | Les propriétés qu ' on lui attribue sont d ' être chaude et sèche , antiseptique , apéritive , atténuante , et ainsi propre à lever les obstructions du foie et de la rate , à faire uriner , procurer les menstrues , et préserver de la contagion .On peut en brûler pour parfumer et purifier l ' air .ALE . |
+| source.excerpts.227.words.0 | parfumer |
+| source.excerpts.227.words.1 | air |
+| source.excerpts.227.words.2 | purifier |
+| source.excerpts.228.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/fba8f5d1-ec14-55a3-a668-31450489bde0 |
+| source.excerpts.228.value | Quand il est bon , il est de couleur argentée , et il a un certain aspect huileux .Il est doux et légèrement astringent , et en même temps aromatique et terreux .Ce vin se garde fort long - temps , et il n ' est même potable qu ' au , bout de trois ans . |
+| source.excerpts.228.words.0 | aromatique |
+| source.excerpts.228.words.1 | terreux |
+| source.excerpts.229.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ff7947be-0e11-57df-9c94-fcae926cdc63 |
+| source.excerpts.229.value | On fait aussi confire ses graines pour les mâcher ; on en fait entrer quelquefois , depuis un gros jusqu ' à trois , dans les lavemens carminatifs .Les personnes dont l ' haleine est puante , tiennent la coriandre dans le coin de leur bouche , afin de ne pas dégoûter ceux qui les approchent .La coriandre fleurit en juillet et août . |
+| source.excerpts.229.words.0 | puante |
+| source.excerpts.229.words.1 | haleine |
+| source.excerpts.229.words.2 | personnes |
+| source.excerpts.229.words.3 | coriandre |
+| source.excerpts.229.words.4 | dégoûter |
+| source.excerpts.230.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/ffa44386-dee8-51af-80e9-dfed728f3109 |
+| source.excerpts.230.value | NÉROLI .Le néroli est une huile volatile d ' une odeur très agréable , de fleurs d ' oranger , que l ' on obtient par la distillation des fleurs de cet arbuste .Elle est d ' une couleur légèrement ambrée lorsqu ' elle est nouvelle , et elle se fonce en couleur en vieillissant . |
+| source.excerpts.230.words.0 | huile |
+| source.excerpts.230.words.1 | odeur |
+| source.excerpts.230.words.2 | très agréable |
+| source.excerpts.230.words.3 | néroli |
+| source.excerpts.230.words.4 | fleurs d |
+| source.excerpts.231.@id | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/fff902e3-f966-551e-9b66-970120b22337 |
+| source.excerpts.231.value | Le romarin , dit le docteur BUC ' HOZ , est un arbrisseau aromatique , à fleurs labiées , qu ' on cultive ordinairement dans les jardins , et qui se conserve toujours vert .On fait entrer les fleurs de romarin dans les sachets de senteur , dans les pots pourris ; elles sont la base de l ' eau de la reine d ' Hongrie : la fumée de cette plante desséchée purifie l ' air , et chasse les mauvaises odeurs ; c ' est un des aromates du peuple .Son odeur , trop forte , attaque les nerfs délicats des citadins , au lieu de leur rendre de la force et de l ' énergie . |
+| source.excerpts.231.words.0 | mauvaises |
+| source.excerpts.231.words.1 | air |
+| source.excerpts.231.words.2 | odeurs |
+| source.excerpts.231.words.3 | senteur |
+| source.excerpts.231.words.4 | aromates |
+| source.excerpts.231.words.5 | sachets |
+| source.excerpts.231.words.6 | fleurs de romarin |
+| source.excerpts.231.words.7 | pots |
+| source.excerpts.231.words.8 | plante desséchée |
+| source.author.0.@id | http://data.odeuropa.eu/actor/635e5849-7d6a-5412-8a8e-b5492072c2af |
+| source.author.0.label | César  Gardeton |
+| source.label | Dictionnaire des alimens , précédé d'une hygiène des tempéramens, de réflexions sur la digestion et les maladies de l'estomac, etc.. Par C*** G*** |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k6464432d |
+| source.date | 1826 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/103 |
+| smellSource.0.label | Myrrh |
+| smellSource.1.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/203 |
+| smellSource.1.label | Benzoin |
+| smellSource.2.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/211 |
+| smellSource.2.label | Balm |
+| smellSource.3.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/222 |
+| smellSource.3.label | Galbanum |
+| smellSource.4.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/259 |
+| smellSource.4.label | Resin |
+| smellSource.5.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/269 |
+| smellSource.5.label | Incense |
+| smellSource.6.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/432 |
+| smellSource.6.label | Ambergris |
+| smellSource.7.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/24 |
+| smellSource.7.label | Camphor (tree) |
+| time.0.@id | http://data.odeuropa.eu/time/a1ac07a7-1fa6-5d5a-a5bc-2f3939244aac |
+| time.0.label | 1826 |
+| time.0.begin | 1826 |
+| time.0.end | 1826 |
+| place.0.@id | https://sws.geonames.org/104515/ |
+| place.0.label | Makkah |
+| relevantExcerpt | http://data.odeuropa.eu/source/f8a04151-d2ea-5562-ac43-b30122741dcd/fragment/eb55f76e-9989-5ca9-98fe-14512f33c461 |
+| license | Public domain |

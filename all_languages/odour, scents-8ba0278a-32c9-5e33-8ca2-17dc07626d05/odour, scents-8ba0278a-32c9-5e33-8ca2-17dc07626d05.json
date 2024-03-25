@@ -1,0 +1,80 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8ba0278a-32c9-5e33-8ca2-17dc07626d05",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": [
+    "odour",
+    "scents"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/fe25e04a-8f7c-5beb-ac0b-46aa0637718c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/fe25e04a-8f7c-5beb-ac0b-46aa0637718c/fragment/d495deb4-baa7-570f-9510-b4cc5f13d263",
+        "value": "A pigeon would flutter to the lebbek tree and interject interject its muffled coo , like the ring of a sweet bell coming up through depths of pure spring water .Then several jackdaws 18 IN CAIRO in and indefinite impression of Cairo is like the unique and uncertain odour of the combining scents placed on your handkerchief handkerchief by the dealer in the bazaars .In its strange contrast to our own life , it is quite impossible to take Cairo seriously .",
+        "words": [
+          "odour",
+          "scents",
+          "your",
+          "uncertain",
+          "of Cairo",
+          "unique",
+          "in the bazaars",
+          "your handkerchief handkerchief",
+          "combining",
+          "by the dealer",
+          "on your"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe25e04a-8f7c-5beb-ac0b-46aa0637718c/fragment/d5f238b2-cf56-53d0-907c-3a6c75c989b1",
+        "value": "Immediately Immediately the long line breaks into response , response , at first in quiet , slow , and measured tones , then faster and faster ; keeping time , time , time , in a sort of Cufic rhyme , by the swaying of their bodies .It is the Muslim creed they are affirming so IN CAIRO VII 51 And the vines are in blossom ; They give forth their fragrance .Arise my love , my fair one , and come So near is the Egyptian to the soil that even to himself under the hot sun he must seem almost as much a part of nature as the palm .",
+        "words": [
+          "fragrance",
+          "their",
+          "They",
+          "the vines"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/9b44b8c1-71f7-5b5d-8fb6-266f729f78ce",
+        "label": "William Morton FULLERTON"
+      }
+    ],
+    "label": "In Cairo",
+    "date": "1891",
+    "language": "en"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/85ffe099-60df-549c-b4c8-64da05b8bf93",
+      "label": "on your|your handkerchief handkerchief"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/72add0cc-1e58-5a2b-8924-76c2aadd8ea4",
+      "label": "1891",
+      "begin": "1891",
+      "end": "1891"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/b281b4bd-ea3d-55d7-9a70-ed2c73420460",
+      "label": "in the bazaars"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/fe25e04a-8f7c-5beb-ac0b-46aa0637718c/fragment/d495deb4-baa7-570f-9510-b4cc5f13d263",
+  "adjective": [
+    "unique",
+    "uncertain",
+    "combining"
+  ]
+}

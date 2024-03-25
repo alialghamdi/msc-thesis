@@ -1,0 +1,89 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/fdd90418-177c-538c-9f1d-29a1b8eae8da",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "odour",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/2e21695e-d098-57fd-867f-31e5cce38586",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/2e21695e-d098-57fd-867f-31e5cce38586/fragment/384eadae-686f-5a9c-bc4d-485b92efc2ec",
+        "value": "I began to feel excessively anxious , and with cause , for at that rate the Dodo might be dead , and his bones picked clean by vultures , long ere I could in any way assist him .But apart from my anxiety , all those who have been like me delayed against their wish in Suez , will readily understand the utter dreariness I felt , while pacing up and down in front of the mosquitoinfested mosquitoinfested Suez hotel , and inhaling the unpleasant odour of decaying fish from the shallow water which laps its base .But vexation availed not ; neither did riding out on a donkey repeatedly to the docks , along the hot causeway , to see how the ship was getting on ; nor 131 WE FIGHT AND WE CONQUER .",
+        "words": [
+          "odour",
+          "unpleasant",
+          "from",
+          "of decaying fish",
+          "in Suez",
+          "mosquitoinfested Suez hotel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e21695e-d098-57fd-867f-31e5cce38586/fragment/6ea88618-8820-552c-9924-c5a1700bc41b",
+        "value": "The hill - tops are all showing out clear and distinct in the distance , and I can trace for miles the windings of the ravine , at the head of which I sit and wonder at the beauties that God has scattered with such a liberal hand over some parts of the globe , while leaving leaving others an arid and waterless waste .The scent of the pines fills all the fresh morning air with a crisp and yet languid perfume .The bees are humming all around a cheerful , busy , happy hum of content ; and above all , to crown the beauties of nature , I have but just left the fairest woman it has ever been my lot to know .",
+        "words": [
+          "perfume",
+          "scent",
+          "languid",
+          "of the pines",
+          "crisp",
+          "all the fresh morning air"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/744b30d8-e480-50ce-a369-4b700cb49fb1",
+        "label": "Andrew Charles Parker HAGGARD"
+      }
+    ],
+    "label": "Dodo and I. A novel",
+    "date": "1889",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/77eaceae-19a4-5e67-b506-23fd9422d6ac",
+      "label": "1889",
+      "begin": "1889",
+      "end": "1889"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/359796/",
+      "label": "Suez"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/3a104dca-fc9d-5b65-a114-dc60d4d99c4c",
+      "label": "mosquitoinfested Suez hotel"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/edb3fdb7-a066-5ec3-9c83-6329b8980c0e",
+      "label": "from"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/sadness",
+      "label": "sadness"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/boredom",
+      "label": "boredom"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nervousness",
+      "label": "nervousness"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/despair",
+      "label": "despair"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/2e21695e-d098-57fd-867f-31e5cce38586/fragment/384eadae-686f-5a9c-bc4d-485b92efc2ec"
+}

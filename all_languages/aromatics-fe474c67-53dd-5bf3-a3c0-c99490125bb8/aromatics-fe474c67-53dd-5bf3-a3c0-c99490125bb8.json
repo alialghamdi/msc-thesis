@@ -1,0 +1,324 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/fe474c67-53dd-5bf3-a3c0-c99490125bb8",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "aromatics",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/0a9db22e-3857-5d5e-97dd-d8b8977fcff1",
+        "value": "BIagillagon Point , a cape on the north - west extremity of the county of Londonderry .BIagillycuddy ' s Reeks , mountains of Ire - land , in the county Kerry , adjoining KKlarney , supposed to be the highest in Ireland .Magindano , the most southerly of the Philippine islands , in the Eastern seas , of an extremely irregular form .",
+        "words": [
+          "the highest",
+          "Reeks",
+          "BIagillycuddy ' s",
+          "in the county Kerry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/28cd2931-3c3d-5962-8cc9-af0070e66260",
+        "value": "The number of churches is 14 ; and there are also several charitable charitable institutions .The greatest drawback on this pleasant town arises from the neglect of the canals , several of which are stagnant and emit a disagreeable smell , which forms a strange contrast to the general cleanliness of the place .The environs of the Hague contain a number of villas ; but their principal ornament is the rural palace , belonging to the Orange family , above a mile to the north of the town .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "several of which"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/2bd94bb4-c9f3-5439-abd1-1b5b9c1ce915",
+        "value": "The hills rise very steep , and swell into mountains almost inaccessible , but everywhere productive of plantains , yams , and a multitude of wild roots growing spontaneously , spontaneously , and sometimes used sor food .In these higher regions only is to be found the precious sandal - wood , of two kinds , yellow and dark - coloured ; from whence the natives chiefly chiefly draw the perfume for the cocoa - nut oil , with which they anoint themselves .The inhabitants inhabitants of this island are above the common size , and the chiefs are a larger race , few of them being under six feet .",
+        "words": [
+          "perfume",
+          "the natives",
+          "for the cocoa - nut oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/4abe2bb7-a2ed-503a-a004-7a5091d011e8",
+        "value": "drinking or ablution .Their clothes are worn till covered with filth and vermin ; and the assemblage assemblage of a number into one place , produces a very unpleasing effect on the olfactory nerves .The feet of the females are compressed from the earliest age in order to render them small , which is considered as the chief ornament of a Chinese beauty .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/515fd05c-3b99-5e8d-9015-397b71b830b4",
+        "value": "To give a freer circulation to the air , a passage has been actually cut through the chain of mountains which surround the town , and this improvement , improvement , by giving a free access during the heats of summer , to the sea breeze , has not been without its utility .But Acapulco , owing to its position , is still extremely unhealthy ; and the unfortunate inhabitants , besides being tormented tormented with earthquakes and hurricanes , breathe a burning air , full of insects , and vitiated vitiated by putrid emanations .Bilious fevers , and the cholera morbus , ave very frequent ; and the Mexicans , who descend f .",
+        "words": [
+          "putrid",
+          "emanations",
+          "putrid emanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/5392f8b4-3ce3-5f0c-be8a-47810a817ef7",
+        "value": "In these plains , the climate is comparatively tem - perate , the average heat not exceeding that of Rome or Naples .Towards the west , the de - scent from the table land is much more steep than towards the east .The eastern declivity of the Cordillera , which is 84 leagues from Mexico to Vera Cruz , is so regular and uniform , that when once the traveller begins to descend from the great central plain , he continues the descent until he arrives at the eastern coast .",
+        "words": [
+          "scent",
+          "from the",
+          "much more steep",
+          "Towards the west"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/6380dd22-39f7-523c-b91b-01dcd1ce0186",
+        "value": "Its length may be estimated at 140 miles , by 40 in breadth .It produces grain , sago , sugar , salt , pepper , cardomums , cocoa - nuts , cassia , frankincense , and other aromatic drugs .Besides Besides other animals , the wild buffalo , tigers , and elephants , are found in the vicinity of the woods .",
+        "words": [
+          "aromatic",
+          "drugs",
+          "frankincense",
+          "cassia",
+          "cocoa - nuts",
+          "sago",
+          "cardomums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/7cbca65d-7606-5d01-aa77-e16733a1f4d3",
+        "value": "The plain of the Tehama , which forms a broad belt along the whole of the coast , consists almost entirely of a waste of unproductive sand .The Djebal , or mountainous mountainous district in tbe interior , presents in many parts a more agreeable aspect Its lower declivities declivities are covered with trees and aromatic shrubs : and the mountain chains are divided CRO 188 CRO states .It has a trade in fine linen .",
+        "words": [
+          "aromatic",
+          "shrubs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/7f4318b2-8f57-5f00-8c6a-583c3cf96579",
+        "value": "It is both large and handsome , containing containing 8 squares , many convents , and two colleges colleges for education .Here is a manufactory of cigars ; and the natives make a sort of jars of a fine scented earth , which are in much request Population 19 , 500 , consisting of Spaniards , mulattoes , mulattoes , and mestizoes .280 miles N .",
+        "words": [
+          "earth",
+          "scented",
+          "fine scented",
+          "of cigars"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/8250e9e4-cd7c-5fc9-9be9-3c57509caf7b",
+        "value": "It is noted for its manufacture of tinsel ware resembling resembling gold .The distillation of aromatic waters waters still continues to be an employment here .The other manufactures are tobacco , ribbons , shawls , linen , and playing cards .",
+        "words": [
+          "aromatic",
+          "waters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/86680ddb-8806-54c4-baeb-b0bb8d28ea5d",
+        "value": "Guildford is one of the best inland towns of its The Grain coast , called also the Malaghetta , or Pepper coast , extends from tbe Mesurado to the village of Growa , about ten miles beyond Cape Palmas .The aromatic plant from which this coast derives its name , appeared , when Europeans first landed on this coast , a delicious luxury .As soon , however , as they became familiar with the more delicate and exquisite aromatics of the East , this coarser one fell into disrepute ; and as this coast afforded neither gold nor ivory , and was not favourable for procuring procuring slaves , it has been comparatively little frequented .",
+        "words": [
+          "aromatic",
+          "plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/8755c503-9ebb-565b-a7e3-95f0a737edd0",
+        "value": "Other important important vegetable products are the papyrus , so celebrated among the ancients , as the original material of paper .The balsam , myrrh , sassa , and opocalpasum , are produced along the coast of the Red sea , but more copiously beyond the limits of Abyssinia , from Zeyla to Cape Guardafui , Guardafui , which may be considered as the native country of these juicy and odoriferous woods .In some swampy districts , where excess of moisture would prevent the raising of grain , its place is supplied by a plant called Ensete , the stalk of which , when stripped of its green covering , is said by Bruce to be the very best of all vegetable food .",
+        "words": [
+          "woods",
+          "odoriferous",
+          "juicy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/9654ede6-f2e5-5333-8780-1baf9a7306bb",
+        "value": "The bay of Chesa - peak extends inland 200 miles , to its termina - tion in Maryland .The principal forest trees are apple , wild or sweet - scented crab , ash , aspen , beech , black and white birch , catalpa , ( sherry , chestnut , horse - chestnut , cucumber - tree , cypress , dog - wood , elder , elm , fir , hemlock , spruce , fringe or snow - drop tree , sweet gum , hawthorn , hickory , Indus red - bud ; juniper , or red or Virginia cedar ; laurel swamp ; linden , or American lime ; locust , sugar and red flower - ing maple , red mulberry ; black chestnut , live , red and white oak ; pacan , or Illinois nut ; persimon ; black , spruce , white , and yellow pine ; plane - tree , poplar , black ditto , sassafras , Spindle - tree , hlack and white walnut .The forests forests of Virguua have little underwood ; and it is easy to travel through them on foot or on hoj & gt ; eb » ck , except on the lowlands in the east - em parts , which are covered with cedars , pines , and cypresses .",
+        "words": [
+          "sweet",
+          "linden",
+          "crab",
+          "hawthorn",
+          "fringe",
+          "sugar",
+          "cypress",
+          "elder",
+          "beech",
+          "fir",
+          "spruce",
+          "chestnut",
+          "scented",
+          "hemlock",
+          "juniper",
+          "sassafras",
+          "ash",
+          "aspen",
+          "locust",
+          "poplar",
+          "sweet gum",
+          "or American lime",
+          "Indus red - bud",
+          "snow - drop tree",
+          "catalpa",
+          "laurel swamp",
+          "elm",
+          "black and white birch",
+          "hickory",
+          "dog - wood",
+          "Spindle",
+          "horse - chestnut",
+          "black ditto",
+          "cucumber - tree",
+          "or red or Virginia cedar",
+          "( sherry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/96b16aa5-53a0-5792-b199-0eed18437631",
+        "value": "It produces , besides , various various medicinal plants ; also the Paraguay tea , or matte , a plant , an infusion of which supplies the inhabitants with a refreshing drink .The forests abound with a variety of plan ts and woods , medicinal and aromatic , and many of them yielding yielding useful dyes .The feathered creation are in endless variety .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/9bbfccf6-1258-5e2c-8c2d-073eaeaa06cc",
+        "value": "The plains afford pasture to numerous herds of cattle , both wild and tame , which are hunted by the inhabitants chiefly for their skins .The soil is of great fertility , so that the fields are always covered with flowers and odoriferous plants , and the trees with foliage ; and it produces in abundance abundance ginger , long pepper , and other spices ; aloes , mastic , cassia , fistula , manioc , maize , cocoa , cocoa , & amp ; c .Tobacco grows to great perfection ; also sugar , coffee , & amp ; c .",
+        "words": [
+          "cocoa",
+          "odoriferous",
+          "plants",
+          "flowers",
+          "long",
+          "cassia",
+          "aloes",
+          "mastic",
+          "manioc",
+          "maize",
+          "fistula"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/a2e0db05-3564-5c5d-a50a-4468fb9c6354",
+        "value": "The Nile flows through this immense plain above a mile broad , full to the very brim , but never overflowing .Soon after , however , the rains cease ; the dhourra then ripens , the leaves turn yellow and rot , the lakes putrify , smell , and are full of vermin ; all the beauty disappears , and bare scorched Nubia returns , with all its terrors of poisonous winds and moving sands , glowing and ventilated with sultry blasts .Sennaar produces within itself few commodities fit for trade ; and that which it carries on consists chiefly in exchanging the productions of interior Africa with those of Egypt and Arabia .",
+        "words": [
+          "the",
+          "smell",
+          "the lakes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/affc7b9e-a7cf-5e95-9231-3334f69ac549",
+        "value": "The lading from Acapulco to Manilla generally consists consists of silver , a very small quantity of cochineal from Oaxaca , of cocoa from Guayaquil and Caraccas , Caraccas , wine , oil , and Spanish wool .Its cargo from Manilla consists of muslins , printed calicoes , calicoes , coarse cotton shirts , raw silks , china , silk stockings , articles cf jewellery from Canton or Manilla , by Chinese artists ; spices , and aromatics .aromatics .",
+        "words": [
+          "aromatics",
+          "spices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/b1408cd9-5b6b-5dd0-bcb4-32058ab2a97a",
+        "value": "Potatoes thrive well without manure .B U K B U L 121 name of several other rivers in the United States .digo , cochineal , and coral , are received in return .",
+        "words": "U K B U L"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/b1672ce5-825d-52ae-b9c7-6b055e0ab40c",
+        "value": "The smaller trees and shrubs are not less rich in valuable valuable products .The warm aromatic plants , as well as those which diffuse the richest fragrance , the cinnamon , the clove , the nutmeg , the myrrh , balsam , and frankincense , spring exclusively in the heart of this favoured zone .These advantages are , however , in general b HAN 299 HAR the fifth rank , taking precedence of all except Austria , Prussia , Bavaria , and Saxony .",
+        "words": [
+          "aromatic",
+          "plants",
+          "frankincense",
+          "fragrance",
+          "the richest",
+          "warm aromatic",
+          "the clove",
+          "balsam",
+          "the nutmeg",
+          "the cinnamon",
+          "the myrrh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/b935148a-fb78-5f9f-a2a3-3bd8829bf1f1",
+        "value": "BIaranham , a large island of Brazil , at tlie 10 BRA BRA 106 est varieties of useful and beautiful wood , well adapted for dyeing , for cabinet - work , or for ship - building .There are some woods which have the property of hardness fn a superior degree , degree , and others which are very heavy , and have a peculiar fragrance .The most precious produce produce which is to be found in Brazil is gold and diamonds ; and there is perhaps no greater obstacle obstacle to its improvement , than the blind eagerness eagerness of the inhabitants to search for these hidden hidden treasures .",
+        "words": [
+          "woods",
+          "peculiar",
+          "fragrance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/c5f36db9-bff8-579c-9a9a-b1c73e70fed1",
+        "value": "There are also manufactures of tobacco and snuff - boxes , shoes , and hats .Tin and brass are among the productions of Staffordshire ; and there are several smelting and brass - works near the copper mines .The cotton manufactures are very considerable • and there is a manufacture of salt , obtain ! ed by boiling brine .",
+        "words": [
+          "brass",
+          "smelting",
+          "near the copper mines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/cd8e1658-f87c-512e-afc0-6142a2d3d42f",
+        "value": "The aromatic plant from which this coast derives its name , appeared , when Europeans first landed on this coast , a delicious luxury .As soon , however , as they became familiar with the more delicate and exquisite aromatics of the East , this coarser one fell into disrepute ; and as this coast afforded neither gold nor ivory , and was not favourable for procuring procuring slaves , it has been comparatively little frequented .The principal forts erected here size in the kingdom , large , clean , and well built , 12 BRU BRU 116 Queen ' s college was founded in this city by ministers of the reformed Dutch church , for the education of their clergy , and incorporated in 1770 .",
+        "words": [
+          "exquisite",
+          "they",
+          "aromatics",
+          "more delicate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/d5683ee1-6764-5f96-bb01-ed9f612aa1ab",
+        "value": "Those of fire - arms , china , and glass , are of some importance ; but those of soap , leather , and wax , are of little account .A good deal of ingenuity is displayed in making violins and other musical instruments ; also in mahogany furniture and carriages , and even in the petty manufacture of snuff - boxes from lava and tortoise - shell .The population of Naples amounts to 330 , 000 .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/e5341818-92ec-5468-b15f-3980841cdbee",
+        "value": "In the bigh ground in the interior , they are found to dwindle and degenerate in that equinoctial climate .The various kinds of plants and great abundance of herbs found in Jav : i , would afford ample scope for the researches researches of the botanist , as flowers exhale their perfumes at all seasons of the year .Garden plants are produced in great variety , such as endives , cauliflowers , beans , cabbages , pompions , pompions , melons , patacas or water melons , yams , potatoes , & amp ; c .",
+        "words": [
+          "perfumes",
+          "flowers",
+          "exhale",
+          "at all seasons of the year"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/ec2b9f9e-754f-529a-926c-e75eb91029c6",
+        "value": "The exports of Arabia , with which Eu - ropeans are best acquainted , consist of coffee , gum arabic , myrrh , and frankincense .Its in - habitants seem to be fond of aromatics , as the shops for selling them are numerous in Mecca .Their imports are more numerous , especially from the East , being gold and other metals , ivory , fire - arms , cotton , and slaves .",
+        "words": [
+          "aromatics",
+          "in Mecca",
+          "Its in - habitants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/ef25b740-b778-562b-85b2-342c14e2c67e",
+        "value": "According to the best informed travellers , the greater part of Palestine displays a truly luxuriant fertility , fertility , corresponding entirely to the description of the promised land .Judæa proper , the an - cient kingdom of Jiidah , comprises the territory extending from the lake Asphaltites to the sea , and consists of hills and valleys of great beauty and fertility , where the sides ofthe mountains are fitted for the vine , the olive , the sycamore , and are crowned with natural groves of oak and cypress ; while the earth is abundantly covered with aromatic plants .It produces also plenti - ful crops of tobacco , wheat , barley , and millet , and delicious wine is produced in some of the districts .",
+        "words": [
+          "aromatic",
+          "plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/efc4cd9b-2010-5430-ac59-628b8e34b408",
+        "value": "Gambir juice is extracted from the leaves of a plant of that name .The agila wood or lignum aloes is highly prized in all parts , for the fragrant fragrant scent it emits when burning .The forests contain an inexhaustible store and endless variety variety of timber trees , many sorts of which are capable of being applied to ship - building ; also the spreading banyan tree of Hindostan .",
+        "words": [
+          "scent",
+          "fragrant fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/f4455fb6-c716-5dbf-ba01-0ea83cfdc0b0",
+        "value": "Of the mixed races in Mexico , there were , according to Humboldt , in 1804 , 2 , 331 , 000 , of whom seven - eighths were Blestizoes .The Indians amount to 2 , 500 , 000 ; and their actual condition condition is a striking illustration of the inefficacy of 2 i * BUF B U E 120 before and behind ; and many have balconies with lattice work for the reception of odoriferous odoriferous shrubs and flowers .The cathedral is spacious spacious and elegant : it has a cupola of excellent workmanship , and a portico , the design and execution of which are much extolled .",
+        "words": [
+          "odoriferous",
+          "shrubs",
+          "flowers",
+          "odoriferous odoriferous"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/a1163983-38bf-5f0a-b6b9-3287781fa1f1",
+        "label": "EDINBURGH GAZETTEER"
+      }
+    ],
+    "label": "Edinburgh gazetteer, or compendious geographical dictionary ... Abridged from the larger work in six volumes, etc.]",
+    "date": "1829",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9993e95e-bdee-58d6-bc7d-de7fdb11110f",
+      "label": "1829",
+      "begin": "1829",
+      "end": "1829"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/c1d5f507-55e6-5bad-bc60-d3397f2411c5/fragment/ec2b9f9e-754f-529a-926c-e75eb91029c6"
+}

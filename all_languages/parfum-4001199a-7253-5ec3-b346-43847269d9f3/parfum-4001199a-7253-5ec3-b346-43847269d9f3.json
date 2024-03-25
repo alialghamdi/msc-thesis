@@ -1,0 +1,73 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/4001199a-7253-5ec3-b346-43847269d9f3",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/b749be82-3e51-5054-bfc9-317b94a05a9d",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/b749be82-3e51-5054-bfc9-317b94a05a9d/fragment/1f6a8345-4e17-5cc8-bc84-a7017e1390b6",
+        "value": "« Aux uns , disent - ils on arrachait les ongles ; on perçait aux autres les bras et les jambes avec des vilebrequins ; on leur enfonçait des alènes sous les ongles , et on ne se contentait pas d ' avoir fait tout cela une fois ; on y revenait plusieurs jours de suite .« On en jetait dans des fosses pleines de vipères ; on remplissait de soufre et d ' autres matières infectes de gros tuyaux , et on y mettait le feu ; puis on les appliquait au nez des patients , afin qu ' ils en respirassent la fumée , ce qui leur causait une douleur intolérable .« Quelques - uns étaient piqués par tout le corps avec des roseaux pointus ; d ' autres étaient brûlés avec des torches ardentes .",
+        "words": [
+          "fumée",
+          "patients",
+          "matières infectes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b749be82-3e51-5054-bfc9-317b94a05a9d/fragment/698b0152-2a23-5231-ab36-59559b31403b",
+        "value": "« Les deux bugio , chargés de recevoir les lettres , se firent attendre un instant .Les officiers attachés au Palais du Thé nous invitèrent à oublier le temps de l ' attente dans la fumée du tabac et dans le parfum du thé .« A peine avions - nous dégusté le thé amer , que les deux mandarins descendirent de cheval et vinrent aussitôt échanger avec nous quelques courbettes .",
+        "words": [
+          "parfum",
+          "fumée",
+          "tabac",
+          "nous",
+          "thé",
+          "officiers",
+          "Palais du Thé"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/7bda02fb-aa91-55cd-acd2-220258e6add6",
+        "label": "L Debroas"
+      }
+    ],
+    "label": "Les missions du Japon / par L. Debroas",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k62082671",
+    "date": "1902",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/147",
+      "label": "Smoke"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/161",
+      "label": "Tea"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/227",
+      "label": "Tobacco"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6c22fc6b-e1d1-57c7-a253-774753518225",
+      "label": "1902",
+      "begin": "1902",
+      "end": "1902"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8617627/",
+      "label": "qaṣr Bashtāk"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/b749be82-3e51-5054-bfc9-317b94a05a9d/fragment/698b0152-2a23-5231-ab36-59559b31403b",
+  "license": "Public domain"
+}

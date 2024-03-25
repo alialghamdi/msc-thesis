@@ -1,0 +1,86 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/5985d95a-a56f-513e-8995-b58037e04d21",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "violacée",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/12c661f3-9a64-5a31-a45e-01e5102e1f80",
+        "value": "Ces ouvertures demeurèrent fistuleuSes ; le pus ne tarda pas à changer de nature ; il devint liquide , prit une ; ; : .56 ; \" • : - v odeur infecte ; et se .mêla d ' un peu de sang , ; A - plusieurs reprisés , il sortit , par les ouvertures des abcès , dès parcelles osseuses .",
+        "words": [
+          "infecte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/7e7063bf-2c35-5f20-b93b-3814bd0d94e7",
+        "value": "L ' aspect de la plaie a changé ; les bords tuméfiés se recouvrent d ' une couenne grisâtre .L ' eau - de - vié camphrée est remplacée par le vin aromatique .Peu à peu le gonflement cède , la matière grisâtre disparaît , la plaie redevient vermeille .",
+        "words": [
+          "aromatique",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/801629f6-f72b-51e3-a7a2-a5efb1a23319",
+        "value": "Le fragment , inférieur du cubitus bourgeonne , sauf en un point , qui est menacé d ' exfoliatiôn .( Pansement au vin aromatique .) ■ ) { ' .",
+        "words": [
+          "aromatique",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/ca5b5856-3986-59ff-bc2c-57b43fb6dd4f",
+        "value": "' \" ■ ' côté opposé ; Sur aucun point on ne perçoit de ; fluctuation , mais la palpation , exercée avec soin , fait reconnaîtreTexistençede fongositésdistendant l ' article et parfaitement àppré ^ ciables au doigt .La peau de la région est luisante et violacée ^ : Deux trajets fistuleux existent .au niveau des anciens abcès .",
+        "words": [
+          "région",
+          "violacée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/dfb39f2b-be66-5f40-9293-ed8adf0c32d6",
+        "value": "delà balle , .qui était demeurée dans Ja plaie , fournissait un - pus noirâtre et fétide ..",
+        "words": [
+          "fétide",
+          "pus",
+          "noirâtre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/ed3e1526-fd95-557f-af62-88d8008f8b97",
+        "value": "Je jugeai la résection nécessaire ; elle fut pratiquée le 26 mai au matin .Le malade est anesthésié à l ' aide du chloroforme .Une incision longue de 13 centimètres est pratiquée sur le côté postérieur et externe du coude .",
+        "words": [
+          "malade",
+          "anesthésié"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/94729a1d-cdb5-5707-b1dc-9eabcbe6dcd7",
+        "label": "Pierre-Cyprien  Oré"
+      }
+    ],
+    "label": "Résections, évidements : tribut à la chirurgie conservatrice / par le Dr Oré,... ; Hôpital Saint-André de Bordeaux, clinique chirurgicale",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5724411n",
+    "date": "1872",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9bc75c91-6c9d-528e-be31-b75f36697ed4",
+      "label": "1872",
+      "begin": "1872",
+      "end": "1872"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ecac8b73-c5c9-59fc-b2a9-eb7190f7be19/fragment/ca5b5856-3986-59ff-bc2c-57b43fb6dd4f",
+  "license": "Public domain"
+}

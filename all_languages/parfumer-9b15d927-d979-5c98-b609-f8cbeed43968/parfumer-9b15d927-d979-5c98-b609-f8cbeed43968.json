@@ -1,0 +1,958 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/9b15d927-d979-5c98-b609-f8cbeed43968",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumer",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/078bd6b7-9af6-583c-a87e-ad14a02f466a",
+        "value": "— Voici , d ' après M .Bidaud , comment on reconnaît qu ' une eau est bonne à boire , hygiéniquemênt parlant : 126 EAUX ' Un des premiers caractères de l ' eau potable étant d ' être propre aux usages domestiques , o ' est - à - dire de bien cuire les légumes et bien dissoudre le savon , il n ' y a : 1 \" qu ' à se savonner les mains , ou mieux un linge quelconque , pour s ' assurer qu ' elle nettoie bien et ne grumelle pas le savon ; 2 ° on la faisant bouillir quelque temps avec une poignée de ' pois ou de haricots , on se rend facilement compte si elle les cuit convenablement ou les durcit ; dans ce dernier cas , elle est trop chargée de sels de ohaux nu do magnésie , surtout de sulfates ; 3n on apprécie sa saveur et sa fraîoheur , même quand on y est habitué , en rinçant plusieurs fois la bouche et la dégustant ensuite ; ■ 1 ° en remplissant une bouteille ou un flacon en - verre blanc qu ' on regardo avec attention an soleil , par transparence et par réflexion , on juge de sa limpidité ou de son trouble et , si elle est colorée ; 5 ° pour constater si elle a ou n ' a pas d ' odeur , il est bon de prendre la précaution suivante : oii en remplit une bouteille , préalablement bien rincée , qu ' on ' vide ensuite aux 3 / 4 et on inhale l ' air qui n remplacé l ' eau ; on mieux , on bouche bien la bouteille et on la place ; ' devant le feu pour là .chauffer légèrement j ait bout de quelques minutes , on la débouche brusquement et on place aussitôt le nez sur l ' ouverture .",
+        "words": [
+          "odeur",
+          "elle",
+          "sulfates",
+          "eau",
+          "flacon",
+          "eau potable",
+          "magnésie",
+          "bouteille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/0e517142-bdbc-5e45-87d1-56b21f96d57d",
+        "value": "L ' ambre et le musc , parfums d ' origine animale , excitent l ' imagination et le sens sexuel .Les parfums artificiels nuisent au système nerveux , Les parfums composés ( corylopsis , ess - bouquet , ylang - ylang , ete .) poussent à la mélaiv colie et aux états d ' âme plus ou moins compliqués .",
+        "words": [
+          "parfums",
+          "bouquet",
+          "ylang",
+          "artificiels",
+          "corylopsis",
+          "ess",
+          "ete"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/10ea3314-4ea3-57a8-9dc1-77c870b872c5",
+        "value": "Filtrez et conservez dans des flacons ou dans des bouteilles hermétiquement fermées .Ce vinaigre aromatique peut être mis dans des flacons de poche .Visage II y K Italie Les plus frais visages sont souvent ceux dont la vulnérabilité est la plus étonnante .",
+        "words": [
+          "aromatique",
+          "vinaigre",
+          "flacons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/11a166be-186a-5080-a783-c0765556253d",
+        "value": "Ainsi on le revivifie et il durn éternellement .Voir aussi mon Hygiène de lé beauté , où l ' on trouvera les plus nombreuses formules , Pour parfumer le .papier à lettre et les enveloppes , — Imbiber plusieurs feuilles de papier buvard du parfum préféré , 238 l ' ATISSKJUKS laisser sécher et les pincer ensuite entre les cahiers de papier et les enveloppes .",
+        "words": "parfumer"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/154ff452-c1b5-54d3-88b6-c39c50a44fc8",
+        "value": "5 — , ■ * * • A prendre par cuillerées à soupe .Asthme de foin où coryza des roses .— Ce mal est , aujourd ' hui , envisagé Comme une rhinite spasmodique , nécessitant surtout un traitement local des fosses nasales , sans négliger , bien entendu , la médication générale , variable suivant les cas .",
+        "words": [
+          "roses",
+          "Asthme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/18318317-2601-5d38-83fb-d71fc36a70e2",
+        "value": ", etc .En la débouchant , on trouvera qu ' elle a pris une odeUr prononcée , que sa saveur est devenue mauvaise , etc .Une eau pareille doit être rejetée , EAUX ' ' .",
+        "words": [
+          "mauvaise",
+          "elle",
+          "sa",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/18f67d80-6492-5f9b-a25b-b84d24934111",
+        "value": ".; 0 - ~ 20 Muile de coco parfumée XX gtt » Matin et soir , 268 SUCRE • Pour faire pousser les ciU et sourcils : Lanoline 20 gr .Glycérine 10 — Soufre lavé 1 — tNnphtol 0 — 50 Sulfate de spartéine , 0 — 10 * M .",
+        "words": [
+          "parfumée",
+          "Matin et soir",
+          "coco",
+          "Lanoline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/1c929330-e928-5792-84d0-1ae15c8b93f7",
+        "value": "Sueurs Sueur du corps .— Beaucoup de personnes , et particulièrement les femmes rousses , exhalent , lorsqu ' elles ont très chaud , une odeur sure , fort désagréable , qui est due aux acides valérianique et caproïq ue éliminés par la sueur .Cette odeur disparaît - ou se trouve très diminuée en poudrant le buste avec la poudre suivante , t \\ l ' aide d ' uno houppe à poudre de riz : Amidon 40 gr .",
+        "words": [
+          "odeur",
+          "fort désagréable",
+          "Beaucoup de personnes",
+          "sure",
+          "femmes rousses",
+          "acides valérianique et caproïq ue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/1ea6e36e-3bce-5681-923f-d90bce77f3cd",
+        "value": "On cbuiiffe trois heures à 80 ° , puis on verse dans de l ' eàti froide ; le produit précipité est recristallisé et purifié dans l ' alcool , et exhale l ' odeur du musc naturel .On est arrivé à reproduire aussi , artificiellement , les parfums de l ' iris et de là violette , extraits de la térébenthine .En partent du oitral contenu dans l ' essence de citronnelle dans la proportion de ? « # „ Tiemann et Kruger ont i > n obtenir l ' iononè , qui possède l ' odeur de l ' irone , parfum de l ' iris et de la Violette .",
+        "words": [
+          "violette",
+          "parfums",
+          "térébenthine",
+          "iris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/1f6aaed7-ec71-56d1-9207-0394865556f8",
+        "value": "a dit le poète communard , 12 , Vermersch .! La sole est , par excellence , le poisson à chair délicate et ferme , parfumée et nutritive .Klle est de facile digestion , surtout lorsqu ' elle est petite , cuite à l ' eau et légèrement revenue dans du beurre frais .",
+        "words": [
+          "parfumée",
+          "nutritive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/21469f1b-5489-5315-a444-480b52fbef79",
+        "value": ".Quand le « pot - pourri » a perdu soii parfum , on le remet dans le bocal , avec de nouvelles fleurs , du sel et un peu d ' eau de Cologne .Ainsi on le revivifie et il durn éternellement .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "perdu",
+          "eau de Cologne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/221d6bee-ef7f-5943-841e-d15ba2834583",
+        "value": "Clous aromatiques dits de la sultane .— Moyen de parfumer les appartements : Beaume de la Mecque ..",
+        "words": [
+          "parfumer",
+          "appartements",
+          "Mecque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/22e78721-7611-59a8-8ea4-185ee55990af",
+        "value": ".550 — TOUX 981 On peut préparer chez soi d ' excellent parfum pour la toilette et pour le mouchoir , imitant à s ' y méprendre l ' odeur des fleurs d ' héliotrope .Le procédé est très simple : Prenez une bouteille d ' un litiv , introduisez - y 5 grammes de teinture de benjoin , 25 grammes d ' essence de .",
+        "words": [
+          "parfum",
+          "odeur",
+          "fleurs",
+          "mouchoir",
+          "excellent",
+          "héliotrope",
+          "toilette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/22f91f8c-51ab-5cfa-a549-6f5336d2987f",
+        "value": "très sensible , une cage avec de petits oiseaux ) , il faut s ' empresser d ' ouvrir largement les fenêtres .C ' est même une précaution à prendre , en hiver , dans toute chambre chauffée par un poêle , toutes les trois ou quatre heures au moins , 11 faut bannir , sans retour , la méphitique chauffe - , rette et redouter également , comme producteur de gaz oxyde de carbone , le gaz d ' éclairage qui , d ' après Guillié , est loin d ' avertir toujours de ses dangers par ses qualités odorantes .En effet , suitout en hiver , l ' expérience a montré que lorsque le gaz d ' éclairage a parcouru un luyau rempli de terre long de 10 à 12 mètres , les hydrocarbures sont absorbés par la terre et que , seul , l ' oxyde tie carbone passe .",
+        "words": [
+          "odorantes",
+          "chambre",
+          "gaz d",
+          "Guillié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/2377c358-e8b9-5249-835d-2d8453caf109",
+        "value": "pour se résorber entièrement .Je conseille , VARICES 291 comme iraitemen : les lotions et ' ' compresses avec ] e mélange : Vinaigre aromatique ., ôOO gr .",
+        "words": [
+          "Vinaigre",
+          "aromatique",
+          "Vinaigre aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/238a99da-1f1e-5862-a9c3-d468650934a5",
+        "value": "Ou bien encore i gargarisme avec une ■ solution faible de permanganate de potassium .Le traitement de l ' haleine fétide est toujours fort délicat à instituer , parce qu ' il faut , tout d ' abord , savoir en reconnaître la cause .Nous recommandons à cet égard notre ouvrage : ] * c $ Odeurs du corps humain ( causes et traitements ) qui renferme , sur la question de l ' haleine , lès détails les plus circonstanciés et les plus pratiques .",
+        "words": [
+          "fétide",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/247d5d24-869b-5cbe-91f1-1676d4020945",
+        "value": "15 — M .Parfums Les plus hygiéniques sont les parfums naturels extraits dès plantes : rose , bergamote , néroli , verveine , etc ..",
+        "words": [
+          "parfums",
+          "rose",
+          "plantes",
+          "Parfums",
+          "verveine",
+          "bergamote",
+          "néroli",
+          "hygiéniques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/24f35284-c742-5e3f-b272-f58e32c0a65c",
+        "value": "En outre , elle est un agent sédatif de l ' estomac et un antiseptique mtçrieur très précieux contre les troubles digestifs .En aromatisant les aliments ( entremets ) , la vanille leur communique la faculté de rassasier plus vite .Elle favorise sùrt - ■ ! a digestion des corps gras ; VA Kl CES 287 Elle rend ainsi les crèmes renversées , le chocolat , etc .",
+        "words": [
+          "vanille",
+          "aliments",
+          "aromatisant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/27e724b2-445f-55fe-9cff-91fab2525727",
+        "value": ".Vinaigre aromatique .— • Mêlez ensemble 2 grammes d ' essence d ' ambre et autant d ' essence de lavande ^ 4 grammes d ' essence de girofle , 1 gramme d ' essence dé V1SAGK 303 romarin , 4 gouttes d ' essence de cannelle .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/2ae8d598-f8f3-5862-8ca1-c5fcc6361ed6",
+        "value": "Les 60 BADIGE0NNAOES / peuples qui Be nourrissent d ' avoine ( Ecossais , Bretons ) présentent une grande vigueur nutritive et une endurance remarquable à la fatigue .' Badiane Appelée aussi anis étoile , c ' est le fruit d ' une magnoHaçée i ses propriétés sont carininatives et stimulantes comme celles de Vaut * vert .L ' essence qu ' on en tire est la base de l ' anisette et de l ' absinthe / C ' est un des - produits de notre colonie du Tonkin .",
+        "words": [
+          "stimulantes",
+          "anis",
+          "une magnoHaçée",
+          "carininatives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/2f7b40a6-9215-55b6-90bb-1d520528e3b6",
+        "value": "albuminoïdes .On trouve , dans le commerce de la pâtisserie et des glaces , une fausse essence d ' ananas , sorte d ' éther butyrique , qui amène souvent des éruptions d ' urticaire et des troubles digestifs : on fera donc bieh de se méfier des gâteaux et sorbete parfumés à l ' ananas .Andpuille et Àndottiliett ^ Sorte de charcuterie ayant pour base essentielle les boyaux de Veau ou d ' agneau , plus oii moins cohdinientés , .",
+        "words": [
+          "parfumés",
+          "essence",
+          "gâteaux",
+          "ananas",
+          "éther butyrique",
+          "troubles digestifs",
+          "sorbete"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/30084343-7757-580d-b617-0802b3624d72",
+        "value": ".Quelques gouttes d ' essence de térébenthine dans le vase de nuit suffisent à transformer en odeur de violette la désagréable senteur que l ' asperge communique aux urines ( Voir mon livre : Les Odeurs du corps humain .) Asphyxie lVaMitliyx .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "violette",
+          "Odeurs",
+          "senteur",
+          "vase",
+          "urines",
+          "essence de térébenthine",
+          "corps humain",
+          "asperge",
+          "vase de nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/3221e168-eb4c-5c4f-834e-4f2035b5f49c",
+        "value": ".- ' ( Voir aussi Désinfection , Logement ) Voici une recette qui donnera un excellent produit pour enlever les mauvaises odeurs d - s cabinets , chambres de malades , caves , etc .Sulfate de zinc .",
+        "words": [
+          "mauvaises",
+          "odeurs",
+          "caves",
+          "cabinets",
+          "chambres de malades"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/326754d4-454a-5077-a2a6-218d45bb983e",
+        "value": "Les rêves terrifiants et les hallucinations de la vue .de rouie , du goût et de l ' odorat , les tremblements , crampes et convulsions épileptiformes , la stupeur , la paralysie et la folie caractérisent le ? degrés plus élevés de l ' empoisonnement , absinthique .Beaucoup d ' absinthes succombeut aussi à la phtisie pulmonaire .",
+        "words": [
+          "odorat",
+          "rouie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/376b4f67-cfa5-55f7-abb7-5274f97c1584",
+        "value": "Vanille Condiment tonique et excitant du système nerveux , la vanille augmente principalement la môtilité et stimule le sens géné ' sique .En outre , elle est un agent sédatif de l ' estomac et un antiseptique mtçrieur très précieux contre les troubles digestifs .En aromatisant les aliments ( entremets ) , la vanille leur communique la faculté de rassasier plus vite .",
+        "words": [
+          "antiseptique",
+          "sédatif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/3921f066-4a28-5268-9e05-ce4aa8405aeb",
+        "value": "Il ne faut , d ' ailleurs , jamais vider les urines dans les plombs d ' écoulement : car elles subissent la décomposition ammoniacale et attaquent les tuyaux .Quelques mots , maintenant , sur l ' hygiène intérieure des habitations : éviter les plantes odorantes , et même .tout espèce de végétation pendant la nuit ; n ' héberger , dans les pièces , aucun animal , même l ' oiseau le plus minuscule ; conserver les aliments ' .",
+        "words": [
+          "plantes",
+          "odorantes",
+          "habitations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/3aac94a5-a6d5-5e86-9b73-4ffbb5966314",
+        "value": "Hystérie .— Les odeurs fortes jn ' olongent les crises .Même traitement que pour l ' épilepsie .",
+        "words": [
+          "odeurs",
+          "fortes",
+          "olongent les crises"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/3e1f8254-4d39-5291-9e64-081538fb14e5",
+        "value": "Rien n ' attriste la jeune beauté comme dé constater ces imperfections , ces niacules ; lèinydécouverte é $ t aussi pénible que rentrevue dé la femme de trente - cinq ans avec sapremière ride ! Incriminons d ' abord , l ' usage abusif et inconsidéré du savon de toilette ; trop riche en alcalinité , il dégraissé ou plutôt .dtfcfeYe exagérément la peau du visage ; il attaque et corrode le vernis protecteur du derme , qui , peu à peu , se dessèche et se voit arracher , continuellement , la souplesse et l ' onctuosité de ses cellules vivantes , Que de fois né m ' est > il pas arrivé , dans ma pratiqué spéciale , de guérir , à leurs débuts , l ' acné ou l ' eczéma du visage , par là simple suppression de cet engin journalier d ' irritation 1 D ' ailleurs , ce n ' est point seulement son alcalinité que je lui reproché , c ' est aussi son parfum , trop souvent extrait artificiellemeht de la houille et irritant alors pour la peau .y Voici , en passant , un petit moyen qui permettra de reconnaître un savon additionné d ' une essence artificielle .",
+        "words": [
+          "parfum",
+          "houille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/42a3daf0-0bfd-5542-b1a9-d5d6843707b8",
+        "value": "Contre les piqûres de moustiques .— Voici ma meilleure formule : Vinaigre de toilette ..",
+        "words": "Vinaigre"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/4910d933-91cd-5341-80af-0199cffbc3ae",
+        "value": "' Une cuillerée à café tous les matins à jeun .Connue aliment , le miel est aromatique , rafraîchissant et favorable aux voies respiratoires , Certaines personnes , qui le digèrent difficilement , feront sagement d * y rénonceh Migraine Son traitement demande l ' immobilité et l ' obscurité , avec compresses d ' eau mentholée sur le front , bains de pieds sinapisës .Cachets anti - migraineux : Citrate de caféine - , 0 gr .",
+        "words": [
+          "aromatique",
+          "miel",
+          "rafraîchissant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/499ac2af-0bb7-59a2-99f0-e71c254541fa",
+        "value": "• .: 100 - Grippe du ventre — 109 < Haleine fétide — 172 Harmonie faciale ( hygiène de la beauté ) 173 ._ Herpès ( traitements ) 174 Hiver ( hygiène ) 177 Huîtres - , i7 , s Hygiène ( son rôle ) 179 ' Insomnie \\ $ \\ Jeune fille ( hygiène spéciale ) 182 Lait ( lvygiène alimentaire ) 185 Lavements ' j $ 8 Légumes ' \" ' igr , ' Limonades ' \\ ç ) \\ - Logement ( hygiène ) , .",
+        "words": [
+          "Haleine",
+          "fétide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/49ebab15-5016-543b-984b-51df4d07a309",
+        "value": "C ' est un arbrisseau de trois à quatre mètres de haut , dont le fruit donne une graine nommée anis étoile à cause de son parfum .Le bois de l ' arbrisseau répand également ce parfum , mais l ' odeur en est bien moins prononcée .C ' est cette graine qui sert à fabriquer l ' arack de l ' Inde .",
+        "words": [
+          "parfum",
+          "odeur",
+          "moins prononcée",
+          "arbrisseau",
+          "bois de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/506742aa-2183-5367-9069-700d9c2d3537",
+        "value": "' Piqûres d ' abeilles .— Avant d ' extraire le dard , avoir soin \\ de couper avec des ciseaux sa partie saillante ( réservoir à venin ) ; toucher ensuite avec quelques gouttes de vinaigre aromatique .Contre les piqûres de moustiques .",
+        "words": [
+          "aromatique",
+          "vinaigre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/507bc9a4-9506-54b3-b5ab-32f272c54403",
+        "value": "x Cils Pour rendre les cils plus épais et plus fournis .— Friction , ' , matin et soir , avec : Vinaigre aromatique .: 20 gr .",
+        "words": [
+          "Vinaigre",
+          "aromatique",
+          "matin et soir",
+          "Vinaigre aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/525c3e95-f6ca-5ac4-8bed-6420b5f9a8c3",
+        "value": "Parmi les autres parfuriis artificiels qui se fabriquent industriellement , citons l ' aubépine ( aldéhyde anisique ) , obtenu par l ' oxydatîou de l ' ânéthol j la néroline et le yara - PARFUMS 23V yàra , préparé en traitant le benzo - naphtol sodé par l ' iodure de méthyle ; le terpynéol ( Vallach ) ou terpylénol ( Bouchardat ) que l ' on peut préparer en partant du dipeiitèiie ; la vaiiilline et l ' héliotropine se fabriquent aussi artificiellement ou par synthèse : personne ne l ' ignore .Pour récompenser nos lectrices d ' avoir lu , jusqu ' au bout , ces horribles détails techniques , je vais leur faire cadeau d ' une formule délicieuse d ' un parfum do < rménage » ( comme les liqueurs dito , qui ne sont pas , parfois , les plus mauvaises ) .Cette formule , que .",
+        "words": [
+          "parfum",
+          "liqueurs",
+          "lectrices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/52e523a3-bda0-55a2-b9c6-8647072ff7a8",
+        "value": ".' ' MATOUEUR / 195 Mucilage de gomme adragante à l ' eau de roses Q .S .",
+        "words": [
+          "adragante",
+          "gomme adragante",
+          "roses Q"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/53b223f5-1775-59d5-a7b4-7861e6f99913",
+        "value": "Le jus d ' herbes rafraîchissant est formé de cresson , chicorée , cochléaria , fumeterre , bourrache , ményanthe , laitue et oseille ( parties égales ) .Le jus amer , et dépuratif , de chicorée , pissenlit , fumeterre , véronique , petite centaurée et scorsonère ; le jus aromatique , de sauge , menthe , mélisse , céleri et thym .A la dose d ' une tasse à café tous les matins , ces sucs végétaux ( un peu oubliés par la médecine contemporaine ) sont capables de rendre certains services contre les états torpides du foie , de l ' estomac et de l ' intestin .",
+        "words": [
+          "aromatique",
+          "chicorée",
+          "dépuratif",
+          "pissenlit",
+          "véronique",
+          "fumeterre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/59156d17-5f41-56a8-aac4-3d1ef865c1c1",
+        "value": "Il conserve tout son arôme , s ' il est découpé en grosses tranches , puis eh dés , et non en tranches minces , .qui font écouler son jus et évanouissent tout le parfum fruité .Très digestif , l ' ananas se recommande aux gputteux et aux graveleux , dont il stimule les éliminations .",
+        "words": [
+          "parfum",
+          "fruité"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/5ae620e9-4313-588a-aa6d-9d6767247b05",
+        "value": "Ombrelles et voilettes sont , pour prévenir le coup de soleil , indispensables aux téguments délicats , surtout dans les débuts de la saison printanière .Le traitement de l ' érythème solaire consiste en des lotions , répétées toutes les deux heures , avec le mélange suivant : 308 VIBAOK Vinaigre aromatique 60 gr .Extrait de ' Saturne 20 — Menthol 2 .",
+        "words": [
+          "aromatique",
+          "érythème",
+          "répétées toutes les deux heures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/5bb31cdd-e197-5461-b6e8-c248c7116737",
+        "value": ", agissent ainsi , à distance , par des effluves indéterminés .Vous n ' ignorez pas que l ' asthme des foins a été considéré par quelques auteurs comme un urticaire des bronches .J ' ai eu aussi l ' occasion de soigner , depuis vingtcinq ans , bien des cas d ' urticaire de cause morale .",
+        "words": [
+          "urticaire",
+          "quelques auteurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/5db29788-735c-538d-8737-8e78acb4ce3e",
+        "value": "— Beaucoup de personnes , et particulièrement les femmes rousses , exhalent , lorsqu ' elles ont très chaud , une odeur sure , fort désagréable , qui est due aux acides valérianique et caproïq ue éliminés par la sueur .Cette odeur disparaît - ou se trouve très diminuée en poudrant le buste avec la poudre suivante , t \\ l ' aide d ' uno houppe à poudre de riz : Amidon 40 gr .PoUdre do talc .",
+        "words": [
+          "odeur",
+          "diminuée",
+          "buste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/63ffffbc-34bd-58b9-8486-6c4a60e2563a",
+        "value": "Agitez * de temps à autre , pendant huit jours , pour bien amalgamer le tout * Voilà le parfum dit « pot - pourri » .On s ' en sert pour donner une odeur suave et fraîche aux appartements , en en remplissant des coupes , des vases , des brûle - parfums ..",
+        "words": [
+          "suave",
+          "odeur",
+          "parfums",
+          "fraîche",
+          "vases",
+          "coupes",
+          "appartements",
+          "brûle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/6e666076-571b-5200-8cc2-aa88022deefa",
+        "value": "Le produit amorphe obtenu est traité par douze parties d ' un mélangé à parties égales d ' acide nitrique fumant et d ' acide snlfurique a 06ô B .On cbuiiffe trois heures à 80 ° , puis on verse dans de l ' eàti froide ; le produit précipité est recristallisé et purifié dans l ' alcool , et exhale l ' odeur du musc naturel .On est arrivé à reproduire aussi , artificiellement , les parfums de l ' iris et de là violette , extraits de la térébenthine .",
+        "words": [
+          "odeur",
+          "musc naturel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/6f93cff1-a0a8-5759-b323-bbe1ec697d28",
+        "value": "XIÏ gtt ., \\ ' * L ' - \" - ■ Traitement ■ dû nez rouge par eczéma séborrhéique i Pétrovaseline liquide ..",
+        "words": [
+          "nez",
+          "Pétrovaseline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/739dfa3a-6ec6-5aad-9827-4c50cf37f524",
+        "value": "Il n ' existe , d ' ailleurs , dans la nature ( même dans les fleurs vivantes ) , aucune odeur simple .Tout parfum est un mélange complexe de diverses senteurs .L ' industrie des parfums naturels , en France , est heureusement , encore assez florissante ( terme do rigueur ) .",
+        "words": [
+          "parfum",
+          "senteurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/74131b16-3b13-50c6-863b-17b43259ec44",
+        "value": "Pour modérer la sueur des pieds et supprimer la fétidité dont elle est coutumièru , je conseillé le poudrage ( matin .et soir ) avec : talc porphyrisé , 100 grammes ; tannin , 26 grammes ; acide salicylique , 5 grammes ; héliotropine , quantité suffisante pour parfumer .Les cois sont des épaississements épidermiques , des indurations * cornées » , dont la partie médiane semble s ' enfoncer dans le derme connue une radine .",
+        "words": [
+          "parfumer",
+          "acide salicylique",
+          "tannin",
+          "héliotropine",
+          "talc",
+          "et soir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/7570f261-66bf-576f-8748-3bad763671b8",
+        "value": "Il est rare que les épaississcmcnts et irrégularités , élevures , bouffissures , élargissements des pores ( même avec certaines dilatations de vaisseaux ) , résistent longtemps au massage habituel de la peau .Il fait aussi disparaître le prurit dermalgique et par conséquent le grattage , qui - en est toujours ..",
+        "words": [
+          "prurit",
+          "dermalgique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/7c1ff09e-25bb-5c4d-9e85-cdb5251e52a9",
+        "value": "Lorsque vous voulez parfumer votre appartement , frottez un de ces clous sur une poêle en fer ou sur une lame de fer que vous aurez préalablement chauffée .Odeurs de cuisine , — - Voici un procédé fort ingénieux pour empêcher , lorsque vous faites une soupe aux choux , l ' odeur forte et pénétrante que dégagent les choux en cuisant , de se répandre - dans votre appartement .' - ' ■ ' Le moyen est aussi simple que facile et il réussit parfaitement : il consiste tout bonnement à mettre dans la casserole ou la marmite où cuisent les choux , un morceau assez gros de mie de pain que l ' on renferme dans un petit carré de mousseline .",
+        "words": [
+          "pénétrante",
+          "forte",
+          "odeur",
+          "Odeurs",
+          "choux",
+          "appartement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/81dc7fd9-20d0-5801-95ef-3589cbe2d2f4",
+        "value": "Lés chenilles iirticantes sont coutumières d ' enflammer la peau et les muqueuses par leurs poils aigus et leurs sécrétions .irritantes , qui déterminent clés boursouflures ' , analogues aux piqûres d ' ortie .Le rouget est un acare qui prodirt une vésiculation analogue , très prurigineuse et contre laquelle une pommade à base de lanoline et de Vienzo - napiitol , parfumée à l ' essence de lavande , agit inerveilleusemenk Les oreilles des moustiques ont dû tinter ( si j ' ose m ' exprimer ' ainsi ) ; depuis quelque temps : car notre Académie de médecine vient de déclarer la guerre sans phrases a ces redoutables bestioles .",
+        "words": [
+          "irritantes",
+          "ortie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/823e803e-02f0-5cfb-8473-f65379ff4fed",
+        "value": "( Consulter mon Formulaire de médecine pratique , ) Dans tout ce qui précède , chers lecteurs , pourquoi n ' ai - je guère parlé de l ' acide phonique ni des produits phoniques ? — C ' est c , ue leur valeur a été singulièrement surfaite , probablement grâce h leur action désodorante qui les a vite mis en faveur .Cinq kilogrammes d ' acide ] ) hénique désinfectent moins bien que 25 grammes de sublimé ! L ' acide phéhique , qui substitue , à de mauvaises odeurs , son odeur peu suave , du reste , possède , sur les germes virulents , une action plus suspensive que vraiment destructive : c ' est surtout un coagulant , qui n ' influence que faiblement les bactéries .L ' acide crésylique , moins irritant et bien moins toxique , est beaucoup plus actif , surtout mélangé à des sels de zinc ou de cuivre .",
+        "words": [
+          "mauvaises",
+          "odeur",
+          "son",
+          "odeurs",
+          "acide",
+          "peu suave",
+          ") hénique",
+          "germes virulents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/83c3f20e-7ce0-5f91-8bb2-7ab90f6d3dbf",
+        "value": "peau .' , - ■ : Pour reiùlre là peau blanche et souple , je préconise souvent un bain composé de 500 gramuies d ' amidon , 100 gramuies d ' acide borique et 00 grammes de sel amtiioniàe , parfumé avec un peti d ' essence de thym ou de lavande .Ballonnement Voici le ti ' aitehient à employer chez lés persont * nerveuses t , 1 ° Tous les matins , cuiller à café dans une infusif chaude d ' anis : 4 02 ' BEAUTÉ .",
+        "words": [
+          "parfumé",
+          "thym",
+          "sel",
+          "lavande",
+          "bain",
+          "acide borique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/8abc8bf2-4117-5c88-9ae9-17fd78ef4758",
+        "value": "On a » aujourd ' hui , l ' habitude de désinfecter avec lés produits dérivés de la houille .Ces produits volatils , respires par les animaux , peuvent communiquer à la viande leur odeur spéciale et indisposer , à juste titre , certains consommateurs impressiônhafoles ., \\ v .",
+        "words": [
+          "odeur",
+          "spéciale",
+          "viande",
+          "Ces produits volatils",
+          "indisposer",
+          "viande leur",
+          "consommateurs impressiônhafoles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/8ea4186d-0f0f-55f4-80ed-b438905e2a74",
+        "value": "pour faire une niasse consistante que vous diviserez en douze clous .Lorsque vous voulez parfumer votre appartement , frottez un de ces clous sur une poêle en fer ou sur une lame de fer que vous aurez préalablement chauffée .Odeurs de cuisine , — - Voici un procédé fort ingénieux pour empêcher , lorsque vous faites une soupe aux choux , l ' odeur forte et pénétrante que dégagent les choux en cuisant , de se répandre - dans votre appartement .",
+        "words": [
+          "parfumer",
+          "poêle",
+          "clous",
+          "appartement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/952d24cf-50a6-5081-a51b-692dd13161fa",
+        "value": "( Voir Peau , Visage .) Aconit Plante médicinale dont on utilise lès feuilles et les ïàcinés comme préparations anti - catarrhalês et anti - 12 AGACEMENT rhumatismales .S .",
+        "words": [
+          "médicinale",
+          "feuilles",
+          "ïàcinés",
+          "AGACEMENT",
+          "catarrhalês"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/9552983b-96e3-548a-847c-7166fcc42a7a",
+        "value": "Il faut éviter les méthodes empiriques et les cornets acoustiques , principalement : nous ne connaissons pas de système plus dangereux que celui qui consiste à préconiser ces appareils , d ' ailleurs complètement inutiles lorsque l ' appareil physiologique normal de transmission sonore n ' est point en cause .Tabac Voici Une formule pour imiter le parfum du haynaie : Extrait fluide de valériane ..",
+        "words": [
+          "parfum",
+          "valériane",
+          "Extrait",
+          "haynaie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/a39f4474-8b44-59e3-810d-4132513408df",
+        "value": "On est arrivé à reproduire aussi , artificiellement , les parfums de l ' iris et de là violette , extraits de la térébenthine .En partent du oitral contenu dans l ' essence de citronnelle dans la proportion de ? « # „ Tiemann et Kruger ont i > n obtenir l ' iononè , qui possède l ' odeur de l ' irone , parfum de l ' iris et de la Violette .D ' autres études ont été entreprises sur les essences de géraniums ( Semmeler ) , de coriandre ( Barbier ) , de lavande , de néroli ( Bertram et Walbaum ) .",
+        "words": [
+          "Violette",
+          "parfum",
+          "odeur",
+          "iris",
+          "irone",
+          "essence de citronnelle",
+          "iononè"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/a4b0c776-3229-5ba4-80d9-e870faa14fa9",
+        "value": ", peuvent aussi provoquer l ' urticaire .On l ' a même vu « e développer à la suite de simples émanations odorantes aromatiques et de l ' abus de certains parfums : la rose , I ' iodoforme , la farine do lin , etc ., agissent ainsi , à distance , par des effluves indéterminés .",
+        "words": [
+          "parfums",
+          "rose",
+          "odorantes",
+          "iodoforme",
+          "émanations odorantes",
+          "certains",
+          "odorantes aromatiques",
+          "farine do lin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/a6eced6d-5704-5d99-a6f1-a50b03733f4c",
+        "value": ".L ' industrie des parfums naturels a , toutefois , fort à faire pour lutter contre les produits artificiels .C ' est ainsi que le musc artificiel s ' est répandu sur la parfumerie française , à la façon d ' un véritable parasite .",
+        "words": [
+          "parfums",
+          "produits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/a7e6f4ab-96be-5cdb-9186-600acb01c275",
+        "value": ") poussent à la mélaiv colie et aux états d ' âme plus ou moins compliqués .Il n ' existe , d ' ailleurs , dans la nature ( même dans les fleurs vivantes ) , aucune odeur simple .Tout parfum est un mélange complexe de diverses senteurs .",
+        "words": [
+          "odeur",
+          "simple"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/a922e2b2-cd56-524b-aeb0-411ad6c82182",
+        "value": "Filtrez ., i y Tout le monde connaît l ' héliotrope , cette plante à odeur si suave et si pénétrante , et il n ' est aucun de nos lecteurs qui ne soit , désireux d ' en extraire et d ' en conserver le parfum , soit pour la toilette , soit pour parfumer le linge .Voici un procédé très simple .",
+        "words": [
+          "suave",
+          "parfumer",
+          "parfum",
+          "odeur",
+          "plante",
+          "linge",
+          "héliotrope",
+          "nos lecteurs",
+          "Tout le monde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/aac9208a-117f-5a7f-92ff-2e79b6e58de9",
+        "value": "Il se vend en feuilles pulvérisées , à raison de 80 centimes le kilogramme , sur les marchés arabes .Sa macération dans l ' eau distillée donne une pâte d ' un brun rougeâtre et d ' une odeur agréable : vingt - quatre heures suffisent pour obtenir le maximum - de coloration .La couleur du henné pénètre le cheveu , qu ' il tanne en quelque sorte et momifie .",
+        "words": [
+          "agréable",
+          "odeur",
+          "eau distillée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/acb6c600-72cd-59ed-ac6f-7c3eb5b68ba1",
+        "value": "■ ■ ■ : - r .Les alcooliques se plaignent souvent de démangeaisons nocturnes , surtout lorsqu ' ils - ' usent de l ' absinthe où .Dans le prurit des vieillards , recommandons : le brossage de la peau , trois fois par jour pendant vingt minutes , avec une brosse molle ; tous les deux jours , un bain gélatineux phéniqué d ' une heure ; propreté minutieuse , changement des draps du lit et du linge de corps , remplacement du gilet de flanelle par un gilet de coton épais .",
+        "words": [
+          "alcooliques",
+          "démangeaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/acc13aa1-ec38-5658-8c65-1e1030983d2e",
+        "value": "Il y a déjà longtemps , du reste , qu ' il fonctionne ' avec le plus grand succès , dans les cités modèles de Ja libre Amérique , ' Une des conditions de salubrité intérieure , trop souvent négligées dans les maisons urbaines , c ' est la bonne disposition des courettes : elles doivent être larges , sèches , bien éclairées , bien ventilées , et occuper lo cinquième au moins de la surface bâtie .Faute de ces dispositions , elles constituent plutôt une raison d ' infection et d ' intoxication , par les odeurs pestilentielles qu ' exhalent , sans trêve , leur atmosphère confinée et nauséeuse .Les fumiers , é .",
+        "words": [
+          "atmosphère",
+          "odeurs",
+          "nauséeuse",
+          "pestilentielles",
+          "exhalent",
+          "confinée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/accaefff-7d9d-532a-8568-9182cae62c87",
+        "value": "Beaucoup d ' absinthes succombeut aussi à la phtisie pulmonaire .L ' absinthe dangereuse surtout est celle qui est faite par les mélanges à des alcools d ' inférieure qualité , des essences d ' anis , absinthe , angélique , origan , badiane , fenouil , mélisse , fève touka , mélilot , calamus aromaticus , etc .Accidents Il faut d ' abord se garder de tout excès de zèle et de tout affolement : isoler et tranquilliser le blessé : prévenir immédiatement le médecin .",
+        "words": [
+          "anis",
+          "essences",
+          "alcools",
+          "calamus",
+          "absinthe",
+          "angélique",
+          "origan",
+          "aromaticus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/b34daa95-a4d0-5a22-9bb4-2d642e4e2665",
+        "value": "Pilez longuement et mélangez dans un bocal ; 2 ° Ramassez , à mesure de leur floraison , les fleurs de roses rouges , oeillets rouget - , héliotrope , thym , romarin , laurier , verveine , absinthe et menthe ; étendez - les , sut une large feuille de papier , à l ' ombre , dans une pièce fraîche et sèche ; les saupoudrer de sel et les retourner jusqu ' à complète dessication ; 3 ° Mettez , dans une jarre , une couche du mélange n ° 2 , une couche de sel fin , une couche du mélange n ° 1 ; puis , fermez le bocal , après y avoir versé un demi - litre d ' eau de Cologne ou d ' eau de Portugal .Agitez * de temps à autre , pendant huit jours , pour bien amalgamer le tout * Voilà le parfum dit « pot - pourri » .On s ' en sert pour donner une odeur suave et fraîche aux appartements , en en remplissant des coupes , des vases , des brûle - parfums .",
+        "words": [
+          "parfum",
+          "pot",
+          "de temps",
+          "pendant huit jours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/b479a485-12cc-5cd1-bb86-3b63a91c3842",
+        "value": "y Voici , en passant , un petit moyen qui permettra de reconnaître un savon additionné d ' une essence artificielle .Détachez - en un petit fragment , que vous ferez brûier dans une cuiller au - dessus d ' une flamme ; si vous wercevéz une odeur de benzine ou de térébenthine , vous pouvez affirmer que les fleurs n ' ont aucune part à l ' odeur de votre produit ^ si agréable qu ' il vous paraisse .304 V1BAOK On a aussi , dans ces dernières années , sous le falla * cieux prétexte d ' une antisepsie banale , autant que maniaque , recommandé les savons à base de borax , de soufre , de phénol , de naphtol , d ' acide borique , etc .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs",
+          "térébenthine",
+          "produit",
+          "benzine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/b5886b63-cd84-5661-86e8-e08502e4a029",
+        "value": "( Porphyriser .) ; Pastilles pour raffermir les geneires et parfumer agréablement Vhaleine : Chlorate de soude , - Salpl : î ° 8p - lP Essence de romarin ) ■ Gomme et saccharine .' .",
+        "words": [
+          "Gomme",
+          "parfumer",
+          "agréablement",
+          "romarin",
+          "Essence",
+          "saccharine",
+          "Vhaleine",
+          "Chlorate de soude"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/b872b78a-c4fc-5a88-9a2b-386a970f6bb7",
+        "value": "papier à lettre et les enveloppes , — Imbiber plusieurs feuilles de papier buvard du parfum préféré , 238 l ' ATISSKJUKS laisser sécher et les pincer ensuite entre les cahiers de papier et les enveloppes .Vqrfum préféré : tëxtrait d ' iris ., , .",
+        "words": [
+          "iris",
+          "Vqrfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/c0444155-4d00-54ef-b38d-664b71892f28",
+        "value": "Mais il faut se méfier de l ' irritation de l ' esteimac et du foie qui en résultent à la longue .De plus , les arthritiques doivent éviter d ' augmenter leur acidité humorale eïi abu * sant de cet aliment azoté au premier chef , Le bon fromage , décrit par Luther t Aron Ârgm , sëâ forgrni non , Mathusûkm ^ sed Magdalmaj Non ïïaabâtus ièd 1 FURONCLES 155 Lazarus ; cascus istc bonus , Ce qui , traduit en langage vulgaire , signifie : le bon fromage ne doit pas avoir beaucoup d ' yeux comme Argus , il doit être grand ; mais il ne doit pas être vieux comme Mathusalem , mais il doit être larmoyant comme Madeleine ; il ne doit pas être limpide comme le bouillon d ' Habacuc ( un prophète juif ) , mais il doit avoir une forte odeur , de manière qu ' on puisse s ' écrier : « 11 pue déjà » , comme on dit de Lazare loisqu ' on annonça sa mort au Christ .Furoncles Traitement .",
+        "words": [
+          "forte",
+          "odeur",
+          "pue",
+          "larmoyant",
+          "arthritiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/c24e712c-bde1-526d-abb5-18e94e49935a",
+        "value": "L ' industrie des parfums naturels a , toutefois , fort à faire pour lutter contre les produits artificiels .C ' est ainsi que le musc artificiel s ' est répandu sur la parfumerie française , à la façon d ' un véritable parasite .Signalons ici , 236 PARFUMS à titre de curiosité , l ' objet du brevet Mallmann , l ' un des derniers pris pour la fabrication du musc artificiel : Procédé de fabrication du musc artificiel au moyen des .",
+        "words": [
+          "musc",
+          "parfumerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/c2b34775-dab9-571b-b174-7dfc40dcd711",
+        "value": "On recommande aussi l ' empoissonnement par certaines espèces très gourmandes de larves , comme l ' épinoche , le cyprin et la perche .Quant aux ennemis du moustique développé , il faut signaler : la libellule , l ' araignée , la chauve - souris et les oiseaux nocturnes , Les plantations en rideaux d ' arbres à feuilles odorantes comme le pin et l ' eucalyptus , la culture du ricin et des chrysanthèmes , éloignent aussi les moustiques des habitations , Mais c ' est l ' huile de pétrole qui est la substance la plus ' .' .",
+        "words": [
+          "odorantes",
+          "chrysanthèmes",
+          "eucalyptus",
+          "pin",
+          "oiseaux",
+          "chauve",
+          "ricin",
+          "arbres à feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/c73e3796-a6f8-51b8-93ba-6f92ac898232",
+        "value": "Il est bon enfin de faire toujours examiner les fosses nasales , d ' oïl partent quelquefois les crises , surtout chez les enfants .Pilules aniiasthmatiques ; Sulfate de strychnine ..",
+        "words": [
+          "strychnine",
+          "Sulfate",
+          "aniiasthmatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/c7ee8ceb-0f36-5b71-b610-fc6ab638ea16",
+        "value": "' - ' ■ ' Le moyen est aussi simple que facile et il réussit parfaitement : il consiste tout bonnement à mettre dans la casserole ou la marmite où cuisent les choux , un morceau assez gros de mie de pain que l ' on renferme dans un petit carré de mousseline .L ' odeur disparaît complètement , et l ' on peut , dans les appartements les plus exigus , faire une soupe aux choux sans en être incommodé .Lumbago Voici uh badit nage qui m ' a souvent réussi contre le lumbago , même de très ancienne date ; Essence de wintergreen .",
+        "words": [
+          "odeur",
+          "appartements"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/c83fb19d-c423-5c6e-afb9-b2af6520d455",
+        "value": "L ' habitude de servir la compote de pommes avec certaines pièces do viande est ancrée ohex lus peuples gros mangeurs ( Allemagne , Angleterre ) .tëlle joue , dans leurs repas , le rôle providentiel de neutraliser les accidents dus à lacurnivoiïté excessive t je renvoie , ' pour cotte question , à mon livre sur les Troubles digestifs , Les pommes , et surtout l ' espèce dite reinette grise , renferment un éther spécial , l ' éther amyhaUrianique ( parfum des drops ou bonbons anglais ) , dont l ' action est remarquable contre les spasmes viscéraux ) gastralgies , coliques hépatiques .Dans les affections chroniques du foie et chez les alcooliques , je prescris , avec succès , une ture de mnetlcs , progressivement tentée ( de une t \\ cinq par jour , très mûres ) .",
+        "words": [
+          "parfum",
+          "éther",
+          "pommes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/d12420a3-7cbb-51b2-8615-6160f7baedb4",
+        "value": "L ' espèce utile est la badiane de la Chine .C ' est un arbrisseau de trois à quatre mètres de haut , dont le fruit donne une graine nommée anis étoile à cause de son parfum .Le bois de l ' arbrisseau répand également ce parfum , mais l ' odeur en est bien moins prononcée .",
+        "words": [
+          "fruit",
+          "parfum",
+          "anis",
+          "graine",
+          "arbrisseau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/d1d5c90f-abc2-57de-a551-322bd5a9fab4",
+        "value": ".L ' ambre et le musc , parfums d ' origine animale , excitent l ' imagination et le sens sexuel .Les parfums artificiels nuisent au système nerveux , Les parfums composés ( corylopsis , ess - bouquet , ylang - ylang , ete .",
+        "words": [
+          "parfums",
+          "musc",
+          "ambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/d1e75ce9-b850-579d-853a-61bf7e3339e5",
+        "value": "On l ' a même vu « e développer à la suite de simples émanations odorantes aromatiques et de l ' abus de certains parfums : la rose , I ' iodoforme , la farine do lin , etc ., agissent ainsi , à distance , par des effluves indéterminés .Vous n ' ignorez pas que l ' asthme des foins a été considéré par quelques auteurs comme un urticaire des bronches .",
+        "words": [
+          "effluves",
+          "indéterminés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/db7fe4a3-f4d8-5091-be79-1a90819fa8f7",
+        "value": "Vous n ' ignorez pas que l ' asthme des foins a été considéré par quelques auteurs comme un urticaire des bronches .J ' ai eu aussi l ' occasion de soigner , depuis vingtcinq ans , bien des cas d ' urticaire de cause morale .Mais , je le répète : cette éruption est surtout fonction de perturbation digestke .",
+        "words": [
+          "urticaire",
+          "depuis vingtcinq ans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/dcb6703e-6ce5-57b3-a180-bc03dc990b5c",
+        "value": "On ferme l ' oeil , La graine se colle d ' abord au globe ; bientôt elle se recouvre d ' un mucilage épais qui lui permet de glisser aisément en tout sens ; enfin » au bout ' d ' un temps plus ou moins long , elle sort toute gluante par le coin interne , avec le corps étranger accolé .Yeux cernés et boursouflés , — Pratiquer , matin et soir , des onotions douces avec gros comme un pois de îa pommade suivante : Lanoline pure ..",
+        "words": [
+          "matin et soir",
+          "Lanoline",
+          "onotions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/ead6cdd2-63cd-504b-9886-5f0c7bcc4a93",
+        "value": "200 * ■ * - HARMONIE FACIALE l73 Quelques gouttes dans un verre d ' eau pour gargariser .Ou bien : gargarisme avec une infusion de feuilles de sauge ou une décoction de feuilles de camomille additionnée de 5 % d ' eau de chlore , édulcorée avec 10 % de glycérine et aromatisée à l ' aide de quelques gouttes de teinture de myrrhe ou de lavande .Ou bien encore i gargarisme avec une ■ solution faible de permanganate de potassium .",
+        "words": [
+          "teinture",
+          "myrrhe",
+          "lavande",
+          "feuilles de",
+          "aromatisée",
+          "eau de chlore",
+          "feuilles de camomille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/f09bd7a8-8685-5165-a6b3-384025517efc",
+        "value": "Mais nous ne sommes guère , encore , qu ' à la période d ' expérience .Comment enlever la mauvaise odeur d ' une chambrb - nouvellement peinte .— Mettez au milieu de la chambre un vase plein de charbon allumé , et jetez dessus deux ou trois poignées de grains de genièvre ; , fermez les fenêtres , bouchez la cheminée et les fentes de la porte .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/f157b5e2-6819-526d-b433-7fab9a85a7a3",
+        "value": "Les éthers de pétrole , employés en sfiampainq , dégraissent très bien la chevelure et ont l ' avantage de sécher très vite } mais leur inflainmabilité a causé d ' épouvantables désastres .Un jaune d ' oeuf délayé dans un verre d ' eau de chaux Î un © fort » décoction de panama , additionnée , suivant les cas , de savon noir , de borax ou d ' ammoniaque et parfumée ad tibitùm , auront toujours les justes préférences dé l ' hygiéniste , c ' est - à - dire dé celui qui sait préiiotr ! îl faut aussi se mettre en garde contre deux médications / récentes , suspectes de causer des calvities généralisées ; l ' emploi des rayons X et l ' usage interné de l ' acétate de thallium , vanté contre les sueurs profuses .Lé mécanisme physiologique qui fait blanchir les poils h * ést pas ènebrè entièrement élucidé .",
+        "words": [
+          "parfumée",
+          "ammoniaque",
+          "borax",
+          "savon noir",
+          "thallium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/f2946b3a-e1da-5522-ae39-c504c4fb4c0b",
+        "value": ") qui stimuleront la tonicité de l ' estomac .Dès que les vomissements seront arrêtés , on fera prendre ies tisanes àmèrcS ou aromatiques ( gentiane , câscariné , colombe , écorce d ' orange , germandrée , centaurée , quassia si tutti .172 HALEINE FÉTIDE quanti ) qui continueront à secouer l ' estomac toujours languissant et à exciter le svstème nerveux déprimé .",
+        "words": [
+          "aromatiques",
+          "gentiane",
+          "tisanes",
+          "colombe",
+          "écorce d",
+          "câscariné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/f311bd10-972a-50df-88c1-de3bc9a7b271",
+        "value": "/ « MIU i > otftl > I < * cf l ' IiyK ' iôm » De tout temps , les médecins et les philosophes ont reconnu et publié l ' immense importance , pour la santé publique , do la salubrité des eaux d ' alimentation .On sait quels travaux d ' art et d ' hygiène nous ont légués les Romains , pour qui la devise sacrée : « Salus populi suprcma lex esto » n ' était point , comme dans notre démocratie de carton , un programme électoral bon , tout au plus , à amuser les badauds ! Une eau do bonne qualité doit être claire et limpide , d ' une odeur nulle , d ' une saveur agréable , d ' une digestibilité parfaite .Aquoe condunt urbcs .",
+        "words": [
+          "agréable",
+          "odeur",
+          "nulle",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/f5fb4403-c8a2-5ec9-bdd6-611b80c874c3",
+        "value": "A prendre une pilule , trois fois par jour .En même temps , les parties prurigineuses seront lavées à l ' eau phéniquée faible , additionnée de menthol ou d ' alcool aromatique .( Pour les palpitations de l ' âge critique , voir Palpitations chez les arthritiques .",
+        "words": [
+          "aromatique",
+          "alcool",
+          "menthol",
+          "eau phéniquée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/f62c457e-f305-5218-9913-631625ecae3d",
+        "value": "iid on verse dessus du vinaigre très fort : s ' il est coloré , c ' est l ' indice d ' une notable quantité de matières animales ou végétales .Kn chauffant davantage , le résidu se décompose et dégage une odeur qui peut fixer , jusqu ' à un certain point , sur la nature des impuretés .Purification de Veau des citernes , — On ajoute f \\ l ' eatt à épurer 1 ou 2 grammes par litre du mélange suivant : Permanganate de chaux 1 partie .",
+        "words": [
+          "odeur",
+          "résidu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/fad11037-0f17-5e1f-9282-dd9817f11f5b",
+        "value": "irritantes , qui déterminent clés boursouflures ' , analogues aux piqûres d ' ortie .Le rouget est un acare qui prodirt une vésiculation analogue , très prurigineuse et contre laquelle une pommade à base de lanoline et de Vienzo - napiitol , parfumée à l ' essence de lavande , agit inerveilleusemenk Les oreilles des moustiques ont dû tinter ( si j ' ose m ' exprimer ' ainsi ) ; depuis quelque temps : car notre Académie de médecine vient de déclarer la guerre sans phrases a ces redoutables bestioles .Tout le monde connaît les supplices que nous inflige ce minuscule animal , qui affecte des préférences bizarres pour le sang do certaines personnes , et qui se montre surtout redoutable aux non - acclimatés , aux nouveau - venus dans un pays .",
+        "words": [
+          "parfumée",
+          "lanoline",
+          "Vienzo - napiitol"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/fcdfa40b-e1b7-56f4-ba78-9b87622430f8",
+        "value": "; ' ■ , ; - En ôhctiônS trois foi » par jour .Cette pommade pos ^ sèdo l ' agréable odeur du cuir de Ruseie .Gerçures par te froid : Vaseline .",
+        "words": [
+          "cuir",
+          "agréable",
+          "odeur",
+          "pommade",
+          "cuir de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/fd80a9af-a708-59b6-87b5-58945a17d833",
+        "value": "on met en petits flacons bien bouchés .On a ainsi une excellente mixture , moins coûteuse que les parfums frelatés du commerce et rappelant , à s ' y tromper , l ' odeur suave des héliotropes en fleurs .( Voir Parfums .",
+        "words": [
+          "suave",
+          "odeur",
+          "parfums",
+          "héliotropes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/fd9d007f-e36b-53d9-b902-b5dc3b2d224b",
+        "value": "Une maladie antérieure , la fièvre typhoïde et surtout l ' inlluemcn , jointes au régime carné intensif , favorisent les accidents inflammatoires du côté de l ' appendice .Douleur sourde au flanc droit , exaspérée par la pression et par la marche , ballonnement du ventre , soif , état fébrile , haleine fétide et nausées ouvrent la scène , La sensibilité du ventre augmente et l ' on voit bientôt apparaître des coliques , des vomissements bilieux .Les dangers - de l ' appendicite résident surtout daus l ' ulcération gangreneuse et la perforation de l ' intestin , suivies de péritonite souvent mortelle .",
+        "words": [
+          "fétide",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/fe35c678-6a3e-5472-81f9-d5c0ed98c596",
+        "value": "Il ne faut jamais vouloir se passer de ce secours , en cas d ' abcès .Abricot Fruit sucré et aromatique , agréable et sain lorsqu ' il est .bien mûr ; interdit aux diabétiques .",
+        "words": [
+          "Abricot",
+          "aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/fe531a0c-6ee8-55db-be10-4b07e9d8ac78",
+        "value": "? Par l ' exposition prolongée aux vapeurs de chlorure de benzyle , ou , plus simplement , par les pulvérisations suivant ma formule : parties égales de benzine , pétrole et essence de mirbâne .( Consulter mon Formulaire de médecine pratique , ) Dans tout ce qui précède , chers lecteurs , pourquoi n ' ai - je guère parlé de l ' acide phonique ni des produits phoniques ? — C ' est c , ue leur valeur a été singulièrement surfaite , probablement grâce h leur action désodorante qui les a vite mis en faveur .Cinq kilogrammes d ' acide ] ) hénique désinfectent moins bien que 25 grammes de sublimé ! L ' acide phéhique , qui substitue , à de mauvaises odeurs , son odeur peu suave , du reste , possède , sur les germes virulents , une action plus suspensive que vraiment destructive : c ' est surtout un coagulant , qui n ' influence que faiblement les bactéries .",
+        "words": [
+          "produits",
+          "désodorante"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6f6a2dca-af67-593b-9b91-88b49c996152",
+        "label": "Ernest  Monin"
+      }
+    ],
+    "label": "Secrets de santé et de beauté : hygiène & médecine féminines / par le docteur E. Monin,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5672906k",
+    "date": "1904",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9866b63b-c635-5d3c-be7a-0a79520cd327",
+      "label": "1904",
+      "begin": "1904",
+      "end": "1904"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/75abe966-5e02-555f-b146-cf628081e54d",
+      "label": "appartements"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/65c35d41-68b4-53d1-bc79-c61abe96bc7f/fragment/221d6bee-ef7f-5943-841e-d15ba2834583",
+  "license": "Public domain"
+}

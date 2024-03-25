@@ -1,0 +1,192 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f8b121b0-96a0-56c6-8097-622f40872aa2",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/001e31ec-b1ea-5c18-a0f2-3593ba64b880",
+        "value": ", .du fil d ' archal du vermillon , du sublïmé , de l ' arsenic blanc & jaune , de la Cliii , Lluaillerie , du spica de France , du mahaLb d ' Egypte , qui est une graine d ' une odeur forte des conteries de ' Venise , qui sont des especes de chapelets de verre de toutes les couleurs , & enfin du noir à noircir qu ' ils appellent Kool , & qui est fort estimé en ce pays la , parce qu ' on s ' en sert pour noircir les yeux & les sourcils ..",
+        "words": [
+          "Venise",
+          "forte",
+          "odeur",
+          "vermillon",
+          "spica",
+          "sublïmé",
+          "mahaLb",
+          "fil d ' archal",
+          "Lluaillerie",
+          "arsenic blanc & jaune",
+          "Cliii"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/339ecf1f-a849-579b-8191-c31319d641bc",
+        "value": "Comme ils sont naturellement de couleur d ' olive , ils veulent encore par cette espece de teinture se donner une couleur plus foncée , qui à leur goût est plus belle .Les plus pauvres se fervent de beurre ou de grai ( Te rance , qui leur donne une odeur si désagréable , qu ' on ne sçauroit les approcher ; mais ceux qui sont à leur aise ne se frotent que de ce qu ' il y a de plus frais & de meilleur .Ils graissent de même la peau qui leur couvre les épaules , & qui leur sert d ' habillement à moins qu ' ils ne soient si pau , vres > qu ' ils ne puissent fournir a cette dépense .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "beurre",
+          "Te",
+          "grai"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/3ab09afa-cfb1-5c85-b0f2-4f286a46601d",
+        "value": "On lui donne trois fois la semaine du bœuf crud , & les autres iours une espece de potage au lait .On parfume cet animal de tems en tems de bonnes odeurs ; & une fois la semaine on racle proprement une matiere onctueuse qui sort de son corps avec sa sueur : c ' est cet excrément qu ' on appelle civette , du nom de l ' animal même .On renferme cette matière avec soin dans des cornes de bœuf , qu ' on tient bien bouchées .",
+        "words": [
+          "bonnes",
+          "odeurs",
+          "parfume",
+          "animal",
+          "de tems en tems",
+          "une fois la semaine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/6bc2b92b-b4ca-59f3-829a-d2fc1a75b3ce",
+        "value": "Aussi - tôt chacun se met autour da corps un drap blanc , & l ' on s ' aiTemble pour procéder à l ' élection d ' un autre Roi .Oiv lave le corps du défunt , on îe vuide , onbrule ses entrailles en préfence du Dieu du Pays ; mais on garde la cendre , & l ' on embaume le corps .Un mois après on fait la pompe funèbre ; on apporte de tous côtés des parfums , qui servent à parfumer le défunt .",
+        "words": [
+          "corps",
+          "embaume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/6ed28a41-3ada-561b-9196-7bbd1fd20a7f",
+        "value": "Quand on a calTé l ' écorce de ce fruit , ce qu ' on ne fait qu ' avec peine , on découvre quantité de filamens , qui soutiennent une substance à peu près semblable au miel .Cette substance qui a l ' odeur du baume , est si douce & si agréable , qu ' on ne peut rien manger de plus délicieux .On trouve au milieu de cette substance une lentille brune grosse & fort dure , qui est la femence de cet arbre .",
+        "words": [
+          "agréable",
+          "douce",
+          "odeur",
+          "baume",
+          "substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/7d856ef5-0030-537e-8b42-47288c9c652c",
+        "value": "Toutes les campagnes , & les montagnes même qt1Í sont en grand nombre , sonc cultivées .On voit des plaines entiére couvertes de cardamomum , & de gingembre , qui a une odeur très - agréable .La plante en est quatre fois - plus grande , que celle des Indes .",
+        "words": [
+          "odeur",
+          "gingembre",
+          "plaines",
+          "très - agréable",
+          "cardamomum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/868f150f-5907-513c-8197-bfaef3543ada",
+        "value": "Il y a dans une aile du Palais trois salles basses avec autant d ' alcoves dorées .Dans celle du milieu sont trois belles fontaines , & deux portes qui répondent à deux magnifiques vergers plantés de jasmin , de lauriers & de myrthes , & diversifiés de plusieurs fleurs odoriférantes , avec des berceaux de vignes & d ' arbres fruitiers le long des allées .Dans l ' un de ces vergers est un bain de cent pieds de long , & de vingt - cinq de large , pavé de petits carreaux , où le Roi va se baignes I ete .",
+        "words": [
+          "fleurs",
+          "odoriférantes",
+          "lauriers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/b09e68d4-d0e3-5cf7-a0fe-fea8a859bdc3",
+        "value": "sieurs autres arbres couverts de rrèsbeiles fleurs , qui répandent une ' oaeur meryeilleufe .On y trouve un arbre , qui porte une espece de roses beaucoup plus odoriférantes que celles d ' Europe .On voie en ce pays - là un animal extraordinaire .",
+        "words": [
+          "roses",
+          "odoriférantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/bb3a3979-6c05-537c-95ae-98fadf988960",
+        "value": "La chaleur du climat est ouse qu ' on ne peut le transporter , comme on fait en France , aux Villes un peu éloignées .Les Habitans du Caire ne mangent de poisson frais , que celui qu ' on pêche dans le Nil > qui en général n ' est ni de bon goût , ni de bonne qualité , parce que le : Nil a dans son lit beaucoup de limon , dont les poitTons se nourrirent , & • conservent l ' odeur .Tels sont le .",
+        "words": [
+          "odeur",
+          "Caire",
+          "Habitans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/c242156c-790f-5e99-9452-5b90b340e901",
+        "value": "Oiv lave le corps du défunt , on îe vuide , onbrule ses entrailles en préfence du Dieu du Pays ; mais on garde la cendre , & l ' on embaume le corps .Un mois après on fait la pompe funèbre ; on apporte de tous côtés des parfums , qui servent à parfumer le défunt .Six personnes vêtues de robes de soie blanche , le portent au tombeau , & pendant la marche il se fait un triste concert de voix & d ' instrumens moresques .",
+        "words": [
+          "parfumer",
+          "parfums",
+          "défunt",
+          "Un mois après"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/d343b7be-ae25-5430-9d12-b2a45928e27e",
+        "value": "Il est divisé par dedans en cellules remplies de graine jaune , & d ' une substance qui appro - che fort du lucre réduit en poudre .Cette substance est un peu aigre , mais agréable , de bonne odeur & très - rafraîchissante .L ' écorce en est dure & épaisse .",
+        "words": [
+          "bonne",
+          "odeur",
+          "Cette substance",
+          "très - rafraîchissante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/d7af02ba-35ae-52dc-b863-ff9e7c3031e4",
+        "value": "' Ce sont neuf ou dix gros arbres liés 8c collés ensemble dune maniere fort irreguliere .Il a la feuille petite & ne porte point de fruit , mais seulement de petires fleurs bleues sans - odeur .Il y a encore dans la vaste .",
+        "words": [
+          "sans",
+          "odeur",
+          "petires fleurs bleues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/e8dbd7c7-c4fa-5ae0-852b-fcae68dce73d",
+        "value": "Lorsque les cocos sont rout - à - fait mûrs , ou l ' on en broie la chair , & de la farine qui en vient on en fait des gâteaux , ou l ' on tire de cette chair de cocos une huile qui est d ' un grand débit dans les Inde ? .Elle sent bon , on en mange , elle entre dans beaucoup de médicamens , & étant coagulée , c ' eO : un baume blanc des plus excellais ; on s ' en sert pour guérir toutes fortes de foulures ou de meurtri ( Tu res .La coque même de ces cocos n ' en : pas inutile - , on en fait des ^ ' tasses , des boëtes , des cuilliers , & plusieurs autres petits ouvragas ; de forte qu ' on a raison de dire , que du palmier seul on peut bâtir des navires , les appareiller , les charger de pain , de vin , de sucre , d ' huile , d ' eau , de vinaigre , d ' eau - de - vie , de baume - , Se ces navires sonc des Gelves qui ne pourraient que difficilement naviguer dans l ' Océan ; mais oui lent tics - commodes dans la Mer Rouge , pour les raisons que nous venons de dire , f CHAP TRE X V , Description de la Nigrétie j qualités du Pays Mœurs , Coutumes , Religion , Cérémonies des divers Peuples qui habitent Cr Pays .",
+        "words": [
+          "bon",
+          "sent bon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/f199a22a-e4aa-559e-b912-e907ff53e1f7",
+        "value": "Les forêts ( ont - remplies d ' orangers , de citroniers , , de jasmins , de grenadiers & de plu .sieurs autres arbres couverts de rrèsbeiles fleurs , qui répandent une ' oaeur meryeilleufe .On y trouve un arbre , qui porte une espece de roses beaucoup plus odoriférantes que celles d ' Europe .",
+        "words": [
+          "fleurs",
+          "oaeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/f6af819f-0993-596a-b777-93948707e994",
+        "value": "Tous lesans on porte quelques profitions sur ; [ on tombeau .Quand leur Roi est mort , ils l ' ex - po lent plusieurs jours en vue , ôc , ■ pendant ce tems là on le fert comme s ' il étoit envie ^ mais quand il commence à sentir mauvais , quelques enclaves l ' emportent , & l ' en ' ■ terrent dans un endroit inconnu à ses Feticher tes armes & toutes * les provisions qu ' ils lui croient nécesfaires .Pendant que ces ? esclaves ¿ l enterrent le Roi , le peuple va de tous côtés tuer des femmes , des filles , des garçons & des esclaves pour lervir le Prince défunt .",
+        "words": "sentir mauvais"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/fd4ff68f-a778-583a-a8dd-55c66e8e8fab",
+        "value": "On les rend principalement manœuvres & maçons à coups de bâton & à force de misere ; ils y fuccom .bentd ' autant plus facilemenr , queleun nourriture journalière , ne consiste qu ' en une très - petite quantité de pain d ' orge , & fort noir , avec de l ' eau ; outre qu ' on les loge dans des lieux louterrains , où ils n ' ont pour lit que la terre , & ou ils ne respirent qu ' un air fort mauvais & mêlé de beaucoup de puanteur .Les femmes Se les hommes mariés ne travaillent point , les premiers à cause de leur foiblefle , les autres sous prétexte qu ' ils sont assez chargés du soin d ' une femme ; mais cette espece de compassion est bien défigurée par la dureté que l ' on à de ne leur prelque rien accorder pour le nourrir .",
+        "words": [
+          "puanteur",
+          "air",
+          "fort mauvais"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6e9fb322-3ec8-56be-b5c7-b27ee85c6243",
+        "label": "Claude-François  Lambert"
+      }
+    ],
+    "label": "Histoire generale civile, naturelle, politique et religieuse de tous les peuples du monde. Tome 12 / ; avec des observations sur les moeurs, les coutumes, les usages, les caracteres, les différentes langues, le gouvernement, la mythologie, la chronologie, la géographie ancienne & moderne... Par M. l'abbé Lambert...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9815894d",
+    "date": "1750",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c31de4fe-a7a9-5600-8b2f-4fdfb9c8efac",
+      "label": "1750",
+      "begin": "1750",
+      "end": "1750"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/eec9e98b-51c8-5d43-a8cd-743840602f31/fragment/bb3a3979-6c05-537c-95ae-98fadf988960",
+  "license": "Public domain"
+}

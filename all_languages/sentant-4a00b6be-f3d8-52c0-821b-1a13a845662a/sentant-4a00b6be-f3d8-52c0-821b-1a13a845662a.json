@@ -1,0 +1,248 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/4a00b6be-f3d8-52c0-821b-1a13a845662a",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "sentant",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/03b48775-449b-594d-8be9-15dce2d3fe5b",
+        "value": "Et , comme toujours leurs voix éveillent des vibrations dans ce monde de pierres desséchées , de longs échos inattendus dans ce néant sonore .Les plantes qui dominent ici et dont le parfum emplit l ' air sont presque incolores , à peine plus vertes que les pierres voisines ; elles sentent comme les pommes reineltes au soleil , avec quelque chose de plus violent et de plus poivré .Des gazelles , sans doute , viennent de loin les brouter , car , sur le sable , voici des empreintes de sabots très fins , — très espacés aussi , comme en laisserait le passage de bêtes courant par bonds , brûlant le sol dans une fuite rapide .",
+        "words": [
+          "parfum",
+          "air",
+          "plantes",
+          "pommes",
+          "sentent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/0722cfe9-6cc8-5cb7-bfa8-3d9120dcd681",
+        "value": "Peu à peu reviennent à nous le silence , la sécurité et le sommeil .Au frais matin tranquille , au soleil levant , quand j ' ouvre ma tente , une bouffée de parfum m ' arrîve avec l ' air du dehors , si violente qu ' il semble qu ' on soit venu briser devant ma porte un vase d ' aromates .Et toute cette triste vallée de granit est embaumée ainsi , comme un temple d ' Orient .",
+        "words": [
+          "parfum",
+          "aromates",
+          "Au frais matin tranquille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/0829c370-8708-5a96-90f7-1b3a2f455793",
+        "value": "88 LE DÉSERT .C ' est l ' heure indécise et charmante où , dans des limpidités qui ne sont ni du jour ni do la huit , nos feux odorants commencent à briller clair , on élovant vers les premières étoiles leurs fumées blanches ; l ' heure où nos chameaux , dégagés de leurs charges et do leurs hautes selles , frôlent les maigres broussailles , broutent les brancheltes parfumées , comme de grands moutons fantastiques aux allures inoffensivcs et lentes ; l ' heure où nos Bédouins s ' asseyent en rond pour conter des histoires et chanter ; l ' heure du repos et l ' heure du rêve , l ' heure dôlicieuso de la vie nomade ..",
+        "words": [
+          "parfumées",
+          "odorants",
+          "brancheltes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/15bed188-75d5-5608-8802-7bf7681d6a6f",
+        "value": "Peu à peu nous descendons des hauteurs sinaïtiques , regagnant par degrés la bonne chaleur d ' en bas .Et , vers le soir , nous avons retrouvé le désert de sable , profond et pareil , avec ses petites plantes d ' un vert si pâle , qui sont des aromates , des choses embaumées .Au coucher du soleil , nous campons au milieu de ces maigres plantes aux senteurs précieuses , ayant de tous côtés l ' espace infini , au lieu de l ' oppression des frads granil3 rouges qui nous avaient tenus quatre jours enfermés là - haut .",
+        "words": [
+          "plantes",
+          "choses",
+          "nous",
+          "aromates",
+          "embaumées",
+          "vers le soir",
+          "désert de sable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/19eca7e8-d23a-5e35-94da-c75930683d6f",
+        "value": "201 d ' oeil , la voûte , qui était si basse et si menaçante , se fond de tous les côtés à la fois ; et le soleil réparait , tout de suite rayonnant , tout de suite chaud ; et lèvent , qui s ' engouffrait si froid dans nos vêtements , sur nos poitrines , devient une caresse tiède .Et puis , les broussailles recommencent à se montrer ; non plus celles du Sud , non plus la délicieuse myrrhe , que nous regrettons , ni la plante inconnue qui emplissait le désert d ' un parfum comme celui des pommes mûres , mais des genêts cl des hysopes .Le cheik Brahim , qui me comble , lui aussi , de ses prévenances , fait coucher devant moi son dromadaire et veut à toutes forcés que je le monte pour la journée : « Une bête merveilleuse , dit - il , cl dont je serai certainement ravi .",
+        "words": [
+          "parfum",
+          "myrrhe",
+          "nous",
+          "genêts",
+          "désert",
+          "broussailles",
+          "pommes mûres",
+          "plante inconnue",
+          "hysopes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/28e5a935-3f2b-5a38-96b4-1b7f271f0010",
+        "value": "Au frais matin tranquille , au soleil levant , quand j ' ouvre ma tente , une bouffée de parfum m ' arrîve avec l ' air du dehors , si violente qu ' il semble qu ' on soit venu briser devant ma porte un vase d ' aromates .Et toute cette triste vallée de granit est embaumée ainsi , comme un temple d ' Orient .Ses rares petites plantes pâles , qui étaient exténuées de sécheresse , ont repris vie sous les ondées de la nuit et répandent à présent leurs senteurs comme des cassolettes innombrables ; on croirait que l ' air est rempli de benjoin , de citronnelle , de géranium et de myrrhe .",
+        "words": [
+          "embaumée",
+          "temple",
+          "temple d",
+          "Orient",
+          "triste vallée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/2e0ba8f2-9ce3-50d8-bb0f-949fde2b1931",
+        "value": "A la splendeur froide du matin , nous sortons de nos tentes .Deagelée blanche est déposée en fine poudre sur le sable , sur Ic3 pâles plantes aromatiques , les myrrhes , les absinthes et les hysopes .7 La plaine a pris sa teinte neutre du jour ; mais , au delà du cercle d ' horizon plat , surgissent là - bas , comme des profondeurs d ' en dessous , toutes les dentelures granitiques de la chaîne du Sinaï : c ' est absolument rose , d ' un rose lumineux comme celui des transparentes verrières , avec des stries couleur d ' iris ; au delà des désolations incolores et mornes du lieu où l ' on est , on dirait l ' apparition d ' un monde féerique , qui ne tiendrait pas au nôtre , qui serait indépendant et instable dans le vide du ciel .",
+        "words": [
+          "plantes",
+          "aromatiques",
+          " agelée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/39d52657-fa4b-5951-8c03-2dac25477c05",
+        "value": "Et il faut tant de flammes pour la cuisson de ces pains , des flammes si hautes , si rouges , que tous les granits surplombants s ' incendient ; ils s ' enlèvent en couleur de braise , sur ce ciel , tout à l ' heure lumineux , à présent presque noir , par contraste , cl sans étoiles , — sorte de grand trou d ' ombre , au fond duquel s ' est reculée , reculée , uno plus pâle lune devenue mourante et bleue .Et nous remplissons ce recoin des solitudes , où Pair , avant nous , semblait vierge , d ' une complexe senteur bédouine , odeur musquée des chameaux , odeur fauve des hommes , parfum des chibouks et parfum dès branches aromaliques qui brûlent * LE DÉSERT ..",
+        "words": [
+          "fauve",
+          "parfum",
+          "odeur",
+          "musquée",
+          "nous",
+          "senteur",
+          "chameaux",
+          "recoin des solitudes",
+          "branches aromaliques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/5f061916-83a5-5dc4-b2af-b9cecc2375a5",
+        "value": "Et le Sinaï , devenu lointain , a repris sa grande taille par rapport aux montagnes qui l ' entourent ; il dresse solitairement au - dessus d ' elles sa lêle neigeuse .C ' est une joie physique , de reprendre de moins épais voiles de laine blanche , dans l ' air subitement attiédi et saturé d ' aromes , en face des horizons vides , ' - 5 .\" 82 LÉ DÉSERT .",
+        "words": [
+          "air",
+          "aromes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/6edcd9b0-603a-5025-8b2e-69b507b7ca49",
+        "value": "LE DÉSERT .83 Cheminé , cheminé des heures dans les plaines , sous le soleil brûlant et sous le vent glacé , écrasant toujours les pâtes plantes embaumées .Le désert , monotone comme la mer , est changeant comme clic .",
+        "words": [
+          "plantes",
+          "embaumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/6fd71369-62a2-5738-a5ee-e3fb4c532078",
+        "value": "La tourmente dure encore là - haut , tandis qu ' en bas l ' air se repose , immobile .Et après , je regarde la terre , d ' où montent tous ces parfums : elle est recouverte de graines blanches , comme de grêlons après une averse ..",
+        "words": [
+          "parfums",
+          "terre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/7dee3ea3-9483-50cb-a89a-a9d1941cc948",
+        "value": "Je ramasse ces choses < menues et rondes » , graines blanches , très dures , ayant un peu goût de froment , — fruits desséchés de ces courtes plantes épineuses qui , en certaines régions , tapissent ici les montagnes .En recueillant cette manne , j ' ai frôlé les aromates du sol , et mes mains en gardent pour longtemps une senteur exquise .IX Marché tout le malin dans d ' interminables vallées semblables , aux parois de granit rouge , montant par des pentes insensibles vers le grand Sinaï où nous serons demain .",
+        "words": [
+          "senteur",
+          "aromates",
+          "exquise",
+          "manne",
+          "mains",
+          "pour longtemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/90d89ee2-fc93-5c22-98d2-aa67064c1c96",
+        "value": "; ! bré par où l ' on arrive dans ce lieu ; il y en a aussi de montés à différentes hauteurs , sur des roches en piédestal superbe — et les flammes gaies éclairent les figures sombres , les dents blanches , les sabres brillants , les longs burnous , les majestueuses poses , ou les accroupisse ment s simiesques et le pêle - mêle des membres nus .C ' est le jour de cuire sous la cendre les pains pour la semaine - — les pains sans levain , durs comme pierre — ce qui exige de plus grands feux que de coutume , drts feux ; magnifiques de branchages parfumés .Et il faut tant de flammes pour la cuisson de ces pains , des flammes si hautes , si rouges , que tous les granits surplombants s ' incendient ; ils s ' enlèvent en couleur de braise , sur ce ciel , tout à l ' heure lumineux , à présent presque noir , par contraste , cl sans étoiles , — sorte de grand trou d ' ombre , au fond duquel s ' est reculée , reculée , uno plus pâle lune devenue mourante et bleue .",
+        "words": [
+          "parfumés",
+          "branchages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/9f080571-970e-5841-bbae-6b7273a12137",
+        "value": "81 ' m .\" » ' \" in ii i i i ' i \" ■ \" i ■ i ' i ii ' iimi baume ; do maigres petites plantes clairsemées , qui , de temps à autre , s ' écrasent sous les pieds de nos dromadaires , répandent des arômes exquis et inconnus .Le sol de ces interminables défilés s ' élève de plus en plus , par degrés à peine sensibles , vers lo plateau central , et continuera do s ' élever ainsi pendant deux journées encore , pour nous mener doucement jusqu ' à l ' altitudo de deux mille mètres oit nous rencontrerons le couvent du Sinaï .",
+        "words": [
+          "exquis",
+          "inconnus",
+          "arômes",
+          "petites plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/ae340d68-98fb-555b-bc79-c1a1c50f834e",
+        "value": "Et toute cette triste vallée de granit est embaumée ainsi , comme un temple d ' Orient .Ses rares petites plantes pâles , qui étaient exténuées de sécheresse , ont repris vie sous les ondées de la nuit et répandent à présent leurs senteurs comme des cassolettes innombrables ; on croirait que l ' air est rempli de benjoin , de citronnelle , de géranium et de myrrhe ..",
+        "words": [
+          "myrrhe",
+          "air",
+          "leurs",
+          "benjoin",
+          "cassolettes",
+          "senteurs",
+          "citronnelle",
+          "géranium",
+          "Ses rares petites plantes pâles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/b1293427-e4f9-5822-9c54-91670d47bb41",
+        "value": "if .if if Après la halte méridienne , quand nous avons dormi sur le sable violemment parfumé , la tête cachée sous nos burnous blancs , le réveil amène en nous une sorte d ' angoisse du désert que nous avions à peine connue jusqu ' à ce jour .LE DÉSERT .",
+        "words": [
+          "parfumé",
+          "nous",
+          "Après la halte méridienne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/b16c319d-fc03-5318-a7a8-8e51f7a7307a",
+        "value": "Et , vers le soir , nous avons retrouvé le désert de sable , profond et pareil , avec ses petites plantes d ' un vert si pâle , qui sont des aromates , des choses embaumées .Au coucher du soleil , nous campons au milieu de ces maigres plantes aux senteurs précieuses , ayant de tous côtés l ' espace infini , au lieu de l ' oppression des frads granil3 rouges qui nous avaient tenus quatre jours enfermés là - haut .Et le Sinaï , devenu lointain , a repris sa grande taille par rapport aux montagnes qui l ' entourent ; il dresse solitairement au - dessus d ' elles sa lêle neigeuse .",
+        "words": [
+          "plantes",
+          "senteurs",
+          "nous",
+          "précieuses",
+          "quatre jours",
+          "Au coucher du soleil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/e3dede34-e03f-5aab-b551-c9e422e1e16e",
+        "value": "Hier matin encore , c ' était lo Caire encombré de touristes , la vie commo dans toutes les stations hivernales élégantes .Hier au soir , c ' était Suez , avec déjà plus d ' isolement , dans un petit hôtel primitif , sentant la colonie et le sable .Et • t LE DÉSERT .",
+        "words": [
+          "Suez",
+          "sentant",
+          "Hier au soir",
+          "un petit hôtel primitif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/faa107e2-f809-5b7d-996a-b51017be0e45",
+        "value": "137 des voiles de laine que des cordes attachent sur nos fronts , même un peu fantômes , avec notre marche qui ne s ' entend pas , en babouches sur l ' épaisseur des sables .Il y a dans ce bois un arôme spécial , un air tiède qui sent la mer , le désert et le sauvage .Au - dessus de nos télés , il passe des bouquets de rigides plumes noires qu ' aucune brise n ' agite , qui , l ' un après l ' autre , à mesure que nous marchons , se découpent sur le ciel scintillant et clair , sur le croissant d ' or .",
+        "words": [
+          "air",
+          "arôme",
+          "ce bois"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/bcf2e7ee-ea3a-537b-affa-c09306aee5d8",
+        "label": "Pierre  Loti"
+      }
+    ],
+    "label": "Le désert / par Pierre Loti,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5828140t",
+    "date": "1895",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/37ef26f6-7f0d-572e-9752-94524f8e97ae",
+      "label": "1895",
+      "begin": "1895",
+      "end": "1895"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/359796/",
+      "label": "Suez"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/fe0f8d3d-f0dd-5d20-8933-bfcd38f01f98",
+      "label": "un petit hôtel primitif"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/f9392cfd-46ab-5c24-bfe0-3d1d622833e0/fragment/e3dede34-e03f-5aab-b551-c9e422e1e16e",
+  "license": "Public domain"
+}

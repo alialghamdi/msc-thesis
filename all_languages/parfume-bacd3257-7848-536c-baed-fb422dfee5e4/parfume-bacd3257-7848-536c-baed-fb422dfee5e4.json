@@ -1,0 +1,189 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/bacd3257-7848-536c-baed-fb422dfee5e4",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfume",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/254804f9-bf57-517d-a867-c334ba97ced1",
+        "value": "Un malheureux , aveugle - né , Privé de la raison non moins que de la vue , Sur son état infortuné Des facultés d ' autrui mesurait l ' étendue .« Mes amis , disait - il , daignez me définir Cet être inconcevable appelé la lumière , Que je nepuis toucher , entendre , ni sentir ; Par quelle faveur singulière Auriez - vous le droit d ' en jouir , Tandis qu ' elle ne peut affecter ma paupière ? Je sais que du soleil la féconde chaleur Donne aux fleurs le parfum comme aux fruits la saveu Mais de la vision les étranges merveilles , Dont vous fatiguez mes oreilles , Les diverses couleurs , et le clair et l ' obscur , Et le ciel tour à tour ou d ' ébène ou d ' azur ..",
+        "words": [
+          "parfum",
+          "fruits",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/3659aa97-056d-59d5-960a-85e7c42ec1e1",
+        "value": "106 A - t - elIe enfin perdu ses charmes Que le vent du sud a flétris : On l ' effeuille , et de ses débris L ' alambic distille des larmes .Un cristal précieux renferme le trésor De l ' essence odorante avec soin recueillie ; Et , tandis que l ' hiver exerce sa furie , La sultane respire encor Le parfum de sa fleur chérie .Tel , des objets aimés que nous avons perdus , Le souvenir nous rend les attraits , les vertus .",
+        "words": [
+          "odorante",
+          "parfum",
+          "fleur",
+          "essence",
+          "sultane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/6e07fb00-674c-58b9-b555-e3116be64494",
+        "value": "LE FRAISIER ET LA CIGUË .D ' un massif de fraisiers les fruits délicieux Flattaient avant le goût l ' odorat et la vue .Au centre s ' élevait un seul plant de ciguè , Dont le zéphir capricieux Sur son aile apporta la semence en ces lieux .",
+        "words": [
+          "fruits",
+          "odorat",
+          "massif de fraisiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/75164c53-eecb-54ec-a242-8c847dacb5e6",
+        "value": "A fortes doses d ' ellébore , Le fou recouvre la raison .221 Mais il perd les parfums de l ' heureuse Arabie , Les tissus de la Perse et l ' or de l ' Ibérie , Du dieu des mers enfin tous les riches bienfaits : Il trouva le marché mauvais .Un jour le médecin demandant son salaire , Il répondit avec colère : A la misère condamné Tu veux que je te remercie ! Je suis guéri , mais ruiné , Malheureux , rends - moi ma folie .",
+        "words": [
+          "or",
+          "parfums",
+          "tissus",
+          "Arabie",
+          "dieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/81475597-5da3-5340-a195-858faee58c9d",
+        "value": "Honneur soit au mortel dont l ' utile industrie De ta feuille , ô tabac ! enrichit sa patrie ; Par un si beau présent il a bien mérité De ses contemporains , de la postérité .Noble Nicotiane , ô précieuse plante ! Quel plaisir nous devons à ta poudre odorante ! Plaisir mille fois répété , Qui n ' est troublé d ' aucune peine , Et jamais après lui n ' entraîne La fatigue , l ' abus , ni la satiété ; Qui console le pauvre au sein de la misère , Et n ' est point dédaigné du riche fastueux ; Qu ' on peut goûter enfin sans apprêt ni mystère , Dans tous les temps , dans tous les lieux .195 Rival de la fève arabique , Sans porter aux excès de la liqueur bachique , Tu prêtes de l ' esprit aux sots , Tu donnes plus d ' essor à la raison des sages ; Et du cerveau que tu dégages Ton pouvoir stimulant fait jaillir les bons mots .",
+        "words": [
+          "odorante",
+          "Nicotiane",
+          "ta poudre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/92727638-ea02-547d-8b2c-13f592d38c17",
+        "value": "Qui garde le logis , par les rapports d ' autrui , Est toujours bien aise d ' apprendre Ce qui se fait hors de chez lui .Le lièvre racontait ses courses dans la plaine , Ses bonds pour franchir le torrent , Et sur la colline lointaine , Ses banquets parfumés de thym , de marjolaine ; Puis il disait aussi comment Son agilité sans pareille Avait su dérober sa trace au lévrier , Et comment du vieux braconnier Le plomb avait sifflé deux fois à son oreille .A ces récits divers , la tortue en émoi Tressaillait tour à tour de plaisir et d ' effroi .",
+        "words": [
+          "thym",
+          "parfumés",
+          "marjolaine",
+          "colline lointaine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/954e4ee2-97ff-54ae-9ebd-bc1bf0f8ce53",
+        "value": "— Eh ! fi donc ! est - ce là ta place ? Viens dans les champs , dans les taillis , 2 - ' i0 A la piste des cerfs , à l ' arrêt des perdrix ; Sois le digne rival , dans une noble chasse , Des Mirant , des Brifaud , ces héros de ta race , Et non le successeur de Raminagrobis .— Je ne veux point m ' en faire accroire , Et je ne suis pas fait pour prétendre à la gloire ; Tous ces chasseurs fameux dont les exploits brillan ts Iront à la race future Avaient sans doute des talents Que m ' a refusés la nature A quoi bon se flatter ? Mon ami , je n ' ai pas L ' odorat fin , le pied agile ; A poursuivre les cerfs je serais malhabile .Et j ' excelle à prendre les rats .",
+        "words": [
+          "odorat",
+          "je",
+          "fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/b5726cdb-e5e0-5342-904b-7cef3ddfd27b",
+        "value": "Le mal raconté s ' adoucit ; La fauvette fait le récit De sa malheureuse aventure .« Ma voisine , lui dit l ' hôtesse du hallier , Pour établir votre ménage , Le choix de ce brillant rosier , Entre nous , a - t - il été sage ? Par l ' éclat de ses fleurs attirant tous les yeux , Riche en parfum , pauvre en feuillage h 211 Ce bel arbuste était un gîte dangereux .Dans cette ronce hospitalière Où j ' ai pondu , couvé , cachée et solitaire , Rien ne flatte la vanité ; Cet asile est plus que modeste , Mais aucun accident funeste N ' y menace ma sûreté .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "rosier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/b7cf91fe-60b8-55a0-a716-ad77d10fe5f3",
+        "value": "» LA CHASSE AU RENARD .C ' était un beau matin des premiers jours d ' avril , Au pays de Leicester - Shire ; Dans la plaine on entendait dire : « Quête dans ces genêts ! courage , Abigaïl , « Ma chienne incomparable , àl ' odorat subtil , « Qui sens ton renard d ' une lieue .« Soyez prêts , mes amis , elle agite sa queue , « Jetteun cri comme un chienquirève .",
+        "words": [
+          "subtil",
+          "odorat",
+          "renard",
+          "incomparable",
+          "Abigaïl",
+          "Au pays de Leicester",
+          "beau matin des premiers jours d ' avril"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/d6e01570-f17a-5841-a37c-da4fea65a2c2",
+        "value": "105 FABLE LL LA SULTANE ET LA ROSE .Arbuste favori de la fière sultane , Et loin de tout regard profane Cultivé par ses belles mains ' , Le rosier du sérail parfume les jardins .Elle aime à voir ses fleurs nouvelles Sortir des frais boutons , croître et s ' épanouir Mais sur les tiges maternelles Défend qu ' on ose les cueillir .",
+        "words": [
+          "parfume",
+          "rosier",
+          "sérail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/dd55bbcb-52f6-5de8-bf7a-dba1349ca534",
+        "value": "Tout à coup l ' animal paisible S ' arrête effrayé , mugissant ; On dirait qu ' un bras invisible Lui présente un fer menaçant ; Sa résistance est invincible .« Fais ce qu ' ordonne le patron , » Lui dit un chien , son compagnon : Que peux - tu craindre ? — Rien , sans doute ; Mais , mon frère , un instinct puissant Me dit : Garde - toi d ' une route D ' où s ' exhale une odeur de sang .505 FABLE CXLII .",
+        "words": [
+          "odeur",
+          "sang",
+          "chien",
+          "route"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/e0b0fadc-5ba7-5f87-b965-0254896cdc39",
+        "value": "541 A ces heureux chasseurs ne portons pas envie ; Lord Chesterfleld disait , après qu ' il eut goûté Ce plaisir si vanté : « Chasse - t - on deux fois en sa vie ? » 29 .542 Je te revois , séjour de paix , Toi qui portes le nom d ' une arme meurtrière ; Sitôt que des zéphirs l ' haleine printaniôre A fait reverdir les bosquets , Le calme heureux de tes retraites , Et le parfum de tes filas , Et les concerts de tes fauvettes , Dans ton sein attirent mes pas .Je n ' y rencontre point l ' appareil des toilettes ; Et la beauté du jour , flore de ses appas , Va chercher ailleurs des conquêtes ; Pourrait - elle se plaire où la foule n ' est pas ? \" L ' Arquebuse est un joli bosquet , à une très - petite distance de Dijon .",
+        "words": [
+          "parfum",
+          "Je te",
+          "séjour de paix",
+          "Sitôt",
+          "filas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/f4b5bbd7-a9ff-5149-bb79-b8b37be16b3f",
+        "value": "Elle aime à voir ses fleurs nouvelles Sortir des frais boutons , croître et s ' épanouir Mais sur les tiges maternelles Défend qu ' on ose les cueillir .Que de vulgaires fleurs étalent leur parure Dans le kiosque ou dans le salon ; La rose , sans quitter son trône de verdure , Des doux zéphirs de ce canton Doit embaumer l ' haleine pure Tout le temps de sa floraison .106 A - t - elIe enfin perdu ses charmes Que le vent du sud a flétris : On l ' effeuille , et de ses débris L ' alambic distille des larmes .",
+        "words": [
+          "fleurs",
+          "rose",
+          "haleine",
+          "salon",
+          "embaumer",
+          "kiosque",
+          "Tout le temps de sa floraison"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/3f9b3192-14ce-5122-a2eb-bd37015e83a9",
+        "label": "André-Clément-Victorin  Bressier"
+      }
+    ],
+    "label": "Fables et poésies diverses , par M. Bressier,... précédées d'une lettre de M. Emile Deschamps au fils de l'auteur. 3e édition revue et augmentée",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5812693j",
+    "date": "1837",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e3225a80-19bb-5c2f-ba40-9e1ffe815aba",
+      "label": "1837",
+      "begin": "1837",
+      "end": "1837"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/admiration",
+      "label": "admiration"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pride",
+      "label": "pride"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/calmness",
+      "label": "calmness"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/approval",
+      "label": "approval"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/a418b9f5-43f9-5ce9-bb15-41767eaf7fb2/fragment/d6e01570-f17a-5841-a37c-da4fea65a2c2",
+  "license": "Public domain",
+  "adjective": "parfume"
+}

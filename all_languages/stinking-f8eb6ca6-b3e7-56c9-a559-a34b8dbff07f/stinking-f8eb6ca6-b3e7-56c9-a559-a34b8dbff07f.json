@@ -1,0 +1,471 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f8eb6ca6-b3e7-56c9-a559-a34b8dbff07f",
+  "@graph": "http://data.odeuropa.eu/eebo",
+  "label": "stinking",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/079db2bd-fc9f-508d-8596-81dd64893caa",
+        "value": "The Armenians call that Plant Badisamour , but one of them very rationally told me , that they had no reason to give it the name of that Pestiferous Wind , and far less to attribute to it the cause of the bad effects thereof , seeing the same Plant is found in many places , where the Badisamour Wind rages not ; as at Lar , and beyond it , and that Wind rages only from Conveston to Bender ; Nay many people of Schiras told me that the Plant is to be found two Leagues from that Town , where that Wind rages not , and I have seen it in many places upon the Road from Carzerum to Benderick .This is a good reason to prove that that Plant causes not the aforesaid Wind , but it does not sufficiently prove , that with that Wind it does not cause these bad effects ; for it may very well be said , that if that hot Wind reigned in places where there were no such Plant , it would not , perhaps , be so mortal , because it may be , that being already very bad of it self , the malignity of it is encreased by passing over these Plants , whose smell and noxious qualities it carries along with it ; but what in my opinion , may serve to convince us of the contrary ; betwixt Mosul and Bagdad there being no such Plants , ( at least I never saw , nor heard there were any ) the Wind which in those quarters is called the Samiel is as pestiferous and mortal there , as in the places where that Plant is to be found ; it is therefore impertinent to attibute to it the bad effects of that Wind , and the rather that that Plant grows all over the Indies , where it is not known what the Wind Samiel is .Besides what the Armenian told me that that Plant is called Kerzehreh , that is to say , Asses - Gall , for the reason alleadged before , I found in a Dictionary Turkish and Persian , that Kerzehreh signifies besides , a Tree of Poyson , and that man as ∣ sured me that it was Poysonous , if but smelt too .",
+        "words": [
+          "smell",
+          "these Plants",
+          "noxious",
+          "whose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/0a4ab53f-3cfb-51ca-b6ee-36fcd29902f8",
+        "value": "There are thirteen Baths in Tunis , where all the Slaveslodge , except those that are kept in their Masters Houses , and ( as several Slaves told me ) there may be there in all ten or twelve thousand Christian Slaves , who carry every one a great ring of Iron at their foot , Knights of Malta at Tunis but the Knights of Malta have besides that a huge Iron - Chain above five and twenty pound weight , which is fastened to the Ring , that Chain is very troublesome to them , for they must either turn it quite round their Leg and make it fast there , which is very heavy when they walk , or hang it by a hook that they have by their side , which commonly gives them a pain in the side , or else must carry it on their Shoulders .In these Baths there is a great Hall where they are shut up in the Night - time , there they lodge as well as they can , some having little Rooms made of wood , to which they go up by Ladders , and are stowed three or four together in one , the rest lye upon the Ground , but all horridly bad , for being very numerous , and lock ' d in in the Night - time , they do their needs where they are in Pots , which raises a noysome stench ; besides when one has a mind to sleep , some fall a talking , and others a quarelling and fighting , making constantly a hideous din , which seems to me a Hell upon Earth .In the morning this Prison is opened , and those that are to work , are let out , who are conducted to their Labour by men that take care of it ; they are employed in building and other works of that nature ; and I have known Knights of Malta of noble Families there , who have been made serve as Labourers , some carrying Sand and others Stone , and they were thus used to oblige them to ransom themselves the sooner , and at the higher rate .",
+        "words": [
+          "stench",
+          "noysome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/0c775678-de48-5f5c-8506-ca6ce3cf3de8",
+        "value": "the Tree ( from which they have that Bark ) is streight , and pretty like to the Olive - Tree ; it bears a white Flower of an excellent Scent , and the Fruit of it is round .They take off the Bark in the Summer - time , and when they cut it the Smell is so strong that the Soldiers ( who are to guard the same ) fall almost sick upon ' t .Towards Cochin there is wild Cinnamon ; but because it is weak , Wild Cinna ∣ mon .",
+        "words": [
+          "the",
+          "Smell",
+          "Soldiers",
+          "so strong",
+          "that the",
+          "the Soldiers",
+          "in the Summer - time",
+          "Soldiers (",
+          "fall almost sick upon ' t ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/0d4a2f60-2e60-5fbd-8e17-4a93d997d127",
+        "value": "A woman that in Ancient times lived upon that Hill , gave Victuals to all the People for a whole year that a Plague and Fa ∣ mine lasted ; and it is probable these Statues have been erected in honour of that good Lady .On the other point of the Isle , that in form resembles a Cre ∣ scent .Crotiri .",
+        "words": [
+          "scent",
+          "a Cre ∣ scent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/10da2597-9197-5f4f-b0ce-dce82d0ac441",
+        "value": "But he gave an Original to the Wind Badisamour that had no soliditie at all ; for he said that it blew from the Sea , A bad cause of the Badi ∣ samour .and that upon that Coast the Sea often casts a shoar a kind of a Fish , whereof he could not tell the name , and that that Fish being out of the Sea dies and corrupts , so that the Wind passing over it brings along with it that stench which renders it pestiferous .A Portuguese Gentleman who lived for several years at Bender Congo , near which are many Kerzehreh Trees , told me this particular of it ; Some particu ∣ larities of the Kerzehreh .",
+        "words": [
+          "stench",
+          "pestiferous",
+          "the Wind"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/15134c8d-0065-5038-9041-5cd253dd710c",
+        "value": "Jews in Caire .As for the Jews , I have spoken of them before , and shall only add here , that there a great many Jews at Caire , who have a Quarter where they all live by themselves ; this is a large Quarter , and contains a great many Streets , but all short , narrow , nasty and stinking .The Jews manage all the Customs in Aegypt , and all the Serafs are Jews .",
+        "words": [
+          "stinking",
+          "nasty",
+          "the Jews",
+          "at Caire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/2285973b-8b5a-5697-951d-5bf1f53d1fd4",
+        "value": "This City stands ill , Caire stands ill .for it is at the foot of a Hill on which the Castle is built , so that the Hill covers it , and intercepts all the Wind and Air , which causes such a stifling heat there , as engenders many Diseases ; whereas if it stood in the place where Old Caire is , in the first place , they would have the benefit of the River , which is of great importance , were it only for water to drink ; for the water must be brought into all parts of Caire in Borachios upon Camels backs , which feth it from Boulac , above half a league from the City , and yet that is the nearest place : Hence it is that so much bad water is drank at Caire , because those who go to bring it on their Camels , that they make the more returns , take it out of the Birques or stinking Pooles , Birques .that are nearer than the River , and for all that , sell it very dear .",
+        "words": [
+          "stinking",
+          "Pooles",
+          "at Caire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/25b2ac15-b862-5f6d-a3b0-29f0f61b0152",
+        "value": "It is as big again as Surrat ; but not near so populous ; it hath very fair Brick - walls about four Fathom high , with Towers at certain distances .The Streets of it are large , and have all Gates at the ends , which are shut in the Night - time : The Houses are very high , and built of Bricks dried in the Sun , and the Shops are full of Aromatick Perfumes , Spices , Silken and other Stuffs .There are vast numbers of Ivory Bracelets , Agat - Cups , Chap ∣ lets and Rings made in this Town ; Agats .",
+        "words": [
+          "Aromatick",
+          "Spices",
+          "the Shops",
+          "Silken",
+          "Aromatick Perfumes",
+          "other Stuffs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/26fa8a6d-af9e-53f9-a9ab-7060fabd32de",
+        "value": "Soap .In Persia they make soap of grease or tallow instead of Oyl , and that makes it to have a bad scent , and with the least sweating to breed lice in their Linnen .Rasors .",
+        "words": [
+          "soap",
+          "bad",
+          "scent",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/2cf2f0a2-f7bc-5cba-9644-0346e890c6e6",
+        "value": "There is a great number of Greek Churches in the Island , which are all under the government and discipline of a Greek Bishop .The Latins have also a Bishop there , who , on Corpus Christi - day , carries the Holy Sacrament in Procession all over the Town ; at which there is a great concourse of People , both Greeks and Latins ; and , when the Bishop passes along the streets , all the people prostrate themselves , spread Carpets , Flowers , Herbs , and other odoriferous things ; and lye so thick upon the ground , that the Bishop cannot pass without treading upon them : The Cathedral of the Bishop of the Latin Church , is dedicated to the Apostle St .Andrew ; it is pretty neat , but hath no great Revenue .",
+        "words": [
+          "Herbs",
+          "Flowers",
+          "odoriferous",
+          "things",
+          "Carpets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/34381bf0-5f5f-53f8-8cf6-1d8072259ef7",
+        "value": "which they hang about their Neck .There are a great many Grooms who mingle Salt with the Barley they give them , to keep their Dung from stinking : they put first Straw in the bottom of the Sack , then two Handfuls of Salt , over that the Barley , and then mingle all together with the Hand .In the Spring they feed their Horses , Mules , and Asses with Grass , and so they do all over the Levant .",
+        "words": [
+          "stinking",
+          "their Dung",
+          "the Barley"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/35481fbb-63c2-50f6-9e94-5046f9b795fb",
+        "value": "In short , the Infection is so great , that not only the Money and Plate in the Houses that are near to the Khalis , is tarnished , but also the Pictures and Painting are spoil ' d ; as I have seen in several Houses , which nevertheless recovered their former beauty , when the Khalis was dry .When I arrived at Caire , the Kha ∣ lis was in this manner full of standing Water , and being told that it was the Khalis of which I had heard so much talk , I had the curiosity to look into it out of a Window ; it was then Morning , and the Water was so thick , that the surface of it seemed to be all porphyrie , appearing Green , Blew , Red , and of all Colours : But when the Sun had shone a little upon it , and dissolved that scum , I was soon undeceived ; for the scent which is smelt at a great distance , made me well know what it was , and I have often wondred , that the horrible infe ∣ ction of it , does not occasion a Plague every Year .If the Sousbasha pleased , The Sousbasha lets the water of the Khalis stand and corrupt for his own profit .",
+        "words": [
+          "scent",
+          "smelt",
+          "scum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/38fbd723-07a5-5cac-8467-29a0f7882ee9",
+        "value": "When that Sweat or Excrement is taken out , it is of a whitish grey , but by little and little in some short space it turns to a very brown colour .It smells very sweet at a distance , but near hand it stinks and causes a Head - ach .There are as many kinds of Civet - Sweat , as there are of Civet - Cats , for it is more whitish , greyish , or yellowish , and dryer in some than in others , and yet they mingle all together .",
+        "words": [
+          "smells",
+          "It",
+          "stinks",
+          "very sweet",
+          "it",
+          "at a distance",
+          "and causes a Head - ach ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/397774f0-b7ba-5de3-ae97-bdbb97c59c31",
+        "value": "It is a very wild Creature ; and I believe the bite of it would put a body to no small pain , The Jews keep them in great square wooden Cages , where they feed them with raw Mutton and Beaf , cut into small Pieces .The way of getting Civet When they would get from them that which is called Civet , ( and is the Sweat of this Beast , that smells so sweet ) they make him go back with a stick which they thrust in betwixt the Bars of the Cage and catch hold of his Tail ; when they have that fast , they take hold also of his two hind Legs , pulling him half out of the Cage by the Door , which falls down upon his Back , and keeps him fast there , then another opens a certain Cod of Flesh that these Beasts have , which is shaped like a split Gyserne , and with an Iron - Spatula scrapes all the Sweat off of it within .The Males have that piece of Flesh betwixt their Stones and Yard , which is like a Cats .",
+        "words": [
+          "Civet",
+          "smells",
+          "so sweet",
+          "the Sweat of this Beast"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/3ec7bed5-4ef2-51ab-8450-221a1fe9a580",
+        "value": "No sooner was this Blade come into the Boat , but he fell a smoaking ; and no body durst say any thing to him save Sultan Amurat , who drawing near , asked him if he did not stand in Awe of the Grand Signior ' s Prohibition .The Spahi very arro ∣ gantly made answer , That the Grand Signior led a brave life on ' t , that he de ∣ lighted himself with his Women and Boys , and making himself Drunk in his Serraglio ; that for his share all he had was Bread , that Tobacco was his Bread , and that the Grand Signior could not hinder him to smoak ; and with that asked him if he would take a whiff .Sultan Amurat told him softly that he would ; and having got the Pipe from the Spahi , went and hid himself in a corner of the Boat , smoaking with as much circumspection , as if he had been afraid some body might see him .",
+        "words": [
+          "he",
+          "whiff"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/45eafb3d-6b5f-5dbb-93f5-957382bcdaa6",
+        "value": "forbidding all Sakas , or Water - carriers , to take any more Water out of the Khalis , even before it hath wholly ceased to run ; because when it runs gently , the filth of the City mingles too easie with it .But when it has done running , there is a most noisome smell , not only because of the corruption of that standing Water , but also because of all the filth and nasty stuff , that they who have Windows upon the Khalis throw into it , besides all the Carrion .In short , the Infection is so great , that not only the Money and Plate in the Houses that are near to the Khalis , is tarnished , but also the Pictures and Painting are spoil ' d ; as I have seen in several Houses , which nevertheless recovered their former beauty , when the Khalis was dry .",
+        "words": [
+          "smell",
+          "most noisome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/4abc3c43-7f93-5f10-9293-78e4f4a077ad",
+        "value": "made use of in the composition of many Oyntments ; but the Greeks spend a great deal of in chewing , and the Women and Girls more , who use it so frequently , that they are never without a piece of Mastick in their mouth .That makes them spit much , and ( they say ) it whitens their teeth , and renders their breath sweet .They put it also into their bread , to make it more delicate ; and when upon my departure from Chio , I made provision of Bisket , I had little ones with Mastick made for me , which were recommended to me , as an excellent thing to drink a mornings draught with .",
+        "words": [
+          "sweet",
+          "breath",
+          "their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/50ebd864-c254-5f70-a7ab-8efd58ec9373",
+        "value": "We marched on through a Plain , in good way , until Noon , when having passed over a Bridge of seven Arches , under which a River runs ; Oudgioun .we came to a Village called Oudgioun , four Agatsch from Asou ∣ pas : we found a Kervanserai there , but it stank so by reason of the great quantity of Carrion and filth that was in it , that we could not Lodge therein , so that we were fain to encamp hard by under Carpets , which we pitched instead of Tents .A River fix or seven Fathom over runs through this Village , the water of it is very muddy , and has a Bridge of seven small Arches over : there is Wine also in this place , and the Grapes are brought from Maain .",
+        "words": [
+          "so",
+          "we",
+          "it",
+          "stank",
+          "a Kervanserai"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/5724142e-4d22-5c70-bd4a-4affaa30a307",
+        "value": "It reaches in length from North , North - West , to South , South - East , and there is nothing remarkable in it , unless it be the Fort , and that is no great matter neither .The Dutch began it un ∣ der colour of settling a Factory there ; but the Persians smelling out their de ∣ sign , drove them off and finished it : it is at present kept by a very few men .A little farther off to the West , Error in Geo ∣ graphy .",
+        "words": [
+          "smelling",
+          "their",
+          "the Persians"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/5cff5b3d-fa62-5ebf-a8fb-8a5c5c851180",
+        "value": "The Wine of Schiras is an excellent Stomach Wine , but very strong , so that without spoiling the taste of it , it will carry two thirds of water .It is not made of Kishmish , or Grapes without stones , as at Ispahan because then it would be so strong that it could not be drank , but it is made of com ∣ mon Grapes : they have both Red and White , but the Red is the best : it is full of Lees , and therefore very heady ; to remedy which they filtrate it through a Cloath , and then it is very clear and free from fumes .The people of Schiras make their Wine at Martlemass , when the Grapes are already almost half dry ; they stay till they be so before they gather their Vintage : when the Wine is made and in con ∣ dition to be laid up , they burn Incense all over the Cellar , to take away all noy ∣ some scents , before they Cellar it up .",
+        "words": [
+          "so strong",
+          "fumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/620ada04-aabc-5d21-9db9-fe5b6f71649b",
+        "value": "They lay the Malefactor upon his Belly , with his Hands tied behind his Back , then they slit up his Fundament with a Razor , and throw into it a handful of Paste that they have in readiness , which immediately stops the Blood ; after that they thrust up into his Body a very long Stake as big as a Mans Arm , sharp at the point and tapered , which they grease a little before ; when they have driven it in with a Mallet , till it come out at his Breast , or at his Head or Shoulders , they lift him up , and plant this Stake very streight in the Ground , upon which they leave him so exposed for a day .One day I saw a Man upon the Pale , who was Sentenced to continue so for three Hours alive , and that he might not die too soon , the Stake was not thrust up far enough to come out at any part of his Body , and they also put a stay or rest upon the Pale , to hin ∣ der the weight of his body from making him sink down upon it , or the point of it from piercing him through , which would have presently killed him : In this manner he was left for some Hours , ( during which time he spoke ) and turning from one side to another , prayed those that passed by to kill him , ma ∣ king a thousand wry Mouths and Faces , because of the pain he suffered when he stirred himself , but after Dinner the Basha sent one to dispatch him ; which was easily done , by making the point of the Stake come out at his Breast , and then he was left till next Morning , when he was taken down , because he stunk horridly .Some have lived upon the Pale until the third day , and have in the mean while smoaked Tobacco , when it was given them .",
+        "words": [
+          "he",
+          "stunk",
+          "horridly"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/63eeb288-a68c-5b86-a62a-5f5e23025fbe",
+        "value": "Whosoe ∣ ever are taken stealing of Mastick , are without remission sent to the Galleys .This Mastick is a whitish Gumm , of a very good scent , The use of Mastick .made use of in the composition of many Oyntments ; but the Greeks spend a great deal of in chewing , and the Women and Girls more , who use it so frequently , that they are never without a piece of Mastick in their mouth .",
+        "words": [
+          "scent",
+          "very good",
+          "This Mastick"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/653f03dd-d93b-534a-ada1-425a213f9f28",
+        "value": "Cloves grow upon a Shrub that has long narrow leaves ; Cloves .the Flowers of it ( which at first are white , ) change Colour four or five times , and from the out - most point of its Branches the Cloves grow , which have then a far more fragrant Smell , than when they are brought into Europe .The great Isle of Java furnishes the good Pepper .",
+        "words": [
+          "Cloves",
+          "Smell",
+          "more fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/65408d5a-a0cd-58e0-a7ab-92e7bcb0441f",
+        "value": "It maketh a great many Islands , and is full of banks of stone ; when we passed near to any of these banks , all the Turks in Chorus called Mahomet to their assistance .There are a great many Birds on both sides , and amongst others we saw a flight , altogether like Francolines , save that they have an unpleasant smell , though the flesh of them be firm and very good to eat .They were so numerous , that I think a grain of small shot could not have past through without hitting some of them ; and they made a Cloud above five hundred paces in length and fifty in breadth .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "they"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/67c4b415-fec8-5c21-b854-6d64bed6c690",
+        "value": "They have also Sorbet , which is a very good Drink , made in Aegypt , of Sugar , Limon - juice , Musk , Ambergrease , and Rose - water .When they would regale any Friend that comes to see them , they cause a dish of Coffee to be brought to him , afterwards Sorbet , and then the Perfume .They give it in this manner ; The way of giving Per ∣ fume to such as the Turks would regale .",
+        "words": [
+          "Perfume",
+          "dish",
+          "Sorbet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/71c0063a-e1ff-505a-bd1f-81dffcc527b0",
+        "value": "It yields most excellent Musk ; for at the Belly it hath a Bladder full of corrupt Blood , and that Blood maketh the Musk , The Musk Animal .or is rather the Musk it self : They take it from it , and immediately cover the place where the Bladder is cut , with Leather , to hinder the scent from evaporating : But after this Operation is made , the Beast is not long liv ' d .There are also towards Azmer , Pullets whose Skin is all over black , Pullets .",
+        "words": [
+          "scent",
+          "the Musk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/7e99bdb2-92e3-599c-9259-67f9d466a8fc",
+        "value": "It is this Isle of Ceilan which produces the best Cinnamon ; Cinnamon .the Tree ( from which they have that Bark ) is streight , and pretty like to the Olive - Tree ; it bears a white Flower of an excellent Scent , and the Fruit of it is round .They take off the Bark in the Summer - time , and when they cut it the Smell is so strong that the Soldiers ( who are to guard the same ) fall almost sick upon ' t .",
+        "words": [
+          "Scent",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/99a8e2b7-b2e2-548a-a144-27447beeee1c",
+        "value": "However I was not alto ∣ gether disheartned by this adversity , on the contrary , was fain to encourage the rest , who thought themselves half dead already , and apply ' d my self to consider what way we might be delivered out of this misery .With their two Ships they had a great Saique , which they had taken a few days before , and some Greeks coming to redeem her , had offered a thousand Piastres for her ; but these Gentlemen demanding fifteen hundred , the Greeks went away , promising however to come back again ; which I having understood from the Captain ( who was as willing to be rid of us as we were to be gone , because we lessened his stinking Provisions , ) we prepared to go to Damiette with them : The Corsairs would willingly have set us ashoar , if we had pleased , but we would by no means accept of that offer , for fear of having been taken for Corsairs , and so immediately burnt alive ; and it was too fresh in my memory what I had been told of other Franks , who having escaped from Shipwreck , and coming a - shore , thought they came very well off when they were only made Slaves .In the mean time , the Galliot came up with the Ships , Tuesday morning , the eight and twentieth of May ; she had taken a Saycot , which was the sail we had seen with her , but she let it go , as not worth their while to stay for it .",
+        "words": [
+          "stinking",
+          "Provisions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/a180d319-bbcd-5ac9-932f-a1bd4c4cb914",
+        "value": "from the Sour .where it has an odoriferous Taste , which that of other Countries has not .Cotton abounds there also , and in many places they have Sugar - Canes , with Mills to bruise the Canes , and Furnaces to boyl the Sugar .",
+        "words": [
+          "odoriferous",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/a90b1c87-235c-5781-998c-eeedf0d6604b",
+        "value": "after their death in the Indies , is to wash them in the water of a River or Reservatory , near to which there is a Pagod , then to burn them , and throw the Ashes into the same water ; in some Countries they leave them upon the brink of the Ri ∣ ver , but the Ceremony of burying differs according to places ; in some places the Body is carried , The way of burning the dead Husband with the living Wife .( with beat of Drum ) sitting uncovered in a Chair , cloathed in goodly Apparel , and accompanied with his Relations and Friends ; and after the usual Ablution , it is surrounded with Wood ; and his Wife who hath followed in triumph , hath her Seat prepared there , where she places her self Singing , and seeming very desirous to die : A Bra ∣ men ties her to a Stake that is in the middle of the Funeral Pile , and sets Fire to it ; the Friends pour odoriferous Oyles into it , and in a short time both the Bodies are consumed .In other places the Bodies are carried to the River - side in a covered Li ∣ ter , and being washed , they are put into a hutt full of odoriferous Wood , if they who are dead have left enough to defray the Charges .",
+        "words": [
+          "odoriferous",
+          "into",
+          "Oyles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/a992b873-fdb3-59d9-ab9b-529a40008f7c",
+        "value": "and the Modern Greeks Kissaros ; when the Goats feed on that Herb , a certain viscous Dew that is upon it , sticks to their Beards .and there congeals into a kind of Gum , of a very good smell , which they Ladanum , and Vulgarly Laudanum , and cannot be gathered without cutting off of the Goats Beards .As you go to the Town , there is a Castle upon a very high Hill , which commands all the Villages of Darmilla .",
+        "words": [
+          "smell",
+          "very good",
+          "Gum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/b2724c8c-ec76-5c14-bc20-794b5f3ec4dd",
+        "value": "Joseph ' s Dun ∣ geon .The Dungeon or Arcane is still remaining in the Castle , which ( they say ) is the Prison whereinto Joseph was cast , and where he interpreted the Dreams of the King ' s Butler and Baker ; but nothing makes it considerable , but the Name of Joseph , for it is a Prison composed of some dark , nasty and stinking passages like Dungeons , by what I could discover on the out - side ; and some who have been Prisoners there , told me , that it is far worse within ; and Prisoners are so cruelly used there , that it deserves not to be look ' d upon ; nay , woe be to them who are shut up there ; for so soon as a Man is clapt up in it , his feet are put into the Stocks , and his body chained to the wall by a heavy Chain , where he must sit on his breech ; then the Gaolers demand of him ten or twenty Piastres , more or less , The bad u ∣ sage of Priso ∣ ners by the Gaolers of the Arcane .according as they judge him able , and if he give it not , they throw pales of water under his breech ; and when he has feed the first , that he may not be abused , next day others come into office , who use him in the same manner , if he see them not also as he did the former ; and in a word , this Prison is a Hell upon Earth : People are put in there for small matters , as for Debt , or Batteries , especially the Christians and Jews .",
+        "words": [
+          "stinking",
+          "nasty",
+          "I",
+          "passages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/b3788a43-3188-5034-84af-ac34ffca7c2a",
+        "value": "On holy Friday the ninteenth of April , when the evening Office was over , we went in Procession through all the Sanctuaries of the great Church , where all the mysteries of the Passion were represented to the Life ; The Processi ∣ on of Holy Friday .in this Procession there were two Monks who carried the one a Box of Aromaticks , and the other a Bottle of odoriferous Oyl ; every one of the Monks had a lighted Wax - Taper , and the R .F .",
+        "words": [
+          "odoriferous",
+          "Oyl",
+          "a Box of Aromaticks"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/b785a6f9-b6c2-596f-8b18-b73746037188",
+        "value": "They killed more than they took , and left not so much as a living Soul in the place ; and that was the cause of the great allarm they were put into on that Coast , when we sailed along it from Acre to Jaffa .It was a sad spectacle to see on board this Ship so many poor Women , with their Children at their breasts , having no greater allowance than a little mouldy Bisket and two glasses of stinking Water a day , which was all the Men had also ; but among others , there was one Woman Slave on board , with her Husband , Brother , seven Children , and one in her Womb : All this together caused a great clutter and nastiness in the Ship ; nay , there was one little Child ill of the Small - pox , which made me afraid of catching the same Disease .We were no better treated than the Slaves , Entertain ∣ ment on board the Corsairs .",
+        "words": [
+          "Water",
+          "stinking"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/b7b1abbd-943e-57dc-b790-bf17e8053389",
+        "value": "This is a good reason to prove that that Plant causes not the aforesaid Wind , but it does not sufficiently prove , that with that Wind it does not cause these bad effects ; for it may very well be said , that if that hot Wind reigned in places where there were no such Plant , it would not , perhaps , be so mortal , because it may be , that being already very bad of it self , the malignity of it is encreased by passing over these Plants , whose smell and noxious qualities it carries along with it ; but what in my opinion , may serve to convince us of the contrary ; betwixt Mosul and Bagdad there being no such Plants , ( at least I never saw , nor heard there were any ) the Wind which in those quarters is called the Samiel is as pestiferous and mortal there , as in the places where that Plant is to be found ; it is therefore impertinent to attibute to it the bad effects of that Wind , and the rather that that Plant grows all over the Indies , where it is not known what the Wind Samiel is .Besides what the Armenian told me that that Plant is called Kerzehreh , that is to say , Asses - Gall , for the reason alleadged before , I found in a Dictionary Turkish and Persian , that Kerzehreh signifies besides , a Tree of Poyson , and that man as ∣ sured me that it was Poysonous , if but smelt too .But he gave an Original to the Wind Badisamour that had no soliditie at all ; for he said that it blew from the Sea , A bad cause of the Badi ∣ samour .",
+        "words": [
+          "Plant",
+          "me",
+          "smelt",
+          "it",
+          "Kerzehreh",
+          "Poysonous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/bbe985fb-7277-5e32-9b2c-d879a4e8aabf",
+        "value": "Hhansedoud .At three a Clock in the Afternoon we arrived at Hhansedoud , travelling all the way from Gaza thither in a lovely plain full of Corn , Trees and Flowers , which yielded a rare good smell .A Plain of Tulips and Emonies .",
+        "words": [
+          "Trees",
+          "Flowers",
+          "smell",
+          "we",
+          "which",
+          "rare good",
+          "of Corn",
+          "At three a Clock in the Afternoon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/c588e3e6-9ff2-5b6a-8d1a-9af67dca8bab",
+        "value": "( with beat of Drum ) sitting uncovered in a Chair , cloathed in goodly Apparel , and accompanied with his Relations and Friends ; and after the usual Ablution , it is surrounded with Wood ; and his Wife who hath followed in triumph , hath her Seat prepared there , where she places her self Singing , and seeming very desirous to die : A Bra ∣ men ties her to a Stake that is in the middle of the Funeral Pile , and sets Fire to it ; the Friends pour odoriferous Oyles into it , and in a short time both the Bodies are consumed .In other places the Bodies are carried to the River - side in a covered Li ∣ ter , and being washed , they are put into a hutt full of odoriferous Wood , if they who are dead have left enough to defray the Charges .When the Wife ( who is to be burnt ) hath taken leave of her kindred , and by such Galantries as may convince the Assembly , ( which many times consists of the whole Caste , ) that she is not at all afraid of dying ; A Woman that endeavours to shew a fearles ∣ ness before she is burnt .",
+        "words": [
+          "Wood",
+          "odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/dabd4a88-2eb7-5a12-b949-4796c2a04bc6",
+        "value": "They drew all up in the Cara Meidan , but though it be a large place , yet it could not contain both them and the Militia of Caire , so that a good many of them were forced to March out into the Romeille , to make room for the rest .When the Bey came near the Kieusk , he alighted from his Horse , and went unto it , where the Basha expected him ; and treated him with Coffee , Sorbet , and a Perfume , presenting him and every one of his Officers with a Caftan a piece .Whilst he was there , I went to a narrow Avenue at the end of the Romeille , through which he was to pass ; soon after , we saw him and all his Men pass that way in File .",
+        "words": [
+          "Coffee",
+          "Perfume",
+          "Sorbet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/e1663c06-b1dd-51eb-9967-fb85323d68d2",
+        "value": "That which is near the Serraglio Gate and is called the Bridge Coffee - house , because it is near a Bridge upon the River , is so much the more delicious that the River borders it on one side , and that there are Trees all along before it , under the shade of which they who are upon the Mastabez of the Coffee - house , have a pleasant fresh Air , and the view of the River running below them .The Coffee - house of the two Rivers which is near the Gate of the Paboutches , and where the length of the Castle ends , is also fair and large ; two Rivers pass by it , which at the end of a great covered Hall , makes a little Island full of Rose - bushes and other Plants , whereof the ver ∣ dure and various Colours , with the smell of the Flowers delight at the same time several senses , and give a great deal of agreeableness to a scituation other ∣ wise so advantageous : For you must know that these Rivers which I call lit ∣ tle , are at least four fathom broad , and commonly five or six .All know what a Coffee - berry is , from which these places take their denomination ; I have spoken of it in my former Travels , and shall onely add in this place what I learned of the qualities of that drink , to wit , that being drank very hot , it clears the head of vapours , moderately hot it binds up the body , The Effects of Coffee .",
+        "words": [
+          "smell",
+          "of the Flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/ee232450-35cc-5fad-9822-006f75357e19",
+        "value": "It is not made of Kishmish , or Grapes without stones , as at Ispahan because then it would be so strong that it could not be drank , but it is made of com ∣ mon Grapes : they have both Red and White , but the Red is the best : it is full of Lees , and therefore very heady ; to remedy which they filtrate it through a Cloath , and then it is very clear and free from fumes .The people of Schiras make their Wine at Martlemass , when the Grapes are already almost half dry ; they stay till they be so before they gather their Vintage : when the Wine is made and in con ∣ dition to be laid up , they burn Incense all over the Cellar , to take away all noy ∣ some scents , before they Cellar it up .They put it into great earthen Jarrs , which hold ten or twelve even to fourteen Carabas ; but when they broach a Jarr , it must be presently drawn off , and Bottled up in Carabas ; for if the Wine be left any time in the Jarr after it hath been opened , it spoils and grows Eagre .",
+        "words": [
+          "Incense",
+          "scents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/f188898a-53c1-5b6a-9eb9-864824eb78bb",
+        "value": "for they were in great want of Provisions , and had so little Water , that they were obliged to distribute it by measure , giving every one two glasses a day .Our Diet then , consisted of two meals a day , both alike , one at noon , and the other at night , and these were a little mouldy Bisket of all colours , which , to season and soften it , was steep ' d in Water that stunck so horridly , that it smelt all over the Cabin , and getting into our throat as we broke the Bisket with our teeth , was like to have turned our stomacks : A little Cheese we had also that might have kept along time , for it needed a Hatchet to cut it : Our Drink was the same stinking Water , with a very little coat of Wine upon it ; and in the night - time we lay upon the deck , amidst the Vermine and filth of the poor Wretches ; our Monks were better accommodated , as they told us afterwards .However I was not alto ∣ gether disheartned by this adversity , on the contrary , was fain to encourage the rest , who thought themselves half dead already , and apply ' d my self to consider what way we might be delivered out of this misery .",
+        "words": [
+          "Water",
+          "stinking",
+          "smelt",
+          "it",
+          "our",
+          "so horridly",
+          "same stinking",
+          "all over the Cabin",
+          "stunck",
+          "Our Drink"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/f2b43bf3-b8ea-5534-8b38-9bdc3770ed43",
+        "value": "knowing that they Interred many with their Dead , either of Stone , Copper , or Green Earth , as I have several that have been found in these Bodies , but finding none , I thought there might be some within his Body ; for after they had Emboweled them , they pretty often enclosed Idols within their Bellies ; for that end I had it broken up , but we could find nothing .I considered then that Balm which is now quite lost , it is Black , hard and shines like Pitch , having much such a smell , but more pleasant , that kept Bodies entire , and ( I believe ) the Sand contributed not a little thereto ; for even in the great Desarts of Arabia , sometimes the dead Bodies of Men and Dogs are found entire , who falling asleep , and staying behind the Caravans , Bodies pre ∣ served in Sand .are covered over with an ocean of Sand driven by the high Winds , in which the Bodies being buried , are by the driness and salt that is in the Sand , which dries up all the humidity of them , preserved entire , and are afterwards found , when another Wind blowing , carries off the Sand again .",
+        "words": [
+          "smell",
+          "it",
+          "more pleasant",
+          "much such"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/fea82a9c-c4ab-5558-b10b-e1120a913f6c",
+        "value": "and per ∣ haps half as broad as the Scine at Paris ; it is very rapid , and the water of it thick , because it passes through fat Land , but they say it corrupts not , The course of Jordan .and I filled a Bottle of it to try the experiment , but the Corsairs whom I met with , threw it into the Sea : this River has its source from two Springs towards Mount Libanus , called Jor , and Dan , which joyned together , make Jordan : It runs from East to South , passes through the Sea of Tiberius , and loses it self in that nasty and stinking Lake , Asphaltites , called the Dead - Sea : Lake Asphal ∣ tites .It is very full of Fish , and on both sides beset with little thick and pleasant Woods , among which , thousands of Nightingales warbling all together , make a most pleasant delightful and charming Consort .",
+        "words": [
+          "Lake",
+          "stinking",
+          "nasty",
+          "Asphaltites",
+          "the Dead - Sea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/ff050f22-3e55-51f4-aa4d-c99eec473176",
+        "value": "there is nothing in that Garden , but abundance of Palm - Trees , which yield some rent to the Monks , but the seventy old Palm - Trees are not there now .After we had seen these things , we filled our Borrachios with the water of a Well near to that place , which belongs to the Monks ; I told them that it stunk a little , and they made answer that they had not Scowered it that year as they used every year to do , but withall , that it was the best water thereabouts .Heretofore they had a Church near to that Well , which the Turks Demolished , and with the stones of it built the aforesaid Castle called Tor .",
+        "words": [
+          "the",
+          "a little",
+          "stunk",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/ff6114a4-6393-5462-b045-84c238ea2d3c",
+        "value": "Trees of Aegypt .Many fair Trees grow there , which we have not in this Countrey , and especially Palm - Trees , and the Sycamores or Fig - Trees of Pharaoh , which differ from those Trees we call Sycamores , for those of Aegypt are the true Sycamores ; they bear Figgs that stick to the stock , which are not good , and yet the Moors for all that eat them ; there are also Cassia - Trees there , which are very lovely ; they bear always both Blossoms and Fruit , the Blossoms of them being yellow , and having a very pleasant Scent , which may be smell ' d at a great distance .I wave many other plants , as the Colocasse and Papyrus , & amp ; c .",
+        "words": [
+          "smell",
+          "Scent",
+          "very pleasant",
+          "at a great distance"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/f1554acb-5d87-5cc0-8fc5-b12c165031d1",
+        "label": "Jean de Thévenot"
+      }
+    ],
+    "label": "The travels of Monsieur de Thevenot into the Levant in three parts, viz. into I. Turkey, II. Persia, III. the East-Indies / newly done out of French.",
+    "url": "https://quod.lib.umich.edu/e/eebo/A64495",
+    "date": "1687",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c348f838-4d5d-50dd-86f5-5068247fa4b8",
+      "label": "1687",
+      "begin": "1687",
+      "end": "1687"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/cc639b51-a495-5b30-9c95-3d90e9880b14/fragment/2285973b-8b5a-5697-951d-5bf1f53d1fd4",
+  "adjective": "stinking"
+}

@@ -1,0 +1,149 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/e277b576-0189-589b-8fc1-398bb160fbeb",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/04e4f031-a70c-5a12-bff7-eb311d71b2fe",
+        "value": "Nuit douce , calme , miroitante d ’ étoiles ; grand silence entrecoupé de quelques cris de chacal ; au matin , rosée presque glaciaie .Nous sommes mouillés dans le lac Timsah par un maillon d ’ ancre ( 30 mètres ) à grande distance d ' Ismailia ; un parfum de fleurs d ’ acacia , très subtil , nous arrive de terre sur les ailes d ’ une brise nocturne .Départ à 5 heures du matin .",
+        "words": [
+          "parfum",
+          "Nous",
+          "très subtil",
+          "acacia",
+          "fleurs d",
+          "lac Timsah",
+          "Ismailia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/0c3d379e-f354-5f76-8705-53698ead0f08",
+        "value": "( 1 ) Villageon misérable ; cases couvertes de chaume , bâties de pierres sordides ; passage de caravanes sur un pont tournant : en attendant la permission de traverser , les caravaniers plongent leurs corps bronzés dans les eaux du Canal , s ’ ébrouent , se jettent de l ’ eau comme de grands enfants et brusquement , à notre approche , grimpent la digue pour enfiler leurs burnous en loques ; couchés dans le sable qui bout au soleil , les poils ras ou machurés de fiente , l ’ œil morne et pitoyable , les chameaux ruminent .Plus loin , autres « scèneries » , ainsi que disent les Anglais : un troupeau de chacals tirant la langue , le regard rouge , guette notre départ pour se précipiter à l ’ aiguade : Un simulacre d ’ incendie sur la terre , trombes de sable enflammées qui tournoient et lancent au ciel des fumées sanguinolentes : Un campement de noma - des , douar de tentes brunes dressées sur des piquets informes , quelques moutons , un bivouac autour duquel rêvent des hommes tristes à visages de Sphinx ! Nous nous garons ; on s ’ amarre à des bornes de fonte .Quel ordre , quelle discipline sur cette caserne flottante ! quel grand peuple que celui qui s ’ abrite sous les plis de l ’ Union Jack 1 Je l ’ admire , mais je reporte ma pensée , mes yeux vers nos couleurs bénies , les belles couleurs du beau pays de France .",
+        "words": [
+          "sanguinolentes",
+          "fumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/6951d7eb-ac20-5484-9bc1-2a7217d0cafc",
+        "value": "Je dénichai un petit coin à l ’ arrière , sur la lisse du bordage de tribord , entre deux tringles qui me défendaient assez pour ne pas glisser à la mer et là je m ’ ins - tallai à califourchon , assis ou étendu au gré de la variation de la brise que j ’ aspirais à poumons ouverts .Diable 1 Ce n ’ est point la bonne brise câline , embaumée de Provence , c ’ est un vent chaud légèrement rafraîchi par la nuit , mais ici il faut se contenter de peu .D ’ ailleurs cette brise est continue ; elle entre sans façon dans les plis de mon pynchama qui bouffent et frissonnent ; ma peau en est agréablement chatouillée et délectée ; le même frôlement effleure mes cheveux , mon front avec un murmure exquis et je m ’ abandonne complètement à ce bien - être passager .",
+        "words": [
+          "embaumée",
+          "brise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/78dd6bc6-f92d-5a42-ac6d-0efa70af8bd0",
+        "value": "A peine installés , les Célestes étalent deux objets importants pour leur existence : la pipe et la théière ; un brasero portatif très commode et peu dangereux fournit le feu , à chaque instant il sert à allumer de nouvelles pipes ou à chauffer des tasses de thé microscopiques .Bientôt une odeur âcre , sui generis , l ’ odeur de Chinois , plane sur le navire , mélange de tabac subtil , de tisanes aromatiques , de bois de camphre et de peau jaune .Il faut voir la précision , l ’ ordre , presque le sans - gêne de toutes ces installations serrées , groupées , tassées les unes sur les autres , laissant à peine entre les roufs et les bastingages un sentier étroit pour le service ; accroupis ou couchés , l ' œil paraissant - 5 6 - r ~ : ; j morne ou narquois , la queue roulée sur le haut du crâne , jouant de l ’ éventail en silence ou fumant leurs pipes , rien maintenant ne pourrait déranger ces passagers étranges jusqu ’ au débarquement à Hong - Kong ; le soleil , la nuit , les coups de mer , la pluie , le va et vient du bord les laissent impassibles .",
+        "words": [
+          "sui generis",
+          "âcre",
+          "odeur",
+          "tabac",
+          "aromatiques",
+          "tisanes",
+          "navire",
+          "peau jaune",
+          "bois de camphre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/8b88d89d-7ae6-5754-b086-01034a981408",
+        "value": "— 5 ° — A 3 heures du soir , les îles de Poulo Aor se profilent à bâbord ; nous marchons à grande vitesse droit au Nord .La nuit est merveilleuse , une de ces nuits tropicales faite de brisette fraîche , de parfums embaumés ; les étoiles brillent si scintillantes que , phénomène extraordinaire , presque inconnu en Europe , elles se répercutent dans le miroir liquide en longues traînées d ’ or avec l ’ intensité de rayons lunaires ; la mer se prête amoureusement à ces jeux de lumière magique , cai * elle est unie comme un marbre , cristalline comme la glace .77 Juillet .",
+        "words": [
+          "embaumés",
+          "parfums embaumés",
+          "brisette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/a2f4b407-1d91-5ed2-9bb9-daddcddc7db1",
+        "value": "Les trombes d ’ eau sont très fréquentes en ces parages à raison du voisinage des petites îles qui foisonnent et semblent concourir à leur formation ; elles sont dues probablement au tourbillonnement des nuages bas dans l ’ intervalle des ilôts ; ne se rencontrant pas , ils se précipitent vers la mer et y aspirent de l ’ eau avec une terrible puissance dans une sorte de succion giratoire .Après l ’ orage , un vent frais exhalé de la terre nous apporte des senteurs exquises , effluves de fleurs , de plantes aromatiques , de sol parfumé ; une blanche lueur envahit le ciel , la lune argentée monte et le restant de la nuit est souverainement adorable .— 14 juillet .",
+        "words": [
+          "parfumé",
+          "fleurs",
+          "plantes",
+          "senteurs",
+          "aromatiques",
+          "exquises",
+          "vent",
+          "sol",
+          "effluves",
+          "Après l ’ orage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/c1076346-e9cc-5229-934a-61340ec45c92",
+        "value": "Raugy est une médaille dorée , brillante , mal frappée cependant , si Berfaut est de la monnaie ternie , mais solidement marquée .Second gentleman , tenue coquette , casquette artistiquement posée sur le crâne , grand , air fat , émanations musquées , paradant vers le pont arrière , section des Dames passagères , mielleux avec le Commandant .Ses fonctions , il les partage avec le Maître et le Capitaine d ’ Armes ; peu importe qu ’ ils gouvernent pourvu qu ’ il règne ! L ’ équipage a bon temps avec lui et ses vêtements à la mode ne se défraîchissent pas souvent au contact du goudron et de la poussière des magasins ou des cales .",
+        "words": [
+          "air",
+          "émanations",
+          "pont arrière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/ec80d295-f074-5971-b6ea-96fd6314112b",
+        "value": "Tiplan , que je présente comme échantillon « utile » , est un garçon charmant , sympathique .De petite taille , replet , joues épanouies , cheveux bouclés fleurant les parfums à la mode , légers favoris blondissants , moustache naissante , il porte crânement la casquette à bande velours cramoisi ; sa tenue coquette ne pêche par aucun défaut .Au moral , gai , ouvert , expansif , il papillonne autour des dames , les soigne avec de gracieux compliments , les réconforte avec de pétillantes plaisanteries ; les maris ( race désagréable ) le surveillent du coin de l ' œil et ne se prêtent guère aux consultations derrière le rideau vert des cabines .",
+        "words": [
+          "parfums",
+          "fleurant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/f8690028-a1a9-5435-bdf0-c114dbef8576",
+        "value": "Sur le pont on garde encore les tentes , mais les tauds ont été relevés etcargués .Bientôt , dans les coursives et les faux ponts , l ’ air devient désagréable , presque nauséabond .La nuit est mauvaise et je ne puis dormir dans le vacarme des parois , colonnes de panneaux de cales , agrès qui remuent , portes de cabines qui grincent et battent , mais surtout de l ’ assaut continuel de la mer contre les flancs du navire ; ma pauvre tête n ’ est séparée de cet assaut que par quelques centimètres de tôle et j ’ ai beau me rouler les oreilles jusqu ’ au fond de mon oreiller : j ’ entends - 32 - toujours ce hurlement formidable du vent et de l ’ eau salée en bataille .",
+        "words": [
+          "désagréable",
+          "air",
+          "nauséabond",
+          "Bientôt",
+          "les coursives et les faux ponts"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/e432586a-94f1-54a9-86ba-1e45a3b92b88",
+        "label": "Jules  Hannezo"
+      }
+    ],
+    "label": "En mer, quelques souvenirs de jeunesse / J. Hannezo",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k314394g",
+    "date": "1913",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/221",
+      "label": "Acacia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/32b6ab38-a8c1-5e01-b054-ba6bf666a54f",
+      "label": "1913",
+      "begin": "1913",
+      "end": "1913"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361055/",
+      "label": "Ismailia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/1d766a05-fc0c-5450-99dc-905966a4c7c0",
+      "label": "lac Timsah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/e1732407-7549-57d1-9c0c-52efbe382a44/fragment/04e4f031-a70c-5a12-bff7-eb311d71b2fe",
+  "license": "Public domain",
+  "adjective": "très subtil"
+}

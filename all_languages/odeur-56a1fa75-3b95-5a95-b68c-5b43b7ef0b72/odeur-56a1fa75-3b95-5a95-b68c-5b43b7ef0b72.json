@@ -1,0 +1,103 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/56a1fa75-3b95-5a95-b68c-5b43b7ef0b72",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/09e67003-5b61-5731-9cff-80700e700a9d",
+        "value": "Cependant l ' heure de dîner vous presse , vous êtes harassé , votre enfant vous a cassé les bras , la course vous a cassé les jambes , vous craignez une courbature ou une fluxion de poitrine , et vous vous décidez enfin à prendre le premier fiacre ou cabriolet que vous rencontrez .C ' est assurément une très - bonne chose que les omnibus , mais à la condition de n ' être pas pressé de partir ni d ' arriver ; à la condition de ne pas se tromper de voiture et de trouver de la place quand on en a besoin ; à la condition de n ' être pas trop gros pour ne pas faire crier ses compagnons de voyage , et de n ' être pas trop grand pour pouvoir placer ses jambes ; à la condition de ne pas se rencontrer avec des gens chargés de paquets , avec des nourrices ou des bonnes escortées d ' enfants en bas âge , avec des rouliers qui ronflent sur vos épaules , avec des goujats qui sentent l ' ail , le vin , ou pis que cela , etc ., etc .",
+        "words": [
+          "épaules",
+          "sentent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/2876508b-91fe-5f9a-ade9-39e5764941eb",
+        "value": "Gannal .Mais , heureusement ! quand le voyageur arrive à La Villette , il reconnaît que ça ne sent plus le vieux cheval .C ' est une nouvelle odeur et une nouvelle impression de voyage .",
+        "words": [
+          "plus",
+          "sent",
+          "vieux cheval",
+          "La Villette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/3641d14d-f001-5ea9-875f-ff4047cfcb7c",
+        "value": "comme pour vous prouver qu 1 .Tandis que le bœuf blanc se livrait à ses pensées en marchant le long d ' un pré dont il respirait l ' odeur saine et champêtre , une lourde berline de voyage roulait en soulevant les flots d ' une poussière noirâtre et blanchâtre : ce n ' était rien moins que la noble famille de Villegueux .Les chevaux étaient en proie à une noire mélancolie : on eût dit qu ' ils ne traînaient qu ' à regret cette orgueilleuse aristocratie .",
+        "words": [
+          "odeur",
+          "saine",
+          "pré",
+          "champêtre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/3f03bfb0-2089-520a-a06f-d397bfe07da2",
+        "value": "La somme payée , les barbares évacuèrent .Pour célébrer une victoire si chère les Chinois se rasèrent à neuf , on fit dresser sur les places de la ville des tables triomphantes où KAN - TONOIS et KAN - TONOISES firent une consommation exorbitante d ' ail , de poireaux , de piments , d ' oignons , et enfin de tous ces mets exquis , piquants et parfumés que le deuil public avait interdits ; on avança l ' époque de la fête des Lanternes , qui devait se célébrer deux lunes après en l ' honneur du dieu FA - LÔ .Cette fête brillante fut couronnée par des feux tartaricopyriques .",
+        "words": [
+          "parfumés",
+          "mets",
+          "ville",
+          "places",
+          "deux lunes après"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/784a17a6-fa5c-5a31-98b6-9ae4ca9c5ce6",
+        "value": "Les Français sont figurés par une noble génération de marchands d ' allumettes chimiques allemandes .Les femmes du sérail exhalent une odeur asiatique de hareng et de picton à 8 .• Donc , — nous sommes en Algérie , à Constantine ou ailleurs .",
+        "words": [
+          "odeur",
+          "femmes",
+          "hareng",
+          "sérail",
+          "asiatique",
+          "picton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/949788a2-b0c1-5f90-bbdf-a43112ff52a1",
+        "value": "M .Mirobolo vend aussi la poudre dentifrice et vermifuge de Venise .Cette poudre donne à la bouche une odeur agréable , et guérit radicalement les cors aux pieds .",
+        "words": [
+          "Venise",
+          "poudre",
+          "vermifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/d36561ca-f2cf-50e8-a3e5-608e5d282001",
+        "value": "Mirobolo vend aussi la poudre dentifrice et vermifuge de Venise .Cette poudre donne à la bouche une odeur agréable , et guérit radicalement les cors aux pieds .L ' OURS APPRIVOISÉ .",
+        "words": [
+          "agréable",
+          "odeur",
+          "bouche",
+          "poudre",
+          "guérit radicalement les cors aux pieds"
+        ]
+      }
+    ],
+    "label": "Musée ou magasin comique de Philipon : contenant près de 800 dessins. Volume 1 / par MM. Cham, Daumier, Dollet, Eustache... [et al.] ; textes par MM. Bourget, P. Borel, Cham, L. Huart... [et al.]",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k62120759",
+    "date": "1842/1843",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e33497e1-9d76-5a16-9463-fa0ab3731a4b",
+      "label": "1842/1843",
+      "begin": "1842",
+      "end": "1843"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6fa30c53-7c51-58d1-9675-1b89a13fa34b/fragment/784a17a6-fa5c-5a31-98b6-9ae4ca9c5ce6",
+  "license": "Public domain",
+  "adjective": "asiatique"
+}

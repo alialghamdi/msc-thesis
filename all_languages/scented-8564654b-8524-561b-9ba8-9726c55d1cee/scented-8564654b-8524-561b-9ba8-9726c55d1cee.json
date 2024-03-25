@@ -1,0 +1,168 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8564654b-8524-561b-9ba8-9726c55d1cee",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "scented",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/0aba6ae1-a7c3-5901-825a-07c71abad07c",
+        "value": "Ha , ha , early birds , early birds ! cried he advancing buoyantly to Philip .betimes in the pleasant morning , And he stood to sniff the breeze .Lamond was much surprised by this idyllic mood and early rising .",
+        "words": [
+          "he",
+          "the breeze",
+          "sniff"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/23271322-3f03-5c3c-8321-e92a47077619",
+        "value": "Then the girl went away , as she was very apt to go , and milked old Rosa ' s cows .She felt that she was of some use when she saved a stiff old back from stooping , and she loved the sweet smell of kine and their large patient eyes .Old Rosa , to whom the beasts were a most valuable possession , overflowed overflowed with gratitude and prattled among the ringing milk - pails of Beppo and Angeluccio and merry days among the vineyards of her youth .",
+        "words": [
+          "sweet",
+          "smell",
+          "their",
+          "of kine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/25876833-3bdb-5b2b-a55e-ab5752aa0241",
+        "value": "He had only to be strong , as became a man .If he heard of her growing ever in grace and beauty , as day by day she looked with new knowledge and new wonder out over the beautiful world , until in the press of things , in the richness of interests , the memory of her child ' s romance was as of something read in an old book of others ' loves , as a sweet fragrance recalling in some idle moment the garden where the children played ; if in a word she Avere happy and he Avere sure of her happiness — then he would ask no more .If on the other hand — but he would not let his imagination cheat him Avith false pictures .",
+        "words": [
+          "sweet",
+          "fragrance",
+          "in some idle moment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/3c65234f-3cdc-5d21-9a74-89e32c539160",
+        "value": "Between Hugo Deane and Tom Jones there could be but little sympathy .So books about books were pleasant — and this new book was one of the best of its kind ; and the reader leaning gracefully back in his deep leathern chair was conscious that it was his privilege privilege to enjoy the more delicate aromas of life .He was satisfied with the chastened beauty of the view , with the long gentleman - like leg which was carefully disposed over its no less aristocratic fellow , with the neatness of his slipper .",
+        "words": [
+          "more delicate",
+          "aromas",
+          "of life",
+          "the reader"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/4f1c4e39-0ea8-5454-8a4f-f8646d091f77",
+        "value": "He sat still with his faint smile frequent on his lips , musing and remembering .He recalled the early days of his friendship for Philip Lamond , a thousand thousand memories which came back with phantom pictures of old school - buildings and fair elm - trees , the sparkling of summer waters , and with old sweet perfumes more real than pictures .He smiled again at his first amazement at Philip ' s impulse and craze for confession .",
+        "words": [
+          "sweet",
+          "perfumes",
+          "He"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/5192a0d2-1096-5bcf-a9a9-3e31e81b4daa",
+        "value": "She received her words with profound attention ; and when she heard that remark about human hearts in Paris , she found a world of meaning meaning in it , and said , is so with a marked emphasis on the Meanwhile Sir Eupert was hovering moth - like about his brilliant guest .have been quite he said ; quite desolate all the winter , I assure and he added a little cough and a little bow as he handed her a cup of fragrant tea .am come back to the home of replied the lady with her fascinating accent , her quick glance , and slight wriggle of the shoulders .",
+        "words": [
+          "tea",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/577c197c-8073-5470-b3c5-1a85f04a5537",
+        "value": "Then he turned away .The sunlight seemed glaring and barren ; the dust was crumbling under his feet ; the scent of lilac was sickening .As he lay in his gondola , Marco ' s flippant ditty beat in his brain .",
+        "words": [
+          "sickening",
+          "scent",
+          "of lilac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/72c6018c-5f75-5634-8283-86daf21804a6",
+        "value": "The tide of May roses had ebbed ; but carnations the wholesome bright Venetian flowers were there in plenty .Plentiful too was rosemary for sweet perfume , and a single magnolia gave its richer scent to the air .There were geranium and hydrangea ; and the tiny path was arched with jasmine and honeysuckle .",
+        "words": [
+          "sweet",
+          "perfume",
+          "rosemary",
+          "scent",
+          "richer",
+          "its",
+          "to the air",
+          "a single magnolia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/80d7aa2f-854f-55f0-88e7-e861bba109e0",
+        "value": "Down went the youth with an empty laugh ; and the lady raised the rose - wreath high in air before placing it on his curly head .The rocm seemed heavy with the scent of flowers and wine , full of swimming light .Suddenly the great curtains swayed out and in , there was a quick cool motion of the outer air , the door had been opened Avide , and in the doorway stood motionless the Captain Tiribomba .",
+        "words": [
+          "scent",
+          "of flowers and wine",
+          "The rocm"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/8b1ed00c-6621-5e0b-b39e-31eb7405f80e",
+        "value": "Don ' t talk of he said more quickly ; you are so young — you will learn to forget — you will see other men , better men than me — another will come — you will forget me — it ' s better There was real pain in her face now , and she drew her hands from his as she asked , Won ' t you come back ? Don ' t you wish to come back ? 114 AN ACCOMPLISHED GENTLEMAN .She was in a palace of glowing chastened gold , soft light , drowsy perfume of incense , and music sounding sounding low .Visions came thick upon her of the temple of Solomon and the palace of al Raschid .",
+        "words": [
+          "perfume",
+          "of incense",
+          "drowsy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/9fe2e3d3-3161-5de8-b412-0f308a1894f3",
+        "value": "She showed little feeling , Hugo thought .And yet the day before , when she rose from milking her favourite cow and met the evening light which came woo - ingly in to the sweet fragrance of the shed , she had turned back with a sudden passion and leaned her arms and face upon the beast ' s rough neck , until the tears came .So the girl was carried away , and winter came to the island ; the air was full of peace and melancholy charm ; the goodly kine grew fat in the stalls ; and silence brooded in the place Avhere 154 AN ACCOMPLISHED GENTLEMAN .",
+        "words": [
+          "sweet",
+          "fragrance",
+          "of the shed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/c5355d2f-14ab-5931-84d0-335c8d2c72eb",
+        "value": "Slowly the mists crept up and wrapped it for its burial .A chill slow air crept in from the sea , and at its touch perfume and music died .fears are less than horrible Philip Lamond started and looked round .",
+        "words": [
+          "perfume",
+          "music"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/f0603721-02d9-5a6c-8da7-c4a69c8bb9be",
+        "value": "It was the same story which had driven poor Mr Playdell from the eternal city .It had been told in strict confidence to so many people that , after embroiling two noble families Italian and English , being scented at the Vatican and exploding at the Quirinal , it had finally raised such a clamour , that the judicious Bonamy had withdrawn suddenly from the Piazza di Spagna .His joy at finding in exile a woman who was worthy of this delightful delightful scandal was unbounded .",
+        "words": [
+          "scented",
+          "two",
+          "at the Quirinal",
+          "at the Vatican"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d60e401a-4b1c-5923-a2bc-92780967af24",
+        "label": "Julian Russell STURGIS"
+      }
+    ],
+    "label": "An Accomplished Gentleman. [A novel.]",
+    "date": "1879",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e5c3d1f1-1348-5148-88b1-1c422c9482f4",
+      "label": "1879",
+      "begin": "1879",
+      "end": "1879"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8373481/",
+      "label": "Al Fātīkān"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/a9dbb9c3-f37f-5a96-bf7e-e7887fdf3a8f",
+      "label": "at the Quirinal"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/trust",
+      "label": "trust"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/f57ce190-9741-52b6-ac2f-c94e114feeb5/fragment/f0603721-02d9-5a6c-8da7-c4a69c8bb9be"
+}

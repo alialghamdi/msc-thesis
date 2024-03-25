@@ -1,0 +1,241 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8df1cda7-1560-5140-84e5-10c947afe1b2",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "fièvres",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/03d0a51f-ffca-540d-8ea1-a56eeb9c28bd",
+        "value": "Néanmoins , le miasme traverse leur organisme sans y laisser la moindre empreinte .Cela tient à leur système cutané qui laisse exhaler entièrement l ' effluve marécageux sous d ' abondantes et d ' incessantes sueurs d ' une part , et de l ' autre à leur système nerveux beaucoup moins impressionnable qui assiste impassible au passage du principe étranger à travers l ' économie .La race cuivrée ( Peaux Rouges ) est aussi réi ' ractaire à la fièvre jaune que le sont les nègres .",
+        "words": [
+          "exhaler",
+          "effluve",
+          "effluve marécageux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/09c18670-053b-5991-af70-2f855b24778f",
+        "value": "; — ' 7 — L ' hypothèse de Boudin implique la non identité des émanations fournies , en effet , par des végétaux différents , et par conséquent la non identité du principe générateur des fièvres limnhémiques d ' où , contraire ' ment à l ' auteur précité , l ' impossibilité de ne voir en elles que de simples variétés d ' une même espèce nosologique .Mais , de plus , une multitude de faits d ' eau croupissante , bourbeuse , de mares et d ' autres foyers paludéens ne contenant que des détritus végétaux , témoignent contre l ' idée de , faire provenir ce principe d ' une exhalation de plantes vivantes , et la font rejeter , bien qu ' elle ait été défendue naguère par MM .Lemaire , Gigot , Ramon , Van - den - Corput et Lazare Letona .",
+        "words": [
+          "eau",
+          "mares",
+          "exhalation",
+          "plantes vivantes",
+          "détritus végétaux",
+          "foyers paludéens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/1564a99e-0334-5e6b-b4f0-608ebf910450",
+        "value": "Il en est de même pour la peste et le choléra .Et par miasme du typhus , nous entendons parler simplement des émanations fournies par les grands rassemblements d ' hommes bien portants , lors même que les effluves de cette provenance n ' a ' iraient pas 1 intensité suffisante pour faire éclore spontanément le typhus nosojomial exanthémateux .Quoi , dès lors , de plus ' simple et de plus naturel que l ' apparition d ' une épidémie de fièvre jaune suivant de près l ' arrivée de troupes européennes dans un pays quelconque d ' Amérique doué d ' endémicité , comme ou l ' a tant de fois observé Cest sans doute à l ' adjonction de l ' élément typhogène né dd l ' agglomération excessive que la fièvre cosmopolite des marais qui , de sa nature , avons nous dit , est intransmissible , a pu dans quelques circonstances exceptionnelles se transmettre et régner par suite épidéiniquement en quelque sorte ; Notamment sous sa forme grave accusant une forte impaludation .",
+        "words": [
+          "émanations",
+          "typhus",
+          "effluves",
+          "exanthémateux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/2580b183-4cb4-5933-b34d-5eebc5fd9ebb",
+        "value": "Pour notre part , nous n ' avons que l ' embarras du choix dans les exemples que nous pourrions fournir à l ' appui .Citons , entr ' autres , le suivant : A Cayenne , le pharmacien attaché à notre service d ' hôpital , revenu de France depuis la veille et nous accompagnant pour la première fois dans notre visite , entre avec nous dans une chambrette où une femme de gendarme atteinte de fièvre jaune venait d ' expirer , est saisi par l ' odeur , sui generis , répandue dans l ' appartement , se trouve indisposé et , peu d ' heures après , est contraint de s ' aliter , envahi par la maladie .Remarquons que cette chambre était située dans un pavillon isolé et que nous ne comptions pas en ce moment dans nos salles d ' autres cas de la maladie régnante qui touchait à sa fin .",
+        "words": [
+          "Cayenne",
+          "sui generis",
+          "odeur",
+          "appartement",
+          "chambrette",
+          "pharmacien",
+          "peu d ' heures après",
+          "depuis la veille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/36686e29-2778-51de-adb9-a6425e857e47",
+        "value": "C ' est pour y arriver que nous espaçons les prises et laissons de l ' une à l ' autre un intervalle fd ' une demiheure au moins , d ' une heure au plus selon le plus ou moins de susceptibilité gastrique .De même 1 adjonction du gaz acide carbonique à la solution sulfatée , nous permet de faire concourir l ' action sédative de ce gaz à calmer l ' irritabilité de l ' estomac ; ' pendant que par la dilution modérée du sel de soude et le fractionnement de la dose nous parvenons à ménager la susceptibilité de l ' organe viscéral sans tomber dans une dilution trop étendue , laquelle aurait rendu l ' action purgative très difficile ou nulle .Ici , se place une remarque importante que l ' expérimentation nous a utilement suggérée : Les doses massives prises , coup sur coup , à des intervalles trèsrapprochés , distants à peine de quelques minutes , ne sont pas du tout nécessaires pour produire la purgation .",
+        "words": [
+          "gaz",
+          "sédative",
+          "solution sulfatée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/3a97d550-e6cc-5bbb-ab15-7a4ed6fbfbae",
+        "value": "Cette condition dernière se rencontre dans l ' impaludation spécifique , de préférence , quand l ' élément typhogène vient s ' y adjoindre pour augmenter la morbidité , à l ' état d ' épidémie , du typhus américain .Cependant les nègres absorbent des miasmes autant , sinon plus , que l ' homme blanc , puisqu ' ils - s ' adonnent à des travaux rudes , agricoles ou autres , nécessitant de larges et puissantes inspirations , et qu ' ils vivent plus à portée du rayonnement miasmatique .Néanmoins , le miasme traverse leur organisme sans y laisser la moindre empreinte .",
+        "words": [
+          "miasmes",
+          "miasmatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/3baef285-0243-523d-8c4f-7e821eab26eb",
+        "value": ".La , possibilité qu ' ont ees deux pyrexies d ' offrir chacune , d ' elles toutes les » variétés du type - paludique prouvé , uniquement qu ' elles naissent , tourtes , deux d ' émanations ; marécageuses » et rien ' de plusi Car , , si ces - miasmes sont de part et d ' autre paludéens , ils ne sont pas identiques .Tout au .",
+        "words": [
+          "émanations",
+          "miasmes",
+          "marécageuses",
+          "variétés",
+          "pyrexies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/3d1e1f27-2c29-5256-b121-e21135ba1cd5",
+        "value": "La congestion active des reins née d ' un mouvement fébrile intense trouve dans les antiphlogistiques généraux les meilleurs agents qu ' on puisse y opposer .Les iavements émollients et les boissons acidulés viennent compléter la série des moyens euratifs que réclame d ' ordinaire la fièvre jaune à sa première période .Les lavements , toutefois , ne peuvent convenir qu ' après que l ' action purgative s ' est entièrement effectuée — 54 — quand elle s ' opère par l ' administration du sulfate de soude à doses peu réfractées .",
+        "words": [
+          "boissons",
+          "iavements"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/4303ad30-423f-573f-ae62-cbd906c9bb73",
+        "value": "personnelle qui met hors de toute contestation la transmissibilité de la < r mahria » , même sous sa ' forme vulgaire et simple de fièvre intermittente .A bord du navire YOise , en 1850 , la fièvre intermittente éclata soudain ' chez deux hommes de l ' équipage n ' ayant jamais été soumis aux effluves marécageUx puisqu ils avaient été embarqués à l ' île de la Réunion ou ils venaient d ' arriver directement de France , en novembre 1849 ; mais ils se trouvaient à bord deT0 > se au milieu de trois cents individus atteints d ' infection paludéenne contractée dans les parages de Madagascar , plusieurs mois auparavant .Cette multitude de fébricitants dont plusieurs étaient cachectiques ont ' certainement pu constituer un foyer d ' iufecuon pour les deux matelots dont il s ' agit .",
+        "words": [
+          "effluves",
+          "île",
+          "en 1850",
+          "marécageUx",
+          "en novembre 1849",
+          "parages de Madagascar",
+          "plusieurs mois auparavant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/4f876244-cd60-5f37-bae2-cb60ce622738",
+        "value": "Ainsi , par exemple , dans l ' épidémie des îlots du Salut ( Guyane ) en 1855 , le typhus d ' Amérique s ' est présenté avec tous ) es types possibles , tout en gardant son homogénéité .D ' ailleurs , il n ' y a pas aux îles du Salut de foyer paludéen pour rendre compte de cette diversité phénoménale , et elles sont trop distantes de la côte ferme pour les supposer accessibles aux émanations du littoral marécageux le plus rapproché .La diversité des types tenait donc entièrement à la variabilité des constitutions et au degré d ' intoxication individuelle .",
+        "words": [
+          "émanations",
+          "îles du Salut"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/5d25a7bc-f283-58c6-bf2b-76f59dbec033",
+        "value": "Propriété éminemment avantageuse au point de vue de l ' action exercée sur les reins congestionnés et de l ' élimination miasmatique opérée par cette voie dont nous avons fait ressortir l ' importance .Ce relâchement joint à la diffluence du sang détermine Fe : £ sudation séreuse et d ' une façon bien plus fâcheuse encore l ' exhalation sanguine .Ces symptômes caractérisent la fièvre jaune à sa période adynamique et le dernier est un indice fort grave d ' adynamie septicémique ; aussi importe - t - il beaucoup d ' en prévenir la formation et le développement .",
+        "words": [
+          "fâcheuse",
+          "exhalation",
+          "séreuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/61ac88c2-6f0e-5c66-9481-3568ab099eae",
+        "value": "C ' est un moyen de dérivation bien faible si on le considère uniquement en ce sens et d ' une utilité mieux appréciable quoique secondaire , comme dérivatif de la fluxion encéphalique .La congestion active des reins née d ' un mouvement fébrile intense trouve dans les antiphlogistiques généraux les meilleurs agents qu ' on puisse y opposer .Les iavements émollients et les boissons acidulés viennent compléter la série des moyens euratifs que réclame d ' ordinaire la fièvre jaune à sa première période .",
+        "words": "antiphlogistiques"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/61c1921d-5f41-54aa-ba77-de5e1c921cb2",
+        "value": "De telle sorte que le choléra asiatique n ' est pas endémique en Amérique et le typhus américain n ' est pas endémique en Asie , parce que les plantes aquatiques marécageuses qui les produisent respectivement , végètent ici et non là ; tandis que celles qui enfantent la fièvre dite intermittente ou « Malaria » , poussant partout ; la font naître en tout lieu .; — ' 7 — L ' hypothèse de Boudin implique la non identité des émanations fournies , en effet , par des végétaux différents , et par conséquent la non identité du principe générateur des fièvres limnhémiques d ' où , contraire ' ment à l ' auteur précité , l ' impossibilité de ne voir en elles que de simples variétés d ' une même espèce nosologique .Mais , de plus , une multitude de faits d ' eau croupissante , bourbeuse , de mares et d ' autres foyers paludéens ne contenant que des détritus végétaux , témoignent contre l ' idée de , faire provenir ce principe d ' une exhalation de plantes vivantes , et la font rejeter , bien qu ' elle ait été défendue naguère par MM .",
+        "words": [
+          "émanations",
+          "végétaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/8de9adb0-44eb-57c1-bff4-0cbb4d0187a2",
+        "value": "Il est donc nécessaire d ' aérer .Non point seulement en ouvrant une fenêtre ou en la tenant sans cesse ouverte selon le degré de la température extérieure , en général très élevé durant le jour dans les pays chauds , mais encore et surtout en établissant de temps à autre , pour quelques instants , un courant d ' air frais qui renouvelle celui de l ' appartement et en chasse les émanations miasmatiques contenues dans cette atmosphère dont , elles troublent la pureté .Toutes ces émanations sont contagieuses ; elles doivent leur propriété de transmettre la fièvre jaune aux ferments corpusculaires jusqu ' ici inconnus dont sont imprégnées les vapeurs miasmatiques .",
+        "words": [
+          "air",
+          "atmosphère",
+          "émanations",
+          "miasmatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/8e33ddad-2348-5fb5-b8fa-f57a6d69e245",
+        "value": "En opérant de cette manière nous courons aussi moins le risque qu ' avec des fractions plus massives de le faire rejeter par l ' estomac ; tout en choisissant pour l ' administrer les moments opportuns , ceux de la rémission ou de l ' intermission , par exemple ; pourvu qu ' il n ' y ait pas trop d ' éloignement entre chaque prise .En accroissant et activant les efforts éliminateurs par lesquels l ' organisme se débarrasse des miasmes du paludisme et de l ' infection typhique , le sulfate de quinine devient en fait un antipaludéen ou plutôt un antimiasmatique ; puisqu ' il agit , à la fois , contre les miasmes typhogènes et ceux • de l ' impaludation spéciale à la fièvre jaune .Dans tous les cas , il n ' y opère point comme antidote d ' après le sens attaché à ce mot .",
+        "words": [
+          "miasmes",
+          "sulfate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/9f8cf711-54d3-5ed5-9449-d89a739e1581",
+        "value": "Quant à nous , troisième visiteur , nous avions déjà payé notre tribut , l ' année précédente , aux îles du Salut ( Guyane ) , de là , notre immunité acquise .L ' aération , la ventilation , les fumigations microbicides et les lotions anti - septiques , tous ces moyens combinés ne suffisent donc pas toujours pour détruire un foyer d ' infection incrusté en quelque sorte dans les flancs d ' un navire et autre lieu très circonscrit , à air confiné et sursaturé d ' émanations morbifères .Parce que si les microbes présumés de la fièvre jaune échappent en partie à l ' extermination dirigée contre eux dans l ' oeuvre d ' une désinfection insuffisante , ils peuvent repulluler et reconstituer le foyer en plus ou moins de temps .",
+        "words": [
+          "fumigations",
+          "émanations",
+          "morbifères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/b02373bf-5aca-583a-b8fc-9e346a4fc42b",
+        "value": "De même , l ' impaludation spécifique de la fièvre ictérode et , par conséquent , celles aussi du choléra et de la peste peuvent se produire et se produisent souvent sans donner lieu à leur manifestation morbide , parce que le sujet expulse à mesure sans effort marqué le miasme qu il a introduit par absorption dans son économie , et l ' équilibre n ' est pas rompu .Mais si ces individus sont groupés , leurs propres émanations s ' ajoutent à la masse infectante , il y a dès lors disproportion et rupture d ' équilibre entre l ' absorption et l ' élimination .L ' organisme est perturbé et la maladie apparaît avec son ' caractère particulier d ' impaJudation .",
+        "words": [
+          "émanations",
+          "leurs propres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/bc2f5abf-29e0-5d69-9733-03336512db85",
+        "value": "Nous la prenons dès e commencement de la pyrexie , dans l ' intérêt du patient , comme dans celui de l ' entourage .Attendu que les émanations dégagées par la peau , les poumons , intestins , reins , etc ., se répandant dans un appartement clos s ' y confinent et y composent une atmosphère viciée , délétère ; véritable foyer d ' infection pour les assistants et pour le patient lui - même forcé d ' inhaler de nouveau dans ses poumons cet air infect .",
+        "words": [
+          "peau",
+          "émanations",
+          "poumons",
+          "reins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/c4a94b31-f790-5784-8795-f6cd3c4215d1",
+        "value": "— , l6 .— que dans le delta du Nil , du Gange , du Mississipi , les formes morbides appelées peste , choléra , fièvre jaune , apparaissent constamment précédées , accompagnées et suivies des fièvres des marais .Leur rappro ^ chement , leur coïncidence .",
+        "words": [
+          "fièvres",
+          "delta du Nil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/c69bac9d-5ca3-5912-aca8-23df1d2517c7",
+        "value": "Ce qui arriverait , en dépit de leur action sédative sur l ' estomac , avec leur ingestion trop abondante ou trop peu distancée .Les boissons acidulés froides agissent comme tempérantes , raffraîchissantes , antiphlogistiques et surtout comme diurétiques .Propriété éminemment avantageuse au point de vue de l ' action exercée sur les reins congestionnés et de l ' élimination miasmatique opérée par cette voie dont nous avons fait ressortir l ' importance .",
+        "words": [
+          "diurétiques",
+          "boissons acidulés froides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/ddb35f93-264c-5c13-b2fb-e47159fb090c",
+        "value": "Notre mélication n ' était pas alors définitivement constituée et ne pouvait l ' être qu ' avec le temps .Quoiqu ' il en soit , l ' introduction dans l ' économie d ' un principe miasmatique qui infecte aussi puissamment et qui par suite altère a ce point toutes les fonctions selon leur degré d ' importance vitale et climatérique , doit amener une prompte viciation du sang et jeter au plus vite dans un état d ' adynamie complète : Ie en privant ainsi les organes de leur stimulant physiolof ; ique physiolof ; ique sang normal ; 2 ° parce que 1 innervation dont a restauration est en souffrance , bientôt s ' épuise dans les nombreux et grands efforts de résistance vitale , de réaction éliminatrtce auxquels l ' organisme se livre pour se désinfecter .De là , dans la marche de la pyrexie , dans sa phénoménisation morbide , deux phases distinctes et en quelque sorte opposées , bien qu ' elles se succèdent sans transition brusque et comme par enchevêtrement Ces deux phases réclament chacune un mode de traitement différent .",
+        "words": [
+          "miasmatique",
+          "principe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/ed3f8332-ba16-569f-b90f-fa4b389e8865",
+        "value": "Non point seulement en ouvrant une fenêtre ou en la tenant sans cesse ouverte selon le degré de la température extérieure , en général très élevé durant le jour dans les pays chauds , mais encore et surtout en établissant de temps à autre , pour quelques instants , un courant d ' air frais qui renouvelle celui de l ' appartement et en chasse les émanations miasmatiques contenues dans cette atmosphère dont , elles troublent la pureté .Toutes ces émanations sont contagieuses ; elles doivent leur propriété de transmettre la fièvre jaune aux ferments corpusculaires jusqu ' ici inconnus dont sont imprégnées les vapeurs miasmatiques .— 67 — Leur prétendue découverte toujours annoncée , jamais réalisée , le sera un jour , espérons - le .",
+        "words": [
+          "vapeurs",
+          "contagieuses",
+          "miasmatiques",
+          "ferments",
+          "transmettre la fièvre jaune"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/2fc8247c-6c40-565d-9fb3-47423f795557",
+        "label": "Antoine Albert  Chabassu"
+      }
+    ],
+    "label": "Traitement rationnel curatif et préventif de la fièvre jaune, par Chabassu,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5701857j",
+    "date": "1883",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6345e1a7-16cf-584c-b652-3c134011b20a",
+      "label": "1883",
+      "begin": "1883",
+      "end": "1883"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/351037/",
+      "label": "Nile Delta"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/fe2b4541-d9a2-5029-b055-9ae95efcd8af/fragment/c4a94b31-f790-5784-8795-f6cd3c4215d1",
+  "license": "Public domain"
+}

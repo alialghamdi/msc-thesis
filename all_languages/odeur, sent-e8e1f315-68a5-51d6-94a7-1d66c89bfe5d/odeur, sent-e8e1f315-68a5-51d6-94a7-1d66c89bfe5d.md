@@ -1,0 +1,4541 @@
+## odeur, sent
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/e8e1f315-68a5-51d6-94a7-1d66c89bfe5d |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | odeur |
+| label.1 | sent |
+| source.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/000919d3-c602-5060-98c5-ede4193f610f |
+| source.excerpts.0.value | — Saveur acerbe , celle des fruits verts qui deviennent sucrés à leur maturité ; quand cette saveur est très - prononcée , elle est dite astringente ou slyptique .La saveur de la poire sauvage est acerbe ; la saveur du fruit du Prunellier ( Prunus spinosa ) est slyptique .ACÉRÉ , acerosus . |
+| source.excerpts.0.words.0 | fruit |
+| source.excerpts.0.words.1 | poire |
+| source.excerpts.0.words.2 | saveur |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0034b9bb-1131-5b02-9626-0a05842d956c |
+| source.excerpts.1.value | Cette plante est originaire de l ' Asie Mineure ; on la cultive en grand dans l ' Europe méridionale .Ses stigmates fournissent une matière colorante d ' un rouge orangé très - précieuse pour la teinture , et usitée dans la peinture au lavis .Celte substance , dont l ' odeur est aromatique et suave , est du nombre des médicaments excitants du système nerveux dits OMtispasmodiques ; on en prépare des élixirs . |
+| source.excerpts.1.words.0 | matière |
+| source.excerpts.1.words.1 | Ses |
+| source.excerpts.1.words.2 | colorante |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/00597736-65a3-545e-b300-a7d8799785a7 |
+| source.excerpts.2.value | Cresson - alénois ) , dont la saveur rappelle celle du Cresson - de - fontaine ( Nasturtium officinale ) .L ' étymologie du mot Nasturtium est bien connue ( nasus tortus , parce que sa saveur piquante monte - au - nez ; en français du xvi 8 siècle , nasiiort ) .Un ancien commentateur , de . |
+| source.excerpts.2.words.0 | sa |
+| source.excerpts.2.words.1 | piquante |
+| source.excerpts.2.words.2 | saveur |
+| source.excerpts.2.words.3 | Nasturtium |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/005f2fba-0a51-59c6-b82e-627ee86c5fac |
+| source.excerpts.3.value | Espèces du genre Ribes , famille des Grossulariées .— Les feuilles et l ' écorce des Groseilliers renferment un suc résineux et aromatique .FIG . |
+| source.excerpts.3.words.0 | aromatique |
+| source.excerpts.3.words.1 | suc |
+| source.excerpts.3.words.2 | feuilles |
+| source.excerpts.3.words.3 | résineux |
+| source.excerpts.3.words.4 | écorce des Groseilliers |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/01bf8c8d-0744-5434-927e-9b6eb9836dba |
+| source.excerpts.4.value | ( Les piaules de la famille des Solanées sont douées de propriétés narcotiques qui résident dans divers alcaloïdes ( daturine , atropine , nicotianine , solanine ) auxquels sont unies , chez la plupart , plusieurs substances acres .En général , les principes narcotiques sont prédominants ; chc7 , quelques - unes , il exisle une huile aromatique volatile .Les fruits d ' un grand nombre sont vénéneux , quelquefois ils sont simplement Acres ; plus rarement ils sont comestibles , les principes acres et narcotiques y étant alors dominés par un suc mucilagineux acidulé . |
+| source.excerpts.4.words.0 | huile |
+| source.excerpts.4.words.1 | aromatique |
+| source.excerpts.4.words.2 | narcotiques |
+| source.excerpts.4.words.3 | aromatique volatile |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/01cf965a-552f-5c90-a062-5ddd850aaf84 |
+| source.excerpts.5.value | : toute une herborisation .— Le vulnéraire d ' Auvergne est un peu moins riche en espèces et moins aromatique .— - Ces infusions sont sudorifiques et stimulantes des fonctions digeslives . |
+| source.excerpts.5.words.0 | aromatique |
+| source.excerpts.5.words.1 | vulnéraire |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/01e20135-f58e-5f7c-88eb-78e25a41c2c6 |
+| source.excerpts.6.value | ■ — Sabine ( Juniperus Sabinti ) Rameaux et chaton de fleurs mâles .Les fruits du Genévrier , dont l ' infusion est aromatique et excilante , servent à préparer diverses boissons fermeutées , et particulièrement une eau - de - vie en 612 GENICULATUS .— GENTIANÉES . |
+| source.excerpts.6.words.0 | aromatique |
+| source.excerpts.6.words.1 | fruits du Genévrier |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/03599aa9-2c79-5a94-9262-f17fba63e12a |
+| source.excerpts.7.value | 163 ) et Thea , tous deux de l ' Asie orientale , notamment de la Chine et du Japon , sont connus dans le monde entier .A l ' un de ces genres appartient le Thé ( Thea viridis ) , dont les jeunes feuilles , sécbées , fournissent l ' infusion aromatique cl stimulante populaire en Chine , et dont l ' usage , naturalisé en Angleterre , s ' est répandu ( comme l ' usage du café ) chez tous les peuples civilisés .A l ' autre genre appartient le Camellia ( Caiiielliajaponica ) . |
+| source.excerpts.7.words.0 | Thé |
+| source.excerpts.7.words.1 | aromatique |
+| source.excerpts.7.words.2 | infusion |
+| source.excerpts.7.words.3 | stimulante |
+| source.excerpts.7.words.4 | jeunes feuilles |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/03bc3132-2b07-5b77-8315-b9a63afe6558 |
+| source.excerpts.8.value | ME .parfums , et qui avait à peu près la forme d ' un boulon de Rose .La disposition ou l ' arrangement relatif des diverses parties de la fleur à l ' état de boulon a reçu le nom de préfloraison . |
+| source.excerpts.8.words.0 | Rose |
+| source.excerpts.8.words.1 | parfums |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/03cc12bc-9e6e-554f-8bb0-8725c5cf13e8 |
+| source.excerpts.9.value | — ARIIXE .8Ï excitantes et aromatiques ) comme masticatoire , c ' est - à - dire substance provoquant une sensation de chaleur à la bouche et la sécrétion de la salive .Cette pratique ( qui donne aux dents une couleur rougeâtre et en détermine - la carie de bonne heure ) correspond à l ' emploi du tabac en Europe . |
+| source.excerpts.9.words.0 | bouche |
+| source.excerpts.9.words.1 | aromatiques |
+| source.excerpts.9.words.2 | excitantes |
+| source.excerpts.9.words.3 | substance |
+| source.excerpts.9.words.4 | masticatoire |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/040c2ae8-a95c-5d05-a7d1-42dc386a1eaa |
+| source.excerpts.10.value | ( C ' est ainsi , mais avec un résultat inverse , qu ' agit l ' inoculation dans la pratique de la vaccine ; c ' est ainsi qu ' agiraient [ s ' ils agis : aient ] les médicaments à dose homoeopathique , de la dixième , vingtième ou trenlième dilution .) L ' odeur miasmatique des marais est un mélange de substances exhalée : , \ \ l ' état moléculaire ( substances animales et végétales en décomposition ou en putréfaction dans l ' eau ) ( fig .1042 ) ; cette odeur peu agréable est mêlée au parfum des plantes aromatiques qui croissent abondamment autour des marais ( notamment les Labiées ( Mentha Pulegium , M . |
+| source.excerpts.10.words.0 | odeur |
+| source.excerpts.10.words.1 | miasmatique |
+| source.excerpts.10.words.2 | substances |
+| source.excerpts.10.words.3 | marais |
+| source.excerpts.10.words.4 | exhalée |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/04b64d53-304d-5f2c-9a33-ccdbd2509cd2 |
+| source.excerpts.11.value | Plante vivace , d ' une odeur suave , commune le long des chemins .Sa saveur est aromatique .MARSIIJACÉES ( PiLULAlUÉES , Erongniarl ) . |
+| source.excerpts.11.words.0 | aromatique |
+| source.excerpts.11.words.1 | saveur |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/04b8d821-565d-5d3c-ae0d-6546668a80e5 |
+| source.excerpts.12.value | — Les épis fructifères d ' une plante de la même famille , l ' Aniomc en grappe ( Antomum racemosum , fig .845 ) , ° sont composés de capsules sèches qui renferment des graines d ' une odeur résineuse pénétrante et d ' une saveur acre et piquante , analogue à celle du Cardamome et de la Graine - de - Paradis ( voy .ces mots ) . |
+| source.excerpts.12.words.0 | acre |
+| source.excerpts.12.words.1 | odeur |
+| source.excerpts.12.words.2 | piquante |
+| source.excerpts.12.words.3 | graines |
+| source.excerpts.12.words.4 | saveur |
+| source.excerpts.12.words.5 | capsules |
+| source.excerpts.12.words.6 | Cardamome |
+| source.excerpts.12.words.7 | résineuse pénétrante |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/04dcca8a-0017-52db-8450-3e44a74323a2 |
+| source.excerpts.13.value | vespertinum , C .nocturnum , dont les parfums de vanille ou de violette s ' exhalent , pour le premier le jour , pour le second le soir , pour le troisième la nuit .CÉTÉRAC ( Ceterach officinarum , classe des Fougères ) , vulg . |
+| source.excerpts.13.words.0 | violette |
+| source.excerpts.13.words.1 | parfums |
+| source.excerpts.13.words.2 | vanille |
+| source.excerpts.13.words.3 | exhalent |
+| source.excerpts.13.words.4 | la nuit |
+| source.excerpts.13.words.5 | le soir |
+| source.excerpts.13.words.6 | le jour |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0508026c-72f6-5e18-85e0-a83f9c7a8ed4 |
+| source.excerpts.14.value | foiirFIG .— Fruit du Réséda - odorant ( Reseda odorata ) .nissant à la teinture une couleur jaune ) . |
+| source.excerpts.14.words.0 | Réséda |
+| source.excerpts.14.words.1 | odorant |
+| source.excerpts.14.words.2 | odorata |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/055fece5-8331-554c-b676-a96d49f85bb1 |
+| source.excerpts.15.value | Crus , ils sont d ' pn, speur > ., fortemenr , astringente .; cuits , ils sont djune - saveur sucrée , et acidulé , ils sont surtout , employés à la préparation de confitures et de , pâtes sucrées ; onen , prépare " aussi un . |
+| source.excerpts.15.words.0 | astringente |
+| source.excerpts.15.words.1 | fortemenr |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/06144728-f824-5d17-9898-54ab09483e38 |
+| source.excerpts.16.value | Les rhizomes du Souchet - long ( Cyperus longus ) et du Souchet - rond ( C .rotundus ) - sont d ' une saveur amère et aromatique ; on les administrait ( en infusion ) comme stomachiques .Les rhizomes charnus du Souchet - comestible ( C . |
+| source.excerpts.16.words.0 | aromatique |
+| source.excerpts.16.words.1 | amère |
+| source.excerpts.16.words.2 | saveur |
+| source.excerpts.16.words.3 | stomachiques |
+| source.excerpts.16.words.4 | rotundus |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0638176e-d27f-5216-9d81-077bc6b22b04 |
+| source.excerpts.17.value | Médicinal signifie « de lu nature des médicaments , qui appartient aux médicaments » ; on dit : plantes médicinales .On peut dire indifféremment : propriétés médicales ou propriétés médicinales .Raisin - de - renard ( Paris quadrifolia , Asparaginées ) . |
+| source.excerpts.17.words.0 | médicinales |
+| source.excerpts.17.words.1 | propriétés |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0675bb7f-df01-51a6-b1de-d54723d14e2e |
+| source.excerpts.18.value | PANAIS ( Paslinaca sativa , famille des Onibellifères ) .Le Panais , spontané dans les prairies de toute l ' Europe , fournit , comme la Carotte , une racine pivotante que la culture a rendue charnue et alimentaire ; la consistance de celte racine cuite est pâteuse et sa saveur aromatique .PANDAiVÉES . |
+| source.excerpts.18.words.0 | aromatique |
+| source.excerpts.18.words.1 | racine |
+| source.excerpts.18.words.2 | Europe |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/06d00af2-e270-5809-82ab-8d3ff0040320 |
+| source.excerpts.19.value | Petite plante commune de la famille des Borraginées .Le suc est doué d ' une saveur amère el salée ; on lui a attribué des propriétés détersives .L ' Ileliotropium peruvianutn , qui est au Pérou une des plantes les plus communes , est cultivé en Europe dans tous les jardins , pour l ' odeur suave de ses fleurs , qui rappelle celle de la Vanille . |
+| source.excerpts.19.words.0 | suc |
+| source.excerpts.19.words.1 | amère |
+| source.excerpts.19.words.2 | saveur |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/06d675f6-73fa-547b-b724-88ebd5bae775 |
+| source.excerpts.20.value | Jambos , originaire des Indes orientales , a été transportée en Amérique et dans les diverses colonies .C ' est un grand arbuste toujours chargé de fleurs et de fruils ; ses fruits ( jam - rosades , jam - malous , pommes - roses ) sont de couleur abricot , delà grosseur d ' une nèfle ; leur parfum est celui de la rose , leur saveur est très - agréable .Ils mûrissent en Provence ( jardin botanique de Montpellier ) , On en prépare une excellente limonade . |
+| source.excerpts.20.words.0 | parfum |
+| source.excerpts.20.words.1 | fruits |
+| source.excerpts.20.words.2 | leur |
+| source.excerpts.20.words.3 | rose |
+| source.excerpts.20.words.4 | très - agréable |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/07574aa9-9cdd-5dd1-b0f0-1f6c34dedff4 |
+| source.excerpts.21.value | Le genre Alangium , qui donne son nom à celte famille , comprend quelques arbustes des Indes , épineux , à feuilles entières , sans stipules , à fleurs régulières disposées en fascicules .Les fruits sont comestibles ; la racine est aromatique .— Les caractères de la fleur et du fruit sont les suivants : Calice tubuleux , adhérent , 5 - 10 - denté ; pétales 5 - 10 , linéaires , charnus , à préfloraison convolutive , caducs ; étamines en même nombre que les pétales . |
+| source.excerpts.21.words.0 | aromatique |
+| source.excerpts.21.words.1 | fruits |
+| source.excerpts.21.words.2 | racine |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/076bb20e-2461-5804-a76b-782bf7f63e8b |
+| source.excerpts.22.value | l / i " EXPECTORANTS .— Stimulants de l ' exhalation bronchique et pulmonaire — Bègue végétal .Produits exotiques : Baume du Pérou , Baume de ' foin Benjoin , Ipécacuanha , Polygala - de - Virginie , Scillc . |
+| source.excerpts.22.words.0 | exhalation |
+| source.excerpts.22.words.1 | Stimulants |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/078162e1-aa3a-58b7-acb3-a9caffe0a9fb |
+| source.excerpts.23.value | Joli arbrisseau commun dans la région méditerranéenne , sans usage en France .Dans l ' Orient , on recueille la substance résineuse , unie à une huile volatile , qui s ' écoule par incision de sou écorec ; on s ' en sert pour raffermir les gencives et donner à l ' haleine une odeur agréable .LÉPALE , lepah . |
+| source.excerpts.23.words.0 | agréable |
+| source.excerpts.23.words.1 | odeur |
+| source.excerpts.23.words.2 | substance |
+| source.excerpts.23.words.3 | Orient |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/07c1526f-27c3-55e7-81b8-354fef76727f |
+| source.excerpts.24.value | de taches livides ; elle exhale une odeur désagréable , analogue à celle de l ' urine de chat .Sa racine , cpii est pivotante , contient au printemps un suc laiteux d ' une saveur d ' abord douce et aromatique , puis acre .Les propriétés actives de celle plante résident dans un alcaloïde ( cicutine , conicine ) ; elle renferme en outre une résine , une huile volatile , des sels et un acide particulier . |
+| source.excerpts.24.words.0 | aromatique |
+| source.excerpts.24.words.1 | douce |
+| source.excerpts.24.words.2 | racine |
+| source.excerpts.24.words.3 | saveur |
+| source.excerpts.24.words.4 | au printemps |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/07c73dc9-796c-5df0-ae07-28ea2d395f0b |
+| source.excerpts.25.value | MATÉ , Yerba - Malé .Dans l ' Inde , à Bourbon , sur la côte ouest d ' Afrique , on prépare sous ce nom , avec diverses plantes , cl notamment avec les feuilles de Yllex paraguayensis ( famille des Ilicinées ) , des infusions aromatiques analogues à celles du Thé et de YAngroecum fragrans ( Orchidée de Madagascar ) .MÉLÈZE ( Larix europoea , famille des Conifères - Abiétinées ) . |
+| source.excerpts.25.words.0 | Thé |
+| source.excerpts.25.words.1 | Inde |
+| source.excerpts.25.words.2 | plantes |
+| source.excerpts.25.words.3 | aromatiques |
+| source.excerpts.25.words.4 | feuilles |
+| source.excerpts.25.words.5 | Bourbon |
+| source.excerpts.25.words.6 | infusions aromatiques |
+| source.excerpts.25.words.7 | Orchidée |
+| source.excerpts.25.words.8 | fragrans |
+| source.excerpts.25.words.9 | YAngroecum |
+| source.excerpts.25.words.10 | Yllex paraguayensis |
+| source.excerpts.25.words.11 | la côte ouest d ' Afrique |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/089dc704-423c-520f-a507-6a5277f242ec |
+| source.excerpts.26.value | MASTIC .Substance résineuse aromatique qu ' on obtient par incision des tiges du Lenlisque , grand arbrisseau de la région méditerranéenne ( Pistacia Lentiscus , famille des Térôbinthacées ) .En Orient et en Grèce , on mâche celte résine pour avoir une , haleine suave ; d ' où le nom de mastic . |
+| source.excerpts.26.words.0 | aromatique |
+| source.excerpts.26.words.1 | région méditerranéenne |
+| source.excerpts.26.words.2 | Lenlisque |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0908bf29-7779-57dd-b0ba-22b813efde4b |
+| source.excerpts.27.value | Agnus - castus atteint en Provence les proportions d ' un grand arbre ; ses feuilles palmatisôquées , ses fleurs en longs épis violets , son parfum aromatique camphré , le rendent propre à la décoralion des parcs et des bosquets .On attribuait au suc des feuilles des propriétés sédatives .GAUDE ( Reseda Luteola , famille des Résédacées ) . |
+| source.excerpts.27.words.0 | propriétés sédatives |
+| source.excerpts.27.words.1 | suc des feuilles |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/09c0563f-6635-5797-b2a6-1dd1e3956d2b |
+| source.excerpts.28.value | 1197 minéral .La saveur sulfureuse ( du soufre ) dénote également chez Je produit végétal l ' absorption du soufre lui - même , ordinairement à l ' état de combinaison .Les saveurs aromatiques ou parfumées ( agréables ou désagréables ) se perçoivent par les organes de l ' odorat ( réseau du nerf olfactif qui s ' épanouit dans la membrane muqueuse piluitaire ) , bien plus qu ' elles ne se perçoivent par les parois buccales ; les parois pharyngiennes ( du pharynx ) participent à la fois à la perception des saveurs et des odeurs , et , à ce niveau , les sens du goût et de l ' odorat sont à peu près confondus en un seul . |
+| source.excerpts.28.words.0 | soufre |
+| source.excerpts.28.words.1 | sulfureuse |
+| source.excerpts.28.words.2 | saveur |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/09ffaf0e-e4f9-5771-8a4c-01e5464104d7 |
+| source.excerpts.29.value | L ' écorce d ' Angusture est produite par le Bonplandia tri foliota ( Galipea Cusparia ) , arbre de la famille des ïlutacées qui constitue des forêts sur les bords de l ' Orénoque .C ' est un médicament amer et fébrifuge dont les propriétés sont analogues à celles du Quinquina .L ' écorce de Fausse - Angusture est produite par le vénéneux Strychnos JSuxDomica , l ' arbre , à la noix - vomique , famille des Loganiacées ( Apocynéespârk ) , dont on extrait la brucine , alcaloïde administré ( avec prudence ) dans les cas de paralysie ( hémiplégie , paraplégie , etc . |
+| source.excerpts.29.words.0 | amer |
+| source.excerpts.29.words.1 | médicament |
+| source.excerpts.29.words.2 | fébrifuge |
+| source.excerpts.29.words.3 | Quinquina |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0a98d749-863c-5b62-b2d9-c8ff9c899863 |
+| source.excerpts.30.value | Ces plantes peuvent être employées pour éloigner les insectes des étoffes de laine .On peut en préparer des infusions excitantes et sudoriliques ; une espèce américaine de CHÉNOPODIÉES .' — CHERIMOLIA . |
+| source.excerpts.30.words.0 | excitantes |
+| source.excerpts.30.words.1 | sudoriliques |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0b0ec885-03fd-514b-9de2-e092ede71fdc |
+| source.excerpts.31.value | .Ces préparations agissent comme émollientes et lfeèrement astringentes .On croyait autrefois que , 1a , plante pilée appliquée M extérieur aidaità la consolidation des fractures ; d ' où l ' anciennom de Çon - , mm . |
+| source.excerpts.31.words.0 | émollientes |
+| source.excerpts.31.words.1 | astringentes |
+| source.excerpts.31.words.2 | préparations |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0b42d870-b639-5012-8b38-79c7dadf926e |
+| source.excerpts.32.value | des Papilionacées ) ( fig .L ' amande du fruit de l ' Arec , dont la saveur est irès - âpre , est .d ' un usage vulgaire chez les Hindous ( unie à des feuilles de Bétel et saupoudrée de chaux , et quelquefois mélangée au cachou de l ' Acacia Cateehu , au cardamome et autres substances ARENARIUS . |
+| source.excerpts.32.words.0 | saveur |
+| source.excerpts.32.words.1 | irès |
+| source.excerpts.32.words.2 | irès - âpre |
+| source.excerpts.32.words.3 | fruit de l ' Arec |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0b7c26ab-9d6c-5b45-b264-59aee6bc6220 |
+| source.excerpts.33.value | Galle creuse irrégulière ( déterminée par la présence d ' un puceron ) du Myrohalanus citrina ( famille des Combrélacées ) .Cette galle est douée de propriétés astringentes comme celle du Chêne .FÈVE - PICIIUR1M , Noix - de - Sassafras . |
+| source.excerpts.33.words.0 | Chêne |
+| source.excerpts.33.words.1 | astringentes |
+| source.excerpts.33.words.2 | galle |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0bbf95b2-a326-5794-b729-a0a3797e2eac |
+| source.excerpts.34.value | .Entre » les plantes pernicieuses aquatiques dont je veux parler , il y en a deux princi » pales : l ' une que les botanistes appellent Bippuris , genre de plante semblable » par son port extérieur à la Prêle de nos campagnes ; elle en diffère néanmoins » par son odeur , par la configuration de son fruit , et parce qu ' elle est toujours » couverte d ' eau ; l ' autre porte en latin le nom de Conferva , tiré de sa qualité » brûlante , el en français celui de Mousse d ' eau , à cause de sa verdure et de son » étendue , par lesquelles elle a quelque rapport à nos Mousses ordinaires .. |
+| source.excerpts.34.words.0 | odeur |
+| source.excerpts.34.words.1 | elle |
+| source.excerpts.34.words.2 | plantes |
+| source.excerpts.34.words.3 | pernicieuses |
+| source.excerpts.34.words.4 | plante |
+| source.excerpts.34.words.5 | botanistes |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0bcbdc81-9f9b-57be-bd49-9c3acd008997 |
+| source.excerpts.35.value | MOrVAKDE , Tête - de - nègre ( Monarda didyma , famille des Labiées ) .Cette jolie plante vivace , originaire de l ' Amérique septentrionale , est cultivée dans les jardins pour son odeur suave et ses capitules de fleurs écarlates .MONILIFORME , moniliformis . |
+| source.excerpts.35.words.0 | suave |
+| source.excerpts.35.words.1 | odeur |
+| source.excerpts.35.words.2 | son |
+| source.excerpts.35.words.3 | jolie plante |
+| source.excerpts.35.words.4 | fleurs écarlates |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0bddb136-b9ad-5847-8509-7d0fd86029f4 |
+| source.excerpts.36.value | La médecine fait un usage assez fréquent de cette plante , commune dans nos marais .Sa saveur est chaude , acre et aromatique ; le suc renferme une substance amère , une substance gommeuse , une huile volatile et une huile grasse , enfin de la cire et de la résine .A faible dose , les préparations du Phellandrium aquaticum agissent comme calmants sur le système nerveux ; on s ' en sert surtout avec avantage dans les maladies du poumon . |
+| source.excerpts.36.words.0 | aromatique |
+| source.excerpts.36.words.1 | acre |
+| source.excerpts.36.words.2 | substance |
+| source.excerpts.36.words.3 | saveur |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0c5504c5-e407-51cd-b8de-35f79780dc7a |
+| source.excerpts.37.value | Caprifolium sont , dit - on , diurétiques ; celles du L .Xylosteum passent pour purgatives ; leur saveur est à la fois sucrée et nauséeuse : on n ' en fait aucun usage .Le développement de ses feuilles dans l ' obscurité produit l ' étiolemeni ( feuilles blanches ; tendres , à suc aqueux moins amer ) : la Chicorée à cet état est connue sous le nom de Barbe - de - capucin . |
+| source.excerpts.37.words.0 | leur |
+| source.excerpts.37.words.1 | sucrée |
+| source.excerpts.37.words.2 | nauséeuse |
+| source.excerpts.37.words.3 | saveur |
+| source.excerpts.37.words.4 | purgatives |
+| source.excerpts.37.words.5 | Xylosteum |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0c8ee556-0d45-5b12-bdaf-7fd0851f7559 |
+| source.excerpts.38.value | des Papilionacées .— Cet arbre est originaire de l ' Amérique boréale ; la racine et le liber sonl une saveur qui se rapproche de celle de la racine de Réglisse ; les fleurs fournissent une couleur jaune ; les graines renferment une huile grasse ; mais ces diverses propriétés sont peu appréciées .On plante cet arbre dans les parcs et les promenades publiques , dont il fait l ' ornement au printemps par l ' élégance de son feuillage et la beauté de ses fleurs : leur odeur suave rappelle celle de la fleur d ' Oranger . |
+| source.excerpts.38.words.0 | fleurs |
+| source.excerpts.38.words.1 | racine |
+| source.excerpts.38.words.2 | saveur |
+| source.excerpts.38.words.3 | racine de |
+| source.excerpts.38.words.4 | liber |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0ca1417b-4e9a-5fe0-8ebe-1ef980556e8e |
+| source.excerpts.39.value | La teinture de benjoin est quelquefois substituée à la vanille dans la parfumerie .Le principe odorant du benjoin est l ' acide henzoïque .BKVOITE ( Geum urbamun , fam . |
+| source.excerpts.39.words.0 | odorant |
+| source.excerpts.39.words.1 | benjoin |
+| source.excerpts.39.words.2 | acide |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0ce257ff-c351-5b3c-8803-7d67f2a3038a |
+| source.excerpts.40.value | Famille de plantes gamopétales , à ovaire libre ; un des groupes végétaux les plus remarquables .Le genre Magnolia , le genre Liriodendron ( Tulipier ) , cl plusieurs genres voisins , comprennent des arbres qui réunissent lous les genres de beauté : port noble , feuillage élégant ; grandes et magnifiques fleurs blanches ou rosées du parfum le plus agréable , ensemble de qualités rares chez les grands arbres ( qui généralement compensent , surtout par le nombre , ce qui manque à leurs fleurs en éclat et en dimensions ) .Les fruits de plusieurs espèces sont aromatiques ; citons les capsules de forme étoilée de la Badiane ( Illicium anisatum ) , qui rappellent à la fois le parfum et la saveur du fenouil et du girolle . |
+| source.excerpts.40.words.0 | Magnolia |
+| source.excerpts.40.words.1 | agréable |
+| source.excerpts.40.words.2 | parfum |
+| source.excerpts.40.words.3 | fleurs |
+| source.excerpts.40.words.4 | fleurs blanches |
+| source.excerpts.40.words.5 | Tulipier |
+| source.excerpts.40.words.6 | Liriodendron |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0d539545-dbe5-5549-9a05-ad09e43d0ae9 |
+| source.excerpts.41.value | l » nr originaire de l ' Orient ; il fleurit , depuis des siècles , sur les murailles encore debout de nos vieux châteaux démantelés , et , d ' âge en âge , est la fleur préférée J es jardins les plus rustiques et des plus élégants parterres .L ' odeur suave de oIiillet - Mignardi .se ( B . |
+| source.excerpts.41.words.0 | suave |
+| source.excerpts.41.words.1 | odeur |
+| source.excerpts.41.words.2 | oIiillet |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0d9de306-1177-5257-bc2e-872182506525 |
+| source.excerpts.42.value | Le Paris quadrifolia n ' est pas rare dans les bois humides des environs de Paris .Cette plante à suc acre est douée de propriétés purgatives et émétiques ; la pulpe du fruit passe pour agir connue maturatif , appliquée sur les phlegmons .« J ' en cognois aucuns ( dit Matthiole , » trad . |
+| source.excerpts.42.words.0 | plante |
+| source.excerpts.42.words.1 | purgatives |
+| source.excerpts.42.words.2 | émétiques |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0dec18a7-0dfa-5398-8294-8ce3f0ff7a0f |
+| source.excerpts.43.value | Les 904 MIMOSÉES .feuilles de VAndroscemum officinale ( Hypericum Androsoenium ) sont anières et aromatiques , et ont été employées comme astringentes .MIMOSÉES . |
+| source.excerpts.43.words.0 | aromatiques |
+| source.excerpts.43.words.1 | astringentes |
+| source.excerpts.43.words.2 | feuilles |
+| source.excerpts.43.words.3 | anières |
+| source.excerpts.43.words.4 | VAndroscemum |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0e129fb9-98d1-507f-bb91-9f2b45c0e34d |
+| source.excerpts.44.value | 1135 ) a donné lieu par la culture à un nombre considérable de variétés , dont plusieurs fournissent des fruits dont la saveur sucrée et légèrement acidulée est FIG , 1135 .— Rameau florifère de l ' Oranger ( Citrus Aurantium ) .beaucoup plus agréable que lorsqu ' ils sont produits par la planle sauvage . |
+| source.excerpts.44.words.0 | florifère |
+| source.excerpts.44.words.1 | Oranger |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0e784ebc-891c-5140-8523-c78607673525 |
+| source.excerpts.45.value | des Rosacées ) .Le Framboisier , commun dans les forêls montueuses , est cultivé partout pour la saveur acidulé et parfumée de son fruit , qui est classé au nombre des aliments tempérants et rafraîchissants .On en prépare des sirops et des conserves sucrées . |
+| source.excerpts.45.words.0 | fruit |
+| source.excerpts.45.words.1 | parfumée |
+| source.excerpts.45.words.2 | saveur |
+| source.excerpts.45.words.3 | Framboisier |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0ee1c543-ac92-5154-87f9-3d890ea30cd0 |
+| source.excerpts.46.value | — Cranile - Ciguë ( Conium miiculatum ) , sommité lleiirii ( plante très - réduile ) .de taches livides ; elle exhale une odeur désagréable , analogue à celle de l ' urine de chat .Sa racine , cpii est pivotante , contient au printemps un suc laiteux d ' une saveur d ' abord douce et aromatique , puis acre . |
+| source.excerpts.46.words.0 | désagréable |
+| source.excerpts.46.words.1 | odeur |
+| source.excerpts.46.words.2 | elle |
+| source.excerpts.46.words.3 | urine de chat |
+| source.excerpts.46.words.4 | taches livides |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0f29d586-252c-5d40-b86a-612a23f511a7 |
+| source.excerpts.47.value | Les baies du L .Caprifolium sont , dit - on , diurétiques ; celles du L .Xylosteum passent pour purgatives ; leur saveur est à la fois sucrée et nauséeuse : on n ' en fait aucun usage . |
+| source.excerpts.47.words.0 | diurétiques |
+| source.excerpts.47.words.1 | Caprifolium |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0f729cc8-759c-5197-a8b0-b2b5be7f07ad |
+| source.excerpts.48.value | Olidus .Qui exhale une odeur infecte ( par ex .le Chenopodium oliduni ) . |
+| source.excerpts.48.words.0 | infecte |
+| source.excerpts.48.words.1 | odeur |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/0fd7c6b1-5384-5490-8b46-0be03f441917 |
+| source.excerpts.49.value | Les odeurs de musc et d ' ambre , les plus pénétrantes et les plus diffusibles des odeurs aromatiques , appartiennent cependant à des produits animaux ; certaines substances végétales présentent ces odeurs ou saveurs , mais à un degré relativement faible .— Les saveurs vireuses sont en même temps araêres el aromatiques ; elles sont plus spéciales au règne végétal .Les saveurs fétides ( résultant souvent de la présence de l ' hydrogène sulfuré ) sont plus rares dans le règne végétal que dans le règne animal ; elles caractérisent ordinairement des substances en décomposition et en fermentation . |
+| source.excerpts.49.words.0 | aromatiques |
+| source.excerpts.49.words.1 | vireuses |
+| source.excerpts.49.words.2 | saveurs |
+| source.excerpts.49.words.3 | araêres |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1121cdc0-7493-5946-82f5-4212cfe2073e |
+| source.excerpts.50.value | Les Oléacées ont été partagées en deux petites sous - familles : 1 ° ( fruit succulent bacciforme ou drupacé ) les OLKINËES , qui renferment les genres Olea ( Olivier ) , Ligustrum ( Troène ) , et plusieurs autres ; et 2e ( fruit sec , indéhiscent , ou bivalve , à loges monospermes ou polyspermes ) les FRAXINÉES , qui renferment les genres Sgringa ( Lilas ) et Fraxinus ( Frêne ) .— Les Oléinôes sont des arbres ou des arbrisseaux pourvus de mérites divers , Les Frênes ( Fraxinus ) nous fournissent un excellent bois ; le fruit drupacé de l ' Olivier nous prodigue son huile délicieuse ; et le Lilas ( Syringa ) parfume nos bosquets au printemps .Les Oléinées , rares sous les tropiques , appartiennent généralement aux ' régions tempérées de l ' ancien inonde . |
+| source.excerpts.50.words.0 | Syringa |
+| source.excerpts.50.words.1 | Lilas |
+| source.excerpts.50.words.2 | parfume |
+| source.excerpts.50.words.3 | au printemps |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/11491888-7e98-568b-9e3a-660f45612d76 |
+| source.excerpts.51.value | — Fragment de la substance de la Truffe à sa maturité , montrant les conceptacles ou thèques qui contiennent les spores ( vu à un fort grossissement ) .Nous n ' avons pas à insister ici sur le parfum stimulant bien connu et la fine saveur de la Truffe ; le seul défaut de cette précieuse production est sa rareté , mais il n ' est pas impossible qu ' on parvienne à la multiplier .La Truffe passe pour douée de vertus aphrodisiaques . |
+| source.excerpts.51.words.0 | parfum |
+| source.excerpts.51.words.1 | stimulant |
+| source.excerpts.51.words.2 | Truffe |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/11fb9059-a627-5cdc-a582-62b5289b2ba2 |
+| source.excerpts.52.value | L ' huile volatile est tantôt pure , tantôt mêlée à une matière résineuse .« Toutes les anomalies apparentes de la famille des Ombellifères ( dit De Can » dolle , Essai sur les propriétés médicales des plantes ) me semblent s ' expli » quer , en admettant que leur extractif est narcotique et leurs principes rési « neuxplus ou moins stimulants et aromatiques , ou , en d ' autres termes , que » leur sève à moitié élaborée est narcotique , tandis qu ' au contraire elle devient » aromatique ou stimulante lorsqu ' elle est transformée en un véritable suc » propre .» L ' huile volatile du fruit des Ombellifères est renfermée dans des canaux longitudinaux du péricarpe ( les vitta ou canaux résinifères ) . |
+| source.excerpts.52.words.0 | aromatique |
+| source.excerpts.52.words.1 | leur |
+| source.excerpts.52.words.2 | elle |
+| source.excerpts.52.words.3 | plantes |
+| source.excerpts.52.words.4 | aromatiques |
+| source.excerpts.52.words.5 | narcotique |
+| source.excerpts.52.words.6 | stimulante |
+| source.excerpts.52.words.7 | stimulants |
+| source.excerpts.52.words.8 | Ombellifères |
+| source.excerpts.52.words.9 | leur sève |
+| source.excerpts.52.words.10 | neuxplus |
+| source.excerpts.52.words.11 | moins stimulants |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/12142760-89a7-5ad0-bba7-99c4c4d4402a |
+| source.excerpts.53.value | Hircinus .Qui exhale une odeur de bouc ( ex .les fleurs du Loroglossum hircinum et les feuilles de YBypericum hircinum ) . |
+| source.excerpts.53.words.0 | odeur |
+| source.excerpts.53.words.1 | bouc |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/124f5105-3813-51b6-b922-86f9e5bc340b |
+| source.excerpts.54.value | A cette famille appartient Y Erodium moschatum .Cette plante , commune sur les côtes de la Méditerranée , exhale au soleil une forte odeur musquée ; elle jouit de propriétés stimulantes et diaphorétiques .— Notre E . |
+| source.excerpts.54.words.0 | forte |
+| source.excerpts.54.words.1 | odeur |
+| source.excerpts.54.words.2 | musquée |
+| source.excerpts.54.words.3 | plante |
+| source.excerpts.54.words.4 | les côtes de la Méditerranée |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/128ba333-b2e6-5e6c-a51b-024086a29779 |
+| source.excerpts.55.value | Le Fragaria collina ( Fraise - en - bouquet , Fraise - musquée ) , également indigène , moins commun que le F .vesca , se reconnaît à son calice apprimé sur le fruit , au fruit très - adhérent au pédicellc , d ' un rouge luisant et dépourvu d ' akènes à sa partie inférieure ; sa saveur est très - parfumée lors de sa parfaite maturité .Cette excellente espèce , étant peu productive , est assez rarement cultivée . |
+| source.excerpts.55.words.0 | parfumée |
+| source.excerpts.55.words.1 | sa |
+| source.excerpts.55.words.2 | très - parfumée |
+| source.excerpts.55.words.3 | vesca |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/12ef8f37-e62c-59d7-b175-8e2d1edc45a0 |
+| source.excerpts.56.value | Groupe voisin de la famille des Burséracées et des - Térébin - ; thacées , comprenant le seul genre Amyris .Les Amyris sont des arbres ou arbrisseaux résineux des ' régions tropicales de l ' Amérique ; leur suC gommorésineux répand une odeur balsamique .- ' ! ' Ana , Préposition grecque qui , comme préfixe , 1 marque là rédûplicatron , le retour , ou - le mouvement de bas en haut . |
+| source.excerpts.56.words.0 | odeur |
+| source.excerpts.56.words.1 | leur |
+| source.excerpts.56.words.2 | balsamique |
+| source.excerpts.56.words.3 | arbres |
+| source.excerpts.56.words.4 | Amyris |
+| source.excerpts.56.words.5 | arbrisseaux résineux |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/130a6531-0f7e-550c-bd63-ec091e8605e3 |
+| source.excerpts.57.value | • Elles sont abondantes * en larope et en Asie .Quelques - amesrccajtiennent des sels de soude et de potasseî ( fesilS ' a & o / a , Suoeda et Sahcormà ) ; plusieurs sont aromatiques ( Chenop ' ojdium - ambrostoides , Ch .Botfys , Campkorosmâmonspeliaca ) ; un petit nombre sont cultivées comme plantes » alimentaires ^ Spirtacw oleracea ( l ' Epinard ) , Atnpkx hortensis ( Arroche ) , Pefa vulgans vaLX . |
+| source.excerpts.57.words.0 | aromatiques |
+| source.excerpts.57.words.1 | sels |
+| source.excerpts.57.words.2 | soude |
+| source.excerpts.57.words.3 | Chenop |
+| source.excerpts.57.words.4 | ojdium |
+| source.excerpts.57.words.5 | potasseî |
+| source.excerpts.57.words.6 | ambrostoides |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1337da6e-37d5-5378-a4be-a4bb0be3169b |
+| source.excerpts.58.value | L ' eau de fleurs de Myrte se vend en France sous le nom d ' eau d ' anges ; on peut la préparer comme les eaux de Rose , de Sureau ou de toute autre fleur .» ( Peisse , Parfums , trad .Réveil . |
+| source.excerpts.58.words.0 | Parfums |
+| source.excerpts.58.words.1 | Peisse |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/143c5e03-eb20-58d0-8cf4-b14fa3ef969e |
+| source.excerpts.59.value | , etc .— Les anthères se prolongent quelquefois en des appendices bizarres : dans le genre Vaccinium , non - seulement les loges se prolongent en tubes ouverts à leur extrémité seulement , mais chaque loge est munie d ' un appendice dorsal en forme d ' ergot ou de corne ; dans le genre Viola ( la Violette odorante , par exemple ) , l ' anthère s ' amincit au sommet en un appendice membraneux terminal .Chez un grand nombre de plantes de la famille des Composées , chacune des deux loges FIG . |
+| source.excerpts.59.words.0 | Violette |
+| source.excerpts.59.words.1 | odorante |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/14625a02-0c10-57c5-bd38-2c05b6e1a261 |
+| source.excerpts.60.value | Piperitus .Poivré ; qui a la saveur du poivre .PIQUANT , pungens . |
+| source.excerpts.60.words.0 | poivre |
+| source.excerpts.60.words.1 | saveur |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1480de92-7db2-50d1-959b-361936d91ef4 |
+| source.excerpts.61.value | La muscade , outre son usage , culinaire , est employée dans la parfumerie ; on en prépare une essence .Le macis ( arille delà muscade ) est dune odeur plus pénétrante que la graine et d ' une saveur plus chaude et plus aromatique .» 924 MUSCINÉES . |
+| source.excerpts.61.words.0 | aromatique |
+| source.excerpts.61.words.1 | odeur |
+| source.excerpts.61.words.2 | macis |
+| source.excerpts.61.words.3 | arille delà muscade |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/159114f4-c4d0-55f5-8025-60d9c91820db |
+| source.excerpts.62.value | Jonquilla ; la Tubéreuse , Polianthes tuberosa ; le Lis blanc , Lilium candidum , etc .) ; IONOÏDES ( la Violette , Viola odorata ; les Giroflées , Cheiranthus et Matthiola ; le Réséda , Beseda odorata , etc .) . |
+| source.excerpts.62.words.0 | Violette |
+| source.excerpts.62.words.1 | Réséda |
+| source.excerpts.62.words.2 | odorata |
+| source.excerpts.62.words.3 | Viola |
+| source.excerpts.62.words.4 | Giroflées |
+| source.excerpts.62.words.5 | Cheiranthus |
+| source.excerpts.62.words.6 | IONOÏDES |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/16199925-a7ed-5b77-873f-34cf6808e331 |
+| source.excerpts.63.value | 339 Brésil .On en obtient , par incisions , une résine d ' une odeur suave connue sous le nom de copal - tendre .Le bois de Courbaril des ébénistes est produit par un autre arbre , YAstronium fraxinifolium , de la famille des Térébinthacées . |
+| source.excerpts.63.words.0 | résine |
+| source.excerpts.63.words.1 | suave |
+| source.excerpts.63.words.2 | odeur |
+| source.excerpts.63.words.3 | copal |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/169c5f5d-223b-5e49-8176-dd867fbd9ded |
+| source.excerpts.64.value | 533 ) , planle herbacée vivace à feuilles composées - pennées , cultivée dans les parterres pour la beauté de ses fleurs de couleur lilas , disposées en grappes terminales .L ' approche d ' une bougie allumée enflamme instantanément Pair chargé d ' émanations oléo - résineusesqui entoure la grappe de fleurs .DIPÉR1ANTHÉE ( FLEUR ) . |
+| source.excerpts.64.words.0 | émanations |
+| source.excerpts.64.words.1 | Pair |
+| source.excerpts.64.words.2 | grappe |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/16a1fa7d-f523-545c-93cb-80fff4906791 |
+| source.excerpts.65.value | La saveur sulfureuse ( du soufre ) dénote également chez Je produit végétal l ' absorption du soufre lui - même , ordinairement à l ' état de combinaison .Les saveurs aromatiques ou parfumées ( agréables ou désagréables ) se perçoivent par les organes de l ' odorat ( réseau du nerf olfactif qui s ' épanouit dans la membrane muqueuse piluitaire ) , bien plus qu ' elles ne se perçoivent par les parois buccales ; les parois pharyngiennes ( du pharynx ) participent à la fois à la perception des saveurs et des odeurs , et , à ce niveau , les sens du goût et de l ' odorat sont à peu près confondus en un seul .Les saveurs aromatiques sont par conséquent les mêmes que les odeurs aromatiques ( voy . |
+| source.excerpts.65.words.0 | odeurs |
+| source.excerpts.65.words.1 | olfactif |
+| source.excerpts.65.words.2 | odorat |
+| source.excerpts.65.words.3 | parfumées |
+| source.excerpts.65.words.4 | aromatiques |
+| source.excerpts.65.words.5 | désagréables |
+| source.excerpts.65.words.6 | agréables |
+| source.excerpts.65.words.7 | saveurs aromatiques |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/17a5e9ea-510a-548d-ae18-a06ff6a240c4 |
+| source.excerpts.66.value | Renonculacées .Acorus Calamus , CALAMUS - AROMATTCUS , Acore - vrai , Canne - aromatique .Aroïdées . |
+| source.excerpts.66.words.0 | aromatique |
+| source.excerpts.66.words.1 | Acore |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1802b8fa-8c17-5861-99e7-bb04dd4a5854 |
+| source.excerpts.67.value | — Les racines charnues des Asphodebts et des Anthericum contiennent de la fécule el du mucilage ; elles perdent par la dessiccation une partie de leur ùcrelé .On les employait jadis comme eiiiinénagogues el diurétiques ; plusieurs de ces racines étaient , en outre , regardées comme propres à guérir de la morsure des animaux venimeux .Un grand nombre de Liliacées font l ' ornement de nos parterres ; nous citerons les Lis , les Tulipes , les Jacinthes , les Scilles , les Ornilhogales , les fïilillaires . |
+| source.excerpts.67.words.0 | diurétiques |
+| source.excerpts.67.words.1 | ces racines |
+| source.excerpts.67.words.2 | eiiiinénagogues |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/18ae4b2c-0859-59d6-9a8f-4ef81a54eacf |
+| source.excerpts.68.value | Qui exhale une odeur de punaise ; ex .: les fleurs de YOrckis coriopkora ; la Coriandre ( Coriandrum sativum ) , toute la plante à l ' état frais exhale une forte odeur de punaise .— - Cimicifuga . |
+| source.excerpts.68.words.0 | forte |
+| source.excerpts.68.words.1 | odeur |
+| source.excerpts.68.words.2 | fleurs |
+| source.excerpts.68.words.3 | Coriandre |
+| source.excerpts.68.words.4 | plante |
+| source.excerpts.68.words.5 | punaise |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/18ddf26e-2fd1-513a-8489-5bf35d17d6f0 |
+| source.excerpts.69.value | Trois » branches de Menthe beiies en jus de gre » nades aigres appaisent les sanglots et l ' ar » deur de la colère .Galien dit : Hedinsmos » est appellée d ' aucuns Mente odorante ; car » il y a une autre Mente qui n ' est odorante , » laquelle on appelle Calamente .» Fis . |
+| source.excerpts.69.words.0 | odorante |
+| source.excerpts.69.words.1 | Calamente |
+| source.excerpts.69.words.2 | Mente odorante |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/18e24ebe-a75b-53d4-a085-6088705ec69f |
+| source.excerpts.70.value | Les fruits fle - l ' A .muricata ont à la fois le parfum de l ' orange et de la cannelle ; ils sont préférables aux précédente .Les fruits de YAnona tripetala ( au Pérou , cherimolia ) ont une chair sucrée , vineuse , d ' une odeur suave . |
+| source.excerpts.70.words.0 | orange |
+| source.excerpts.70.words.1 | parfum |
+| source.excerpts.70.words.2 | cannelle |
+| source.excerpts.70.words.3 | ils |
+| source.excerpts.70.words.4 | préférables |
+| source.excerpts.70.words.5 | muricata |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1a448f8a-0ff0-5067-be4d-ea09d22b1e8f |
+| source.excerpts.71.value | — Les caractères généraux de la famille des Diosmées sont les suivants : Arbres ou arbrisseaux , rarement , plantes herbacées .Feuilles coriaces simples ou composées , souvent ponctaées - glanduleuses , aromatiques ; stipules nulles ou réduites à des glandes situées à la base du pétiole .Fleurs ord . |
+| source.excerpts.71.words.0 | aromatiques |
+| source.excerpts.71.words.1 | glanduleuses |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1a56fc80-e9d0-52fc-abab-fe5cff3fe3e2 |
+| source.excerpts.72.value | Sommité florifère .intérieure blanche comme neige , pulpeuse , creuse au centre , légèrement amère et délicieusement aromatique ; — ■ puis ils la croquent , et , je vous jure , de grand appétit ! Les petits pâtres et les petites bergères , qui conduisent , vers le mois de juillet , les troupeaux de rennes à travers les pâturages montagneux , en ramenant leurs bêtes , matin et soir , à la cabane , pour les débarrasser de leur lait , ne manquent pas de rapporter leurs tabliers pleins de jeunes liges d ' Angélique .— Chacun tend la main , chacun a sa part , — et toute la famille dévore à qui mieux mieux , et à belles dents ! VAngelica silvestris , plante commune au bord des eaux et ; dans les lieux marécageux , a des propriétés analogues , mais inférieures à celles de VArchanijelica . |
+| source.excerpts.72.words.0 | aromatique |
+| source.excerpts.72.words.1 | matin et soir |
+| source.excerpts.72.words.2 | vers le mois de juillet |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1a72ecf8-263c-51ff-970a-7803571520ab |
+| source.excerpts.73.value | Botrys , spontané dans l ' Europe méridionale , et le C .ambrosioides ( Thé - du - Mexique ) , exhalent une forte odeur aromatique analogue à celle du camphre , et sont d ' une saveur chaude ' et amère .Ces plantes peuvent être employées pour éloigner les insectes des étoffes de laine . |
+| source.excerpts.73.words.0 | Thé |
+| source.excerpts.73.words.1 | Mexique |
+| source.excerpts.73.words.2 | aromatique |
+| source.excerpts.73.words.3 | forte |
+| source.excerpts.73.words.4 | odeur |
+| source.excerpts.73.words.5 | camphre |
+| source.excerpts.73.words.6 | du |
+| source.excerpts.73.words.7 | ambrosioides |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1af1d891-2b92-54ba-a12c-f6b7950ced80 |
+| source.excerpts.74.value | Les Pédalinées sont très - voisines , par leurs caractères généraux , des Gesnéracées et des Bignoniacées .Citons comme type des Pédalinées le genre Marhjnk , dont on cultive dans les jardins plusieurs jolies espèces à feuilles odorantes , à fleurs campanulées d ' un parfum aromatique enivrant , produisant de grasses capsules à long bec arqué , dont les deux valves , écartées à la maturité , ressemblent à deux cornes de bélier .PÉDALINERVÉ , pedatinervis . |
+| source.excerpts.74.words.0 | parfum |
+| source.excerpts.74.words.1 | odorantes |
+| source.excerpts.74.words.2 | feuilles |
+| source.excerpts.74.words.3 | espèces |
+| source.excerpts.74.words.4 | capsules |
+| source.excerpts.74.words.5 | fleurs campanulées |
+| source.excerpts.74.words.6 | aromatique enivrant |
+| source.excerpts.74.words.7 | Pédalinées |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1b3cf747-342a-57ce-95eb-d525d32f6d06 |
+| source.excerpts.75.value | BASILIC ( Ocimum Basiliçum , famille des Labiées ) .Les petites touffes vertes du Basilic , ce doux parfum qui nous vient des Indes , égayent les fenêtres de l ' atelier et de la mansarde .BAUME - DE - LA - MECQUE . |
+| source.excerpts.75.words.0 | Basilic |
+| source.excerpts.75.words.1 | doux |
+| source.excerpts.75.words.2 | parfum |
+| source.excerpts.75.words.3 | atelier |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1bec7e89-995a-5393-ad62-7de4f0029f4a |
+| source.excerpts.76.value | ) L ' odeur miasmatique des marais est un mélange de substances exhalée : , \ \ l ' état moléculaire ( substances animales et végétales en décomposition ou en putréfaction dans l ' eau ) ( fig .1042 ) ; cette odeur peu agréable est mêlée au parfum des plantes aromatiques qui croissent abondamment autour des marais ( notamment les Labiées ( Mentha Pulegium , M .rotundifolia , etc . |
+| source.excerpts.76.words.0 | parfum |
+| source.excerpts.76.words.1 | odeur |
+| source.excerpts.76.words.2 | plantes |
+| source.excerpts.76.words.3 | aromatiques |
+| source.excerpts.76.words.4 | peu agréable |
+| source.excerpts.76.words.5 | Labiées |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1c1ed7f6-bc8a-5937-b92d-815acb3a8a86 |
+| source.excerpts.77.value | Les sommités fleuries exhalent une odeur camphrée trèsagréable .On la cultive en grand pour en préparer une eau distillée en usage dans la parfumerie .Laxe ( adv . |
+| source.excerpts.77.words.0 | eau distillée |
+| source.excerpts.77.words.1 | parfumerie |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1c58487d-5864-5d8c-9c6c-adaa5f6912e7 |
+| source.excerpts.78.value | Qui a l ' odeur du musc .Le musc est le produit d ' une sécrétion très - odorante [ à odeur analogue à celle de l ' ambre - gris ) d ' un ruminant à poche préputiale , du genre Moschus ( chevrotain ) .Mutabitis . |
+| source.excerpts.78.words.0 | odorante |
+| source.excerpts.78.words.1 | odeur |
+| source.excerpts.78.words.2 | musc |
+| source.excerpts.78.words.3 | très - odorante |
+| source.excerpts.78.words.4 | ambre - |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1ccf1f5f-dbe7-5927-ae4c-0c8d5591ab8b |
+| source.excerpts.79.value | belge ) , M .Fée a proposépom les odeurs la classification suivante : ODEUR .961 l0 CORPS ODORANTS : A . |
+| source.excerpts.79.words.0 | odeurs |
+| source.excerpts.79.words.1 | ODEUR |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1d989018-8a04-5508-b95b-4a943176431f |
+| source.excerpts.80.value | ) .— Les débris microscopiques de végétaux eu putréfaction , accidentellement transportés par l ' air , peuvent agir , s ' ils sont respires , comme les simples odeurs , comme les miasmes ; mais c ' est ordinairement de ces débris que s ' exhalent les miasmes ; les débris euxmêmes , si petites que soient leurs dimensions , ne constituent pas des miasmes .MICOCOULIER ( Celtis australis , famille des Cellidées ) . |
+| source.excerpts.80.words.0 | odeurs |
+| source.excerpts.80.words.1 | miasmes |
+| source.excerpts.80.words.2 | débris |
+| source.excerpts.80.words.3 | exhalent |
+| source.excerpts.80.words.4 | débris microscopiques de végétaux eu |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1ddedf57-b610-5fd5-b8b3-eb9c67581b47 |
+| source.excerpts.81.value | — En dépit de ces précautions , on a remarqué que les truffières fouillées par l ' homme s ' appauvrissent et s ' éteignent beaucoup plus rapidement que celles qui sont fouillées par les animaux .Le plus sûr , pour ne pas compromettre l ' avenir de la truffière , n est peut - être pas d ' avoir un ours , mais de mettre à profit l ' odorat subtil d ' un bon chien , ou l ' instinct el le groin ( passez - moi le mol ) d ' un cochon .Les Truffes ne se décèlent par leur parfum à ces animaux que lorsqu ' elles sont mûres ; il en résulte qu ' ils ne dérangent pas inutilement les jeunes . |
+| source.excerpts.81.words.0 | subtil |
+| source.excerpts.81.words.1 | odorat |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1ed0acf3-92b8-55dd-9164-046cc9d0d2a9 |
+| source.excerpts.82.value | 1020 ) du Muscadier ( Myristica aromalica ) , arbre des Moluques .Le macis est une substance charnue - cartilagineuse de saveur fortement aromatique ; on en l ' ail usage dans la composition de certaines liqueurs de table .Macranthus . |
+| source.excerpts.82.words.0 | aromatique |
+| source.excerpts.82.words.1 | fortement aromatique |
+| source.excerpts.82.words.2 | macis |
+| source.excerpts.82.words.3 | substance |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1f175c95-eb48-56b2-b93f-0f87ad0ea140 |
+| source.excerpts.83.value | 765 ) , espèce commune dans la région méditerranéenne , sert à la préparation d ' un sirop pectoral fort usité , connu sous le nom de sirop de Capillaire .Le Scolopendrium officinale , les Asplenium Trichomanes , Alliantum - nigrum et Iiutamururia , sont doués de propriétés légèrement astringenles .— Un grand nombre de Fougères exotiques sont employées , dans les pays où elles sont spontanées , comme médicaments amers , toniques , astringents ou aromatiques . |
+| source.excerpts.83.words.0 | légèrement astringenles |
+| source.excerpts.83.words.1 | astringenles |
+| source.excerpts.83.words.2 | Iiutamururia |
+| source.excerpts.83.words.3 | Alliantum |
+| source.excerpts.83.words.4 | Asplenium |
+| source.excerpts.83.words.5 | Scolopendrium |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1f2a22d1-526b-5005-8613-54003bc6c05c |
+| source.excerpts.84.value | angolensis ) .à fruits globuleux , verts , maculés de blanc , à larges fleurs blanches dont le parfum rappelle celui de la framboise ; le Coccinia indica , à feuilles semblables à celles d ^ Lierre , - à fleurs planchés campanulées , à fruits ovoïdes d ' un rouge écarlate ; Je Trichosanthes colubrind , dont la fleur blanche à pétales longuement frangés répand une odeur suave , et dont le fruit , semblable à .une couleuvre , long de plus d ' un mètre , est d ' une Couleur verte , rayée de blanc , puis d ' un rongé vif ; le Bryonopsis erythrocarpa , remarquable par ses longues guirlandes de baies rouges rayées de , blanc , etc . |
+| source.excerpts.84.words.0 | suave |
+| source.excerpts.84.words.1 | parfum |
+| source.excerpts.84.words.2 | odeur |
+| source.excerpts.84.words.3 | fleur |
+| source.excerpts.84.words.4 | fruits |
+| source.excerpts.84.words.5 | fleurs |
+| source.excerpts.84.words.6 | framboise |
+| source.excerpts.84.words.7 | Trichosanthes |
+| source.excerpts.84.words.8 | Coccinia |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/1fff2f02-6fa1-5bd2-a3dd-d023a6c52925 |
+| source.excerpts.85.value | Flornm » décore et grata Iragrantia , mahsque quaj lerunt aureis mortalinus accepus » simoe .» ( La fleur de l ' Oranger unit le parfum à la beauté ; son fruit doré est un gracieux présent partout accepté .) — Toutes les plantes de cette famille offrent des propriétés presque identiques : les feuilles , les fleurs et l ' écorce du fruit sont criblées de glandes qui contiennent une huile volatile très - aromatique , stimulante , à laquelle s ' ajoute un principe amer tonique ; la pulpe succulente du fruit renferme les acides citrique et malique . |
+| source.excerpts.85.words.0 | parfum |
+| source.excerpts.85.words.1 | fleur |
+| source.excerpts.85.words.2 | Oranger |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/21612ef2-4b79-54cf-b2a7-566feee19080 |
+| source.excerpts.86.value | MOEnothera bienms , originaire de l ' Amérique du Nord , n ' est introduit en Europe , où il est actuellement naturalisé partout , que depuis deux siècles .L ' QEnothera suaveokm embellit nos jardins de ses larges fleurs odorantes de couleur jaune - de - sotifre .Plusieurs autres belles espèces à grandes fleurs , d ' un blanc , rosé , sont cultivées depuis un plus petit nombre d ' années , avec les Clarkia elegaus elpulchdla , le Lopezia ramosa , les Fuchsia et autres belles Onagrariées . |
+| source.excerpts.86.words.0 | odorantes |
+| source.excerpts.86.words.1 | larges fleurs |
+| source.excerpts.86.words.2 | QEnothera |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/21d5d8d7-e4bc-5688-b313-65af49d57f01 |
+| source.excerpts.87.value | — 2 ° Odeurs dues à des huiles volatiles : PÉGAKOÏDES ( odeur de la Hue , Buta graveolens ; les Diosma ; la Fraxinelle , llictamnus albus ; l ' OEillet d ' Inde , Tagetes patula , dont l ' odeur plaît aux uns et déplaît à d ' autres ) .— 3 ° Odeurs dues à la présence d ' une huile sulfurée : ALLIOÏDES ou ALLIACÉES ( odeur d ' Ail , bulbes des Allium , Asa - foetida , racine des Acacias ) .— W Odeurs dues à des principes divers et dont quelques - unes ont leurs analogues dans le règne animal : FÉTOROÏDES , odeurs fétides ( divers Sterculia , Batura , Nicotiana et autres Solanées ) ; MÉCONOÏDES ( odeur de ' ' opium et ; des Pavots ) ; CICUTOÏDES , odeurs vireuses ( la Ciguë vireuse , Conium maculatum ) ; IIIRCOÏDES , odeur de bouc ( Hypericum hircinum , Loroglossum htrctnum ) ; CIMINOÏDE , odeur de punaise ( la Coriandre , Coriandrum sativum , wCm - is monspeliensis ) ; PTÉRIDOSMOÏDE ( odeur de Fougères ) . |
+| source.excerpts.87.words.0 | Ail |
+| source.excerpts.87.words.1 | odeur |
+| source.excerpts.87.words.2 | Odeurs |
+| source.excerpts.87.words.3 | Asa |
+| source.excerpts.87.words.4 | huile sulfurée |
+| source.excerpts.87.words.5 | bulbes des Allium |
+| source.excerpts.87.words.6 | ALLIOÏDES |
+| source.excerpts.87.words.7 | ALLIACÉES |
+| source.excerpts.87.words.8 | racine des Acacias |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/22bffd7d-8f11-5e60-93dc-83c95bd91868 |
+| source.excerpts.88.value | Les Papilionacées présentent les dimensions ' es plus extrêmes , les aspects les plus divers : délicates plantes annuelles , riches louffes vivaces chargées de fleurs , plantes herbacées grimpantes , lianes enche - 1014 PAPILIONACÉES .vêtrées et luxuriantes , grands arbres décorant de leurs fleurs parfumées les forêts vierges des contrées tropicales , elles réunissent tous les genres de beauté Mais la beauté n ' est pas leur seul privilège .Comme plantes alimentaires ( graines farineuses nutritives ) , leur utilité approche de celle des Graminéescitons : le Haricot , le Petit - Pois , la Fève , la Lentille . |
+| source.excerpts.88.words.0 | fleurs |
+| source.excerpts.88.words.1 | elles |
+| source.excerpts.88.words.2 | contrées |
+| source.excerpts.88.words.3 | fleurs parfumées |
+| source.excerpts.88.words.4 | grands arbres |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/22ef8d5a-c6d9-5f78-b76d-139d5067cbc8 |
+| source.excerpts.89.value | Saveur aromatique ; saveur agréable et qui se perçoit autant par les organes de l ' odorat que par les organes du goût .— Aromatique ( aromaticus ) : L ' odeur et la saveur aromatiques sont agréables et pénétrantes ; les résines et les huiles volatiles renfermées dans les écorces , les feuilles , les fleurs , etc ., ont en général une odeur aromatique ; ex . |
+| source.excerpts.89.words.0 | Aromatique |
+| source.excerpts.89.words.1 | odeur |
+| source.excerpts.89.words.2 | résines |
+| source.excerpts.89.words.3 | aromatiques |
+| source.excerpts.89.words.4 | pénétrantes |
+| source.excerpts.89.words.5 | agréables |
+| source.excerpts.89.words.6 | huiles volatiles |
+| source.excerpts.89.words.7 | saveur aromatiques |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/230d894c-82d2-5f8a-aa13-a42ad67813fa |
+| source.excerpts.90.value | BAUME - DE - TOLU .Substance a » % ie à la précédente , et provenu d ' un arbre ( appartenant à un ? • voisin ) : kMyrospermum toluifem L ' odeur est analogue à celle » B « Join .Ce baume entre dans . |
+| source.excerpts.90.words.0 | odeur |
+| source.excerpts.90.words.1 | kMyrospermum |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/230fd509-1085-5ece-840a-f9dfe9ab3381 |
+| source.excerpts.91.value | Uva - crispa ( Groseillier épineux ) ( fig .885 ) sonl , aussi d ' une , saveur acidulo - sucrôe fort agréable ; on en a obtenu , parla culture , un grand nombre de variétés .— Les feuilles et les fruits du Ribes nigrum ( le Cassis ) sont doués d ' une odeur et d ' une saveur résineuses et aromatiques . |
+| source.excerpts.91.words.0 | saveur |
+| source.excerpts.91.words.1 | sucrôe fort agréable |
+| source.excerpts.92.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/23f01b62-5ce2-5f6d-93ed-118ed4805167 |
+| source.excerpts.92.value | 1245 ) .Le Sanguisorba officinalis et le Poterium Sanguisorba sont doués de propriétés astringentes .La médecine a cessé d ' en faire usage . |
+| source.excerpts.92.words.0 | astringentes |
+| source.excerpts.92.words.1 | Poterium |
+| source.excerpts.92.words.2 | Sanguisorba |
+| source.excerpts.93.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/248208e0-bc97-535a-925d-deee39c2432f |
+| source.excerpts.93.value | Benzoin ) .— Les baumes styrax et storax sont des excitants ; on les substitue quelquefois au baunie ( le - copaliu .Ils sont employés sous la forme de teintures alcooliques , mais moins fréquemment que le benjoin . |
+| source.excerpts.93.words.0 | excitants |
+| source.excerpts.93.words.1 | storax |
+| source.excerpts.93.words.2 | baumes styrax |
+| source.excerpts.94.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/24bd34ba-008d-5821-84ce-d6500170fc22 |
+| source.excerpts.94.value | — PETIT - HODX .1051 amère el aromatique ; elle agit comme tonique et stimulante : on l ' emploie quelquefois dans le traitement des affections des voies respiratoires .PETITIi - GENTAURÉE ( Erythroea Cenlaurium ) ( fig . |
+| source.excerpts.94.words.0 | aromatique |
+| source.excerpts.94.words.1 | elle |
+| source.excerpts.94.words.2 | amère |
+| source.excerpts.95.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/24bf5e1e-c6ea-51d7-8d65-eafc832b8116 |
+| source.excerpts.95.value | — Le Smilax aspera embellit de ses guirlandes épineuses , et de ses grappes de fruits rouges , les haies de la Provence .— La souche rampante du Muguet ( Convallaria maialis ) était jadis officinale ; son extrait agit comme purgatif drastique .— Chez le Paris imadrifnlia , tontes les parties de la plante sont douées de qualités narcoticoacres ; cette espèce a cessé depuis longtemps d ' être considérée comme officinale . |
+| source.excerpts.95.words.0 | Muguet |
+| source.excerpts.95.words.1 | purgatif |
+| source.excerpts.95.words.2 | souche |
+| source.excerpts.96.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/24ccbaac-997a-552e-a065-f121b18b02c6 |
+| source.excerpts.96.value | La médecine a cessé d ' en faire usage .Les feuilles de la Pimprenellesont d ' une saveur aromatique assez agréable , et font partie de l ' assaisonnement des salades .On plante cette espèce en bordure dans les jardins potagers . |
+| source.excerpts.96.words.0 | aromatique |
+| source.excerpts.96.words.1 | aromatique assez agréable |
+| source.excerpts.96.words.2 | saveur aromatique |
+| source.excerpts.96.words.3 | feuilles de la |
+| source.excerpts.97.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/24ee80bc-718a-5d82-aeca-88752dc2529f |
+| source.excerpts.97.value | La famille des Verbénacées se divise en trois tribus : LIPPIÉES ( ex .Lippia citriodora , Verbena officinalis ) , LANTANÉES ( ex .» esprits . |
+| source.excerpts.97.words.0 | Verbena |
+| source.excerpts.97.words.1 | citriodora |
+| source.excerpts.97.words.2 | Lippia |
+| source.excerpts.97.words.3 | LANTANÉES |
+| source.excerpts.98.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/25752ef8-2550-573f-b8af-20b5a15de4c8 |
+| source.excerpts.98.value | Mo , 1035 .— Sommité florifère de la Mélisse ( Melissa officinalis ) .FIG . |
+| source.excerpts.98.words.0 | Mélisse |
+| source.excerpts.98.words.1 | florifère |
+| source.excerpts.98.words.2 | Melissa |
+| source.excerpts.99.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/260449bb-504a-58a0-ac61-e8a9f5bec6f6 |
+| source.excerpts.99.value | — Chez le Paris imadrifnlia , tontes les parties de la plante sont douées de qualités narcoticoacres ; cette espèce a cessé depuis longtemps d ' être considérée comme officinale .— USmilax Sassapurilla ( la Salsepareille ) croît dans l ' Europe australe ; c ' est un des médicaments dépuratifs les plus usités .— Il suffit de mentionner l ' usage alimentaire des tnrions de l ' Asperge ; les qualités diurétiques de cet aliment sont l ' niislatées par l ' odeur particulière qu ' il communique au produit de la sécrétion urinaire . |
+| source.excerpts.99.words.0 | dépuratifs |
+| source.excerpts.99.words.1 | Europe |
+| source.excerpts.99.words.2 | Salsepareille |
+| source.excerpts.99.words.3 | USmilax |
+| source.excerpts.100.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/26ccda90-c318-582d-9f45-adde0bec1728 |
+| source.excerpts.100.value | Jolie plante , commune dans les haies .Sa racine , autrefois très - usitée , est rarement employée aujourd ' hui ; elle renferme un principe aromatique amer et astringent , uni à une gommerésine .On la classait au nombre des médicaments toniques et fortifiants . |
+| source.excerpts.100.words.0 | aromatique |
+| source.excerpts.100.words.1 | astringent |
+| source.excerpts.100.words.2 | amer |
+| source.excerpts.100.words.3 | Sa racine |
+| source.excerpts.100.words.4 | gommerésine |
+| source.excerpts.101.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2788147d-6471-5099-bb92-bf6f50d07676 |
+| source.excerpts.101.value | 595 .— Sommité florifère d ' un rameau de Pinus Laricio , le Pin dont la résine fournit l ' encens - de - Russie , suc gommo - résineux , à odeur suave , fourni par le Styrax Benzoin ( lig .596 ) . |
+| source.excerpts.101.words.0 | résine |
+| source.excerpts.101.words.1 | suave |
+| source.excerpts.101.words.2 | odeur |
+| source.excerpts.101.words.3 | encens |
+| source.excerpts.101.words.4 | florifère |
+| source.excerpts.101.words.5 | Pin |
+| source.excerpts.101.words.6 | Pinus Laricio |
+| source.excerpts.102.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/27d94d8f-357a-5144-bdb7-4a625a4934cc |
+| source.excerpts.102.value | 753 « Les plantes aquatiques ont , généralement parlant , des qualités plus sensibles i que la plupart des plantes terrestres .Les unes se font distinguer par une odeur » aromatique si forte , qu ' elle en devient désagréable , comme sont les Menthes » d ' eau ; les autres sont remarquables par une odeur fétide et marécageuse , » telles sont les Millefeuilles et les Prêles d ' eau ; presque toutes ont une âcreté » intérieure plus ou moins perceptible au goût , comme sont les Cressons , les » Poivres ( Polygonum Bydropiper ) et les Renoncules aquatiques ; etquelques » unes enfin , telles que les Conferves ou Mousses d ' eau , semblables par leur » effet à celui que l ' Ortie cause au toucher , échauffent subitement la main qui » les presse .. |
+| source.excerpts.102.words.0 | aromatique |
+| source.excerpts.102.words.1 | désagréable |
+| source.excerpts.102.words.2 | fétide |
+| source.excerpts.102.words.3 | forte |
+| source.excerpts.102.words.4 | odeur |
+| source.excerpts.102.words.5 | marécageuse |
+| source.excerpts.102.words.6 | Ortie |
+| source.excerpts.102.words.7 | Menthes |
+| source.excerpts.102.words.8 | Renoncules |
+| source.excerpts.102.words.9 | Mousses |
+| source.excerpts.102.words.10 | Poivres |
+| source.excerpts.102.words.11 | plus ou moins perceptible |
+| source.excerpts.102.words.12 | Prêles d |
+| source.excerpts.102.words.13 | Millefeuilles |
+| source.excerpts.103.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/28070e08-410b-5f6a-8835-ebba526ebfc6 |
+| source.excerpts.103.value | Sella Sella section , le Ch .àhïhelmihthicum , - est employée ' ' avec sùecès " Bommë vermifuge .Le " Ch . |
+| source.excerpts.103.words.0 | vermifuge |
+| source.excerpts.103.words.1 | Bommë |
+| source.excerpts.104.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2813b8f9-618d-5b62-906c-c3a9ccb44b5b |
+| source.excerpts.104.value | Les feuilles et les som - .mités ont été employées en cataplasmes stimulants dans quelques affections de l ' utérus ; de là le nom de Matricaire .MATURATION , maturatio . |
+| source.excerpts.104.words.0 | stimulants |
+| source.excerpts.104.words.1 | mités |
+| source.excerpts.105.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/284bd561-d753-5dab-8d6a-b0ae46908de8 |
+| source.excerpts.105.value | JOUBARBE ( Scmpervivu - m teclorum , famille des Crassulacées ) .Celle plante étail considérée comme diurétique , sédative , anliscorbutique et vulnéraire ; elle esl encore usitée dans la médecine vulgaire .On attribuait des propriétés analogues à plusieurs autres plantes de la même famille , et notamment au Semperrivum arboreum , aux Sedum album , réflexion , Cepoea , Telephium ( Herbe - à - la - coupure ) Anacampseros , stellatum , Phodio / a , etc . |
+| source.excerpts.105.words.0 | diurétique |
+| source.excerpts.105.words.1 | plante |
+| source.excerpts.105.words.2 | sédative |
+| source.excerpts.105.words.3 | vulnéraire |
+| source.excerpts.105.words.4 | anliscorbutique |
+| source.excerpts.106.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/284c3185-4832-591c-8bce-02feec3d49f4 |
+| source.excerpts.106.value | des Composées - Corymbifères ) .Les feuilles finement découpées de cette espèce d ' Armoise , cultivée dans quelques jardins , exhalent , quand on les froisse , une odeur aromatique suave ; ses propriétés sont analogues à celles de l ' Absinthe et de l ' Armoise commune .AUTOMNAL , autumnalis . |
+| source.excerpts.106.words.0 | Absinthe |
+| source.excerpts.106.words.1 | odeur |
+| source.excerpts.106.words.2 | feuilles |
+| source.excerpts.106.words.3 | aromatique suave |
+| source.excerpts.106.words.4 | cette espèce d ' Armoise |
+| source.excerpts.106.words.5 | Armoise commune |
+| source.excerpts.107.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/28c5914e-f8d2-563b-9094-9e6ea7baa648 |
+| source.excerpts.107.value | — Parmi les Champignons souterrains , nous devons mentionner la Truffe ( Tvher cibarium ) , dont la saveur parfumée est si justement appréciée .Pour découvrir dans les bois les lieux qui recèlent ce précieux Champignon , dont aucuu indice certain ne décèle à l ' extérieur la présence , on emploie les porcs , qui , guidés par leur odorat , les cherchent dans l ' espoir de les dévorer ; on dresse également des chiens à la recherche des Truffes .— On a remarqué que les Truffes se rencontrent surtout dans les bois de chênes des terrains calcaires , ou dans les , terrains siliceux , mais pénétrés d ' une certaine quantité de calcaire . |
+| source.excerpts.107.words.0 | odorat |
+| source.excerpts.107.words.1 | porcs |
+| source.excerpts.107.words.2 | précieux Champignon |
+| source.excerpts.107.words.3 | les dévorer |
+| source.excerpts.108.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/292dbe0a-c6c2-5e9c-b130-a14e5856044f |
+| source.excerpts.108.value | La Jusquiame se rencontre dans toute l ' Europe ; elle habite le bord des chemins , et s ' éloigne peu des lieux habités .La couleur grisâtre de ses feuilles visqueuses au toucher , et l ' odeur vireuse qu ' elles exhalent , semblent annoncer ses propriétés délétères ; néanmoins ses fleurs jaunâtres , veinées de noir et à gorge pourpre , et ses calices fructifères dentelés et rapprochés sur une tige roulée en crosse , ont une beaulé agreste en harmonie avec les lieux incultes où on la rencontre .On a tenté d ' utiliser les propriétés narcotiques de la Jusquiame en l ' employant dans le traitement de diverses affections du système nerveux ; on a reconnu que son usage a toujours été moins avantageux que celui de l ' opium , dont le mode d ' administration convenable est d ' ailleurs infiniment mieux connu . |
+| source.excerpts.108.words.0 | odeur |
+| source.excerpts.108.words.1 | fleurs |
+| source.excerpts.108.words.2 | elles |
+| source.excerpts.108.words.3 | vireuse |
+| source.excerpts.108.words.4 | délétères |
+| source.excerpts.108.words.5 | ses feuilles |
+| source.excerpts.108.words.6 | calices |
+| source.excerpts.108.words.7 | exhalent |
+| source.excerpts.109.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2991c6c6-9a2c-52ca-85b6-6c51fdc5ad28 |
+| source.excerpts.109.value | Géranium Robertianum ( famille des Géraniacées ) .Celle jolie plante , qui fait au printemps l ' ornement des vieilles murailles , el qui croît abondamment dans les haies , a été classée de tout temps au nombre des substances astringentes et légèrement stimulantes ; son odeur est forte , sa saveur âpre et salée .Cette plante appartient encore à la médecine populaire ; les médecins lui préfèrent depuis longtemps des substances plus actives . |
+| source.excerpts.109.words.0 | forte |
+| source.excerpts.109.words.1 | odeur |
+| source.excerpts.109.words.2 | son |
+| source.excerpts.109.words.3 | sa |
+| source.excerpts.109.words.4 | âpre |
+| source.excerpts.109.words.5 | plante |
+| source.excerpts.109.words.6 | au printemps |
+| source.excerpts.109.words.7 | tout temps |
+| source.excerpts.110.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/29920c45-5394-5c8c-a21e-5cdc586e14a3 |
+| source.excerpts.110.value | aussi , Garou .Son écorceest employée à rextérieur comme épispastique ; c ' est , àl ' iptérieur , un poison acre ., . |
+| source.excerpts.110.words.0 | acre |
+| source.excerpts.110.words.1 | poison |
+| source.excerpts.111.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/29e9bcfe-8730-5647-b71d-b3b501a30e4b |
+| source.excerpts.111.value | ODEUR ) .Les saveurs aromatiques offrent les nuances les plus multipliées dans le règne végétal .Les odeurs de musc et d ' ambre , les plus pénétrantes et les plus diffusibles des odeurs aromatiques , appartiennent cependant à des produits animaux ; certaines substances végétales présentent ces odeurs ou saveurs , mais à un degré relativement faible . |
+| source.excerpts.111.words | saveurs aromatiques |
+| source.excerpts.112.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2a01e92e-50ad-5469-9759-c6f9e29f9cbe |
+| source.excerpts.112.value | — PHYLLOPODITJM .1053 rent , qui serait voisine des Myrtacées si elle n ' en différait par la graine pourvue d ' un périsperme et par les feuilles non ponctuées et non aromatiques .Cette famille présente quelques rapports avec les Onagrariées , et n ' est pas sans affinités avec les Saxifragées . |
+| source.excerpts.112.words.0 | aromatiques |
+| source.excerpts.112.words.1 | feuilles |
+| source.excerpts.112.words.2 | graine |
+| source.excerpts.112.words.3 | Myrtacées |
+| source.excerpts.113.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2a094121-a68b-5699-9807-8b210683ebb3 |
+| source.excerpts.113.value | L ' Ananas ( fig .36 ) est originaire des Indes occidentales ; il est cultivé dans toutes les contrées intertropicales pour ses excellents fruits , dont la saveur sucrée , vineuse , acidulé et aromatique , rappelle à la fois celle de la Pêche , de la Pomme - de - fieinctte et de la Framboise .Les fruits provenant de nos serres sont beaucoup moins savoureux que ceux des colonies . |
+| source.excerpts.113.words.0 | aromatique |
+| source.excerpts.113.words.1 | fruits |
+| source.excerpts.113.words.2 | saveur |
+| source.excerpts.114.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2a668b51-b9ba-52d3-bcfc-ece5eb1d072c |
+| source.excerpts.114.value | Plusieurs Melaleuca ( fig .1032 ) etMetfosideros peuvent , comme les Eucalyptus ( arbres de la famille des Myrtacées ) , fournir des essences aromatiques , utiles comme médicaments stimulants , et intéressantes au point de vue de la parfumerie : l ' huile volatile de Caja - puti ( Arbre - blanc ) est d ' une odeur suave ; elle est fournie par le Melaleuca minor , arbre des îles Moluques .« La Myrtacée employée le plus fréquemment dans la parfumerie est le Myrte ( Myrtus communis ) ; la distillation de ses feuilles donne une essence très - odorante : 50 kilogrammes de feuilles produisent environ 155 grammes d ' huile volatile . |
+| source.excerpts.114.words.0 | Eucalyptus |
+| source.excerpts.114.words.1 | huile |
+| source.excerpts.114.words.2 | suave |
+| source.excerpts.114.words.3 | odeur |
+| source.excerpts.114.words.4 | aromatiques |
+| source.excerpts.114.words.5 | arbres |
+| source.excerpts.114.words.6 | essences |
+| source.excerpts.114.words.7 | parfumerie |
+| source.excerpts.114.words.8 | Melaleuca |
+| source.excerpts.114.words.9 | essences aromatiques |
+| source.excerpts.114.words.10 | etMetfosideros |
+| source.excerpts.115.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2ae5797f-82ac-56b0-9a2a-d7bbc2274260 |
+| source.excerpts.115.value | Ses longs styles et stigmates sont la seule partie employée de la plante ( de là le prix assez élevé du safran ) .L ' odeur en estsuave et pénétrante , la saveur chaude et amère .On en extrait une belle couleur orangée " ( pour l ' aquarelle ) ; on en l ' ait usage comme condiment dans l ' art culinaire ( surtout dans le midi de la France ) : à Marseille , le safran dore la bouillabaisse . |
+| source.excerpts.115.words.0 | pénétrante |
+| source.excerpts.115.words.1 | odeur |
+| source.excerpts.115.words.2 | saveur |
+| source.excerpts.115.words.3 | estsuave |
+| source.excerpts.116.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2b25c662-72c7-5a6a-975e-c76c0746ad46 |
+| source.excerpts.116.value | Les souches du Valeriana celtica ( fig .1096 ) ( le Nard - celiique ) , petite plante des hautes Alpes ( 1 ) , étaient autrefois l ' objet d ' un commerce important ; on chargeait , dit - on , des navires de ce produit , qui était très - recherché par les peuples de l ' Orient et regardé comme un des parfums les pins précieux .Nous avions peine à comprendre , en recueillant celte petite plante dans les Alpes , comment elle avait pu suffire si longtemps à une telle consommation . |
+| source.excerpts.116.words.0 | précieux |
+| source.excerpts.116.words.1 | parfums |
+| source.excerpts.116.words.2 | produit |
+| source.excerpts.117.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2b4a13c8-78f4-52fc-be0a-76fc1264d7b0 |
+| source.excerpts.117.value | CALiVMUS - AItOMA .TICUS , Acore vrai , Canne aromatique ( Acorus Cala ' « « « , fam .des Aroïdées ) . |
+| source.excerpts.117.words | aromatique |
+| source.excerpts.118.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2b65f43b-3444-5dec-ac48-62494384d133 |
+| source.excerpts.118.value | ) .ARÔME , aroma .Saveur aromatique ; saveur agréable et qui se perçoit autant par les organes de l ' odorat que par les organes du goût . |
+| source.excerpts.118.words.0 | aroma |
+| source.excerpts.118.words.1 | ARÔME |
+| source.excerpts.119.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2b885710-038e-5e9d-bb90-69661fba69ae |
+| source.excerpts.119.value | Belle Ombellifère spontanée dans les lieux arides de la Provence , et cultivée comme plante pharmaceutique cl comme plante décorative ( en raison de son feuillage finement découpé et très - élégant ) .Toute la plante ( froissée ) exhale une odeur d ' Anis très - agréable .Les fruits ( semences ) du Fenouil étaient , dans la médecine du moyen âge , une des quatre semences chaudes majeures ; ils sont employés comme ceux de l ' Anis ( Pimpinella Anisum ) et de la Badiane ( Illicium anisatum ) à la fabrication de l ' anisclle . |
+| source.excerpts.119.words.0 | Anis |
+| source.excerpts.119.words.1 | odeur |
+| source.excerpts.119.words.2 | très - agréable |
+| source.excerpts.119.words.3 | la plante |
+| source.excerpts.120.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2ba1b236-1c70-5677-ba2f-617bc9db23bb |
+| source.excerpts.120.value | — Une fleur énorme paraît naître directement de la racine d ' un arbre qui lui est étranger ; de grandes bractées d ' un bleu livide embrassent la fleur avant son épanouissement , et lui donnent l ' aspect d ' un gigantesque Choupommé .Celte fleur , lorsqu ' elle est épanouie , offre environ un mètre de diamètre ; elle est couleur de chair , et exhale une odeur cadavéreuse , les mouches s ' y trompent et viennent y déposer leurs oeufs : cette fleur est celle du Rafflesia Ârnoldi .Les Rafflesia sont parasites sur les racines des C issus , plantes sarmenteuses - grimpantes de la famille des Ampélidées . |
+| source.excerpts.120.words.0 | odeur |
+| source.excerpts.120.words.1 | elle |
+| source.excerpts.120.words.2 | cadavéreuse |
+| source.excerpts.120.words.3 | Celte fleur |
+| source.excerpts.120.words.4 | déposer leurs oeufs |
+| source.excerpts.120.words.5 | Ârnoldi |
+| source.excerpts.121.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2ba1f9dd-cbb4-56af-9a31-1af60d2139d4 |
+| source.excerpts.121.value | profondément modifiés .SKiYSlTIVE ( Mimosa pudica , famille des Légumineuses - Mimosées ) , plante délicate des Antilles , fréquemment cultivée dans les serres .La Sensitive présente une lige grêle spinescente ; son feuillage est fort élégant ( feuilles bipennées ( fig . |
+| source.excerpts.121.words.0 | Mimosa |
+| source.excerpts.121.words.1 | SKiYSlTIVE |
+| source.excerpts.122.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2bbf1fa1-37ce-514b-9c4e-76175f2ec3be |
+| source.excerpts.122.value | PARFUM .Odeur aromatique pénétrante : par exemple l ' odeur des feuilles du Basilic , du Myrte , de l ' Armoise - Gitronnelle ( Artemisia Abrotanum ) , de la PARIÉTAIRE .— PARIÉTALES . |
+| source.excerpts.122.words.0 | Myrte |
+| source.excerpts.122.words.1 | Basilic |
+| source.excerpts.122.words.2 | odeur |
+| source.excerpts.122.words.3 | Odeur |
+| source.excerpts.122.words.4 | aromatique pénétrante |
+| source.excerpts.122.words.5 | feuilles |
+| source.excerpts.122.words.6 | Armoise |
+| source.excerpts.123.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2d1d14d2-4865-55e9-8bae-b84bf866a822 |
+| source.excerpts.123.value | Graveolens .Qui exhale une odeur forte et désagréable : par exemple la Bue ( Iluta graveolens ) , les feuilles fraîches de la Coriandre ( Coriandrum sativuru ) , etc .Graviditas . |
+| source.excerpts.123.words.0 | désagréable |
+| source.excerpts.123.words.1 | forte |
+| source.excerpts.123.words.2 | odeur |
+| source.excerpts.123.words.3 | Coriandre |
+| source.excerpts.123.words.4 | feuilles |
+| source.excerpts.123.words.5 | Bue |
+| source.excerpts.124.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2d38d834-fcc6-5065-8331-4c0ce56954cc |
+| source.excerpts.124.value | Qui présente une pointe piquante .— On dit aussi saveur piipuvde pour saveur poivrée ; odeur piquante , ex .celle de la moutarde . |
+| source.excerpts.124.words.0 | odeur |
+| source.excerpts.124.words.1 | piquante |
+| source.excerpts.124.words.2 | poivrée |
+| source.excerpts.124.words.3 | saveur |
+| source.excerpts.124.words.4 | piipuvde |
+| source.excerpts.125.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2d99b671-90c6-5faf-bbce-e8122e297b9c |
+| source.excerpts.125.value | Ce fruit est surtout recueilli avant sa maturité pour le confire au sucre ou au vinaigre .Les feuilles sont amples et lobées ; les fleurs mâles en longues grappes pendantes , odorantes , longuement tubuleuses , à 5 lobes ; les fleurs femelles sont sub - dialjipétales ; l ' ovaire est à 5 styles .Le suc des feuilles est employé comme vermifuge . |
+| source.excerpts.125.words.0 | fleurs |
+| source.excerpts.125.words.1 | odorantes |
+| source.excerpts.125.words.2 | feuilles |
+| source.excerpts.125.words.3 | fleurs mâles |
+| source.excerpts.126.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2dba7c86-0071-5355-816a-9b4aaa97723f |
+| source.excerpts.126.value | ) étaient célèbres au moyen âge ; on leur attribuait des vertus merveilleuses ; les fruits de ces Rosiers sauvages , à akènes chargés de poils roides , passaient pour déloger les vers intestinaux .La Rose jaune est jolie , mais son parfum effacé rappelle l ' odeur cimicine des Coris ( punaises - des - bois ) .ROSIFLORES . |
+| source.excerpts.126.words.0 | bois |
+| source.excerpts.126.words.1 | parfum |
+| source.excerpts.126.words.2 | odeur |
+| source.excerpts.126.words.3 | son |
+| source.excerpts.126.words.4 | punaises |
+| source.excerpts.126.words.5 | Rose jaune |
+| source.excerpts.126.words.6 | effacé |
+| source.excerpts.126.words.7 | cimicine |
+| source.excerpts.126.words.8 | Coris |
+| source.excerpts.127.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2dd9be68-c19b-544a-a4d0-fe8cb14d0db3 |
+| source.excerpts.127.value | Le bois est dur et rougeàtre , il colore l ' eau en jaune d ' or .Cette infusion est astringente et aromatique ; elle a élé préconisée contre l ' irritation des reins et de la vessie .NIELLE , Nielle - bâtarde , Nielle - des - blés ( Lychnis [ Agrosl . |
+| source.excerpts.127.words.0 | aromatique |
+| source.excerpts.127.words.1 | astringente |
+| source.excerpts.128.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2de70bc0-8bae-5ea0-a6a4-f03b58b36efa |
+| source.excerpts.128.value | Plante annuelle cultivée dans quelques jardins potagers .Les sommités fleuries sont employées comme condiment , c ' est l ' assaisonnement de la fève ; son parfum est analogue à celui du Thym .SASSAFRAS ( Laurus Sassafras , famille des Laurinées ) ( fig . |
+| source.excerpts.128.words.0 | Thym |
+| source.excerpts.128.words.1 | parfum |
+| source.excerpts.128.words.2 | sommités fleuries |
+| source.excerpts.129.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2df0f444-dcd9-59ee-9e15-d7a3a693f569 |
+| source.excerpts.129.value | Agnllucha , etc ., dont le bois résineux répand , quand on le brûle , une odeur aromatique agréable , analogue à celle du benjoin .Ce bois est un de ceux qui sont vulgairement désignés sous le nom de bois - d ' aloès ( et n ' ont aucun rapport avec les espèces du genre Aloë , ni du genre Agave ) . |
+| source.excerpts.129.words.0 | odeur |
+| source.excerpts.129.words.1 | benjoin |
+| source.excerpts.129.words.2 | celle |
+| source.excerpts.129.words.3 | aromatique agréable |
+| source.excerpts.129.words.4 | bois résineux |
+| source.excerpts.130.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2e0913ee-6562-5de9-9639-5ed574e99423 |
+| source.excerpts.130.value | Cataire ( Nepeta Calaria , Labiées ) .Plante d ' une odeur forte et désagréable .On prétend que celte odeur attire les chats , et qu ' ils se roulent sur la plante avec fureur . |
+| source.excerpts.130.words.0 | désagréable |
+| source.excerpts.130.words.1 | forte |
+| source.excerpts.130.words.2 | odeur |
+| source.excerpts.131.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2e2fd71f-7d82-5ea2-a42b-f542d48cc3c6 |
+| source.excerpts.131.value | : les espèces du genre Erodiwn , qui présentent dix étamines , dont cinq complètes et cinq réduites au filet et dépourvues d ' anthère ) , et des avortements accidentels ( ex .: \ eViola odorata , Violette odorante , dont , la ( leur se développe quelquefois sans corolle ) .Les premiers sont du ressort de l ' organographie , les seconds du ressort de la tératologie . |
+| source.excerpts.131.words.0 | Violette |
+| source.excerpts.131.words.1 | odorante |
+| source.excerpts.131.words.2 | odorata |
+| source.excerpts.131.words.3 | eViola |
+| source.excerpts.132.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2e332837-bb98-5d5d-b0e1-20732f133dc1 |
+| source.excerpts.132.value | hirta , V .canina ) nous transporte aux clairières parfumées des bois ; l ' image de la Pensée nous FlG .1006 . |
+| source.excerpts.132.words.0 | bois |
+| source.excerpts.132.words.1 | parfumées |
+| source.excerpts.133.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2f26230a-15c4-569b-9f08-0511a0ddce29 |
+| source.excerpts.133.value | Les émanations d ' un corps odorant agissent agréablement ou désagréablement , selon leur nature et selon le goût ou la disposition de ceux qui les perçoivent , sur le sens de l ' odorat ( par l ' intermédiaire des nerfs olfactifs qm s ' épanouissent dans la membrane muqueuse nasale ) .— Linné admettait sept classes d ' odeurs : ambrosiennes , pénétrantes , aromatiques , alliacées , fétide , viveuses , nauséabondes .— Odeur balsamique , odeur camphrée , se l ' attachent au type odeur aromatique ; odeur hydrosulfureuse , au type fétide . |
+| source.excerpts.133.words.0 | fétide |
+| source.excerpts.133.words.1 | odeurs |
+| source.excerpts.133.words.2 | aromatiques |
+| source.excerpts.133.words.3 | pénétrantes |
+| source.excerpts.133.words.4 | nauséabondes |
+| source.excerpts.133.words.5 | Linné |
+| source.excerpts.133.words.6 | viveuses |
+| source.excerpts.133.words.7 | alliacées |
+| source.excerpts.133.words.8 | ambrosiennes |
+| source.excerpts.134.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2f3b19cf-18db-5685-ac88-b2d56777e1bc |
+| source.excerpts.134.value | — Des plantes à graines oléagnéuses : le Colza et la Navette ( espèces du genre Brdsska ) , la Cameline ( Camelina sauva ) .— Une foule de jolies plantes cuîfïyéiisVla plupart de temps immémorial , dans les parterres : laGifbQée - QuarantaineetCocardeau ( Matthiola annua ) , aux fleurs parfumées ; le Violier ou Giroflée - de - anurailles , Giroflée - jaune ( Cheiranthus Cheiri ) ; la Julienne ( Hesperis matronalis ) , odorante pendant , la nuit ; la .Lunaire ou Miroir - de - Vénus ( Lunaria rediviva ) ; le Jhlaspi ( Ibepisumbellata \ , la Corbeille - d ' or { Alyssumcalyçinum ) , et autres , - t 1 flus une multitude d ' herbes vulgaires qui fleurissent au printemps dans les $ / s . |
+| source.excerpts.134.words.0 | odorante |
+| source.excerpts.134.words.1 | fleurs |
+| source.excerpts.134.words.2 | Giroflée |
+| source.excerpts.134.words.3 | plantes |
+| source.excerpts.134.words.4 | parfumées |
+| source.excerpts.134.words.5 | Julienne |
+| source.excerpts.134.words.6 | Violier |
+| source.excerpts.134.words.7 | QuarantaineetCocardeau |
+| source.excerpts.134.words.8 | pendant , la nuit |
+| source.excerpts.134.words.9 | plupart de temps immémorial |
+| source.excerpts.135.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2f7dd1ad-7f09-5c2e-bfd4-8b86fc32e326 |
+| source.excerpts.135.value | Chélidoine , Herbe - aux - hirondelles , Herbe - aux - boucs ( Chelidonium ma / us , Papavéracées ) .Le suc jaune , d ' une odeur nauséeuse , est un peu caustique et brûle la surface delà peau .HERBE - AUX - VIPÈRES . |
+| source.excerpts.135.words.0 | odeur |
+| source.excerpts.135.words.1 | nauséeuse |
+| source.excerpts.135.words.2 | suc jaune |
+| source.excerpts.135.words.3 | brûle la surface |
+| source.excerpts.136.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/2ffafeed-1fee-59b4-9228-436c0a86330e |
+| source.excerpts.136.value | L ' Helosciadium nodiflorum el Y JEgopodium Podagraria sont inusités aujourd ' hui ; on les employait autrefois pour leurs propriétés aromatiques , stimulantes et résolutives .— La racine du Meum athamanticmn , piaule alpestre , est acre et aromatique : on s ' en sert dans la médecine vétérinaire .— VAllaimanta cretensis entrait dans la composition de la tbériaqiie . |
+| source.excerpts.136.words.0 | aromatique |
+| source.excerpts.136.words.1 | acre |
+| source.excerpts.136.words.2 | racine |
+| source.excerpts.136.words.3 | Meum athamanticmn |
+| source.excerpts.137.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/300692cb-22a4-5e90-9eab-15a5546b5ca6 |
+| source.excerpts.137.value | La plante est immense ; elle étale fièrement sur les ondes , dans de vasles étendues , ses feuilles gigantesques et bien armées .Les fleurs sont d ' une merveilleuse ampleur ; elles exhalent un parfum pénétrant .Blanches quand elles s ' ouvrent , elles deviennent ensuite d ' un rouge de sang . |
+| source.excerpts.137.words.0 | parfum |
+| source.excerpts.137.words.1 | fleurs |
+| source.excerpts.137.words.2 | elles |
+| source.excerpts.137.words.3 | pénétrant |
+| source.excerpts.138.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/30cf90b7-04ef-5f2d-8f85-46877b9b5007 |
+| source.excerpts.138.value | YÈBLE ou HIÈBLE ( Sambucus Ebulus , famille des Caprifoliacées ) ., Sureau à tiges herbacées , à fleurs odorantes , qui embellit le bord des chemins .Les plantes de la famille à laquelle appartient le genre Sambucus renferment des principes amers , acres et astringents , et sont douées de propriétés purgatives , émétiques et diurétiques . |
+| source.excerpts.138.words.0 | Sureau |
+| source.excerpts.138.words.1 | fleurs |
+| source.excerpts.138.words.2 | tiges |
+| source.excerpts.138.words.3 | fleurs odorantes |
+| source.excerpts.139.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/311380eb-1b8c-5990-b4c7-84c3afef9b30 |
+| source.excerpts.139.value | 1337 VULNÉRAIRE ( Anthyllis Vulneraria , famille des Papilionacées ) .Cette plante est douée de propriétés astringentes ; on la comptait autrefois au nombre des espèces vulnéraires .VULNÉRAIRES ( PLANTES ) . |
+| source.excerpts.139.words.0 | astringentes |
+| source.excerpts.139.words.1 | plante |
+| source.excerpts.140.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/31357ff9-3ba2-5a4f-a3dd-c988a5cd32d5 |
+| source.excerpts.140.value | 86 .— Sommité fleurie de PetitHoux ( liuscusaculealus ) .l \ am < ! m \ m forme de feuilles piquantes , portant chacun une fleur . |
+| source.excerpts.140.words.0 | fleurie |
+| source.excerpts.140.words.1 | PetitHoux |
+| source.excerpts.141.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/31535704-2ef3-552c-bb81-439a64661ea5 |
+| source.excerpts.141.value | La plante spontanée [ ( io ; 187 ) est une des plus communes de nos prairies .A cet état , la racine est petite , dure et fibreuse , d ' une saveur Acre et aromatique , et sans usage ; cultivée , cultivée , racine devient volumineuse et charnue , contient en abondance une matière féculente unie à un suc aqueux sucré , à mi principe aromatique et à une substance colorante de nature résineuse .Du reste , cette racine est indigeste pour les estomacs peu robustes . |
+| source.excerpts.141.words.0 | Acre |
+| source.excerpts.141.words.1 | aromatique |
+| source.excerpts.141.words.2 | racine |
+| source.excerpts.141.words.3 | saveur |
+| source.excerpts.142.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/31ef99a6-659a-590a-ada0-db0edcccdd09 |
+| source.excerpts.142.value | La plupart y prospèrent , et livrent chaque année à notre admiration leurs fleurs , qui exhalent souvent les parfums les plus délicieux , et dont les formes variées et bizarres sont presque toujours de la plus ravissante beauté .Les sauvages emploient quelques - unes de ces plantes comme vulnéraires , et les désignent sous le nom de lianes à blessures .VARIABLE , variabilis . |
+| source.excerpts.142.words.0 | sauvages |
+| source.excerpts.142.words.1 | ces plantes |
+| source.excerpts.142.words.2 | vulnéraires |
+| source.excerpts.143.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3224b010-ed14-5efd-9051-0718f4f732b5 |
+| source.excerpts.143.value | leNord : , l ' Amandier réussit surtout en Provence , où l ' on cultive la variété a coques tendres .On extrait de l ' amande une huile grasse d ' une saveur agréable ; c ' est un médicament adoucissant et laxatif qui entre , dans la composition de plusieurs préparations officinales .Les amandes amères contiennent des traces d acide cyanhydrique ; elles servent à aromatiser les looehs et les émulsions . |
+| source.excerpts.143.words.0 | agréable |
+| source.excerpts.143.words.1 | amande |
+| source.excerpts.143.words.2 | adoucissant |
+| source.excerpts.144.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3268ff34-57d7-59ad-a2b2-b724b90ff6fb |
+| source.excerpts.144.value | ( Les plantes de la famille des Caryophyllées ne sont douées d ' aucune propriété active , ni par conséquent malfaisante ; le suc de la plupart est aqueux ou plus ou moins mucilagineux , rarement doué de quelque amertume .La fleur , chez un petit nombre d ' espèces , exhale une odeur suave ; la plupart sont inodores .) SAPOTACÉES . |
+| source.excerpts.144.words.0 | suave |
+| source.excerpts.144.words.1 | odeur |
+| source.excerpts.144.words.2 | fleur |
+| source.excerpts.144.words.3 | inodores |
+| source.excerpts.144.words.4 | plupart |
+| source.excerpts.145.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3338833d-9528-5c11-ba15-f2e1348504aa |
+| source.excerpts.145.value | — VULNÉRAIRE - SUISSE .Mélange de plantes ou sommités de plantes aromatiques recueillies dans les Alpes , constitué par diverses espèces selon les localités et la fantaisie du montagnard qui les récolte .La plupart sont des espèces appartenant à la famille des Synanthérées ( Composées ) , et notamment les Génépis ( Artemisia 1338 VULNÉRAIRES ( PLANTES ) . |
+| source.excerpts.145.words.0 | Alpes |
+| source.excerpts.145.words.1 | plantes |
+| source.excerpts.145.words.2 | aromatiques |
+| source.excerpts.145.words.3 | sommités |
+| source.excerpts.146.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/33587cff-72c0-5ae7-b1f6-31bbb0847b18 |
+| source.excerpts.146.value | est employée comme la précédente .— La cannelle - blanche , autre aromatique , est produite par ' le Canella alba , arbre de la famille des Clusiacces , classe des Guttifères ( fig .176 ) . |
+| source.excerpts.146.words.0 | aromatique |
+| source.excerpts.146.words.1 | cannelle |
+| source.excerpts.147.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/336f2a31-6617-5dde-95d6-8fc612a9e507 |
+| source.excerpts.147.value | — L ' infusion de fleurs de Sureau constitue une boisson excitante et sudorifique en usage dans le traitement des maladies delà peau ; on emploie également cette infusion à l ' extérieur , comme , résolutive , en lotions et en fomentations .Le suc de l ' écorce cl de la racine a été employé comme purgatif .Les baies du Vilnirmm Lantana ont une saveur sucrée légèrement nauséeuse . |
+| source.excerpts.147.words.0 | racine |
+| source.excerpts.147.words.1 | purgatif |
+| source.excerpts.148.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/33d26ca7-61f3-5e3a-acbf-0c7fdfa4a84c |
+| source.excerpts.148.value | ( famille des [ ridées ) , Les souches bulbeuses ou tubéreuses des Iridées renferment de la fécule , du mucilage , et en très - faible proportion des substances acres et une huile aromatique ; elles sont douées de propriétés plus ou moins stimulantes .L ' Iris florentina ( Iris de Florence ) est spontané dans l ' Europe australe ; ses rhizomes ou souches fraîches , légèrement excitantes des membranes muqueuses , sont purgatives ; sèches , elles conservent indéfiniment une odeur de violette assez agréable .La souche de l ' Iris germanica et celles de plusieurs autres espèces offrent à peu près les mêmes propriétés . |
+| source.excerpts.148.words.0 | odeur |
+| source.excerpts.148.words.1 | violette |
+| source.excerpts.148.words.2 | elles |
+| source.excerpts.148.words.3 | assez agréable |
+| source.excerpts.148.words.4 | purgatives |
+| source.excerpts.148.words.5 | indéfiniment |
+| source.excerpts.148.words.6 | Iris florentina |
+| source.excerpts.148.words.7 | ses rhizomes |
+| source.excerpts.148.words.8 | souches fraîches |
+| source.excerpts.148.words.9 | Europe australe |
+| source.excerpts.149.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/33d4a996-5d10-5558-bb3a-6a4215930bba |
+| source.excerpts.149.value | Rameau fructifère ( proportions réduites ) ; chaton de fleurs mâles ; fleur mâle , fleur femelle ; coupe verticale et horizontale du fruit .froissement une odeur aromatique , dépourvues de stipules .Fleurs incomplètes , monoïques ou dioïques : les mâles disposées en chatons cylindriques , et ollïanl » anchois ) pour faire bon ventre . |
+| source.excerpts.149.words.0 | aromatique |
+| source.excerpts.149.words.1 | odeur |
+| source.excerpts.149.words.2 | froissement |
+| source.excerpts.150.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/33f6cc6c-a737-5471-8563-2e43f412ac44 |
+| source.excerpts.150.value | Cinnamomeus .Dont l ' odeur rappelle celle de la cannelle ( Cinndmomum ) .GIBXÉACÉ ' ES . |
+| source.excerpts.150.words.0 | odeur |
+| source.excerpts.150.words.1 | cannelle |
+| source.excerpts.151.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/34236e3b-05f9-5548-9425-85b6a5f91ba1 |
+| source.excerpts.151.value | 1251 nue aux anciens ; on la rencontre maintenant çà et là en Europe , dans le voisinage des lieux habités .Toutes les parties de la plante ont une odeur vireuse ei nauséeuse , et constituent un poison narcotique des plus dangereux .L ' extrait de Slramonium peut être employé à l ' extérieur comme calmant , de même que l ' extrait de Belladone ; à l ' intérieur , à la dose de quelques centigrammes , il a été employé dans le traitement des maladies convulsives ; mais ses bons effets sont , dans ce cas , des plus contestables . |
+| source.excerpts.151.words.0 | odeur |
+| source.excerpts.151.words.1 | vireuse |
+| source.excerpts.151.words.2 | nauséeuse |
+| source.excerpts.151.words.3 | narcotique |
+| source.excerpts.151.words.4 | parties de la plante |
+| source.excerpts.151.words.5 | plus dangereux |
+| source.excerpts.152.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/344fe178-bf10-52e0-ac44-54f94907c69e |
+| source.excerpts.152.value | — Les Daphne sont di arbusles de nos bois ; leurs fleurs sont ord .odorantes ; ils contiennent un suc acre et caustique .Tels sont : D . |
+| source.excerpts.152.words.0 | suc |
+| source.excerpts.152.words.1 | odorantes |
+| source.excerpts.153.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/34d9da51-8195-5af6-a1d0-411f9ab0a09d |
+| source.excerpts.153.value | 1593 ) , les Centrant / vus , les Fedia , sont cultivés comme plantes d ' ornement ( le Centrantlias ruber décore les ruines de ses touffes luxuriantes chargées de panicules de délicates Heurs roses ) .VANILLÉ ( Vanilla aromatica , Epnpcndrum Vanilla ) .Relie Orchidée ( fig . |
+| source.excerpts.153.words.0 | aromatica |
+| source.excerpts.153.words.1 | VANILLÉ |
+| source.excerpts.154.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/34f66df7-b5df-5aad-aaad-57b80434e951 |
+| source.excerpts.154.value | ■ — Quant aux plantes décoratives fournies par la famille des Papilionacées , cultivées dans nos parcs , nos jardins ou nos serres , leur nombre est en quelque sorte illimité .Citons , parmi les plantes exotiques arborescentes , rustiques dans nos climats : le Faux - Ébénier , l ' Arbre - de - Judée , l ' Acacia ; parmi les arbustes indigènes ou exotiques : les Baguenaudiers , le Genêt - d ' Espagne , la Glycine , divers Genista et Coronilla ; parmi les espèces herbacées : le Pois - de - senteur , le Pois - vivace , YApios tuberosa , le Sainfoin d ' Espagne , plusieurs Lupins , etc .; et , parmi les espèces cultivées en plein air dans le Midi , mais qui , dans le Nord , demandent l ' orangerie en hiver : les Kennedya , Cassia , Poinaana , Erythrina , Clitoria , etc . |
+| source.excerpts.154.words.0 | Pois |
+| source.excerpts.154.words.1 | Acacia |
+| source.excerpts.154.words.2 | Arbre |
+| source.excerpts.154.words.3 | plantes |
+| source.excerpts.154.words.4 | senteur |
+| source.excerpts.154.words.5 | Genêt |
+| source.excerpts.154.words.6 | Glycine |
+| source.excerpts.154.words.7 | Sainfoin |
+| source.excerpts.154.words.8 | Lupins |
+| source.excerpts.154.words.9 | YApios |
+| source.excerpts.155.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/358cc91f-8d2c-5c61-8870-620d8c432ab0 |
+| source.excerpts.155.value | ALLIACÉ , alliaceus .Qui a de l ' analogie avec l ' Ail pour l ' odeur ou la saveur .Les feuilles du Sisymbrium Alliaria , froissées entre les doigts , ( allaient une odeur alliacée . |
+| source.excerpts.155.words.0 | Ail |
+| source.excerpts.155.words.1 | odeur |
+| source.excerpts.155.words.2 | saveur |
+| source.excerpts.156.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/361bd9b1-49f8-52c8-b87e-5c874064edb5 |
+| source.excerpts.156.value | — Sommité florifère et fructifère du Thé ( T / teu sinensis ) .cultivé en Chine et au Japon dès la plus haute , antiquité , pour l ' infusion aromatique et stimulante qu ' on obtient de ses jeunes feuilles séchées avec soin pour THÉ - SUISSE .1273 cet objet , En 1648 , le thé était traité d ' impertinente nouveauté ; aujourd ' hui il est seulement moins neuf . |
+| source.excerpts.156.words.0 | aromatique |
+| source.excerpts.156.words.1 | stimulante |
+| source.excerpts.156.words.2 | jeunes feuilles |
+| source.excerpts.156.words.3 | infusion aromatique |
+| source.excerpts.157.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3633e60d-d2db-5158-9751-81fcbbe4407b |
+| source.excerpts.157.value | Les feuilles sont amples et lobées ; les fleurs mâles en longues grappes pendantes , odorantes , longuement tubuleuses , à 5 lobes ; les fleurs femelles sont sub - dialjipétales ; l ' ovaire est à 5 styles .Le suc des feuilles est employé comme vermifuge .PAPILIONACÉES . |
+| source.excerpts.157.words.0 | feuilles |
+| source.excerpts.157.words.1 | vermifuge |
+| source.excerpts.158.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/36c61366-687e-54b6-9014-6c7aabfac11d |
+| source.excerpts.158.value | Le curare du Para ( Brésil ) , fourni par des peuplades voisines des Mundrucùs , qui habitent la rive droite de l ' Amazone , est renfermé dans des vases de grès recouverts de feuilles cotonneuses à nervures saillantes et convergentes ( probablement feuilles d ' un Strychnos ) .Sa saveur ressemble à celle de l ' extrait de suc de réglisse brûlé .» ( Matthiole . |
+| source.excerpts.158.words.0 | brûlé |
+| source.excerpts.158.words.1 | extrait |
+| source.excerpts.158.words.2 | saveur |
+| source.excerpts.158.words.3 | suc de réglisse |
+| source.excerpts.159.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/373e9770-3c4b-58b9-b31d-2d08d1615ed2 |
+| source.excerpts.159.value | Arille charnu aréole qui entoure la graine ( muscade , noix - de - muscade ) ( lig .1020 ) du Muscadier ( Myristica aromalica ) , arbre des Moluques .Le macis est une substance charnue - cartilagineuse de saveur fortement aromatique ; on en l ' ail usage dans la composition de certaines liqueurs de table . |
+| source.excerpts.159.words.0 | Moluques |
+| source.excerpts.159.words.1 | Muscadier |
+| source.excerpts.159.words.2 | aromalica |
+| source.excerpts.160.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3746dc0f-ef59-5d68-991e-95d40bc06593 |
+| source.excerpts.160.value | ce mot .INODORE , inodorus .Qui n ' exhale aucune odeur . |
+| source.excerpts.160.words.0 | inodorus |
+| source.excerpts.160.words.1 | INODORE |
+| source.excerpts.161.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/37b71f6c-d689-5ff0-8e18-0c3de3733d73 |
+| source.excerpts.161.value | Les saveurs aromatiques ou parfumées ( agréables ou désagréables ) se perçoivent par les organes de l ' odorat ( réseau du nerf olfactif qui s ' épanouit dans la membrane muqueuse piluitaire ) , bien plus qu ' elles ne se perçoivent par les parois buccales ; les parois pharyngiennes ( du pharynx ) participent à la fois à la perception des saveurs et des odeurs , et , à ce niveau , les sens du goût et de l ' odorat sont à peu près confondus en un seul .Les saveurs aromatiques sont par conséquent les mêmes que les odeurs aromatiques ( voy .ODEUR ) . |
+| source.excerpts.161.words.0 | aromatiques |
+| source.excerpts.161.words.1 | odeurs aromatiques |
+| source.excerpts.161.words.2 | saveurs aromatiques |
+| source.excerpts.162.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/37cb4e1c-2d58-5beb-a12f-0331ca2f0118 |
+| source.excerpts.162.value | On la classait au nombre des médicaments toniques et fortifiants .— La racine du Geum rivale est amère et astringente , mais non aromatique .BKHIÎÉRIDÉES . |
+| source.excerpts.162.words.0 | aromatique |
+| source.excerpts.162.words.1 | racine |
+| source.excerpts.162.words.2 | amère |
+| source.excerpts.162.words.3 | Geum rivale |
+| source.excerpts.163.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/37dbc87e-b526-535b-925b-8ceb3550f30e |
+| source.excerpts.163.value | .Tant que ces mêmes plantes sont vivantes et dans leur entier dans » le lit des rivières où elles croissent , quelque fortes qu ' en soient les odeurs et « quelque acres et fétides qu ' en soient les saveurs , elles ne communiquent » rien de leur bonne ou mauvaise qualité à l ' eau qui les y couvre , et l ' on ne » s ' aperçoit à l ' odorat et au goût que cette eau est altérée , que lorsque , par » leur dissolution et par leur corruption , ces plantes font participer l ' eau « dans laquelle elles se trouvent à leur bonne ou mauvaise qualité .. |
+| source.excerpts.163.words.0 | elles |
+| source.excerpts.163.words.1 | cette eau |
+| source.excerpts.163.words.2 | odeurs |
+| source.excerpts.163.words.3 | odorat |
+| source.excerpts.163.words.4 | fortes |
+| source.excerpts.163.words.5 | fétides |
+| source.excerpts.163.words.6 | acres |
+| source.excerpts.163.words.7 | eau |
+| source.excerpts.163.words.8 | ces plantes |
+| source.excerpts.163.words.9 | altérée |
+| source.excerpts.163.words.10 | ces mêmes plantes |
+| source.excerpts.164.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/38a5cee4-d6b8-52e3-9c0e-07d79642897a |
+| source.excerpts.164.value | On pense que celle plante a été apportée de la Chine en Europe vers le xmli siècle ; sa racine est d ' une saveur assez agréable , elle passe pour stomachique .L ' Helosciadium nodiflorum el Y JEgopodium Podagraria sont inusités aujourd ' hui ; on les employait autrefois pour leurs propriétés aromatiques , stimulantes et résolutives .— La racine du Meum athamanticmn , piaule alpestre , est acre et aromatique : on s ' en sert dans la médecine vétérinaire . |
+| source.excerpts.164.words.0 | aromatiques |
+| source.excerpts.164.words.1 | JEgopodium |
+| source.excerpts.164.words.2 | Helosciadium |
+| source.excerpts.165.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/39e6b916-22df-521f-ac07-88f069c8ae41 |
+| source.excerpts.165.value | 735 plante classique de la localité , le rare Asplenium Petrarchoe ; en revanche , on y rencontre en abondance les jolies touffes des Teucrium flavum , Polium et aureum .Peu de jours après , munis des renseignements que nous devions à Requien , l ' ami regretté de tous les botanistes qui ont visité la Provence , accompagnés d ' un guide qui chassait devant lui un mulet chargé de vivres pour trois journées , et de couvertures de laine pour passer la nuit sur la montagne , nous arrivions à la base du mont Ventoux , à travers des chemins rocailleux couverts des touffes parfumées du Lavandula vera , du Nepeta graveolens , du Thymus vulgaris et du Satureia montana .Quels que soient les escarpements qu ' il faille escalader pour gravir la montagne , malgré la difficulté des pentes recouvertes de pierres qui roulent sous les pieds , et quelle que soit l ' ardeur du soleil , augmentée parla blancheur du terrain , on ne songe guère à la fatigue en présence de Y Eryngium Spina - alba , de YAtlimn grandi florum , du Viola cenisia , du Campanv . |
+| source.excerpts.165.words.0 | nous |
+| source.excerpts.165.words.1 | parfumées |
+| source.excerpts.165.words.2 | Provence |
+| source.excerpts.165.words.3 | montagne |
+| source.excerpts.165.words.4 | les botanistes |
+| source.excerpts.165.words.5 | Thymus |
+| source.excerpts.165.words.6 | Satureia |
+| source.excerpts.165.words.7 | Nepeta |
+| source.excerpts.165.words.8 | Peu de jours après |
+| source.excerpts.165.words.9 | Lavandula vera |
+| source.excerpts.165.words.10 | base du mont Ventoux |
+| source.excerpts.166.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3a18d210-1bb4-571d-b756-e3475f43102c |
+| source.excerpts.166.value | A haute dose , cette substance est émétique et purgative ; elle provoqué l ' irritation , puis l ' inflammation du tube digestif , et agit à la ma - Ilièrè des poisons acres .PIMENT - COURONNÉ ( Myrtus [ Myrcia ] pimentoides ) ( fig .1244 ) . |
+| source.excerpts.166.words.0 | Myrtus |
+| source.excerpts.166.words.1 | Myrcia |
+| source.excerpts.166.words.2 | pimentoides |
+| source.excerpts.167.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3ae95125-b255-5c76-b32b-b7049668c1c1 |
+| source.excerpts.167.value | — Un grand nombre de Fougères exotiques sont employées , dans les pays où elles sont spontanées , comme médicaments amers , toniques , astringents ou aromatiques .— Les souches de VOsmunda regalis , plante qui croît à la fois dans les marais de l ' Europe et de l ' Amérique du Nord , sont mucilagineuses et astringentes ; ses feuilles ont une saveur styptique .— Le Botrychium Lunaria et YOphioglossurn vulgatum ( Langue - de - serpent , Lance - du - Christ , Herbc - sans - couture ) sont doués de propriétés mucilagineuses et astringentes . |
+| source.excerpts.167.words.0 | feuilles |
+| source.excerpts.167.words.1 | saveur |
+| source.excerpts.167.words.2 | VOsmunda |
+| source.excerpts.168.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3b4de479-5fd1-5593-9d74-473e21269aaa |
+| source.excerpts.168.value | obtient le suc par incision du tronc de l ' arbre vivant .Son odeur esl aromatique , sa saveur est amère et repoussante .A très - faible dose , c ' est un médicament stimulant ; à forte dose , un purgatif drastique et un émétique dangereux . |
+| source.excerpts.168.words.0 | aromatique |
+| source.excerpts.168.words.1 | odeur |
+| source.excerpts.168.words.2 | sa |
+| source.excerpts.168.words.3 | repoussante |
+| source.excerpts.168.words.4 | amère |
+| source.excerpts.169.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3bd987de-6771-5928-9a00-f5a2059c5aed |
+| source.excerpts.169.value | TTIÉ - DES - APALACÏIES ( Ilex vomitoria , famille des Ilicinées ) .Plante de la Caroline , dont les feuilles fournissent une infusion sudorifique .TIMOTIH ( Phleum pratense , F . |
+| source.excerpts.169.words.0 | Plante |
+| source.excerpts.169.words.1 | sudorifique |
+| source.excerpts.170.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3c5c98c9-145b-5f5b-a308-903635f1a563 |
+| source.excerpts.170.value | — Développement des petits organes glanduliformes ( lupulins ) ( ligures fortement grossies ) .La racine , possède à un certain degré des propriétés stimulantes analogues à celles de la Salsepareille .HOUPPE , barba , et dans les mois composés tirés du grec , ; pogon . |
+| source.excerpts.170.words.0 | racine |
+| source.excerpts.170.words.1 | stimulantes |
+| source.excerpts.170.words.2 | Salsepareille |
+| source.excerpts.171.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3c755d84-dd75-5e02-b4cf-c6fc8003d2e5 |
+| source.excerpts.171.value | Gravis ( odor ) .Odeur forte , odeur aromatique pénétrante .GREFFE , inoculatio . |
+| source.excerpts.171.words.0 | forte |
+| source.excerpts.171.words.1 | odeur |
+| source.excerpts.171.words.2 | Odeur |
+| source.excerpts.171.words.3 | aromatique pénétrante |
+| source.excerpts.172.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3d1fed4b-f9d3-5f81-a3ca-245ba90354c2 |
+| source.excerpts.172.value | 174 ) ( Cinnamomum ' zeylanicumf , actuellement cultivé en Chine , à Ceylan , à Java , etc .La substance aromatique connue sous le nom de cannelle est l ' écorce des jeunes rameaux dépouillée de son épiderme et séchée au soleil .On en obtient , par distillation / une huile volatile d ' une odeur suave , analogue à celle du girofle ; c ' est un médicament stimulant . |
+| source.excerpts.172.words.0 | aromatique |
+| source.excerpts.172.words.1 | écorce des jeunes rameaux |
+| source.excerpts.173.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3d54cd9d-e40c-5e97-abb8-705ffeb73b10 |
+| source.excerpts.173.value | — Le fruit du C edulis est comestible après .avoir subi la cuisson ; il a le volume et à peu près la saveur de la tomate .— Les Crescentia sont , en Europe , des plantes de serre . |
+| source.excerpts.173.words.0 | saveur |
+| source.excerpts.173.words.1 | tomate |
+| source.excerpts.174.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3d697060-e762-56dd-a222-5089c273db88 |
+| source.excerpts.174.value | Cette plante était cultivée autrefois ; on en mangeait les feuilles el les jeunes liges .dont la saveur se rapproche de celle du Céleri ; la racine était regardée comme diurétique .— Sium Sisarum . |
+| source.excerpts.174.words.0 | Céleri |
+| source.excerpts.174.words.1 | racine |
+| source.excerpts.174.words.2 | diurétique |
+| source.excerpts.174.words.3 | saveur |
+| source.excerpts.175.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3eacb802-21e0-54ae-983a-b5ec7484af47 |
+| source.excerpts.175.value | cicatrisation des 1080 PLANTES MÉDICINALES .ulcères , et les lotions excitantes faites dans le même but .1081 ( luits indigènes ou naturalisés : Absinthe , Houx , Marronnier - d ' Inde , PetiteCentaurée , Saule . |
+| source.excerpts.175.words.0 | excitantes |
+| source.excerpts.175.words.1 | lotions |
+| source.excerpts.176.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3eba4c1c-2399-50ef-a939-7aefe30e76f4 |
+| source.excerpts.176.value | Les Monsonia sont également dos planles du Cap .Les caractères des Géraniacées sont les suivants : Plantes herbacées , rarement sous - frutescentes , souvent odorantes , subacaules ou à tiges subdichotomes , à articulations plus ou moins renflées et fragiles .Feuilles en rosette ou caulinaires , opposées ou alternes par appauvrissement ou avorteinent , ord . |
+| source.excerpts.176.words.0 | odorantes |
+| source.excerpts.176.words.1 | Plantes |
+| source.excerpts.176.words.2 | Géraniacées |
+| source.excerpts.177.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3ed8822a-8359-54e9-b927-f16ded764601 |
+| source.excerpts.177.value | — Le vulnéraire d ' Auvergne est un peu moins riche en espèces et moins aromatique .— - Ces infusions sont sudorifiques et stimulantes des fonctions digeslives .THÉCAPHORE . |
+| source.excerpts.177.words | sudorifiques |
+| source.excerpts.178.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/3f1c7f2b-a268-5ee2-96ce-fb725eb1f365 |
+| source.excerpts.178.value | Le F .vesca est pauvre en sucre de canne , il rachète ce défaut par son parfum .. |
+| source.excerpts.178.words.0 | parfum |
+| source.excerpts.178.words.1 | son |
+| source.excerpts.178.words.2 | sucre de canne |
+| source.excerpts.178.words.3 | vesca |
+| source.excerpts.179.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/40423a7b-6f0d-593c-8643-4d71728e4b99 |
+| source.excerpts.179.value | ■ — • La térébenthine - de - Chio est produite par le Pistacia Terebinthus .Son odeur est balsamique ; ses propriétés stimulantes sont analogues à celles des autres oléo - résiues .TTIÉ - DES - APALACÏIES ( Ilex vomitoria , famille des Ilicinées ) . |
+| source.excerpts.179.words.0 | odeur |
+| source.excerpts.179.words.1 | Son |
+| source.excerpts.179.words.2 | balsamique |
+| source.excerpts.179.words.3 | stimulantes |
+| source.excerpts.179.words.4 | ses |
+| source.excerpts.179.words.5 | oléo - |
+| source.excerpts.180.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/406c27c0-3fc9-548d-9ac0-baef7c023bdb |
+| source.excerpts.180.value | Commun en automne dans les prairies ; il est reproduit artificiellement par les jardiniers , qui le cultivent dans des caves pour l ' approvisionnement journalier des marchés de Paris .Ce champignon cultivé , étiolé , et livré à la consommation avant son développement complet , ne conserve presque rierr de la saveur parfumée , analogue à celle de la Truffe , qu ' il présente à l ' état 20 AGARIC DES PHARMACIES .— AGARICINÉES . |
+| source.excerpts.180.words.0 | champignon |
+| source.excerpts.180.words.1 | saveur parfumée |
+| source.excerpts.180.words.2 | Truffe |
+| source.excerpts.181.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/40bceb6e-1efc-5f1b-a6fa-46715c66e434 |
+| source.excerpts.181.value | 596 ) .Le benjoin est une des substances aromatiques les plus employées dans la parfumerie .Fie . |
+| source.excerpts.181.words.0 | benjoin |
+| source.excerpts.181.words.1 | aromatiques |
+| source.excerpts.181.words.2 | parfumerie |
+| source.excerpts.182.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/40ffca98-db93-50fb-9886-9e7634ebeaec |
+| source.excerpts.182.value | Avenius .Le fruit est comestible , assez volumineux , en forme de poire ; c ' est une grosse baie monosperme , dont la chair onctueuse a une saveur de noisette .Comme l ' orange , on l ' assaisonne avec du rhum et du sucre . |
+| source.excerpts.182.words.0 | noisette |
+| source.excerpts.182.words.1 | saveur |
+| source.excerpts.182.words.2 | grosse baie |
+| source.excerpts.183.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/436611c2-088d-5135-b950-fff102e1408f |
+| source.excerpts.183.value | JASMIN ( Jasminum officinale , famille des Jasminées ) .L ' huile volatile qui exhale chez ses fleurs une odeur si suave et si pénétrante est recueillie par les parfumeurs ; on ne peut imiter cette délicieuse odeur .JASMINI5ES . |
+| source.excerpts.183.words.0 | pénétrante |
+| source.excerpts.183.words.1 | suave |
+| source.excerpts.183.words.2 | odeur |
+| source.excerpts.183.words.3 | fleurs |
+| source.excerpts.183.words.4 | délicieuse |
+| source.excerpts.183.words.5 | huile volatile |
+| source.excerpts.183.words.6 | parfumeurs |
+| source.excerpts.184.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/43f4ac3a-728a-5362-ac85-32fa58cc4250 |
+| source.excerpts.184.value | Espèces du genre Styrax , famille des Styracinées .Le Styrax officinalis , arbre de l ' Europe méridionale , fournit le baume storax , substance aromatique stimulante préconisée contre la phthisie pulmonaire .ALOÏNÉES . |
+| source.excerpts.184.words.0 | Styrax |
+| source.excerpts.184.words.1 | aromatique |
+| source.excerpts.184.words.2 | aromatique stimulante |
+| source.excerpts.184.words.3 | baume storax |
+| source.excerpts.185.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4473d0ce-0f92-5f51-906c-050e727b7a96 |
+| source.excerpts.185.value | Plante , annuelle odorante , cultivée comme espèce médicinale .L infusion est Ionique et stomachique , et rappelle un peu l ' arôme dît Thé ; les sommités pulvérisées sont anthelmiiilbiques ( vermifuges ) .ASHîROSIAOEES . |
+| source.excerpts.185.words.0 | Thé |
+| source.excerpts.185.words.1 | arôme |
+| source.excerpts.185.words.2 | vermifuges |
+| source.excerpts.185.words.3 | sommités pulvérisées |
+| source.excerpts.186.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4479f202-5107-51e5-88e7-0241bde82c9b |
+| source.excerpts.186.value | — ' Les principes végétaux qui sont contenus dans les Champignons sont : la fongine , l ' acide fongique , l ' acide bolétique ( dansles Boletus ) , l ' amaniline ( dahsl ' - Amanitiimuscaria ) , un principe acre plus ou moins analogue à l ' amaniline chez plusieurs espèces vénéneuses , la trémelline ( chez le Tremella mésënlerièd ) 1 ; et 250 CHAMPIGNONS COMESTIBLES ET CHAMPIGNONS VÉNÉNEUX , dans plusieurs Agarics , de la mannite ( sucre de Champignons ) : ce principe existe chez les HebelJa , les Rydnum , les Cantharellus , les Agaricus , elc .— Parmi les Champignons souterrains , nous devons mentionner la Truffe ( Tvher cibarium ) , dont la saveur parfumée est si justement appréciée .Pour découvrir dans les bois les lieux qui recèlent ce précieux Champignon , dont aucuu indice certain ne décèle à l ' extérieur la présence , on emploie les porcs , qui , guidés par leur odorat , les cherchent dans l ' espoir de les dévorer ; on dresse également des chiens à la recherche des Truffes . |
+| source.excerpts.186.words.0 | parfumée |
+| source.excerpts.186.words.1 | Champignons |
+| source.excerpts.186.words.2 | saveur parfumée |
+| source.excerpts.186.words.3 | Truffe |
+| source.excerpts.186.words.4 | Tvher cibarium |
+| source.excerpts.187.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/449bb59e-1197-5ef9-b8ba-e61c28be2ae3 |
+| source.excerpts.187.value | i ' umw - raot ( flèche - racine ) .On en prépare , par ràpage et lavage , une fécule alimentaire dépouillée du principe amer et aromatique .— Une autre espèce ( C . |
+| source.excerpts.187.words.0 | aromatique |
+| source.excerpts.187.words.1 | fécule |
+| source.excerpts.188.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/455bd3dc-1cb8-5bff-8352-335ab3f7228a |
+| source.excerpts.188.value | — Le C .balsamiferum est un arbuste odorant de la Martinique , qui fournit un suc goimno - résineux ou baume employé à l ' extérieur comme résolutif et pour la CRUCIATJM .rr CRUCIFÈRES . |
+| source.excerpts.188.words.0 | Martinique |
+| source.excerpts.188.words.1 | odorant |
+| source.excerpts.188.words.2 | arbuste |
+| source.excerpts.188.words.3 | balsamiferum |
+| source.excerpts.189.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/46a797f2-6eb0-56a6-85ef-82637668c019 |
+| source.excerpts.189.value | Couleur de la fleur du Lilas , d ' un violet pâle et rougeâlre , L1LIACÉES .Famille de plantes monocotylées , un des groupes les plus remarquables du monde végétal par l ' élégance , l ' éclat el le parfum des Heurs ; FIG .999 . |
+| source.excerpts.189.words.0 | parfum |
+| source.excerpts.189.words.1 | plantes monocotylées |
+| source.excerpts.190.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/46a7cd82-25ed-5b7b-9d14-e881f0cbe17c |
+| source.excerpts.190.value | — La souche rampante du Muguet ( Convallaria maialis ) était jadis officinale ; son extrait agit comme purgatif drastique .— Chez le Paris imadrifnlia , tontes les parties de la plante sont douées de qualités narcoticoacres ; cette espèce a cessé depuis longtemps d ' être considérée comme officinale .— USmilax Sassapurilla ( la Salsepareille ) croît dans l ' Europe australe ; c ' est un des médicaments dépuratifs les plus usités . |
+| source.excerpts.190.words.0 | plante |
+| source.excerpts.190.words.1 | parties |
+| source.excerpts.190.words.2 | le Paris |
+| source.excerpts.190.words.3 | narcoticoacres |
+| source.excerpts.191.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/474c7332-9537-5b93-9043-8e5b132d385a |
+| source.excerpts.191.value | Les organes odorants des plantes ont reçu les qualifications suivantes : alliacé ( alliaceus ) , qui a une odeur d ' ail ; ambarinus , qui a l ' odeur de l ' ambre ; ambrosiacus , qui a une odeur suave ; aromatique ( aromaiicus ) , qui a l ' odeurdu Laurier , de la Menthe - poivrée , de la Tanaisie , etc .; fétide ( foetidus , teter ) , odeur très - désagréable ; graveolens , désagréable en raison de sa force , pat exemple l ' odeur de YAnethum graveolens ; hircinus , qui a une odeur de bouc ; muriaticus , qui a l ' odeur des plantes imprégnées d ' eau de mer ; musqué ( moschatus ) , qui a l ' odeur du musc ; piquante ( pungens ) se dit de l ' odeur de certaines huiles volatiles , de l ' acide acétique , elc ; spermaticus , qui a une odeur analogue à celle des fleurs du Châtaignier ; suaveolens , qui exhale une odeur suave ; viveuse ( virosus ) se dit de l ' odeur des plantes qui ont - des qualités narcotiques : la Jusquiame , le Pavot , la Ciguë , etc .Les émanations d ' un corps odorant agissent agréablement ou désagréablement , selon leur nature et selon le goût ou la disposition de ceux qui les perçoivent , sur le sens de l ' odorat ( par l ' intermédiaire des nerfs olfactifs qm s ' épanouissent dans la membrane muqueuse nasale ) . |
+| source.excerpts.191.words.0 | Jusquiame |
+| source.excerpts.191.words.1 | Pavot |
+| source.excerpts.191.words.2 | désagréable |
+| source.excerpts.191.words.3 | fétide |
+| source.excerpts.191.words.4 | suave |
+| source.excerpts.191.words.5 | odeur |
+| source.excerpts.191.words.6 | fleurs |
+| source.excerpts.191.words.7 | musc |
+| source.excerpts.191.words.8 | plantes |
+| source.excerpts.191.words.9 | narcotiques |
+| source.excerpts.191.words.10 | acide acétique |
+| source.excerpts.191.words.11 | bouc |
+| source.excerpts.191.words.12 | eau de mer |
+| source.excerpts.191.words.13 | Ciguë |
+| source.excerpts.191.words.14 | très - désagréable |
+| source.excerpts.191.words.15 | musqué |
+| source.excerpts.191.words.16 | spermaticus |
+| source.excerpts.191.words.17 | elc |
+| source.excerpts.191.words.18 | moschatus |
+| source.excerpts.191.words.19 | graveolens |
+| source.excerpts.191.words.20 | certaines huiles volatiles |
+| source.excerpts.191.words.21 | foetidus |
+| source.excerpts.191.words.22 | teter |
+| source.excerpts.191.words.23 | pungens |
+| source.excerpts.191.words.24 | YAnethum graveolens |
+| source.excerpts.191.words.25 | muriaticus |
+| source.excerpts.192.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/47782387-8b50-5faf-a547-55f2684996dc |
+| source.excerpts.192.value | GAUDE ( Reseda Luteola , famille des Résédacées ) .Celte plante , qui renferme dans toutes ses parties une matière colorante jaune abondante , est , des plus employées dans l ' art de la teinture ; on la cultive en grand pour cet usage .On lui attribuait autrefois , ainsi qu ' au II . |
+| source.excerpts.192.words.0 | colorante |
+| source.excerpts.192.words.1 | Celte plante |
+| source.excerpts.193.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/47f24ea9-93d8-5086-933d-4ec13ad7c1f4 |
+| source.excerpts.193.value | ing .1U27 ) aromatiques , dont l ' odeur rappelle celles du Cubèbe , de la Mentae MATINAL .— MAUVES . |
+| source.excerpts.193.words.0 | odeur |
+| source.excerpts.193.words.1 | aromatiques |
+| source.excerpts.193.words.2 | Cubèbe |
+| source.excerpts.193.words.3 | Mentae |
+| source.excerpts.194.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4877ff0b-6496-5c42-80d1-562b900a8e85 |
+| source.excerpts.194.value | 71 ) .Son suc durci esl une gomme - résine d ' une odeur pénétrante très - désagréable ; on lui a donné le nom de stercus diaboli .C ' est un médicament usité comme antispasmodique , et stimulant de l ' appareil respiratoire . |
+| source.excerpts.194.words.0 | résine |
+| source.excerpts.194.words.1 | odeur |
+| source.excerpts.194.words.2 | gomme |
+| source.excerpts.194.words.3 | stercus |
+| source.excerpts.194.words.4 | pénétrante très - désagréable |
+| source.excerpts.195.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/49f2bcb0-d1c6-5278-aeba-e2ce59d3bc56 |
+| source.excerpts.195.value | On en préparc des sachets dont l ' odeur éloigne les insectes des étoffes de laine .Dans l ' Inde , on en fabrique des tissus odorants .L ' odeur pharmaceutique du vétiver est plutôt importune qu ' agréable . |
+| source.excerpts.195.words.0 | Inde |
+| source.excerpts.195.words.1 | odorants |
+| source.excerpts.195.words.2 | tissus |
+| source.excerpts.196.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4a1b3f35-3fe0-55f7-b0da-e9a4dc6e633a |
+| source.excerpts.196.value | On donnait autrefois le nom d ' huiles essentielles ou huiles volatl ' i ! s ( dénominations quelquefois conservées par habitude ) , et l ' on donne aujourdnui le nom ( [ ' essences , à des principes végétaux liquides , non visqueux , trèsvolntils , et par conséquent odorants , à odeur aromatique souvent suave .Leur saveur est acre , chaude , ou même brûlante et caustique ; les essences s ' enflamment A86 ESSENTIEL .— EXAMINES . |
+| source.excerpts.196.words.0 | Leur |
+| source.excerpts.196.words.1 | saveur |
+| source.excerpts.197.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4a2914b8-a971-5d01-bb7e-c73feae0a33f |
+| source.excerpts.197.value | — Petite - Camomille ( Matricaria Chamomilla ) ■ arvensis ) ; Camomille - bâtarde { Anthémis Cotula ) ; Camomille - bicolore ( Ormenis mixta ) .Plantes indigènes de la famille des Composées - Coryrnbifêres , à capitules radiés , à disque jaune , à rayons blancs , exhalant , par le froissement , une odeur aromatique .— Une variété du Pyretlirum Parthenium , à fleurs doubles GAMPANIFORME . |
+| source.excerpts.197.words.0 | aromatique |
+| source.excerpts.197.words.1 | odeur |
+| source.excerpts.197.words.2 | Plantes |
+| source.excerpts.198.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4aa57cf9-24b1-58f9-9664-b657b44447b1 |
+| source.excerpts.198.value | — POEACIIAINE .isolées ; il est plus acre et moins aromatique que le poivre - noir .- — Le Poivre ou Pimenl - de - Ia - Jamaïque ( MyrtusPimenta ) ( fig . |
+| source.excerpts.198.words.0 | aromatique |
+| source.excerpts.198.words.1 | acre |
+| source.excerpts.198.words.2 | poivre |
+| source.excerpts.199.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4b0a0ca9-30e1-53e0-a47c-322ca3297766 |
+| source.excerpts.199.value | Pour cesle cause nous l ' avons fait pourtraire icy au vif .Son » odeur est plaisante et forte .On se sert du Dictam es breuvages que l ' on liuille pour les » blessures intérieures . |
+| source.excerpts.199.words.0 | forte |
+| source.excerpts.199.words.1 | plaisante |
+| source.excerpts.199.words.2 | odeur |
+| source.excerpts.200.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4b5a2fc0-87a1-5d86-a3e3-7a714f25c075 |
+| source.excerpts.200.value | 323 COR1ARIÉES .331 et une saveur sucrée - acidulé : on les mange à la cuiller .Ils sont recherchés des Indiens * ils plaisent moins aux Européens . |
+| source.excerpts.200.words.0 | sucrée |
+| source.excerpts.200.words.1 | saveur |
+| source.excerpts.201.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4c0002c2-9e89-50a2-97db-31a8fc294108 |
+| source.excerpts.201.value | ÇÏÏROHIPirELLES .Plusieurs plantes dont les feuilles froissées exhalent une odeur agréable d ' écorce de citron : l ' Aurohe ( Artemiêia Abroianum ^ Gomposte ) , la Mélisse , ( Melissa officinalis , Labiées ) , la Verveine odotanïeJ ( Lippia eitriodora , Verbéhacées ) .— L ' huile de citronnelle est obtenue parla distillation de YAndropogon Schoenanlhus , Graminée des Indes orientales èfdu cap de Bonne - Espérance . |
+| source.excerpts.201.words.0 | agréable |
+| source.excerpts.201.words.1 | odeur |
+| source.excerpts.201.words.2 | Mélisse |
+| source.excerpts.201.words.3 | écorce de citron |
+| source.excerpts.201.words.4 | Verveine |
+| source.excerpts.201.words.5 | feuilles froissées |
+| source.excerpts.201.words.6 | Melissa |
+| source.excerpts.201.words.7 | Lippia |
+| source.excerpts.201.words.8 | Plusieurs plantes dont |
+| source.excerpts.201.words.9 | Aurohe |
+| source.excerpts.202.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4cd9397b-bae5-5e8b-ae0e-b37a3a105c35 |
+| source.excerpts.202.value | EXCENS ou OLlBAft ( 1 ) .Résines ou gommes - résines ( solidifiées par dessiccation et pulvérisées ) répandant par la combustion une fumée d ' une odeur suave , solubles en partie dans l ' eau et en partie dans l ' alcool ; extraites à l ' état liquide ( ord .par des incisions faites à l ' écorce de la plante vivante ) des troncs ou tiges de divers arbres appartenant à différentes familles , et notamment aux Térébinthacées et aux Burséracées . |
+| source.excerpts.202.words.0 | suave |
+| source.excerpts.202.words.1 | odeur |
+| source.excerpts.202.words.2 | Résines |
+| source.excerpts.202.words.3 | gommes - résines |
+| source.excerpts.203.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4d00bec7-940d-58ea-b8a5-5202e8b9e074 |
+| source.excerpts.203.value | Ce suc , obtenu par des incisions pratiquées à l ' ôcorce des arbres vivants , et principalement du Pinus maritima , est connu sous le nom - de térébenthine .Cette substance , d ' une saveur chaude et aromatique , est douée de propriétés fortement stimulantes .La térébenthine , distillée avec de l ' eau , fournit l ' huile de térébenthine , madère médicamenteuse active , qui a de nombreux emplois dans les arts ; le résidu constitue la colophane , substance qui entre dans la composition de plusieurs onguents excitants , dits maturatifs . |
+| source.excerpts.203.words.0 | aromatique |
+| source.excerpts.203.words.1 | chaude |
+| source.excerpts.203.words.2 | Cette substance |
+| source.excerpts.204.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4d29d65b-b7ce-5361-8a34-025d78438de6 |
+| source.excerpts.204.value | Tant l ' ha chérie Nature qu ' elle l ' a douée en ses fueilles de ces deux » nombres impars tant divins et mystérieux .L ' odeur d ' icelles est fort et peu » plaisant aux nez délicats .La semence provient vers le chef du tige , et un peu « au dessoiibz . |
+| source.excerpts.204.words.0 | fort |
+| source.excerpts.204.words.1 | odeur |
+| source.excerpts.204.words.2 | icelles |
+| source.excerpts.204.words.3 | peu » plaisant |
+| source.excerpts.205.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4d6a2c0d-81d9-5b26-a1fe-30f125d4c3a2 |
+| source.excerpts.205.value | Ce groupe renferme les seuls genres Cijclanthus et Carludovica .Les Cyclanthus , dont le spadice ovoïde dressé ressemble à celui d ' un Calla ou d ' un Arum , sont cultivés au Brésil pour le parfum de vanille qu ' exhale la plante en fleur .Les Carludovica , dont les feuilles palmées rappellent celles des C / iamoerops , servent au Pérou , à la Nouvelle - Grenade , etc . |
+| source.excerpts.205.words.0 | parfum |
+| source.excerpts.205.words.1 | exhale |
+| source.excerpts.205.words.2 | plante |
+| source.excerpts.205.words.3 | vanille |
+| source.excerpts.205.words.4 | spadice |
+| source.excerpts.205.words.5 | Cyclanthus |
+| source.excerpts.206.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4d79e115-ef9e-55f3-b051-fe6750db3276 |
+| source.excerpts.206.value | FRANGIPANE .Nom d ' un parfum , emprunté au nom de l ' inventeur , composé d ' un mélange d ' huiles odorantes , et devenu nom vulgaire d ' un arbre des Indes , à suc vénéneux , le Frangipanier ( Plumeria alba , fani .des Apocynées ) , dont l ' odeur de la fleur rappelle ce parfum . |
+| source.excerpts.206.words.0 | huiles |
+| source.excerpts.206.words.1 | parfum |
+| source.excerpts.206.words.2 | odorantes |
+| source.excerpts.206.words.3 | arbre |
+| source.excerpts.207.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4d8d967d-f591-59a1-9bda-8380085322a7 |
+| source.excerpts.207.value | olidum , dont l ' odeur rappelle celle du poisson de mer .Les odeurs ou saveurs aromatiques désagréables , pénétrantes , et provoquant des nausées , sont dites saveurs nauséeuses : telle est l ' odeur du Coriandrum sativum , la Coriandre ( chez la plante à l ' état vivant ) ; cette odeur tient de celle de la punaise .L ' odeur forte , pénétrante et désagréable , de certaines gommesrésines , celle du Ferula , de l ' Asa - fcetida , par exemple , sont plutôt nauséeuses que fétides . |
+| source.excerpts.207.words.0 | odeur |
+| source.excerpts.207.words.1 | Coriandre |
+| source.excerpts.207.words.2 | odeurs |
+| source.excerpts.207.words.3 | pénétrantes |
+| source.excerpts.207.words.4 | nauséeuses |
+| source.excerpts.207.words.5 | saveurs |
+| source.excerpts.207.words.6 | punaise |
+| source.excerpts.207.words.7 | nausées |
+| source.excerpts.207.words.8 | aromatiques désagréables |
+| source.excerpts.207.words.9 | Coriandrum sativum |
+| source.excerpts.208.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4d93e180-1ac5-5661-8ef7-656ccec45a18 |
+| source.excerpts.208.value | La graine de Nielle ( graines de N .damascena ) , qui , étant froissée , répand une odeur suave , était employée comme condiment et faisait partie de certaines préparations médicinales .Du mot graine - d , e - Nielle est dérivée , par altération , la locution vulgaire graine - de - niais . |
+| source.excerpts.208.words.0 | suave |
+| source.excerpts.208.words.1 | odeur |
+| source.excerpts.209.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4da39265-0054-53ac-bb10-ff424a69f8f5 |
+| source.excerpts.209.value | MUSQUÉ , moschatus .Qui a l ' odeur du musc .Le musc est le produit d ' une sécrétion très - odorante [ à odeur analogue à celle de l ' ambre - gris ) d ' un ruminant à poche préputiale , du genre Moschus ( chevrotain ) . |
+| source.excerpts.209.words.0 | odeur |
+| source.excerpts.209.words.1 | musc |
+| source.excerpts.210.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4dfb26bb-d9be-54ad-ad09-243ed67a6796 |
+| source.excerpts.210.value | De ces observations il résulte que les pays les plus sains sont ceux qui renferment de vastes forêts , et que , à partir du jour où les forêts auraient disparu PLANTES MÉDICINALES .1077 du globe , l ' air se trouverait de plus en plus vicié , et finirait par devenir impropre à la respiration ; qu ' il est par conséquent , dans l ' intérêt général de l ' humanité , de respecter les forêts , et de résister aux spéculations individuelles qui , dans un but d ' intérêt privé , tendent à les faire disparaître dans les pays civilisés , au détriment de la population lout entière .— Les courants d ' air qui régnent successivement dans toutes les directions rétablissent l ' équilibre entre les points occupés par de vastes forêts et les points occupés par de grandes agglomérations d ' hommes el d ' animaux . |
+| source.excerpts.210.words.0 | air |
+| source.excerpts.210.words.1 | vicié |
+| source.excerpts.211.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4e30bceb-f542-52fd-b516-79ffc2f3356e |
+| source.excerpts.211.value | Les odeurs ou saveurs aromatiques désagréables , pénétrantes , et provoquant des nausées , sont dites saveurs nauséeuses : telle est l ' odeur du Coriandrum sativum , la Coriandre ( chez la plante à l ' état vivant ) ; cette odeur tient de celle de la punaise .L ' odeur forte , pénétrante et désagréable , de certaines gommesrésines , celle du Ferula , de l ' Asa - fcetida , par exemple , sont plutôt nauséeuses que fétides .La saveur vineuse ( saveur du vin ) rentre aussi dans la classe des saveurs aromatiques ; elle se perçoit par le réseau du nerf olfactif : aussi les saveurs vineuses ou alcooliques semblent - elles presque nulles , désagréables , dénaturées , perverties , aux personnes atteintes d ' une altération du siège de - l ' odorat ( la membrane olfactive ou pituitaire ) , soit par phlogosc ( gonflement inflammatoire dans le cas de coryza ordinaire ou rhume - de - cerveau ) , soit par une altération plus profonde du tissu du réseau nerveux lui - même ( par exemple dans certains cas de l ' affection grippale ) . |
+| source.excerpts.211.words.0 | désagréable |
+| source.excerpts.211.words.1 | forte |
+| source.excerpts.211.words.2 | odeur |
+| source.excerpts.211.words.3 | fétides |
+| source.excerpts.211.words.4 | nauséeuses |
+| source.excerpts.211.words.5 | Ferula |
+| source.excerpts.211.words.6 | certaines gommesrésines |
+| source.excerpts.211.words.7 | Asa - fcetida |
+| source.excerpts.212.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4e61cb34-0dab-515e-a8fa-64f3e26bfac4 |
+| source.excerpts.212.value | — L ' espèce typique de la famille des Rutacées est la Rue ( Ruta , graveolens ) , plante spontanée en Provence ( ainsi que quelques autres espèces du genre Ruta ) .La Rue , dont l ' odeur est pénétrante et nauséeuse , était employée dans l ' antiquité comme condiment ; elle est classée au nombre des médicaments stimulants dits antispasmodiques et emmenagogues .Les caractères généraux de la famille des Rulacées sont les suivants : Plantes vivaces , herbacées ou frutescentes , à feuilles simples , plus ou moins découpées ou décomposées , souvent ponctuées - glanduleuses , fortement odorantes , dépourvues de stipules . |
+| source.excerpts.212.words.0 | pénétrante |
+| source.excerpts.212.words.1 | odeur |
+| source.excerpts.212.words.2 | nauséeuse |
+| source.excerpts.213.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4f31db56-9716-5a27-945b-a62f40c490e1 |
+| source.excerpts.213.value | Elle renferme spécialement le genre Ruta ( Rue ) , plus un genre voisin , Iiaphphyllum ; plus trois genres bien distincts , contenant chacun une seule espèce : genre LJeganum ( le P .Harmala est une plante très - odorante ) , genre Tetradiclis ( fleurs en épis roulés en crosse ) , etc .— L ' espèce typique de la famille des Rutacées est la Rue ( Ruta , graveolens ) , plante spontanée en Provence ( ainsi que quelques autres espèces du genre Ruta ) . |
+| source.excerpts.213.words.0 | odorante |
+| source.excerpts.213.words.1 | plante |
+| source.excerpts.213.words.2 | très - |
+| source.excerpts.213.words.3 | Harmala |
+| source.excerpts.213.words.4 | Tetradiclis |
+| source.excerpts.214.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4f33c27c-8378-544b-b812-936aca037ef7 |
+| source.excerpts.214.value | Cet arbrisseau jette de grands » sarmens qui sont puans , et pliables » comme oziers , lesquels sont fort diffi » ciles à rompre .Sa feuille est sembla » ble à la feuille dn Lierre : toutesfois » elle est plus molle , et plus pointue au B bout : et a une odeur fascheuse et » pesante .Elle jette un jus jaune . |
+| source.excerpts.214.words.0 | odeur |
+| source.excerpts.214.words.1 | elle |
+| source.excerpts.214.words.2 | feuille |
+| source.excerpts.214.words.3 | fascheuse |
+| source.excerpts.214.words.4 | » pesante |
+| source.excerpts.215.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/4f804610-5213-55f0-b42e-f78861b24d27 |
+| source.excerpts.215.value | — En forme de godet profond ou de dé à coudre , digitaliformis .GOMME - AltRAGANT .Plusieurs variétés de cette espèce sont cultivées pour la forme bizarre de leur fruit . |
+| source.excerpts.215.words.0 | GOMME |
+| source.excerpts.215.words.1 | AltRAGANT |
+| source.excerpts.216.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/50197de6-b9b4-5142-b1cd-6bbb9c1adbba |
+| source.excerpts.216.value | Les saveurs aromatiques offrent les nuances les plus multipliées dans le règne végétal .Les odeurs de musc et d ' ambre , les plus pénétrantes et les plus diffusibles des odeurs aromatiques , appartiennent cependant à des produits animaux ; certaines substances végétales présentent ces odeurs ou saveurs , mais à un degré relativement faible .— Les saveurs vireuses sont en même temps araêres el aromatiques ; elles sont plus spéciales au règne végétal . |
+| source.excerpts.216.words.0 | musc |
+| source.excerpts.216.words.1 | odeurs |
+| source.excerpts.216.words.2 | aromatiques |
+| source.excerpts.216.words.3 | ambre |
+| source.excerpts.216.words.4 | odeurs aromatiques |
+| source.excerpts.216.words.5 | plus pénétrantes |
+| source.excerpts.216.words.6 | certaines substances végétales |
+| source.excerpts.216.words.7 | les plus diffusibles |
+| source.excerpts.217.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/503dd11c-af3b-5667-87c8-b4784e5e72ad |
+| source.excerpts.217.value | M .Fée dislingue les classes suivantes : — 1 ° Odeurs dues à des huiles volatiles tenant des résines en dissolution isolables par la distillation : TÉRÉBINTHINOÏDES , les résines des Conifères , les gommes - résines des Térébinthacées , etc .( encens , bâume - de - la - Mecque , oliban , etc . |
+| source.excerpts.217.words.0 | résines |
+| source.excerpts.217.words.1 | Odeurs |
+| source.excerpts.217.words.2 | huiles volatiles |
+| source.excerpts.217.words.3 | Fée |
+| source.excerpts.217.words.4 | résines des Conifères |
+| source.excerpts.217.words.5 | résines des Térébinthacées |
+| source.excerpts.217.words.6 | TÉRÉBINTHINOÏDES |
+| source.excerpts.218.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/50819e61-1268-501f-acf3-ce472f7365fd |
+| source.excerpts.218.value | Diverses espèces du genre Populus , famille des - Salicinées L ' écorce de certains Peupliers est douée d ' amertume comme celle des Saules ; on a extrait de la salicine des Populus Tremula ( le Tremble ) et alba ( Rlanc - dcHollande ) .— Les écailles qui enveloppent les bourgeons des Peupliers au premier printemps sont recouvertes d ' une substance visqueuse balsamique dont la saveur est amère et aromatique .Ce suc résineux entre dans la préparation de l ' onguent populéum . |
+| source.excerpts.218.words.0 | aromatique |
+| source.excerpts.218.words.1 | amère |
+| source.excerpts.218.words.2 | substance |
+| source.excerpts.218.words.3 | saveur |
+| source.excerpts.218.words.4 | premier printemps |
+| source.excerpts.218.words.5 | bourgeons des Peupliers |
+| source.excerpts.219.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/508bf27e-549d-5d61-bf55-c723750a45ef |
+| source.excerpts.219.value | Les amandes amères contiennent des traces d acide cyanhydrique ; elles servent à aromatiser les looehs et les émulsions .I - essence d ' amandes amères , qui sert à parfumer les savons de toilette , est le produit de la distillation avec de l ' eau du résidu ou marc des amandes amères 46 AMARANTACEES .AMARUS . |
+| source.excerpts.219.words.0 | parfumer |
+| source.excerpts.219.words.1 | amandes amères |
+| source.excerpts.219.words.2 | essence |
+| source.excerpts.220.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/50c58a27-04f4-5212-8da1-927be7ebd00e |
+| source.excerpts.220.value | florentina , etc .( famille des [ ridées ) , Les souches bulbeuses ou tubéreuses des Iridées renferment de la fécule , du mucilage , et en très - faible proportion des substances acres et une huile aromatique ; elles sont douées de propriétés plus ou moins stimulantes .L ' Iris florentina ( Iris de Florence ) est spontané dans l ' Europe australe ; ses rhizomes ou souches fraîches , légèrement excitantes des membranes muqueuses , sont purgatives ; sèches , elles conservent indéfiniment une odeur de violette assez agréable . |
+| source.excerpts.220.words.0 | huile |
+| source.excerpts.220.words.1 | aromatique |
+| source.excerpts.220.words.2 | elles |
+| source.excerpts.220.words.3 | substances |
+| source.excerpts.220.words.4 | souches |
+| source.excerpts.221.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/50fc5413-7820-50e8-88de-ebda44768fa3 |
+| source.excerpts.221.value | dans l ' obscurité , ou en pratiquant la ligature de la jeune rosette de feuilles .La racine de Chicorée sauvage torréfiée fournit , comme les glands doux , une infusion amère et tonique , aussi peu excitante que peu aromatique , qu ? on emploie assez souvent pour suppléer au Café .— ' L ' usage le plus important de la Chicorée et de la Laitue ( Lactuca sativa ) , qui ont fourni à nos jardins potagers un si grand nombre de variétés , est l ' usage alimentaire ; il k en est de même d ' un certain nombre d ' autres plantes de la même famille : Pissenlit ( Taraxacum Dens - leoms ) ; Scorsonère ou Salsifis - noir ( Scorsonera hispanica ) , ' a fleurs jaunes , espèce voisine de notre Scorsonerahumilis ; - Salsifis , Salsifis - blanc ( Tragopogon porrifolius ) , à fleurs violettes , spontané en Provence . |
+| source.excerpts.221.words.0 | aromatique |
+| source.excerpts.221.words.1 | tonique |
+| source.excerpts.221.words.2 | amère |
+| source.excerpts.221.words.3 | peu aromatique |
+| source.excerpts.221.words.4 | peu excitante |
+| source.excerpts.221.words.5 | glands doux |
+| source.excerpts.221.words.6 | racine de Chicorée sauvage |
+| source.excerpts.222.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5161737b-a505-5d4a-8d05-5bd69c0c819a |
+| source.excerpts.222.value | En Europe , le Camellia est une conquête assez récente de la haute horticulture ; il fait ( avec les Azalea et les Rhododendron ) la gloire actuelle des expositions florales , et contribue à l ' ornementation des demeures princières ; il rehausse de son éclat , mais alourdit encore , les lourdes cocardes multicolores préférées aujourd ' hui aux simples et gracieux bouquets en gerbe .Le Camellia est inodore ; sa beauté ne fera pas oublier le charme de la Rose .Les caractères généraux des Camelliacées sont les suivants : Arbres ou arbrisseaux à feuilles alternes souvent fasciculées , ord . |
+| source.excerpts.222.words.0 | Rose |
+| source.excerpts.222.words.1 | inodore |
+| source.excerpts.222.words.2 | charme |
+| source.excerpts.222.words.3 | Camellia |
+| source.excerpts.223.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/51b58fa5-b0b6-57a2-936c-cd4fabdfa789 |
+| source.excerpts.223.value | Dans l ' Inde , on en fabrique des tissus odorants .L ' odeur pharmaceutique du vétiver est plutôt importune qu ' agréable .VEXILLAIRE ( PRÉFLORAISON ) . |
+| source.excerpts.223.words.0 | agréable |
+| source.excerpts.223.words.1 | odeur |
+| source.excerpts.223.words.2 | vétiver |
+| source.excerpts.223.words.3 | importune |
+| source.excerpts.223.words.4 | pharmaceutique |
+| source.excerpts.224.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/52117c60-d884-5f7a-a3c0-abcb00604caf |
+| source.excerpts.224.value | NIDOREUX , nidm ' osus .Qui exhale une odeur forte et désagréable , analogue » Mlle de la viande brûlée ." uhdans ( Mirb . |
+| source.excerpts.224.words.0 | désagréable |
+| source.excerpts.224.words.1 | forte |
+| source.excerpts.224.words.2 | odeur |
+| source.excerpts.224.words.3 | viande brûlée |
+| source.excerpts.225.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/52171ce5-13e3-5821-a1e7-49f2ccbe7261 |
+| source.excerpts.225.value | Plante commune dans les bois ; elle fleurit en automne .Son parfum rappelle celui de l ' Origan et de la Marjolaine ; l ' infusion de ses feuilles a été proposée comme pouvant suppléer au thé .CCINOSPORÉS ( Léveillé ) . |
+| source.excerpts.225.words.0 | Origan |
+| source.excerpts.225.words.1 | parfum |
+| source.excerpts.225.words.2 | feuilles |
+| source.excerpts.225.words.3 | Marjolaine |
+| source.excerpts.226.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5275f272-37a8-564c-b27d-ebba88a5e380 |
+| source.excerpts.226.value | CYPRÈS ( Cupressussempervirens , famille des Cupressinées ) .Les cônes globuleux ou galbules du Cyprès contiennent du tannin ; avant leur maturité , on les emploie comme médicament astringent , Cet arbre est ornemental et funéraire , DARB ( terme d ' arboriculture ) .Chez les arbres fruitiers , scions ou rameaux restant courts et portant une rosette de feuilles . |
+| source.excerpts.226.words.0 | Cyprès |
+| source.excerpts.226.words.1 | astringent |
+| source.excerpts.226.words.2 | tannin |
+| source.excerpts.226.words.3 | avant |
+| source.excerpts.226.words.4 | cônes globuleux |
+| source.excerpts.227.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/529ad204-d930-545d-b2ac-8385a97533f6 |
+| source.excerpts.227.value | On attribuait autrefois à sa racine des propriétés diurétiques , résolutives , apéritives , eminénagogues , etc .- ; sa saveur est acre et aromatique .On l ' emploie encore quelquefois dans la médecine populaire comme fébrifuge . |
+| source.excerpts.227.words.0 | aromatique |
+| source.excerpts.227.words.1 | acre |
+| source.excerpts.227.words.2 | sa |
+| source.excerpts.227.words.3 | saveur |
+| source.excerpts.228.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/535d5828-e478-5f63-849b-5c6ec902f644 |
+| source.excerpts.228.value | Qui exhale une odeur pénétrante .S ' emploie surtout pour désigner les odeurs suaves : celles du Lis , du Jasmin , de la Tubéreuse , du Tussilago fragrans , etc .FIIAISIB1L Espèces du genre Fragaria , famille des Rosacées . |
+| source.excerpts.228.words.0 | Jasmin |
+| source.excerpts.228.words.1 | Tubéreuse |
+| source.excerpts.228.words.2 | Lis |
+| source.excerpts.228.words.3 | suaves |
+| source.excerpts.228.words.4 | celles |
+| source.excerpts.228.words.5 | odeurs |
+| source.excerpts.228.words.6 | Tussilago |
+| source.excerpts.229.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/53622728-a512-59fe-b376-6349cfd61eed |
+| source.excerpts.229.value | .il n ' est pas certain , mais il n ' est pas impossible que vous trouviez un gisement de Truffes - noires , belles à souhait et parfumées à plaisir ! Les truffières , pour durer et se reproduire pendant plusieurs années , doivent être ménagées : on doit piocher avec modération et recoller avec mesure ; n ' enlever que les tubercules suffisamment mûrs ; déranger le moins possible les jeunes destinés à grossir , et laisser confiés à la terre ( pour la reproduction ) ceux qui seraient trop avancés .Les jeunes sont petits ( blanchâtres ) , presque sans parfum et sans saveur ; ceux qui sont trop mûrs se brisent et tombent en poussière ( comme un Lycoperdon ou un Scleroderma à sa maturité ) . |
+| source.excerpts.229.words.0 | parfumées |
+| source.excerpts.229.words.1 | Truffes |
+| source.excerpts.230.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/54e4f669-f30d-52b1-a7df-792712cf045d |
+| source.excerpts.230.value | Ce collyre , légèrement astringent , est usité dans les conjonctivites légères , et sert de véhicule à d ' autres collyres plus astringents .L ' essence de roses emplovée dans la parfumerie s ' obtient par la distillation des pétales de Rose dans l ' eau : la plus estimée nous vient de la Turquie et de l ' Inde ; elle est d ' un prix élevé .Les Roses - de - Damas ( Damascence ) , presque aussi glorieuses ( Roses de tous - les - mois de nos anciens parterres , aujourd ' hui supplantées par des Roses hybrides greffées sur sauvageon , dites remontantes , et réputées méritantes ) , qui fleurissaient toute l ' année , franc - de - pied et d ' âge en âge , dans les jardins des châteaux et dans les jardins de villages . |
+| source.excerpts.230.words.0 | Turquie |
+| source.excerpts.230.words.1 | essence de roses |
+| source.excerpts.230.words.2 | parfumerie |
+| source.excerpts.230.words.3 | pétales de Rose |
+| source.excerpts.231.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/553a11e4-48e8-5bc2-8455-6ff5bc3aa921 |
+| source.excerpts.231.value | Plante d ' une odeur forte et désagréable .On prétend que celte odeur attire les chats , et qu ' ils se roulent sur la plante avec fureur .HERBE - AUX - ÉCUS . |
+| source.excerpts.231.words.0 | odeur |
+| source.excerpts.231.words.1 | celte |
+| source.excerpts.231.words.2 | chats |
+| source.excerpts.231.words.3 | attire les chats |
+| source.excerpts.232.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5567941b-a64d-55f8-aa43-9eb36d95c57d |
+| source.excerpts.232.value | Les baies du Viburnum Opulus ( Boule - de - neige - sauvage ) peuvent être employées au même usage .— L ' ' Adoxa Moschatellina , petite plante herbacée de nos bois , a une odeur légèrement musquée ; on lui attribuait des propriétés imaginaires , elle n ' est aujourd ' hui d ' aucun usage .YUCCAS . |
+| source.excerpts.232.words.0 | odeur |
+| source.excerpts.232.words.1 | musquée |
+| source.excerpts.232.words.2 | légèrement |
+| source.excerpts.232.words.3 | plante herbacée |
+| source.excerpts.232.words.4 | Adoxa Moschatellina |
+| source.excerpts.233.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/556e8fc4-3eb4-5a83-8b67-ca24c1d77a39 |
+| source.excerpts.233.value | Grand - Serpolet [ Origanum vulgare , famille des Labiées ) .Jolie plante vivace , commune dans les bois , remarquable par ses larges bractées violettes ; son parfum rappelle celui du Serpolet .Origoma ( Neck . |
+| source.excerpts.233.words.0 | parfum |
+| source.excerpts.233.words.1 | son |
+| source.excerpts.233.words.2 | Serpolet |
+| source.excerpts.233.words.3 | bractées |
+| source.excerpts.234.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56509614-335d-5e08-8fe8-6d926b1920e7 |
+| source.excerpts.234.value | 243 tropicale , dont plusieurs sont cultivées dans les contrées méridionales de l ' Europe ( en Provence ) et dans les serres .Plusieurs Cestrum sont à fleurs très - odorantes : C diurnum , C .vespertinum , C . |
+| source.excerpts.234.words.0 | fleurs |
+| source.excerpts.234.words.1 | odorantes |
+| source.excerpts.234.words.2 | très - odorantes |
+| source.excerpts.234.words.3 | Cestrum |
+| source.excerpts.234.words.4 | diurnum |
+| source.excerpts.235.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56640023-5271-53c1-b0a9-d8404ae1695e |
+| source.excerpts.235.value | vulgaré ) .Son parfum iappelle celui de la Lavande .On cultive la Marjolaine en bordure dans les jardin - , rustiques . |
+| source.excerpts.235.words.0 | Lavande |
+| source.excerpts.235.words.1 | parfum |
+| source.excerpts.236.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/566beb3b-7745-53bb-b5f9-03c3d7a6120c |
+| source.excerpts.236.value | VULNÉRAIRES ( PLANTES ) .Espèces dites vu hier aires , plantes aromatiques ( fig .1618 à 1622 ) douées de propriétés stimulantes , et notamment Y Arnica FIG . |
+| source.excerpts.236.words.0 | plantes |
+| source.excerpts.236.words.1 | aromatiques |
+| source.excerpts.237.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/566cdc68-c473-5939-a049-3eacc9761e95 |
+| source.excerpts.237.value | ASUARINÉES .très - odorantes ; on en extrait le parfum par le procédé employé pour les fleurs dp Jasmin : on les fait macérer dans l ' huile , puis on traite par l ' alcool .Vdy . |
+| source.excerpts.237.words.0 | parfum |
+| source.excerpts.237.words.1 | odorantes |
+| source.excerpts.237.words.2 | très - |
+| source.excerpts.237.words.3 | fleurs dp Jasmin |
+| source.excerpts.238.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56a02590-5809-5b82-a760-98d13a513db9 |
+| source.excerpts.238.value | Les Roses - de - Provins ( Gallicoe ) , charmantes à l ' état sauvage , précieuses pour leurs pétales astringents .L ' essence de roses est le parfum par excellence de l ' Orient .Les Roses à feuilles persistantes et rvOses - du - Bcngale ( R . |
+| source.excerpts.238.words.0 | parfum |
+| source.excerpts.238.words.1 | roses |
+| source.excerpts.238.words.2 | Orient |
+| source.excerpts.239.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56d01266-0521-52b4-bb5a-3eb325bae1b8 |
+| source.excerpts.239.value | 203 ] , famille des Ombellifères ) .Plante indigène , d ' une odeur pénétrante et d ' une saveur chaude et aromatique , analogues à celles de l ' Anis ; ses semences ( diakènes ) sont employées comme condiment .CARYOPHYLLÉES . |
+| source.excerpts.239.words.0 | Anis |
+| source.excerpts.239.words.1 | aromatique |
+| source.excerpts.239.words.2 | pénétrante |
+| source.excerpts.239.words.3 | chaude |
+| source.excerpts.239.words.4 | odeur |
+| source.excerpts.239.words.5 | semences |
+| source.excerpts.239.words.6 | saveur |
+| source.excerpts.240.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56e9d82b-7f66-55a9-8031-520bb34eb2d1 |
+| source.excerpts.240.value | Graines de YOcotea Pichurim , famille des Laurinées .Leur odeur et leur saveur sont fortement aromatiques .FIBRE , fibra = Clostrc ( Dutrochet ) . |
+| source.excerpts.240.words.0 | odeur |
+| source.excerpts.240.words.1 | saveur |
+| source.excerpts.240.words.2 | fortement aromatiques |
+| source.excerpts.241.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56f531e2-e395-56da-a860-c68763871fb8 |
+| source.excerpts.241.value | 1391 et 1392 ) est caractérisé par des carpelles secs ressemblant à de petites graines dures , disposés sur un gynophore ( ou prolongement de l ' axe ) charnu comestible ( fraise ) .Fraises grossies par les procédés de la culture , vous ne valez pas les petites fraises parfumées , cueillies joyeusement sur les lapis moussus de la lisière des bois ! — Le genre Potentilla ( Potentille ) et le genre voisin Comarum diffèrent du genre Fragaria en ce que le gynophore est sec et non charnu , el , par conséquent , le fruit non comestible .L ' espace nous manque pour faire l ' éloge des Potentilles , gracieuse décoration des terrains marécageux , des clairières des bois et des anfractuosités rocheuses 1172 ROSACÉES . |
+| source.excerpts.241.words.0 | parfumées |
+| source.excerpts.241.words.1 | fraises |
+| source.excerpts.242.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/56ff4da2-77ab-505d-a266-be22b11e1a4c |
+| source.excerpts.242.value | L ' Helodes palustris est une petite plante rampante du bord des marais .Plusieurs Bypericum sont cultivés comme plantes d ' ornement : YLL hircinum ( à odeur de bouc ) , YB .calycinum ( vulg . |
+| source.excerpts.242.words.0 | odeur |
+| source.excerpts.242.words.1 | bouc |
+| source.excerpts.243.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/570447d1-ccde-5f6d-8a6a-c238f41ec96c |
+| source.excerpts.243.value | Moschatus .Musqué ; qui exhale une odeur de musc .MOU , mollis . |
+| source.excerpts.243.words.0 | odeur |
+| source.excerpts.243.words.1 | musc |
+| source.excerpts.243.words.2 | Musqué |
+| source.excerpts.244.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/57357300-494d-53d7-b1ce-438062b2aeaf |
+| source.excerpts.244.value | 1555 ) .— La graine du Dipteryx odorata ( la fève - tonka ) renferme une huile grasse analogue à l ' huile d ' amandes douces ; la saveur de cette graine est agréable , son parfum rappelle celui du Mélilot .TOPINAMBOUR ( Helianthus tuberosus , famille des Composées - Corymbifères ) . |
+| source.excerpts.244.words.0 | agréable |
+| source.excerpts.244.words.1 | parfum |
+| source.excerpts.244.words.2 | graine |
+| source.excerpts.244.words.3 | celui |
+| source.excerpts.244.words.4 | saveur |
+| source.excerpts.244.words.5 | odorata |
+| source.excerpts.244.words.6 | Mélilot |
+| source.excerpts.244.words.7 | fève |
+| source.excerpts.244.words.8 | tonka |
+| source.excerpts.244.words.9 | cette graine |
+| source.excerpts.244.words.10 | Dipteryx |
+| source.excerpts.245.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5749a81c-7c15-59d8-b573-331ed640a050 |
+| source.excerpts.245.value | Elle renferme « n pelit nombre de genres , dont le plus important ( Chlorauthus ) comprend de pelits arbrisseaux de l ' Asie tropicale .Les Chloranthacées sont des plantes aromatiques , à rameaux articulés , à feuilles opposées pétiolées , à limbe ovale penninervé - denté .L ' inflorescence est ord . |
+| source.excerpts.245.words.0 | plantes |
+| source.excerpts.245.words.1 | aromatiques |
+| source.excerpts.245.words.2 | Chloranthacées |
+| source.excerpts.246.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/57515501-0a32-5950-8e04-f32678dcf870 |
+| source.excerpts.246.value | Les fleurs des arbres de cette famille ne sont pas moins précoces que celles des arbres de la famille des Amygdàlées .L ' Amélanchier ; ' les Poiriers et lés Pommiers fleurissent dès la fin d ' avril ; l ' Aubépine ouvre ses fleurs parfumées dès les premiers jours de mai ; le Néflier , le Cognassier et les Sorbiers sont en fleur à la même époque .Les fruits de tous . |
+| source.excerpts.246.words.0 | fleurs |
+| source.excerpts.246.words.1 | parfumées |
+| source.excerpts.246.words.2 | Aubépine |
+| source.excerpts.246.words.3 | fleurs parfumées |
+| source.excerpts.246.words.4 | dès les premiers jours de mai |
+| source.excerpts.246.words.5 | Pommiers |
+| source.excerpts.246.words.6 | Poiriers |
+| source.excerpts.246.words.7 | Amélanchier |
+| source.excerpts.246.words.8 | dès la fin d ' avril |
+| source.excerpts.247.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/579b0f5e-c095-5c05-81ec-d5ad036436a3 |
+| source.excerpts.247.value | La poudre et l ' extrait de la racine de Costus sont stimulants et passaient pour aphrodisiaques .Celte substance entre dans la composition de la thériaque ; le parfum de cette racine rappelle celui de l ' Iris de - Florence .Le rosi us est rare dans le commerce . |
+| source.excerpts.247.words.0 | Florence |
+| source.excerpts.247.words.1 | parfum |
+| source.excerpts.247.words.2 | racine |
+| source.excerpts.247.words.3 | Celte substance |
+| source.excerpts.247.words.4 | Iris de |
+| source.excerpts.248.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/582ab6ee-15a9-5682-8bc9-2b523e876770 |
+| source.excerpts.248.value | — Fleur de la Rose - deshaies ( Rosa canina ) ( proportions réduites ) .presque toutes les fleurs par la suavité de leur parfum , fournissent une eau distillée .surtout utile comme collyre . |
+| source.excerpts.248.words.0 | parfum |
+| source.excerpts.248.words.1 | fleurs |
+| source.excerpts.248.words.2 | leur |
+| source.excerpts.248.words.3 | eau distillée |
+| source.excerpts.248.words.4 | toutes |
+| source.excerpts.249.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/582af7a2-5a89-5898-aad4-7a7dc54f1e3d |
+| source.excerpts.249.value | 1273 cet objet , En 1648 , le thé était traité d ' impertinente nouveauté ; aujourd ' hui il est seulement moins neuf .Pour plusieurs , le thé est une tisane stimulante utile pour précipiter une digestion embarrassée , et il produit l ' effet , comme boisson agréable et de luxe , d ' une mystification trop prolongée .Son usage journalier dans les contrées froides , humides et brumeuses , s ' explique par l ' utilité de combattre par des stimulants l ' influence débilitante des brouillards , et encore y est - il presque toujours accompagné de réconfortants beaucoup plus substantiels . |
+| source.excerpts.249.words.0 | thé |
+| source.excerpts.249.words.1 | tisane stimulante |
+| source.excerpts.250.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/584930a7-c299-5986-99d2-d4b287526283 |
+| source.excerpts.250.value | — Le C .lacciferum est un arbrisseau de l ' Inde qui laisse exsuder de ses rameaux une résine employée comme vernis ou laque .— Le C . |
+| source.excerpts.250.words.0 | résine |
+| source.excerpts.250.words.1 | rameaux |
+| source.excerpts.250.words.2 | arbrisseau |
+| source.excerpts.250.words.3 | exsuder |
+| source.excerpts.250.words.4 | lacciferum |
+| source.excerpts.251.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/58596e34-20d2-5009-ba65-2b8bba282350 |
+| source.excerpts.251.value | tique ; les feuilles froissées de la Petite - Ciguë , une odeur vireuse .— VMthusa Cynapium renferme une substance alcaloïde qui agit à la manière des poisons îiareotico - âcres .. |
+| source.excerpts.251.words.0 | substance |
+| source.excerpts.251.words.1 | alcaloïde |
+| source.excerpts.252.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/589f46b1-0b7d-514f-9657-e4b951942030 |
+| source.excerpts.252.value | Elles présentent certaines affinités avec les Urticées et les Polygonées , dont elles s ' éloignent parle manque de périanthe et la présence d ' un double périsperme .Elles sont douées de propriétés aromatiques et stimulantes .Leur inflorescence est en épis ou en spadices . |
+| source.excerpts.252.words.0 | aromatiques |
+| source.excerpts.252.words.1 | stimulantes |
+| source.excerpts.253.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5903dc51-49f7-50ea-a395-37857f071b3d |
+| source.excerpts.253.value | ios .MiDES ( odeur de miel ; l ' odeur du Galium verurn , de la fleur du Tilleul , etc .) ; JASMINOÏDES ( odeur du Jasmin , du Chèvrefeuille ) ; AMYGDALOÏDES ou CYANHYDRIQUES ( odeur d ' amandes anières , odeur de la fleur de l ' flièble , Sambucus herbacea ) ; CYAMOÏDES ( la fleur de l ' Acacia , Robinia l ' seiidaco . |
+| source.excerpts.253.words.0 | odeur |
+| source.excerpts.253.words.1 | miel |
+| source.excerpts.253.words.2 | fleur du Tilleul |
+| source.excerpts.253.words.3 | Galium verurn |
+| source.excerpts.254.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/599dab4d-3cfd-576e-a866-4b0ef3dff76d |
+| source.excerpts.254.value | On plante cette espèce en bordure dans les jardins potagers .— l ' Alchimilla vulgaris ( Alchimille ) est amer el astringent ; il était jadis au nombre des médicaments toniques et stimulants .stimulants . |
+| source.excerpts.254.words.0 | astringent |
+| source.excerpts.254.words.1 | amer |
+| source.excerpts.254.words.2 | Alchimilla |
+| source.excerpts.255.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/59c6d975-1e4a-5893-b397-193ec9cc143f |
+| source.excerpts.255.value | Foetidus = Fetidus .Dont l ' odeur est fétide .FOLIACÉ , foliaceus . |
+| source.excerpts.255.words.0 | fétide |
+| source.excerpts.255.words.1 | odeur |
+| source.excerpts.256.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5abd0ece-32b6-561b-b7cb-0e59a2066528 |
+| source.excerpts.256.value | Voy ; ' ACAJOU : ' - - " ; ' - B0IS * D ? ÀLOiÈS .fioisr odorant qui n ' a aucun rapport avec les Aloès ni avec lesAgavê8 ( vaJg ., ' Aloes ) . |
+| source.excerpts.256.words.0 | odorant |
+| source.excerpts.256.words.1 | Aloès |
+| source.excerpts.257.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5b2cb78e-e696-57d7-80d5-e3c6a3ff7a93 |
+| source.excerpts.257.value | Les rhizomes charnus du Souchet - comestible ( C .escukntus ) sont employés en Espagne à la fabrication d ' une boisson rafraîchissante agréable , analogue à l ' orgeat .SOUCI . |
+| source.excerpts.257.words.0 | boisson |
+| source.excerpts.257.words.1 | rafraîchissante |
+| source.excerpts.257.words.2 | rafraîchissante agréable |
+| source.excerpts.258.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5bee5752-416b-5487-896d-6bf5b21f1cc7 |
+| source.excerpts.258.value | Ces bois sont comptés au nombre des médiraàénts sudorifiques .Oh les brûle 1 comme parfums dans les Indes .— Le Santal d ' Amérique est le bois ^ dë - Brësil ( Coesalpinia echimta ) . |
+| source.excerpts.258.words.0 | parfums |
+| source.excerpts.258.words.1 | Indes |
+| source.excerpts.259.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5c62c7c9-c792-5e25-a453-711339f52f15 |
+| source.excerpts.259.value | Il agit comme excitant et sudorifique ; on l ' emploie dans le traitement des affections syphilitiques et les maladies chroniques de la peau .La teinture ( extrait alcoolique ) de Sassafras est en usage dans la parfumerie , elle entre dans la préparation de parfumerie dite eau athénienne .SATIVUS . |
+| source.excerpts.259.words.0 | teinture |
+| source.excerpts.259.words.1 | extrait |
+| source.excerpts.259.words.2 | parfumerie |
+| source.excerpts.259.words.3 | Sassafras |
+| source.excerpts.260.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5ce543f5-dd17-5893-9333-7549827f1cd8 |
+| source.excerpts.260.value | dosZingibéracécs ) .Ses rhizomes aromatiques sont doués de propriétés analogues à celles du Gingembre ( Zingiber officinale ) , du Gaianga , etc .ERRATA ET ADDENDA l ' iijji ' S . |
+| source.excerpts.260.words.0 | aromatiques |
+| source.excerpts.260.words.1 | Gingembre |
+| source.excerpts.260.words.2 | Gaianga |
+| source.excerpts.261.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5f629ae1-cd8b-5a52-ac3e-5f9de83804aa |
+| source.excerpts.261.value | — Le Cerfeuil - musqué ( Myrrhis odorata ) , moins usité , pourrait être employé aux mêmes usages pharmaceutiques .— Le Cerfeuilbuïbeux ( Choerophyllum bulbosum ) a été récemment introduit dans les jardins potagers ; on commence à le cultiver en grand pour ses racines pivotantes charnues , analogues à celles de la Carotte et légèrement aromatiques .C . |
+| source.excerpts.261.words.0 | Carotte |
+| source.excerpts.261.words.1 | aromatiques |
+| source.excerpts.261.words.2 | Choerophyllum bulbosum |
+| source.excerpts.262.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5f7f768b-84a5-585d-9681-5e17e397a5ff |
+| source.excerpts.262.value | TUBÉREUSE ( Polianthes tuber osa , famille des Liliacées ) .Le parfum de la Tubéreuse rappelle celui du Lis - blanc ; il est aussi suave et plus pénétrant .Cette belle plante est cultivée en grand pour la parfumerie ; on recueille l ' odeur en faisant macérer les fleurs dans la graisse ou dans l ' huile ( 3 parties de fleurs pour une partie en poids d ' huile ) . |
+| source.excerpts.262.words.0 | Tubéreuse |
+| source.excerpts.262.words.1 | Lis |
+| source.excerpts.262.words.2 | suave |
+| source.excerpts.262.words.3 | parfum |
+| source.excerpts.262.words.4 | pénétrant |
+| source.excerpts.263.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5f83d013-1afe-55e2-b5ac-481112489a9c |
+| source.excerpts.263.value | On lui attribuait autrefois , ainsi qu ' au II .lutea , des propriétés diurétiques et s - udorifiques .— La P . |
+| source.excerpts.263.words.0 | diurétiques |
+| source.excerpts.263.words.1 | lutea |
+| source.excerpts.263.words.2 | udorifiques |
+| source.excerpts.264.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5f9b4d6b-3d44-5943-9b32-a6b9a91d35ff |
+| source.excerpts.264.value | Le V .Agnus - castus atteint en Provence les proportions d ' un grand arbre ; ses feuilles palmatisôquées , ses fleurs en longs épis violets , son parfum aromatique camphré , le rendent propre à la décoralion des parcs et des bosquets .On attribuait au suc des feuilles des propriétés sédatives . |
+| source.excerpts.264.words.0 | parfum |
+| source.excerpts.264.words.1 | fleurs |
+| source.excerpts.264.words.2 | feuilles |
+| source.excerpts.264.words.3 | Provence |
+| source.excerpts.264.words.4 | bosquets |
+| source.excerpts.264.words.5 | Agnus |
+| source.excerpts.264.words.6 | parcs |
+| source.excerpts.264.words.7 | aromatique camphré |
+| source.excerpts.264.words.8 | castus |
+| source.excerpts.265.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5fc7f411-b813-5958-8816-517a332eb0cf |
+| source.excerpts.265.value | — Débris microscopiques ( fortement grossis ) provenant de substances organiques végétales ( feuilles , etc .) ou autres en décomposition dans des eaux stagnantes ; substances tenues eu suspension dans l ' eau et non dans l ' air , et , malgré leurs dimension s microscopiques , ne constituant pas des miasmes , mais faisant partie des débris en fermentation qui exbalont les odeurs toxiques désignées sous le nom de miasmes .On regarde généralement les miasmes comme des particules solides d ' une infinie petitesse , tenues en suspension dans l ' air par de la vapeur d ' eau . |
+| source.excerpts.265.words.0 | autres |
+| source.excerpts.265.words.1 | odeurs |
+| source.excerpts.265.words.2 | miasmes |
+| source.excerpts.265.words.3 | toxiques |
+| source.excerpts.265.words.4 | substances |
+| source.excerpts.265.words.5 | débris |
+| source.excerpts.266.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/5fecd0cf-112a-5534-b5e0-7473df0b480d |
+| source.excerpts.266.value | Les Santalacécs indigènes ( genre Thesium ) ne sont douées d ' aucune propriété notable , Plusieurs espèces exotiques du çpmeSantalmn ( fig .1416 ) fournissent un bois aromatique très - recherché en Orient , et auquel les médecins arabes attribuaient d ' importantes propriétés .Par la distillation du bois , on obtient une essence dont l ' odeur rappelle le parfum de la Rose . |
+| source.excerpts.266.words.0 | bois |
+| source.excerpts.266.words.1 | aromatique |
+| source.excerpts.266.words.2 | médecins |
+| source.excerpts.267.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6003bccb-e046-55a6-9edc-50d79be12621 |
+| source.excerpts.267.value | Les corps absolument insolubles sont généralement insapides ( ou insipides ) , mais tous les liquides ne sont pas sapides : l ' eau pure ( eau distillée ) , qui est le véhicule ordinaire des substances sapides , est parfaitement insapide .Le mot savoureux s ' applique à une substance dont la saveur - est agréable au goût .Les saveurs sont perçues par la surface de la langue ( surtout sa face supérieure ) , et par les parois buccales el pharyngiennes ( les parois de la bouche , et surtout de l ' arrière - bouche ou pharynx ) , parois dans lesquelles s ' épanouissent les filets ( anastomosés en réseau ) du nerf lingual et du nerf glosso - pharyngien . |
+| source.excerpts.267.words.0 | agréable |
+| source.excerpts.267.words.1 | substance |
+| source.excerpts.267.words.2 | saveur |
+| source.excerpts.268.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/60c33bbe-fe47-5f3f-832f-933646c886dd |
+| source.excerpts.268.value | Les Orchidées ( fig .1137 à 1141 ) constituent le groupe le plus merveilleux du monde végétal , parla beauté , l ' éclat , le parfum , et surtout la bizarrerie presque fantastique de leurs fleurs , ainsi que par la disposition élégante des liges florifères .Les espèces d ' Europe ( appartenant la plupart à la tribu des Ophrydées ) ( fig . |
+| source.excerpts.268.words.0 | parfum |
+| source.excerpts.268.words.1 | leurs fleurs |
+| source.excerpts.269.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6180f4f0-5d01-5a32-9edc-8140ffb9c0eb |
+| source.excerpts.269.value | STYPTIQUE , styptievs .Saveur acerbe et astringente .STïUAX . |
+| source.excerpts.269.words.0 | astringente |
+| source.excerpts.269.words.1 | Saveur |
+| source.excerpts.269.words.2 | acerbe |
+| source.excerpts.270.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/61d6dfb3-73d9-55d6-8a18-6e23083f9c60 |
+| source.excerpts.270.value | Du des enseignements hygiéniques qui résultent de la connaissance des effets différents de la respiration des végétaux pendant le jour et pendant la nuit , est qu ' il faut éviter de laisser , pendant la nuit , séjourner des plantes vivantes dans les appartements habités , puisqu ' elles contribuent alors , comme les animaux , à y augmenter , dans des proportions nuisibles , la quantité d ' acide carbonique contenu dans l ' air .— Les odeurs aromatiques qu ' exhalent les fleurs contribuent également à donner des qualités malfaisantes à l ' air renfermé dans un étroit espace et qui s ' en trouve saturé .Les moyens fournis à la thérapeutique par la phcmnacologie sont extrêmement nombreux , et peuvent être appliqués à la plupart des affections internes ou externes , soit générales , soit locales ; ils sont connus sous le nom de médicaments . |
+| source.excerpts.270.words.0 | fleurs |
+| source.excerpts.270.words.1 | air |
+| source.excerpts.270.words.2 | odeurs |
+| source.excerpts.270.words.3 | aromatiques |
+| source.excerpts.270.words.4 | malfaisantes |
+| source.excerpts.270.words.5 | exhalent |
+| source.excerpts.271.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/61fe93b1-b0bb-571b-b0c7-536c7e5cd471 |
+| source.excerpts.271.value | Ce suc .fermenté prend une saveur piquante el agréable ( analogue à celle du vin de Champagne ) ; altéré par la fermentation acide ou putride , il provoque une ivresse bruyante et peut causer des accidents graves : le remède est l ' opium et les médicaments stimulants .Vinatis . |
+| source.excerpts.271.words.0 | agréable |
+| source.excerpts.271.words.1 | piquante |
+| source.excerpts.271.words.2 | saveur |
+| source.excerpts.271.words.3 | vin de Champagne |
+| source.excerpts.272.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6244a71a-3432-5830-9423-80e6586f6ac4 |
+| source.excerpts.272.value | des Caprifoliacées .Plusieurs espèces du genre Chèvrefeuille décorent nos jardins de leurs tiges souvent volubiles et de leurs fleurs parfumées .Les baies du L . |
+| source.excerpts.272.words.0 | fleurs |
+| source.excerpts.272.words.1 | parfumées |
+| source.excerpts.272.words.2 | tiges |
+| source.excerpts.272.words.3 | Plusieurs |
+| source.excerpts.272.words.4 | Chèvrefeuille |
+| source.excerpts.273.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/629b3ee2-f94b-57f5-9fcc-87f017ca2816 |
+| source.excerpts.273.value | On prépare avec la Mélisse officinale ( fig .1035 ) une eau distillée légèrement stimulante .La Mélisse entre dans la composition de l ' alcoolat composé , dit eau des Carmes . |
+| source.excerpts.273.words.0 | légèrement |
+| source.excerpts.273.words.1 | eau |
+| source.excerpts.273.words.2 | stimulante |
+| source.excerpts.274.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/62d9424e-491d-537e-87d4-6595a4cfd66b |
+| source.excerpts.274.value | ) ; COSTÉES ( g .Costus : ne pas confondre avec le Saussurea Costus , plante également à souche aromatique , mais de la famille des Composées ) .ZONE , zona . |
+| source.excerpts.274.words.0 | aromatique |
+| source.excerpts.274.words.1 | Saussurea |
+| source.excerpts.275.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/635f2ee9-4abd-5e09-8a43-784cc25b7e24 |
+| source.excerpts.275.value | Suaveolens .Exhalant une odeur suave .Su / j - , Sous , presque , à peine . |
+| source.excerpts.275.words.0 | suave |
+| source.excerpts.275.words.1 | odeur |
+| source.excerpts.276.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/63b920f5-8eae-5157-894c-074666f13132 |
+| source.excerpts.276.value | Arbres de la famille des Euphorbiacées qui croissent aux Antilles .L ' écorce sèche des rameaux est très - odorante ; c ' est un médiraFIG .médiraFIG . |
+| source.excerpts.276.words.0 | odorante |
+| source.excerpts.276.words.1 | très - |
+| source.excerpts.276.words.2 | écorce sèche des rameaux |
+| source.excerpts.277.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/64dcd6c3-1987-5c66-8fd5-297590add822 |
+| source.excerpts.277.value | médiraFIG .— Sommité florifère de l ' Arbre - à - cascarille ( Croton aromaticum ; C .Eluteria ) . |
+| source.excerpts.277.words.0 | cascarille |
+| source.excerpts.277.words.1 | florifère |
+| source.excerpts.277.words.2 | Croton |
+| source.excerpts.277.words.3 | aromaticum |
+| source.excerpts.278.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6536a0fe-e1c9-5932-a44f-4072cecb849c |
+| source.excerpts.278.value | Ces deux plantes croissent dans les marécages .— Le Coris monspeliensis est d ' une saveur légèrement amère et aromatique .PRIMINE = Testa . |
+| source.excerpts.278.words.0 | aromatique |
+| source.excerpts.278.words.1 | saveur |
+| source.excerpts.278.words.2 | légèrement amère |
+| source.excerpts.278.words.3 | Coris monspeliensis |
+| source.excerpts.279.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/66106168-7ce4-5e11-b768-94a66090afb1 |
+| source.excerpts.279.value | La Lavande est spontanée dans les collines de la région méditerranéenne ; on la plante en bordure dans les jardins .Les sommités fleuries exhalent une odeur camphrée trèsagréable .On la cultive en grand pour en préparer une eau distillée en usage dans la parfumerie . |
+| source.excerpts.279.words.0 | odeur |
+| source.excerpts.279.words.1 | sommités fleuries |
+| source.excerpts.279.words.2 | camphrée trèsagréable |
+| source.excerpts.280.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/675810e9-a87a-5d4b-b032-952155d7ba7f |
+| source.excerpts.280.value | Le thé - vert est obtenu parla dessiccation rapide des jeunes feuilles , qui conservent ainsi toutes leurs propriétés .— Le thé - noir est un thé de seconde qualité , moins rapidement et moins bien séché ; il est moins excitant , mais moins aromatique .L ' usage est de mélanger les deux sortes pour en préparer l ' infusion . |
+| source.excerpts.280.words.0 | aromatique |
+| source.excerpts.280.words.1 | thé |
+| source.excerpts.281.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/676693ee-9396-532d-abd5-3e2e2dc93b33 |
+| source.excerpts.281.value | Ce Groseillier est cultivé dans tous les jardins .Les feuilles et les fruits du Cassis sont doués d ' une odeur et d ' une saveur résineuses - aromatiques .Ces fruits sont peu recherchés ; on s ' en sert principalement pour composer , par macération avec de l ' eau - de - vie et du sucre , une liqueur fermentée douée de propriétés toniques et stomachiques . |
+| source.excerpts.281.words.0 | odeur |
+| source.excerpts.281.words.1 | aromatiques |
+| source.excerpts.281.words.2 | résineuses |
+| source.excerpts.281.words.3 | feuilles |
+| source.excerpts.281.words.4 | saveur |
+| source.excerpts.281.words.5 | fruits du |
+| source.excerpts.282.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/67ec1ce5-3211-5d4d-8c5c-f611726b4f63 |
+| source.excerpts.282.value | 637 fleurs pourraient fournir des parfums agréables : les parfumeurs n ' ont , sous le nom d ' essence de Giroflée , qu ' un mélange de diverses odeurs .GIROFLIER ou GÉROFLIER ( Caryophyllus aromaticus , fam .des Myrtacées ) . |
+| source.excerpts.282.words.0 | Caryophyllus |
+| source.excerpts.282.words.1 | aromaticus |
+| source.excerpts.283.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/69e24d47-ccdc-5082-aea1-7a327fc0b42f |
+| source.excerpts.283.value | des Tiliacées ) .— La fleur des Tilleuls exhale une odeur très - suave ; elle renferme une huile volatile unie à une .matière niucilagineusc sucrée et à une petite quantité de tannin ; on en prépare une infusion très - usitée comme calmante et sudorifique . |
+| source.excerpts.283.words.0 | odeur |
+| source.excerpts.283.words.1 | très - suave |
+| source.excerpts.283.words.2 | fleur des Tilleuls |
+| source.excerpts.284.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6a656aa8-59d2-5c6a-a6d1-3ead190a00c6 |
+| source.excerpts.284.value | SANG - ORAGON .Résines d ' origines diverses , douées de propriétés astringentes , et employées contre les héniorrhagies , la dyssenterie , etc .SOUCHETS . |
+| source.excerpts.284.words.0 | astringentes |
+| source.excerpts.284.words.1 | Résines |
+| source.excerpts.285.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6acf3f06-564b-5e66-8433-d957eb8b063e |
+| source.excerpts.285.value | — La Belle - dejour ( Convolvulus trîcol ' or ) , cette fleur bleu de ciel à coeur d ' un jaune tendre , a déjà depuis longtemps ouvert sa jolie clochette à cinq battants .— C ' est seulement au coucher du soleil que la corolle de l ' Oiiagre - odorante ( OEnothera suaveolens ) déchire brusquement son calice trop étroit , et déroule ses quatre grands pétales d ' un jaune pur et d ' un parfum doux et pénétrant .— C ' est plus tard encore que la Belle - de - nuit ( Mirabilis Jalapa ) , la merveille du Mexique , et sa soeur , Mirabilis longiflora , se constellent , pour la nuit , de leurs fleurs tubuleuses , blanches à gorge rose , ou d ' un rouge vif , ou multicolores : ce sont les plus parfumées de toutes les fleurs . |
+| source.excerpts.285.words.0 | odorante |
+| source.excerpts.285.words.1 | doux |
+| source.excerpts.285.words.2 | parfum |
+| source.excerpts.285.words.3 | pénétrant |
+| source.excerpts.285.words.4 | au coucher du soleil |
+| source.excerpts.285.words.5 | OEnothera |
+| source.excerpts.285.words.6 | Oiiagre |
+| source.excerpts.286.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6b0c9aec-a35d-5a11-852b-3ae977f7f208 |
+| source.excerpts.286.value | On emploie le bois de Sassafras râpe : son odeur est aromatique et rappelle celle du Fenouil ; sa saveur est piquante .Il agit comme excitant et sudorifique ; on l ' emploie dans le traitement des affections syphilitiques et les maladies chroniques de la peau .La teinture ( extrait alcoolique ) de Sassafras est en usage dans la parfumerie , elle entre dans la préparation de parfumerie dite eau athénienne . |
+| source.excerpts.286.words.0 | excitant |
+| source.excerpts.286.words.1 | sudorifique |
+| source.excerpts.287.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6b263882-2eb9-5564-af75-484da3dd44c1 |
+| source.excerpts.287.value | Ses stigmates fournissent une matière colorante d ' un rouge orangé très - précieuse pour la teinture , et usitée dans la peinture au lavis .Celte substance , dont l ' odeur est aromatique et suave , est du nombre des médicaments excitants du système nerveux dits OMtispasmodiques ; on en prépare des élixirs .Le safran cultivé en France est d ' une qualité inférieure à celui que le commerce tire de l ' Orient . |
+| source.excerpts.287.words.0 | aromatique |
+| source.excerpts.287.words.1 | suave |
+| source.excerpts.287.words.2 | odeur |
+| source.excerpts.287.words.3 | Celte substance |
+| source.excerpts.288.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6b8d6cf6-7698-5e9a-92d1-f3b1a2730b54 |
+| source.excerpts.288.value | Cimicinus ( cimex , punaise ; en grec , xopiç ) .Qui exhale une odeur de punaise ; ex .: les fleurs de YOrckis coriopkora ; la Coriandre ( Coriandrum sativum ) , toute la plante à l ' état frais exhale une forte odeur de punaise . |
+| source.excerpts.288.words.0 | odeur |
+| source.excerpts.288.words.1 | punaise |
+| source.excerpts.289.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6bcd28e6-9258-55b4-8f6a-fd78a953e959 |
+| source.excerpts.289.value | Le Croton Eluteria se rencontre aux îlesLucayes , et il est abondant à Haïti .Ses feuilles froissées ont l ' odeur aromatique de la Sauge ; on en prépare une infusion amère , stimulante des fonctions digestives .CASQUE . |
+| source.excerpts.289.words.0 | Sauge |
+| source.excerpts.289.words.1 | aromatique |
+| source.excerpts.289.words.2 | odeur |
+| source.excerpts.289.words.3 | infusion |
+| source.excerpts.289.words.4 | Ses feuilles froissées |
+| source.excerpts.290.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6c0260e6-5e3a-5e82-8f4f-daf4beeb25c5 |
+| source.excerpts.290.value | — Cette famille , très - importante par le nombre considérable de ses genres et de ses espèces , dont la plupart sont de beaux arbres à feuilles persistantes et aromatiques , est remarquable par la structure bizarre des étamines ; ce trait d ' organisation rapproche les Laurinées des MonimiacéesAiliérospcrinécs et des Berbéridées .Leurs qualités aromatiques rappellent celles des Myrislicées , dont elles diffèrent tout à fait par la structure de l ' élamine el de la graine .Les caractères essentiels de la famille sont les suivants : Feuilles alternes nu presque verlicillécs , coriaces - persistantes , entières , réticulées , glandulifères en dessous , dépourvues de stipules . |
+| source.excerpts.290.words.0 | qualités aromatiques |
+| source.excerpts.290.words.1 | Myrislicées |
+| source.excerpts.291.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6c1069ee-0ee4-5e32-a5ab-85f160bf5a48 |
+| source.excerpts.291.value | La Rose - mousseuse , cette délicate merveille presque oubliée , et devenue rare aujourd ' hui .Les Roses - de - Provins ( Gallicoe ) , charmantes à l ' état sauvage , précieuses pour leurs pétales astringents .L ' essence de roses est le parfum par excellence de l ' Orient . |
+| source.excerpts.291.words.0 | Roses |
+| source.excerpts.291.words.1 | pétales |
+| source.excerpts.291.words.2 | astringents |
+| source.excerpts.292.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6c1b5297-e7f6-55f5-b150-7540ddef5a7a |
+| source.excerpts.292.value | ne s ' échappant que lors de la déchirure de ses parois .Les espèces du genre Lyoperdun et des genres voisins ( Bovista , Scleroderma , Geaster , Tylostoma ) onl souvent , dans leur premier âge , une odeur agréable de champignon ; elles ne sont cependant pas comestibles .LYCOPODIACÉES . |
+| source.excerpts.292.words.0 | agréable |
+| source.excerpts.292.words.1 | odeur |
+| source.excerpts.292.words.2 | elles |
+| source.excerpts.292.words.3 | espèces |
+| source.excerpts.292.words.4 | champignon |
+| source.excerpts.292.words.5 | Scleroderma |
+| source.excerpts.292.words.6 | Lyoperdun |
+| source.excerpts.292.words.7 | Tylostoma |
+| source.excerpts.292.words.8 | Geaster |
+| source.excerpts.293.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6c36c675-d2fe-5420-a846-593d010f448f |
+| source.excerpts.293.value | La résine galbanum qui vient de la Syrie est attribuée par divers auteurs , non au Galbanum officinale , mais à un Ferula .La résine galbanum est aromatique et douée de propriétés stimulantes analogues à celles de l ' asa - foelida .GALÉIFORME , galeotus . |
+| source.excerpts.293.words.0 | aromatique |
+| source.excerpts.293.words.1 | stimulantes |
+| source.excerpts.293.words.2 | résine galbanum |
+| source.excerpts.294.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6c5d6ba9-8893-5341-9882-6f1361099a17 |
+| source.excerpts.294.value | FÈVE - DE - TONKA .Graines du Dipteryx ( Coumarouna ) odorata , famille des Légumineuses .Leur odeur aromatique rappelle celle du Mélilot ; on lésa employées pour parfumer le tabac . |
+| source.excerpts.294.words.0 | Graines |
+| source.excerpts.294.words.1 | odorata |
+| source.excerpts.295.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6cdeace5-b576-5641-bb3c-2c1cccf23c2d |
+| source.excerpts.295.value | Cet arbre est indigène dans l ' Europe méridionale .L ' écorce et les jeunes rameaux fournissent une décoction astringente dont on a fait usage dans le traitement de la dyssenleric ; les fruits sont comestibles , leur saveur est légèrement styptique ; les amandes renferment une huile analogue à l ' huile d ' amandes douces .1049 . |
+| source.excerpts.295.words.0 | leur |
+| source.excerpts.295.words.1 | astringente |
+| source.excerpts.295.words.2 | écorce |
+| source.excerpts.295.words.3 | rameaux |
+| source.excerpts.296.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6d1f9d86-f1ea-5a0b-aa6a-8ac968979169 |
+| source.excerpts.296.value | AQUILARUSEES .Famille de plantes dicotylées , apétales , contenant les deux seuls genres Aquilaria et Gyrinops , dont les espèces ( petits abrisseaux de l ' Inde ) fournissent le bois aromatique célèbre sous le nom de Bois - d ' Aloès ( ce bois n ' a rien de commun avec les plantes du genre Aloë ) .Les Aquilarinées sont voisines des Daplmoïdées ; elles en diffèrent surtout par leur ovaire composé de deux carpelles soudés . |
+| source.excerpts.296.words.0 | bois |
+| source.excerpts.296.words.1 | aromatique |
+| source.excerpts.297.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6d25fbc7-ab0e-57aa-9f91-214bfae92be1 |
+| source.excerpts.297.value | Les résines des Térébinthacées sont : le mastic , retiré des tiges du Pùtacia Lentiscus , bel arbusle odorant , un des buissons les plus communs de la région méditerranéenne ; et la résine - élémi , obtenue de divers arbres ou arbustes : Elaphrium elemiferum , Bursera gummifera , etc .Parmi les résines fournies par des arbres de diverses autres familles , nous citerons : le sang - dragon , provenant d ' arbres différents : un Palmier ( Calamus Draco ) , une Asparaginée ou Asphodélée ( Dracoena Draco ) , une Léguinineuse [ Pteroearpus Draco ) ; le courbaril ( Hymenoea Courbaril ) ; le ladanum , qui exsude naturellement des liges de plusieurs espèces du genre Cislus ( C .ladaniferus , C . |
+| source.excerpts.297.words.0 | sang |
+| source.excerpts.297.words.1 | exsude |
+| source.excerpts.298.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6d430aff-3310-52f2-826f-9f783d076fc1 |
+| source.excerpts.298.value | La poudre s ' emploie à la dose d ' environ ' i " ranimes et au delà .L ' odeur de la Valériane bouleverse les fonctions musculaires chez les chats , qui se roulent sur celte plante avec des mouvements désordonnés : « Si grand est , ditMaltbioIe , l ' accord naturel des chats avec cette plante .» VALÉRIAiVÉES . |
+| source.excerpts.298.words.0 | odeur |
+| source.excerpts.298.words.1 | Valériane |
+| source.excerpts.298.words.2 | plante |
+| source.excerpts.298.words.3 | chats |
+| source.excerpts.298.words.4 | bouleverse les fonctions |
+| source.excerpts.299.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6ec33c89-9aa3-5fe0-aeac-364ed37d8707 |
+| source.excerpts.299.value | — Capillaire - de - Montpellier ( Adiantum Capillus - Veueris ) .Lus frondes des Fougères renferment un suc plus ou moins astringent , et quelquefois aromatique .Leurs liges souterraines contiennent , en général , une certaine quantité de fécule , une huile grasse , une huile volatile , un principe nmcilagineiix sucré analogue à la mannite , el une substance oléo - résineuse FOURCHU . |
+| source.excerpts.299.words.0 | Fougères |
+| source.excerpts.299.words.1 | aromatique |
+| source.excerpts.300.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6f1e829a-a290-5927-be39-e81396ed630d |
+| source.excerpts.300.value | Le suc de l ' écorce cl de la racine a été employé comme purgatif .Les baies du Vilnirmm Lantana ont une saveur sucrée légèrement nauséeuse .Les baies du Sureaunoir et du Sureau - à - grappes ont une saveur sucrée acide el nauséeuse ; on en prépare des conserves sucrées douées de propriétés légèrement laxatives . |
+| source.excerpts.300.words.0 | saveur |
+| source.excerpts.300.words.1 | baies du |
+| source.excerpts.300.words.2 | sucrée légèrement nauséeuse |
+| source.excerpts.301.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6f62a43c-f0e1-59fd-b744-5db703029967 |
+| source.excerpts.301.value | , et certains moyens hygiéniques , tels que l ' Abstinence , les Bains , le Changement d ' air , le Repos , l ' Exercice , etc ., on pourra se convaincre que , quelle que soit l ' importance des propriétés médicales des végétaux , il ne faut pas , comme on est vulgairement porté à le faire , s ' attendre à trouver chez les plantes une pharmacopée universelle .Néanmoins un grand nombre de substances végétales constituent des médicaments précieux et des plus usités , que ces substances soient isolées ou qu ' elles soient associées entre elles ou à d ' autres substances dans diverses combinaisons . |
+| source.excerpts.301.words.0 | végétaux |
+| source.excerpts.301.words.1 | pharmacopée |
+| source.excerpts.302.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6f95de0a-7f73-5e52-ac9d-e3139fa68e64 |
+| source.excerpts.302.value | moindre degré à diverses autres plantes de la même famille .Les Crucifères doivent leur saveur acre el piquante el leurs propriétés excitantes à un principe volatil répandu dans tous leurs organes , el fui est souvent uni à du soufre ; elles contiennent aussi mi principe amer et ; différents sels ; enlin les graines d ' un assez grand nombre contiennent une huile grasse associée , chez quelques - unes , à une huile volatile .Le suc d ' un grand nombre de Crucifères fait la base des médicaments dits antiscorbutiques . |
+| source.excerpts.302.words.0 | acre |
+| source.excerpts.302.words.1 | elles |
+| source.excerpts.302.words.2 | leur |
+| source.excerpts.302.words.3 | excitantes |
+| source.excerpts.302.words.4 | principe |
+| source.excerpts.302.words.5 | saveur |
+| source.excerpts.302.words.6 | Crucifères |
+| source.excerpts.303.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/6fb57100-e77b-5018-b4cb-d95b41847faf |
+| source.excerpts.303.value | ce mot ) , le Cydonia milgaris .Ce fruit mûr a une odeur aromatique agréable ; sa chair esl dure et cassante , et d ' une saveur à la fois âpre et sucrée .Cuit , il constitue un aliment agréable , mais un peu astringent . |
+| source.excerpts.303.words.0 | odeur |
+| source.excerpts.303.words.1 | aromatique agréable |
+| source.excerpts.303.words.2 | sa chair |
+| source.excerpts.303.words.3 | fruit mûr |
+| source.excerpts.304.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/703277d6-bb6f-5e22-8f34-baf497ec7b5f |
+| source.excerpts.304.value | L ' odeur forte , pénétrante et désagréable , de certaines gommesrésines , celle du Ferula , de l ' Asa - fcetida , par exemple , sont plutôt nauséeuses que fétides .La saveur vineuse ( saveur du vin ) rentre aussi dans la classe des saveurs aromatiques ; elle se perçoit par le réseau du nerf olfactif : aussi les saveurs vineuses ou alcooliques semblent - elles presque nulles , désagréables , dénaturées , perverties , aux personnes atteintes d ' une altération du siège de - l ' odorat ( la membrane olfactive ou pituitaire ) , soit par phlogosc ( gonflement inflammatoire dans le cas de coryza ordinaire ou rhume - de - cerveau ) , soit par une altération plus profonde du tissu du réseau nerveux lui - même ( par exemple dans certains cas de l ' affection grippale ) .SAVONNIER . |
+| source.excerpts.304.words.0 | vin |
+| source.excerpts.304.words.1 | olfactif |
+| source.excerpts.304.words.2 | odorat |
+| source.excerpts.304.words.3 | personnes |
+| source.excerpts.304.words.4 | désagréables |
+| source.excerpts.304.words.5 | nulles |
+| source.excerpts.304.words.6 | saveurs |
+| source.excerpts.304.words.7 | saveurs aromatiques |
+| source.excerpts.304.words.8 | saveur vineuse |
+| source.excerpts.305.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7041485c-4241-5a9b-8929-0fbfece5c49e |
+| source.excerpts.305.value | Aussi cette plante était - elle cultivée partout , dans les jardins et dans les champs .Celte herbe était en honneur chez les naturels de l ' Amérique pour ses vertus sédatives ; ils l ' employaient pour calmer les douleurs aiguës .La connaissance du tabac parvint d ' abord en Portugal ; plus tard elle pénétra en Angleterre , et ne tarda pas à se répandre dans l ' Europe entière , et , de proche en proche , dans toutes les contrées habitées de la terre . |
+| source.excerpts.305.words.0 | herbe |
+| source.excerpts.305.words.1 | sédatives |
+| source.excerpts.305.words.2 | calmer les douleurs aiguës |
+| source.excerpts.306.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/70d28cfd-a315-5779-af03-7f40391ce690 |
+| source.excerpts.306.value | — Ces belles plantes ( fig .113 ) décorent nos terrains sablonneux de leurs longues panicules d ' un jaune pâle ; leurs Heurs exhalent une odeur douce et suave .On en prépaie une infusion pectorale d ' une saveur légèrement aromatique , et qui n ' est pas moins agréable que celle du thé ; mais on doit avoir soin de passer celle infusion à travers un filtre ou un linge fin : sans cette précaution , les poils qui revêtent les diverses parties de la Heur , et principalement les étamines , causent une irritation à la gorge qui détruit l ' effet salutaire de l ' infusion . |
+| source.excerpts.306.words.0 | suave |
+| source.excerpts.306.words.1 | douce |
+| source.excerpts.306.words.2 | odeur |
+| source.excerpts.306.words.3 | leurs Heurs |
+| source.excerpts.307.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/712a3ce3-1542-5867-b130-9c6866396b53 |
+| source.excerpts.307.value | — C ' est plus tard encore que la Belle - de - nuit ( Mirabilis Jalapa ) , la merveille du Mexique , et sa soeur , Mirabilis longiflora , se constellent , pour la nuit , de leurs fleurs tubuleuses , blanches à gorge rose , ou d ' un rouge vif , ou multicolores : ce sont les plus parfumées de toutes les fleurs .— Quelques - unes , comme la Julienne ( Eespèris matronalis , la Fleur - du - soir aimée des dames ) , sont épanouies dès le milieu du jour , mais ce n ' est que dans l ' ombre de la nuit qu ' elles livrent au zéphyr leurs pénétrantes senteurs .. |
+| source.excerpts.307.words.0 | Fleur |
+| source.excerpts.307.words.1 | leurs |
+| source.excerpts.307.words.2 | elles |
+| source.excerpts.307.words.3 | senteurs |
+| source.excerpts.307.words.4 | pénétrantes |
+| source.excerpts.307.words.5 | dès le milieu du jour |
+| source.excerpts.308.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/71a76d79-2cf9-5a2d-9eab-4eee6e26cbb7 |
+| source.excerpts.308.value | 121 cosmétique sous le nom de lait - virginal .La teinture de benjoin est quelquefois substituée à la vanille dans la parfumerie .Le principe odorant du benjoin est l ' acide henzoïque . |
+| source.excerpts.308.words.0 | teinture |
+| source.excerpts.308.words.1 | benjoin |
+| source.excerpts.308.words.2 | vanille |
+| source.excerpts.308.words.3 | parfumerie |
+| source.excerpts.309.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/720367af-e776-5724-84a2-6839faf4fcf9 |
+| source.excerpts.309.value | la Petite - Ciguë sont d ' un vert foncé - , des ; isupérieur res dépassent les gn ^ ^ hj ^ ljest feuilles ; du Persil sont d ' un vërïlpstréies " su ^périeures sont divisées en segments ià - nf , céolés - linéaires , et ne dépassent pas les ombelles fleuries .Les feuilles du Persil froissées exhalent une odeur , aromaEIG .aromaEIG . |
+| source.excerpts.309.words.0 | odeur |
+| source.excerpts.309.words.1 | feuilles du Persil froissées |
+| source.excerpts.309.words.2 | aromaEIG |
+| source.excerpts.310.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/721a4399-bc73-5e46-a7ea-d7462006d4ac |
+| source.excerpts.310.value | — W Odeurs dues à des principes divers et dont quelques - unes ont leurs analogues dans le règne animal : FÉTOROÏDES , odeurs fétides ( divers Sterculia , Batura , Nicotiana et autres Solanées ) ; MÉCONOÏDES ( odeur de ' ' opium et ; des Pavots ) ; CICUTOÏDES , odeurs vireuses ( la Ciguë vireuse , Conium maculatum ) ; IIIRCOÏDES , odeur de bouc ( Hypericum hircinum , Loroglossum htrctnum ) ; CIMINOÏDE , odeur de punaise ( la Coriandre , Coriandrum sativum , wCm - is monspeliensis ) ; PTÉRIDOSMOÏDE ( odeur de Fougères ) .— Enfin odeurs : ' ■ adavèreuse , de marée , spermalique , sterculine , urineuse et vuluaire .GEIIMMN ( DE ST - riERRE ) . |
+| source.excerpts.310.words.0 | marée |
+| source.excerpts.310.words.1 | odeurs |
+| source.excerpts.310.words.2 | spermalique |
+| source.excerpts.310.words.3 | sterculine |
+| source.excerpts.311.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/722952a8-5fbc-50bd-b177-4de2602936e5 |
+| source.excerpts.311.value | L ' Ileliotropium peruvianutn , qui est au Pérou une des plantes les plus communes , est cultivé en Europe dans tous les jardins , pour l ' odeur suave de ses fleurs , qui rappelle celle de la Vanille .On peut obtenir le parfum de l ' Héliotrope par macération dans l ' axonge purifiée ; on dissout dans l ' alcool pour avoir l ' extrait .Mais le parfum qu ' on débite sous le nom d ' héliotrope n ' est qu ' un mélange de vanille , de rose , de fleur d ' oranger et d ' ambre gris . |
+| source.excerpts.311.words.0 | Héliotrope |
+| source.excerpts.311.words.1 | parfum |
+| source.excerpts.311.words.2 | axonge purifiée |
+| source.excerpts.312.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/72a67b7d-04a0-52a9-94d6-018dc1f1d0cc |
+| source.excerpts.312.value | IVAIRES .— Beaucoup de substances astringentes ou aromatiques peuvent être rangées dans celte classe .Nous citerons les Acides faibles , le Tabac , le Girofle , et , parmi les plantes indigènes , le Pyrèthre . |
+| source.excerpts.312.words.0 | aromatiques |
+| source.excerpts.312.words.1 | astringentes |
+| source.excerpts.312.words.2 | substances |
+| source.excerpts.313.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/72aa6628-1d3b-5c8d-8409-0f1449710599 |
+| source.excerpts.313.value | L ' Ammi Visnaga ( vulgairement Herbe - aux - cure - deuls ) habile les mêmes lieux que le précédent : ce sont les rayons de l ' ombelle durcis par la dessiccation qui constituent des cure - dents aromatiques dont on se sert en Orient .La saveur de YEchinophora spinosa , plante de la région méditerranéenne , a de l ' analogie avec celle du Panais .— Smyrnium Olusalrum ( Slaceron ) . |
+| source.excerpts.313.words.0 | Panais |
+| source.excerpts.313.words.1 | saveur |
+| source.excerpts.313.words.2 | région méditerranéenne |
+| source.excerpts.313.words.3 | YEchinophora spinosa |
+| source.excerpts.314.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/72aebfe9-5f73-5b3f-a19b-aa87e0bed727 |
+| source.excerpts.314.value | — CAMPANULACÉES .203 Vaoilulesà fleurons tous ligules , blancs ) , est cultivée , comme plante officinale , et se reproduit çà et là sans culture ; ses capitules ( têtes de Camomille ) servent il préparer une infusion aromatique très - usitée comme stimulant et sudorifique .- V Anthémis nobilis ( la Camomille - romaine ) , plante vivace des terrains sablonneux incultes , dont l ' infusion est d ' une saveur amère , est employée aux mêmes usages . |
+| source.excerpts.314.words.0 | aromatique |
+| source.excerpts.314.words.1 | stimulant |
+| source.excerpts.314.words.2 | sudorifique |
+| source.excerpts.314.words.3 | infusion |
+| source.excerpts.315.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/72ff0051-e4d9-5d40-a068-d1611134e618 |
+| source.excerpts.315.value | La famille des Tropéolées a pour type la Capucine ( Tropoeolum vulgare ) ( fig .1559 et 1560 ) , cette charmante transfuge du nouveau monde , si bien en possession des palissades de nos jardins rustiques , où elle môle ses guirlandes fleuries aux spirales des Volubilis ( Ipomoea ) et aux fleurs parfumées du Pois - de - senteur .D ' autres jolies espèces 1296 TRUFFE . |
+| source.excerpts.315.words.0 | Pois |
+| source.excerpts.315.words.1 | fleurs |
+| source.excerpts.315.words.2 | parfumées |
+| source.excerpts.315.words.3 | senteur |
+| source.excerpts.316.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/73631fc0-405e-55ec-aec5-c569f01c23e2 |
+| source.excerpts.316.value | ces différents mots .) Plusieurs bois d ' ébénisterie sont odorants ; tels sont : wdrelaodorata , Amyw balsamifera , et ConvolvuMs scoparius ( le Bois - de10se ) i le parfum qu ' ils exhalent est dû à une huile volatile - contenue dans leurs « us .Le ; çce . |
+| source.excerpts.316.words.0 | Bois |
+| source.excerpts.316.words.1 | parfum |
+| source.excerpts.316.words.2 | odorants |
+| source.excerpts.316.words.3 | exhalent |
+| source.excerpts.316.words.4 | us |
+| source.excerpts.316.words.5 | Amyw balsamifera |
+| source.excerpts.316.words.6 | wdrelaodorata |
+| source.excerpts.316.words.7 | Plusieurs bois d ' ébénisterie |
+| source.excerpts.317.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/74156acc-0d6b-5326-9882-96b761542d30 |
+| source.excerpts.317.value | Le Réséda odorant ( R .odorata ) , si aimé pour sa senteur finement suave , est cultivé dans tous les jardins .Les caractères de cette famille sont les suivants : Plantes herbacées ou un peu sous - frutescentes ; à feuilles alternes ou en spirales , entières ou découpées . |
+| source.excerpts.317.words.0 | senteur |
+| source.excerpts.317.words.1 | finement suave |
+| source.excerpts.318.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/744e61a3-b7b5-560e-8703-12658e7e33b8 |
+| source.excerpts.318.value | muricata ont à la fois le parfum de l ' orange et de la cannelle ; ils sont préférables aux précédente .Les fruits de YAnona tripetala ( au Pérou , cherimolia ) ont une chair sucrée , vineuse , d ' une odeur suave .— Ces diverses espèces sont répandues aux Indes , dans l ' Amérique du Sud , aux Antilles , à Madagascar , à l ' Ilede - France , etc . |
+| source.excerpts.318.words.0 | suave |
+| source.excerpts.318.words.1 | odeur |
+| source.excerpts.318.words.2 | chair |
+| source.excerpts.318.words.3 | fruits de |
+| source.excerpts.319.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/753ddcc6-60b4-55b2-b8f3-81a3f6767cea |
+| source.excerpts.319.value | HERBE - SAINT - ROCH .Herbe - dysentérique ( Pulicaria dysenterica , Composées - Corymbifères ) .Lorsque toutes les planles sont dans le papier , chaque échantillon étant accompagné d ' une étiquette indiquant le lieu et la date de la récolte , et les couleurs ( souvent utiles à connaître ) des organes de la fleur , ces couleurs ne se retrouvant plus sur la plante sèche , on place alternativement l ' une sur l ' autre une feuille pleine de plantes et un coussin . |
+| source.excerpts.319.words.0 | Herbe |
+| source.excerpts.319.words.1 | dysentérique |
+| source.excerpts.320.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/756502e0-8032-5e09-a5b5-870aaeb526a0 |
+| source.excerpts.320.value | Plante rustique fréquente dans les prairies , et non moins commune dans l ' Asie tempérée qu ' en Europe .On mange en Asie ses jeunes liges dépouillées de leur ôcorce ; leur saveur est aromatique .BREDES . |
+| source.excerpts.320.words.0 | Asie |
+| source.excerpts.320.words.1 | aromatique |
+| source.excerpts.320.words.2 | leur |
+| source.excerpts.320.words.3 | saveur |
+| source.excerpts.320.words.4 | jeunes liges |
+| source.excerpts.321.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/757e06f9-c11d-5a6f-a824-b1c1f0da254f |
+| source.excerpts.321.value | DICTAAIE - DE - CRÈTE ( Origaiium Diclamnus , famille des Labiées ) , fiante de la Grèce .Son infusion est amère et aromatique ; elle est douée de propriétés toniques et stimulantes , analogues à celles de la Sauge .On l ' employait comme stomachique , apéritiveel digestive . |
+| source.excerpts.321.words.0 | Sauge |
+| source.excerpts.321.words.1 | aromatique |
+| source.excerpts.321.words.2 | elle |
+| source.excerpts.321.words.3 | amère |
+| source.excerpts.321.words.4 | stimulantes |
+| source.excerpts.321.words.5 | toniques |
+| source.excerpts.321.words.6 | infusion |
+| source.excerpts.322.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/75fa54b3-d8a6-531b-85c6-65a044b30064 |
+| source.excerpts.322.value | .Il advient souvent qu ' étant porte » » Alexandrie par la mer Indique et Arabique et d ' Alexandrie à Venise , pour la grande siccile » qui est en lui , il attire facilement l ' humeur de la marine , qui le rend souvent remugle n et moisy ; de là vient qu ' ayant perdu sa bonne odeur , il sent mal .» NATANS . |
+| source.excerpts.322.words.0 | Venise |
+| source.excerpts.322.words.1 | Alexandrie |
+| source.excerpts.322.words.2 | bonne |
+| source.excerpts.322.words.3 | odeur |
+| source.excerpts.322.words.4 | mal |
+| source.excerpts.322.words.5 | sent |
+| source.excerpts.322.words.6 | mer Indique et Arabique |
+| source.excerpts.323.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/75fd8f8a-9eaf-57c0-aa72-02319add9f28 |
+| source.excerpts.323.value | » ( L ' ail et l ' oignon crus , horreur ! il est des populations qui s ' en nourrissent .Les délicats n ' approchent ni du bulbe ni de Ceux qui exhalent sa fétide senteur .) Allium Cepa ( l ' Oignon ) , A . |
+| source.excerpts.323.words.0 | fétide |
+| source.excerpts.323.words.1 | sa |
+| source.excerpts.323.words.2 | senteur |
+| source.excerpts.323.words.3 | exhalent |
+| source.excerpts.323.words.4 | bulbe |
+| source.excerpts.324.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/766c8d9d-cf26-5ab0-98b8-24d485561233 |
+| source.excerpts.324.value | ru , etc .Ces fruits sont aromatiques et astringents .NÉPHRÉTIQUE ( Bois ) , Coatli , Tlapalez - patli ? . |
+| source.excerpts.324.words.0 | fruits |
+| source.excerpts.324.words.1 | aromatiques |
+| source.excerpts.324.words.2 | astringents |
+| source.excerpts.325.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/77595828-f544-5e4e-be38-29576e2b6d80 |
+| source.excerpts.325.value | Ces fruits sont peu recherchés ; on s ' en sert principalement pour composer , par macération avec de l ' eau - de - vie et du sucre , une liqueur fermentée douée de propriétés toniques et stomachiques .On attribue à la décoction de la racine des propriétés emménagogues ; l ' infusion des feuilles passe pour diurétique .Cassis = Galea , casque . |
+| source.excerpts.325.words.0 | racine |
+| source.excerpts.325.words.1 | diurétique |
+| source.excerpts.325.words.2 | emménagogues |
+| source.excerpts.326.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/78246ea1-484c-5422-9f75-e5db15a35ee3 |
+| source.excerpts.326.value | En général , les principes narcotiques sont prédominants ; chc7 , quelques - unes , il exisle une huile aromatique volatile .Les fruits d ' un grand nombre sont vénéneux , quelquefois ils sont simplement Acres ; plus rarement ils sont comestibles , les principes acres et narcotiques y étant alors dominés par un suc mucilagineux acidulé .Les graines renferment une huile grasse . |
+| source.excerpts.326.words.0 | vénéneux |
+| source.excerpts.326.words.1 | grand nombre |
+| source.excerpts.326.words.2 | fruits d |
+| source.excerpts.327.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7922fa05-d634-51ec-b087-a2ab7b703a15 |
+| source.excerpts.327.value | — Rameau fructifère de l ' Olivier ( Olea europoea ) ( proportions très - réduites ) .de l ' Olivier sont amères et astringentes .Les vieux arbres sécrètent des larmes résineuses dont l ' odeur se rapproche de celle de la vanille . |
+| source.excerpts.327.words.0 | Olivier |
+| source.excerpts.327.words.1 | astringentes |
+| source.excerpts.327.words.2 | amères |
+| source.excerpts.328.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/794e7e85-de93-5564-b211-db9157fcf666 |
+| source.excerpts.328.value | — Les écailles qui enveloppent les bourgeons des Peupliers au premier printemps sont recouvertes d ' une substance visqueuse balsamique dont la saveur est amère et aromatique .Ce suc résineux entre dans la préparation de l ' onguent populéum .Pkaios , dans les mots composés dérivés du grec , signifie d ' un brun verdûtrc ; en latin , fuscus . |
+| source.excerpts.328.words.0 | suc |
+| source.excerpts.328.words.1 | onguent |
+| source.excerpts.329.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/79ddc37f-2586-5e61-8588-99c81642fbff |
+| source.excerpts.329.value | ' ■ — Petite - Ciguë ( JEthùsa Cynapium ) , sommité florifère ( planterédûitè ) .tique ; les feuilles froissées de la Petite - Ciguë , une odeur vireuse .— VMthusa Cynapium renferme une substance alcaloïde qui agit à la manière des poisons îiareotico - âcres . |
+| source.excerpts.329.words.0 | odeur |
+| source.excerpts.329.words.1 | vireuse |
+| source.excerpts.329.words.2 | feuilles froissées |
+| source.excerpts.329.words.3 | Petite - Ciguë |
+| source.excerpts.330.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7a639c33-ddad-523c-a3a2-cfefc2313763 |
+| source.excerpts.330.value | Sa décoction est douée de propriétés résolutives .— Le Cerfeuil - musqué ( Myrrhis odorata ) , moins usité , pourrait être employé aux mêmes usages pharmaceutiques .— Le Cerfeuilbuïbeux ( Choerophyllum bulbosum ) a été récemment introduit dans les jardins potagers ; on commence à le cultiver en grand pour ses racines pivotantes charnues , analogues à celles de la Carotte et légèrement aromatiques . |
+| source.excerpts.330.words.0 | odorata |
+| source.excerpts.330.words.1 | Myrrhis |
+| source.excerpts.330.words.2 | Cerfeuil - musqué |
+| source.excerpts.331.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7a845a90-e99d-5fb9-a543-3eb58f851e22 |
+| source.excerpts.331.value | Le Chardon - aux - ànes , un des Chardons les plus communs , mais que les ânes - ne mangent pas .Ses fleurs étaient employées ( comme celles de l ' Artichaut ) pour faire cailler le lait ; la saveur des fleurs et de la racine est fortement amère .OPOPANAX { Pastinaca Opopanax , Opopanax ehironium ) . |
+| source.excerpts.331.words.0 | fleurs |
+| source.excerpts.331.words.1 | racine |
+| source.excerpts.331.words.2 | Ses fleurs |
+| source.excerpts.331.words.3 | saveur |
+| source.excerpts.331.words.4 | fortement amère |
+| source.excerpts.332.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7ae4fc73-8d3e-5f75-846a-24c895c9f7b6 |
+| source.excerpts.332.value | A faible dose , les préparations du Phellandrium aquaticum agissent comme calmants sur le système nerveux ; on s ' en sert surtout avec avantage dans les maladies du poumon .A haute dose , la plante est narcotique .PHILADELPHÉES . |
+| source.excerpts.332.words.0 | narcotique |
+| source.excerpts.332.words.1 | plante |
+| source.excerpts.333.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7aedf16c-7210-5426-ae78-3b42c748d7cc |
+| source.excerpts.333.value | La substance qui se volatilise est dile arom ( aromo ) .Les organes odorants des plantes ont reçu les qualifications suivantes : alliacé ( alliaceus ) , qui a une odeur d ' ail ; ambarinus , qui a l ' odeur de l ' ambre ; ambrosiacus , qui a une odeur suave ; aromatique ( aromaiicus ) , qui a l ' odeurdu Laurier , de la Menthe - poivrée , de la Tanaisie , etc .; fétide ( foetidus , teter ) , odeur très - désagréable ; graveolens , désagréable en raison de sa force , pat exemple l ' odeur de YAnethum graveolens ; hircinus , qui a une odeur de bouc ; muriaticus , qui a l ' odeur des plantes imprégnées d ' eau de mer ; musqué ( moschatus ) , qui a l ' odeur du musc ; piquante ( pungens ) se dit de l ' odeur de certaines huiles volatiles , de l ' acide acétique , elc ; spermaticus , qui a une odeur analogue à celle des fleurs du Châtaignier ; suaveolens , qui exhale une odeur suave ; viveuse ( virosus ) se dit de l ' odeur des plantes qui ont - des qualités narcotiques : la Jusquiame , le Pavot , la Ciguë , etc . |
+| source.excerpts.333.words.0 | Menthe |
+| source.excerpts.333.words.1 | Laurier |
+| source.excerpts.333.words.2 | aromatique |
+| source.excerpts.333.words.3 | suave |
+| source.excerpts.333.words.4 | odeur |
+| source.excerpts.333.words.5 | plantes |
+| source.excerpts.333.words.6 | odorants |
+| source.excerpts.333.words.7 | ail |
+| source.excerpts.333.words.8 | ambre |
+| source.excerpts.333.words.9 | Tanaisie |
+| source.excerpts.333.words.10 | alliacé |
+| source.excerpts.333.words.11 | aromaiicus |
+| source.excerpts.333.words.12 | ambrosiacus |
+| source.excerpts.333.words.13 | Menthe - |
+| source.excerpts.333.words.14 | ambarinus |
+| source.excerpts.333.words.15 | alliaceus |
+| source.excerpts.334.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7aef9649-91cd-5140-b297-525c9510f106 |
+| source.excerpts.334.value | GLAERISME .637 fleurs pourraient fournir des parfums agréables : les parfumeurs n ' ont , sous le nom d ' essence de Giroflée , qu ' un mélange de diverses odeurs .GIROFLIER ou GÉROFLIER ( Caryophyllus aromaticus , fam . |
+| source.excerpts.334.words.0 | fleurs |
+| source.excerpts.334.words.1 | parfums |
+| source.excerpts.334.words.2 | odeurs |
+| source.excerpts.334.words.3 | agréables |
+| source.excerpts.334.words.4 | parfumeurs |
+| source.excerpts.335.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7afe0369-4d6b-53ac-b69f-b6cf81386e46 |
+| source.excerpts.335.value | 1032 ) etMetfosideros peuvent , comme les Eucalyptus ( arbres de la famille des Myrtacées ) , fournir des essences aromatiques , utiles comme médicaments stimulants , et intéressantes au point de vue de la parfumerie : l ' huile volatile de Caja - puti ( Arbre - blanc ) est d ' une odeur suave ; elle est fournie par le Melaleuca minor , arbre des îles Moluques .« La Myrtacée employée le plus fréquemment dans la parfumerie est le Myrte ( Myrtus communis ) ; la distillation de ses feuilles donne une essence très - odorante : 50 kilogrammes de feuilles produisent environ 155 grammes d ' huile volatile .L ' eau de fleurs de Myrte se vend en France sous le nom d ' eau d ' anges ; on peut la préparer comme les eaux de Rose , de Sureau ou de toute autre fleur . |
+| source.excerpts.335.words.0 | Myrte |
+| source.excerpts.335.words.1 | odorante |
+| source.excerpts.335.words.2 | feuilles |
+| source.excerpts.335.words.3 | essence |
+| source.excerpts.335.words.4 | parfumerie |
+| source.excerpts.335.words.5 | très - |
+| source.excerpts.335.words.6 | Myrtus |
+| source.excerpts.335.words.7 | Myrtacée |
+| source.excerpts.336.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7b3fb823-42b5-554a-a593-38fa244a3287 |
+| source.excerpts.336.value | Les lUitacées doivent leurs propriétés stimulantes à une substance amôre , à une résine acre , et à une huile volatile contenue dans les glandes des feuilles et des diverses parties de la fleur .A la famille des Zygophyllées , voisine de celle des Rutacées , appartiennent : le Tribulus terrestris , plante méridionale qui s ' avance le long des côtes jusqu ' en Bretagne , età laquelle ou attribue des propriétés astringentes ; — le Zygophyllurn Fubago , plante de l ' Orient et de l ' Afrique , qui exhale , quand on la broie , une odeur forte , et dont on fait usage comme médicament authclminthique ; — ■ el le Gayac ( Guajaeuni officinale ) , arbre des Antilles , dont on emploie fréquemment la résine et le bois en décoction comme médicament stimulant et diaphorétique .S SABINE ( Juniperus Sabina , famille des Cupressinées ) . |
+| source.excerpts.336.words.0 | Bretagne |
+| source.excerpts.336.words.1 | forte |
+| source.excerpts.336.words.2 | odeur |
+| source.excerpts.336.words.3 | exhale |
+| source.excerpts.336.words.4 | astringentes |
+| source.excerpts.336.words.5 | plante |
+| source.excerpts.336.words.6 | diaphorétique |
+| source.excerpts.336.words.7 | médicament stimulant |
+| source.excerpts.336.words.8 | Zygophyllurn Fubago |
+| source.excerpts.336.words.9 | Tribulus terrestris |
+| source.excerpts.336.words.10 | authclminthique |
+| source.excerpts.337.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7bde8d7c-269d-50c4-9903-5880dc45b3e3 |
+| source.excerpts.337.value | Les fruits et les feuilles fournissent par la distillation une .essence dont rôdeur est analogue à celle du girofle .— Graines aromatiques du Nigella damasnena . |
+| source.excerpts.337.words.0 | girofle |
+| source.excerpts.337.words.1 | essence |
+| source.excerpts.337.words.2 | rôdeur |
+| source.excerpts.338.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7c152c49-89ab-5305-a62c-19cca7f4e733 |
+| source.excerpts.338.value | — Médicaments provoquant la contraction du diaphragme et de l ' estomac , et par suite l ' expulsion des matières alimentaires ou autres qui y sont contenues .- niante ( proportions trés - réduites ; ramuscule ilorifère , et fruit grondeur naturelle ) dont le suc lounul la gomme ammoniaque , le Discmeston nummiferum Jaubert et Spaoll ( plante d ' Orient dédiée b - V1M .F . |
+| source.excerpts.338.words.0 | gomme |
+| source.excerpts.338.words.1 | niante |
+| source.excerpts.339.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7d2a5959-783e-59be-83c7-49061728a5b2 |
+| source.excerpts.339.value | La substance aromatique connue sous le nom de cannelle est l ' écorce des jeunes rameaux dépouillée de son épiderme et séchée au soleil .On en obtient , par distillation / une huile volatile d ' une odeur suave , analogue à celle du girofle ; c ' est un médicament stimulant .Comme le girofle CANNELLIEU . |
+| source.excerpts.339.words.0 | suave |
+| source.excerpts.339.words.1 | odeur |
+| source.excerpts.339.words.2 | girofle |
+| source.excerpts.339.words.3 | huile volatile |
+| source.excerpts.339.words.4 | médicament |
+| source.excerpts.340.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7d4c03d0-2bd4-56f7-8bd8-112cf5d9595e |
+| source.excerpts.340.value | ; enfin le Caroubier , grand et bel arbre de la région méditerranéenne .; Luzerne , Medicago sativa ; Sainfoin , Onobrychis sativa ; Mélilot , Melilotus offlcinalis ; Galéga , Galega iifficinalis ; Yesce , Vicia sativa ; Indigo , Indigo fera tinctoria , et autres ; Boisde - Brésil , Coesalpinia echinata ; Bois - de - Campêche , Hoematoxylon campechianiim ; Arachide , Avachis hypogoea ; Réglisse , Glycyrrhiza glabra ; Gommeadragant , Astragalus Tragacantha ; Sang - dragon , Plerocarpus Draco ; Copahu , Copaifera ofpcinalis ; Baumier - du - Pérou et de Tolu , Myrospermum toluiferum ; Faux - Ébônier , Cytisus Laburnum ; Arbre - de - Judée , Cercis Siliquastrum ; Acacia commun , Robinia Pseudacacia ; Baguenaudiers , Colutea arboresvens et C .crucnta ; Genèt - d ' Espagne , Spartium juncewn ; Glycine , Glycine fruteseens et G . |
+| source.excerpts.340.words.0 | Sang |
+| source.excerpts.340.words.1 | Luzerne |
+| source.excerpts.340.words.2 | Melilotus |
+| source.excerpts.340.words.3 | Gommeadragant |
+| source.excerpts.341.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7d554bd5-ab70-5086-bac2-5cc33ddfd4c6 |
+| source.excerpts.341.value | — Rameau florifère et fructifère d ' un Melaleuca .» de Meurte ( Mynhe ) est blanche et odorante ; pour cesle cause les parfumeurs » en font d ' eau , de laquelle ils font grand cas .Et combien que la fleur de nos « Meurtes sente fort bon , j ' estimerois les fleurs de Meurte d ' Egypte estre les » plus souveraines , car ïhéophrastc dit que les plus odorans et les plus beaux » Meurtes croissent en Egypte . |
+| source.excerpts.341.words.0 | odorante |
+| source.excerpts.341.words.1 | eau |
+| source.excerpts.341.words.2 | Meurte |
+| source.excerpts.341.words.3 | Mynhe |
+| source.excerpts.342.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7e0670f5-d282-52b3-9964-c16eebee0665 |
+| source.excerpts.342.value | » opulifolia et C .trigyna ) ; le Tambuk [ Croton macrostachys , famille des Enphorbiacées ) , partie usitée , l ' écorce ; le Sari - sari ( ce mot signifie Herbe - des - herbes ) ( Silène macrosolea ) ; ie Schebti ( Pircunia abgssinica , famille des Phytolaccées ) , plante à tige frutescente grimpante ; sa racine est purgative el émétique ; le Tirnaha ( Verbascum Ternacha ) , partie usitée , la racine ; le Matéri ( Grarainée ) ; enfin le Guizotia abyssinica ( Composée ) , dont on emploie les graines pilées .J ' ai remarqué que la racine du bel Acacia ( Mimosa ) lophanlha , cultivé dans le jardins de Hyères à Nice , répand une odeur nauséeuse qui donne non - seulement des nausées , mais le vertige ( quand on procède à la transplantation d ' un certain nombre de jeunes plants ) ; celLe racine est évidemment clouée de puissantes propriétés émétiques et sans doute purgatives - drastiques , analogues à celles de [ ' Albizzia anthelminthica ( le . |
+| source.excerpts.342.words.0 | plante |
+| source.excerpts.342.words.1 | sa racine |
+| source.excerpts.342.words.2 | émétique |
+| source.excerpts.342.words.3 | purgative |
+| source.excerpts.342.words.4 | Croton macrostachys |
+| source.excerpts.343.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7eb4484a-1eb1-550c-a487-9f8c41c40b84 |
+| source.excerpts.343.value | Le R .idoeus ( Framboisier ) se plaît dans les clairières des forêts montueuses ; les murs exposés au nord , de nos jardins potagers , sont masqués par ses tiges courbées sous le poids de leurs fruits parfumés .— Le genre Fragaria ( Fraisier ) ( fig . |
+| source.excerpts.343.words.0 | fruits |
+| source.excerpts.343.words.1 | parfumés |
+| source.excerpts.343.words.2 | Framboisier |
+| source.excerpts.344.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7ee2d7eb-cb30-543a-b084-6947b3bf018b |
+| source.excerpts.344.value | Belle piaule frutescente , commune dans les collines boisées de la région méditerranéenne , et cultivée dans les jardins .Son parfum est celui du camphre .( Les sommités fleuries , infusées et distillées dans l ' alcool , constituent la préparation officinale connue sous le nom d ' eau de la reine de ILongrie ) . |
+| source.excerpts.344.words.0 | parfum |
+| source.excerpts.344.words.1 | camphre |
+| source.excerpts.345.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7f5a8c67-0ade-59c4-8537-d78a22862963 |
+| source.excerpts.345.value | laque pour vernir et décorer des meubles élégants .mauritiana est un bois de construction résineux employé à l ' île de France ( Maurice ) ; ses amandes ont la saveur de la noisette .BADIANE , Anis - étoilé ( lllicium anisatum , F . |
+| source.excerpts.345.words.0 | Maurice |
+| source.excerpts.345.words.1 | amandes |
+| source.excerpts.345.words.2 | noisette |
+| source.excerpts.345.words.3 | île |
+| source.excerpts.345.words.4 | saveur |
+| source.excerpts.345.words.5 | bois de construction |
+| source.excerpts.345.words.6 | mauritiana |
+| source.excerpts.346.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7f8391cf-c891-580e-be2f-98f84b483f7f |
+| source.excerpts.346.value | ' BOIS - DE - SANDAL ( altération de Santal ) .; Arbres , des Indes à bois odorant .Le Santal rouge ( Indes orientales ) est le Pterocarpus . |
+| source.excerpts.346.words.0 | odorant |
+| source.excerpts.346.words.1 | Arbres |
+| source.excerpts.347.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/7f9c85a9-9054-5b16-82ed-eedb1e407a14 |
+| source.excerpts.347.value | cia ; du Pois de senteur , Lathyrus odoratus : c ' est l ' odeur de la fleur d ' oranger affaiblie ) ; MALOÏDES ( odeur de pomme de rainette ) ; TARNOÏDE ( odeur du cuir tanné ) .Les CORPS NIDORANTS ( ou nidoreux ) , dont l ' odeur est forte , ' et souvent désagréable , sont supernidorants ou subnidorants , selon l ' intensité de l ' odeur .M . |
+| source.excerpts.347.words.0 | désagréable |
+| source.excerpts.347.words.1 | forte |
+| source.excerpts.347.words.2 | odeur |
+| source.excerpts.347.words.3 | nidoreux |
+| source.excerpts.347.words.4 | CORPS |
+| source.excerpts.347.words.5 | NIDORANTS |
+| source.excerpts.347.words.6 | subnidorants |
+| source.excerpts.348.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/801ca005-f34b-55a9-87bf-ff49ed6941d5 |
+| source.excerpts.348.value | Se dit d ' une odeur qui , comme celle du musc , se répand avec intensité .— Odeur pénétrante agréable se traduit en latin par le mot fragrarts ; odeur pénétrante désagréable , par le mot graveolens .Penicillatus = Penicilliformis . |
+| source.excerpts.348.words.0 | odeur |
+| source.excerpts.348.words.1 | Odeur |
+| source.excerpts.348.words.2 | pénétrante désagréable |
+| source.excerpts.348.words.3 | pénétrante agréable |
+| source.excerpts.348.words.4 | fragrarts |
+| source.excerpts.349.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/81b41af9-be8e-5fcb-aa9f-bbdc50cbc2e4 |
+| source.excerpts.349.value | — Cet arbre est originaire de l ' Amérique boréale ; la racine et le liber sonl une saveur qui se rapproche de celle de la racine de Réglisse ; les fleurs fournissent une couleur jaune ; les graines renferment une huile grasse ; mais ces diverses propriétés sont peu appréciées .On plante cet arbre dans les parcs et les promenades publiques , dont il fait l ' ornement au printemps par l ' élégance de son feuillage et la beauté de ses fleurs : leur odeur suave rappelle celle de la fleur d ' Oranger .ACACIA ( de a privatif , et xaxôj , mauvais , c . |
+| source.excerpts.349.words.0 | suave |
+| source.excerpts.349.words.1 | odeur |
+| source.excerpts.349.words.2 | fleurs |
+| source.excerpts.349.words.3 | leur |
+| source.excerpts.349.words.4 | fleur d |
+| source.excerpts.349.words.5 | arbre |
+| source.excerpts.349.words.6 | au printemps |
+| source.excerpts.349.words.7 | Oranger |
+| source.excerpts.349.words.8 | parcs |
+| source.excerpts.349.words.9 | les promenades publiques |
+| source.excerpts.350.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/81e49b91-ed31-5079-89ec-4f9c0e5048af |
+| source.excerpts.350.value | Les bractées imbriquées de ses cônes fructifères sécrètent une substance résineuse pulvérulente qui s ' en détache aisément .Cette substance se compose d ' une huile volatile acre , d ' une résine sub - aromatique , de cire , d ' une matière astringente , et d ' une substance extractive amère ( lupuline ) : c ' est cette substance qui communique à la bière ses propriétés stimulantes et légèrement narcotiques .Cette substance , administrée comme médicament , stimule FIG . |
+| source.excerpts.350.words.0 | résine |
+| source.excerpts.350.words.1 | huile |
+| source.excerpts.350.words.2 | cire |
+| source.excerpts.350.words.3 | aromatique |
+| source.excerpts.350.words.4 | bière |
+| source.excerpts.350.words.5 | stimulantes |
+| source.excerpts.350.words.6 | matière |
+| source.excerpts.350.words.7 | substance |
+| source.excerpts.350.words.8 | légèrement narcotiques |
+| source.excerpts.351.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/821b2c99-30da-5f9f-beab-d728380434cc |
+| source.excerpts.351.value | ARÔME , aroma .Saveur aromatique ; saveur agréable et qui se perçoit autant par les organes de l ' odorat que par les organes du goût .— Aromatique ( aromaticus ) : L ' odeur et la saveur aromatiques sont agréables et pénétrantes ; les résines et les huiles volatiles renfermées dans les écorces , les feuilles , les fleurs , etc . |
+| source.excerpts.351.words.0 | aromatique |
+| source.excerpts.351.words.1 | agréable |
+| source.excerpts.351.words.2 | odorat |
+| source.excerpts.351.words.3 | saveur |
+| source.excerpts.351.words.4 | Saveur aromatique |
+| source.excerpts.352.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/82b004ce-ff51-59f9-9ccd-09595f269523 |
+| source.excerpts.352.value | Qui a de l ' analogie avec l ' Ail pour l ' odeur ou la saveur .Les feuilles du Sisymbrium Alliaria , froissées entre les doigts , ( allaient une odeur alliacée .ALLIAIRK . |
+| source.excerpts.352.words.0 | odeur |
+| source.excerpts.352.words.1 | alliacée |
+| source.excerpts.352.words.2 | feuilles du Sisymbrium Alliaria |
+| source.excerpts.353.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/83386d47-4d73-5cb4-87fd-36647c8ea03c |
+| source.excerpts.353.value | Gomme - résine d ' une odeur forte et pénétrante produite par une Ombellifère : le Diserneston gummiferum { Dorema ammoniacum ) , plante de la Perse et de l ' Arménie .La saveur de cette gomme - résine est chaude , amère et nauséeuse .On l ' emploie en potion , sirop , teinture , pilules , comme médicament tonique et stimulant ; à faible dose , elle est stomachique ; on l ' emploie comme topique résolutif . |
+| source.excerpts.353.words.0 | nauséeuse |
+| source.excerpts.353.words.1 | saveur |
+| source.excerpts.353.words.2 | cette gomme - résine |
+| source.excerpts.354.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/83691494-77a4-5909-a6a0-340fae90dad1 |
+| source.excerpts.354.value | Famille de plantes dicotylées gamopétales , à ovaire libre .Tout le monde connaît les fleurs odorantes et rosées du Liseron - descliamps ( Convolvulus arvensis ) , la belle clochette blanche du Liseron - des - haics [ Cdystegia sepium } , les Volubilis annuels , à fleurs multicolores , qui grimpent sur les palissades ( Ipomoea rosea ) , ces jolies espèces typiques de la famille des Convolvulacées .Les caractères généraux de ce beau groupe naturel sont les suivants : Fleurs hermaphrodites , régulières , à pédoncules axillaires uniflores , biflores ou pluriflores , ou trichotonies , à pédicelles souvent munis de deux bractéoles , Calice ord . |
+| source.excerpts.354.words.0 | fleurs |
+| source.excerpts.354.words.1 | odorantes |
+| source.excerpts.354.words.2 | rosées |
+| source.excerpts.354.words.3 | Tout le monde |
+| source.excerpts.354.words.4 | clochette |
+| source.excerpts.354.words.5 | Liseron - descliamps |
+| source.excerpts.354.words.6 | Cdystegia |
+| source.excerpts.355.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/83913e97-0f52-5c10-a8fd-2eaa42d0ace5 |
+| source.excerpts.355.value | ESSENCES .On donnait autrefois le nom d ' huiles essentielles ou huiles volatl ' i ! s ( dénominations quelquefois conservées par habitude ) , et l ' on donne aujourdnui le nom ( [ ' essences , à des principes végétaux liquides , non visqueux , trèsvolntils , et par conséquent odorants , à odeur aromatique souvent suave .Leur saveur est acre , chaude , ou même brûlante et caustique ; les essences s ' enflamment A86 ESSENTIEL . |
+| source.excerpts.355.words.0 | huiles |
+| source.excerpts.355.words.1 | aromatique |
+| source.excerpts.355.words.2 | suave |
+| source.excerpts.355.words.3 | odeur |
+| source.excerpts.355.words.4 | odorants |
+| source.excerpts.355.words.5 | principes végétaux |
+| source.excerpts.356.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/83a166b4-4f1e-5a4c-a3c8-9405c2d10173 |
+| source.excerpts.356.value | 589 la dureté .Le bois râpé sert à préparer un extrait gommo - résineux ; sa saveur est âpre , astringente el aromatique .Le bois de Gayac est un des sudorifiques FIG . |
+| source.excerpts.356.words.0 | aromatique |
+| source.excerpts.356.words.1 | sa |
+| source.excerpts.356.words.2 | âpre |
+| source.excerpts.356.words.3 | astringente |
+| source.excerpts.356.words.4 | saveur |
+| source.excerpts.357.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/83b9290c-1407-536a-b948-bad5213c31c9 |
+| source.excerpts.357.value | sans aucun inconvénient en guised ' épinards .( Les piaules de la famille des Solanées sont douées de propriétés narcotiques qui résident dans divers alcaloïdes ( daturine , atropine , nicotianine , solanine ) auxquels sont unies , chez la plupart , plusieurs substances acres .En général , les principes narcotiques sont prédominants ; chc7 , quelques - unes , il exisle une huile aromatique volatile . |
+| source.excerpts.357.words.0 | narcotiques |
+| source.excerpts.357.words.1 | substances |
+| source.excerpts.357.words.2 | atropine |
+| source.excerpts.357.words.3 | solanine |
+| source.excerpts.357.words.4 | daturine |
+| source.excerpts.357.words.5 | nicotianine |
+| source.excerpts.357.words.6 | divers alcaloïdes |
+| source.excerpts.358.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/849693ee-775c-5824-872f-f55352d1c58c |
+| source.excerpts.358.value | 451 dins , fleurissant en hiver .Toute la plante exhale une odeur vireuse ; le rhizome , d ' une saveur acre et amère , était employé jadis comme purgatif sous le nom de racine - d ' Ellébore .Les rhizomes de VH . |
+| source.excerpts.358.words.0 | acre |
+| source.excerpts.358.words.1 | odeur |
+| source.excerpts.358.words.2 | vireuse |
+| source.excerpts.358.words.3 | amère |
+| source.excerpts.358.words.4 | plante |
+| source.excerpts.358.words.5 | rhizome |
+| source.excerpts.358.words.6 | purgatif |
+| source.excerpts.358.words.7 | saveur |
+| source.excerpts.358.words.8 | Ellébore |
+| source.excerpts.359.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/84cbc82c-1795-5d2c-919c-699dd2719c42 |
+| source.excerpts.359.value | Mous tâcherons ensemble d ' y tirer de la poussière les humbles monuments de , la flore française , et , pour peu qu ' il aime la botanique et les vieux livres , nos rechercher pourront le charmer .Mais , quelque agréable que soit le parfum des livres moisis , ou arrive à en être saturé .Heureux alors de retrouver le soleil et le grand jour , nous emporterons avec nous l ' un de nos plus vénérables auteurs , Cornuti , par exemple , et , suivant ses précieuses indications ( vo \ . |
+| source.excerpts.359.words.0 | agréable |
+| source.excerpts.359.words.1 | parfum |
+| source.excerpts.359.words.2 | livres moisis |
+| source.excerpts.360.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/85932518-1ff8-53ca-b881-ca5260d7c7a4 |
+| source.excerpts.360.value | qui croît en Amérique et aux Indes .On emploie le bois de Sassafras râpe : son odeur est aromatique et rappelle celle du Fenouil ; sa saveur est piquante .Il agit comme excitant et sudorifique ; on l ' emploie dans le traitement des affections syphilitiques et les maladies chroniques de la peau . |
+| source.excerpts.360.words.0 | Fenouil |
+| source.excerpts.360.words.1 | aromatique |
+| source.excerpts.360.words.2 | odeur |
+| source.excerpts.360.words.3 | son |
+| source.excerpts.360.words.4 | sa |
+| source.excerpts.360.words.5 | saveur |
+| source.excerpts.360.words.6 | bois de Sassafras |
+| source.excerpts.361.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/85adf18b-a951-5628-ba56-1db447714de4 |
+| source.excerpts.361.value | Belle Ombellifère mimée dans les jardins rustiques , el ' en grnnil pour l ' usage qui en est fait , par les conii seurs ( on prépare , avec les jeunes tiii .es , des conserves sucrées qui gardent le parfum de la plante fraîche el sont dépouillées de son amertume ) .Les distillateurs en font surtout grand usage : l ' Angélique fait la base de la liqueur de table fabriquée à la Grande - Chartreuse ( el imitée sous plusieurs noms ) ; c ' est un cordial , c ' est - à - dire un stimulant agréable pour l ' estomac , soit après le repas , soit même à jeun . |
+| source.excerpts.361.words.0 | parfum |
+| source.excerpts.361.words.1 | plante |
+| source.excerpts.362.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/85ca1edf-f29c-58d2-814d-a7e000f99998 |
+| source.excerpts.362.value | Rameau florifère et fruit .couleur jaune ou rose , souvent d ' une odeur suave ; originaires des contrées interlropicales .Plusieurs espèces sont naturalisées dans les jardins de la Provence ( de Ilyères à Nice ) . |
+| source.excerpts.362.words.0 | suave |
+| source.excerpts.362.words.1 | odeur |
+| source.excerpts.363.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/861693e3-f851-5d03-b963-90a7c839a026 |
+| source.excerpts.363.value | TOPINAMBOUR ( Helianthus tuberosus , famille des Composées - Corymbifères ) .Celte plante , originaire du Brésil , est cultivée pour ses tubercules alimentaires , dont la saveur rappelle celle de l ' artichaut ; elle est aussi cultivée en grand comme plante fourragère .TORDU , torlus , torquatus . |
+| source.excerpts.363.words.0 | plante |
+| source.excerpts.363.words.1 | saveur |
+| source.excerpts.363.words.2 | artichaut |
+| source.excerpts.364.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/865b6c66-d470-5e3b-a127-ddf69912f8ee |
+| source.excerpts.364.value | 1327 ) , famille des Gomposées - Corymbifôres ) .Plante , vivace a racine pivotante ; l ' odeur de la racine est aromatique , sa saveur acre .On l ' emploie comme masticatoire , pour déterminer la salivation FIG . |
+| source.excerpts.364.words.0 | aromatique |
+| source.excerpts.364.words.1 | acre |
+| source.excerpts.364.words.2 | odeur |
+| source.excerpts.364.words.3 | racine |
+| source.excerpts.364.words.4 | sa |
+| source.excerpts.364.words.5 | saveur |
+| source.excerpts.365.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/86c9a27f-1091-5e40-8fac-6728276b3220 |
+| source.excerpts.365.value | Les fruits ( fig .1390 ) ( mûres - de - Ronce ) , qui sont recherchés par les enfants , d ' abord acidulés , deviennent , à la complète maturité , d ' une saveur sucrée mêlée d ' une odeur de fourmis : on prétend , dans les campagnes , que leur usage immodéré donne la fièvre .— Le fruit du Rubus coesius ( Roncebleue ) , qui est d ' un noir glauque tirant sur le bleu , se compose d ' akènes moins nombreux , espacés et plus gros ; ils sont , même à la complète maturité , d ' une saveur franchement acide . |
+| source.excerpts.365.words.0 | odeur |
+| source.excerpts.365.words.1 | sucrée |
+| source.excerpts.365.words.2 | saveur |
+| source.excerpts.365.words.3 | fourmis |
+| source.excerpts.365.words.4 | la fièvre |
+| source.excerpts.366.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/86cdcfbd-ac56-57c4-b144-1e8230bfd5c7 |
+| source.excerpts.366.value | Ce sont des ; arbrës ; des - régions tropicales , à suc résineux ( fig > l30 ) , ; et / dont plusieurs four : nissèÏÏt3des : baumes célèbres et des parfums estimés .- — L ' encens commun se compose de résines fournies par divers arbres de la famille des Conifères ; mais l ' encens digne de brûler dans les temples , l ' encens vraiment parfumé , est le suc résineux de plusieurs arbres de la famille des Burséracées .L ' encens d ' Arabie est fourni par m Balsamodendron ; l ' encens de Cayenne , parl ' / nca guianensis ; l ' encens du commerce , parte Bomellia serrata , arbre résineux des Indes . |
+| source.excerpts.366.words.0 | parfumé |
+| source.excerpts.366.words.1 | résines |
+| source.excerpts.366.words.2 | temples |
+| source.excerpts.367.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/86e7ef3c-a462-5ddd-b508-d2b97fb4964d |
+| source.excerpts.367.value | Nidor .Odeur forte el désagréable , celle de la Rue ( Buta graveolens ) , de la plante fraîche de la Coriandre ( Coriandrum sativum ) , etc .NIDOREUX , nidm ' osus . |
+| source.excerpts.367.words.0 | Rue |
+| source.excerpts.367.words.1 | désagréable |
+| source.excerpts.367.words.2 | forte |
+| source.excerpts.367.words.3 | celle |
+| source.excerpts.367.words.4 | Odeur |
+| source.excerpts.367.words.5 | plante fraîche |
+| source.excerpts.368.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/870faa89-1c04-53f1-9160-90916c2a2b7d |
+| source.excerpts.368.value | Le Myrte adonné lieu à de poétiques allégories ; son antique renommée s ' est conservée jusqu ' à nos jours .La couronne de feuilles de Myrte ( feuilles membraneuses - résistantes , odorantes ) était consacrée à l ' Hymen ( ôfnjv , membrane ) .MYKTIFLORÉES . |
+| source.excerpts.368.words.0 | odorantes |
+| source.excerpts.368.words.1 | feuilles |
+| source.excerpts.368.words.2 | feuilles de Myrte |
+| source.excerpts.368.words.3 | résistantes |
+| source.excerpts.369.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/87558bc6-0dba-5767-938b-1ad375e5065e |
+| source.excerpts.369.value | rnest Cosson et Eniusl Germain de Saint - Pieri ' e , attribuée avec doute au Borema ammoniacmn Don ) .— La genre Biscrneston diflere essentiellement du genre Fm - ula par I ' infloresoeneë : les ombelles sent gioûnleuses , eu lorme de capitules très - brièvementpédonculés et disposés le long de rameaux effilés simples ou rameux , qui sont disposés en une Vaste panicule générale .PLANTES MÉDICINALES . |
+| source.excerpts.369.words.0 | sent |
+| source.excerpts.369.words.1 | ombelles |
+| source.excerpts.369.words.2 | gioûnleuses |
+| source.excerpts.369.words.3 | Biscrneston |
+| source.excerpts.370.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8777078a-dead-5738-8397-df0daf964f81 |
+| source.excerpts.370.value | L ' une des plus agréables est l ' OE .suaveolens : ses grandes fleurs d ' un jaune de soufre , à odeur de fleur d ' Oranger , s ' épanouissent au coucher du soleil .Une autre espèce à moins grandes fleurs ( CE . |
+| source.excerpts.370.words.0 | odeur |
+| source.excerpts.370.words.1 | fleur |
+| source.excerpts.370.words.2 | ses grandes fleurs |
+| source.excerpts.371.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/87aa2c14-9ab0-5e5e-9bb5-d1c0c2b7fb6b |
+| source.excerpts.371.value | des Rosacées ) .Les fleurs de cette plante ont une odeur d ' amande amère .Les renflements de la racine sont amers el aromatiques ; ils sont au nombre des remèdes inefficaces qui ont été préconisés pour guérir la rage . |
+| source.excerpts.371.words.0 | odeur |
+| source.excerpts.371.words.1 | amande |
+| source.excerpts.371.words.2 | fleurs de cette plante |
+| source.excerpts.372.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/88f00820-8679-55fc-b488-9446c0d2a60b |
+| source.excerpts.372.value | Les feuilles du Diosma crenata ( fig .534 ) ont une odeur forte , désagréable , et une saveur acre ; elles sont douées de propriétés toniques , diurétiques et stimulantes .— La seule espèce de la famille des Diosmées qui appartienne à la flore d ' Europe est le Dictamnus albus ( la Fraxinelle ) ( fig . |
+| source.excerpts.372.words.0 | désagréable |
+| source.excerpts.372.words.1 | forte |
+| source.excerpts.372.words.2 | acre |
+| source.excerpts.372.words.3 | odeur |
+| source.excerpts.372.words.4 | elles |
+| source.excerpts.373.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/89fa0f47-ca24-51f8-bbc2-86b39ab51cbb |
+| source.excerpts.373.value | Son nom ( de coris , punaise ) lui a été donné en raison de l ' odeur nauséeuse insupportable qu ' exhale qu ' exhale plante fraîche .Le fruit sec , pulvérisé , est ' d ' une odeur aromatique assez agréable ; oni ' emploie pour parfumer des conserves et des sucreries communes , des chocolats , des pains - d ' épice , etc .COKIARIÉES . |
+| source.excerpts.373.words.0 | parfumer |
+| source.excerpts.373.words.1 | odeur |
+| source.excerpts.373.words.2 | aromatique assez agréable |
+| source.excerpts.373.words.3 | conserves |
+| source.excerpts.373.words.4 | pains |
+| source.excerpts.373.words.5 | sucreries |
+| source.excerpts.373.words.6 | chocolats |
+| source.excerpts.373.words.7 | fruit sec |
+| source.excerpts.374.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8a472815-4d56-525c-b5c8-824f899fced4 |
+| source.excerpts.374.value | Son nom vulgaire lui vient ( le la ressemblance éloignée de ses feuilles avec celles du Frêne ( Fraxinus ) ( 1 ) .La Fraxinelle ( famille des Rutacées ) est une belle piaule aromatique de l ' Iïurope méridionale , couverte de poils glanduleux qui sécrètent une huile volatile s ' enflammanl brusquement par l ' approche de la flamme d ' une bougie .On la cultive ( - J ) n Le Dictam blanc ( dit Mattliiole , trad . |
+| source.excerpts.374.words.0 | aromatique |
+| source.excerpts.374.words.1 | poils |
+| source.excerpts.374.words.2 | Rutacées |
+| source.excerpts.374.words.3 | Fraxinelle |
+| source.excerpts.375.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8a79f615-1f06-569c-b495-2f14e7275464 |
+| source.excerpts.375.value | — MÉRICABPE .dans les jardins ; on en prépare une eau distillée qui entre dans la composition des eaux dentifrices , et sert a aromatiser les tablettes dites pastilles de menthe .) MÉRICARPE , mericarpium . |
+| source.excerpts.375.words.0 | tablettes |
+| source.excerpts.375.words.1 | jardins |
+| source.excerpts.375.words.2 | aromatiser |
+| source.excerpts.376.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8aac898e-bd8e-5717-8990-a632f836444c |
+| source.excerpts.376.value | La Morelle à fruit rouge est » ordinairement plus grande que la précédente ; sa racine est plus grosse ; sa » tige est haute d ' environ deux pieds , anguleuse et comme feuilletée ( ailée ) , » divisée quelquefois , dès le bas , en branches qui s ' élèvent obliquement , et » s ' csteudent fort sur les costés ; les feuilles approchent plus de la figure d ' un fer » de pique que celles de la Morelle à fruit noir ; elles sont moins ondées sur les » bords , et parsemées de poils plus appareils ; ses fleurs sont tout à fait sem » blables ; mais leur fruit est ovale , long de quatre lignes sur trois de large , rouge » effacé , teignant de même couleur , aigrelet , vineux .Cette espèce a , ce me > i semble , l ' odeur plus assoupissante que la précédente .» « Solarium officinarum acinis luteis , C . |
+| source.excerpts.376.words.0 | odeur |
+| source.excerpts.376.words.1 | espèce |
+| source.excerpts.376.words.2 | plus assoupissante |
+| source.excerpts.377.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8ae3b0bd-55a6-5543-b146-7f267a1df838 |
+| source.excerpts.377.value | Il entre dans la composition de plusieurs liqueurs de table , et joue un certain rôle dans la confiserie .— ■ Le safran est doué de propriétés antispasmodiques ; comme la truffe et la vanille , il est réputé aphrodisiaque et emménagogue .surmonté du périanthe persistant ; monosperme . |
+| source.excerpts.377.words.0 | safran |
+| source.excerpts.377.words.1 | aphrodisiaque |
+| source.excerpts.377.words.2 | vanille |
+| source.excerpts.377.words.3 | truffe |
+| source.excerpts.377.words.4 | emménagogue |
+| source.excerpts.378.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8b09c792-695c-5bf4-a7e0-288ea303f65d |
+| source.excerpts.378.value | — TORTUOSUS .1289 TONKA ( Dipteryx odorata , Coumarouna odorata ) .Arbre des forêts de la Guyane ( de la famille des Léguinineuses - Papilionacées ) . |
+| source.excerpts.378.words | odorata |
+| source.excerpts.379.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8da195ae-3c5d-5e6c-b72d-5b71d36d97ed |
+| source.excerpts.379.value | La fraise , dont la saveur fine et parfumée est si justement appréciée , est un aliment tempérant et rafraîchissant , mais indigeste pour certains estomacs .— La racine de Fraisier ( souche ou rhizome ) renferme du tannin ; elle , est assez fréquemment employée comme substance astringente dans la pratique médicale .Plusieurs espèces du genre Fraisier sont spontanées en France . |
+| source.excerpts.379.words.0 | astringente |
+| source.excerpts.379.words.1 | tannin |
+| source.excerpts.379.words.2 | racine de Fraisier |
+| source.excerpts.380.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8daa63af-0e6c-589c-aed2-b57cf5e061bb |
+| source.excerpts.380.value | crispa , etc ., ont une saveur chaude et aromatique .La Menlbe - poivrée est fréquemment cultivée 876 MÉNYANTIIE . |
+| source.excerpts.380.words.0 | aromatique |
+| source.excerpts.380.words.1 | chaude |
+| source.excerpts.380.words.2 | saveur |
+| source.excerpts.381.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8dd9b154-c65f-59c1-9ce6-1f65fc938dcc |
+| source.excerpts.381.value | GOMME - AMMONIAQUE .Gomme - résine d ' une odeur forte et pénétrante produite par une Ombellifère : le Diserneston gummiferum { Dorema ammoniacum ) , plante de la Perse et de l ' Arménie .La saveur de cette gomme - résine est chaude , amère et nauséeuse . |
+| source.excerpts.381.words.0 | Gomme |
+| source.excerpts.381.words.1 | résine |
+| source.excerpts.381.words.2 | pénétrante |
+| source.excerpts.381.words.3 | forte |
+| source.excerpts.381.words.4 | odeur |
+| source.excerpts.381.words.5 | Perse |
+| source.excerpts.381.words.6 | Ombellifère |
+| source.excerpts.381.words.7 | Diserneston |
+| source.excerpts.382.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8e4d4b6a-ca33-59a5-9344-ad923849c480 |
+| source.excerpts.382.value | — CUSCUTE .365 appartenant au même genre ou à la même famille ( Amomées ou Zingibéracées ) , sont doués d ' une odeur aromatique et camphrée , et d ' une saveur chaude , acre clairière ; la poudre de ces rhizomes ( dits racines ) est un médicament stimulant .LeC . |
+| source.excerpts.382.words.0 | aromatique |
+| source.excerpts.382.words.1 | chaude |
+| source.excerpts.382.words.2 | odeur |
+| source.excerpts.382.words.3 | racines |
+| source.excerpts.382.words.4 | saveur |
+| source.excerpts.382.words.5 | camphrée |
+| source.excerpts.382.words.6 | Amomées |
+| source.excerpts.382.words.7 | Zingibéracées |
+| source.excerpts.382.words.8 | ces rhizomes |
+| source.excerpts.383.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8e5d6e43-dcac-57c5-8672-302d6564b347 |
+| source.excerpts.383.value | SAEINE .Les Cupressinées renferment , comme les Abiétinées , des substances résineuses unies à une huile aromatique .L ' huile qu ' on obtient par distillation des parties herbacées et des fruits du Genévrier , de la Sabine , des Thuyas et des Cyprès , diffère peu , par ses propriétés , de l ' huile de térébenthine ; néanmoins cette substance contient moins de parties volatiles et ne renferme point d ' acide succinique ; une certaine quantité de tannin se trouve en outre unie aux substances résineuses . |
+| source.excerpts.383.words.0 | aromatique |
+| source.excerpts.383.words.1 | substances |
+| source.excerpts.383.words.2 | Cupressinées |
+| source.excerpts.384.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8e5faa74-0224-5a20-8684-937890679718 |
+| source.excerpts.384.value | — Sium Sisarum .On pense que celle plante a été apportée de la Chine en Europe vers le xmli siècle ; sa racine est d ' une saveur assez agréable , elle passe pour stomachique .L ' Helosciadium nodiflorum el Y JEgopodium Podagraria sont inusités aujourd ' hui ; on les employait autrefois pour leurs propriétés aromatiques , stimulantes et résolutives . |
+| source.excerpts.384.words.0 | assez agréable |
+| source.excerpts.384.words.1 | plante |
+| source.excerpts.384.words.2 | sa racine |
+| source.excerpts.384.words.3 | saveur |
+| source.excerpts.384.words.4 | stomachique |
+| source.excerpts.385.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8e73f421-5219-5934-8143-528df2201cbc |
+| source.excerpts.385.value | Plante très - répandue dans les rochers de nos côtes .Les feuilles ont naturellement une saveur salée et aromatique ; leur suc , exprimé , passe pour vermifuge .Ces feuilles charnues , confites dans le vinaigre , sont employées dans quelques localités comme condiment . |
+| source.excerpts.385.words.0 | aromatique |
+| source.excerpts.385.words.1 | salée |
+| source.excerpts.385.words.2 | feuilles |
+| source.excerpts.385.words.3 | saveur |
+| source.excerpts.385.words.4 | vermifuge |
+| source.excerpts.386.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8e825ce8-d9d9-57c6-927b-abe6b94ba0a3 |
+| source.excerpts.386.value | Partie de la science qui a pour objet l ' étude des fonctions vitales ( respiration , circulation , nutrition , fécondation , etc .A haute dose , cette substance est émétique et purgative ; elle provoqué l ' irritation , puis l ' inflammation du tube digestif , et agit à la ma - Ilièrè des poisons acres .PIMENT - COURONNÉ ( Myrtus [ Myrcia ] pimentoides ) ( fig . |
+| source.excerpts.386.words.0 | cette substance |
+| source.excerpts.386.words.1 | émétique |
+| source.excerpts.386.words.2 | purgative |
+| source.excerpts.387.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8f23a682-60a2-5bf7-9161-e7590d31f039 |
+| source.excerpts.387.value | — Arum maculatum ( dimensions réduites ) , au printemps , dans les collines pierreuses , ses fleurs d ' un violet , livide , en tète do vipère .Le Calla paluslris , plante rampante des marais du Mord , à feuilles en coeur , à spadice garni de fleurs jusqu ' au sommet ; et l ' Acorus Calamus , plante jonciforme à souche aromatique , à fleurs hermaphrodites en épi cylindrique latéral , appartiennent également à la flore indigène .La famille des Àroïdées présente les caractères généraux suivants : Plantes ordinairement herbacées , à suc acre et caustique , à rhizomes charnus ou rampants . |
+| source.excerpts.387.words.0 | aromatique |
+| source.excerpts.387.words.1 | plante |
+| source.excerpts.387.words.2 | Acorus |
+| source.excerpts.387.words.3 | marais du Mord |
+| source.excerpts.388.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/8fef9329-5895-5550-a2be-8d6bdd220d45 |
+| source.excerpts.388.value | 885 ) sonl , aussi d ' une , saveur acidulo - sucrôe fort agréable ; on en a obtenu , parla culture , un grand nombre de variétés .— Les feuilles et les fruits du Ribes nigrum ( le Cassis ) sont doués d ' une odeur et d ' une saveur résineuses et aromatiques .Ces fruits sont moins recherchés que les précédents : on s ' en sert principalement pour composer , par macération avec de l ' eau - de - vie et du sucre , une liqueur de table douée de propriétés toniques et stomachiques . |
+| source.excerpts.388.words.0 | odeur |
+| source.excerpts.388.words.1 | aromatiques |
+| source.excerpts.388.words.2 | résineuses |
+| source.excerpts.388.words.3 | feuilles |
+| source.excerpts.388.words.4 | saveur |
+| source.excerpts.388.words.5 | fruits du |
+| source.excerpts.389.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/900f819d-a3a9-50d8-a1ee-620316c61ce1 |
+| source.excerpts.389.value | .Ces effluves qui s ' élèvent des marais , ces miasmes qui parcourent de grandes distances , ne sont que des particules moléculaires » animales nu végétales .. |
+| source.excerpts.389.words.0 | miasmes |
+| source.excerpts.389.words.1 | effluves |
+| source.excerpts.390.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/90d886cf-e638-55b2-b4b8-5e9153fa62bb |
+| source.excerpts.390.value | » ( La fleur de l ' Oranger unit le parfum à la beauté ; son fruit doré est un gracieux présent partout accepté .) — Toutes les plantes de cette famille offrent des propriétés presque identiques : les feuilles , les fleurs et l ' écorce du fruit sont criblées de glandes qui contiennent une huile volatile très - aromatique , stimulante , à laquelle s ' ajoute un principe amer tonique ; la pulpe succulente du fruit renferme les acides citrique et malique .ORBICULAIRE , orbicularis , orbiculatus , circinalus , disciformis . |
+| source.excerpts.390.words.0 | aromatique |
+| source.excerpts.390.words.1 | fleurs |
+| source.excerpts.390.words.2 | très - aromatique |
+| source.excerpts.390.words.3 | feuilles |
+| source.excerpts.390.words.4 | les plantes |
+| source.excerpts.390.words.5 | stimulante |
+| source.excerpts.391.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/911c9e31-78db-5910-af27-fdec3909bd2d |
+| source.excerpts.391.value | ) , arbrisseaux à fleurs blanches , roses ou bleues .GÉRAMUAI - ROSAT ( Pelargonium odoratissimum , famille des Géraniacées ) .Cultivé en grand en Provence ( à Grasse ) , dans le département de Seineet - Oise , en Turquie , pour l ' essence fournie à la distillation par ses feuilles fortement aromatiques , à odeur de rose . |
+| source.excerpts.391.words.0 | odoratissimum |
+| source.excerpts.391.words.1 | Pelargonium |
+| source.excerpts.391.words.2 | ROSAT |
+| source.excerpts.391.words.3 | GÉRAMUAI |
+| source.excerpts.392.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9149b16a-dc5b-5035-9685-4fc0053f2d20 |
+| source.excerpts.392.value | Le bois râpé sert à préparer un extrait gommo - résineux ; sa saveur est âpre , astringente el aromatique .Le bois de Gayac est un des sudorifiques FIG .813 . |
+| source.excerpts.392.words.0 | bois |
+| source.excerpts.392.words.1 | sudorifiques |
+| source.excerpts.393.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9158e186-50a0-5fdb-be01-2169f73c38c5 |
+| source.excerpts.393.value | des Styracinées ) .Arbre qui croît à Bornéo , a Java , à Sumatra , à Siamj on en extrait par incision une gomme - résine d ' une odeur suave .C ' est un médicament stimulant de la muqueuse bronchique . |
+| source.excerpts.393.words.0 | résine |
+| source.excerpts.393.words.1 | Bornéo |
+| source.excerpts.393.words.2 | suave |
+| source.excerpts.393.words.3 | odeur |
+| source.excerpts.393.words.4 | gomme |
+| source.excerpts.393.words.5 | Java |
+| source.excerpts.393.words.6 | Sumatra |
+| source.excerpts.393.words.7 | Siamj |
+| source.excerpts.394.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9163bbc4-7044-576e-b82c-7edd0ce540e2 |
+| source.excerpts.394.value | Cet arbrisseau croît dans la région méditerranéenne .On en recueilli : par incisions une résine acre ci amère d ' une odeur aromatique agréable .TÉRÉBlNTlHiVÉES . |
+| source.excerpts.394.words.0 | résine |
+| source.excerpts.394.words.1 | odeur |
+| source.excerpts.394.words.2 | amère |
+| source.excerpts.394.words.3 | aromatique agréable |
+| source.excerpts.395.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/91755cbb-9123-566d-8b04-4ce3bd4326a9 |
+| source.excerpts.395.value | — La fleur des Tilleuls exhale une odeur très - suave ; elle renferme une huile volatile unie à une .matière niucilagineusc sucrée et à une petite quantité de tannin ; on en prépare une infusion très - usitée comme calmante et sudorifique .On doit avoir soin d ' en retrancher les bractées , qui , renfermant une assez grande proportion de tannin , communiqueraient à l ' infusion une certaine àcrelé . |
+| source.excerpts.395.words.0 | sudorifique |
+| source.excerpts.395.words.1 | matière |
+| source.excerpts.395.words.2 | tannin |
+| source.excerpts.395.words.3 | calmante |
+| source.excerpts.396.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/91cd4038-86ac-54c9-92da-cc9dd803fb8f |
+| source.excerpts.396.value | beaucoup plus agréable que lorsqu ' ils sont produits par la planle sauvage .L ' infusion amère et aromatique de feuilles d ' Oranger esl d ' un usage vulgaire connue antispasmodique et stimulant du système nerveux ; l ' eau distillée et les conserves de fleurs d ' Oranger sont également des préparations antispasmodiques el stomachiques fort usitées .Les Aurantiacées , « nobilissirausplautarum ordo » , sont originaires , les unes de l ' Asie tropicale , comme le Citronnier , les autres de l ' Inde , comme l ' Oranger . |
+| source.excerpts.396.words.0 | aromatique |
+| source.excerpts.396.words.1 | amère |
+| source.excerpts.396.words.2 | eau distillée |
+| source.excerpts.396.words.3 | fleurs d ' Oranger |
+| source.excerpts.396.words.4 | feuilles d ' Oranger |
+| source.excerpts.397.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9232b0cc-5e4b-5856-843a-8400c5a6045c |
+| source.excerpts.397.value | 1596 ) épiphyté des forêts des régions tropicales ; on la cultive en Europe en serre chaude .Le parfum du fruit ( gousse de Vanille ) ( fig .1597 ) , cueilli avant la maturité et séché au soleil , est des plus suaves : on connaît l ' usage de la Vanille dans l ' art du confiseur et du parfumeur . |
+| source.excerpts.397.words.0 | fruit |
+| source.excerpts.397.words.1 | parfum |
+| source.excerpts.397.words.2 | gousse |
+| source.excerpts.398.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/928dbccf-54c0-5d6a-b729-c91d4105500e |
+| source.excerpts.398.value | La feuille du Sonchus oleraceus ( Laiteron ) peut offrir ces différentes formes .AURONE , Citronnelle ( Artemisia Abrotanum , fam .des Composées - Corymbifères ) . |
+| source.excerpts.398.words.0 | Citronnelle |
+| source.excerpts.398.words.1 | AURONE |
+| source.excerpts.399.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/92e786aa-487d-54f6-8313-8661d8381f40 |
+| source.excerpts.399.value | 493 feuilles ( fig .671 ) froissées de ce Myrte géant répandent une odeur suave et pénétrante de Basilic ; on attribue à leur infusion ( ou macération dans l ' eau ) concentrée des propriétés fébrifuges aussi puissantes que celles du quinquina : les expériences sont faciles à répéter ; espérons que la future eucalyp / tine pourra servir de succédanée à la quinine .— Les feuilles de l ' E . |
+| source.excerpts.399.words.0 | Basilic |
+| source.excerpts.399.words.1 | pénétrante |
+| source.excerpts.399.words.2 | suave |
+| source.excerpts.399.words.3 | odeur |
+| source.excerpts.399.words.4 | puissantes |
+| source.excerpts.399.words.5 | quinquina |
+| source.excerpts.399.words.6 | fébrifuges |
+| source.excerpts.399.words.7 | ce Myrte géant |
+| source.excerpts.400.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9316aa3b-353c-5663-8847-2ec423c7981f |
+| source.excerpts.400.value | — Fruit de la Nigelle ( Nigelia damascena ) .tiques et douées d ' une âcreté légère ( on développe par le frottement leur odeur aromatique ) ; elles sont employées en Orient comme condiment , et mêlées au FIG .1108 . |
+| source.excerpts.400.words.0 | aromatique |
+| source.excerpts.400.words.1 | elles |
+| source.excerpts.400.words.2 | leur |
+| source.excerpts.400.words.3 | odeur aromatique |
+| source.excerpts.400.words.4 | Orient |
+| source.excerpts.401.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/935f0de6-ce90-5fa0-b5cf-26fd4711c380 |
+| source.excerpts.401.value | coup plus odorant ; on en obtient , par distillation .' unehuile volatile : dluneodeur résineuse arqmatiquei Le .bois de < $ barbre sert à la , fabrication des crayons de graphites dits de , mine - de - plomb . |
+| source.excerpts.401.words.0 | résineuse |
+| source.excerpts.401.words.1 | unehuile volatile |
+| source.excerpts.401.words.2 | dluneodeur |
+| source.excerpts.402.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9372d837-d527-537c-b437-dfdc679bce38 |
+| source.excerpts.402.value | 685 ) .Les liquides excrétés par les glandes qui terminent certains poils sont généralement des huiles aromatiques ; ce liquide s ' enflamme chez la Fraxinelle ( Dictamnus albus ) à l ' approche de la Uanime d ' une bougie .Les poils des Unies ( dils poils urticants ) reposent sur une glande excrétoire , et le poil lui - même n ' est qu ' un canal excréteur formé d ' une cellule allongée qui verso ( en se brisant ) le liquide irritant dans la blessure . |
+| source.excerpts.402.words.0 | huiles |
+| source.excerpts.402.words.1 | aromatiques |
+| source.excerpts.402.words.2 | liquides |
+| source.excerpts.402.words.3 | glandes qui terminent |
+| source.excerpts.403.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/93a23d24-f06f-53fa-96f2-83f1fcd22366 |
+| source.excerpts.403.value | Cette essence , qui diffère peu de l ' essence de roses et est obtenue à un prix bien inférieur , est employée à sa falsification .Son parfum est , du reste , agréable et très - pénétrant .La véritable essence de roses ( obtenue en Turquie ) est très - rare et d ' un prix relativement trôs - élevé . |
+| source.excerpts.403.words.0 | agréable |
+| source.excerpts.403.words.1 | parfum |
+| source.excerpts.403.words.2 | très - pénétrant |
+| source.excerpts.404.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/93c0e713-79ba-5381-b141-69e56fbb6fcb |
+| source.excerpts.404.value | Le suc est doué d ' une saveur amère el salée ; on lui a attribué des propriétés détersives .L ' Ileliotropium peruvianutn , qui est au Pérou une des plantes les plus communes , est cultivé en Europe dans tous les jardins , pour l ' odeur suave de ses fleurs , qui rappelle celle de la Vanille .On peut obtenir le parfum de l ' Héliotrope par macération dans l ' axonge purifiée ; on dissout dans l ' alcool pour avoir l ' extrait . |
+| source.excerpts.404.words.0 | Vanille |
+| source.excerpts.404.words.1 | suave |
+| source.excerpts.404.words.2 | odeur |
+| source.excerpts.404.words.3 | fleurs |
+| source.excerpts.404.words.4 | tous les jardins |
+| source.excerpts.404.words.5 | Ileliotropium |
+| source.excerpts.405.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/93c86b19-1799-5faa-bb52-29dbfaf9f65c |
+| source.excerpts.405.value | POIVRIER ( FAUX - ) ( Schinus Molle , famille des Térôbinthacées ) .Arbre ou arbuste élégant ( du Pérou \ dont les feuilles composées - pennées ont une forte odeur poivrée , et dont les petits fruits globuleux ressemblent , à ceux du Poivrier .Il est cultivé en Provence comme arbre d ' ornement . |
+| source.excerpts.405.words.0 | forte |
+| source.excerpts.405.words.1 | odeur |
+| source.excerpts.405.words.2 | arbuste |
+| source.excerpts.405.words.3 | poivrée |
+| source.excerpts.405.words.4 | feuilles composées |
+| source.excerpts.406.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/93d229c5-59d1-5809-a39c-85739841806a |
+| source.excerpts.406.value | 813 .— Rameau florifère du Gayac officinal ( Guojacum officinale ) .sanction , G . |
+| source.excerpts.406.words.0 | florifère |
+| source.excerpts.406.words.1 | Gayac |
+| source.excerpts.407.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9416fdb0-18f4-5c05-bc28-33df7672db53 |
+| source.excerpts.407.value | — Cumbalus bacciferus ( le Cucubale ) .Cette plante , actuellement inusitée , a été considérée comme possédant des propriétés astringentes .( Les plantes de la famille des Caryophyllées ne sont douées d ' aucune propriété active , ni par conséquent malfaisante ; le suc de la plupart est aqueux ou plus ou moins mucilagineux , rarement doué de quelque amertume . |
+| source.excerpts.407.words.0 | astringentes |
+| source.excerpts.407.words.1 | Cette plante |
+| source.excerpts.408.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/94357224-1b76-5f19-bded-1239bb619ce9 |
+| source.excerpts.408.value | — Aromatique ( aromaticus ) : L ' odeur et la saveur aromatiques sont agréables et pénétrantes ; les résines et les huiles volatiles renfermées dans les écorces , les feuilles , les fleurs , etc ., ont en général une odeur aromatique ; ex .: la feuille de l ' Oranger , celles du Laurier , du Thym , delà Menthe poivrée , etc . |
+| source.excerpts.408.words.0 | aromatique |
+| source.excerpts.408.words.1 | odeur |
+| source.excerpts.409.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9498f71c-3c43-5592-b7db-86b90f21bbd6 |
+| source.excerpts.409.value | Les poils sont dits glanduleux lorsqu ' ils sécrètent un liquide qui se réunit à leur extrémité dans une dilatation terminale ( une ou plusieurs cellules terminales dilatées ) ; le liquide suinte souvent à l ' extérieur de ces cellules .Lés poils urticants ( fig .127 / t , 1275 ) sont ceux qui sont roides et piquants et surmontent une glande sécrétant un liquide caustique qui remplit leur cavité . |
+| source.excerpts.409.words.0 | poils |
+| source.excerpts.409.words.1 | urticants |
+| source.excerpts.410.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/94e54622-486a-5173-897f-5bdea23d9da4 |
+| source.excerpts.410.value | sinensis ; Genista , nombreuses espèces ; Coronilla Emerus , ■ glauca , juncea , etc .; Pois - de - senteur , Lathyrus odoratus ; Pois - vivace , Lathyrus latifoliiis ; Apios , Apios tuberosa ; Sainfoin - d ' Espagne , Hedysarum coronarium ; Lupins , Lupinus albus , varias , mutabilis , polyphyllus , etc .; Keunedya , K . |
+| source.excerpts.410.words.0 | senteur |
+| source.excerpts.410.words.1 | Lathyrus |
+| source.excerpts.410.words.2 | odoratus |
+| source.excerpts.410.words.3 | Sainfoin |
+| source.excerpts.410.words.4 | Apios |
+| source.excerpts.411.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9555f9b2-2a78-53b8-a37c-b11d942e8bae |
+| source.excerpts.411.value | 1228 ) , famille des Apocynées .Les feuilles de la Pervenche sont astringentes et légèrement aromatiques : on leur attribuait autrefois de nombreuses et actives propriétés ; elles sont sans usage aujourd ' hui .— « Lorsqu ' on me a demande » ( dit madame de Sévigné , en parlant du retour de sa lille à la santé ) : « Mais , sur quelle herbe » a - t - clle marché ? Je réponds : Sur de la Pervenche . |
+| source.excerpts.411.words.0 | aromatiques |
+| source.excerpts.411.words.1 | légèrement |
+| source.excerpts.411.words.2 | astringentes |
+| source.excerpts.411.words.3 | actives |
+| source.excerpts.411.words.4 | feuilles |
+| source.excerpts.411.words.5 | Pervenche |
+| source.excerpts.412.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9572397d-272f-531f-b6c1-a8f1ea737838 |
+| source.excerpts.412.value | 35 ) , Armeniaca ( Abricotier ) , Amygdalus ( Amandier ) , Persica ( Pêcher ) , composent la famille des Amygdalèes .— Panaches de fleurs blanches des Cerisiers et des Pruniers , fleurs rosées des Amandiers et des Abricotiers , ( leurs roses des Pêchers , vous faites au printemps le charme de nos vergers ! Branches de Cerisiers chargées de vos jolis fruits rouges ; Pruniers couvrant la terre d ' une grêle de fruits savoureux disputés par les guêpes ; beaux espaliers mûrissant au soleil des abricots parfumés ; pêches qui unissez à une forme exquise des teintes charmantes , une peau veloutée , le plus suave parfum et une chair fondante d ' une si fine saveur , ne comptez - vous pas parmi les bienfaits du ciel et les vraies conquêtes de l ' humanité ! Les Amygdalèes présentent les caractères généraux suivants : Arbres ou arbrisseaux à minuscules quelquefois spiuescerrts .Feuilles en spirale , simples , dentées , AMYLUM . |
+| source.excerpts.412.words.0 | suave |
+| source.excerpts.412.words.1 | parfum |
+| source.excerpts.412.words.2 | parfumés |
+| source.excerpts.412.words.3 | abricots |
+| source.excerpts.412.words.4 | fleurs blanches |
+| source.excerpts.412.words.5 | Arbres |
+| source.excerpts.412.words.6 | fleurs rosées |
+| source.excerpts.412.words.7 | Amandiers |
+| source.excerpts.412.words.8 | Cerisiers |
+| source.excerpts.412.words.9 | leurs roses des |
+| source.excerpts.412.words.10 | Abricotiers |
+| source.excerpts.413.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/95e55e34-6897-5ada-81df-c4e395913044 |
+| source.excerpts.413.value | Citons , parmi les produitsfournisparla famille des Uubiacées : le café ( périsperme des graines du Coffea arabica [ fig .1397 et 1398 ] , dont le parfum est développé par la torréfaction ) ; le quinquina ( écorce de plusieurs arbres du genre Cinchona , l ' un des médicaments amers et toniques les plus usités , et le plus précieux des fébrifuges ou antipériodiques ) ; l ' ipécacuanha ( racine du Cephoelis lpecacuanha [ fig .1399 ] , dont la poudre est très - usitée comme médi - RURIACÉES . |
+| source.excerpts.413.words.0 | parfum |
+| source.excerpts.413.words.1 | le |
+| source.excerpts.413.words.2 | quinquina |
+| source.excerpts.413.words.3 | écorce de plusieurs arbres du |
+| source.excerpts.414.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/95f8e4ae-b35b-521b-ae2a-19e7e55e1f87 |
+| source.excerpts.414.value | — Les fleurs ( les / .germanica et sibirica fournissent une matière colorante verte usitée pour la peinture .La substance médicamenteuse la plus importante fournie par cette famille est un produit du Safran ( Crocus sativus ) . |
+| source.excerpts.414.words.0 | colorante |
+| source.excerpts.414.words.1 | germanica |
+| source.excerpts.414.words.2 | sibirica |
+| source.excerpts.415.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9655e3c8-3474-5856-840b-0c1cbcb079a2 |
+| source.excerpts.415.value | Groupe peu nombreux , dont le genre typique , Jasminum , est surtout représenté dans nos jardins par le Jasmin blanc ( J .officinale ) , célèbre à la fois par son élégance et le parfum délicieux et pénétrant de ses fleurs .Les Jasminées sont des arbustes ( à tiges dressées ou sarmenleuses grimpantes ) disséminés dans la région méditerranéenne , et répandus dans les contrées intertropicales , surtout de l ' Asie et de l ' Afrique , un petit nombre en Amérique . |
+| source.excerpts.415.words.0 | parfum |
+| source.excerpts.415.words.1 | fleurs |
+| source.excerpts.415.words.2 | pénétrant |
+| source.excerpts.415.words.3 | délicieux |
+| source.excerpts.416.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/966bfa57-ba4f-5565-85ac-a77101c6eb11 |
+| source.excerpts.416.value | 260 TABAC .ponrses propriétés médicinales .— C ' est vers la fin du XVe siècle ( en 1492 ) que les hardis navigateurs qui ( sous la conduite de Christophe Colomb ) touchèrent d ' abord l ' Amérique par l ' île de Cuba , virent les premiers , chez de pauvres sauvages , cette pratique qui leur parut de la plus haute extravagance . |
+| source.excerpts.416.words.0 | médicinales |
+| source.excerpts.416.words.1 | propriétés |
+| source.excerpts.417.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/96b02891-86f9-5b25-bcc8-4e074f247db9 |
+| source.excerpts.417.value | Les Cassyta sont des plantes très - anomales , parasites , volubiles , à feuilles abortives , dont le port rappelle nos Cuscutes .— Cette famille , très - importante par le nombre considérable de ses genres et de ses espèces , dont la plupart sont de beaux arbres à feuilles persistantes et aromatiques , est remarquable par la structure bizarre des étamines ; ce trait d ' organisation rapproche les Laurinées des MonimiacéesAiliérospcrinécs et des Berbéridées .Leurs qualités aromatiques rappellent celles des Myrislicées , dont elles diffèrent tout à fait par la structure de l ' élamine el de la graine . |
+| source.excerpts.417.words.0 | aromatiques |
+| source.excerpts.417.words.1 | Laurinées |
+| source.excerpts.418.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/96cc9341-2601-57fa-80e9-e4c067c6c99f |
+| source.excerpts.418.value | Ce sont des plantes de l ' Inde à rhi / .omes aromatiques : le Maranta [ Alpinia Galanga ) , Galanga - de - l ' Inde ou G .- de - Java , YJIellndo . |
+| source.excerpts.418.words.0 | Galanga |
+| source.excerpts.418.words.1 | Maranta |
+| source.excerpts.418.words.2 | omes aromatiques |
+| source.excerpts.419.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/96fb7a63-4878-5608-a908-0d7ae8957429 |
+| source.excerpts.419.value | ics dans leur bouche et s ' occupaient continuellement à les mâcher .Leurs devins prédisaient l ' avenir par l ' inspection de la fumée de la plante brûlée .Aussi cette plante était - elle cultivée partout , dans les jardins et dans les champs . |
+| source.excerpts.419.words.0 | fumée |
+| source.excerpts.419.words.1 | plante brûlée |
+| source.excerpts.420.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9716ff22-a3a2-5c40-a169-7d2576a9ccc0 |
+| source.excerpts.420.value | des Myrtacées ) .Cet arbre aromatique est cultivé en grand , en Chine et aux îles Moluques , pour les boutons de sa fleur ( clous - de - Girofle ) qui fournissent par la distillation une huile aromatique à odeur d ' oeillet très - usitée dans la parfumerie .FIG . |
+| source.excerpts.420.words.0 | huile |
+| source.excerpts.420.words.1 | Chine |
+| source.excerpts.420.words.2 | aromatique |
+| source.excerpts.420.words.3 | très |
+| source.excerpts.420.words.4 | odeur |
+| source.excerpts.420.words.5 | fleur |
+| source.excerpts.420.words.6 | parfumerie |
+| source.excerpts.420.words.7 | boutons |
+| source.excerpts.420.words.8 | Girofle |
+| source.excerpts.420.words.9 | clous |
+| source.excerpts.420.words.10 | îles Moluques |
+| source.excerpts.420.words.11 | oeillet |
+| source.excerpts.421.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/97a37ff0-b78d-5313-bf7c-566b4a6f83bf |
+| source.excerpts.421.value | dont la chair brisée prend rapidement une belle teinte bleue , passe pour vénéneux ) .Le Geps , usité dans l ' art culinaire , est au - dessous de sa réputation ; sa chair , mucilagineuse et indigeste , est beaucoup moins parfumée nue FIG .221 . |
+| source.excerpts.421.words.0 | parfumée |
+| source.excerpts.421.words.1 | sa chair |
+| source.excerpts.421.words.2 | moins parfumée |
+| source.excerpts.421.words.3 | Geps |
+| source.excerpts.422.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/97ea877b-2c14-5cc8-90ec-bca464d454b5 |
+| source.excerpts.422.value | 1371 ) .Le nom de Reseda , qui vient de resedare , guérir , calmer , semblerait indiquer des propriétés que ne justifient pas les plantes de la famille des Résédacées : leur saveur est acre et piquante , et présente la plus grande analogie avec celle des Crucifères , Celle du Reseda odorata me paraît presque identique avec celle du Lepidiv .m sativum ( Cresson - alénois ) . |
+| source.excerpts.422.words.0 | acre |
+| source.excerpts.422.words.1 | plantes |
+| source.excerpts.422.words.2 | saveur |
+| source.excerpts.423.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/984d9ca4-cbfb-53e5-97a4-f75fee353472 |
+| source.excerpts.423.value | Ces plantes délicates doivent être placées sur une feuille de papier qu ' on dépose sur le verre pour y être doucement épongées avec le pinceau , puis transportées avec la feuille de papier entre les coussins .— Afin d ' éviter l ' encombrement et l ' odeur de l ' alcool , ces préparations doivent être faites dans une pièce bien aérée , autre que le cabinet de travail .( 2 ) Les étiquettes sont souvent tachées pendant cette opération par la matière colorante des plantes dissoute dans l ' alcool ; c ' est pour cela que les plantes doivent être accompagnées alors d ' étiquettes provisoires . |
+| source.excerpts.423.words.0 | odeur |
+| source.excerpts.423.words.1 | alcool |
+| source.excerpts.423.words.2 | cabinet de travail |
+| source.excerpts.424.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9929a620-fc65-5f6c-b60e-d5e97908cf39 |
+| source.excerpts.424.value | splendeur et de beauté , el comptent parmi les merveilles du monde végétal .Qui " est resté en contemplation devant les grandes fleurs d ' un blanc pur du Nymphéa alba ( le Nénufar blanc ) , et n ' a vu avec plaisir ses larges feuilles circulaires et lustrées , étalées sur les eaux limpides des marais boisés et des tourbières ; ou les Heurs jaunes odorantes du Nufar luteum entourées de leurs grandes feuilles 958 NYMPHÉACÉES .ovales qui décorent nos étangs ? Leur beauté est cependant bien modeste , si nous la comparons à la splendeur du Victoria Beginw , dont les feuilles géante couvrent de vastes étendues à la surface des grands fleuves du Brésil el de la Guyane . |
+| source.excerpts.424.words.0 | odorantes |
+| source.excerpts.424.words.1 | jaunes odorantes |
+| source.excerpts.424.words.2 | Heurs |
+| source.excerpts.424.words.3 | Nénufar |
+| source.excerpts.424.words.4 | Nufar luteum |
+| source.excerpts.424.words.5 | Nymphéa |
+| source.excerpts.425.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/997805b1-e919-570d-9584-8430118b7864 |
+| source.excerpts.425.value | 1039 .— Sommité florifère dujfentha rubra ( variété glabre cultivée du M .Mentha : les M . |
+| source.excerpts.425.words.0 | variété |
+| source.excerpts.425.words.1 | florifère |
+| source.excerpts.426.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9997c1c3-b023-573f-8e9c-4091f95c841b |
+| source.excerpts.426.value | ) .— 2 ° Odeurs dues à des huiles volatiles : PÉGAKOÏDES ( odeur de la Hue , Buta graveolens ; les Diosma ; la Fraxinelle , llictamnus albus ; l ' OEillet d ' Inde , Tagetes patula , dont l ' odeur plaît aux uns et déplaît à d ' autres ) .— 3 ° Odeurs dues à la présence d ' une huile sulfurée : ALLIOÏDES ou ALLIACÉES ( odeur d ' Ail , bulbes des Allium , Asa - foetida , racine des Acacias ) . |
+| source.excerpts.426.words.0 | odeur |
+| source.excerpts.426.words.1 | Odeurs |
+| source.excerpts.426.words.2 | huiles volatiles |
+| source.excerpts.426.words.3 | OEillet |
+| source.excerpts.426.words.4 | Fraxinelle |
+| source.excerpts.426.words.5 | Diosma |
+| source.excerpts.426.words.6 | Hue |
+| source.excerpts.426.words.7 | Buta graveolens |
+| source.excerpts.426.words.8 | Tagetes patula |
+| source.excerpts.426.words.9 | llictamnus |
+| source.excerpts.426.words.10 | PÉGAKOÏDES |
+| source.excerpts.427.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9a133f90-4abb-50ef-b010-62a9e1e9772b |
+| source.excerpts.427.value | — TALEA .1261 à faible dose , comme éniétique et purgatif ; à haute dose , il agit comme poison naicolico - âcre .Eu lliOi , Jacques Ier , roi d ' Angleterre , et en 1024 le pape Urbain Vlll , ■ - élevèrent avec violence contre la plante américaine et la défendirent sous des peines trèssévères . |
+| source.excerpts.427.words.0 | âcre |
+| source.excerpts.427.words.1 | poison |
+| source.excerpts.427.words.2 | purgatif |
+| source.excerpts.427.words.3 | naicolico |
+| source.excerpts.428.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9a17fcb3-5356-53e2-ba92-80c9c11d9166 |
+| source.excerpts.428.value | Plantes terrestres à racines fibreuses .Fleurs ordinairement régulières , très - petites , très - odorantes .Étamines 2 par avortement de la 3 ° ; pollen granuleux . |
+| source.excerpts.428.words.0 | odorantes |
+| source.excerpts.428.words.1 | Fleurs |
+| source.excerpts.428.words.2 | très - odorantes |
+| source.excerpts.429.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9a19f75a-3f81-5ca0-889c-a3c32e95f148 |
+| source.excerpts.429.value | — Papayer ( Carica Pupaya ) , arbre , fleurs et fruit .d ' un melon ; la pulpe en est succulente , d ' une saveur douceâtre .Ce fruit est surtout recueilli avant sa maturité pour le confire au sucre ou au vinaigre . |
+| source.excerpts.429.words.0 | douceâtre |
+| source.excerpts.429.words.1 | saveur |
+| source.excerpts.430.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9a737efc-6aed-5aaa-ba7a-952e0fe3a601 |
+| source.excerpts.430.value | ment tonique et astringent .La poudre de cascarille a été associée au quinquina comme fébrifuge ; on la môle quelquefois au tabac pour l ' aromatiser .Celte écorce a été désignée dans d ' anciennes pharmacopées sous le nom de quinquina - aromatique . |
+| source.excerpts.430.words.0 | tabac |
+| source.excerpts.430.words.1 | quinquina |
+| source.excerpts.430.words.2 | fébrifuge |
+| source.excerpts.430.words.3 | aromatiser |
+| source.excerpts.430.words.4 | poudre de cascarille |
+| source.excerpts.431.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9a775c33-07cd-57e5-ae84-7d801043bdfd |
+| source.excerpts.431.value | Ces fruits sont moins recherchés que les précédents : on s ' en sert principalement pour composer , par macération avec de l ' eau - de - vie et du sucre , une liqueur de table douée de propriétés toniques et stomachiques .On attribue à la décoction de la racine des propriétés emménagogues ; l ' infusion des feuilles passe pour diurétique .Plusieurs espèces de Ribes habitent les montagnes et les contrées tempérées ou froides de l ' Europe . |
+| source.excerpts.431.words.0 | racine |
+| source.excerpts.431.words.1 | diurétique |
+| source.excerpts.431.words.2 | emménagogues |
+| source.excerpts.432.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9a86e496-362d-5e3f-844b-245b08ccc3e5 |
+| source.excerpts.432.value | Famille de plantes dicotylées dialypélales , à ovaire libre , comprenant 2 - 3 genres dont les espèces appartiennent à l ' Inde , au Japon et a l ' Amérique du Sud .Les Schizandrôes , voisines des Anonacées , sont des arbrisseaux à tiges sarmenteuses , à fleurs unisexuées , à étamines à anthères cohérentes ; elles sont dépourvues de qualités aromatiques .SCIE ( DENTÉ EN ) , serratus . |
+| source.excerpts.432.words.0 | fleurs |
+| source.excerpts.432.words.1 | elles |
+| source.excerpts.432.words.2 | aromatiques |
+| source.excerpts.432.words.3 | tiges |
+| source.excerpts.432.words.4 | arbrisseaux |
+| source.excerpts.432.words.5 | Anonacées |
+| source.excerpts.432.words.6 | Schizandrôes |
+| source.excerpts.433.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9afa624b-00e9-54ce-98ac-f9c8772775b4 |
+| source.excerpts.433.value | Un grand nombre de Liliacées font l ' ornement de nos parterres ; nous citerons les Lis , les Tulipes , les Jacinthes , les Scilles , les Ornilhogales , les fïilillaires .la Tubéreuse , dont l ' odeur rappelle celle de la fleur d ' Oranger , et les lléniérocalles .Le Lis - marlagon ( Lilium . |
+| source.excerpts.433.words.0 | Tubéreuse |
+| source.excerpts.433.words.1 | odeur |
+| source.excerpts.433.words.2 | fleur |
+| source.excerpts.434.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9b6fb469-d38a-5e4a-b0b1-41eb86f4f340 |
+| source.excerpts.434.value | Se dit des substances dont le contact irrite les membranes muqueuses .La saveur acre est le résultat du contact de ces substances avec la membrane buccale ; en contaci avec la membrane nasale , elles provoquent l ' éternument ; introduites dans l ' estomac , elles déterminent des vomissements , et sont dites émétiques ; ou la purgalion , et sont dites cathartiques .Si l ' intensité de leur âcreté est plus considérable , elles occasionnent l ' inflammation de la membrane muqueuse , son ulcération , sa perforation , et par suite la mort . |
+| source.excerpts.434.words.0 | acre |
+| source.excerpts.434.words.1 | ces substances |
+| source.excerpts.434.words.2 | saveur |
+| source.excerpts.435.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9da22e45-bc30-58f0-b24e-9b3143aee241 |
+| source.excerpts.435.value | — Aneth ( Anethum graveolens ) .l ' odeur et un peu l ' aspect du IVunuil ( Foeniculum officinale ) ; elle s ' en dis tingue par son fruit à rebord aplati , ci par sa racine annuelle .AXFR . |
+| source.excerpts.435.words.0 | odeur |
+| source.excerpts.435.words.1 | Foeniculum |
+| source.excerpts.435.words.2 | IVunuil |
+| source.excerpts.436.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9db257ab-1240-56b3-ade0-d7adbda6ce5d |
+| source.excerpts.436.value | d ' un périsperme et parles étamines en nombre indéfini : se rapprochant précisément de chacune de ces deux familles par les caractères qui l ' éloigncnt de l ' autre ; et différant à la fois de l ' une et de l ' autre par un suc ord .laiteux à propriétés narcotiques ( le suc des Renonculacées est acre et souvent vénéneux , et celui des Crucifères à saveur piquante et à propriétés stimulantes ) .La famille des Fumariacées est plus voisine encore que les précédentes des Papavéracées , dont elle offre la graine pourvue de périsperme , le fruit souvent à deux carpelles soudés , etc . |
+| source.excerpts.436.words.0 | piquante |
+| source.excerpts.436.words.1 | stimulantes |
+| source.excerpts.436.words.2 | narcotiques |
+| source.excerpts.436.words.3 | saveur |
+| source.excerpts.436.words.4 | Crucifères |
+| source.excerpts.436.words.5 | Renonculacées |
+| source.excerpts.437.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9e6d3ce2-39b9-5905-85e0-ca2c9ed89bf0 |
+| source.excerpts.437.value | Les plantes de la famille à laquelle appartient le genre Sambucus renferment des principes amers , acres et astringents , et sont douées de propriétés purgatives , émétiques et diurétiques .— L ' infusion de fleurs de Sureau constitue une boisson excitante et sudorifique en usage dans le traitement des maladies delà peau ; on emploie également cette infusion à l ' extérieur , comme , résolutive , en lotions et en fomentations .Le suc de l ' écorce cl de la racine a été employé comme purgatif . |
+| source.excerpts.437.words.0 | sudorifique |
+| source.excerpts.437.words.1 | excitante |
+| source.excerpts.437.words.2 | fleurs de Sureau |
+| source.excerpts.438.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9e99aec5-701e-5edf-8191-a9bf136df5f1 |
+| source.excerpts.438.value | Le Scolopendrium officinale , les Asplenium Trichomanes , Alliantum - nigrum et Iiutamururia , sont doués de propriétés légèrement astringenles .— Un grand nombre de Fougères exotiques sont employées , dans les pays où elles sont spontanées , comme médicaments amers , toniques , astringents ou aromatiques .— Les souches de VOsmunda regalis , plante qui croît à la fois dans les marais de l ' Europe et de l ' Amérique du Nord , sont mucilagineuses et astringentes ; ses feuilles ont une saveur styptique . |
+| source.excerpts.438.words.0 | aromatiques |
+| source.excerpts.438.words.1 | toniques |
+| source.excerpts.438.words.2 | astringents |
+| source.excerpts.438.words.3 | médicaments |
+| source.excerpts.438.words.4 | grand nombre de Fougères exotiques |
+| source.excerpts.439.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/9ed80ebc-5518-5aa1-9f22-fef277df4859 |
+| source.excerpts.439.value | ACIDE , acidus .Se dit d ' une saveur aigre et piquante ; ex .: la saveur des feuilles de l ' Oseille commune , du suc de citron , du fruit de l ' Épinc - vinette , etc . |
+| source.excerpts.439.words.0 | aigre |
+| source.excerpts.439.words.1 | saveur |
+| source.excerpts.440.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a0430be2-e466-5dd7-950c-8ab4e6029786 |
+| source.excerpts.440.value | L ' essence de patchouly est employée dans la parfumerie .On prétend que l ' odeur ambrée de l ' encre de Chine est due à un extrait de patchouly ( il .est probable que l ' ambre gris s ' y trouve au moins associé à cette substance ) . |
+| source.excerpts.440.words.0 | encre de Chine |
+| source.excerpts.440.words.1 | odeur |
+| source.excerpts.440.words.2 | ambrée |
+| source.excerpts.440.words.3 | patchouly |
+| source.excerpts.441.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a0f7d96e-c3be-5e46-ae95-8128391f98bf |
+| source.excerpts.441.value | Nous n ' avons pas à insister ici sur le parfum stimulant bien connu et la fine saveur de la Truffe ; le seul défaut de cette précieuse production est sa rareté , mais il n ' est pas impossible qu ' on parvienne à la multiplier .La Truffe passe pour douée de vertus aphrodisiaques .D ' après les recherches d ' un savant distingué ( AI . |
+| source.excerpts.441.words.0 | aphrodisiaques |
+| source.excerpts.441.words.1 | Truffe |
+| source.excerpts.442.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a119d68a-5be8-591f-8a19-45f37ae36d5f |
+| source.excerpts.442.value | Arbre des forêts de la Guyane ( de la famille des Léguinineuses - Papilionacées ) .Le fruit connu des droguistes sous le nom de fève - tonka contient une graine aromatique .Ce fruit FIG . |
+| source.excerpts.442.words.0 | aromatique |
+| source.excerpts.442.words.1 | graine |
+| source.excerpts.442.words.2 | droguistes |
+| source.excerpts.442.words.3 | tonka |
+| source.excerpts.443.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a1511a4b-ebec-5259-986b-43abade0652d |
+| source.excerpts.443.value | des Pomacèës ) .Les fruits de cet arbre ( originaire , du midi de l ' Europe ) exhalent une odeur aromatique .Crus , ils sont d ' pn, speur > . |
+| source.excerpts.443.words.0 | aromatique |
+| source.excerpts.443.words.1 | odeur |
+| source.excerpts.443.words.2 | fruits de cet arbre |
+| source.excerpts.444.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a1b81854-2bab-5a3b-a60b-3714e52dac0a |
+| source.excerpts.444.value | — Puis , d ' autres arbres fruitiers d ' une moindre importance , les uns cultivés , comme le Cognassier et le Néflier , d ' autres croissant en pleine liberté , comme l ' Alisier et le Sorbier ; enfin , dans les jardins de la Provence , le Néflier - du - Japon ( Eriobotrya japonica ) , fréquemment cultivé , pour ses jolis fruits jaunes à saveur acidule - sucrôe .— La famille des Pomacées fournit â nos haies l ' Aubépine ( Cratoegus Oxyacantha ) , dont les fleurs parfumées symbolisent le printemps , et dont les fruits de corail symbolisent l ' automne ; nos parcs lui doivent le Sorbier - des - oiseleurs ( Sorbw aucuparia ) ; le Cognassier du Japon ( Cydonia japonica ) , dont les fleurs ôcarlates sont si remarquables par leur éclat , et le Buisson - Ardent ( Cratoegus Pyracantha ) POMACÉES .1109 Les caractères généraux de la famille des Pomacées sont les suivants : Arbres ou arbrisseaux à ramuscules quelquefois transformés en épines , à bourgeons écailleux . |
+| source.excerpts.444.words.0 | fruits |
+| source.excerpts.444.words.1 | fleurs |
+| source.excerpts.444.words.2 | parfumées |
+| source.excerpts.444.words.3 | printemps |
+| source.excerpts.444.words.4 | Aubépine |
+| source.excerpts.444.words.5 | Buisson |
+| source.excerpts.444.words.6 | Sorbw |
+| source.excerpts.444.words.7 | Sorbier |
+| source.excerpts.445.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a1e4f169-03b9-5e39-b100-eb4b6a659244 |
+| source.excerpts.445.value | Cette élongalion par tous les points simultanément est analogue à celle qui a lieu pour chaque membre d ' un animal , lorsqu ' il passe de l ' état jeune à l ' état adulte .C ' est une substance douée de propriétés stimulantes très - actives ; sa saveur est acre et brûlante .Le Gingembre est en usage comme substance médicamenteuse , et , comme condiment ou épice , les distillateurs en font usage pour aromatiser certaines liqueurs de table ; on en prépare en Angleterre une boisson fermenléc ( gingerbeer ) . |
+| source.excerpts.445.words.0 | sa |
+| source.excerpts.445.words.1 | substance |
+| source.excerpts.445.words.2 | saveur |
+| source.excerpts.445.words.3 | très - actives |
+| source.excerpts.446.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a201d770-6020-5fa0-a4a2-6e0dbdd3d62a |
+| source.excerpts.446.value | nissant à la teinture une couleur jaune ) .Le Réséda odorant ( R .odorata ) , si aimé pour sa senteur finement suave , est cultivé dans tous les jardins . |
+| source.excerpts.446.words | odorant |
+| source.excerpts.447.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a22faf98-79f3-525b-8879-16dd052371f1 |
+| source.excerpts.447.value | Ce produit est surtout recueilli ta l ' État de San - Salvador .Cette substance résineuse doit son odeur aromatique , qui rappelle le parfum < Ie la vanille , à la présence del ' a * benzoïque ; elle s ' écoule d ' inc ' sions faites au tronc de l ' arbre , ™ t ou enlève une partie de l ' écorce .BAUME - DE - TOLU . |
+| source.excerpts.447.words.0 | aromatique |
+| source.excerpts.447.words.1 | parfum |
+| source.excerpts.447.words.2 | odeur |
+| source.excerpts.447.words.3 | son |
+| source.excerpts.447.words.4 | substance résineuse |
+| source.excerpts.447.words.5 | vanille |
+| source.excerpts.447.words.6 | a * benzoïque |
+| source.excerpts.448.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a282b414-ede7-52f0-9f34-18d798275f07 |
+| source.excerpts.448.value | Le labac fut d ' autant plus recherché , que son usage rencontrait plus d ' obstacles .On ne se contenta pas de le priser , on le fuma et on le mâcha ! — Eh quoi ! disait Jacques i " , le très - élégant el très - docte monarque de la Grande - Bretagne , on ne peut recevoir un hôte sans lui offrir du tabac ! il n ' est de cure que par le tabac ! de réunions recherchées que celles où l ' on fume ! Encore serait - ce lolérable si les hommes élaient seuls atteints de cette manie ; mais voici que nos femmes sont elles - mêmes obligées de dépraver leur haleine par le tabac pour pouvoir supporter 1 odeur infecte dont leurs maris sont imprégnés ! C ' est vers 1558 qu ' un moine , André Thevet , importa en France le tabac , herbeparfu ' « « - ' fort salulire pour { aire distiller et consumer les Immeurs superflues du cerveau , qui fut passer la faim et la soif , el dont les chrétiens établis en Amérique sont devenus " i - rccillcusemeut friands ! — Très - peu de temps après , sous le règne de Henri IV , le W ) ac l ' ut mis en honneur par Jean ISicot , ambassadeur de France à la cour de Portugal , ' cquel envoya de Lisbonne , à Marie de MéJicis , une certaine quantité de la nouvelle poudre , qui fut appelée d ' abord poudre de la Heine .— Les botanistes ont désigné la plante américaine sous le nom de Nicotiana Tuliucum , en l ' honneur de Jean ÎSicot . |
+| source.excerpts.448.words.0 | infecte |
+| source.excerpts.448.words.1 | odeur |
+| source.excerpts.448.words.2 | haleine |
+| source.excerpts.448.words.3 | nos femmes |
+| source.excerpts.448.words.4 | leurs maris |
+| source.excerpts.448.words.5 | dépraver |
+| source.excerpts.448.words.6 | sous le règne de Henri IV |
+| source.excerpts.448.words.7 | vers 1558 |
+| source.excerpts.449.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a2a79e58-4d8a-58d3-b5e1-6eb9c5b09d87 |
+| source.excerpts.449.value | .folie plante des bois à souche longuement traçante , à feuilles elliptiques d ' un beau vert , à fleurs blanches en grelots , disposées en grappes terminales , à odeur très - suave .Le Muguet ( en allemand , Maiblumé ) est une des ( leurs champêtres qui , dans le nord de l ' Europe , signalent l ' arrivée du printemps . |
+| source.excerpts.449.words.0 | odeur |
+| source.excerpts.449.words.1 | fleurs |
+| source.excerpts.449.words.2 | très - suave |
+| source.excerpts.449.words.3 | folie plante des bois |
+| source.excerpts.450.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a2c394da-77a0-50d9-ab12-b8f33f563e54 |
+| source.excerpts.450.value | 99 .— Rameau florifère de l ' Arbre à baume - du - Pérou ( Myroxylqn peruiferum ) .BAUME - DU - PËBQU . |
+| source.excerpts.450.words.0 | Arbre |
+| source.excerpts.450.words.1 | florifère |
+| source.excerpts.450.words.2 | Rameau |
+| source.excerpts.451.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a31e7713-f4fb-53c0-9c5f-10a83e6a802e |
+| source.excerpts.451.value | La Morelle à fruit jaune a les » racines comme les précédentes ; sa tige est haute d ' environ deux pieds , velue , » anguleuse , et comme feuilletée ; ses feuilles sont beaucoup plus ondées , et » comme crénelées profondément , vcrtpasle , velues des deux costez ; ses fleurs H sont semblables à celles des espèces dont nous venons de parler ; mais les fruits , » qui sont ovales , longs de quatre lignes , larges de trois , verts d ' abord , et rayez » de blanc dans leur longueur , sont jaunes couleur d ' ocre dans leur maturité ; » leur suc est aigrelet , vineux , peu coloré ; les semences sont bordées d ' une » petite chair jaunastre .L ' odeur assoupissante de celle - cy m ' a paru plus forte » que celle des précédentes : cependant ces deux dernières espèces agissent sur » le papier bleu de même que la première .» Voici quelques - unes des indications de Tournefort : < ' Ophioglossum vulgatum , C . |
+| source.excerpts.451.words.0 | odeur |
+| source.excerpts.451.words.1 | plus forte |
+| source.excerpts.451.words.2 | assoupissante |
+| source.excerpts.451.words.3 | m |
+| source.excerpts.452.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a339b049-7fe7-560c-b91b-ac4d200240b0 |
+| source.excerpts.452.value | Le parfum du fruit ( gousse de Vanille ) ( fig .1597 ) , cueilli avant la maturité et séché au soleil , est des plus suaves : on connaît l ' usage de la Vanille dans l ' art du confiseur et du parfumeur .La Vanille est classée an . |
+| source.excerpts.452.words.0 | parfumeur |
+| source.excerpts.452.words.1 | confiseur |
+| source.excerpts.453.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a3c7b75d-22a0-58cd-aa7a-c325664c33e2 |
+| source.excerpts.453.value | GÉRAMUAI - ROSAT ( Pelargonium odoratissimum , famille des Géraniacées ) .Cultivé en grand en Provence ( à Grasse ) , dans le département de Seineet - Oise , en Turquie , pour l ' essence fournie à la distillation par ses feuilles fortement aromatiques , à odeur de rose .Cette essence , qui diffère peu de l ' essence de roses et est obtenue à un prix bien inférieur , est employée à sa falsification . |
+| source.excerpts.453.words.0 | Turquie |
+| source.excerpts.453.words.1 | odeur |
+| source.excerpts.453.words.2 | rose |
+| source.excerpts.453.words.3 | aromatiques |
+| source.excerpts.453.words.4 | essence |
+| source.excerpts.453.words.5 | ses feuilles |
+| source.excerpts.453.words.6 | Provence |
+| source.excerpts.453.words.7 | fortement aromatiques |
+| source.excerpts.453.words.8 | département de Seineet - Oise |
+| source.excerpts.453.words.9 | à Grasse |
+| source.excerpts.454.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a3d11eed-e81e-5418-b50d-8d88ee3f0966 |
+| source.excerpts.454.value | Ces classes d ' odeurs sont les suivantes : ODEURS CAMptionoïMS ( odeur camphrée ) ; CITROSMÉES ( odeur de citron et d ' orange ) ; MYRTOïDiiS ( odeur de Myrte ) ; ANISOÏDES ( odeur d ' anis ) ; RHODOÏDES ( odeur de la Rose - à - cenl - feuilles ) ; ANTHÉMISOÏDES ( odeur de la Camomille ) .Lorsque les Imiles volatiles sont associées à un type résineux , , elles constituent les classes d ' odeurs suivantes : BALSAMOÏDES ( les baumes , la vanille ) .Certaines odeurs de nature analogue sont dues à des principes encore indéterminés ; telles sont les classes suivantes : NARDOSMOÏDES ( par ex . |
+| source.excerpts.454.words.0 | elles |
+| source.excerpts.454.words.1 | odeurs |
+| source.excerpts.454.words.2 | vanille |
+| source.excerpts.454.words.3 | baumes |
+| source.excerpts.454.words.4 | Imiles volatiles |
+| source.excerpts.454.words.5 | BALSAMOÏDES |
+| source.excerpts.455.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a4f4cae9-0971-5b58-90e9-0caadea8705c |
+| source.excerpts.455.value | 1416 ) fournissent un bois aromatique très - recherché en Orient , et auquel les médecins arabes attribuaient d ' importantes propriétés .Par la distillation du bois , on obtient une essence dont l ' odeur rappelle le parfum de la Rose .Dans l ' Inde , on brûle le bois de Santal comme encens . |
+| source.excerpts.455.words.0 | Rose |
+| source.excerpts.455.words.1 | bois |
+| source.excerpts.455.words.2 | parfum |
+| source.excerpts.455.words.3 | odeur |
+| source.excerpts.455.words.4 | essence |
+| source.excerpts.456.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a63ebc37-aef8-5464-af9e-88a9734fe74e |
+| source.excerpts.456.value | Les saveurs fétides ( résultant souvent de la présence de l ' hydrogène sulfuré ) sont plus rares dans le règne végétal que dans le règne animal ; elles caractérisent ordinairement des substances en décomposition et en fermentation .Certaines plantes ont cependant , à l ' état frais ou normal , une odeur aromatique fétide : tel est le Chenopodium Vulvaria ou C .olidum , dont l ' odeur rappelle celle du poisson de mer . |
+| source.excerpts.456.words.0 | odeur |
+| source.excerpts.456.words.1 | Chenopodium |
+| source.excerpts.456.words.2 | Certaines plantes |
+| source.excerpts.456.words.3 | C |
+| source.excerpts.456.words.4 | aromatique fétide |
+| source.excerpts.456.words.5 | Vulvaria |
+| source.excerpts.457.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a665912a-6135-58a1-8257-8ca06516d95a |
+| source.excerpts.457.value | Les Génépis sont regardés dans les montagnes comme une panacée universelle .On en fabrique une liqueur alcoolique douée de propriétés stomachiques et analogue à la liqueur de la Chartreuse .GÉNÉPIS . |
+| source.excerpts.457.words.0 | liqueur |
+| source.excerpts.457.words.1 | stomachiques |
+| source.excerpts.458.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a6669f28-020f-5d4a-9d1a-73b1653ad06d |
+| source.excerpts.458.value | HERBE - D ' AMOUR .Réséda - odorant ( Reseda odorata , Résédacées ) .Les Résédas passaient pour doués de propriétés calmantes , d ' où le nom Réséda , de resedare , calmer . |
+| source.excerpts.458.words.0 | Réséda |
+| source.excerpts.458.words.1 | odorant |
+| source.excerpts.458.words.2 | Reseda |
+| source.excerpts.458.words.3 | Résédacées |
+| source.excerpts.459.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a68c1c1f-867d-5be6-9253-02560b16e382 |
+| source.excerpts.459.value | de propriétés analogues à celles de notre Inula Heknium ( l ' Année ) .La poudre et l ' extrait de la racine de Costus sont stimulants et passaient pour aphrodisiaques .Celte substance entre dans la composition de la thériaque ; le parfum de cette racine rappelle celui de l ' Iris de - Florence . |
+| source.excerpts.459.words.0 | poudre |
+| source.excerpts.459.words.1 | aphrodisiaques |
+| source.excerpts.459.words.2 | extrait |
+| source.excerpts.459.words.3 | stimulants |
+| source.excerpts.459.words.4 | racine de Costus |
+| source.excerpts.460.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a6f5523a-e7ac-5cc1-b470-d5c8543a6d33 |
+| source.excerpts.460.value | Les liquides excrétés par les glandes qui terminent certains poils sont généralement des huiles aromatiques ; ce liquide s ' enflamme chez la Fraxinelle ( Dictamnus albus ) à l ' approche de la Uanime d ' une bougie .Les poils des Unies ( dils poils urticants ) reposent sur une glande excrétoire , et le poil lui - même n ' est qu ' un canal excréteur formé d ' une cellule allongée qui verso ( en se brisant ) le liquide irritant dans la blessure .Voy . |
+| source.excerpts.460.words.0 | poil |
+| source.excerpts.460.words.1 | poils |
+| source.excerpts.460.words.2 | urticants |
+| source.excerpts.460.words.3 | poils des Unies |
+| source.excerpts.461.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a81ddd8b-c1af-589d-af54-1d2b0a3d2abd |
+| source.excerpts.461.value | — Ranunculus repens ( Pied - de - poule , Bouton - d ' or ) .Cette plante est considérée à tort , par quelques auteurs , comme douée de la même àcreté que les précédentes ; il est facile de s ' assurer que la plante fraîche a une saveur herbacée qui non - seulement est dépourvue d ' ûcreté , mais n ' est pas même astringente ; elle était connue dans les anciennes pharmacies sous le nom de R .dulcis , par opposition au R . |
+| source.excerpts.461.words.0 | astringente |
+| source.excerpts.461.words.1 | plante |
+| source.excerpts.461.words.2 | saveur |
+| source.excerpts.462.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a81ff60f-e774-5ae2-ba9a-9ab245189496 |
+| source.excerpts.462.value | — Fruit ( capsule poricide ) du Muflier ( Antirrhinummajus ) .parmi les plantes exotiques cultivées : les Salpiglossis , jolies plantes annuelles , et les Buddleia , arbustes très - élégants à fleurs odorantes , La famille des Scrofularinées présente les caractères suivants : Plantes herbacées rarement frutescentes , à feuilles simples , opposées , alternes , rarement verticillécs , dépourvues de stipules .Fleurs hermaphrodites ord . |
+| source.excerpts.462.words.0 | fleurs |
+| source.excerpts.462.words.1 | arbustes |
+| source.excerpts.462.words.2 | fleurs odorantes |
+| source.excerpts.462.words.3 | Buddleia |
+| source.excerpts.462.words.4 | Salpiglossis |
+| source.excerpts.462.words.5 | Scrofularinées |
+| source.excerpts.463.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a8c66160-6bcc-54f6-8b5d-77514897b96f |
+| source.excerpts.463.value | Les feuilles sont ordinairement radicales , linéaires , engainantes à la base .Les Heurs , hermaphrodites , sont ordinairement régulières , quelquefois irrégulières , souvent d ' une grande beaulé el d ' une odeur suave ; elles sont solitaires ou groupées , quelquefois en ombelle .Le périanthe est soudé inférieurcmeni avec l ' ovaire , au delà duquel il se prolonge ordinairement en tube ; il est a 6 pièces pélaloïdes , disposées sur deux rangs , semblables ou dissemblables . |
+| source.excerpts.463.words.0 | suave |
+| source.excerpts.463.words.1 | odeur |
+| source.excerpts.463.words.2 | Heurs |
+| source.excerpts.464.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a9142fff-4014-5794-9436-5822d7fc8d62 |
+| source.excerpts.464.value | — Ces bois aromatjqiies étaient autrefois brûlés en Orient comme parfums ( comm § on brûle dans le Nord du Genévrier ) .— On s ' en est seryj pour faire des fumigations aromatiques stimulantes et toniques .BOIS - AMER . |
+| source.excerpts.464.words.0 | fumigations |
+| source.excerpts.464.words.1 | aromatiques |
+| source.excerpts.464.words.2 | toniques |
+| source.excerpts.464.words.3 | aromatiques stimulantes |
+| source.excerpts.465.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a932b4cb-03d2-58fd-aec9-16bb4d774a53 |
+| source.excerpts.465.value | — SUCCION .1253 Le storax est un autre baume analogue produit par le Styrax officinales ( famille tlesStvracinées ) , arbre de l ' Orient ; son odeur cannelle le narfnm de la .Tnnrmiiin ( le benjoin est extrait d ' un autre Styrax , le S . |
+| source.excerpts.465.words.0 | Styrax |
+| source.excerpts.465.words.1 | odeur |
+| source.excerpts.465.words.2 | cannelle |
+| source.excerpts.465.words.3 | son |
+| source.excerpts.465.words.4 | storax |
+| source.excerpts.466.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a97682f0-931c-558b-9203-b49a9ec86c1e |
+| source.excerpts.466.value | secundo ) , l ' Aspérule ( Asperula odorata ) , etc .— Ce mélange aromatique , doué de propriétés stimulantes , est employé en infusion .C ' est un médicament populaire , dont le vulgaire l ' ait usage presque toujours à contre - sens , par exemple dans les cas de blessures ou de contusions , qui demandent un traitement antiphlogistique et non une médication excitante . |
+| source.excerpts.466.words.0 | aromatique |
+| source.excerpts.466.words.1 | stimulantes |
+| source.excerpts.467.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a9932ae5-72c3-505d-8547-99240d37a253 |
+| source.excerpts.467.value | MARRUBE { Marrubium vulgare , famille des Labiées ) .Plante vivace , d ' une odeur suave , commune le long des chemins .Sa saveur est aromatique . |
+| source.excerpts.467.words.0 | suave |
+| source.excerpts.467.words.1 | odeur |
+| source.excerpts.468.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a9b8bc6c-e5f6-5a9e-9cb4-210ca9258ffc |
+| source.excerpts.468.value | Les Heurs sont petites , disposées en panicules .Le fruit ( mangue - mombin ) est une drupe ordinairement arquée ou rémforme , rougeâtre ou brunâtre , de la grosseur d ' une poire , quelquefois de la grosseur d ' un concombre ; sa pulpe , couleur abricot , est d ' une saveur résineuse - aromatique fort agréable ( le noyau reuferme une amande anière ) .Ce fruit se mange comme le melon , ou comme la pêche , dans le vin . |
+| source.excerpts.468.words.0 | aromatique |
+| source.excerpts.468.words.1 | sa |
+| source.excerpts.468.words.2 | aromatique fort agréable |
+| source.excerpts.468.words.3 | saveur |
+| source.excerpts.469.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a9e1538b-c5ee-535c-a38a-b95ae9b70d4f |
+| source.excerpts.469.value | 1555 .— Fève - de - Tonkin ou Fève - tonka , fruit du Dipteryx odorata .a la forme et la structure d ' une grosse amande ; c ' est une gousse monosperme à endocarpe ligneux et à sarcocarpe charnu , c ' est - à - dire une drupe ( fig . |
+| source.excerpts.469.words.0 | odorata |
+| source.excerpts.469.words.1 | tonka |
+| source.excerpts.470.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/a9ed8f39-3208-5ff3-b7cf-9aa73e3ad37f |
+| source.excerpts.470.value | secalinum , etc .La bière est une boisson légèrement alcoolique , résultant de la transformation en sucre de la fécule des grains de l ' Orge pendant leur germination , puis de la fermentation de cette matière sucrée , à laquelle on ajoute les principes amers et aromatiques du Houblon .Orgya . |
+| source.excerpts.470.words.0 | aromatiques |
+| source.excerpts.470.words.1 | amers |
+| source.excerpts.470.words.2 | grains de l |
+| source.excerpts.471.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aa0927fb-2caf-521e-86e1-fedb24f3b06e |
+| source.excerpts.471.value | prises .L ' odeur , la saveur , les cuillers d ' argent noircies pendant la cuisson , ne prouvent absolument rien ; on doit reconnaître chaque espèce ( comestible , non comestible , ou vénéneuse ) aux caractères botaniques qui la différencient des espèces voisines .— On prétend que certaines espèces vénéneuses , traitées par bullidon » grande eau , l ' expression du suc , la macération prolongée dans le vinaigre et le sel , etc . |
+| source.excerpts.471.words.0 | odeur |
+| source.excerpts.471.words.1 | cuillers d |
+| source.excerpts.472.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aa1f8dd0-c283-5a9d-81f4-e15082413e39 |
+| source.excerpts.472.value | ) ÊLÉMI , RÉSINE - ÉLÉMI - DU - BRÉSIL , ÉLÉMI - FAUSSE , ÉLÉMI - D ' AMÉRIQUE .Substance résineuse employée à l ' extérieur comme excitante et maturative .Elle fait partie de l ' onguent - de - styrax , du baume - de - Fioravanti ; elle entre dans la préparation du sparadrap ( toile agglutinative ) , etc . |
+| source.excerpts.472.words.0 | excitante |
+| source.excerpts.472.words.1 | Substance résineuse |
+| source.excerpts.473.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aaafb6bd-fbfb-5c4e-abf8-b0e289ab203f |
+| source.excerpts.473.value | au el Gagea sont d ' une saveur acre el amère ; ils étaient jadis comptés au nombre des médicaments diurétiques et purgatifs .Les bulbes du Fritillaria impieriulis sont remarquables par leur odeur vireuse .— Les racines charnues des Asphodebts et des Anthericum contiennent de la fécule el du mucilage ; elles perdent par la dessiccation une partie de leur ùcrelé . |
+| source.excerpts.473.words.0 | odeur |
+| source.excerpts.473.words.1 | leur |
+| source.excerpts.473.words.2 | vireuse |
+| source.excerpts.473.words.3 | bulbes |
+| source.excerpts.473.words.4 | Fritillaria |
+| source.excerpts.474.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ab795c3e-6b8f-5d86-a4fb-3a783c797223 |
+| source.excerpts.474.value | 1611 .— Violette - odorante ( Viola odorata ) .ou non d une membrane en forme d ' aile , souvent munies d ' une caroncule ou crèle charnue ( par l ' expansion du raphô ) , pourvues d ' un périsperme charnu renfermant un embryon droit . |
+| source.excerpts.474.words.0 | Violette |
+| source.excerpts.474.words.1 | odorante |
+| source.excerpts.475.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/abb9ecb0-b676-5764-88bd-e9c90843303d |
+| source.excerpts.475.value | Composées - Corymbifères ) .en prépare une infusion amèreet aromatique ; celte plante est douée de propriétés vermifuges .La Santoline est une jolie plante vivace commune sur les côtes de la Bretagne ; ses touffes arrondies sont formées de tiges nombreuses à feuilles d ' un blanc grisâtre , chargées de capitules d ' un jaune d ' or longuement pédoncules . |
+| source.excerpts.475.words.0 | aromatique |
+| source.excerpts.475.words.1 | infusion |
+| source.excerpts.475.words.2 | vermifuges |
+| source.excerpts.475.words.3 | celte plante |
+| source.excerpts.476.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/abe8af22-9e9f-538b-8d40-f8080501967f |
+| source.excerpts.476.value | Ledum , C .cyprinus , etc * Son odeur balsamique la fait rechercher pour la parfumerie : elle a été employée comme médicament stomachique et stimulant .136a LAIT - DE - PALMIER . |
+| source.excerpts.476.words.0 | odeur |
+| source.excerpts.476.words.1 | Son |
+| source.excerpts.476.words.2 | parfumerie |
+| source.excerpts.476.words.3 | stomachique |
+| source.excerpts.476.words.4 | cyprinus |
+| source.excerpts.477.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ac089a5e-7c7b-5d44-82b4-5113b84218e5 |
+| source.excerpts.477.value | Feuilles à odeur de rose ; fleurs jaunes en grappes ressemblant à celles du Faux - Ébénier .Ce Cytise est un arbuste très - rustique , dont les graines , alimentaires , sont d ' une grande ressource dans les colonies , pour la nourriture des noirs , la saveur de ce pis est légèrement aromatique ; il est cultivé en Chine .POIS - VERT , Petit - Pois ( Pisum sativum , famille des Papilionacées ) . |
+| source.excerpts.477.words.0 | aromatique |
+| source.excerpts.477.words.1 | légèrement aromatique |
+| source.excerpts.477.words.2 | saveur |
+| source.excerpts.477.words.3 | Cytise |
+| source.excerpts.477.words.4 | pis |
+| source.excerpts.478.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aca179d9-f6ab-50c4-aeac-f094cee2ba2d |
+| source.excerpts.478.value | 1117 variétés des Primevères ( Primula grandiflora ) et des Oreilles - d ' ours ( Primula Auricula ) ; les fleurs si élégantes des Cyclamen et de plusieurs Anagallis , etc .Le Primula officinalis ( Coucou , Coqueluchon ) fait , pendant le mois d ' avril , l ' ornement de nos prairies ; sa fleur exhale une odeur douce et aromatique ; elle renferme une substance amôre et une très - petite quantité d ' huile volatile .On considérait jadis l ' infusion de cette fleur comme stimulante , tonique et diaphonique , et on l ' employait dans les maladies des voies urinaires et dans les affections rhumatismales . |
+| source.excerpts.478.words.0 | aromatique |
+| source.excerpts.478.words.1 | douce |
+| source.excerpts.478.words.2 | odeur |
+| source.excerpts.478.words.3 | substance |
+| source.excerpts.478.words.4 | Primula |
+| source.excerpts.478.words.5 | sa fleur |
+| source.excerpts.478.words.6 | pendant le mois d ' avril |
+| source.excerpts.479.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/acea56c0-d510-5880-82ab-f5728e32b9ea |
+| source.excerpts.479.value | La prise sera plus singulière , la préparant de ceste sorte : prends ciiiamoiuc , » gingembre , santal , girolle , galauga , noix muscate , inacis , culiebe , cardaiimin , ijriiiue n de nielle , zedoaria , fenouil , panet sauvage , basilic , racine d ' angelica , cariopliyllata , » réglisse , calamus .odoratus , petite valerienne , feuilles de sclarea , thym , calainente , pou » pou » menthe , serpollet , marjolaine , roses rouges , Heur de sauge , betonica , rosmarm , » stechados , buglosse , borraclie , ecorce de citron , poudre de diambra , rosat aromatique , » diarnoschon doux , diamargariton , diarrhoilun , ôleeluuire de perles , de chacun trois » dragmes ; pile ce qui doit se piler , et mets le tout détremper en I ' 2 livres de bonne eau » eau » On met le tout en alembie de verre et l ' on distile au balne .uin Marine , bouchant » si bien l ' alembic qu ' il ne puisse respirer . |
+| source.excerpts.479.words.0 | aromatique |
+| source.excerpts.479.words.1 | thym |
+| source.excerpts.479.words.2 | roses rouges |
+| source.excerpts.479.words.3 | petite |
+| source.excerpts.479.words.4 | marjolaine |
+| source.excerpts.479.words.5 | odoratus |
+| source.excerpts.479.words.6 | serpollet |
+| source.excerpts.479.words.7 | poudre de diambra |
+| source.excerpts.479.words.8 | diarnoschon |
+| source.excerpts.479.words.9 | calainente |
+| source.excerpts.479.words.10 | feuilles de sclarea |
+| source.excerpts.480.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aced40ae-1dc1-5e51-80da-cc165fe12e5e |
+| source.excerpts.480.value | On donne vulg .le nom de Baumes à plusieurs plantes de la famille des Labiées , - dont les feuilles froissées sont d ' une odeur suave : les Mentha rotundifolia , silvestris , rubra , etc ., le Marrubium MI / . |
+| source.excerpts.480.words.0 | suave |
+| source.excerpts.480.words.1 | odeur |
+| source.excerpts.480.words.2 | feuilles froissées |
+| source.excerpts.480.words.3 | plusieurs plantes |
+| source.excerpts.480.words.4 | Mentha rotundifolia |
+| source.excerpts.480.words.5 | rubra |
+| source.excerpts.480.words.6 | silvestris |
+| source.excerpts.481.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ad02bec8-1d0e-5b08-9d42-a3cb83663279 |
+| source.excerpts.481.value | La racine de cetté plante alpine exhale une odeur forte ; sa saveur est ' acre et astringente .' * est inusitée aujourd ' hui : elle a été longtemps employée comme tonique et fébrifuge .■ ; : . |
+| source.excerpts.481.words.0 | fébrifuge |
+| source.excerpts.481.words.1 | longtemps |
+| source.excerpts.482.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ade22695-32c3-5159-8d51-3e9a212ace57 |
+| source.excerpts.482.value | Fiante de l ' Amérique tropicale ( iig .372 ) , dont la saveur chaude et piquante rappelle celle du Cochléaria .Elle est douée de propriétés antiscorbutiques . |
+| source.excerpts.482.words.0 | saveur |
+| source.excerpts.482.words.1 | Cochléaria |
+| source.excerpts.483.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aea9a870-e1a1-58a3-beed-1ba081312060 |
+| source.excerpts.483.value | La famille des Aurantiacôcs a des affinités avec les Méliacées et les Humiriacées ; elle présente aussi certains rapports avec les Rutacées , les Xanthoxylées , ' es férébinthacées et les Amyridées .Les caractères généraux des Aurantiacées sont les suivants : Arbres ou arbrisseaux renfermant dans les feuilles , les ( leurs cil écorce du fruit une huile essentielle très - odorante ; glabres , à .ranmscules axillaires dégénérant souvent en fortes épines . |
+| source.excerpts.483.words.0 | huile |
+| source.excerpts.483.words.1 | fruit |
+| source.excerpts.483.words.2 | odorante |
+| source.excerpts.483.words.3 | feuilles |
+| source.excerpts.483.words.4 | arbrisseaux |
+| source.excerpts.483.words.5 | Arbres |
+| source.excerpts.483.words.6 | très - |
+| source.excerpts.483.words.7 | Aurantiacées |
+| source.excerpts.484.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aebf7ebc-076b-536b-96dd-3fe34cea23ee |
+| source.excerpts.484.value | Cette plante ( fig .1034 ) est une de celles qui communiquent au foin leur odeur aromatique ; sa saveur est amère - aromatique .LOn emploie l ' infusion du Môlilot en lotion , comme médicament résolutif , et en collyre . |
+| source.excerpts.484.words.0 | aromatique |
+| source.excerpts.484.words.1 | odeur |
+| source.excerpts.484.words.2 | sa |
+| source.excerpts.484.words.3 | amère |
+| source.excerpts.484.words.4 | foin leur |
+| source.excerpts.485.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/aee4924f-4d67-504a-86dc-b3d1bed511c5 |
+| source.excerpts.485.value | 98 .— Rameau florifère de l ' Arbre à baume - de - la - Mecque ( Amyris giledâensis ) .FIG . |
+| source.excerpts.485.words.0 | Arbre |
+| source.excerpts.485.words.1 | florifère |
+| source.excerpts.485.words.2 | Mecque |
+| source.excerpts.486.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/af1556ca-bcbe-53f5-8381-4baf1a06628a |
+| source.excerpts.486.value | La décoction de feuilles de Persil dans le vin rouge est stimulante et employée à l ' extérieur comme résolutive pour la guérison des plaies et des blessures .La racine de Persil ( petite racine pivolante grêle ) figurait dans la médecine du moyen âge parmi les cinq racines apéritives , et les fruits ou graines , qui sont très - aromatiques , parmi les quatre semences chaudes mineures .Le suc concentré , apiol , est un excitant du système nerveux ; il a été employé avec peu de succès contre les fièvres intermittcnles . |
+| source.excerpts.486.words.0 | fruits |
+| source.excerpts.486.words.1 | aromatiques |
+| source.excerpts.486.words.2 | graines |
+| source.excerpts.487.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/af68a1c8-f286-5819-aa53-3db74c4fba04 |
+| source.excerpts.487.value | On en prépare des pâtes sucrées , une gelée , un sirop .Les pépins du coing sont entourés d ' un mucilage adoucissant .CYPRÈS ( Cupressussempervirens , famille des Cupressinées ) . |
+| source.excerpts.487.words.0 | coing |
+| source.excerpts.487.words.1 | adoucissant |
+| source.excerpts.487.words.2 | pépins |
+| source.excerpts.488.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b07276ee-e5fe-59f3-b0a5-32c8e2f43156 |
+| source.excerpts.488.value | CRESSON - DE - BRETAGNE , Cran - de - Bretagne , Cranson .Plante potagère plus connue à Paris sous le nom de Raifort , le Cochkaria Armoracia ( famille des Crucifères ) : Sa racine , d ' une saveur fortement piquante ( la saveur du Cresson - alénois très - éxagérée ) , entre dans plusieurs préparafions culinaires .Celte plante mériterait ( au point de vue de cette saveur presque irritante ) le nom de Nasturtium . |
+| source.excerpts.488.words.0 | Raifort |
+| source.excerpts.488.words.1 | Cresson |
+| source.excerpts.488.words.2 | racine |
+| source.excerpts.488.words.3 | saveur |
+| source.excerpts.488.words.4 | fortement piquante |
+| source.excerpts.488.words.5 | Cochkaria |
+| source.excerpts.489.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b0d30424-f74e-5b4f-8a60-85a0cf7bca9a |
+| source.excerpts.489.value | Originaire de l ' Afrique , transporté aux Antilles .Feuilles à odeur de rose ; fleurs jaunes en grappes ressemblant à celles du Faux - Ébénier .Ce Cytise est un arbuste très - rustique , dont les graines , alimentaires , sont d ' une grande ressource dans les colonies , pour la nourriture des noirs , la saveur de ce pis est légèrement aromatique ; il est cultivé en Chine . |
+| source.excerpts.489.words.0 | odeur |
+| source.excerpts.489.words.1 | rose |
+| source.excerpts.489.words.2 | Feuilles |
+| source.excerpts.490.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b0fa8131-d06d-57ab-bf41-64aa0dc3d452 |
+| source.excerpts.490.value | 1485 .— Rameau florifère du Liquidambar la nature du hege ( suber ) ; qui pré - 0J ., ente / e , arbre qui produithirèsiae styrax . |
+| source.excerpts.490.words.0 | florifère |
+| source.excerpts.490.words.1 | Liquidambar |
+| source.excerpts.491.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b12fbd2b-400c-56f2-ac0e-cb1c4f690e7d |
+| source.excerpts.491.value | Les feuilles sont bipennées , à folioles incisées .Les fleurs , en grappes axillaires , de couleur violette , répandent un parfum trèsagréable .Les baies qui succèdent à ces fleurs ont une pulpe de » consistance oléagineuse , elles ne sont mangées que par les oiseaux ; l ' amande qu ' elles renferment pourrait fournir une huile bonne à brûler . |
+| source.excerpts.491.words.0 | parfum |
+| source.excerpts.491.words.1 | fleurs |
+| source.excerpts.491.words.2 | trèsagréable |
+| source.excerpts.492.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b1895093-c113-5ab6-ac2c-f96b28297b14 |
+| source.excerpts.492.value | Le Cerfeuil est cultivé partout comme piaule potagère ; sa saveur est finement aromatique ; ses feuilles fraîches sont employées comme assaisonnement , ainsi que celles du Persil .Le Cerfeuil entre dans la composition d ' un jus d ' herbes diurétique ^ et du bouillon - aux - herbes qui est employé comme rafraîchissant et laxatif .Sa décoction est douée de propriétés résolutives . |
+| source.excerpts.492.words.0 | diurétique |
+| source.excerpts.492.words.1 | Cerfeuil |
+| source.excerpts.493.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b18ce718-26c9-5996-b96d-ff6a40e19954 |
+| source.excerpts.493.value | 341 ) originaire d ' Orient , cultivée comme plante médicinale .Son nom ( de coris , punaise ) lui a été donné en raison de l ' odeur nauséeuse insupportable qu ' exhale qu ' exhale plante fraîche .Le fruit sec , pulvérisé , est ' d ' une odeur aromatique assez agréable ; oni ' emploie pour parfumer des conserves et des sucreries communes , des chocolats , des pains - d ' épice , etc . |
+| source.excerpts.493.words.0 | odeur |
+| source.excerpts.493.words.1 | exhale |
+| source.excerpts.493.words.2 | plante fraîche |
+| source.excerpts.493.words.3 | nauséeuse insupportable |
+| source.excerpts.494.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b1aa7677-c844-5102-8974-c8fb96985eca |
+| source.excerpts.494.value | Madagascar .Ces graines ont une saveur chaude , poivrée et aromatique , analogue à celle de la racine ( rhizome ) du Gingembre , plante appartenant également au genre Ampmum ; elles sonl douées de propriétés stimulantes et excitantes .GRAMINÉES ( fig . |
+| source.excerpts.494.words.0 | aromatique |
+| source.excerpts.494.words.1 | poivrée |
+| source.excerpts.494.words.2 | saveur |
+| source.excerpts.494.words.3 | Gingembre |
+| source.excerpts.494.words.4 | Ces graines |
+| source.excerpts.495.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b24b59de-1db7-50a9-8c92-6fced004b53c |
+| source.excerpts.495.value | des Nèfles , couronnés par le limbe du calice .Ces baies sucrées acidulés rappellent la saveur de nos Vaccinium ( Myrtille ) , avec un léger parfum de Framboise .Plusieurs autres espèces du gemePsidium , à fruits plus ou moins gros ( P . |
+| source.excerpts.495.words.0 | Framboise |
+| source.excerpts.495.words.1 | Myrtille |
+| source.excerpts.495.words.2 | parfum |
+| source.excerpts.495.words.3 | léger |
+| source.excerpts.495.words.4 | baies |
+| source.excerpts.495.words.5 | saveur |
+| source.excerpts.496.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b25d2582-ddc9-5afe-8540-2aab1484a7a9 |
+| source.excerpts.496.value | La Truffe - blanche est plus volumineuse que la noire ; il en est dont le poids est de plus d ' une livre , quelques - unes pèsent près d ' un kilogramme .Sa saveur est fortement accentuée : c ' est le parfum de la Truffe - noire , uni à une légère senteur d ' ail ( une Truffe à la fois au naturel et « la provençale ) .Elle se trouve un peu partout dans la région méditerranéenne ; elle est surtout abondante en Italie ; on la retrouve en Sicile , en Sardaigne , aux Baléares et en Corse . |
+| source.excerpts.496.words.0 | parfum |
+| source.excerpts.496.words.1 | senteur |
+| source.excerpts.496.words.2 | légère |
+| source.excerpts.496.words.3 | ail |
+| source.excerpts.496.words.4 | saveur |
+| source.excerpts.496.words.5 | fortement accentuée |
+| source.excerpts.496.words.6 | Truffe - noire |
+| source.excerpts.497.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b2695887-19f0-5a0e-b2ab-135c8374c8c5 |
+| source.excerpts.497.value | Quelques espèces 1342 ZINGIRÉRACËES .fournissent des médicaments stimulants , ou sont employées dans la parfumerie .La souche produit , soit une hampe florifère terminée par des fleurs élégaiuFIG . |
+| source.excerpts.497.words.0 | médicaments |
+| source.excerpts.497.words.1 | parfumerie |
+| source.excerpts.497.words.2 | stimulants |
+| source.excerpts.498.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b27e60ab-4980-5cef-bba8-0c4d978ec57b |
+| source.excerpts.498.value | 846 .— Rameau fructifère du Giroflier ( Caryophyllus aromaticus ) .— GLAUQUE . |
+| source.excerpts.498.words.0 | Caryophyllus |
+| source.excerpts.498.words.1 | aromaticus |
+| source.excerpts.498.words.2 | Giroflier |
+| source.excerpts.499.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b371ef80-6cfc-5bcd-87c5-75ce39e55bd2 |
+| source.excerpts.499.value | — On nomme stimulants généraux , des médicaments qui agissent comme les toniques , en ce qu ' ils excitent le jeu des diverses fonctions , mais dont la plupart diffèrent des toniques en ce qu ' ils stimulent la circulation moins en modifiant la nature du sang qu ' en s ' adressant au système nerveux .— Ces médicaments étaient autrefois répartis dans les classes suivantes : toniques , résolutifs , astringents , catbôrétiques , styptiques , détersifs , antiseptiques , anliscrofuleux , fébrifuges , anliscorbutiques , stomachiques , analeptiques ; — sudorifiques , expectorants , diurétiques ; — aromatiques , antispasmodiques , antihystériques , balsamiques ; — anti - asthmatiques , antionlillialmiques , anti - ôpilepliques , anli - hydropiques , carminatifs , antidartreux , anlhelminlliiqucs , etc .Stimulants généraux empruntés au - règne minéral : l ' Ammoniaque liquide et autres Préparations ammoniacales , diverses Préparations arsenicales , le filiale d ' argent , le Sulfate de cuivre , l ' Acide cblorhydrique , l ' Acide nitrique , le Chlore et les Chlorures , l ' Acide carbonique , et par conséquent les Eaux minérales acidulés gazeuses , comme : l ' Eau de Seltz et l ' Eau du Mont - Dore , les bains d ' Air chaud , l ' Electricité , etc . |
+| source.excerpts.499.words.0 | aromatiques |
+| source.excerpts.499.words.1 | sudorifiques |
+| source.excerpts.499.words.2 | diurétiques |
+| source.excerpts.499.words.3 | médicaments |
+| source.excerpts.499.words.4 | stomachiques |
+| source.excerpts.499.words.5 | antispasmodiques |
+| source.excerpts.499.words.6 | analeptiques |
+| source.excerpts.499.words.7 | expectorants |
+| source.excerpts.499.words.8 | asthmatiques |
+| source.excerpts.499.words.9 | anliscorbutiques |
+| source.excerpts.500.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b45298bb-648e-5a75-936a-7876594ce90c |
+| source.excerpts.500.value | J ' emprunte à l ' un des traducteurs de Fuchsius les passages suivants : « De la Bèthoine .— Geste herbe a la lige menue de la hauteur d ' vnc » coudée , feuilles longues , molles , dentelées comme celles du Chesne , odoriférantes , la semence et la graine en espics ; elle croist aux prez , aux foresls , » aux lieux tnonlueux , froids , espais et vmbrageux ; elle abonde en fleurs aux » moys de May et de Iuin ; elle est chaude et seiche au premier degré parfait ou » au milieu du second ( suit le pourtraict de la Bèthoine ) .L ' herbe appliquée » par dehors profite contre les morsures des bestes venimeuses . |
+| source.excerpts.500.words.0 | odoriférantes |
+| source.excerpts.500.words.1 | Geste herbe |
+| source.excerpts.500.words.2 | » moys de May et de Iuin |
+| source.excerpts.501.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b519a01a-0dda-5188-8821-b755f2c2dc5f |
+| source.excerpts.501.value | Cette belle plante vivace , qui se contente des terrains maigres et sablonneux , fournit un abondant fourrage , et serait d ' une grande ressource pour former des prairies artificielles et suppléer à la Luzerne dans les terres où cette précieuse plante fourragère ne réussit pas ; malheureusement elle ne plaît pas aux bestiaux .Sa saveur est aromatique et légèrement amère ; on lui attribue des propriétés diurétiques , sudorifiques et vermifuges .GALLES . |
+| source.excerpts.501.words.0 | aromatique |
+| source.excerpts.501.words.1 | lui |
+| source.excerpts.501.words.2 | sudorifiques |
+| source.excerpts.501.words.3 | diurétiques |
+| source.excerpts.501.words.4 | vermifuges |
+| source.excerpts.501.words.5 | légèrement amère |
+| source.excerpts.502.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b536b034-9748-5ee6-8292-cd021f4c1f5a |
+| source.excerpts.502.value | PÉNÉTRANTE .Se dit d ' une odeur qui , comme celle du musc , se répand avec intensité .— Odeur pénétrante agréable se traduit en latin par le mot fragrarts ; odeur pénétrante désagréable , par le mot graveolens . |
+| source.excerpts.502.words.0 | odeur |
+| source.excerpts.502.words.1 | musc |
+| source.excerpts.503.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b5621db0-85fd-5c61-8854-ca58ac1d00a8 |
+| source.excerpts.503.value | Style indivis ; stigmate indivis ou lobé .Fruit charnu - succulent ( hespéridie ) , à écorce odorante épaisse ; ord .comestible , plnriIoculaire , rarement uniloculaire par avortement ; à loges monospermes ou polyspermes , remplies de filaments qui deviennent des cellules vésiculeuses gorgées de suc , et constituent une sorte de pulpe . |
+| source.excerpts.503.words.0 | odorante |
+| source.excerpts.503.words.1 | épaisse |
+| source.excerpts.503.words.2 | écorce |
+| source.excerpts.504.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b57db6a4-ec72-5ab0-b8c4-2d5778846fc8 |
+| source.excerpts.504.value | Plante commune en Provence , et cultivée en bordure dans les jardins .Le Thym est associé au Laurier comme condiment ; sa saveur est chaude et aromatique .THYMÉLÉES . |
+| source.excerpts.504.words.0 | Laurier |
+| source.excerpts.504.words.1 | Thym |
+| source.excerpts.504.words.2 | aromatique |
+| source.excerpts.504.words.3 | saveur |
+| source.excerpts.505.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b5d44a32-ac71-5094-b6fd-3a4dfbfe25e8 |
+| source.excerpts.505.value | Les fruits ( semences ) du Fenouil étaient , dans la médecine du moyen âge , une des quatre semences chaudes majeures ; ils sont employés comme ceux de l ' Anis ( Pimpinella Anisum ) et de la Badiane ( Illicium anisatum ) à la fabrication de l ' anisclle .L ' infusion de Fenouil est stimulante el .stomachique . |
+| source.excerpts.505.words.0 | Fenouil |
+| source.excerpts.505.words.1 | stimulante |
+| source.excerpts.506.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b5e253c8-111b-536e-aeb4-d0b969c48090 |
+| source.excerpts.506.value | Les fruits de certaines espèces sont souvent employés comme condiment .Cette huile a beaucoup d ' analogie avec les huiles des Composées et des Labiées , et possède les mêmes propriétés stimulantes .Un grand nombre d ' espèces , la plupart originaires de l ' Europe méridionale ou de l ' Asie , et cultivées dans toute l ' Europe , fournissent des fruits , d ' une saveur chaude et aromatique , usités comme condiment 972 OMBELLULE . |
+| source.excerpts.506.words.0 | stimulantes |
+| source.excerpts.506.words.1 | Labiées |
+| source.excerpts.507.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b602096a-9417-538a-9855-a869e5782831 |
+| source.excerpts.507.value | famille des Laurinées .— Ces bois aromatjqiies étaient autrefois brûlés en Orient comme parfums ( comm § on brûle dans le Nord du Genévrier ) .— On s ' en est seryj pour faire des fumigations aromatiques stimulantes et toniques . |
+| source.excerpts.507.words.0 | bois |
+| source.excerpts.507.words.1 | parfums |
+| source.excerpts.507.words.2 | autrefois |
+| source.excerpts.507.words.3 | Orient |
+| source.excerpts.507.words.4 | Nord |
+| source.excerpts.507.words.5 | aromatjqiies |
+| source.excerpts.508.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b69b34af-05d4-54e5-9146-df7458be5435 |
+| source.excerpts.508.value | — Fleur de l ' OEilletde - poëte ( Dianthus barbatus ) .' trouve naturalisée depuis des siècles sur les murailles en ruine des vieux châteaux ) , serait recueillie par les parfumeurs , sans la rareté relative de ses Heurs , et surtout s ' il n ' était facile d ' imiter leur délicieux parfum par un mélange d ' essence de girofle et de vanille .Parmi les autres espèces d ' OEillets vulgairement cultivées , mentionnons l ' OEillet - de - poële ou Jalousie ( Dianthus barbatus ) ( fig . |
+| source.excerpts.508.words.0 | parfum |
+| source.excerpts.508.words.1 | leur |
+| source.excerpts.508.words.2 | délicieux |
+| source.excerpts.508.words.3 | vanille |
+| source.excerpts.508.words.4 | parfumeurs |
+| source.excerpts.508.words.5 | essence de girofle |
+| source.excerpts.508.words.6 | depuis des siècles |
+| source.excerpts.508.words.7 | châteaux |
+| source.excerpts.509.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b73d8d9b-a0be-5cd2-ba49-31a76befd1c6 |
+| source.excerpts.509.value | 32 ) .Plante de l ' Inde acclimatée en Egypte el aux Antilles : ses graines pulvérisées ont une légère odeur d ' ambre ; elle est employée comme parfum par les Chinois .A5SÎSÏ105S1H , Tlié - du - Mexique ( fig . |
+| source.excerpts.509.words.0 | parfum |
+| source.excerpts.509.words.1 | odeur |
+| source.excerpts.509.words.2 | elle |
+| source.excerpts.509.words.3 | légère |
+| source.excerpts.509.words.4 | ambre |
+| source.excerpts.509.words.5 | Antilles |
+| source.excerpts.509.words.6 | Chinois |
+| source.excerpts.509.words.7 | Egypte |
+| source.excerpts.509.words.8 | ses graines pulvérisées |
+| source.excerpts.510.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b79ec85b-c7d0-5d39-a22c-46c70a998274 |
+| source.excerpts.510.value | Plante potagère plus connue à Paris sous le nom de Raifort , le Cochkaria Armoracia ( famille des Crucifères ) : Sa racine , d ' une saveur fortement piquante ( la saveur du Cresson - alénois très - éxagérée ) , entre dans plusieurs préparafions culinaires .Celte plante mériterait ( au point de vue de cette saveur presque irritante ) le nom de Nasturtium .. |
+| source.excerpts.510.words.0 | plante |
+| source.excerpts.510.words.1 | saveur |
+| source.excerpts.510.words.2 | presque irritante |
+| source.excerpts.511.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b7ef0ddd-3a4a-55f1-99bd-7d808bfc628a |
+| source.excerpts.511.value | Stimulus .On donne ce nom aux poils piquants et aux poils urticants dont la piqûre cause des démangeaisons .Stipulas . |
+| source.excerpts.511.words.0 | poils |
+| source.excerpts.511.words.1 | urticants |
+| source.excerpts.511.words.2 | poils piquants |
+| source.excerpts.512.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b8c3950e-9b9a-5ae2-8259-e90cf6a77ec3 |
+| source.excerpts.512.value | dentées , ord .munies de stipules ; à ovules 2 dans chaque loge ; à embryon toujours droit , à cotylédons amples charnus ) ; et les Myrtacées , arbres ou arbustes des régions tropicales ( à feuilles persistantes , aromatiques , ord .opposées , entières , ord . |
+| source.excerpts.512.words.0 | aromatiques |
+| source.excerpts.512.words.1 | arbres |
+| source.excerpts.512.words.2 | arbustes |
+| source.excerpts.512.words.3 | Myrtacées |
+| source.excerpts.513.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b9ca308a-9ad4-5e1f-8512-f9f427fc2519 |
+| source.excerpts.513.value | — USmilax Sassapurilla ( la Salsepareille ) croît dans l ' Europe australe ; c ' est un des médicaments dépuratifs les plus usités .— Il suffit de mentionner l ' usage alimentaire des tnrions de l ' Asperge ; les qualités diurétiques de cet aliment sont l ' niislatées par l ' odeur particulière qu ' il communique au produit de la sécrétion urinaire .Asjicr . |
+| source.excerpts.513.words.0 | Asperge |
+| source.excerpts.513.words.1 | odeur |
+| source.excerpts.513.words.2 | particulière |
+| source.excerpts.513.words.3 | diurétiques |
+| source.excerpts.513.words.4 | cet |
+| source.excerpts.513.words.5 | sécrétion urinaire |
+| source.excerpts.513.words.6 | tnrions |
+| source.excerpts.514.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/b9f1e02a-702b-59f6-acef-536ac9c73e37 |
+| source.excerpts.514.value | Ces glands , torréfiés , fournissent une infusion amôre qui a l ' apparence du café , et ne le cède en rien au café de racine de chicorée .Le café de glands doux , comme le , café de chicorée , est inoffensif ; il est dépourvu de principe aromatique et de parfum , et ne rappelle le café que par sa couleur , mais il n ' est pas dépourvu d ' amertume : à ce double titre , le café de glands doux agit comme tonique , sans agir comme excitant .GLAKD - ES , glanduloe . |
+| source.excerpts.514.words.0 | aromatique |
+| source.excerpts.514.words.1 | parfum |
+| source.excerpts.514.words.2 | café de glands doux |
+| source.excerpts.514.words.3 | café de chicorée |
+| source.excerpts.515.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ba1ca17f-195e-533b-abdd-c63b9eb15113 |
+| source.excerpts.515.value | Le parfum de la Tubéreuse rappelle celui du Lis - blanc ; il est aussi suave et plus pénétrant .Cette belle plante est cultivée en grand pour la parfumerie ; on recueille l ' odeur en faisant macérer les fleurs dans la graisse ou dans l ' huile ( 3 parties de fleurs pour une partie en poids d ' huile ) .TUBÉREUX , tuberosus . |
+| source.excerpts.515.words.0 | odeur |
+| source.excerpts.515.words.1 | fleurs |
+| source.excerpts.515.words.2 | parfumerie |
+| source.excerpts.515.words.3 | belle plante |
+| source.excerpts.516.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ba2bc433-9d51-5612-982b-285408dcfbad |
+| source.excerpts.516.value | Les liges de plusieurs espèces du genre Chara sont incrustées de phosphate de chaux .Ces plantes exhalent généralement une odeur alliacée et marécageuse fort désagréable , qui , longtemps respirée , peut devenir nuisible .Ces plantes mil élé employées jadis contre les engorgements du foie . |
+| source.excerpts.516.words.0 | odeur |
+| source.excerpts.516.words.1 | nuisible |
+| source.excerpts.516.words.2 | fort désagréable |
+| source.excerpts.516.words.3 | Ces plantes |
+| source.excerpts.517.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ba3019a5-2842-508b-b230-04e0fe9b3486 |
+| source.excerpts.517.value | — Les plantes de cette famille , abondantes dans les régions tempérées et glacées de l ' hémisphère boréal , sont rares dans l ' hémisphère austral ; dans les régions tropicales de l ' Asie et de l ' Amérique , on en rencontre un certain nombre sur les pentes des hautes montagnes .Les plantes de la famille des Renonculacées ont généralement un sucre acre et irritant ; plusieurs sont douées de propriétés énergiques purgatives ou éméliques ; quelques espèces , l ' Aconit - Napel , par exemple , constituent des médicaments puissants ou des poisons dangereux ; les graines de quelques - unes sont aromatiques .Voy . |
+| source.excerpts.517.words.0 | plantes |
+| source.excerpts.517.words.1 | aromatiques |
+| source.excerpts.517.words.2 | graines |
+| source.excerpts.517.words.3 | puissants |
+| source.excerpts.517.words.4 | Aconit |
+| source.excerpts.518.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/baf569bc-8afe-574e-8f16-ac7bc7be37c9 |
+| source.excerpts.518.value | Les baies du Vilnirmm Lantana ont une saveur sucrée légèrement nauséeuse .Les baies du Sureaunoir et du Sureau - à - grappes ont une saveur sucrée acide el nauséeuse ; on en prépare des conserves sucrées douées de propriétés légèrement laxatives .Les baies du Viburnum Opulus ( Boule - de - neige - sauvage ) peuvent être employées au même usage . |
+| source.excerpts.518.words.0 | Sureau |
+| source.excerpts.518.words.1 | conserves |
+| source.excerpts.518.words.2 | saveur |
+| source.excerpts.518.words.3 | sucrée acide el nauséeuse |
+| source.excerpts.518.words.4 | baies du Sureaunoir |
+| source.excerpts.519.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bb01840d-24f9-5514-91e7-3479109dc6d1 |
+| source.excerpts.519.value | — Les saveurs vireuses sont en même temps araêres el aromatiques ; elles sont plus spéciales au règne végétal .Les saveurs fétides ( résultant souvent de la présence de l ' hydrogène sulfuré ) sont plus rares dans le règne végétal que dans le règne animal ; elles caractérisent ordinairement des substances en décomposition et en fermentation .Certaines plantes ont cependant , à l ' état frais ou normal , une odeur aromatique fétide : tel est le Chenopodium Vulvaria ou C . |
+| source.excerpts.519.words.0 | fétides |
+| source.excerpts.519.words.1 | saveurs |
+| source.excerpts.520.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bb883944-bbd5-5c28-ba2c-1c9385573343 |
+| source.excerpts.520.value | On peut obtenir le parfum de l ' Héliotrope par macération dans l ' axonge purifiée ; on dissout dans l ' alcool pour avoir l ' extrait .Mais le parfum qu ' on débite sous le nom d ' héliotrope n ' est qu ' un mélange de vanille , de rose , de fleur d ' oranger et d ' ambre gris .lïÉLOBIÉES . |
+| source.excerpts.520.words.0 | parfum |
+| source.excerpts.520.words.1 | ambre gris |
+| source.excerpts.520.words.2 | rose |
+| source.excerpts.520.words.3 | vanille |
+| source.excerpts.520.words.4 | héliotrope |
+| source.excerpts.520.words.5 | fleur d ' oranger |
+| source.excerpts.521.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bb9546ba-22ba-5c28-b153-526041e4f2f7 |
+| source.excerpts.521.value | adhérent ) .Les Vochysiacées sont des arbrisseaux ou de grands arbres qui décorent de leur beau feuillage et de leurs Heurs en grappes ou en cymes odorantes le bord des grands fleuves de i ' Aniérique , les forcis vierges marécageuses ou humides , et aussi les grandes plaines brûlées par le soleil du nn ' sil et de la Guyane .— • La famille des Vochysiacées n ' a d ' affinités bien marquées avec aucune autre ; elle se rapproche un peu , cependant , des ( iéiuniacées et des ' Tropéolées . |
+| source.excerpts.521.words.0 | odorantes |
+| source.excerpts.521.words.1 | arbrisseaux |
+| source.excerpts.521.words.2 | grands arbres |
+| source.excerpts.521.words.3 | Vochysiacées |
+| source.excerpts.522.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bbb48753-a8c1-5d93-a864-835dc16e8338 |
+| source.excerpts.522.value | Kits .— Plante vulnéraire , l ' Arnica ( Arnica monlana , Composées - Corymbifères ) ( proportions réduites ) .1618 ) et le Millepertuis ( Hypericum perforatum ) ( fig . |
+| source.excerpts.522.words.0 | vulnéraire |
+| source.excerpts.522.words.1 | Arnica |
+| source.excerpts.523.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bd22c34f-d772-5712-a51a-2262031ede39 |
+| source.excerpts.523.value | 1339 riciim perforât uni ) , les Piroles ( Pirola rotundifolia et P .secundo ) , l ' Aspérule ( Asperula odorata ) , etc .— Ce mélange aromatique , doué de propriétés stimulantes , est employé en infusion . |
+| source.excerpts.523.words.0 | odorata |
+| source.excerpts.523.words.1 | Aspérule |
+| source.excerpts.524.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/be019b4d-7eef-5764-9848-00dc2449e410 |
+| source.excerpts.524.value | 998 ) .On en prépare une infusion stimulante ( coupée de lait et sucrée ) dont la saveur n esl pas désagréable .FLEURON , GAPITDIE , COMPOSÉES ( Fleurs ) . |
+| source.excerpts.524.words.0 | désagréable |
+| source.excerpts.524.words.1 | infusion |
+| source.excerpts.524.words.2 | saveur |
+| source.excerpts.525.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/be97a003-e3da-571a-8b56-62e6747cefa4 |
+| source.excerpts.525.value | Genre de la famille des Crucifères , comprenant plusieurs espèces vivaces ( qui habitent les lieux frais des bois montueux ) .Leur souche présente des écailles blanches charnues rapprochées ( feuilles abortives ) , qui ont été comparées à des dents ; les feuilles ont la saveur piquante ordinaire aux plantes de cette famille .Dentalus . |
+| source.excerpts.525.words.0 | piquante |
+| source.excerpts.525.words.1 | feuilles |
+| source.excerpts.525.words.2 | saveur |
+| source.excerpts.526.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bea8489b-5957-509a-b618-ed8db3b090fa |
+| source.excerpts.526.value | le fruit ( péricarpe ) ( fig .181 > 182 , 183 , 184 ) cl : la graine , contiennent une huile volatile très - aromatique , dont la saveur est acre et pipéracée ; de là les propriétés stimulantes ou exci - CARDKREi — CARÈNE .217 nnies des fruits des diverses espèces de Cardamomes ( genres Amomum , Alpinia iElettma ) ; dont la plupart sont employées ( en Asie , et même en Europe où Fit , 183 . |
+| source.excerpts.526.words.0 | huile |
+| source.excerpts.526.words.1 | aromatique |
+| source.excerpts.526.words.2 | très - aromatique |
+| source.excerpts.526.words.3 | graine |
+| source.excerpts.526.words.4 | saveur |
+| source.excerpts.527.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bf8e3c5e-2df7-5b25-847d-57303e1de8f5 |
+| source.excerpts.527.value | Tels sont : le Fenouil ( Foeniculum officinale ) , spontané dans les moissons de l ' Europe australe ; l ' Anis ( Pimpinella Aiiisum ) , originaire de l ' Egypte et de la Grèce ; le Cumin ( Cuminum Cyminum ) , de lilgypteei de l ' Asie Mineure ; l ' Aneth ( Anethum graveolens ) , de l ' Orient ; la Coriandre ( Coriandrum sa / ivum ) , de la Tartarie ; le Carvi ( Carvum Carvi ) , commun dans presque toute l ' Europe ; le Sison Amomum , indigène dans l ' Europe moyenne et l ' Asie Mineure , et l ' Ammi majus , planle commune dans la région méditerranéenne .L ' Ammi Visnaga ( vulgairement Herbe - aux - cure - deuls ) habile les mêmes lieux que le précédent : ce sont les rayons de l ' ombelle durcis par la dessiccation qui constituent des cure - dents aromatiques dont on se sert en Orient .La saveur de YEchinophora spinosa , plante de la région méditerranéenne , a de l ' analogie avec celle du Panais . |
+| source.excerpts.527.words | aromatiques |
+| source.excerpts.528.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bf9a55a1-3eef-5e4d-a054-a8a3130267e7 |
+| source.excerpts.528.value | des Myricées , détachée de celle des Amentacees ) .i Arbrisseau aromatique - résineux , très - abondant dans les marais de ' Amérique du Nord , où son parfum purifie , pendant les chaleurs de l ' été , l ' air d ^ m ^ récages .il a l ' aspect du M . |
+| source.excerpts.528.words.0 | Amérique du Nord |
+| source.excerpts.528.words.1 | aromatique |
+| source.excerpts.528.words.2 | parfum |
+| source.excerpts.528.words.3 | son |
+| source.excerpts.528.words.4 | air |
+| source.excerpts.528.words.5 | pendant les chaleurs de l ' été |
+| source.excerpts.528.words.6 | purifie |
+| source.excerpts.528.words.7 | marais de |
+| source.excerpts.529.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bfe232cf-ddae-5d9b-8114-5755dc3bbf24 |
+| source.excerpts.529.value | Fragrans .Qui exhale une odeur pénétrante .S ' emploie surtout pour désigner les odeurs suaves : celles du Lis , du Jasmin , de la Tubéreuse , du Tussilago fragrans , etc . |
+| source.excerpts.529.words.0 | pénétrante |
+| source.excerpts.529.words.1 | odeur |
+| source.excerpts.530.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/bffd6b48-868f-5d1f-9a69-0af0b98b3ed3 |
+| source.excerpts.530.value | 1375 TATAMAQUE , Bournier .Fleurs odorantes , ornementales ; résine à odeur de citron , astringente et vulnéraire .TÉLEUTOSPORES . |
+| source.excerpts.530.words.0 | résine |
+| source.excerpts.530.words.1 | odeur |
+| source.excerpts.530.words.2 | odorantes |
+| source.excerpts.530.words.3 | citron |
+| source.excerpts.530.words.4 | Fleurs |
+| source.excerpts.530.words.5 | ornementales |
+| source.excerpts.531.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c001440e-6ac6-5367-a953-c4095e2e65fc |
+| source.excerpts.531.value | Un irès - petit nombre habitent les climats tempérés ; une seule espèce , le Verbena officinalis ( la Verveine ) , appartient à la flore indigène .Mais plusieurs plantes de cette famille sont cultivées dans nos jardins , pour la beauté de leurs fleurs ou l ' odeur agréable de leur feuillage .Le Vitex Agnuscastus , qui reste à l ' état de petit arbuste dans le Nord , atteint les proportions d ' un grand arbre sur les bords de la Méditerranée . |
+| source.excerpts.531.words.0 | agréable |
+| source.excerpts.531.words.1 | odeur |
+| source.excerpts.531.words.2 | leurs fleurs |
+| source.excerpts.531.words.3 | feuillage |
+| source.excerpts.531.words.4 | plusieurs plantes |
+| source.excerpts.532.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c03aeadb-866d-5b14-9205-f235006aa5f8 |
+| source.excerpts.532.value | - à - d .bon ; en raison de l ' utilité et de la saveur douce du suc gommeux fourni par plusieurs espèces ) .IX . |
+| source.excerpts.532.words.0 | douce |
+| source.excerpts.532.words.1 | saveur |
+| source.excerpts.532.words.2 | suc gommeux |
+| source.excerpts.533.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c06f2965-da76-519c-b3dc-81f202230f41 |
+| source.excerpts.533.value | Espèces dites vu hier aires , plantes aromatiques ( fig .1618 à 1622 ) douées de propriétés stimulantes , et notamment Y Arnica FIG .Kits . |
+| source.excerpts.533.words.0 | stimulantes |
+| source.excerpts.533.words.1 | Arnica |
+| source.excerpts.534.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c092dec6-d96b-5994-bd9e-7416ed2bf7e2 |
+| source.excerpts.534.value | La floraison de quelques espèces est cependant plus précoce : c ' est en février que fleurissent le Coudrier ( Corylus Avellana ) , YEranthis kiemalis , le Ruscus aculeatus , le Galanthm nivdlis etle Bapkne Mesereum .Dès le commencement de mars , si l ' hiver n ' a pas été trop rigoureux , on voit poindre sur les murs et les toits de chaume les rosettes du Saxifragdtridactylites , du Draba verna et de YBolosteum umbellatum , dont les fleurs ne doivent pas tarder à s ' épanouir ; les Pâquerettes commencent à emailler le bord des chemins , et l ' on rencontre dans les bois les premières fleurs du Ficaria ranunculoides , du Pulmonaria angustifolia , duPotentilla Fragaria , et de la Violette odorante , jolie messagère du printemps .C ' est vers la fin de mars et dans les premiers jours d ' avril , que fleurissent : Eepatica trihba , Anémone ranunculoides et nemorosa , Isopyrum thalictroides , Èfelleborus foetidus , Oxalis Acetosella , Corydallis solida , Prunus spinosa , Viscum album , AdoXa Moschatellina , Ribes rubrum et Uva - crispa , Fraxinus excelSior , Pulmonaria angustifolia , Primula grandiflora , elatior et officinalis , Veronica triphyllos , Antennaria dioica , Tussïlago Farfara et Petasites , Asarum europoeum , Buxus sempervirens , Daphne Laureola , Taxus baccata ; toutes les espèces des genres Salix et Populus ; Ulmus campestris , Myrica Gale , BetulaAlnûs , Scilla bifolia , Gagea arvensis et bohemica , Narcissus Pseudonarcissus , Orchis mascula , Luzula vernalis et carnpestris , Carex proeéox et humilis , etc . |
+| source.excerpts.534.words.0 | Violette |
+| source.excerpts.534.words.1 | odorante |
+| source.excerpts.534.words.2 | Ficaria |
+| source.excerpts.534.words.3 | Saxifragdtridactylites |
+| source.excerpts.534.words.4 | YBolosteum |
+| source.excerpts.534.words.5 | Pulmonaria |
+| source.excerpts.534.words.6 | Dès le commencement de mars |
+| source.excerpts.535.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c0e3c29a-15e5-541a-9d55-781378daf5c6 |
+| source.excerpts.535.value | Toxicodendron , à suc très - vénéneux .— Le Schinus Molle ( vulgairement Faux - Poivrier ) , à feuilles imparipennées , très - odorantes , est un arbre à feuillage léger , très - décoratif , cultivé sur les bords de la Méditerranée .— Plusieurs arbres de la famille des Térébintliucées ( ou appartenant à des tribus alliées à celte famille ) , propres aux contrées intertropicales , produisent des fruits comestibles , irès - eslimés dans les colonies : tels sont les Spondias et les Mangifera ( Manguiers ) . |
+| source.excerpts.535.words.0 | Méditerranée |
+| source.excerpts.535.words.1 | odorantes |
+| source.excerpts.535.words.2 | feuilles |
+| source.excerpts.535.words.3 | bords |
+| source.excerpts.535.words.4 | Schinus |
+| source.excerpts.536.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c10f3505-c0b3-581c-8a4e-a9267793e84e |
+| source.excerpts.536.value | Substance résineuse aromatique qu ' on obtient par incision des tiges du Lenlisque , grand arbrisseau de la région méditerranéenne ( Pistacia Lentiscus , famille des Térôbinthacées ) .En Orient et en Grèce , on mâche celte résine pour avoir une , haleine suave ; d ' où le nom de mastic .Voy . |
+| source.excerpts.536.words.0 | Grèce |
+| source.excerpts.536.words.1 | suave |
+| source.excerpts.536.words.2 | haleine |
+| source.excerpts.536.words.3 | Orient |
+| source.excerpts.536.words.4 | celte résine |
+| source.excerpts.537.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c2504567-15a5-5961-a5b6-de300aabbb18 |
+| source.excerpts.537.value | — Hameau portant fleuret fruil du Calebassier vénéneux .horizontal charnu est doué d ' une saveur piquante et aromatique ; cette substance était plus employée autrefois qu ' aujourd ' hui dans la matière médicale de l ' Europe .CALANDMNIÉES . |
+| source.excerpts.537.words.0 | aromatique |
+| source.excerpts.537.words.1 | piquante |
+| source.excerpts.537.words.2 | substance |
+| source.excerpts.537.words.3 | saveur |
+| source.excerpts.537.words.4 | horizontal charnu |
+| source.excerpts.538.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c2bd0770-0bdd-5a33-9fc8-0a3946238bab |
+| source.excerpts.538.value | 1623 .— Famille des Zingibéracées : rameau florifère et fragment de rhizome du Maranta indica ( Arrow - root ) .comprenant des plantes intertropicales , à souches vivaces rampantes ou char " ues - tubériformes , qui contiennent un principe aromatique . |
+| source.excerpts.538.words.0 | florifère |
+| source.excerpts.538.words.1 | Zingibéracées |
+| source.excerpts.538.words.2 | Maranta indica |
+| source.excerpts.539.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c3329992-8211-5109-9b41-ae23485521a9 |
+| source.excerpts.539.value | des Myrtacées ) .Le Myrte décore les lieux incultes de la région méditerranéenne de ses buissons parfumés ; il couvre l « collines pierreuses de la Provence ( notamment à liyères ) d ' une luxuriante végétation sous - arborescente , mêlé au Lentisque ( Pistacia Zewa ' s « < s ) Ji ' ' Arbousier MYRTIFLORÉES .— NAGEANT . |
+| source.excerpts.539.words.0 | Myrte |
+| source.excerpts.539.words.1 | parfumés |
+| source.excerpts.539.words.2 | buissons |
+| source.excerpts.539.words.3 | région méditerranéenne |
+| source.excerpts.539.words.4 | collines |
+| source.excerpts.539.words.5 | Arbousier |
+| source.excerpts.539.words.6 | la Provence |
+| source.excerpts.539.words.7 | à liyères |
+| source.excerpts.540.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c3397d55-2ce6-55bc-9503-676f375af2c8 |
+| source.excerpts.540.value | ICIQUIERS .Espèces du genre Icica el de quelques genres voisins ( famille des Burséracées ) , qui produisent des résines aromatiques : encens , résineôlémi , etc .Voy . |
+| source.excerpts.540.words.0 | encens |
+| source.excerpts.540.words.1 | résines |
+| source.excerpts.540.words.2 | aromatiques |
+| source.excerpts.540.words.3 | résineôlémi |
+| source.excerpts.541.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c3ae1512-239f-505d-9208-8c678d5c472c |
+| source.excerpts.541.value | Cette substance est employée , en Turquie , à teindre les cuirs et les fourrures .Le Henné est cultivé en Orient , dans les jardins , pour l ' élégance et le parfum de ses fleurs .— Le L . |
+| source.excerpts.541.words.0 | parfum |
+| source.excerpts.541.words.1 | fleurs |
+| source.excerpts.541.words.2 | jardins |
+| source.excerpts.541.words.3 | Orient |
+| source.excerpts.541.words.4 | Henné |
+| source.excerpts.542.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c3fef4ea-b931-5b02-82da-b5e827e80279 |
+| source.excerpts.542.value | La Vanille est classée an .nombre des substances médicamenteuses , antispasmodiques , aphrodisiaques et stimulantes des fonctions digestives .1597 . |
+| source.excerpts.542.words.0 | aphrodisiaques |
+| source.excerpts.542.words.1 | substances médicamenteuses |
+| source.excerpts.542.words.2 | antispasmodiques |
+| source.excerpts.543.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c44e0132-b555-5199-b0f7-8a5cb4a9ff3f |
+| source.excerpts.543.value | Les baies sont purgatives et ômétiqiies ; on les employait dans la médecine du moyen âge .Dans les pays chauds , il s ' écoule , tte incisions qu ' on pratique aux troncs volumineux , une résine amère el légèrement aromatique ( gomme de Lierre - en - arbre ) , employée autrefois comme astringente et résolutive , et qui entre dans la composition de certains vernis .Les feuilles ( 1 ) Ces assertions de pluies de Lichens sont cependant assez vagues , et je ne voudrais pas , sans restrictions , m ' en rendre l ' écho : on a peine à concevoir comment des Lichens ordinairement fort adhérents aux rochers , sur lesquels leurs frondes coriaces sont étalées et comme ne crustées , peuvent être ( soit dans les périodes de sécheresse , soit dans les périodes d ' humidité ) détachés des terrains où ils végètent , par l ' action du vent , et transportés par les ouragans en grandes masses et à de grandes distances ( à l ' exclusion de tousaulres débris végétaux ou terreux ) . |
+| source.excerpts.543.words.0 | résine |
+| source.excerpts.543.words.1 | aromatique |
+| source.excerpts.543.words.2 | astringente |
+| source.excerpts.543.words.3 | gomme |
+| source.excerpts.543.words.4 | les pays chauds |
+| source.excerpts.544.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c46df649-c6a3-533e-bd39-fff72b5210e4 |
+| source.excerpts.544.value | — 7 ° ARÉTHUSÉES .A celte section appartient la Vanille ( Vanilta aromatica ) , belle plante grimpante dont on connaît les fruits parfumés ( biilons - de - vanille ; .Deux genres de la flore indigène : Cephalanthera et Limodorum ( L . |
+| source.excerpts.544.words.0 | Vanille |
+| source.excerpts.544.words.1 | parfumés |
+| source.excerpts.544.words.2 | plante |
+| source.excerpts.544.words.3 | vanille |
+| source.excerpts.544.words.4 | aromatica |
+| source.excerpts.544.words.5 | Vanilta |
+| source.excerpts.545.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c4e2bf0d-579a-5fe5-a731-8608668a7829 |
+| source.excerpts.545.value | petite êtes soient s * * DIATOMÉÉS - ÀMBDlATOWÉES .ftuî sivemënt confinés sur la plage maritime où jëles ai observés ; mais quelquesuns dé ces microphytes , tous - même , eussent - ils été déjà signalés et rapportés à des genres connus ( ce qui ne me paraît pas avoir été fait ) , je croirais - utile de les en détacher et de les réunir en un groupe déterminé ; Ayant conservé pendant plusieurs jours l ' eau qui contenait ces petits êtres dans différents tubes de verre ; et là température extérieure ( juin - jùillêt ) - étant très - élevée , celte eau bourbeuse et noirâtre se satura de gaz hydrosulfùreùx dftme odeur infecte .Examinant alors de nouveau le contenu dés différents tubes , je constatai que non - seulement les microzoaires qui y pullulaient précédemment avaient cessé d ' exister , mais que les Navicules ' et autres Diatomées à test solide n ' étaient plus douéésdè mouvement ; les espèces du groupe des Ambulatoriéés seules ' paraissaient n ' avoir aucunement souffert ^ et continuaient à circuler dans les gouttes d ' eau placées sous l ' objectif du microscope ( entre les plaques de talc ) . |
+| source.excerpts.545.words.0 | infecte |
+| source.excerpts.545.words.1 | odeur |
+| source.excerpts.545.words.2 | gaz |
+| source.excerpts.545.words.3 | pendant plusieurs jours |
+| source.excerpts.546.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c51cdeb7-6f72-5591-93e9-f22aed982dda |
+| source.excerpts.546.value | On pourrait extraire des Heurs un délicieux parfum , mais le petit nombre des fleurs de chaque plante rendrait leur culture trop dispendieuse .Le parfum livré sous le nom de jonquille est ( dit l ' auteur des Parfums et Cosmétiques ) un composé de jasmin , de tubéreuse , de ( leurs d ' oranger et de vanille .JOUBARBE ( Scmpervivu - m teclorum , famille des Crassulacées ) . |
+| source.excerpts.546.words.0 | parfum |
+| source.excerpts.546.words.1 | jasmin |
+| source.excerpts.546.words.2 | vanille |
+| source.excerpts.546.words.3 | tubéreuse |
+| source.excerpts.546.words.4 | oranger |
+| source.excerpts.546.words.5 | jonquille |
+| source.excerpts.547.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c6a0c59f-9522-57e1-8cc9-3fed6ac0f927 |
+| source.excerpts.547.value | — La P .odorata ( le Réséda ) , originaire d ' Egypte , est cultivé dans tous les parterres pour la suavité de son odeur .GAYAC ou GAIAC ( Guajacum officinale ) ( fig . |
+| source.excerpts.547.words.0 | Réséda |
+| source.excerpts.547.words.1 | odeur |
+| source.excerpts.547.words.2 | son |
+| source.excerpts.548.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c6df6de2-24b7-539c-994a-a730b9a280fe |
+| source.excerpts.548.value | SAGAPENUM ( Ferula persica , famille des Ombellifères ) .On en relire une gomme - résine très - odorante et d ' une saveur amère analogue à Y .asa - foetida . |
+| source.excerpts.548.words.0 | résine |
+| source.excerpts.548.words.1 | odorante |
+| source.excerpts.548.words.2 | amère |
+| source.excerpts.548.words.3 | gomme |
+| source.excerpts.548.words.4 | saveur |
+| source.excerpts.548.words.5 | très - |
+| source.excerpts.549.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c782cfba-6fbe-55b5-80e4-0a93161415ad |
+| source.excerpts.549.value | Mais le plus important de ces arbustes parfumés est le Giroflier ( fig .1092 ) ( Curyophyllus aromaiicus ) , dont les fleurs , fortement aromatiques ( leur parfum rappelle celui de l ' OEillet - des - jardins , Dianthus Coryophyllus ) ' , sont recueillies avant l ' épanouissement , séchées , et livrées au commerce sous le nom de clous - de - girofle ( ces boutons de fleurs ont en effet mlorme d ' un clou ; leur ovaire adhérent représente la pointe , et l ' ensemble globuleux des autres parties de la fleur représente la tête du clou ) .Certains arbres de la sous - famille des Lécyllsidées , des forêts de l ' Amérique tropicale , sont remarquables par leur fruit ligneux , très - volumineux , s ' ouvrant , par la • mute d ' un couvercle circulaire ( partie libre de l ' ovaire ) , en une lourde capsule plunloculaire , eu forme de pyxide , et dont les loges sont remplies d ' une pulpe GEKMÂIH ( DE ST - PIEBRE ) . |
+| source.excerpts.549.words.0 | parfum |
+| source.excerpts.549.words.1 | fleurs |
+| source.excerpts.549.words.2 | leur |
+| source.excerpts.549.words.3 | aromatiques |
+| source.excerpts.549.words.4 | clous |
+| source.excerpts.549.words.5 | fortement aromatiques |
+| source.excerpts.549.words.6 | boutons de fleurs |
+| source.excerpts.549.words.7 | Curyophyllus |
+| source.excerpts.549.words.8 | OEillet - |
+| source.excerpts.550.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c7c9b85d-f9b7-53ee-9fd5-7b7023eae71b |
+| source.excerpts.550.value | Arbrisseau des montagnes du centre et du nord de l ' Europe ; on le rencontre même en Asie et dans l ' Amérique boréale .Les feuilles sont douées d ' une odeur légèrement aromatique ; leur saveur est amère et astringente .On les emploie fréquemment en infusion , comme diurétiques , dans le traitement delà gravelle et de plusieurs affections de la vessie . |
+| source.excerpts.550.words.0 | odeur |
+| source.excerpts.550.words.1 | leur |
+| source.excerpts.550.words.2 | amère |
+| source.excerpts.550.words.3 | légèrement aromatique |
+| source.excerpts.550.words.4 | astringente |
+| source.excerpts.550.words.5 | feuilles |
+| source.excerpts.550.words.6 | saveur |
+| source.excerpts.551.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c80f18e5-29bc-5828-be8b-85ba6e31b669 |
+| source.excerpts.551.value | de l ' Olivier sont amères et astringentes .Les vieux arbres sécrètent des larmes résineuses dont l ' odeur se rapproche de celle de la vanille .OLOPÉTALAIRE ou mieux HOLOPÉTALAIRE . |
+| source.excerpts.551.words.0 | odeur |
+| source.excerpts.551.words.1 | vanille |
+| source.excerpts.551.words.2 | vieux arbres |
+| source.excerpts.551.words.3 | larmes résineuses |
+| source.excerpts.552.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c8b33ff7-0d8c-54cf-9692-12d0cadf1267 |
+| source.excerpts.552.value | des Rosacées ) .La racine de cetté plante alpine exhale une odeur forte ; sa saveur est ' acre et astringente .' * est inusitée aujourd ' hui : elle a été longtemps employée comme tonique et fébrifuge . |
+| source.excerpts.552.words.0 | forte |
+| source.excerpts.552.words.1 | acre |
+| source.excerpts.552.words.2 | odeur |
+| source.excerpts.552.words.3 | racine |
+| source.excerpts.552.words.4 | sa |
+| source.excerpts.552.words.5 | astringente |
+| source.excerpts.552.words.6 | saveur |
+| source.excerpts.552.words.7 | cetté plante alpine |
+| source.excerpts.553.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c8ea9b6d-81ad-5373-88f1-cb4f17bc1e71 |
+| source.excerpts.553.value | Voila qu ' en dit Pline .» La famille des Verbénacées fournit plusieurs plantes décoratives à nos jardins , de jolies espèces du genre Verbena ; des arbustes à feuillage , odorant : la Citronnelle ( Lippia citriodoro ) , l ' Agnus - castus ( Vitex Agnus - castus ) , etc .VESCE ( de vesca , nourriture ) ( Vicia sativa , famille des Légumineuses - Papilionacées ) . |
+| source.excerpts.553.words.0 | Citronnelle |
+| source.excerpts.553.words.1 | odorant |
+| source.excerpts.553.words.2 | plantes |
+| source.excerpts.553.words.3 | espèces |
+| source.excerpts.553.words.4 | arbustes |
+| source.excerpts.553.words.5 | Agnus |
+| source.excerpts.553.words.6 | castus |
+| source.excerpts.554.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c8f4f491-e6e5-5be3-a953-7e11098f0b80 |
+| source.excerpts.554.value | Piaule d ' Orient naturalisée en Provence et cultivée dans tous les jardins .D ' une royale beauté , d ' un parfum délicieux ; emblème héraldique de noblesse et de dignité .Il est à remarquer que la culture n ' obtient pas ou n ' obtient que très - rarement des variétés à fleurs colorées des fleurs blanches . |
+| source.excerpts.554.words.0 | parfum |
+| source.excerpts.554.words.1 | délicieux |
+| source.excerpts.555.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c8fc7b52-0093-535e-bc4a-bf84891903db |
+| source.excerpts.555.value | Telle n ' est pas notre opinion : l ' eau , par Vévoporation sous l ' action de la chaleur du soleil , par la distillation artificielle , etc ., n ' entraîne aucune particule solide ; elle n ' entraîne de molécules qu ' à l ' état aériforme ( 1 ) , à l ' état d ' odeurs ( gaz odorants , essences volatilisées , etc .) , par exemple . |
+| source.excerpts.555.words.0 | gaz |
+| source.excerpts.555.words.1 | odeurs |
+| source.excerpts.555.words.2 | essences volatilisées |
+| source.excerpts.556.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c91025e3-2bfd-59af-9918-905d3ddf7bb7 |
+| source.excerpts.556.value | des Droséracées ) .Celle plante est amère et astringente ; elle a été employée à l ' intérieur comme diurétique , et en collyre comme anti - ophthahmquc .Se dit d ' un fruit provenant , d ' un ovaire composé de plusieurs carpelles fermés el soudés entre eux , mais qui se désagrègent à la maturité . |
+| source.excerpts.556.words.0 | elle |
+| source.excerpts.556.words.1 | amère |
+| source.excerpts.556.words.2 | diurétique |
+| source.excerpts.556.words.3 | astringente |
+| source.excerpts.556.words.4 | Celle plante |
+| source.excerpts.557.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c9924c03-ec67-57e6-9a57-d00e0a35d750 |
+| source.excerpts.557.value | Les Anonacées sont des arbres et des arbrisseaux des régions tropicales ; plusieurs espèces sont cultivées dans ces chaudes contrées pour leur fruit d ' une saveur très - agréable .Les caractères de cette famille sont les suivants : Plantes arborescentes à odeur aromatique , à suc d ' une saveur acre .Feuilles alternes , entières , dépourvues de stipules . |
+| source.excerpts.557.words.0 | aromatique |
+| source.excerpts.557.words.1 | acre |
+| source.excerpts.557.words.2 | odeur |
+| source.excerpts.557.words.3 | Plantes |
+| source.excerpts.558.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/c9cc0a94-f531-524b-9b04-248a339ba4c2 |
+| source.excerpts.558.value | L ' air vicié par les miasmes détermine , par une sorte d ' intoxication , certaines maladies chez les personnes qui le respirent .C ' est ainsi que les miasmes des marais occasionnent des fièvres intermittentes qu 1 sont plus ou moins facilement contractées , selon le tempérament , les dispositions organiques particulières ( l ' idiosyncrasie ) des divers individus .Fie . |
+| source.excerpts.558.words.0 | miasmes |
+| source.excerpts.558.words.1 | marais |
+| source.excerpts.558.words.2 | fièvres |
+| source.excerpts.559.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ca52f847-c487-55d2-8341-a8f712b56e43 |
+| source.excerpts.559.value | Nom donné aux fibres radicales odorantes d ' une d ' aminée vivace de l ' Inde ( YAndropogon muricalus ) .On en préparc des sachets dont l ' odeur éloigne les insectes des étoffes de laine .Dans l ' Inde , on en fabrique des tissus odorants . |
+| source.excerpts.559.words.0 | odeur |
+| source.excerpts.559.words.1 | sachets |
+| source.excerpts.559.words.2 | éloigne les insectes |
+| source.excerpts.560.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ca766b61-7897-5d5e-9f67-5f43f2fe5ff5 |
+| source.excerpts.560.value | Le mélange de cette solution alcoolique avec l ' eau forme un précipité blanc laiteux ( lait virginal ) .Les résines ont une forte odeur aromatique ; elles sont douées de propriétés stimulantes , excitantes et résolutives .Les familles végétales qui fournissent les résines les plus importantes sont les Conifères - Abiélinées et les Térébinthacées . |
+| source.excerpts.560.words.0 | aromatique |
+| source.excerpts.560.words.1 | forte |
+| source.excerpts.560.words.2 | elles |
+| source.excerpts.560.words.3 | résines |
+| source.excerpts.560.words.4 | odeur aromatique |
+| source.excerpts.561.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ca82ecf3-b98a-58f7-a252-135f75f31fa5 |
+| source.excerpts.561.value | La Mélisse entre dans la composition de l ' alcoolat composé , dit eau des Carmes .— L ' odeur de la Mélisse est celle de l ' écorce de Citron .Mo , 1035 . |
+| source.excerpts.561.words.0 | odeur |
+| source.excerpts.561.words.1 | Mélisse |
+| source.excerpts.561.words.2 | écorce de |
+| source.excerpts.562.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ca9027b0-ccdd-5bb1-a163-41c119ef5011 |
+| source.excerpts.562.value | 1244 ) .Arbre de la famille des Myrtacées , dont les baies sont d ' une saveur acre et aromatique ana logue à la saveur poivrée du Pim eut .PIMPRENELLE ( Poterium Sanguisork , F . |
+| source.excerpts.562.words.0 | aromatique |
+| source.excerpts.562.words.1 | acre |
+| source.excerpts.562.words.2 | baies |
+| source.excerpts.562.words.3 | saveur |
+| source.excerpts.563.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cadb69be-36aa-5f20-a5ee-436b3275d325 |
+| source.excerpts.563.value | Les noix sont au nombre des fruits comestibles les plus vulgaires ; on extrait de leur amande une huile grasse , d ' une saveur assez agréable , et qui supplée , quand elle esl fraîche , à l ' huile d ' olive .Les feuilles du Noyer et le brou - de - noix ( sarcocarpe ) sont d ' une saveur amère et astringente , et exhalent une odeur aromatique .— Les J . |
+| source.excerpts.563.words.0 | aromatique |
+| source.excerpts.563.words.1 | odeur |
+| source.excerpts.563.words.2 | amère |
+| source.excerpts.563.words.3 | astringente |
+| source.excerpts.563.words.4 | saveur |
+| source.excerpts.563.words.5 | sarcocarpe |
+| source.excerpts.563.words.6 | feuilles du Noyer |
+| source.excerpts.563.words.7 | brou - de - noix |
+| source.excerpts.564.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cb14bb38-76a6-5e4a-94d6-2c9acbefda4a |
+| source.excerpts.564.value | Graines du Dipteryx ( Coumarouna ) odorata , famille des Légumineuses .Leur odeur aromatique rappelle celle du Mélilot ; on lésa employées pour parfumer le tabac .FÈVE - DU - BENGALE . |
+| source.excerpts.564.words.0 | aromatique |
+| source.excerpts.564.words.1 | parfumer |
+| source.excerpts.564.words.2 | tabac |
+| source.excerpts.564.words.3 | Leur |
+| source.excerpts.564.words.4 | odeur aromatique |
+| source.excerpts.564.words.5 | Mélilot |
+| source.excerpts.565.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cc35d175-e7c2-51bd-9940-42d2dc4adab4 |
+| source.excerpts.565.value | Plante potagère cultivée dans tous les jardins .Ses feuilles , d ' une saveur aromatique agréable , sont d ' un usage vulgaire comme assaisonnement .La décoction de feuilles de Persil dans le vin rouge est stimulante et employée à l ' extérieur comme résolutive pour la guérison des plaies et des blessures . |
+| source.excerpts.565.words.0 | aromatique agréable |
+| source.excerpts.565.words.1 | feuilles |
+| source.excerpts.565.words.2 | saveur |
+| source.excerpts.566.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cc3d6b12-e463-54ac-92b5-87328c06dae3 |
+| source.excerpts.566.value | Ce poison , à l ' état sec , est unc matière noire , brillante , cassante , ou en poudre brune ; sa saveur est amère et un peu vireuse .Jeté sur les charbons ardents , il se boursoufle et répand une fumée blanche d ' une odeur très - fétide .Il se dissout dans l ' eau ; il est peu soluble dans l ' alcool et presque insoluble dans l ' éther . |
+| source.excerpts.566.words.0 | odeur |
+| source.excerpts.566.words.1 | il |
+| source.excerpts.566.words.2 | charbons ardents |
+| source.excerpts.566.words.3 | très - fétide |
+| source.excerpts.566.words.4 | fumée blanche |
+| source.excerpts.567.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cd0659f9-b2ff-5148-966d-5933d9969bbe |
+| source.excerpts.567.value | Cette plante , spontanée en Afrique , et naturalisée dès l ' antiquité dans les jardins de l ' Europe , a joui de tout temps d ' une grande renommée .Malgré son odeur forte , et généralement regardée comme désagréable , elle était employée comme condiment par les Romains , et sert encore à cet usage en Orient cl même en Allemagne .On en obtient par distillation le principe odorant . |
+| source.excerpts.567.words.0 | désagréable |
+| source.excerpts.567.words.1 | forte |
+| source.excerpts.567.words.2 | odeur |
+| source.excerpts.567.words.3 | elle |
+| source.excerpts.567.words.4 | Allemagne |
+| source.excerpts.567.words.5 | Orient |
+| source.excerpts.568.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cd358d2a-8f7e-56c1-a3b6-debc65f8da39 |
+| source.excerpts.568.value | Plusieurs produits employés dans les procédés chirurgicaux sont empruntés à la pharmacologie , et appartiennent au règne végétal : telles sont certaines substances acres en usage pour l ' entretien des exutoires , les plantes qui produisent la rubéfaction et l ' urtication , etc .Les substances végétales aromatiques douées de propriétés stimulantes , qui entrent dans la composition des onguents ou autres préparations destinées à activer la suppuration , ou à déterminer la cicatrisation des blessures et des plaies , sont du domaine des connaissances chirurgicales .Citons encore l ' Amidon ( obtenu de lu farine de Froment ) , qui sert à préparer les bandages transformés en gaînes inamovibles , dont se composent certains appareils destinés à maintenir un membre immobile pour obtenir la consolidation d ' une fracture , etc . |
+| source.excerpts.568.words.0 | aromatiques |
+| source.excerpts.568.words.1 | stimulantes |
+| source.excerpts.568.words.2 | substances végétales |
+| source.excerpts.569.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cd3b5bb9-649e-5eee-a6fb-f0b10f041d26 |
+| source.excerpts.569.value | ) ; JASMINOÏDES ( odeur du Jasmin , du Chèvrefeuille ) ; AMYGDALOÏDES ou CYANHYDRIQUES ( odeur d ' amandes anières , odeur de la fleur de l ' flièble , Sambucus herbacea ) ; CYAMOÏDES ( la fleur de l ' Acacia , Robinia l ' seiidaco .cia ; du Pois de senteur , Lathyrus odoratus : c ' est l ' odeur de la fleur d ' oranger affaiblie ) ; MALOÏDES ( odeur de pomme de rainette ) ; TARNOÏDE ( odeur du cuir tanné ) .Les CORPS NIDORANTS ( ou nidoreux ) , dont l ' odeur est forte , ' et souvent désagréable , sont supernidorants ou subnidorants , selon l ' intensité de l ' odeur . |
+| source.excerpts.569.words.0 | Pois |
+| source.excerpts.569.words.1 | cuir |
+| source.excerpts.569.words.2 | odeur |
+| source.excerpts.569.words.3 | senteur |
+| source.excerpts.569.words.4 | odoratus |
+| source.excerpts.569.words.5 | pomme de rainette |
+| source.excerpts.569.words.6 | fleur d ' oranger |
+| source.excerpts.569.words.7 | TARNOÏDE |
+| source.excerpts.569.words.8 | MALOÏDES |
+| source.excerpts.570.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cd831792-f3e2-57de-a2fc-9a7008247bb1 |
+| source.excerpts.570.value | puits , etc ., couverte à sa face inférieure de fructifications d ' un jaune d ' or , s » souche , un peu charnue , est d ' une saveur sucrée - douceâtre qui rappelle le soûl de la racine de Réglisse .POLYSÈPALE , polysepalus . |
+| source.excerpts.570.words.0 | sucrée |
+| source.excerpts.570.words.1 | saveur |
+| source.excerpts.570.words.2 | racine de |
+| source.excerpts.571.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ce03b858-83f9-5ffc-bbd2-d74c0f42d95b |
+| source.excerpts.571.value | ldia , Fimbriaria , Conocephalus , Lunu / eiria , lieboulia , ' Sauteria , Dumortiera , etc .Quelques plantes de la famille des Hépatiques sont douées d ' une saveur un peu acre et d ' une odeur légèrement aromatique .Le Marchanda polijmorpJia était compté jadis au nombre des médicaments résolutifs ; on l ' employait sous le nom d ' Hépatique dans le traitement des maladies du foie . |
+| source.excerpts.571.words.0 | acre |
+| source.excerpts.571.words.1 | odeur |
+| source.excerpts.571.words.2 | légèrement aromatique |
+| source.excerpts.571.words.3 | saveur |
+| source.excerpts.571.words.4 | Quelques plantes |
+| source.excerpts.572.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ce8219ed-0ef3-583c-b53f-dec2fd3581a9 |
+| source.excerpts.572.value | JONQUILLE ( Narcissus Jonquilla , Amaryllidées ) .On pourrait extraire des Heurs un délicieux parfum , mais le petit nombre des fleurs de chaque plante rendrait leur culture trop dispendieuse .Le parfum livré sous le nom de jonquille est ( dit l ' auteur des Parfums et Cosmétiques ) un composé de jasmin , de tubéreuse , de ( leurs d ' oranger et de vanille . |
+| source.excerpts.572.words.0 | parfum |
+| source.excerpts.572.words.1 | délicieux |
+| source.excerpts.572.words.2 | Heurs |
+| source.excerpts.573.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cf24af7c-cfe1-51a5-a4b9-28d69345c0fb |
+| source.excerpts.573.value | Les Mélastomacées sont des arbustes ou des plantes herbacées des contrées tropicales de l ' Amérique ( quelques - unes de l ' Asie et de l ' Afrique ) .Leurs feuilles sont dépourvues de stipules , non aromatiques , opposées , simples , entières , à 3 - 5 - 7 nervures principales saillantes .Leurs fleurs , blanches , d ' un blanc rosé , ou pourpres , sont disposées en bouquets ou en panicules , leurs verlicilles à 5 ou à h pièces ( pentamères et tétramères ) régulières . |
+| source.excerpts.573.words.0 | aromatiques |
+| source.excerpts.573.words.1 | Leurs feuilles |
+| source.excerpts.574.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cf3e58c8-aae7-53b9-86c6-f0898032847c |
+| source.excerpts.574.value | Belle plante de la famille des Ombellil ' ôres , qui se rencontre dans les prairies subalpines .Sa racine , dont l ' odeur rappelle un peu celle de l ' Angélique , mais est plus forte et moins agréable , est d ' une saveur chaude et aromatique : on l ' emploie dans plusieurs préparations pharmaceutiques .FIG . |
+| source.excerpts.574.words.0 | aromatique |
+| source.excerpts.574.words.1 | forte |
+| source.excerpts.574.words.2 | chaude |
+| source.excerpts.574.words.3 | odeur |
+| source.excerpts.574.words.4 | moins agréable |
+| source.excerpts.574.words.5 | Sa racine |
+| source.excerpts.574.words.6 | Angélique |
+| source.excerpts.575.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cf563663-60d7-52d2-ae13-c40c2922ee9d |
+| source.excerpts.575.value | trigyna ) ; le Tambuk [ Croton macrostachys , famille des Enphorbiacées ) , partie usitée , l ' écorce ; le Sari - sari ( ce mot signifie Herbe - des - herbes ) ( Silène macrosolea ) ; ie Schebti ( Pircunia abgssinica , famille des Phytolaccées ) , plante à tige frutescente grimpante ; sa racine est purgative el émétique ; le Tirnaha ( Verbascum Ternacha ) , partie usitée , la racine ; le Matéri ( Grarainée ) ; enfin le Guizotia abyssinica ( Composée ) , dont on emploie les graines pilées .J ' ai remarqué que la racine du bel Acacia ( Mimosa ) lophanlha , cultivé dans le jardins de Hyères à Nice , répand une odeur nauséeuse qui donne non - seulement des nausées , mais le vertige ( quand on procède à la transplantation d ' un certain nombre de jeunes plants ) ; celLe racine est évidemment clouée de puissantes propriétés émétiques et sans doute purgatives - drastiques , analogues à celles de [ ' Albizzia anthelminthica ( le .Moucenna ) : je trouverais digne d ' intérêt d ' en étudier ( prudemment ) les propriétés au point de vue delà médication anthelminlhique , Le nombre des espèces végétales essayées en Abyssinie comme médicaments vermifuges s ' explique par la fréquence , dans ce pays , désaffections veriniueuses , par la difficulté de guérir radicalement quelques - unes d ' entre elles , et parla nécessité de combattre incessamment ces affections sans cesse renaissantes . |
+| source.excerpts.575.words.0 | Mimosa |
+| source.excerpts.575.words.1 | odeur |
+| source.excerpts.575.words.2 | racine |
+| source.excerpts.575.words.3 | nauséeuse |
+| source.excerpts.575.words.4 | J |
+| source.excerpts.575.words.5 | purgatives |
+| source.excerpts.575.words.6 | bel Acacia |
+| source.excerpts.575.words.7 | anthelminthica |
+| source.excerpts.575.words.8 | dans le jardins de Hyères à Nice |
+| source.excerpts.576.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/cf7ddb3a-2f6a-588a-8798-51ba989ed56f |
+| source.excerpts.576.value | — Enfin , le Poivre ou Piment - d ' Inde ( cultivé en Europe ) est la longue baie charnue , d ' un rouge vif , d ' une Solanée : le Capsicum annuum .Le Poivre - dc - Cayenne , ou Pimentenragé , est la baie du Capsicum frutescens , dont la saveur est brûlante et presque caustique : cette baie ressemble en très - petit à celle du Capsicum annuum .POIVRIER ( FAUX - ) ( Schinus Molle , famille des Térôbinthacées ) . |
+| source.excerpts.576.words.0 | Poivre |
+| source.excerpts.576.words.1 | caustique |
+| source.excerpts.576.words.2 | brûlante |
+| source.excerpts.576.words.3 | saveur |
+| source.excerpts.576.words.4 | baie |
+| source.excerpts.576.words.5 | Capsicum frutescens |
+| source.excerpts.576.words.6 | dc - Cayenne |
+| source.excerpts.577.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d03a2588-170a-57ae-b8f3-e7144007deae |
+| source.excerpts.577.value | VÉTIVER .Nom donné aux fibres radicales odorantes d ' une d ' aminée vivace de l ' Inde ( YAndropogon muricalus ) .On en préparc des sachets dont l ' odeur éloigne les insectes des étoffes de laine . |
+| source.excerpts.577.words.0 | odorantes |
+| source.excerpts.577.words.1 | fibres |
+| source.excerpts.577.words.2 | radicales odorantes |
+| source.excerpts.577.words.3 | une d ' aminée vivace |
+| source.excerpts.578.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d0513e26-2ccc-5658-ad53-b28739c325c4 |
+| source.excerpts.578.value | Cette Plante ( fig .268 ) , froissée , répand une odeur nauséeuse ; le suc , d ' un jaune , l ' ougeâtre , qu ' elle contient en abondance , est acre plutôt que narcotique : il produit la rubéfaction de la peau .Ou s ' en servait autrefois pour détruire les Verrues et dissiper les taches de la cornée , d ' où soii nom à ' Éclaire . |
+| source.excerpts.578.words.0 | acre |
+| source.excerpts.578.words.1 | odeur |
+| source.excerpts.578.words.2 | suc |
+| source.excerpts.578.words.3 | nauséeuse |
+| source.excerpts.578.words.4 | narcotique |
+| source.excerpts.578.words.5 | ougeâtre |
+| source.excerpts.579.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d09db96a-1022-50c1-82c6-7bad4b4f8109 |
+| source.excerpts.579.value | Cujeie , fruit d ' une forme suborbiculaire et d ' un volume assez considérable , sert aux indigènes à fabriquer divers ustensiles de leur primitive cuisine .La chair de ce fruit est d ' une saveur piquante et nauséeuse , elle n ' est pas comestible ; on en prépare un sirop douéde propriétés stimulantes .— Le fruit du C edulis est comestible après . |
+| source.excerpts.579.words.0 | chair |
+| source.excerpts.579.words.1 | piquante |
+| source.excerpts.579.words.2 | nauséeuse |
+| source.excerpts.579.words.3 | sirop |
+| source.excerpts.579.words.4 | saveur |
+| source.excerpts.579.words.5 | ce fruit |
+| source.excerpts.580.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d19709a1-c694-5718-a1eb-806b8fe80299 |
+| source.excerpts.580.value | FENU - GREC ( Trigonella Foenum - groecum , famille des Papilionacécs ) .L ' odeur de cette plante , même sèche , est fortement aromatique ; sa saveur est amère - aromatique .Médicament employé à l ' extérieur comme résolutif , à l ' intérieur comme stimulant des organes digestifs . |
+| source.excerpts.580.words.0 | aromatique |
+| source.excerpts.580.words.1 | odeur |
+| source.excerpts.580.words.2 | amère |
+| source.excerpts.580.words.3 | fortement aromatique |
+| source.excerpts.580.words.4 | cette plante |
+| source.excerpts.581.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d24940d0-d7bd-52ad-b8bf-07280a722525 |
+| source.excerpts.581.value | des Liiénopodiécs ) .Plante , annuelle odorante , cultivée comme espèce médicinale .L infusion est Ionique et stomachique , et rappelle un peu l ' arôme dît Thé ; les sommités pulvérisées sont anthelmiiilbiques ( vermifuges ) . |
+| source.excerpts.581.words.0 | odorante |
+| source.excerpts.581.words.1 | médicinale |
+| source.excerpts.582.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d305121b-eebd-58a5-9465-5c1fd26bbf9b |
+| source.excerpts.582.value | Le goudron est une poix noire impure .Les résines des Térébinthacées sont : le mastic , retiré des tiges du Pùtacia Lentiscus , bel arbusle odorant , un des buissons les plus communs de la région méditerranéenne ; et la résine - élémi , obtenue de divers arbres ou arbustes : Elaphrium elemiferum , Bursera gummifera , etc .Parmi les résines fournies par des arbres de diverses autres familles , nous citerons : le sang - dragon , provenant d ' arbres différents : un Palmier ( Calamus Draco ) , une Asparaginée ou Asphodélée ( Dracoena Draco ) , une Léguinineuse [ Pteroearpus Draco ) ; le courbaril ( Hymenoea Courbaril ) ; le ladanum , qui exsude naturellement des liges de plusieurs espèces du genre Cislus ( C . |
+| source.excerpts.582.words.0 | odorant |
+| source.excerpts.582.words.1 | mastic |
+| source.excerpts.582.words.2 | tiges |
+| source.excerpts.582.words.3 | région méditerranéenne |
+| source.excerpts.582.words.4 | Térébinthacées |
+| source.excerpts.582.words.5 | Pùtacia Lentiscus |
+| source.excerpts.582.words.6 | résine - élémi |
+| source.excerpts.583.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d315a9f9-23b5-575b-a018-ff027dbc53d0 |
+| source.excerpts.583.value | Petite plante indigène , assez commune dans les bois , au printemps .File répand une odeur musquée .MUDAR ( Calotropis gigantea , famille des Asclépiadées ) . |
+| source.excerpts.583.words.0 | odeur |
+| source.excerpts.583.words.1 | musquée |
+| source.excerpts.583.words.2 | File |
+| source.excerpts.584.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d395b744-ae2f-5bf3-b06c-590a5ed7a32a |
+| source.excerpts.584.value | , .B6lS - D & SAJNT £ ^ LUCIÉ ; ( c7eî ' ow ^ Aa & 4 famille des Ainygdalées > < je , Cerisier est assez commun dans nos bois ; ses fruits sont d ' une saveur amère et nauséeuse ; son écorceest astringente .' BOIS - DE - SANDAL ( altération de Santal ) . |
+| source.excerpts.584.words.0 | son |
+| source.excerpts.584.words.1 | amère |
+| source.excerpts.584.words.2 | nauséeuse |
+| source.excerpts.584.words.3 | astringente |
+| source.excerpts.584.words.4 | ses fruits |
+| source.excerpts.584.words.5 | saveur |
+| source.excerpts.584.words.6 | Cerisier |
+| source.excerpts.585.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d398093f-fda7-5388-bf28-44f84c12a9af |
+| source.excerpts.585.value | tse - tau ) ; aux Canaries , une Cohvôlvùlàcée arborescente ( Convolvulus scoparii ^ ) .— Ces bois sont employés dans rébénisterié ; quelques - uns , râpés et distillé ? ) ont fourni une essence à odeur de rdsëi s BOIS - SAIN ou SÂJN - BOÏS .LeiDapkne Gnidium , vulgairement appelé . |
+| source.excerpts.585.words.0 | bois |
+| source.excerpts.585.words.1 | odeur |
+| source.excerpts.586.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d3ce09e5-6f09-551e-88b5-5169194a3fd1 |
+| source.excerpts.586.value | Famille de plantes dicotyléês , dialypétàles , à ovaire libre , voisine de celle ' des : Térébinthàcées .Ce sont des ; arbrës ; des - régions tropicales , à suc résineux ( fig > l30 ) , ; et / dont plusieurs four : nissèÏÏt3des : baumes célèbres et des parfums estimés .- — L ' encens commun se compose de résines fournies par divers arbres de la famille des Conifères ; mais l ' encens digne de brûler dans les temples , l ' encens vraiment parfumé , est le suc résineux de plusieurs arbres de la famille des Burséracées . |
+| source.excerpts.586.words.0 | parfums |
+| source.excerpts.586.words.1 | baumes |
+| source.excerpts.586.words.2 | estimés |
+| source.excerpts.586.words.3 | arbrës |
+| source.excerpts.587.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d3d77dcc-543b-529b-a5e0-97f0b48350c1 |
+| source.excerpts.587.value | MiDES ( odeur de miel ; l ' odeur du Galium verurn , de la fleur du Tilleul , etc .) ; JASMINOÏDES ( odeur du Jasmin , du Chèvrefeuille ) ; AMYGDALOÏDES ou CYANHYDRIQUES ( odeur d ' amandes anières , odeur de la fleur de l ' flièble , Sambucus herbacea ) ; CYAMOÏDES ( la fleur de l ' Acacia , Robinia l ' seiidaco .cia ; du Pois de senteur , Lathyrus odoratus : c ' est l ' odeur de la fleur d ' oranger affaiblie ) ; MALOÏDES ( odeur de pomme de rainette ) ; TARNOÏDE ( odeur du cuir tanné ) . |
+| source.excerpts.587.words.0 | Jasmin |
+| source.excerpts.587.words.1 | odeur |
+| source.excerpts.587.words.2 | fleur |
+| source.excerpts.587.words.3 | fleur de l |
+| source.excerpts.587.words.4 | amandes anières |
+| source.excerpts.587.words.5 | Chèvrefeuille |
+| source.excerpts.587.words.6 | Robinia |
+| source.excerpts.587.words.7 | Sambucus herbacea |
+| source.excerpts.587.words.8 | AMYGDALOÏDES |
+| source.excerpts.587.words.9 | JASMINOÏDES |
+| source.excerpts.588.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d440f0d4-b7f4-5f77-85ba-b755b9938e19 |
+| source.excerpts.588.value | Nom d ' un parfum , emprunté au nom de l ' inventeur , composé d ' un mélange d ' huiles odorantes , et devenu nom vulgaire d ' un arbre des Indes , à suc vénéneux , le Frangipanier ( Plumeria alba , fani .des Apocynées ) , dont l ' odeur de la fleur rappelle ce parfum .FRANGULACÉES . |
+| source.excerpts.588.words.0 | parfum |
+| source.excerpts.588.words.1 | odeur |
+| source.excerpts.588.words.2 | fleur |
+| source.excerpts.589.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d4923f1e-38a9-598c-acc0-aa1f38c3ddf5 |
+| source.excerpts.589.value | Famille de plantes dicolylées apétales ( de la classe des Ihymélées ) qui présente certaines affinités avec les Laurinées .Ce sont des arbres et des arbrisseaux aromatiques des régions tropicales de l ' Asie , de l ' Afrique e ' de l ' Amérique .Leurs feuilles sont opposées , persistantes , ponctuées - pelluc ' des , dépourvues de stipules . |
+| source.excerpts.589.words.0 | aromatiques |
+| source.excerpts.589.words.1 | arbres |
+| source.excerpts.589.words.2 | arbrisseaux |
+| source.excerpts.590.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d53e0a16-fac1-5095-8e29-75bd800146fd |
+| source.excerpts.590.value | — Stimulants de l ' exhalation de la peau .— Règne minéral : Préparations sulfureuses , Eaux minérales sulfureuses , bouches de vapeur , Bains chauds , Bains de vapeur , Bains aromatiques .— Règne végétal . |
+| source.excerpts.590.words.0 | bouches |
+| source.excerpts.590.words.1 | aromatiques |
+| source.excerpts.590.words.2 | Préparations |
+| source.excerpts.590.words.3 | Eaux minérales sulfureuses |
+| source.excerpts.591.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d5813d76-f443-52f0-8d43-20c381a7d065 |
+| source.excerpts.591.value | La Rue , dont l ' odeur est pénétrante et nauséeuse , était employée dans l ' antiquité comme condiment ; elle est classée au nombre des médicaments stimulants dits antispasmodiques et emmenagogues .Les caractères généraux de la famille des Rulacées sont les suivants : Plantes vivaces , herbacées ou frutescentes , à feuilles simples , plus ou moins découpées ou décomposées , souvent ponctuées - glanduleuses , fortement odorantes , dépourvues de stipules .Fleurs hermaphrodites , régulières , ordinairement disposées en corymbes terminaux . |
+| source.excerpts.591.words.0 | odorantes |
+| source.excerpts.591.words.1 | Plantes |
+| source.excerpts.592.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d6ba3241-0578-571d-b4db-f3b00fb58560 |
+| source.excerpts.592.value | — On en prépare des sachets qui éloignent les insectes deslructeurs des lainages et des fourrures .L ' essence de patchouly est employée dans la parfumerie .On prétend que l ' odeur ambrée de l ' encre de Chine est due à un extrait de patchouly ( il . |
+| source.excerpts.592.words.0 | essence |
+| source.excerpts.592.words.1 | parfumerie |
+| source.excerpts.592.words.2 | patchouly |
+| source.excerpts.593.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d6cd7fc0-cf2b-52a5-a3d7-4a45cd046159 |
+| source.excerpts.593.value | Plusieurs arbres de la famille des Myrtacées ( sous - famille des Myrtées ) offrent un fruit pulpeux , d ' une saveur acidule - sucrée : tels sont les Psidium ( Goyavier ) , les Eugenia , les Jambosa .Mais le plus important de ces arbustes parfumés est le Giroflier ( fig .1092 ) ( Curyophyllus aromaiicus ) , dont les fleurs , fortement aromatiques ( leur parfum rappelle celui de l ' OEillet - des - jardins , Dianthus Coryophyllus ) ' , sont recueillies avant l ' épanouissement , séchées , et livrées au commerce sous le nom de clous - de - girofle ( ces boutons de fleurs ont en effet mlorme d ' un clou ; leur ovaire adhérent représente la pointe , et l ' ensemble globuleux des autres parties de la fleur représente la tête du clou ) . |
+| source.excerpts.593.words.0 | parfumés |
+| source.excerpts.593.words.1 | arbustes |
+| source.excerpts.593.words.2 | Giroflier |
+| source.excerpts.594.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d712947e-d331-52dd-a4d0-b8349c1f52a4 |
+| source.excerpts.594.value | Par la distillation du bois , on obtient une essence dont l ' odeur rappelle le parfum de la Rose .Dans l ' Inde , on brûle le bois de Santal comme encens .SANTOLINE , Garde - robe ( Santolina Chamoecyparissus , famille des Composées - Corymbifères ) . |
+| source.excerpts.594.words.0 | Inde |
+| source.excerpts.594.words.1 | encens |
+| source.excerpts.594.words.2 | bois de Santal |
+| source.excerpts.595.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d79c5588-94bf-5132-a239-9310a8f2d8fc |
+| source.excerpts.595.value | La poudre de cascarille a été associée au quinquina comme fébrifuge ; on la môle quelquefois au tabac pour l ' aromatiser .Celte écorce a été désignée dans d ' anciennes pharmacopées sous le nom de quinquina - aromatique .Le Croton Eluteria se rencontre aux îlesLucayes , et il est abondant à Haïti . |
+| source.excerpts.595.words.0 | aromatique |
+| source.excerpts.595.words.1 | Celte écorce |
+| source.excerpts.596.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d7fe4769-0582-580d-84a4-de93f97da60d |
+| source.excerpts.596.value | Substances animales ou végétales en décomposition ( fig .1042 ) , et suspendues dans l ' air à l ' état d ' odeurs .L ' air vicié par les miasmes détermine , par une sorte d ' intoxication , certaines maladies chez les personnes qui le respirent . |
+| source.excerpts.596.words.0 | air |
+| source.excerpts.596.words.1 | odeurs |
+| source.excerpts.597.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d810503a-dfc2-5bb3-870d-0d23375d7cf7 |
+| source.excerpts.597.value | Les bulbes des Tulipa , Byacinthus , Muscari , Scilla , Ornithoyali .au el Gagea sont d ' une saveur acre el amère ; ils étaient jadis comptés au nombre des médicaments diurétiques et purgatifs .Les bulbes du Fritillaria impieriulis sont remarquables par leur odeur vireuse . |
+| source.excerpts.597.words.0 | acre |
+| source.excerpts.597.words.1 | amère |
+| source.excerpts.597.words.2 | saveur |
+| source.excerpts.597.words.3 | Gagea |
+| source.excerpts.598.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d91bfed5-236f-5660-abc5-feb508589452 |
+| source.excerpts.598.value | est l ' objet d ' une culture assez étendue .Ses racines , d ' une iicrelé fortement aromatique h l ' état sauvage , prennent une saveur plus douce par suite de la culture , en même temps qu ' elles deviennent , dans certaines variétés , volumineuses et charnues .On plaçait jadis le Céleri ou Ache au nombre des plantes apéritives majeures ; son usage est aujourd ' hui exclusivement culinaire . |
+| source.excerpts.598.words.0 | aromatique |
+| source.excerpts.598.words.1 | douce |
+| source.excerpts.598.words.2 | Ses racines |
+| source.excerpts.599.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d92a5deb-cb48-5fbb-a671-a790c4de938a |
+| source.excerpts.599.value | 766 à 769 ) , sont au contraire succulents et disposés sur un réceptacle sec chez le Framboisier et chez la Ronce ( espèces du genre Rubus ) .La fraise , dont la saveur fine et parfumée est si justement appréciée , est un aliment tempérant et rafraîchissant , mais indigeste pour certains estomacs .— La racine de Fraisier ( souche ou rhizome ) renferme du tannin ; elle , est assez fréquemment employée comme substance astringente dans la pratique médicale . |
+| source.excerpts.599.words.0 | parfumée |
+| source.excerpts.599.words.1 | fine |
+| source.excerpts.599.words.2 | fraise |
+| source.excerpts.599.words.3 | saveur |
+| source.excerpts.600.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d94c6649-c9b5-503e-aa83-9c5417779aeb |
+| source.excerpts.600.value | blanches ou roses .Mais la nature a surtout déployé son luxe dans la création des espèces tropicales dites épidendres , faux - parasites qui décorent de leurs fleurs merveilleuses les troncs et les branches les plus élevées des arbres séculaires des forêts vierges , et chargent leurs rameaux de lianes parfumées .La famille des Orchidées est une des plus tranchées par la structure singulière de la fleur . |
+| source.excerpts.600.words.0 | parfumées |
+| source.excerpts.600.words.1 | lianes |
+| source.excerpts.600.words.2 | épidendres |
+| source.excerpts.601.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d94dc9db-4ee9-5927-b634-4e6c53504511 |
+| source.excerpts.601.value | platyphyllos et T .silvestris ) , à feuillage épais , à ( leurs odorantes , sont communs dans nos bois , et plantés dans les promenades et près des habitations .Prononcer le nom du Tilleul , c ' est rappeler de frais ombrages pendant les chaudes journées de soleil , c ' est , évoquer le souvenir de la brise parfumée du soir . |
+| source.excerpts.601.words.0 | leurs |
+| source.excerpts.601.words.1 | leurs odorantes |
+| source.excerpts.601.words.2 | nos bois |
+| source.excerpts.602.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d96f9b32-8d0c-543f-9b7f-6b0ab0be3c15 |
+| source.excerpts.602.value | » de Meurte ( Mynhe ) est blanche et odorante ; pour cesle cause les parfumeurs » en font d ' eau , de laquelle ils font grand cas .Et combien que la fleur de nos « Meurtes sente fort bon , j ' estimerois les fleurs de Meurte d ' Egypte estre les » plus souveraines , car ïhéophrastc dit que les plus odorans et les plus beaux » Meurtes croissent en Egypte .» MELAMPYRE . |
+| source.excerpts.602.words.0 | fleur |
+| source.excerpts.602.words.1 | fleurs |
+| source.excerpts.602.words.2 | fort bon |
+| source.excerpts.602.words.3 | Egypte |
+| source.excerpts.602.words.4 | sente |
+| source.excerpts.602.words.5 | souveraines |
+| source.excerpts.602.words.6 | Meurtes |
+| source.excerpts.603.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d99b4ce4-0d77-54c8-ab94-77a976a9a787 |
+| source.excerpts.603.value | — Famille des Zingibéracées : rameau florifère et fragment de rhizome du Maranta indica ( Arrow - root ) .comprenant des plantes intertropicales , à souches vivaces rampantes ou char " ues - tubériformes , qui contiennent un principe aromatique .Quelques espèces 1342 ZINGIRÉRACËES . |
+| source.excerpts.603.words.0 | aromatique |
+| source.excerpts.603.words.1 | plantes |
+| source.excerpts.603.words.2 | souches |
+| source.excerpts.604.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d9a234a6-00dc-5234-83b6-83f6fb6f40cf |
+| source.excerpts.604.value | , , { ' - ■ _ , - \ Sicile .Ees semences du Cumin ont une odeur fortement aromàÏMrue ? ; elles entrent , comme celles du Carvi , dans les préparations culinaires allemandes , hollandaises et rosses ; on en fait usage dans la médecine vétérinaire .Cumulatus = Aggregatus . |
+| source.excerpts.604.words.0 | odeur |
+| source.excerpts.604.words.1 | elles |
+| source.excerpts.604.words.2 | fortement aromàÏMrue |
+| source.excerpts.604.words.3 | aromàÏMrue |
+| source.excerpts.604.words.4 | semences du Cumin |
+| source.excerpts.605.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d9a65b62-af09-5ceb-b1a9-e94a11a7a27e |
+| source.excerpts.605.value | Les espèces d ' Europe ( appartenant la plupart à la tribu des Ophrydées ) ( fig .1137 ) embellissent les prairies et les clairières des bois , ainsi que de leurs rosettes de feuilles d ' un vert lustré , et produisent une hampe terminée en un épi de fleurs odorantes , ord .blanches ou roses . |
+| source.excerpts.605.words.0 | fleurs |
+| source.excerpts.605.words.1 | odorantes |
+| source.excerpts.605.words.2 | feuilles |
+| source.excerpts.606.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/d9b0c22b-7204-5565-b2a0-3d29627852a0 |
+| source.excerpts.606.value | essence dont rôdeur est analogue à celle du girofle .— Graines aromatiques du Nigella damasnena .TRAÇANT , repens , reptans , stoloniférus . |
+| source.excerpts.606.words.0 | aromatiques |
+| source.excerpts.606.words.1 | Nigella damasnena |
+| source.excerpts.606.words.2 | Graines aromatiques |
+| source.excerpts.607.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/da575d7c-5f9f-5c97-9b17-a3b08b527c13 |
+| source.excerpts.607.value | Plante de la famille des Rubiacées , commune sur les pelouses .Ses panicules de petites fleurs jaunes , qui exhalent une odeur de pharmacie , contiennent un principe astringent ; diverses autres FIG .139 , 140 et 141 . |
+| source.excerpts.607.words.0 | odeur |
+| source.excerpts.607.words.1 | pharmacie |
+| source.excerpts.607.words.2 | petites fleurs jaunes |
+| source.excerpts.607.words.3 | panicules |
+| source.excerpts.608.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dbb4eecf-54a6-5a6f-a8a5-c90b72cb545e |
+| source.excerpts.608.value | — Petite - Centaurée ( Erythroea Centawium ) , sommité fleurie .jaune ( gentianine ) , qui , chez la plupart des espèces , est associée à un principe volatil odorant , à des matières huileuses , glutineuses , et à un mucilage sucré .Ces plantes sont fréquemment employées comme substances amères et toniques , pour stimuler les organes digeslifset augmenter l ' activité des fonctions d ' assimilation . |
+| source.excerpts.608.words.0 | odorant |
+| source.excerpts.608.words.1 | matières |
+| source.excerpts.608.words.2 | principe |
+| source.excerpts.608.words.3 | gentianine |
+| source.excerpts.609.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dc615b25-1b18-58db-a192-5500c41c80c5 |
+| source.excerpts.609.value | Cette térébenthine , rare et chère , passait pour douée de propriétés merveilleuses .Sa saveur est acre et aromatique ; on l ' emploie comme parfum en Orient .■ — • La térébenthine - de - Chio est produite par le Pistacia Terebinthus . |
+| source.excerpts.609.words.0 | aromatique |
+| source.excerpts.609.words.1 | parfum |
+| source.excerpts.609.words.2 | acre |
+| source.excerpts.609.words.3 | saveur |
+| source.excerpts.609.words.4 | Orient |
+| source.excerpts.610.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dd476ca5-1a46-5dd5-b7f7-db4ec3a3468f |
+| source.excerpts.610.value | Les fleurs de cette plante ont une odeur d ' amande amère .Les renflements de la racine sont amers el aromatiques ; ils sont au nombre des remèdes inefficaces qui ont été préconisés pour guérir la rage .Filipendulus . |
+| source.excerpts.610.words.0 | racine |
+| source.excerpts.610.words.1 | aromatiques |
+| source.excerpts.610.words.2 | amers |
+| source.excerpts.611.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dd499384-552f-5895-9060-5298ea525bd7 |
+| source.excerpts.611.value | Se dit de huit objets rapprochés , OBEUK , odor .Impression produite sur les nerfs olfactifs par certaines substances volatiles dites odorantes .La substance qui se volatilise est dile arom ( aromo ) . |
+| source.excerpts.611.words.0 | odorantes |
+| source.excerpts.611.words.1 | certaines substances volatiles |
+| source.excerpts.612.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dd4a73f6-b2cd-55b6-be87-bf64627c416b |
+| source.excerpts.612.value | — C ' est seulement au coucher du soleil que la corolle de l ' Oiiagre - odorante ( OEnothera suaveolens ) déchire brusquement son calice trop étroit , et déroule ses quatre grands pétales d ' un jaune pur et d ' un parfum doux et pénétrant .— C ' est plus tard encore que la Belle - de - nuit ( Mirabilis Jalapa ) , la merveille du Mexique , et sa soeur , Mirabilis longiflora , se constellent , pour la nuit , de leurs fleurs tubuleuses , blanches à gorge rose , ou d ' un rouge vif , ou multicolores : ce sont les plus parfumées de toutes les fleurs .— Quelques - unes , comme la Julienne ( Eespèris matronalis , la Fleur - du - soir aimée des dames ) , sont épanouies dès le milieu du jour , mais ce n ' est que dans l ' ombre de la nuit qu ' elles livrent au zéphyr leurs pénétrantes senteurs . |
+| source.excerpts.612.words.0 | fleurs |
+| source.excerpts.612.words.1 | parfumées |
+| source.excerpts.612.words.2 | pour la nuit |
+| source.excerpts.613.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dd89ff4d-eb14-5d07-9d57-72eb753473c9 |
+| source.excerpts.613.value | Plantes alpines , de la famille des Composées - Corymbifères .La plante entière sert à préparer des infusions aromatiques douées de propriétés excitantes et toniques .Les Génépis sont regardés dans les montagnes comme une panacée universelle . |
+| source.excerpts.613.words.0 | aromatiques |
+| source.excerpts.613.words.1 | excitantes |
+| source.excerpts.613.words.2 | toniques |
+| source.excerpts.614.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/dd8e0ae9-bdbc-5682-8be5-a206b35b375d |
+| source.excerpts.614.value | Le Primula officinalis ( Coucou , Coqueluchon ) fait , pendant le mois d ' avril , l ' ornement de nos prairies ; sa fleur exhale une odeur douce et aromatique ; elle renferme une substance amôre et une très - petite quantité d ' huile volatile .On considérait jadis l ' infusion de cette fleur comme stimulante , tonique et diaphonique , et on l ' employait dans les maladies des voies urinaires et dans les affections rhumatismales .Cette fleur fait encore partie des simples récoltés pour l ' herboristerie . |
+| source.excerpts.614.words.0 | cette fleur |
+| source.excerpts.614.words.1 | stimulante |
+| source.excerpts.615.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ddfc2b2e-a3dd-561f-b24f-18117386261c |
+| source.excerpts.615.value | des Ombellifères ) .Plante aromatique originaire de la Grèce .Les fruits servent à la préparation de la liqueur de table connue sous le nom d ' aniselte . |
+| source.excerpts.615.words.0 | Grèce |
+| source.excerpts.615.words.1 | aromatique |
+| source.excerpts.616.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/de09c80b-782e-5586-bdd8-f09e619b6d28 |
+| source.excerpts.616.value | des Combrélacées ) .Plusieurs arbres appartenant à ce genre fournissent des résines aromatiques .Le T . |
+| source.excerpts.616.words.0 | résines |
+| source.excerpts.616.words.1 | aromatiques |
+| source.excerpts.616.words.2 | arbres |
+| source.excerpts.616.words.3 | résines aromatiques |
+| source.excerpts.617.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/de919d72-ba97-50bc-af5d-b5ef719997b0 |
+| source.excerpts.617.value | Impression produite sur les nerfs olfactifs par certaines substances volatiles dites odorantes .La substance qui se volatilise est dile arom ( aromo ) .Les organes odorants des plantes ont reçu les qualifications suivantes : alliacé ( alliaceus ) , qui a une odeur d ' ail ; ambarinus , qui a l ' odeur de l ' ambre ; ambrosiacus , qui a une odeur suave ; aromatique ( aromaiicus ) , qui a l ' odeurdu Laurier , de la Menthe - poivrée , de la Tanaisie , etc . |
+| source.excerpts.617.words.0 | aromo |
+| source.excerpts.617.words.1 | arom |
+| source.excerpts.618.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/de9300a4-a202-52c8-8106-fe9147e9d021 |
+| source.excerpts.618.value | La saveur de cette gomme - résine est chaude , amère et nauséeuse .On l ' emploie en potion , sirop , teinture , pilules , comme médicament tonique et stimulant ; à faible dose , elle est stomachique ; on l ' emploie comme topique résolutif .Voy . |
+| source.excerpts.618.words.0 | médicament |
+| source.excerpts.618.words.1 | stomachique |
+| source.excerpts.619.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/df6619c8-ff72-5a7c-8ecc-53e4d26f4e8a |
+| source.excerpts.619.value | surtout utile comme collyre .Ce collyre , légèrement astringent , est usité dans les conjonctivites légères , et sert de véhicule à d ' autres collyres plus astringents .L ' essence de roses emplovée dans la parfumerie s ' obtient par la distillation des pétales de Rose dans l ' eau : la plus estimée nous vient de la Turquie et de l ' Inde ; elle est d ' un prix élevé . |
+| source.excerpts.619.words.0 | astringent |
+| source.excerpts.619.words.1 | collyres |
+| source.excerpts.619.words.2 | astringents |
+| source.excerpts.619.words.3 | collyre |
+| source.excerpts.620.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/df8d32ff-101a-56b7-9f33-95aca22bba2a |
+| source.excerpts.620.value | Un grand nombre des plus magnifiques Orchidées épiphytes , dont le mode de végétation est analogue à celui de la Vanille , sont actuellement cultivées en Europe dans des serres savamment disposées pour ce seul usage .La plupart y prospèrent , et livrent chaque année à notre admiration leurs fleurs , qui exhalent souvent les parfums les plus délicieux , et dont les formes variées et bizarres sont presque toujours de la plus ravissante beauté .Les sauvages emploient quelques - unes de ces plantes comme vulnéraires , et les désignent sous le nom de lianes à blessures . |
+| source.excerpts.620.words.0 | fleurs |
+| source.excerpts.620.words.1 | parfums |
+| source.excerpts.620.words.2 | chaque année |
+| source.excerpts.620.words.3 | les plus délicieux |
+| source.excerpts.621.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e048a9b5-fdc0-506c-8fa4-94d999033d9b |
+| source.excerpts.621.value | — L ' Angélique est spontanée dans les montagnes du nord de l ' Europe .Toute la plante renferme en abondance un suc aromatique et stimulant .Endlicher décrit à peu près en ces termes ( mais dans son latin élégant ) l ' usage que font les Lapons de celle plante commune dans leur pays , si pauvre en fruits et en plantes comestibles : Les pauvres Lapons ( qui ne sont gâtés ni par la variété ni par l ' abondance des produits de leurs vergers ) ont en haute estime la racine de l ' Angélique , à sa première année , alors que la tige ne s ' est , pas encore élevée au - dessus de la rosette des feuilles printanières ; ils regardent son usage habituel comme souverain pour maintenir la santé : leurs bonbonnières de peau de renne , au lieu de pastilles , sont garnies de tranches sèches de racine d ' Angélique . |
+| source.excerpts.621.words.0 | aromatique |
+| source.excerpts.621.words.1 | stimulant |
+| source.excerpts.622.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e1511ba8-33db-5093-916c-cb755cf96a2b |
+| source.excerpts.622.value | jaune ( gentianine ) , qui , chez la plupart des espèces , est associée à un principe volatil odorant , à des matières huileuses , glutineuses , et à un mucilage sucré .Ces plantes sont fréquemment employées comme substances amères et toniques , pour stimuler les organes digeslifset augmenter l ' activité des fonctions d ' assimilation .— Gentiana lutea , Grande - Gentiane ( fig . |
+| source.excerpts.622.words.0 | plantes |
+| source.excerpts.622.words.1 | substances |
+| source.excerpts.623.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e16fdbd6-791a-5d9c-b163-1d36646095f8 |
+| source.excerpts.623.value | Qui n ' exhale aucune odeur .S ' oppose à odorant , ( odoratus ) .INONDÉ , inundatus . |
+| source.excerpts.623.words.0 | odorant |
+| source.excerpts.623.words.1 | odoratus |
+| source.excerpts.624.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e1727352-696f-5c8d-9624-bd5ccd6a3385 |
+| source.excerpts.624.value | Les Laurinées se divisent en 14 tribus , savoir : GINNAMOMËES ( ex .genre Cinnamomum , dont les espèces fournissent les écorces aromatiques si connues sous le nom de cannelle ) ; CAMPHOIÏÉES ( ex .genre Camphora ) , arbres de l ' Inde ( fig . |
+| source.excerpts.624.words.0 | aromatiques |
+| source.excerpts.624.words.1 | écorces |
+| source.excerpts.624.words.2 | Cinnamomum |
+| source.excerpts.625.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e1d9b415-c5b8-5b90-b77c-72e81cf6bc1f |
+| source.excerpts.625.value | Une seule espèce , qui s ' avance dans les régions arctiques , sert de trait , d ' union entre les Valériauées de l ' ancien et du nouveau inonde .— Les souches vivaces des Valériauées renferment un principe amer el odorant usilé dans lu pratique médicale ( môdic .antispasmodique ) . |
+| source.excerpts.625.words.0 | odorant |
+| source.excerpts.625.words.1 | amer |
+| source.excerpts.625.words.2 | souches vivaces des Valériauées |
+| source.excerpts.626.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e25c3317-a0ca-5973-ba68-5144ef3c61e3 |
+| source.excerpts.626.value | arabica ( fig .— Saveur acerbe , celle des fruits verts qui deviennent sucrés à leur maturité ; quand cette saveur est très - prononcée , elle est dite astringente ou slyptique .La saveur de la poire sauvage est acerbe ; la saveur du fruit du Prunellier ( Prunus spinosa ) est slyptique . |
+| source.excerpts.626.words.0 | astringente |
+| source.excerpts.626.words.1 | Saveur |
+| source.excerpts.626.words.2 | acerbe |
+| source.excerpts.626.words.3 | fruits verts |
+| source.excerpts.626.words.4 | slyptique |
+| source.excerpts.627.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e25d9128-4814-5a46-bc02-1a23198647de |
+| source.excerpts.627.value | à > ' là .variété ; à grosse racine napiforme , à écorce noire , à saveur fortement piquante , du Radis ( Raphanus sativus var .niger , R . |
+| source.excerpts.627.words.0 | Radis |
+| source.excerpts.627.words.1 | saveur |
+| source.excerpts.628.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e3709b59-eeb1-5634-aa16-f5fda20bacfc |
+| source.excerpts.628.value | ) .Les CORPS ODORANTS ( dont l ' odeur est agréable ) subodorants sont ceux dont l ' odeur est douce , légère .Les classes d ' odeurs qu ' ils fournissent sont les suivantes : iiÉi . |
+| source.excerpts.628.words.0 | agréable |
+| source.excerpts.628.words.1 | douce |
+| source.excerpts.628.words.2 | odeur |
+| source.excerpts.628.words.3 | légère |
+| source.excerpts.628.words.4 | ODORANTS |
+| source.excerpts.628.words.5 | CORPS |
+| source.excerpts.629.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e388e9e6-ca79-5e55-a505-8cedc75e55e4 |
+| source.excerpts.629.value | Le plus sûr , pour ne pas compromettre l ' avenir de la truffière , n est peut - être pas d ' avoir un ours , mais de mettre à profit l ' odorat subtil d ' un bon chien , ou l ' instinct el le groin ( passez - moi le mol ) d ' un cochon .Les Truffes ne se décèlent par leur parfum à ces animaux que lorsqu ' elles sont mûres ; il en résulte qu ' ils ne dérangent pas inutilement les jeunes .Les Truffes ne se trouvent pas disposées en cercle comme certains Agarics ( par ex . |
+| source.excerpts.629.words.0 | parfum |
+| source.excerpts.629.words.1 | leur |
+| source.excerpts.629.words.2 | Truffes |
+| source.excerpts.630.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e48cbaef-37a8-581d-8a31-41dff817f337 |
+| source.excerpts.630.value | Orpin ( Sedum Telephium , famille des Crassulacées ) .Celte plante est douée de propriétés sédatives : les feuilles , dépouillées de leur épidémie sur une de leurs faces , épidémie qui s ' enlève aisément , et appliquées ( 1 ) On hésite quelquefois sur le sens à donner au mot médical et au mot médicinal .Médical signifie « du ressort de la médecine » ; on dit : sciences médicales . |
+| source.excerpts.630.words.0 | feuilles |
+| source.excerpts.630.words.1 | plante |
+| source.excerpts.630.words.2 | sédatives |
+| source.excerpts.631.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e4913d2a-f903-5158-ab06-257bb30ac8e2 |
+| source.excerpts.631.value | 1182 .— Sommité florifère d ' une Papilionacée ( le Coronilla Emerus ) .de nombreuses substances médicamenteuses : la réglisse , la gomnie - adragant , le sang - dragon , la résine de copahu , les baumes - du - Pérou et de Tolti , etc . |
+| source.excerpts.631.words.0 | florifère |
+| source.excerpts.631.words.1 | Papilionacée |
+| source.excerpts.632.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e6c72150-dd21-5a2f-be7e-7ee549124687 |
+| source.excerpts.632.value | La plante désignée sous le nom A ' Bippuris par Ant .de Jussieu , et qui me paraît être la même , que celle appelée par Cornuti Bippuris foetens , se rapporte au contraire , sans difficulté , à notre Char a foetida , plante submergée , susceptible de former rapidement dans les cours d ' eau des niasses considérables , et dont l ' odeur est forte et désagréable .G . |
+| source.excerpts.632.words.0 | désagréable |
+| source.excerpts.632.words.1 | forte |
+| source.excerpts.632.words.2 | odeur |
+| source.excerpts.633.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e6fffb77-249d-5f11-bb02-61c4a4cfdc13 |
+| source.excerpts.633.value | UEiUVE TEliltESÏRE ( Glcchoma hederacea , famille des Labiées ) .Parmi les Labiées qui agissent en même temps comme amères et aromatiques , el qui sont employées dans les affections des voies respiratoires , la plante le plus usitée est le .Lierre - terrestre ( fig . |
+| source.excerpts.633.words.0 | aromatiques |
+| source.excerpts.633.words.1 | amères |
+| source.excerpts.633.words.2 | Labiées |
+| source.excerpts.634.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e70b95ba-a358-5139-a5a3-be8c03c1b502 |
+| source.excerpts.634.value | AîlOMUM , genre de la famille des Zingibéracées .A ce genre appartiennent diverses plantes des Indes , à souches ou rhizomes ( el à graines ) aromatiques et doués de propriétés stimulantes : ces produits sont du domaine de la matière médicale ; ils sont aussi considérés comme condiments , surtout dans le Nord .— Ces substances sont le gingembre , les cardamomes et la graine - de - paradis . |
+| source.excerpts.634.words.0 | aromatiques |
+| source.excerpts.634.words.1 | stimulantes |
+| source.excerpts.634.words.2 | souches |
+| source.excerpts.634.words.3 | rhizomes |
+| source.excerpts.634.words.4 | plantes des Indes |
+| source.excerpts.635.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e715e6ed-799a-52fc-9e30-239c907305b3 |
+| source.excerpts.635.value | ( ïiec - de - grae ) possède les mêmes propriétés , mais à un degré moins prononcé .Les Pelargonium , originaires du cap de , Bonne - Espérance , cultivés en si grand nombre dans nos jardins , sont pour la plupart fortement aromatiques , et possèdent des propriétés stimulantes : la médecine n ' en fait point us " age .Le P . |
+| source.excerpts.635.words.0 | aromatiques |
+| source.excerpts.635.words.1 | stimulantes |
+| source.excerpts.635.words.2 | fortement aromatiques |
+| source.excerpts.635.words.3 | Bonne |
+| source.excerpts.635.words.4 | Pelargonium |
+| source.excerpts.635.words.5 | cap |
+| source.excerpts.636.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e74472d4-b57f-5f60-a4d5-031f1a9b48b6 |
+| source.excerpts.636.value | subnidorants .Les cours ODORANTS ( dont l ' odeur est agréable ) superodorants , chez les vé ° étaux , doivent souvent leur odeur à des huiles volatiles qu ' on peut isoler et recueillir par distillation .Ces classes d ' odeurs sont les suivantes : ODEURS CAMptionoïMS ( odeur camphrée ) ; CITROSMÉES ( odeur de citron et d ' orange ) ; MYRTOïDiiS ( odeur de Myrte ) ; ANISOÏDES ( odeur d ' anis ) ; RHODOÏDES ( odeur de la Rose - à - cenl - feuilles ) ; ANTHÉMISOÏDES ( odeur de la Camomille ) . |
+| source.excerpts.636.words.0 | agréable |
+| source.excerpts.636.words.1 | odeur |
+| source.excerpts.636.words.2 | leur |
+| source.excerpts.636.words.3 | huiles volatiles |
+| source.excerpts.636.words.4 | cours |
+| source.excerpts.636.words.5 | ODORANTS |
+| source.excerpts.636.words.6 | superodorants |
+| source.excerpts.637.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e75251b4-f2ee-5749-988c-3210ef59088e |
+| source.excerpts.637.value | FÉTIDE , foetidus — foetens .Infect , dont l ' odeur est repoussante .FEU SACRÉ . |
+| source.excerpts.637.words.0 | odeur |
+| source.excerpts.637.words.1 | repoussante |
+| source.excerpts.638.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e78d8c52-1bc3-5aa1-8746-cc38cf28260a |
+| source.excerpts.638.value | Plante commune qui remplace dans les prairies du Nord le Thym des collines du Midi .Sa saveur est chaude et aromatique .— Grand - Serpolet , l ' Origan ( Oriyanumvulgaré ) . |
+| source.excerpts.638.words.0 | aromatique |
+| source.excerpts.638.words.1 | saveur |
+| source.excerpts.639.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e8512ecb-90fe-51aa-aef3-42da575dc833 |
+| source.excerpts.639.value | » Plusieurs Equisetum étaient connus des botanistes anciens sous le nom A ' Hippuris , mais An t .de Jussieu a soin de distinguer les Prêles de son Hippuris ; il y a lieu de croire qu ' il ne s ' agit pas non plus ici de YBippuris vulgaris , qui n ' exhale aucune odeur désagréable , n ' est submergé qu ' accidentellement , et dont l ' abondance ne saurait jamais être un embarras pour la navigation .La plante désignée sous le nom A ' Bippuris par Ant . |
+| source.excerpts.639.words.0 | désagréable |
+| source.excerpts.639.words.1 | odeur |
+| source.excerpts.639.words.2 | YBippuris |
+| source.excerpts.640.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e8759fc5-6903-52d1-b6f9-c78ca3e37d62 |
+| source.excerpts.640.value | — Linné admettait sept classes d ' odeurs : ambrosiennes , pénétrantes , aromatiques , alliacées , fétide , viveuses , nauséabondes .— Odeur balsamique , odeur camphrée , se l ' attachent au type odeur aromatique ; odeur hydrosulfureuse , au type fétide .Dans un travail remarquable sur les odeurs ( Soc . |
+| source.excerpts.640.words.0 | aromatique |
+| source.excerpts.640.words.1 | fétide |
+| source.excerpts.640.words.2 | odeur |
+| source.excerpts.640.words.3 | Odeur |
+| source.excerpts.640.words.4 | balsamique |
+| source.excerpts.640.words.5 | camphrée |
+| source.excerpts.640.words.6 | hydrosulfureuse |
+| source.excerpts.641.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e9778dba-4bdc-5369-a2e1-a502d62e710b |
+| source.excerpts.641.value | — 3 ° Odeurs dues à la présence d ' une huile sulfurée : ALLIOÏDES ou ALLIACÉES ( odeur d ' Ail , bulbes des Allium , Asa - foetida , racine des Acacias ) .— W Odeurs dues à des principes divers et dont quelques - unes ont leurs analogues dans le règne animal : FÉTOROÏDES , odeurs fétides ( divers Sterculia , Batura , Nicotiana et autres Solanées ) ; MÉCONOÏDES ( odeur de ' ' opium et ; des Pavots ) ; CICUTOÏDES , odeurs vireuses ( la Ciguë vireuse , Conium maculatum ) ; IIIRCOÏDES , odeur de bouc ( Hypericum hircinum , Loroglossum htrctnum ) ; CIMINOÏDE , odeur de punaise ( la Coriandre , Coriandrum sativum , wCm - is monspeliensis ) ; PTÉRIDOSMOÏDE ( odeur de Fougères ) .— Enfin odeurs : ' ■ adavèreuse , de marée , spermalique , sterculine , urineuse et vuluaire . |
+| source.excerpts.641.words.0 | Fougères |
+| source.excerpts.641.words.1 | odeur |
+| source.excerpts.641.words.2 | Coriandre |
+| source.excerpts.641.words.3 | odeurs |
+| source.excerpts.641.words.4 | Odeurs |
+| source.excerpts.641.words.5 | fétides |
+| source.excerpts.641.words.6 | vireuses |
+| source.excerpts.641.words.7 | opium |
+| source.excerpts.641.words.8 | bouc |
+| source.excerpts.641.words.9 | Conium |
+| source.excerpts.641.words.10 | punaise |
+| source.excerpts.641.words.11 | Hypericum hircinum |
+| source.excerpts.641.words.12 | Solanées |
+| source.excerpts.641.words.13 | Ciguë vireuse |
+| source.excerpts.641.words.14 | Pavots |
+| source.excerpts.641.words.15 | Sterculia |
+| source.excerpts.641.words.16 | Conium maculatum |
+| source.excerpts.641.words.17 | Coriandrum sativum |
+| source.excerpts.641.words.18 | FÉTOROÏDES |
+| source.excerpts.641.words.19 | MÉCONOÏDES |
+| source.excerpts.641.words.20 | CIMINOÏDE |
+| source.excerpts.641.words.21 | Nicotiana |
+| source.excerpts.641.words.22 | Batura |
+| source.excerpts.641.words.23 | PTÉRIDOSMOÏDE |
+| source.excerpts.642.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e97ce3f0-12d5-5ea3-b169-4ad69d7a867a |
+| source.excerpts.642.value | VIREUX , virosus .D ' une saveur ou d ' une odeur vireuse .La saveur et l ' odeur Tireuses caractérisent certaines plantes douées de propriétés narcotiques et plus ou moins vénéneuses . |
+| source.excerpts.642.words.0 | odeur |
+| source.excerpts.642.words.1 | vireuse |
+| source.excerpts.643.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e986415f-9307-5d77-89e3-94598f86c708 |
+| source.excerpts.643.value | sphoerica , et L .angolensis ; leurs fleurs blanches , grandes , odorantes , sonl ; fort belles .GOUSSE = Légume , legumen . |
+| source.excerpts.643.words.0 | odorantes |
+| source.excerpts.643.words.1 | leurs fleurs |
+| source.excerpts.644.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e9bbf6c2-b4ee-592d-bd05-1934007cc263 |
+| source.excerpts.644.value | Sous - arbrisseau à feuilles aromatiques résineuses , abondant dans les marais tourbeux du nord de l ' Europe .On en préparait autrefois une infusion aromatique d ' une saveur assez agréable ; on a renoncé à son usage .Galea . |
+| source.excerpts.644.words.0 | aromatique |
+| source.excerpts.644.words.1 | assez agréable |
+| source.excerpts.644.words.2 | infusion |
+| source.excerpts.644.words.3 | saveur |
+| source.excerpts.645.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e9c9496c-7090-5ff6-bf08-ea6538a69dbb |
+| source.excerpts.645.value | Les Myristicées ont des affinités avec les Ménispennées el le Anonacées , et des rapports éloignés avec les Thyniélées .On connaît assez lu saveur aromatique de la muscade , graine du Muscadier , et du macis , arille charnu de cette même graine .— Les Myristicées sont des arbres ou des arbrisseaux à suc astringent , devenant rouge au contact de l ' air , à feuilles entières , coriaces , dépourvues de stipules . |
+| source.excerpts.645.words.0 | macis |
+| source.excerpts.645.words.1 | muscade |
+| source.excerpts.645.words.2 | saveur aromatique |
+| source.excerpts.645.words.3 | Muscadier |
+| source.excerpts.646.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/e9f282f0-0eab-5c15-8017-7ab112e5e268 |
+| source.excerpts.646.value | Se dit des fleurs qui s ' épanouissent à l ' entrée de la nuit , et se ferment le lendemain , au lever du soleil .L ' OEnothera mavcolens ( Onagre odorante ) , les Mirabilis Jalapa ( Belle - de - nuit ) et M .longiflora présentent celte particularité . |
+| source.excerpts.646.words.0 | odorante |
+| source.excerpts.646.words.1 | Onagre |
+| source.excerpts.646.words.2 | OEnothera |
+| source.excerpts.647.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ea9c846a-7125-556c-9e8a-629dfd5ee021 |
+| source.excerpts.647.value | — Rameau de Cubèbe ( Cubeba officinalis , Piper Cubeba , F .des Pipéritées ) , une huile aromatique acre et amère .La poudre de cubèbe est employée contre les mêmes affections que le baume - de - copahu . |
+| source.excerpts.647.words.0 | huile |
+| source.excerpts.647.words.1 | aromatique |
+| source.excerpts.647.words.2 | aromatique acre |
+| source.excerpts.648.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/eae75667-b31b-5896-b3a0-64102f3d38f5 |
+| source.excerpts.648.value | 109 ) .Ces bois sont comptés au nombre des médiraàénts sudorifiques .Oh les brûle 1 comme parfums dans les Indes . |
+| source.excerpts.648.words.0 | bois |
+| source.excerpts.648.words.1 | sudorifiques |
+| source.excerpts.649.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/eb3223d1-2ca2-5979-a8c3-0700f42beb29 |
+| source.excerpts.649.value | , elc .Toutes les parties de ce joli arbuste exhalent une odeur suave , présentent une saveur amère et aromatique , et sont douées de propriétés stimulantes et astringentes .Le Myrte adonné lieu à de poétiques allégories ; son antique renommée s ' est conservée jusqu ' à nos jours . |
+| source.excerpts.649.words.0 | aromatique |
+| source.excerpts.649.words.1 | suave |
+| source.excerpts.649.words.2 | odeur |
+| source.excerpts.649.words.3 | amère |
+| source.excerpts.649.words.4 | astringentes |
+| source.excerpts.649.words.5 | arbuste |
+| source.excerpts.649.words.6 | saveur |
+| source.excerpts.649.words.7 | parties de ce |
+| source.excerpts.650.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/eb66014e-ba76-5b5d-b33f-7395abb487f7 |
+| source.excerpts.650.value | Pungens .Piquant ; armé d ' une épine ou d ' une pointe vulnérante .Paniceus . |
+| source.excerpts.650.words.0 | pointe |
+| source.excerpts.650.words.1 | épine |
+| source.excerpts.650.words.2 | vulnérante |
+| source.excerpts.651.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ec1ec863-397c-557f-af09-d5defd36db40 |
+| source.excerpts.651.value | Le " Ch .Vulvaria , plante triviale - qui exhale une - odëùr infecterai été proposé comme antispasmodique : des médicaments d ' une bdëurâigréa ' blëÇ ' l ' éther ou le musc , par exemple , l ' ont avantageusement remplacé ./ ; i ^ r . |
+| source.excerpts.651.words.0 | exhale |
+| source.excerpts.651.words.1 | plante |
+| source.excerpts.651.words.2 | Vulvaria |
+| source.excerpts.652.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ec3ab2f6-a93d-5734-a2b9-48d508ff7462 |
+| source.excerpts.652.value | Ephemerum .— Le Samolus Valerandi a un suc amer ; il participe aux propriétés du Veronica Beccabunga .Ces deux plantes croissent dans les marécages . |
+| source.excerpts.652.words.0 | suc |
+| source.excerpts.652.words.1 | Samolus Valerandi |
+| source.excerpts.653.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ec441615-44f9-571a-a94b-c4eabe15c5b6 |
+| source.excerpts.653.value | Ce - sùc est laiteux , d ' un blanc ; jaunâtre devenant safrané parla .dessiccation ' : ; sa saveur est caustique , et son odeur nauséeuse .Il se compose u ; M6 iSubtanee résineuse unie à une . |
+| source.excerpts.653.words.0 | odeur |
+| source.excerpts.653.words.1 | son |
+| source.excerpts.653.words.2 | sa |
+| source.excerpts.653.words.3 | nauséeuse |
+| source.excerpts.653.words.4 | caustique |
+| source.excerpts.654.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ec70d459-aa63-5794-9e67-05b77bd9946a |
+| source.excerpts.654.value | L ' O .fenestralis , plante aquatique , tubéreuse de Madagascar , est à feuilles radicales pétiolées , à limbe oblong ; ce limbe est découpé à jour ( par résorption du parenchyme ) , et réduit , dans sa partie centrale , au réseau des nervures ; le scape , renflé à sa partie moyenne , se termine en un épi de fleurs roses odorantes .Les Saururées sont dépourvues de périanthe , mais le périanthe y est souvent simulé par des bractées colorées pétaloïdes . |
+| source.excerpts.654.words.0 | fleurs |
+| source.excerpts.654.words.1 | odorantes |
+| source.excerpts.655.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ecea8b96-4740-5b7c-98d6-609267ec27f9 |
+| source.excerpts.655.value | GÈDRE .Le bois , deCèdre : du Liban { Çeffrus Libani , famille des Abiéfinées ) était brûlé comme parfum par les anciens .■ - - La charpente du temple de Salompn > était de bois de - . |
+| source.excerpts.655.words.0 | bois |
+| source.excerpts.655.words.1 | parfum |
+| source.excerpts.655.words.2 | anciens |
+| source.excerpts.655.words.3 | deCèdre |
+| source.excerpts.656.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ed113f76-bc26-5cab-87bf-902462a1f2d9 |
+| source.excerpts.656.value | Répandues dans les diverses parties du monde , rares néanmoins sous les tropiques , elles sont abondantes dans les contrées tempérées de l ' hémisphère boréal , surtout dans la région méditerranéenne ; elles s ' avancent assez loin dans le Nord , et plusieurs se plaisent sur les pentes battues par les vents sur les plus hautes montagnes .Les Labiées sont des plantes herbacées ou sous - frutescentes , rarement des arbrisseaux , à feuilles opposées et à rameaux opposés létragones ( ii h angles ) , Elles son t douées de propriétés amères et aromatiques ; elles fournissent d ' agréables parfums et d ' utiles médicaments Ioniques et balsamiques .Celle famille , UHL 1 des plus riches en genres et en espèces , de la flore indigène , compte de nombreux représentants dans nos jardins , et contribue , surtout au printemps , a la décoration naturelle des terrains incultes ou abandonnés par la culture . |
+| source.excerpts.656.words.0 | elles |
+| source.excerpts.656.words.1 | parfums |
+| source.excerpts.656.words.2 | plantes |
+| source.excerpts.656.words.3 | Elles |
+| source.excerpts.656.words.4 | aromatiques |
+| source.excerpts.656.words.5 | agréables |
+| source.excerpts.656.words.6 | amères |
+| source.excerpts.656.words.7 | médicaments |
+| source.excerpts.656.words.8 | Labiées |
+| source.excerpts.657.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ed896649-b45e-5dee-96d1-614c31cbf953 |
+| source.excerpts.657.value | Le fruit est à 3 valves .Les graines contenues dans ce fruit sont amères et purgatives : on en extrait une huile utilisée dans la parfumerie en raison de sa propriété de se charger des odeurs des fleurs qu ' on y fait macérer .Fir „ 1112 . |
+| source.excerpts.657.words.0 | huile |
+| source.excerpts.657.words.1 | fruit |
+| source.excerpts.657.words.2 | fleurs |
+| source.excerpts.657.words.3 | odeurs |
+| source.excerpts.657.words.4 | amères |
+| source.excerpts.657.words.5 | graines |
+| source.excerpts.657.words.6 | parfumerie |
+| source.excerpts.657.words.7 | purgatives |
+| source.excerpts.658.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/edb001a2-689b-5378-8094-6c907e6ea0dc |
+| source.excerpts.658.value | 1085 ) est cultivé en grand aux Moluques , a Cayenne , etc .La muscade , outre son usage , culinaire , est employée dans la parfumerie ; on en prépare une essence .Le macis ( arille delà muscade ) est dune odeur plus pénétrante que la graine et d ' une saveur plus chaude et plus aromatique . |
+| source.excerpts.658.words.0 | muscade |
+| source.excerpts.658.words.1 | parfumerie |
+| source.excerpts.659.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/edb7a2de-ce91-589a-98c8-ce2696b48468 |
+| source.excerpts.659.value | » PARiVASSLV PALTJSTRIS ( fam .des Droséracées ) .Celle plante est amère et astringente ; elle a été employée à l ' intérieur comme diurétique , et en collyre comme anti - ophthahmquc . |
+| source.excerpts.659.words | Droséracées |
+| source.excerpts.660.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/edd4ce70-dfd6-5f45-9e63-9ca5c6f9ee08 |
+| source.excerpts.660.value | des Oléinées ) .Son mérite est dans l ' éléganceet la douce odeur de ses panicules fleuries , qui parent au printemps les parcs les plus splendides et les plus modestes jardins avec une somptueuse profusion , LILAS , lilacinus .Couleur de la fleur du Lilas , d ' un violet pâle et rougeâlre , L1LIACÉES . |
+| source.excerpts.660.words.0 | douce |
+| source.excerpts.660.words.1 | odeur |
+| source.excerpts.660.words.2 | au printemps |
+| source.excerpts.660.words.3 | ses panicules fleuries |
+| source.excerpts.661.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ee20e92b-33b5-53cc-868c-a2a21a580f3f |
+| source.excerpts.661.value | 1609 .— Fruit mûr , avant et après la déhiscence , de la Violette - odorante ( Viola odorata ) .— A , capsule non encore ouverte ; B , capsule ( à déhiscence loculicide ) ouverte . |
+| source.excerpts.661.words.0 | Violette |
+| source.excerpts.661.words.1 | odorante |
+| source.excerpts.661.words.2 | avant et après |
+| source.excerpts.662.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ee2a67d3-4885-5b19-8af8-a1afd3376232 |
+| source.excerpts.662.value | 14S9 .— Sommité florifère du Tabac rustique ( Nicotiana rustica ) .en 1 / ( 98 et dans les années suivantes , les Portugais trouvèrent l ' usage de fumer le labac très - répandu chez les naturels des diverses contrées où ils abordèrent . |
+| source.excerpts.662.words.0 | Tabac |
+| source.excerpts.662.words.1 | florifère |
+| source.excerpts.663.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ee403c8d-2d27-58d7-be5b-2920ba1ee499 |
+| source.excerpts.663.value | 113 ) décorent nos terrains sablonneux de leurs longues panicules d ' un jaune pâle ; leurs Heurs exhalent une odeur douce et suave .On en prépaie une infusion pectorale d ' une saveur légèrement aromatique , et qui n ' est pas moins agréable que celle du thé ; mais on doit avoir soin de passer celle infusion à travers un filtre ou un linge fin : sans cette précaution , les poils qui revêtent les diverses parties de la Heur , et principalement les étamines , causent une irritation à la gorge qui détruit l ' effet salutaire de l ' infusion .BOULEAU ( Betula alba , fam . |
+| source.excerpts.663.words.0 | aromatique |
+| source.excerpts.663.words.1 | agréable |
+| source.excerpts.663.words.2 | légèrement aromatique |
+| source.excerpts.663.words.3 | linge |
+| source.excerpts.663.words.4 | Heur |
+| source.excerpts.663.words.5 | saveur |
+| source.excerpts.663.words.6 | filtre |
+| source.excerpts.664.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ef05155e-23d5-5782-9fd0-e1e224002fdd |
+| source.excerpts.664.value | D ' autres décorent nos prairies et nos pâturages : le vulgaire Coucou [ Primula of / icinalis ) résume ., clans sa jolie fleur , les doux parfums et la fraîcheur de la végétation printanière .Les plus humbles jardins ont leurs bordures ou leurs collections de Primevères ; les parterres privilégiés ont leurs plates - bandes d ' Auricules ou Oreilles - d ' ours , qu ' une nouvelle venue , la Primevère - de - Chine , malgré son élégance , a vainement tenté de faire oublier . |
+| source.excerpts.664.words.0 | doux |
+| source.excerpts.664.words.1 | parfums |
+| source.excerpts.664.words.2 | végétation |
+| source.excerpts.665.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ef0757d5-14ce-59e2-834a-46eab2ab5d34 |
+| source.excerpts.665.value | Les substances solides qui peuvent être transportées par l ' air et constatées à l ' aide du microscope sont des substances empruntées aux matières sèches pulvérulentes , et non aux substances liquides .Les odeurs , les miasmes délétères transportés par l ' air , sont ( vu l ' excessive U ) « Les miasmes sont constitués par les substances organiques de l ' air à divers états " modifications catalytiques ( les catalyses sont îles phénomènes de contact entre des " ™ ' ' l , s d ' origine organique ou d ' origine minérale , et ont pour résultat des combinaisons ) .u présence de substances organiques dans l ' air n ' est que difficilement constatée ; elle a 11 ele expérimentalement démontrée par M . |
+| source.excerpts.665.words.0 | air |
+| source.excerpts.665.words.1 | odeurs |
+| source.excerpts.665.words.2 | miasmes |
+| source.excerpts.665.words.3 | délétères |
+| source.excerpts.665.words.4 | substances organiques de l |
+| source.excerpts.666.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ef2fbc14-a0e3-56ff-8152-b1b8002ab58b |
+| source.excerpts.666.value | 1463 ) ; ses fleurs , très - petites , apétales , groupées en petites têtes arrondies , d ' un blanc rosé , disposées à l ' extrémité d ' un pédoncule axillaire .Sous l ' influence de l ' obscurité , du plus léger contact , du moindre ébranlement accidentel , et même sous l ' influence d ' émanations fortement odorantes , les folioles s ' appliquent sur le rachis , et le pétiole se renverse sur la tige ( fig .1464 ) : la plante paraît frappée de mort . |
+| source.excerpts.666.words.0 | émanations |
+| source.excerpts.666.words.1 | odorantes |
+| source.excerpts.666.words.2 | fortement odorantes |
+| source.excerpts.667.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/eff4de09-660a-5cd8-a393-7cff965bdf23 |
+| source.excerpts.667.value | du calice détaché ; G , fleur ( è pétales nuls ) épanouie ; l ' opercule [ limbe du calice ) est tombé .ses toulïès vertes et parfumées , couvertes de délicieuses fleurs blanches en été , chargées de baies d ' un noir bleuâtre en hiver : le Myrte , dont le feuillage emblématique était consacré , dans la poétique mythologie des Grecs , à l ' Hymen , et qui en Allemagne et en Angleterre continue à orner le front des jeunes fiancées .— Nos jardins méridionaux et nos serres ont emprunté à l ' Amérique et a l ' Australie de nombreuses Myrtacées , qui en font les plus délicieux ornements : tels sont les Melaleuca , et les Metrosideros , dont les fleurs veriieillées forment de magnifiques panaches surmontés parla prolongation fouillée des rameaux ! les Eucalyptus ( fig . |
+| source.excerpts.667.words.0 | Myrte |
+| source.excerpts.667.words.1 | fleurs |
+| source.excerpts.667.words.2 | parfumées |
+| source.excerpts.667.words.3 | en été |
+| source.excerpts.667.words.4 | vertes |
+| source.excerpts.667.words.5 | baies |
+| source.excerpts.667.words.6 | toulïès |
+| source.excerpts.668.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f0229e8c-196b-5a20-bbd7-fd1dbe83e1ee |
+| source.excerpts.668.value | ) NARD - CELTIQUE ( Valeriana celtica , famille des Yalérianées ) .La plupart des plantes vivaces de la famille des Yalérianées ont une souche odorante , ei sont FIG .1095 . |
+| source.excerpts.668.words.0 | odorante |
+| source.excerpts.668.words.1 | plupart |
+| source.excerpts.668.words.2 | souche |
+| source.excerpts.668.words.3 | plantes vivaces |
+| source.excerpts.669.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f06447f7-8708-5fde-baba-02dc2a176812 |
+| source.excerpts.669.value | L ' extrait de Slramonium peut être employé à l ' extérieur comme calmant , de même que l ' extrait de Belladone ; à l ' intérieur , à la dose de quelques centigrammes , il a été employé dans le traitement des maladies convulsives ; mais ses bons effets sont , dans ce cas , des plus contestables .On fait de ses feuilles sèches des cigareltes anti - asthmatiques .Strata corticalia . |
+| source.excerpts.669.words.0 | feuilles |
+| source.excerpts.669.words.1 | asthmatiques |
+| source.excerpts.670.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f07e7916-b859-573d-9e8c-9d459cefc402 |
+| source.excerpts.670.value | GIROFLÉE ( Malthiola annua ) ; Giroflée ^ e - murâilles ( CÀe ^ ttnVAttS Chciri ) ; Julienne ( Hesperismatronalis ) .Plantes appartenant à la famille des Crucifères , communément cultivées dans les jardins pour leurs jolies ( leurs odorantes .Ces GIROFLIER . |
+| source.excerpts.670.words.0 | leurs |
+| source.excerpts.670.words.1 | odorantes |
+| source.excerpts.670.words.2 | Plantes |
+| source.excerpts.670.words.3 | jolies |
+| source.excerpts.670.words.4 | Crucifères |
+| source.excerpts.671.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f0836a64-4696-5a72-8190-81b0468a4926 |
+| source.excerpts.671.value | C ' est une substance douée de propriétés stimulantes très - actives ; sa saveur est acre et brûlante .Le Gingembre est en usage comme substance médicamenteuse , et , comme condiment ou épice , les distillateurs en font usage pour aromatiser certaines liqueurs de table ; on en prépare en Angleterre une boisson fermenléc ( gingerbeer ) .— Les épis fructifères d ' une plante de la même famille , l ' Aniomc en grappe ( Antomum racemosum , fig . |
+| source.excerpts.671.words.0 | aromatiser |
+| source.excerpts.671.words.1 | Gingembre |
+| source.excerpts.672.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f0f5a88d-a0a0-531b-956f-59541fc8b614 |
+| source.excerpts.672.value | Ces arbres compensent presque dans le Nord l ' absence de la Vigne , en permettant de suppléer au vin par le cidre ou le poiré .— Puis , d ' autres arbres fruitiers d ' une moindre importance , les uns cultivés , comme le Cognassier et le Néflier , d ' autres croissant en pleine liberté , comme l ' Alisier et le Sorbier ; enfin , dans les jardins de la Provence , le Néflier - du - Japon ( Eriobotrya japonica ) , fréquemment cultivé , pour ses jolis fruits jaunes à saveur acidule - sucrôe .— La famille des Pomacées fournit â nos haies l ' Aubépine ( Cratoegus Oxyacantha ) , dont les fleurs parfumées symbolisent le printemps , et dont les fruits de corail symbolisent l ' automne ; nos parcs lui doivent le Sorbier - des - oiseleurs ( Sorbw aucuparia ) ; le Cognassier du Japon ( Cydonia japonica ) , dont les fleurs ôcarlates sont si remarquables par leur éclat , et le Buisson - Ardent ( Cratoegus Pyracantha ) POMACÉES . |
+| source.excerpts.672.words.0 | acidule |
+| source.excerpts.672.words.1 | saveur |
+| source.excerpts.672.words.2 | jardins de la Provence |
+| source.excerpts.673.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f1a4e777-ed59-5506-b67e-f45c4e54afda |
+| source.excerpts.673.value | D ' une saveur ou d ' une odeur vireuse .La saveur et l ' odeur Tireuses caractérisent certaines plantes douées de propriétés narcotiques et plus ou moins vénéneuses .Virgatus . |
+| source.excerpts.673.words.0 | odeur |
+| source.excerpts.673.words.1 | plantes |
+| source.excerpts.673.words.2 | vénéneuses |
+| source.excerpts.673.words.3 | narcotiques |
+| source.excerpts.673.words.4 | Tireuses |
+| source.excerpts.674.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f222b126-0a92-55b4-b3e3-418321c037db |
+| source.excerpts.674.value | t Nasturtium était employé par les Latins , et appliqué au Lepidiùm sativum ( vulg .Cresson - alénois ) , dont la saveur rappelle celle du Cresson - de - fontaine ( Nasturtium officinale ) .L ' étymologie du mot Nasturtium est bien connue ( nasus tortus , parce que sa saveur piquante monte - au - nez ; en français du xvi 8 siècle , nasiiort ) . |
+| source.excerpts.674.words.0 | Cresson |
+| source.excerpts.674.words.1 | saveur |
+| source.excerpts.675.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f2d1779d-b076-56ce-8302-ed751f571fb0 |
+| source.excerpts.675.value | Les Broméliacées ont été réparties en trois sections : 1 ° ovaire infère , fruit charnu ( genres Ananassa , Bromelia , Bilbergia , etc .La teinture alcoolique de Buis a été employée dans le traitement des affections rhumatismales et autres où les substances sudorifiques et dépuralives sont indiquées .— On connaît assez l ' usage du bois de Buis dans l ' art du tourneur et l ' ébénisterie ; ce bois , dur et compacte ( en raison de la lenteur de sa croissance ) , est le seul qui soit employé pour la gravure sur bois soignée . |
+| source.excerpts.675.words.0 | teinture |
+| source.excerpts.675.words.1 | sudorifiques |
+| source.excerpts.675.words.2 | Buis |
+| source.excerpts.675.words.3 | dépuralives |
+| source.excerpts.676.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f37ab3a4-fb55-55c5-a5a0-d02c6a828b19 |
+| source.excerpts.676.value | Le noyau ' contient une huile colorée .C ' est sans doute cette huile aromatique , et non la chair du fruit , qui aurait valu au Laurus Persea sa réputation d ' aphrodisiaque .— Le Persea des anciens n ' avait , aucun rapport avec ce Laurier ; c ' était un arbre apporté d ' Ethiopie en Egypte : le Myrobalan ( Ximenia [ Balanites ] oegyptiaca , famille des Olacinées ) . |
+| source.excerpts.676.words.0 | huile |
+| source.excerpts.676.words.1 | fruit |
+| source.excerpts.676.words.2 | aromatique |
+| source.excerpts.676.words.3 | aphrodisiaque |
+| source.excerpts.676.words.4 | Laurus Persea |
+| source.excerpts.677.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f411dbc7-2ad6-579a-b135-b11781cd2847 |
+| source.excerpts.677.value | 13 ° SunotUFiQUES ou DIAPIIORÉTIQUES .— Stimulants de l ' exhalation de la peau .— Règne minéral : Préparations sulfureuses , Eaux minérales sulfureuses , bouches de vapeur , Bains chauds , Bains de vapeur , Bains aromatiques . |
+| source.excerpts.677.words.0 | peau |
+| source.excerpts.677.words.1 | exhalation |
+| source.excerpts.677.words.2 | Stimulants |
+| source.excerpts.678.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f47b7a73-6442-50c4-8c4b-3afbf597897f |
+| source.excerpts.678.value | tûî , \ UtUiVTI / VCÉES .Famille de plantes dicotylées , dialypétales , à ovaire libre , composée d ' arbres et d ' arbrisseaux d ' une souveraine beauté : feuillage lustré odorant ; fleurs parfumées , de forme étoilôe , ordinairement blanches ou d ' un blanc rosé ; fruits délicieux , de couleur d ' or , charment à la fois tous les sens .Aussi les Orangers , originaires de l ' Asie , berceau de notre race , figurent - ils dans les légendes des temps les plus reculés : le Pommier du paradis terrestre était sans doute un Oranger ; le jardin des Hespérides était un jardin d ' Orangers ; la pomme d ' or adjugée à la plus belle était le fruit de l ' Oranger ; et après tant de siècles écoulés , la lleur de l ' Oranger , symbole de la pureté , couronne le front des nouvelles mariées . |
+| source.excerpts.678.words.0 | odorant |
+| source.excerpts.678.words.1 | fleurs |
+| source.excerpts.678.words.2 | parfumées |
+| source.excerpts.678.words.3 | arbres |
+| source.excerpts.678.words.4 | feuillage |
+| source.excerpts.678.words.5 | arbrisseaux |
+| source.excerpts.678.words.6 | plantes dicotylées |
+| source.excerpts.679.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f4aa2f84-f553-54cc-b3e6-be196e846ba5 |
+| source.excerpts.679.value | Mûre - des - buissons ( Rubus fruticosus et espèces voisines , famille des Rosacées ) .L ' infusion de feuilles de Ronce est employée comme gargarisme RONCINÉ .— ROSACÉES . |
+| source.excerpts.679.words.0 | feuilles de Ronce |
+| source.excerpts.679.words.1 | gargarisme RONCINÉ |
+| source.excerpts.680.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f4c9f625-90f4-58c6-9653-c0ee3649e921 |
+| source.excerpts.680.value | — Fleur ( grossie ) du Romarin .de Romarin entre aussi dans la composition de l ' eau de Cologne , et sert à parfumer le savon .RONCE . |
+| source.excerpts.680.words.0 | Romarin |
+| source.excerpts.680.words.1 | parfumer |
+| source.excerpts.680.words.2 | savon |
+| source.excerpts.680.words.3 | eau de Cologne |
+| source.excerpts.681.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f4d1a523-59d3-5d3d-9bd3-03ecbece39ed |
+| source.excerpts.681.value | , Sureau à tiges herbacées , à fleurs odorantes , qui embellit le bord des chemins .Les plantes de la famille à laquelle appartient le genre Sambucus renferment des principes amers , acres et astringents , et sont douées de propriétés purgatives , émétiques et diurétiques .— L ' infusion de fleurs de Sureau constitue une boisson excitante et sudorifique en usage dans le traitement des maladies delà peau ; on emploie également cette infusion à l ' extérieur , comme , résolutive , en lotions et en fomentations . |
+| source.excerpts.681.words.0 | plantes |
+| source.excerpts.681.words.1 | diurétiques |
+| source.excerpts.681.words.2 | principes |
+| source.excerpts.681.words.3 | purgatives |
+| source.excerpts.681.words.4 | émétiques |
+| source.excerpts.682.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f4e4cafb-3c00-5010-91c0-0b820cd303ea |
+| source.excerpts.682.value | ( lEltFEUIL ( Anthriscus Cerefolium [ Choerophyllum sativum , Scandix Cerefolium ] , famille des Ombellifères ) .Le Cerfeuil est cultivé partout comme piaule potagère ; sa saveur est finement aromatique ; ses feuilles fraîches sont employées comme assaisonnement , ainsi que celles du Persil .Le Cerfeuil entre dans la composition d ' un jus d ' herbes diurétique ^ et du bouillon - aux - herbes qui est employé comme rafraîchissant et laxatif . |
+| source.excerpts.682.words.0 | aromatique |
+| source.excerpts.682.words.1 | sa |
+| source.excerpts.682.words.2 | Cerfeuil |
+| source.excerpts.682.words.3 | saveur |
+| source.excerpts.682.words.4 | finement aromatique |
+| source.excerpts.683.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f50f18a6-a8ed-5540-81f6-c805d126c513 |
+| source.excerpts.683.value | 582 ) , est un médicament à la fois tonique , stimulant et même excitant .Son odeur suave et sa saveur piquante et aromatique font employer cette écorce comme épice : c ' est un condiment des plus usités dans l ' art culinaire .La cannelle est mise en oeuvre , comme le girofle , dans les officines du distillateur , du confiseur et du parfumeur . |
+| source.excerpts.683.words.0 | aromatique |
+| source.excerpts.683.words.1 | suave |
+| source.excerpts.683.words.2 | odeur |
+| source.excerpts.683.words.3 | piquante |
+| source.excerpts.683.words.4 | écorce |
+| source.excerpts.683.words.5 | saveur |
+| source.excerpts.684.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f57acdb5-8136-5c49-a3f7-ac964e35c1e4 |
+| source.excerpts.684.value | Les propriétés de ces diverses plantes sont du reste à peu près les mêmes , et l ' on peut , sans grand inconvénient , substituer l ' une à l ' autre .— L ' infusion tbéiforme de ces Heurs est aromatique et un peu arrière ; elle est stimulante des fonctions de l ' estomac et de la peau ; à la fois digestive et diaphonique ( sudorifique ) .Les feuilles et les som - . |
+| source.excerpts.684.words.0 | aromatique |
+| source.excerpts.684.words.1 | sudorifique |
+| source.excerpts.684.words.2 | ces |
+| source.excerpts.684.words.3 | stimulante |
+| source.excerpts.684.words.4 | digestive |
+| source.excerpts.685.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f5ac6b93-9296-5fc4-add7-322bc19d683d |
+| source.excerpts.685.value | Allons donc en Normandie , en attendant que nous puissions explorer les dunes de la Bretagne et les côtes de la Méditerranée .N ' aimez - vous pas l ' odeur de la mer à la marée basse , et n ' est - ce pas avec bonheur que vous vous aventurez dans les rochers quand les vagues les ont désertés , tantôt glissant sur les Algues qui les tapissent d ' une couche verte ou rougeâtre , tantôt vous enfonçant dans l ' eau jusqu ' aux genoux , en faisant fuir des myriades de crabes ; observant çà et là les belles couleurs des Actinies , véritables fleurs animées , mais , avant tout , cherchant et recueillant les nombreuses espèces ( le lu belle famille des Algues , qui pullulent dans les profondeurs de l ' Océan .Ne négligez pas surtout d ' examiner les débris rejetés par les vagues sur la grève ; vous y trouverez souvent , et en bon état , des espèces qui ont été détachées au loin et que vous chercheriez vainement sur les Cochers de la côte . |
+| source.excerpts.685.words.0 | odeur |
+| source.excerpts.685.words.1 | mer |
+| source.excerpts.686.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f5c29373-4074-5c0b-9ec0-4cac5cbb4bc8 |
+| source.excerpts.686.value | — La famille des Cucurbitacées est une des plus naturelles du règne végétal ; c ' est aussi une des plus importantes par le nombre des genres et des espèces qu ' elle renferme , et l ' une des plus intéressantes par la singularité e " a variété des formes , la beauté des fleurs et des fruits .Les fleurs ont , chez certaines espèces , une odeur suave .Les fruits sont quelquefois d ' un volume énorme , souvent très - petits ; plusieurs sont d ' une forme bizarre et une des 356 ' . |
+| source.excerpts.686.words.0 | suave |
+| source.excerpts.686.words.1 | odeur |
+| source.excerpts.686.words.2 | fleurs |
+| source.excerpts.687.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f5ef7fec-fda5-507d-87c7-296614c42700 |
+| source.excerpts.687.value | Grande plante potagère annuelle , du même groupe que l ' Épinard , subspontanée dans les jardins rustiques .Son suc , laxatif et diurétique , contient du nitrate de potasse .ARRONDI , gyratus . |
+| source.excerpts.687.words.0 | diurétique |
+| source.excerpts.687.words.1 | laxatif |
+| source.excerpts.687.words.2 | nitrate de potasse |
+| source.excerpts.688.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f6175fab-194d-53a5-9874-c2b9dbe4f5cd |
+| source.excerpts.688.value | Baume aquatique ( Mentha rotundifolia , Labiées ) .Cette plante , à odeur aromatique , est commune dans les lieux marécageux et dans les ciinelières herbeux .IIERBE - DU - SIÉGE . |
+| source.excerpts.688.words.0 | aromatique |
+| source.excerpts.688.words.1 | odeur |
+| source.excerpts.688.words.2 | plante |
+| source.excerpts.689.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f6e1fada-82ce-5298-aacb-c4f6e919d9f8 |
+| source.excerpts.689.value | arvensis ) .Ces plantes ont une odeur pénétrante , désagréable selon les uns , aromatique et agréable selon les autres .SOUS - UOURGEON ( terme d ' arboriculture ) . |
+| source.excerpts.689.words.0 | aromatique |
+| source.excerpts.689.words.1 | agréable |
+| source.excerpts.689.words.2 | désagréable |
+| source.excerpts.689.words.3 | pénétrante |
+| source.excerpts.689.words.4 | odeur |
+| source.excerpts.689.words.5 | Ces plantes |
+| source.excerpts.690.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f709e90b-318a-5aed-8701-3dd8f3fd81b9 |
+| source.excerpts.690.value | On employait comme vomitif , soit la poudre des feuilles , à la dose de 1 h 2 décigrammes , soit l ' infusion préparée avec U grammes de feuilles pour 250 grammes ( un quart de litre ) d ' eau .Ces préparations agissent en même temps , comme émétiques et comme purgatives .Aujourd ' hui l ' Asarum n ' est plus employé que sous la forme de poudre sternutatoire , pour rappeler le flux nasal . |
+| source.excerpts.690.words.0 | purgatives |
+| source.excerpts.690.words.1 | émétiques |
+| source.excerpts.691.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f7199ee8-309b-5fb6-977b-63bb9a4b9436 |
+| source.excerpts.691.value | des Magnoliacées ) .On extrait descapsules et des graines une essence d ' une odeur aromatique suave , irès - péné ' rante , qui rappelle l ' odeur du Fenouil et de l ' Anis .La Badiane entre dans la fobneation des liqueurs de table . |
+| source.excerpts.691.words.0 | Anis |
+| source.excerpts.691.words.1 | Fenouil |
+| source.excerpts.691.words.2 | odeur |
+| source.excerpts.691.words.3 | essence |
+| source.excerpts.691.words.4 | graines |
+| source.excerpts.691.words.5 | aromatique suave |
+| source.excerpts.691.words.6 | irès - péné ' rante |
+| source.excerpts.691.words.7 | descapsules |
+| source.excerpts.692.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f7b794a9-0f8c-5a6c-b53a-784e694e54bf |
+| source.excerpts.692.value | Certaines odeurs de nature analogue sont dues à des principes encore indéterminés ; telles sont les classes suivantes : NARDOSMOÏDES ( par ex .le Tussilage - odorant , Nardosmia fmgrans ) ; AMBROSIOÏDES ou AMBRÉ ts ( le Chenopodium ambrosioides ) ; MOSCHOÏOES ou MUSQUÉES ( Erodium moschatum , Scandix odorata , etc .) ; 1IÉLILOÏRES ( le Môlilot officinal , le Trigonella Foenum - grcecum , etc . |
+| source.excerpts.692.words.0 | odorant |
+| source.excerpts.692.words.1 | Chenopodium |
+| source.excerpts.692.words.2 | Tussilage |
+| source.excerpts.692.words.3 | odorata |
+| source.excerpts.692.words.4 | Nardosmia |
+| source.excerpts.692.words.5 | Erodium moschatum |
+| source.excerpts.692.words.6 | AMBRÉ |
+| source.excerpts.692.words.7 | AMBROSIOÏDES |
+| source.excerpts.693.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f7dad1d3-abcf-5358-97ac-9b41d82fb6db |
+| source.excerpts.693.value | Les cours ODORANTS ( dont l ' odeur est agréable ) superodorants , chez les vé ° étaux , doivent souvent leur odeur à des huiles volatiles qu ' on peut isoler et recueillir par distillation .Ces classes d ' odeurs sont les suivantes : ODEURS CAMptionoïMS ( odeur camphrée ) ; CITROSMÉES ( odeur de citron et d ' orange ) ; MYRTOïDiiS ( odeur de Myrte ) ; ANISOÏDES ( odeur d ' anis ) ; RHODOÏDES ( odeur de la Rose - à - cenl - feuilles ) ; ANTHÉMISOÏDES ( odeur de la Camomille ) .Lorsque les Imiles volatiles sont associées à un type résineux , , elles constituent les classes d ' odeurs suivantes : BALSAMOÏDES ( les baumes , la vanille ) . |
+| source.excerpts.693.words.0 | Camomille |
+| source.excerpts.693.words.1 | Rose |
+| source.excerpts.693.words.2 | Myrte |
+| source.excerpts.693.words.3 | orange |
+| source.excerpts.693.words.4 | odeur |
+| source.excerpts.693.words.5 | odeurs |
+| source.excerpts.693.words.6 | ODEURS |
+| source.excerpts.693.words.7 | anis |
+| source.excerpts.693.words.8 | citron |
+| source.excerpts.693.words.9 | ANTHÉMISOÏDES |
+| source.excerpts.693.words.10 | ANISOÏDES |
+| source.excerpts.693.words.11 | RHODOÏDES |
+| source.excerpts.694.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f7f37403-3abc-574e-8dc5-ca996684397f |
+| source.excerpts.694.value | Se dit d ' une saveur aigre et piquante ; ex .: la saveur des feuilles de l ' Oseille commune , du suc de citron , du fruit de l ' Épinc - vinette , etc .— Acides végétaux , substances extraites de certaines plantes , qui sont douées d ' une saveur acide , ont la propriété de rougir le papier de Tournesol , et se combinent , avec les alcalis pour constituer des sels . |
+| source.excerpts.694.words.0 | feuilles |
+| source.excerpts.694.words.1 | saveur |
+| source.excerpts.695.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f820f9eb-c171-573f-9e33-c54e147f58ca |
+| source.excerpts.695.value | " 235 ■ ■ ' 0Êfil & ih ^ ÊÉÈf Famille de " plantes - dicotylées dialypétalés , ' à ovaire ' libre .êrêROsW ^ feaWS ' arbres dont le bois odorant , coloré , d ' un tissu ' Serré , ' : : est ivè & rSjèhë ! * hë : eh > Orient ; l ' écortse dequelques - uns de ces arbres estamère et fébrifàgteïlùéfàllt ^ pas confondre , en raison de la consonnâncedunom , les Cëdrela - y # Brès ; de l ' Asiès - 4 » ■ l ' Australie et de l ' A mériqùe , " avec le genre Gedrïisfde la toiJte ^ s Conifères ( sans ' aucun rapport avec la famille des Cédrélacées ) .La fti ' i ! ! ê ' 4 # Cédrélacées est très - voisine de éellë : des Méliacées , à laquelle elle purrajttre , rattachée comme section , La plupart ' dés caractères généraux des deux grppes : sont les mêmes : Les arbres sont également à feuilles imparipennéesjsansstipules . |
+| source.excerpts.695.words.0 | bois |
+| source.excerpts.695.words.1 | odorant |
+| source.excerpts.695.words.2 | arbres |
+| source.excerpts.696.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f8340e97-e70b-5a50-9b34-3a4ad3f692b3 |
+| source.excerpts.696.value | Ces fruits sont désignés dans le pays sous le nom de marmites - de - singe .Les Myrtacées renferment une huile volatile , aromatique , unie à duiannin ; d ' où il résulte que ces plantes , selon la prédominance de l ' un ou de l ' autre principe , sont douées , les unes de propriétés stimulantes , les autres de propriétés astringentes , ou encore , et dans diverses proportions , de ces deux propriétés à la fois .— On prépare : une essence , une eau distillée , un vin , une teinture alcoolique , une poudre de girofle ; le girofle fait partie de l ' eau de Botot et du laudanum de Sydenham . |
+| source.excerpts.696.words.0 | huile |
+| source.excerpts.696.words.1 | aromatique |
+| source.excerpts.696.words.2 | plantes |
+| source.excerpts.696.words.3 | stimulantes |
+| source.excerpts.696.words.4 | Myrtacées |
+| source.excerpts.697.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f854b139-5911-54ef-a439-4da19b28439e |
+| source.excerpts.697.value | — LIGULE .837 de Lierre sont employées à tenir fraîche la surface dénudée des exutoires ; ces feuilles , pilées , sont aromatiques .Leur suc ou leur décoction étaient autrefois en usage pour obtenir la guérison des ulcères et des brûlures . |
+| source.excerpts.697.words.0 | aromatiques |
+| source.excerpts.697.words.1 | feuilles |
+| source.excerpts.698.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f8924ed1-8460-57d8-a74d-3685fe16d29d |
+| source.excerpts.698.value | Mtt ; iEE - OE - PAEMlER .Le fruit écrasé dans l ' eau de l ' Eloeis guianensis laisse surnager une huile d ' une odeur forte .Voy . |
+| source.excerpts.698.words.0 | huile |
+| source.excerpts.698.words.1 | forte |
+| source.excerpts.698.words.2 | odeur |
+| source.excerpts.698.words.3 | Eloeis guianensis |
+| source.excerpts.699.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f9156c3e-9685-54e1-853e-7f8f50e0dd76 |
+| source.excerpts.699.value | Teler = Foetidissimus .Dont l ' odeur est repoussante .Tetra - , dans les mots composés dérivés du grec , signifie quatre ; en latin , quadri - . |
+| source.excerpts.699.words.0 | odeur |
+| source.excerpts.699.words.1 | repoussante |
+| source.excerpts.700.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f94ff2a0-6bd5-5a27-b45b-0412fc8f9886 |
+| source.excerpts.700.value | .» Traduisons : Les graines modérément grillées exhalent un arôme suave , qui se dégage d ' une huile odorante développée par l ' action du feu .Ces graines brûlées craquent dans le moulin , et le café en poudre , précipité dans l ' eau bouillante , nous olfre l ' infusion par excellence . |
+| source.excerpts.700.words.0 | huile |
+| source.excerpts.700.words.1 | suave |
+| source.excerpts.700.words.2 | odorante |
+| source.excerpts.700.words.3 | arôme |
+| source.excerpts.700.words.4 | graines modérément grillées |
+| source.excerpts.701.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/f9a5347b-e858-5cb2-96ad-35f544906bb1 |
+| source.excerpts.701.value | On extrait par incision des rhizomes ( sur la plante vivante , en découvrant la souche en partie ) un suc qui se concrète en une masse gommo - résineuse .Cette gomme - résine est d ' une odeur désagréable et d ' une saveur acre ; on en fait usage comme purgatif drastique , associée à diverses autres substances médicamenteuses .FIG . |
+| source.excerpts.701.words.0 | désagréable |
+| source.excerpts.701.words.1 | acre |
+| source.excerpts.701.words.2 | odeur |
+| source.excerpts.701.words.3 | substances médicamenteuses |
+| source.excerpts.701.words.4 | saveur |
+| source.excerpts.701.words.5 | gomme - résine |
+| source.excerpts.702.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fa555ef8-3ad5-53ee-84ee-9d0eba4142f9 |
+| source.excerpts.702.value | - — - Un certain nombre d ' espèces étrangères au genre Thé ont été .proposées et ont été acceptées comme fournissant des infusions aromatiques plus ou moins analogues à celles du thé , mais moins excitantes .Citons le Tbé - du - Paraguay ( un Houx ) Ilex Paraguayensis ( Ilicinées ) ; un Lanterna ( Verbénacées - Lantanées ) , L . |
+| source.excerpts.702.words.0 | aromatiques |
+| source.excerpts.702.words.1 | excitantes |
+| source.excerpts.702.words.2 | thé |
+| source.excerpts.703.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fa68c07b-cf77-5864-a8fe-f9999b31f23a |
+| source.excerpts.703.value | Le Laurier - cerise , arbre cultivé dans tous les jardins pour son beau feuillage persistant , est originaire de l ' Asie Mineure .Ses feuilles servent , comme celles du Pêcher , à parfumer les crèmes .LAURIER - ROSE ( Nerium Oleander , famille des Apocynées ) . |
+| source.excerpts.703.words.0 | parfumer |
+| source.excerpts.703.words.1 | Ses feuilles |
+| source.excerpts.703.words.2 | crèmes |
+| source.excerpts.704.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fd4bab74-15ac-5dcb-82f2-6c0812694585 |
+| source.excerpts.704.value | Certaines plantes ont cependant , à l ' état frais ou normal , une odeur aromatique fétide : tel est le Chenopodium Vulvaria ou C .olidum , dont l ' odeur rappelle celle du poisson de mer .Les odeurs ou saveurs aromatiques désagréables , pénétrantes , et provoquant des nausées , sont dites saveurs nauséeuses : telle est l ' odeur du Coriandrum sativum , la Coriandre ( chez la plante à l ' état vivant ) ; cette odeur tient de celle de la punaise . |
+| source.excerpts.704.words.0 | odeur |
+| source.excerpts.704.words.1 | poisson de mer |
+| source.excerpts.704.words.2 | olidum |
+| source.excerpts.705.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fd77e467-068b-56d3-a18e-c825b3e6f25f |
+| source.excerpts.705.value | OPOPANAX { Pastinaca Opopanax , Opopanax ehironium ) .Ombellifère d ' Orient qui fournil une gomme - résine odorante douée de propriétés stimulantes el analogue à Y asa - foetida .ORME ( Ulmus campestris ) . |
+| source.excerpts.705.words.0 | résine |
+| source.excerpts.705.words.1 | odorante |
+| source.excerpts.705.words.2 | stimulantes |
+| source.excerpts.705.words.3 | gomme |
+| source.excerpts.706.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fda91b67-5049-5ee4-9fb3-fe26177b3797 |
+| source.excerpts.706.value | IEAN .Lierre - terrestre ( Glechoma hederacea , Labiées ) , plante aromatique .Son infusion théiforme est justement recommandée dans les bronchites légères ( rhumes ) et les bronchites chroniques . |
+| source.excerpts.706.words.0 | aromatique |
+| source.excerpts.706.words.1 | Labiées |
+| source.excerpts.706.words.2 | Glechoma |
+| source.excerpts.706.words.3 | Lierre - |
+| source.excerpts.707.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fdc7a359-4d7a-5479-8a47-d2d982118745 |
+| source.excerpts.707.value | ( ' .ouvertes de poils roides souvent urticanls ( piquants comme ceux des Orties ) ; leurs fleurs , ord .solitaires , axillaires ou latérales , soûl régulières , grandes et belles , de couleur nnl . |
+| source.excerpts.707.words.0 | fleurs |
+| source.excerpts.707.words.1 | poils |
+| source.excerpts.707.words.2 | piquants |
+| source.excerpts.708.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fddd0ecf-2706-5003-abb9-70fb63092fc8 |
+| source.excerpts.708.value | 1011 nombre de plantes de nos climats , et dont quelques - unes brillent dans les parterres comme dans les champs par l ' éclat de leurs belles fleurs .Malgré l ' odeur vireuse qui leur est particulière , toutes nous plaisent par leur grâce rustique ; toutes sont en harmonie , par leurs vives couleurs , avec les sites agrestes éclairés par un beau soleil : Chélidoine aux fleurs d ' or , s ' étageant sur les vieilles murailles , à l ' arrivée des hirondelles ; Coquelicot aux pétales de feu , rehaussés de leur onglet noir , luttant de grâce et de fraîcheur , h travers nos moissons , avec le Bluet , la Nielle , le Muscari et le Miroir - de - Vénus ; et dans les jardins : fleur superbe du Pavot double , qu ' aucune nouveauté ne saurait faire oublier ; fleur simple , mais d ' un pourpre éclatant , du Pavot - à - bractées ; fleur de YEscâscholtzia , reflet doré de la Californie .FIG . |
+| source.excerpts.708.words.0 | odeur |
+| source.excerpts.708.words.1 | vireuse |
+| source.excerpts.709.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fdff49f0-e101-5edc-b7b1-3168a55fd589 |
+| source.excerpts.709.value | Le suc des Nymphéacées renferme de l ' acide gallique , qui lui donne des qualités qualités ; les jeunes rhizomes renferment une fécule abondante et sont comestibles .Les fleurs , douées d ' une faible odeur , passent pour légèrement narcotiques .Mais c ' est par leur beauté , bien plus que par la nature de leurs propriétés médicales , que les Nymphéacées ont dès longtemps conquis leur célébrité . |
+| source.excerpts.709.words.0 | faible |
+| source.excerpts.709.words.1 | odeur |
+| source.excerpts.709.words.2 | fleurs |
+| source.excerpts.709.words.3 | narcotiques |
+| source.excerpts.709.words.4 | légèrement narcotiques |
+| source.excerpts.710.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fe132f5a-9ca7-5134-8c71-3dae15d8b93a |
+| source.excerpts.710.value | On les emploie fréquemment en infusion , comme diurétiques , dans le traitement delà gravelle et de plusieurs affections de la vessie .Les baies de Y Arbutus Uva - ursi sont d ' une saveur follement acerbe .BUTOMÉES . |
+| source.excerpts.710.words.0 | baies |
+| source.excerpts.710.words.1 | saveur |
+| source.excerpts.710.words.2 | follement acerbe |
+| source.excerpts.710.words.3 | Y Arbutus |
+| source.excerpts.711.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fe7776f0-36d2-57f5-b677-13dc97a8998e |
+| source.excerpts.711.value | Roland ou roulant , Eryngium campestre ) , le Chiendent , le Colchique à faible dose , la Digitale à faible dose , le PetitHoux , le Fraisier , la Pariétaire , le Persil et YUva - ursi .13 ° SunotUFiQUES ou DIAPIIORÉTIQUES .— Stimulants de l ' exhalation de la peau . |
+| source.excerpts.711.words.0 | DIAPIIORÉTIQUES |
+| source.excerpts.711.words.1 | SunotUFiQUES |
+| source.excerpts.712.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fea79d01-aecf-59e1-84d7-df9900ffd2c4 |
+| source.excerpts.712.value | La couleur grisâtre de ses feuilles visqueuses au toucher , et l ' odeur vireuse qu ' elles exhalent , semblent annoncer ses propriétés délétères ; néanmoins ses fleurs jaunâtres , veinées de noir et à gorge pourpre , et ses calices fructifères dentelés et rapprochés sur une tige roulée en crosse , ont une beaulé agreste en harmonie avec les lieux incultes où on la rencontre .On a tenté d ' utiliser les propriétés narcotiques de la Jusquiame en l ' employant dans le traitement de diverses affections du système nerveux ; on a reconnu que son usage a toujours été moins avantageux que celui de l ' opium , dont le mode d ' administration convenable est d ' ailleurs infiniment mieux connu .Les fumigations de graines de Jusquiame reçues dans la Fie . |
+| source.excerpts.712.words.0 | Jusquiame |
+| source.excerpts.712.words.1 | narcotiques |
+| source.excerpts.713.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fed2377c-f21c-5c7f-965e-43704688b310 |
+| source.excerpts.713.value | 63 feuilles dépourvues de stipules , et par la forme anfractueuse du périsperme .Les Anonacées sont des arbres et des arbrisseaux des régions tropicales ; plusieurs espèces sont cultivées dans ces chaudes contrées pour leur fruit d ' une saveur très - agréable .Les caractères de cette famille sont les suivants : Plantes arborescentes à odeur aromatique , à suc d ' une saveur acre . |
+| source.excerpts.713.words.0 | arbres |
+| source.excerpts.713.words.1 | régions |
+| source.excerpts.713.words.2 | espèces |
+| source.excerpts.713.words.3 | arbrisseaux |
+| source.excerpts.713.words.4 | saveur |
+| source.excerpts.713.words.5 | très - agréable |
+| source.excerpts.713.words.6 | Anonacées |
+| source.excerpts.713.words.7 | chaudes contrées |
+| source.excerpts.714.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fedabf64-3394-5088-81ba-a469fbbd8764 |
+| source.excerpts.714.value | ; fétide ( foetidus , teter ) , odeur très - désagréable ; graveolens , désagréable en raison de sa force , pat exemple l ' odeur de YAnethum graveolens ; hircinus , qui a une odeur de bouc ; muriaticus , qui a l ' odeur des plantes imprégnées d ' eau de mer ; musqué ( moschatus ) , qui a l ' odeur du musc ; piquante ( pungens ) se dit de l ' odeur de certaines huiles volatiles , de l ' acide acétique , elc ; spermaticus , qui a une odeur analogue à celle des fleurs du Châtaignier ; suaveolens , qui exhale une odeur suave ; viveuse ( virosus ) se dit de l ' odeur des plantes qui ont - des qualités narcotiques : la Jusquiame , le Pavot , la Ciguë , etc .Les émanations d ' un corps odorant agissent agréablement ou désagréablement , selon leur nature et selon le goût ou la disposition de ceux qui les perçoivent , sur le sens de l ' odorat ( par l ' intermédiaire des nerfs olfactifs qm s ' épanouissent dans la membrane muqueuse nasale ) .— Linné admettait sept classes d ' odeurs : ambrosiennes , pénétrantes , aromatiques , alliacées , fétide , viveuses , nauséabondes . |
+| source.excerpts.714.words.0 | odorant |
+| source.excerpts.714.words.1 | corps |
+| source.excerpts.714.words.2 | émanations |
+| source.excerpts.714.words.3 | odorat |
+| source.excerpts.714.words.4 | désagréablement |
+| source.excerpts.714.words.5 | agréablement |
+| source.excerpts.715.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/fee36ef0-f24f-5519-a237-02dd046c68b5 |
+| source.excerpts.715.value | On extrait de l ' amande une huile grasse d ' une saveur agréable ; c ' est un médicament adoucissant et laxatif qui entre , dans la composition de plusieurs préparations officinales .Les amandes amères contiennent des traces d acide cyanhydrique ; elles servent à aromatiser les looehs et les émulsions .I - essence d ' amandes amères , qui sert à parfumer les savons de toilette , est le produit de la distillation avec de l ' eau du résidu ou marc des amandes amères 46 AMARANTACEES . |
+| source.excerpts.715.words.0 | amandes amères |
+| source.excerpts.715.words.1 | acide cyanhydrique |
+| source.excerpts.715.words.2 | aromatiser |
+| source.excerpts.715.words.3 | looehs |
+| source.excerpts.716.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ffb919ad-7c15-5c34-a7d7-9710dd338674 |
+| source.excerpts.716.value | Les plants de Buis ( maintenus à l ' état nain par une taille rigoureuse ) étaient et sont encore la bordure privilégiée pour les plates - bandes des parterres où les lignes symétriques sont ordonnées .— La senteur finement aromatique du Buis rappelle aux catholiques du Nord la touchante solennité du dimanche des Rameaux .BUISSON , dunietum . |
+| source.excerpts.716.words.0 | senteur |
+| source.excerpts.716.words.1 | Buis |
+| source.excerpts.716.words.2 | catholiques |
+| source.excerpts.716.words.3 | finement aromatique |
+| source.excerpts.716.words.4 | dimanche des Rameaux |
+| source.excerpts.717.@id | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/ffea1a25-abe6-5575-aadc-5c60c4fc9f6b |
+| source.excerpts.717.value | Le genre Magnolia , le genre Liriodendron ( Tulipier ) , cl plusieurs genres voisins , comprennent des arbres qui réunissent lous les genres de beauté : port noble , feuillage élégant ; grandes et magnifiques fleurs blanches ou rosées du parfum le plus agréable , ensemble de qualités rares chez les grands arbres ( qui généralement compensent , surtout par le nombre , ce qui manque à leurs fleurs en éclat et en dimensions ) .Les fruits de plusieurs espèces sont aromatiques ; citons les capsules de forme étoilée de la Badiane ( Illicium anisatum ) , qui rappellent à la fois le parfum et la saveur du fenouil et du girolle .Les Magnolia ( fig . |
+| source.excerpts.717.words.0 | parfum |
+| source.excerpts.717.words.1 | aromatiques |
+| source.excerpts.717.words.2 | fenouil |
+| source.excerpts.717.words.3 | fruits de plusieurs espèces |
+| source.excerpts.717.words.4 | saveur |
+| source.excerpts.717.words.5 | capsules |
+| source.excerpts.717.words.6 | girolle |
+| source.excerpts.717.words.7 | Badiane |
+| source.excerpts.717.words.8 | Illicium |
+| source.author.0.@id | http://data.odeuropa.eu/actor/66a4b841-71f8-5807-8a88-c54dedf9e3c7 |
+| source.author.0.label | Ernest  Germain de Saint-Pierre |
+| source.label | Nouveau dictionnaire de botanique,... par E. Germain de Saint-Pierre,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k6142737m |
+| source.date | 1870 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/78c87a1c-9032-5273-97e0-968dd7fce3a2 |
+| time.0.label | 1870 |
+| time.0.begin | 1870 |
+| time.0.end | 1870 |
+| place.0.@id | https://sws.geonames.org/3380091/ |
+| place.0.label | Venise |
+| place.1.@id | https://sws.geonames.org/361058/ |
+| place.1.label | Alexandria |
+| place.2.@id | http://data.odeuropa.eu/place/b557b73d-e7a4-5bbc-a720-25c7ddd63f1b |
+| place.2.label | mer Indique et Arabique |
+| relevantExcerpt | http://data.odeuropa.eu/source/b64667fe-cf47-5e61-b702-b505e1ecdd78/fragment/75fa54b3-d8a6-531b-85c6-65a044b30064 |
+| license | Public domain |
+| adjective.0 | bonne |
+| adjective.1 | mal |

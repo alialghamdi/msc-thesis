@@ -1,0 +1,1322 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/2bc05cdc-34ef-501b-a392-e5a4a74c14ef",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "miasmes",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/04fd8eab-d196-5d02-9c49-8aef00feed2e",
+        "value": "Par ce moyen , toutes les émanations malsaines qui doivent nécessairement s ' élever dans les bâtimens , seront à l ' instant neutralisées , et ne compromettront plus la santé de l ' équipage , qui se trouvera ainsi garanti des maladies typhodes , auxquelles il se trouve si souvent exposé , puisqu ' elles nais - sent toujours dans les lieux peu aérés , et où sont réunis plusieurs individus .La commission a de même proposé de soumettre à l ' action d ' un bain chloruré toutes les personnes faisant partie de l ' équipage d ' un bâtiment contagié , ou avec patente brute , et , pour que la tète et le visage n ' échappent pas à son action , on les fera laver avec une éponge .Ce bain devra être prescrit après le débarquement des marchandises qui auront déjà subi l ' action du préservatif , et renouvelé avant la sortie de quarantaine .",
+        "words": [
+          "bain",
+          "chloruré"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/05325faf-47e9-5d12-b774-b43f5c69be66",
+        "value": "Ces crevasses dégénèrent en des ulcères fongueux et sanguinolens .On observe quelquefois dans ce période , mais très - rarement , des fièvres putrides colliquatives , accompagnées presque toujours de pétéchies , de sueurs fétides et autres symptômes de la même nature , ou plutôt les malades succombent à des évacuations copieuses d ' un sang corrompu , soit par les urines et les selles , soit par les poumons , le nez , l ' estomac , les veines hémorroïdales , ou par d ' autres parties .Il arrive plus souvent que les visr cères abdominaux sont obstrués et corrompus , ce qui produit la jaunisse , l ' hydropisie , l ' affection hypocondriaque , ou la mélancolie la plus décidée , et un entier abattement d ' esprit et de courage avec de cruels roidissemens de nerfs .",
+        "words": [
+          "putrides",
+          "fétides",
+          "sueurs",
+          "fièvres",
+          "quelquefois dans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/0630a30c-ea9e-5ec6-a334-e1e33a030b05",
+        "value": "Dans tous mes essais concernant ce sujet , je n ' ai fait que mêler cette poudre avec l ' eau en secouant le mélange pendant quelques minutes .La quantité nécessaire de la poudre de charbon dépend de la plus ou moins grande quantité des parties putrides que l ' eau recèle .En employant la juste dose de cette poudre , l ' odeur putride est presque entièrement enlevée après le mélange .",
+        "words": [
+          "putrides",
+          "eau",
+          "parties",
+          "poudre de charbon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/064d4e6b-0fef-5f00-b1f1-def09409ea15",
+        "value": "L ' histoire naturelle nous apprend que plusieurs autres animaux confient de même à l ' astre du jour le soin bienfaisant de faire éclore des œufs leurs semblables .Or , si l ' eau contient , dans son état naturel , une quantité considérable d ' insectes qui échappent à la vue , la corruption de ces corpuscules putrescibles doit nécessairement produire tous les gaz délétères qui manifestent sa putridité .En nous résumant , nous dirons , avec vérité , qu ' indépendamment du bienfait signalé que les caisses en fer rendent aux navigateurs , sous le rapport de la santé , en conservant l ' eau potable dans toute sa salubrité , elles servent en même tems de lest au vaisseau sur lequel elles sont embarquées , et y ménagent , par leur forme , l ' espace plus que tout autre récipient .",
+        "words": [
+          "délétères",
+          "putridité",
+          "eau",
+          "corpuscules putrescibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/073a1409-4516-5e94-a9ac-0d74baa0f87d",
+        "value": "Il n ' y eut pas un homme qui pût survivre à ce genre de service : ils tombaient tous malades étant débarqués ou lorsqu ' ils revenaient à bord ; de sorte que les officiers se virent forcés de s ' adresser aux naturels .Le moyen le plus sûr de se préserver des malignes influences d ' un brouillard putride ou des exhalaisons marécageuses , est de se renfermer dans un lieu clos , abrité et couvert , tel que les parties les plus basses d ' un vaisseau , ou une maison qui n ' a point d ' ouverture en face des étangs , en entretenant du feu , soit dans les chambres , soit sous les portes et fenêtres , comme cela se pratique dans quelques pays insalubres pendant la saison pluvieuse , ou lorsque l ' atmosphère - est chargée de brouillards .A bord des vaisseaux le feu doit s ' allumer aux entre - ponts .",
+        "words": [
+          "atmosphère",
+          "exhalaisons",
+          "putride",
+          "marécageuses",
+          "brouillard",
+          "pendant la saison pluvieuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/0d9a47cb-6be4-5ff8-a50a-e1375ba0dacc",
+        "value": "Ces eaux sont dangereuses , non - seulement pour les hommes , mais encore pour les animaux .C ' est en effet dans les endroits marécageux qu ' on voit fréquemment régner les maladies épizootiques des bestiaux ; malheur qui arrive surtout lorsque les mares , après avoir été long - tems à sec , viennent à se remplir d ' eau , parce que toutes les circonstances , pendant la sécheresse , avaient concouru pour la destruction des insectes et la fermentation des matières putrides .L ' eau délaie toutes ces substances et devient par là très - malfaisante .",
+        "words": [
+          "putrides",
+          "long - tems"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/0ff32ef5-ff75-5b15-b66d-0d97bfc8b431",
+        "value": "D ' autres fois le pouls est contracté , précipité et irrégulier ; cependant sa fréquence ne répond point en général à la violence des symptômes spasdomiques .Les glandes salivaires fournissent un suc écumeux et blanchâtre d ' une odeur nauséabonde qui coule involontairement de la bouche .Dans le tétanos rabique , il y a , de plus , altération des principes de la salive ; son inoculation communique la maladie ; il paraît même qu ' elle en est le moyen unique : j ' ignore si les chimistes en ont fait l ' analyse .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "glandes salivaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/0fff9bbd-59ca-50f8-a519-3481d75b7cdd",
+        "value": "Dans les pays situés aux environs de la zone torride , les rayons du soleil agissent sur nous ou sur l ' air avec tant de violence , que si l ' on ne baignait d ' eau froide ceux qui y passent , ils courraient le risque de périr .C ' est peut - être à cette précaution que l ' on doit l ' usage de plonger dans l ' eau fraîche les suffoqués et les personnes qui ont eu le malheur d ' être surprises par quelques vapeurs méphitiques .Voilà pourquoi le célèbre VanSviéten , dans ses commentaires sur les Aphorismes de Boërhaave , propose l ' eau froide pour les suffoqués par la vapeur du charbon .",
+        "words": [
+          "méphitiques",
+          "vapeurs méphitiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/1089926b-9368-5c43-8f7b-974ffac20c97",
+        "value": "La chaleur augmentant toujours , la maladie se propagea bientôt chez toutes les classes de la société ; les Européens ne tardèrent pas à en ressentir les funestes effets , et tous les jours , depuis le matin jusqu ' au soir , les bûchers étaient allumés sur les rives du Gange pour consumer les corps des nombreuses victimes moissonnées par ce terrible fléau .Ceux à qui leur peu de fortune ne permettait pas de se faire brûler , jetés dans le fleuve sans sépulture , venaient souvent s ' arrêter sur les câbles qui servaient d ' amarre aux vaisseaux , et c ' était alors qu ' il m ' était possible de juger du nombre de Bengalys qui périssaient chaque jour , et ce grand nombre de cadavres ne contribuait pas peu à propager les miasmes putrides .Les naturels éloignés de Calcutta , ceux qui habitaient sur la rive opposée , furent bien moins sujets à la maladie , et le nombre des morts fut beaucoup moins considérable parmi eux .",
+        "words": [
+          "putrides",
+          "miasmes putrides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/11fe2b70-7f0d-5a40-8309-87409adba08c",
+        "value": "Symptômes qui persistent , avec la même intensité , jusqu ' à la mort des malades , malgré l ' emploi des médicamens qui , dans toutes les autres cures , avaient complètement réussi .1 ° Douleur très - vive à l ' épigastre , vomissemens et selles de matière noirâtre d ' une odeur insupportable et sans interruption ; hoquet continuel depuis l ' invasion de la maladie ; extrémités glacées ; mort en quatre heures de tems .2 ° Fortes douleurs céphaliques , soif des plus ardentes , frissons presque continuels , vomissemens et selles abondans sans intervalle depuis deux heures , muscles de la face con - tractés , prostration totale des forces , pouls accéléré , petit , irrégulier , extrémités froides , convulsions sur tout le corps , apparition de taches violettes de la largeur d ' une pièce de vingt sous ; mort très - prompte .",
+        "words": [
+          "odeur",
+          "insupportable",
+          "selles",
+          "vomissemens",
+          "très - vive",
+          "matière noirâtre",
+          "quatre heures de tems"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/13d84438-5709-5a57-b469-3ccee0f60f0a",
+        "value": "Lesueur , Genty et Labarraque , se rendirent au cimetière du Père Lachaise pour y faire l ' examen du corps du nommé B * * * , mort depuis un mois .A sept heures et demie du matin , on procède à l ' exhumation du cadavre : il exhale une odeur infecte .Il reste jusqu ' à dix heures et demie sur la terre , et hors de son cercueil , les personnes qui devaient en constater l ' identité n ' étant pas encore arrivées .",
+        "words": [
+          "infecte",
+          "odeur",
+          "il",
+          "A sept heures et demie du matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/157816b5-5a49-5435-83f3-4a09f271e109",
+        "value": "Dans cet état , elles sont désagréables au goût et deviennent nuisibles à la santé , surtout si l ' usage est continu .Pour obvier à cet inconvénient d ' une manière bien plus efficace que par l ' emploi de la saumure , pourquoi ne pas saupoudrer de charbon réduit en poussière la surface de chaque pièce de viande a près la salaison , puisque il est reconnu que ce combustible est éminemment propre à retarder la corruption dans toutes les matières putrescibles , et à désinfecter même celles qui manifestent sensiblement leur putridité ? Nous proposons , sans avoir la moindre incertitude sur le succès , la poudre de charbon , plutôt que de laisser tremper dans l ' eau , pendant quelque tems , la viande salée , lorsque elle commence à sentir mauvais , en la suspendant dans un filet traînant après le vaisseau .Cet expédient , assez généralement suivi par les marins , n ' est rien moins qu ' avantageux , car l ' eau dans laquelle cette viande reste suspendue emporte toutes les parties nourricières .",
+        "words": [
+          "putridité",
+          "sentir",
+          "pendant quelque",
+          "matières putrescibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/19a4a2ad-e7e5-5e2e-8fd8-b53054a2ce17",
+        "value": "Conclusion .Le scorbut proprement dit est donc une maladie chronique et putride , mais dont la putridité , qui en ' fait le caractère essentiel , nous démontre que les humeurs du corps humain sont sujettes à deux espèces de putréfaction bien marquées .On peut s ' en assurer par leurs différens effets .",
+        "words": [
+          "putride",
+          "putridité",
+          "chronique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/1c484b66-df6e-53ad-a9c9-11c56e165356",
+        "value": "3 ° Quand on y est entouré d ' essaims de mouches , cousins et insectes qui se plaisent dans l ' air stagnant et les lieux infects couverts de bois .La multiplication des insectes est un signe non équivoque de la constitution putride de l ' air .La plupart des maladies pestilentielles qui règnent dans les étés les plus chauds , sont annoncées par là .",
+        "words": [
+          "air",
+          "putride"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/1c4b32cd-0e10-50a4-b959-664eb692918a",
+        "value": "Les vapeurs et l ' odeur qui s ' en exhalent , quoique elles ne les incommodent point , seraient insupportables à tout autre que la curiosité pourrait y amener .Si l ' on considère maintenant que les exhalaisons de tant de personnes doivent s ' attacher à tout ce qui est dans la chambre , surtout aux peaux de moutons ou matelas sur lesquels ils couchent , à la mousse qui calfeutre les murs ; si l ' on fait attention que la chambre n ' est jamais aérée pendant l ' espace de six mois de l ' année au moins , et que leur nourriture consiste en viandes et en poissons salés , sans végétaux frais pendant tout ce tems ; ajoutez à cela qu ' ils sont exposés , toutes les fois qu ' ils sortent , aux rigueurs d ' une atmosphère froide , qui , comme l ' on sait , ne contribue pas peu à donner le scorbut ; si l ' on pèse bien , dis - je , toutes ces circonstances , et s ' il est bien vrai que , malgré toutes ces causes prédisposantes , il n ' y a point parmi eux de maladies putrides , j ' aurai été fondé à dire que la nature leur a enseigné , pour s ' en garantir , un régime des plus antiseptiques dont je tâcherai de donner ici une description détaillée , dans l ' espérance qu ' elle pourra être utile au genre humain .Ceux qui ont prescrit avec tant de succès le nouveau régime pour la marine anglaise , verront sans doute avec plaisir le suffrage de tant de milliers de personnes concourir à prouver qu ' ils ont trouvé le secret dont la nature elle - même se sert dans les climats froids pour préserver les enfans de cette maladie , qui a été si long - tems le fléau du plus bel établissement naval que le monde ait jamais vu .",
+        "words": [
+          "putrides",
+          "exhalaisons",
+          "chambre",
+          "tant de personnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/1eaefbff-c773-5910-81be-43efbf704a06",
+        "value": "Lowitz sur les propriétés de ce combustible .Il reconnut en effet le premier , que non - seulement le charbon était le décolorateur de plusieurs substances , mais qu ' il jouissait aussi de la propriété de leur enlever l ' odeur .« Pour ce qui regarde l ' eau , il me vint dans l ' idée , dit - il , d ' employer le charbon pour améliorer l ' eau putréfiée .",
+        "words": [
+          "charbon",
+          "odeur",
+          "plusieurs substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/1f7e10cf-f4d5-5104-a5a4-869cf556bc8b",
+        "value": "Respirer un air pur , chaud et sec , faire usage d ' une nourriture facile à digérer et composée principalement d ' un mélange convenable de substances animales et végétales ; éviter les pays humides , marécageux ou exposés à des grandes pluies et des brouillards ; habiter les appartemens les plus élevés du sol , et y entretenir , pendant l ' hiver et les tems pluvieux , des feux continuels ; manger à ses repas , et surtout à jeun , des fruits de la saison , en donnant la préférence aux oranges ; boire de tems à autre de la limonade adoucie avec le sucre , joindre à ces précautions des vètemens de laine , la plus grande propreté , un exercice journalier modéré , et , le plus souvent possible , quelques amusemens agréables propres à dissiper l ' enfui et la tristesse .Puisqu ' il paraît démontré que le scorbut est une maladie contagieuse , il faut se garder de coucher avec des personnes atteintes ou menacées de cette maladie , de recevoir les exhalaisons fétides qui émanent de leur bouche , ainsi que de manger et de boire après elles dans les mêmes vases .N ° II .",
+        "words": [
+          "bouche",
+          "exhalaisons",
+          "contagieuse",
+          "fétides",
+          "scorbut"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2025329d-fdb4-5eae-8176-29c1185d789d",
+        "value": "Alors le corps est transporté dans un endroit vaste et bien aéré , pour qu ' on puisse en faire l ' examen aussi commodément et aussi salubremcnl que possible .L ' odeur est devenue plus insupportable encore , et le cadavre s ' est gonflé d ' une manière trèsmanifeste depuis l ' exhumation .Il est donc important , dans un cas semblable , d ' en faire l ' examen promptement .",
+        "words": [
+          "odeur",
+          "cadavre",
+          "plus insupportable encore",
+          "trèsmanifeste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/209ad676-9505-579f-979a-8da1709af2cf",
+        "value": "Le petit - lait est cependant préférable , à cause de sa vertu plus diurétique et plus purifiante .Il sera très - avantageux d ' y ajouter le sel polychreste : c ' est un doux purgatif et un excellent diurétique .Lorsqu ' on prend le sel à petites doses , dans une suffisante quantité de véhicule , il évacue copieusement par la transpiration ou par les urines , suivant qu ' on dirige son action vers la peau ou vers les reins , par l ' exercice ou par la chaleur du lit , en tenant le corps plus chaudement ou plus froidement .",
+        "words": [
+          "sel",
+          "diurétique",
+          "purgatif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/231af799-3555-57bc-b16a-0499c89229e1",
+        "value": "DIAGNOSTIQUE .Les symptômes du scorbut traité à la maison des Enfans - Trouvés de Moscou , étaient les suivans : gonflement des gencives , puanteur de la bouche , grande lassitude et abattement , cachexie , couleur plombée , accroissement graduel du gonflement des gencives , devenues d ' une couleur livide , pustules en différens endroits de la bouche , qui passaient à l ' état de gangrène , os des mâchoires cariés , chute des dents , os des alvéoles tombani par morceaux , extrême difficulté à se remuer , plusieurs membres , et surtout les jambes , retirés , roides , et souvent recouverts de taches et de croûtes comme des écailles .Dans quelques malades , les tendons fléchisseurs des jambes se raccourcissaient et se roidissaient de façon qu ' ils étaient obligés de rester continuellement couchés , ayant les pieds près des cuisses , sans fièvre .",
+        "words": [
+          "puanteur",
+          "bouche",
+          "maison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/232c00b9-3244-5929-a283-f20ee2b7b74e",
+        "value": "Guy - ton - Morve ^ u .Guidé par un esprit d ' analyse et d ' observation , ce chimiste saisit l ' occasion que lui présentait l ' infection de la cathédrale de Dijon , pour faire un heureux emploi des vapeurs du gaz acide muriatique , dont il soupçonnait la tendance particulière à se combiner avec les miasmes putrides répandus dans l ' atmosphère .Des vapeurs de gaz acide muriatique , obtenues d ' après le procédé de l ' auteur , et mises en expansion dans cet endroit , ayant complètement fait disparaître l ' influence nuisible de l ' air infecté , cette expérience , .",
+        "words": [
+          "putrides",
+          "atmosphère",
+          "miasmes",
+          "gaz acide muriatique",
+          "cathédrale de Dijon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/24969fd6-9d03-511e-966a-f77e384db519",
+        "value": "La commission , persuadée que nulle considération ne peut être dans le cas d ' empêcher l ' emploi de ce moyen désinfectant , puisqu ' il n ' est nullement incommode , très - économique , plus suret plus actif que les fumigations , a décidé que l ' intendance sanitaire serait invitée à transmettre à son excellence le ministre de la marine le vœu émis par la commission , pour remplacer , à bord des bâtimens de guerre et de commerce qui sont en mer , les fumigations guyttoniennes par l ' évaporation permanente et les arrosages des dissolutions chlorurées .Par ce moyen , toutes les émanations malsaines qui doivent nécessairement s ' élever dans les bâtimens , seront à l ' instant neutralisées , et ne compromettront plus la santé de l ' équipage , qui se trouvera ainsi garanti des maladies typhodes , auxquelles il se trouve si souvent exposé , puisqu ' elles nais - sent toujours dans les lieux peu aérés , et où sont réunis plusieurs individus .La commission a de même proposé de soumettre à l ' action d ' un bain chloruré toutes les personnes faisant partie de l ' équipage d ' un bâtiment contagié , ou avec patente brute , et , pour que la tète et le visage n ' échappent pas à son action , on les fera laver avec une éponge .",
+        "words": [
+          "malsaines",
+          "émanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2b145dda-6dc2-52ca-97e0-739883261f9a",
+        "value": "Voici les faits par lesquels M .Lind démontre combien les émanations de la terre pendant la nuit , dans les régions marécageuses de la zone torride , sont nui - \" sibles à la santé des Européens qui n ' y sont pas acclimatés .En ij66 , seize familles protestantes françaises , composées de soixante personnes , furent envoyées , aux frais du gouvernement anglais , à la Floride occidentale ; on leur assigna un terrain situé sur le coteau d ' une montagne environnée de marais .",
+        "words": [
+          "terre",
+          "émanations",
+          "pendant la nuit",
+          "zone torride"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2c04b7eb-4e01-5021-8e4b-9eb84c3f9805",
+        "value": "» Six livres de belle viande de bœuf ont été soumises , pendant plusieurs jours , par ordre du conseil , à toutes les causes qui pouvaient en déterminer et en favoriser la décomposition , c ' est - à - dire , qu ' abreuvée de ses sucs , elle a été , pendant ce tems , mise en contact avec l ' air atmosphérique , la température étant de vingtun degrés .Après ce délai , la viande était d ' une couleur bleue et verdâtre ; elle renfermait une grande quantité de vers , et exhalait une odeur fétide , nauséabonde , en un mot , une puanteur si insupportable , qu ' on fut obligé de parfumer l ' appartement où elle était déposée .Telle le conseil la désirait pour se bien convaincre de la toute puissance du moyen de désinfection qu ' il se proposait d ' éprouver , et que voici : on commença par laver cette viande dans l ' eau bouillante pour en détacher les vers et la moisissure qui la recouvrait .",
+        "words": [
+          "puanteur",
+          "fétide",
+          "parfumer",
+          "odeur",
+          "elle",
+          "nauséabonde",
+          "insupportable",
+          "viande",
+          "appartement",
+          "Après ce délai",
+          "déposée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2c3e9132-0f4d-58e1-b5c1-d6892576a0c5",
+        "value": "On sépare les malades du reste de l ' équipage , on jette les lits et les habits de ceux qui sont morts .Dès qu ' on est arrivé dans un port , on débarque ceux qui sont attaqués de ces maladies , on nettoie ensuite le vaisseau et on le parfume .Mais comme une longue et constante expérience a suffisamment prouvé que le scorbut n ' est point contagieux , on ne prend jamais ces sortes de précautions .",
+        "words": [
+          "parfume",
+          "vaisseau",
+          "port",
+          "Dès"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2cda2259-50f5-5a4d-8703-35a6aea7676a",
+        "value": "Toutes les machines destinées à cet effet sont un léger palliatif contre une aussi grande calamité .Relativement aux exhalaisons de l ' humidité croupie et putrétiée , la poudre de charbon , répandue dans les endroits où les pompes ne pourraient pas être appliquées , en détruira l ' exhalaison malfaisante et en empêchera le passage dans l ' atmosphère , tandis qu ' on obtiendra l ' anéantissement des miasmes morbifères par les moyens chimiques dont nous allons nous occuper .Avant que la chimie eût fait les progrès qui ont illustré le siècle dernier , les divers procédés qu ' on employait pour rendre à l ' air sa naturelle pureté , étaient cependant , malgré leur inefficacité , les seuls qu ' on mettait en usage sur les vaisseaux .",
+        "words": [
+          "malfaisante",
+          "exhalaisons",
+          "miasmes",
+          "exhalaison",
+          "poudre de charbon",
+          "morbifères",
+          "humidité croupie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2d43dc9b-6b2d-5ede-b800-47ab95e64952",
+        "value": "La fièvre tombe , le pouls se régularise , quelquefois assez semblable au pouls naturel ; d ' autres fois il se déprime , devient inégal , petit , serré ; des vomissemens plus ou moins opiniâtres surviennent ; ils entraînent des déjections bilieuses , porracées , noirâtres , ou de couleur de café .Ils se renouvellent lorsque le malade prend quelque boisson , surtout si elle est excitante .La prostration des forces , qui , dans les premiers instans de la maladie , s ' était couverte du voile d ' une irritation très - vive , se démasque et marche à grands pas .",
+        "words": "excitante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/2ff829a1-4eaf-5248-a7f2-853bddc85980",
+        "value": "On connaît avec quelle étonnante rapidité lasiphilis , apportée en Espagne par la flotte de Christophe Colomb , et concentrée d ' abord dans Barcelone , franchit les murs de cette grande ville pour se répandre presque en même tems dans toute l ' Europe civilisée ; ce qui avait fait dire - à Fracastor que , quoique un très - grand nombre d ' individus l ' eussent contractée par contagion , plusieurs cependant s ' en trouvaient attaqués sans cette cause .Peut - il donc paraître étonnant que la fièvre jaune soit plus meurtrière sur le continent européen que dans le lieu de son origine ? Un climat nouveau , des organisations nouvelles , des miasmes d ' outre - mer qui , introduits dans un vaisseau , peuvent s ' y combiner avec d ' autres miasmes délétères tenant à une infection locale , ne sont - ils pas tout autant de circonstance qui , sans changer la nature du typhus d ' Amérique , peuvent lui donner néanmoins un caractère pestilentiel ? Sans cette dégénérescence , aurait - elle pu immoler un si grand nombre de victimes dans la péninsule espagnole ? Son apparition successive à Gibraltar , à Livourne et à Marseille , où certainement elle s ' y est annoncée avec des symptômes vraiment contagieux , ne prouve - t - elle pas qu ' à l ' instar des autres contagions qui ont été importées en Europe dans les siècles précédens , elle s ' y est annoncée avec une violence qu ' elle n ' a peut - être pas ordinairement dans les îles , mais seulement lors des grandes épidémies auxquelles donnent toujours lieu la présence et le non acclimatement d ' un grand nombre d ' Européens ? Je ne suis pas éloigné de croire ( continue l ' auteur cité ) qu ' il est dans l ' ordre des choses possibles que , par la suite des tems , cette fièvre puisse s ' adoucir et perdre de sa violence dans nos climats .Ce qui s ' est passé pour le virus extra - européen m ' autorise à conclure , par analogie , que la Providence l ' accordera peut - être à nos neveux comme un bien - fait ; mais , en attendant , que de victimes , que de larmes , quel deuil , si une bonne police sanitaire ne retient pas pour toujours enchaîné le monstre exotique sur le lieu qui le voit périodiquement renaître , comme une nouvelle hydre , après chaque solstice d ' été ! Telle est la réponse à la question énoncée dans le titre de cet article , réponse qui , certainement , ne pourra pas être taxée d ' invraisemblable , de gratuite , d ' extravagante .",
+        "words": [
+          "Gibraltar",
+          "Marseille",
+          "Livourne",
+          "fièvre",
+          "miasmes",
+          "délétères",
+          "pestilentiel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/30742c9b-7f5f-56f3-9702-d4b7c8af6c31",
+        "value": "Lorsqu ' on veut procéder à la désinfection des latrines , baquets à urine et plombs , on verse deux onces de chlorure de chaux sur quatre pintes d ' eau , on agite le tout et on répand la solution sur et ( 1 ) Voyez le Guide sanitaire pour les gOl / ucmemclls curupéens .dans les latrines , baquets à urine et plombs , On réitère l ' opération si l ' odeur n ' est pas promptement détruite .On sent de quelle utilité peut être ce moyen désinfectant , aussi facile et aussi économique , dans les salles de spectacle et dans les maisons particulières .",
+        "words": [
+          "odeur",
+          "urine",
+          "plombs",
+          "détruite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/307d29eb-72b9-576c-a73f-f87e24a4d07b",
+        "value": "Aussi , importe - t - il , avant tout , d ' éviter la mauvaise qualité des salaisons , car les viandes mal salées se gâtent et se détruisent en peu de tems .Cet aliment est alors non - seulement très - nuisible à la santé , mais il devient encore un foyer d ' émanations septiques dans l ' intérieur du vaisseau .Il est donc de toute nécessité de ne rien négliger pour obtenir la parfaite salaison des viandes destinées à la nourriture habituelle des marins .",
+        "words": [
+          "émanations",
+          "septiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/33995c26-b0dd-5458-b268-2ff6e393bde5",
+        "value": "La chèvre est de tous les animaux celui qui fournit le meilleur petit - lait et le plus antiscorbutique ; il contient un baume végétal très - restaurant et très - précieux , lequel adoucit et corrige l ' acrimonie scorbutique d ' une manière particulière .Les sucs antiscorbutiques des pharmacopées d ' Edimbourg et de Londres sont des remèdes trèsbons dans la saison .Les parties acres et volatiles des plantes les plus échauffantes y sont tempérées par une quantité convenable de suc d ' orange de Séville .",
+        "words": [
+          "Londres",
+          "sucs",
+          "Edimbourg"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/34c305ea-6e99-541e-b784-ca5fe6cf76f4",
+        "value": "S ' il est impossible de nier que l ' air d ' une prison , d ' une salle d ' hôpital ou d ' une chambre particulière ne puisse devenir un foyer perma - ( 1 ) Voyez le Guide sanitaire des Gouvernemens européens , ouvrage remarquable , cité ci - dessus .nent d ' infection , lorsqu ' il règne des fièvres de mauvais caractère , à plus forte raison , l ' air d ' un navire et ses parois , lorsqu ' il y aura eu à bord des malades suspects , ou qu ' ils auront été exposés pendant plusieurs mois à l ' atmosphère pestilentielle des Antilles .L ' expérience de ces derniers tems nous apprend que le plus grand nombre des épidémies de fièvre jaune , qui ont ravagé l ' Espagne , n ' ont eu d ' autre origine que la communication avec les vaisseaux infectés de la contagion .",
+        "words": [
+          "air",
+          "atmosphère",
+          "pestilentielle",
+          "parois",
+          "navire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/3628497b-73b0-52fd-be99-87bfaa7a1941",
+        "value": "Hippocrate décrit , sous le nom de tumeurs de la rate et d ' estomac , divers symptômes qui appartiennent évidemment à notre scorbut , et Pline , le naturaliste , nous dit que l ' armée romaine , commandée par César Germanicus , qui était campée en Allemagne , au delà du Rhin , assez près des côtes de la mer , fut prise , au bout de deux ans , d ' une maladie que les inéde - cins appelaient stomacace et scélotyrbe , qui consistait dans la chute des dents et dans l ' articulation du genou roide et paralytique , laquelle fut guérie par l ' usage de l ' herba britannica qu ' on a su ensuite être le cochléaria .Les symptômes qui caractérisent le scorbut sont : la pesanteur du corps , la lassitude spontanée , le changement de couleur du visage , la démangeaison , la douleur des gencives , leur gonflement spongieux , leur facilité à saigner , la vacillation des dents et l ' haleine puante , l ' enflure des jambes , les taches plombées , pourprées ou livides à ces parties du corps et autres , et la roideur du jarret , ordinairement sans fièvre et avec l ' intégrité permanente des facultés intellectuelles .Le commencement du scorbut s ' annonce le plus généralement par ces symptômes , mais il se décèle aussi très - souvent par un simple symptôme local , par l ' affection des gencives sans aucun symptôme général ; c ' est ce que j ' ai observé et décrit dans un Mémoire , imprimé à Embrun à l ' occasion d ' une affection scorbutique de la bouche , épidémique dans l ' armée des Alpes , dont j ' ai traité sept à huit cents malades .",
+        "words": [
+          "puante",
+          "haleine puante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/39e86bbc-4ab8-5009-a7be-b2018b6fd376",
+        "value": "Un jeune novice , paysan des environs , me fut présenté par le chef de cette maison , ayant les jambes engorgées , le visage blème et gonflé , les glandes maxillaires .dures et tuméfiées , les gencives saignantes et affectées de plusieurs ulcères qui répandaient une fort mauvaise odeur .Son supérieur m ' apprit que , six mois auparavant , époque de son entrée , ce jeune homme était très - fort , et qu ' il était tombé insensiblement dans l ' indolence et l ' état où je le voyais .",
+        "words": [
+          "odeur",
+          "fort mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/3b4be5b3-36c4-5aab-820c-4bf9dd4b490d",
+        "value": "Bertholet présenta , en i8o3 , à l ' Institut national , deux tonneaux remplis , depuis quatre mois , d ' une même eau .Un des deux avait été charbonné dans l ' intérieur , et l ' eau s ' y était conservée claire et inodore , tandis que , dans l ' autre , sa couleur , son odeur et son goût , indiquaient manifestement la putridité qu ' elle avait éprouvée .Un voyageur russe , l ' amiral Krusenestern , a constaté depuis , dans une traversée de long cours , la vérité du fait annoncé par le chimiste français .",
+        "words": [
+          "odeur",
+          "putridité",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/3fcf9a85-67a3-51f4-89a7-33501c648e66",
+        "value": "Symptômes généraux .Pesanteur du corps , lassitude spontanée , changement de couleur du visage , démangeaison , rougeur , douleur aux gencives , leur gonflement spongieux , leur facilité à saigner , vacillation des dents , haleine puante , enflure des jambes , taches plombées , pourprées ou livides à ces parties du corps et autres , roideur du jarret , ordinairement sans fièvre et avec l ' intégrité permanente des facultés intellectuelles .Cas particuliers .",
+        "words": [
+          "puante",
+          "haleine",
+          "Pesanteur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4189b0e3-9dfa-5693-a58f-3a321aa9ec5f",
+        "value": "Cette eau , pendant la nuit , humecte l ' air et absorbe le gaz acide carbonique , qui serait très - nuisible .Le fait suivant prouve combien l ' eau , réduite en vapeur , est efficace pour purifier l ' air des émanations malfaisantes du charbon .Un artisan peu fortuné fut trouvé dans son lit sans connaissance .",
+        "words": [
+          "air",
+          "émanations",
+          "malfaisantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/426ddc49-2c04-58ab-89ba-39a00f7d1bbc",
+        "value": "Les symptômes ordinaires du scorbut , chez ces enfans , étaient le gonflement des gencives , la puanteur de la bouche , une grande lassitude et abattement ; ils devenaient cachexiques , et d ' une couleur plombée .Peu à peu , le gonflement des gencives augmentait , elles prenaient une couleur livide ; il se formait des pustules à la bouche ; l ' haleine répandait une infection horrible ; les gencives et tout l ' intérieur de la bouche se gangrenaient ; les os des mâchoires se cariaient ; la chute des dents suivait , et les os des alvéoles tombaient par morceaux .Les malades pouvaient à peine se remuer , quoique toujours sans fièvre ; l ' appétit ne leur manquait pas .",
+        "words": [
+          "horrible",
+          "infection"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4444d461-d58c-51cf-8e93-7f2d1a93e927",
+        "value": "Entre autres particularités que nous avons apprises par la lecture d ' une Notice sur un voyage en Groënlande , d ' après un séjour de sept ans entre le soixantième et le soixante - dix - septième degrés de latitude boréale , de M .Giescke , actuellement professeur de minéralogie à Dublin , datée de Copenhague , 8 décembre 1817 , nous avons remarqué que , dans ces hautes latitudes où le thermomètre français descend en hiver jusques à trente - trois degrés , les habitans passent toute la mauvaise saison dans des huttes , dont l ' intérieur , qui n ' a guère plus de quinze pieds en carré , sert souvent de demeure à une vingtaine d ' individus qui y couchent pèle - mèle ; que les ouvertures de ces huttes qui tiennent lieu de fenêtres sont fermées de boyaux de chiens marins en guise de verre ; qu ' on n ' y pénètre que par un couloir long et étroit , dans lequel un homme peut à peine se glisser courbé ; qu ' à l ' entrée , et tout autour , on entasse les débris de chiens de mer et toutes les ordures imaginables , pour réchauffer l ' air par la fermentation ; qu ' ils se nourrissent unique - ment de cette chair qu ' ils font bouillir dans des pots suspendus sur des lampes , où ils brûlent la graisse de cet animal , ce qui leur sert à la fois de foyer et de lumière , et ce qui produit dans ces tanières une chaleur étouffante , avec une odeur qui révolte ; que cette peuplade est souvent exposée à la faim , faute de prévoyance ; que ces hommes passent leurs longues nuits dans une torpeur irrégulière , dans laquelle ils se réveillent , mangent et se rendorment sans intervalle réglé , et sans mesure de tems , employant celui où ils sont éveillés à des contes de revenans .Cette peuplade n ' a pas cependant des maladies scorbutiques ; elle est sujette uniquement à de maladies cutanées , qui deviennent mortelles dans ces climats .",
+        "words": [
+          "odeur",
+          "étouffante",
+          "8 décembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/45705e94-d2a9-55b1-ac1b-43b6135088fe",
+        "value": "Cet habile chimiste , recommandable par sa probité , sa philanthropie et ses talens , n ' a épargné ni soins , ni peines , ni dépenses , pour atteindre le but qu ' il s ' était proposé .On peut même dire qu ' il a eu le courage d ' exposer plusieurs fois sa vie aux dangereux effets occasionés par l ' inspiration des miasmes putrides et le maniement des matières les plus infectes .Expériences qui prouvent l ' étonnante action de la liqueur chlorurée désinfectante de Labarraque sur les substances animales passées au dernier degré de putréfaction .",
+        "words": [
+          "putrides",
+          "matières",
+          "miasmes putrides",
+          "plusieurs fois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/46b105c8-0c13-54c1-9739-6b0f34ddb62f",
+        "value": "Ils sentent bientôt après des démangeaisons dans les gencives ; elles se tuméfient et saignent pour peu qu ' on les frotte .L ' haleine est toujours puante , les gencives sont d ' une rougeur livide , molles , spongieuses , et deviennent ensuite extrêmement putrides et fongueuses .A ces signes pathognomoniques de la maladie se joignent non - seulement le saignement presque continuel des gencives , mais encore les hémorragies de plusieurs autres parties .",
+        "words": [
+          "puante",
+          "putrides",
+          "gencives",
+          "fongueuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/487175fb-f673-542b-b196-0924c691195d",
+        "value": "THÉRAPEUTIQUE .Le premier objet dont le médecin doit s ' occuper en commençant le traitement du tétanos , c ' est de placer le malade sur un lit mou et chaud , dans un lieu éclairé par une douce lumière , à l ' abri de tout bruit et de toute odeur forte pour que rien n ' excite la sensibilité .Loto lucido mediocriter , nullo odore infecto , selon Cœlius - Aurelianus .",
+        "words": [
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4b53c2a0-83ab-57b5-85fd-c2f94bc84123",
+        "value": "Les gens de l ' équipage en mangèrent tant qu ' ils voulurent ; ils en mêlaient le suc avec leur bière .Leur amusement ordinaire était de se jeter entre eux l ' écorce de ces fruits , de sorte que le tillac en était continuellement couvert , et arrosé de leur liqueur aromatique : cette méthode réussit si heureusement qu ' il ramena ses matelots au port en parfaite santé .» M .",
+        "words": [
+          "aromatique",
+          "fruits",
+          "liqueur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4c155d04-4076-5777-a1c7-0cabd4a2c470",
+        "value": "QUATORZIÈME OBSERVATION .Le nommé Prennechant , travaillant dans les chantiers de sir Smith , devant lesquels nous étions mouillés , me fut amené vers les deux heures de l ' après - midi dans l ' état suivant : douleur très - forte à l ' épigastre , vomissemens d ' une matière noirâtre , selles de même nature , dont l ' odeur était telle qu ' il était impossible de la supporter ; le hoquet n ' avait pas cessé depuis l ' invasion de la maladie ; les extrémités étaient glacées .J ' administrai le tiers d ' une potion faite avec soixante gouttes de laudanum ; mais tous mes soins furent inutiles : le malade succomba quatre heures après son arrivée à bord , pendant lesquelles il eut trente - deux vomissemens et dix - huit selles , sans compter qu ' il y avait plus d ' une heure qu ' il vomissait à l ' époque où il me fut amené .",
+        "words": [
+          "odeur",
+          "très - forte",
+          "Prennechant",
+          "vers les deux heures de l ' après - midi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4ce4e709-ab75-583a-a6d3-dbca985c7adf",
+        "value": "Pour corriger l ' eau corrompue , on a proposé la ventilation , et on l ' a pratiquée pendant long - tems .L ' eau , ainsi traitée , ne perd pas cependant , malgré la volatilisation d ' une partie de ses molécules infectes , ni son odeur fétide , ni son mauvais goût .Il en a été de même de plusieurs substances employées comme anti - septiques , telles que la chaux vive , par Forster , l ' alun , par Lind , le nitrate d ' argent , par Hahnemann , la terre argileuse , par Beckman , professeur à Gottingen .",
+        "words": [
+          "fétide",
+          "infectes",
+          "mauvais",
+          "odeur",
+          "son",
+          "eau",
+          "ses molécules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4d8d6d74-83b7-5f17-a052-491c85927699",
+        "value": "Ainsi , en ajoutant ce petit nombre d ' observations à la masse des faits que Lind a recueillis , il ne peut rester a , ucun doute que les végétaux frais , surtout ceux qui contiennent un acide , ne soient des remèdes non - seulement excellens , mais encore très - prompts contre la maladie que nous appelons scorbut , ce que je ne puis pas dire des acides minéraux employés à la place des premiers sous forme de limonade , lesquels m ' ont paru être absolument sans effet ; aussi , ai - je été bien surpris de voir de graves auteurs en faire un grand éloge et affirmer que l ' élixir de vitriol de Myasicht , ou de vitriol acide d ' Haller , peut sup - pléer aux acides végétaux pour la guérison de Ja maladie , assertion que je trouve encore répétée par le professeur Franck , ce qu ' il n ' a pu faire d ' après son expérience .Certains sujets doués naturellement de peu d ' énergie vitale , tels que les tempéramens lymphatiques et même fibrineux ou musculeux , ont besoin , outre des végétaux subacides , d ' un certain degré d ' excitation produite par les plantes acres , amères et aromatiques , telles que les oignons , la scille surtout , la moutarde , le raifort sauvage , la roquette , le cochléaria , le cresson des fontaines , le bcecabunga , l ' absinthe , les racines d ' impératoire , de calamus aromaticus , etc .Ces plantes s ' administrent en infusions aqueuses , en conserves , en sirop ( ce dernier , préparé d ' après la pharmacopée de Beaumé , préparation supérieure en vertu à celle de nos pharmacopées actuelles ) , en infusions vineuses , dernière forme la plus active de toutes , mais aussi la plus stimulante .",
+        "words": [
+          "racines",
+          "plantes",
+          "aromatiques",
+          "amères",
+          "végétaux",
+          "raifort",
+          "calamus",
+          "aromaticus",
+          "cresson des fontaines",
+          "Certains sujets",
+          "tempéramens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/4eb36c30-b682-57a5-b8e2-bf68f04c78d2",
+        "value": "Il est bon d ' avertir que l ' autre génisse , tenue éloignée , ne fit jamais apercevoir la moindre disposition à contracter la maladie dont il s ' agit .De quelle autre preuve aura - t - on besoin maintenant pour démontrer l ' effet salutaire des fumigations muriatiques sur les miasmes malfaisans qui sont la cause de l ' épizootie , de la peste et de toute autre contagion ? On a donc pratiqué jusques à présent , et avec un avantage réel , ces fumigations sur les vaisseaux , ayant reconnu qu ' elles seules pouvaient mettre la santé des marins à l ' abri des maux occasionés par l ' inspiration et par le contact d ' un air vicié et délétère ; d ' autant plus que la manière de procéder , pour obtenir le gaz bienfaisant dont elles portent le nom , ' ne saurait être ni plus prompte ni plus facile .On a un petit fourneau portatif allumé , sur lequel on place une couche de sable , et , sur cette couche , une capsule de verre ou de grès .",
+        "words": [
+          "fumigations",
+          "air",
+          "gaz",
+          "miasmes",
+          "délétère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/570fcfc7-f3ec-5342-bc6c-7237fa88de29",
+        "value": "La quantité nécessaire de la poudre de charbon dépend de la plus ou moins grande quantité des parties putrides que l ' eau recèle .En employant la juste dose de cette poudre , l ' odeur putride est presque entièrement enlevée après le mélange .La séparation de la poudre de charbon de l ' eau ne présente presque aucune difficulté , et l ' exécution en sera tout aussi facile , même en grand .",
+        "words": [
+          "odeur",
+          "poudre",
+          "putride",
+          "enlevée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/5aff56b0-d79a-5ab7-8605-b72e26fea81d",
+        "value": "Le malade est menacé de perdre l ' usage de ces parties .Gencivesextrêmementfon - Voyez ce qui a été prescrit gueuses , putrides , et répan - pour cel a au premier période de dant une puanteur insuppor - la maladie .table .",
+        "words": [
+          "puanteur",
+          "putrides",
+          "insuppor",
+          "gueuses",
+          "au premier période de dant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/5fdb6df2-717a-5efe-a9a3-aef676f7a8a1",
+        "value": "Ici tout paraît propre à la transmettre ; les effets de l ' équipage , les marchandises ou les objets susceptibles qui se trouvent à bord , la présence des malades , la mauvaise qualité ou le mauvais état du lest , le vaisseau lui - même , ou le bois dont il est construit , enfin le défaut d ' espace , tout concourt à rendre cette maladie plus intense sur les vaisseaux , et à favoriser sa propagation ( 1 ) .C ' est à ce sujet que les non contagionistes , forcés de se réfugier dans leurs derniers retranchemens , font une grande distinction entre les fièvres que l ' on contracte par infection et celles qui sont transmises par contagion .Les lieux où la fièvre jaune règne épidémiquement , tels qu ' une maison , un navire , une ville , recèlent , disent - ils , les émanations morbifiques des corps malades , et ces émanations , en viciant l ' air de ces lieux devenus alors autant de foyers d ' infection , peuvent communiquer aux personnes saines la maladie dont elles sont le produit immédiat ; mais , ajoutent - ils , une maladie , qui ne connaît pas d ' autre mode de propagation , s ' éteint promptement , et n ' est jamais transmissible par contact immédiat ou médiat , du moment qu ' elle n ' est plus dans l ' at - ( 1 ) fayez le Mémoire de l ' auteur cité sur la Fièvre jaune observée aux Antilles et sur les vaisseaux du l ' ni , considérée principalement sous le rapport de la transmissioll .",
+        "words": [
+          "fièvres",
+          "contagionistes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/600e1e50-7a51-5341-9d87-1e2bfd19ac6d",
+        "value": "La difficulté est de savoir si cette aptitude ne peut pas se conserver plus long - tems , d ' une année à l ' autre , par exemple .» S ' il était possible de résoudre cette question par des analogies , ce que nous voyons des semences et des odeurs nous fournirait un trèsgrand nombre de preuves , puisqu ' il n ' y a rien de plus fréquent que de voir les premières se conserver plusieurs années avec la faculté de se développer et de germer , et les secondes demeurer long - tems dans des habits qui en sont imprégnés et qu ' on a renfermés , et devenant surtout beaucoup plus sensibles pendant les chaleurs .Les médecins de Medina - Sidonia , en répondant à la question qui leur fut faite par la junte de médecine établie à Cadix , ont donné l ' observation suivante en preuve du long espace de tems pendant lequel peuvent se conserver les miasmes animaux .",
+        "words": [
+          "odeurs",
+          "semences",
+          "long",
+          "plusieurs années"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/61acd283-cdab-5976-913b-80df23ab52e0",
+        "value": "mosphère impure qui l ' a formée , ce qui , à leurs yeux , est une découverte sublime , parce que le commerce sera débarrassé de toutes les entraves qu ' on lui oppose , si mal à propos , dans l ' espoir chimérique de repousser du continent une fièvre qui ne repullule jamais hors de son foyer primitif .Donc , répondent à leurs adversaires , d ' une manière victorieuse , les contagionistes , de votre propre aveu , les émanations morbifiques de la fièvre jaune peuvent communiquer quelquefois cette maladie , car , si elles étaient originairement et invariablement innocentes , leur accumulation dans l ' air , quelle qu ' elle pût être , ne les rendrait pas pour cela nuisibles , et leur quantité ( accident de nulle action sur leur essence constitutive ) ne formerait jamais un foyer d ' infection ; mais vous convenez , nous le répétons de nouveau , qu ' elles transmettent la maladie aux individus sains , indication infaillible de la nature pestilentielle d ' un agent morbifîque quelconque , donc , elles sont par elles - mêmes contagieuses ; donc , la fièvre jaune , qui les émet comme une sécrétion élaborée pendant l ' état morbide , et qui doit leur imprimer nécessairement l ' identité de son caractère , raison pour laquelle elle se reproduit par leur moyen , est une maladie transmis ; sible de l ' individu malade à l ' individu sain ; ce qui revient à dire , une maladie , dans certaines circonstances , réellement contagieuse .Cette vérité est si évidente , que le docteur Valentin , l ' un des plus ardens défenseurs de la spécieuse doctrine de l ' infection , a été contraint de s ' exprimer dans les termes suivans : « Il ne s ' ensuit pas cependant de ce que cette maladie n ' est pas susceptible de se communiquer par le contact , ou d ' un individu à l ' autre , comme la peste , par exemple , ainsi que d ' autres maladies dont la contagion n ' est pas un problème , qu ' elle ne puisse produire quelquefois cet effet dans certaines circonstances , ou secondairement .",
+        "words": [
+          "air",
+          "nous",
+          "émanations",
+          "nuisibles",
+          "contagieuses",
+          "morbifiques",
+          "fièvre jaune",
+          "contagionistes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/62196782-09f0-5216-9305-88bc72367e33",
+        "value": "Mais l ' expérience a fait voir que des vaisseaux qui croisaient sur certaines côtes , à très - peu de distance du rivage , étaient aussi sujets à cette maladie , supposé même qu ' ils ne le fussent pas davantage que ceux qui croisaient dans le milieu de l ' Océan .Cependant l ' air des côtes diffère extrêmement de celui de la pleine mer : il est imprégné de beaucoup d ' exhalaisons terrestres , et il est presque le même que celui qu ' on respire dans les ports .En général , il est certain que le scorbut paraîtra beaucoup plus tôt et règnera avec plus de violence , les circonstances étant toujours les mêmes , dans une escadre qui croisera dans la mer Baltique et dans la Manche , ou sur les côtes de la Norwège et à la baie d ' Hudson , que dans une autre qui demeurera aussi long - tems dans l ' Océan - Atlantique .",
+        "words": [
+          "air",
+          "exhalaisons",
+          "imprégné",
+          "côtes",
+          "ports",
+          "pleine mer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/62288a7b-33a8-507e-8b50-d86c43471156",
+        "value": "Jusques en 1770 , on voyait encore , par - ci par - là , de l ' eau croupissante dans cet endroit ; mais il n ' y avait qu ' une partie des en fans qui y demeuraient , les autres occupant une vieille maison de pierre , située sur une éminence dans le voisinage .Les symptômes ordinaires du scorbut , chez ces enfans , étaient le gonflement des gencives , la puanteur de la bouche , une grande lassitude et abattement ; ils devenaient cachexiques , et d ' une couleur plombée .Peu à peu , le gonflement des gencives augmentait , elles prenaient une couleur livide ; il se formait des pustules à la bouche ; l ' haleine répandait une infection horrible ; les gencives et tout l ' intérieur de la bouche se gangrenaient ; les os des mâchoires se cariaient ; la chute des dents suivait , et les os des alvéoles tombaient par morceaux .",
+        "words": [
+          "puanteur",
+          "bouche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/62418b60-bf14-5a95-ae9f-a703c0ae2804",
+        "value": "Nous trouvâmes cependant leurs muscles gangrenés et farcis d ' un sang noir et corrompu : ils tombaient en pièces dès qu ' on les maniait .1 Un jeune enfant de dix ans avait les gencives fort enflées et profondément ulcérées ; son haleine répandait une puanteur insupportable .Le chirurgien fut obligé de lui arracher toutes les dents , pour pouvoir mieux panser sa bouche .",
+        "words": [
+          "puanteur",
+          "insupportable",
+          "son haleine",
+          "jeune enfant de dix ans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/627fd6b3-bf5c-54ef-a870-f9dd6b3e5a2b",
+        "value": "On acheva de la faire cuire dans de nouvelle eau avec les assaisonnemens convenables .Alors , elle était ferme , d ' une belle couleur , et elle avait cette odeur suave particulière au bon bœuf .Elle fut goûtée , ainsi que le bouillon dans lequel on avait mis quelques tranches de pain , par tous les membres du conseil et par plusieurs personnes présentes à l ' expérience , et d ' une voix unanime , la soupe et le bouilli furent trouvés excellens .",
+        "words": [
+          "suave",
+          "odeur",
+          "elle",
+          "bœuf"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/681e3070-4a42-5846-bb69-42b528b4d31f",
+        "value": "DIAGNOSTIQUE .Le scorbut endémique ou épidémique est , suivant l ' auteur du Mémoire précédent , une maladie putride bien caractérisée , raison pour laquelle il la définit une corruption du sang qui altère l ' harmonie des fonctions du corps humain , ou l ' état naturel de quelques - unes de ses parties .Symptômes généraux .",
+        "words": [
+          "maladie",
+          "putride"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/682df678-2bc3-5394-9722-8514e0120867",
+        "value": "Sous le point de vue médical , ce Mémoire ne diffère nullement du précédent .L ' auteur définit le scorbut une dégénération putride , lente et d ' une seule espèce , étant convaincu que le scorbut de mer et celui de terre sont la même maladie , et que cette maladie est produite par des causes semblables , nourriture de viande et poisson salés , peu ou point de végétaux , habitations humides , etc .DIAGNOSTIQUE .",
+        "words": "putride"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/692453fe-8c91-5776-b72d-5f55f84eea3f",
+        "value": "2 .Le cœur était blanc et pourri ; ses cavités extrêmement remplies d ' un sang corrompu ; les poumons noirâtres et putrides .On trouvait plus d ' une pinte d ' eau rougeâtre dans la cavité de la poitrine ; le foie en assez bon état , la rate un peu corrompue , sa surface inégale et raboteuse .",
+        "words": "putrides"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/69250ff1-d8ba-5942-af52-8f4fc90cb156",
+        "value": "clltères près des parties affec - ' * ' tees ; prescrire un électuaire d ' antimoine cru préparé et uni à l ' étiops minéral ; boisson antiscorbutique en même tems .Si les ulcères sont opiniâtres , et que les gencives soient affermies , légères frictions de loin en loin de mercure éteint avec une petite quantité de baume de soufre térébenthine ; prendre tous les jours une bouteille de décoction de bois sudorifique , et après avoir cessé ces remèdes , quelques grains de soufre doré d ' antimoine en continuant la décoction siidotifi - que .Constipation .",
+        "words": [
+          "bois",
+          "sudorifique",
+          "soufre térébenthine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/6b885e3a-c65c-5286-8b36-39917c1e47a9",
+        "value": "» S ' il était possible de résoudre cette question par des analogies , ce que nous voyons des semences et des odeurs nous fournirait un trèsgrand nombre de preuves , puisqu ' il n ' y a rien de plus fréquent que de voir les premières se conserver plusieurs années avec la faculté de se développer et de germer , et les secondes demeurer long - tems dans des habits qui en sont imprégnés et qu ' on a renfermés , et devenant surtout beaucoup plus sensibles pendant les chaleurs .Les médecins de Medina - Sidonia , en répondant à la question qui leur fut faite par la junte de médecine établie à Cadix , ont donné l ' observation suivante en preuve du long espace de tems pendant lequel peuvent se conserver les miasmes animaux .Une des vaches qui se trouvaient dans les pâturages d ' Arjainitas mourut d ' une maladie contagieuse ; les quatre hommes qui l ' écorchèrent furent gravement malades en même tems , et deux moururent .",
+        "words": [
+          "miasmes",
+          "médecins",
+          "Medina",
+          "Sidonia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/6c9783f6-9a5b-5fce-80f0-51344de07902",
+        "value": "Les médecins , les prêtres , les notaires , les gardes - malades et tous les individus qui approchent des malades atteints de maladies contagieuses , retireront un grand avantage du chlorure liquide de sodium , si , à l ' attention de le respirer et d ' en mouiller leurs mains , ils joignent ceHe d ' en faire répandre sur le sol et principalement autour des lits .Guidée par ces vues d ' utilité publique , la commission chargée de faire des expériences sur l ' emploi de chlorures d ' oxide de sodium et de chaux dans le lazaret de Marseille , ayant porté son attention sur les moyens qu ' on emploie à bord des bâtimens de commerce pour maintenir la salubrité et détruire toutes les émanations malsaines qui peuvent s ' élever d ' endroits aussi resserrés , a proposé de substituer aux fumigations guyttoniennes des arrosemens , des aspersions et même des flacons de chlorure , en donnant les instructions nécessaires pour les employer .La commission , persuadée que nulle considération ne peut être dans le cas d ' empêcher l ' emploi de ce moyen désinfectant , puisqu ' il n ' est nullement incommode , très - économique , plus suret plus actif que les fumigations , a décidé que l ' intendance sanitaire serait invitée à transmettre à son excellence le ministre de la marine le vœu émis par la commission , pour remplacer , à bord des bâtimens de guerre et de commerce qui sont en mer , les fumigations guyttoniennes par l ' évaporation permanente et les arrosages des dissolutions chlorurées .",
+        "words": [
+          "malsaines",
+          "émanations",
+          "chlorures",
+          "oxide de sodium",
+          "le lazaret de Marseille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/6e1c39a1-0f3b-5a27-bb59-ac35b8d7fb72",
+        "value": "La constipation est un symptôme constant , soit qu ' on prescrive les opiacées , soit qu ' on emploie les purgatifs ; l ' urine est supprimée ou ne sort qu ' avec difficulté et douleur : je ne sache pas que des observateurs modernes fassent mention des urines muqueuses , geniturœ similes , dont parle Hippocrate .L ' exhalation et la calorification suivent à peu près l ' état du pouls : lorsqu ' il est fort , vif , le visage est rouge , et tout le corps couvert d ' une sueur chaude ; lorsqu ' il est petit et irrégulier , le visage est pâle et couvert d ' une sueur froide ; souvent les extrémités sont également froides , et une sueur du même genre se répand par tout le corps ; quelque abondantes que soient les sueurs , il est rare qu ' elles jugent la maladie .Bonteille , l .",
+        "words": [
+          "exhalation",
+          "calorification"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/6e9c3201-4955-5fbf-8741-4cd570500f2f",
+        "value": "La convalescence fut très - courte .Il continua à percevoir l ' odeur des Indiens plus de huit jours après que nous l ' es eiunes quittés .3 .",
+        "words": [
+          "odeur",
+          "Indiens",
+          "plus de huit jours après"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/720a79ca-e496-5aa5-ba8e-4aa4edc75f9f",
+        "value": "C ' est à ce sujet que les non contagionistes , forcés de se réfugier dans leurs derniers retranchemens , font une grande distinction entre les fièvres que l ' on contracte par infection et celles qui sont transmises par contagion .Les lieux où la fièvre jaune règne épidémiquement , tels qu ' une maison , un navire , une ville , recèlent , disent - ils , les émanations morbifiques des corps malades , et ces émanations , en viciant l ' air de ces lieux devenus alors autant de foyers d ' infection , peuvent communiquer aux personnes saines la maladie dont elles sont le produit immédiat ; mais , ajoutent - ils , une maladie , qui ne connaît pas d ' autre mode de propagation , s ' éteint promptement , et n ' est jamais transmissible par contact immédiat ou médiat , du moment qu ' elle n ' est plus dans l ' at - ( 1 ) fayez le Mémoire de l ' auteur cité sur la Fièvre jaune observée aux Antilles et sur les vaisseaux du l ' ni , considérée principalement sous le rapport de la transmissioll .mosphère impure qui l ' a formée , ce qui , à leurs yeux , est une découverte sublime , parce que le commerce sera débarrassé de toutes les entraves qu ' on lui oppose , si mal à propos , dans l ' espoir chimérique de repousser du continent une fièvre qui ne repullule jamais hors de son foyer primitif .",
+        "words": [
+          "fièvre",
+          "émanations",
+          "morbifiques",
+          "corps malades"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/737c87a9-af8e-5e37-8c43-f46d610ca0c1",
+        "value": "L ' eau délaie toutes ces substances et devient par là très - malfaisante .On corrigeait autrefois les eaux qui avaient contracte une mauvaise odeur pour avoir croupi en les faisant chauffer , en les exposant à l ' air libre pendant deux ou trois jours , ou bien en les filtrant dans des fontaines sablées .Ces moyens étaient insuffisans quand l ' eau était passée à un état de corruption trop considérable .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "eaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/782cf1a9-9d65-580f-9fbd-b6d16cbe7f9d",
+        "value": "Un millième de grain , par exemple , de su - blimé corrosif , qui n ' occasione pas le moindre désordre dans l ' organe digestif , cesse - t - il pour cela d ' être poison ? La quantité augmente ou diminue l ' action des substances , mais elle n ' en change pas la nature .Ce que nous venons de soumettre à la considération de bons praticiens est applicable également aux miasmes de la fièvre jaune .Tant que cette maladie se maintient au dessous de la malignité contagieuse , les émanations qui sortent du corps du malade qui en serait atteint sporadiquement ne seront nullement dangereuses aux personnes qui le fréquentent ; mais si , à cause d ' une prédisposition individuelle très - favorable à la maladie , ces émanations proviennent d ' un état poussé au dernier degré de malignité , c ' est - à - dire rendu contagieux par une telle prédisposition , ou bien si elles se trouvent dans l ' air accumulées de manière à infecter le local où elles se répandent , dans le premier cas elles communiqueront aux individus sains la maladie , quoique d ' origine sporadique , mais devenue contagieuse par l ' action constante d ' une idiosyncrasie déjà morbide ; dans le second , la seule concentration de la matière qu ' elles entraînent , et dont la quantité augmente le pouvoir contagieux , leur fera acquérir la propriété de donner naissance à la maladie par transmission .",
+        "words": [
+          "fièvre",
+          "miasmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/7a1c56ea-501c-5fd8-869d-90c8ed1a5a11",
+        "value": "Curation .Fièvre putride colliquative , Elixir de vitriol , pris souvent accompagnée presque tou - et ® petites doses , ainsi que le jours de pr étéchies ; sueurs fé - quinquina administré pareille .* ment a petites doses , si les iorces tldes évacuations copieuses de l ' estomac ne s ' opposent pas , en d ' un sang corrompu soit par faisant usage en même tems d ' un \" les urinés , soit par les pou - bon yin rouge .",
+        "words": [
+          "vitriol",
+          "putride",
+          "Fièvre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/7c1d9b20-572e-52aa-b46c-99c0bd10b6cb",
+        "value": "Tant que cette maladie se maintient au dessous de la malignité contagieuse , les émanations qui sortent du corps du malade qui en serait atteint sporadiquement ne seront nullement dangereuses aux personnes qui le fréquentent ; mais si , à cause d ' une prédisposition individuelle très - favorable à la maladie , ces émanations proviennent d ' un état poussé au dernier degré de malignité , c ' est - à - dire rendu contagieux par une telle prédisposition , ou bien si elles se trouvent dans l ' air accumulées de manière à infecter le local où elles se répandent , dans le premier cas elles communiqueront aux individus sains la maladie , quoique d ' origine sporadique , mais devenue contagieuse par l ' action constante d ' une idiosyncrasie déjà morbide ; dans le second , la seule concentration de la matière qu ' elles entraînent , et dont la quantité augmente le pouvoir contagieux , leur fera acquérir la propriété de donner naissance à la maladie par transmission .« Si la fièvre jaune pouvait être produite , dit le savant docteur Keraudren , par la seule action de l ' air chargé d ' émanations infectes et putrides , on l ' aurait vue régner depuis longtems dans toutes les parties de l ' Europe .Mais ce n ' est pas la fièvre jaune qui se déclara aux assises d ' Oxfort ; ce n ' est pas elle non plus qui fit périr ces malheureux enfouis en trop grand nombre dans les cachots du Bengale .",
+        "words": [
+          "infectes",
+          "putrides",
+          "air",
+          "émanations",
+          "depuis longtems",
+          "savant docteur Keraudren"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/81b1c336-8e9e-5ff9-a471-a4ddf37fc7d6",
+        "value": "Ce que nous venons de soumettre à la considération de bons praticiens est applicable également aux miasmes de la fièvre jaune .Tant que cette maladie se maintient au dessous de la malignité contagieuse , les émanations qui sortent du corps du malade qui en serait atteint sporadiquement ne seront nullement dangereuses aux personnes qui le fréquentent ; mais si , à cause d ' une prédisposition individuelle très - favorable à la maladie , ces émanations proviennent d ' un état poussé au dernier degré de malignité , c ' est - à - dire rendu contagieux par une telle prédisposition , ou bien si elles se trouvent dans l ' air accumulées de manière à infecter le local où elles se répandent , dans le premier cas elles communiqueront aux individus sains la maladie , quoique d ' origine sporadique , mais devenue contagieuse par l ' action constante d ' une idiosyncrasie déjà morbide ; dans le second , la seule concentration de la matière qu ' elles entraînent , et dont la quantité augmente le pouvoir contagieux , leur fera acquérir la propriété de donner naissance à la maladie par transmission .« Si la fièvre jaune pouvait être produite , dit le savant docteur Keraudren , par la seule action de l ' air chargé d ' émanations infectes et putrides , on l ' aurait vue régner depuis longtems dans toutes les parties de l ' Europe .",
+        "words": [
+          "dangereuses",
+          "air",
+          "émanations",
+          "infecter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/869cdae8-ce55-5559-813f-872b0cbde332",
+        "value": "Tels sont les charpentiers , qui sont obligés souvent de mesurer , toutes les quatre heures , la quantité d ' eau qui est au fond de cale .Ils souffrent alors beaucoup , ainsi que lorsqu ' ils raccommodent les pompes , par les exhalaisons qui s ' en élèvent .Ils sont , de tout l ' équipage , ceux qui couchent le plus près de cette eau corrompue , et on ne manque point d ' exemples de charpentiers que cette vapeur empestée a fait mourir subitement .",
+        "words": [
+          "exhalaisons",
+          "pompes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/86c94b5b-8ca4-5616-b177-d4b1aa425a20",
+        "value": "Des circonstances des tems et des lieux peuvent seules apporter quelques modifications dans le renouvellement annuel ou périodique de ces deux fléaux .Ce qui a lieu pour certains pays d ' outremer se remarque également dans quelques contrées de l ' Europe , relativement aux fièvres intermittentes .Ainsi , en Italie , le Mantouan et les marais Pontins sont chaque année rava - gés par des maladies qui , à leur type périodique ordinaire , réunissent bien souvent un type pernicieux .",
+        "words": [
+          "intermittentes",
+          "fièvres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/8767f5ca-e9de-5a72-aee7-fde9585dd820",
+        "value": "Aussi étaient - ils désignés alors par le nom de assafrallados ou ensafranés .Christophe Colomb fut atteint lui - même , dans sa relâche à l ' île de la Mona , de cette fièvre pestilentielle , et il ne dut son salut qu ' à la résolution prompte que prirent ses compagnons de lever subitement l ' ancre et de s ' éloigner de ce funeste rivage .Les pertes qu ' il fit parmi ses troupes furent si grandes , que de quinze cents hommes qu ' il avait débarqués à Monte - Christo en 1493 , son armée fut réduite , deux ans après , à deux cents fantassins et vingt cavaliers ; et ce fut avec ce petit nombre de soldais européens qu ' il fut obligé de vaincre dans la plaine de la VegaReale une masse réunie de cent mille Indiens .",
+        "words": [
+          "fièvre",
+          "pestilentielle",
+          "Christophe Colomb",
+          "île de la Mona"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/8d98cdb7-1cad-55c8-8ead-27cf7f81546e",
+        "value": "Avant de poursuivre , il est important de signaler que le sieur M * * * était demeuré exposé à un soleil très - chaud toute la matinée , ce qui lui arrivait souvent quand il cultivait son jardin , genre de distraction qu ' il aimait .A ces coliques succèdent des vomissemens verdâtres avec sentiment d ' ardeur à la gorge : arrivé près de lui , je le trouve dans un état d ' abattement difficile à dépeindre ; le pouls était concentré , la langue un peu rouge , comme d ' habitude , sans pourtant être sèche , les extrémités refroidies .A six heures , hoquets , crampes vives ; les vomissemens et les selles se succèdent avec rapidité ; Yeus recours au même mélange d ' éther , de laudanum et de sucre , que dans l ' observation précédente : deux lavemens opiacés diminuèrent les vomissemens et les selles .",
+        "words": [
+          "verdâtres",
+          "vomissemens",
+          "je le"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/8ef551d9-3b5a-582e-9e26-ebd79ad8b562",
+        "value": "Si notre attente n ' est point vaine , ce que nous avons dit jusqu ' à présent pourra servir à réveiller des sentimens d ' humanité chez ceux à qui l ' on a confié la direction de notre commerce et de nos vaisseaux dans les pays chauds .Rien n ' est plus inhumain que de forcer les Européens qui ne sont pas acclimatés à remonter les rivières pour pénétrer dans des terres incultes , surtout pendant la saison pluvieuse , où ils ne peuvent être à l ' abri des émanations malfaisantes de la terre .Cette conduite est d ' autant moins excusable que les avantages qu ' elle procure peuvent s ' obtenir communément par d ' autres voies .",
+        "words": [
+          "émanations",
+          "malfaisantes",
+          "Européens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/964f98cc-aa79-547e-895d-957b976532f7",
+        "value": "Par quel moyen donc conserve - t - on aujourd ' hui l ' eau douce sur les vaisseaux ? Le voici : on a , depuis peu , introduit dans la marine royale de France des caisses en fer battu qui sont les réservoirs où l ' on garde toute l ' eau nécessaire aux besoins des équipages .Dans ces caisses , l ' eau se conserve long - tems sans perdre sa limpidité , et sans contracter la moindre mauvaise odeur , ce qu ' on doit attribuer à deux causes qui dépendent uniquement de la nature du fer : savoir , sa porosité et son oxidation par le contact de l ' eau .A Paris on a une preuve convaincante de la porosité du fer .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "eau",
+          "long",
+          "tems",
+          "caisses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/967eb9d0-e97e-5a99-9b8e-c50baf911e16",
+        "value": "Le nommé Henri Masson , matelot , âgé de trentedeux ans , fatigué par l ' abus des boissons , quelques jours après avoir fait une orgie , fut pris tout à coup d ' une violente douleur du bas - ventre , accompagnée d ' une forte tension de cette même partie .La tête était très - douloureuse ; le malade éprouvait une grande envie d ' uriner , sans cependant pouvoir la satisfaire .Le nombre de naturels que j ' ai traités du choléra est si grand que je me contenterai seulement de présenter les observations les plus curieuses .",
+        "words": [
+          "uriner",
+          "très - douloureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/989be2e9-f12d-5e13-94de-844a2332551e",
+        "value": "Dans le scorbut chaud , bains tièdes généraux , pourvu que les forces du malade permettent de les employer .Aux hémorragies et aux flux dyssentériques on opposera les acides minéraux , l ' alun et les astringens les plus puissans , tels que l ' écorce de chêne et de grenade , la gomme kino , les racines de tormentille , de rathania , de columbo ; à la difficulté de respirer , l ' oximel scillitique , les ventouses , les sinapismes , et même les vésicatoires entre les épaules et sur les membres inférieurs ; à l ' extrême faiblesse , les frictions stimulantes , les fomentations aromatiques , les cordiaux composés de vins généreux , et le quinquina , lorsque l ' estomac peut le supporter ; enfin , le camphre , le musc et l ' opium , s ' il y a des spasmes et des douleurs .Quant au quinquina , comme tonique , on n ' en retire aucun avantage , donné à petites doses , mais il soutient sa réputation , administré comme fébrifuge et à grandes doses .",
+        "words": [
+          "camphre",
+          "racines",
+          "musc",
+          "aromatiques",
+          "écorce",
+          "quinquina",
+          "opium",
+          "épaules",
+          "fomentations aromatiques",
+          "acides minéraux",
+          "rathania",
+          "gomme kino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/98bfb498-4101-573a-b531-68b28ba6308e",
+        "value": "Ainsi , tant que les vents du midi soufflent en été des déserts de la Lybie sur Alger , Tunis et Tripoli , ils occasionent une saison dangereuse ; à Madras , ceux qui parcourent en avril et en mai un espace considérable couvert de sable , sont toujours chauds , désagréables et nuisibles à la santé .6 ° Lorsque les fréquentes inondations de la mer ont formé des marais qui répandent des vapeurs malfaisantes dans l ' atmosphère ; quand le terrain est naturellement marécageux ou que le rivage est bordé de vase infecte , de limon , d ' herbes et de plantes aquatiques de mauvaise qualité .Dans tous ces cas , les Européens doivent passer la saison des maladies à la campagne ; ils en choisiront une qui soit à l ' abri des vents chauds et à une certaine distance des marais infects et des rives impures .",
+        "words": [
+          "vapeurs",
+          "atmosphère",
+          "malfaisantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/9c30b0f0-2bc6-51ee-b462-e36ce6461467",
+        "value": "Ce qu ' il y a de singulier dans ce cas , c ' est qu ' à mesure que les symptômes généraux se développent , l ' affection de la bouche reste slationnaire , et qu ' elle empire à mesure que la santé s ' améliore .30 Jambes engorgées , visage blême et gonflé , glandes maxillaires dures , tuméfiées , gencives saignantes et affectées de plusieurs ulcères qui répandent une très - mauvaise odeur .4 ° Gencives pourries , jambes enflées , couvertes de taches livides , articulations roides , défaillances fréquentes , sans fièvre .",
+        "words": [
+          "mauvaise",
+          "très",
+          "odeur",
+          "glandes maxillaires",
+          "plusieurs ulcères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/9d84e1b1-3c39-535b-abd0-fc8d9111fdbe",
+        "value": "Or , lorsqu ' on fait un usage continuel de ces alimens , ils produisent les deux effets suivans .1 ° Le chyle manque par ce moyen de la qualité propre à délayer et à adoucir les sucs acrimonieux , à corriger la tendance des humeurs à la putridité , et à réparer les pertes du corps .On sent bien que , dans les personnes attaquées du scorbut , ce chyle grossier , gluant et visqueux comme il est , ne peut être bien incorporé avec le sang ni converti en suc nourricier , et cette faiblesse de la digestion , ou ce défaut d ' assimilation des alimens dans ces malades paraît ( en considérant les effets des causes prédisposantes de leur maladie ) dépendre davantage du vice des organes de la sanguification , que de la première digestion .",
+        "words": [
+          "putridité",
+          "chyle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/9f3ecae7-8ab4-56b3-a2cf-4fb092de8c66",
+        "value": "Mais que devient l ' hydrogène , demandera - t - on , une fois séparé de l ' oxigène , second élément constitutif du liquide ? L ' expérience répond à cette question par le langage des faits .Si l ' on enduit d ' un mastic insoluble et propre à contracter une forte adhérence , les parois intérieures d ' un récipient en fer , et qu ' on le ferme de manière à ce que l ' air atmosphérique ne puisse nullement y pénétrer , l ' eau se corrompt entièrement en peu de tems , et à l ' ouverture du couvercle du récipient , un torrent de gaz hydrogène sulfuré affecte violemment l ' organe de l ' odorat , et bien plus encore celui du goût , si l ' on procède à la dégustation .Qu ' on laisse les parois du même récipient dans leur état naturel , pour que le fer soit en contact immédiat avec l ' eau , celle - ci se conserve alors parfaitement et il n ' existe plus un seul atome de gaz hydrogène sulfuré dans l ' espace qui se trouve entre le couvercle du récipient et la surface supérieure du liquide .",
+        "words": [
+          "mastic",
+          "odorat",
+          "gaz hydrogène sulfuré",
+          "récipient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a04694ee-eca5-527e-9fd8-deeff8ec61e9",
+        "value": "Dans tous ces cas , les Européens doivent passer la saison des maladies à la campagne ; ils en choisiront une qui soit à l ' abri des vents chauds et à une certaine distance des marais infects et des rives impures .Elle se trouvera par conséquent sur les coteaux de ces montagnes où les vapeurs qui s ' exhalent des vallées environnantes ne sont pas à craindre , au moins dans leur ascension perpendiculaire .L ' expérience nous apprend que ces lieux élevés où la température est douce , le terrain sec et graveleux , où les arbres ont été abattus et que les eaux stagnantes n ' infectent point , deviennent si favorables à la constitution des Européens , qu ' ils s ' y portent très - bien pendant toutes les saisons dans les plus chauds de tous les climats .",
+        "words": [
+          "vapeurs",
+          "coteaux de ces montagnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a171db9d-b4c0-5bea-b4c6-060835c6c4a7",
+        "value": "Les parties acres et volatiles des plantes les plus échauffantes y sont tempérées par une quantité convenable de suc d ' orange de Séville .Ces sucs seront encore d ' une plus grande utilité si on les rend plus diurétiques et plus purifians , en délayant avec le petit - lait .Il est incontestable que le père atteint du délire des persécutions peut transmettre à un ou plusieurs de ses enfants la même variété de folie ; mais il est fréquent d ' observer des malades affectés du délire des persécutions et dont les ascendants avaient présenté soit un autre genre de vésanie , soit des signes névropathiques ou bien des habitudes alcooliques .",
+        "words": [
+          "diurétiques",
+          "sucs",
+          "purifians"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a17cf140-8ea2-5c38-bcd5-17b5cb5e7c1c",
+        "value": "Pour les marins français , cette nourriture est d ' une plus grande importance que pour les navigateurs des autres nations , parce qu ' on sait que , de tous les peuples , les Français sont celui qui consomme le plus de pain .L ' objet qu ' on a principalement en vue dans ta confection du biscuit , c ' est le dessèchement le plus parfait de la pâte dont il est composé , afin de la garantir , par ce moyen , de la moisissure qui lui donnerait une mauvaise odeur , et le rendrait en même tems désagréable au goût et malsain .Voilà pourquoi , après lui avoir fait subir la première cuisson , on le laisse d ' abord refroidir , et on le place ensuite dans les soutes de la boulangerie , espèces d ' étuves dans lesquelles communique la chaleur des fours .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "pâte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a2d0e5ed-21bf-513c-a5f9-f2ebb3a2bd7f",
+        "value": "Pour calmer le système nerveux , on placera le malade sur un lit mou et chaud , dans un lieu à l ' abri de toute lumière vive , de toute odeur forte : « loco lucido mediocriter , nullo odore infecto , » dit Cœlius - Aurelianus ; on évitera de faire du bruit , et l ' on éloignera tout ce qui pourrait exalter la sensibilité .Dans le tétanos très - aigu , on donnera à l ' intérieur l ' opium , comme calmant , et non pas à haute dose , comme on le fait ordinairement : je pense que les spasmodiques actifs , excitans , doivent être proscrits ; ils me paraissent plus propres à donner une nouvelle intensité à la convulsion qu ' à en calmer la violence , à l ' entretenir qu ' à l ' apaiser .On se plaint de n ' avoir pu procurer du sommeil avec des doses très - fortes d ' opium ; mais ne serait - ce point à cette profusion qu ' était due cette insomnie ? n ' est - il pas toujours nuisible dans les maladies inflammatoires ? S ' il a fait des merveilles dans les pays chauds , c ' est que les véritables inflammations y sont rares ou ne s ' y soutiennent guère .",
+        "words": [
+          "opium",
+          "spasmodiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a4133ec0-2aaf-5fd2-8682-93ea2a58e5f1",
+        "value": "Il y a tout lieu de croire qu ' elle n ' est autre chose que le maximum des fièvres rémittentes bilieuses .On est fondé à le croire en ce que , tandis que les fièvres jaunes attaquent les étrangers , les doubles tierces bilieuses sont les maladies régnantes parmi les colons ; en ce que les rémittentes bilieuses , qui attaquent les nouveaux débarqués , dégénèrent facilement en fièvre jaune ; en ce que la fièvre jaune , au premier degré , se confond très - facilement avec les fièvres bilieuses rémittentes ; en ce que les étrangers qui se sont acclimatés sans la fièvre jaune ont eu tous des affections bilieuses de telle ou telle espèce ; en ce que les circonstances les plus propres à la production de la fièvre jaune , telles que le voisinage des lieux marécageux , les émanations putrides de toute espèce , sont aussi celles qui font naître et entretiennent les fièvres et les maladies bilieuses ; enfin , en ce que les méthodes curatives qui leur conviennent sont identiques .Crises et pronostics de la Fièvre jaune .",
+        "words": [
+          "putrides",
+          "émanations",
+          "maladies bilieuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a5a73ec2-5844-52b7-b7e5-ef39a4b42a75",
+        "value": "Ainsi , l ' homme encore dans l ' état de santé , quoique provenant du foyer de la con - tagion , est par lui - mème peu propre à la propager , et ne pourrait , à la rigueur , produire cet effet que par l ' intermédiaire de ses vêtemens .Les malades , au contraire , sont susceptibles de communiquer la maladie , et par les enveloppes et par eux - mêmes , surtout au moyen des émanations qui s ' exhalent de leurs corps , et qui forment autour d ' eux une atmosphère qui est le produit immédiat de la maladie , et comme une sécrétion nouvelle , propre , dans les différens cas , à l ' état pathologique dont elle dérive .On conçoit que la perspiration de cette matière subtile , quelle qu ' elle soit , est subordonnée à l ' état de vie , et que cette fonction pathologique , si je puis m ' exprimer ainsi , doit cesser par la mort .",
+        "words": [
+          "corps",
+          "atmosphère",
+          "leurs corps",
+          "émanations",
+          "malades",
+          "enveloppes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/a7c201bf-cdac-5e8f-b64d-d06dd80396c5",
+        "value": "La plupart des maladies pestilentielles qui règnent dans les étés les plus chauds , sont annoncées par là .4 ° Lorsque toutes les viandes de boucherie se corrompent et se couvrent de vers en peu de tems ; lorsque les métaux , exposés à l ' air libre , se rouillent promptement ; lorsque les cadavres exhalent en moins de six heures une puanteur insupportable .A tous ces signes on reconnaît qu ' un pays est trop chaud , inaccessible aux vents et funeste à ses habitans .",
+        "words": [
+          "métaux",
+          "puanteur",
+          "insupportable",
+          "cadavres",
+          "exhalent",
+          "en moins de six heures",
+          "toutes les viandes de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/aa7e4b50-0651-5174-a741-82647ee8953b",
+        "value": "D ' autres évacuent par les selles une grande quantité de sang pur , sans diarrhées et sans tranchées .Les gencives sont pour l ' ordinaire extrêmement fongueuses , putrides , douloureuses , et répandent une puanteur insupportable ; elles sont quelquefois profondément ulcérées et presque gangrenées .Mais je n ' ai jamais observé , excepté dans des cas de salivation , que la partie supérieure de la bouche et le fond du gosier fussent fort affectés , et je crois que les lèvres ne le sont jamais , ou du moins rarement .",
+        "words": [
+          "puanteur",
+          "putrides",
+          "elles",
+          "insupportable",
+          "gencives",
+          "douloureuses",
+          "fongueuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/aba5da78-f1e3-5a86-958e-9ea403c8266c",
+        "value": "On serait même tenté de croire que la diète des paysans russes avait été dictée par la philosophie moderne , ou plutôt que votre président , vos Macbrides , etc ., avaient été élevés à cette école , car tout ce qui entre dans la composition de leur nourriture paraît avoir toutes les qualités antiseptiques de l ' air fixe ( gaz acide carbonique ) qu ' une heureuse attention à ses propriétés a fait tant recommander en médecine .C ' est ici que la philosophie expérimentale peut jouir de son triomphe , et , en bonne foi , vos lords de l ' amirauté devraient par reconnaissance ériger des statues à ces hommes industrieux qui brillent dans cette utile et glorieuse carrière .",
+        "words": [
+          "gaz",
+          "antiseptiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/abd1516b-d602-581c-a1b4-7f6dd23e8e93",
+        "value": "Dans ce cas , le liquide chloruré sera composé d ' une partie de chlorure de chaux et de quinze parties d ' eau .N ' étant plus permis aujourd ' hui de révoquer en doute la propriété désinfectante des oxides de sodium et de chaux , nous ne pouvons qu ' en recommander l ' usage , comme moyen désinfectant et prophylactique , à tous ceux qui habitent dans le voisinage des marais , à ceux qui vident les égoûts et remuent les boues infectes , ou qui travaillent au creusement des canaux , dans des terrains anciennement submergés et abandonnés par des lacs , ou dans des terrains desséchés .Ils se préserveront par là des fièvres intermittentes , simples ou pernicieuses .",
+        "words": [
+          "nous",
+          "chaux",
+          "désinfectante",
+          "oxides de sodium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/ac221b3a-db48-5783-bb4a-5ef1990dedea",
+        "value": "Elles leur serviront de guide , lorsque , parmi ces eaux , ils devront choisir de préférence celle dont le ruisseau ou la rivière offriront les conditions nécessaires pour fournir l ' eau la plus limpide et la meilleure à boire .Signes auxquels les marins peuvent reconnaître la bonté de l ' eau potable , et profiter de ses qualités médicinales .Toutes les espèces d ' eau ne jouissent pas du même degré de pureté et de légèreté ; toutes ne sont pas également salutaires .",
+        "words": [
+          "médicinales",
+          "eau potable",
+          "marins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/acf76cbc-4ab8-59ca-98ee-5f6ea31a4a76",
+        "value": "ou midi , moment où la brise du larg e viet tempérer l ' ardeur du soleil .On évitera avece plus grand soin la promenade du bord delà mer le soir , tems où la fraîcheur précipitées émanations marécageuses que le soleil atenues en évaporations dans la journée .Lesni - litaires se souviendront toujours que rien n ' est plus dangereux que de se coucher et s ' endormir sur la terre humide le long des lagons .",
+        "words": [
+          "émanations",
+          "marécageuses",
+          "la journée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/ad85d0f9-8a28-5318-be09-879816a344e8",
+        "value": "L ' eau , ainsi traitée , ne perd pas cependant , malgré la volatilisation d ' une partie de ses molécules infectes , ni son odeur fétide , ni son mauvais goût .Il en a été de même de plusieurs substances employées comme anti - septiques , telles que la chaux vive , par Forster , l ' alun , par Lind , le nitrate d ' argent , par Hahnemann , la terre argileuse , par Beckman , professeur à Gottingen .Après toutes ces tentatives sans succès , il ne restait qu ' à essayer de convertir l ' eau de la mer en eau bonne à boire , d ' autant plus que , dans les Homélies de saint Basile , il est dit : « Quand les gens de mer se trouvent jetés dans quelque île déserte où il n ' y a point de sources ni de fontaines , voilà à quoi ils ont recours .",
+        "words": [
+          "terre",
+          "septiques",
+          "nitrate",
+          "chaux",
+          "plusieurs substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/adc0f7ae-dfec-583d-bf13-b7292d017f12",
+        "value": "On peut même dire qu ' il a eu le courage d ' exposer plusieurs fois sa vie aux dangereux effets occasionés par l ' inspiration des miasmes putrides et le maniement des matières les plus infectes .Expériences qui prouvent l ' étonnante action de la liqueur chlorurée désinfectante de Labarraque sur les substances animales passées au dernier degré de putréfaction .En août 1822 , on a vu M .",
+        "words": [
+          "substances",
+          "désinfectante",
+          "liqueur chlorurée désinfectante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/b30a1b08-7a9f-5053-a08b-3dc2396ebf54",
+        "value": ", sont absolument sans effet dans le scorbut , et ne peuvent pas remplacer les acides végétaux dont l ' efficacité salutaire est incontestable .Aux tempéramens lymphatiques , doués de peu d ' énergie vitale , et qui ont besoin d ' un certain degré d ' excitation , conviennent les plantes âcrcs et aromatiques , savoir : les oignons , la scille , surtout la moutarde , le raifort sauvage , la roquette , le cochléaria , le cresson des fontaines , le beccabunga , l ' absinthe , les racines d ' impératoire , de calamus aromaticus .Ces plantes s ' administrent en infusions aqueuses , en conserves , en sirop , et celui ci , d ' après la pharmacopée de Baume , en infusion vineuse , dernière forme la plus active de toutes , et la plus stimulante .",
+        "words": [
+          "racines",
+          "plantes",
+          "aromatiques",
+          "calamus",
+          "aromaticus",
+          "cresson des fontaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/b34f3f69-ac30-5dc5-929d-aeda4f852709",
+        "value": "De la conservation des viandes salées .La précaution qu ' il faut prendre pour conserver les viandes salées , c ' est de les tenir toujours couvertes de saumure ; si elles n ' en sont pas constamment humectées , et qu ' elles soient exposées au contact de l ' air , elles prennent promptement une saveur et une odeur rances , souvent même elles se putréfient .Dans cet état , elles sont désagréables au goût et deviennent nuisibles à la santé , surtout si l ' usage est continu .",
+        "words": [
+          "odeur",
+          "viandes",
+          "elles",
+          "rances",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/b60d1f36-93d9-500a-b9d1-67e90bc84ead",
+        "value": "Ceux - ci , s ' étendant par couches horizontales très - épaisses , mais assez tendres , et comme spongieuses , permettent à l ' eau qui s ' infiltre à travers leurs masses de pénétrer à de grandes profondeurs , et d ' entraîner par conséquent ou dissoudre les matières métalliques pyriteuses , salines et bi - tumineuses , ou bien les substances calcaires et argileuses qui entrent dans la composition de chaque couche .Dans les quatre premiers cas , l ' eau a de l ' odeur et de la saveur , et ne peut pas être employée comme l ' eau potable ; dans les deux autres , quoique souvent très - limpide , elle ne possède pas pourtant la pureté et la légèreté de l ' eau vraiment saine ; d ' où l ' on voit que l ' eau de terrains secondaires , autant belle que puisse être son apparence , est toujours inférieure en qualité à celle des terrains primitifs .EAU DE FONTAINE .",
+        "words": [
+          "odeur",
+          "eau",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/b7c1576e-bc4b-5727-9ca5-046b012564ac",
+        "value": "Les causes locales qui rendirent la fièvre jaune si funeste au Cap , et qui lui imprimèrent un caractère contagieux et presque pestilentiel , furent en grand nombre : elles provenaient des malheurs de la guerre et de l ' incendie de cette superbe ville .On compte , parmi ces causes , l ' air infect que l ' on respirait auprès des maisons incendiées , dans lesquelles des denrées abandonnées ont élé livrées à une décom - position rapide .Rush attribue la fièvre jaune qui ravagea Philadelphie , en 1793 , à quelques ballots de café gâté qu ' on laissa dans des magasins situés au bord de la mer , et qui se putréfièrent .",
+        "words": [
+          "air",
+          "infect"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/b9f613b7-57a3-54f8-9dd9-f76f42fad334",
+        "value": "Je me fonde sur le guide le plus sûr , l ' expérience ; c ' est pourquoi je commencerai par rapporter des faits .Pendant un séjour de plusieurs années que je fis à Moscou , je fus surpris de trouver beaucoup de gentilshommes , de marchands et d ' étrangers atteints d ' un scorbut lent , ayant les gencives molles , gonflées et bleuâtres , l ' haleine puante , et plusieurs , des taches scorbutiques aux jambes ; tandis que parmi le peuple , tant de la ville que de la campagne , il est très - rare de trouver un seul homme qui ait la moindre de ces marques .La nourriture des premiers consiste surtout en beaucoup de viande , tant fraîche que salée , et de poisson de même ; ils mangent peu ou point de légumes , excepté de tems en tems d ' une soupe aux choux aigres , qui ressemblent entièrement au sauerkraut d ' Allemagne , avec cette différence qu ' ils sont hachés menus , au lieu que celui - ci est coupé suivant la largeur des choux .",
+        "words": [
+          "Moscou",
+          "puante",
+          "je",
+          "haleine puante",
+          "étrangers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/bfdd19ea-53ca-564c-9678-33766bffa3fb",
+        "value": "Les tempêtes agitent et renversent du fond à la surface ces eaux , dont les vagues s ' entrechoquent les unes les autres , et se rompent même contre les rochers .Leurs molécules éparpillées laissent échapper les gaz délétères qui auraient été les germes de la putréfaction .Aussi l ' eau de la mer est - elle , par ce moyen , perpétuellement ramenée à l ' état de sa primitive existence .",
+        "words": [
+          "gaz",
+          "délétères",
+          "Leurs molécules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/c100e2fb-d627-5328-a5dd-f3fa47477df4",
+        "value": "x Manière d ' employer les chlorures de sodium et de chaux pour obtenir la désinfection d ' un endroit quelconque .( 1 ) Si l ' on veut désinfecter un lieu spacieux rempli d ' émanations putrides , provenant de quelque substance animale en décomposition par la privation de la vie , on verse un demikilogramme , ou une livre et demie environ , de chlorure de chaux sur vingt - quatre litres d ' eau de fontaine ou de puits , et l ' on agite le mélange ; on fait ensuite des arrosages avec cette eau chlorurée sur le sol : on se sert d ' un drap trempé dans cette eau , ou d ' un linge , qu ' on étend sur le corps en putréfaction , et l ' odeur disparaît a l ' instant .Au lieu de l ' application d ' un drap ou d ' un linge , on peut n ' avoir recours , selon les circonstances , qu ' à des aspersions réitérées , faites , au moyen d ' une éponge , sur le corps à désinfecter .",
+        "words": [
+          "putrides",
+          "odeur",
+          "émanations",
+          "disparaît",
+          "lieu",
+          "linge",
+          "chlorure de chaux",
+          "eau chlorurée",
+          "drap"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/c219999b-bada-5717-bd5b-2495977acf40",
+        "value": "Par ce moyen on prévient l ' enflure , le sang extravasé et les suites dangereuses de la faiblesse .Quant à la propriété qu ' a la vapeur aqueuse de bonifier l ' air , les voyageurs nous apprennent que , dans les parties septentrionales de l ' Asie et de l ' Europe , on a coutume de mettre des écuelles ou des seaux d ' eau fraîche sur les poêles qu ' on allume la première fois , pour corriger l ' effet des exhalaisons du combustible .M .",
+        "words": [
+          "Asie",
+          "air",
+          "exhalaisons",
+          "Europe",
+          "voyageurs",
+          "vapeur aqueuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/c50b4611-00fd-5d38-96ea-f32996b5351f",
+        "value": "Les hoquets , les défaillances , la suppression des urines , les hémorragies par les narines , l ' anus , ou par l ' ouverture des saignées que l ' on a faites , sont les accidens qui se présentent ou séparés ou réunis .Les déjections sont souvent noires ; le visage , qui avait été d ' un rouge foncé , se colore d ' un jaune plus ou moins saturé : cette suffusion ictérique se répand sur la surface du corps ; le malade exhale au loin une odeur cadavéreuse ; il meurt le premier , le troisième , cinquième , septième jour .Si la maladie se prolonge , elle laisse quelques espérances ; dans ce cas , la fièvre est rapprochée de l ' ordre des rémittentes , c ' est - à - dire qu ' elle a été sujette , dans son cours , à des redoublemens et à des rémissions .",
+        "words": [
+          "odeur",
+          "exhale",
+          "cadavéreuse",
+          "malade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/c54f4b91-c3e0-5d58-bdf1-c857c0f1e363",
+        "value": "; à la difficulté de respirer , l ' oximel scillitique , l ' application des ventouses , des sinapismes , même des vésicatoires entre les épaules et sur les membres inférieurs .On cherche à remédier à l ' extrême faiblesse par des frictions , par des fomentations aromatiques , par des cordiaux composés des vins les plus généreux et de substances aromatiques ; on donne aussi de petites doses de quinquina , si l ' estomac peut le supporter ; le camphre , le musc et 1 opium , s ' il y a des spasmes et des douleurs .Je viens de nommer le quinquina , et j ' avoue que je n ' en ai retiré aucun avantage comme tonique , donné à petites doses chez les scorbutiques que j ' ai traités à Marseille et à Embrun ; mais il soutient sa réputation administré comme fébrifuge et à grandes doses .",
+        "words": [
+          "camphre",
+          "musc",
+          "aromatiques",
+          "substances",
+          "opium",
+          "vins les"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/c6d84666-254f-5707-8509-194ac120c994",
+        "value": "Pendant la rigueur de leurs longs hivers , le froid les empêche d ' aérer cette habitation , de sorte qu ' il est aisé de concevoir que l ' air ne peut pas être bien pur , surtout si l ' on fait réflexion que quatre , cinq ou six personnes mangent et dorment dans une même chambre , et qu ' elles éprouvent , pendant la nuit , des chaleurs aussi grandes que si elles étaient dans une étuve , en sorte que , à les voir , on dirait qu ' elles viennent d ' être retirées de l ' eau .Les vapeurs et l ' odeur qui s ' en exhalent , quoique elles ne les incommodent point , seraient insupportables à tout autre que la curiosité pourrait y amener .Si l ' on considère maintenant que les exhalaisons de tant de personnes doivent s ' attacher à tout ce qui est dans la chambre , surtout aux peaux de moutons ou matelas sur lesquels ils couchent , à la mousse qui calfeutre les murs ; si l ' on fait attention que la chambre n ' est jamais aérée pendant l ' espace de six mois de l ' année au moins , et que leur nourriture consiste en viandes et en poissons salés , sans végétaux frais pendant tout ce tems ; ajoutez à cela qu ' ils sont exposés , toutes les fois qu ' ils sortent , aux rigueurs d ' une atmosphère froide , qui , comme l ' on sait , ne contribue pas peu à donner le scorbut ; si l ' on pèse bien , dis - je , toutes ces circonstances , et s ' il est bien vrai que , malgré toutes ces causes prédisposantes , il n ' y a point parmi eux de maladies putrides , j ' aurai été fondé à dire que la nature leur a enseigné , pour s ' en garantir , un régime des plus antiseptiques dont je tâcherai de donner ici une description détaillée , dans l ' espérance qu ' elle pourra être utile au genre humain .",
+        "words": [
+          "odeur",
+          "vapeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/c86551d6-9b6c-57b4-b389-6a79874fd6ea",
+        "value": "C ' est en effet dans les endroits marécageux qu ' on voit fréquemment régner les maladies épizootiques des bestiaux ; malheur qui arrive surtout lorsque les mares , après avoir été long - tems à sec , viennent à se remplir d ' eau , parce que toutes les circonstances , pendant la sécheresse , avaient concouru pour la destruction des insectes et la fermentation des matières putrides .L ' eau délaie toutes ces substances et devient par là très - malfaisante .On corrigeait autrefois les eaux qui avaient contracte une mauvaise odeur pour avoir croupi en les faisant chauffer , en les exposant à l ' air libre pendant deux ou trois jours , ou bien en les filtrant dans des fontaines sablées .",
+        "words": [
+          "malfaisante",
+          "eau",
+          "ces substances",
+          "très - malfaisante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/cbc3c880-02ac-5c1c-90e6-2af6cd4b57b4",
+        "value": "On remarque encore quelques petites différences suivant la constitution des malades .Les uns vont assez régulièrement à la selle pendant tout le cours de la maladie ; d ' autres , au contraire , sont sujets à être constipés ; mais en général les scorbutiques ont de tems en tems des cours de ventre , et ils rendent des matières très - fétides .L ' urine varie extrêmement , suivant les différentes circonstances , dans le même malade : elle est , généralement parlant , fort colorée , et se corrompt fort vite .",
+        "words": [
+          "matières",
+          "fétides",
+          "scorbutiques",
+          "très - fétides",
+          "de tems en tems"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/ceb36ee4-e5b5-5f7d-8361-e268f3102e3b",
+        "value": "On commence par faire des aspersions sur le sujet avec le chlorure de chaux dissous dans l ' eau .Cette liqueur produit un effet merveilleux , car , à peine a - t - on fait quelques aspersions , que l ' odeur infecte est instantanément détruite , et qu ' il devient possible de commencer l ' opération .En raison de ces faits vraiment dignes d ' inspirer le plus haut intérêt , M .",
+        "words": [
+          "infecte",
+          "odeur",
+          "liqueur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/d1031d9a-1311-5235-aa1f-935953b28ad7",
+        "value": "L ' huile attachée encore au parois de la viande en fut détachée par le procédé indiqué , et surnagea en forme de gouttes ; l ' action du feu acheva de séparer toutes les parties hétérogènes au bœuf .Cette viande flatta autant le goût que l ' odorat .La quantité d ' huile contenue dans ce premier vase n ' a perdu ni sa limpidité , ni sa douceur ; elle perdit seulement un sixième de son poids .",
+        "words": [
+          "odorat",
+          "viande"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/d1d0076b-0809-5f1c-a116-0512ac7bd098",
+        "value": "Tous les navigateurs doivent bien se rappeler qu ' avant cette heureuse pratique , ils se trouvaient dans la dure nécessité de boire l ' eau douce , souvent parvenue à un tel point de corruption , qu ' ils étaient obligés de la passer au travers d ' un linge pour la débarrasser des vers dont elle fourmillait .Aussi , l ' usage presque continuel , a bord des vaisseaux , d ' une eau plus ou moins putride , occasionait - il une foule de maladies également fréquentes et dangereuses , pendant les voyages de long cours principalement .Cette assertion ne saurait acquérir un plus grand degré de certitude que par l ' observation des gaz délétères que l ' eau recèle , et qui se dégagent même de sa masse , après avoir demeuré enfermée plusieurs jours dans des récipiens de bois sans le contact de l ' air .",
+        "words": [
+          "putride",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/d1f64512-5fb8-5b33-97f4-be8d25a1c429",
+        "value": "Durant le premier tems de la maladie scorbutique mentionnée cidessus , le défaut d ' espace m ' avait obligé à laisser les scorbutiques avec les autres malades : bientôt , ceux qui les fréquentaient le plus , et qui auparavant étaient exempts de la maladie , se plaignirent de l ' affection des gencives : étant parvenu à séparer les malades et à placer les scorbutiques à l ' ancien collège des Jésuites , aujourd ' hui maison de force d ' Embrun , je n ' éprouvai plus les mêmes inconvéniens , mais cela n ' empêcha pas que plusieurs jeunes chirurgiens , chargés des scarifications aes ulcères scorbutiques , ne gagnassent l ' affection locale ; c ' était d ' ailleurs une voix générale parmi les militaires , qu ' ils avaient contracté leur mal en couchant avec des camarades qui l ' avaient , en mangeant et en buvant après eux dans les mêmes vases .Ces faits , qui se sont passés sous mes yeux pendant quatre mois consécutifs , m ' ont fait acquérir la certitude de la contagion des ulcères scorbutiques , quand on reçoit dans la bouche des exhalaisons fétides qui en émanent , et , de plus , de la propriété de ces ulcères des gencives et du reste de la bouche , de produire un scorbut général quand on en avale la matière ; effet , d ' ailleurs , déjà fréquemment observé dans les épidémies d ' angines gangreneuses , où la déglutition de la matière sordide produit dans l ' estomac les mêmes aphtes qu ' on n ' avait d ' abord reconnus qu ' à la bouche .Plusieurs auteurs des siècles précédens ne se sont pas bornés à donner une extension illimitée à la possibilité de gagner le scorbut par contagion , mais ils en ont encore fait une maladie héréditaire , opinion qu ' il faut examiner avant de la rejeter comme absurde et incohérente : nous ne pensons cependant pas que ce soit le cas ici , pas plus que dans tant d ' autres maladies , d ' admettre trop légèrement une prédisposition congéniale ; car , en rapportant l ' existence commune des causes du scorbut , tous les individus , indifféremment forts ou faibles , exposés à ses causes , deviendront scorbutiques ; tandis que , loin de ces causes occasionelles , les sujets qui paraissent les moins disposés ne présenteront peut - être jamais le véritable scorbut .",
+        "words": [
+          "bouche",
+          "exhalaisons",
+          "fétides",
+          "matière sordide",
+          "pendant quatre mois consécutifs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/d41302e2-cdc9-5c38-8827-486120c9a823",
+        "value": "Il faut faire choix , pour la boisson , de l ' eau la plus pure , et donner aux repas du vin , du cidre , ou de la bonne bière ; on peut faire infuser dans celle - ci des bourgeons de sapin , qu ' on a trouvés utiles dans le scorbut , et qui ne rendent pas la boisson désagréable ; on peut permettre de tems à autre un verre de punch , mais tous les observateurs conviennent que les liqueurs alcooliques pures sont contraires dans cette maladie ; le lait , lorsqu ' il passe bien , forme encore une bonne nourriture , dont je me suis servi plusieurs fois avec avantage ; son usage n ' exclut pas les autres alimens .Coock avait embarqué avec lui beaucoup de malt , d ' après les idées de Macbride sur les effets du gaz acide carbonique contre la putridité , mais il paraît que cet orge préparé agit plus comme nutritif que d ' une autre manière ; quoi qu ' il en soit , la décoction de cette substance , qui est devenue une provision de vaisseaux , ne peut qu ' être très - utile en mer aux scorbutiques .On doit s ' attacher à vaincre la répugnance que ces malades ont pour le mouvement , en les engageant , chaque jour , à faire autant d ' exercice qu ' ils peuvent , et si cela leur est impossible , 011 y suppléera par des frictions sèches sur les extrémités inférieures .",
+        "words": [
+          "gaz",
+          "putridité"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/d6cc2fc3-2d04-550e-8f48-88bce578f15f",
+        "value": "par son résultat , fut une découverte qui , dès son principe , a été placée parmi celles qui sont les plus utiles et qui ont davantage honoré la chimie moderne .Indépendamment de la propriété qu ' ont les vapeurs muriatiques d ' anéantir les miasmes putrides qui peuvent se trouver disséminés dans l ' air , elles exercent aussi leur action puissante sur la matière contagieuse qui peut attaquer le corps animal , comme le prouve évidemment l ' expérience importante dont nous allons donner le récit dans tout son détail .A l ' occasion d ' une épizootie , qui eut lieu aux environs de Florence en Toscane , notre pays natal , et qui , par bonheur , n ' eut pas les suites funestes que l ' on craignit d ' abord , nous nous transportâmes sur les lieux où la morta - lité des bestiaux était devenue assez considérable .",
+        "words": [
+          "putrides",
+          "air",
+          "miasmes putrides",
+          "vapeurs muriatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/d9b3a25c-86a5-5838-a529-f0891634c880",
+        "value": "Tous les soins qu ' on , prit pour tenir le vaisseau de milord Anson extrêmement propre , après qu ' il eut quitté la côte du Mexique , n ' arrêtèrent point les progrès de cette fâcheuse maladie ; d ' ailleurs , on sait que le scorbut peut être parfaitement guéri dans l ' air impur des vaisseaux .Doit - on regarder l ' air de l ' Océan comme une des causes occasionelles du scorbut ? On ne parviendra peut - être jamais , dit l ' auteur du Voyage de milord Anson , à connaître parfaitement la source de cette maladie ; mais , en général , on conçoit facilement que , comme tout animal vivant a besoin de respirer continuellement un nouvel air , et comme ce fluide est d ' une nature si particulière que , sans perdre son élasticité , ou aucune de ses qualités sensibles , il peut devenir inhabile à cet usage , par le mélange de quelques exhalaisons très - subtiles et imperceptibles ; on conçoit , dis - je , que les vapeurs qui s ' élèvent de l ' Océan peuvent avoir la propriété de rendre l ' air moins propre à la vie des animaux qui sont accoutumés à vivre sur la terre , à moins qu ' elles ne soient corrigées par des vapeurs d ' une autre espèce , que la terre seule est peut - être en état de fournir .Réponse de M .",
+        "words": [
+          "air",
+          "exhalaisons",
+          "milord Anson",
+          "très - subtiles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/da5e3922-02c4-5030-b064-2ef096d0af02",
+        "value": "3 .) Bontius a été témoin , dans l ' Inde , de l ' efficacité des frictions aromatiques .Il employa également les bains .",
+        "words": [
+          "aromatiques",
+          "frictions",
+          "Bontius"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/dffbddcb-7af1-5d22-baa0-6f218a507c47",
+        "value": "Les mêmes maisons abandonnées servaient de latrines aux matelots et aux soldats , parce qu ' il ne s ' en trouve point en cette ville .Les miasmes méphitiques qui s ' en élevaient le matin , au lever du soleil , exhalaient dans tout le voisinage une fétidité suffocante .Le cimetière public de la Fossette , beaucoup trop resserré dans sa surface à raison du nombre des cadavres que l ' on y entassait ; le peu de profondeur des fosses , fort au dessous des dimensions prescrites par les lois de police ; la négligence criminelle avec laquelle on procédait aux inhumations , telles étaient les causes qui menaçaient de dangers sans nombre par le développement des gaz délétères dans une atmosphère déjà viciée ; les voiries abandonnées , les animaux livrés , sur les lieux où ils périssaient , à une décomposition dont les produits se mêlaient partout à l ' air que respiraient les citoyens .",
+        "words": [
+          "fétidité",
+          "miasmes",
+          "suffocante",
+          "méphitiques",
+          "le voisinage",
+          "le matin , au lever du soleil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/e1aa685d-3fe7-55d9-98fb-3f380eae9d6d",
+        "value": "Ses digestions se faisaient mal et donnaient souvent lieu à la diarrhée , ainsi qu ' à des gaz qu ' il rendait souvent par la bouche .Quand ces rapports le fatiguaient , qu ' ils distendaient le ventre ( ce qu ' il appelait des vapeurs ) , il achetait sa tranquillité en prenant divers condimens ou infusions aromatiques ; mais ces remèdes le laissaient abattu , mélancolique et même irascible pendant quelques jours .Le 8 août 1824 , il prit en se levant une tasse de café pur et sans sucre : il avait peu mangé la veille , et il resta à jeun jusqu ' à midi , époque où il commença à éprouver de violentes coliques .",
+        "words": [
+          "vapeurs",
+          "aromatiques",
+          "pendant quelques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/eb0dd905-e0e7-57f6-9858-700e77084305",
+        "value": "C ' est un moyen d ' hygiène publique que l ' autorité doit signaler à ses administrés , ainsi que pour assainir et désinfecter les bergeries , les étables , les écuries qui auront été habitées par des animaux atteints de quelque maladie épizootique , qui est toujours de la nature du typhus , ou affection charbonneuse .Chacun sait que les vapeurs du chlore , quelque disséminées qu ' elles soient , attaquent et détruisent tous les métaux usuels .Ainsi , la découverte de M .",
+        "words": [
+          "vapeurs",
+          "attaquent et détruisent tous les métaux usuels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/ebcac3e8-c0f1-5f51-912d-7f9c9b90d72b",
+        "value": "Taches de différentes COU - Légères frictions à l ' aide d ' un leurs à la surface de la peau .morceau de flanelle ou d ' une Jambes un peu enflées et étoffe de laine parfumée avec le œdémateuses ' .benzoïn et l ' ambre .",
+        "words": [
+          "parfumée",
+          "laine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/edff3dd6-4201-5300-b8f0-917845aee53b",
+        "value": "Leur boisson ordinaire est une petite bière fort aigre , qu ' ils nomment quas ; ils boivent , en outre , du vin , de la bière du pays , de la bière d ' Angleterre , et un petit verre d ' eau - de - vie , au moins avant chaque repas ; ils mangent fort peu de pain .Le peuple vit toute l ' année de cette soupe aux choux aigres , dans laquelle on cuit de la viande salée les jours gras , du poisson salé ou séché , les jours maigres , et pendant leurs quatre carêmes , qui font plus d ' un tiers de l ' année , ils y ajoutent alors de l ' huile de lin fort puante , au lieu de graisse ou de beurre .Dans cette soupe , qu ' ils appellent schsti , en maigre et en gras , ils font cuire des gruaux , surtout celui de blé sarrasin .",
+        "words": [
+          "puante",
+          "toute"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f30c9aa6-1979-585e-ab87-77eebb08f9ec",
+        "value": "Il est donc évident , par tout ce que l ' on vient de dire , que l ' état des scorbutiques est une faiblesse et un relâchement des solides , avec une tendance du sang à cette putréfaction spontanée qui vient du défaut d ' un chyle propre à corriger l ' acrimonie des sucs , et d ' une suppression considérable de la transpiration .Ceci est prouvé non - seulement par les effets connus et cçrtains qui donnent origine au scorbut , mais on peut encore s ' en assurer par ses yeux en considérant les personnes attaquées de cette maladie : leurs jambes enflées et œdemateuses et leurs gencives spongieuses indiquent l ' état des solides ; la puanteur de l ' haleine , les selles , 1 urine , les ulcères et le sang font voir la condition des fluides , et la lassitude spontanée , mais surtout la peau rude , sèche ou luisante , prouve la suppression de la transpiration .Enfin , aux causes prédisposantes que nous avons examinées jusqu ' à présent , on doit ajouter aussi une vie trop laborieuse , l ' inaction et par conséquent le manque d ' exercice , une santé mal - affermie après avoir essuyé quelque maladie , les fortes passions de l ' ame , telles que la crainte , le chagrin , la tristesse , en un mot , tout ce qui peut abattre l ' esprit ou diminuer l ' énergie de l ' organisme animal si facile à succomber à sa faiblesse .",
+        "words": [
+          "puanteur",
+          "urine",
+          "selles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f4953c22-e149-55bb-8117-801803785e57",
+        "value": "2 ° Quand des brouillards épais et nuisibles s ' élèvent des vallées , mais principalement de la vase des eaux bourbeuses ou autres impuretés , surtout après le coucher du soleil .Leur odeur peut se comparer , dans les pays chauds , à celle des fossés qu ' on vient de nettoyer .Comme ces brouillards n ' infectent ordinairement que pendant la nuit , les maladies qui en résultent se déclarent à cette époque ou bien avant le lever du soleil .",
+        "words": [
+          "odeur",
+          "celle",
+          "Leur",
+          "pays"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f49b67aa-5601-56db-a0ee-451c4b863d35",
+        "value": "XXX .Pour calmer le système nerveux , on placera le malade sur un lit mou et chaud , dans un lieu à l ' abri de toute lumière vive , de toute odeur forte : « loco lucido mediocriter , nullo odore infecto , » dit Cœlius - Aurelianus ; on évitera de faire du bruit , et l ' on éloignera tout ce qui pourrait exalter la sensibilité .Dans le tétanos très - aigu , on donnera à l ' intérieur l ' opium , comme calmant , et non pas à haute dose , comme on le fait ordinairement : je pense que les spasmodiques actifs , excitans , doivent être proscrits ; ils me paraissent plus propres à donner une nouvelle intensité à la convulsion qu ' à en calmer la violence , à l ' entretenir qu ' à l ' apaiser .",
+        "words": [
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f58c2c1c-192b-52a4-a691-953551092f08",
+        "value": "Quelques vieillards eurent des hémorragies si copieuses du nez et de la bouche , qu ' ils en moururent .Les tuniques des vaisseaux étaient rongées par l ' humeur corrosive qu ' elles renfermaient .1 5 .",
+        "words": [
+          "corrosive",
+          "humeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f592362b-f14e-593e-9819-d19bf56c5fdc",
+        "value": "mons , le nez , l ' estomac , les Ces remèdes sont ceux auxquels on doit le plus se lier pour guenr .vlDes hemoroldales ou par les fièvres putrides et colliquatives d autres parties , des scorbutiques .Obstruction des viscères Ces maladies demandent le abdominaux , te qui donne m ême traitement que quand elles souvent naissance à la jau - viennent d ' autres causes ; il faut ! Jr cependant mêler les antiscorbuti , F , affec - nisse , 1 hydropisie , ques avec les remèdes qui leur tion hypocondriaque OU la conviennent , pour plus de sûreté .",
+        "words": [
+          "putrides",
+          "fièvres",
+          "scorbutiques",
+          "fièvres putrides",
+          "colliquatives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f5aac262-548a-5860-9d21-b6001b515f18",
+        "value": "Labarraque est supérieure à celle de Guytton - Morveau , comme étant d ' un emploi beaucoup plus facile , plus économique , et pouvant être mise en pratique dans les lieux habités , sans provoquer ces toux convulsives cent fois pires , pour certains malades , que le miasme que l ' on cherchait à détruire .C ' est parce que le procédé nouveau a pour base le même agent désinfecteur que celui du célèbre chimiste de Dijon , qu ' il a été adopté dans les hôpitaux de Paris , et qu ' il doit l ' être également dans tous ceux de la province , ainsi que dans les prisons , dans les salles de dissection , dans tous les établissemens publics , dans les églises , dans les théâtres , dans les halles et les marchés , dans les cafés , enfin dans les maisons particulières exposées à quelque odeur incommode .On conçoit que les manufactures , les ateliers et les fabriques , où l ' on opère sur des substances animales parfois putréfiées et infectes , réclament surtout le secours de la nouvelle méthode désinfectante .",
+        "words": [
+          "odeur",
+          "incommode",
+          "églises",
+          "prisons",
+          "théâtres",
+          "cafés",
+          "halles",
+          "désinfecteur",
+          "marchés",
+          "dans tous les établissemens publics",
+          "les hôpitaux de Paris",
+          "maisons particulières",
+          "salles de dissection",
+          "tous ceux de la province"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/f68fecef-8bf0-5cda-94cf-6702b6395320",
+        "value": "Cette vérité est si évidente , que le docteur Valentin , l ' un des plus ardens défenseurs de la spécieuse doctrine de l ' infection , a été contraint de s ' exprimer dans les termes suivans : « Il ne s ' ensuit pas cependant de ce que cette maladie n ' est pas susceptible de se communiquer par le contact , ou d ' un individu à l ' autre , comme la peste , par exemple , ainsi que d ' autres maladies dont la contagion n ' est pas un problème , qu ' elle ne puisse produire quelquefois cet effet dans certaines circonstances , ou secondairement .Ne voit - on pas , d ' ailleurs , que les lièvres de mauvais caractère , et qu ' on appelle vulgairement putrides et malignes , des dyssenteries , se communiquent souvent par les émanations des malades , ou de leurs excrétions , à ceux qui les soignent ou qui les environnent , selon certaines modifications , les dispositions morales et physiques , les lieux , les saisons , le régime , etc ., etc ? » Un aveu aussi solennel doit être désormais écrit en gros caractères sur la bannière de tous les contagionistes , lorsqu ' ils descendront dans l ' arène , puisque , selon eux , la fièvre jaune ne devient communicable et transmissible que selon certaines modifications , les dispositions morales et physiques , les lieux , les saisons et le régime .",
+        "words": [
+          "putrides",
+          "émanations",
+          "malades",
+          "malignes",
+          "lièvres",
+          "leurs excrétions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/ff28de91-9761-5879-8062-7734b55fc5b3",
+        "value": "En août 1822 , on a vu M .Labarraque , dans le village de Clichy , désinfecter , en présence des commissaires envoyés par le conseil de salubrité et la société d ' encouragement pour l ' industrie nationale , plus de mille ventres de bœuf entassés dans des tonneaux , et dans un état de putréfaction très - avancée .le procureur du roi , M .",
+        "words": [
+          "putréfaction",
+          "dans le village de Clichy",
+          "très - avancée"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/ee98f0fe-6e69-50e3-bcc0-430eb0e3edbc",
+        "label": "Da Olmi"
+      }
+    ],
+    "label": "Précis historico-physique d'hygiène navale , suivi d'un Recueil analytique des meilleurs écrits publiés sur les quatre maladies les plus redoutables aux navigateurs européens en Amérique et aux Indes (le scorbut, le tétanos, le choléra-morbus et la fièvre jaune). Par M. Da-Olmi,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6473516m",
+    "date": "1828",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/61a4915e-1a78-5259-b63c-6226fabcea99",
+      "label": "1828",
+      "begin": "1828",
+      "end": "1828"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/109223/",
+      "label": "Medina"
+    },
+    {
+      "@id": "https://sws.geonames.org/2513961/",
+      "label": "Medina-Sidonia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/20b1c8e4-2802-5a2c-a80c-f09837d84e09/fragment/6b885e3a-c65c-5286-8b36-39917c1e47a9",
+  "license": "Public domain"
+}

@@ -1,0 +1,1775 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/08fd66c7-355e-5118-b15c-3b1d1bfb3035",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/033247c1-df85-54f4-bf1e-e360e49ba487",
+        "value": "Arbre des contrées intertropicales , qui a quelque ressemblance avec le palmier par son feuillage , qui est en touffe au sommet du tronc .Son fruit , de la grosseur d ' un melon , et ayant une pulpe jaune , succulente , d ' une saveur douce et d ' une odeur aromatique , se mange rarement cru ; mais lorsqu ' il est parvenu à sa complète maturité , on le confit tout entier dans le sucre avec des oranges et des petits citrons , qui lui communiquent leur parfum et le rendent alors un mets trèsagréable .PAPILLON .",
+        "words": [
+          "aromatique",
+          "douce",
+          "parfum",
+          "leur",
+          "odeur aromatique",
+          "trèsagréable",
+          "Son fruit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/0466acf9-bdfc-598f-833b-06b3ba46da8e",
+        "value": "L ' été dure poureux depuis le 19 mai jusqu ' au seizième jour du mois d ' août , pé - riode pendant laquelle l ' air est extrêmement chaud et le ciel constamment serein .Si par hasard il tombe de la pluie en juület et août , tout l ' air est infecté et donne naissance à des fièvres pestilentielles , dont il est difficile de guérir lorsqu ' on en est attaqué .Ils comptent l ' automne du 17 août jusqu ' au 16 novembre .",
+        "words": [
+          "air",
+          "infecté",
+          "pestilentielles",
+          "fièvres",
+          "en juület et août"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/046fe42d-088d-5994-89c8-38625d90eadb",
+        "value": "Au milieu de ce fulateau s ' élèvent des touffes de rctama , qui est le spartium nubigenum d ' Aiton .Cet arbuste charmant acquiert jusqu ' à neuf pieds de hauteur : il est couvert de fleurs odoriférantes , dont les chasseurs de chèvres , que nous rencontrâmes sur la routn , avaient orné leurs chapeaux de fraille .Les chèvres du pic , qui ont le poil d ' un brun très - foncé , sont regardées comme un mets délieieux elles se nourrissent des feuilles du spartium et sont sauvages dans ces déserts depuis uni temps immémorial .",
+        "words": [
+          "fleurs",
+          "nous",
+          "odoriférantes",
+          "charmant",
+          "arbuste",
+          "chasseurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/05d8886a-5a4f-575d-8d0c-96e8ea1ccd69",
+        "value": "Il est originaire de la Chine et des contrées voisines , où on le propage par boutures , et il acquiert de très - grandes dimensions .Ses feuilles sont ovales , allongées ; ses fleurs , très - blanches , exhalent un parfum agréable , et ses fruits , qui atteignent jusqu ' à 30 centimètres de largeur , pèsent de 8 à 10 kilogrammes .lls sont intérieurement partagés en une douzaine et plus de cellules parcheminées , lesquelles sont remplies d ' une pulpe rouge ou blanche , selon la variété .",
+        "words": [
+          "agréable",
+          "parfum",
+          "fruits",
+          "feuilles",
+          "ses fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/0b359735-7f92-5775-aea5-20a0e0f3d4dc",
+        "value": "Lorsqu ' elles s ' abattent sur cette localité , toute la végétation y est détruite en peu d ' heures et elles vont même jusqu ' à ronger l ' écorce des arbres .Si par une cause quelconque , elles Tiennent à périr en grand nombre durant leur migration , le sol qu ' elles couvrent de leurs cadavres répand bientôt des exhalaisons délétères , et la peste succède alors à la famine .Il est cependant des peuples , même dans le pays qu ' elles affligent quelquefois , qui regardent les sauterelles comme des animaux utiles , car ils en font leur nourriture .",
+        "words": [
+          "exhalaisons",
+          "délétères",
+          "sol"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/0d0b5302-57e7-5a41-8ac3-a694a399e77e",
+        "value": "— Le docteur Stark , de l ' université d ' Édimbourg , ayant remaiqué , dans l ' hiver de 1831 , que iorsqu ' il se rendait avec un hahit noir à l ' emphithéâlre d ' analomie , le drap s ' imprégnait d ' une odeur désagréable et persistante , ce qui n ' avait pas lieu lorsqu ' il y allait avec un autre habit dont la couleur était vert olive ; il voulut vérifier si l ' absorplion du principe odorant , quel qu ' il soit , variait su 7ant les couleurs des cerps absorbants , et , à cet etret , il réalisa les expériences suivantes Il soumit d ' ahord à l ' action du camphre , durant six heures et dans un lieu obscur , deux petits morceaux de drap , l ' un noir et l ' autre blanc .Le résultat fut que le drap noir s ' était imprégné d ' une odeur plus forte que celle absorbée par le drap blanc .L ' expérience fut répétée en substituant de l ' assa .",
+        "words": [
+          "odeur",
+          "plus forte",
+          "imprégné",
+          "drap",
+          "drap noir",
+          "celle absorbée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/0e0a8324-87bc-5420-9dcf-f62233cbaff9",
+        "value": "Le cours des amazones est parsemé d ' îles , dont les unes sont fixes et couvertes de végétation , tandis que les autrcs ne sont que des amas de sable mouvant .Dans ïa saison des pluies les eaux débordent et fertilisent les terres ; mais l ' écoulement ayant lieu avec lenteur , il s ' y forme des marais qui exhalent une odeur infecte .FLORE FOSSILE .",
+        "words": [
+          "infecte",
+          "odeur",
+          "eaux",
+          "marais",
+          "Dans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/0fa27f69-b52d-5b10-bcc1-50e50be15de2",
+        "value": "« Le village de Vaucluse ' est comme le dernier tenue de cette fertile contrée et prend part à tous ses avantages .Comme elle , il a des fabriques en activité comme elle , ses vergers sont enclos de haies où le jasmin et le myrte unissent leurs rameaux à ceux du grenadier ; où les fleurs du smilax et du chèvrefeuille , qui balancent leurs guirlandes dans l ' air , mêlent leurs parfums à celui de l ' origan , de la lavande , du romarin et de l ' immortelle , qui croissent sur le même sol .« Vaucluse est situé sur la rive gauche de la Sorgue ; il est adossé pour ainsi dire à la masse rocheuse du sein de laquelle s ' élance le cours d ' eau si rapide , à l ' onde si pure et si transparente , et l ' on voit s ' élever au - dessus de ses toits , dans la partie la plus lointaine , la roche delOO mètres de hauteur , ctui sert de couronnement au palais de la Naïade , et , sur la côte la plus rapprochée , les ruines d ' un château qu ' on croit avoir appartenu à Philippe de Cabassoles .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "jasmin",
+          "immortelle",
+          "romarin",
+          "lavande",
+          "chèvrefeuille",
+          "origan",
+          "celui",
+          "smilax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/0fe6aef4-e0ed-53d7-a424-869060d1a5fd",
+        "value": "Du reste immobiles l ' un à côté de l ' autre ils gardaient encore la même posture quand Klaas ies avait aperçus pour Ja première fois ; mais ils portaient le nez au vent , et , par conséquent , nous présentaient la croupe .C ' est la coutume de ces quadrupèdes , quand ils sont ainsi arrêtés , de se placer dans la direction du vent , afin d ' étre avertis , par l ' odorat , des ennemis qu ' ils ont à craindre .Seulement , alors , ils détournent de temps en temps la tête pour jeter un coup d ' œil en arrière et veiller de toutes parts à leur sûreté ; mais ce n ' est aue l ' affaire d ' un instant .",
+        "words": [
+          "odorat",
+          "ces quadrupèdes",
+          "quadrupèdes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/10ad3bf4-9823-5668-b43e-3ef26a12439b",
+        "value": "On croit qu ' il est dangereux aussi de se reposer trop longtemps à l ' omhre d ' un noyer , à cause de ses émanations qui oecasionnent du malaise et des maux de tête .Le lobelia longiflora excite , dit - on , une impression sutrocante sur celui qui respire dans son voisinage .Enftn , nous avons déjà parlé du degré vénéneux des émanations du boun - upas et du mancenillier , qui , toutefois , ne présentent pas en réalité les résultals riedoulalrles que quelques voyageurs se sont plu à signaler .",
+        "words": [
+          "sutrocante",
+          "lobelia longiflora",
+          "impression sutrocante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/121509ed-60c2-50c5-bbf9-391a4b5ef544",
+        "value": "On petit leur faire respirer l ' acide muriatique ou l ' ammoniaque , sans qu ' ils en soient incommodés , sans même qu ' ils en doutent .Le contraire a lieu dans certains cis , et ils sont sensibles aux odeurs .« D .",
+        "words": [
+          "ils",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/141e1d79-6b47-583f-8488-b96f94940952",
+        "value": "Ayant llacé , par exemple , des grappes de fleurs dans différenties substances , il observa les effets suivants L ' acide prussique et les autres acides concentrés , les eaux aromatiques , l ' alcool el les llhers , détruisent plus ou moins rapidement celte propriété .Les sels métalliques produisent le môme résultat , tandis que les fleurs plongées dans des infusions concentrées de poisons narcotiques .tels que la noix vomique , t ' opium , etc .",
+        "words": [
+          "fleurs",
+          "narcotiques",
+          "sels",
+          "poisons",
+          "poisons narcotiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/144895e9-5e80-5de3-be05-f83a575bab98",
+        "value": "Ses fleurs , rouges , odorantes , assez grandes et réunies sept ou huit ensemble au sommet des rampeaux , sous forme de grappes un peu pendantes , donnent naissance à des gousses qui renferment une pulpe épaisse , molle , gluante , brunâtre , et au milieu de laquelle se trouvent do deux à quatre semences brunes , luisantes , comprimées et anguleuses .La saveur de la pullue , légèrement acide , le devient totalement par suite de la fermentation acéteuse .Ce fruit a le double avantage d ' être alimentaire et essentiellement rafraîchissant , laxatif et anti - putride .",
+        "words": [
+          "saveur",
+          "pullue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/14a22794-9e18-5a47-a94a-a4969d203147",
+        "value": "La vanille ne doit son odeur aîomatique , sa saveur agréable et sa vertu stimulante , qu ' à la pulpe renfermée dans l ' intérieur de son fruit , et comme cette pullne n ' existe dans aucune autre orchidée , la vanille forme alors , à cet égard , une excelslion dans cette faille .L ' odeur du chanvre est très - forte , enivrante , narcotique , et elle agit si puissamment sur nos o : banes , qu ' il suffit de s ' arrêter quelque temps dans le voisinage d ' une chénevière , pour en éprouver les désagréables effets , c ' est - à - dire des éblouissements , uue sorte .d ivresse , etc .",
+        "words": [
+          "odeur",
+          "nos",
+          "enivrante",
+          "narcotique",
+          "chanvre",
+          "très - forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/15110b02-d0d3-5a63-b9b2-4ea01dc46991",
+        "value": "Lors pe les premiers froids eurent fait cesser la végétation , co scirpus disparut et on ne le revit plus .Quand des forêts vierges sont abattues , à la Guyane , les bois revenus , aphelés niamnns , n ' offrent plus que des arbres étrangers aux forêts primitives , et parmi lesquels on distingue particulièrement le palmiste , le bois puant , le maripa des Caraïbes , l ' aouara , etc .Généralement , dans les montagnes de nos contrées , les forêts détruites sont remplacée par des framboisiers , des groseilliers , des ronces et autres arbrisseaux .",
+        "words": [
+          "bois",
+          "Guyane",
+          "puant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/15640616-0269-5073-8de5-baf8086d30cd",
+        "value": "Le ciel qui paraît abaissé , ne jette qu ' un demi - jour trouble et livide sur la plaine désolée ; l ' horizon se rapproche tout coup , il resserre le désert et le cœur de l ' homme .Suspendu dans l ' atmosphère , qu ' il voile d ' un nuage éyais , le sable embrasé et poudreux augmente la chaleur étouffante de l ' air ; au lieu de fraîcheur , le vent d ' est apporte une ardeur nouvelle , en chariant les émanations brûlantes d ' un terrain lonntemps échauffé .Les flaques d ' eau que protégeait le palmier , dont le soleil a fané la verdure , disparaissent peu h peu .",
+        "words": [
+          "air",
+          "atmosphère",
+          "émanations",
+          "étouffante",
+          "brûlantes",
+          "sable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/19059767-fa9d-5a3f-9a17-727f26cbbd9b",
+        "value": "Cet oiseau a une mue considérable pendant la saison des pluies mais lorsqu ' arrive le mois d ' août , c ' est - à - dire après la ponte , ses plumes reviennent en septembre et octobre , époque où le temps est calme .Il s ' attache beaucoup aux contrées qui produisent les épices , ce qui a fait croire qu ' il ne vivait que sur les arbres aromatiques .Au dire du voyageur Tavernier , il mange , dans la saison des muscades , une si grande quantité de ce fruit , qu ' on le trouve souvent à terre ivre - mort .",
+        "words": [
+          "aromatiques",
+          "épices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/1d2b6813-afc8-5697-9827-2d7c74ecdff5",
+        "value": "On avait consacré ce végétal aux dieux Lares et les Romains en faisaient pendre durant plusieurs jours à ceux qu ' ils voulaiont purifier de quelque crime pour les ramener sains à leur foyer .Vespasien répondit à un courtisan efféminé qui lui demandait un gouvernement « J ' aimerais mieux que tu sentisses l ' ail que les parfums .» Néanmoins , Horace s ' est déclaré l ' antagoniste de cette plante .",
+        "words": [
+          "parfums",
+          "tu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/1ee539b2-1aee-5195-b80c-4f23abf1021d",
+        "value": "On cite une femme qui s ' évanouissait en voyant voltiger une plume ; une autre personne perdait aussi connaissance a l ' apparition d ' un corps rouge .François Venier , doge de Venise , le chevalier de Guise et Favorité , poëte italieti , ne supportaient pas sans défaillir l ' odeur d ' une rosé .Anne d ' Autriche et Louis XIII ne pouvaient même voir celte fleur en peinture .",
+        "words": [
+          "odeur",
+          "rosé",
+          "François Venier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/20dcb697-5d4f-560f-97f9-701bb5d5147d",
+        "value": "Tous les auteurs grecs et latins ont mentionné le safran il était employé par les habitants de Tyr et de Sidon à teindre en jaune ! e voile des nouvelles mariées ; il entrait dans la fabrication des parfums , dans les préparations culinaires et dans celles de la pharmacie les Egyptiens en coloraient leurs aliments et s ' en servaient pour l ' aspersion des temples , des théâtres et des salles de festin les Sybarites en buvaient en infusion , avant de se livrer aux plaisirs de Bacchus , et les Romains en teignaient leurs vêtements et tours chaussures .De nos jours , on en extrait une belle teinture , mais difficile à fixer puis un amidon de bonne qualité , une huile éthérée et un narcotique , et ou le con - qu ' ils ont faim , et que l ' écureuil qui rassemble des provisions durant l ' été pour l ' hiver a le soin au lieu de les renfermer dans un même endroit , de les séparer dans des dépôts différents .Le docteur Galorliel avait apprivoisé un .",
+        "words": [
+          "huile",
+          "narcotique",
+          "durant l ' été"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/212e40c3-ab94-55c7-abc2-9cf655af363b",
+        "value": "Un autre mode de vérification fut encore mis en usage en pesant dans une balance très - sensible les substances colorées avant l ' expérience ; en les exposant ensuite à l ' action du camphre vaporisé lentement a l ' aide de la chaleur , et en les pesant enfin de nouveau , il fut constaté que la substance co ! orée en noir s ' était augmentée d ' un certain poids , comparativement plns fort que celui dont s ' étaient augmentées les substances autrement c : olorées , et surtout le blanc .Maintenant on sait que les substances colorées en noir absorbent aussi plus de chaleur que celles colorées en blanc , et peut - être alors est - il permis d ' en conclure qu ' il existe également un rapport intime entre la chaleur et le principe odoriférant .OISEAU DU PARADIS , — Cet oiseau est un des plus élégants et des plus renommés parmi les dames qui affectionnent une riche parure .",
+        "words": [
+          "odoriférant",
+          "substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/21a3dd02-c96b-55d3-aa00-2a6b7dd3de29",
+        "value": "Et bien que l ' eau soit aussi bouillarite , si est - ce que par cette ébullition elle n ' acquiert aucune chaleur , mais etie vient trouble .grasse , onctueuse et acquiert une odeur semblable à celle des bains bitumineux et g Aristote , en ses histoires merveitleuses , raconte qu ' en Perse y a certains feux sortant de terre , à l ' entour desquels le roi de cette contrée avait fait bâtir des cuisines , sans que le bois lui coûtât beaucoup pour apprêter tes viandes .En ce lieu - ci , on se pourrait servir de même ménage , car le feu de noire fontaine est fort propre pour apprêter les viandes sans leur donner aucun mauvais goût , comme expérimentent ceux , lesquels allant visiter cette curiosité naturelle , font porter une poète avec du beurre , des œufs , du poisson ou autre chose semblable , et les font cuire sur ce feu .",
+        "words": [
+          "odeur",
+          "Perse",
+          "Aristote",
+          "bains bitumineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/22e237bf-64d2-5a02-8424-8624dae82b11",
+        "value": "On divise aujourd ' hui sur le verre , ave \" une pointe de diamant 1 millimètre en 500 parties .Si , dans un vase placé sur des charbons ardents , on fait distiller une liqueur odorante de l ' eau de Heurs d ' oranger , par exemple , une très petite diminution du volume de la liqueur sulIira pour que tous les points d ' une chambre très grande contiennent des parties odorantes .Ainsi un millimètre cube de la liqueur pourrait être divisé en 5 , 804 , 752 , 896 , 000 parties .",
+        "words": [
+          "odorante",
+          "liqueur",
+          "odorantes",
+          "chambre",
+          "parties",
+          "eau de Heurs d ' oranger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/234303de-0c02-5dbd-8569-756456fbd6b5",
+        "value": "Par moments , je voyais se déplacer l ' une de ces masses incandescentes ; elle marchait lentement , en lançant des clartés blafardes , jusqu ' à ce qu ' elle rencontrât une éminence pour se reposer d ' autrefois elle passait au - dessus dé nous , sans altérer sensiblement la pureté du ciel ; après avoir secoué sa gerbe d ' éclairs et inondé le pont du navire , comme si une lame en avait lavé la surface , elle reprenait sa marche à travers l ' espace infini .Les brises rlui poussaient ces nues voyageuses étaient toutes chargées du parfum des fleurs ; en passant sur les muscadiers de Sumatra , sur les girofliers et les frangipaniers des îles Malaises , elles avaient imprégné leurs ailes humides de suaves arômes .Un peu avant le jour , la ceinture de flammes qui nous entourait naguère s ' était éteinte ; les nuages avaient disparu ; l ' horizon était calme et d ' un bleu sombre .",
+        "words": [
+          "parfum",
+          "suaves",
+          "fleurs",
+          "elles",
+          "brises",
+          "ailes",
+          "girofliers",
+          "imprégné",
+          "arômes",
+          "Sumatra",
+          "îles",
+          "muscadiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/260c58aa-fe40-5524-ba1a-1ab51d6db8f2",
+        "value": "« C .Quelquefois l ' odorat est cnmmo anéanti .On petit leur faire respirer l ' acide muriatique ou l ' ammoniaque , sans qu ' ils en soient incommodés , sans même qu ' ils en doutent .",
+        "words": [
+          "odorat",
+          "cnmmo",
+          "cnmmo anéanti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/26d47882-f97c-5e6d-a7f9-e83e216622e8",
+        "value": "Je vis enlever successivement ceux de Marine de Médicis , d ' Anne d ' Autriche , de MarieThérèse , du grand Dauphin , du duc et de la duchesse de Bourgogne , de la reine Marie Leczinska , femme de Louis XV , et d ' autres princes et princesses de la branchue bourbonnienne .Tous ces corps , sans exception , furent trouvés dans un état do décomposition putride et réduits en une pâte noire et épaisse d ' où sortait , à mesure qu ' on ouvrait les cercueils , une vapeur fé .tide qui remplassait l ' église et infectait les assistants .",
+        "words": [
+          "putride",
+          "ces corps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/29887251-5e57-5f47-9e64-14c077756a25",
+        "value": "Il arrive fréquemment que l ' on parcour , durant plusieurs heures , cette triste région , , sans qu ' un seul être vivant vienue vous arracher aux méditations qu ' elle inspire .Les oiseaux semblent fuir en effet l ' aspect lugubre de l ' arbre résineux , et le papillon nu trouve point là les guirlandes de chèvrefeuille , ni les corolles parfumées des plantes qui parent les coteaux .L ' abeille , néanmoins , peut butiner sur les fleurs de l ' ajonc et des genêts , et l ' écureuil vient quelduefois percher sur la cime des pins , dans le fruit duquel il trouve une sorte d ' amande qui fait ses délices .",
+        "words": [
+          "plantes",
+          "lugubre",
+          "oiseaux",
+          "chèvrefeuille",
+          "coteaux",
+          "papillon",
+          "arbre résineux",
+          "corolles parfumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/2d43ca91-61e2-5eda-99c0-ebeff78a72d3",
+        "value": "On fabrique encore , avec le vitivar , des éventails et des chasse - mouches odorants , et on retire enfin de cette plante une infusion qu ' on dit fébrifuge .Quant à ce que les honnêtes marchands de Paris vendent sous le nom de vititer , ce n ' est le plus souvent que de la racine de chiendent parfumée avec du musc .VOIES ou CHAUSSÉES .",
+        "words": [
+          "parfumée",
+          "musc",
+          "racine de chiendent",
+          "honnêtes marchands"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/2de1aa8e-e582-5b9f-a2fb-d8ff0e1e574c",
+        "value": "Il aimait avec passion la toilette et les beaux habits ; il valsaït et figurait dans un quadrille ; trinquait , fumait , montait à cheval , et tirait très - adroitement un coup de fusil .Son mouchoir était toujours parfumé , i ! prenait du tabac , et faisait usage d ' un cure - dent après avoir mangé .Les Lithuaniens excellent à dresser les ours non - seulement ils leur apprennent à danser .",
+        "words": [
+          "parfumé",
+          "mouchoir",
+          "toujours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/2eec8683-b6ee-55af-9e67-f356d5502b0e",
+        "value": "ODEURS DES VÉGÉTAUX .— Un grand nombre de plantesou deleurs parties coffrent une odeur plus ou moins suave ou plus ou moins désagréable , qui n ' est pas toujours due à des principes de même nature ; fréquemment elles doivent cette propriété à des huiles volatiles appelées essences , que l ' on peut en séparer au moyen de certains procédés ; dans d ' autres , leur odeur provient d ' une substance insaisissable qui est plus particulièrement désignée sous le nom d ' arome ; enfin , il est des émanations qui sont produites par l ' action du calorique sur certains sucs propres , ou bien par le tra - vail de quelques - unes des fonctions organiques .L ' odeur qu ' exhalent les végétaux diurnes est aromatique ; celle des végétaux nocturnes est alcaline , et d ' autant plus ammoniacale qu ' elle passe plus vite à la décomposition .",
+        "words": [
+          "odeur",
+          "elles",
+          "leur",
+          "émanations",
+          "plus ou moins désagréable",
+          "substance",
+          "huiles volatiles",
+          "plus ou moins suave",
+          "Un grand nombre de plantesou deleurs parties"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/2ef811e1-13bc-5c40-8083-77848a9ac594",
+        "value": "Ce grillage continuel remplit tellement le toit de leurs cabanes d ' une suie grasse , qu ' elle y pend par flocons .On se fera facilement une idée de la puanteur , des vapeurs fétides et de l ' humidité qui règnent dans ces cabanes , lorsqu ' on saura que les hommes , les femmes , les enfants et les chiens y sa - tisforit partout à tous leurs besoins , et que personne ne songe à enlever les ordures .« Lorsque les Ostiaks veulent chasser , ils tâchent d éternuer la veille au soir .",
+        "words": [
+          "puanteur",
+          "vapeurs",
+          "fétides",
+          "cabanes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/2f6ae006-5388-5b2f-87e6-415015f929da",
+        "value": "Enfin , l ' opinion de Bory de Saint - Vincent est que nul animalcule n ' entre pour quoi que ce soit dans la lumière de la mer , et yu ' elle est déterminée par l ' électricité et une mucosité où le phosphore se produit pour la plus grande partie .Dans les eaux douces , les marais offrent à leur tour des émanations phosphorescentes qui sont le produit de substances végétales urt animales en putréfaction .Après leur combinaison avec le gaz hydrogène , elles s ' enflamment au simple contact de l ' air .",
+        "words": [
+          "émanations",
+          "substances",
+          "marais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3174d707-30ba-50a6-bc7c-26221998d0cb",
+        "value": "BOIS DE RHODES ( Amyris balsamifera ) .Il a une odeur de rose très - prononcée ce qui le fait employer à divers usages dans la parfumerie .Mais d ' autres végétaux répandent aussi cette odeur , et tels .",
+        "words": [
+          "odeur",
+          "rose",
+          "très - prononcée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/31ece575-c727-5fa7-99b0-b591cf14f4e7",
+        "value": "Visoonti , Io sculpteur aurait voulu aussi , par .lo choix du sujet , exprimer l ' influence bienfaisante du soleil , dont les rayons rendant l ' air plus salure , etlepurgent des exhalaisons infectes de la terre , exhalaisons qui se trouvent figurées par le venimeux reptile .Ce fut vers la fin du XIVe siècle que , dans les ruines d ' Antiun , ce chef - d ' œuvre fut découvert .",
+        "words": [
+          "infectes",
+          "air",
+          "exhalaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/33624152-4d83-5b72-a904-cb0bbbafebdc",
+        "value": "Outre la truffe comestible , qui est d ' un brun noirâtre à sa surface , rude et hérissée de tubercules , il y a la trulfe musquée qui est brune , la truffe grise à odeur d ' ail , et la truffe blanche qui crnlt en Afrique et dans le midi de ! u France .La truffe est regardée généralement comme aphrodisiaque , mais quelquesuns cependant lui contestent cette propriété , Les Romains recevaient de l ' Afrique une truffe blanche à laquelle ils donnaient le nom de truffe de Libye .La Grèce leur fournissait aussi de co produit en abondance .",
+        "words": [
+          "aphrodisiaque",
+          "truffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/336906cf-ce92-5d6e-86e3-b65e251e0c7a",
+        "value": "Les collines , beaucoup plus basses que les montagnes , se couronnent de grands arbres , autour desquels s ' élancent de petits arbustes ou grimpent de petits arbrisseaux , tandis qu ' à leurs pieds , sur l ' herbe Gne , se détachent les épis de la fétuque , les fleurs de la circée alpine , les corymbes des labiées et le sabot de la jeune vierge , cypripedium calceolus , qui répand sa douce odeur d ' oranger .La présence des étoiles blanches de la stellaire des bois et de l ' ophrys mouche , indique l ' approche des lieux stériles où pullulent les plantes à tiges roides et à saveur amère ou âcre , telles que les orpins , les achillées , les orties , les véroniques , le milleuertuis , les bec - de - grue , etc .Les forêts qui sont à fond sab ! oiieux et sur le revers des coteaux , offrent le châtaignier , les bouleaux , les arbres à bois blanc , l ' arbousier le vinetier les airelles les bruyères , les orchidées et les mousses .",
+        "words": [
+          "saveur",
+          "orpins",
+          "ophrys mouche",
+          "plantes à tiges",
+          "stellaire des bois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/33a7377c-fb41-5c96-aa37-158eb924551b",
+        "value": "robustes .On peut ainsi suivre en quelque sorte lcs transformations successives par lesquelles le rocher s ' anime et s ' individualise en concourant à la composition d ' une fleur odorante , d ' un arbre aux rameaux flexibles , mystérieuse métamorphose par laquelle se manifeste la loi de solidarité et d ' amour qui régit ce vaste univers , loi immuable , d ' après laquelle l ' ensemble des êtres forme un tout homogène , qui porte en soi les éléments impérissables d ' une éternelle résurrection .A mesure qu ' on avance dans cette zone désolée , la végétation s ' amoindrit et disparaît aux arbres succèdent les arbustes a ceux - ci les plantes sèches et grêles ; enfin la roche noirâtre et nue apparaît dans sa morne stérilité .",
+        "words": [
+          "odorante",
+          "fleur",
+          "arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/33b211e2-8036-547d-9462-81b2d851f713",
+        "value": "Les Arabes ont une grande véuération pour l ' encens et ce n est qu ' avec de certaines cérémonies qu ' ils le recueillent .On rapporte qu ' aux funérailles de Sylla , les femmes accoururent avec une si grande quantité de parfums que sans toucher à ceux qui se trouvaient dans des corbeilles , on fit une statue du défunt , de grandeur naturelle , et celle du licteur qui portait devant lui les faisceaux , toutes deux de cinnamomum et d ' encens .ENCRE .",
+        "words": [
+          "parfums",
+          "femmes",
+          "corbeilles",
+          "cinnamomum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/33de30e2-1e17-5b8d-ae66-53270c1936dd",
+        "value": "Il a une odeur de rose très - prononcée ce qui le fait employer à divers usages dans la parfumerie .Mais d ' autres végétaux répandent aussi cette odeur , et tels .sont le cordia sebestena , les convolv , ulus floridus et scopnrius l ' chretia fruticosa , le licaria guianensis , etc .",
+        "words": [
+          "odeur",
+          "autres végétaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/34f4b883-9d9f-5dcb-ae81-b0fe5c83c3b7",
+        "value": "Une vilaine fée , qui avait dérobé cette - pomme , en avait laissé tomber les pépins dans la campagne .Les élégantes du XIVe siècle , parfumaient leurs vêtements avec des pommes , et renfermaient particulièrement dans leurs meubles celles dites de blanduriau .Que les temps sent changés ! 1 une dame d ' aujourd ' hui qui sentirait la pomme serait prise pour une petite maîtresse de la loalle .",
+        "words": [
+          "vêtements",
+          "pommes",
+          "parfumaient",
+          "élégantes",
+          "XIVe siècle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/363540ab-f20b-5f9f-87fe-862ea016c7a4",
+        "value": "Chez les anciens .on a cité les chevaliers romains Marins Maximus et Marcus qui avaient meins de 1 mètre de hauteur , et dont les corps furent embaumes comme objets curicux .L ' oratour C .",
+        "words": [
+          "corps",
+          "embaumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3710ff66-bef7-5aee-ab18-085d054dcef8",
+        "value": "Mais pour prévenir tout funeste accident , on n ' ouvrit pas je cercueil dans l ' église , comme cela s ' était pratiqué pour les autres : on ne l ' ouvrit que dans le cimetière , sur le bord de la grande fosse .La précaution fut sage ; car , à peine dépouillé de son enve - lolye , le corps se transforma en une masse putride dont l ' odeur infecte se répandit jusque dans les maisons voisines .On tir ; ) plusieurs coups de fusil pour purifier l ' air , et l ' on se hâta de jeter dans la fosse cet horrible captct mortuum que l ' oti recouvrit tout aussitôt d ' un épais lit de chaux vive .",
+        "words": [
+          "infecte",
+          "odeur",
+          "corps",
+          "putride",
+          "les maisons voisines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/37c5dc67-fef4-5ca1-90ca-c40e0c82bf2a",
+        "value": "ODEURS ET COULEURS .— Le docteur Stark , de l ' université d ' Édimbourg , ayant remaiqué , dans l ' hiver de 1831 , que iorsqu ' il se rendait avec un hahit noir à l ' emphithéâlre d ' analomie , le drap s ' imprégnait d ' une odeur désagréable et persistante , ce qui n ' avait pas lieu lorsqu ' il y allait avec un autre habit dont la couleur était vert olive ; il voulut vérifier si l ' absorplion du principe odorant , quel qu ' il soit , variait su 7ant les couleurs des cerps absorbants , et , à cet etret , il réalisa les expériences suivantes Il soumit d ' ahord à l ' action du camphre , durant six heures et dans un lieu obscur , deux petits morceaux de drap , l ' un noir et l ' autre blanc .Le résultat fut que le drap noir s ' était imprégné d ' une odeur plus forte que celle absorbée par le drap blanc .",
+        "words": [
+          "désagréable",
+          "odorant",
+          "odeur",
+          "persistante",
+          "principe",
+          "habit",
+          "drap",
+          "' hiver de 1831",
+          "docteur Stark"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/39ee0c5c-b11b-5d5e-96fc-49b95cb5c181",
+        "value": "Les espèces à fleurs blanches sont généralement les plus odorantes , et parmi les espèces colorées , les rouges sont le plussouvent n parfum , et les bleues le plus rarement .On a calculé que la moyenne des espèces odorantes , sur 100 , est de Chez les plantes monoïques et dioïques , et quelques jours avant l ' explosion des anthères , une sorte de parfum électrique se répand dans l ' atmosphère .La vanille ne doit son odeur aîomatique , sa saveur agréable et sa vertu stimulante , qu ' à la pulpe renfermée dans l ' intérieur de son fruit , et comme cette pullne n ' existe dans aucune autre orchidée , la vanille forme alors , à cet égard , une excelslion dans cette faille .",
+        "words": [
+          "parfum",
+          "atmosphère",
+          "odorantes",
+          "espèces",
+          "quelques jours",
+          "plantes monoïques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3aacfe37-6577-5e3b-a9b2-9d2a6c2bb7a2",
+        "value": "Quand il est , fatigué , le jeune ornithorhynque monte sur le dos de sa mère , qui se dirige alors vers la terre .» Le sens de l ' odorat paraît excessivement développé chez l ' ornithorhynque ; mais ceux de la vue et de l ' ouïe sont moins prononcés .Lorsque cet animal est endormi dans son terrier , sa pose est des plus bizarres - les pattes sont repliées sur elles - mêmes ; le bec vient rejoindre la partie postérieure , et le tout se trouve recouvert par la queue , qui est large et très - velue , coqui donne au corps l ' apparence d ' une boule .",
+        "words": [
+          "odorat",
+          "excessivement développé",
+          "ornithorhynque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3ca2c4df-20a1-5202-9ae5-6aa96e135d6c",
+        "value": "Lorsque son sommeil est expiré , le boa sort de sa retraite et retourne , en se glissant à travers les lianes et les herbes épaisses , à la reclierche d ' une nouvelle victime .Son passage est marqué par les débris sur lesquels se traîne sa lourde masse et par la frayeur qu ' il répand parmi tous les animaux , auxquels son odeur infecte annonce son approche .Néanmoins , il n ' est réellement redoutable que lorsqu ' il est tourmenté par la faim , .",
+        "words": [
+          "infecte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3e7392e1-e692-5353-8264-195804236f74",
+        "value": "On les divise en thés verts et en thés noirs .Les thés verts sont 1 ° le thé Hyswen , l ' une des meiileures sortes ; 2 \" le thé perlé , dont les feuilles sont roulées en forme de perles , et dont l ' odeur est plus agréable et la couleurplus brune que celles de l ' hyswen 3 ' le thé poudre , à canon , qui se présente avec des grains menus comme la poudre à canon et qui est très - agréable au goût 4 ° le thé tehoulan , qui ressemble l ' hyswen , mais qui est plus suave et rare dans le commerce ; 5 ° le lhé kou - lang - fyn - i , le plus estirné des thés verts et qui se vend , à ta Chine même , 40 francs Ie demi - kilogramme .Les thés noirs comprennent l ' le tné Souchong , qui est d ' un brun noirâtre et d ' une odeur faible 2 ° le thé Péko , d ' une odeur plus intense et pius délicate que le précédent ; 3 ° le thé Liang - sin , le meilleur des noirs , et qui se vend à fi Chine 12 francs le demi - kilogrammc ; 4 ° le thé Fou - Tchan , qui est rosé et coûte 13 francs ; 5 \" le thé Kou - Lan - sa - né , d ' un blanc argenté et Il prix de 30 francs .",
+        "words": [
+          "agréable",
+          "odeur",
+          "thé",
+          "très - agréable",
+          "thés verts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3f12a20b-4791-5600-ba69-db81124856ff",
+        "value": "« A quatre heures de l ' après midi , on recommença les fouilles par le caveau des s Chartes .Les premiers cercueils extraits furent ceux de Charles V et de Jeanne ilc Bourbon , sa femme ; dans celui de Charles , on trouva une main de justice , un sceptre et une couronne en vermeil ayant encore tout leur éclat dans celui de Jeanne de Bourbon , un anneau d ' or et une quenouille ; dans tous deux , des os desséchés et quelques pincées de cendres noires sans odeur .Ces tristes restes , tristes reliquiœ , de Charles le Sage et de la reine , sa femme , furent jetés dans la fosse où étaient venus s ' engloutir , depuis trois jours , cinquante - deux princes ou princesses de la famille bourbonniennc .",
+        "words": [
+          "odeur",
+          "cendres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/3f4c1b37-d4f8-5a01-981b-fa160ba5d5e7",
+        "value": "cyprès solennel , le haut palmier , et à travers lequel on ne découvre que les pics neigeux de l ' Atlas , s ' élevant presque immédiatement au - dessus de nos têtes , et la tour gigantesque de la principale mosquée , qui en est à un quart de mille .Rien n ' interrompt lo calme de ce point délicieux , si ce n ' est le bond léger de la gazelle et le bruit des chutes d ' eau dans toutes les directions ; on y trouve tout ce qu ' il est possible de désirer dans un climat brûlant , le silence , l ' ombre , la verdure et un air parfumé .Mais , pour former contraste avec la vue limitée que nous avions de notre jardin , le toit en terrasse dominant sur la ville nous montrait la plaine sans limites à l ' est et à l ' ouest , et toute la ceinture de l ' Atlas enveloppant la contrée du sud - ouest au nord - est par un ruban de neige .",
+        "words": [
+          "parfumé",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/408d4a2d-038c-59cd-96fc-fb0ec56b5714",
+        "value": "Le lobelia longiflora excite , dit - on , une impression sutrocante sur celui qui respire dans son voisinage .Enftn , nous avons déjà parlé du degré vénéneux des émanations du boun - upas et du mancenillier , qui , toutefois , ne présentent pas en réalité les résultals riedoulalrles que quelques voyageurs se sont plu à signaler .ODEURS ET COULEURS .",
+        "words": [
+          "émanations",
+          "vénéneux",
+          "mancenillier",
+          "boun - upas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/413939a3-54a7-5973-a9c6-1e35188c3b1a",
+        "value": "» Voici maintenant la tradition locale au sujet du kounboum Lorsque Chingtsa - Tsio rasa la tête de son fils , elle jeta , à J ' entrée de sa tente , la belle et longue chevelure do Tsong - Kaba .De cette chevelure naquit un arbre ; cet arbre , dont le bois était de couleur rougeâtre , répandait un parfum exquis et sur chacune de ses feuilles était gravé un caractère dans la langue sacrée du Tibet .Le kounboum est surrnonté d ' un dôme en argentque fit construire J ' empereur Kang - Hi .",
+        "words": [
+          "bois",
+          "parfum",
+          "exquis",
+          "arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/42784831-2f63-5998-b69e-89dd5751d6f8",
+        "value": "Le cisticole construit son nid avec des brins d ' herbes entrelacés d ' une matière cotonneuse , et lui donne la forrno d ' un entonnoir , au fond duquel il dispose aussi une sorte de coussin moelleux .Lu fauvette des jardins construit le sien au sein des arbustes odoriférants , et affectionne particulièrement les roses .Ce nid est donc quelquefois placé dans les bifurcations du sommet d ' un rosier , et alors , quand les fleurs sont épanouies , ou aperçoit fréquemment la tète noire et brillante de la fauvette s ' élever au milieu d ' un bouquet .",
+        "words": [
+          "roses",
+          "odoriférants",
+          "arbustes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/454aadd8-2777-53f4-9ba6-cafb011e0f30",
+        "value": "L ' aloès et les arbustes des pays chauds y croissent en pleine terre les pintades et autres oiseaux du midi volent en liberté dans une forêt de lauéiers , de cyprès et de pins gigantesques .La fraîcheur des ombrages , le parfum des fleurs , le murmure de l ' eau qui se brise sur les bords de l ' île , la beauté .des .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "ombrages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/459c812b-883a-5019-88dc-0f315ed47645",
+        "value": "aux violettes , aux potentilles , etc .Sur les montagnes moins élevées et sur lesquelles aucune irrigation continue n ' entretient une fraîcheur pénétrante , se rencontrent toutes les plantes aromatiques ou d ' une saveur amère , telles que les gentianes , les lavandes , le romarin , etc .Les plantes qui croissent sur les lieux élevés , exposées aux vents et à la froidure , sont d ' ordinaire plus revêtues de fourrures , de poils et de villosités .",
+        "words": [
+          "plantes",
+          "aromatiques",
+          "amère",
+          "romarin",
+          "lavandes",
+          "saveur",
+          "gentianes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/49f44afe-e4c8-5860-be1d-88704ba64399",
+        "value": "L ' intérieur de cet édifice contenait un amphithéâtre demi circulaire , et une sorte de scène sur laquelle se ylaçaient les poëtes , les chœurs et les musiciens .ODEURS DES VÉGÉTAUX .— Un grand nombre de plantesou deleurs parties coffrent une odeur plus ou moins suave ou plus ou moins désagréable , qui n ' est pas toujours due à des principes de même nature ; fréquemment elles doivent cette propriété à des huiles volatiles appelées essences , que l ' on peut en séparer au moyen de certains procédés ; dans d ' autres , leur odeur provient d ' une substance insaisissable qui est plus particulièrement désignée sous le nom d ' arome ; enfin , il est des émanations qui sont produites par l ' action du calorique sur certains sucs propres , ou bien par le tra - vail de quelques - unes des fonctions organiques .",
+        "words": [
+          "ODEURS",
+          "VÉGÉTAUX"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/4a3c04af-a775-5696-9971-d3bf2d5f8e22",
+        "value": "x L ' acte mystérieuxdu mariagedes plantes , ou l ' époque de la fécondation , offre , comme nous l ' avons dit plus haut , do nombreux témoignages de l ' irritabilité végétale .Cet ' acte qui s ' opère durant le court espace de temps qui s ' écoule entre l ' émission du pollen cointenu dans les anthères placées au sommet du filet des étamines , et le mouvement du pistil , qui s ' en empare , est un moment solennel pendant leqrjet la corolle , épanouie développe toute ta beauté de ses formes exhale son plus doux parfum et lorsque le voeu de la nature s ' est ainsi accompli , le travvil de l ' avenir se réalise à son tour dans l ' intérieur de l ' ovaire , où les rudiments d ' un nouvel être se trouvât animés ; puis les étamines et lu pistil se dessèchent , la corolle perd son é .; lat , se flétrit et meurt ; et le caüco seul subsiste pour concentrer on lui toute la végétation jusqu ' à ce qu ' un développement convenable lui permette de vivre de sa vie propre .",
+        "words": [
+          "doux",
+          "parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/4e3fed1a-0f16-59ed-846d-d3670aa10b97",
+        "value": "Au sujet de la modeste qu ' on accorde unanimement à la violette , M .Alphonse Karr a écrit , dans son charmant ouvrage qui a pour titre Promenade autour de mon jardin , c ; elle réflexion aussi inatlendue que judicieuse « La violette n ' est pas modeste parce qu ' elle se cache sous l ' herbe ; elle ne se cache pas sous l ' herbe , elle y a été cachée par la nature on n ' est pas modeste pour être d ' une naissance humble et obs - d ' intrigue pour eN sortir outre les couleurs qu ' elle affecte et qui la font distinguer facilement , n ' exhale - t - elle pas ce parfum provoquant qui la ferait découvrir à un aveugle ? » n Voilà qui est très - vrai .Mais après cela que deviendraient les pauvres poëtes si tostes les images créées par leur enthousiasme rencontraient toujours des juges aussi positifs que M .",
+        "words": [
+          "parfum",
+          "violette",
+          "provoquant",
+          "Alphonse Karr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/505ad764-d82b-57d1-ac97-4824ec279d1c",
+        "value": "L ' air .de ces îles est salubre , et l ' on a remarqué que les habitants qui peuvent s ' accoutumer aux émanations de la mer atteignent une vieillesse très - avancée .Pline vante beaucoup les pâturages et les salines de Lero .",
+        "words": [
+          "émanations",
+          "îles",
+          "habitants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/508d7a2c-b29f-511b-8284-8b4d0cf19720",
+        "value": "Alors on retire les pieux et les fagots , on en détache les huîtres parvenues à maturité , et l ' on recommence les mêmes dispositions quand revient le temps de la ponte .On raconte que , il y a à peu près quarante ans , les émanations sulfureuses du cratère occupé par le lac Fusaro , ayant pris plus d ' intensité que de coutume , les huîtres de tous les ' bancs périrent , et l ' on fut obligé de s ' en procurer d ' autres pour les repeupler .Nous avons dit qu ' on ne pouvait assigr : er , l ' époque précise de l ' origine des parcs d ' huîtres du lac Fusaro , et il serait possible qu ' elle remontât même jusqu ' à la période romaine , puisque cette industrie était déjà pratiquée sous le règne d ' Auguste .",
+        "words": [
+          "émanations",
+          "sulfureuses",
+          "il y a à peu près quarante ans",
+          "occupé par le lac Fusaro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/51d9b539-325d-5968-8235-87faa7126c89",
+        "value": "Celles du raflesia , plante découverte à Sumatra , en 1818 , par le docteur Arnold , atteignent jusqu ' à 1 mètre de largeur , et un poids de 8 à 9 kilogrammes .Leur nectaire contient une dixaine de litres d ' une liqueur fétide ; et les pétales sont très - épais .Le victoria regina ofire des fleurs de 58 à 60 centimètres do diamètre .",
+        "words": [
+          "fétide",
+          "liqueur",
+          "nectaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/52185735-cb97-51b4-a3e1-61f4ecdeb905",
+        "value": "Ainsi un millimètre cube de la liqueur pourrait être divisé en 5 , 804 , 752 , 896 , 000 parties .On a calculé , d ' après la perte que l ' assa fœtida éprouve par l ' évaporation , qu ' un grain de cette substance peut se diviser en 11 , 781 , 800 , 000 , 000 , 000 , c ' est - à - dire 11 mi lions 781 , 800 milliards de parties odorantes .La divisibilité d ' un décigramme de musc , par l ' évaporation de ses molécules odorantes , peut être évaluée à 600 , 400 , 000 , 000 , 000 , 000 , 000 , 000 , 000 , c ' est - à - dire , à 600 millions 400 milliards de milliards .",
+        "words": [
+          "assa fœtida",
+          "odorantes",
+          "substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/52485b73-544a-59b0-b40a-6f2d752a87db",
+        "value": "L ' anglais Peter Columbell , de Darby , près de Bakevell , et qui vivait au commencement du xvii ' siècle , avait une telle antipathie pour ce produit , que non - seulement il repoussait tous ceux qui en faisaient usage , mais qu ' il mit encore dans son testament , comme clause expresse ; que , dans aucune ' circonstance , ni son tits , ni ses héritiers , ne devaient fumer ou priser , sous peine de restituer les biens qu ' il laissait ou leur valeur aux hôpitaux .Poiret a dit , au sujet du tabac « Qui aurait pusoupçonner que la découverte , dans le Nouveau - Monde , d ' une plante vireuse , ' nauséabonde , d ' une saveur acre et brûlante , d ' une odeur repoussante , ne s ' annonçant que par des propriétés délétères , aurait une si grande influence sur l ' état social de toutes les nations , tant de l ' ancien que du nouveau continent ; qu ' elle serait devenue l ' objet d ' un commerce très - étendu ; que sa culture se serait répandue avec plus de rapidité que celle des plantes les plus utiles , et clu ' elle aurait fourni aux plus grandes puissances de l ' Europe la base d ' un impôt très - productif ? Quels sont donc les grands avantages que letabac a , pu offrir à l ' homme , pour qu ' il soit devenu d ' un usage .aussi .",
+        "words": [
+          "acre",
+          "odeur",
+          "tabac",
+          "nauséabonde",
+          "repoussante",
+          "délétères",
+          "brûlante",
+          "plante",
+          "Poiret"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/52732f7c-2ea9-5118-bc8e-bc2c1b537c86",
+        "value": "C ' est dans cet endroit , désigne par quelques voyageurs sous le nom de la caravela , que M .Edens prétend avoir vu de petites flammes que , d ' après la physique de son temps , il attribue à des exhalaisons sulfureuses qui s ' enflamment d ' elles - mêmes .Nous continuâmes de monter jusqu ' à la Roche de la Gayta et au Porlillo c ' est en traversant ce passage étroit , entre deux collines basaltiques , qu ' on entre dans la grande plaine des Genêts ( Los Planos del retama ) .",
+        "words": [
+          "exhalaisons",
+          "sulfureuses",
+          "Edens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/5289552f-ecf3-52e2-ac00-1359c3dbbc04",
+        "value": "de Ham - boldt aux régions équinoxiales ( lis nouveau continent , la relation suivante d ' une pèche de gymnotes « Impatientés par une longue attente , et n ' obtenant que des résultats très - incertains sur un gymnote vivant , mais très - affaibli , qu ' on nous avait apporté , nous nous rendimcs au Cano de Sera pour faire nos expériences en plein air au bord de l ' eau même .Nous partîmes de grand matin pour lé petit village de Hastro de Abaxo de là les Indiens nous conduisirent à un ruisseau qui , dans le temps des sécheresses , forme un bassin d ' eau bourbeuse , entouré de beaux arbres , de clusia , d ' amyris , et de mimosa à fleurs odoriférantes .La pêche des gymnotes avec des filets est très - difficile , à cause de l ' extrême agilité de ces poissons qui s ' enfoncent dans la vase comme des serpents .",
+        "words": [
+          "fleurs",
+          "Nous",
+          "odoriférantes",
+          "de grand matin",
+          "mimosa",
+          "Indiens nous",
+          "lé petit village de Hastro de Abaxo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/52a58b5a-be52-5b00-9742-9fe3e4b1f91b",
+        "value": "PAVOT .En Orient , on mange bouillies dans de l ' eau et assaisonnées avec quelques aromates , les graines du pavot somnifère .Un tériaki , qui commence jeune l ' usage de l ' opium , ne dépasse guère sa trentième ou sa tarentesixième année ; mais cette passion devient si forte , que la certitude des infirmités et de la mort ne peut les en détourner .",
+        "words": [
+          "aromates",
+          "graines",
+          "Orient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/56cd251a-339a-5676-b0d9-d5b87258e3ea",
+        "value": "Au siège d ' Amide , en 502 , les Amidéens , pour détruire les effets terribles des béliers conlre leurs remparts , suspendirent des poutres par les , deux bruts à des poulies , lesquelles poutres , en venant tomber transversalement sur la tête de ces béliers , les hrisaient ou les empôchaient d ' agir .Ce masticaloire , d ' une grande puissance astringente et qui donne à la salive une couleur rouge , facilite la digestion et les autres fonctions des viscères .inférieurs il dor .",
+        "words": [
+          "astringente",
+          "salive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/576f476f-e209-5c06-8af0-2380835f3f92",
+        "value": "Tous ces corps , sans exception , furent trouvés dans un état do décomposition putride et réduits en une pâte noire et épaisse d ' où sortait , à mesure qu ' on ouvrait les cercueils , une vapeur fé .tide qui remplassait l ' église et infectait les assistants .Malgré la précaution qu ' on avait prise de placer en vingt endroits différents d ' énormes cuves de vinaigre en ébullition , de brûler constamment du genièvre , et de temps en temps de la poudre à canon , l ' odeur était suffocante au point que la plupart des ouvriers qui portaient du caveau au cimetière ces tristes restes , eu contractèrent des maladies dont quelques - uns moururent .",
+        "words": [
+          "église",
+          "tide",
+          "infectait les assistants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/5c4656a3-439c-5c22-962b-b14dada5dbb0",
+        "value": "La saveur de la pullue , légèrement acide , le devient totalement par suite de la fermentation acéteuse .Ce fruit a le double avantage d ' être alimentaire et essentiellement rafraîchissant , laxatif et anti - putride .Lorsqu ' il est frais , il donne , par sa dissolution dans l ' eau , une liqueur acide , agréable et excellente pour étancher la soif .",
+        "words": [
+          "fruit",
+          "putride",
+          "rafraîchissant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/5c7f586a-77ad-5cd3-8767-1a7ba1c05676",
+        "value": "Mais c ' était , je vous jure , un spectacle étrangemenl lugubre que eelui de tous ces cercueils ouverts , remplis de ce quelque chose d ' informe dui , pour me servir des expressions de Tertullien , n ' a plus de nom dans aucune tangue , traversant l ' église plon - gée dans les ténèbres , en répandait sur ses dalles une sanie empestée , et portée a bras par quelques ouvriers qu ' escortaient des hommes tenant a la main des torches de résine allumées dont la lumière sombre et rougeâtre ajoutait à l ' horreur de la scène .Arrivés au bord de la grande fosse du cimetière , Le contenu y était jeté par pelletés , au milieu des émanations de genièvre en combustion et du vinaigre bouillant qui n ' absorbaient que bien faiblement les miasmes délétères qui s ' échappaient de cette masse de débris humains en pleine dissolution puis le manteau de plomb dont ou venait de dépouiller tous ces monarques , tous ces princes , était à l ' instant remis à des fondeurs établis à quatre pas de là , et métamorphosé , séance tenante , en balles destinées aux défenseurs de la patrie .« On apporta encore , de ce môme caveau , des seaux de plomb déposés sous les tréteaux de fer soutenant les cercueils .",
+        "words": [
+          "émanations",
+          "miasmes",
+          "délétères",
+          "genièvre",
+          "fosse du cimetière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/5e50db7e-bc98-5db2-8703-44a93de64399",
+        "value": "On trouva bon de s ' approcher du rivage , et d ' examiner de près ce que la mer ' permettait de tenter mais on la trouva encore fort grosse et fort agitée d ' un vent contraire .Là , mon oncle , ayant demandé de l ' eau et bu deux fois , se cuucha sur un drap qu ' il fit étendre ensuite , des flammes qui parurent plus grandes et une odeur de soufre qui annunçait leur approche , mirent tout le monde en fuite .Il se lève , appuyé sur deux valets , et dans le moment tombe mort .",
+        "words": [
+          "odeur",
+          "soufre",
+          "mon oncle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/608dcfe8-4423-5db4-9dd7-bda996fa3b85",
+        "value": "Un autel en bois , érigé à la tête de l ' ancien tombeau , le cache aux yeux des fidèles .Le jour de la fête patronale du lieu quand cet autel a reçu sa pieuse parure , le tombeau moderne , dont les colonnes semblent alors sor ! ir du milieu des Ileurs , des parfums et des lumières produit l ' effet le plus pittoresque sous les festons et les guirlandes dont la voûte est décorée .» EIDERS .",
+        "words": [
+          "parfums",
+          "Le jour de la fête patronale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6366d048-4227-5f3e-a172-d2b8aefb2a72",
+        "value": "L ' arrivée de la nuit suspend la végétation herbacée , et le retour du jour arrête la végétation spongieuse .Quelquefois la même plante offre une odeur toute différence dans ses diverses parties ainsi la fleur du sureau , par exemple , répand un parfum assez agréable , tandis que ce ! ui des feuilles est presque repoussant .Les espèces à fleurs blanches sont généralement les plus odorantes , et parmi les espèces colorées , les rouges sont le plussouvent n parfum , et les bleues le plus rarement .",
+        "words": [
+          "parfum",
+          "odeur",
+          "assez agréable",
+          "repoussant",
+          "feuilles",
+          "plante",
+          "fleur du sureau",
+          "toute différence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/64ad9eca-0e6c-52b1-8963-da82722147cb",
+        "value": "Cette attention dura trente années , et chaque soir mademoiselle Clairon effeuillait son bouquet , pour le prendre en infusion comme du thé .Triller rapporte le fait d ' une jeune fille qui fut asphyxiée , pour avoir placé près de son lit , dans un petit appartement , une trop grande quantité de violettes .L ' infortunée princesse de Lamballe , qui fut massacrée dans les boucheries de 1793 , s ' évanouissait , dit - on , à la vue d ' un bouquet de violettes .",
+        "words": [
+          "violettes",
+          "asphyxiée",
+          "petit appartement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/65247403-06dc-5405-a89f-b027e54b3517",
+        "value": "Jersey fait un grand commerce c ' est un lieu d ' entrepôt entre la France ' ét l ' Angleterre .La contrebande s ' y exerce sur une grande échelle , et l ' on peut s ' y approvisionner d ' un grand nombre de bonnes choses ; entre autres , de ce délicieux labac à odeur de rosé , qu ' on nomme maacouba .Le difficile , après cela , est de revenir , en France , par exemple , les poches pleines , sans qu ' elles soient vidées par ces obligeants douaniers qui vous font toujours les honneurs du sol au premier pas que vous ' posez dessus .",
+        "words": [
+          "odeur",
+          "rosé",
+          "délicieux labac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/669093dd-5d57-5c59-bab1-a9d2887cbe75",
+        "value": "» On accorde aussi au café des propriétés nutritives très - remarquables , et quoique quelques - uns les lui contestent , de nombreuses autorités les contirmcnt et entre autre sa propre composition .Il contient , en effet , de l ' azote , des matières grasses et salines , un principe amer et une essence aromatique , c ' est - à - dire tout ce qui est essentiel pour concourir avantageusement à la nutrition .Le café au lait , loin de nuire à l ' existence sanitaire , à l ' estomac , comme beaucoup de gens le pensent , est au contraire plus nourrissant que le bouillon puisqu ' il contient trois fois plus d ' azote ei six fois plus dn matières solides .",
+        "words": [
+          "aromatique",
+          "matières",
+          "principe",
+          "essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/66ba59f4-702d-5d24-b3c4-fe91fa4690db",
+        "value": "d ivresse , etc .On croit qu ' il est dangereux aussi de se reposer trop longtemps à l ' omhre d ' un noyer , à cause de ses émanations qui oecasionnent du malaise et des maux de tête .Le lobelia longiflora excite , dit - on , une impression sutrocante sur celui qui respire dans son voisinage .",
+        "words": [
+          "émanations",
+          "ses",
+          "maux de tête",
+          "noyer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/68ac8e86-38cb-5190-94d7-ba79627806db",
+        "value": "SBEITLAH , dans la régence de Tunis .A Java , cette écorce est regardée comme fébrifuge , et aux Antilles , les femmes se servent de la décoction des feuilles comme cosmétique .Les fruits sont alimentaires dans l ' Inde .",
+        "words": [
+          "écorce",
+          "fébrifuge",
+          "Java",
+          "Antilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/69aee003-fc33-5eda-b294-8da1ca3a14f2",
+        "value": "Le cimetière est vaste entouré seulement d ' une palissade 1 hauteur d ' appui , par - dessus lacluelle on découvre les montagnes majestueuses qui forment , d ' un côté , une perspective admirable .Cu lieu sort de promenade publique on y respire un air embaumé je n ' ai vu dans aucun parterre une telle profusion de fleurs odoriférantes .Matheur à la main profane qui oserait en cueillir une ! Cette action serait regardée comme une espèce de sacritége .",
+        "words": [
+          "fleurs",
+          "air",
+          "odoriférantes",
+          "embaumé",
+          "parterre",
+          "air embaumé",
+          "promenade publique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6ab7e096-b931-58cf-8d8f-26ed96ac34e2",
+        "value": "« Le chemin qui côtoie le flanc de la montagne , dit le docteur Yvan , représente à mes yeux une immense serre , où sont ammoncelés les arbres les ylus magnifiques Moi qui n ' avais vu les enfants du sol américain qu ' emprisonnés sous les cages de verre de nos jardins botaniques , étendant à regret leurs rameaux rabougris au milieu du climat artiticiel que nous leur accordons , j ' étais dans le ravissement en voyait les élans vigoureux de cette puissante végétation .Je me sens heureux et bien portant dans l ' air tiède et embaumé de mille parfums qu ' on respire en ce lieu et dans lequel se jouent dés papillons grands comme des oiseaux et des oiseaux brillants comme des papillons .Les premiers colibris que je vois butiner sur le dôme fleur i de la forêt me font jeter des cris de joie .",
+        "words": [
+          "air",
+          "parfums",
+          "embaumé",
+          "Je me",
+          "ce lieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6aea4999-e7e7-55a1-b57f-e2283356fbd8",
+        "value": "L ' isola Bella est néanmoins celle des îles Borromées qui offre l ' aspect le plus théâtral et prouve le mieux ce que peut la main créatrice de l ' homme .Ces salons sont ornés de statues , et des fontaines y entretiennent une agréable fraîcheur .La partie du sud , la plus rapprochée du rivage , est celle où l ' art , pour embellir l ' ouvrage de la nature , s ' est pour ainsi dire surpassé lui - même .",
+        "words": [
+          "fraîcheur",
+          "fontaines",
+          "salons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6b176cde-f442-5b98-bbfc-f0261c49c363",
+        "value": "Deux ruisseaux cou lent dans ce vaste souterrain .l ' un , dont l ' eau , quoique chaude , est limpide et sans odeur , a envirun 0m65 de largeur ; l ' autre , qui coule parmi les rochers , a une profondeur presque inaccessible , et le burit qu ' il fait dans son cours ressennle , à s ' y méprendre , au bourdonnement de cloches .La température de ces cryptes est douce et l ' air y est sain .",
+        "words": [
+          "sans",
+          "odeur",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6b2aa866-8242-59e7-b869-436a708b6d11",
+        "value": "On commença à en faire usage en Angleterre , et il se vendait à Londres 60 liv , sterl .la livre , prix qui se maintint jusqu ' en 1707 , Les thés de la Chine sont aromatisés avec les fleurs de l ' olea fragrans , et celle du camelia sesanqua .On les divise en thés verts et en thés noirs .",
+        "words": [
+          "fleurs",
+          "jusqu",
+          "aromatisés",
+          "thés",
+          "en 1707",
+          "olea",
+          "camelia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6d15d9be-3997-589f-a849-5a59ef96906c",
+        "value": "De ce climat de transition on passe à la zone tempérée que caractérisent le chêne , l ' érable , l ' orme , le hêtre , le charme , le châtaignier , le cyprès , l ' olivier , le citronnier , la vigne , les caryophillées et les labiées et du climat tempéré à celui qui est brûlant , s ' étend encore une régien transitive qui est la patrie des légumineuses et des graminées , et sur les lisières de laquelle prospèrent le caroubier , le calé , le muscadier , le dattier , l ' arbre à pain , le baobab , l ' acacia , les bauhinées , les grena - dilles , etc .Apparaissent ensuite , avec une magn ficence prodigue de formes , de dimensions , de coloris , de parfums , et de bizarreries , des végétaux dont rien ailleurs ne donne la moindre idée , Les arbres , dont l ' accroissement est prodigieux , ont leurs troncs et leurs rameaux enlacés de lianes et de vanilles ; là ce sont des cocotiers , des arecs , des drageonniers et des euphorbes ; ici des palmiers , sentinelles avancées du désert qui n ' offre plus de verdure que dans ses rares oasis .Il résulte de l ' examen de ces divers climats , que le glacial compte peu de genres , mais beaucoup d ' espèces que le tempéré renferme parliculièremant les plantes dites sociales , c ' est - à - dire celles qui subviennent le mieux aux besoins de l ' homme et des animaux et que le plus chaud offre la plus grande masse de végétaux , avec presque tous ceux qui sont aromatiques .",
+        "words": [
+          "parfums",
+          "végétaux",
+          "euphorbes",
+          "drageonniers",
+          "arecs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/6f1f4c09-fdb4-5038-9fc3-1d84b1504418",
+        "value": "Les teintes jaunes et verdâtres sont dues à des plantes marines plus ou moins rapprochées de la surface .Les eaux de la mer ont une odezcr nauséabonde et une saveur amère que l ' on attribue au chlorure de sodium dont elles sont saturées ; mais l ' amertume diminue , dit - on , en raison de lar profondeur .L ' analyse faite sur 1 , 000 grammes d ' eau de l ' océan Atlantique a donné le résultat suivant acide carbonique , 0 .",
+        "words": [
+          "nauséabonde",
+          "amère",
+          "saveur",
+          "chlorure de sodium",
+          "Les eaux de la mer",
+          "odezcr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/70534b5a-c300-5aec-9444-b17d6281d39f",
+        "value": "Arbre de la famille des térébinthacées , qui croit dans les forets de la Guyane et sur les bords de la mer , ainsi que dans les autres endroits sablonneux de l ' Amérique équinoxiale .Son fruit est un drupe charnu d ' un goût agréable et rafraîchissant , que les nègres recherchent avec avidité , et l ' on obtient aussi du tronc , par incision , un suc clair , transparent , balsamique , que l ' on brûle comme l ' encens pour parfumer les habitations et dont l ' odeur est analogue à celle du citron .Les nègres mêlent ce suc à l ' huile de cupara et à la fécule du rocou , pour s ' en enduire le corps , de la tête aux pieds , ce qui les préserve , disent - ils de la piqûre des insectes et de la pénétratien de la pluie .",
+        "words": [
+          "agréable",
+          "parfumer",
+          "odeur",
+          "encens",
+          "citron",
+          "tronc",
+          "goût",
+          "rafraîchissant",
+          "nègres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/798c3ed9-d2ac-5add-87ed-bb34b3311052",
+        "value": "On y voit , d ' un côté , une forêt d ' orangers et de .citronmers qui répanaenl au loin leur doux parfum , surmontée de lauriers dont la verdure claire - contraste avec la couleur sombre des cyprès qui les avoisinent .Le myrte , le jasmin , les rosiers de différentes couleurs , fleurissent auprès des orangers , et la vigne , qui formé des festons d ' un arbre à l ' autre , suspend ses fruits vermeils à côté de la tigue , de la pèche et du limon De l ' autre côté , dix terrasses s ' élèvent les unes audessus des autres , et , donnent à l ' île la forme d ' une immense pyramide .",
+        "words": [
+          "parfum",
+          "leur",
+          "lauriers",
+          "citronmers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/7af0aac6-2e22-5107-b440-0546da663c93",
+        "value": "Elle croissait alors en abondance dans le Nil où on ne la rencontre plus depuis plusieurs siècles , et elle figurait sur tous les monuments .Ses fleurs d ' un beau rose pourpré , répandent une odeur agréable , et ses feuilles ont une lar6cur qui s ' étend jusqu ' à 65 centimètres , ce qui fait que là où elle croît les indigènes s ' en servent comme d ' un parasol .La fleur du nelumbo était le tanaara des Indous .",
+        "words": [
+          "agréable",
+          "odeur",
+          "ses feuilles",
+          "Ses fleurs",
+          "indigènes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/7e484f8e-6022-5d9a-82db-e0a8efabe5fb",
+        "value": "La surface du terrain de la cour est extrêmement chaude , et brûle sous les pieds ; en janvier même , tous les ouvriers sont à demi nus , n ' ayant qu ' un petit caleçon pour se couvrir .« Le feu de ce gaz ne produit presque pas de fumée , mais une vapeur très - forte de bitume qu ' on sent à deux lieues à la ronde .La flamme est rougeâtre comme celle .",
+        "words": [
+          "vapeur",
+          "très - forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/7e574bff-5e49-5568-884d-1c57bf201488",
+        "value": "Cet arbre a le port gracieux .son feuillage ressemble à celui de l ' oranger , et ses fleurs , d ' un joli rose , sont très - parfumées .On a donné aux fruits le nom do clous , ü cause de leur forme , et l ' on a calculé qu ' il en fallait 10 , 000 de parfaits , pour atteindre le poirls d ' un kilogramme .",
+        "words": [
+          "fleurs",
+          "parfumées",
+          "oranger",
+          "feuillage",
+          "très -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/802fc5ce-38e1-56fe-8fe2-6a8005162d1a",
+        "value": "et deviennenl ensuite d ' un beau rosé .Elles répandent une odeur agréable .Le fruit , appelé caroube , est une silique de plus de 20 centimètres de long sur 3 ou 4 de large , aplatie , pendante ; épaisse sur les bords , lisse , putpeuse en dedans , coriace en dehors et d ' un brun marron .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/80a286f4-594d-5925-91ae-a1a90e887739",
+        "value": "tide qui remplassait l ' église et infectait les assistants .Malgré la précaution qu ' on avait prise de placer en vingt endroits différents d ' énormes cuves de vinaigre en ébullition , de brûler constamment du genièvre , et de temps en temps de la poudre à canon , l ' odeur était suffocante au point que la plupart des ouvriers qui portaient du caveau au cimetière ces tristes restes , eu contractèrent des maladies dont quelques - uns moururent .Oh ! c ' est qu ' on ne trouble pas impunément le sommeil des morts ! c ' est qu ' il y a kréril à violer les secrets de la tombe ! « Ce jour là , 15 octobre , les exhumations durèrent jusqu ' à la uuit on avait hâte d ' en finir .",
+        "words": [
+          "odeur",
+          "suffocante",
+          "de temps",
+          "poudre à canon",
+          "constamment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/827fca81-34b1-522b-9fe7-5cebc840197e",
+        "value": "« En te buvant , divin café ! s écrie M .Tiéhaut de Berneaud j ' aime mes semblables , j ' adore les femmes , je retrouve lesjoursde félicité , de jeunesse , de plaisirs ; je respire les doux parfums des fleurs , je me sens enveloppé par l ' haleine caressante des zéphirs , je goûte les fruits les plus exquis ; la nature me parait plus belle , plus grande , le fardeau de la vie moins pénible , j ' en vois approcher le terme avec plus de calme ; enfin , tu triples à mes yeux le bonheur d ' être père .» On accorde aussi au café des propriétés nutritives très - remarquables , et quoique quelques - uns les lui contestent , de nombreuses autorités les contirmcnt et entre autre sa propre composition .",
+        "words": [
+          "fruits",
+          "fleurs",
+          "haleine",
+          "zéphirs",
+          "doux parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/82eea63a-6fe3-523a-a990-40fb498af166",
+        "value": "Dans les beaux jours , ce rocher si singulier peut être aperçu de la partie ouest de la ville de Mexico .Un de mes compagnons me fit à cet endroit remarquer quelques nuagesde fumée qui nous fixèrent sur la véritableplace du cratère ; nous senlîmes alors une forte odeur de soufre .« Nous étions séparés du cratère par une grande vallée , peu large , mais assez profonde ; il nous fallut descendre et la traverser pour monter le long de l ' autre arête do la montagne .",
+        "words": [
+          "forte",
+          "odeur",
+          "soufre",
+          "nous",
+          "mes compagnons",
+          "cratère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/834a332c-5bed-5848-b007-5aa00d8884a5",
+        "value": "CIVETTE .— Animal de l ' ordre des carnassiers , qui habite les contrées les plus chaudes de l ' Afrique , particulièrement l ' Abyssinie , la Guinée et le Congo , et qui sécrèto une matière d ' une odeur forte et nauséabonde , dont on faisait autrefois un assez fréquent usage dans la pratique médicale .La taille rle la civette est celle du renard , mais son corps est plus allongé et moins élevé sur jambes , et son pelage est gris avec des bandes et des taches noires .",
+        "words": [
+          "Guinée",
+          "Afrique",
+          "forte",
+          "odeur",
+          "nauséabonde",
+          "matière",
+          "contrées",
+          "Abyssinie",
+          "Congo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/85b95443-14c3-5715-a810-19a5de419209",
+        "value": "BOLIDES , ou GLOBES DE FEU .- Ce sont des émanations de fluides inflammables qui s ' élèvent dans l ' air , où elles se combinant avec le gaz hydrogène et apparaissent sous la forme sphérique après leur embrasement .Quelquefois ces globes ont un mouvement très - rapide , et souvent aussi ils demeurent stationnaires et dans un état complet d ' immobilité .",
+        "words": [
+          "air",
+          "émanations",
+          "fluides inflammables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/877674e3-b43f-5188-a6c5-405cb32b3adf",
+        "value": "Il croît surtout en abondance dans les vallées d ' Aragua et de Caucagua , aux environs de Caracas ; mais on le rencontre aussi dans toute la cordillère qui s ' étend depuis Barbula jusqu ' au lac maritime de Maracaybo .Lorsque cet arbre à lait est jeune , soit lait est épais , répand un parfum balsamique des plus suaves , est agréable au goût et très - nourrissant ; mais toutes ces qualités disparaissent à mesure que l ' arbre vieillit , et lorsqu ' il est parvenu à un âge ayancé , son suc , au lieu d ' être doux , est amer , et son odeur devient presque fétide ..",
+        "words": [
+          "agréable",
+          "fétide",
+          "parfum",
+          "odeur",
+          "son",
+          "lait",
+          "très - nourrissant",
+          "balsamique des plus suaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/878ea81a-e26d-5ed4-b8e3-93dd91b3f351",
+        "value": "Il croit spontanément sur les chemins , dans les haies , autour des habitations et au bord des fontaines .Ses fleurs , d ' un blanc jaunâtre , répandent une odeur agréable , et sont très - recherchées des Egyptiens pour o0 orner l ' intérieur de leurs demeures .Les habitants de Madagascar se nourrissent du fruit du Pandanus edulis , dont les racines , longues de 40 à 50 centimètres , affectent des formes bizarres ; et , aux Moluques , on mange aussi le bourgeon du Pandanus hurnilis .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Ses fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/88366f48-ffe7-5cc9-bb2c-e037ea48aef8",
+        "value": "s ' élancent d ' une branche à l ' autre , s ' entrelacent , forment des masses aux contours bizarres et élégants , s ' attachent aux palmiers , montent avec eux à de grandes hauteurs , et retombent en festons , jets perpendiculaires , en colonnes tor - ses , etc .Près d ' elles , des orchidées , aussi remarquables par leur faille que par la singularité de leurs formes , et dont les fleurs , disposées en larges étoiles , offrent des grappes de plus d ' un mètre de long , répandent une odeur suave de vanille ; enfin , au pied de ces édifices grandioses , d ' autres végétaux .dediverses familles , se groupent en épais fourrés qui cachent les longues épines dos mimosa , des féviers , etc .",
+        "words": [
+          "suave",
+          "odeur",
+          "fleurs",
+          "pied",
+          "vanille",
+          "orchidées",
+          "édifices grandioses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/88ba5409-224d-53c9-9a8c-c4b7f60e7e37",
+        "value": "Le nombre des galeries souterraines que présentent ces hypogées est prodigieux , et leur intérieur est dans un état de dévastation difficile à peindre .Les momies ne sont ni dans leurs caisses , ni 11 leur place ; elles jonchent le sol au poiut que le passage en est obstrué on marche sur elles , et comme eiles cèdent sous le poids du corps , on a souvent quelque peine à retirer le pied embarrassé dans les ossements et dans les langes Le séjour dans ces caveaux mortuaires est très - fatiguant ; l ' air y est chargé d ' exhalaisons bitumineuses .Du reste , rien ne distingue les hypogées ordinaires de Thèbes , de ceux que l ' on a parcourus dans l ' Egypte moyenne .",
+        "words": [
+          "air",
+          "exhalaisons",
+          "bitumineuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/8989ec15-4868-56b7-8476-f609c7682f12",
+        "value": "l ' existence de ces vapeurs gazeuses ne serait pas seulement particulière aux grottes mais bien encore à d ' autres portions du sol exposées à ciel ouvert ; voici , en effet , comme il s ' exprime à ce sujet dans son livre n , .chapitre 93 « Dans plusieurs lieux de l ' Ita - lie , il s ' exhale , par certaines ouvertures , une vapeur pestilentielle que ni les hommes ni les bêtes ne peuvent respirer sans danger .Les oiseaux mêmes traversant une telle atmosphère , avant qu ' un air plus salubre en ait adouci la malignité , tombent , deviennent livides , et leur gorge s ' enfle , comme si elle avait ét ' é comprimée avec violence .",
+        "words": [
+          "pestilentielle",
+          "vapeur",
+          "Dans plusieurs lieux de l ' Ita - lie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/8d0d2b50-b735-50aa-9a8d-888756d257c3",
+        "value": "VITIVAR mu VITIVER ( Andropogon muicytum Graminée dont les racines rémide a are odeur analogue à cette de la rose musquée et dont on se sert pour parfumer le linge .Dans l ' Inde , et particulière - ment à Madras , on fait usage aussi du viticar pour tresser des paillassons que l ' on suspend a la colonnade qui règne autour de l ' habitation et qui ont pour objet d ' y entretenir l ' air l ' t la fraîcheur On les arrose fréquemment , et l ' air qui passe au travers de ces tresses , se saturant du parfum de la plante , va le répandre ensuite dans les ap - partements .On fabrique encore , avec le vitivar , des éventails et des chasse - mouches odorants , et on retire enfin de cette plante une infusion qu ' on dit fébrifuge .",
+        "words": [
+          "parfum",
+          "air",
+          "plante",
+          "arrose",
+          "Madras",
+          "ap",
+          "Dans l ' Inde",
+          "partements"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/8ddaf5eb-51ec-527e-be63-2b71b65678e7",
+        "value": "Des , eaux stagnantes et répan - .dues près et loin de ter cours couvrent le limon vaseux qu ' elles ont déposé ; et ces vastes marécages , exhal - ant leurs vapeurs et brouillards fétides communiqueraient à l ' air l ' infection de la terre , si bientôt - elles ne retombaient en pluies précipitées par les orages ou dispersées par les .vents .",
+        "words": [
+          "vapeurs",
+          "air",
+          "fétides",
+          "-",
+          "brouillards",
+          "infection"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/8f0f21f0-20df-56e7-85a8-5615b2a1f0bd",
+        "value": "L ' air vicié , en effet , est plus considérable , dans un temps donné , sous la cloclie que dans le milieu atmosphérique , et , pour que la santé des plongeurs n ' éprouve aucune influence dangereuse , il faut que ta cloche ne renferme pas au delà de 4 .à 5 pour 100 d ' air vicié .Celui - ci étant plus chaud et , par conséquent , plus léger que l ' air frais , se maintient au sommet du la cloche , d ' où on l ' expulse au moyen d ' un robinet .",
+        "words": [
+          "air",
+          "vicié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/9171e0c8-5d44-5181-b114-d17ce965e24f",
+        "value": "Dans l ' Inde , et particulière - ment à Madras , on fait usage aussi du viticar pour tresser des paillassons que l ' on suspend a la colonnade qui règne autour de l ' habitation et qui ont pour objet d ' y entretenir l ' air l ' t la fraîcheur On les arrose fréquemment , et l ' air qui passe au travers de ces tresses , se saturant du parfum de la plante , va le répandre ensuite dans les ap - partements .On fabrique encore , avec le vitivar , des éventails et des chasse - mouches odorants , et on retire enfin de cette plante une infusion qu ' on dit fébrifuge .Quant à ce que les honnêtes marchands de Paris vendent sous le nom de vititer , ce n ' est le plus souvent que de la racine de chiendent parfumée avec du musc .",
+        "words": [
+          "odorants",
+          "infusion",
+          "plante",
+          "fébrifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/929ae7ac-4b18-5721-81f2-e5419dbe6369",
+        "value": "L ' expérience fut répétée en substituant de l ' assa .fœtida au camphre , et après un délai de vingt - quatre heures , des deux morceaux de drap laissés en contact avec cette substance , l ' un , le noir , exhalait une odeur insupportable l ' autre , le blanc , était resté presque inodore .A la place de pièces de drap , le docteur fit usage ensuite de pièces de coton , puis de pièces de soie , et les mêmes effets se reproduisirent , c ' est à - dire que le noir adsorba et conserva , dans toutes les expériences , la plus grande quantité d ' odeur .",
+        "words": [
+          "odeur",
+          "camphre",
+          "insupportable",
+          "cette substance",
+          "fœtida",
+          "deux morceaux de drap"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/975b4710-a775-5048-a93b-c182182fb0bc",
+        "value": "C ' est un produit très - estimé des Japonais qui en font usage pour empoisonner leurs flèches de bambou .Ce suc est donc évidemment très - dangereux ; mais , après cela , il est faux que les émanations de l ' upas soient , comme on l ' a répété , assez pernicieuses pour asphyxier les oiseaux qui se reposent sur lui , ou même qui volent au - dessus , ni que d ' autres végétaux ne puissent vivre dans son voisinage .Seuiemrnt , introduit dans le sang par la plus légère piqûre , il donne presque instantanément la mort .",
+        "words": [
+          "suc",
+          "émanations",
+          "pernicieuses",
+          "dangereux",
+          "asphyxier les oiseaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/97966a22-25e7-5852-928c-dde6a60b3d44",
+        "value": "En ce lieu - ci , on se pourrait servir de même ménage , car le feu de noire fontaine est fort propre pour apprêter les viandes sans leur donner aucun mauvais goût , comme expérimentent ceux , lesquels allant visiter cette curiosité naturelle , font porter une poète avec du beurre , des œufs , du poisson ou autre chose semblable , et les font cuire sur ce feu .Tellement que si Aristote a mis ce feu de - Perse entre les merveilles de la nature , en ce que la flamme y étant attachée s ' élance comme en saillie , et tout ainsi comme si elle était poussée et agitée de quelque vent , Elte n ' a point de mauvaise odeur , notamment sur le lieu duquel elle sort , bien qu ' à quelques pas de la vous ressentiez une odeur assez fâcheuse , et tirant sur le bitume plutôt que sur le sout ' re .fi Et bien que ce feu brûle le bois , comme nous avons dit , si est - ce qu ' il ne brûle ni ne caleine la terre ; car après que la flamme es .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "vous",
+          "assez fâcheuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/97c80fbc-f284-5c24-9641-a50a1180b0b2",
+        "value": "On a calculé , d ' après la perte que l ' assa fœtida éprouve par l ' évaporation , qu ' un grain de cette substance peut se diviser en 11 , 781 , 800 , 000 , 000 , 000 , c ' est - à - dire 11 mi lions 781 , 800 milliards de parties odorantes .La divisibilité d ' un décigramme de musc , par l ' évaporation de ses molécules odorantes , peut être évaluée à 600 , 400 , 000 , 000 , 000 , 000 , 000 , 000 , 000 , c ' est - à - dire , à 600 millions 400 milliards de milliards .Si on compare ce nombre au volume que pourrait occuper un pareil nombre de centimètres cubes , on voit qu ' il serait deux fois plus gros que la terre .",
+        "words": [
+          "musc",
+          "odorantes",
+          "ses molécules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/98132613-5d54-5d70-becd-5e6caaff9c17",
+        "value": "Quelquefois l ' odorat est cnmmo anéanti .On petit leur faire respirer l ' acide muriatique ou l ' ammoniaque , sans qu ' ils en soient incommodés , sans même qu ' ils en doutent .Le contraire a lieu dans certains cis , et ils sont sensibles aux odeurs .",
+        "words": [
+          "leur",
+          "respirer",
+          "acide",
+          "ammoniaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/985caf21-d97b-5658-a92a-9110dee99697",
+        "value": "PATATE ou BATATE ( Convolvulus Batatas ) .— Plante vivace , originaire des contrées intertropicales des deux hémisphères , et dont la racine tuberculeuse , d ' un goût et d ' un parfum agréables , se mange comme la pomme , de terre .Il y a des bata - tes blanches jaunes violettes , sanguines , etc .",
+        "words": [
+          "parfum",
+          "agréables",
+          "contrées",
+          "racine tuberculeuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/995e05ea-1b75-54d9-a89e-d093b44a4724",
+        "value": "Ainsi , s ' il faut en croire Linschot et Gemellé on aurait l ' habitude , près de l ' île de Baharam dans le golfe Persique , d ' envoyer des plongeurs puiser de l ' eau douce au fond de la mer .On dit que sur la côte du Brésil , à i ' ernbouchure de la rivière de la Plata , l ' Océan perd son goût salé jusqu ' à près de quinze lieues au large .M .",
+        "words": [
+          "salé",
+          "goût",
+          "la côte du Brésil",
+          "rivière de la Plata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/9a6e0799-5aa6-5092-b5e4-3f9f4dfa2547",
+        "value": "Rien n ' eût été lrlus monotone que ees rocheras grisâtres , si de nombreux troupeaux n ' étaient venus donner quelque animation à ces solitudes désolées .Celaient des chèvres blanches suspendues aux cimes lés plus ardues et broutant quelques herbes aromatiques au milieu des cail - loux plus loin drs vaches d ' un rouge sombre , le front orné de ces cornes gigantesque qui sont l ' apanage de la race bovine eu Sicile , descendrient la montagne conduite par des pasteurs armés d ' une longue perche , et venaient apporteur leur la : t à la ville .« Puis nous rencontrâmes une chapelle quelques oratoires placés à côté des banes de pierres , comme pour inviter le voyager à la prière en même temps qu ' au rèpos .",
+        "words": [
+          "aromatiques",
+          "herbes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/9b9177b0-02b7-5626-967a-49ddb9f60449",
+        "value": "Nous ne dirons rien des bêtes fauves qui y trouvent un refuge assuré , ni des nombreux reptiles dont on peut confondre les contours avec ceux des racines d ' arbres ou des branches qui gisent sur le sol mais nous citerons les tribus considérables de papillons et autres insectes , aux nuances si brillantes et si variées de ces climats , et ces oiseaux si resplendissants aussi des couleurs de leur plumage , depuis le perroquet le plus gros jusqu ' au colibri le plus exigu .Toute cette multitude voltige parmi les fleurs dont ta parura merveilleuse se confond avec la sienne les premiers rendent hommage à la eréation - par des chants divers les autres par l ' exhalaison des parfums Que l ' homme apparaisse au milieu de cette pompe , de cette fête de chaque jour 1 aussitôt des cris aigus s ' échappent de toutes parts , comme pour protester contre le sacrilé - e , comme pour exiger que l ' intrus s ' éloigno et ne vienne pas apporter le trouble dans ce vaste temple où se font entendre les louanges du Créateur .FORMICALEO ou FOURMI - ILON .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/9fe5bac6-051c-597a-8d6b-277435eefacc",
+        "value": "Lorsqu ' elle est pleine , elle contient environ de 8 à 10 grammes do musc .Celui - ci est , comme on sait , l ' un des exemples les plus remarquables de l ' expension du principe odorant airlsi , un seul grain de cette substance peut parfumer un appartement durant 20 années , sans qu ' au bout de ce temps il ait perdu sensiblement de son poids .MUSCADIER ( Myristica aromatica ) .",
+        "words": [
+          "parfumer",
+          "odorant",
+          "cette substance",
+          "appartement",
+          "durant 20 années"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/a091a76a-f613-513f-a88b-81603decf684",
+        "value": "— Un grand nombre de plantesou deleurs parties coffrent une odeur plus ou moins suave ou plus ou moins désagréable , qui n ' est pas toujours due à des principes de même nature ; fréquemment elles doivent cette propriété à des huiles volatiles appelées essences , que l ' on peut en séparer au moyen de certains procédés ; dans d ' autres , leur odeur provient d ' une substance insaisissable qui est plus particulièrement désignée sous le nom d ' arome ; enfin , il est des émanations qui sont produites par l ' action du calorique sur certains sucs propres , ou bien par le tra - vail de quelques - unes des fonctions organiques .L ' odeur qu ' exhalent les végétaux diurnes est aromatique ; celle des végétaux nocturnes est alcaline , et d ' autant plus ammoniacale qu ' elle passe plus vite à la décomposition .Les tissus des premiers sont rigides et solides r , eux des seconds , mous et gélatineux .",
+        "words": [
+          "aromatique",
+          "odeur",
+          "celle",
+          "alcaline",
+          "exhalent",
+          "végétaux diurnes",
+          "végétaux nocturnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/a3594552-1dc4-5790-9a5a-22e658f7ab99",
+        "value": "Le sanctuaire ne contenait que l ' arche d ' alliance .Dans le saint étaient dix chandeliers d ' or , cinq de chaque côté , et , entre eux , se trouvaient placés dix autels cinq pour les parfums et cinq pour les pains de proposition .L ' autel des holocaustes était construit devant l ' entrée du vestibule , et entre les degrés qui conduisaienl à celui - ci et l ' autel , étaient aussi dix bassins , cinq à droite et cinq à gauche ; bassins montés sur des piédestaux et portés sur des roues d ' airain , afin qu ' on pût , selon les circonstances , les .",
+        "words": [
+          "parfums",
+          "pains",
+          "le saint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/a51c6b6d-6819-5d4b-bb88-9f75b5497930",
+        "value": "Le chemin qui y conduit de Toninglon traverse des paysages auxquels on peut à peine donner le nom de forêt , de parc ou de jardm , mais qui réunissent ces trois caractères .Des cèdres , des tulipiers , des platanes , des sumacs , des genévriers et des chênes de diverses espèces ombrageraient le chemin ; des vignes sauvages , avec leurs belles et grandes feuilles , et leurs fleurs dont le parfum égale celui du réséda , s ' entrelaçaieat aux branches de ces arbres .Des fraisi rs , des violettes , des anémones , des penséc - s , des oeillets sauvages , et une foule d ' autres fleurs encore plus jolies , couvraient littéralement la terre .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "réséda",
+          "cèdres",
+          "chênes",
+          "tulipiers",
+          "genévriers",
+          "platanes",
+          "sumacs",
+          "vignes sauvages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/a81ed671-d97f-5242-bb32-bbc03f806678",
+        "value": "Tiéhaut de Berneaud j ' aime mes semblables , j ' adore les femmes , je retrouve lesjoursde félicité , de jeunesse , de plaisirs ; je respire les doux parfums des fleurs , je me sens enveloppé par l ' haleine caressante des zéphirs , je goûte les fruits les plus exquis ; la nature me parait plus belle , plus grande , le fardeau de la vie moins pénible , j ' en vois approcher le terme avec plus de calme ; enfin , tu triples à mes yeux le bonheur d ' être père .» On accorde aussi au café des propriétés nutritives très - remarquables , et quoique quelques - uns les lui contestent , de nombreuses autorités les contirmcnt et entre autre sa propre composition .Il contient , en effet , de l ' azote , des matières grasses et salines , un principe amer et une essence aromatique , c ' est - à - dire tout ce qui est essentiel pour concourir avantageusement à la nutrition .",
+        "words": [
+          "café",
+          "nutritives",
+          "très - remarquables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/aa8a222b-ad24-5342-a25c-bb8f13b27eb6",
+        "value": "Suivant eux , lorsqu ' il doit se manifester , l ' air se trouble et le soleil rougit , quoique le temps soit calme et le sommet des montagnes très - clair .On entend alors , sous terre et dans les citernes , un bruit semblable à celui d ' un vent qui serait renfermé ; le disque des étoiles est obscurci par une sorte de vapeur ; le ciel se montre , dans la partie nord - ouest , d ' un sombre menaçant , et la mer , en se soulevant , répand une odeur forte .Les désastres causés par un ouragan sont connus de tout le monde les édifices , les arbres les plus enracinés disparaissent sous son étreinte , et la contrée la plus prospère offre , après son passage , l ' aspect de la désolation et de l ' aridité .",
+        "words": [
+          "forte",
+          "odeur",
+          "mer",
+          "citernes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/b1d4c2bd-8688-52ec-9d39-a6d547adbe25",
+        "value": "Néanmoins , on ne commence à arroser que lorsque le plant a pris racine .A la fin de juillet , ou en octobre , on transporte les pots dans un châssis plus élevé pendant l ' hiver on rennuvelle les réchauds à la fin d ' avril , de la seconde année , on rempote les ananas dans des vases de 7 pouces de diamètre , après avoir rafraîchi les racines et supprimé les feuilles inférieures puis , au printemps de la troisième année , on transporte encore les plants dans d ' autres pots plus grands on redouble les soins aux approches de la floraison , et l ' on cesse l ' ar - rosement quand le fruit est près de sa maturité , ce que l ' on reconnaît au parfum qu ' il répand .La culture de l ' ananas a fait de trèsgrands progrès en France les horticulleurs de Paris en obtiennent , un produit assez considérable et il est peu d ' établissements publics qui ne puissent en offrir aux consommateurs qui s ' y présentent .",
+        "words": [
+          "parfum",
+          "en octobre",
+          "fin de juillet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/b40bb1f5-3842-5c2c-911e-535cdcc4968e",
+        "value": "» Dans les pays chauds , il découle du tronc du cèdre une résine qu ' on appelle cedria , nu mana maslichine , qui , dit - on , est un baume salutaire pour les plaies .Les Egyptiens employaient cette résigne dans leurs embaumements et on en frottait le papyrus pour Je garantir des insectes .Le cèdre qui brûle répand une odeur agréable .",
+        "words": [
+          "embaumements",
+          "Egyptiens",
+          "résigne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/b54b0adb-ffcc-5818-9210-0a636170ca73",
+        "value": "Aujourd ' hui , son fruit est facilement obtenu , et ce fruit qui a quelque ressemblance avec une pomme de pin , devient , à sa maluri ' .é , d ' un beau jaune doré , répand un parfum particulier très - agréable , et fournit une chair douce , fondante , qu ' on recherche dans les festins .On cultive les ananas dans ' des bâches , où l ' on a déposé une couche de fumier neuf et de feuilles , que l ' on forme assez épaisse pour produire une chaleur forte et soutenue , et que l ' on recouvre encore d ' un pied de tannée neuve .",
+        "words": [
+          "parfum",
+          "particulier très - agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/b664af36-4eb1-5d93-8199-379d3bb77472",
+        "value": "Celui - ci est , comme on sait , l ' un des exemples les plus remarquables de l ' expension du principe odorant airlsi , un seul grain de cette substance peut parfumer un appartement durant 20 années , sans qu ' au bout de ce temps il ait perdu sensiblement de son poids .MUSCADIER ( Myristica aromatica ) .Arbre de 10 à 15 mètres de hauteur , particulier aux îles Moluques , mais qui est cultivé actuellement dans toutes les colonies des régions chaudes .",
+        "words": [
+          "aromatica",
+          "MUSCADIER"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/b950e953-b3f1-5abe-8664-04b6d6cded56",
+        "value": "s ' orienter .Outre le chien , qui est merveilleusement servi en cela par son odorat , on peut citer pour exemple les oiseaux en général , et particulièrement le pigeon et les espèces émigrautes .Le pigeon , qu ' on transporte a p ! usieurs centaines de lieues de son colombier , y retourne de lui - même dès qu ' on lui rend la liberté .",
+        "words": [
+          "son",
+          "odorat",
+          "chien",
+          "oiseaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/bace201a-5bdd-51d5-aa37-1306376e6169",
+        "value": "présenter sur ce lieu aussitôt la flamme se rallume ; voire même , présentiez le flambeau allumé à demi - pied vers la terre vous voyez la flamme descendre jusqu ' au bas .Cette exhalaison est tellement subite qu ' on ne peut la Voir ; elle n ' a aussi aucune qualité par laquelle on lâ puisse reconnaître par l ' attouchement ; , car mettant la main sur le Heu d ' où elle sort , vous ne la sentirez point , bien qu ' elle sorte avec impétuosité , comine on peut le remarquer , en ce qu ' elle fait bouillir l ' eau qui passe travers , et une eau commune , laquelle n ' est en rien drfferente des autres eaux avant que d ' entrer en ce creux ; mats aussitôt qu ' elle y est entrée , elle commence à bouillir à grosses ondes , comme fait l ' eau en une chaudière posée sur bon fe .u ; et en bouillant , elle mené du bruit comme si quelque vent lui passait à travers , comme en effet cette ébullition ne provient que de L ' exhalaison combustible , laquelle sortant continuellement de terre , passe à travers l ' eau pour se guinder en haut .",
+        "words": [
+          "exhalaison",
+          "subite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/bae3607a-eaaa-5cbe-8545-9aa4fad42fce",
+        "value": "Dans le jour , elle n ' abandonne point son terrier , qu ' elle creuse assez profondément en lui donnant un \" étendue commode , et elle s ' y livre à des amusements avec ses petits qui alors abandonnent la poche et courent autour d ' elle .Le sarigue est une bête fort laide son museau est long , sa bouche fendue démesurément , ses oreilles longues et disgracieuses , ses yeux petits , sa fourrure sale , et il répand unc odeur fétide .Mais les mœurs do la femelle rendent ces animaux intéressants pour l ' observateur .",
+        "words": [
+          "fétide",
+          "odeur",
+          "il"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/bb9f75d2-9db6-5449-af30-cfc796a2dd59",
+        "value": "AAL .— Arbre dé la famille des Térébin ' thacées , qui est très - commun dans l ' Inde ' - et dont l ' écorce d ' un parfum agréable est employée pour aromatiser un grand nombre de préparations cosmétiques , culinaires et - autres , et particulièrement ' le vin que l ' on obtient du sagoutier , espèce de palmier .AAR .",
+        "words": [
+          "Inde",
+          "agréable",
+          "parfum",
+          "vin",
+          "écorce",
+          "aromatiser"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/bcc883ee-fcaa-5c19-ac57-16d37272754f",
+        "value": "Mais si le vent de mer s ' élève , cette verdure si frèle est bien vite flétrie .En juillet , l ' air s ' épure et l ' on s ' apprête à jouir de l ' été ; mais ce soi - disant été n ' en a que l ' apparence , et d ' ailleurs il est accompagné de myriades d ' insectes qui obsèdent J ' homme , lequel n ' a d ' autre préservatif contre eux que l ' odeur infecte des dimokours ou grands tas de mousse et de bois vert qu ' il brrllu et dont l ' épaisse fumée chasse les moustiques .D ' un autre côté pourtant , ces hôtes si odieux servent les habitants , en ce sens qu ' ils forcent les rennes a sortir du sein des forêts , à franchir la toundra et à se rendre au bord de la mer , où l ' air rst plus froid et où règnent des vents qui dispersent les moustiques .",
+        "words": [
+          "infecte",
+          "odeur",
+          "air",
+          "bois vert",
+          "En juillet",
+          "' homme",
+          "chasse les moustiques",
+          "obsèdent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/bd9ff0aa-b577-5e12-983d-b3ac05e8b0c3",
+        "value": "Louis XIV détestait les chapeaux gris .Carraccioli , grand sénéchal de Jeanne 11 , avait une frayeur extrême des souris ; le maréchal d ' Albret se trouvait mal lorsque , dans un repas , on servait un marcassin ou un cnchon de lait ; Ticho - brahé et le duc d ' Épernon ne pouvaient regarder un lièvre ; le chat causait des spasmes violems à Henri III l ' odeur du poisson donnait la fièvre à Erasme ; et , suivant Tallemant , le maréchal de Brézé ayant fait tuer à l ' affût un do de ses valets , mari d ' une de ses maîtresses , s ' évanouissait toujours quand il voyait un lapin .Les antipathies existent aussi chez les animaux elles amènent entre quelques espèces une guerre constante , et offrent également leurs singularités .",
+        "words": [
+          "odeur",
+          "poisson",
+          "spasmes",
+          "donnait la fièvre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/c0e1d584-fab7-5987-9c94-521f99c26233",
+        "value": "Dans ces moments de désolation générale , les mulets sont les seuls qui parviennent quelquefois à apaiser tour tourment .Ils s ' approchent des mélocactus , plantes grasses et hérissées d ' épines , qui croissent dans ces plaines , et , à l ' aiUc ; de leurs pieds , qui écartent en partie les piquants , ils viennent à bout de saisir la substance spongieuse qui se trouve au centre du végétal , et qui est un suc rafraîchissant .Aux Etats - Unis , on construit , pour garantir les champs chargés de récoltes , des clôtures que l ' ou nomme fences et qui consistent en de longues perches terminées d ' un bout par une pointe , et de l ' autre par une grosse tête .",
+        "words": [
+          "rafraîchissant",
+          "mélocactus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/c219da95-9cb6-53d8-85d4-20c248bbc689",
+        "value": "On composait , chez les anciens , une sorte de vin de myrrhe , qu ' on donnait à ceux qui devaient souffrir de longs supplices , afin do leur donner du courage et l ' on prétend qu ' on en offrit à Jésus - Christ qui le refusa .Ce fut avec de la myrrhe que Nicodèmo embauma le corps du Sauveur .Les anciens distinguaient deux sortes de myrrhe l ' une liquide , du ' lis nommaient stacté , et l ' autre solide , l1ppelée myrrhe trwelodyte .",
+        "words": [
+          "corps",
+          "myrrhe",
+          "embauma",
+          "Nicodèmo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/c21e78a0-7e6e-50af-976b-4e2bd1d5a9c4",
+        "value": "Le safran estcommun dans les Pyrénées et plusieurs départements du centre , et jadis il était cultivé en grand dans le Gatinais .Tous les auteurs grecs et latins ont mentionné le safran il était employé par les habitants de Tyr et de Sidon à teindre en jaune ! e voile des nouvelles mariées ; il entrait dans la fabrication des parfums , dans les préparations culinaires et dans celles de la pharmacie les Egyptiens en coloraient leurs aliments et s ' en servaient pour l ' aspersion des temples , des théâtres et des salles de festin les Sybarites en buvaient en infusion , avant de se livrer aux plaisirs de Bacchus , et les Romains en teignaient leurs vêtements et tours chaussures .De nos jours , on en extrait une belle teinture , mais difficile à fixer puis un amidon de bonne qualité , une huile éthérée et un narcotique , et ou le con - qu ' ils ont faim , et que l ' écureuil qui rassemble des provisions durant l ' été pour l ' hiver a le soin au lieu de les renfermer dans un même endroit , de les séparer dans des dépôts différents .",
+        "words": [
+          "parfums",
+          "théâtres",
+          "Sybarites",
+          "salles de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/c6b3a3bd-5095-5b78-ac20-81f36d2b4f3f",
+        "value": "On a calculé que la moyenne des espèces odorantes , sur 100 , est de Chez les plantes monoïques et dioïques , et quelques jours avant l ' explosion des anthères , une sorte de parfum électrique se répand dans l ' atmosphère .La vanille ne doit son odeur aîomatique , sa saveur agréable et sa vertu stimulante , qu ' à la pulpe renfermée dans l ' intérieur de son fruit , et comme cette pullne n ' existe dans aucune autre orchidée , la vanille forme alors , à cet égard , une excelslion dans cette faille .L ' odeur du chanvre est très - forte , enivrante , narcotique , et elle agit si puissamment sur nos o : banes , qu ' il suffit de s ' arrêter quelque temps dans le voisinage d ' une chénevière , pour en éprouver les désagréables effets , c ' est - à - dire des éblouissements , uue sorte .",
+        "words": [
+          "fruit",
+          "agréable",
+          "odeur",
+          "son",
+          "vanille",
+          "saveur",
+          "aîomatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ca824211-c19b-5b4a-9c2d-cfc94ff76879",
+        "value": "Nous suivons toujours ta même vallée le chemin n ' est plus qu ' un étroit sentier bordé de vieux arbres dont le tronc et les branches sont envaIlis par une végétation parasite ; des lianes stériles nouent leurs fortes brindilles aux cimes les plus élevées , et les orchis plongent leurs raciues tuberculeuses dans l ' écorce vermoulure .C ' est sur ces arbres séculaires que croit le fahan , cette herbe aromatique dont les pauvres esclaves de Madagascar révélèrent les propriélésaux premiers liabitants de la colonie .Bientôt la route devient à peu près impraticable des branches entrelacées presque au niveau du sol , des blocs détachées de leur base nous barrent à chaque instant le passage .",
+        "words": [
+          "aromatique",
+          "arbres",
+          "herbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/cbb26f55-ffd7-5773-92fc-79160911467d",
+        "value": "petites tasses grandes comme des coquilles d ' œufs .Il faut toujours une habitude l ' llumanité : en Europe , l ' homme du peuple est un être attablé , qui boit toujours sans soif ; en Orient , l ' homme du peuple est un être accroupi , qui fume sans cesse sans avoir besoin de parfum ; ces fils du soleil adorant le feu , il ne s ' éteint jama ' ts dans les cara - vansérails ou dans les plus misérables chaumières des villages turcs .» M .",
+        "words": [
+          "parfum",
+          "Europe",
+          "Orient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ce1d63b4-b11e-5180-ab49-a8b6e77013ba",
+        "value": "fœtida au camphre , et après un délai de vingt - quatre heures , des deux morceaux de drap laissés en contact avec cette substance , l ' un , le noir , exhalait une odeur insupportable l ' autre , le blanc , était resté presque inodore .A la place de pièces de drap , le docteur fit usage ensuite de pièces de coton , puis de pièces de soie , et les mêmes effets se reproduisirent , c ' est à - dire que le noir adsorba et conserva , dans toutes les expériences , la plus grande quantité d ' odeur .Le drap absorbait plus que le coton .",
+        "words": [
+          "odeur",
+          "noir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ce62c9b3-4e57-5b27-865d-f2e372c5f0b3",
+        "value": "Ces peuples ont la peau très - foncée , les cheveux laineux , le crâne étroit en avant ; aylati sur le vertex , et arrondi dans la région postérieure ; les pommettes saillantes le nez large , les dents incisives implantées obliquement ; les lèvres épaisses , les reins cambrées , les hanches saillantes ; les extrémités inférieures courhées et le talon très - prolongé CH arrière .Un autre caractère qui distingue cette variété est l ' odeur sui generis extrêmement forte qu ' elle exhale sans cesse .Le rameau cafre , qui occupe la partie orientale de l ' Afrique , depuis la rivière de Saint - Esprit jusqu ' au détroit de Babel - Mandel , et se retrouve aussi à Madagasear , comprend entre autres peuples les Moujous , les Dammaras , les Kouffas , les Masquas , les Betjuanas et les Macquanas et il otfre des hommes dont la ' face est plus régulière que celle des autres nègres , et dont la peau d ' un gris noipâtre est beaucoup moins luisaute .",
+        "words": [
+          "odeur",
+          "exhale",
+          "extrêmement forte",
+          "variété",
+          "sans cesse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d0810856-f9a2-5245-bb57-5104c7f1878d",
+        "value": "Les Egyptiens employaient cette résigne dans leurs embaumements et on en frottait le papyrus pour Je garantir des insectes .Le cèdre qui brûle répand une odeur agréable .Chez les anciens , cet arbre était consacré aux Euménidcs .",
+        "words": [
+          "agréable",
+          "odeur",
+          "cèdre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d111887d-82c8-5295-9193-bbc056e184f9",
+        "value": "Celui du cordia sebestena se mange cru et confit , et on lui accorde une propriété analogue à celle de la casse .Le bois de cette espèce parfume aussi les lieux où on le brrlle .SÈCHE ( Sepia ) .",
+        "words": [
+          "parfume",
+          "bois de cette espèce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d1e2931f-f28f-5be2-b34f-ee1e39c991a4",
+        "value": "Les premières n ' ont souvent , du moins en apparence , aucun caractère qui les distingue de l ' eau ordinaire ; mais il en est plusieurs aussi qui se trouvent colorées ar le fer , le cuivre ou d ' autres matières organiques , et dont la saveur , quoique variable est souvent caractéristique .C ' est ainsi , par exemple que les sources ferrugineuses ont un goûit d ' encre très - prononcé que celles qui contiennent de l ' acide carbonique libre sont piquantes ; qu ' il en est auxquelles l ' hydrogène sulfuré ou le sulfure alcalin communique une odeur d ' œufs pourris ; que d ' autres reçoivent du carbonate de soude un goût alcalin et des sels de magnésie , une saveur amère .Communément , les eaux rninérales sont limpides , mais plusieurs se troublent peu après leur sortie du sol , par suite de certaines décom - positions et il advient même que ces décompositions ont lieu avant le contact avec l ' air atmosphérique .",
+        "words": [
+          "odeur",
+          "autres",
+          "amère",
+          "hydrogène sulfuré",
+          "œufs pourris",
+          "sulfure alcalin",
+          "acide carbonique",
+          "carbonate de soude",
+          "saveur",
+          "très - prononcé",
+          "sources ferrugineuses",
+          "sels de magnésie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d1ed5fb0-b9fb-5036-bb0e-dd8dc69442f3",
+        "value": "Les végétaux des terrains humides , tièdes et abrités , sont lrlus nourris , plus gros et plus grands ; puis ils reçoivent des couleurs de plus en plus éclatantes à mesure qu ' ils se rapprochent ou qu ' ils habitent des climats chauds sous les tropiques , les plantes ont de brillantes corolles et de majestueux feuillages , et les fruits sont savoureux , tandis que , dans les climats froids au contraire , ellçs deviennent insipides , chétives , et l ' aconit et la ciguë s ' y montrent tellement inertes que l ' on peut s ' en nourrir .Les collines , beaucoup plus basses que les montagnes , se couronnent de grands arbres , autour desquels s ' élancent de petits arbustes ou grimpent de petits arbrisseaux , tandis qu ' à leurs pieds , sur l ' herbe Gne , se détachent les épis de la fétuque , les fleurs de la circée alpine , les corymbes des labiées et le sabot de la jeune vierge , cypripedium calceolus , qui répand sa douce odeur d ' oranger .La présence des étoiles blanches de la stellaire des bois et de l ' ophrys mouche , indique l ' approche des lieux stériles où pullulent les plantes à tiges roides et à saveur amère ou âcre , telles que les orpins , les achillées , les orties , les véroniques , le milleuertuis , les bec - de - grue , etc .",
+        "words": [
+          "douce",
+          "odeur",
+          "fleurs",
+          "oranger",
+          "collines",
+          "jeune vierge",
+          "cypripedium",
+          "corymbes des labiées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d42b9080-2834-5ec2-950f-b8749449a710",
+        "value": "C ' est un arbuste gracieux dont les fleurs ont quelque ressernblance avec celles du jasmin ; elies .sont blanche , odoriférantes et se produisent durant toute l ' année , Le fruit qui leur succède offre d ' abord des grappes de coques vertes qui passent ensuite successivement au blanc , au jaune , au rouge et entln .au brun .",
+        "words": [
+          "odoriférantes",
+          "durant toute l ' année"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d5ed25ba-3ef7-5307-8fc4-ef5c69a5c712",
+        "value": ".Ces boues sont assez fréquemment employées comme bains excitants dans le traitement de la paralysie ou de l ' engorgement local .Celles de Bagnères de Luchon , de Bourbonne , de Dax , de Ca u terets , de Néris et de Saint - Amand , sont au nombre dès plus renommées .",
+        "words": [
+          "bains",
+          "boues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/d9e4529a-9573-5150-9f1d-bc8682e5244c",
+        "value": "Ils ont l ' ouïe très - fine , l ' odorat très - subtil et la vue très - perçante .Cette subtilité de l ' odorat leur est fort utile dans leurs expéditions militaires , pour sentir au loin la fumée du feu ou l ' odeur d ' un camp , et se procurer du butin ou quelque .bon quartier .",
+        "words": [
+          "odeur",
+          "odorat",
+          "camp"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/dabbf651-533e-57b1-a717-8f09f366cef5",
+        "value": "Maintenait , de ce que ce produit ' avait une certaine valeur , des idées stupides surgirent sur son compte .On prétendit que les tissus obtenus du byssus perdaient immanquablement leur éclat et leur souplesse , quand on les tenait à côté d ' étoffes de laine ; que les parfums , même les plus délicats , étaient nuisibles à ces tissus que ceux - ci repoussaient l ' eau ; qu ' ils préservaient également du chaud et du froid , et enfin que l ' usage faisait disparaître leur couleur .Les jambonneaux sont communs dans la Méditerranée mais è ' est surtout sur les côtes de la Calabre et de la Sicile , qu ' on retire le byssus en plus grande abondance , et c ' est aux mêmes lieux que les Romains confectionnaient leurs étoffes .",
+        "words": [
+          "parfums",
+          "nuisibles",
+          "tissus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/de935401-6eb3-5a81-9f2f-576065fbadc5",
+        "value": "Comme les Tartares , ils ont grand soin de s ' épiler tout le corps .Ils ont l ' ouïe très - fine , l ' odorat très - subtil et la vue très - perçante .Cette subtilité de l ' odorat leur est fort utile dans leurs expéditions militaires , pour sentir au loin la fumée du feu ou l ' odeur d ' un camp , et se procurer du butin ou quelque .",
+        "words": [
+          "odorat",
+          "très - subtil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/df4715ae-9426-595a-b51c-a1f701953d73",
+        "value": "Ainsi malgré la légèreté apparente de l ' air , il résulte de son poids réel et de la profondeur de l ' atmosphère , que chacun de nous est chargé d ' une colonne de ce fluide qui pèse au delà de 1 , 100 kilogrammes ; et le poids total de l ' atmosphère qui envi - ronne le globe est estimé à environ 86 , 594 , 004 , 795 , 636 myriagrammes .La température de l ' air décroît toujours à mesure que l ' on s ' élève dans l ' atmosphère où l ' on apprécie que le décroissement doit être à peu près de 1 degré par 150 à 170 mètres et pour ce qui est dç sa composition , elle varie très - peu , puisque dans les limites de hauteur où l ' on a pu parvenir , elle a çonstamment présenté en moyenne 20 , 8 centièmes en volume d ' oxygène ; 79 , 2 d ' azote ; puis quelques mülièmes d ' acide carbonique avec des émanations gazeuses et organiques .Enfin , l ' air renferme , à l ' état de vapeur , de l ' eau , dont la condensation donne naissance aux divers météores aqueux tels que la pluie , lu serein , la rosée , la grêle , la neige .",
+        "words": [
+          "atmosphère",
+          "émanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e04af7a5-b6fc-5291-82c7-0052580ba038",
+        "value": "L ' air consommé par un seul individu , sous la pression atmosphérique , est de 800 litres d ' oxygène ou de 3 , 000 litres d ' air ; mais dans la cloche de plongeur , où l ' air est plus condensé , la pompe foulante doit renouveler de 4 à 5 mètres cubes d ' air par heure et par homme .L ' air vicié , en effet , est plus considérable , dans un temps donné , sous la cloclie que dans le milieu atmosphérique , et , pour que la santé des plongeurs n ' éprouve aucune influence dangereuse , il faut que ta cloche ne renferme pas au delà de 4 .à 5 pour 100 d ' air vicié .",
+        "words": [
+          "atmosphérique",
+          "vicié",
+          "cloche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e053deb5-552f-5d80-a8b6-b1a87d252448",
+        "value": ", était la .mer , puis en face Palerme , la vieille ville tour à tour sarrasine , normande , allemande , espagnole Palerme aujourd ' hui déchue de ses grandeurs , mais qui a su garder des biens que les révolutions ne sauraient lui ravir son beau ciel sa mer bleuâtre et les magnifique hais d ' orangers qui l ' environnent et lui font une ceinture de parfums .Au delà de celte , plaine verdoyante , un cordon de montagnes forme une enceinte qni semble destinée à protéâec la ville â l ' est le cap ' de Cephalo s ' avance dans la mer et termine le golfe de Palerme ; au loin l ' œil se perd dans les lignes leuses des collines de la Bagaria l ' oasis de la Sicile .",
+        "words": [
+          "Palerme",
+          "parfums",
+          "mer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e13b233a-1cb2-5e13-95c1-e360df5299ad",
+        "value": "il nous conduisit à une belle grotte éievée en dôme , et taillée par jes mains de la nature , elle n ' a pas de stalactites il n ' en parait pas une seule dans toute l ' étendue du souterrain , parce que l ' eau n ' y filtre point .Tout y est sec et comme l ' air ne s ' y renouvelle pas , ily a une odeur très - désagréable .Des milliers de chauves - souris , dont la fiente s ' élève en monceaux , habitent ce séjour ténébreux ce sont les seuls monstres que nous y découvrîmes .",
+        "words": [
+          "odeur",
+          "très - désagréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e1568040-042d-5c75-ae37-df3ad23ba643",
+        "value": "Il végète à la profondeur de 12 à 15 centimètres dans les terrains légers et sablonneux , dans les bois de châ - tainiers de chênes et de charmes où les coctions les font découvrir , ou bien des chics dressés à cette recherche .Outre la truffe comestible , qui est d ' un brun noirâtre à sa surface , rude et hérissée de tubercules , il y a la trulfe musquée qui est brune , la truffe grise à odeur d ' ail , et la truffe blanche qui crnlt en Afrique et dans le midi de ! u France .La truffe est regardée généralement comme aphrodisiaque , mais quelquesuns cependant lui contestent cette propriété , Les Romains recevaient de l ' Afrique une truffe blanche à laquelle ils donnaient le nom de truffe de Libye .",
+        "words": [
+          "odeur",
+          "ail",
+          "truffe",
+          "truffe grise",
+          "truffe blanche",
+          "trulfe musquée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e2685cd0-b147-57fd-918a-74e220fcb034",
+        "value": "Ce fut un des endroits les plus pénibles de noire route .Le soleil avait amolli la neige , et nous pouvions à peine marcher ; tous les trois ou quatre pas nous nous arrêtions pour respirer et reprendre des forces ; l ' odeur était insupportable .« A dix heures , nous arrivâmes enfin an sommet .",
+        "words": [
+          "odeur",
+          "nous",
+          "insupportable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e48d4089-7410-522b-99aa-fea36cf87a0b",
+        "value": "Si le malacie succomblait , on mettait à la place de ces deux premières plantes , des rameaux d ' épicea et de cyprès .On lavait ensuite le cadavre , ot 0 ' 1 le couvrait de parfums , tels que la myrrhe , l ' encens , l ' amome , etc ., et on le déposait dans un cercueil de cyprès , de chêne et d ' arbousier , garni de tiges sèches de papyrus et de jonc puis on le portait dans un vestibule , où il était couronné d ' olivier , de laurier , de peuplier blanc , de lis ou d ' ache , selon son sexe , son âge , sa profession et les honneurs dont il avait été revêtu .",
+        "words": [
+          "myrrhe",
+          "encens",
+          "parfums",
+          "cadavre",
+          "amome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/e65148a1-29e7-5aec-8259-3b05ce730abb",
+        "value": "826 Odéon .826 Odeurs des végéiaux .826 Odeurs et couleurs .",
+        "words": [
+          "Odeurs",
+          "végéiaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ec1e2815-2f6d-5d50-a54c-79df61bf7685",
+        "value": "Charles 11 , prince de Salerne , lit construite sur le roc une maison de re - fuge , pour de pieux cénobites qui s ' étaient logets dans la caverne .C ' est que cette caverne est dédiée à sainte Madeleine , dont on y voit l ' image ; c ' est qu ' autrefois on trouvait inscrit à la SainteBaume cette légende « En l ' honneur du Dieu très - bon et trèsgrand , et à la mémoire de sainte Madeleine de Béthanie , qui demeurait dans les lieu circonvoisins de Jérusalem , sœur de Lazare et de l ' incomparable hôtesse de Jésus - Christ , laquelle ayant souvent arrosé de parfums les pieds du Seigneur , qu ' elle avait essuyés de ses cheveux , étant à genoux devant lui , et enfin ayant répandu du nard sur son corps comme pour l ' ensevelir par avance lut consolée par cette apparition si désirée que lui fit Jésus - Christ après sa glorieuse résurrection , dans le jardin qui était auprès de son sépulcre , qui l ' ayant touchée au front avec ses doigts sacrés , lui ordonna de porter la nouvelle de sa résurrection à ses apôtres .Mais après l ' ascension toute admirable de Jésus - Christ dans le ciel elle fut exposée aux flots de la mer avec son frère Lazare , sa sœur Marthe et autres personnes , sur une vieille barque dépourvue de toutes choses .",
+        "words": [
+          "Jérusalem",
+          "parfums",
+          "souvent",
+          "lieu",
+          "caverne",
+          "la SainteBaume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ee23f3f3-45e1-579b-a140-f466cdf3ea9f",
+        "value": "« Cependant , on hésitait à s ' approcher du cercueil de Louis XV .Non pas sans doute que l ' histoire de France fût très - familière aux ouvriers employés depuis trois jours à ce dégoûtant maniement de cadavres ; mais lu bruit s ' était répandu parmi eux qu ' à l ' ensevelissement et aux funérailles de cu prince , la plupart de ceux qui s ' étaient approchés du corps , avaient péri suffoqués par t ' odeur épouvantable qui s ' en exhalait .Cela n ' était pas rassurant , et ils avaient peur .",
+        "words": [
+          "odeur",
+          "épouvantable",
+          "ouvriers",
+          "depuis trois jours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/eee49df9-4734-54f2-acda-8b8260d445f4",
+        "value": "Quelquefois la même plante offre une odeur toute différence dans ses diverses parties ainsi la fleur du sureau , par exemple , répand un parfum assez agréable , tandis que ce ! ui des feuilles est presque repoussant .Les espèces à fleurs blanches sont généralement les plus odorantes , et parmi les espèces colorées , les rouges sont le plussouvent n parfum , et les bleues le plus rarement .On a calculé que la moyenne des espèces odorantes , sur 100 , est de Chez les plantes monoïques et dioïques , et quelques jours avant l ' explosion des anthères , une sorte de parfum électrique se répand dans l ' atmosphère .",
+        "words": [
+          "parfum",
+          "odorantes",
+          "espèces à fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ef28481c-6f80-5259-a596-539ee2f4d32b",
+        "value": "Les thés verts sont 1 ° le thé Hyswen , l ' une des meiileures sortes ; 2 \" le thé perlé , dont les feuilles sont roulées en forme de perles , et dont l ' odeur est plus agréable et la couleurplus brune que celles de l ' hyswen 3 ' le thé poudre , à canon , qui se présente avec des grains menus comme la poudre à canon et qui est très - agréable au goût 4 ° le thé tehoulan , qui ressemble l ' hyswen , mais qui est plus suave et rare dans le commerce ; 5 ° le lhé kou - lang - fyn - i , le plus estirné des thés verts et qui se vend , à ta Chine même , 40 francs Ie demi - kilogramme .Les thés noirs comprennent l ' le tné Souchong , qui est d ' un brun noirâtre et d ' une odeur faible 2 ° le thé Péko , d ' une odeur plus intense et pius délicate que le précédent ; 3 ° le thé Liang - sin , le meilleur des noirs , et qui se vend à fi Chine 12 francs le demi - kilogrammc ; 4 ° le thé Fou - Tchan , qui est rosé et coûte 13 francs ; 5 \" le thé Kou - Lan - sa - né , d ' un blanc argenté et Il prix de 30 francs .Toutefois , s ' il fallait en croire un M .",
+        "words": [
+          "faible",
+          "odeur",
+          "intense",
+          "délicate",
+          "thé",
+          "thés noirs",
+          "thé Péko",
+          "tné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/f04eede2-3bb8-56d1-b7c2-a1624385d77b",
+        "value": "s enflammées de papyrus , au son des llûtes funèbres faites de bois de lotus .Après que le corps avait été consumé , on , en recueillait les cendres qu ' on recevait dans une urne , et on environnait celle - ci de violettes , de roses et d ' autres plantes odoriférantes cette urne était ensuite renfermée dans un tombeau entouré d ' arbres dont l ' ombre devait être épaisse , et de plantes consacrées aux mânes , telles que l ' ache , le lis , la rose , l ' hyacinthe , la mauve , le narcisse , l ' amaranlhe , etc .et enfin , on célébrait un repas funèbre , composé de fèves , de lentilles , d ' ache et de laitue .",
+        "words": [
+          "roses",
+          "plantes",
+          "odoriférantes",
+          "violettes",
+          "narcisse",
+          "Après",
+          "urne",
+          "mauve",
+          "amaranlhe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/f1399139-518b-55f2-a3f5-f461eaaae83d",
+        "value": "THERMES DE SALASSY , à l ' île Bourbon .« Alrrès avoir parcouru les clamps de cannes , les vergers odorants de muscadiers et de girofliers , après nous être arrêtes dans les vastes usines où se manifeste bruyamment l ' activité humaine , nous voulons , dit le docteur Yvan visiter les solitudes , les sites silencieux que l ' homme n ' a fait qu ' explorer , et dont les sauvages beautés resteront à l ' abri des dévastations de l ' industrie , comme un ouvrage divin qu ' aucun labeur humain ne doit profaner .Le chemin de Saassy , but de notre excursion , côtoie une élroite vallée , au fond de laquelle gronde un rapide torrent ombragé de vieux arbres aux trones noueux au feuillage épais et sombre .",
+        "words": [
+          "odorants",
+          "girofliers",
+          "muscadiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/f2dcf4ad-5d5f-5f5b-b992-1e60247b476f",
+        "value": "8 aux alentours .VITIVAR mu VITIVER ( Andropogon muicytum Graminée dont les racines rémide a are odeur analogue à cette de la rose musquée et dont on se sert pour parfumer le linge .Dans l ' Inde , et particulière - ment à Madras , on fait usage aussi du viticar pour tresser des paillassons que l ' on suspend a la colonnade qui règne autour de l ' habitation et qui ont pour objet d ' y entretenir l ' air l ' t la fraîcheur On les arrose fréquemment , et l ' air qui passe au travers de ces tresses , se saturant du parfum de la plante , va le répandre ensuite dans les ap - partements .",
+        "words": [
+          "parfumer",
+          "odeur",
+          "linge",
+          "rose musquée",
+          "racines rémide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/f5a77d4c-6ea1-5506-91d3-7b0665d42f48",
+        "value": "Pline vante beaucoup les pâturages et les salines de Lero .Saint Eucher fait des deux îles une peinture des plus riantes « Ce sont , dit - il , des solitudes délicieuses , émaillées de fleurs odoriférantes , remplies d ' herbes médicinales et arrosées par plusieurs sources .» Selon Barrald , il y avait de son temps , sur le rocher de Planasia , tout ce qu ' on peut trouver sur le sol le plus fertile , c ' est - à - dira des vignes , des oliviers des palmiers , des orangers , des myrtes , des lauriers , des chênes , de grandes allées de pins , etc .",
+        "words": [
+          "fleurs",
+          "odoriférantes",
+          "herbes",
+          "deux îles",
+          "Saint Eucher"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/f63db7d1-4320-5761-a67d-e4db1410c542",
+        "value": "De la tin du printemps jusqu ' au commencement de l ' automne , la raine verte abandonne les eaux et gagne le rivage , les bois , et s ' y tient à demeure , vivant d insectes .L ' hiver venu , elle va s ' ensevelir dans le limon des marécages , et passe , engourdie , toute la saison des autans , engourdissement avantageux que bien des hommes voudraient se procurer , quand ils n ' ont aucun abri contre le froid , et ne peuvent plus jouir non plus du speclacle de la verdureet du parfum des fleurs .La rainette devisent aussi pour quelques amateurs une sorte de baromètre .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "hommes",
+          "toute la saison des autans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/f650be90-8bf0-55a9-8431-0869729d8882",
+        "value": "latin , mais qui s ' est répandu dans quelques contrees de l ' Afrique et de l ' Amérique , où il est très - recherché par les indigènes .Ses fleurs , rouges , odorantes , assez grandes et réunies sept ou huit ensemble au sommet des rampeaux , sous forme de grappes un peu pendantes , donnent naissance à des gousses qui renferment une pulpe épaisse , molle , gluante , brunâtre , et au milieu de laquelle se trouvent do deux à quatre semences brunes , luisantes , comprimées et anguleuses .La saveur de la pullue , légèrement acide , le devient totalement par suite de la fermentation acéteuse .",
+        "words": [
+          "odorantes",
+          "Ses fleurs",
+          "gousses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/fa43d01e-7209-5e5c-bc16-291c3f645696",
+        "value": "aussi .géuéral que nous le voyons aujourd ' hui ? Hien autre que celui d ' irriter les membranes de l ' odorat et du goût , dans lesquelles il .détermine .",
+        "words": [
+          "nous",
+          "odorat",
+          "irriter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/fb04c5cb-a584-5050-a894-6f63768bf294",
+        "value": "Romains dans certaines maladies ; on les recueillait avec ' soin pour les vendre , et les marchands qui se livraient à ce comme ce frisaient de très - gros bénéfiees .On oignait iiussi d ' huile d ' olive parfumée les pontiles et les rois on en répandait sur le bûcher des morts , et on s ' en frottait en sortait dit bain , pour donner de la souplesse aux membrues et boucher les pores de la peau .L ' huile d ' olive était très - recherchée à Ilome et se vendait fort cher .",
+        "words": [
+          "parfumée",
+          "huile d",
+          "bûcher des morts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/fbcf8184-0f73-5312-ac9a-dd82c02911db",
+        "value": "Le 22 mai 1822 , il se répandit vers le soir , dans Paris .et les environs , un brouillard qui exhalait une odeur de gaz nitreux .tv Dans les régions équinoxiales , les brouillards se maintiennent souvent une partie de l ' année , et M .",
+        "words": [
+          "odeur",
+          "gaz nitreux",
+          "brouillard",
+          "et les environs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/fd37c0cc-0411-5077-a702-89fc3c30d15b",
+        "value": "manger des ânons domestique et des onagres de lait , coutume qui se perbé - lua chez eux durant plusieurs siècles , et qui se répandit même dans la Gaule et plusieurs autres contrées .D ' après Léon l ' africain , la chairde l ' animal , encore chaude , a une odeur désagréable et un goût sauvage ; mais si on la laisse refroidir et qu ' on la fasse bouillir ensuite pendant deux jours , elle est alors d ' une saveur parfaite .ANGUILLE .",
+        "words": [
+          "sauvage",
+          "désagréable",
+          "parfaite",
+          "odeur",
+          "goût",
+          "la chairde l ' animal",
+          "Léon l ' africain",
+          "ensuite pendant deux jours"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8bf0d721-c28c-5bd8-b3eb-6b8c082b8593",
+        "label": "Adolphe de  Chesnel"
+      }
+    ],
+    "label": "Dictionnaire des merveilles et curiosités de la nature et de l'art... / par M. A. de Chesnel ; publié par M. l'abbé Migne,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k241356j",
+    "date": "1853",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/feeb22e7-a86f-57e4-80ea-53054e62461b",
+      "label": "1853",
+      "begin": "1853",
+      "end": "1853"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/506c8756-22c7-533e-bcc7-f2a5daf221ce",
+      "label": "caverne"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/07240435-887c-5ae4-8dbe-cd0715bebf98",
+      "label": "la SainteBaume"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/55dc15be-0d40-5856-909c-f6349658f180",
+      "label": "lieu"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/062b3ddc-758e-56ac-a4e3-3516f8d8aa18/fragment/ec1e2815-2f6d-5d50-a54c-79df61bf7685",
+  "license": "Public domain"
+}

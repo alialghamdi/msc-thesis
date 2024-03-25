@@ -1,0 +1,394 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/936a88fd-c315-51a2-9142-a4dfdac73168",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odeur",
+    "parfums"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/06ea2ca9-f9ad-562b-8f04-9bc7ddd58c32",
+        "value": "Parfois sur leurs demi - silences chuchotes Plane le cri peureux des neuves pubertés : Champ d ' avoine rongé de noirs buissons de mûres .L ' ÉCHO RAILLEUR Fous puérils ! qui , chacun , vous croyez maître De votre être , • Vos orgueils ne savent résister au danger Qu ' en le commun besoin de s ' entre - protéger : L ' enfant cherche le sein sitôt qu ' il vient do naître ! LA VOIX DES CHOSES Tout môme le baiser se veut , se cherche un maître ! 112 LA MORT DU RÊVE L ' INNOCENTE * Lasse , l ' enfant a clos ses grands yeux bleus pensifs Sous l ' ombre et les parfums capiteux d ' une sente Perdue au fond du parc .Ses contours expressifs Prennent dans ce sommeil une pose indécente ; Chaste oubli de pudeur l Soudain , hors dés massifs , Un homme saute , élreint , déflore l ' innocente Et fait taire ses cris sous des assauts lascifs .",
+        "words": [
+          "parfums",
+          "capiteux",
+          "enfant",
+          "sente"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/0a06fd2d-3c15-554d-8169-c53ea1f2b1e2",
+        "value": "Je suis l ' écucil , je suis la roche ! L ' APOLLONIEN fou des couleurs Les écuetls délicats et fleuris du Japon ; Leurs roches si plastiquentënt nues Ou vêtues , Qu ' elles semblent des statues Perdues Dans les corylopsis dont s ' embaument les nues DeNiphon .LE vùmsim fou des parfums * Fleurs , sous qui s ' endort la senteur du sexe blond ! ..",
+        "words": [
+          "parfums",
+          "senteur",
+          "Fleurs",
+          "sexe blond",
+          "vùmsim"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/13f7ba12-9617-5fd2-8039-aeb29931d58c",
+        "value": ".LtovÈiïvsim fou des parfums Puis la senteur damnée et le livide éclat De la tubéreuse et du datura ! LE TERRIËN - VENUSIEN / OH des saveurs Oh ! la florale luisance Et le délice fin que nous tend l ' incarnat l , A Ntederhausern Hodo ( 1003 ) .LA MONTAGNE EN DÉLIRE 278 Des baisers , sous l ' ivresse ardente du Champagne Ou du Johannisberg , au retour d ' un gala ! LE MARTIEN qui se croit dans l ' enclume Hélas ! oh mon crâne ! oh mon coeur ! oh mon corps ! Ha l LE VÊNUSIEN / OM des parfums Parfum de clair obscur aussi dolent qu ' un la Diôzet Parfum grave , en violet apparat , Le trouble des iris m ' endeuiile la campagne , Je n ' y puis goûter de sereine paix qu ' en la Santé de ces quatre senteurs : le mimosa , Le lilas , la ravenelle et le syringa .",
+        "words": [
+          "parfums",
+          "senteur",
+          "livide",
+          "datura",
+          "tubéreuse",
+          "saveurs",
+          "damnée",
+          "florale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/1722895c-7d20-5de6-8fc8-e7658edb1cfa",
+        "value": "■ ' > ' - : ' - - \\ J ' ai dans ma vie un joli lieu De rêve doux et de retraite sainte .Lieu parfumé par les baumes ; un peu de bleu Vers l ' Orient , c ' est la forêt et son étreinte Aux mille bras ; un peu De vent vers l ' Occident , c ' est la mer et sa plainte .Au loin sur la terre une vieille chantait .",
+        "words": [
+          "parfumé",
+          "baumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/1d923566-e7ae-5297-8c3b-5e31bad47586",
+        "value": "LtovÈiïvsim fou des parfums Puis la senteur damnée et le livide éclat De la tubéreuse et du datura ! LE TERRIËN - VENUSIEN / OH des saveurs Oh ! la florale luisance Et le délice fin que nous tend l ' incarnat l , A Ntederhausern Hodo ( 1003 ) .LA MONTAGNE EN DÉLIRE 278 Des baisers , sous l ' ivresse ardente du Champagne Ou du Johannisberg , au retour d ' un gala ! LE MARTIEN qui se croit dans l ' enclume Hélas ! oh mon crâne ! oh mon coeur ! oh mon corps ! Ha l LE VÊNUSIEN / OM des parfums Parfum de clair obscur aussi dolent qu ' un la Diôzet Parfum grave , en violet apparat , Le trouble des iris m ' endeuiile la campagne , Je n ' y puis goûter de sereine paix qu ' en la Santé de ces quatre senteurs : le mimosa , Le lilas , la ravenelle et le syringa .L ' APOLLONIEN fou des mo ts .",
+        "words": [
+          "senteurs",
+          "Parfum",
+          "iris",
+          "syringa",
+          "campagne",
+          "grave",
+          "mimosa",
+          "sereine",
+          "MONTAGNE",
+          "dolent",
+          "MARTIEN",
+          "OM",
+          "VÊNUSIEN / OM",
+          "parfums Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/2a4ca3c6-9b57-5bb3-ae85-421bdaf590b7",
+        "value": "LE Cltl DU PAUVRE Vers toi , vainement , o Vierge mère de Dieu , Tous mes jours s ' en sont allés en prières 66 LA MORT .DU RÊVE Comme les grains égrenés des rosaires ; Ayez pilîè do moi , Viergo mèro do Dieu I L ' ÉCHO UAILLEUn Oh ! ce Dieu souverain , qui régne sur les rois Crois en son coeur , crois en son ciel , crois En sa croix ! LES LUXURES DU REGRET i Tout meurt - il , survit - il ou se trunsformc - t - il ? N ' importé l Ta luxure hystérlqucmcnt blême Sur ma lèvre buvant l ' oubli du grand problème Joignait la terre au ciel d ' un spasme aussi subtil Que les spasmes jaillis d ' une coupe florale Dont la tige est volute cl le parfum spirale .La mort eut beau souffler sur ta lueur spectrale De ton Baiser bailleur , fusent , double tortil Hivantmou Ame A tn chair , ma chair A ton Ame , Le Deuil , celte fumée , et l ' Espoir , ce cinnamc , Tige et parfum noués comme au coeur d ' un pistil .",
+        "words": [
+          "parfum",
+          "tige",
+          "coupe florale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/33b0fcec-a8ba-568b-a2c4-e3d4660844e7",
+        "value": "Ce prêcheur et scrutcur d ' âmes , dans le mystère Du Beau , n ' ayant trouvé le Bien , chercha le Ltud , Et , vautrant l ' âpreté de son étude austère Dans le Mal , s ' acharna vers cet autre mystère .L ' auréole d ' encens que jadis lui soufflait Le calice floral des lèvres Iaudatives Lentement s ' éteignait sous le puant reflet Que le vice livide à présent lui soufflait .Souvent il regretta ses puretés natives ; Mais la neige , qui roule en boue au pied des monts .",
+        "words": [
+          "puant",
+          "jadis",
+          "auréole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/33c15f17-84c8-52ee-a011-f9a25709503c",
+        "value": "' Neuf ! un triple triangle ayant trois fois trois dents , Comme les herses qu ' on voit ratisser la terre Au temps où la Galerne souffle sur les champs .ut vtovmx fou des parfums J ' ai du vent sableux d ' Afrique aux narines , Vent roux , parfois musqué par les gazelles fines , Vent qui m ' évoque la cueillaîson des sanguines Et des mandarines Sous la nuit pure où luit le croissant du Coran , Oh l la céleste odeur deë oranges divines Au ras des plaines d ' or dont le coeur estOran .LA MONTAGNE EN DELIRE 263 LE yÈKvsîESfou delà chair Gaupe ! Goupe ! Gueuse fuyante et versatile ! Où la caches - tu donc la chair ? Cette beauté D ' enfer dont le frisson , comme un filon lacté , Glisse entre les rousseurs de sable dont rutile Ta toison ! ta chair qui , sinueuse et subtile , Rampe comme un reflet de fleuve ù la clarté Lunaire , ta chair qui dresse comme un reptile La douce énigme d ' un geste en S plus hostile Que le serpent par qui le monde fut tenté ? Ta chair , lu chair de tout ton corps tant détesté , Acheté , dégusté , Ta chair où brille en houppe L ' astrale trinité Entre les seins , entre les yeux et sur la croupe .",
+        "words": [
+          "odeur",
+          "parfums",
+          "céleste",
+          "gazelles",
+          "plaines d",
+          "oranges divines",
+          "ras"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/39b047d4-dab7-5aff-a125-bb512a61ceda",
+        "value": "Elles mourraientpourEuxcomme Eux mourraientpourEHes , Les blouses ont pâli , les coiffes ont jauni , Les coeurs tintent le glas des serments infidèles : « Tout est fini ! » « Tout est fini ! » « Tout est fini ! » Elles sont lasses d ' Eux comme Eux sont lassés d ' Elles .Les rus plaqués d ' éclats clapotent leur chant clair , Les bois vont arborer des enlacements d ' ailes , L ' épanouissement d ' Avril parfume l ' air , , .Elles reparlent d ' Eux comme Eux reparlent d ' Elles ! .",
+        "words": [
+          "bois",
+          "air",
+          "parfume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/4418580d-0cd1-59aa-accb-605958fb1a7e",
+        "value": "h n ' eus jamais le sens que Dieu pût exister .On m ' a dit ; « Crois en Dieu , vois le Printemps qui rêve Au bord des nids tout frais , au front des lits tout blancs , Les bourgeons et les coeurs craquent de sourds élans Et parfums et baisers vont jaillir de la sève ! » J ' ai vu l ' Avril rider ses précoces éclats , La Cantharide en joie arder sur les lilas El des jeunes cercueils par les neuves allées ; J ' ai vu des viols chéris et des serments bien las : Le Printemps c ' est la vie au gré des giboulées ! On m ' a .dit : « Crois en Dieu , voici blondir l ' Eté ! Vois au Ciel ce soleil haletant qui s ' allume , Incandescence d ' or de l ' éternelle enclume Où se forgent l ' Espoir , la Force et la Gaîté ! » J ' ai vu l ' Été d ' azur se barbeler de mouches , Des lacs couver la peste avec des airs très doux , De beaux rires tout prêts à mordre au bord des bouches , J ' ai vu les blés rongés par les charbucles louches , Par la calandre noire et le charançon roux .",
+        "words": [
+          "parfums",
+          "m"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/52a074d9-10c6-57c6-83f0-7b4617cd8c03",
+        "value": ".Et si tu nous mentais , que tu prisses l ' éclat D ' une sphère - fournaise extra - démesurée , Qu ' en ses bleus infinis le ciel tînt ignorée Et que cet Aslre - Hoi soudain se révélât ! SCINGULT 201 Il se peut qu ' une erreur des savants te surfasse , Que tu sois le miroir et non pas le flambeau I 1 ! se peut qu ' après tout nous te rêvions trop beau , Soleil , qui ne veux pas qu ' on te regarde en face l Si tu sèmes l ' azur de prodiges troubleurs , Un orage de voile , une éclipse t ' efface , \\ Tu couves sans choisir et miasmes et fleurs , \\ ^ Ta caresse est brutale : en sont morts qui l ' ont eue ! S ' il en est qu ' elle dore , il en est qu ' elle tuel Te haïrais - je , ô toi , qui souris à nos pleurs ? Jeté hais comme hait et l ' amant et l ' amante Voués à ne jamais s ' étreindre , nue et nu ; Sais - je à qui ton amour ? Sais - je , en l ' Orbe inconnu , Si le stellaire essaim dont l ' air se diamante Ne va pas butiner ta flamme et s ' y griser ? Sais - je si ta beauté me fascine ou m ' aimante ? Si ton baiser me rend le virtuel baiser Que t ' envoie à genoux ma frêle extase humaine , Ou bien si ta splendeur sur mon néant promène Tant d ' éblouissements pour mieux le mépriser ? Ma fière obscurité jalouse ta lumière , Soleil ! et je voudrais d ' un fantastique saut , Comme passe le clown à travers un cerceau , A travers ton brasier , passer , tète première l Oui , je voudrais , le pied , du sol , désincrusté 202 LA .A Paul Verlaine ( 1889 ) .",
+        "words": [
+          "fleurs",
+          "miasmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/5775350f-9f2f-5a7a-9c90-2432ed87698f",
+        "value": ".Dans le bal , les parfums fun .eux Des maillots et des alcools , les jeux Mystérieux Des jambes , du visage Et des yeux , Les gonflements furieux Des gorges jetant hors du corsage Leurs seins blafards Sous les fards , Tout cela hurle , houle et vire en dei brouillards Defeu sur qui plane et s ' effare , wi égrillards El frétillards Ricanements d ' or , la sauvage ' Fanfare des cuivres soufflant sa rage .",
+        "words": [
+          "parfums",
+          "le bal",
+          "fun"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/5f232f7f-4e2e-5cba-8ecc-83f5978e88bb",
+        "value": "40 LA MORT DU RÊVE Les germes , au hasard , crevant de sève intense Giclaient comme du sang trop riche , affolement , Et sous l ' ombre - linceul de cette âpre existence Les plus frêles mouraient d ' obscur étiolement : Il jaillissait de lui toute une exorbitanec .Point de rares couleurs ni de parfums subtils ; La place était aux fleurs des plus canailles mines , Aux tons les plus brutaux , si hurleurs fussent - ils , Aux éclairs assassins des mâles étamines , Aux coeurs prostitués des crapuleux pistils , A tous les grouillements de toutes les vermines : Point de rares couleurs ni de parfums subtils l Mon Esprit s ' enronçait comme un buisson de mûres , Et quand vers l ' heure blonde où le soleil se meurt Venait , chanteuse fleur , fleurir , dans ces ramures , Quelque trille savant au doux rythme charmeur , L ' écho se révoltait , si rauque de murmures Qu ' en long râle l ' oiseau fuyait hors la clameur ; Mon Esprit s ' enronçait comme un buisson de mûres .A présent répugné des débauches d ' antati , Défriché jusqu ' au fond des faciles ivraies Et des chardons cruels , c ' est un essart qui tend , Aussi complaisamment que des lèvres , ses raies Au mille coups de bec du bon grain voletant HULTRR 4 « Vers l ' utile baiser d ' amours simples et vraies , A présent répugné des débauches d ' antan .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "subtils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/6721bb7a-fb08-5a44-8d5d-b27588455d76",
+        "value": "87 Où le temps consacra par son choix impeccable La synthétique fleur de tout le verbe humain , Feuillets dont le verdict écrasant nous accable , Triomphateurs d ' hier qu ' on oubliera demain .Et quand , assis dans cette évocatoire salle , Inquiets , nous frôlons d ' une pieuse main Quelque ancien Ëlzévir ou quelque parchemin Dont l ' odeur séculaire aUgustement s ' exhale , Leur vieillesse échappée au gouffre où nous courons , Toise notre oeuvre ainsi qu ' un noble , une vassale , El jette agenouillés nos rêves fanfarons Sur le chemin qu ' usa sa marche colossale .Pourtant , ces élus dont lesgéniaux fleurons Jonchent le tapis vert immense de la table , N ' ont point tous , bien qu ' ayant un titre indiscutable , Droit A l ' honneur égal que nous leurs déférons .",
+        "words": [
+          "parchemin",
+          "odeur",
+          "exhale",
+          "évocatoire",
+          "séculaire aUgustement",
+          "ancien Ëlzévir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/706b134f-f336-5eeb-bdfe-515121fe9672",
+        "value": "Atmosphère bleu turquoise .La giroflée , au parfum de poivre , chante au milieu de ravenelles de joie .Dans un rais aussi bleu qu ' une turquoise , La ravenelle au rire clair Menace terre et ciel de sa bouche narquoise l44 LA MORT DU RÊVE De son sein jaune soufre et de sa jambe en l ' air Dans un rais aussi bleu qu ' une turquoise .",
+        "words": [
+          "parfum",
+          "poivre",
+          "giroflée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/718e2eb6-84df-5c7d-9dd2-2d0d20cbb9cb",
+        "value": "La vie à loi se tend .Tout ce qui vibre en elle , Vols , parfums , bruits , lueurs , songes , gaîtés , sanglots , Tout , des mondes croulants aux êtres frais éclos , Tout s ' exhale et s ' éploie en rumeur solennelle Et va , triomphal chant mystique , expirer là Sur le sein radieux de ta gloire éternelle ..",
+        "words": [
+          "parfums",
+          "bruits",
+          "lueurs",
+          "Vols"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/7cf85f16-2fe2-505f-8255-15fcb4a1f382",
+        "value": "Isolés , deux à deux , par les gestes nattés D ' une étreinte Ils goûtent les splendeurs de leurs lascivetés Sans contrainte , Et chaque effusion de ces lacis nerveux Se confine Dans l ' ombre et le soleil mariés de cheveux 155 Dont la fine Bourrasque ondule avec des spasmes véhéments .Les prunelles Entremirent leurs bleus et leurs noirs firmaments Et , charnelles , Les bouches découvrant les écrins tentateurs Des gencives Sont des moitiés de fruits qu ' aimantent leurs senteurs Réflexives ..",
+        "words": [
+          "fruits",
+          "leurs",
+          "senteurs",
+          "prunelles",
+          "Réflexives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/84758b2f-32e5-5eb9-b34e-deeef38ca808",
+        "value": "DOUBLE MENSONGE * LA VENDANGE A genoux vers l ' autel d ' ivoire où dort votre âme Sous les gardiens périls de vos yeux allumés , Laissez - moi le joncher des vers que vous aimez .Je l ' enguirlanderai d ' une enlaceuse trame De mots épanouis et de mots parfumés Dont le rythme grisant encensera votre âme .Laissez - les effeuiller le los que je vous dois , Vierge , aux traits ciselés dans un nuage d ' ailes : Votre buste a l ' éploi des liserons fidèles , Vos tresses font rêver aux fuseaux de vos doigts , Vos tranches ont l ' orgueil des lignes sûres d ' elles , 0 quelle douleur d ' être et quel heur je vous dois ! J ' ai l ' élan tourmenté d ' un pampre roux d ' automne Qui s ' enroule et qui tend la grappe de plaisir Au marbre dont les dents ne savent pas saisir .",
+        "words": [
+          "parfumés",
+          "mots"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/87609cbc-1862-5cac-8363-91426d6e8da2",
+        "value": "DU RÊVE Comme les grains égrenés des rosaires ; Ayez pilîè do moi , Viergo mèro do Dieu I L ' ÉCHO UAILLEUn Oh ! ce Dieu souverain , qui régne sur les rois Crois en son coeur , crois en son ciel , crois En sa croix ! LES LUXURES DU REGRET i Tout meurt - il , survit - il ou se trunsformc - t - il ? N ' importé l Ta luxure hystérlqucmcnt blême Sur ma lèvre buvant l ' oubli du grand problème Joignait la terre au ciel d ' un spasme aussi subtil Que les spasmes jaillis d ' une coupe florale Dont la tige est volute cl le parfum spirale .La mort eut beau souffler sur ta lueur spectrale De ton Baiser bailleur , fusent , double tortil Hivantmou Ame A tn chair , ma chair A ton Ame , Le Deuil , celte fumée , et l ' Espoir , ce cinnamc , Tige et parfum noués comme au coeur d ' un pistil .t , A Maxime Mnufra , à Madame ( « 893 ) , HULTEn : : : , ' ' .",
+        "words": [
+          "parfum",
+          "cinnamc",
+          "celte fumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/8ad2f791-03be-5a20-84c0-b8ed2ae558c2",
+        "value": "Cette onde sainte Sommeille éteinte Et stagne , ceinte D ' un val de mort ! Comme un bruit d ' or Tinte et retinte Sur l ' eau qui dort L ' eau qui suinte .Vieillard vautré sur la paille d * un galetas Où sa frayeur du vol se verrouille , il estime Pièce à pièce , d ' un oeil qui leur parle , ses tas De louis amassés centime par centime ; On dirait un galant qui feuillette et relit L ' oeuvre doses plaisirs et qui , frôlant l ' oubli D ' embaumés billets doux , voit surgir , embelli Du charme spécial t \\ son arôme intime , Chaque baiser dont ces vélins furent signés .Fier comme est ce fut du nombreux amour victime Qui saigne au chapelet des coeurs qu ' il a fanés , i64 LA MORT DU RÊVE Le vieux dans ses trésors conquis se régénère : Sur leurs éclats , l ' orgueil aquilinde son nez Fureteur frémit et , gonflant sa narine , erre De fleur en fleur pareil au frelon sur un champ Dans le métal , soudain , en convulsionnaire , Il tord ses doigts dont les noirceurs de scorzonôrc Craquent ainsi que des sarments au feu léchant Du bonheur qu ' il ôtreint , puis sa main de squelette Flambe , égouttant un rire où le soleil reflète .",
+        "words": [
+          "intime",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/953f324a-4ed8-5009-b276-e2b9a3ba03c3",
+        "value": "LA MONTAGNE EN DELIRE 263 LE yÈKvsîESfou delà chair Gaupe ! Goupe ! Gueuse fuyante et versatile ! Où la caches - tu donc la chair ? Cette beauté D ' enfer dont le frisson , comme un filon lacté , Glisse entre les rousseurs de sable dont rutile Ta toison ! ta chair qui , sinueuse et subtile , Rampe comme un reflet de fleuve ù la clarté Lunaire , ta chair qui dresse comme un reptile La douce énigme d ' un geste en S plus hostile Que le serpent par qui le monde fut tenté ? Ta chair , lu chair de tout ton corps tant détesté , Acheté , dégusté , Ta chair où brille en houppe L ' astrale trinité Entre les seins , entre les yeux et sur la croupe .LE VENUSIËN / OM des parfums 0 sages et tranquilles mariés Qui recherchez , l ' un près de l ' autre , devant l ' atreV La paix doucefttre Des foyers , Embaumez de menthes , de sauges * de bétoines Et de lavandes vos vertueux oreillers Plus froids , plus blancs et moins souillés Que les béguins des soeurs et les rôves des mr .lncs .",
+        "words": [
+          "parfums",
+          "menthes",
+          "tranquilles",
+          "bétoines",
+          "0 sages",
+          "LE VENUSIËN / OM"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/a51c3a53-a026-5a86-838d-83b6ccba7957",
+        "value": ".Plusd ' âme aux champs , plus de chimère ÛU ciel , plus d ' ailes En querelles Dans l ' air , plus rien , qu ' un planant parfum d ' asphodèles Qui dort sur ce Repos dont les formes sont belles De refléter en elles Cette heure de bonheur qu ' un beau rêve rosit .222 LA MORT DU RÊVE .",
+        "words": [
+          "parfum",
+          "asphodèles",
+          "Repos",
+          "planant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/abf19d32-3c57-536a-9014-d2285473cb3a",
+        "value": "Et vous peureux Amoureux 26 /LA MORT DU REVE Qui parmi les seigles , les blés , et les avoines , Dans les roseaux , sous les halliers , Réfugiez Vos baisers délirément liés , Fuyez , fuyez , L ' obscur sommeil des pavots et des chélidoines , La pomme épineuse et puante des stramoincs Et les frigides nénuphars aux coeurs noyés .Mais grisez - vous de l ' odeur d ' amour des fraisiers , Des framboisiers , des céleris et des pivoines .LE DEUXIÈME NARCISSE Fuyez surtout , fuyez Les regards de roses et les dards de rosiers , Que braque la Morale au guet sous les halliers , Les roseaux , les blés , les seigles et les avoines .",
+        "words": [
+          "odeur",
+          "fraisiers",
+          "pivoines",
+          "framboisiers",
+          "céleris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/b0dc3c97-9b7a-5911-94ff-98f16b71ebbf",
+        "value": "Au calvaire conduis tes Remueurs d ' esprits , Donne - moi les fiertés que le plus fier ait eues , Le généreux oubli des rebuffades tues , L ' indulgente douceur hautaine du mépris Et la sérénité nocturne des statues .Pourtant n ' enserre pas mon coeur dans un glaçon , Garde - lui les sursauts que sa fournaise adorev Toi , le doux élément des tortures qu ' ils sont f Je veux que ce coeur geigne au lamentable son Qui déchire je luth et pleure en la mandore , Qu ' il gronde au râle humain dont tressaille l ' osier , Que sa pourpre ait ta sombre armure du rosier , Que le malheur se chauffe et que / ' AMOUR se dore , Aux larmes de pitié que saigne son brasier ! Maître du monde , ô toi que l ' univers encense , Pseudo - dispensateur et du Bien et du Mal Dont la matérielle ou virtuelle essence Ne saurait se prouver par la piètre puissance D ' un triomphant calcul Infinitésimal ; Rythme générateur de l ' entière harmonie , Vague éclair qui se meut dans l ' ombre indéfinie Comme le flot subtil d ' un effluve arômal , De ta fleur de mon oeuvre exhale tonGÉNIE / CHANT 1 LA LEGENDE DU RÊVE A la Mémoire de ces héros , Eschyle , Corneille , Goethe , Dante , Shakespeare .Des Légendes , des Chants , des Drames ou des Thèmes , Des Spectacles , des Deuils , des Danses , des Poèmes , Des Sornettes ou des Cris ! ( La Légende du Rôve .",
+        "words": "effluve arômal"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/c104c8b2-d7e7-576f-b1a2-f980f4e45afe",
+        "value": "lncs .Et vous peureux Amoureux 26 /LA MORT DU REVE Qui parmi les seigles , les blés , et les avoines , Dans les roseaux , sous les halliers , Réfugiez Vos baisers délirément liés , Fuyez , fuyez , L ' obscur sommeil des pavots et des chélidoines , La pomme épineuse et puante des stramoincs Et les frigides nénuphars aux coeurs noyés .Mais grisez - vous de l ' odeur d ' amour des fraisiers , Des framboisiers , des céleris et des pivoines .",
+        "words": [
+          "puante",
+          "pomme",
+          "nénuphars",
+          "stramoincs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/d022c9c0-e656-5d57-bb72-c1f113e7d994",
+        "value": ".» LE VENUSIEN fou des parfums Ohl la saison d ' amour où l ' on fane le foin , Les bons baisers qui fleurent la verveine , La violette ou le benjoin ! L ' APOLLONIGN / OM des mots Les doux mots de bonheur qui se perdent au loin Et dont frissonne tout le soufflé de la plaine ! OThèocritclO Beethoven ! 0 La Fontainel Combien de fleurs d ' amour l ' on fane avec le foin ! lh .' \" ' [ ' ■ ' .",
+        "words": [
+          "violette",
+          "fleurs",
+          "parfums",
+          "benjoin",
+          "verveine",
+          "VENUSIEN"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/ddc3fcb1-b4ed-53c3-9dad-508c0b1040fc",
+        "value": ": : ' : ; ; - ^ ; v ; î : - ; ■ ■ \" ' ■ ■ : ^ A : - ■ \" ■ - ■ \" / : \" : - : - : : ; ; ; : > : LE NÉNUPHAR * Sous le blasphème on fou qu ' un ciel grondant profère Souillant d ' écume la Lune qu ' il dépolit > La recluse repose .Un rayon furtif erre Et plane sur ce pur sommeil enseveli Dans l ' ombreuse lourdeur de l ' ardente atmosphère , Et soufflant les parfums de l ' Eté vers son lit La bouche d ' un judas , traîtresse et thiirifèrô Comnie un baiser d ' amour , brûle son corps décent , t .A Edouard Dubus ( 1890 ) .",
+        "words": [
+          "parfums",
+          "son lit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/e22c30df-2161-5ebf-8cb4-15445923217f",
+        "value": "- Léon Perrichon .Les Miroirs , SCINOULT 217 L ' ÉTERNELLE CHANSON » L ' épanouissement d ' Avril parfume l ' air , Les bois vont arborer des enlacements d ' ailes , Les rus plaqués d ' éclats clapotent leur chant clair ..",
+        "words": [
+          "bois",
+          "air",
+          "parfume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/e3cb0ac2-9e87-58da-9266-1b2e64a55544",
+        "value": "Gravissez cette vie âpre qui nous excède , Son fardeau pèse moins quand on s ' aime et qu ' oivs ' aide , Allez vers le bonheur qui déjà vous possède , Epaule contre épaule et la main dans la main ! Avec le crescendo des tapageuses gammes L ' avril d ' amour renaît .Que ce charmeur puissant , Qui retresse les nids et retrempe le sang , Vous fasse un doux lien de son bras caressant , Mais craignez de brûler vos deux coeurs à ses flammes ! Sages sont les bonheurs qu ' on n ' a pas trop cueillis , Heureux qui les garda comme un pieux pécule , C ' est de leurs chauds reflets qu ' est fait le crépuscule , IIULTBR & 7 Et c ' est encore un peu de soleil qui circule Dans l ' amical baiser des amoureux vieillis ! CLOCHES DE JOIE * Ke \\ do , si , la , sol , fa , mi , ré ! En disque de lave Sous un trait violet barré Comme le ré grave , Le soleil , dans le loin , descend Et la violette au passage D ' un parfum décent Monte baiser le lourd corsage Et griser le sang Des peureuses Amoureuses .Tins - tins d ' argent et flons - flons d ' or , Finesétoilcs chantantes et filantes , Tintez toujours , tintez toujours , tintez encor , Tombez l tombez ! étoiles chantantes Et perles fi ) antes , Filez vers les lits bleus où l ' âme des nuits dort .",
+        "words": [
+          "parfum",
+          "violette",
+          "griser",
+          "décent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/e83c9647-bc3d-57ca-bf32-84367e80a4ae",
+        "value": ".Tout à coup naît le Rêve Aussi fort que l ' Amour et plus fort Que la Mort ! Voilà qu ' enrayonnànt Spirté , sans effort , Sans tare et mystérieux il s ' élève De son sein Tel s ' émane d ' un coeur en fleur le divin Arôme du jasmin .Et , comme soudain Sort d ' une gaîne le clair du glaive , Sa forme jaillit en éclair adamantin , i .",
+        "words": [
+          "jasmin",
+          "Arôme",
+          "émane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/ee41b2f9-7a6f-554a-9dcf-9e3fd2982c7e",
+        "value": "Elle lit dans l ' espace et parle avec les cieux Un Verbe de qui vient la fluide figure Inscrire dans sa vue inconnue A nos yeux D ' éblouissantes Voix dont le rythme fulguré .Elle nous juge sur l ' effluve auréoleur D ' halitueux cristaux latents dont l ' atmosphère Eloquente , selon chaque entité , dilïèrc , Comme si l ' on suait sa psychique couleur .5 ( > LA MORT DU RÊVE Sa vision ausculte , en nos sens , notre idée , Y découvre nos deuils , nos rêves , notre sort , Et dans l ' obscurité de la vie insondée Son lumineux sillage enfonce son essor , D ' instinct , elle s ' en va de village en village Vers des maux devinés et sa charité prend Pour elle ou bien dissout la douleur du souffrant Que le grêlé contact de ses gestes soulage , Le Respect même ingrat , sur son passage cher , Incliné ses chants et ses fleurs comme une allée ; Car la blême blondeur do cierge qu ' est sa chair Par l ' excrément du mal onc ne fut tavelée .",
+        "words": [
+          "atmosphère",
+          "effluve",
+          "effluve auréoleur",
+          "halitueux cristaux latents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/f4434654-f43d-568b-a1a2-6efce076c5da",
+        "value": "La FoiI quelle Foi ? — Le ciel ! quel ciel ? LE SATURNIEN fou des signes Toujours , partout dans la nature S ' opposent les symboles absolus .Le beau , le laid ; le mal et le bien ; la rature Du signe moins , près de la croix du signe plus l LE MARTIEN - MERGURIEN qui rabaisse tout Pécher par habitude et priez par coutume ? LE MARTIEN qui se croît dans l ' enclume Oh I ces coups , ces durs coups , je n ' entends plus mes cris I LE viîNustEN fou aes parfums Partir loin des cris et des bruits vers les ciels gris Démon mélancolique et paisible pays Où , parmi les senteurs dont le soir se parfume , S ' exhale , e .xquisément divine , des taillis 282 LA MORT .",
+        "words": [
+          "parfums",
+          "senteurs",
+          "exhale",
+          "parfume",
+          "Démon mélancolique",
+          "MARTIEN"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/f61a1f50-fe74-5ede-96fb-bd9be808105f",
+        "value": "Soudain s ' éclaira des charmes les plus chers Notre intimité lentement dégrafée , Et beau comme un dieu , belle comme une fée , Nous fîmes le tour de nos Edens de chairs .Dès lors tes désirs butinant au passage La pulpe imprévue aux arômes si bons , Pâmèrent mes sens bouleversés de bonds A faire jaillir seins et coeur du corsage .Oh ! la fine orgie exquise d ' àpreté Quand la folle lèvre ardente désaltère Sa soif d ' inconnu dans le feuillu mystère Où point le plaisir non encore goûté ! Hélas ! .",
+        "words": [
+          "bons",
+          "pulpe",
+          "arômes"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/965ff8f3-aa2c-56ca-9d66-0587e2c1d0a9",
+        "label": "Paul-Napoléon  Roinard"
+      }
+    ],
+    "label": "La mort du rêve / P.-N. Roinard",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5684267r",
+    "date": "1902",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6c22fc6b-e1d1-57c7-a253-774753518225",
+      "label": "1902",
+      "begin": "1902",
+      "end": "1902"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11979365/",
+      "label": "Plains of Abraham"
+    },
+    {
+      "@id": "https://sws.geonames.org/291074/",
+      "label": "Ras al-Khaimah"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/excitement",
+      "label": "excitement"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/faith",
+      "label": "faith"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/e925b115-7776-5e05-aab6-bf434e5e30c8/fragment/33c15f17-84c8-52ee-a011-f9a25709503c",
+  "license": "Public domain",
+  "adjective": "céleste"
+}

@@ -1,0 +1,87 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ff65d273-a81c-5814-a756-0031848f67f9",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ed02759f-e278-52fe-8dd8-9b7f905f14c5",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ed02759f-e278-52fe-8dd8-9b7f905f14c5/fragment/af7283e8-6f2b-556c-980c-84cf4e5e928f",
+        "value": "Le Berger , en chantant , regagnoit son hameau ; Son chien hâtoitles pas de son nombreux troupeau : Alors ce calme heureux de toute la nature , , Vint assoupir mes sens fur un lit de verdure .Quel bruit s ' est fait entendre au milieu de ces bois * ' Amoureux Rossignol , est - ce ta douce voix ? Ou plutôt n ' est - ce point la démarche rapide D ' un Faune qui poursuit une Nymphe timide ? Seul , dans l ' obscurité , séparé des humains , Que j ' aime à promener mes regards incertains Dans ces sombres forêts , asyle du silence ! Que la lune me plaît , alors qu ' elle commence A percer de ses feux le sommet transparent De ces arbres qu ' agite un doux frémissement ! O vous , charmantes soeurs d ' une beauté parfaite , Fraîche & brillante rose , aimable violette , Qui le jour & la nuit partagez les honneurs De l ' Empire de Flore ; ainsi que mille fleurs , Qui de leur - Souveraine éclatantes compagnes , Embellissent ía Cour , nos prés & nos campagnes , Quel ambre , quels parfums vous versez en ces lieux ' Vos couleurs vainement se cachent à mes yeux .Tout ici vous trahit , & l ' air qui vous décèle £ st de votre présence un précurseur fidèle .",
+        "words": [
+          "violette",
+          "fleurs",
+          "parfums",
+          "rose",
+          "ambre",
+          "le jour",
+          "Empire de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed02759f-e278-52fe-8dd8-9b7f905f14c5/fragment/cd7dde5c-0da0-5b0c-a688-df10329d7c43",
+        "value": "De leurs aîles encor le plus leger duvet Cotonne le contour , tapisse le sommet ; Ils versent par degrés cette douce rosée , Qui rafraîchit le sein de la terre épuisée , Fertilise les bleds & mûrit les raisins .Ils ont tous éprouvé , ces petits Dieux malins ; Combien sont séduisans pour une jeune fille , Le parfum d ' une rose & le vin qui pétille .Mais Diane déja sous un nuage épais , Dérobe fa lumière , & confond les objets .",
+        "words": [
+          "parfum",
+          "vin",
+          "rose",
+          "jeune fille",
+          "séduisans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed02759f-e278-52fe-8dd8-9b7f905f14c5/fragment/d8c28801-1ef9-5a18-b1c3-6cb3f757932b",
+        "value": "Tout ici vous trahit , & l ' air qui vous décèle £ st de votre présence un précurseur fidèle .( 7 r Votre sein odorant renferme les zéphirs Qui se sont dans le jour enyvrés de plaisirs ; Et qui plus amoureux & plus légers encore .S ' éveillent aux rayons de la naissante aurore , Pour verser par degrés la brillante liqueur Qui répand dans les airs une douce fraîcheur .",
+        "words": [
+          "odorant",
+          "zéphirs"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/ef4ee089-943a-5147-bff9-8cd16b90aa3c",
+        "label": "Salomon  Gessner"
+      }
+    ],
+    "label": "Le poème de la nuit , de M. Gessner, mis en vers françois. Par M. M***,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5464082q",
+    "date": "1772",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/431",
+      "label": "Amber"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/138",
+      "label": "Rose"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/223",
+      "label": "Violet"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/a237ac97-0047-50f3-8848-eddc07503478",
+      "label": "1772",
+      "begin": "1772",
+      "end": "1772"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8378566/",
+      "label": "Palmyrene Empire"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ed02759f-e278-52fe-8dd8-9b7f905f14c5/fragment/af7283e8-6f2b-556c-980c-84cf4e5e928f",
+  "license": "Public domain"
+}

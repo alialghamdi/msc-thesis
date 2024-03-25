@@ -1,0 +1,541 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/4842239a-0240-536c-a209-47d13982e519",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumer",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/06dfa52c-494d-5ac1-980f-d44fa46a7eb9",
+        "value": "Les individus si nombreux que des pertes prostatiques jettent dans l ' anxiété fâcheuse dont nous avons parlé , reconnaissant que le liquide qu ' ils perdent n ' est pas du sperme , seront par cela même guéris de leurs symptômes hypochondriaques , qui n ' étaient que le fruit d ' une imagination malade .Quelques auteurs ou , pour mieux dire , le plus grand nombre considèrent le camphre comme un puissant anaphrodisiaque .Quant à moi , je lui refuse cette propriété .",
+        "words": [
+          "camphre",
+          "anaphrodisiaque",
+          "Quelques auteurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/08aa98e9-f1de-586b-897f-2d2d8739aab6",
+        "value": ", et qui bientôt donné lieu à un flux excessivement abondant de mucus nasal , clair ' et séreux .Ce coryza ioduré ne devient jamais purulent .Assez souvent ' il s ' accompagne d ' une légère conjonctivite , avec infiltration de sérosité dans le tissu cellulaire oculo - palpébral , d ' où résultent le gonflement des paupières et quelquefois la production 668 SYPHILIS .",
+        "words": [
+          "purulent",
+          "coryza",
+          "ioduré"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/0cc9e525-3f20-5303-9f89-71a63c8a30e2",
+        "value": "5 ° Fumigations .— L ' usage des fumigations mercurielles est également fort ancien .On brûlait du cinabre mêlé à diverses substances résineuses ou aromatiques , et on en dirigeait la vapeur dans une chambre close , où le malade se tenait pendant un temps plus ou moins long , un quart d ' heure , une demi - heure même , selon l ' intensité de sa vérole et l ' état de ses forces .",
+        "words": [
+          "fumigations",
+          "mercurielles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/152b252a-6dd6-5231-877e-a91664bffee1",
+        "value": "On faisait autrefois grand usage d ' une émulsion de copahu , connue en pharmacie sous le nom de potion de Chopart .Cette préparation est excellente comme moyen curatif , mais il faut vraiment avoir , pour la supporter , un palais et un estomac cuirassés d ' un triple airain , tant elle est irritante et nauséabonde .Il est des gens dont l ' organisme nerveux et délicat ne peut tolérer ces médicaments , quelle que soit la forme sous laquelle on les leur fait prendre .",
+        "words": [
+          "elle",
+          "nauséabonde",
+          "irritante",
+          "palais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/17c7952d-ac8d-5885-b622-58b688976cc7",
+        "value": "Si on pratique sur elles de légères scarifications , il s ' en écoule un liquide parfaitement limpide , incolore ou légèrement jaunâtre .Le muco - pus que sécrète la vulve ainsi enflammée est épais , crémeux , jaune verdâtre ; il exhale une odeur âcre et pénétrante , sui generis ; son action est des plus irritantes .Chez les femmes grasses , dont la partie interne et supérieure des cuisses est en contact avec elle - même , le mucopus qui s ' échappe de la vulve venant à baigner la peau , y produit des excoriations , à la façon des vésicants , constituant par là une espèce de blennorrhagie que l ' on pourrait appeler extra - vulvaire .",
+        "words": [
+          "pénétrante",
+          "âcre",
+          "odeur",
+          "son",
+          "il",
+          "pus",
+          "muco",
+          "vulve ainsi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/1e91d39c-f11d-5a38-953a-d42bd1e4f01e",
+        "value": "S .L ' écoulement vaginal exhale , chez quelques femmes , l ' odeur la plus nauséabonde .On combattra cette fétidité par quelques injections chlorurées : Eau distillée .",
+        "words": [
+          "odeur",
+          "la plus nauséabonde",
+          "écoulement vaginal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/20062ab2-5ece-58fc-a238-6ae3c854c0d1",
+        "value": "Parmi ces nombreuses préparations , la plus vulgaire et certainement aussi la meilleure , est le mélange connu sous le nom d ' opiat .Cet électuaire referme à la fois du copahu et du cubèbe , auxquels on associe quelques autres substances , qui ont pour but d ' en modifier les effets physiologiques ou d ' en neutraliser l ' odeur .Voici la formule de celui que j ' emploie le plus souvent : Copahu .",
+        "words": [
+          "odeur",
+          "substances",
+          "copahu",
+          "cubèbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/2635e606-edc1-5fb9-8099-b47f9b46dc97",
+        "value": "LXXXIX .) Pierre Agathus ( 1564 ) a beaucoup loué les décoctions aromatiques ; Petronius , les lotions d ' urine et d ' eau - de - vie camphrée .En 1690 , Ettmuller , professeur à Leipzig , conseilla de se laver avec de l ' essence de térébenthine mêlée au vin .",
+        "words": [
+          "aromatiques",
+          "eau",
+          "urine",
+          "vie camphrée",
+          "décoctions",
+          "Pierre Agathus",
+          "Petronius"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/2852738a-313c-5b57-b7e4-226a61f50330",
+        "value": "« Évitez , dirons - nous encore avec cet auteur , l ' irritation gastro - intestinale ; évitez - la toujours , autant que possible , même deloin .Mais attendez , au contraire , qu ' un certain degré d ' agacement aux gencives , d ' odeur mereurielle à la bouche se manifeste .Lorsqu ' il y a danger de mort , ce précieux critérium peut seul indiquer à quel point il convient de porter l ' administration du remède .",
+        "words": [
+          "odeur",
+          "bouche",
+          "mereurielle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/2d725e45-81dc-5289-832b-368b5bfea96d",
+        "value": "Ergo ubi nitendum est caecis te opponere morbi Seminibus , vi mira arbor cithereia praestat .Gabriel Fallope , qui attachait une telle importance à la prophylaxie de la syphilis , qu ' il aurait cru , disait - il , n ' avoir rien fait s ' il n ' avait appris aux hommes les moyens de se garantir de la vérole , vanta diverses lotions faites sur le gland avec des liquides vulnéraires tirés du mercure et du gaïac , ainsi qu ' une enveloppe de linge séché après avoir été préalablement imbibé d ' une décoction de plantes aromatiques et astringentes .Il affirme avoir fait l ' épreuve de ces moyens préservatifs sur plusieurs centaines d ' individus , et il prend Dieu à témoin qu ' il a toujours réussi : « Ego « feci experimentum in centum et mille hominibus , et « Deum testor immortalem nullum eorum infectum .",
+        "words": [
+          "plantes",
+          "aromatiques",
+          "astringentes",
+          "liquides",
+          "enveloppe",
+          "Gabriel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/2f97fa55-f3fb-5d7e-81a4-9b38b8e24275",
+        "value": "Chez certains malades prédisposés aux affections dartreuses , l ' acné iodurée peut se compliquer de quelques autres dermatoses .Ce sont , pour ne citer que les plus fréquentes , l ' eczéma , l ' herpès , l ' impétigo , l ' éry - thème et l ' urticaire .677 d ' expulsion qui pourrait l ' épuiser ; on devra également enlever le plus tôt possible les parties osseuses frappées de carie ; caries generat cariem .",
+        "words": [
+          "urticaire",
+          "herpès"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/3a50e945-3e37-574b-8ab6-2ce6b0d30a62",
+        "value": "Les ulcérations de la muqueuse nasale occupent tantôt la face interne de l ' aile du nez , tantôt la cloison médiane .La matière muco - purulente qu ' elles sécrètent , promptement desséchée par le courant d ' air qui passe incessamment sur elle , forme une croûte épaisse et adhérente , dont la présence amortit la sensation de l ' odorat et gêne la respiration .Les malades cherchent souvent à se débarrasser de cette croûte incommode ; mais à peine ToutUs détachée , qu ' elle se reproduit avec une désespérante rapidité , si bien que leurs efforts , loin d ' atteindre leur but , ne font qu ' aggraver le mal .",
+        "words": [
+          "elles",
+          "odorat",
+          "matière muco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/3d674aea-4a63-59cf-87f0-811a03ca166b",
+        "value": "Malgré la tendance spontanée , du chancre infectant vers TRAITEMENT DES CHANCRES .455 par des purgatifs salins , de prendre quelques tisanes rafraichissantes , d ' éviter tout excès et de se soumettre à l ' usage d ' un régime doux et modéré .Toutes ces mesures , malgré leur bon effet ordinaire , ne sont pas toujours suivies de succès .",
+        "words": [
+          "tisanes",
+          "purgatifs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/40fd87b5-a1dc-5bc3-86f9-cb6366856cc9",
+        "value": "La diète sera sévère et , absolue ; une purgation saline sera quotidiennement prescrite , pour entretenir la liberté du ventre , en même temps que de fréquents pédiluves , pour favoriser une révulsion sanguine .Ces pédiluves seront aiguisés par du sel ou de la cendre de bois , qui n ' ont pas comme la moutarde , l ' inconvénient d ' exposer l ' oeil à des émanations irritantes .Mais , quelle que soit la rigueur de ce traitement général , ce n ' est pas sur lui qu ' il faut compter .",
+        "words": [
+          "émanations",
+          "irritantes",
+          "cendre de bois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/48eca531-f380-555e-86ec-3931d5589f82",
+        "value": "Je demandai à le voir , et je constatai quatre chancres en pleine activité , avec une mono - adénite inflammatoire .Je prescrivis des pansements avec le vin aromatique au premier malade , et quelques jours plus tard tout avait disparu ; au second , des lotions émollientes , sangsues et cataplasmes dans la région inguinale : les chancres s ' amendèrent peu à peu , le bubon fut ouvert , et la guérison des accidents locaux ne larda pas à être obtenue .Il me restait à visiter l ' arme empoisonnée qui avait causé tout ce ravage .",
+        "words": [
+          "aromatique",
+          "vin",
+          "lotions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/4a0dfde4-a788-5c14-9b68-370a25f86fa1",
+        "value": "L ' écoulement seul , de tous les phénomènes morbides , persiste encore ; il peut même être aussi abondant qu ' il l ' était au début , bien que , le plus souvent , ainsi que je l ' ai dit , il ait beaucoup diminué .C ' est alors qu ' il convient de prescrire les antiblennorrhagiques spéciaux : le copahu et le cubèbe .Étudions d ' abord ces deux , médicaments .",
+        "words": [
+          "cubèbe",
+          "antiblennorrhagiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/5015da3a-779b-5d22-ad81-cc2ee4839f57",
+        "value": "Si l ' hypertrophie est bilatérale , si elle occupe à la fois repididyme de l ' un et de l ' autre testicule , elle entraîne avec elle la stérilité du malade .Chose remarquable , l ' individu ainsi affecté ne cesse pas d ' être puissant ; il a les mêmes désirs et le même pouvoir d ' y satisfaire ; son sperme n ' offre aucun changement apparent dans sa consistance , sa couleur et son odeur ; mais le microscope y démontre l ' absence des spermatozoïdes , ce qui le rend entièrement impropre à la fécondation .Cet état peut persister indéfiniment , mais le plus souvent il n ' est que temporaire ; sous l ' influence d ' un traitement convenable , l ' oblitération peut disparaître même , après plusieurs mois de durée .",
+        "words": [
+          "odeur",
+          "sperme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/52c0a5a8-d745-5ae6-a7f5-9b1aa7e746df",
+        "value": "Son auréole s ' étend et gagne toute la surface de ces organes ; les tissus ambiants s ' oedématient et se gonflent ; ils prennent une teinte livide et deviennent le siège d ' un véritable érysipèle phlegmoneux .Plusieurs eschares se forment autour du chancre , qui sécrète alors un pus fétide , exhalant l ' odeur particulière à la gangrène .Peu à peu ces eschares se détachent et tombent , laissant sur le prépuce ou sur les grandes lèvres , si l ' ulcère occupait ces organes , une plaie parfaitement simple , qui ne larde pas à se cicatriser .",
+        "words": [
+          "fétide",
+          "odeur",
+          "pus",
+          "gangrène"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/571b1713-9847-570b-8f17-3c2959e4347d",
+        "value": "C ' est dans ce but que j ' ai imaginé d ' introduire du protoiodure de mercure dans ces petits trochisques ou clous TRAITEMENT .593 fumants , vulgairement appelés pastilles du sérail , qui jusqu ' alors , et depuis un temps immémorial , n ' avaient servi qu ' à parfumer les appartements .Il suffit d ' allumer un de ces trochisques pour obtenir immédiatement des vapeurs de proto - iodure , que l ' on fait pénétrer dans les voies respiratoires , où elles se condensent et se déposent en molécules impalpables .",
+        "words": [
+          "parfumer",
+          "appartements",
+          "sérail",
+          "fumants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/57249944-cc5b-5d83-9c89-68afec51751d",
+        "value": "Elles sont d ' un rouge vif , ardent ; un muco - pus abondant , épais , jaune verdâtre et exhalant une odeur nauséabonde , sui generis , les recouvre çà et là .Cette fétidité , qui n ' est autre que l ' odeur concentrée du smegma sébacé , peut fournir , comme , nous le verrons plus tard , un signe de diagnostic .Si le mal poursuit sa marche , les symptômes peuvent devenir beaucoup plus intenses et plus graves .",
+        "words": [
+          "odeur",
+          "fétidité",
+          "concentrée",
+          "smegma sébacé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/5890b705-561d-506f-8850-1b0541c07833",
+        "value": "Une seule cautérisation , faite avec un pinceau imbibé de ce liquide , suffit généralement quand la végétation n ' est pas trop volumineuse .On recouvre ensuite la partie cautérisée avec un peu de charpie sèche ou trempée dans du vin aromatique .Deux ou trois jours après , l ' eschare se détache , et il reste une plaie simple qui ne tarde pas à se cicatriser .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/5bee94bb-fac8-595d-b025-58ca2e0f43d1",
+        "value": "Quelquefois , il arrive qu ' un chancre infectant s ' enflamme et suppure abondamment , ou même que le phagédénisme s ' en empare , ce qui est toutefois excessivement rare .Il faut dans ce cas recourir aux divers topiques astringents ( vin aromatique , tartrate de fer et de potasse , alun , tannin , teinture d ' iode , etc .) , que nous avons indiqués au sujet du chancre simple , et qui généralement réussissent au gré du malade et du médecin .",
+        "words": [
+          "teinture",
+          "aromatique",
+          "vin",
+          "alun",
+          "astringents",
+          "tannin",
+          "tartrate de fer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/5e29f8c4-4080-59c4-b507-0761b46ba06a",
+        "value": "Elles occupent généralement les interstices des plis radiés de l ' orifice anal et paraissent d ' autant plus profondes que ces plis sont toujours , dans ce cas , plus ou moins tuméfiés ou hypertrophiés .Leur surface , de couleur jaune grisâtre , sécrète un pus abondant et fétide qui entretient autour d ' elles un état d ' irritation continuel et très - incommode .Ces ulcérations sont toutefois beaucoup moins douloureuses que les fissures proprement dites , et ne s ' accompagnent jamais de ces contractures spasmodiques du sphincter si fréquentes et si pénibles auxquelles donne , lieu ce dernier accident .",
+        "words": [
+          "fétide",
+          "incommode",
+          "pus",
+          "Leur surface"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/622fce05-78e5-5af4-be03-315a3f44fcc1",
+        "value": "La muqueuse de la face interne des joues , les bords de la langue se tuméfient et blanchissent à leur tour ; on ; les voit prendre et conserver l ' empreinte des dents avec lesquelles ils sont en contact .La sécrétion salivaire devient de plus en plus abondante ; l ' haleine exhale une odeur de plus en plus fétide et caractéristique ( salivation et soufflemercuriels ) .Le bord libre des gencives ne tarde pas à s ' ulcérer et à prendre l ' aspect d ' un feston grisâtre et sanieux .",
+        "words": [
+          "odeur",
+          "sécrétion",
+          "haleine",
+          "caractéristique",
+          "de plus en plus fétide",
+          "salivation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/6a3c17f2-c71d-58ab-92d5-ba44cee7008d",
+        "value": "555 caractères propres au chancre ganglionnaire .Des cautérisations répétées , de fréquentes lotions aromatiques en amenèrent la cicatrisation dans l ' espace d ' un mois .Durant ce traitement , la lèvre supérieure du malade , inoculée accidentellement par ' le pus de son chancre ou de son bubon , devint le siége d ' une petite ulcération arrondie , à surface pultacée , qui fut cautérisée tous les jours avec le nitrate d ' argent , Mais cette ulcération , loin de se terminer simplement comme le chancre du frein , et le bubon qui l ' avaient précédée , s ' entours d ' un bourrelet très - dur , avec engorgement du ganglion sousmaxillaire gauche .",
+        "words": "aromatiques"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/7084588e-7137-5688-9cf2-79b21af4315f",
+        "value": "des plus fâcheuses , et l ' on doit s ' efforcer de l ' éviter par tous les moyens possibles .L ' odeur qu ' exhale le muco - pus , odeur pénétrante , sui generis , du smegma sébacé , fera naître tout d ' abord le soupçon d ' une balano - posthite , le mucus uréthral étant tout à fait inodore .Il ne faut cependant pas accorder trop d ' importance à ce caractère ; il n ' a rien d ' absolu et pourrait induire en erreur .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "exhale",
+          "mucus",
+          "muco - pus",
+          "smegma sébacé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/7202d95f-2648-5c33-ab54-16fe0f2b4ea4",
+        "value": "La carie et la nécrose des os du nez débutent d ' une manière lente et insidieuse .Le malade se croit d ' abord affecté d ' un simple coryza : son odorat s ' affaiblit ; il éprouve vers la racine du nez une douleur sourde , une sensation de pesanteur , accompagnées d ' un léger larmoiement et d ' une gêne plus ou moins grande de la respiration nasale .Aces premiers symptômes , qui peuvent durer très - longtemps , sans qu ' aucune lésion apparente révèle la gravité du travail morbide qui se prépare , succède une sécrétion mucopurulente épaisse et d ' une odeur excessivement fétide .",
+        "words": [
+          "son",
+          "odorat",
+          "malade",
+          "affaiblit",
+          "simple coryza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/72dd1f23-3f4d-5a84-8be3-58fe0e1e3222",
+        "value": "Le malade se croit d ' abord affecté d ' un simple coryza : son odorat s ' affaiblit ; il éprouve vers la racine du nez une douleur sourde , une sensation de pesanteur , accompagnées d ' un léger larmoiement et d ' une gêne plus ou moins grande de la respiration nasale .Aces premiers symptômes , qui peuvent durer très - longtemps , sans qu ' aucune lésion apparente révèle la gravité du travail morbide qui se prépare , succède une sécrétion mucopurulente épaisse et d ' une odeur excessivement fétide .Une partie de ce liquide se solidifie sur les surfaces qui le sécrètent , et de temps à autre des croûtes verdâtres , représentant quelquefois le moule exact des cornets , sont expulsées dans les efforts que fait le malade pour se moucher .",
+        "words": [
+          "odeur",
+          "sécrétion",
+          "excessivement fétide",
+          "très - longtemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/7d9bf1c8-cbb2-5a3c-b816-5b9112decc44",
+        "value": "La cantharide a une action inverse , mais analogue ; si elle provoque les érections , ce n ' est point en excitant directement l ' organe copulateur , mais en irritant le col vésical .On pourrait donc établir en principe que le camphre est anaphrodisiaque comme la cantharide est aphrodisiaque .L ' écoulement seul , de tous les phénomènes morbides , persiste encore ; il peut même être aussi abondant qu ' il l ' était au début , bien que , le plus souvent , ainsi que je l ' ai dit , il ait beaucoup diminué .",
+        "words": [
+          "camphre",
+          "aphrodisiaque",
+          "cantharide",
+          "anaphrodisiaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/7e0b5028-dd08-5da5-a21f-2bcd93bfac94",
+        "value": "Un grand nombre de substances astringentes peuvent être employées , qui toutes jouissent de propriétés à peu près équivalentes .Le vin aromatique , par l ' excellence de ses qualités , justifie pleinement la fréquence de son usage .La solution de tannin ( eau de roses , 100 grammes ; acide tannique , de 2 à 4 grammes , ) et la solution d ' alun ( eau de roses , 100 grammes ; sulfate d ' alumine et de potasse , 5 , 4 ou 5 grammes ) sont aussi très - bonnes .",
+        "words": [
+          "aromatique",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/829271cd-8b72-54ce-b798-6a047eca9c84",
+        "value": "— L ' usage des fumigations mercurielles est également fort ancien .On brûlait du cinabre mêlé à diverses substances résineuses ou aromatiques , et on en dirigeait la vapeur dans une chambre close , où le malade se tenait pendant un temps plus ou moins long , un quart d ' heure , une demi - heure même , selon l ' intensité de sa vérole et l ' état de ses forces .Ce traitement devait , sans doute , être fort efficace ; mais il était excessivement pénible et très - difficile à supporter .",
+        "words": [
+          "aromatiques",
+          "résineuses",
+          "substances",
+          "cinabre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/8b2953ac-627d-53a0-9be7-ac101981c935",
+        "value": "Sous ce double rapport , celui que nous avons composé l ' emporte de beaucoup sur tous les autres , puisque , d ' après l ' expérience que j ' en ai faite à mes risques et périls , une minute suffit pour assurer la préservation .Il n ' a pas l ' inconvénient de salir le linge , et de plus , par l ' alcool , l ' essence de citron et le savon qu ' il renferme , il constitue , non pas une drogue pharmaceutique repoussante , mais plutôt un cosmétique d ' une odeur agréable , et d ' un usage en tout approprié aux délicates exigences du moment .Je n ' ai pas la prétention de soutenir que ce liquide soit un préservatif infaillible , mais je puis affirmer , d ' après mes observations , qu ' il empêche la contagion dans l ' immense majorité des cas .",
+        "words": [
+          "agréable",
+          "odeur",
+          "savon",
+          "essence de citron",
+          "pharmaceutique repoussante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/8ef525bc-8b61-53cd-b594-f93596037936",
+        "value": "Elle est rouge ou violacée , irrégulière et d ' aspect chagriné .Le plus souvent elle se recouvre d ' un muco - pus épais , grisâtre , pultacé , qui simule une sorte de fausse membrane , et qui , dans certaines régions , exhale une odeur nauséabonde sui generis .Rarement la plaque muqueuse est isolée ; presque toujours plusieurs plaques se développent simultanément , et se réunissent en groupes qui occupent alors une étendue plus ou moins considérable .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "muco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/ad959163-7c74-546e-9044-3c2399c90d17",
+        "value": "On l ' obtient en incisant la tige et les rameaux d ' une plante de la famille des légumineuses , originaire du Pérou et du Mexique , le copaïfera officinalis , d ' où il s ' écoule sous la forme d ' un liquide transparent , jaunâtre et d ' un aspect huileux .Sa saveur et son odeur sont désagréables et caractéristiques .Administré à dose un peu élevée , le copahu trouble d ' abord les fonctions digestives ; il produit des nausées , et quelquefois même des vomissements qui résultent le plus TRAITEMENT .",
+        "words": [
+          "odeur",
+          "désagréables",
+          "caractéristiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/b01dfbca-c05c-5802-a840-8a24138cae4e",
+        "value": "Sulfate d ' alumine pur 4 à 5 — Eau distillée 100 grammes , Tartrate de fer et de potasse 5 — Eau de roses aa 50 grammes .Vin aromatique ..",
+        "words": [
+          "Vin",
+          "aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/b30b6339-954f-5bb4-ab7f-14500f86ea1c",
+        "value": "La muqueuse se colore en rouge briqueté , et elle présente çà et là quelques érosions semblables à celles que l ' on observe dans la balano - posthite et dans la vulvite .Le muco - pus est épais , jaune et quelquefois brunâtre , par suite de son mélange avec de la matière stercorale , dont il exhale constamment l ' odeur .Le diagnostic de la blennorrhagie anale exige quelques précautions .",
+        "words": [
+          "odeur",
+          "matière stercorale",
+          "muco - pus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/b459a55c-2b13-59ff-8d0f-3e7b6f5ace14",
+        "value": "Le chancre écossais paraît tellement simple , que notre honorable confrère se refuse énergiquement à donner du mercure au malade , qui , peu au courant des doctrines dualistes , et se croyant menacé de la vérole , le lui demandait avec instance .Vin aromatique et sirop de perchlorure de fer sont les seuls moyens employés .Au bout d ' un mois e chancre est cicatrisé , et le malade quitte la maison de santé .",
+        "words": [
+          "aromatique",
+          "perchlorure de fer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/b88426f6-a045-5895-9e54-5d5bae687e65",
+        "value": "TRAITEMENT .83 ne renferme - t - elle que l ' essence , dont elle porte l ' odeur caractéristique .Le copahu subit donc dans le rein une véritable distillation , en vertu de laquelle ses éléments volatils se rendent dans la vessie , tandis que sa partie résineuse reste dans le sang , où probablement elle doit , comme le sucre , servir d ' aliment à la combustion respiratoire .",
+        "words": [
+          "odeur",
+          "elle",
+          "caractéristique",
+          "essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/bc9da346-256d-5afa-9d24-f1e73d339d6d",
+        "value": "Dans la spermatorrhée , au contraire , les pertes de semence se font soit dans le sommeil , soit pendant la veille , sans qu ' il soit nécessaire d ' accomplir l ' une ou l ' autre des deuxfonctions qui favorisent l ' écoulement prostatique .La matière évacuée , vue au microscope , renferme presque toujours des spermatozoïdes en plus ou moins grand nombre ; elle a l ' odeur spermatique .Quel que soit l ' état de l ' esprit , les fonctions génitales et avec elles l ' organisme tout entier s ' affaiblissent de plus en plus .",
+        "words": [
+          "odeur",
+          "elle",
+          "matière évacuée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/be03d232-6635-54c2-9321-4838c32a0c03",
+        "value": "Qu ' ils n ' oublient pas toutefois que ce problème n ' est pas toujours aussi facile à résoudre que pourrait le faire supposer la lecture - de certains auteurs modernes , qui pen - 328 SYPHILIS PRIMITIVE .sent avoir tout fait en inscrivant sur deux colonnes synoptiques les caractères objectifs et opposés du chancre simple et du chancre infectant .Tout cela est peut - être fort beau dans les livres , mais ne saurait suffire dans la pratique .",
+        "words": [
+          "infectant",
+          "chancre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/c4decb88-39d6-5ad1-8a12-fe670e36c14d",
+        "value": "On peut remplacer avec avantage le pain azyme par des capsules faites ad hoc , dans lesquelles on emprisonne l ' opiat .Ces capsules , de forme ovoïde , sont composées d ' une enveloppe mince et molle de gélatine etde sucre , qui , en s ' humectant dans la bouche , facilite l ' ingestion du remède , sans en laisser soupçonner même au malade ni la saveur ni l ' odeur .Chaque capsule doit contenir au moins deux grammes d ' opiat .",
+        "words": [
+          "odeur",
+          "bouche",
+          "malade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/c72a3264-0658-5b02-8107-e708db3a943e",
+        "value": "Ne contenant que l ' essence balsamique , séparée de la résine par la distillation , elle est d ' une saveur , peu prononcée , elle n ' excite aucun dégoût , et ne provoque ni nausées , ni vomissements , ni diarrhées .J ' ai soin d ' ailleurs de l ' associer à un liquide aromatique , afin de déguiser entièrement ce qui pourrait lui : rester de désagréable au goût .Je fais ainsi une potion dont voici la formule , et que le malade doit prendre en un ou deux jours , selon les cas : Eau distillée de copahu .",
+        "words": [
+          "aromatique",
+          "désagréable",
+          "liquide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/c7f858c4-9331-5d96-a252-5a23dc083d65",
+        "value": "Il ne faut cependant pas accorder trop d ' importance à ce caractère ; il n ' a rien d ' absolu et pourrait induire en erreur .L ' écoulement qui provient d ' une chaudepisse , bien que sans odeur de sa nature , peut acquérir une sorte de fétidité , par sa putréfaction et son séjour prolongé dans le pli glando - préputial où il s ' accumule .L ' examen microscopique nous fournit encore un élément de diagnostic , les micrographes modernes ayant démontré l ' existence d ' un animalcule , le vibrio lineola , qui foisonne dans le liquide balanique , et que l ' on ne rencontre jamais dans le muco - pus uréthral .",
+        "words": [
+          "odeur",
+          "chaudepisse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/c8784179-d662-56a6-9ce5-a1689107f609",
+        "value": "couvre le gland , opération qui , dans quelques cas , provoque une assez vive douleur , on aperçoit sur la muqueuse balanique et sur la face interne du prépuce des érosions plus ou moins larges , superficielles , épithéliales , sinueuses , dont les bords , bizarrement découpés , ressemblent aux contours d ' une carte géographique .Elles sont d ' un rouge vif , ardent ; un muco - pus abondant , épais , jaune verdâtre et exhalant une odeur nauséabonde , sui generis , les recouvre çà et là .Cette fétidité , qui n ' est autre que l ' odeur concentrée du smegma sébacé , peut fournir , comme , nous le verrons plus tard , un signe de diagnostic .",
+        "words": [
+          "odeur",
+          "nauséabonde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/d046e711-d546-57e3-9bc5-e0391c53168c",
+        "value": "Le cachou est ici associé au copahu et au cubèbe pour atténuer leur action purgative .Quant à l ' essence de menthe , elle n ' est là que pour masquer , par son arome , l ' odeur et le goût de l ' opiat .Quelques médecins y ajoutent encore , selon les indications , du tannin , du camphre , du carbonate de fer , etc .",
+        "words": [
+          "odeur",
+          "menthe",
+          "essence",
+          "arome",
+          "opiat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/d3ab5aa5-387a-5968-90b9-47b56532eb1c",
+        "value": "Cet accident est , en effet , l ' expression pathologique la plus fréquente et la plus hâtive de l ' action du mercure sur l ' organisme .Une saveur métallique , bientôt suivie d ' une sécrétion plus abondante de salive et d ' une fétidité particulière de l ' haleine , annonce l ' invasion du mal .Peu à petites gencives se gonflent et se ramollissent ; leur surface se recouvre d ' une exsudation opaline ou blanchâtre , qui masque , la teinte rosée qu ' elles présentent à l ' état normal .",
+        "words": [
+          "salive",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/d757f618-15d1-532f-aa5a-45e3f4e388f1",
+        "value": "Dans la prostatorrhée , la matière de l ' écoulement n ' est et ne peut être autre chose que du fluide prostatique .Ce fluide est incolore ou légèrement opalin , filant et visqueux comme du blanc d ' oeuf ou de l ' eau de gomme ; il n ' a pas l ' odeur du sperme ; le microscope , ce qui est un caractère de la plus haute valeur , n ' y décèle la présence d ' aucun spermatozoïde .Son évacuation , ainsi que nous l ' avons dit , se fait de préférence immédiatement après l ' émission de l ' urine ou pendant la défécation ; elle n ' a aucune influence sur la quantité et la qualité du sperme normalement produit .",
+        "words": [
+          "odeur",
+          "sperme",
+          "il",
+          "Ce fluide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/db71244a-22d4-5cd6-a306-209b31231208",
+        "value": "Aussi n ' observe - t - on presque jamais la cachexie mercurielle pendant le cours ; d ' un traitement antisyphilitique prudemment conduit .Ce n ' est guère que chez les ouvriers que leur profession , expose à des , émanations incessantes de vapeurs mercurielles que se ma nifeste quelquefois cet ensemble de symptômes et , d ' autres encore plus graves que nous étudierons bientôt .Pour mon compte , je n ' ai jamais rien vu de semblable chez , les , malades dont j ' ai eu à diriger le traitement .",
+        "words": [
+          "vapeurs",
+          "émanations",
+          "incessantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/e4c2e170-70af-5b0a-a31f-02cd1c7545a8",
+        "value": "Liqueur de Labarraque .50 — Ce pansement présente un double avantage : il détruit la mauvaise odeur que la gangrène exhale , en même temps qu ' il limite l ' eschare .Quelques jours après , les tissus sphacélés s ' isolent d ' eux - mêmes , et quand l ' eschare commence à se .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "exhale",
+          "gangrène"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/e7742062-80c8-51fe-93e3-8d3f11eef934",
+        "value": "1 — Ces onctions suffisent le plus souvent pour guérir l ' onyxis .Si , cependant , la suppuration s ' établit , on leur substituera des lotions et un pansement méthodique , soit avec de la teinture d ' iode étendue d ' eau , soit avec du vin aromatique , de l ' alun , du tannin , ou toute autre substance astringente .Mais il est difficile , clans ce cas , d ' obtenir une guérison complète .",
+        "words": [
+          "teinture",
+          "aromatique",
+          "vin",
+          "substance",
+          "alun",
+          "tannin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/e8e86b20-a06b-51ca-992f-886a6987e531",
+        "value": "Cette solution désinfectera la plaie , limitera la gangrène et provoquera la chute des eschares .Dès que celles - ci seront éliminées , il suffira de panser les plaies consécutives avec de l ' eau fraîche , du vin aromatique , ou avec une solution très - légère d ' alun ou de tannin .Ici le rôle du médecin s ' arrête , c ' est au chirurgien à intervenir pour régulariser les tissus irrégulièrement découpés parla gangrène , et achever l ' espèce de circoncision qu ' elle avait commencée .",
+        "words": [
+          "aromatique",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/f7666cd3-6401-57dc-9c68-931e9c9dde8d",
+        "value": "Leur tendance envahissante est des plus marquées .Après avoir labouré tout l ' appareil vulvaire , elles gagnent parfois le périnée , la partie , interne et supérieure des cuisses et le pourtour de l ' anus , où elles prennent un développement considérable et exhalent une odeur repoussante , surtout chez les femmes qui s ' abandonnent à la malpropreté .Ces lésions sont une des sources les plus fécondes de l ' infection vénérienne chez l ' homme .",
+        "words": [
+          "odeur",
+          "elles",
+          "repoussante",
+          "anus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/f8006ff5-dc1d-55a4-9243-ee0dfb15602b",
+        "value": "On évitera cette confusion en se rappelant que les lésions syphilitiques de la bouche sont plus discrètes , mieux circonscrites , et ont pour siége de prédilection , non les gencives , qu ' elles n ' affectent presque jamais , mais l ' isthme du gosier , le voile du palais , les amygdales , la face interne des lèvres et la face supérieure de la langue .Ajoutons que la stomatite mercurielle a une marche franchement aiguë , que les ulcérations qu ' elle détermine sont irrégulières , molles et sanguinolentes , tandis que les ulcères syphilitiques sont le plus souvent arrondis et nettement limités , ont une surface d ' apparence plus ferme , moins sanieuse , et n ' excitent jamais ce flux abondant de salive qui , avec l ' odeur particulière de l ' haleine , est le caractère prédominant de l ' inflammation hydrargyrique .LANGLEBERT .",
+        "words": [
+          "odeur",
+          "particulière",
+          "stomatite"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/be306540-fa7c-5293-9200-9b99a09524b3",
+        "label": "Edmond  Langlebert"
+      }
+    ],
+    "label": "Traité théorique et pratique des maladies vénériennes : leçons cliniques sur les affections blennorrhagiques, le chancre et la syphilis / par le Dr Edmond Langlebert ; recueillies et publiées par M. Evariste Michel,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6138800h",
+    "date": "1864",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/eb87ecc6-9fe7-5dff-bbc1-70c245c11107",
+      "label": "1864",
+      "begin": "1864",
+      "end": "1864"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/75abe966-5e02-555f-b146-cf628081e54d",
+      "label": "appartements"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0883d783-ab2e-5bec-9cd3-a14eeb5c9ce3/fragment/571b1713-9847-570b-8f17-3c2959e4347d",
+  "license": "Public domain"
+}

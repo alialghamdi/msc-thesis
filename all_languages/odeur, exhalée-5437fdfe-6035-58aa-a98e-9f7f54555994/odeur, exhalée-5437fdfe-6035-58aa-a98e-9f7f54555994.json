@@ -1,0 +1,211 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/5437fdfe-6035-58aa-a98e-9f7f54555994",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odeur",
+    "exhalée"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/016a182b-17f7-50f3-8688-ef830c709c4b",
+        "value": "Jamjam paterno sanguine clarior , Ferit tenello sydera vertice : Virtutis Hæres LUDOVICÆ , Pectoribus cil6 regnal imis .Qualis sabeæ , luxuriaus , trahit A stirpe odores , surculus arboris ; Enodis , arvum mox opacat , Et redolet Kabalhwa thure .Sic natus altis syderibus Puer , Extendet Orbem lumen in ultimum , Et jure legum te beabit In veniens , animosus , Ævum .",
+        "words": [
+          "odores",
+          "stirpe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/22545b5e-c0b3-5959-bf85-9737cfb4ee8c",
+        "value": "» LE bronze homicide , Cesse de tonner , Le rameau de Gnide , Va nous couronner ; A ce vaste empire Le calme est rendu ; La FRANCE respire ; LOUISE a paru .DIEU ! quel riant tableau ! des plaines embaumées , L ' œil voit au loin s ' enfuir les frimats importuns ; Des fleurs , que de LOUISE un sourire a formées , Un doux Zéphyr dans l ' air balance les parfums .Image du Printems , par sa seule présence , Des roses du Bonheur elle émaille nos jours , Et pour n ' éclairer que la FRANCE Le Soleil étonné semble arrêter son cours .",
+        "words": [
+          "fleurs",
+          "air",
+          "parfums",
+          "embaumées",
+          "plaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/29e87a32-5dc1-5f10-b86a-43bea1edadd4",
+        "value": "JJ « POUR fêter des époux le pompeux hyinénée » Le Printemps ramena la saison fortunée .» La Terre s ' embellit des plus riches couleurs , » Embauma de parfums , para de mille fleurs » Le trône de l ' Hymen , la couche nuptiale .» Pour célébrer du Fils la naissance royale , v La Terre se revêt des plus riches couleurs , » Couronne le berceau de mille et mille fleurs .",
+        "words": [
+          "Terre",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/309ed8db-50f3-5389-9966-c53ecbe1791d",
+        "value": "DE tous ses feux l ' Orient étincelle ; Trois fois Salut , replendissant flambeau ! Le feu sacré de la voûte éternelle En gerbes d ' or descend sur son berceau .ÉTENDS sur lui ta cîme parfumée , Fils du Liban , Cèdre majestueux ! Prix des grands cœurs , vous , palmes d ' Idumée , Ceignez le front du Fils aîné des Dieux ! ROYAL Enfant , noble sang du Grand - Homme , D ' un Père illustre imite les vertus Fais refleurir les beaux siècles de ROME , Du Peuple - Roi , sois le nouveau .TITUS ! LE Nil a vu le Héros qui te guide Aux Pharaons dicter de justes lois : Des bords de l ' ELBE aux colonnes d ' ALCIDE , Tout retentit du bruit de ses exploits .",
+        "words": [
+          "parfumée",
+          "Cèdre",
+          "cîme",
+          "cîme parfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/8634dd2b-fb65-5336-b52f-e259e8a383d9",
+        "value": "» C ' EST ainsi qu ' emporté sur l ' aîle du PÉGASE , Un rêve me charmait aux bords lointains du PHASE , Quand soudain mille cris , dans LUTÈCE élevés , Annoncent près de moi les jeux que j ' ai rêvés .IJA SIIIWE a tressailli ; les Aigles de la FRANCE , Planant sur l ' Univers , proclament ta naissance , Fils de NAPOLEON : déjà sur tes Autels Je vois fumer l ' encens des Cieux et des Mortels .Déjà PHÉBUS prodigue à ta couche adorée La rose d ' Hélicon , de nectar enivrée ; Et le lis qui , du Pinde embaumant les gazons , Des larmes de l ' Aurore a nourri ses boutons .",
+        "words": [
+          "encens",
+          "fumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/8ba24143-5d3f-5cbb-a73b-f205a5f521cd",
+        "value": "C ' est là que dans ce jour un pieux luxe étale Du culte des Chrétiens la pompe triomphale ; Honneur de la Cité , nos dignes Magistrats , Les illustres guerriers qui guident nos soldats , Occupent le parvis ; et par ce noble exemple , D ' un lustre encor plus beau semble parer le temple .Les autels surchargés de feux étincelans , Exhalent les parfums des fleurs et de l ' encens ; De L ' orgue qui mugit la sublime harmonie Des célestes accords respire le génie ; Tantôt il peint la foudre et ses terribles coups , 11 soupire fantôt les accens les plus doux : Mais sur le rythme antique il prélude , il commence Le cantique sacré de la reconnaissance : • Et soudain mille voix .Nous te louons , ô Dieu ! « Pour bénir ton saint nom nous remplissons ce lieu .",
+        "words": [
+          "fleurs",
+          "encens",
+          "parfums",
+          "autels",
+          "Exhalent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/a69ed421-e042-50fa-b78c-14a3d9134997",
+        "value": "SALUT , auguste Enfant d ' un plus auguste Père , Gage aimable d ' amour , de bonheur et de Paix ! Et pour nous et pour toi , quel présage prospère ! Ta naissance est comptée au nombre des bienfaits .Tu nais , et du Printems l ' haleine caressante De ses légers parfums rafraîchit ton Berceau ; A ton premier regard , la Nature riante Déploie avec orgueil son magique Tableau .LA SEINE se levant sur son urne féconde , Vers toi complaisamment tourne un regard d ' amour ; Et ses flots orgueilleux vont raconter au Monde Qu ' elle arrose l ' enceinte où tu reçus le jour .",
+        "words": [
+          "parfums",
+          "haleine",
+          "caressante",
+          "ses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/af9de1f7-d938-5ad3-81fd-5b42f233bf54",
+        "value": "IJA SIIIWE a tressailli ; les Aigles de la FRANCE , Planant sur l ' Univers , proclament ta naissance , Fils de NAPOLEON : déjà sur tes Autels Je vois fumer l ' encens des Cieux et des Mortels .Déjà PHÉBUS prodigue à ta couche adorée La rose d ' Hélicon , de nectar enivrée ; Et le lis qui , du Pinde embaumant les gazons , Des larmes de l ' Aurore a nourri ses boutons .Tous les Arts à l ' envi vont tresser leurs guirlandes ; A ces brillantes fleurs joindrons - nous une offrande , Déesses des Bergers ? Mais nos hameaux , nos bois N ' offrent aucun tribut qui soit digne des Rois .",
+        "words": [
+          "rose",
+          "nectar",
+          "lis",
+          "embaumant",
+          "enivrée",
+          "Pinde",
+          "Hélicon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/bdba8280-33a0-5d35-9662-4edb6d10b20a",
+        "value": "Toutes quatre aussitôt accourent sur ces bords Où de sa voix chérie éclatent les accords .LA MARNE , aux cheveux blonds , dont l ' humeur pétillante Décèle de ses vins la saveur agaçante ; L ' y ONNE , au teint , crTlJeil , à l ' œil vif et coquet , De sa rouge liqueur respirant le bouquet ; Des épis de CÉRÈs ornant sa chevelure , L ' A UBE , de ses sillons annonce la culture ; L ' OISE , des prés fleuris de ses vertes forêfs , Rappelle la gaîté sur son visage frais .Aux genoux de leur Heine on les voit réunies , Intéressantes sœurs , moins m aies qu ' amies .",
+        "words": [
+          "saveur",
+          "agaçante",
+          "ses vins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/d5452773-a385-5599-b0ff-8c526e6a9bc1",
+        "value": "HYMN , fils de BACCHUS , élève d ' URAJ .ÇIE , Quittant pour deux époux les grottes d ' Aonie , Du cothurne brillant paré dans ce beau jour , Tu parus entouré du voile de l ' Amour ; Au souffle des Zéphirs tu mêlais ton haleine ; Tu portais dans tes mains la douce marjolaine , La pâle violette , un myrte éblouissant , La rose virginale au parfum ravissant ; Elle offrait les couleurs de la simple innocence Qui de ses premiers jours embellissaient l ' enfance .LES yeux demi - baissés , dans un trouble charmant , De LOUISE l ' Hymen s ' approche en ce moment ; Une teinte vermeille anime son visage : « Reine , de ta candeur vois la céleste image , » Accepte mon bouquet ; sa naïve blancheur » Est l ' emblème parfait des vertus de ton cœur » .",
+        "words": [
+          "parfum",
+          "violette",
+          "rose",
+          "ravissant",
+          "myrte",
+          "cothurne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/dc9f1f30-0be4-548f-828a-6aded51a88ed",
+        "value": "» SUR ce berceau chéri des Dieux » Sont apparus , dit - on , des signes prophétiques ; » Ainsi qu ' aux jours antiques , » Un Astre inattendu s ' est levé dans les Cieux .» L ' HIVER s ' enfuit aux monts de la Scandinavie : » Le Soleil , père de la vie , » A redoublé l ' éclat de son disque enflammé ; » Et , jaloux d ' assister au bonheur de la FRANCE , » Le Printems , Dieu de l ' espérance , » Remonte avant le tems sur son char embaumé .» DE lauriers et de fleurs la tête environnée , » Viens rouvrir désormais la marche de l ' année ; » Mois , consacré jadis à l ' amant de VÉNus » Triomphe , et ressaisis ta guirlande flétrie » Que posa l ' ami < .",
+        "words": [
+          "embaumé",
+          "monts de la Scandinavie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/dcff407c-a5e5-5449-b852-8aaaf80019fa",
+        "value": "LI Nature sourit au doux réveil de FLORE .Déjà les fleurs vont s ' empresser d ' éclore ; Et , cédant aux efforts des Zéphyrs caressans , Vont pousser dans les airs leurs soupirs odorans .Mais les beaux jours que le Printems ramène Devaient être annoncés par le plus beau des jours ; FLORE devait , dans son riant domaine , Voir naître un Rejeton produit par les Amours .",
+        "words": [
+          "fleurs",
+          "airs",
+          "odorans",
+          "soupirs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/e9b682b0-ceec-52cf-9d81-30f8cf65d245",
+        "value": "Heureux Peuple ! renouvelez Voschants , vos fêtes séculaires .ANTIQUES monumens , Honneur des sept Collines , Temples , sortez de vos ruines , Retentissez des plus joyeux accens ! Sur les autels chargés d ' offrandes , Parés de nouvelles guirlandes , Que les doux parfums de l ' encens Jusqu ' aux Palais de l ' Empyrée , Des descendants de Cythérée Portent les vœux reconnaissans ! PAR M .CHAPAIS DE MONVAL , Employa de l ' Administration des Douanes à Rouen .",
+        "words": [
+          "doux",
+          "encens",
+          "parfums",
+          "Cythérée",
+          "Palais de l ' Empyrée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/ecdbfcd9-d0c7-5a03-bfdd-cc12088cb42a",
+        "value": "» Les bienfaits d ' un noble maître » Eussent fait dire encore à ma muse champêtre , » Heureux vieillard tes champs ne te sont point ravis .Il L ' Ombre , à ces mots , retourne au sein du mausolée ; Dans les airs lentement sa voix s ' est exhalée , Comme le dernier son d ' un luth mélodieux , Ou comme cette odeur d ' immortelle ambroisie Dont la brillante poësie Parfumait autrefois les vestiges de Dieux .PAR M .",
+        "words": [
+          "odeur",
+          "airs",
+          "ambroisie",
+          "voix",
+          "exhalée",
+          "autrefois",
+          "du mausolée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/f029dcf5-b588-5702-83f4-969a09248cae",
+        "value": "» Pour célébrer du Fils la naissance royale , v La Terre se revêt des plus riches couleurs , » Couronne le berceau de mille et mille fleurs .» ZÉPHIRE agite en l ' air une aile parfumée .» Le Printemps rajeunit la Nature charmée .",
+        "words": [
+          "parfumée",
+          "aile"
+        ]
+      }
+    ],
+    "label": "Hommages poétiques à Leurs Majestés impériales et royales sur la naissance de S. M. le roi de Rome. Tome 2 / , recueillis et publiés par J.-J. Lucet et Eckard...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6516798p",
+    "date": "1811",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/283",
+      "label": "Raspberry"
+    }
+  ],
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/417",
+      "label": "Air",
+      "exemplifies": "http://data.odeuropa.eu/vocabulary/olfactory-objects/417"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/32cabc16-24c0-5093-b91b-05a8a6431384",
+      "label": "1811",
+      "begin": "1811",
+      "end": "1811"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8617888/",
+      "label": "qubbat Barsbāy al-Bajāsī wa-amīr Sulaymān"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/joy",
+      "label": "joy"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/grief",
+      "label": "grief"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0fc879cf-7205-5cf9-8221-8c0197ff7cd3/fragment/ecdbfcd9-d0c7-5a03-bfdd-cc12088cb42a",
+  "license": "Public domain"
+}

@@ -1,0 +1,518 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/707b1967-a81b-598d-b057-075b561e033a",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumées",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/049c66be-7382-580c-9665-41c739c7ad64",
+        "value": "battu .L ' air est tout imprégné des frais parfums du printemps .Nous arrivons au temple du vieux Gourna .",
+        "words": [
+          "air",
+          "parfums",
+          "frais",
+          "printemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/10326330-ad6d-553c-83ee-e463f9ec561e",
+        "value": "il nous semble avoir un pot do pommade dans la bouche .Heureux temps , où nous les dévorions dans le Robinson suisse , avec les figues d ' Inde , les cocos , les choux palmistes , les mangous , et autres déceptions plus ou moins tropicales I Heureux temps que celui où , couchés dans le foin odorant , nous lisions pour la vingtième fois ces pages enivrantes ; où nous souhaitions de si bon coeur la ruine de nos parents , leur émigration dans le nouveau monde , leur naufrage ; oh oui ! un beau naufrage dans une lie déserte , pleine de singes , de panthères et de perroquets ; avec un sac de provisions , un seul , sauvé du naufrage , et puis la carcasse du vaisseau prise entre deux écueils ; bienfaisante carcasse bourrée d ' outils , de vêtements , de tonnes de beurre salé , de balles de café et de caisses dechocplat ! Nous entrons dans un jardin ; il est tout entier planlc de palmiers .Leurs panaches qui se rejoignent , forment un dôme soutenu par cent colonnes .",
+        "words": [
+          "odorant",
+          "nous",
+          "enivrantes",
+          "jardin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/1931a633-9c83-5f9d-b6b1-fe895e277b6e",
+        "value": "Non , ce ne serait pas tout à fait vrai .D ' ailleurs , sans les tombeaux , sans la fournaise , sans la puanteur ; la prairie , le vent du soir , les grandes ombres auraient elles ces douceurs ? H y aurait à voir pour une semaine de ce côté du fleuve , surtout dans la vallée des sépulcres .11 faudrait y planter sa tenlo , afin do s ' épargner quatre heures de course par jour .",
+        "words": [
+          "puanteur",
+          "vallée des"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/1df75e39-7e41-5c11-ad48-370f2f4cecb9",
+        "value": "Le voisinage des matelots nous en communique bien quelques - uns , des plus hideux même ; mais ce n ' est qu ' une importation , et l ' importation ne s ' élève jamais au niveau de la production .Tant y a , que ces miasmes infernaux ont fait fuir notre pauvre Chalal .Chalal s ' est esquivé cette nuit sans tambour ni trompette , et ce matin , les plus douces appellations ont en vain retenti .",
+        "words": [
+          "miasmes",
+          "fait fuir",
+          "infernaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/1edfe2f7-8e75-5ceb-bef1-69918a22799e",
+        "value": "— Celles - ci sont pavées de mosaïques , celles - là tournent autour d ' un bassin de marbre , à demivoilé par les guirlandes que laissent tomber sur ses fontaines , les plantes grimpantes qui revêtent quelques citronniers en fleurs .C ' est un labyrinthe de verdure , avec tout ce que les parfums , tout ce que les eaux courantes peuvent y répandre de fraîcheur .— J ' aime lés sentiers sinueux , j ' aime l ' imprévu , les bosquets jetés ici et là , les buissons de fleurs au milieu des prés ; mais j ' aime aussi les longues allées , quand elles s ' étendent sous les cieux d ' Egypte , que les clartés du soleil y tombent scntJBBAti .",
+        "words": [
+          "parfums",
+          "eaux courantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/24a87011-9b8e-5eed-8381-2ee965ee6e45",
+        "value": "L ' oreille , d ' abord étonnée , saisit bientôt une harmonie étrange qui glisse à travers les voix et qui la ravit .Ce n ' est pas une mélodie , ce n ' est pas un accord régulier ; c ' est co parfum composé de mille parfums que nous apporta la brise , quand elle a passé sur les hautes prairies des Alpes .Amusez - vous à écrire cela ; vous verrez la grimace ' : * Gloire sol ! au Puissant .",
+        "words": [
+          "parfum",
+          "parfums",
+          "prairies des Alpes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/263eefc7-ee74-5e78-89b7-ac1b804d92bd",
+        "value": ".L ' orgueil britannique , — je ne parle pas de courtoisie — l ' orgueil - — Car jalouser , c ' est se reconnaître inférieur — ne devait - il pas respecter celte plaque de granit , sur laquelle a passé le doigt dé la gloire ! Le Henné aux fleurs vertes , au suave parfum , fleurit dans l ' Ile de Philé .Un petit bateau nous ramène Reiss Hassan et son frère Ali .",
+        "words": [
+          "suave",
+          "parfum",
+          "Henné",
+          "Ile de Philé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/356167b2-9248-54f6-b533-ee48bb87b1f7",
+        "value": "— Petamùna est donc un grand personnage .Son sépulcre n ' a do remarquable que les dimensions , la puanteur et les chauves - souris .Salles après salles , corridors après corridors , puits sans fond qui s ' ouvrent inopinément , ténèbres absolues , air pestilenliell Des milliers de chauves - souris volent à nos flambeaux et nous donnent de l ' aile dans les yeux , ( fous avons à peine , .",
+        "words": [
+          "puanteur",
+          "sépulcre",
+          "chauves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/36c39236-0314-5e22-9b10-e51b4126df0b",
+        "value": "Des mâchoires à demi enterrées montrent leurs dents blanches à toutes les hauteurs .Un fort parfum de musc mêlé à l ' odeur nauséabonde de la pourriture s ' exhale de ces restes .Au - dessous se déroulent les belles prairies tachetées de troupeaux , et le Mil dont le cours se devine aux blanches ailes de ses barques .",
+        "words": [
+          "parfum",
+          "odeur",
+          "musc",
+          "nauséabonde",
+          "pourriture",
+          "restes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/39d5a8a3-5816-5fff-844b-967e8a5c6b54",
+        "value": "» — Ceux qui ont cherché à s ' y soustraire , sont justement ceux qu ' elle frappe de la manière la plus saisissante .— Les Égyptiens embaumaient les corps ; ils met - EXCOEE DEUX 8Éri ' LCRE4 .181 taient entre leurs cadavres et la dent rongeante du temps , le rempart de la pierre , du bois et des ténèbres .",
+        "words": [
+          "corps",
+          "embaumaient",
+          "Égyptiens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/3f497225-2f3e-516a-89f3-938d1851c6e9",
+        "value": "* — Ç ' à été une vive mortification .Comment exiger aussi qu ' un chat , le type de la fashion , supportât cette ignoble puanteur ? Nous voilà donc sans minet ; la triade du Véloce est dépareillée , elle en gémira longtemps .Dier , sur un îlot , trois crocodiles ! ils ne se dérangent pas pour nous ; à peine deux d ' entre eux se cachent - ils sous l ' eau pour remonter au soleil dès que nous avons passé .",
+        "words": [
+          "puanteur",
+          "chat",
+          "ignoble"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/448c3316-9e9d-5c1e-b59a-a3a9b50242db",
+        "value": "45 dilions d ' espace , de clarté , de propreté , sans lesquelles ce séjour équivaudrait à un emprisonnement au cachot .Les barques d ' aujourd ' hui , j en exccpto la grande , sentaient mauvais ; on se cognait la tête au plafond , les divans ne laissaient entro eux que tout juste la place de passer ; le pont était si étroit et si court qu ' il ne restait plus do refuge pour la vie intime .~ - Cette première entrevue m ' a quelque peu désillusionnée à l ' endroit de la navigation ; mais j ' en reviendrai .",
+        "words": "sentaient mauvais"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/4e0affd3-4ff3-55b6-9c11-45c4976e75b9",
+        "value": "451 U » BAT * .Hier , il s ' exhalait du sol un bon parfum de pluie .Lo ciel était brumeux , l ' atmosphère lourde ; on eût dit l ' orage imminont .",
+        "words": [
+          "bon",
+          "parfum",
+          "pluie",
+          "sol",
+          "Hier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/51b3bf99-b7ae-569a-8629-8c4ebde48f10",
+        "value": "H SI0 LE BBUBBB D IIASSAMM .casseroles et que l ' odeur étouffante pénétra dans la cabine , nous pensâmes qu ' Hassanin confectionnait un poison pour les rats ..",
+        "words": [
+          "odeur",
+          "nous",
+          "étouffante",
+          "cabine",
+          "casseroles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/6ad98df8-15f1-59f5-81a9-92234129b7bd",
+        "value": ".Aussi bien je m ' arrête , il semble flairer l ' odeur du roussi .Au - dessus de Dabout el Schériff , mardit 28 décembre 4847 .",
+        "words": [
+          "odeur",
+          "roussi",
+          "je m"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/6c13d15a-126c-5231-9429-7135c7ce1d6a",
+        "value": "Les petits enfants se roulent sur le sable , les femmes assises près do leurs maisons de briques , ouvrent la coquo du coton ; des brebis noires entourées de leurs noirs agneaux , bel ni sous le démo vert que forment les cimes penchées des palmiers .— - Après lo village , une lisière de blés , lisière verte , arrosée ; à côté , un champ do cotonniers , cl puis , le sable au delà ! Et toujours cotte lune charmante qui nous regarde au travers des dattiers , et toujours celte atmosphère sereine ; splcndide le jour , la nuit claire , et tout imprégnée do la senteur des lupins .Notre pauvre barque est démâtée .",
+        "words": [
+          "senteur",
+          "lupins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/6ef6d62d-b831-53f4-999c-7b09c5e40235",
+        "value": "On avait bien vidé rentre - pont , mais on avait oublié le fond de cale , caché sous un faux plancher .On nettoie , on parfume ; la fange remuée sent encore tn MARAIS A FOXD DE CALE .261 plus mauvais .",
+        "words": [
+          "parfume",
+          "sent",
+          "fange remuée",
+          "tn MARAIS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/80489e1c-4c43-5ea5-83ed-189dfca0437c",
+        "value": ".Et voilà pourquoi noire miel n ' a qu ' une saveur nauséabonde , voilà pourquoi il ne nourrit pas .Tout est dans tout .",
+        "words": [
+          "nauséabonde",
+          "saveur",
+          "noire miel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/88280e43-300d-5524-80db-586f8256b764",
+        "value": "On dirait l ' esprit de l ' ancienne Egypte , planant immobile sur l ' antique Thèbes .Le Nil coule lentement au loin , des senteurs printannières , suaves comme celles qui émanent do la vigne en fleur , pénétrent chaque souffle qui passe sur la prairie .Les colonnes du Memnonium se dressent au pied de la chaîne Lybique , les deux Colosses passent la montagne du buste entier , pans les champs fleuris , a leurs pieds , paissent vingt troupeaux .",
+        "words": [
+          "suaves",
+          "celles",
+          "senteurs",
+          "prairie",
+          "printannières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/8a8e8d12-d8ca-5c1f-a396-fb69b0519a41",
+        "value": "Le matin , recherche générale .— On ne trouve rien I — Nous ouvrons les vingt - quatre fenêtres de notre appartement , nous vivons dans ce courant d ' air anathématisé par toutes les facultés de médecine , et particulièrement parcelle d ' Egypte ; nous n ' échappons pas aux miasmes .— A force de flairer de ci , de là , nous découvrons que la puanteur vient du fond de cale .",
+        "words": [
+          "nous",
+          "miasmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/8acbfe87-8e66-5570-8404-affd7d6edbd0",
+        "value": "Quelques plongeurs , avec leur long bec , leurs longues pâlies , leurs ajjes triangulaires soigneusement peintes , nous effleurent de leur yo.Quelques canards s ' attardent vers de petites marcs ; les champs nous envoient de suaves odeurs , A mesure que le fleuve se retire , les plantations s ' avancent .Le sol est couvert de plantes à feuilles luxuriantes ; à tous les bonis de ( horizon les bois de palmiers coupent l ' uniforme des lignes ; le ciel est redevenu serejn , J ' ai ? tiè # > Pn respire le printemps .",
+        "words": [
+          "suaves",
+          "odeurs",
+          "champs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/8dcbde07-df33-5133-8378-af7b55b17744",
+        "value": ".même pour ces jeunes que nous avons élevés et que nous aimons ; alors , quand nous sentons encore vivant en nous cet amour de la poésie et dit beau , dissonnance ridicule avec nos cheveux gris ; qu ' il fait bon alors , s ' en aller dans les champs , dans la libre campagne I La lune nous verse ses mêmes blondes clartés ; la lumière du soleil tombe toujours en onde verte sous le noyer aux larges feuilles ; la fleur nous envoie tes parfums que nous respirions à vingt ans .Nous allons nous asseoir sous ce chêne , où tout petit notre mère nous menait prier Dieu ; où jeune , nous passâmes de si longues heures couché dans rherne , écoutant la fauvette , suivant les sentiers de la fourmi , plongeant dans les profondeurs du bel avenir .",
+        "words": [
+          "fleur",
+          "parfums",
+          "nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/8ff4eb3a-e57c-5300-b930-e69f64d5e45a",
+        "value": "v ' , ■ , - , .; ■ Qu ' il y a de paix dans cette scène , comme il fait bon s ' étendre dans l ' herbe , respirer à longs traits cet air embaumé , laisser perdre son regard au fond de ce ciel bleu , écouler le bêlement de ces brebis , caresser ces doux chevraux , se pénétrer de ce calme , et puis contempler ces deux figures dont l ' ombre MEDIXET AEOU .fil grandit sur le sol , toujours solennelles , toujours placides ) Le soleil se lève et le soleil se couche sans quo tu vibres jamais plus , Colosse de Meranon ; mais que j ' aime mieux ton silence ! que tu me dis de plue grandes choses en te taisant ainsi I — Je donnerais dix temples , et , si l ' on me pressait , j ' en donnerais vingt , pour ces géants assis dans la plaine , avec ces horizons , ces couleurs , ces troupeaux , ces fellahs , cette page de la vie patriarcale ouverte devant moi .",
+        "words": [
+          "air",
+          "embaumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/90245c8f-63ac-5848-8e7a-be43e406d6f6",
+        "value": "— J ' aime lés sentiers sinueux , j ' aime l ' imprévu , les bosquets jetés ici et là , les buissons de fleurs au milieu des prés ; mais j ' aime aussi les longues allées , quand elles s ' étendent sous les cieux d ' Egypte , que les clartés du soleil y tombent scntJBBAti .45 tamisées par les rameaux entrelacés des jasmins , que la haie est de myrte , que les roses , que les tubéreuses , que les narcisses pénètrent de leurs senteurs les tièdes haleines de décembre .Il fait bon alors , aller devant soi , respirant à longs traits , laissant flotter son regard , et .",
+        "words": [
+          "roses",
+          "leurs",
+          "senteurs",
+          "tièdes",
+          "narcisses",
+          "myrte",
+          "tubéreuses",
+          "jasmins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/99c8fe2d-1e7f-54a7-9a18-7cab2706fbf4",
+        "value": "— On ne trouve rien I — Nous ouvrons les vingt - quatre fenêtres de notre appartement , nous vivons dans ce courant d ' air anathématisé par toutes les facultés de médecine , et particulièrement parcelle d ' Egypte ; nous n ' échappons pas aux miasmes .— A force de flairer de ci , de là , nous découvrons que la puanteur vient du fond de cale .On se glisse dans cet antre , et l ' on y trouve un di mi pied d ' eau corrompue , de limon fétide , d ' ordures en décomposition .",
+        "words": [
+          "puanteur",
+          "nous",
+          "cale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/9c1f12a0-3302-5ec7-b176-88360f80f4d2",
+        "value": "Antonio y a jeté vingt oignons » il l ' a fait fondre et refondre , sans en tirer autre chose qu ' une combinaison empestée .Nous nous procurons de village en village quelques parcelles d ' un beurre qui ne sent plus que la bête * la laine , le rance : on accommode notre nourriture avec cela » et nous nous régalons ; - ^ ; : ' - : Ces échecs ne troublent ni la paix d ' Hâssanin ni la bonne opinion qu ' il a de lui - mômé .— L ' autre jour : — « Brave Hassanin ! se disait - il , il n ' existé pas dé cuisinier pareil à toi T Où est - il ; celui qui n ' aurait pas consommé ce tas dé bois ! Dieu te bénisse Hassanin , Dieu te bénisse ? .",
+        "words": [
+          "laine",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/a0a5dffc-988e-564e-be17-3d8457c46fcb",
+        "value": "leil calcine dans les ardeurs de Juillet , que les autans contristent sous les nuages de Décembre .Mais l ' Egypte 1 l ' Egypte s ' épanouit toujours verte et parfumée sous les rayons d ' un soleil des tropiques ; et quand elle voit sa végétation se flétrir , elle se plonge tout entière dans son fleuve , elle en sort plus vigoureuse et plus parée .J ' aime les arbres , les prés et les montagnes du plus profond de mon âme .",
+        "words": [
+          "parfumée",
+          "Egypte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/a6a3efb2-910e-5bbb-8e10-08719b47fc19",
+        "value": "Qu ' on accable ces gcus do travaux .» — £ t les Israélites s ' écriaient contre Moïse , contre Aarou : « Vous nous avez mis en mauvaiso odeur devant Pharaon et ses serviteurs .» Et Moïso , loccour débordant d ' angQisse .",
+        "words": [
+          "odeur",
+          "Israélites",
+          "mauvaiso",
+          "Vous nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/a9ac36a2-16e0-5c59-99ee-5540cd2fc67d",
+        "value": "Lo surplis blanc du pasteur de l ' Église anglicane m ' a quelque peu froissée , non que j ' attache plus d ' importance qu ' elle n ' en mérite à la forme , quand la forme n ' exprime pas une doctrine contraire à la vérité ; mais je trouve celle - ci en désaccord avec la simplicité évangélique .— Qu ' une Église qui déclare ouvertement qu ' elle prétend évangéliser les masses par les yeux , par les oreilles , par l ' odorat , couvre ses temples d ' ornements , y dresse des autels splcndides , fasse fumer devant eux l ' encens et revêle ses prêtres d ' habits étranges , cela se conçoit ; mais que l ' Église qui veut rendre à Dieu un ctilte en esprit , s ' écarte de l ' humilité primitive , cela restera toujours une anomalie .Je ne pense pas que la chambre haute des àpétres fût ornée ni d ' images , ni de croix .",
+        "words": [
+          "encens",
+          "odorat",
+          "temples"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/a9d3fa3e-f985-5e7c-884d-b30a92d7ae79",
+        "value": "— Les facultés de cet homme s ' éteignent une à une , sa beauté se change en laideur , son coeur s ' atrophie , sa fortune croule .En voulezvous le secret ? Venez là , au fond de la maison déserte , dans cet antre , ou il fait noir , sale , et qui sent mauvais — c ' est un laboratoire de chimie .Clacs y cherche l ' absolu : changer te chirbon en diamant ! Après , il appartiendra à sa femme , à ses enfants ; Il leur rendra au centuple , en sollicitude , en amour , ce que sa spécialité leur a coûté ! — Hélas ! tous ses diamants à lui , cette ange qui est doucement expirée , pliée dans sa muette douleur ; l ' amour de ses enfants , l ' individualité que Dieu lui avait faite ; tout est devenu charbon .",
+        "words": [
+          "mauvais",
+          "sent",
+          "antre",
+          "maison déserte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/afec8079-9277-5533-83ae-2811cea2cd66",
+        "value": "cou , leurs poignets , elles les attachent en guise de bracelets aux jambes et aux bras de leurs petits enfants : c ' est un préservatif contré le mauvais oeil .Tout cela est bien sale , l ' odeur pestilentielle du beurro d ' Ilassanin s ' exhale de ces fêtes frisées ; mais que dé grâce dans ces poses , que de liberté dans \\ CJ mouvements ! comme ces mères tiennent légèrement Iéi ) rs beaux nourrissons couchés tels que les a faits la nature , snr Jours bras ou contre lettr sein I avec quelle dignité elles jettent sur l ' épaulé les plis dp leurs longs voiles , et quelle majesté danp ce manteau qui flotte et traîne un peu sur leurs pas ! Nés gants , dé couleur foncée , les inquiètent ; elles les louchent , touchent mon visage , et se récrient : jo défais lo bouton , je tire le gant , toutes les mains so lèvent au ceavec un loué soit Allqft / Ces gens travaillent peu ; les boeufs qui tournent aux sackkiehs font le plus gros de l ' ouvrage .Les hommes et les femmes semblent n ' avoir d ' autre spjn que do se prpmencr tout le jour darçs leurs grandes toges .",
+        "words": [
+          "odeur",
+          "pestilentielle",
+          "beurro d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/b2a04d9f-d73d-56a9-9b4a-e07990fea453",
+        "value": "Le loup y était adoré .Nous suivons un chemin qu ' ombragent des saules ; nous passons près d ' un bosquet composé de palmiers et de cette variété de mimosa aux fleurs parfumées , que nous avons vu pour la première fois à Cor fou .Dans la vaste étendue croissent les bleds , les ton - OSSIOUT .",
+        "words": [
+          "fleurs",
+          "nous",
+          "parfumées",
+          "bosquet",
+          "fleurs parfumées",
+          "mimosa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/b2adc15f-384e-5eb8-8005-a5de32c855b9",
+        "value": "Regarde les belles ondes de tes golfes se briser écumeuses contre tes écueils , s ' arrondir vers tes rivages couverts de vignes .Respire l ' agreste parfum de tes bruyères , suis tes longs troupeaux à la laine jaune , songe à ton passé qui est un grand passé , ..",
+        "words": [
+          "parfum",
+          "agreste",
+          "tes bruyères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/b5a45b61-1053-531c-904b-d9084294fefb",
+        "value": "— Il est bien vrai que si quelque vol de pélican vient à moirer le ciel sur nos têtes , que si quelque héron à la fiôrc aigrette se promène çn sautelanl le long du rivage , que si quelque barque de pacha glisse près de nous avec ses brunes figures groupées vers les mâts ou cachées sous la tente que soulèvent des mains curieuses - il est bien vrai que le livre reste longtemps ouvert à la même place .Les villages coptes qui bordent lo Nil depuis hier nou , ' ) montrent - ils leurs murailles grises ; un champ de fèves en fleur nous enyeloppe - l - il de ses parfums ; le vent fait - il mine de gonfler pour tout de bon notre voile ..",
+        "words": [
+          "parfums",
+          "ses",
+          "Nil",
+          "fèves en",
+          "depuis hier nou"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/bf146562-2620-5a9d-8560-eecd17291764",
+        "value": "Memnonium n ' est pas le vrai nom de l ' édifice ; les Grecs qui rapportaient tout à eux , ont vu le nom de leur Dieu Memnon dans celui de Magamoun , épithète donnée à Sésostris , et peut - être aussi dans celui de Memnqnia , nom dés tombeaux * Les mouches d ' Egypte , sous forme de vendeurs de pieds et de mains , nous obsèdent de façon à ne pas nous laisser respirer .C ' est une calamité : linges de momies , jaunes , puant le musc ; colliers de momies , bagues de momies , rien n ' y manque I — Et pourtant , Dieu retrouvera le germe de vie dans cette poussière !70 LES COLOSSES DE MEftOX .Nous traversons des champs fleuris pour nous rendre aux deux Colosses dp la plaine .",
+        "words": [
+          "puant",
+          "musc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c0d2ba70-3691-588c-90dc-ac80f18a2410",
+        "value": "— Mais n ' était il pas bien plus simple , bien moins coûteux de les ensevelir ? Et puis on a trouvé des momies de singes , de loups , de chats , de crocodiles ; pas une appartenant au gros bétail : quelques rares têtes de boeufs sans le corps ; ni buffles , ni chevaux , ni ânes , ni chameaux .— Si les prêtres n ' avaient eu pour bu : que de préserver l ' atmosphère des miasmes pestilentiels de la putréfaction , ils auraient avant tout embaume les animaux les plus gros et les plus nombreux , ceux justement dont les momies n ' existent nulle part .; ; ; \" v \" : ; Encore une preuve .",
+        "words": [
+          "atmosphère",
+          "miasmes",
+          "pestilentiels",
+          "embaume",
+          "putréfaction",
+          "prêtres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c1ca527e-a6be-5ee6-8828-b5f98c2abc9e",
+        "value": "La scène est d ' une beauté qui éblouit .Nous aspirons à longs traits le printemps , la vie , les senteurs délicieuses .L ' équipage du Véloce a reçu sa paye : le bakschich solennellement demandé , gracieusement octroyé à chaque ville .",
+        "words": [
+          "délicieuses",
+          "senteurs",
+          "Nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c3f01257-9374-5bfd-8839-20b9f820757f",
+        "value": "Les rusés compères spéculent sur les passions et la crédulité du voyageur .Ils nous offrent , entre autres jolies choses , une main noire , embaumée , avec un scarabée sacré , monté en bague , passé au doigt , et portant collé sur l ' aile un morceau delà toile qui enveloppait la momie .C ' est trop caractéristique pour être vrai .",
+        "words": [
+          "embaumée",
+          "scarabée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c7d60e24-4828-57e8-8cb2-5c08a3dd2fe5",
+        "value": "vieux de trois ou quatre mille LES TOMW * DIS KAUfï * .lit ans * Elle pollen aussi , et les corolles parfumées , et le printemps ont quatre mille , cinq millo années , que sais - je ! Mais que j ' aime mieux la moindre pe ~ tite oeuvré de mon Dieu , justement cette abeille avec son corset noir et son aile transparente , justement ce bourdon , gros baillif avec son habit de velours , son gilet jaune et son épée d ' acier , justement ce qu ' on ne va pas voir et qu ' on rencontre ; que j ' aime mieux ces monuments - là que les bâtisses humaines I Pourtant , nous nous arrêtons devant les tombes des kalifes , rangées au pied du Mokatlam , détachant sur lui leurs coupoles et les découpures do leurs murailles , La citadelle termine cetto longuo ville des morts , le désert se déroule à gauche ; le Caire , sa forêt de minarets et la plaine verte , à droite .On se heurte incessamment ici contre la grossièreté turque .",
+        "words": [
+          "corolles",
+          "nous",
+          "parfumées",
+          "plaine",
+          "Caire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c7e20745-2d4d-5fa7-ad8c-02efd42c4770",
+        "value": "Il y vivait en esclave , durement traité ; q 10 lui importe ? là torro restait verte , lo fleuve abondant , tes deux sereins .Ah ! quand on glisse sur le Nil , quand ou respiré les haleines parfumées qui viennent des « hamps en fleur , quand on promène ses yeux et sa pensée sur ces lignes infinies , quand l ' âme enivrée contemple ces levers do lune et ces eouchors de so » h il , on comprend alors les gémissements d ' Israël .Sous Hoboam , fils do Salomon , Sciscafc , roi d ' tègyto , monte à Jérusalem et s ' empare des trésors do la maison do l ' éternel .",
+        "words": [
+          "parfumées",
+          "haleines parfumées",
+          "Nil",
+          "hamps en"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c8643417-cf97-576d-90e6-b11472cc7d1c",
+        "value": "— A force de flairer de ci , de là , nous découvrons que la puanteur vient du fond de cale .On se glisse dans cet antre , et l ' on y trouve un di mi pied d ' eau corrompue , de limon fétide , d ' ordures en décomposition .Nos trois lames de la cataracte séjournent là .",
+        "words": [
+          "fétide",
+          "antre",
+          "limon",
+          "eau corrompue",
+          "ordures en"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/ccf8cd69-e948-5fe6-993a-5597a9c7aaf0",
+        "value": "Elles jettent toutes leur image dans les eaux ; quelques - unes , plus élincelantes , laissent tomber une longue traînée de lumière sur la nappe tranquille .Ces nuits ainsi désassombries , avec le parfum du douhra fraîcheH .8 III LE scitADOurr .",
+        "words": [
+          "parfum",
+          "douhra",
+          "Ces nuits ainsi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/d0388dd7-cd16-59ff-ae8d-bfb03e13e439",
+        "value": "261 plus mauvais .Nous dormons fenêtres ouvertes , un grand plat de chlore dans l ' appartement ; la pestilentielle odeur n ' en est pas vaincue .— Que faire ? ceci compromet autant nos santés que notre odorat .",
+        "words": [
+          "odeur",
+          "Nous",
+          "pestilentielle",
+          "appartement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/dca4ec72-13fa-50c8-a2d1-55858afe35c9",
+        "value": "voyais nos tailles européennes qu ' avec une stupéfaction mêlée d ' horreur , de même ici , je me surprends à regarder nos visages pâles avec une sorte d ' étonnement mêlé de répulsion .Nous achetons des cannes à sucre , nous les coupons , nous les suçons , et nous les trouvons passablement nauséabondes .Nous achetons des bananes ; leur parfum est suave ; nous les pelons , nous les mangeons .",
+        "words": [
+          "nous",
+          "nauséabondes",
+          "cannes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/df3eaf5d-dc26-53f1-ab65-e136524c6c25",
+        "value": "Va , heureuse année ; année do 4847 , la plus bénie entre celles qui nous ont été accordées ; année de paix , do vie naturelle ! Bel hiver où les frimats nous enfermaient tous deux dans notre Valleyresaimé ; bel L * rSIVIKt JOLI 011 L ' AN .117 hiver où nous foulions la neige éblouissante le long du ruisseau dont les ondes , soûles vivantes , couraient sous les portiques do glace que leur formaient les aunes et les saules ; bel hiver aux longues jour * nées laborieuses , aux douces soirées solitaires , aux plaisirs simple / » : des mésanges nourries sur la fenêtre , un livre nouveau qu ' apportait lo courrier , une petite réunion d ' amis qui avaient bravé la froidure pour arriver & nous ; le jour , un feu clair dans notre salon , et le soir , la douco clarté de notro lampel Va , beau printemps , tiède haleine d ' avril , enivrement à la premièro fleur ; tapis de violettes parfumées , chanson printaunière du merle dans lo bois de chênes encore dépouillé ; buissons d ' épine blanche le long du ruisseau , renoncules qui vous pressiez vers son cours , éblouissantes guirlandes des pommiers en fleurs , courses immenses dans les forêts de sapins , dans la montagne , boisseaux de muguets rapportés en Momphe , résurrection , miracles du beau printemps , splendeur do félicité , adieul Ce matin , nous avons d ' un même coeur remis à Dieu nos destinées .Seigneur , tu sais ce que 4848 renferme ; Seigneur , si tu lo veux , conserve - nous l ' un à l ' autre I Conserve - nous ceux que nous aimons t Biais avant tout j Seigneur , que nous te servions , qu ' ils te scr - ISS L * m * lM JOil M L ' A » .",
+        "words": [
+          "nous",
+          "parfumées",
+          "violettes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/e1d3c08e-425c-5bcb-829e-375d0284ca7d",
+        "value": "Nous achetons des cannes à sucre , nous les coupons , nous les suçons , et nous les trouvons passablement nauséabondes .Nous achetons des bananes ; leur parfum est suave ; nous les pelons , nous les mangeons ..",
+        "words": [
+          "suave",
+          "parfum",
+          "leur",
+          "Nous",
+          "bananes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/e2fa18f6-89a7-5426-bf11-74cabf0c6ddb",
+        "value": "- - Les admirateurs passionnés de l ' antique Egypte ne veulent voir qu ' une mesure de police sanitaire dans ce signe d ' idolâtrie : la momification des bêles .Les prêtres embaumaient , dit - on , les animaux , pour obvier à la décomposition des corps , funeste sous ce climat brûlant .— Mais n ' était il pas bien plus simple , bien moins coûteux de les ensevelir ? Et puis on a trouvé des momies de singes , de loups , de chats , de crocodiles ; pas une appartenant au gros bétail : quelques rares têtes de boeufs sans le corps ; ni buffles , ni chevaux , ni ânes , ni chameaux .",
+        "words": [
+          "embaumaient",
+          "prêtres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/eb730ae8-1b9f-5f47-a2fa-acc0e6e52f05",
+        "value": "— J ' écris au milieu d ' un nuage d ' encens .— Avant - hier , des exhalaisons méphitiques ont rempli notre cabine , nous n ' avons pu fermer l ' oeil ; c ' était l ' aigre odeur d ' une basse - cour ou d ' une écurie à porcs .Le matin , recherche générale .",
+        "words": [
+          "aigre",
+          "odeur",
+          "nous",
+          "exhalaisons",
+          "méphitiques",
+          "cabine",
+          "Avant - hier",
+          "écurie à"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/f68acbc8-7cf4-56e8-a24f-3c8c749cf88d",
+        "value": "— Que faire ? ceci compromet autant nos santés que notre odorat .Les fièvres pernicieuses des marais ne proviennent pas d ' une autre cause : de l ' eau croupissante , des matières animales ou végétales en putréfaction .— Enfin , une idée lumineuse traverse l ' esprit d ' Antonio .",
+        "words": [
+          "matières",
+          "pernicieuses",
+          "fièvres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/fb008a20-5959-5a33-bd24-ddd0ad3e84a6",
+        "value": "Au Grindelwald encore , les aulnes trempent ' leurs pieds dans l ' eau que leur verse à quelques pas les urnes du glacier ; les chèvres quittent l ' herbe pour rafraîchir leur museau dans la neige .— Ici , d ' un côté , désolation : pas un oiseau , pas un insecte , pas un arbuste , pas même une seule de ces plantes épineuses qui croissent dans les sols arides ; de l ' autre , tout ce que la main de Dieu peut répandre de parfums et de fraîcheur .Voici un petil lac entouré de palmiers dont l ' image tremble un peu sur la surface ridée .",
+        "words": [
+          "parfums",
+          "arbuste",
+          "plantes épineuses"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/365bcbb9-e87d-5627-9d40-6d7820b180b8",
+        "label": "Valérie de  Gasparin"
+      }
+    ],
+    "label": "Journal d'un voyage au Levant. L'Égypte et la Nubie / par l'auteur du \"Mariage au point de vue chrétien\" [Ctesse A. de Gasparin]...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5802005m",
+    "date": "1848",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/96679562-28c0-5055-b617-719bef45e0de",
+      "label": "1848",
+      "begin": "1848",
+      "end": "1848"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "https://sws.geonames.org/934169/",
+      "label": "Plaine Magnien"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/1a927316-2fdd-56c3-916a-f9db05ca1f00/fragment/c7d60e24-4828-57e8-8cb2-5c08a3dd2fe5",
+  "license": "Public domain"
+}

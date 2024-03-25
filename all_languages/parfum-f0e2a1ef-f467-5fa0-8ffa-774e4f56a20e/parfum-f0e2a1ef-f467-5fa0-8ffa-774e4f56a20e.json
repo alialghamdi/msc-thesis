@@ -1,0 +1,122 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f0e2a1ef-f467-5fa0-8ffa-774e4f56a20e",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/0f5701b3-2c43-565a-ab95-595d7e352daf",
+        "value": "« Le cardinal de Vitry , dit Hélyot , a voulu sans doute parler des religieuses de l ' Hôtel - Dieu , lorsqu ' il dit qu ' il y en avait qui , se faisant violence , souffraient avec joie et sans répugnance l ' aspect hideux de toutes les misères humaines , et qu ' il lui semblait qu ' aucun genre de pénitence ne pouvait être comparé à cette espèce de martyre .« Il n ' y a personne , continue l ' auteur que nous citons , qui , en voyant les religieuses de l ' Hôtel - Dieu non - seule - ment panser , nettoyer les malades , faire leurs lits , mais encore , au plus fort de l ' hiver , casser la glace de la rivière qui passe au milieu de cet hôpital , et y entrer jusqu ' à la moitié du corps pour laver leur linge plein d ' ordures et de vilenies , ne les regarde comme autant de saintes victimes qui , par un excès d ' amour et de charité pour secourir leur prochain , courent volontiers a la mort qu ' elles affrontent , pour ainsi dire , au milieu de tant de puanteur et d ' infection causées par le grand nombre de malades .t ) Nous ne doutons point des vertus qu ' inspire la philosophie ; mais elles seront encore bien plus frappantes pour le vulgaire , ces vertus , quand la philosophie nous aura montré de pareils dévouements .",
+        "words": [
+          "puanteur",
+          "nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/550adceb-f183-5084-84a2-8a666083e67c",
+        "value": "y avait puisé à pleines coupes , en bénissant la divine liqueur .; maintenant que dans l ' amphore épuisée il n ' y a plus que l odeur et la lie , eh bien ! Théodore n ' en demande pas davantage .— Et quel parti il a tiré de la lie charmante de son imagination aux abois ! * Ce soir - la il voulut gravir avec moi la douce petite colline d ' Heidelberg .",
+        "words": [
+          "odeur",
+          "lie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/60421eb1-199b-5b03-9f3c-f19990ff3c19",
+        "value": "11 est impossible de n ' être pas profondément ému , de n ' être pas saisi d ' un respect religieux , à la vue de cet humble tombeau , dont la possession a été plus disputée que celle des plus beaux trônes de la terre ; de ce tombeau dont la puissance survit aux empires , qui fut couvert tant de fois des larmes du repentir et de l ' espérance , et d ' où s ' élève chaque jour vers le ciel l ' expression la plus ardente de la prière .On est dans ce tabernacle mystérieux , devant cet autel de parfums , dont on vous entretient dès l ' enfance .Voilà la pierre promise par les prophètes , gardée par les anges , , devant laquelle s ' inclinèrent et le front couronné de Constantin , et le casque brillant de Tancrède ; il semble enfin que les regards de l ' Éternel soient plus spécialement attachés sur ce monument , gage sacré du pardon et de la rédemption des hommes .",
+        "words": [
+          "parfums",
+          "vous",
+          "autel",
+          "tabernacle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/76dbabf6-a078-5b54-912e-bcedc6fa7d99",
+        "value": ".» Hé bien ! qu ' une minute seulement je voie cette tête se pen » cher sur ce bras qui tremble , et ces yeux si doux se lever vers » les miens sans crainte et sans colère ! Qu ' une fois seulement je » sente la pression frémissante de tes lèvres ! — Ou si une telle » faveur est trop pour moi , que je respire ainsi leur souffle » parfumé ! Oh 1 ne te recule pas ainsi ! — Un regard , — un mot , » — un mot de bonté , — et je pars .Déjà , — vois , — mes ailes J ) s ' agitent , aspirant après les sphères célestes .",
+        "words": "parfumé"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/7dad3ee1-a45f-5ef2-92cb-17bae84df143",
+        "value": "Le salon de musique a quatre tribunes exhaussées et un bassin d ' albâtre .On voit dans le cabinet où la reine faisait sa toilette , une dalle de marbre , percée d ' une infinité de petites ouvertures destinées a laisser exhaler l ' odeur des parfums qu ' on y brûlait sans cesse .La plupart de ces pièces sont voûtées , et leurs voûtes sont souvent découpées avec une hardiesse et une délicatesse infinies .",
+        "words": [
+          "odeur",
+          "parfums",
+          "sans cesse",
+          "le cabinet où"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/923b6055-cff1-57db-9fbc-9ef4af61dcf0",
+        "value": "Saurais - tu me dire qui est cet homme couché sur le champ de bataille , et les mains jointes , dans lamort ? En voici un qui va à cheval et les montagnes s ' abaissent sous les pas de son cheval , Je vois passer le convoi d ' un pauvre laboureur qui s ' en va au champ de repos porté par ses frères .Plus loin r loin de l ' église du village , s ' illumine la haute cathédrale , les arceaux brillent à la lueur des cierges , la sainte église se remplit dé bruit et de parfums .Où suis - je ? Ce même homme qui , tout à l ' heure , gravissait à cheval les sommets les plus escarpés , le voilà maintenant , assis sur le chemin r l ' œil sombre et la tête baissée , qui rêve tristement à ses profondes destinées .",
+        "words": [
+          "parfums",
+          "église du village",
+          "haute cathédrale",
+          "sainte église"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/aed84892-8df5-50cc-bffd-dbb7f969cafd",
+        "value": "— Elle m ' aimait , cependant , elle m ' aimait de toutes les forces de son âme : mais ce n ' était pas comme homme , comme mortel ; — non , son ardeur n ' avait rien de terrestre .— Elle m ' aimait comme un de ces êtres de la race des anges , un des habitants de ce séjour radieux que souvent elle avait vu dans ses rêves ; — de ce Ciel auquel le matin étaient adressées ses prières , et dont le soir elle contemplait la lumière , aspirant après des ailes qui pussent l ' enlever , de ce monde de ténèbres , vers cet élément libre et glorieux ! Je me souviens qu ' un soir , assise à mes côtés près du rivage , tournant ses yeux vers l ' étoile qui apparaissait a l ' horizon , et semblait , à cette heure chaste et silencieuse , sortir de sa couche nuptiale , Léa me dit : a Oh ! que ne suis - je l ' esprit de » cette étoile brillante ! Que ne m ' est - il donné de demeurer là , » seule et dans une pureté éternelle , comme sont les Esprits de / 1 ces astres qui brillent au ciel ; ma seule destination étant de » prier et de resplendir , d ' allumer mon encensoir aux feux du » soleil , et d ' en diriger l ' ardent parfum vers le trône de Celui » qui est au Ciel , vers le trône de l ' Éternel ! » Ce fut une jeune fille si innocente , si pure , d ' âme et de corps , de toute souillure mortelle , que mon crime , — que ma destinée fut d ' aimer .Je brûlai pour elle d ' une flamme auprès de laquelle pâliraient les feux les plus ardents de la terre .",
+        "words": "ardent parfum"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/b91a7e96-dc8f-53a8-af37-bcce3abbebf9",
+        "value": "Là , des eaux vives et jaillissantes forment , au milieu des appartements , des cascades d ' argent liquide , vont remplir des canaux de jaspe , et serpentent dans les galeries .Partout le doux parfum des fleurs se mêle à celui des aromates qui , brûlant toujours dans les souterrains , s ' exhalent du pied des colonnes , et viennent embaumer l ' air qu ' on respire .Des jours ménagés sur la ville , sur les bords enchantés des deux fleuves , sur les montagnes de neige , présentent à l ' œil étonné des tableaux variés sans cesse .",
+        "words": [
+          "fleurs",
+          "air",
+          "aromates",
+          "embaumer",
+          "celui",
+          "exhalent",
+          "doux parfum",
+          "souterrains",
+          "respire",
+          "colonnes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/df5e4cf5-f3e3-57ce-a632-224a59c0dc10",
+        "value": "Voyez ici réunies la nature humaine religieuse et la nature humaine impie , et jugez - les .La sœur - grise ne renfermait pas toujours ses vertus , ainsi que les filles de l ' Hôtel - Dieu , dans l ' intérieur d ' un lieu pestiféré ; elle les répandait au dehors comme un parfum dans les campagnes ; elle allait chercher le cultivateur infirme dans sa chaumière .Qu ' il était touchant de voir une femme , jeune , belle et compatissante , exercer au nom de Dieu , près de l ' homme rustique , la profession de médecin ! on nous montrait dernièrement , près d ' un moulin , sous des saules , dans une prairie , une petite maison qu ' avaient occupée trois sœurs - grises .",
+        "words": [
+          "parfum",
+          "' Hôtel - Dieu",
+          "lieu pestiféré"
+        ]
+      }
+    ],
+    "label": "Illustrations : album de gravures par les premiers artistes de France, avec des textes, pièces de vers, nouvelles, etc. 1 / par MM. de Chateaubriand, Béranger, V. Hugo, J. Janin... [et al.]",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9781307z",
+    "date": "1838/1839",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/accae88a-1997-565a-9789-57a10ea3be25",
+      "label": "1838/1839",
+      "begin": "1838",
+      "end": "1839"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/c482dda4-f739-5ae1-ba76-a95b6138ae6f",
+      "label": "lieu pestiféré"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pride",
+      "label": "pride"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/471604bd-661d-5906-b290-c99e807a8581/fragment/df5e4cf5-f3e3-57ce-a632-224a59c0dc10",
+  "license": "Public domain"
+}

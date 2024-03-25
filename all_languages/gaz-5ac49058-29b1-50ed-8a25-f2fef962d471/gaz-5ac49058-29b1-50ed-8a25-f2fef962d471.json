@@ -1,0 +1,674 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/5ac49058-29b1-50ed-8a25-f2fef962d471",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "gaz",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/027de9f5-3297-56e3-a398-6d943a279895",
+        "value": "On prétend que les poêles en fonte ou entôieontrinco ) ) - vénient de donner à t ' air une mauvaise odeur et de le dessécher .L ' odeur de t ' air chau ( M par un métal provient probabtement de Fat - tération qu ' éprouvent tes matières organiques ec suspension dans rair , par fe contact du métal dont la température est souvent très - éievëe , et toujours supérieure , pour ! a même quantité de combusti - hte cansommé , à celle que prennent tes parois d ' un poêle en faïence ou en briques .M est facile de s ' assurât ' qu ' il existe en effet dans t ' air une grande quantité de corps légers , non - seulement par tes dépôts qui se forment sur les surfaces qui restent longtemps immobiles , mais par la vue de cette poussière , quand un rayon solaire pénètre dans une chambre obscure la poussière est alors fortement éctait ' ée , et le seul aspect indique une origine organique .",
+        "words": [
+          "odeur",
+          "matières organiques",
+          "rair"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/08e361b8-ac3a-5c36-9111-c28465075400",
+        "value": "« Avec un renouvellement d ' air de iu mètres cubes par heure , la vitesse du courant a été jSufnsantepoups ' opposer à ! 6diSnsion des odeurs dans t ' enceinte , d ' après te jugement des - personnes douées d ' organes déncats .L ' air qui s ' écotttaitdanste tuyau d ' appet était infect .Lorsque , sans interrompre la ventilation , on ouvrait le couvercle du coifre , une odeur prononcée ne tardait pas à se répandre dans la cellule , et il fallait environ vingt minutes de ventilation au même degré , après avoir fermé le couvercle , pour que l ' odorat ne fût plus aMecté d ' une manière sensible .",
+        "words": [
+          "air",
+          "infect",
+          "tuyau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/0c737576-91df-56de-b6f6-b946f35ba7dd",
+        "value": "C ' est ta ta raison d ' un certain nombre de phénomènes naturels curieux qui fournissent en même tempstà dëmonstràtion du principeénoncé .Tout te monde connaît te fait de ta grotte du Chien , à Pouzzoles , dans laquelle se dégage , à travers le sol et en petites bu ! ! cs , de l ' acide carbonique qoi s ' étend en une nappe asphyxiante ayant , à t ' entrée de la grotte O ' 20au - dessus du sot , et au fond 0 \" , 60 ; au - dessus de cette nappe se trouve de l ' air respirable .Non loin de la grotte du Chien se trouve la grotte d ' Ammoniaque ( GMM ~ e ~ ' a ~ Ke aux eaux ? H ! ' M ~ - a ~ f / M D ' James ) qui est une fosse à peu près carrée d ' un mètre de profondeur , recouverte d ' une voûte de 3 ° ' , 00 de haut du soi se dégage de l ' ammoniaque qui forme une couche d ' un mètre de hauteur environ , surmonteed ' une couche d ' air respitable .",
+        "words": [
+          "asphyxiante",
+          "grotte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/0d5fed80-fc3c-5d01-b455-4bb76ef3c219",
+        "value": "LechauSage a ma ! réussi , du moins pour les cellules du rez - de - chaussée , pour lesquelles t ' air n ' a pas une force ascensionnelle suffisante .La ventilation d ' hiver était faible , celle d ' été était nulle ; il régnait dans cette dernière saison une odeur infecte dans les combles .Mais ce n ' est pas tout , les tuyaux ' de descente , comme je l ' ai dit , plongeaient par leur partie inférieure , et d ' une petite quantité , dans le sable dont on avait rempli en partie les fosses , le son était intercepté , mais la communication des tuyaux avec l ' air des fosses ne rétait point : et comme lés murs et les voûtes des fosses étaient en pierres sèches ~ et que le sot environnant était pm ' méabte a rair , u il s ' ensuit que les tuyaux de descente qui n ' étaient pas fermés à leur partie supérieure étaient réeMement en communication avec l ' air extérieur par l ' intermédiaire des fosses .",
+        "words": [
+          "infecte",
+          "odeur",
+          "combles",
+          "dans cette dernière saison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/1590d35a-8057-5294-93bb-3148b10a123b",
+        "value": "Cette eau provient de la transpiration des assistants et de ta combustion du gaz d ' éclairage .Neumann a constaté que rôdeur de ' t ' ai ~ danslachemiBée était fétide .2666 .",
+        "words": [
+          "fétide",
+          "Neumann",
+          "danslachemiBée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/1817068c-08ba-5eb9-8ccf-13f4348f80dd",
+        "value": "Plusieurs fois cepen - dant un dégagement subit de gaz , ou un air infect et chaud amassé dans la fosse , surprit t ' ouvrier et l ' asphyxia .Ces accidents graves heureusement n ' étaient pas fréquents , mais l ' odeur était souvent détestable , surtout par rabaissement de ta pression atmosphérique .L ' eau ne suffisant pas à l ' assainissement des fosses , il fallait y intro - duire un courant d ' air énergique .",
+        "words": [
+          "odeur",
+          "détestable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/1d3b8445-0f29-5a85-b703-4a2e3bc22434",
+        "value": "Toutefois la ventilation ne fut .pas assez énergique pom - empêcher l ' odeur de certains malades affectés de maladies spéciales de se répandre dans tout le paxiHon et d ' auecte ) - péniMement tout au moins t ' ndorat .Hôpital tWeeher .",
+        "words": [
+          "odeur",
+          "certains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/1ee0cd78-4ab0-517d-b68d-8edfd86385bd",
+        "value": "bords dù tuyau ., On évite aMst te dégagement de t ' air des fossBs mais tes ~ cabineisTesieat infectés par tes matières récentes qui occupent ta partie infériettre des tuyàujf , et it faut , par conséquent , que ces cabinets soient fortement venfités pour faire disparattre toute odeur .2392 .",
+        "words": [
+          "odeur",
+          "matières récentes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/1f450910-39a6-5074-8274-364930b36493",
+        "value": "On a appliqué les mêmes dispositions d ' ensemble a la grande salle à manger , de gala .Seulement au lieu d ' y envoyer par t ' insumation un excès d ' air neuf , on donne au contraire un excès de puissance a l ' appel de manière à éviter la communication des odeurs du dedans de la salle avec te dehors .Les cuisines , les écuries et les ctosets sont ventilés par appel .",
+        "words": [
+          "air",
+          "odeurs",
+          "salle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/20b0b1c8-0623-5999-8575-a657126d8127",
+        "value": "La température intérieure était de i 8 \" le thermomètre extérieHrmarquatt 16 ° , rairétait ~ M ~ peu agité : 1 2381 .L ' appréciation par l ' odeur est trop délicate pour qti ' on puisse regarder ces expériences comme bien concluantes .Celles qui ont été fattes à t ' ancienne Chambre des députés , semblent nécessiter un volume d ' air p ! ua considérable .",
+        "words": [
+          "odeur",
+          "concluantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/2466c8ef-3188-5801-a682-7b67954534f4",
+        "value": ", le renouvettement de l ' air étant toHjour ~ plus que suMsant par les ouvertures aecideniettes , on a seulement prévu des surfaces de chauffe à vapeur pour assurep une température tHodérée ~ que soitTabaissemënt detatempératureextérieure .L ' air vicié de ces grands salons du premier étage est évacué en majeure partie par des bouche ' ! placées au niveau du sol le long des murs et communiquant avec des cheminées méaagëesdanstaconstruction et pourvues d ' héH ~ ~ ~ roduisnitt I ' appél - nécessaire .t : Tne autre partie estévacuée parle haut en mêmeiempsque tesgazchauds et viciésproduits parla combustion dans les lustres ; cette H ' action d ' air vicié va rejoindre dans tes çombtes tes gatnes ou se rend t ' air vicié évacué a la partie inférieure .",
+        "words": [
+          "air",
+          "vicié",
+          "grands salons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/26a5cfdf-6fd8-5b07-9338-9a1ee67195d5",
+        "value": "La bonne tenue des hospices , la propreté qui y règne , signifient peu pour l ' assamissement .etiisttfct d ' être entré le matin dans une salle non ventilée avant l ' ouverture des fenêtres , pour comprendre , à t ' odeur infecte qui vous suffoque comMent ' air qu ' on y respire est malsain ..",
+        "words": [
+          "infecte",
+          "odeur",
+          "air",
+          "vous",
+          "malsain",
+          "salle",
+          "le matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/2bcc62a3-2a65-5419-b30f-94769eab0d53",
+        "value": "Amsi ces ~ poètes sont d ' excettentsappareits de chaunage , mais ils sont insalubres .Les poêles en terre cuite ont tes mêmes avantages , et , de plus , ils n ' ont pas l ' odeur spéciale que prend Ie métatsoumis a une température trop étevée mais ns sont aussi insalubres que les poêles métalliques .Les poêles à alimentation continue sont évidemment dans le même cas .",
+        "words": [
+          "odeur",
+          "spéciale",
+          "métatsoumis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/2d548cea-4665-5ded-b3e6-8230475407c4",
+        "value": "270i .Pour ta table d ' hôte , le restaurant et le caté , l ' action de l ' appel se fait plus énergiquement que celle de l ' introduction , de façon a provoquer une dépression à L ' intérieur de ces locaux et à éviter toute communication d ' odeur du dedans au dehors .L ' air pur , chaud ou frais , arrive dans ces sa ! ! es par des grilles établies , au pourtour , dans ! e parquet ; l ' air vicié est évacué en partie par des bouches placées sur le sol , en partie par d ' autres bouches placées dans b plafond , au - dessus des appareils d ' éclairage .",
+        "words": [
+          "odeur",
+          "restaurant",
+          "locaux",
+          "table d ' hôte",
+          "caté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/33484549-b2bd-593a-9970-3061cd66987b",
+        "value": "2S47 .On prétend que les poêles en fonte ou entôieontrinco ) ) - vénient de donner à t ' air une mauvaise odeur et de le dessécher .L ' odeur de t ' air chau ( M par un métal provient probabtement de Fat - tération qu ' éprouvent tes matières organiques ec suspension dans rair , par fe contact du métal dont la température est souvent très - éievëe , et toujours supérieure , pour ! a même quantité de combusti - hte cansommé , à celle que prennent tes parois d ' un poêle en faïence ou en briques .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/37d0d918-752e-504e-84b7-c610f049e78c",
+        "value": "M est facile de s ' assurât ' qu ' il existe en effet dans t ' air une grande quantité de corps légers , non - seulement par tes dépôts qui se forment sur les surfaces qui restent longtemps immobiles , mais par la vue de cette poussière , quand un rayon solaire pénètre dans une chambre obscure la poussière est alors fortement éctait ' ée , et le seul aspect indique une origine organique .Cependant quelques expérienees sembloruiont indiquer qu & les métaux chauuëa ont une odeur propre .Nous avons étudié n ° t859 les inconvénients propres aux surfaces métalliques chauMées .",
+        "words": [
+          "odeur",
+          "propre",
+          "métaux chauuëa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/41fd7b6d-a7f3-5194-9e48-3fafe82a25ae",
+        "value": "On comprend qu ' en remptaçant un petit foyer a ! a houiMe , par un ou plusieurs becs de gaz , il serait trés - facile d ' utiliser la lumière de ces becs pour Féciairage en même temps que leur chaleur pour échaunér l ' air aspiré , car il suffit pour cela de composer de vitrages une portion des parois de la cheminée d ' évacuation , à la hauteur où cette cheminée renferme îe foyer à becs de gaz dès ! ors , dans Ïes quelques cas qui peuvent se présenter surtout pour ! es maisons d ' éducation , où l ' on a besoin de lumière à proximité d ' une cheminée d ' appel , - la ventilation devient très ' simpte et aussi très - peu coûteuse .ïî y a bien tODgtemps qu * & ! ' Ëco ! e centrate j ' ai fait instaner des lampes pour ôter ! a mauvaise odeur de deux cabinets d ' aisances et dansla deuxième édition de cet ouvrage j ' avais indiqué l ' usage d ' une lampe à double courant d ' air , placée dans une cheminée d ' appel , mais en limitant \" cet usage aux petites ventilations il est évident que la combustion de l ' huile comme celle du gaz , ne produit de t ' enet pour l ' ascension de l ' air qu ' à raison de la chaleur développée et que du moment où cette chaleur doit être tant soit peu considérable , il faut se garder d ' employer un combustible aussi cher que l ' huile ou le gaz , à moins toutefois , qu ' exceptionnellement la position de la cheminée d ' appel ne permette d ' utiliser la lumière produite par tes tampesoutesbecsdegaz .3103 .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "cheminée",
+          "cabinets d ' aisances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/4b644d9b-94bf-5bc1-a2f5-8e4163a322a5",
+        "value": "Cette quantité est suffisante pour renouvëter l ' air de la satte trois fois par heure .Des expériences faites dans ta crèche deBeauvais ont montré qu ' aucune odeur ne se manifeste et que la température y est maintenue constante .30 & 2 .",
+        "words": [
+          "odeur",
+          "crèche deBeauvais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/504d1dae-a89a-50da-babc-1f8318e42b5f",
+        "value": "Lorsque , sans interrompre la ventilation , on ouvrait le couvercle du coifre , une odeur prononcée ne tardait pas à se répandre dans la cellule , et il fallait environ vingt minutes de ventilation au même degré , après avoir fermé le couvercle , pour que l ' odorat ne fût plus aMecté d ' une manière sensible .Nous avons reconnu qu ' il était indispensable que le vase destiné à recevoir les déjections solides contînt 2 à 3 Htres d ' eau les matières excrémentitielles , en tom - bant dans te vase sec , répandent des exhalaisons si fortes , qu ' une vûnti ! ationn ! em & plus activeest .tusttfasaHtepourempéchet ' ta transmission de t ' odecr .",
+        "words": [
+          "exhalaisons",
+          "fortes",
+          "vase",
+          "matières excrémentitielles",
+          "déjections solides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/5123bfbb-1e54-5634-a97d-80f3de6a22df",
+        "value": "jours - îà , les chaises peuvent être placées partout , et cette suspension ne diminue pas sensiblement ta température , comme il est facile dele voir a cause de l ' immense quantité de chaleur renfermée dans les murailles ; je m ' en suis d ' aiHeurs assuré par l ' examen des thermomètres .Par cette méthode , itn ' ya point de ventitation forcM mais j ~ ai reconnu qu ' un jour de grande fête ou t ' ëgtise était remptiè et pouvait contenir environ 2000 personnes , nuUe pari il n ' y avait de mauvaise odeur appréciable ainsi il se faisait une ventilation n & tu - re ! ! e par ! es joints des vitres et par ! es portes qui s ' ouvrent si fréquemment d ' ai ! teurs ta grande masse d ' air renfermée dans t ' égus & concourait à son assainissement pendant ! a durée de l ' office .Ge mode de chauffage permettrait facilement d ' effectuer une ventilation , si .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "air",
+          "appréciable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/55188526-986f-557e-80e5-914fc4699c71",
+        "value": "La prise d ' air devait se faire par un canal souterrain qui devait déboucher sur Ja bergede la Seine .Cette alimentation aurait pu fournir de Fair moins pur que celui que fournissait au Lyrique le square Saint - Jac - ques , surMU ! au moment ces passes eaux et ( tes granaes cnateurs où l ' odeur du fleuve est sensible , mais cette prise d ' air n ' a pas été é exécutéeàcausede ta dépense qu ' e ! ! eaura ' itocca8MBnée .L ' atunen - Mton d ~ t ' aiF a ~ chàuCëE ~ ~ se faisait ' au travers de grMtësptacéo ~ sur tes trottoirs ( ~ eux du passagemtérieurdestm ~ aux voitures de t ' ex - empereur , ta prise d ' air qaifourmssait & t ' en - tréa par te cadre du rideau se taisait dans tes deux cours voisines dé la scène .",
+        "words": [
+          "sensible",
+          "odeur",
+          "square Saint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/58e8e37e-54ee-56a5-bccd-ba38691cc66f",
+        "value": "A cette dose de ventilation , t ' a < : étate de plomb en dissolution , ptacé près du siège , manifestait bientôt la présence de l ' acide suMhydrique oudu sutfhydrate d ' ammooiaque .« Avec un renouvellement d ' air de iu mètres cubes par heure , la vitesse du courant a été jSufnsantepoups ' opposer à ! 6diSnsion des odeurs dans t ' enceinte , d ' après te jugement des - personnes douées d ' organes déncats .L ' air qui s ' écotttaitdanste tuyau d ' appet était infect .",
+        "words": [
+          "odeurs",
+          "enceinte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/59e097b2-e968-5f53-ab32-8f3ff6f716f6",
+        "value": "L ' air s ' écoule ensuite par plusieurs tuyaux ménagés dans l ' épaisseur des murailles et communiquant avec tous les orMces dont nous venons de parter , et arrive dans une t large cheminée , au milieu de laquelle se trouve un foyer alimenté par du coke .La ventilation se règle principalement au moyen d ' un registre vertical ; placé dans te canal qui conduit t ' air froid aux ca - y larifères Le ehauSeur , homme inteMtgent et qui connaît trés - bien l ' appàreil qu ' il est chargé de diriger , m ' a dit qu ' il avait reconnu par expérience la hauteur à laquelle devait être placé ce registre , dans le8di ~ ëntescu ' constances ~ , pourquet ' on nese p ! a ! gn ! tpasd odeurdésagréablë dans la salle qu ' un peu au - dessous de ces limites l ' odeur devenait sensible .Une expérience a été faite à la fin d ' une séance nombreuse , vers quatre heures du soir le volume d ' air froid introduit était de i ° \" , 9 par ' seconde , ou de 6 , 840 mètres cubes par heure ; et , comme la salle renfermait de i , 000 à i , i 00 personnes , la venti ! ation était de 6 à 7 mètres cubes par personne et par heure , du moins en n ' ayant égard qu ' à l ' air fourni par les calorifères .",
+        "words": [
+          "sensible",
+          "odeur",
+          "salle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/5b8e9bb1-2518-55a1-9390-af75d996c468",
+        "value": "L ' air qui s ' écotttaitdanste tuyau d ' appet était infect .Lorsque , sans interrompre la ventilation , on ouvrait le couvercle du coifre , une odeur prononcée ne tardait pas à se répandre dans la cellule , et il fallait environ vingt minutes de ventilation au même degré , après avoir fermé le couvercle , pour que l ' odorat ne fût plus aMecté d ' une manière sensible .Nous avons reconnu qu ' il était indispensable que le vase destiné à recevoir les déjections solides contînt 2 à 3 Htres d ' eau les matières excrémentitielles , en tom - bant dans te vase sec , répandent des exhalaisons si fortes , qu ' une vûnti ! ationn ! em & plus activeest .",
+        "words": [
+          "sensible",
+          "odeur",
+          "odorat",
+          "prononcée",
+          "cellule"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/61d924c2-6c25-5a36-82be-1ac9399e8daa",
+        "value": "Expulsion de ~ oa ~ M ) ' .« Les expériences répétées ont démontré qu ' avec les dispositions adoptées , & mètres cubes d ' air par heure étaient insuffisants pour maintenir t ' atmosphère de la celtule exempte d ' odeur désagréable .A cette dose de ventilation , t ' a < : étate de plomb en dissolution , ptacé près du siège , manifestait bientôt la présence de l ' acide suMhydrique oudu sutfhydrate d ' ammooiaque .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "atmosphère",
+          "celtule"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/64b7f0a7-a68f-5236-ad7a-360a5eb5ddca",
+        "value": "En ce qui concerne l ' acide carbonique et la vapeur d ' eau , s ' ils étaient seuls , on pourrait arriver pour le premier à une proportion de quelques centièmes , pour la seconda à la saturation , smsqu ' H en résuH & t d ' inconvénients sérieux ; mais ces gaz sont , comme nous l ' avons dit , jaccompagnés de matières organiques qui fermentent et s ' ait6rent d ' autant plus rapidement que ! a température de la salle est plus étevée , et c ' est là surtout l ' élément dont il y a lieu de tenir compte , et c ' est aussi celui sur lequel on n ' a aucune donnée précise .La proportion d ' acide carbonique qui accompagne toujours celle des matières organiques et qui doit lui être sensiblement proportionnelle , si l ' on considère des individus à l ' état sain , pourra être prise pour mesure de celles - ci , et on pourra déterminer une limite de la quantité d ' acide carbonique que l ' on ne devra pas dépasser dans l ' air respirable mais , ici encore , it y aura tien de distinguersuivant que la salle sera ou - non ventilée ; ! a fermentation et t ' altëration des matières organiques est non - setuement une question de température , mais encore une question de temps , et si l ' on suppose une salle sans ventilation dans laquelle , par un séjour plus ou moins prolongé , l ' air arrive obtenir cette limite , t ' air qu ' on y respirera après une longue durée de séjour sera certainement plus malsain que celui d ' une satte plus petite , mais ventilée , dans laquelle te renouvellement do l ' air convenablement effectué n ' aura laissé séjourner les miasmes que pendant un temps relativement court disons qu ' il y a là un élément dont il est à peu près impossible de tenir compte , mais qui suffit pour montrer que la limite à laquelle on peut s ' élever dans le cas d ' une ventilation active est plus élevée que celle qu ' on doit prendre dans le cas d ' une salle non ventilée .A cet égard , it est ce - pendant un moyen qui peut servir de guide c ' est t ' odeurque prend t ' airdansunc saHc où ont séjourné une ou plusieurs personnes apt ' cs un certain temps ; est important de ne pas laisser produire cette odeMr .",
+        "words": [
+          "miasmes",
+          "malsain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/65dfa53f-36d2-52fb-88bf-ed4668f4fe45",
+        "value": "Deconchy , architecte , comprend un certain nombre de classes situées au rez - de - chaussée et au premier étage elles doivent être toutes indépendantes au point de vue du chauffage et de la ventilation .Pour répondre & cette condition chaque salle a été munie d ' une cheminée de ventilation qui monte depuis le sol de la salle jusqu ' au faite du bâtiment ; deux gatnes horizontales ont été étaNies en saillie de 0 ° * , iS sur le mur de chaque côté de la salle ; ces gaines ont 0 \" , 80 de hauteur au - dessus du sol elles se rendent dans la cheminée de ventitatibn de ta salle par des con - duitspass - ant dans t ' épaisseur dtrptjMcher ta ~ ce antérieure de ces games est en tôle perforée de sorte que l ' air vicié est pris dans toute la longueur de la salle et sur tes deux côtés .L ' appet est produit dans la cheminée soit par te tuyau de fumée en hiver , soit par quelques becs de gaz dans les saisons mixteset en été .",
+        "words": [
+          "salle",
+          "vicié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/68e21d04-d076-50fc-b42d-b3f392d75b37",
+        "value": "La température , a ta partie supérieure de l ' amphithéâtre , a toujours été de ~ O \" , et de 19 ° à i8 ° , S à la partie inférieure .L ' air n ' avait aucune odeur désagréable .En tenant fermé un des orifices d ' accès de l ' air dans le foyer , la vitesse dans les autres n ' a pas changé .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/6e94e415-b646-5d28-99d6-03a6949b6caa",
+        "value": "Quant a ta dessiccation de t ' ait ' , on n ' a jamais fait aucune e ~ pé - rience exact & à ce sujet mais tout te monde sait que t ' en est dans ` l ' usage de mettre sur les poètes en fonte des vases pleins d ' eau , pour } fournir de ta vapeur à t ' air , et que tes poètes en faïence rendent cette précaution moins nécessaire .Chacun a pu observer que les poètes 1 en fonte , indépendamment de l ' odeur qu ' ils donnent à t ' air , provo - quent des maux de tête , quand on n ' eumtoie pas le moyen que nous venons d ' indiquer pour saturer t ' air d ' humidité .Mais la dessiccation de l ' air par les poètes métalliques n ' est qu ' apparente l ' air ne parait plus sec que parce qu ' étant plus cttaud , il peut dissoudre plus de vapeur , et par conséquent qu ' tt est d ' autant plus éloigné du termf de saturation qu ' il est à unetempératureptusétevëe .",
+        "words": [
+          "odeur",
+          "air",
+          "poètes 1 en fonte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/7058c426-9d46-571c-9134-3192a9393dac",
+        "value": "Mais l ' homme , par son organisation , agit encore d ' une autre manière pour vicier ! ' air qui t ' environne c ' est par la transpiration pulmonaire et cutanée .Les vapeurs qu ' il émet se dissolvent dans ra ! r ; comme eues sont toujours accompagnées de matières organiques , Qttes lui communiquent une mauvaise odeur , et ces matières sont , sansattcundoute , ta cause la plus puissante d ' insalubrité des lieux habités ; car , dans certains cas , où l ' air des pièces qui renferment un grand nombre d ' individus affecte péniblement la respiration , on ne trouve pas dans sa composition un accroissement d ' acide carbonique qui puisse expliquer la différence d ' effet produit par cet air et par l ' air pur .D ' après cela , it est plus convenable de prendre , pour la dose d ' air à fournir par individu et par heure , te volume nécessaire pour dissoudre la vapeur d ' eau résultant de ta transpiration .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "air",
+          "il",
+          "matières organiques",
+          "eues",
+          "ces matières",
+          "Qttes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/75f1115f-d000-5545-aaaf-ebdc85c6ea0c",
+        "value": "Ce calcul suppose que toute la chaleur du gaz serait utitiséepart ' appareit ~ ta depense ~ s serait moiudre si - on employait - ta houille et se trouverait réduite au tiers environ la solution du problème serait peut - être obtenue par l ' emploi d ' appareils analogues a ceux que nous avons décrits ( 2000 et suivants ) , mais encombinant leur emploi avec celui d ' un récupérateur de chaleur analogue aux appareils Siemens de façon à diminuer la dépense d ' une façon notable , 3063 .C ' est une considération du même ordre qui a fait installer en Angleterre et en Allemagne des procédés pour la désinfection par Pair chaud des objets , vêtements , literies , etc ., ayant servi aux personnes atteintes de maladies contagieuses .",
+        "words": [
+          "Angleterre",
+          "objets",
+          "vêtements",
+          "désinfection",
+          "Allemagne",
+          "literies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/7cc5faac-178c-5673-9610-63c4eb79187f",
+        "value": "A cet égard , it est ce - pendant un moyen qui peut servir de guide c ' est t ' odeurque prend t ' airdansunc saHc où ont séjourné une ou plusieurs personnes apt ' cs un certain temps ; est important de ne pas laisser produire cette odeMr .Or ! a quantité - d ' acide carbom ~ ~ seproduitestvariaMeavectescoTtditionsdei ' ohserv & tion ainsi , d ' après M ~ de Cltaumont , cette odeur se produirait lorsque ! a proportion d ' acide carbonique dans ! ' air est de 0 , 0008 en volume , M .Pettenkofer .",
+        "words": [
+          "odeur",
+          "air",
+          "acide",
+          "M ~ de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/84240b23-70d9-5b9c-8c27-b07484e8abed",
+        "value": "Les conduits vont tous se réunir à la cheminée d ' appet de la manière indiquée ( / 686 ) .0 , bassin hémisphénque en foute ~ rempli d ' eau , recevant tes tuyauxdéchutedessiégesd ' a ! sances ; eebassinforB } ant8ip ! ! onéstdf8tue à empêcher que t ' odeur de la fosse ne remonte dans tes cabinets .R , R , cuvettes ett fonte êmait ! é & .",
+        "words": [
+          "odeur",
+          "fosse",
+          "cabinets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/887dbea5-c0d5-5840-8e1f-25b78bebca15",
+        "value": "Je dois dire cependant que M .Leblanc n ' a pas observé cette mauvaise odeur .23S3 .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "Leblanc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/8a4f8774-0e5a-5581-bceb-7fceb65142c1",
+        "value": "On a parfois , dans l ' appel , puisé l ' air dans les caves pour l ' avoir frais , mais cette fraîcheur des caves ne peut se maintenir longtemps d ' ailleurs cet air habitueUement ne serait pas pur , sartouts ' ifétaitpris dans les caves d ' un hôpital .H a d ' ailleurs presque toujours une odeur désagréabte qui achève d ' en justifier te rejet .Prendre t ' air à une grande hauteur est tacite et ne coûte rieo en construction , si t ' en doit élever un clocher dans t ' édincë .",
+        "words": [
+          "odeur",
+          "presque toujours",
+          "H",
+          "désagréabte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/8ad40769-034c-5efc-be2b-54dcb46d9af9",
+        "value": "il faut que ta tetnpf rature ~ it « cnsiMcmcnt .la même dans toutes tes parties de t ' amphithéatre , an bas et au sommer ; de plus , il importait d ' extrair & ~ sans gêner t ' audM ~ une - clttttnt : it ~ cir ~ if - stûfsaitte : pottrentever toute émanation désagréabte .« Pour y parvenir , M .",
+        "words": [
+          "émanation",
+          "désagréabte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/8d4d047c-8bdf-53b3-b903-bd83986f589a",
+        "value": "23S6 .Enfin , on a reconnu que , dans les hôpitaux , les salles de chirurgie né pouvaient être assainies et dépouittées de toute mauvaise odeur , qu ' avec une ventilation de près de 100 mètres cnbes d ' air par individu et par heure .2337 .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "les hôpitaux",
+          "salles de chirurgie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/8fe30bb5-ea2c-501b-8a38-3700fd33f8fa",
+        "value": "Ce procédé a ' ' té etn - ployé par M .Ytcxers de Manchester pour detrutre fes odeurs nauséabondes produites dansia fabrication detagé ! atiM ; les chaudières dans JesqueHes ies os ou autres matières sont soumises à i ' ébutiition , sont fermées sauf une ouverture ~ par ~ les - vapeurs rendente dans un conduit qui ! es dirige dans cehu des nammes du foyer .On peut faire aussUmverseraaxgazun ioyer de co ! : e ; c ' est ce qui a été fait à Menecambe , près de Lancaster , dans une fabrique de gétatme et à ! stington ~ , chez M .",
+        "words": [
+          "matières",
+          "odeurs",
+          "nauséabondes",
+          "ies",
+          "Ytcxers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/9bc53f12-9b25-58ff-b5a1-a7290ac16c0d",
+        "value": "ïf est presque toujours moins salubre , et il présente le danger spécia ! de l ' explosion et de l ' asphyxie , aussi n ' est - ce point un chàuHage à recommander d ' une façon générate .n est surtout nécessaire d ' insister sur ce point qu ' it serait absolument inexact de penser que le gaz peut être brMe sans inconvénient en rejetant les produits de la combustion dans l ' air même de la pièce parce que ces produits sont invisibles et sans odeur quand la com - bastion est complète .Aussi faut - il proscrire absolument cet usage que l ' on tend à adopter de chauCer au moyen d ' appareils à gaz des pièces sans cheminées , en rejetant les produits de là combustion dans la pièce eHe - meme .",
+        "words": "odeur"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/a161c94c-395b-504b-9efe-455309fa6dd6",
+        "value": "Ce foyer est formé d ' un conre fi ouverture rectangu ! airese plaçant dans la cheminée , ! e fond du coffre est formé par une plaque en laiton ou en cuivre poli , ayant une forme parabotoïde ondutée , tes cotés de ta caisse sont aussi en laiton poli à la partie supérieure et derrière le bord de l ' ouverture se trouve une rampe - a gaz non visible de { ' extérieur le gaz brûle blanc ; ; la réMexion des rayons se fait sur les parois en cuivre poli qui les renvoient dans toutes les directions .Ces foyers ont un aspect triste , et ils répandent toujours une tégère odeur acre et désagréaMe .257i .",
+        "words": [
+          "acre",
+          "odeur",
+          "foyers",
+          "désagréaMe",
+          "tégère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/a8f01093-dd88-5639-b82c-5ae09059e8b6",
+        "value": "3228 .! tnesufutpa8 de se préoccuper de veatiter tes lieux Iiabi - = tés , faut en même temps se préoccuper d ' en diminuer l ' infection en prenanttoutes tes mesures de propreté nêeëssatre ; t ! faut assurer te nettoyage des parquets , des murs avoir des cuisines , des lieux d ' aisances inodores , etc .3229 .",
+        "words": [
+          "inodores",
+          "lieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/ab174f04-98fb-5815-bf5a-b45c4328a564",
+        "value": "poêles en faïence ou en briques ne paraissent pas produire le même effet , ceta tient ace qM ' itsn ' éctMunënt pas t ' ptus , quand on considère ~ ue dans une grande partie de FEuropc , Ott ai ' Kàbitude de se chauffer avec des poètes de fontë , o ~ on peut difficilement croire que leur usage soit réettement insatubre .En résume , je ne regarde pas en généra ! te chauS ~ ge par les surfaces metaMiques comme insalubre si le métal n ' est pas trop échaune il peut devenir incommode , parce que la température du métal est quelquefois tï ' ès * variabte , et il peut donner une odeur désagréable , et dessécher trop fortement t ' air , quand le métal est à une trop haute température mais on peut éviter tous ces inconvénients .comme nous Pavons déjà dit en parlant des calorifères .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "air",
+          "il",
+          "insalubre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/b7e8c3d9-0043-536a-8065-3631392a16a8",
+        "value": "On trouve dans quelques établissements une disposition des tuyaux de communication des cuvettes avec ! es fosses , consistant a prolonger les tuyaux au - dessous de ta voûte de la fosse , et a fixer a ! a partie inférieureune cuvette dont les bords sont plus élevés que tes extrémités des tuyaux .Par cette disposition , aussitôt que la cuvette est remplie , toute communication des cuvettes et des fosses est interceptée par un joint hydraulique et par conséquent les émanations des fosses ne peuvent pas se répandre dans les cabinets , si tes fosses communiquent avec l ' extérieur au moyen d ' une cheminée , et dans le cas où la fosse serait exactement fermée , quand ta diH ' érence des niveaux de l ' extrémité du tube et des bords de ta cuvette est suffisante pour qu ' un excès de pression de 2 ou 3 centi - mètresde mercure ( variations < te pression quise manifestent assez frëquemment ~ c ' est - à - dire de 27 & 40 centimètres d ' eau , ne puisse pas faire descendre te liquide de la cuvette au - dessous des .bords dù tuyau .",
+        "words": [
+          "émanations",
+          "cabinets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/bc8dfd34-4031-5178-8682-2f371d7c423b",
+        "value": "3143 .On peut encore détruire les gaz ou les matières nuisibles au moyen de la chaleur avant de les rejeter dans l ' atmosphère nous avons parlé de ce procédé quand il s ' est agi des miasmes des hôpitaux ce procédé difficile à employer dans ce cas devient souvent facile et économique dans une usiné ou itsufut de mélanger ces gaz avec t ' air brute qui s ' échappe des fourneaux .Ce procédé a ' ' té etn - ployé par M .",
+        "words": [
+          "nous",
+          "miasmes",
+          "hôpitaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/bf99080c-556f-5cb5-86bb-b0e350e1e62c",
+        "value": "il en rësutterait de grandes fuites d ' eau houittante , dont une pat - tic se réduirait immédiatement en vapeur .A ces défectuosités évidentes nous devons en ajouter d ' autres , qui consistent principalement i \" dans la grande pression exercée sur les générateurs , qui , dans certains moments , s ' élève à plus de atmosphères 2 ° dans ta mauvaise répartition des tubes afférents , qui ne distribuent pas uniformément ta chateur dans chaque pièce , ce qui cause , tantôt un excès de chaleur dans une pièce , tandis - - que dans une aut ~ i : va quelquefois absence comptëfe de dogagentent de ehateftt ' 3 \" dans l ' économie niât entendue de t ' empioi de i air chau < fé au contact de ta chandtère et du fourneau pour le cbauM ' age de ! ' bémic ; ' c ! e de ta Chambre des pairs et de la salle du conseil au palais d ' Orsay , qui dégage , comme dans les apparens à ah - chaud , cette odeur insalubre , provoquant actuellement , de la part de MM .les membres de notre Chambre des représentants , des plaintes justes et méritées 4 ° dans l ' absence des dispositions convenables pour interrompre à volonté le chauffage de certaines pièces , saus déranger le chauffage des autres pièces ; S \" enrin , dans le tnauvaiseuetdespoétesaeM chaude , par suite de leur forme tourde et désagréable , et dé fa place qu ' its occupent .",
+        "words": [
+          "odeur",
+          "insalubre",
+          "MM",
+          "Chambre des pairs",
+          "salle du conseil au palais d ' Orsay"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/c2d53e57-a952-542a-a17b-db4b4ae942ca",
+        "value": "L ' appareil se composera donc d ' un foyer et d ' une surface de chauffe placée au - dessus , le tout enfermé dans une enveloppe peu conductrice ouverte à la partie haute pour laisser échapper l ' air chaud qu ' elle contient .H seramuni d ' une ou mieuxdedeuxprisesd ' air extérieur percées sur les faces opposéesdu bâtiment a ta hauteur des planchers et se continuantdirectement à travers leur épaisseur pour les étages supépieuFs ; pourlessattesdurez ~ e - chaussé & les prises d ' air à une certaine hauteur au - dessus du sot pour éviter les odeurs malsaines qui pourraient résulter de l ' air prier au niveau des ruisseaux , etc .Pour enlever l ' air vicié on étabMra des bouches de départ , en aussi grand nombre que possible , communiquant avec une canalisation réservée dans .",
+        "words": [
+          "malsaines",
+          "air",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/c3c4daed-db4d-5428-8bc5-a911af8230de",
+        "value": "la ventitation fut absolument indépendante du chauffage .En février 1877 , alors que la température n ' exigeait pas un chauffage énergique , on pouvait remarquer dans tes sanes de tappet une mauvaise odeur prononcée quoiqu ' on ventitât , alors que dans tes sottes ventitéès par putsibn , t ' odeurétaitabsotumeNtnutte .Ajoutons que tes générateurs a eau chaude ~ ui ~ netMnnent a de deux atmosphères , sont étaMigdansIescavesspuschaque pavillon de matades .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "prononcée",
+          "sottes",
+          "sanes de tappet",
+          "En février 1877"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/cb846de1-fa82-5422-b989-662570db1169",
+        "value": "2350 .Dans une salle d ' école primaire renfermant 180 garçons de 7 à iO ans , chauSëe et ventilée par la disposition qui sera indiquée plus loin , j ' ai toujours reconnu qu ' avec une ventilation de 6 ° \" par enfant et par heure il n ' y avait qu ' une faible odeur dans la salle .M .",
+        "words": [
+          "faible",
+          "odeur",
+          "j",
+          "salle",
+          "une salle d ' école primaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/cbdbf5e0-b155-5f3a-927a-f8d66e71128f",
+        "value": "Dans les expériences que je viens de rapporter , j ' ai eu l ' occasion de constater un fait fort singulier .L ' odeur dans tes cheminées d ' appel était extrêmement désagréable , et cependant l ' air de la salle était sans odeur et les cheminées très - propres .Ce phénomène ne semble pouvoir s ' expliquer que de deux manières I \" en supposant quel ' odeurdè t ' air est augmentée parte mouvement ; 2 \" en admettant que tes matières animâtes en dissolution ou en suspension dans t ' air éprouvent , par leur contact prolongé , une fermentation qui en change la nature .",
+        "words": [
+          "sans",
+          "odeur",
+          "air",
+          "salle",
+          "extrêmement désagréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/cc429b71-4c5a-51d8-82ff-a3b242a1a140",
+        "value": "La théorie qui rattache la production des matadies infectieuses et épidémiques à des germes particuliers à chaque genre de maladie , et qui a pris dans ces derniers temps une grande valeur à la suite des travaux de M .Pasteur , donne un poids considérable à une considération à laquelle on ne s ' est pas peut - être suffisamment arrêté jusqu ' ici Que deviennnent les miasmes des hôpitaux et les germes morbides lorsqu ' ils ont été rejetés dans l ' atmosphère avec l ' air vicié de la ventilation des hôpitaux ? Ces germes ne vont - ils pas servir de véhicule à des maladies qui vont se répandre avec eux sur les populations agglomérées autour des bâtiments hospitaliers ? C ' est en vue d ' éviter cette diffusion du danger que divers inventeurs ont cru devoir proposer des systèmes destinés à porter l ' air vicié des hôpitaux à une température élevée avant de le rejeter dans l ' atmosphère par cette opération , on détruit complétement tes germes qui peuvent se trouver dans l ' air M .Wœstyn a proposé de faire traverser à l ' air vicié une colonne d ' amiante chauffée par des rampes à gaz .",
+        "words": [
+          "miasmes",
+          "morbides",
+          "hôpitaux",
+          "bâtiments hospitaliers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/d642c5c8-63e0-52c9-a442-a833f4f31560",
+        "value": "2346 .L ' homme vicie i ' air qui l ' environne par la respiration et la transpiration , et , dans certaines circonstances , par des émanations méphitiques qui semblent se propager directement à travers l ' air .Pour étudier les conditions de t ' assainissement , il faut connaître le volume d ' air à fournir par heure à chaque individu renfermé dans un espace clos pour que ce lieu soit salubre ; it faut aussi déterminer le volume d ' air nécessaire pour les différents appareils d ' écMrage et ` - leur innuence sur ï ' aHération de ~ ' aif d & ' i ' espace dans lequel - ils brûlent .",
+        "words": [
+          "air",
+          "émanations",
+          "méphitiques",
+          "homme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/d906070f-8e40-52ab-818c-776d2d2d118b",
+        "value": "Dans ces derniers temps , par suite de la substi - tution des citernes étanches aux fosses perméables qui recevaient autrefois les matières fécaies , ia voirie de Montfaucon avaitpris un itumense développement , et plusieurs hectares de terrain étaient transformés en vastes bassins , remplis du liquide fourni par la vi - i dange des fosses d ' aisances .[ j Ces bassins et les terrains avoisinantsaSectés à la dessiccation des matières pâteuses qui étaient extraites des bassins pour être transformées en poudrette , répandaient dans l ' atmosphère des gaz infects , qui , portés par les vents à des distances considérables , < rendaient très - insalubres certains quartiers de Paris et les commu - nes voisines .Cet état , devenu intolérable par suite de l ' extension de la voirie , avait soulevé de vives réclamations , et depuis bien des années on demandait , avec de vives instances , la suppression d ' un établissement si incommode et si insaMre .",
+        "words": [
+          "matières",
+          "atmosphère",
+          "gaz",
+          "infects",
+          "quartiers de Paris",
+          "commu",
+          "nes voisines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/d9b18514-c6a2-572c-a262-9f3cf5bd6b05",
+        "value": "2148 .Les appareits de chauffage au gaz sont tous fondés sur t & même principes a savoir ; brùter te gazntétangé à une quantité d ' air au moins égaie a celle qui est nécessaire il ta combustion complète ( te façon à éviter ainsi un dépôt de noir de fumée sur les surfaces des appareils chauffés et l ' odeur désagréable résultant de tncombustion incomplète , en même temps qu ' on obtient ! a mciHenre utitisatiott .possible dft con ) uusti ! ) ! e .",
+        "words": [
+          "désagréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/df517488-604c-5a1c-912a-9e204e649ee5",
+        "value": "Le bureau était établi sur une estrade , à l ' extrémité opposée , et le grand poète n ' était garni que de très - petites bouches de chaleur , n ' ayant peut - être pas , à elles toutes , un décimètre carré d ' ouverture libre .« Pour échauNer ta salle , le jour de l ' ouverture de la session du conseil , le garçon de bureau avait été obligé de pousser le feu au point de chauSër aurouge jusqu ' aux garnitures en cuivre des bou - chesdo chaleur ; l ' air contenu dans la salle avait une odeur de brûlé fort dësagréaNe , et la chaleur , trop forte près du poê ! e , n ' avait pu parvenir , du c6té oppose , jusqu ' au bureau où siégeait le ïmnistre .Je ~ e plaignis de ~ c ~ m ' ~ nvoya , le - ïendemain , le fumiste du ministère ; je lui Sa augmenter convenablement rouveri ~ e de ! ap ~ d ' air ; et je $ s établir , sur lé devant ~ P ~ ~ 8 ' ' ande bouche de chaleur ayant , autant que je puis m ' en souvenir , 20 décimètres carrés d ' ouverture , c ' est - à - dire environ vingt fois autant de section qu ' en avaient les bouches de chaleur primitives on no toucha pas a t ' armature du poêle , et toute la réparation fut terminée en un jour de travail .",
+        "words": [
+          "odeur",
+          "air",
+          "brûlé",
+          "salle",
+          "fort dësagréaNe",
+          "le jour de l ' ouverture de la session"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/e1d46d06-bd88-5789-b08e-16fafce424f4",
+        "value": "Aussi , dans toutes les saisons , le plus souvent après moins d ' une heure de séjour des enfants , les salles d ' école et les salles d ' asile ont contracté une odeur insupportable .La santé des enfants et celle des maîtres doivent nécessairement souffrir d ' un séjour prolongé , et qui se renouvelle si souvent , dans un air rendu fétide par la respiration et la malpropreté des enfants .L ' assainissement des écoles primaires et des salles d ' asile , par un renouvellement convenable de l ' air , est donc une chose importante , bien digne d ' appeler toute ! a sollicitude des personnes qui , à diuérents titres , participent ou à ïa direction ou à la surveillance de ces étaMissements .",
+        "words": [
+          "fétide",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/e5c3fe0e-d6ff-5a37-9eb2-df2ebfa1f444",
+        "value": "Ces expénenees mettent en ! umièr < * l ' influence de la ventilation natttreHë , mais on sait que celle - ci est inégale et capricieuse , fort variable suivant tadifTérence de tempé - rature entre ! ' exté [ ' ieur et { ' intérieur d ~ une habitation , dtHerence qui est loin d ' être constamment de il ' 2a i3 ' 2 .Les chiffres qui précèdent , obtenus dans des conditions particti - tiéres , ne sauraieNt fournir de règte pour etaMir ta ventilation d ' un appartement compose de p ! usiem ' a pièces dont tes cneminëëssont en communication permanente entre elles par tes joints des portes ; ces cheminées s ' innuëncent réciproquement et on a trop souvent a se ptaindre de t ' odeur de suie qui se répand dans les pièces par tes courants descendants qui s ' etabMssentdana certaines , de ces chemi - nées où il n ' y a pas de feu .C ' est pour obvier à cette incommoditt ' que l ' on place dans les cheminées d ' appartement des trappes que l ' on tient fermées en été aussi bien qu ' en hiver lorsque t ' en ne fait pas de feu mais ces trappes ne ferment pas assez pour empêcher toute communication d ' une pièce à une autre .",
+        "words": [
+          "odeur",
+          "pièces",
+          "appartement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/e5ee2a4a-ad22-51b3-89ba-9b6189a87a73",
+        "value": "A la vérité , on peut renouveler l ' air des salles le matin et entre les classes on peut même , dans les moments de température convenable , ouvrir les fenêtres pendant les classes ; mais ie renouveHement périodique de t ' air , en supposant - qu ' il ait Heu complètement , n ~ est pas sufSsant ; et H est peu de jeursde Fannée , pendant lesquels on puisse maintenir constamment les fenêtres ouvertes , & cause de mille cireonstances , te ! ! es que le bruit extérieur , la pluie , le vent et le froid .Aussi , dans toutes les saisons , le plus souvent après moins d ' une heure de séjour des enfants , les salles d ' école et les salles d ' asile ont contracté une odeur insupportable .La santé des enfants et celle des maîtres doivent nécessairement souffrir d ' un séjour prolongé , et qui se renouvelle si souvent , dans un air rendu fétide par la respiration et la malpropreté des enfants .",
+        "words": [
+          "odeur",
+          "insupportable",
+          "asile",
+          "salles d",
+          "dans toutes les saisons",
+          "après moins d ' une heure de séjour",
+          "salles d ' école"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/e6437b34-952d-5f67-af10-3edb407815c3",
+        "value": "fréquentés que pendant ie jour .Ces circonstances devaient îes rendre très - satubres , beaucoup ptus que nos théâtres fermés quand i ! s ~ e sont pas convenablement ventHés cependant ! a chateur produite par ! e grand nombre des spectateurs portait quelquefois ta température à un degré très - étevé , que l ' on abaissait par des arrosages fréquents , par de l ' eau injectée en pluie tres - nne , et quelquefois même parfumée .2642 .",
+        "words": [
+          "parfumée",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/e9208627-a2b9-533d-b6da-84e65092b695",
+        "value": "Rien d ' installé pour la ventilation ; des classes nombreuses dans lesquelles - un poêle sans envetoppe ~ chauSé au bois , distribue parcimQniëusemént ! a chaleur qui ne devient souvent suffisante , en hiver , que par un calfeutrage absolu des ouvertures et par la présence même des élèves ; pas de vestiaire , les élèves arrivant du dehors par tous les temps , ayant reçu en Mver ia neige ou la pluie , n ' ont d ' autre ressource que de s ' asseoir sur leur vêtement de dessus souvent saturé d ' eau .Qu ' on imagine ce que peut produire d ' accidents de toute espèce cette situation de quarante ou cinquante jeunes gens , enfermés pendant deux heures dans une salle de dimension restreinte , où se répand l ' odeur des vêtements mouillés , où les haleines se mêlent il y a là , encore une fois , une situation à laquelle l ' Administration de rinstruc ~ tion publique a le devoir te plus absolu de remédier ; il serait , en effet , urgent qu ' elle voulût bien profiter des travaux faits à cet égard dans ! es ~ colësprtmaires en les appliquant auxétaMisseme d ' instructionsecondaire .3i05 .",
+        "words": [
+          "odeur",
+          "vêtements",
+          "salle",
+          "pendant deux heures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/f1a882af-25ef-5ff7-bfdf-560aacc5d2d8",
+        "value": "La ventilation étant de 6 mètres cubes par enfant 6t par heure , ta quaat ~ d ' ôxÿgène dispar ~ id ~ dans cettéatmosphèreàétédee , 0046 ; la ~ uaM { té d ' acide carbonique pouvait donc s ' élever au plus à 0 , 0022 ; aucune odeur ne régnait dans t ~ sa ! te ; k ~ esptFation n ' y étattauttement ~ ~ g ~ ià tempëra - ture était de t7 ~ .Le ~ d ' air étant réduit ' par heure à PO ) 65 E par individu , la proportion d ' acide carbonique s ' est élevée à 0 , 00 ~ 7 il tt ' y avait pas d ' odeur sensible .La salle ayant été complétement tërtnëe et ta ventMaM régulière anntiléé , àprés ~ lë ~ méme ïiômbrë ~ d ' heures de séjour que précédemment , la proportion d ' acide carbonique s ' est élevée à 0 , 0087 l ' atmosphère étatt lourde , l ' mstituteur se plaignait de la chalënr , et attendait avec impatience le moment de potivon ' ouvfir ! es fenêtres .",
+        "words": [
+          "sensible",
+          "odeur",
+          "air",
+          "acide carbonique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/f4fbdf66-ccc5-5417-bbd1-4f60d637ec00",
+        "value": "EneSet , la conséquence forcée est l ' évacuation dans ! ' atmosphère de la totalité de l ' air de ventitation saturé des émana - tions des fosses à la prison Mazas , le volume d ' air versé dans une heure par la - cheminée est à peu près de 27 , 000 mètres cubes , et par jour de 688 ~ , 000 .Oh conçoit que , lorsque ! esv ~ raliatteat ta surface du sol cette masse d ' air infect , il en résulte pour le quartier une insalubrité réelle .On peut craindre , en outre , que les tuyaux de descente ne soient obstrués , en tout ou en partie , par les matières , 1 ce qui arrête ou diminue nécessairement la ventilation .",
+        "words": [
+          "air",
+          "infect",
+          "quartier",
+          "réelle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/f53a4ea3-e556-5664-bed2-16e7134e92ae",
+        "value": "A la fin des deux premières expériences , l ' état hygrométrique était égat à t ) , 73 de celui correspondant à la saturation complète ; dans la dernière , it était égal il 0 , 83 .Le matin , l ' odeur était ptus prononcée dans la troisième chambre que dans les autres ; néanmoins on y a séjomtté sans trop de dégoût ni de répugnance .3tl8 .",
+        "words": [
+          "odeur",
+          "chambre",
+          "Le matin",
+          "ptus prononcée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/fc145a84-df98-55b2-a9f1-e8a50856d985",
+        "value": "Cette ventitation avait réussi ailleurs à M .Grouvelle qui en était charge a Lariboisière ainsi que des offices elle a laissé à désirer dans ce cas les lieux d ' aisances ne présentent aucune disposition à recommander ; ils ont été construits dans le système le plus ancien il est difficile de les avoir en état ils ont , dans un certain temps , donné de l ' odeur dans les salles .2970 .",
+        "words": [
+          "odeur",
+          "salles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/fda91fab-ca1b-59a8-9da2-59dcd648f485",
+        "value": "u 2 & 24 .D ~ oM ~ ~ c ~ & y ~ a ~ La ventilationest euectuée avee ~ de l ' air recueini au - dessus dés toits , à me assez grande hauteur dans l ' atmosphère pour qu ' il soit pur de toutes ! es émanations qui se produisent dans un hôpita ! .Le clocher de ta chapelle , par sa hauteur et sa forme , s ' est trouvé parfaitement disposé pource ! a .",
+        "words": [
+          "émanations",
+          "un hôpita"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/db8f887c-0dec-51f5-b4a1-2d81d2aafe41",
+        "label": "Eugène  Péclet"
+      }
+    ],
+    "label": "Traité de la chaleur considérée dans ses applications. Tome 3 / par E. Péclet,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k903328",
+    "date": "1878",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/612",
+      "label": "Gas"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/620",
+      "label": "Material"
+    }
+  ],
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/732bf261-59bc-59b7-a8b8-6d2f16243243",
+      "label": "atmosphère"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f0b0eca2-819c-5c7c-bff5-c56cb20b81d6",
+      "label": "1878",
+      "begin": "1878",
+      "end": "1878"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/10302587/",
+      "label": "Courtyard Marriott Green Commu"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/413f0066-a699-5ca7-9648-8687ba3d66f2",
+      "label": "quartiers de Paris"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/dfc5a387-5b10-58d9-a6cb-c8f7f2950bdf",
+      "label": "nes voisines"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/49f7a04c-7170-5e85-8869-c150a5e12dad/fragment/d906070f-8e40-52ab-818c-776d2d2d118b",
+  "license": "Public domain",
+  "adjective": "infects"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/e6e3538f-b1ec-52cc-9dfc-d5ee8f001606",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/9f9db339-046f-5a5a-8b59-09fd891dd54f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/9f9db339-046f-5a5a-8b59-09fd891dd54f/fragment/0f32f77a-0a76-53e8-a1a7-afe23a31a69e",
+        "value": "Tout à l ' entrée clés premières classes , on avait déposé à babord des cages contenant des milliers de cailles , et à tribord d ' autres cages remplies de tomates .Aussi , dès le lendemain du départ d ' Alexandrie , une forte odeur de guano s ' exhalait de tout ce chargement et vous prenait à la gorge .Cette odeur allait naturellement crescendo , se concentrant à mesure que s ' accumulaient sons les bêtes les foyers d ' émission .",
+        "words": [
+          "Alexandrie",
+          "forte",
+          "odeur",
+          "guano",
+          "dès le lendemain du départ d ' Alexandrie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f9db339-046f-5a5a-8b59-09fd891dd54f/fragment/6aacdae3-18e4-5cba-a125-9113a74a175d",
+        "value": "Cette odeur allait naturellement crescendo , se concentrant à mesure que s ' accumulaient sons les bêtes les foyers d ' émission .Le troisième jour , cette affreuse puanteur , le relent sui generis de toutes ces bestioles , les émanations écoeurantes de ce bateau malpropre , toutes ces ignominies combinées t ' ai - — 146 — saient aux passagers une insupportable situation .Si bien qu ' il était temps d ' arriver à Marseille , car cette saleté et cette pestilence devenaient dangereuses .",
+        "words": [
+          "puanteur",
+          "émanations",
+          "affreuse",
+          "écoeurantes",
+          "relent",
+          "Le",
+          "toutes ces bestioles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f9db339-046f-5a5a-8b59-09fd891dd54f/fragment/d0f216ad-59fe-5e28-9b32-1b0a558bf3d2",
+        "value": "Aussi , dès le lendemain du départ d ' Alexandrie , une forte odeur de guano s ' exhalait de tout ce chargement et vous prenait à la gorge .Cette odeur allait naturellement crescendo , se concentrant à mesure que s ' accumulaient sons les bêtes les foyers d ' émission .Le troisième jour , cette affreuse puanteur , le relent sui generis de toutes ces bestioles , les émanations écoeurantes de ce bateau malpropre , toutes ces ignominies combinées t ' ai - — 146 — saient aux passagers une insupportable situation .",
+        "words": [
+          "odeur",
+          "crescendo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f9db339-046f-5a5a-8b59-09fd891dd54f/fragment/fe405f94-8896-58df-8574-e507e29894b0",
+        "value": "La capitale de l ' Egypte s ' était modernisée : Pour la mettre à la mode européenne , on l ' avait traversée de boulevards aux alignements bêtes et , pour ce faire , on avait éventré ses rues si pittoresquement tortueuses , si intéressantes avec leurs belles mosquées précieusement ouvragées , leurs maisons aux moucharabies discrètes , leurs palais impénétrables , aux jardins — 142 — mystérieux ; on avait bouleversé ses souks si animés , où se pressait une foule de marchands et d ' artisans , trafiquant des riches produits de l ' Egypte et de l ' Asie .Cette ville , qui m ' avait autrefois captivé par sa saisissante originalité , cette rivale des plus merveilleuses cités de l ' Asie , toute pleine encore de glorieux souvenirs , d ' immortelles légendes , « El Masr 1 » ( la Victorieuse ) , capitale de cette terre où de tout temps se sont débattues et dénouées les destinées du Monde , n ' était plus qu ' une ville déchue , un vil bazar moderne , rococo , puant le mauvais lieu , tenant de la station balnéaire à rastaquouères et de la ville nègre .Tout un nouveau quartier s ' élève à présent sur des emplacements arrachés à l ' Esbékié , ce jardin créé par Bona1 Bona1 arabe du Caire .",
+        "words": [
+          "Asie",
+          "puant",
+          "ville",
+          "autrefois",
+          "El"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/beefade6-069e-51ea-a69a-cd1df4805b10",
+        "label": "L de Salma"
+      }
+    ],
+    "label": "Obock, exploration du golfe de Tadjoura, du Gubbet-Kharab et de Bahr-Assal , par L. de Salma",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57809519",
+    "date": "1893",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5de7592d-5d13-5dac-8d5e-348bf33a90b7",
+      "label": "1893",
+      "begin": "1893",
+      "end": "1893"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361058/",
+      "label": "Alexandria"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/fear",
+      "label": "fear"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/9f9db339-046f-5a5a-8b59-09fd891dd54f/fragment/0f32f77a-0a76-53e8-a1a7-afe23a31a69e",
+  "license": "Public domain"
+}

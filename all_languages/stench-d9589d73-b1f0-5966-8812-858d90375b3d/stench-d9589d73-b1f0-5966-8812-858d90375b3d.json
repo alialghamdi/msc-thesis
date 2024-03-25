@@ -1,0 +1,257 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/d9589d73-b1f0-5966-8812-858d90375b3d",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "stench",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/0a5c57cd-1812-52b8-81de-b4cab48366f1",
+        "value": "Many thousand acres abound with cedars of great size and age ; savines and junipers cover cover some of the broAvs .The cedars throAV around a delicious odour .Some of our company , Avhen they wished to Avarm themselves , the air being cold to excess , Avould set fire to the dead trees by kindling a little dry grass , which Avould instantly instantly seize the branches , and soon consume the whole tree .",
+        "words": [
+          "odour",
+          "delicious",
+          "The cedars"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/0eb9992b-908b-53ae-834d-d6b1d6ca3236",
+        "value": "Feiiim stands on the principal canal leading from the Nile to the lake , and is surrounded with cultivated ground , a great part gardens , producing that profusion of roses for which this place was celebrated , and which were distilled into rose - water .The mode of propagating them was by continued layers ; the young twigs thence arising being found to produce the largest and most fragrant flowers .The rosewater rosewater was excellent , and sent to all quarters ; but the cultivation cultivation is now running gradually to decay .",
+        "words": [
+          "fragrant",
+          "flowers",
+          "the young twigs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/1a0ab3f3-ad20-5a27-af4a-9a972b3a5574",
+        "value": "But his taste is poor who would reduce all kinds of picturesque beauty to one - criterion .To me , after being wearied with the sandy dryness of the barren district to the west , the vegetable soil of Rashid , silled with every production necessary for the sustenance , or flattering to the luxury of man , the rice fields covering the superficies with verdure , the orange groves exhaling exhaling aromatic odours , ' the date trees formed into an umbrageous umbrageous roof over the head ; shall I say the mosques and the tombs , which , though wholly incompatible with the rules of architecture , yet grave and simple in the structure , are adapted adapted to fill the mind with pleasing ideas ; and above all , the unruffled weight of waters of the majestic Nile , reluctantly F FROM ALEXANDRIA 34 descending to the sea , where its own vast tide , after pervading and fertilizing so long a tract , is to be lost in the general mass : these objects silled me with ideas , which , if not great or sublime , were certainly among the most soothing and tranquil tranquil that have ever affected my mind .There are some few remains of antiquity in tbe neighbourhood neighbourhood of Rashid , though the city itself be modern .",
+        "words": [
+          "aromatic",
+          "odours",
+          "the orange groves",
+          "the rice fields"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/24aba74f-d357-5a26-aab0-3d0a4f6e3a74",
+        "value": "It has since gradually declined , and is now restricted to the following articles .From Yemen are imported coffee , odours , gems , and several useful drugs .From Surat , and other neighbouring parts of India , muslins and various articles of cotton manufacture , a portion of the spices of Ceylon ; shawls from Cashmir .",
+        "words": [
+          "coffee",
+          "odours",
+          "gems",
+          "several useful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/3a0eb700-e38b-59b8-9a97-02074b149e8b",
+        "value": "AND MINERAL PRODUCTIONS .313 A plant of the same size with the Meluchia , of very dark green , strong smell and taste .It grows in great quantity , and with the natives forms a principal article of food .",
+        "words": [
+          "strong",
+          "smell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/44742ab3-e066-5c68-a4b9-13d28b8b5b2f",
+        "value": "g .species of absynthium , for its odour , and as a remedy : both the last sell to advantage .21 .",
+        "words": [
+          "odour",
+          "its",
+          "species of absynthium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/4591c28b-495d-52c8-9d7b-f0e0c4e13fa4",
+        "value": "No offensive substance remains in the streets twenty - four hours ; ancl even what is left to annoy passengers in London and Paris for months , is there carried away and preserved for burning .The mud of the Nile becomes dry in a very short space of time after the water has left it , except in the canal ( Chalige ) which is indeed not very odoriferous ; but so far from emitting emitting pestilential exhalations , that the Franks who especially dwell close to it , are never infected with the plague , and are in general among the most healthy of the inhabitants of that metropolis .Small - pox .",
+        "words": [
+          "pestilential",
+          "odoriferous",
+          "exhalations",
+          "very odoriferous",
+          "The",
+          "the canal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/481e7cf1-5d46-5f0f-84b9-5e33aec2b04d",
+        "value": "An Arab or Turk having once accorded protection , Avhich he does Avith a kind of distance and hauteur , never afterwards withdraAvs it , and his Avord may be relied on .In visiting , as is well knoAvn , the common but absurd practice , Avhich obtains among ourselves , of urging those to stay longer , of whose company one is already tired , is obviated by the simple simple use of a little scented Avood in a censer .526 COMPARATIVE VIEW OF In their communications every thing tends rather to tranquillize tranquillize the mind , than to excite the passions .",
+        "words": [
+          "scented",
+          "little scented",
+          "Avood",
+          "in a censer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/51bee3d5-6928-5656-a382-49d64c14b14d",
+        "value": "The place is situated in a plain , extending on the north and south as far as the eye can reach ; but bounded by hills to - Avards the east .It has no Avails , and only a part is paved ; but the streets are clean , the air is salubrious , and refreshed by the fragrance of surrounding gardens .Water is scarce .",
+        "words": [
+          "the air",
+          "fragrance",
+          "salubrious",
+          "of surrounding gardens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/5499da45-7d47-5b89-987b-9380b7e83bd6",
+        "value": "the Author indebted to the Chabir , or leader of a caravan , notifies his approach to a town by beat of drum g - - 202 Historie de l ' Afrique of , in his researches - - 102 Carmel , Mount , situation of - 421 Cashes , originally a Mamluk , becomes Chaled ben Walid takes Damascus after a siege of seven months - 454 Chalifat , abuses which originated with the , gradually increasing - 61 in time a Bey - - 57 his degree of authority - - 59 Chalifs , their expedition * * , in Egypt 102 submission to the authority of - 104 — of Kous , his injustice and cruelty 160 — at Beiris , manner in which he re - ceives and treats the principal merchants - - 262 successors of Mohammed , lost their power in the eleventh century century - - 120 note .of Damiatt , his injustice and cruelty 408 Castle in Kahira , built by Yussuf abu Chalige , the , at Kahira - 69 the great stench arising from that canal 72 Moddafar ibn Aiub , vulgar tradi - ibn Menji , canal in Kahira 89 tion concerning the - 84 of Aleppo , remarks on the small Chammari , places where brandy is sold , tax on 64 Chambers , curious , in the caverns of As - siut - - 136 number of prisoners there ; eight only confined for debt ; law re - 6 6pecting debtors - 1 - 475 Charage , the impost so called - 60 [ 4G ] INDEX 602 PAGE PAGE Coal , strata of , near Boyukdori on the shore ofthe Black Sea - 507 Ghasne , private revenue of the Sultan , so termed - - 61 Cobbe , riots frequent among the people of , from inebriation , caused by the li - quor called Merise - 222 for Constantinople , demanded by the Pasha at Kahira , with the answers given to him by the the assembly called Fukkara , or sacred judges ; their decision in the author ' s Beys - - 162 Chatib , of Dar - fur , undertakes the au - thor ' s cause with the Sultan 250 his ill success in the matter - ib .signification of the term Chatib - ib .",
+        "words": [
+          "great",
+          "stench",
+          "from that",
+          "at Kahira"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/5add9329-ee42-5106-9807-690fe8eae5ee",
+        "value": "Many are preserved in cages in the houses of the rich .The women apply the odour extracted from them to add to their personal allurements ; and what is not thus disposed disposed of becomes an article of trade .The lion and leopard , though common in a certain district , are not found near the seat of government .",
+        "words": [
+          "odour",
+          "The women"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/6c7bcd19-eacb-5216-afe7-faa16bf62f0f",
+        "value": "a common idea with the natives .The stink blinds is a frequent expression on coming into a place of fetid odour ; and it may be remarked , that the ordinary maxims of indigence , indigence , are rarely to be entirely disregarded .Whatever miasms however may issue from the canal , they cannot be equally dispersed over the city , as blindness is ; and the Franks , Greeks , and other strangers who reside nearest this depot of impurity , would be most affected if that were the cause .",
+        "words": [
+          "fetid",
+          "odour",
+          "stink",
+          "blinds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/7dd244ea-dff6-580b-8a96-dcd01d1e8f57",
+        "value": "But , not to mention that there is less disposition to fermentation and putrefaction in the atmosphere of Egypt , than in almost any other that I have heard described , Kahira is very far from being impure .No offensive substance remains in the streets twenty - four hours ; ancl even what is left to annoy passengers in London and Paris for months , is there carried away and preserved for burning .The mud of the Nile becomes dry in a very short space of time after the water has left it , except in the canal ( Chalige ) which is indeed not very odoriferous ; but so far from emitting emitting pestilential exhalations , that the Franks who especially dwell close to it , are never infected with the plague , and are in general among the most healthy of the inhabitants of that metropolis .",
+        "words": [
+          "offensive",
+          "in the streets",
+          "passengers",
+          "in London"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/80a1f41c-da6f-59c5-a6e4-115cdb776927",
+        "value": "Hence it may be imagined , that with attention the Egyptians would not suffer more than other nations .Some travellers have thought that the ophthalmic disease in Kahira was occasioned by the fetid exhalations of the Chalige and the drains ; and have even observed , that those who are most severely affected in winter , recover as soon as the water has silled the Chalige and the pools .This is also 366 MEDICAL REMARKS .",
+        "words": [
+          "fetid",
+          "exhalations of the Chalige and the drains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/8419dc38-f01f-533a-9096-489da2920d1b",
+        "value": "613 PAGE Jerusalem PAGE Idols , worshipped by the women of the harem of the sultan of Soudan 350 Jelals , their mode of travelling 201 pay the Muggrebines for their protec - tion or forbearance to plunder them - - ib .carry natron to Egypt for making snuff 205 their device to evade the customary duties on slaves - 262 labor and hazard of their journies great 283 rigid economists - - ib .provide but scantily for their travels 284 articles of commerce brought by them from Egypt to Fur 346 from Dar - fur to Egypt - 348 Jerusalem , journey to - - 401 approach to , and appearance of the city • from an eminence - - 412 mendicants very numerous , religion of Terra - Santa , their trade and manufacture - - 41 3 church of the holy sepulchre in a ruin - ous state - - » • a distinct part of the church allotted for each sect of Christians ib .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/94e367b6-30d5-59d5-b125-6546d1dd78bf",
+        "value": "It .should be observed that the houses of the Europeans are all on the Chalige , the stench of which has been supposed to operate in producing the pestilence , to which that order of men is however the least subject .The mosques in Kahira are computed at more than three hundred ; four or five of them far exceeding the rest in splendor .",
+        "words": [
+          "stench",
+          "in producing the pestilence",
+          "the houses of the Europeans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/986d48d1-fe5e-536a-b363-bfae94dca65b",
+        "value": "They are caught in wicker baskets , and used for food .— The natives have also a way of drying them , but it does not prevent their being so offensive to the smell , as to be useless to any but themselves .Numerous huts built of reeds are found on the bank of the river , as well for the use of the fishermen , as of those who ensnare the ferocious animals that come to drink its waters .",
+        "words": [
+          "them",
+          "smell",
+          "so offensive",
+          "their",
+          "as to be useless to any"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/a03506b8-a4d0-56d2-912f-a13567b1716a",
+        "value": "Corn and lentils also abound .The botanist and florist may find in this part of the mountain mountain full employment , as it is covered Avith innumerable herbs and shrubs , many of them odoriferous , and adorned with flowers of various tints .Myrtle and lavender grow wild in great quantities on the mountain , and the rose of Jericho embellishes the vales and banks of the rivulets .",
+        "words": [
+          "odoriferous",
+          "shrubs",
+          "flowers",
+          "innumerable herbs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/b03bbee2-9248-55cc-b286-48a8a87d5a8a",
+        "value": "It is strong and sharp ; and a formidable instrument of attack .Some fluid exsudes from this bird that smells like musk , but from what part of him I am uncertain .ANIMAL , VEGETABLE , 302 No .",
+        "words": [
+          "smells",
+          "like musk",
+          "this bird"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/c3b9f484-ca4e-529a-859a-42463a6e07e1",
+        "value": "19 .Rhca , a kind of lichen * mixed with myrtle leaves from European Turkey , used to add a flavour to the food , and for an odour .20 .",
+        "words": [
+          "odour",
+          "Rhca",
+          "mixed with myrtle leaves",
+          "a kind of lichen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/cd0bf47c-813a-59da-b919-b69d7bde34bf",
+        "value": "A little after noon they were brought , chained and fettered , into the market - place before one of the entrances of the palace , escorted by a few * It is not usual with Mohammedans to eat meat in such a state .It is reported in Soudan , I know not how truly , that the Leopard , after he has seized his prey , leaves it till it become putrid before he eats of it .■ s DARFUR .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/d970f58b-aa59-5650-99b4-bd6742991f08",
+        "value": "Y Y 2 GOVERNMENT , POPULATION , 348 23 .Dufr , the shell of a kind of fish in the Red Sea , used for a perfume .24 .",
+        "words": [
+          "perfume",
+          "the shell",
+          "Dufr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/f095873d-886b-5791-b191-03c179354199",
+        "value": "It presents to the mind the idea of the immense 3 M OBSERVATIONS AT 450 labour used by its former possessors to render it com ' enient for traffic , which is now become useless , by the negligence of its present masters .The road from Antioch is pleasingly diversified by mountain and plain ; yet to appearance the country is but thinly inhabited , though filled with all kinds of flowering and odoriferous plants , particularly myrtles , oleanders , ancl cyclamens .Having crossed four rapid and translucid streams , which descend into the Orontes , I passed the night with a hospitable native , in a garden of mulberries , which afforded support to his numerous family .",
+        "words": [
+          "odoriferous",
+          "plants",
+          "myrtles",
+          "oleanders",
+          "ancl cyclamens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/fd3d14e0-e584-5422-a431-d20f48e917ae",
+        "value": "439 passed through one of the most picturesque countries which I had ever seen .Lofty rocks and precipices , shaded Avith luxuriant foliage , of various form and character , but of the most lively verdure , and floAvers of the most diversified hues and the strongest odours , alleviated the task of climbing by rugged and difficult paths the steep ascent of the mountain , and torrents wandering through the valleys in their stoney channels , or dashed from the rocks in sheets of foam , filled the ear Avith their soothing murmurs , the eye Avith their untaught untaught meanders , and the imagination with some of the most agreeable images that delight in the works of the poet .The third day Avas occupied in traversing a country romantic romantic like the former , and we passed the night in the open air , at Shawr , Avhere the river Orontes Avinds majestically through the plain .",
+        "words": [
+          "the strongest",
+          "odours",
+          "the most"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4d145776-1b8b-550f-b0f7-be13407aa3d1",
+        "label": "William George BROWNE"
+      }
+    ],
+    "label": "[Travels in Africa, Egypt, and Syria, from the year 1792 to 1798. [With maps and a frontispiece.]]",
+    "date": "1806",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/48272667-701b-5fae-9523-840ee1d5cba4",
+      "label": "1806",
+      "begin": "1806",
+      "end": "1806"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ed409e77-c304-5e89-bf59-f23da7f9d62c/fragment/5499da45-7d47-5b89-987b-9380b7e83bd6",
+  "adjective": "great"
+}

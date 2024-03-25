@@ -1,0 +1,175 @@
+## odor, Smell, smell
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/11eb9261-ee58-51b5-a688-c3cbfd30d214 |
+| @graph | http://data.odeuropa.eu/medical-heritage |
+| label.0 | odor |
+| label.1 | Smell |
+| label.2 | smell |
+| source.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/0a0d9885-42f7-50a6-878f-b3de0465efda |
+| source.excerpts.0.value | See Maize .Insanity , 105 , 107 , 109 acute confusional , 115 maniac - depressive , 118 Insolation , vernal , 14 INDEX 247 Insomnia , loi treatment , 201 Intermittent pellagra , 73 Intestines , changes in , 149 , 158 lodids , 201 Iron , 179 arsenite solution , 197 Irrigation of colon , 184 Italy , pellagra in , history , 14 prevention , 206 Jamaica , pellagra in , history , 21 Jews , pellagra in , 68 Katatonia , 117 Kidneys , changes in , 160 Landes , diseases of , 11 Lavage , gastric , 195 Lavinder ' s theory , 46 Lead acetate , 179 Leprosy , Asturian , 11 Light , avoidance , igo Linolin as cause , 60 Liver , changes in , 160 Lombroso ' s theory , 46 treatment , 178 , 179 Lungs , changes in , 150 Lupus erythemata and pellagra , differentiation , 85 Lymphocytes , increase in , 157 MaDDISITUS , II Maize , 35 artificial dr3nng , 211 distribution of , 35 exchanges , 214 history of , 35 photodjTiamic substances in , 229 , 230 , 231 public storehouses , 213 spoiled , as cause of pellagra , 35 , 46 Gosio ' s test , 209 micro - organisms in , 40 moulds of , 44 parasites of , 40 Maize , spoiled , prohibition of , 208 red oil of , 39 resinous substance of , 40 substances yielded by , 39 tests for , 38 , 209 toxic substance of , 39 weevils , 37 Mai de la Rosa , 12 Misere , 12 Rosa , 14 del Padrone , 12 Sole , 12 Maladie de la Teste , 18 Malaria , treatment , 199 Malarial multiple neuritis , 21 Mania , 109 , 110 Maniac - depressive insanity , 118 Marasmus , 125 Marchi ' s stain for spinal cord , ex - amination in , 151 Massage , 200 Mealies , 36 Meat , 186 Medicinal treatment , 196 Melancholia , 102 , 105 , 106 , no Menorrhagia , 125 Mental symptoms , 100 treatment , 201 Mexico , pellagra in , history , 23 Micro - organisms in spoiled corn , 40 Milk , 187 Mizell ' s theory , 60 Morbid anatomy , 149 Morbus miseriae , 53 , 54 Mortality , 173 Moulds of spoiled com , 44 Mouth , care of , 190 , 191 sore , 79 , 80 treatment , 196 Multiple neuritis , malarial , 21 Muscular spasms , 96 Neck band , 83 Negro , pellagra in , 68 Nervous symptoms , 93 treatment , 199 , 200 248 INDEX Nervous system , changes in , 149 , 153 Neuralgia , ovarian , 125 Neurasthenia , 112 Neuritis , malarial multiple , 21 Noxe , 229 OccTTLT blood in stomach , 78 Occupation in etiology , 69 Ocular symptoms , 120 Odor of stools , 91 Oidium lactis maidis , 42 Oil , olive , 188 red , of spoiled corn , 39 semidried edible , as cause , 60 Olive oil , 188 Ovarian neuralgia , 125 Pain , sensibility to , 97 Pains , shooting , 80 treatment , 200 Paralysis , 105 , 106 , 108 Paralytic pellagra , 74 Parasites of spoiled corn , 40 Pathology , 149 Pellagra , absence of hydrochloric acid in , treatment , 198 acute confusional insanity in , 115 delirium in , 116 dementia in , 113 aerophagia in , 90 akoria in , 89 alcohol in , 188 alcoholism in , 124 amenorrhea in , 125 amentia in , no , 115 anal irritation in , 87 and eczema , differentiation , 82 and erythema multiforma , differ - entiation , 83 and lupus erythemata , differen - tiation , 85 anesthesia in , 97 ankylostomiasis in , 123 anorexia in , 89 treatment , 198 Pellagra , anxiety psychoses in , 117 aphthous ulcers in , treatment , 196 appendicitis in , 125 appendix fasciolea in , 83 arsacetin in , 181 arsenic in , 179 , 181 , 197 atoxyl in , 181 avoidance of light in , 190 Babes and Sion ' s classification , 75 baths in , 179 , igi blood changes in , 155 brittleness m bones in , 149 , 160 buccal redness in , 78 bulimia in , 89 burning of esophagus in , 89 of stomach in , 89 buttermilk in , 187 cachexia in , 149 , 150 care of mouth in , 190 , 191 of teeth in , 190 cases of , clinical reports , 127 cephalalgia in , 99 changes in blood in , 155 in brain in , 150 , 158 in heart in , 160 in intestines in , 149 , 158 in kidneys in , 160 in liver in , 160 in lungs in , 150 in nervous system in , 149 , 153 in skin in , 160 in spinal cord in , 151 in spleen in , 160 classification of , 73 climatic treatment , 202 clinical course , 72 cold bath in , 194 commencing , 74 complications , 123 confirmed , 74 , 171 constipation in , 90 treatment , 199 constitutional treatment , 197 continuous , 74 contractures in , 94 course of , 72 , 170 INDEX 249 Pellagra , cretinism in , 124 cure , 98 definition , n delirium in , acute , 116 dementia in , 105 , 113 derivation of word , 12 * diagnosis , 162 differential , 169 history of case , 165 positive , 166 diarrhea in , 91 , 92 treatment , 198 diet in , 179 , 185 digestive symptoms , 88 drainage of gall - bladder in , 184 dysentery in , 91 dyspepsia in , 88 dysphagia in , 93 eggs in , 187 electric reactions in , 96 epigastralgia in , 88 epilepsy in , 105 eruption on skin in , 81 erythema in , 81 treatment , 200 etiology of , 35 habits , 68 heredity , 67 linolin , 60 occupation , 69 race , 67 season , 69 , 70 semidried edible oils , 60 sex , 68 simulium theory , 56 spoiled maize , 35 , 46 unhygienic surroundings , 66 eye symptoms , 120 facial expression in , loi fever in , 120 first degree , 74 flatulence in , 90 forced feeding in , 187 Fowler ' s solution in , 197 fragilitas ossium in , 149 , 160 gait in , 97 Pellagra , gastric lavage in , 195 symptoms , 77 ulcer in , 90 general considerations , 11 goiter in , 124 gjTiecologic complications , 125 habits in , etiology of , 68 headache in , 99 hemorrhoids in , 93 heredity as predisposing factor , 67 hexamethylenamin in , 199 history , 11 , 12 hook - worm disease in , 123 hot bath in , 192 , 193 hydromania in , 107 , 108 hydrotherapy in , 191 hygienic treatment , 189 hyperalgesia in , 98 idiocy in , no , 115 in Africa , history , 20 in Andersonville Prison during Civil War , 25 , 26 in Austria , history , 20 in children , 68 , 69 in Civil War , 25 in Corfu , history , 19 in Egypt , history , 21 in England , history , 20 in France , history , 17 , 18 in Great Britain , 20 in Italy , history , 14 prevention , 206 in Jamaica , history , 21 in Jews , 68 in Mexico , history , 23 in negro , 68 in Roumania , history , 19 in Southern States , 27 in Spain , history , 13 , 18 in United States , 25 table showing , 30 , 31 in Yucatan , history , 23 increase in lymphoc3rtes in , 157 insanity in , 105 , 107 , 109 insomnia in , loi treatment 201 250 INDEX Pellagra , intermittent , 73 iodids in , 201 iron arsenite solution in , 197 iron in , 179 irrigation of colon in , 184 katatonia in , 117 Lavinder ' s theory , 46 lead acetate in , 1 79 linolin as cause , 60 Lombroso ' s theory , 46 treatment , 178 , 179 loss of appetite in , 89 treatment , 198 lymphocytes in , increase in , 157 malaria complicating , treatment , 199 mania in , 109 , no maniac - depressive insanity in , 118 marasmus in , 125 massage in , 200 meat in , 186 medicinal treatment , 196 melancholia in , 102 , 105 , 106 , 110 menorrhagia in , 125 mental symptoms , 100 treatment , 201 milk in , 187 Mizell ' s theory , 60 morbid anatomy , 149 mortality , 173 mouth in , care , 190 , 191 muscular spasms in , 96 neck band in , 83 nervous symptoms , 93 treatment , 199 , 200 neurasthenia in , 112 occult blood in stomach in , 78 occupation in , etiology of , 69 ocular symptoms , 120 odor of feces in , 91 olive oil in , 188 ovarian neuralgia in , 125 pains in , 80 treatment , 200 paralysis in , 74 , 105 , 106 , 108 pathology , 149 Pellagra , pigmentary degenerations in , 161 potassium iodid in , 197 permanganate in , 199 pregnancy in , 125 prodromal period , 76 prognosis , 173 pronunciation , 12 prophylaxis , 205 advice and rules , 219 prmntis in , 100 psychic symptoms , 100 treatment , 201 psychical catalepsy in , 105 race in etiology of , 67 Raubitschek ' s experiments , 223 rectal douche in , 195 reflexes in , 96 remittent , 74 rest in , 189 Roussel ' s classification , 74 saliva in , 79 saUvation in , atropin for , 196 salt bath in , 194 salvarsan in , 184 , 201 Sambon ' s theory , 54 , 55 , 236 Scotch douche in , 195 season in , etiology of , 69 , 70 second degree , 74 semidried edible oils as cause , 60 sensibility to pain in , 97 to touch in , 97 serum treatment , 182 sex in etiology of , 68 sexual desire in , 99 shooting pains in , 80 treatment , 200 simulium theory , 56 sine pellagra , 88 , 169 sitophobia in , 89 skin reflexes in , 96 symptoms , 81 smell in , 99 soamin in , 181 , 182 sodium acetyl arsanilate in , 181 arsanilate in , 181 INDEX Pellagra , sodium cacodylate in , 197 chlorid in , 179 sore mouth in , 79 , 80 treatment , 196 tongue in , treatment , 196 spoiled com as cause , 35 , 46 Strambio ' s classification , 73 supra - acute , 105 surgical treatment , 183 symptoms of , 72 digestive , 88 gastric , 77 mental , 100 nervous , 93 ocular , 120 psychic , 100 skin , 81 synonjons , 11 syphilis in , 124 taste in , 100 teeth in , care , 190 tempera tiure in , 120 thermal phenomena , 120 third degree , 74 th3n - oid disease in , 124 tongue in , 78 , 79 , 80 transfusion of blood in , 182 treatment , 178 climatic , 202 constitutional , 197 dietetic , 185 hydro therapeutic , 191 hygienic , 189 medicinal , 196 prophylactic , 205 surgical , 183 tremors in , 94 tuberculosis complicating , 155 typhoid , 105 , 106 , 121 prognosis , 176 unhygienic surroimdings as cause , 66 vaginal douche in , 195 irritation in , 87 vomiting in , 89 vulvar irritation in , 86 , 87 Pellagra , warm full bath in , 193 water drinking in , 195 wet cases , 87 Zeist theory , 35 Pellagrocein , 39 Pellagrous cachexia , 74 tetanus , 105 Pellagrozeina , 42 Pellarella , 12 , 14 Penicillium , 42 glauciun , 42 Photodynamic substances in maize , 229 , 230 , 231 Pigmentary degenerations , 161 Poison , corn - bread , 76 Potassium iodid , 197 permanganate , 199 Pregnancy , 125 Prison , Andersonville , pellagra in , dmring Civil War , 25 , 26 pellagra in , dmring Civil War , 25 Prodromal period , 76 Prognosis , 173 Pronunciation , 12 Pruritus , 100 Pseudopellagra , 53 Psychic symptoms , 100 treatment , 201 Psychical catalepsy , 105 Psychonexurosis Maidica , 11 Psychoses , anxiety , 117 Public storehouses for corn , 213 Race in etiology , 67 Raubitschek ' s experiments , 223 Rectal douche , 195 Red oil of spoiled corn , 39 Redness , buccal , 78 Reflexes , 96 Remittent pellagra , 74 Resinous substance of spoiled com , 40 Rest , 189 Rose , Asturian , 11 Roumania , pellagra in , history , 19 Roussel ' s classification , 75 252 INDEX Rub , salt , 194 Rural bakeries , 214 Saliva , 79 Salivation , atropin for , 196 Salt bath , 194 Salvarsan , 184 , 201 Sambon ' s theory , 54 , 55 , 236 Scorbutus alpinus , 14 Scotch douche , 195 Scurvy , Alpine , 11 Season in etiology , 69 , 70 Serum treatment , 182 Sex in etiology , 68 Sexual desire , 99 Shooting pains , 80 treatment , 200 Silver nitrate in sore mouth , 196 Simulium omatum , 58 pecarum , 58 pubescans , 58 reptans , 56 , 58 , 236 theory , 56 venistum , 57 Sitophobia , 89 Skin , changes in , 160 reflexes , 96 symptoms , 81 Smell , 99 Soamin , 181 , 182 Sodium arsanilate , 181 cacodylate , 197 chlorid , 179 Sore mouth , 79 , 80 treatment , 196 tongue , treatment , 196 Southern States , pellagra in , 27 Spain , pellagra in , history , 13 , 18 Spasms , muscular , in pellagra , 96 Spinal cord , changes in , 151 Spleen , changes in , 160 Sporisorium maidis , 40 Sporothricum maidis , 42 Stain , anilin - blue - black , for spinal cord , examination in , 151 Stain , Marchi ' s , for spinal cord , ex - amination in , 151 Van Giesen ' s , for spinal cord , ex - amination in , 152 Weigert - Pal , for spinal cord , ex - amination in , 151 Stomach , burning of , 89 lavage , 195 Stools , odor of , 91 Storehouses , public , for com , 213 Strachan ' s disease , 22 Strambio ' s classification , 73 Stuporous dementia , 113 Sunlight , avoidance , 190 Sjrmptoms , 72 Synonyms , 11 Syphilis , 124 Taste , 100 Teeth , care of , 190 Temperature , 120 Tests for spoiled com , 38 , 209 Tetanus , 105 Thermal phenomena , 120 Thyroid disease , 124 Tongue , 78 , 79 , 80 cardinal , 79 sore , treatment , 196 Touch , sensibility to , 97 Transfusion of blood , 182 Treatment , 178 Tremors , 94 Tuberculosis , 155 Typhoid pellagra , 105 , 106 , 121 prognosis , 176 Typhus pellagrosus , 122 Ulcer , aphthous , treatment , 196 gastric , 90 United States , pellagra in , 25 table showing , 30 , 31 Vaginal douche , 195 irritation , 87 Van Giesen ' s stain for spinal cord , examination in , 152 INDEX 2S3 Vernal insolation , 14 Vomiting , 89 Vulvar irritation , 86 , 87 War , Civil , pellagra in , 25 Warm full bath , 193 Water , drinking - , 195 Weigert - Pal stain for spinal cord , examination in , 151 Wet cases , 87 Yucatan , pellagra in , history , 23 Zeist theory of pellagra , 35 I SAUNDERS * BOOKS on Practice , Pharmacy , Materia Medica , Thera - peutics , Pharmacology , and the Allied Sciences W .B . |
+| source.excerpts.0.words.0 | odor |
+| source.excerpts.0.words.1 | Smell |
+| source.excerpts.0.words.2 | smell |
+| source.excerpts.0.words.3 | public |
+| source.excerpts.0.words.4 | Stools |
+| source.excerpts.0.words.5 | Sodium |
+| source.excerpts.0.words.6 | of feces |
+| source.excerpts.0.words.7 | Soamin |
+| source.excerpts.0.words.8 | sodium acetyl |
+| source.excerpts.0.words.9 | 89 lavage |
+| source.excerpts.0.words.10 | Storehouses |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/14b047ae-003d-5eb8-8ecf-e8c4da73ab52 |
+| source.excerpts.1.value | This custom obtained among all the farmers , for in those days the South raised its own food crops to a major extent , nor had the immense and fertile 4 50 PELLAGRA expanses of the " Golden West " assumed their position as " granary " for these states .The well - trained noses of farmers or housewives could detect the slightest foreign odor , and luckless was the miller who sent back musty meal in exchange for sound and wholesome corn .Under this old regime there was no pellagra in the South , nor did it ever appear until , under changed condi - tions , brought about by economic reasons , as happened in the island of Corfu , other crops took the place of com â   other crops that brought more ready money , and the West was called on , as was Egypt in the days of Pharaoh . |
+| source.excerpts.1.words.0 | odor |
+| source.excerpts.1.words.1 | slightest foreign |
+| source.excerpts.1.words.2 | The well - trained noses of farmers or housewives |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/18945bd5-1980-5b5c-9413-1ace3868feb3 |
+| source.excerpts.2.value | At present she is better in many ways , but still reports difiiculty in manag - ing her sphincters .The odor of these pehagrous stools is almost character - istic .To describe an odor is at the best unsatisfactory ^ but , like that exhaled from smallpox patients in the des - 92 PELLAGRA quamative stage , or the peculiar smell of the vaginal discharges in uterine carcinoma , these feces have a dis - tinctive odor . |
+| source.excerpts.2.words.0 | odor |
+| source.excerpts.2.words.1 | character |
+| source.excerpts.2.words.2 | istic |
+| source.excerpts.2.words.3 | of these pehagrous stools |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/1bc2c964-9e46-5d7f-b3fd-f27e426c3a9d |
+| source.excerpts.3.value | The olfactories are not obtunded in this disease , but , as in some gastric disorders , often seem to be more acute .A young woman at the Tabernacle Infirmary in Atlanta mformed the writer that she could detect and differentiate odors since her ilhiess that would have been beyond her power during health .These patients , with squeamish stomachs at best , cannot eat or drink when their olfactories are offended , and this heightened sense is quite a problem to manage at times . |
+| source.excerpts.3.words.0 | she |
+| source.excerpts.3.words.1 | odors |
+| source.excerpts.3.words.2 | A young woman |
+| source.excerpts.3.words.3 | at the Tabernacle Infirmary in Atlanta |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/1c8a8e04-ab96-5ac6-b37f-5234d0fa54ec |
+| source.excerpts.4.value | Following the experiments of this investigator , we find that the tincture of spoiled corn jdelds three substances .The first is , at ordinary temperature , a Hquid of ruby red color , with a bitter taste , and an odor of decayed corn .It is soluble in alcohol and ether , but insoluble in water , in which it floats ; it becomes resinous when exposed to air , and does not yield a precipitate with the iodid of potash , nor with other metaUic salts . |
+| source.excerpts.4.words.0 | odor |
+| source.excerpts.4.words.1 | a |
+| source.excerpts.4.words.2 | of decayed corn |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/2be55cc2-ab25-5d60-83f8-1e96f477ca63 |
+| source.excerpts.5.value | Her appetite was poor , her food seemed to " lie heavily " in her stomach for several hours after eating , and articles that formerly agreed with her seemed to nauseate and dis - tress her .Her bowels were loose , moving four or five times daily , preceded by colicky pains , the movements frothy and foul smelling .She also noted a great difficulty in controlling her anal sphincters , on several occasions having soiled her Hnen before she could get to the toilet . |
+| source.excerpts.5.words.0 | smelling |
+| source.excerpts.5.words.1 | frothy |
+| source.excerpts.5.words.2 | foul smelling |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/3af82c26-3114-56b2-97c7-bade202958b4 |
+| source.excerpts.6.value | The odor of these pehagrous stools is almost character - istic .To describe an odor is at the best unsatisfactory ^ but , like that exhaled from smallpox patients in the des - 92 PELLAGRA quamative stage , or the peculiar smell of the vaginal discharges in uterine carcinoma , these feces have a dis - tinctive odor .The feces are usually dark , often very - watery , irritating to the parts over which they pass , and full of frothy bubbles of gas . |
+| source.excerpts.6.words.0 | odor |
+| source.excerpts.6.words.1 | smell |
+| source.excerpts.6.words.2 | peculiar |
+| source.excerpts.6.words.3 | dis |
+| source.excerpts.6.words.4 | tinctive |
+| source.excerpts.6.words.5 | of the vaginal discharges |
+| source.excerpts.6.words.6 | these feces |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/3b4d7044-23e5-5878-9032-73e2d728b97e |
+| source.excerpts.7.value | The more the decomposi - tion of the corn has advanced , the more decided is the reaction .If this alkaline fluid is neutrahzed by tartaric acid , flakes of a coffee color are precipitated which have the odor of spoiled corn ; these flakes are insoluble in water or ether , but soluble in alcohol .This reaction , according to Marie , can be obtained with both meal and A DISCUSSION OF THE ETIOLOGY OF PELLAGRA 39 bread made of spoiled corn , the reaction showing a lemonr yellow color . |
+| source.excerpts.7.words.0 | odor |
+| source.excerpts.7.words.1 | flakes |
+| source.excerpts.7.words.2 | of spoiled corn |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/461c96ac-bd99-56fe-ad73-fd9271957952 |
+| source.excerpts.8.value | See Maize .Corn - bread poison , 76 Course , 72 , 170 Cretinism , 124 Definition , ii Delirilun , acute , 116 Dementia , 105 , 113 Derivation of word pellagra , 12 Desiccation , artificial , of com , 211 Desiccators , 212 Diagnosis , 162 differential , 169 positive , 166 Diarrhea , 91 , 92 treatment , 198 Diet , 179 , 185 Digestive symptoms , 88 Douche , rectal , 195 Scotch , 195 vaginal , 195 Drainage of gall - bladder , 184 Drying , artificial , of maize , 211 Dysentery , 91 Dyspepsia , 88 Dysphagia , 93 Eczema and pellagra , differentia - tion , 82 Eggs , 187 Egypt , pellagra in , history , 21 Electric reactions , 96 England , pellagra in , history , 20 Epigastralgia , 88 Epilepsy , pellagrous , 105 Erythema , 81 multiforma and pellagra , differen - tiation , 83 treatment , 200 Esophagus , burning of , 89 Etiology , 35 Eurotiimi herbariorum , 42 Exchanges , com , 214 Experiments on animals , 223 Eye symptoms , 120 Facial expression , loi Fagopyrismus , 229 , 232 Feces , odor of , 91 Feeding , forced , 187 Fever , 120 Flatulence , 90 Forced feeding , 187 Fowler ' s solution , 197 Fragilitas ossiimi , 149 , 160 France , pellagra in , history , 17 , 18 Gait , 97 Gall - bladder , drainage , 184 Gastric lavage , 195 symptoms , 77 ulcer , 90 Goiter , 124 Gosio ' s test for spoiled com , 209 Great Britain , pellagra in , 20 Habits in etiology , 68 Headache , 99 Heart , changes in , 160 Hemorrhoids , 92 Heredity as predisposing factor , 67 Hexamethylenamin , 199 History , 11 , 12 clinical , of cases , 127 Hook - worm disease , 123 Hot bath , 192 , 193 Hydrochloric acid , absence , treat - ment , 198 Hydromania , 107 , 108 Hydrotherapy , 191 Hygienic treatment , 189 Hyperalgesia , 98 Idiocy , no , 115 Indian corn .See Maize . |
+| source.excerpts.8.words.0 | odor |
+| source.excerpts.8.words.1 | of |
+| source.excerpts.8.words.2 | Feces |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/5487eb86-a93c-5620-9307-e7c4266514ea |
+| source.excerpts.9.value | Another form in which death may be confidently pre - dicted is the so - called typhoid pellagra .When , in the course of the pellagra , there appears opisthotonos , rigid - ity of the legs , delirium , albuminous urine , with ammoniac odor of the perspiration , tremors , and fibrillary contrac - tions , accompanied by high temperature , the end is not far off .There are certain complications which exert a decided bearing on the ultimate result ; among these are malaria , intestinal parasites , nephritis , acute bronchitis , pneumonia , bed - sores ( often impossible to avoid ) , tuberculosis of the bowels , pregnancy , or any acute intercurrent affections . |
+| source.excerpts.9.words.0 | odor |
+| source.excerpts.9.words.1 | of the perspiration |
+| source.excerpts.9.words.2 | tions |
+| source.excerpts.9.words.3 | delirium |
+| source.excerpts.9.words.4 | ammoniac |
+| source.excerpts.9.words.5 | albuminous urine |
+| source.excerpts.9.words.6 | tremors |
+| source.excerpts.9.words.7 | opisthotonos |
+| source.excerpts.9.words.8 | fibrillary |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/5a513c62-1f24-51a7-be12-117fca7dfb2a |
+| source.excerpts.10.value | The abdomen becomes distended , the diar - rhea becomes more intractable , and the stools are often involmitary and passed without the knowledge of the patient .The stools also take on that dreadfully foiil odor of which mention has been made .The watery feces are acrid and irritating , and the mucocutaneous areas in and around the anus or vulva become raw , perhaps bleed - ing , when cleansed . |
+| source.excerpts.10.words.0 | odor |
+| source.excerpts.10.words.1 | dreadfully foiil |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/5f0b01f4-8cfa-5111-9ffa-287053849a44 |
+| source.excerpts.11.value | On the contrary , if the grain is sound , it does not change color , even if it remains in the alcohol for two months , though the alcohol becomes yellow .Again , if in a dilute solution of caustic potash the hull of the grain of spoiled corn becomes first reddish brown , later all the solution becomes brown , and gives off a pene - trating odor of spoiled corn .The more the decomposi - tion of the corn has advanced , the more decided is the reaction . |
+| source.excerpts.11.words.0 | odor |
+| source.excerpts.11.words.1 | pene |
+| source.excerpts.11.words.2 | trating |
+| source.excerpts.11.words.3 | of spoiled corn |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/74e2016d-df3c-5b09-a286-fd7a22f64556 |
+| source.excerpts.12.value | The meal made from spoiled corn is not always easy to detect , unless it is decidedly bad .When much dam - aged , it gives off a " musty odor , " sometimes slightly aromatic , and has a bitter taste .Several tests for spoiled corn are mentioned by Marie , which are said to be fairly conclusive . |
+| source.excerpts.12.words.0 | odor |
+| source.excerpts.12.words.1 | sometimes |
+| source.excerpts.12.words.2 | musty |
+| source.excerpts.12.words.3 | it |
+| source.excerpts.12.words.4 | slightly aromatic |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/c2e49850-1772-5071-83d7-bd9b8b2dce7c |
+| source.excerpts.13.value | About the time FrapoUi named it , Adoardi , of Venetia , called it " scorbutus alpinus ." By 1776 , also a notable year in American annals , the disease had spread to such an extent that the Venetian authorities , at the request of the Sanitary Commission of Venice , issued an edict prohibiting the sale or exchange in the pubHc markets of corn having a bad odor or taste , or which was discolored .Even at that time , exacerba - tions and remissions of pellagra durmg different seasons of the year were noted , for D ' Oleggio , in 1784 , suggested the term " vernal insolation , " meaning the " sunburn of spring . |
+| source.excerpts.13.words.0 | odor |
+| source.excerpts.13.words.1 | corn |
+| source.excerpts.13.words.2 | bad |
+| source.excerpts.13.words.3 | By 1776 |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/c5996019-7870-52ea-81ed-412d1ff2c25e |
+| source.excerpts.14.value | Such THE PROPHYLAXIS OF PELLAGRA 209 outward signs as mildew or the smell of mold are , of course , conclusive , but they can be removed by drying in the sun ; their absence , therefore , does not prove the soundness of the corn .But the consumer should be warned against any com that is covered with dust , that is damp to the touch , or that gives forth any smell of mold when warmed in the palm of the hand .He should be on his guard against corn of a pale color with a dull surface . |
+| source.excerpts.14.words.0 | smell |
+| source.excerpts.14.words.1 | the consumer |
+| source.excerpts.14.words.2 | of mold |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/c91b87f9-0ddc-592e-9acd-42033859d48c |
+| source.excerpts.15.value | The water was bad , the surroundings were depressing , and these poor men suf - fered the pangs of illness , to which were added the sorrows of nostalgia â   that dread of wanderers far from home .Little wonder it was that they sickened and died , and fortunate the few who , " by reason of strength , " were able to withstand the noisome odors , the scanty and un - wholesome food , and the depressing influences on every side .Dr . |
+| source.excerpts.15.words.0 | noisome |
+| source.excerpts.15.words.1 | odors |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/d5fed32f-3bbc-5a93-ae2f-4d23f2796bde |
+| source.excerpts.16.value | The feces are usually dark , often very - watery , irritating to the parts over which they pass , and full of frothy bubbles of gas .Several who have seen many cases of pellagra , and had occasion to often smell these foul stools , have expressed the belief that they could diagnose pellagra fairly well from the olfactory senses alone .In this somewhat bizarre statement the writer is tempted to concur . |
+| source.excerpts.16.words.0 | olfactory |
+| source.excerpts.16.words.1 | smell |
+| source.excerpts.16.words.2 | foul |
+| source.excerpts.16.words.3 | they |
+| source.excerpts.16.words.4 | Several |
+| source.excerpts.16.words.5 | pellagra |
+| source.excerpts.16.words.6 | these foul |
+| source.excerpts.16.words.7 | foul stools |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/d6e7b95f-5940-5b6c-a038-b1fad963a25a |
+| source.excerpts.17.value | ADVICE AND RULES FOR AVOIDING PELLAGRA Spoiled com is a cause of pellagra , and corn readily be - comes spoiled , moldy , or poisonous when harvested too early , before it is ripe , and stored in places which are damp and poorly ventilated ; it may also be of poor quahty when imported from some other place , and may contain a large percentage of damaged grain .220 PELLAGRA Spoiled corn may be recognized by its pale or greenish color , by the shrivelled and cracked surface of the grains , which are also covered with greenish , bluish or brownish spots , by its musty odor , and its bitterish and disgusting taste .The damaged com also weighs less than sound com , and the surface of spoiled grain lacks the shining appearance of the sound article . |
+| source.excerpts.17.words.0 | odor |
+| source.excerpts.17.words.1 | musty |
+| source.excerpts.17.words.2 | its |
+| source.excerpts.17.words.3 | Spoiled |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/da1bdf89-4fbf-5c27-930f-e098a1ec2ca7 |
+| source.excerpts.18.value | Spoiled corn can be detected in a number of ways .Such THE PROPHYLAXIS OF PELLAGRA 209 outward signs as mildew or the smell of mold are , of course , conclusive , but they can be removed by drying in the sun ; their absence , therefore , does not prove the soundness of the corn .But the consumer should be warned against any com that is covered with dust , that is damp to the touch , or that gives forth any smell of mold when warmed in the palm of the hand . |
+| source.excerpts.18.words.0 | smell |
+| source.excerpts.18.words.1 | of mold |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/dccbd991-627d-53b9-8fd7-6393ac36249f |
+| source.excerpts.19.value | A young woman at the Tabernacle Infirmary in Atlanta mformed the writer that she could detect and differentiate odors since her ilhiess that would have been beyond her power during health .These patients , with squeamish stomachs at best , cannot eat or drink when their olfactories are offended , and this heightened sense is quite a problem to manage at times .The sense of smell is , in serious cases , about the last one to be lost . |
+| source.excerpts.19.words.0 | their |
+| source.excerpts.19.words.1 | olfactories |
+| source.excerpts.19.words.2 | These patients |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/f78db9d7-cb9f-58ea-813c-a6d61ca92dfb |
+| source.excerpts.20.value | He also made extracts from a maize porridge or broth which had been inoculated with various pure cultures , isolated either from bad maize or pellagrous stools .The extracts he obtained were variously colored , and some possessed a fatty - acid - like odor .They were kept a long while in the ice - chest under toluol without apparently undergoing further change . |
+| source.excerpts.20.words.0 | odor |
+| source.excerpts.20.words.1 | some |
+| source.excerpts.20.words.2 | fatty - acid - like |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/f7e2440d-88b2-5738-a2d7-a1dc4f8a6157 |
+| source.excerpts.21.value | On the other hand , no grain is more susceptible to un - sanitary influences or careless handhng .That the eating of spoiled corn has made a decided im - press on the language of the Italians may be judged by the names given in different dialects to express its odor â   scagn , muffito , pati , sobbolli , verdet , butta , arbolli , smaserido , romat - ico , mofflet , etc .On gross examination by the ordinary observer , spoiled corn may be distinguished by its cracked or wrinkled hull , its color of old gold , its lack - luster appearance with embryo enlarged , blackish , and showing through the surface like a ship in a fog . |
+| source.excerpts.21.words.0 | odor |
+| source.excerpts.21.words.1 | its |
+| source.excerpts.21.words.2 | mofflet |
+| source.excerpts.21.words.3 | muffito |
+| source.excerpts.21.words.4 | butta |
+| source.excerpts.21.words.5 | pati |
+| source.excerpts.21.words.6 | verdet |
+| source.excerpts.21.words.7 | smaserido |
+| source.excerpts.21.words.8 | arbolli |
+| source.excerpts.21.words.9 | romat |
+| source.excerpts.21.words.10 | sobbolli |
+| source.author.0.@id | http://data.odeuropa.eu/actor/1bd90230-ff10-56cc-99e1-fd0d38d393fc |
+| source.author.0.label | George MacCallum Niles |
+| source.label | Pellagra [electronic resource] : an American problem |
+| source.url | http://archive.org/details/b21353074 |
+| source.date | 1912 |
+| source.language | en |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/145 |
+| smellSource.0.label | Excrement |
+| time.0.@id | http://data.odeuropa.eu/time/b4645460-c680-5000-bd3a-1f76c693585f |
+| time.0.label | 1912 |
+| time.0.begin | 1912 |
+| time.0.end | 1912 |
+| place.0.@id | https://sws.geonames.org/3578562/ |
+| place.0.label | Public |
+| place.1.@id | https://sws.geonames.org/7915401/ |
+| place.1.label | Makhāzin Shirkat Sīmāf |
+| relevantExcerpt | http://data.odeuropa.eu/source/3486e6a3-145c-5648-860e-9b1412e74dfc/fragment/0a0d9885-42f7-50a6-878f-b3de0465efda |

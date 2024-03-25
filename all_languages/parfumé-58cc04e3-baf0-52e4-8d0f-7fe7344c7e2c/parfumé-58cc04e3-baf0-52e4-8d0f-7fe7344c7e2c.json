@@ -1,0 +1,294 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/58cc04e3-baf0-52e4-8d0f-7fe7344c7e2c",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumé",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/0079098a-4ea1-5a75-ab1e-0fb13d550734",
+        "value": ".Une odeur horrible d ’ acide nitrique emplissait la chambre .Mais la chose assise ce matin devant la table avait disparu .",
+        "words": [
+          "odeur",
+          "chambre",
+          "horrible",
+          "acide nitrique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/027a101e-e321-5f77-a649-ff337f280912",
+        "value": "Ce ne fut que le troisième jour qu ’ il se hasarda à sortir .Il y avait quelque chose dans l ’ air clair , chargé de senteurs de pin de ce matin d ’ hiver , qui paraissait lui rapporter sa joie et son ardeur de vivre ; mais ce n ’ était pas seulement les conditions physiques de l ’ ambiance qui avaient causé ce changement .Sa propre nature se révoltait contre cet excès d ’ angoisse qui avait cherché à gâter , à mutiler la perfection de son calme .",
+        "words": [
+          "air",
+          "senteurs",
+          "pin",
+          "ce matin d ’ hiver"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/059cc39f-3648-5f21-ad8d-a67d2337dabc",
+        "value": "Dans les rayons obliques venant de la porte entr ' ouverte , une poussière dorée dansait .La senteur lourde des roses semblait peser sur toute chose .Au bout d ’ un quart d ’ heure , Hallward s ’ arrêta de travailler , regardant alternativement longtemps Dorian Gray et le portrait , mordillant le bout de l ' un de ses gros pinceaux , les sourcils crispés .",
+        "words": [
+          "roses",
+          "senteur",
+          "lourde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/13e07716-3f9c-5718-9a30-4a1bd1d5f8db",
+        "value": "Il y avait quelque chose de terriblement séducteur dans l ’ action de cette influence ; aucun exercice qui y fût comparable .Projeter son âme dans une forme gracieuse , l ’ y laisser un instant reposer et entendre ensuite ses idées répétées comme par un écho , avec en plus toute la musique de la passion et de la jeunesse , transporter son tempérament dans un autre , ainsi qu ’ un fluide subtil ou un étrange parfum : c ’ était là une véritable jouissance , peut - être la plus parfaite de nos jouissances dans un temps aussi borné et aussi vulgaire que le nôtre , dans un temps grossièrement charnel en ses plaisirs , commun et bas en ses aspirations ..",
+        "words": [
+          "parfum",
+          "fluide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/2b79c08a-a34f-5b8c-b561-bbb52bff92ba",
+        "value": ".L ’ air était plein du parfum des fleurs , et leur beauté sembla apporter un réconfort à sa peine .Il entra dans un marché et observa les hommes déchargeant les voitures .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/3a103909-3f6f-5282-958c-2750ac8838ad",
+        "value": "Oscar Wilde .I ’ atelier était plein de l ’ odeur puissante des roses , et quand une légère brise d ’ été souffla parmi les arbres du jardin , il vint , par la porte ouverte , la senteur lourde des lilas et le parfum plus subtil des églantiers .D ’ un coin du divan fait de sacs persans sur lequel il était étendu , fumant , selon sa coutume , d ’ innombrables cigarettes , lord Henry Wotton pouvait tout juste aper - cevoir le rayonnement des douces fleurs couleur de miel d ’ un aubour dont les tremblantes branches semblaient à peine pouvoir supporter le poids d ’ une aussi flamboyante splendeur ; et , de temps à autre , les ombres fantastiques des oiseaux fuyants passaient sur les longs rideaux de tussor tendus devant la large fenêtre , produisant une sorte d ’ effet japonais momentané , le faisant penser à ces peintres de Tokio à la figure de jade pal - lide , qui , par le moyen d ’ un art nécessairement immobile , tentent d ’ exprimer le sens de la vitesse et du mouvement .",
+        "words": [
+          "parfum",
+          "odeur",
+          "roses",
+          "senteur",
+          "lourde",
+          "puissante",
+          "églantiers",
+          "lilas",
+          "atelier",
+          "plus subtil",
+          "arbres du jardin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/47d9a11f-c5b0-58c3-9a62-5b082a8503d8",
+        "value": "Browning l ’ a écrit quelque part , mais nos sens nous le font imaginer aisément .Il y a des moments où l ’ odeur du lilas blanc me pénètre et où je crois revivre le plus étrange mois de toute ma vie .Je voudrais pouvoir changer avec vous , Dorian .",
+        "words": [
+          "odeur",
+          "lilas blanc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/48229143-507f-531c-8af3-be6d47642811",
+        "value": "Il se mit à étudier les parfums et les secrets de leur confection , distillant lui - même des huiles puissamment parfumées , ou brûlant d ’ odorantes gommes venant de l ’ Orient .Il comprit qu ’ il n ’ y avait point de disposition d ’ esprit qui ne trouvât sa contre - partie dans la vie sensorielle , et essaya de découvrir leurs relations véritables ; ainsi l ’ encens lui sembla l ’ odeur des mystiques , et l ’ ambre gris , celle des passionnés ; la violette évoque la mémoire des amours défuntes , le musc rend dément et le champac pervertit l ’ imagination .Il tenta souvent d ’ établir une psychologie des parfums , et d ’ estimer les diverses influences des racines douces - odorantes , des fleurs chargées de pollen parfumé , des baumes aromatiques , des bois de senteur sombres , du nard indien qui rend malade , de l ’ hove - nia qui affole les hommes , et de l ’ aloès dont il est dit qu ’ il chasse la mélancolie de l ' ame .",
+        "words": [
+          "odeur",
+          "violette",
+          "encens",
+          "ambre gris",
+          "musc",
+          "celle",
+          "mystiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/573042f1-6aff-5f4b-8c24-b31bd43074bd",
+        "value": "— Je le crois , ma chère amie , dit lord Henry , en fermant la porte derrière elle .Semblable à un oiseau de paradis qui aurait passé la nuit dehors sous la pluie , elle s ’ envola , laissant une subtile odeur de frangipane .Alors , il alluma une cigarette et se jeta sur le canapé .",
+        "words": [
+          "odeur",
+          "elle",
+          "subtile",
+          "oiseau",
+          "frangipane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/740fbf51-f106-548c-8c18-419e18c20b9e",
+        "value": "11 vit le poème qu ’ il ne peut écrire ; les autres écrivent le poème qu ’ ils n ’ osent réaliser .— 96 — — Je crois que c ’ est vraiment ainsi , Harry , dit Dorian Gray parfumant son mouchoir à un gros flacon au bouchon d ’ or qui se trouvait sur la table .Gela doit être , puisque vous le dites .",
+        "words": [
+          "mouchoir",
+          "parfumant",
+          "Dorian Gray"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/744fd02f-c1fa-5aa8-ad32-d526c7126e12",
+        "value": ".L ’ air était vif et aromatique , les lueurs diverses qui brillaient dans le bois , les cris rauques des rabatteurs éclatant de temps à autre , — 334 — les détonations aiguës des fusils qui se succédaient l ’ intéressèrent et le remplirent d ’ un sentiment de délicieuse liberté .Il fut emporté par l ’ insouciance du bonheur , par l ’ indifférence hautaine de la joie .",
+        "words": [
+          "aromatique",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/75491746-73a1-5980-87a6-84d6bf5a011b",
+        "value": "Un grand feu brûlait dans la cheminée ; il y jeta encore une bûche .L ’ odeur de cuir roussi et de drap brûlé était insupportable .Il lui fallut trois quarts d ’ heure pour consumer le tout .",
+        "words": [
+          "cuir",
+          "odeur",
+          "insupportable",
+          "roussi",
+          "drap",
+          "cuir roussi",
+          "drap brûlé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/9bc4dca8-f46d-5334-b913-6ec1caed6a77",
+        "value": "Il ouvrit la boîte .Elle contenait une pâte verte ayant l ’ aspect de la cire et une odeur forte et pénétrante ..",
+        "words": [
+          "cire",
+          "pénétrante",
+          "forte",
+          "odeur",
+          "pâte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/9f79459e-211d-50c3-9884-e54535b020cd",
+        "value": "Il lui fallut trois quarts d ’ heure pour consumer le tout .A la fin , il se sentit faiblir , presque malade ; et ayant allumé des pastilles d ’ Alger dans un brûle - parfums de cuivre ajouré , il se rafraîchit les mains et le front avec du vinaigre de toilette au musc .Soudain il frissonna .",
+        "words": [
+          "parfums",
+          "pastilles",
+          "vinaigre",
+          "front"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/af513e1d-3e45-5b87-ace4-e87671e08a04",
+        "value": "Il comprit qu ’ il n ’ y avait point de disposition d ’ esprit qui ne trouvât sa contre - partie dans la vie sensorielle , et essaya de découvrir leurs relations véritables ; ainsi l ’ encens lui sembla l ’ odeur des mystiques , et l ’ ambre gris , celle des passionnés ; la violette évoque la mémoire des amours défuntes , le musc rend dément et le champac pervertit l ’ imagination .Il tenta souvent d ’ établir une psychologie des parfums , et d ’ estimer les diverses influences des racines douces - odorantes , des fleurs chargées de pollen parfumé , des baumes aromatiques , des bois de senteur sombres , du nard indien qui rend malade , de l ’ hove - nia qui affole les hommes , et de l ’ aloès dont il est dit qu ’ il chasse la mélancolie de l ' ame .D ’ autres fois , il se dévouait entièrement à la musique , et dans une longue chambre treillissée , au plafond de vermillon et d ’ or , aux murs de laque vert olive , il donnait d ’ étranges concerts où de folles gypsies tiraient une ardente musique de petites cithares , où de graves Tunisiens aux tartans jaunes arrachaient des sons aux cordes tendues de monstrueux luths , pendant que des nègres ricaneurs battaient avec monotonie sur des tambours de cuivre , et qu ’ accroupis sur des nattes écarlates , de minces Indiens coiffés de turbans soufflaient dans de longues pipes de roseau ou d ’ airain , en charmant , ou feignant de charmer , d ’ énormes serpents à capuchon ou d ’ horribles vipères cornues .",
+        "words": [
+          "bois",
+          "parfumé",
+          "fleurs",
+          "racines",
+          "parfums",
+          "odorantes",
+          "senteur",
+          "aromatiques",
+          "nard",
+          "aloès",
+          "baumes",
+          "pollen",
+          "affole les",
+          "nia",
+          "hove"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/cfcf2eaa-0bcd-5ef4-9ed6-221695030d5b",
+        "value": "— Est - ce vrai , monsieur Gray ? — Elle me l ’ a dit , lady Narborough , dit Dorian .Je lui ai demandé si , comme Marguerite de Navarre , elle ne conservait pas leurs coeurs embaumés et pendus à sa ceinture .Elle me répondit que non , car aucun d ’ eux n ’ en avait .",
+        "words": [
+          "embaumés",
+          "coeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/d8c3add1-266f-52af-8e28-c8808891ae7a",
+        "value": "Il se moquait du corps se déformant et des membres las .Des fois , cependant , le soir , reposant éveillé dans sa chambre imprégnée de délicats parfums , ou dans la mansarde sordide de la petite taverne mal famée située près de $ Docks , qu ’ il avait accoutumé de fréquenter , déguisé et sous un faux nom , il pensait à la ruine qu ’ il attirait sur son âme , avec un désespoir d ’ autant plus poignant qu ’ il était purement égoïste .Mais rares étaient ces moments .",
+        "words": [
+          "parfums",
+          "chambre",
+          "le soir",
+          "mansarde",
+          "imprégnée",
+          "délicats",
+          "de $ Docks",
+          "petite taverne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/dd3f2c01-e72c-52ab-a1d3-f7ca9cf37be3",
+        "value": "C ’ était un livre empoisonné .De lourdes vapeurs d ’ encens se dégageaient de ses pages , obscurcissant le cerveau ..",
+        "words": [
+          "vapeurs",
+          "encens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/ec5ef9aa-3c3e-5130-a7ea-a9de302751f1",
+        "value": "Ce sera sûrement mon chef - d ’ œuvre ; et ce l ’ est déjà .Lord Henry , en pénétrant dans le jardin , trouva Dorian Gray la face ensevelie dans un frais bouquet de lilas , en aspirant ardemment le parfum comme un vin précieux ..",
+        "words": [
+          "parfum",
+          "vin",
+          "bouquet",
+          "Dorian Gray",
+          "Lord Henry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/eeb72aa1-599c-5301-b881-aba2805b6fab",
+        "value": "Une souris s ’ enfuit , effarée , derrière les lambris .Il y avait une odeur humide de moisissure .— Ainsi , vous croyez que Dieu seul peut voir l ’ âme , Basil ? Écartez ce rideau , vous allez voir la mienne .",
+        "words": [
+          "odeur",
+          "humide",
+          "moisissure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/f0b82309-270f-58dd-b55b-f905f488bbd9",
+        "value": "Au bout de la chambre , il y avait un petit escalier , menant à une chambre obscure .Alors que Dorian en franchit les * trois marches détraquées , une lourde odeur d ’ opium le saisit .— 3io Il poussa un soupir profond , et ses narines palpitèrent de plaisir .",
+        "words": [
+          "odeur",
+          "lourde",
+          "opium",
+          "Dorian"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/f2f46231-6119-5806-bc4c-93e776e2a5c3",
+        "value": "En regagnant sa bibliothèque , il s ’ aperçut qu ’ il était cinq heures passées et que le thé était déjà servi .Sur une petite table de bois noir parfumé , délicatement incrustée de nacre , — un cadeau de lady Radley , la femme de son tuteur , charmante malade professionnelle qui passait tous les hivers au Caire — se trouvait un mot de lord Henry , avec un livre relié de jaune , à la couverture légèrement déchirée et aux tranches salies .Un numéro de la troisième édition de la Saint - James Gazette était déposé sur le plateau à thé .",
+        "words": [
+          "parfumé",
+          "Caire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/f4c0e4dd-45c3-512c-8480-4bfc02ab378c",
+        "value": "» Vous pouvez vous croire sauvé et fort .Mais un ton de couleur entrevu dans la chambre , un ciel matinal , un certain parfum que vous avez aimé et qui vous apporte de subtiles ressouvenances , un vers d ’ un poème oublié qui vous revient en mémoire , une phrase musicale que vous ne jouez plus , c ’ est de tout cela , Dorian , je vous assure , que dépend notre existence .Browning l ’ a écrit quelque part , mais nos sens nous le font imaginer aisément .",
+        "words": [
+          "parfum",
+          "vous",
+          "chambre",
+          "certain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/f90165cc-5b5c-598c-9d3e-475fe3a0ded7",
+        "value": "Il perçut que les sens , non moins que l ’ âme , avaient aussi leurs mystères spirituels et révélés .Il se mit à étudier les parfums et les secrets de leur confection , distillant lui - même des huiles puissamment parfumées , ou brûlant d ’ odorantes gommes venant de l ’ Orient .Il comprit qu ’ il n ’ y avait point de disposition d ’ esprit qui ne trouvât sa contre - partie dans la vie sensorielle , et essaya de découvrir leurs relations véritables ; ainsi l ’ encens lui sembla l ’ odeur des mystiques , et l ’ ambre gris , celle des passionnés ; la violette évoque la mémoire des amours défuntes , le musc rend dément et le champac pervertit l ’ imagination .",
+        "words": [
+          "huiles",
+          "parfums",
+          "odorantes",
+          "parfumées",
+          "puissamment",
+          "gommes"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/42ecd362-8a4e-5ebb-8d4d-a6a07ac97856",
+        "label": "Oscar  Wilde"
+      }
+    ],
+    "label": "Le Portrait de Dorian Gray / par Oscar Wilde ; traduction d'Eugène Tardieu ; bois gravés de Fernand Siméon",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k314017x",
+    "date": "1920",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5955268f-b39f-504b-b1dc-7df02c56e7be",
+      "label": "1920",
+      "begin": "1920",
+      "end": "1920"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/70a69cc1-2188-5b79-bf9d-fcc223e359f1/fragment/f2f46231-6119-5806-bc4c-93e776e2a5c3",
+  "license": "Public domain"
+}

@@ -1,0 +1,194 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/79f81709-7ff5-5128-a5fe-81d5b2804283",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/0e135707-657b-59af-aa57-61d428ea9926",
+        "value": "Là il dépouilla sa culotte et se passa aux reins un paquet de jupons que Stéphanie avait laisséssurunechaise , bouffant etmontueux avec des cassures blanches .Il remit son pet - en - l ' air au porte - manteau et le remplaça par un peignoir tout imprégné des odeurs vivantes de sa femme ; enfin , pour compléter l ' illusion , ii accumula sur sa nuque deux ou trois nattes de faux cheveux elles enferma dans un bonnet à rubans roses .Tel Achille caché parmi les compagnes de Déïdamia , comme nous l ' a montré mon benoll el bien aimé maître Théodore de Banville dans son héroïque comédie .",
+        "words": [
+          "odeurs",
+          "vivantes",
+          "peignoir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/13fb17d5-b4f3-59d7-a8b0-f118d89921d2",
+        "value": "Je ne fume pas à jeun .D ' ailleurs , ma future ne peut pas sentir l ' odeur du tabac .— Mon prince se marie ? 202 ' HISTOIRES FOLATRES — Vraisemblablement et si cela ne vous fâche pas .",
+        "words": [
+          "odeur",
+          "tabac",
+          "ma future"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/16cb02e1-e5c9-51b9-bea8-d89b9f6acc10",
+        "value": "II s ' en Ya temps que je me réhabilite aux yeux de mes lectrices par quelque aventure bien poétique , par quelque bouquet à Chloris , et que le conteur gaulois fasse place à l ' homme du monde .Or , de quoi mieux parler aux dames que de leurs soeurs naturelles , que de leurs rivales en beauté et en parfum , les reines de nos parterres ? A moi l ' aimable palette où se broient ■ côte à côte la neige des lys , le sang des roses et le coeur d ' argent des camélias I Donc , madame la comtesse Berlhe Je Fessaride adorait les fleurs , les oeillets surtout , et vous ne 170 T HISTOIRES FOLATRES ' l ' auriez jamais rencontrée dans les larges allées de son parc sans une de ces caryophyliées ( ô botanique , j ' admirerai toujours tes noms I ) piquée dans sa brune chevelure .H ne faut pas des genj juger sur l ' apparence , dit un vers justement renommé pour son lyrisme , ni des personnes par ; leur nom .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "dames",
+          "oeillets",
+          "comtesse Berlhe Je"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/16fb64e0-0578-5f52-ba01-033394638aa7",
+        "value": "Emile Dcschàmps a fort bienidécrit > idans .une pièce célèbre , Ce lieu solitaire et secret • • ' Qa9 , le parfum da sacrifice Réïèle au pèlerin discret .et il ajoute , ppur .",
+        "words": [
+          "parfum",
+          "lieu",
+          "sacrifice",
+          "pèlerin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/1d106f0b-5bda-5c3b-90ee-d389dda35c2d",
+        "value": "Un cabinet était .voisin , - tout ' embaumé d ' herbes odorantes , - et dont la prin * .cip ' alé décoration était une série do .",
+        "words": [
+          "odorantes",
+          "embaumé",
+          "herbes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/369da79b-1066-5710-86b7-400e34b91d1d",
+        "value": "Toujoursest - iiqu ' il abandonna son juron favori et no retint pas Yentemol à déjeuner ce jour - là .L ' ATTENTION MAL RÉCOMPENSÉE l ' Ceci est encore un conle gaulois et non pas écrit pour ceux dont le nez n ' aime à respirer que ce qui fleure la lavande ambrée ou la verveine , comme ce gentilhomme dont mon compère Maufrigneuse vous a conté l ' histoire , il n ' y a pas plus de vingt lunes .Je laisserai d ' ailleurs l ' aventure en son temps , ne fûtce que pour vous donner à croiro que les hommes : d ' aujourd ' hui , , élevés au grade angélique par la beauté de nos institutions républicaines , ne sont point capables de pareilles vilenies , occupés .",
+        "words": [
+          "respirer",
+          "verveine",
+          "lavande ambrée",
+          "fleure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/40f0e335-ec4c-5b9b-86e1-6e6e8b2cbc38",
+        "value": "Maboul - Pacha répondit à ce discours par un imperceptible signe de tête , en soufflant un petit ntiage d ' azur dont son turban fut un instant enveloppé .Alors Aboulifar souleva de nouveau la tapisserie et , sur un signe de lui , trois jeunes personnes en - 240 HISTOIRES FOLATRES trèrent , n ' ayant pas même une seule feuille de vigne à elle trois , emplissant soudain la chambre dé cette délicieuse odeur de femme nue qui vaut mieux que celle des plus belles roses , les cheveux dénoués et pendant magniflqu ement sur leur corps .Mais Maboul - Pacha avait déjà repris sa méditation , et la respiration rythmique de son chibouck indiquait ' seule le mouvement assez vague de sa penséeT C ' est presque comme un homme endormi qu ' il laissa parler Aboulifar , le chef de ceux qu ' on avait circoncis plus que de raison pour les rendre convenables avec les dames .",
+        "words": [
+          "odeur",
+          "roses",
+          "chambre",
+          "délicieuse",
+          "femme nue",
+          "pendant magniflqu ement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/652b83a2-3842-579c-8e91-8f4a1f791b18",
+        "value": "H Et , de fait , elle avait raison , la sentimentale Mélusine , d ' estimer que le chevalior Lothaire dellerenthaï souffrait d ' amour .Seulement , elle avait tort de penser que fût pour elle , qui était vieille , laide et mal conservée , ayant , de plus gardé , de la cohabitation avec son premier mari , une odeur de souffro et de foetus mariné qui faisait horreur aux nez délicats .Certes , il était violemment épris , le vaillant homme d ' armes , et pour une fleur tombée du corsage de brocart de la belle Jehanne aux cheveux d ' or , il eût donné sa meilleure cuirasse et sa plus longue épée , avec la moitié de son coeur dans celle - ci et le reste au bout de celle - là .",
+        "words": [
+          "odeur",
+          "souffro",
+          "foetus mariné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/7d7663dc-1a00-53c4-830b-f4d32ca063f1",
+        "value": "compa - guons .elles sont charmantes par ces temps rbrouillés , tamisant une lumière humide , imprégnées qu ' elles sont d ' odeurs printanières et de sèves s ' épanouissant s ' épanouissant verdures attendries .Des frôlements d ' ailes et des appels d ' oiseaux y redisent l ' émoi des i 2 H18T0IRE8 FOLATRES êtres dans l ' émoi fraternel des choses .",
+        "words": [
+          "elles",
+          "odeurs",
+          "printanières",
+          "sèves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/811a90cb-3183-5b04-b27e-06a6cf9a4b23",
+        "value": ".Elle accepta cependant , ne fût - ce que pour échap - • per quelques heures à cette atmosphère de vie à deux sans amour , qui est bien la plus puante chose que je sache ici - bas , et pour changer au moins le décorde son monotone supplice .A peine furent - ils partis qu ' Odile courut au bouton électrique , et , moins d ' un quart d ' heure après , Lancelot , en tenue de travail , était auprès d ' elle .",
+        "words": "puante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/827f55d2-bea6-5d8b-a312-5f68cff7f997",
+        "value": "C ' est le petit bébé en porcelaine que vous avez mis dans le gâteau , malgré mes prières , et que j ' ai avalé pour qu ' on ne se moquât pas de vous .LE COMBLE DE L ' INDIFFÉRENCE I Dans la haute pièce aux murailles dessinées d ' arabesques d ' or et qu ' éclaire une seule fenêtre tamisant , comme une poussière d ' or , l ' adieu lumineux du soleil couchant , où l ' âme des parfums flotte éparse avec les dernières clartés du jour , sur un amoncellement de coussins moelleux que des tapis de Smyrne recouvrent , Maboul - Pacha est étendu , plein de rêverie , aspirant à peine , par bouffées légères , la fumée bleue de sa longue pipe au bouquin d ' ambre laiteux .Sa barbe vénérable roule en fleuve d ' argent le long de sa poitrine chamarrée de broderies , et se sépare en deux ruisseaux pour embrasser \" 238 HISTOIRES FOLATRES son ventre pareil à unecolliné considérable .",
+        "words": [
+          "parfums",
+          "pièce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/978257bc-f03a-5c19-bc14-e40855690bdc",
+        "value": "Ainsi , le beurre en ébullilion salua , par un petit feu d ' arlifico , la descente des bas - reins à nu de M \" * la comtesse dans la poôle rouge qu ' ello n ' avait pas vue , tant elle s ' était pressée de retrousser ses jupes pour s ' asseoir sur le siôgo libérateur .Un grand cri retentit , non pas dans Ramah , mais dans la maison , et la malheureuse femme , horriblement brûlée eu derrière s ' étant élancée au travers de l ' appartement , y courait comme uno insensée , tandis que les fines dentelles de son pantalon , ayant pris feu au fer incandescent , lui grillaient les cuisses avec une suave odeur de rôti .M .",
+        "words": [
+          "suave",
+          "odeur",
+          "cuisses",
+          "rôti",
+          "maison",
+          "Ramah"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/9788660b-b0cf-5b99-a658-f835221e8456",
+        "value": "Mais Jeannette n ' avait aucune esthétique .Se laissa - t - elle prendre aux parfums intimes que sa maîtresse avait laissés en ses vêtements ? L ' illusion lui vint - elle des couleurs JEANNETTE J33 déjà vues surlo dos de M - * Boulmiche ? Toujour est - il que la ruse réussit à merveille et que , celte fois - ci , la bêle se laissa docilement traire , fermant ses yeux verts comme poursuivre un rêve intérieur qui n ' était pas exempt de secrètes voluptés .Tandis que le lait écumant montait dans la tasse attiédie , M .",
+        "words": [
+          "parfums",
+          "vêtements",
+          "intimes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/b897ef0f-0971-5528-9eca-d18f728560cf",
+        "value": "CAPRICE DE FEMME , 225 4 , ' ■ IV ■ Un chemin , un sentier plutôt , bordé , d ' un cô % té , par par de magnifiques peupliers dont les têtes oscillent ' dans un frisson argenté de lune ; de l ' autre par une • eau courante où s ' éparpille en chevelures d ' or le reflet d ' or des étoiles .Derrière les peupliers , la profondeur des taillis où le souffle du soir cueille le parfum des fleurs obscures , en gémissant délicieusement comme pour faire un orchestre à la claire * chanson du rossignol .Par delà la rivière clapotante , une plaine dont les hautes herbes ont un mouvement rythmique de vague assoupie , et , tout au loin , do rouges lueurs indiquant le hameau où les vieux prolongent en récils la veillée .",
+        "words": [
+          "parfum",
+          "profondeur",
+          "fleurs obscures",
+          "cueille"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/0cfa8a97-d779-5042-ae69-e2abca851f7f",
+        "label": "Armand  Silvestre"
+      }
+    ],
+    "label": "Histoires folâtres / Armand Silvestre",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5817344k",
+    "date": "1889",
+    "language": "fr"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/37e8db19-95df-5839-8f54-d52e36f9ccf0",
+      "label": "cuisses"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/77eaceae-19a4-5e67-b506-23fd9422d6ac",
+      "label": "1889",
+      "begin": "1889",
+      "end": "1889"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/247408/",
+      "label": "Ar Rāmah"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/1ef4a2e8-ec23-51ff-ae68-94d28e6627a9",
+      "label": "maison"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/anger",
+      "label": "anger"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/fear",
+      "label": "fear"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pain",
+      "label": "pain"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ffa8c35c-e25c-5f10-90d7-7c80e81a3794/fragment/978257bc-f03a-5c19-bc14-e40855690bdc",
+  "license": "Public domain"
+}

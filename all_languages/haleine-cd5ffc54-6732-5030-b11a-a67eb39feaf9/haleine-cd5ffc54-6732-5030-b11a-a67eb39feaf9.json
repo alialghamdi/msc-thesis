@@ -1,0 +1,233 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/cd5ffc54-6732-5030-b11a-a67eb39feaf9",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "haleine",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/2fc644f9-5151-5bcb-a924-ffc29099dbf5",
+        "value": "Soudain , un virage aigu .Une allée de parc , une allée suffocante , voûtée et comme encombrée d ’ odeurs .Puis , à ciel ouvert , un gai cottage clair devant le plus classique des jardins anglais .",
+        "words": [
+          "odeurs",
+          "suffocante",
+          "allée",
+          "allée de parc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/32f0806e-5053-555f-9404-ef76b07fce85",
+        "value": "Des rhododendrons ont douze mètres et des pommiers - roses en ont vingt ; et des arbres inconnus , inouïs , montent et flambent comme des incendies .De cette orgie de feuilles , de fleurs , de troncs , de branches , de plantes , s ’ exhale une joie lyrique , furieuse , passionnée , et l ’ air est moins embaumé qu ’ alourdi des fortes sueurs de cette foule végétale .La piste descend en lacets l ’ incroyable montagne , et plonge à nouveau sous d ’ interminables tunnels de verdure .",
+        "words": [
+          "fleurs",
+          "air",
+          "plantes",
+          "embaumé",
+          "sueurs",
+          "feuilles",
+          "branches",
+          "troncs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/51f10be8-f1ca-54b3-89e2-5ae7856d7892",
+        "value": "— Je ne peux pas m ’ y habituer , grogne le colonel .Elles ont de beaux yeux , mais elles sont trop maigres et leurs cheveux sentent mauvais .— Cela dépend , proteste Hollicott .",
+        "words": [
+          "cheveux",
+          "sentent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/759d4f2f-d852-5928-80de-24ae55a2957f",
+        "value": "Que cette lumière est décevante ! Est - ce donc là la lumière de l ’ Extrême - Orient ? Tout est pâle , d ’ une pâleur stupéfiante de pellicule ratée .Chaque rue est un couloir de hammam , qu ’ empoisonne mollement un vent fétide comme une haleine de fiévreux .Voici le boulevard bordé de temples protestants , d ’ hôtels meublés , de pagodes , de banques , de boutiques de coiffeurs et de consulats .",
+        "words": [
+          "fétide",
+          "haleine",
+          "vent",
+          "rue",
+          "hammam",
+          "couloir",
+          "haleine de fiévreux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/761ba368-214c-5b42-9c06-6a90c858415d",
+        "value": "72 LA FÉERIE CIGNHALAISE Maintenant , les pipes s ’ allument .L ’ odeur du bacon se mêle à la fumée du Virginian .Que tout cela est prodigieusement britannique ! C ’ est en vain que , par la fenêtre ouverte , Colombo nous souffle au visage son ardente haleine épicée , en vain que la vérandah s ’ abrite sous un ficus religiosa à l ’ ombre duquel Gautama médita jusqu ’ à ce qu ’ il eût atteint la sagesse ! Nous ne sommes .",
+        "words": [
+          "odeur",
+          "bacon",
+          "fumée du Virginian"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/7d1fef03-1b8a-5d50-9496-fecbe5883d63",
+        "value": "Efflanquées et agiles , elles sautent , le genou droit ployé , puis retombent , offrant leurs paumes aux étoiles .Mais pourquoi , par cette chaleur gluante , bondissent - elles avec des serviettes ? Est - ce pour essuyer la nuit ? Lui ne les regarde même pas .Ses sœurs dansent , , c ’ est leur affaire .",
+        "words": "gluante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/7f28d4db-f53c-59d7-b1ca-c7d06420ddc6",
+        "value": "L ’ eau , plus claire près des rives , étreint d ’ une longue caresse l ’ île dont elle semble amoureuse .Un poison âcre se mêle à des parfums d ’ prangers et d ’ iris .Pour quelle raison , dès que l ’ on aborde la Sicile ou l ’ Italie , les moindres contours ont - ils une empreinte divine ? Dieu a créé le monde , mais il a sculpté l ’ Italie .",
+        "words": [
+          "parfums",
+          "iris",
+          "prangers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/9ac6b946-d348-5f40-8971-1b8df140203e",
+        "value": "Un vent gras qui , au loin , ride la mer incandes - 74 LA FEERIE CINGHALAISE cente , balance lourdement les monstrueuses feuilles du taliput , dispersant un fabuleux vol de papillons verts .L ’ air sent la tubéreuse , la cannelle et le poivre .— Vous regardez ce taliput ? Savez - vous quel âge il a ? me demande le colonel .",
+        "words": [
+          "cannelle",
+          "air",
+          "poivre",
+          "tubéreuse",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/a5432cdd-7426-536d-9786-118a6ac68dc4",
+        "value": "Aujourd ’ hui , ces lacs de jungle ne sont plus réglés que par le ciel et , dans les saisons sèches , la terre les boit et le soleil les aspire .* * # Nous arriverons vers cinq heures à Pollanarua , mais en dépit de la soirée prochaine , la chaleur s aggrave , une chaleur dense , poisseuse , adhérente , si humide et si pleine d ’ odeurs qu ’ elle semble la transpiration même de la jungle .Vingt kilomètres à peine nous séparent de l ’ antique capitale , et nous roulons sur l ’ étroite piste brûlante , toute bossue de ronces .",
+        "words": [
+          "odeurs",
+          "Nous",
+          "pleine",
+          "Pollanarua"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/b0852a85-1949-5d33-b31b-0b10bf85d63b",
+        "value": "Il ne voulait pas refuser parce qu ’ il était un gentleman , et il ne voulait pas non plus couper l ’ arbre , parce que c ’ était un sacrilège .Alors , sur le conseil de la grand - prêtre , il traça sur une rameau une petite trait au vermillon , et la rameau se mit à sauter dans un vase rempli de sol parfumé .Et tout de suite elle devint une petite arbre .",
+        "words": [
+          "parfumé",
+          "vase",
+          "sol"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/cf7ac355-b9ab-5747-b441-47bd732b39a2",
+        "value": "* * * « Ceylon » ! « Ceylon ! » Un bataillon de lunettes , un front de kodaks 46 LA FEERIE CINGHALAISE se braquent sur un jardin sombre qui , tout là - bas , commence à pousser dans la mer .En vain , j ’ aspire l ’ air sans arôme , mais fais - je autre chose depuis hier au soir ? L ’ on m ’ avait dit que , bien avant l ’ arrivée , l ’ île enchantée viendrait à ma rencontre sur les flots avec une ambassade de parfums .Nous serons à quai dans deux heures .",
+        "words": [
+          "sans",
+          "air",
+          "parfums",
+          "m",
+          "île",
+          "arôme",
+          "bien avant l ’ arrivée",
+          "depuis hier au soir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/cfd835a0-bc6d-5774-b5c5-ef182a3a28e4",
+        "value": "254 LA FEERIE CINGHALAISE Mais , faut - il le confesser , c ’ est moins la splendeur de la ville écroulée qui me rend impatient que l ’ envie , et comme l ’ ivresse d ’ un bain .De l ’ eau , même tiède , mais de T eau ! Sentir que , sur mon torse , mes reins , mes bras , coulera autre chose que ma sueur ou que cette huile dont l ’ odeur me révolte .Vivre une heure , deux heures , tout un soir à l ’ état aquatique ! M ’ éclabousser d ’ eau pure , y plonger ma tête douloureuse ! Ces lacs , ces lacs incessants , avec leurs belles nappes interdites , ces lacs bleus à fond de vase et dont le contact empoisonne , ces lacs communiquent à chaque pore de ma peau les tortures de la soif .",
+        "words": [
+          "huile",
+          "odeur",
+          "sueur",
+          "me",
+          "torse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/cffcd7d4-a907-538b-8101-7730d901f835",
+        "value": "» Un peu vexé , je contemple dans mon miroir ma cravate inutile ! LES FIANCES L ’ hôtel de Bouddha et du Lac n ’ est pas , comme l ’ Eléphant Palace , un de ces hôtels modernes où l ’ on reçoit n ’ importe qui .C ’ est une pension de famille que sa directrice , Mrs Toast , parfume de ses hautes vertus .Elle est là , dans le hall , toute maigre , son long nez chevauché de lunettes , épelant un livre de comptes , assise dans le box du portier .",
+        "words": [
+          "parfume",
+          "ses",
+          "une pension de famille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/d0205657-494b-5e9f-a006-2707a4008e7e",
+        "value": "L ’ arbre est seul : il annule l ’ horizon , écrase les dagobas et rapetisse la montagne .D ’ odorantes offrandes de milliers de pétales s ’ amoncellent autour de lui dans des urnes , des jarres , des vases , dans des coupes de terre ou d ’ argent .Des chapelets de bois , d ’ or , de perles , se sanctifient à sa base .",
+        "words": [
+          "odorantes",
+          "milliers de pétales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/d11b960c-7e26-56d3-aa9c-e3dcaffc4102",
+        "value": "Chaque fois que je pose la main sur ma chemise , qui n ’ est pas kaki comme celle du capitaine .180 LA FEERIE CINGHALAISE } y imprime un document anthropométrique , La jungle entière sent le Mosquitol ! Mon compagnon qui , sitôt un repas terminé , prévoit le repas suivant , a emporté des sandwiches et du thé froid .Maintenant , risquant le bras au soleil , il remue du bout de sa canne six œufs qui , dans une corbeille , étincellent .",
+        "words": [
+          "sent",
+          "FEERIE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/e90dc7d2-c114-51cd-a8c0-6c4378afbffb",
+        "value": "Un teint marron de mur pompéien sous des cheveux collés de laque noire .Un nez autoritaire .Une moustache bleue coupée à la Chariot sur des lèvres presque violettes .",
+        "words": [
+          "nez",
+          "autoritaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/f674e546-5a58-5386-a64c-6f7fa4bd67fa",
+        "value": "C ’ est toute une ville qui tend la main .Un soleil violent chauffe ce hâtif bazar d ’ Orient , qui sent le tabac blond et le crottin .Mais c ’ est é l ' Orient tout de même .",
+        "words": [
+          "tabac",
+          "crottin",
+          "sent",
+          "Orient",
+          "tabac blond",
+          "bazar d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/fa8a6a50-5bfb-5b5c-8ff1-4eb53d0f3d16",
+        "value": "— Très juste , acquiesce Hollicott , qui déplie POLLÂNARUA 221 un vieux numéro du Times et en sort le poulet .Aussitôt , se mêle aux relents du Mosquitol et du pétrole une saine odeur de cuir .Mais l ’ œil du chasseur s ’ allume : — C ’ est un bien beau poulet , dit - il , avec un sourire engageant .",
+        "words": [
+          "cuir",
+          "odeur",
+          "saine",
+          "pétrole",
+          "relents",
+          "Aussitôt",
+          "Mosquitol"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8d9a217c-1cec-5516-ae7e-28c26f397761",
+        "label": "Francis de  Croisset"
+      }
+    ],
+    "label": "La féerie cinghalaise : Ceylan avec les Anglais / Francis de Croisset",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k934533c",
+    "date": "1926",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/379",
+      "label": "Wind"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6e2d8a0a-2b0d-5a9f-ac7a-57dc23c83181",
+      "label": "1926",
+      "begin": "1926",
+      "end": "1926"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/288110/",
+      "label": "Qarn al Ḩammām"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/05ee1ef2-e725-5860-8f12-beeff918e571",
+      "label": "rue"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/d9b220bb-d201-5474-bda8-2a6aef444bc6",
+      "label": "couloir"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/cdf7d279-bb96-5de6-815b-432fcc64eb49/fragment/759d4f2f-d852-5928-80de-24ae55a2957f",
+  "license": "Public domain",
+  "adjective": "fétide"
+}

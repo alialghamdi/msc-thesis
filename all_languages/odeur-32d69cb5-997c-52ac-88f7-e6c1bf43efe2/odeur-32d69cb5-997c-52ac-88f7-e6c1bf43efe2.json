@@ -1,0 +1,846 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/32d69cb5-997c-52ac-88f7-e6c1bf43efe2",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/006a6fcc-91ce-5ff6-b6f9-8711e2c98977",
+        "value": "Une peau de martre ou de fouine se trouve très - bien payée en France au prix de dix à douze francs .L ' analogie donne la raison de la soif de sang dont cette espèce est perpétuellement altérée , comme de l ' odeur insupportable qu ' elle exhale , comme de la soyeuseté et de la solidité de ses vêtements .Les buveurs de sang ( mustéliens de l ' Institut ) sont les animaux les plus sanguinaires de la création , parce qu ' ils symbolisent les petits voleurs , les petits assassins , les empoisonneurs de comestibles ( mouffettes ) , les falsificateurs de boissons , et parce que les manigances de tous ces infimes industriels , qui pullulent dans les limbes de la civilisation , font périr infiniment plus de monde que le canon et la baïonnette .",
+        "words": [
+          "odeur",
+          "exhale",
+          "insupportable",
+          "cette espèce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/0187ef1b-bb14-5fe3-8e17-18fc8a105f30",
+        "value": "Cependant nul n ' a songé à désigner ces animaux sous le nom de bêtes puantes .Cette dénomination caractéristique a été réservée pour les races infimes vivant de rapines et d ' assassinats sans péril , se recélant communément dans quelque souterrain manoir et empoisonnant l ' atmosphère d ' odieuses senteurs .Qui dit bête puante , dit fouine ou renard , bien que ces deux bêtes appartiennent à deux familles différentes .",
+        "words": [
+          "atmosphère",
+          "senteurs",
+          "odieuses",
+          "souterrain manoir",
+          "races infimes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/02552109-ff3a-59cc-bbb3-ce3e3041c107",
+        "value": "Tout ensemble ordonné dans la nature est régi par la loi sériaire .Il y a la gamme des sons comme celle des couleurs , des odeurs , des saveurs , comme il y a la gamme des planètes .Chaque terme de la série ou chaque note de la gamme a son titre passionnel qui détermine son grade et lui donne son numéro d ' ordre ; et toute série se moule sur la série passionnelle .",
+        "words": [
+          "odeurs",
+          "saveurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/059018e5-2dfa-5bba-a4ee-062b4e64aca2",
+        "value": "Les bêtes de cette catégorielà doivent faire le mal pour l ' unique plaisir de le faire .Quoi qu ' il en soit , c ' est dans cette famille des buveurs de sang que se rencontrent les animaux porteurs des fourrures les plus fines et les plus recherchées , ce qui a donné ailleurs , en Amérique et en Sibérie , par exemple , un immense intérêt à la chasse des bêtes puantes .La martre zibeline appartient à cette race ; elle habite la Sibérie , où l ' impôt se paye en fourrures ; une peau de zibeline russe se vend encore aujourd ' hui cent francs .",
+        "words": [
+          "puantes",
+          "bêtes",
+          "Amérique",
+          "Sibérie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/0a7ec7a6-0312-5ec2-b563-bccc460784f9",
+        "value": "Il existe mille raisons pour faire ranger le .blaireau dans la catégorie des bêtes puantes .Il est pourvu de la poche membraneuse ; c ' est une mauvaise bête , amie des demeures sombres , plus voraçe et presque aussi rusée que le renard , plus carnivore que l ' ours , mais douée , comme celui - ci , d ' un goût très - prononcé pour les fruits et le miel .",
+        "words": [
+          "puantes",
+          "blaireau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/0cc7563e-3a08-57d8-af19-9eca8b709a43",
+        "value": "Leverrier me permettra cependant de lui dire que les analogistes avaient parcouru sa planète en tous sens plus d ' un siècle avant lui , et qu ' ils s ' étaient même permis de la nommer et d ' en rapporter diverses productions .Les analogistes savaient , en effet , depuis cent ans , l ' arome typique de la planète de M .Leverrier , et si je ne demande pas à l ' illustre savant d ' où provient le tabac , c ' est que je crains de l ' embarrasser par une question insidieuse ; c ' est que j ' ai peur que l ' illustre savant ne me réponde , comme tout le monde , que le tabac provient de l ' Amérique méridionale .",
+        "words": [
+          "arome",
+          "typique",
+          "depuis cent ans",
+          "Les analogistes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/0d81b416-c5ef-58b9-a42f-9727653d7308",
+        "value": "Le jeu varié de ces nouveaux claviers multiplie les jouissances et les voluptés de l ' harmonien dans des proportions infinies , incroyables , et telles que l ' imagination du civilisé ne saurait toucher à ces calculs , sans se gonfler immédiatement d ' un profond sen - timent d ' envie .Pauvres Terriens , quand donc pourrons - nous , à notre tour , inspirer ce sentiment d ' envie , après avoir si longtemps inspiré la pitié ! La faculté de percevoir les aromes pivotaux ou cardinaux est proportionnelle d ' ailleurs au titre passionnel des espèces : ainsi , il est plus que probable que nous dépassons en facultés de perception visuelle composée tous les • animaux de la terre .Tout porte à croire que l ' homme est le seul être ici - bas qui perçoive la couleur blanche ou d ' u - nitéisme .",
+        "words": [
+          "nous",
+          "aromes",
+          "si longtemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/0e25d37f-6c48-5ae1-a74d-d986f9757951",
+        "value": "Il habite les tas de bois et les ponceaux des routes , et c ' est l ' espèce dont le nom revient le plus fréquemment dans les malédictions des ménagères .La belette , l ' hermine , l ' herminette , sont des diminutifs de la fouine , de petits moules mignons d ' où a disparu en partie l ' odeur fétide , mais où l ' humeur sanguinaire est restée .On rencontre tous les jours dans les champs et dans les garennes des cadavres de lapins et de lièvres , dont l ' autopsie fait découvrir qu ' ils ont été saignés à la jugulaire par d ' habiles praticiens .",
+        "words": [
+          "fétide",
+          "odeur",
+          "belette",
+          "petits moules mignons",
+          "herminette",
+          "fouine",
+          "hermine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/129beb30-9182-5715-a093-705748b1b6c1",
+        "value": "Songeons bien à une chose , c ' est que les fleurs violettes et les très - doux parfums et les vins délicats , dont notre Planète est réservoir , sont presque aussi rares en Herschell que les fleurs bleues sur notre Terre ; qu ' on les désire fort en Herschell , et que désir de fille est un feu qui dévore , bien plus encore en Cardinale d ' Amour qu ' en Cardinale d ' Amitié , c ' est - à - dire ici - bas .Vénus , l ' ambiguë de la Terre , parfume de lilas , arome mixte entre celui d ' amour et celui d ' amitié , comme la couleur lilas est mixte entre le violet et le bleu .Les ambiguës parfument toujours d ' arome mixte .",
+        "words": [
+          "Vénus",
+          "parfume",
+          "lilas",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/12c5384b-f838-5254-9211-5e8d453d3bc2",
+        "value": "Or , le tabac ne provient pas d ' Amérique ; le tabac , ce narcotique abrutissant , dont les gouvernements constitutionnels se servent pour empoisonner les populations et les tenir endormies sous le joug ; le tabac , qui a perdu l ' Espagne , la Turquie et la France , le tabac est une des créations pivotales de la planète Leverrier .La planète Leverrier parfume de .caporal , et celui qui l ' a inventée ne le sait peut - être pas .",
+        "words": [
+          "Leverrier",
+          "planète",
+          "parfume de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/12ec5ce3-1d2e-589a-941b-3cf87eca79b3",
+        "value": "Les oiseaux seront couverts d ' écailles et de poils ; l ' oviparie sera le principal caractère de la vie de reproduction .Pendant toute la durée de cette création , la température moyenne du globe est beaucoup plus élevée que celle d ' aujourd ' hui , et la chaleur a sa principale source foyer général des aromes du tourbillon , autrement dit l ' atmosphère du soleil .La Terre jouit d ' un été perpétuel ; l ' axe de rotation est perpendiculaire à l ' équateur , et les jours sont égaux aux nuits .",
+        "words": [
+          "aromes",
+          "Pendant toute"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/135e06ab-bb3f-58ae-9f0d-7247a544e04e",
+        "value": "Attendons , pour juger de la douceur ou de l ' indomptabilité de leur caractère , que cette émancipation préalable ait eu lieu .Tout le monde sait parfaitement aujourd ' hui que si la femme n ' eut pas régné en maîtresse absolue sous les ombrages du jardin d ' amour de Paris , jamais le farouche ramier des bois n ' eût songé à déserter le refuge des forêts solitaires , pour fixer ses pénates aux dômes parfumés des tilleuls et des marronniers des Tuileries .Ce qui est vrai du mouflon l ' est également du bouquetin , du chamois , de la perdrix et du canard sauvage .",
+        "words": [
+          "Paris",
+          "le monde",
+          "des Tuileries",
+          "dômes parfumés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/1a0bf461-9263-59cb-898a-1e2e27283107",
+        "value": "La vigne , dont le jus parfumé , lait des vieillards , dispose l ' homme à l ' expansion et à la fraternité ; la vigne , plante si éminemment française , est le plus pur produit des amours de la Terre et du Soleil .Le premier de tous les vins du monde , celui qui se bonifie le plus par la vieillesse , à l ' instar de l ' amitié , le vin velouté des crus de Haut - Brion , Laffitte , Château - Margot , parfume de violette ! La vache pacifique et féconde , la vache , mère nourricière de l ' homme , proviendra du massif et puissant Jupiter , cardinale de familisme , et aussi la pomme de Calville , emblème de prévoyance , et la jonquille d ' or , symbole parfumé de la tendresse maternelle .Les créations de la cardinale de Familisme brilleront peu par le côté poétique .",
+        "words": [
+          "parfumé",
+          "parfume",
+          "Laffitte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/1f5b095d-79bf-5f12-920c-688166b56b74",
+        "value": "Furens quid femina possit ! Pour ce faire , elle a travesti indignement tous les moules de ses aromes ; si bien que les emblèmes terrestres d ' amour ne figurent plus aujourd ' hui qu ' une risible mascarade , et qu ' il est devenu d ' une difficulté excessive de deviner les hiéroglyphes amoureux , même quand on est prévenu .Non contente du succès de cette perfidie , Herschell a poussé l ' ironie jusqu ' à la cruauté : elle était réservoir naturel de fleurs bleues , en sa qualité de cardinale hypermineure ; elle a abusé de sa position pour refuser le parfum d ' amour aux fleurs de cette couleur , qu ' elle a été obligée de livrer à la Terre ; et elle leur a innoculé , en échange , le parfum de pharmacie et des propriétés .morales .",
+        "words": [
+          "Terre",
+          "parfum",
+          "fleurs",
+          "fleurs bleues",
+          "propriétés",
+          "pharmacie",
+          "Herschell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/24e94a62-de34-570d-b6c0-62e6c4f8bf93",
+        "value": "Quelques - uns des coupables essayèrent de se justifier en affirmant qu ' ils avaient été abusés par une ressemblance fâcheuse ; mais l ' excuse ne fut pas admise , et l ' équipage fut longtemps à se relever de cet échec moral .Un chien peut se tromper de l ' œil comme tout le monde ; de l ' odorat , jamais .Le chien est sujet , comme le loup , à la rage ; le chien mord plus d ' enfants et tue chaque année plus de moutons que le loup .",
+        "words": [
+          "odorat",
+          "chien",
+          "monde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/27b11180-7743-534c-874d-5efd3065bb66",
+        "value": "C ' est le parfum de la violette , du jasmin , du réséda , de la vigne .La plupart de ces végétaux odorants , qui s ' enlacent aux autres arbres pour former des berceaux , émanent des aromes de la Terre .Le titre de fidélité et de dévouement qui caractérise les créations de cette cardinale miniature , inspire un puissant intérêt pour son malheux sort .",
+        "words": [
+          "odorants",
+          "aromes",
+          "ces végétaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/282ea554-1a44-5ea7-884c-752d90df7c0b",
+        "value": "Je citérai parmi ces types le crapaud , ma bête d ' horreur , emblème du truand qui étale ses plaies et ses pustules aux regards des passants , ou qui porte sur son dos des chapelets d ' enfants sales et déguenillés .La beauté , la richesse , et aussi le nombre des touches du clavier de la cardinale d ' Amour promettaient à la Terre d ' innombrables séries de types ravissants , parfumés , délicats .Déception cruelle ! Aucune planète ne s ' est montrée plus avare de ses dons envers sa pauvre sœur que la trop susceptible cardinale d ' Amour .",
+        "words": [
+          "parfumés",
+          "ravissants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/2849533d-5797-51d3-a40f-9498d355f473",
+        "value": "Ce sera l ' éléphant parmi les quadrupèdes ; le paon parmi les oiseaux ; le blé , la canne à sucre , la pomme de terre , la vigne , chez les plantes ; l ' or , le diamant dans le règne minéral .La vigne , dont le jus parfumé , lait des vieillards , dispose l ' homme à l ' expansion et à la fraternité ; la vigne , plante si éminemment française , est le plus pur produit des amours de la Terre et du Soleil .Le premier de tous les vins du monde , celui qui se bonifie le plus par la vieillesse , à l ' instar de l ' amitié , le vin velouté des crus de Haut - Brion , Laffitte , Château - Margot , parfume de violette ! La vache pacifique et féconde , la vache , mère nourricière de l ' homme , proviendra du massif et puissant Jupiter , cardinale de familisme , et aussi la pomme de Calville , emblème de prévoyance , et la jonquille d ' or , symbole parfumé de la tendresse maternelle .",
+        "words": [
+          "parfumé",
+          "vigne",
+          "jus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/2858e723-3db7-5ae6-a668-76d3b7fdfbf5",
+        "value": "Je conçois et j ' excuse les amours furibonds des Antoines pour les Cléopâtres ; mais je ne saurais céder à l ' entraînement général , car , il m ' en coûte de le dire , la passion des chats est un vice , un vice de gens d ' esprit , c ' est vrai , mais de gens d ' esprit dégoûtés .Jamais un homme de goût et d ' odorat subtil n ' a été et ne sera en relations sympathiques avec une bête passionnée pour l ' asperge .Je m ' étais demandé bien souvent la raison de mes faibles attractions pour la race féline avant que l ' asperge m ' eût tout dit ! La domestication du chat est toute moderne , et n ' a été opérée en France qu ' à l ' époque de l ' invasion du rat normand ( rat brun ) .",
+        "words": [
+          "subtil",
+          "odorat",
+          "homme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/2a7a3f96-0c76-5631-92bf-f3dcdf93bbc9",
+        "value": "L ' arome simple est celui qui n ' appartient qu ' à la Planète ; le composé résulte de la combinaison de l ' arome simple avec l ' arome d ' une ou de plusieurs autres planètes .Herschell , que j ' aimerais mieux appeler Eros ou Aphrodite , parfum d ' iris en simple , de tubéreuse en composé ; la Terre , violette en simple , jasmin en composé ; Jupiter , jonquille en simple , narcisse en composé ; le Soleil , foyer général des aromes du tourbillon qui ne peut avoir d ' aromes simples qu ' à la manière de la couleur blanche , parfume d ' orange et de raisin musqué .Si la puissance de l ' odorat était développée chez l ' homme au même degré que celle de l ' ouïe , la simple odeur d ' une plante ou d ' un métal suffirait pour lui en apprendre l ' origine avec tous les tenants et les aboutissants .",
+        "words": [
+          "orange",
+          "Terre",
+          "parfum",
+          "violette",
+          "jasmin",
+          "parfume",
+          "iris",
+          "tubéreuse",
+          "narcisse",
+          "aromes",
+          "Herschell",
+          "raisin musqué"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/32d2802d-8e74-50cb-8698-675e81258c67",
+        "value": "Nares habet , sed non .Je défie , du reste , tous les savants du monde civilisé de m ' expliquer le symbole de monstrueuse subversion écrit dans les propriétés scandaleuses du tabac , Une plante qui vous fait respirer par la bouche et manger par le nez ! On n ' est pas astronome , encore une fois , mais on sait que la lunigère Herschell est cardinale d ' amour ; et l ' on n ' a pas besoin d ' en savoir davantage pour donner à l ' Académie des sciences l ' explication du rébus de mécanique céleste qui l ' intrigue le plus à l ' heure qu ' il est .Je veux parler de la marche à rebours des satellites d ' Herschell qui se dirigent de l ' Est à l ' Ouest , tandis que tous autres satellites courent de l ' Ouest à l ' Est .",
+        "words": [
+          "tabac",
+          "respirer",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/3563c45d-c8e2-50f5-88e3-f8e29ff2ead9",
+        "value": "Rien d ' égal à la ténacité du lien qui attache ces misérables à leur or mal gagné .L ' odeur infecte qui s ' exhale du corps de ces bêtes puantes , c ' est la concussion , l ' agiotage , le viol , l ' assassinat , qui transsudent d ' un corps social gangrené et pourri , d ' un corps social en puissance de juif , comme la France d ' aujourd ' hui .Voulons - nous guérir le corps social de ses infamies et purger les campagnes de la bête puante ? Le moyen est le même ; il a , de plus , l ' avantage d ' être extrêmement facile .",
+        "words": [
+          "infecte",
+          "odeur",
+          "corps de ces bêtes puantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/3a2902ef-7477-57dc-aab9-fd1f3763ce82",
+        "value": "Il est douloureux de penser que les choses ne se passent pas ainsi pour les hommes des autres planètes .Dans tous les globes parvenus à l ' état d ' harmonie , l ' homme perçoit distinctement 32 couleurs dans le spectre solaire ; il est pourvu , en outre , d ' un clavier réglé pour les sens du goût , de l ' odorat et du tact .Le jeu varié de ces nouveaux claviers multiplie les jouissances et les voluptés de l ' harmonien dans des proportions infinies , incroyables , et telles que l ' imagination du civilisé ne saurait toucher à ces calculs , sans se gonfler immédiatement d ' un profond sen - timent d ' envie .",
+        "words": [
+          "odorat",
+          "homme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/3b6c16c0-a4c7-558f-8634-4daa268701f3",
+        "value": "Car beaucoup ignorent peut - être que c ' est à la Planète cardinale d ' amour que nous devons le café , la truffe , la tubéreuse , l ' iris , l ' œillet , l ' hortensia , parmi les végétaux ; le saphir , parmi les minéraux ; le cygne , la tourterelle , l ' hirondelle , le ramier , le faisan , la perdrix , la caille , parmi les oiseaux ! Autant de dons pernicieux que la morale réprouve , mais dont le moraliste raffole ! Et l ' on voudrait interdire à l ' analogiste passionnel de pleurer toutes les larmes de ses yeux et de son cœur , sur les triomphes de la fausse morale qui nous coûtent si cher ! Mais de quoi s ' irriter alors et sur quel sujet prendre feu , si l ' on reste insensible à de pareils méfaits ? Trop heureux les ignorants et les pauvres d ' esprit ! Un délicat et suave arome , et moins enivrant que ceux d ' Herschell , caractérise les créations de notre infortunée planète , dont le concours est pour cette cause si instamment réclamé de tous les astres du tourbillon solaire .C ' est le parfum de la violette , du jasmin , du réséda , de la vigne .La plupart de ces végétaux odorants , qui s ' enlacent aux autres arbres pour former des berceaux , émanent des aromes de la Terre .",
+        "words": [
+          "parfum",
+          "violette",
+          "jasmin",
+          "réséda",
+          "vigne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/3e5d4f5a-c6fb-5860-972b-f76df6d32b01",
+        "value": "Herschell , que j ' aimerais mieux appeler Eros ou Aphrodite , parfum d ' iris en simple , de tubéreuse en composé ; la Terre , violette en simple , jasmin en composé ; Jupiter , jonquille en simple , narcisse en composé ; le Soleil , foyer général des aromes du tourbillon qui ne peut avoir d ' aromes simples qu ' à la manière de la couleur blanche , parfume d ' orange et de raisin musqué .Si la puissance de l ' odorat était développée chez l ' homme au même degré que celle de l ' ouïe , la simple odeur d ' une plante ou d ' un métal suffirait pour lui en apprendre l ' origine avec tous les tenants et les aboutissants .Chaque planète verse dans l ' espace un parfum , un chant , une lueur , dont les séries et les accords forment autant de suaves mélodies ou de suaves harmonies .",
+        "words": [
+          "métal",
+          "odeur",
+          "odorat",
+          "lui",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/4043fb2e-65df-57b7-b51a-c893bc6707f7",
+        "value": "Elle perd son poil par le travail , par allusion à la misère du pauvre Savoyard dont l ' industrie pénible a pour premier effet de râper les vêtements .C ' est elle qui a appris au ramoneur à grimper entre deux parois de rocher ou de cheminée , et elle exhale une odeur désagréable qui n ' est pas sans analogie avec celle de la suie .C ' est l ' emblème du pauvre montagnard qui s ' engourdit dans sa misère et se résigne patiemment au travail le plus ingrat pour la récréation des oisifs .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "elle",
+          "suie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/43baaf39-ea51-524f-8ec7-a8bbf6c7c30e",
+        "value": "Oh ! cachons bien à tous nos secrètes douleurs et le mal qui nous fait mourir , et que l ' œil du profane ne déflore pas du moins l ' alcôve virginale où l ' amour , hélas ! n ' a pas lui .Elle dit , et son dernier parfum s ' exhale vers la contrée natale , et sa tête allanguie s ' affaisse sur sa tige .Combien d ' autres ont péri en proie au ver rongeur .",
+        "words": [
+          "parfum",
+          "son",
+          "contrée natale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/48d76226-9597-51f5-bd6d-c211d9519066",
+        "value": "Vénus , l ' ambiguë de la Terre , parfume de lilas , arome mixte entre celui d ' amour et celui d ' amitié , comme la couleur lilas est mixte entre le violet et le bleu .Les ambiguës parfument toujours d ' arome mixte .Le lilas , arbrisseau charmant , riche de fleurs , pauvre de fruits , première parure de la saison d ' amour , symbolise l ' amitié bi - sexuelle , une amitié excessivement passionnée , et qui transiterait volontiers du majeur au mineur .",
+        "words": [
+          "mixte",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/496f98a2-9052-597d-9414-6bc02f93670a",
+        "value": "Chat et Lynx .Troisième groupe , dit des Égorgeurs ou des Buveurs de sang , animaux reconnaissables à leur museau pointu , à leur étroit corsage , à leur odeur musquée , les plus féroces de tous les carnassiers , à l ' exception de la Taupe , préférant le sang à la chair et les œufs au poulet , Martre , Fouine , etc .Ce nom d ' égorgeurs ou de buveurs de sang va mieux évidemment à des bêtes qui égorgent pour le seul plaisir d ' égorger , et qui saignent leurs victimes à la jugulaire , en véritables praticiens , que celui de Musté - liens , synonyme de Rat allongé .",
+        "words": [
+          "odeur",
+          "musquée",
+          "leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/4ca8ee90-178d-5bf9-abfa-164d0afa6e34",
+        "value": "Cette dénomination caractéristique a été réservée pour les races infimes vivant de rapines et d ' assassinats sans péril , se recélant communément dans quelque souterrain manoir et empoisonnant l ' atmosphère d ' odieuses senteurs .Qui dit bête puante , dit fouine ou renard , bien que ces deux bêtes appartiennent à deux familles différentes .L ' homme , qui les confond dans sa haine , éprouve le besoin de les confondre dans la même appellation de mépris .",
+        "words": [
+          "puante",
+          "bête"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/4e344a21-f682-5039-830a-76f33b4854fc",
+        "value": "Le bouc , type effacé du bouquetin des Pyrénées et des Alpes , n ' a jamais joui d ' une grande réputation de sainteté dans la légende biblique , pas plus que dans la mythologie grecque , et je ne prends pas sur moi d ' affirmer qu ' il vaille beaucoup mieux que sa réputation .Il est très - certain que le bouc prête le flanc à la médisance par ses mœurs dissolues , et que l ' odeur qu ' il exhale ne symbolise pas un modèle de pureté .C ' est l ' emblème du sensualisme brutal ; les religions grecque , juive et chrétienne sont d ' accord sur ce point avec l ' analogie .",
+        "words": [
+          "odeur",
+          "exhale",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/4f8d9549-8e04-5fc1-b9e7-5a85592ed519",
+        "value": "Ces évents sont donc premièrement les organes de la respiration chez les cétacés piscivores , et ils servent de plus à rejeter au dehors les torrents d ' eau salée qui s ' engouffrent dans leur vaste bouche quand ils l ' ouvrent pour happer leur proie .Ils sont aussi les exutoires des mucosités qui embarrassent les voies digestives ; et l ' organe de l ' odorat qui existe chez quelques espèces est situé dans leur intérieur .Chacun de ces tuyaux de pompe est garni d ' une soupape fermant de haut en bas pour empêcher l ' eau de s ' introduire par cette issue dans la gorge lorsque l ' animal plonge .",
+        "words": [
+          "odorat",
+          "embarrassent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/50218d20-0ad8-5f80-a86e-a8db2d8c9196",
+        "value": "Et , chose assurément fort bizarre , c ' est que le soi - disant dieu de la douleur , le Dieu des catholiques lui - même , n ' a pas du tout l ' air de savoir mauvais gré aux fleurs qui obéissent avec le plus de zèle à son commandement : Aimez - vous .et que c ' est , au contraire , précisément à celles - là qui se ruinent le plus vite en frais de toilette et de parfums qu ' il accorde une place privilégiée dans ses reposoirs et ses temples .La vigne est certainement une plante sainte et une plante chérie du Seigneur et de ses ministres , puisque c ' est avec le sang de la vigne que le prêtre communie .",
+        "words": [
+          "parfums",
+          "temples",
+          "reposoirs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/5a4cc1ba-f56b-577b-9497-87ad66884dd8",
+        "value": "Je suis fâché de vous en avertir , messieurs les administrateurs , mais voici un arrêté qui pèsera un jour sur vos nuits comme un cauchemar satanique , et dont vous répondrez devant Dieu .II est vrai que le chevreuil et le cerf ne sont pas en parfaite odeur de sainteté près de la secte libérale , et je sais que de fougueux amants de la liberté ont accusé maintes fois les deux nobles espèces de tendances absolutistes , comme le pigeon ramier .L ' accusation tombe à faux .",
+        "words": [
+          "parfaite",
+          "odeur",
+          "cerf",
+          "chevreuil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/5c79fc1c-b237-5e15-ade8-0e7fa5ff1f5f",
+        "value": "Les poëtes ont bien dit .En effet , comme l ' amant qui se pare de ses plus beaux habits et lisse ses cheveux , et parfume son langage pour la visite d ' amour , ainsi , chaque matin la Terre revêt ses plus riches atours pour courir au - devant des rayons de l ' astre aimé , et déploie , pour lui plaire , un luxe extrava - gant .C ' est le même feu d ' amour qui fait miroiter à cette heure les diamants de la robe humide des prairies et qui allume les fournaises d ' or du ciel ; c ' est le même besoin d ' aimer qui réveille sous la feuillée les mélodieux ramages , et fait s ' entr ' ouvrir les corolles embaumées des fleurs pour boire les aromes de lumière et secouer dans les airs leurs cassolettes d ' encens .",
+        "words": [
+          "parfume",
+          "chaque matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/5cfc7290-425e-5f5a-b2cc-a69c66b20073",
+        "value": "Elle est plus que fétide , elle asphyxie et empoisonne chez les espèces de l ' Amérique centrale , connues sous le nom significatif de mouffettes , le chinche , la zorille , etc .On a dans ce pays - là des exemples de personnes asphyxiées et suffoquées dans leur lit par l ' odeur d ' une mouffette , et il suffit du passage de l ' une de ces bêtes par un grenier , un fruitier , une cave , pour en gâter toutes les provisions , pour rendre tous les comestibles touchés par l ' odeur immangeables , toutes les boissons impotables .On dit bien que la mouffette d ' Amérique ne cherche à tirer parti de sa propriété asphyxiante que lorsqu ' elle y est contrainte par la force ; mais je ne crois pas à cette excuse de légitime défense .",
+        "words": [
+          "odeur",
+          "personnes",
+          "boissons",
+          "immangeables",
+          "comestibles",
+          "mouffette",
+          "gâter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/60809ba3-b058-55d3-81fa-844296acfb33",
+        "value": "Mitraille , qui aimait à se vêtir à la façon du roi des animaux , se distingua par sa vaillance à l ' attaqué et à la prise d ' Alger et fut un des premiers assaillants qui pénétrèrent dans le corps de la place .Immédiatement après la victoire , il s ' offrit généreusement à déguster les sources du pays conquis , qu ' on disait avoir été empoisonnées par les Arabes , et il rendit à l ' armée française en cet office de gourmet d ' innombrables services .Rentré en France avec sa batterie et caserné à Metz , il essaya quelque temps de tromper , par les délassements de , la petite guerre , l ' ardente soif des combats qui le brûlait au cœur ; mais sa passion empirant de jour en jour finit par le dégoûter des vains exercices du polygone , et par lui inspirer le désir de tenter l ' impossible .",
+        "words": [
+          "empoisonnées",
+          "sources",
+          "Immédiatement après la victoire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/61b32a35-0f8f-53c4-bc9d-6f385a2b842e",
+        "value": "Cette atroce plaisanterie de la cardinale d ' amour vous explique pourquoi la gamme des fleurs terrestres se trouve presque complétement désemparée de la note d ' azur , et réclame vainement la rose bleue par la plume éloquente et archi - sensée d ' Alphonse Karr .L ' éclosion de la rose et de l ' œillet d ' azur aux parfums hypéraphrodisiaques demeure indéfiniment ajournée .En attendant la venue de l ' œillet bleu , nous aurons pour fiches de consolation la bourrache , une fleur charmante , d ' un bleu céleste admirable , mais qui purifie le sang au lieu de l ' embraser , et qui ne fait pas de bouquets ; le lin émollient , si doux en cataplasme .",
+        "words": [
+          "parfums",
+          "rose",
+          "œillet d ' azur",
+          "hypéraphrodisiaques",
+          "demeure indéfiniment ajournée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/661f93a8-c795-563e-8acb-e6820491d9b0",
+        "value": "La fouine , le type le plus connu de ce groupe que j ' ai nommé à bon droit des égorgeurs ou des buveurs de sang , la fouine , le putois et tous les mustéliens ont été dotés par le Créateur d ' une poche membraneuse , située dans le voisinage de la queue et qui sécrète une liqueur odorante .Chez les bêtes puantes de nos climats , cette odeur , qui offre une analogie remarquable avec celle des pastilles du sérail de la rueVivienne , n ' est que repoussante .Elle est plus que fétide , elle asphyxie et empoisonne chez les espèces de l ' Amérique centrale , connues sous le nom significatif de mouffettes , le chinche , la zorille , etc .",
+        "words": [
+          "odeur",
+          "repoussante",
+          "pastilles",
+          "sérail",
+          "bêtes puantes",
+          "la rueVivienne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/6683ee21-1a73-5acf-aeb0-34c19536afc7",
+        "value": "L ' homme de la phase normale ou de la phase d ' apogée , l ' Harmonien est exclusivement frugivore .La prédominance des appétits frugivores sur les carnivores est si marquée chez l ' ours , qu ' on connait des espèces du genre , l ' ours noir de la Louisiane notamment , à qui la seule odeur du sang et de la chair soulève le cœur de dégoût , et qui vivent de longs jours , innocentes de tout meurtre et se contentant pour toute nourriture de racines , de miel et de fruits .On m ' interrompt ici pour m ' objecter que la règle n ' est pas générale et qu ' elle offre , par exemple , deux fâcheuses exceptions dans l ' ours gris de la Californie et l ' ours blanc des mers polaires .",
+        "words": [
+          "odeur",
+          "chair",
+          "sang",
+          "carnivores",
+          "cœur de dégoût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/67066d76-19ee-54b7-b958-a763da6fd8d1",
+        "value": "L ' odeur infecte qui s ' exhale du corps de ces bêtes puantes , c ' est la concussion , l ' agiotage , le viol , l ' assassinat , qui transsudent d ' un corps social gangrené et pourri , d ' un corps social en puissance de juif , comme la France d ' aujourd ' hui .Voulons - nous guérir le corps social de ses infamies et purger les campagnes de la bête puante ? Le moyen est le même ; il a , de plus , l ' avantage d ' être extrêmement facile .Le moyen de fermer les plaies de la société et de détruire la fouine consiste à substituer la fraternité à l ' égoïsme , la solidarité à la divergence , l ' association au morcellement .",
+        "words": [
+          "puante",
+          "bête"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/6af73638-61c4-5fef-8f2a-5ecc76a09df8",
+        "value": "J ' en citerai donc brièvement quelques - uns pour l ' exemple .Saturne , cardinale d ' ambition , a pour aromes typiques les aromes de tulipe et lis , ou , pour me servir du langage plus simple de l ' analogie , Saturne parfume de tulipe et de lis , de tulipe en simple , de lis en composé .L ' arome simple est celui qui n ' appartient qu ' à la Planète ; le composé résulte de la combinaison de l ' arome simple avec l ' arome d ' une ou de plusieurs autres planètes .",
+        "words": [
+          "parfume",
+          "tulipe",
+          "lis",
+          "aromes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/6e33dd4b-9808-5594-a145-42ede354fd8c",
+        "value": "Leverrier , et si je ne demande pas à l ' illustre savant d ' où provient le tabac , c ' est que je crains de l ' embarrasser par une question insidieuse ; c ' est que j ' ai peur que l ' illustre savant ne me réponde , comme tout le monde , que le tabac provient de l ' Amérique méridionale .Or , le tabac ne provient pas d ' Amérique ; le tabac , ce narcotique abrutissant , dont les gouvernements constitutionnels se servent pour empoisonner les populations et les tenir endormies sous le joug ; le tabac , qui a perdu l ' Espagne , la Turquie et la France , le tabac est une des créations pivotales de la planète Leverrier .La planète Leverrier parfume de .",
+        "words": [
+          "tabac",
+          "narcotique",
+          "abrutissant",
+          "empoisonner les populations",
+          "tenir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/6e9c4cf7-4dfa-57a2-9117-65fc00f4450f",
+        "value": "Chez les bêtes puantes de nos climats , cette odeur , qui offre une analogie remarquable avec celle des pastilles du sérail de la rueVivienne , n ' est que repoussante .Elle est plus que fétide , elle asphyxie et empoisonne chez les espèces de l ' Amérique centrale , connues sous le nom significatif de mouffettes , le chinche , la zorille , etc .On a dans ce pays - là des exemples de personnes asphyxiées et suffoquées dans leur lit par l ' odeur d ' une mouffette , et il suffit du passage de l ' une de ces bêtes par un grenier , un fruitier , une cave , pour en gâter toutes les provisions , pour rendre tous les comestibles touchés par l ' odeur immangeables , toutes les boissons impotables .",
+        "words": [
+          "fétide",
+          "elle",
+          "asphyxie",
+          "que fétide",
+          "empoisonne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/786dd67a-e080-56c1-bc4c-5c1ed8977c1e",
+        "value": "C ' est le type originel des chiens de Normandie , de Bretagne , de Poitou , de Saintonge , type qu ' on retrouve altéré jusque dans la race anglaise .Toutes ces variétés d ' un même type national étaient également généreuses , pleines de mépris pour le renard et la bête puante ; elles affectaient les mêmes allures et ne différaient l ' une de l ' autre que par la couleur de la robe , qui pourtant ne prenait jamais la nuance noire ni la nuance orangée .La nuance orangée semble exclusive à la robe des chiens écossais .",
+        "words": [
+          "puante",
+          "bête puante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/7c6722e4-1d8e-5a13-b9e9-7b443d0bf67d",
+        "value": "La race du bouc est faite pour peupler les déserts et non pour vivre dans la société des humains .Le Civilisé et le Barbare , qui ne sont pas difficiles , peuvent bien s ' accommoder des senteurs qu ' elle exhale , mais non l ' Harmonien .Lascive , capricieuse et facile , adonnée à la vie errante et à la sorcellerie , friande de salpêtre , bonne fille au fond et bonne mère , la chèvre représente la gitana pur sang , la gente Esméralda , la compagne du satyre , la parure et la joie de la cour des Miracles , la poursuivante désordonnée du droit de libre amour .",
+        "words": [
+          "elle",
+          "senteurs",
+          "exhale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/80f4eb9a-97f4-5880-bfcb-b7e4e63ae4c5",
+        "value": "De même de l ' avare , du juif , qui n ' a pas honte de se vautrer dans la bassesse , dans l ' ignominie et l ' usure pour augmenter son capital , et qui ne trouve pas de spéculation infime dès qu ' il y a du profit à y faire .L ' empereur Vespasien disait , à propos de l ' impôt des vespasiennes , que l ' argent n ' avait pas d ' odeur .On prête la même réponse à Henri IV , dans une circonstance analogue .",
+        "words": [
+          "argent",
+          "odeur",
+          "empereur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/82a3969a-1d77-5da4-a93c-dbd1f436a92d",
+        "value": "Saturne , cardinale d ' ambition , a pour aromes typiques les aromes de tulipe et lis , ou , pour me servir du langage plus simple de l ' analogie , Saturne parfume de tulipe et de lis , de tulipe en simple , de lis en composé .L ' arome simple est celui qui n ' appartient qu ' à la Planète ; le composé résulte de la combinaison de l ' arome simple avec l ' arome d ' une ou de plusieurs autres planètes .Herschell , que j ' aimerais mieux appeler Eros ou Aphrodite , parfum d ' iris en simple , de tubéreuse en composé ; la Terre , violette en simple , jasmin en composé ; Jupiter , jonquille en simple , narcisse en composé ; le Soleil , foyer général des aromes du tourbillon qui ne peut avoir d ' aromes simples qu ' à la manière de la couleur blanche , parfume d ' orange et de raisin musqué .",
+        "words": "arome"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/857cb460-6325-5973-9426-21c74388b41b",
+        "value": "Mais un de nos amis , qui a voulu voir la chose de ses propres yeux , m ' a affirmé n ' avoir jamais réussi à faire avaler une seule couleuvre à ses pourceaux .Le porc a été doué par la nature d ' une subtilité d ' odorat prodigieuse .Il s ' en sert pour découvrir la truffe cachée dans les entrailles de la terre , et pour l ' enseigner à l ' homme .",
+        "words": [
+          "odorat",
+          "porc",
+          "prodigieuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/8b565c50-3c16-56b8-9733-ba9b07c7d7f7",
+        "value": "« Tout ce que la Terre engendre est conforme à la Terre , » dit avec justesse Hippocrate .Les aromes typiques des planètes sont connus , mais pas assez cependant pour qu ' on puisse adresser à l ' historien qui les rappelle et les précise le reproche de redite et de banalité .J ' en citerai donc brièvement quelques - uns pour l ' exemple .",
+        "words": [
+          "aromes",
+          "planètes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/8cc14243-37ef-59e9-93c2-84f834fd064e",
+        "value": "En effet , comme l ' amant qui se pare de ses plus beaux habits et lisse ses cheveux , et parfume son langage pour la visite d ' amour , ainsi , chaque matin la Terre revêt ses plus riches atours pour courir au - devant des rayons de l ' astre aimé , et déploie , pour lui plaire , un luxe extrava - gant .C ' est le même feu d ' amour qui fait miroiter à cette heure les diamants de la robe humide des prairies et qui allume les fournaises d ' or du ciel ; c ' est le même besoin d ' aimer qui réveille sous la feuillée les mélodieux ramages , et fait s ' entr ' ouvrir les corolles embaumées des fleurs pour boire les aromes de lumière et secouer dans les airs leurs cassolettes d ' encens .Fleurs et moissons , parfums et chants joyeux éclosent au souffle d ' amour .",
+        "words": [
+          "fleurs",
+          "cassolettes",
+          "embaumées",
+          "aromes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/95ee113b-788d-55cc-81b7-85d672655510",
+        "value": "Les corridors que les sangliers pratiquent dans ces fourrés , impénétrables pour le chien et pour l ' homme , nous disaient à l ' avance quand la place était habitée .Nous avions d ' ailleurs , pour nous accompagner dans ces chasses dange - reuses , un groupe de cavaliers arabes , une race d ' hommes que la nature a trop favorablement traités , et qui joignent à la force et à la supériorité du Centaure la subtilité de vue et d ' odorat du chien .Avec ces limiers - là , et dans cette terre bénie , il eût fallu bien de la bonne volonté de notre part pour faire buisson creux .",
+        "words": [
+          "odorat",
+          "Nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/95f81615-5566-5ad6-b8e8-2fd3af9e5ec8",
+        "value": "Mais les plus délicieuses créations d ' Hébé , première lune d ' Herschell , et celles de Vénus et celles de la Terre , doivent céder le pas pour la grâce et la forme , la délicatesse et la suavité des aromes aux créations de la lune favorite du tourbillon , de la planète Vestale , l ' ex - cheffe des satellites de la cardinale miniature ( Terre ) .Rien de plus gracieux , en effet , de plus frais , de plus suave , de plus odorant et de plus velouté que la rose et le pois de senteur , la pèche , la fraise , le petit pois , emblèmes parlants de virginité .charmes de l ' odorat , du palais et des yeux .",
+        "words": [
+          "odorant",
+          "rose",
+          "pois de",
+          "pèche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/96ba6880-4729-537f-b965-303183c99243",
+        "value": "On me pardonnera pour cette cause la longueur des développements que je veux donner au sujet .La piste du lièvre est une piste délicate comme celle du chevreuil , et qui ne convient que médiocrement au goût des chiens gâtés à chasser la bête puante .Il en est de ceux - ci comme des buveurs d ' absinthe , dont le palais , brûlé par l ' alcool , est devenu insensible au fin bouquet du clos Vougeot et du Haut - Brion .",
+        "words": [
+          "puante",
+          "bête"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/9769c5f5-0a6d-55d8-be5c-e73b7717a17a",
+        "value": "Le brocard aime sa compagne et défend avec énergie son bonheur conjugal , mais sa chair ne s ' enflamme pas de ses luttes amoureuses , comme la chair du daim et du cerf .Jamais l ' amour ne prend chez lui comme chez le boue l ' odeur de la luxure et de l ' immondicité .Ensuite le dévouement qu ' il a pour sa famille ne le rend pas égoïste pour ceux de sa race .",
+        "words": [
+          "odeur",
+          "amour",
+          "luxure",
+          "immondicité"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/9ad687fd-e88a-5b32-a5d2-8a686aa2205a",
+        "value": "Le furet , en ce cas , court grand danger de s ' endormir du sommeil éternel .Je ne puis pas aimer une bête qui appartient à la tribu des buveurs de sang , une bête insatiable , cauteleuse et fétide .Cependant je ne saurais m ' empêcher d ' avoir un peu de reconnaissance pour le furet , et de lui savoir gré de son obéissance à l ' homme ; car la déférence du furet pour l ' homme est d ' autant plus méritoire que rien ne le forçait , à solliciter notre alliance , qu ' il pouvait s ' en passer mieux qu ' aucune autre bête , et qu ' il a , en définitive , plus perdu que gagné à la domestication .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/9e2bbe1e-5802-5978-9c3f-46987684699c",
+        "value": "Le blaireau n ' a pas moins de droits que le renard à figurer sur cette liste d ' ignobles larrons et d ' ignobles assassins , et je l ' ai rangé dans la catégorie .La fouine , le type le plus connu de ce groupe que j ' ai nommé à bon droit des égorgeurs ou des buveurs de sang , la fouine , le putois et tous les mustéliens ont été dotés par le Créateur d ' une poche membraneuse , située dans le voisinage de la queue et qui sécrète une liqueur odorante .Chez les bêtes puantes de nos climats , cette odeur , qui offre une analogie remarquable avec celle des pastilles du sérail de la rueVivienne , n ' est que repoussante .",
+        "words": [
+          "odorante",
+          "liqueur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/a870b82c-30ed-5a9b-b19a-bc3d6d2a1935",
+        "value": "Grande et sainte leçon pour les hommes ! Confirmation solennelle de cette haute vérité philosophique , que la misère et l ' abrutissement du travailleur sont fatalement au bout de toute industrie morcelée .Combien de siècles écoulés aussi depuis que la race des faucons , à qui l ' odeur cadavéreuse des cités soulève le cœur , a déserté le ciel de Paris ! Dès l ' époque des croisades , c ' est - à - dire vers le temps où la fauconnerie est le plus en honneur , les fauconniers se plaignent déjà de la rareté des faucons en France , et sont forcés de tirer leurs sujets de Grèce , de Norwége et d ' Écosse .Aujourd ' hui l ' atmosphère française appartient en toute souveraineté aux noires bandes des choucas , des corneilles , des étourneaux et des pigeons ramiers .",
+        "words": [
+          "Grèce",
+          "odeur",
+          "cadavéreuse",
+          "ciel de Paris",
+          "Écosse",
+          "Dès l ' époque des croisades"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/a873a61b-5db6-5b61-8e00-ea2ed5e168d1",
+        "value": "L ' épagneul a bien des misères avec l ' enfant , à cause de ses oreilles longues , lustrées et soyeuses , que celui - ci aime à tirer ; mais il a bien des agréments aussi sous le rapport des tartines de beurre et de la conformité des goûts .Le chien aspire aux combats comme le cheval ; il s ' enivre de l ' odeur de la poudre et s ' abandonne à des excès de gaieté extravagante à la vue d ' un fusil .J ' en eus un en Afrique qui attaquait tout aussi volontiers l ' Arabe que le lièvre , et qui périt victime de sa passion pour la guerre .",
+        "words": [
+          "odeur",
+          "poudre",
+          "chien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/b52f3971-72f4-524c-92f7-16c67a775e35",
+        "value": "La servitude est comme la faim une mauvaise conseillère .Bien que l ' espèce soit répandue à profusion sur toute la surface de l ' ancien et du nouveau continent , bien qu ' elle s ' accommode de toutes les zones , sa vraie patrie est le steppe , la plaine incommensurable et aride où crois - sent le serpolet , la lavande , les labiées odorantes .Le lièvre ne boit pas ; il aime le grand air , l ' espace nu , d ' où l ' ennemi s ' entend de loin , et où il y a moyen de fuir .",
+        "words": [
+          "serpolet",
+          "odorantes",
+          "lavande",
+          "labiées",
+          "plaine",
+          "steppe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/b71fa264-779a-509d-ad77-d06e39e04e70",
+        "value": "On distingue la Martre de la Fouine à la couleur de sa cravate ; la Martre affectionne pour cet ornement la couleur jaune verdâtre ; la Fouine préfère le blanc .Le Vison , dont le nom est devenu , en certains pays , comme celui du bouc et du rat mort , un terme de comparaison vulgaire pour la puanteur , est une espèce tout à fait voisine de la fouine pour la couleur et pour la taille .Le Putois , plus petit que les trois espèces précédentes , semble être le type primitif du furet .",
+        "words": [
+          "puanteur",
+          "bouc",
+          "rat mort"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/bb3130dc-1fd7-51c9-9bf8-11feab32dc98",
+        "value": "Il lui est aussi facile de lire dans l ' histoire des siècles écoulés que dans celle des siècles futurs ; car il y a pour elle des livres naturels où tout ce qui est , tout ce qui fut , tout ce qui sera est écrit .Les révélations parfumées du réséda et du pois de senteur l ' ont mise au courant de l ' organisation future des cinq chœurs de l ' enfance , et lui ont appris le dévouement et la générosité des Petites Hordes .Elle sait , par une analyse attentive du gouvernement modèle des abeilles , quelles institutions préparatoires exige la fondation du régime harmonien .",
+        "words": [
+          "réséda",
+          "pois de",
+          "révélations parfumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/bb389e9e-2f69-55c9-9bfd-4a8984a674d5",
+        "value": "Raillerie à part , les précieux cadeaux que la Terre a reçus d ' Herschell , du temps de l ' entente cordiale des deux globes , disent tous les trésors que nous avons perdus à la rupture .Car beaucoup ignorent peut - être que c ' est à la Planète cardinale d ' amour que nous devons le café , la truffe , la tubéreuse , l ' iris , l ' œillet , l ' hortensia , parmi les végétaux ; le saphir , parmi les minéraux ; le cygne , la tourterelle , l ' hirondelle , le ramier , le faisan , la perdrix , la caille , parmi les oiseaux ! Autant de dons pernicieux que la morale réprouve , mais dont le moraliste raffole ! Et l ' on voudrait interdire à l ' analogiste passionnel de pleurer toutes les larmes de ses yeux et de son cœur , sur les triomphes de la fausse morale qui nous coûtent si cher ! Mais de quoi s ' irriter alors et sur quel sujet prendre feu , si l ' on reste insensible à de pareils méfaits ? Trop heureux les ignorants et les pauvres d ' esprit ! Un délicat et suave arome , et moins enivrant que ceux d ' Herschell , caractérise les créations de notre infortunée planète , dont le concours est pour cette cause si instamment réclamé de tous les astres du tourbillon solaire .C ' est le parfum de la violette , du jasmin , du réséda , de la vigne .",
+        "words": [
+          "suave",
+          "enivrant",
+          "délicat",
+          "iris",
+          "tubéreuse",
+          "truffe",
+          "arome",
+          "Herschell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/bc0ab4bf-52cd-55dc-ba4f-358df75a5c8f",
+        "value": "En aucun autre pays du globe Dieu n ' a semé plus de chants , de trésors et de fleurs .Esprit , femmes , vins , gibier de France sont titrés d ' un arome supérieur , ont un bouquet à eux qui ne permet pas qu ' on les confonde avec les femmes et les vins des autres crus et des autres contrées .Le rire est un don propre à l ' homme , une faculté caractéristique de sa supériorité .",
+        "words": [
+          "vins",
+          "femmes",
+          "arome",
+          "gibier de France",
+          "Esprit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/c21d8c0d-a76d-5fb4-9c6f-c32d0943b9d5",
+        "value": "Si la puissance de l ' odorat était développée chez l ' homme au même degré que celle de l ' ouïe , la simple odeur d ' une plante ou d ' un métal suffirait pour lui en apprendre l ' origine avec tous les tenants et les aboutissants .Chaque planète verse dans l ' espace un parfum , un chant , une lueur , dont les séries et les accords forment autant de suaves mélodies ou de suaves harmonies .Dieu est un immense artiste , mais qui n ' invite à ses concerts que les grands génies de l ' humanité , avec quelques artistes , quelques fous , quelques poëtes .",
+        "words": [
+          "parfum",
+          "chant",
+          "lueur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/c4f471e8-75a4-57e8-9296-e2d14cdb2de1",
+        "value": "C ' est le même feu d ' amour qui fait miroiter à cette heure les diamants de la robe humide des prairies et qui allume les fournaises d ' or du ciel ; c ' est le même besoin d ' aimer qui réveille sous la feuillée les mélodieux ramages , et fait s ' entr ' ouvrir les corolles embaumées des fleurs pour boire les aromes de lumière et secouer dans les airs leurs cassolettes d ' encens .Fleurs et moissons , parfums et chants joyeux éclosent au souffle d ' amour .Ces allégresses sans fin , ces ineffables harmonies qui s ' éveillent du sein de la nature endormie , au premier baiser du soleil , chantent le mot d ' amour .",
+        "words": [
+          "parfums",
+          "Fleurs",
+          "chants",
+          "moissons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/c704b6c3-1451-5233-ba4a-570d2078c572",
+        "value": "Il tient cernées d ' un cordon contagieux les plus belles demeures que la nature ait jamais faites à l ' homme sur terre ; il règne paisiblement de l ' embouchure de la Plata à celle du Mississipi , dévaste périodiquement la Nouvelle - Orléans et Rio - Janeiro , et fait de temps à autre quelque courte apparition en Europe , comme pour prendre date de possession à l ' instar du choléra , et préparer peu à peu les esprits à son établissement définitif .La fièvre jaune est le résultat de l ' empoisonnement de l ' air et des eaux par les herbes marines putréfiées que le lamantin ne paît plus , comme le choléra provient des exhalaisons pestilentielles des cadavres humains que le ~ fanatis - me local précipite dans le Gange , et que les crocodiles du fleuve oublient quelquefois de croquer .Je crois qu ' il serait facile encore de limiter le fléau de la fièvre jaune jusqu ' à un certain point , et de faire suppléer le lamantin par les tortues de mer , qui sont d ' innocentes bêtes , vivant aussi d ' herbes marines et habitant les mêmes parages .",
+        "words": [
+          "air",
+          "exhalaisons",
+          "pestilentielles",
+          "eaux",
+          "herbes marines putréfiées",
+          "cadavres humains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/c7ad1922-e54d-5814-8531-0c199f81bfb8",
+        "value": "Il y a la zone du milieu , où croissent la vigne , le mûrier , le maïs et les autres céréales ; puis enfin celle du nord , où ne mûrit plus le raisin , mais où mûris - sent encore le houblon et la pomme .Dieu a voulu que chaque division naturelle de cette terre bénie eût sa liqueur enivrante .Quelquefois les productions des trois zones s ' assemblent sous le même regard et s ' étagent l ' une sur l ' autre en gradins , du pied au sommet de la même montagne aux rivages de la mer bleue : en bas l ' olivier , l ' arbre à liége ; un Peu plus haut le mûrier , le noyer et le chêne ; puis le châtaignier , puis le hêtre , puis le sapin , puis les arbustes aux feuilles sombres et luisantes , confinant à la région des neiges éternelles où le sol ne vit plus .",
+        "words": [
+          "liqueur",
+          "enivrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/ccc606cf-3e36-5dcd-8e9c-960e1c7fff65",
+        "value": "L ' auteur du Traité de la véritable Sagesse n ' eût pas entrepris cette tâche , s ' il eût été plus rempli de son sujet .Les anciens attribuaient aux simples émanations du loup la vertu de faire avorter les juments et de rendre les génisses stériles .Dans les hiéroglyphes égyptiens , la stérilité est figurée par une jument qui foule aux pieds un loup .",
+        "words": [
+          "émanations",
+          "loup",
+          "anciens",
+          "avorter les juments",
+          "rendre les"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/cd3e72c2-3c0d-56c1-86c6-81856bc94ded",
+        "value": "Si nous voulons que les bêtes viennent à nous , je le répète pour la vingtième fois , et ce ne sera pas la dernière , il faut que nous commencions par leur donner l ' exemple de la justice , et par étaler sous leurs yeux le spectacle contagieux de notre bonheur .Il faut que nous réformions notre milieu social , dont l ' odeur et l ' aspect soulèvent de dégoût tous les cœurs généreux ; que nous fassions pour le loup des bois , pour le castor des lacs , pour le zèbre des déserts ce que nous avons fait pour les ramiers des Tuileries ; en un mot , que nous délections leurs regards par l ' exposition permanente de scènes sympathiques qui captivent leur imagination et leurs sens .Mais le civilisé orgueilleux , qui se mire dans son ignominie comme le hibou dans sa progéniture , le civilisé orgueilleux , semblable en cela à tous les pouvoirs établis , a trouvé plus facile de faire calomnier les loups , les demandeurs de réformes , que de se corriger .",
+        "words": [
+          "odeur",
+          "dégoût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/d0f4993f-08f0-52ff-9c9e-59d94dae3fab",
+        "value": "A Constantinople , et dans une foule d ' autres cités de l ' Orient , la police des rues est confiée à des chiens qui sont enrégimentés par brigades et par quartiers ; aussi tous les voyageurs s ' accordent - ils à reconnaître que la ville de Constantinople est , de toutes les capitales de l ' Europe , la moins féconde en assassins et en voleurs de nuit .Une fois que des envieux du chien avaient songé à lui ravir son titre de compagnon de chasse de l ' homme , pour le donner au porc , sous prétexte que la subtilité de l ' odorat de celui - ci dépassait encore celle de l ' odorat du chien , le chien de chasse , indigné , éprouva le besoin de tirer une vengeance terrible de cette prétention ridicule .Il étudia à fond l ' art de deviner la truffe , qui était la spécialité du porc , et parvint à enlever à son triste rival cette branche glorieuse d ' industrie .",
+        "words": [
+          "odorat",
+          "chien",
+          "porc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/d455455b-ccef-5ade-9c6c-1f6fed6d160d",
+        "value": "Il était incomparablement mieux d ' intituler cette série des Chasseurs et de la diviser en trois groupes .Le premier , dit des forceurs ou des chasseurs proprement dits , animaux doués d ' un odorat puissant , d ' un jarret d ' acier et d ' une intelligence supérieure , s ' associant pour chasser et forçant la proie de haute lutte .J ' ai nommé le Loup , le Chien , le Renard .",
+        "words": [
+          "odorat",
+          "puissant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/da947cd4-6a15-51b2-92b3-0a344ab43f75",
+        "value": "Il n ' est pas d ' astre dans le ciel dont on s ' occupe autant , dont le retour à la santé et à la raison soit attendu avec plus d ' impatience ; car le tourbillon tout entier souffre de sa souffrance , et la cardinale d ' Amour , qui témoigne aujourd ' hui tant de mauvais vouloir à la pauvre délaissée , est peut - être celle qui accueillerait sa rentrée en grâce avec le plus de joie .Songeons bien à une chose , c ' est que les fleurs violettes et les très - doux parfums et les vins délicats , dont notre Planète est réservoir , sont presque aussi rares en Herschell que les fleurs bleues sur notre Terre ; qu ' on les désire fort en Herschell , et que désir de fille est un feu qui dévore , bien plus encore en Cardinale d ' Amour qu ' en Cardinale d ' Amitié , c ' est - à - dire ici - bas .Vénus , l ' ambiguë de la Terre , parfume de lilas , arome mixte entre celui d ' amour et celui d ' amitié , comme la couleur lilas est mixte entre le violet et le bleu .",
+        "words": [
+          "doux",
+          "fleurs",
+          "parfums",
+          "vins",
+          "fleurs violettes",
+          "Herschell",
+          "notre Terre",
+          "Planète"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/db3677b0-9638-5012-82c9-bf069462df3c",
+        "value": "Ils oublient que Phœbus écrivait à une époque où le fusil à percussion n ' était pas inventé encore , et que les bêtes sauvages étaient loin de porter en ce temps - là à l ' homme le respect qu ' elles lui témoignent depuis cette dernière invention .Le bouquetin , le chamois , l ' isard paissent en troupes plus ou moins nombreuses les prairies parfumées qu ' arrosent les eaux bleues des glaciers .Pour éviter toute surprise , ils ont soin de poster des sentinelles tout autour de leur campement temporaire ; au moindre coup de sifflet d ' alarme , toute la bande se précipite avec la rapidité de l ' avalanche vers l ' issue indiquée , et regagne à bonds prodigieux l ' asile du précipice .",
+        "words": [
+          "parfumées",
+          "prairies",
+          "chamois",
+          "bouquetin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/db5b345c-fc3a-5ed1-b04e-4684a2ea3388",
+        "value": "On avait bien juré au maître , au moment de partir , de se conduire en chiens sages .mais la passion a parlé par l ' odeur de la bête , et la raison s ' est tue , comme elle se tait toujours en pareille circonstance , et le traîneau vole , vole avec la rapidité de l ' ouragan sur la crête argentée des neiges et soulève leur poussière .« Où courons - nous , bon Dieu , et où dormirons - nous ce soir , se disent en se pressant d ' effroi le touriste et son compagnon , emportés sur les ailes de la meute endiablée .",
+        "words": [
+          "odeur",
+          "bête"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/e0f10489-6b72-5c43-8fab-09a234f10757",
+        "value": "Hélas ! oui , j ' avais espéré un jour parvenir à supprimer dans mes États le vol mercantile et la falsification du sulfate de quinine ; j ' avais compté malheureusement sans les agents comptables et leurs puissants amis .On sait que le renard forme un des principaux groupes de la grande famille des forceurs , famille robuste , intelligente , douée d ' un jarret d ' acier , d ' une finesse d ' odorat exquise , d ' une vue perçante , d ' une patience à l ' épreuve et de l ' esprit d ' association .Mais l ' instinct supérieur , mais la force de la mâchoire et le génie de la combinaison stratégique ont été particulièrement dévolus dans la famille au loup et au chien : au loup , emblème du bandit , du flibustier ; au chien , emblème du gendarme et du sergent de ville ; celui - là opérant en mode subversif , celui - ci en mode harmonique .",
+        "words": [
+          "odorat",
+          "exquise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/e50b5aea-6656-5397-9893-432c57e2f1c4",
+        "value": "C ' est un animal allongé et taillé pour la course , à la poitrine haute , au ventre avalé , à la démarche oblique , aux oreilles fines et droites , à la mine éveillée , futée , spirituelle .La nature l ' a doté d ' une robe à poil rude , d ' une vue perçante , d ' un odorat exquis , d ' une mâchoire de diamant et d ' un jarret d ' acier ; sa queue fourrée balaye la terre , ses yeux flamboient dans les ténèbres ; il tient et au delà les promesses de sa mine .Tous les chiens de chasse que possède l ' homme aujourd ' hui proviennent de cette espèce , à l ' exception peut - être du chien de l ' Esquimau ou de l ' amphibie de Terre - Neuve .",
+        "words": [
+          "odorat",
+          "exquis",
+          "perçante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/e76b333a-9ddc-5182-9411-ed695b5b3bc2",
+        "value": "charmes de l ' odorat , du palais et des yeux .fleurs éphémères dont la couleur tendre semble pétrie de l ' incarnat des lèvres de la vierge , fruits parfumés comme son haleine et portant sur leur épiderme le duvet de ses joues , fruits éphémères aussi et non de garde , et qu ' il faut se hâter de manger dans leur fleur .Il va sans dire que le nom de la planète à qui nous devons la rose , le petit pois et la pèche , est parfaitement inconnu au Bureau des Longitudes , où l ' on n ' a pas l ' ha - bitude de juger les astres à leurs fruits .",
+        "words": [
+          "fruits",
+          "parfumés",
+          "fleurs éphémères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/ec407f17-1881-5d9e-925a-c7149446f4bf",
+        "value": "464 Les Taupes 466 Les Musaraignes 474 Le Desman 475 Le Hérisson ibid .Les bêtes puantes 4 - 90 Le Blaireau 489 Le Renard 452 Le Chat sauvage et le Lynx 510 L ' Ours FIN DE LA TABLE .Pour moi , que vous avez conduit dans la solitude pour me parler au coeur ; — pour moi , dont les jours et les nuits s ' écoulent délicieusement dans les célestes conversations de votre présence adorable , entre les souvenirs de la communion d ' aujourd ' hui et les espérances de la communion de demain , .",
+        "words": [
+          "puantes",
+          "bêtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/f1f64e32-6dc3-5ea2-92f7-085399133e44",
+        "value": "Seulement voici le malheur ; voici le revers de la médaille .La perversion honteuse des deux sens du goût et de l ' odorat est arrivée à la quasi - insensibilité absolue chez l ' homme de nos jours , chez le civilisé notamment , doublement abruti par l ' abus du tabac et des liqueurs corrosives ; si bien que la faculté de percevoir les aromes typiques des Planètes est perdue pour l ' espèce .De là l ' impossibilité radicale de la classification universelle fondée sur l ' indication de l ' étiquette astrale ou de la marque de fabrique des êtres à classer .",
+        "words": [
+          "liqueurs",
+          "tabac",
+          "odorat",
+          "aromes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/f37fc5cd-27ef-50da-9f24-cad6855cf8fa",
+        "value": "Le Terre - Neuve n ' est qu ' un pêcheur d ' hommes , et c ' est un pêcheur de poissons qu ' il nous faut .Combien sont - ils au jardin des Plantes , qui se doutent que c ' est la même cause qui a produit le dernier déluge et interrompu la formation de la série des canins ? J ' ai dit les aromes typiques des cardinales et les aromes mixtes des ambiguës ; je crois même avoir indiqué , bien que légèrement , la manière de s ' en servir pour classer les bêtes et les fleurs .Je ne puis clore ce chapitre sans faire voir à la science civilisée la cause de ses erreurs et de ses contre - sens en matière de classification .",
+        "words": [
+          "aromes",
+          "jardin des Plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/ffb5ec59-72dc-5d49-89e8-4d1f47a91ca5",
+        "value": "Qui prend tant de soins de sa toilette doit chérir les parfums ; la chatte raffole d ' essences ; la valériane la met hors d ' elle .La chatte avait découvert plus de mille ans avant les chimistes modernes la propriété désinfectante de la braise et du charbon .La musique mélancolique ne produit pas moins d ' effet sur ces organisations nerveuses , passionnées , électriques .",
+        "words": [
+          "charbon",
+          "braise",
+          "désinfectante",
+          "chatte",
+          "plus de mille ans avant les"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/ffc91239-c4b8-59b8-aa71-a43ea0611afb",
+        "value": "Où la chatte fait bien encore , c ' est dans la corbeille élégante qui décore le marbre blanc des comptoirs de limonadiers , près de la jeune fille qui pose pour attirer les chalands .Qui prend tant de soins de sa toilette doit chérir les parfums ; la chatte raffole d ' essences ; la valériane la met hors d ' elle .La chatte avait découvert plus de mille ans avant les chimistes modernes la propriété désinfectante de la braise et du charbon .",
+        "words": [
+          "parfums",
+          "essences",
+          "valériane"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d83bfb9b-1bd5-5317-b08b-a9de5adc7e50",
+        "label": "Alphonse  Toussenel"
+      }
+    ],
+    "label": "L'esprit des bêtes, zoologie passionnelle : mammifères de France (3e édition, revue et corrigée) / par A. Toussenel,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6209964h",
+    "date": "1858",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/7e8798c4-5e80-548c-9683-93e77c93c2b0",
+      "label": "1858",
+      "begin": "1858",
+      "end": "1858"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/2fdd7152-e2a6-54e8-8be7-2e3142f14306",
+      "label": "la rueVivienne"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/annoyance",
+      "label": "annoyance"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/2831b3bc-1d9d-5b93-b370-f2d096b74d67/fragment/661f93a8-c795-563e-8acb-e6820491d9b0",
+  "license": "Public domain",
+  "adjective": "repoussante"
+}

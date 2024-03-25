@@ -1,0 +1,104 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/80bd0c6f-1e9d-583e-870f-19ebbdedba51",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8/fragment/a0aad698-86b1-5dd5-b489-14cc0037e656",
+        "value": "D ’ autres restent longtemps , longtemps dans les rues qu ’ ils empoisonnent , décomposés , foisonnant de mouches .Tel est demeuré devant la porte d ’ une mosquée jusqu ’ à ce que l ’ iman se soit plaint enfin de l ’ odeur qui l ’ empêchait de passer .Et dans les rues se voient des scènes d ’ acharnement hideux sur les cadavres ; les enfants leur crèvent les yeux , piquent les joues devenues molles avec des baguettes , puis s ’ attèlent pour les tirer par les pieds comme des charognes .",
+        "words": [
+          "odeur",
+          "porte",
+          "iman",
+          "une mosquée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8/fragment/b783b1db-696e-582c-ab15-689a19a1c604",
+        "value": "Des coffres - forts éventrés révèlent tel amas de ruine comme une maison de commerce .Plus loin ce sont des las de laine d ' un cardeur qui couvent encore le 10 AU PAYS DES MASSACRES feu , et fument avec une épouvantable odeur de toisons roussies .On a tout brûlé et volé , y compris le bois des portes , des fenêtres et des placards .",
+        "words": [
+          "odeur",
+          "épouvantable",
+          "toisons roussies",
+          "las de laine",
+          "AU PAYS DES MASSACRES feu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8/fragment/c05521db-aab3-5131-92cf-e00ffc4b82ae",
+        "value": "En vaguant dans les cours désertes , je m ’ approche d ' un de ces puits communs aux intérieurs orientaux .Je me penche , ah mon Dieu ! quelle épouvantable , quelle inoubliable odeur sort de cette sinistre bouche d ' ombre ; odeur qui vous pénètre et vous poursuit , vous empoisonnant la respiration pour des heures ! Penser que ce sont des corps humains comme le nôtre , des corps de force , de vie , de beauté , d ’ amour qui pourrissent là .Et beaucoup d ’ autres puits sont pires , comblés de cadavres jusqu ’ à la margelle , empoisonnés à tout jamais .",
+        "words": [
+          "odeur",
+          "Je",
+          "épouvantable",
+          "empoisonnant",
+          "bouche d",
+          "inoubliable",
+          "pour des heures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8/fragment/f4e6fd23-424e-5ce8-b4b1-c0daaf7ac246",
+        "value": "Pendant les deux premières journée de fusillade , toute cette foule n ’ a rien mangé ; ensuite on a pu lui procurer un peu de pain ; et sous ce lourd soleil d ’ Orient , pour toutes ces bouches serrées d ' angoisse , séchées de peur , l ’ eau même était parcimonieusement distribuée .Enfin , au bout de huit jours , la ville semblant à peu près calme , par crainte des épidémies que les odeurs pestilentielles pouvaient provoquer , on les renvoya de force affaiblis , exténués , mourants de peur .Mais qui a commis ces massacres ? On a parlé des Druses naturellement , des Kurdes et des Tcherkesses , quoique les uns n ’ habitent pas la région et que les autres y soient une infime majorité .",
+        "words": [
+          "odeurs",
+          "pestilentielles",
+          "ville",
+          "peur",
+          "au bout de huit jours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8/fragment/fd2cd7d1-032e-54b9-91ed-9dbf25c213e2",
+        "value": ".Les cimes continuent à rester lointaines , quoique nous ayons déjà quitté la plaine pour une autre région coupée d ’ arbres et de ruisseaux , sorte de fantastique et d ’ immense verger , où des forêts d ’ arbres fruitiers émergent des orges mûres , des blés verts , des champs de pavots , des vignes rampantes ; tout cela coupé de buissons de lauriers - roses et de haies d ’ églantines blanches dont les milliers de corolles dispersent une odeur sucrée .Pêle - mêle et sans lin , ce sont des oliviers , des figuiers aux feuilles luisantes , des grenadiers fleuris : vert et pourpre ; des abricotiers enfin couverts d ' innombrables petits fruits ( les fameux « Michmich » de Syrie ) qui sèment d ’ or à profusion leur feuillage comme un précoce automne .",
+        "words": [
+          "odeur",
+          "corolles",
+          "nous",
+          "sucrée",
+          "région",
+          "plaine",
+          "verger"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/606070c4-6f02-5286-9f77-5a9ab93010e1",
+        "label": "Jean de  Beaucorps"
+      }
+    ],
+    "label": "Au pays des massacres : saignée arménienne de 1909 / Jean d'Annezay",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k11823572",
+    "date": "1910",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/08d78d7b-da9b-5eb6-adb7-ed731b7b0357",
+      "label": "1910",
+      "begin": "1910",
+      "end": "1910"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    },
+    {
+      "@id": "https://sws.geonames.org/3716055/",
+      "label": "Verger"
+    },
+    {
+      "@id": "https://sws.geonames.org/934169/",
+      "label": "Plaine Magnien"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/c6c1568c-f073-538a-9b93-cfecf1af7ab8/fragment/fd2cd7d1-032e-54b9-91ed-9dbf25c213e2",
+  "license": "Public domain",
+  "adjective": "sucrée"
+}

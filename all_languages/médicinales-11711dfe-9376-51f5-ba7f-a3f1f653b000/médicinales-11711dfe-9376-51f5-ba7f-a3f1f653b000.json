@@ -1,0 +1,157 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/11711dfe-9376-51f5-ba7f-a3f1f653b000",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "médicinales",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/408f6308-d7fe-5445-8c5c-2e03a49923a4",
+        "value": "243 chancre écossais paraît tellement simple , que notre honorable confrère se refuse énergiquement à donner du mercure au malade , qui , se croyant menacé de la vérole , le lui demandait avec instance .Vin aromatique & sirop de perchlorure de fer furent les seuls moyens employés .Au bout d ' un mois , ' le chancre était cicatrisé , & le malade , se croyant guéri , quittait la maison de santé .",
+        "words": [
+          "aromatique",
+          "perchlorure de fer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/55165090-56df-5b3d-91b1-f1bd7dd84109",
+        "value": "De nombreuses substances ont été proposées pour neutraliser immédiatement & sur place le virus syphilitique .L ' essence de citron , étendue dans un mélange d ' alcool & de savon , est celle qui offre le plus de garantie ; son odeur agréable & la facilité de son emploi en font le cosmétique le mieux approprié à cet usage .21 .",
+        "words": [
+          "agréable",
+          "odeur",
+          "essence de citron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/6d063260-0a8c-50ba-a3c4-66759e49c516",
+        "value": "Deux à trois cuillerées par jour .On peut remplacer la térébenthine des Vosges par les térébenthines de Venise ou de Bordeaux , ainsi que par les baumes de la Mecque , du Canada ou de Tolu , dont les propriétés médicinales sont à peu près semblables .II .",
+        "words": [
+          "médicinales",
+          "baumes",
+          "térébenthines",
+          "Mecque",
+          "térébenthine des Vosges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/7105ac3f-bd4b-54ff-8f90-2c6f03bb65a3",
+        "value": "Un examen attentif permettra toujours de distinguer la prostatorrhée de la spermatorrhée .Dans la prostatorrhée , la matière émise n ' est & ne peut être autre chose que du liquide prostatique , incolore , visqueux & filant comme du blanc doeuf , sans odeur spermatique .Le microscope n ' y décèle la présence d ' aucun spermatozoïde .",
+        "words": [
+          "odeur",
+          "matière",
+          "liquide prostatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/8c7843b8-dc38-503b-b92c-1873ac25cfb0",
+        "value": "Je demandai à le voir , & je constatai quatre chancres en pleine activité , avec une mono - adénite inflammatoire .« Je prescrivis des pansements avec le vin aromatique au premier malade , & quelques jours plus tard tout avait disparu ; au second , des lotions émollien ' tes , & des cataplasmes dans la région inguinale .Les chancres s ' amendèrent peu à peu , NOTES .",
+        "words": [
+          "aromatique",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/95715b4e-9aa4-58b9-9ec2-7778728eb83b",
+        "value": "5 .Le pouvoir contagieux du muco - pus blennorrhagique varie suivant l ' état inflammatoire de la muqueuse : il est d ' autant plus grand que la phiegmasie est plus intense , & que la proportion de pus que contient la matière sécrétée l ' emporte davantage sur celle du mucus .6 .",
+        "words": [
+          "pus",
+          "contagieux",
+          "muco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/a35404f1-faa7-5022-9fe1-2a5143fcad1b",
+        "value": "33 .Tous les remèdes locaux employés contre le chancre simple ordinaire conviennent au traitement du chancre ganglionnaire , suite du bubon virulent : cautérisation destructive , pansements avec le vin aromatique , le tartrate de fer & de potasse , le sulfate d ' alumine , la teinture d ' iode , & c .34 .",
+        "words": [
+          "aromatique",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/c27f2307-5504-5cbd-acb5-74351553fc05",
+        "value": "93 & se développer sous l ' influence de causes étrangères à la contagion vénérienne .Les topiques astringents ou légèrement caustiques sont ceux APHORISMES .99 qui répondent le mieux à cette triple indication .",
+        "words": [
+          "astringents",
+          "APHORISMES"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/d558138e-1b1b-58ae-8976-e4d1356bc43b",
+        "value": "Alun de potasse j à 5 gr .Vin aromatique 100 gr .Laudanum de Sydenham .",
+        "words": [
+          "Vin",
+          "aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/e5d3e55e-a585-50c4-a148-9ecc9228b404",
+        "value": "14 .Toutes les substances astringentes ou légèrement cathérétiques peuvent être utilement employées contre le chancre simple : vin aromatique , solutions d ' alun , de tannin , d ' azotate d ' argent , de teinture d ' iode , de tartrate de fer & de potasse , camphre en poudre , iodoforme , & c .Ces diverses substances peuvent être , suivant les indications , substituées l ' une à l ' autre dans le cours du traitement .",
+        "words": [
+          "vin",
+          "camphre",
+          "astringentes",
+          "substances",
+          "alun",
+          "tannin",
+          "azotate d",
+          "teinture d ' iode",
+          "tartrate de fer & de potasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/f2b38dee-c5ee-5d16-8be0-902291088e2a",
+        "value": "24 .La marche , l ' équitation ou tout autre exercice musculaire , l ' abus des alcooliques , l ' application sur le chancre de topiques irritants , favorisent le développement du bubon , particulièrement du bubon simple .Le lymphatisme & l ' anémie agissent dans le même sens .",
+        "words": [
+          "irritants",
+          "alcooliques",
+          "topiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/f3416338-b2f7-5a57-af8e-78ca7434708c",
+        "value": "En présence d ' une affection aussi tenace que l ' uréthrite , il ne faut négliger aucun des moyens propres à la combattre .Il peut arriver que la base d ' un chancre simple devienne le siège d ' un empâtement phlegîioneux phlegîioneux ou moins résistant au toucher ; mais APHORISMES .7g dans aucun cas , elle ne prend d ' elle - même cette induration nettement limitée , élastique & indolente , qui caractérise le chancre induré proprement dit .",
+        "words": [
+          "empâtement",
+          "phlegîioneux"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/be306540-fa7c-5293-9200-9b99a09524b3",
+        "label": "Edmond  Langlebert"
+      }
+    ],
+    "label": "Aphorismes sur les maladies vénériennes ; suivis d'un formulaire magistral pour le traitement de ces maladies. Edition 2 / par Edmond Langlebert,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5775097g",
+    "date": "1875",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/275",
+      "label": "Turpentine"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/211",
+      "label": "Balm"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/8cf9f659-20f8-568b-9c43-1fd3d114aad9",
+      "label": "1875",
+      "begin": "1875",
+      "end": "1875"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0299503c-8968-5f31-92d4-0512c56804f1/fragment/6d063260-0a8c-50ba-a3c4-66759e49c516",
+  "license": "Public domain"
+}

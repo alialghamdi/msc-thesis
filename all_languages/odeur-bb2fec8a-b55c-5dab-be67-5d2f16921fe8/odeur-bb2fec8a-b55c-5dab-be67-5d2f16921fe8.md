@@ -1,0 +1,893 @@
+## odeur
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/bb2fec8a-b55c-5dab-be67-5d2f16921fe8 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | odeur |
+| source.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/03068235-2529-5ef6-96c4-8e07fd445600 |
+| source.excerpts.0.value | Cette substance reçoit , en Orient , deux emplois principaux .Le mastic en larmes est utilisé par les dames turques comme masticatoire parfumé .D ' autre part cette résine sert à préparer une boisson aromatique , le mastic ou encore raki , dont on fait grande consommation dans le Levant . |
+| source.excerpts.0.words.0 | parfumé |
+| source.excerpts.0.words.1 | mastic en |
+| source.excerpts.0.words.2 | les dames turques |
+| source.excerpts.0.words.3 | masticatoire parfumé |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0450f75e-d498-5945-a5c2-52c1ab8a0787 |
+| source.excerpts.1.value | 80 le contenu d ' une noix de coco , soit environ 15 francs le litre .Indigènes et colons lui attribuent , en effet , les propriétés médicinales les plus remarquables ; topique des plus efficaces dans le traitement des plaies et ulcères , cette drogue est , en outre , utilisée en sirop ou en pilules dans l ' inflammation des bronches et de la vessie ; l ' écorce de l ' arbre est vantée comme tonique et la racine sert à préparer une infusion prétendue aphrodisiaque .Le baume de San Thomé est un liquide épais , visqueux à la température ordinaire , d ' une fluidité parfaite à 400 ; sa couleur brun clair lui donne assez l ' aspect d ' un miel foncé ; il est jaune d ' or en couche mince , d ' odeur forte , mais aromatique et agréable , rappelant celle des élémis en général ; sa saveur est très amère . |
+| source.excerpts.1.words.0 | aphrodisiaque |
+| source.excerpts.1.words.1 | drogue |
+| source.excerpts.1.words.2 | colons |
+| source.excerpts.1.words.3 | Indigènes |
+| source.excerpts.1.words.4 | médicinales les plus remarquables |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/079e0fdc-4665-5daa-aa0e-475d34f5093f |
+| source.excerpts.2.value | C ' est donc une gomme dont les propriétés sont à peu près les mêmes que celles de la gomme des Spondias , étudiée plus haut .II LES PLANTES A GOMMES MIXTES LES ASTRAGALES ET LA GOMME ADRAGANTE Les astragales , qui fournissent ce produit bien défini , la gomme adragante , qu ' on peut considérer comme le type des substances constituant le groupe des gommes mixtes , appartiennent à la famille des Légumineuses .Mais toute la région orientale de l ' Anatolie doit en être exceptée , car elle donne une gomme adragante de qualité secondaire ; il en est ainsi notamment pour celle qui provient de Kiutayeh , Ilidja , Afioum Kara - Hissar , Bouldour , Isbarta , etc . |
+| source.excerpts.2.words.0 | gomme |
+| source.excerpts.2.words.1 | adragante |
+| source.excerpts.2.words.2 | GOMME ADRAGANTE |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/08d40c67-7521-5b8a-8438-36d3d1682e0f |
+| source.excerpts.3.value | Elle est devenue rare aujourd ' hui , dans le commerce ; car l ' exploitation des forêts de sapins de la région des Vosges , sur le versant alsacien , d ' où elle provenait , est entravée à cause des règlements forestiers édictés et des difficultés créées par l ' administration forestière allemande .Connue et employée depuis le xvie siècle , cette térébenthine a toujours été appréciée pour sa limpidité et son odeur agréable .Elle se présente sous forme d ' une masse de consistance sirupeuse , claire , transparente , de couleur variant du jaune au brun , d ' odeur rappelant celle de la mélisse et du citron ( térébenthine citriodore ) , de saveur balsamique , un peu piquante , avec un arrière - goût amer . |
+| source.excerpts.3.words.0 | agréable |
+| source.excerpts.3.words.1 | odeur |
+| source.excerpts.3.words.2 | térébenthine |
+| source.excerpts.3.words.3 | depuis le xvie siècle |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0b0e7919-b167-5ebd-96e4-6e1f9ece036c |
+| source.excerpts.4.value | fournit , d ' après M .HOLMES , le bdellium nommé hotaï , que les femmes somalis emploient pour laver ou parfumer leur chevelure , et qui diffère complètement de la myrrhe par l ' absence de tout arome et de saveur amère .Mais , selon le même auteur , ce n ' est pas la plante qui secrète le bdellium opaque , qui ne peut être confondu avec le « hotaï » , car c ' est une gomme - résine en morceaux brun clair dont le goût est très amer , légèrement acre , et d ' odeur térébcnthinée . |
+| source.excerpts.4.words.0 | parfumer |
+| source.excerpts.4.words.1 | myrrhe |
+| source.excerpts.4.words.2 | femmes |
+| source.excerpts.4.words.3 | amère |
+| source.excerpts.4.words.4 | chevelure |
+| source.excerpts.4.words.5 | saveur |
+| source.excerpts.4.words.6 | arome |
+| source.excerpts.4.words.7 | bdellium |
+| source.excerpts.4.words.8 | femmes somalis |
+| source.excerpts.4.words.9 | somalis |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0b228a79-3fb7-5eb7-a801-dac7f20ac512 |
+| source.excerpts.5.value | La térébenthine du mélèze , fraîchement exsudée , .a la consistance d ' un liquide épais , parfois visqueux , transparent , d ' un jaune clair ou parfois foncé ; d ' odeur fortement aromatique , rappelant à la fois celle de l ' essence de térébenthine et un peu celle du muscat ; de saveur légèrement amère , de densité i , i85o , et de réaction faiblement acide .D ' après MM . |
+| source.excerpts.5.words.0 | odeur |
+| source.excerpts.5.words.1 | fortement aromatique |
+| source.excerpts.5.words.2 | de |
+| source.excerpts.5.words.3 | essence |
+| source.excerpts.5.words.4 | essence de |
+| source.excerpts.5.words.5 | muscat |
+| source.excerpts.5.words.6 | de térébenthine |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0bb44518-eb1c-5886-8ab4-cb898cffc131 |
+| source.excerpts.6.value | , qui se différencie aisément de l ' espèce précédente en ce que c ' est un arbuste non épineux , dont les feuilles ont leur foliole médiane à peine un peu plus grande que les folioles latérales .Il existe d ' ailleurs deux ou trois variétés de cette espèce , dont l ' une fournit le baume de la Mecque ou baume de Gilead , caractérisé par son odeur de citron .Qu ' elle soit récoltée sur l ' un ou l ' autre de ces deux Commiphora , la myrrhe d ' Arabie provient de deux régions ; d ' où sa division en deux sortes déjà citées . |
+| source.excerpts.6.words.0 | odeur |
+| source.excerpts.6.words.1 | citron |
+| source.excerpts.6.words.2 | Mecque |
+| source.excerpts.6.words.3 | Gilead |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0bc0e8c5-ea23-56ed-b614-ad602d2204ce |
+| source.excerpts.7.value | C ' est sous cette forme qu ' il est livré au commerce .Le baume du Pérou , ou mieux du Salvador , ainsi préparé est donc une oléorésine fluide , de consistance sirupeuse , de couleur rouge sombre ; d ' odeur agréable et de saveur acre , piquante et persistante .Il se dissout presque complètement dans l ' alcool , l ' acétone et le chloroforme ; mais il est très peu soluble dans l ' éther . |
+| source.excerpts.7.words.0 | agréable |
+| source.excerpts.7.words.1 | odeur |
+| source.excerpts.7.words.2 | baume |
+| source.excerpts.7.words.3 | oléorésine |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0bd2b00f-569b-52e9-b2f1-7dac3ab336eb |
+| source.excerpts.8.value | australis produit une résine qui exsude de la base du tronc , au voisinage des racines , en masses globuleuses irrégulières , de couleur rouge foncé , friable , mais dont les fragments les plus purs ont une belle nuance rouge rubis .Cette substance fond facilement en dégageant une odeur de benjoin ou parfois de sang - dragon .La résine de X . |
+| source.excerpts.8.words.0 | odeur |
+| source.excerpts.8.words.1 | benjoin |
+| source.excerpts.8.words.2 | Cette substance |
+| source.excerpts.8.words.3 | sang - dragon |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0cd473c6-5ac1-5530-b809-fc5cdbf07cb4 |
+| source.excerpts.9.value | Dans ces dépôts fossiles , la résine se trouve en morceaux de dimensions variables , allant de la grosseur d ' une noix à celle d ' une tête d ' homme .Une fois nettoyées et grattées , ces masses résineuses , très dures , se montrent formées d ' une substance dont la coloration varie de la nuance ambrée au jaune foncé , à cassure vitreuse , transparente , inodore ou d ' odeur légèrement térébenthinée , lorsqu ' on la frotte ou qu ' on la pulvérise .Mais ces caractères s ' appliquent aux varié - tés de choix . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | substance |
+| source.excerpts.9.words.2 | ces masses résineuses |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/0fd3d51c-412f-549d-a170-b8e67c395644 |
+| source.excerpts.10.value | De tous les acacias de l ' Inde , celui qui donne la meilleure gomme est bien certainement l ' Acacia Jac - quemontii BENTH .C ' est un arbuste épineux , au port élégant , à la tige et aux épines luisantes , et aux fleurs agréablement parfumées .Il habite aussi le nord - ouest de l ' Inde , dans les plaines du Pundjab , du Sind , du Rajputana , et du nord de Gujrat ; on le trouve souvent le long des cours d ' eau ; de plus , on le rencontre sur les flancs de l ' Himalaya , jusqu ' à 900 mètres . |
+| source.excerpts.10.words.0 | fleurs |
+| source.excerpts.10.words.1 | parfumées |
+| source.excerpts.10.words.2 | agréablement |
+| source.excerpts.10.words.3 | tige |
+| source.excerpts.10.words.4 | agréablement parfumées |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1073b6ad-824d-5439-93f3-a64f7a9c17ee |
+| source.excerpts.11.value | Cet arbre habite les Guyanes et le Brésil .L ' oléorésine qui en découle est liquide , jaunâtre , d ' odeur agréable ; elle conserve longtemps sa fluidité ; aussi est - elle utilisée par les indigènes pour le pansement des plaies .Le Protium Carana MARCH . |
+| source.excerpts.11.words.0 | agréable |
+| source.excerpts.11.words.1 | odeur |
+| source.excerpts.11.words.2 | elle |
+| source.excerpts.11.words.3 | longtemps |
+| source.excerpts.11.words.4 | oléorésine |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/11cb0fef-8ba6-5684-a638-a5bf5250add6 |
+| source.excerpts.12.value | Elle se présente en petites larmes arrondies ou aplaties , isolées ou réunies en masses , de couleur jaune d ' abord , puis rougeâtre ; solides à une température fraîche , mais se ramollissant facilement ; les surfaces de section brunissent rapidement , par oxydation .L ' odeur de cette substance est alliacée , forte , persistante , et son goût acre et amer .Outre l ' ombclliférone , l ' asa - foetida renferme comme principaux éléments constituants : 3 à 9 pour 100 d ' huile essentielle ; 25pour 100 environ de gomme , et 60 pour 100 d ' une matière résineuse , qui serait une combinaison de l ' acide férulique , avec un alcool résineux , l ' asarésinotannol . |
+| source.excerpts.12.words.0 | odeur |
+| source.excerpts.12.words.1 | cette substance |
+| source.excerpts.12.words.2 | goût |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/11ecbb69-1a2e-518c-ada8-cddbaf50c436 |
+| source.excerpts.13.value | La myrrhe Fadhli est en petits morceaux à .surface lisse , sans pulvérulence , sans veines blanches intérieures et sans exsudation d ' huile essentielle , mais à odeur fortement aromatique et à saveur franchement amère ; elle est apportée * à Aden .La myrrhe du Yémen se présente en morceaux plus gros , comme la myrrhe des Somalis , d ' un brun rouge foncé et à surface pulvérulente ; sur la cassure , la masse intérieure apparaît brun rou - geâtre " à aspect huileux , mais sans exsudation d ' essence , et sans veines hlanches , à . |
+| source.excerpts.13.words.0 | Aden |
+| source.excerpts.13.words.1 | odeur |
+| source.excerpts.13.words.2 | fortement aromatique |
+| source.excerpts.13.words.3 | huile essentielle |
+| source.excerpts.13.words.4 | franchement amère |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/12dd03e4-cf35-5bb5-9e8c-8ca0500983f3 |
+| source.excerpts.14.value | La « résine Gommart » se présente en masses irrégulières plus ou moins volumineuses , de coloration variant du .blanc jaunâtre au jaune citron , opaques , tendres et cassantes , d ' odeur agréable rappelant à la fois la térébenthine , le citron , l ' anis et le fenouil , de saveur légèrement amère .Au centre des gros morceaux , on trouve souvent un noyau formé de résine molle . |
+| source.excerpts.14.words.0 | agréable |
+| source.excerpts.14.words.1 | odeur |
+| source.excerpts.14.words.2 | citron |
+| source.excerpts.14.words.3 | térébenthine |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/16b5356c-6e3d-5e85-91e9-e442fe8a3762 |
+| source.excerpts.15.value | Celui - ci , fraîchement exsudé , ressemble à un écoulement de sang , et il s ' échappe de l ' arbre en telle abondance parfois que le sol , sur lequel il se répand , en est tout rouge au pied .A l ' état frais , cette tannogomme a une odeur vineuse caractéristique .Elle se forme et s ' accumule dans des réservoirs situés dans la partie profonde de l ' écorce , à la limite du bois , ou entre les couches concentriques de la zone ligneuse . |
+| source.excerpts.15.words.0 | odeur |
+| source.excerpts.15.words.1 | vineuse caractéristique |
+| source.excerpts.15.words.2 | tannogomme |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/174cccea-5576-5ed5-b9a9-09d83fa1e90c |
+| source.excerpts.16.value | CHARABOT et ses collaborateurs , MM .LALOUE et HÉBERT , ont constaté expérimentalement que les huiles essentielles odorantes sont utilisées par la plante et en partie consommées durant le travail de la fécondation et de la formation des graines .Mais il semble bien que les substances résineuses , qui résultent de l ' oxydation de ces huiles essentielles , sont véritablement , pour la plante , des résidus inutilisables , des déchets . |
+| source.excerpts.16.words.0 | huiles |
+| source.excerpts.16.words.1 | odorantes |
+| source.excerpts.16.words.2 | essentielles odorantes |
+| source.excerpts.16.words.3 | HÉBERT |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1753d7b3-b0fc-5003-b533-56ca835576df |
+| source.excerpts.17.value | Sa densité est alors de 1 , 230 à 1 , 258 .Son odeur et sa saveur sont agréables et aromatiques .Il est soluble dans son propre poids de chloroforme et d ' acide acétique cristallisable , dans la moitié de son poids de chloroforme et dans trois fois son poids de benzène . |
+| source.excerpts.17.words.0 | odeur |
+| source.excerpts.17.words.1 | aromatiques |
+| source.excerpts.17.words.2 | agréables |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/178d5628-600a-5969-a49b-4c988499578c |
+| source.excerpts.18.value | M .GUILLAUMIN y a trouvé : 10 - 14 pour 100 de débris , 31 pour 100 de résine insoluble dans la benzine et l ' éther , et de 10 à 15 pour 100 d ' une huile vert noirâtre à odeur très prononcée .Les Noirs emploient cette résine comme parfum ou comme topique sur les plaies et les ulcères . |
+| source.excerpts.18.words.0 | résine |
+| source.excerpts.18.words.1 | très prononcée |
+| source.excerpts.18.words.2 | odeur |
+| source.excerpts.18.words.3 | débris |
+| source.excerpts.18.words.4 | huile vert noirâtre |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/17bfa359-afd3-5855-bb5a-10a06f0ec0f3 |
+| source.excerpts.19.value | L ' exsudat tannifère de cette plante , selon M .LUTZ , forme des larmes ou des masses brun rougeâtre à l ' extérieur , rouge foncé à l ' intérieur ; il est dur , à cassure conchoïdale et opaque ; sa saveur est douceâtre , son odeur spéciale ; il est entièrement soluble dans l ' eau .Par contre , une espèce voisine , le Rhizophora Candel L . |
+| source.excerpts.19.words.0 | odeur |
+| source.excerpts.19.words.1 | son |
+| source.excerpts.19.words.2 | sa |
+| source.excerpts.19.words.3 | il |
+| source.excerpts.19.words.4 | spéciale |
+| source.excerpts.19.words.5 | douceâtre |
+| source.excerpts.19.words.6 | LUTZ |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1983bee0-871c-5ba2-8233-91141a5e5c3f |
+| source.excerpts.20.value | s ' écoule une substance tannique qui peut se conserver longtemps liquide , puis se concrète en un kino solide .Le liquide , aqueux , est brun rougeâtre , clair , d ' une densité de 1 , 008 , ayant une ' odeur assez désagréable d ' acide acétique .Le kino , à l ' état solide , se présente en petites masses d ' un brun rougeâtre et cassantes ; pulvérisé , il se dissout lentement dans l ' eau , en donnant une solution de même nuance que le produit initial et en laissant un résidu abondant . |
+| source.excerpts.20.words.0 | odeur |
+| source.excerpts.20.words.1 | assez désagréable |
+| source.excerpts.20.words.2 | liquide |
+| source.excerpts.20.words.3 | acide acétique |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1a89f534-464d-5b35-9057-9b396652b952 |
+| source.excerpts.21.value | L ' huile essentielle , dont la densité est o , 83 , est limpide et d ' odeur citrique .Ce « baume vert » serait un topique efficace en application sur les ulcères .VII LES DIPTÉROCARPÉES A HUILE DE BOIS OU BAUME DE GURJUN De nombreuses espèces du genre Dipterocarpas produisent , en abondance parfois , une oléorésirte fluide appelée huile de bois ( wood oil ) , ou encore baume de Gurjun . |
+| source.excerpts.21.words.0 | baume |
+| source.excerpts.21.words.1 | topique |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1b23831f-c1c0-598d-b062-5f43310f5c50 |
+| source.excerpts.22.value | Ces derniers produits , dont la nature morbide ou pathologique n ' est d ' ordinaire point douteuse , se présentent sous forme de liquides épais qui , tantôt gardent plus ou moins leur fluidité , tantôt , et plus fréquemment , se concrètent à l ' air en masses de consistance variable .Par leurs propriétés générales , les matières résineuses sont , dans la majorité des cas , faciles à distinguer des exsudats gommeux .Leur insolubilité dans l ' eau est à peu près complète ; tandis qu ' elles sont solubles dans de nombreux solvants , lesquels n ' ont aucune action appréciable , au contraire , sur les gommes : tels sont l ' alcool absolu , l ' éther , le chloroforme , le toluène , l ' éther de pétrole , l ' acétone , la benzine et ses dérivés , les essences et les huiles fixes . |
+| source.excerpts.22.words.0 | matières résineuses |
+| source.excerpts.22.words.1 | exsudats |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1bd37864-557f-53db-bc5e-978772576927 |
+| source.excerpts.23.value | Le Protium Icicariba MARCH ., du Brésil et du Vénézuéla , fournit une résine qui , lorsqu ' elle est solidifiée , se présente en morceaux mamelonnés , jaune brun ou verdâtre , à surface luisante , huileuse , à parfum de citron .Le Protium AracouchiniMARcH . |
+| source.excerpts.23.words.0 | résine |
+| source.excerpts.23.words.1 | Brésil |
+| source.excerpts.23.words.2 | parfum |
+| source.excerpts.23.words.3 | citron |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1cbb56a2-462b-5162-bd67-fd204ab4f991 |
+| source.excerpts.24.value | L ' Araucaria Bidwilli HOOK .le bunya - bunya des indigènes de l ' Australie orientale , où il constitue des forêts , peut fournir annuellement , par un gemmage méthodique , vers l ' âge de 8 ou 10 ans , de 5 à 6 kilogrammes d ' une gomme - résine à odeur de muscade .Cet exsudât est surtout riche en , gomme : De provenance australienne , il contient 92 pour i oo de , gomn - ie soluble , comparable à la gomme arabique , malheureusement de saveur amère . |
+| source.excerpts.24.words.0 | résine |
+| source.excerpts.24.words.1 | odeur |
+| source.excerpts.24.words.2 | muscade |
+| source.excerpts.24.words.3 | gomme |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/1ea3a05c-88b9-52d7-be6e-317ce381db6a |
+| source.excerpts.25.value | La résine exsudée à ces niveaux se concrète sous forme de petites perles irrégulièrement globuleuses , dans lesquelles sont incluses des écailles de bourgeons ou de jeunes calices .La substance est de couleur jaune clair ; elle se réduit facilement en une poudre jaune soufre , qui , froissée entre les doigts , exhale une odeur comparable à celle des élémis .Cette poudre , d ' après les essais de M . |
+| source.excerpts.25.words.0 | odeur |
+| source.excerpts.25.words.1 | elle |
+| source.excerpts.25.words.2 | celle |
+| source.excerpts.25.words.3 | substance |
+| source.excerpts.25.words.4 | élémis |
+| source.excerpts.25.words.5 | poudre jaune soufre |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/219661e5-d6ac-52bc-bc01-8e5683f7d629 |
+| source.excerpts.26.value | D ' après MM .TSCHIRCH et W EIGEL , elle contient : 60 à 64 pour ioo d ' acides résiniques , Y acide laricinolique ( 4 à 5 pour ioo ) cristallisé , et les acides ex et fi - larinoliques ( 55 à 60 pour ioo ) isomères amorphes ; un mélange de résène ( 14 à 15 pour 100 ) et d ' huile essentielle ( 20 à 22 pour 100 ) qui , fraîchement distillée , est un liquide incolore , mobile , ayant l ' odeur de l ' essence de térébenthine avec un certain parfum de muscat et de lavande ; et 2 à 4 pour 100 renfermant des traces d ' acide succinique , un principe amer , une matière colorante , de l ' eau et des impuretés .Le pin noir et la térébenthine d ' Autriche . |
+| source.excerpts.26.words.0 | parfum |
+| source.excerpts.26.words.1 | odeur |
+| source.excerpts.26.words.2 | matière |
+| source.excerpts.26.words.3 | principe |
+| source.excerpts.26.words.4 | essence |
+| source.excerpts.26.words.5 | lavande |
+| source.excerpts.26.words.6 | huile essentielle |
+| source.excerpts.26.words.7 | essence de térébenthine |
+| source.excerpts.26.words.8 | muscat |
+| source.excerpts.26.words.9 | acide succinique |
+| source.excerpts.26.words.10 | résène |
+| source.excerpts.26.words.11 | acides résiniques |
+| source.excerpts.26.words.12 | acide laricinolique |
+| source.excerpts.26.words.13 | acides ex et |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/21e7a215-5f79-5abd-a7ec-0eff17f615b4 |
+| source.excerpts.27.value | Tschirch et BRÜNING , cette résine de P .vulgaris , à l ' état lirut , est d ' odeur aromatique ; elle est mélangée de beaucoup de feuilles , fragments d ' écorce ou de bois ; traitée par l ' éther , elle abandonne 1 / 3 environ d ' impuretés .De la solution éthéxée on obtient , aprè s élimination de l ' éther , une masse transparente , jaune d ' or foncé , ayant la con - sistance d ' un liquide épais . |
+| source.excerpts.27.words.0 | aromatique |
+| source.excerpts.27.words.1 | elle |
+| source.excerpts.27.words.2 | feuilles |
+| source.excerpts.27.words.3 | odeur aromatique |
+| source.excerpts.27.words.4 | vulgaris |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/227cdb6f-c8cd-5756-875e-0ff152e7bcbe |
+| source.excerpts.28.value | Par contre , le résidu résinoïde obtenu par ce procédé est translucide , faiblement coloré en rouge brun ; il se dissout dans l ' alcool et l ' essence de térébenthine , et donne , avec ce dernier solvant , un beau vernis .Par distillation de l ' oléorésine brute dans un courant de vapeur d ' eau , on obtient une proportion plus élevée d ' huile essentielle claire et d ' odeur très - fine ; mais la résine restante est moins belle que dans le cas précédent .Il convient , croyons - nous , de placer à la suite des élémis et à côté des résines de Pislacia , l ' exsudat résineux du Schinus dependens ORTEGA var . |
+| source.excerpts.28.words.0 | odeur |
+| source.excerpts.28.words.1 | huile essentielle |
+| source.excerpts.28.words.2 | très - fine |
+| source.excerpts.28.words.3 | oléorésine brute |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/263445d4-21c0-5835-85fa-cc4200aca2af |
+| source.excerpts.29.value | Mais , en réalité , le raki ne doit pas être confondu avec le mastic .Le raki entre dans le groupe des boissons alcoolisées et aromatiques connues sous le nom de douzico ou tchipouro ; ce sont des solutions d ' eau - de - vie de marc ou d ' alcool de grains , auxquelles on ajoute 10 pour ioo d ' anis et i pour 100 de coriandre broyée , et qu ' on distille une ou deux fois .En tout cas , la résine mastic n ' entre pas dans la composition de ces liqueurs . |
+| source.excerpts.29.words.0 | aromatiques |
+| source.excerpts.29.words.1 | alcoolisées |
+| source.excerpts.29.words.2 | vie |
+| source.excerpts.29.words.3 | alcool de grains |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/268ca0f8-5478-55c9-9c90-7218cb742de6 |
+| source.excerpts.30.value | glabrescens ENGL ., habite le sud de l ' Abyssinie et le Somaliland , de Harar au cap Guardafui ; il donne le bdellium à parfum ou habaghadi des Somalis , produit qui a l ' aspect de la myrrhe recueillie dans la même région , mais qui s ' en distingue par son goût plutôt âcre qu ' amer , et son odeur rappelant celle de certains champignons , mais bien différente de l ' odeur aromatique de la myrrhe .Le Commiphora Playfairii HooK . |
+| source.excerpts.30.words.0 | Harar |
+| source.excerpts.30.words.1 | aromatique |
+| source.excerpts.30.words.2 | parfum |
+| source.excerpts.30.words.3 | odeur |
+| source.excerpts.30.words.4 | myrrhe |
+| source.excerpts.30.words.5 | champignons |
+| source.excerpts.30.words.6 | sud |
+| source.excerpts.30.words.7 | Abyssinie |
+| source.excerpts.30.words.8 | bdellium |
+| source.excerpts.30.words.9 | Somaliland |
+| source.excerpts.30.words.10 | cap Guardafui |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/27410cd3-d524-5fce-a3c8-4dcd04a5ff9d |
+| source.excerpts.31.value | C , , comme produisant des gommes vraies , comparables , d ' après lui , à la gomme arabique ; tandis que le P .undulatum jVENT , laisserait exsuder une gomme - résine à odeur agréable de térébenthine .Enfin , mentionnons une Légumineuse des îles de l ' Océanie dont la gomme - résine aurait , d ' après . |
+| source.excerpts.31.words.0 | résine |
+| source.excerpts.31.words.1 | agréable |
+| source.excerpts.31.words.2 | odeur |
+| source.excerpts.31.words.3 | térébenthine |
+| source.excerpts.31.words.4 | gomme |
+| source.excerpts.31.words.5 | exsuder |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/27bfabbb-f684-5df1-a115-4e15e3a270a1 |
+| source.excerpts.32.value | Ils habitent , à Tahiti , à une altitude de 1 100 à 1 200 mètres et fleurissent en octobre - novembre .Le Filchia nutans , plus que l ' autre espèce , dont la taille est d ' ailleurs moindre , laisse exsuder au ni veau de ses jeunes branches et de ses capitules un produit résineux odorant , qui paraît être une oléorésine , mais dont l ' analyse exacte n ' a pas été faite .Il convient de mentionner encore , à ce même point de vue certains Psiadia des Mascareignes , notamment le Psiadia balsamica D . |
+| source.excerpts.32.words.0 | odorant |
+| source.excerpts.32.words.1 | produit |
+| source.excerpts.32.words.2 | exsuder |
+| source.excerpts.32.words.3 | jeunes branches |
+| source.excerpts.32.words.4 | oléorésine |
+| source.excerpts.32.words.5 | Filchia nutans |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/27cd91de-195a-512b-8e69-eeea86774376 |
+| source.excerpts.33.value | HIERN lé signale également dans l ' Angola .Son produit , le bdellium d ' Afrique , est en morceaux durs , arrondis , d ' un brun clair ou brun grisâtre foncé , à cassure parsemée parfois de points brillants , à odeur aromatique , mais différente de celle de la myrrhe , et à saveur moins amère et légèrement acre .En Afrique occidentale , d ' après RANÇO . |
+| source.excerpts.33.words.0 | aromatique |
+| source.excerpts.33.words.1 | myrrhe |
+| source.excerpts.33.words.2 | odeur aromatique |
+| source.excerpts.33.words.3 | bdellium d |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/2a2230be-af0d-5629-b0ab-bbfe34115a71 |
+| source.excerpts.34.value | ) habite la Nouvelle - Calédonie , où on le trouve en abondance dans ' les forêts de la baie de Prony , sur les sols ferrugineux et rocailleux .Il laisse exsuder spontanément une substance résineuse , en même temps que tannifère et astringente , qui se présente parfois en grosses masses arrondies ou hémisphériques à la surface du tronc .Et ce fait s ' explique par la localisation du produit dans les tissus profonds . |
+| source.excerpts.34.words.0 | astringente |
+| source.excerpts.34.words.1 | substance |
+| source.excerpts.34.words.2 | exsuder |
+| source.excerpts.34.words.3 | tannifère |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/30758343-af0e-5f03-b172-782264da1030 |
+| source.excerpts.35.value | La myrrhe du Yémen se présente en morceaux plus gros , comme la myrrhe des Somalis , d ' un brun rouge foncé et à surface pulvérulente ; sur la cassure , la masse intérieure apparaît brun rou - geâtre " à aspect huileux , mais sans exsudation d ' essence , et sans veines hlanches , à .odeur aromatique mais forte , parfois plutôt désagréable et à saveur très amère ; elle est exportée par Makalla à Bombay et à Aden .Les exsudats d ' un assez grand nombre d ' autres Commiphora de l ' Afrique , de l ' Arabie ou de l ' Inde , constituent des sortes de bdellium , produit bien distinct de la myrrhe . |
+| source.excerpts.35.words.0 | Aden |
+| source.excerpts.35.words.1 | odeur |
+| source.excerpts.35.words.2 | très amère |
+| source.excerpts.35.words.3 | plutôt désagréable |
+| source.excerpts.35.words.4 | Bombay |
+| source.excerpts.35.words.5 | aromatique mais forte |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/31a95d8e-e451-5708-8c3d-2be0ab9be107 |
+| source.excerpts.36.value | Cette espèce donne de la résine en abondance ; celleci exsude spontanément du tronc , mais on stimule d ' ordinaire sa sécrétion par des incisions .La sandaraque australienne est en grosses larmes agglomérées , recouvertes d ' un enduit pulvérulent blanc , mais formées à l ' intérieur d ' une substance résineuse brillante , jaune pâle ou ambrée , transpaparente , limpide , d ' odeur agréable , d ' ailleurs assez faible .D ' après TSCHIRCII et AYOLLF , la sandaraque de qualité supérieure a pour densité moyenne 1 , 07 1 , pour indice d ' acide i36 , 6 et pour indice de saponification 166 , 25 . |
+| source.excerpts.36.words.0 | faible |
+| source.excerpts.36.words.1 | agréable |
+| source.excerpts.36.words.2 | odeur |
+| source.excerpts.36.words.3 | substance |
+| source.excerpts.36.words.4 | grosses larmes |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/33fc2488-2899-5ff6-a4e9-4aac5c2f6082 |
+| source.excerpts.37.value | Le Protium Carana MARCH ., qui habite le Nord du Brésil et le Pérou , laisse exsuder une oléorésine connue sous le nom de baume de Carana : elle est brun jaunâtre ou verdâtre , à odeur de fenouil et à saveur amère .MM . |
+| source.excerpts.37.words.0 | Brésil |
+| source.excerpts.37.words.1 | Pérou |
+| source.excerpts.37.words.2 | odeur |
+| source.excerpts.37.words.3 | elle |
+| source.excerpts.37.words.4 | amère |
+| source.excerpts.37.words.5 | fenouil |
+| source.excerpts.37.words.6 | saveur |
+| source.excerpts.37.words.7 | exsuder |
+| source.excerpts.37.words.8 | Nord |
+| source.excerpts.37.words.9 | oléorésine |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/3772a4b3-1023-5a2e-b655-44c368ec7780 |
+| source.excerpts.38.value | ( Icica decandra AUBL .) des Guyanes anglaise et française , est le chipa des Galibis ; sa résine fraîchement exsudée est fluide , à parfum de citron ; mais desséchée , elle est jaune , transparente , et d ' odeur très faible .C ' est pro - bablement la « tacamaque jaune huileuse » de la pharmacologie . |
+| source.excerpts.38.words.0 | très faible |
+| source.excerpts.38.words.1 | parfum |
+| source.excerpts.38.words.2 | odeur |
+| source.excerpts.38.words.3 | elle |
+| source.excerpts.38.words.4 | citron |
+| source.excerpts.38.words.5 | sa résine |
+| source.excerpts.38.words.6 | française |
+| source.excerpts.38.words.7 | Guyanes anglaise |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/3ac4e6b4-dc99-58c6-bd4d-377dd7fa77e2 |
+| source.excerpts.39.value | v LES PLANTES A ÉLÉMIS ET A MASTIC Elles appartiennent à la vaste famille des Térébinthàcées , comprenant deux sous - familles : les Burséracées et les Anacardiacées .On nomme généralement élémis des oléorésines molles ou dures , aromatiques , qui découlent de diverses Burséracées ; mais on peut , croyons - nous , au moins par leurs caractères généraux , en rapprocher certaines substances résineuses aromatiques exsudées par des Anacardiacées , notamment par des Schinus du sous - genre Duvaua , lesquelles , d ' autre part , ne sont pas sans analogie avec les résines des Pistacia .Les arbres à élémis d ' Asie . |
+| source.excerpts.39.words.0 | résines |
+| source.excerpts.39.words.1 | aromatiques |
+| source.excerpts.39.words.2 | substances |
+| source.excerpts.39.words.3 | oléorésines |
+| source.excerpts.39.words.4 | Schinus |
+| source.excerpts.39.words.5 | Burséracées |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/3b2a2c3e-24cf-53dc-b1f2-b73184413b1f |
+| source.excerpts.40.value | A cet effet , on découpe les tiges en tronçons que l ' on perfore longitudinalement et que l ' on chauffe par une de leurs extrémités ; la résine s ' écoule par les orifices des extré - mités opposées .Cette résine en larmes est cassante , vitreuse , brun rougeâtre , et devient vert jaunâtre par oxydation ; son goût est légèrement âcre , et elle dégage , quand on la chauffe , une odeur balsamique rappelant celle du benjoin .La résine de gaïac se compose principalement de trois acides : l ' acide gaïaconique , amorphe , et qui constitue environ les 70 pour 100 du produit ; et les acides gaïacétique et , qaïacique , qui sont cristallisés , de même que le « jaune de gaïac » , matière colorante de cette résine . |
+| source.excerpts.40.words.0 | odeur |
+| source.excerpts.40.words.1 | elle |
+| source.excerpts.40.words.2 | benjoin |
+| source.excerpts.40.words.3 | celle |
+| source.excerpts.40.words.4 | balsamique |
+| source.excerpts.40.words.5 | Cette résine en larmes |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/3db8dc9b-9ab7-541d-a72e-2a283677e083 |
+| source.excerpts.41.value | , qui se trouve exclusivement à la côte des Somalis .Tous ces petits arbres sont désignés sous le nom de mohr par les Arabes qui , d ' autre part , appellent leur exsudat aromatique l ' ban ou luban , d ' où dérive le mot oliban .Dans le Somaliland , de même que dans le sud de l ' Arabie , les arbres à encens sont régulièrement exploités par les indigènes . |
+| source.excerpts.41.words.0 | Arabes |
+| source.excerpts.41.words.1 | ces petits arbres |
+| source.excerpts.41.words.2 | exsudat aromatique |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/4033f4bc-5583-58a3-9166-4d5324896c0c |
+| source.excerpts.42.value | WATT regarde comme espèce indigène de l ' Inde , mais qui est aujourd ' hui extrêmement répandu , aussi bien dans les régions tropicales que dans la zone tempérée chaude , où il est cultivé sous les noms variés d ' Acacia jaune , Acacia odorant , ou encore Cassie jaune .Dans le Midi , en France , et en Algérie , cette culture a surtout pour objet hi production des fleurs de Cassie pour la parfumerie .Dans l ' Inde , cet acacia donne une certaine quantité de gomme soluble et de bonne qualité . |
+| source.excerpts.42.words.0 | Algérie |
+| source.excerpts.42.words.1 | France |
+| source.excerpts.42.words.2 | parfumerie |
+| source.excerpts.42.words.3 | le Midi |
+| source.excerpts.42.words.4 | fleurs de Cassie |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/409849df-dd1d-5377-a1e8-e99c63401df3 |
+| source.excerpts.43.value | VILL ., mais qu ' il s ' agit d ' une substance noire ou du moins très brune , dont l ' huile essentielle renferme surtout du cymol , et qui , par conséquent , n ' a pas la même odeur que l ' élémi de Manille , avec lequel elle ne saurait être confondue .M . |
+| source.excerpts.43.words.0 | huile |
+| source.excerpts.43.words.1 | Manille |
+| source.excerpts.43.words.2 | odeur |
+| source.excerpts.43.words.3 | substance |
+| source.excerpts.43.words.4 | élémi |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/44b54e9c-6d19-5466-87d2-9096e93c023d |
+| source.excerpts.44.value | multiflorum pousse dans les terrains siliceux .La résine qui découle de la base du tronc et des grosses racines est jaune verdâtre , à odeur de citron ; mais les .indigènes , qui emploient parfois ce produit , l ' obtiennent aussi en entaillant les arbres . |
+| source.excerpts.44.words.0 | résine |
+| source.excerpts.44.words.1 | odeur |
+| source.excerpts.44.words.2 | citron |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/45928fe2-72b7-587e-a8a9-4cc5c4c4708f |
+| source.excerpts.45.value | Le galbanum du Levant est généralement en larmes jaunâtres , translucides , mélangées avec des masses molles bleuâtres ou verdâtres , et une proportion plus ou moins élevée de débris ligneux .Cette substance a une - odeur de musc très marquée .Le galbanum de Perse affecte deux formes : en masses solides constituées par des petites larmes visqueuses d ' aspect vernissé , et en un liquide brunâtre ou brun rougeâtre de la consistance de la térébenthine de Venise . |
+| source.excerpts.45.words.0 | odeur |
+| source.excerpts.45.words.1 | musc |
+| source.excerpts.45.words.2 | très marquée |
+| source.excerpts.45.words.3 | substance |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/45bdf158-8e6d-5068-a3fa-fbf5bd124c81 |
+| source.excerpts.46.value | La solution alcoolique rougit faiblement le papier de tournesol .Les éléments constituants de ce produit sont : 53 pour 100 d ' acides résiniques , l ' acide piceapimarinique ( 2 à 3 pour 100 ) , l ' acide piceapimarique ( 1 , 5 à 2 pour 100 ) et les acides a et - piceapimaroLiques ( 8 , 5 pour 100 ) , isomères ; 45 pour 100 d ' un mélange de résène , le jurorésène , et d ' huile essentielle ( 32 à 33 pour 100 ) qui , fraîchement distillée , est limpide , mobile , incolore , neutre et à odeur d ' essence de térébenthine , mais qui , à l ' air , devient acide et se résinifie ; et enfin 2 pour 100 , comprenant des traces d ' acide succinique , une substance amère , une matière colorante , des impuretés et de l ' eau .Le sapin blanc et la térébenthine de Strasbourg . |
+| source.excerpts.46.words.0 | odeur |
+| source.excerpts.46.words.1 | acide |
+| source.excerpts.46.words.2 | substance |
+| source.excerpts.46.words.3 | huile essentielle |
+| source.excerpts.46.words.4 | essence de térébenthine |
+| source.excerpts.46.words.5 | acide succinique |
+| source.excerpts.46.words.6 | résène |
+| source.excerpts.46.words.7 | jurorésène |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/45ddcc94-323f-5c56-bd52-f6770e101105 |
+| source.excerpts.47.value | D ' après M .COFFIGNIER , cette sorte est en morceaux inégaux , mamelonnés ou lisses , durs , d ' odeur légèrement poivrée , de couleur jaune paille ou jaune rougeâtre , à cassure vitreuse , très brillante .Plus au sud , le Congo français et belge produit du copal dont l ' origine botanique est presque entièrement inconnue . |
+| source.excerpts.47.words.0 | odeur |
+| source.excerpts.47.words.1 | légèrement poivrée |
+| source.excerpts.47.words.2 | cette sorte |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/4672dc42-6e73-5282-84c5-405c81154096 |
+| source.excerpts.48.value | Le galbanum de Perse affecte deux formes : en masses solides constituées par des petites larmes visqueuses d ' aspect vernissé , et en un liquide brunâtre ou brun rougeâtre de la consistance de la térébenthine de Venise .Sous ces deux formes , le produit a , outre l ' odeur musquée et forte du galbanum , un parfum assez net de térébenthine .Cette drogue s ' exporte soit par l ' Inde et Bombay , soit par la Turquie , soit encore par la Bussie . |
+| source.excerpts.48.words.0 | forte |
+| source.excerpts.48.words.1 | parfum |
+| source.excerpts.48.words.2 | odeur |
+| source.excerpts.48.words.3 | térébenthine |
+| source.excerpts.48.words.4 | produit |
+| source.excerpts.48.words.5 | galbanum |
+| source.excerpts.48.words.6 | assez net |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/47c1d465-9ca4-5290-928f-ba43c052a69c |
+| source.excerpts.49.value | J .DE CORDEMOY , laissent exsuder de toutes leurs parties , notamment de leurs rameaux et de leurs feuilles , une substance résineuse , visqueuse , aromatique , dont aucune analyse n ' a encore fixé la nature exacte , mais qui très probablement donne aux feuilles écrasées les - propriétés vulnéraires utilisées dans le pays .: ZYGOPHYLLACÉES , MYOPORACÉES , PASSIFLORACÉES RÉSINIFÈRES Deux arbres de la famille des Zygophyllacées , le Guajacum officinale L . |
+| source.excerpts.49.words.0 | aromatique |
+| source.excerpts.49.words.1 | feuilles |
+| source.excerpts.49.words.2 | substance |
+| source.excerpts.49.words.3 | rameaux |
+| source.excerpts.49.words.4 | exsuder |
+| source.excerpts.49.words.5 | toutes leurs parties |
+| source.excerpts.49.words.6 | CORDEMOY |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/49179ef2-026a-58ae-a5af-5f1069f18b34 |
+| source.excerpts.50.value | - R .DUNSTAN ( 2 ) , une gommerésine demi - fluide , d ' un jaune d ' or transparent ; elle est de saveur âcre et d ' odeur balsamique , aromatique ; elle devient opaque quand on la plonge dans l ' alcool ou dans l ' eau , et elle diffère par sa composition de l ' encens vrai , sa teneur - en résine étant plus faible relativement à la gomme .Get uliban indien est entièrement consommé sur place et n ' est jamais exporté . |
+| source.excerpts.50.words.0 | aromatique |
+| source.excerpts.50.words.1 | âcre |
+| source.excerpts.50.words.2 | odeur |
+| source.excerpts.50.words.3 | encens |
+| source.excerpts.50.words.4 | elle |
+| source.excerpts.50.words.5 | balsamique |
+| source.excerpts.50.words.6 | gommerésine |
+| source.excerpts.50.words.7 | DUNSTAN |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/4a4e9639-a2dc-5324-bdfe-282bec201e0e |
+| source.excerpts.51.value | 13 .LeS plantes à parfum , par M .JADIi . |
+| source.excerpts.51.words.0 | parfum |
+| source.excerpts.51.words.1 | plantes |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/4a6d434d-d09a-5598-a0e0-a08c0cf9ca42 |
+| source.excerpts.52.value | , le manglicr noir , le plus répandu de tous les mangliers ou palétuviers des régions tropicales , dont les écorces sont astringentes et tannantes .L ' exsudat tannifère de cette plante , selon M .LUTZ , forme des larmes ou des masses brun rougeâtre à l ' extérieur , rouge foncé à l ' intérieur ; il est dur , à cassure conchoïdale et opaque ; sa saveur est douceâtre , son odeur spéciale ; il est entièrement soluble dans l ' eau . |
+| source.excerpts.52.words.0 | plante |
+| source.excerpts.52.words.1 | exsudat |
+| source.excerpts.52.words.2 | tannifère |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/4d8892c9-3f01-5b82-b9de-1286cdba2f2f |
+| source.excerpts.53.value | HOLMES , le bdellium nommé hotaï , que les femmes somalis emploient pour laver ou parfumer leur chevelure , et qui diffère complètement de la myrrhe par l ' absence de tout arome et de saveur amère .Mais , selon le même auteur , ce n ' est pas la plante qui secrète le bdellium opaque , qui ne peut être confondu avec le « hotaï » , car c ' est une gomme - résine en morceaux brun clair dont le goût est très amer , légèrement acre , et d ' odeur térébcnthinée .L ' origine botanique du bdellium opaque reste donc inconnue . |
+| source.excerpts.53.words.0 | odeur |
+| source.excerpts.53.words.1 | plante |
+| source.excerpts.53.words.2 | gomme |
+| source.excerpts.53.words.3 | bdellium |
+| source.excerpts.53.words.4 | résine en |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/555c13b8-e065-5412-b96d-b5af03f6cc19 |
+| source.excerpts.54.value | Tschirch et BRDNING , cette substance se présente en une masse épaisse , trouble , très visqueuse , colorée en jaune brun , opaque , granuleuse , montrant sous le microscope des cristaux grenus et caractéristiques ; d ' odeur peu agréable , de goût amer ; à solution alcoolique rougissant le tournesol ; soluble dans la plupart des solvants usuels des résines .Les principes constituants de ce produit sont r * 64 pour 100 d ' acides résiniques , l ' acide pimarinique ( 6 à 7 pour 100 ) amorphe , l ' acide pimarique ( 8 à 10 pour 100 ) cristallisé , et les acides a et ( ï - pimaro iques ( 48 à 50 pour 100 ) amorphes ; 34 pour 100 d ' un mélange de résène et d ' huile essentielle : le résène ( 5 à 6 pour 100 ) est le bordorésène , le reste du mélange étant constitué par l ' huile essentielle qui , fraîchement distillée , est un liquide limpide , très mobile , à odeur caractérislique de l ' essence de térébenthine , de densité o , 865 à 15 ° , et qui bout entre i5o ° - et 175 ° ; neutre à l ' état frais , ce liquide se colore , prend une réaction acide , et finalement se résinifie , après un certain temps d ' exposition à l ' air .Il faut ajouter : 2 pour 100 d ' acides succinique , formique et acétique , d ' un principe amer , d ' une matière colorante , d ' eau et d ' impuretés . |
+| source.excerpts.54.words.0 | odeur |
+| source.excerpts.54.words.1 | liquide |
+| source.excerpts.54.words.2 | essence de térébenthine |
+| source.excerpts.54.words.3 | caractérislique |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/56ffa8b8-7c85-517f-8161-7525785b4e38 |
+| source.excerpts.55.value | Il suppose que la provenance réelle du produit serait plutôt Sumatra , car , dit - il , « bien qu ' il existe plusieurs espèces de Styrax dans l ' Amérique du Sud , je ne sache pas que du benjoin soit produit par aucune d ' entre elles ., laisse certainement exsuder une résine analogue au benjoin asiatique , mais presque inconnue dans le commerce .Citons enfin , un àrbre de la famille des Combrétacées , le Terminalia Benzoin L . |
+| source.excerpts.55.words.0 | résine |
+| source.excerpts.55.words.1 | benjoin |
+| source.excerpts.55.words.2 | exsuder |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/57c2472b-c195-5b8e-8e53-bba3286496e5 |
+| source.excerpts.56.value | PERRIER DE LA BATHlE , sur la flore et les produits végétaux du nord - ouest de Madagascar , M .JUMELLE ( 5 et 6 ) a signalé un produit gommo - résinoïde qui exsude d ' une Bignoniàcée , le Stereospermum euphorioides D .et le P . |
+| source.excerpts.56.words.0 | Stereospermum |
+| source.excerpts.56.words.1 | Bignoniàcée |
+| source.excerpts.56.words.2 | euphorioides |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/596bc116-de64-5de1-822c-8f5e35f9a20b |
+| source.excerpts.57.value | Il a été introduit sur le marché anglais , depuis quelques années , une quantité assez considérable d ' un copal provenant de la iSigéria méridionale ou du 0 Bénin .Cette résine parut tout d ' abord identique à la substance nommée « Ogea gum » et de même provenance : elle est vitreuse , jaune pâle et d ' odeur légèrement térébenthinée sur les sections fraîches .On l ' attribua donc au Daniella thurifera BENN . |
+| source.excerpts.57.words.0 | résine |
+| source.excerpts.57.words.1 | odeur |
+| source.excerpts.57.words.2 | elle |
+| source.excerpts.57.words.3 | substance |
+| source.excerpts.57.words.4 | térébenthinée |
+| source.excerpts.57.words.5 | sections |
+| source.excerpts.57.words.6 | légèrement térébenthinée |
+| source.excerpts.57.words.7 | Ogea |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/5d0096b5-7536-58f6-a08b-8ca9e740dace |
+| source.excerpts.58.value | Aussi , souvent , lorsqu ' on coupe l ' arbre on trouve des masses gommeuses qui remplissent ces cavités ou de nombreux filons qui parcourent le bois en tous sens .L ' exsudat desséché d ' E .corymbosa est d ' un rouge brillant et cassant . |
+| source.excerpts.58.words.0 | exsudat |
+| source.excerpts.58.words.1 | desséché |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/5d3da571-b0d7-5789-960a-92cae05e8f91 |
+| source.excerpts.59.value | D ' après une analyse de MM .HECKEL et SCHLAGPENHAUFFEN ( 5 ) , cet exsudât de Spermolepis est une tanno - résine dont les deux principaux éléments constituants sont , en effet : l ' acide gallotannique ( 79 , 73 pour 100 ) et un principe résineux ( 19 , 50 pour 100 ) dont la composition , d ' après ces auteurs , rappelle celle des divers corps tanniques , tandis qu ' il se comporte , d ' autre part , comme une résine possédant les propriétés du tanin .TROISIÈME PARTIE LES PLANTES A GOMMES - RÉSINES INTRODUCTION LES GOMMES - RÉSINES CHEZ LES PLANTES Après l ' étude particulière que nous venons de faire successivement des gommes et des résines , la définition des gommes - résines se trouve très simplifiée . |
+| source.excerpts.59.words.0 | résine |
+| source.excerpts.59.words.1 | principe |
+| source.excerpts.59.words.2 | exsudât |
+| source.excerpts.59.words.3 | HECKEL |
+| source.excerpts.59.words.4 | tanno |
+| source.excerpts.59.words.5 | Spermolepis |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/5df73350-88af-57ae-a4d5-0e4a50be8994 |
+| source.excerpts.60.value | A l ' analyse , d ' après M WEIGEL , il fournit : 48 , 3 pour 100 de résine acide ; 3 , 2 pour 100 de résine , et 48 , 5 pour ioo d ' huile essentielle .Cette huile a une odeur balsamique , agréable , différente de celle du baume ; sa densité est de 0 , 9045 ; son pouvoir rotatoire gauche , de - 8 ° , 24 ' - Ce serait donc un produit analogue au baume de Copahu .Mais M . |
+| source.excerpts.60.words.0 | huile |
+| source.excerpts.60.words.1 | agréable |
+| source.excerpts.60.words.2 | odeur |
+| source.excerpts.60.words.3 | balsamique |
+| source.excerpts.60.words.4 | baume de |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/63b133de-4da3-596a-9157-2bfb4acfb225 |
+| source.excerpts.61.value | Mais l ' évaporation du produit liquide se fait généralement à feu nu .Opération qui offre bien des inconvénients : les vapeurs qui s ' en dégagent sont irritantes pour les muqueuses des yeux , du nez , de la bouche et de la gorge ; et d ' autre part , il faut beaucoup de soin pour amener la masse résineuse au degré de concentration voulu .Des méthodes nouvelles et meilleures sont aujourd ' hui en usage au Cap . |
+| source.excerpts.61.words.0 | bouche |
+| source.excerpts.61.words.1 | vapeurs |
+| source.excerpts.61.words.2 | nez |
+| source.excerpts.61.words.3 | irritantes |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/68c58b1c-3ae0-5768-b731-92cbedbaa7f9 |
+| source.excerpts.62.value | D ' après MM .Tschirch et BRDNING , cette substance se présente en une masse épaisse , trouble , très visqueuse , colorée en jaune brun , opaque , granuleuse , montrant sous le microscope des cristaux grenus et caractéristiques ; d ' odeur peu agréable , de goût amer ; à solution alcoolique rougissant le tournesol ; soluble dans la plupart des solvants usuels des résines .Les principes constituants de ce produit sont r * 64 pour 100 d ' acides résiniques , l ' acide pimarinique ( 6 à 7 pour 100 ) amorphe , l ' acide pimarique ( 8 à 10 pour 100 ) cristallisé , et les acides a et ( ï - pimaro iques ( 48 à 50 pour 100 ) amorphes ; 34 pour 100 d ' un mélange de résène et d ' huile essentielle : le résène ( 5 à 6 pour 100 ) est le bordorésène , le reste du mélange étant constitué par l ' huile essentielle qui , fraîchement distillée , est un liquide limpide , très mobile , à odeur caractérislique de l ' essence de térébenthine , de densité o , 865 à 15 ° , et qui bout entre i5o ° - et 175 ° ; neutre à l ' état frais , ce liquide se colore , prend une réaction acide , et finalement se résinifie , après un certain temps d ' exposition à l ' air . |
+| source.excerpts.62.words.0 | odeur |
+| source.excerpts.62.words.1 | peu agréable |
+| source.excerpts.62.words.2 | substance |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/6d715584-5c47-5ab5-a146-a71ae57cabfd |
+| source.excerpts.63.value | J ' ai montré le premier , en ijjoi , que c ' est l ' une de ces espèces , Je Canarium multijlorurn EGL ., qui produit dans le nord et le nord - ouest de la grande île , l ' oléo - résine aromatique que les Malgaches appellent ramy .Dans le Boina , d ' après MM . |
+| source.excerpts.63.words.0 | résine |
+| source.excerpts.63.words.1 | aromatique |
+| source.excerpts.63.words.2 | nord |
+| source.excerpts.63.words.3 | oléo |
+| source.excerpts.63.words.4 | grande île |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/6dbde7fa-b644-5b4c-b913-4267ad4dd13d |
+| source.excerpts.64.value | Cette gomme de m ' bep , récemment recueillie , est blanche , nacrée , cassante et se divise facilement en morceaux anguleux , dont la surface terne et rugueuse offre des bourrelets superposés dus aux dépôts successifs et successivement concrétés du mucilage exsudé .Elle est de saveur nulle ; mais , exposée à l ' action de l ' air humide , elle exhale au bout d ' un certain temps une odeur d ' acide acétique : c ' est là une propriété qui a été signalée , nous l ' avons dit , pour la gomme de Sterculia urens , et aussi , d ' après H .- H RoBiNSON , pour celle de Cochlospermmn Gossypium . |
+| source.excerpts.64.words.0 | odeur |
+| source.excerpts.64.words.1 | elle |
+| source.excerpts.64.words.2 | nulle |
+| source.excerpts.64.words.3 | Elle |
+| source.excerpts.64.words.4 | gomme |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/6ef03fb3-0a41-5ebe-9e0b-ea4a6d336ee5 |
+| source.excerpts.65.value | La résine est verte , soluble dans l ' alcool , l ' éther , le sulfure de carbone et la benzine .L ' huile essentielle , dont la densité est o , 83 , est limpide et d ' odeur citrique .Ce « baume vert » serait un topique efficace en application sur les ulcères . |
+| source.excerpts.65.words.0 | odeur |
+| source.excerpts.65.words.1 | huile essentielle |
+| source.excerpts.65.words.2 | citrique |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/6fa19aee-f38e-5644-afc0-7be8b8416121 |
+| source.excerpts.66.value | Outre l ' ombclliférone , l ' asa - foetida renferme comme principaux éléments constituants : 3 à 9 pour 100 d ' huile essentielle ; 25pour 100 environ de gomme , et 60 pour 100 d ' une matière résineuse , qui serait une combinaison de l ' acide férulique , avec un alcool résineux , l ' asarésinotannol .Le galbanum exsude du Ferula galbaniflua Boiss .et BUHSE , et de sa variété Aucheri Boiss . |
+| source.excerpts.66.words.0 | galbanum |
+| source.excerpts.66.words.1 | exsude |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/713c4861-aaf5-580a-bf64-5ed45f18360c |
+| source.excerpts.67.value | Mais on obtient du même arbre un second produit , çonnu sous le nom Liquidambar moju ou blanc , qui est constitué , soit par la résine composant le dépôt précédent , soit par le baume qui s ' est écoulé de l ' arbre et que l ' on a laissé en partie se concréter sur le tronc , soit encore par ces deux substances à la fois .Ce produit qui a la consistance d ' une térébenthine de pin , est de couleur blanchâtre et opaque ; il est , de plus , moins aromatique que le baume liquide .Enfin , on prépare encore une autre sorte en faisant bouillir dans l ' eau les jeunes branches de l ' arbre ; il s ' en sépare une résine fluide , opaque , de couleur foncée qu ' on confond parfois avec le véritable storax liquide . |
+| source.excerpts.67.words.0 | aromatique |
+| source.excerpts.67.words.1 | produit |
+| source.excerpts.67.words.2 | térébenthine de pin |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/722b103f-95e1-554d-9e0d-0a286daec1ce |
+| source.excerpts.68.value | D ' après MM .TSCHIRCH et BRUNING , il comprend comme éléments constituants : comme , acides résiniques , l ' acide canadinique ( i3 pour 100 ) amorphe , Vacide canadolique ( o , 3 pour 100 ) cristallisé , et les acides a et $ - canadinoliques ( 48 à 5o pour 100 ) amorphes ; ir à 12 pour 100 d ' un résène , le canadorésène " et 24 pour 100 d ' une huile essentielle qui , fraîchement distillée , possède l ' odeur agréable de la mélisse et du citron , et bout entre 1600 et 167 ° ; enfin des traces d ' acide succinique et 2 pour 100 d ' une substance amère et d ' impuretés .Du baume du Canada doit être rapproché le « baume del ' Orégon » , produit fourni , d ' après M . |
+| source.excerpts.68.words.0 | agréable |
+| source.excerpts.68.words.1 | odeur |
+| source.excerpts.68.words.2 | acide |
+| source.excerpts.68.words.3 | citron |
+| source.excerpts.68.words.4 | substance |
+| source.excerpts.68.words.5 | huile essentielle |
+| source.excerpts.68.words.6 | mélisse |
+| source.excerpts.68.words.7 | acide succinique |
+| source.excerpts.68.words.8 | Vacide |
+| source.excerpts.68.words.9 | résène |
+| source.excerpts.68.words.10 | acides résiniques |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/73c461b6-c61c-5b11-9b50-8f6e8f90d8a9 |
+| source.excerpts.69.value | Le mastic en larmes est utilisé par les dames turques comme masticatoire parfumé .D ' autre part cette résine sert à préparer une boisson aromatique , le mastic ou encore raki , dont on fait grande consommation dans le Levant .Mais , en réalité , le raki ne doit pas être confondu avec le mastic . |
+| source.excerpts.69.words.0 | résine |
+| source.excerpts.69.words.1 | aromatique |
+| source.excerpts.69.words.2 | boisson |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/7ab8c046-efa9-5bc4-9eaf-e9d7ca99e46f |
+| source.excerpts.70.value | Le baume de Copalm est un liquide plus ou moins visqueux , généralement transparent , mais parfois opalescent et même légèrement fluorescent .Son odeur est aromatique et caractéristique , et sa coloration varie , selon les sortes , du jaune franc au jaune brun : le baume de Para est jaunâtre ; celui de Maracaïbo est plus épais , ressemble à .de la mélasse , et sa coloration est brun jaunâtre . |
+| source.excerpts.70.words.0 | aromatique |
+| source.excerpts.70.words.1 | odeur |
+| source.excerpts.70.words.2 | Son |
+| source.excerpts.70.words.3 | sa |
+| source.excerpts.70.words.4 | caractéristique |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/7af50f0d-3918-5130-abe6-bd65f222882b |
+| source.excerpts.71.value | Le mastic véritable est obtenu par deux opérations successives : 1 ° On distille dans un alambic un mélange formé d ' une solution d ' eau - de - vie de marc , à laquelle on a ajouté 5 pour 100 d ' anis lavé , i pour 100 de chlorure de sodium et 4 pour 100 de mastic en larmes , également lavé à l ' éau fraîche ; le mastic n ' est jeté dans l ' alambic que lorsque le mélange constitué par la liqueur alcoolisée contenant l ' anis et le sel est entré en ébullition .2 ° La liqueur alcoolisée et aromatique ainsi obtenue est réduite à 25 ° , par addition d ' eau , puis redistillée ; on y ajoute , à l ' ébullition , 4 pour 100 d ' anis et 5 pour ioo de mastic en larmes lavé .La distillation doit être lente et continue . |
+| source.excerpts.71.words.0 | aromatique |
+| source.excerpts.71.words.1 | mastic |
+| source.excerpts.71.words.2 | liqueur |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/7ef9b472-6629-5b94-8d66-e65e79821a0d |
+| source.excerpts.72.value | Les sortes de valeur moindre sont utilisées en papeterie , dans la fabrication des allumettes et des encres .La valeur d ' une gomme pour la confiserie dépend surtout de l ' absence de toute coloration , odeur ou saveur , et de son pouvoir adhésif mesuré par sa viscosité .Pour les usages pharmaceutiques , les principales qualités recherchées sont : une grande viscosité , un pouvoir adhésif très élevé , et l ' absence de toute coloration . |
+| source.excerpts.72.words.0 | odeur |
+| source.excerpts.72.words.1 | gomme |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/80463b91-1c4e-5320-b94e-28fe46aeb316 |
+| source.excerpts.73.value | Les gommes - résines s ' écoulent des plantes , spontanément ou après incisions , sous forme de liquides plus denses que l ' eau , qui , par évaporation à l ' air libre , deviennent progressivement des masses plus ou moins solides , molles ou dures .Lorsque la partie résineuse renferme une proportion suffisamment élevée d ' huile essentielle , la gomme - résine est odorante , à parfum fort ou agréable : tel est le cas de l ' encens et de la myrrhe .La gomme qui entre dans la composition des gommes - résines peut être soit soluble soit insoluble dans l ' eau . |
+| source.excerpts.73.words.0 | fort |
+| source.excerpts.73.words.1 | résine |
+| source.excerpts.73.words.2 | huile |
+| source.excerpts.73.words.3 | agréable |
+| source.excerpts.73.words.4 | odorante |
+| source.excerpts.73.words.5 | parfum |
+| source.excerpts.73.words.6 | myrrhe |
+| source.excerpts.73.words.7 | encens |
+| source.excerpts.73.words.8 | gomme |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/80a5fc68-d527-5160-bcca-509a1d187302 |
+| source.excerpts.74.value | Celle - ci exsude spontanément ; l ' action du feu n ' est pas nécessaire .Ou laisse cette exsudation se faire pendant quatre jours .Un grand arbre de 2 mètres de circonférence produirait environ 4o litres de baume . |
+| source.excerpts.74.words.0 | exsudation |
+| source.excerpts.74.words.1 | pendant quatre jours |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/826eafed-d01a-5e28-a045-f8335e6883f6 |
+| source.excerpts.75.value | le bunya - bunya des indigènes de l ' Australie orientale , où il constitue des forêts , peut fournir annuellement , par un gemmage méthodique , vers l ' âge de 8 ou 10 ans , de 5 à 6 kilogrammes d ' une gomme - résine à odeur de muscade .Cet exsudât est surtout riche en , gomme : De provenance australienne , il contient 92 pour i oo de , gomn - ie soluble , comparable à la gomme arabique , malheureusement de saveur amère .D ' ailleurs le climat ou le sol paraissent modifier notablement la composition de cette gomme - résine ; un . |
+| source.excerpts.75.words.0 | gomme |
+| source.excerpts.75.words.1 | exsudât |
+| source.excerpts.75.words.2 | Cet exsudât |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/82b14935-b134-545c-ac3e-93ee26a75553 |
+| source.excerpts.76.value | Enfin dans le benjoin Storax ou de Pinang , 4 , 73 à 11 , 60 pour 100 de résidu insoluble ; et comme chiffre d ' acidité totale ( surtout acide benzoïque ) , 20 , 57 à 26 , 62 pour 100 ; et de l ' acide cinnamique .En résumé : i " les benjoins de Padang et Storax seuls renferment de l ' acide cinnamique , dont il n ' existe pas trace dans les autres sortes ; 2 ° les sortes vraiment pures ne doivent pas contenir , comme pro : portion de résidu insoluble , plus de : 10 pour ioor pour le Padang ; 8 pour 100 , pour le Palembang ; 3 pour ioo , pour le Siam ; et 5 à 6 pour 100 , pour - les Saigon et Storax ; 31 " au point de vue de la teneur en acide benzoïque , le benjoin de Siam occupe le premier rang avec 3o - 34 pour 100 , et se distingue , en outre , par son agréable parfum de vanille ; tandis que la sorte de Saïgon vient ensuite avec une proportion de 27 - 29 pour 100 d ' acide benzoïque .M . |
+| source.excerpts.76.words.0 | agréable |
+| source.excerpts.76.words.1 | parfum |
+| source.excerpts.76.words.2 | vanille |
+| source.excerpts.76.words.3 | acide benzoïque |
+| source.excerpts.76.words.4 | sorte de |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/85678380-9ea2-59e9-bb9a-a268d7993a8e |
+| source.excerpts.77.value | HoulEs ne croit pas devoir l ' attribuer aux espèces suivantes , chez lesquelles pourtant ont été observées des exsudations gommo - résineuses : Commiphora quadricineta SCIIWF ., nommé bschiained , dans le Tigré , en Ethiopie , et dont le produit , selon SCHWEINFURTH , aurait le goût et le parfum de la myrrhe , ce que conteste M .HOLMES ; Commiphora abyssinica ENGL . |
+| source.excerpts.77.words.0 | parfum |
+| source.excerpts.77.words.1 | myrrhe |
+| source.excerpts.77.words.2 | goût |
+| source.excerpts.77.words.3 | Ethiopie |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/893dc059-291f-5dac-9104-93f3b675385d |
+| source.excerpts.78.value | D ' après MM .TSCHIRCH et SCHIlDT , la résine du pin noir d ' Autriche se présente sous forme d ' une masse visqueuse , opaque , de consistance de miel épais , à odeur de térébenthine ordinaire , de saveur amèreetunpeu piquante .Sa composition comprend : 59 pour 100 d ' acides résiniques , l ' acide laricopinique amorphe et Yacide laricopinonique cristallisé ; un résène , le laricopinorésène ( 2 pour 100 ) et une huile essentielle ( 35 pour 100 ) ; et 3 à 4 pour 100 d ' eau , d ' une substance amère et d ' impuretés . |
+| source.excerpts.78.words.0 | odeur |
+| source.excerpts.78.words.1 | térébenthine ordinaire |
+| source.excerpts.78.words.2 | résine du pin noir d ' Autriche |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/899ca736-a6b3-5981-9667-52b53916e351 |
+| source.excerpts.79.value | C ' est ensuite le Canarium Schweinfurthii ENGL .qui existe , paraît - il , au Gabon , mais qui produit surtout l ' élémi recueilli dans la région des lacs Albert et Victoria N yanza , et en Ouganda ; ce produit est une résine blanc verdâtre , opaque et vitreuse , d ' odeur aromatique agréable .En outre , M . |
+| source.excerpts.79.words.0 | odeur |
+| source.excerpts.79.words.1 | aromatique agréable |
+| source.excerpts.79.words.2 | résine blanc |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/89c5d57f-febd-5f85-858c-51301ace8b81 |
+| source.excerpts.80.value | A .DOMINGUEZ , il s ' écoule du tronc et des rameaux de cette plante une oléorésine liquide , incolore ou légèrement jaunâtre qui , à l ' air , se concrète en larmes jaunâtres , d ' odeur aromatique .Ce produit appelé « resina de Molle » fond à 64 - 65 ° , et se dissout complètement dans l ' alcool , l ' éther , le chloro - forme et l ' acétone , avec un résidu composé seulement d ' impuretés . |
+| source.excerpts.80.words.0 | aromatique |
+| source.excerpts.80.words.1 | odeur |
+| source.excerpts.80.words.2 | oléorésine |
+| source.excerpts.80.words.3 | rameaux de cette plante |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/8b570eec-8af8-5444-a64d-9ec22ff42023 |
+| source.excerpts.81.value | GUILLAUMIN y a trouvé : 10 - 14 pour 100 de débris , 31 pour 100 de résine insoluble dans la benzine et l ' éther , et de 10 à 15 pour 100 d ' une huile vert noirâtre à odeur très prononcée .Les Noirs emploient cette résine comme parfum ou comme topique sur les plaies et les ulcères .Au Nord de l ' équateur , on rencontre d ' autres arbres producteurs d ' élémi africain . |
+| source.excerpts.81.words.0 | résine |
+| source.excerpts.81.words.1 | parfum |
+| source.excerpts.81.words.2 | topique |
+| source.excerpts.81.words.3 | Noirs |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/8d20facf-7ffe-56f8-b7f4-57d32e58f7bc |
+| source.excerpts.82.value | David HOOPER ( 7 ) fit , peu après , voir la méprise en soumettant à l ' analyse des exsudats authentiques de Mangifera , récoltés aux environs de Calcutta , pendant la floraison des arbres .Il obtint ainsi des masses résinoïdes , molles , visqueuses , de couleur variant de la nuance blanc rougeâtre à la teinte ambrée , à légère - odeur de térébenthine et à saveur un peu amère .- Cette substance , - se dissolvait en grande partie dans l ' alcool , " en laissant un résidu gommeux pulvérulent . |
+| source.excerpts.82.words.0 | odeur |
+| source.excerpts.82.words.1 | amère |
+| source.excerpts.82.words.2 | légère |
+| source.excerpts.82.words.3 | térébenthine |
+| source.excerpts.82.words.4 | masses |
+| source.excerpts.82.words.5 | saveur |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/8dc24af0-81eb-573f-b2a6-29109ebb7c4d |
+| source.excerpts.83.value | G .BERTRAND , qui certainement n ' avait pas eu connaissance des travaux de YOSHIDA , trouva dans la laque du Tonkin — qui d ' ailleurs est fournie par une espèce différente de celle qui donne la laque du Japon — une diastase oxydante tout à fait analogue à celle de la laque japonaise , et qu ' il nomma la laccase ; et il appela laccol , en le considérant comme voisin de certains phénols polyatomiques , le corps que YOSHIDA avait décrit sous le nom d ' « acide urushique » .Mais beaucoup de ce produit d ' origine cambodgienne passe certainement par le Siam ; on sait du moins que Bangkok reçoit la majeure partie de la gomme - gutte de la côte orientale et des îles du golfe de Siam . |
+| source.excerpts.83.words.0 | laque |
+| source.excerpts.83.words.1 | oxydante |
+| source.excerpts.83.words.2 | phénols polyatomiques |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/8f8064c1-564b-5c41-963a-6526abbbbd51 |
+| source.excerpts.84.value | Le baume de San Thomé est un liquide épais , visqueux à la température ordinaire , d ' une fluidité parfaite à 400 ; sa couleur brun clair lui donne assez l ' aspect d ' un miel foncé ; il est jaune d ' or en couche mince , d ' odeur forte , mais aromatique et agréable , rappelant celle des élémis en général ; sa saveur est très amère .Soumis à la distillation dans le vide , il fournit 36 pour 100 d ' une huile essentielle bouillant à 1550 - 1650 , incolore , et dont l ' odeur forte se rapproche beaucoup de celle de l ' essence de térébenthine américaine .Cette essence est constituée par un mélange d ' hydrocarbures du groupe des terpènes ; sa densité est de 0 , 8676 , son indice de réfraction - à 15 ° de 1 , 471 , et son pouvoir rotatoire de + 860 . |
+| source.excerpts.84.words.0 | forte |
+| source.excerpts.84.words.1 | odeur |
+| source.excerpts.84.words.2 | il |
+| source.excerpts.84.words.3 | essence de térébenthine américaine |
+| source.excerpts.84.words.4 | une huile essentielle |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/90339160-8abe-5338-af1f-8dd31d6a7d27 |
+| source.excerpts.85.value | Elle renferme comme principaux éléments : une matière neutre , vésicante , lamelleuse , fusible à 87 ° , soluble dans l ' alcool chaud et l ' éther ; et une résine acide , d ' où ont été isolés deux acides , thapsique et caprylique .Une Ombellifère américaine , YAzorella madreporica CLOS , le yareta de l ' Argentine , laisse également exsuder une résine ayant , dit M .DOMIXGUEZ , l ' aspect de la térébenthine ; elle se présente en masses d ' un jaune rotjeàtre , d ' odeur aromatique que la chaleur accentue . |
+| source.excerpts.85.words.0 | résine |
+| source.excerpts.85.words.1 | exsuder |
+| source.excerpts.85.words.2 | Une Ombellifère |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/91257e37-7853-5bd8-9890-803d0e7cc476 |
+| source.excerpts.86.value | Le damar ou kauri de la Nouvelle - Zélande a été analysé par MM .TSCHIRCH et NIEDERSTADT , qui y ont trouvé : des acides résiniques , l ' acide kaurinique ( i , 5 pour 100 ) cristallisé , les acides a et $ - kauroliques ( 48 à 5o pour ioo ) amorphes , l ' acide kaurinolique et l ' acide kauronolique ( 20 à 22 pour 100 ) , amorphes également ; un résène ( 12 , 2 pour 100 ) , et l ' huile essentielle ( 12 , 5 pour 100 ) à odeur agréable de citron , de densité o , 835 à i5 ° , et bouillant entre i5o ° et 1600 ; et enfin une proportion de o , 5 à 1 pour 100 d ' un principe amer .Les Conifères à damars de la Nouvelle - Calédonie . |
+| source.excerpts.86.words.0 | agréable |
+| source.excerpts.86.words.1 | odeur |
+| source.excerpts.86.words.2 | acide |
+| source.excerpts.86.words.3 | citron |
+| source.excerpts.86.words.4 | principe |
+| source.excerpts.86.words.5 | huile essentielle |
+| source.excerpts.86.words.6 | acides |
+| source.excerpts.86.words.7 | entre |
+| source.excerpts.86.words.8 | et |
+| source.excerpts.86.words.9 | résène |
+| source.excerpts.86.words.10 | acides résiniques |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/92cf3fa0-38fc-51ed-835f-339192aec893 |
+| source.excerpts.87.value | Ces deux ordres de substances paraissent parfois coexister sur la même plante .Ainsi le Macaranga Roxburghii WIGHT , qui habite le Dekkan , est décrit par sir Joseph HOOKER comme un « petit arbre résineux » ; et , de fait , les bourgeons , les jeunes rameaux et les fruits sont couverts d ' un enduit résinoïde dégageant une odeur de térébenthine .Or , D . |
+| source.excerpts.87.words.0 | odeur |
+| source.excerpts.87.words.1 | bourgeons |
+| source.excerpts.87.words.2 | Macaranga |
+| source.excerpts.87.words.3 | le Dekkan |
+| source.excerpts.87.words.4 | sir Joseph HOOKER |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/944de0be-c8b2-5c3a-81d0-e32b4460d745 |
+| source.excerpts.88.value | , habite principalement la Cochinchine , Tahiti , la Nouvelle - Calédonie , où le nom de cet arbre est tamanou ou pit , et Madagascar , où les indigènes l ' appellent vintanina et sa résine ditimbitanina .Des blessures accidentelles ou des fissures de son tronc et de ses branches , en effet , s ' écoule une oléorésine qui , à l ' air , se solidifie et forme des ' masses vert foncé , vitreuses , transparentes , à odeur d ' angélique ou c \ e mélilot , et à saveur légèrement amère .Le C . |
+| source.excerpts.88.words.0 | odeur |
+| source.excerpts.88.words.1 | angélique |
+| source.excerpts.88.words.2 | légèrement amère |
+| source.excerpts.88.words.3 | oléorésine |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/9df2e355-4a97-55e7-9b73-7b8cc8e011ce |
+| source.excerpts.89.value | Indigènes et colons lui attribuent , en effet , les propriétés médicinales les plus remarquables ; topique des plus efficaces dans le traitement des plaies et ulcères , cette drogue est , en outre , utilisée en sirop ou en pilules dans l ' inflammation des bronches et de la vessie ; l ' écorce de l ' arbre est vantée comme tonique et la racine sert à préparer une infusion prétendue aphrodisiaque .Le baume de San Thomé est un liquide épais , visqueux à la température ordinaire , d ' une fluidité parfaite à 400 ; sa couleur brun clair lui donne assez l ' aspect d ' un miel foncé ; il est jaune d ' or en couche mince , d ' odeur forte , mais aromatique et agréable , rappelant celle des élémis en général ; sa saveur est très amère .Soumis à la distillation dans le vide , il fournit 36 pour 100 d ' une huile essentielle bouillant à 1550 - 1650 , incolore , et dont l ' odeur forte se rapproche beaucoup de celle de l ' essence de térébenthine américaine . |
+| source.excerpts.89.words.0 | aromatique |
+| source.excerpts.89.words.1 | agréable |
+| source.excerpts.89.words.2 | forte |
+| source.excerpts.89.words.3 | odeur |
+| source.excerpts.89.words.4 | sa |
+| source.excerpts.89.words.5 | très amère |
+| source.excerpts.89.words.6 | liquide |
+| source.excerpts.89.words.7 | élémis |
+| source.excerpts.89.words.8 | baume de San Thomé |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/a0477df9-731d-5304-a883-bb22b8db0fd0 |
+| source.excerpts.90.value | Ce sont vraisemblablement ces espèces résinifères , qui habitent le Nord et l ' Est de la grande île , ainsi que les petites îles de Nossi - Bé et Sainte - Marie , que les Malgaches nommenttsiramiramy , tandis qu ' ils appellent ditindramy leur oléorésine .Celle - ci , mal connue encore , serait employée par les indigènes comme encens et comme base de parfums préparés avec de la graisse .D ' autre part , à l ' île Maurice , on trouve le Protium obtusifolium MARCH . |
+| source.excerpts.90.words.0 | encens |
+| source.excerpts.90.words.1 | parfums |
+| source.excerpts.90.words.2 | indigènes |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/a08b9b0c-9f13-5cfb-afff-edc59c62a238 |
+| source.excerpts.91.value | C ' est également un kino , connu sous le nom de « kino de Colombie » que fournit , parmi les Hhizophoracées , le Rhizophora Mangle L ., le manglicr noir , le plus répandu de tous les mangliers ou palétuviers des régions tropicales , dont les écorces sont astringentes et tannantes .L ' exsudat tannifère de cette plante , selon M . |
+| source.excerpts.91.words.0 | astringentes |
+| source.excerpts.91.words.1 | écorces |
+| source.excerpts.91.words.2 | tannantes |
+| source.excerpts.91.words.3 | manglicr noir |
+| source.excerpts.92.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/a1f6e34a-d13e-5b01-9dcb-8bffefb74ef7 |
+| source.excerpts.92.value | indica , de l ' Inde .Mais ces deux mêmes espèces offrent une exsudation toute différente .Le Macaranga Roxburghii WIGHT du Dekkan est décrit par M . |
+| source.excerpts.92.words.0 | exsudation |
+| source.excerpts.92.words.1 | deux mêmes espèces |
+| source.excerpts.93.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/a3425ca2-6102-530d-af30-d9597061c431 |
+| source.excerpts.93.value | M .David HOOPER ( 7 ) fit , peu après , voir la méprise en soumettant à l ' analyse des exsudats authentiques de Mangifera , récoltés aux environs de Calcutta , pendant la floraison des arbres .Il obtint ainsi des masses résinoïdes , molles , visqueuses , de couleur variant de la nuance blanc rougeâtre à la teinte ambrée , à légère - odeur de térébenthine et à saveur un peu amère . |
+| source.excerpts.93.words.0 | exsudats |
+| source.excerpts.93.words.1 | Mangifera |
+| source.excerpts.93.words.2 | David HOOPER |
+| source.excerpts.93.words.3 | de Calcutta |
+| source.excerpts.94.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/a3a371f5-a555-58b0-b32d-d628e4966289 |
+| source.excerpts.94.value | Cette couche , ajoute - il , s ' étend sur la surface naissante des jeunes feuilles , s ' amincissant à mesure que celles - ci se développent , jusqu ' à ce qu ' enfin elles disparaissent complètement .Cette résine de Condaminea est verfe , transparente , sans odeur .A Timana et à Pasto , elle sert à faire un vernis très résistant , presque inaltérable . |
+| source.excerpts.94.words.0 | odeur |
+| source.excerpts.94.words.1 | résine de Condaminea |
+| source.excerpts.95.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/ad69a7f7-e633-5033-8d28-69c2ae095d79 |
+| source.excerpts.95.value | A Java , au contraire , où il est importé , il donne une gomme parfaitement soluble , comme l ' a constaté le Dr DE VRIJ .Cette gomme est également soluble dans le Midi de la France , où l ' Acacia dealbath est très cultivé pour ses fleurs jaunes , finement odorantes .MM . |
+| source.excerpts.95.words.0 | Acacia |
+| source.excerpts.95.words.1 | fleurs |
+| source.excerpts.95.words.2 | odorantes |
+| source.excerpts.95.words.3 | gomme |
+| source.excerpts.95.words.4 | Midi de la France |
+| source.excerpts.95.words.5 | finement odorantes |
+| source.excerpts.96.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/aece6790-a9a7-5a0c-bf28-3faf5e09dbe6 |
+| source.excerpts.96.value | Une Ombellifère américaine , YAzorella madreporica CLOS , le yareta de l ' Argentine , laisse également exsuder une résine ayant , dit M .DOMIXGUEZ , l ' aspect de la térébenthine ; elle se présente en masses d ' un jaune rotjeàtre , d ' odeur aromatique que la chaleur accentue .Comme cette substance ne se dissout pas sensiblement dans l ' eau , sa teneur en gomme parait très faible . |
+| source.excerpts.96.words.0 | aromatique |
+| source.excerpts.96.words.1 | odeur |
+| source.excerpts.96.words.2 | elle |
+| source.excerpts.96.words.3 | térébenthine |
+| source.excerpts.97.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/b48081fa-be81-58ee-91eb-c5b915847da4 |
+| source.excerpts.97.value | et le Bursera excelsa ENGL ., qui donnent une résine rougeâtre , à odeur fortement aromatique et de saveur anière ; le Bursera Delpechiana Poiss ., dont le bpis résineux fournit , par distillation , l ' essence de Linaloé , etc . |
+| source.excerpts.97.words.0 | résine |
+| source.excerpts.97.words.1 | odeur |
+| source.excerpts.97.words.2 | fortement aromatique |
+| source.excerpts.97.words.3 | saveur |
+| source.excerpts.97.words.4 | anière |
+| source.excerpts.97.words.5 | Bursera |
+| source.excerpts.98.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/b77e0c69-031d-5c1c-885d-9ec17a54a7b9 |
+| source.excerpts.98.value | odeur aromatique mais forte , parfois plutôt désagréable et à saveur très amère ; elle est exportée par Makalla à Bombay et à Aden .Les exsudats d ' un assez grand nombre d ' autres Commiphora de l ' Afrique , de l ' Arabie ou de l ' Inde , constituent des sortes de bdellium , produit bien distinct de la myrrhe .Le Commiphora Erythræa ENGL . |
+| source.excerpts.98.words.0 | Afrique |
+| source.excerpts.98.words.1 | myrrhe |
+| source.excerpts.98.words.2 | exsudats |
+| source.excerpts.98.words.3 | bdellium |
+| source.excerpts.98.words.4 | Commiphora |
+| source.excerpts.99.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/c4368d3c-8c27-5f26-9366-7dbd6e4b4f2f |
+| source.excerpts.99.value | 7 31 , 4 16 , 3 18 , 7 15 , 0 Les caractères des mucilages ont aussi été indiqués et peuvent être résumés ainsi : le mucilage obtenu avec l ' un et l ' autre échantillon de gomme « hashab » est clair , de coloration jaune pâle ou presque incolore , sans odeur ni saveur ; la gomme de Gézireh donne une solution pâle mais légèrement aigre , et la gomme « talh » un mucilage rougeâtre , ayant un léger goût de caramel .Pour les gommes du Sénégal : la sorte « bas - dulfeuve » a fourni un mucilage asséz foncé et d ' une saveur légèrement amère ; avec les deux autres sortes , « petite blanche » et « grosse blonde » , on a obtenu des solutions jaunes , mais sans saveur ni odeur .Au reste , de l ' examen du tableau précédent , on peut déduire les conclusions suivantes : les gommes du Sénégal contiennent toujours plus d ' eau que les gommes du Soudan égyptien ; celles ci doivent précisément leur plus grande friabilité à ce qu ' elles sont plus sèches . |
+| source.excerpts.99.words.0 | odeur |
+| source.excerpts.99.words.1 | légèrement amère |
+| source.excerpts.99.words.2 | mucilage |
+| source.excerpts.100.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/c58b13d5-4959-56c8-b0ee-6ec6b72f139e |
+| source.excerpts.100.value | , Yaguaribay ou molle del Peru , de la République Argentine .Cet arbre donne une gomme - résine connue commercialement sous le nom de résine molle de Castilla ou de mastic américain , qui est en masses de couleur blanc grisâtre ou jaunâtre , molles , d ' odeur aromatique accentuée par la chaleur , et de saveur piquante .Cette gomme - résine fond à 38 ° - 4o ° et ne se dissout que partiellement dans les solvants habituels des résines , alcool , éther , chloroforme , etc . |
+| source.excerpts.100.words.0 | résine |
+| source.excerpts.100.words.1 | odeur |
+| source.excerpts.100.words.2 | gomme |
+| source.excerpts.100.words.3 | aromatique accentuée |
+| source.excerpts.101.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/c639316c-232e-5de6-9c66-20862377c594 |
+| source.excerpts.101.value | amabilis notamment est , selon M .RABAK , une oléorésine liquide , jaune pâle et d ' une odeur anâlogue à celle du limonène ; il est légèrement trouble ; sa densité à 220 est de 0 , 969 .Il fournit à la distillation 4o , 3 pour 100 d ' essence . |
+| source.excerpts.101.words.0 | odeur |
+| source.excerpts.101.words.1 | il |
+| source.excerpts.101.words.2 | limonène |
+| source.excerpts.101.words.3 | oléorésine |
+| source.excerpts.101.words.4 | anâlogue |
+| source.excerpts.101.words.5 | RABAK |
+| source.excerpts.102.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/c8f8d03f-625a-5d5b-84aa-4079c5d4a7ef |
+| source.excerpts.102.value | Cette substance a les caractères suivants : morceaux irrégulièrement arrondis , de six à sept centimètres de diamètre , à surface brunâtre , opaque , couverte le plus souvent d ' un enduit pulvérulent ; à cassure brunâtre , translucide , offrant des veines d ' un blanc opaque ; de ces masses exsudent parfois des gouttelettes d ' huile essentielle rouge brunâtre .Le parfum est fortement aromatique , et la saveur très amère , caractéristique de la vraie myrrhe : d ' où le nom arabe de « môr » ou « mur » qui signifie « amer » .Cette substance , recueillie ' par les Somalis dans la région montagneuse située entre Zeila et le cap Guardafui , est apportée à Berbéra en novembre , décembre et janvier . |
+| source.excerpts.102.words.0 | aromatique |
+| source.excerpts.102.words.1 | parfum |
+| source.excerpts.102.words.2 | myrrhe |
+| source.excerpts.102.words.3 | fortement aromatique |
+| source.excerpts.102.words.4 | très amère |
+| source.excerpts.102.words.5 | saveur |
+| source.excerpts.103.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/c9b5e39c-49c6-5339-ba1e-a0149c19073f |
+| source.excerpts.103.value | Enfin , il convient sans doute de regarder comme une sorte d ' élémi la résine d ' Aucoumé ( Aucoumea Klaineana PIERRE ) du Gabon , qui en l ' état où elle est recueillie actuellement est généralement noirâtre et très impure ; on y trouve , d ' après M .GUILLAUMIN , depuis 15 jusqu ' à 33 pour 100 de ces impuretés , sables ou débris végétaux ; 60 - 62 pour 100 de résine , et 38 - o pour 100 d ' une huile essentielle verdâtre , très claire et d ' une odeur douce et agréable .Cette résine ne sert guère encore qu ' aux indigènes pour la confection de torches ; mais plus soigneusement récoltée , elle semble pouvoir donner de bons vernis à l ' alcool ou à la térébenthine . |
+| source.excerpts.103.words.0 | résine |
+| source.excerpts.103.words.1 | agréable |
+| source.excerpts.103.words.2 | douce |
+| source.excerpts.103.words.3 | odeur |
+| source.excerpts.103.words.4 | huile essentielle |
+| source.excerpts.103.words.5 | impuretés |
+| source.excerpts.103.words.6 | débris végétaux |
+| source.excerpts.103.words.7 | sables |
+| source.excerpts.103.words.8 | GUILLAUMIN |
+| source.excerpts.104.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/cf4d971f-e20a-57fc-9515-2889c5a6d147 |
+| source.excerpts.104.value | TSCHIRCH et ses élèves dans les aloès de Zanzibar , du Natal et de l ' Ouganda .Enfin , l ' aloès fournit , à la distillation , une petite quantité d ' huile essentielle , à laquelle on attribue l ' odeur particulière de la drogue .XIV LE SPERMOLEPIS ET SA TANNO - RÉSINE L ' arbre de la famille des Myrtacées que BRONGNIART et GRIS ont décrit sous le nom de S ) eriiiolej ) is qummifera ( AriLlastrum gummiferum PANCH . |
+| source.excerpts.104.words.0 | odeur |
+| source.excerpts.104.words.1 | particulière |
+| source.excerpts.104.words.2 | aloès |
+| source.excerpts.104.words.3 | drogue |
+| source.excerpts.105.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/cf82d5f2-4344-57bd-84fc-715153dfd176 |
+| source.excerpts.105.value | A MM .TSCHIRCH et WEIGEL ont trouvé , pour cette résine du sapin argenté des Vosges , la composition suivante : 56 à 60 pour 100 d ' acides résiniques , l ' acide abiénique ( 8 à 10 pour 100 ) amorphe , l ' acide abiètolique ( i , 5 à 2 pour 100 ) cristallisé , et les acidesa et e - abiétinoliques ( 46 à 5o pour 100 ) amorphes ; un mélange de résène , l ' ab iétorésène ( 12 à 16 pour 100 ) et d ' huile essentielle ( 28 à 30 pour 100 ) qui , fraîchement distillée , est un liquide incolore , limpide et mobile , de densité 0 , 860 , à fluorescence verdâtre et d ' odeur agréable , mais qui , exposée à l ' air , jaunit , devient acide et se résinifie ; et 1 à 2 pour 100 , comprenant des traces d ' acide succiniqae , d ' un principe amer , d ' une matière colorante , d ' eau et d ' impuretés .Le mélèze et la térébenthine de Venise . |
+| source.excerpts.105.words.0 | agréable |
+| source.excerpts.105.words.1 | odeur |
+| source.excerpts.105.words.2 | liquide |
+| source.excerpts.105.words.3 | matière |
+| source.excerpts.105.words.4 | principe amer |
+| source.excerpts.105.words.5 | résine du sapin argenté des Vosges |
+| source.excerpts.105.words.6 | acide succiniqae |
+| source.excerpts.106.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d150d3ea-104a-5083-97de-9e17ac3e9ae2 |
+| source.excerpts.106.value | IIECREL et SCHLADENHAUFFEN ( 5 et 6 ) ont recherché les propriétés de cette résine des Gardenia néo - calédoniens .D ' après eux , elle fond à 83 ° , et s ' écoule en gouttelettes transparentes , en répandant une odeur agréable .Sa densité est de 1 , 102 . |
+| source.excerpts.106.words.0 | agréable |
+| source.excerpts.106.words.1 | odeur |
+| source.excerpts.106.words.2 | elle |
+| source.excerpts.107.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d36e6119-2574-5b8c-befe-c2d5af67b0d7 |
+| source.excerpts.107.value | Par distillation de l ' oléorésine brute dans un courant de vapeur d ' eau , on obtient une proportion plus élevée d ' huile essentielle claire et d ' odeur très - fine ; mais la résine restante est moins belle que dans le cas précédent .Il convient , croyons - nous , de placer à la suite des élémis et à côté des résines de Pislacia , l ' exsudat résineux du Schinus dependens ORTEGA var .subintegra Engl . |
+| source.excerpts.107.words.0 | exsudat |
+| source.excerpts.107.words.1 | résines de |
+| source.excerpts.108.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d5f9c3ac-5544-5302-b1e1-63c4b1ff41c2 |
+| source.excerpts.108.value | CHEVALIER ( i ) admet que c ' est « une espèce de gomme Copal » , inexploitée d ' ailleurs , qui exsude du tronc du coso ( Berlinia acuminata SOLAND .) qu ' il a rencontré en plusieurs localités , dans son voyage en Afrique occidentale , notamment dans le Haut - Niger , à Toukoro et à Damélara , où , dit - il , le coso est parmi les plus beaux arbres , quand il est couvert de ses grappes de fleurs à grandes corolles blanches parfumées .Cet exsudat de B . |
+| source.excerpts.108.words.0 | Niger |
+| source.excerpts.108.words.1 | parfumées |
+| source.excerpts.108.words.2 | localités |
+| source.excerpts.108.words.3 | Haut |
+| source.excerpts.108.words.4 | Afrique occidentale |
+| source.excerpts.108.words.5 | Damélara |
+| source.excerpts.108.words.6 | Toukoro |
+| source.excerpts.109.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d648d750-2f19-550d-a795-0efbd2763670 |
+| source.excerpts.109.value | .La distillation de la résine brute au bain d ' huile et à une température inférieure à 100 ° donne 4 , 35 pour 100 d ' une huile essentielle à odeur de citral , mais sans finesse .Par contre , le résidu résinoïde obtenu par ce procédé est translucide , faiblement coloré en rouge brun ; il se dissout dans l ' alcool et l ' essence de térébenthine , et donne , avec ce dernier solvant , un beau vernis . |
+| source.excerpts.109.words.0 | odeur |
+| source.excerpts.109.words.1 | huile essentielle |
+| source.excerpts.109.words.2 | citral |
+| source.excerpts.109.words.3 | résine brute |
+| source.excerpts.110.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d654438a-ee89-5a36-9d94-911ba01a718b |
+| source.excerpts.110.value | En tout cas , M .HoulEs ne croit pas devoir l ' attribuer aux espèces suivantes , chez lesquelles pourtant ont été observées des exsudations gommo - résineuses : Commiphora quadricineta SCIIWF ., nommé bschiained , dans le Tigré , en Ethiopie , et dont le produit , selon SCHWEINFURTH , aurait le goût et le parfum de la myrrhe , ce que conteste M . |
+| source.excerpts.110.words.0 | exsudations |
+| source.excerpts.110.words.1 | HoulEs |
+| source.excerpts.111.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d8183d73-dfa1-5851-91f4-91be16c06228 |
+| source.excerpts.111.value | Localement , la résine de pili , que les Espagnols appellent résine brea , est employée par les indigènes pour la confection de torches très éclairantes , dont se servent particulièrement les pêcheurs .Fraîchement récoltée , cette résine est molle , visqueuse , opaque , de couleur jaune pâle , d ' odeur très agréable , de saveur piquante et un peu amère .Exposée à l ' air pendant quelque temps , elle durcit peu à peu et devient cassante . |
+| source.excerpts.111.words.0 | odeur |
+| source.excerpts.111.words.1 | très agréable |
+| source.excerpts.111.words.2 | cette résine |
+| source.excerpts.112.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d828c8df-175f-5a42-a067-e983601e4bd4 |
+| source.excerpts.112.value | HOLMES , les termes de benjoins de Bombay - et de Pinang ne désignent que les ports d ' embarquement et non des provenances réelles .Le même auteur cite une sorte dite benjoin Storax qui , dit - il , est placé commercialement tantôt parmi les benjoins de Pinang , tantôt parmi ceux de Sumatra , mais que l ' on distingue aisément par une forte odeur de Storax .Il considère comme probable que cette sorte est produite , dans l ' ouest de Sumatra , par le Styrax subdenticulalum MIQUEL . |
+| source.excerpts.112.words.0 | Storax |
+| source.excerpts.112.words.1 | forte |
+| source.excerpts.112.words.2 | odeur |
+| source.excerpts.112.words.3 | sorte |
+| source.excerpts.112.words.4 | Sumatra |
+| source.excerpts.112.words.5 | benjoin Storax |
+| source.excerpts.113.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d837ec91-bd9e-546f-9ae0-e3aec2e78fbe |
+| source.excerpts.113.value | Tout d ' abord , avant de les entailler , ils soumettent les arbres à une préparation préalable ; à l ' aide d ' un maillet , et en tournant autour du tronc , ils frappent l ' écorce et la blessent même , du moins en ce qui concerne les arbres les plus gros .Quelques jours après , la matière oléorésineuse commence à exsuder des blessures et des parties contusées .Chiffons et étoupe sont enlevés tous les six , huit ou dix jours , et mis à bouillir dans l ' eau pendant une demi heure . |
+| source.excerpts.113.words.0 | exsuder |
+| source.excerpts.113.words.1 | Quelques jours après |
+| source.excerpts.113.words.2 | matière oléorésineuse |
+| source.excerpts.114.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d8b21f7b-63bc-56d6-a1c1-d75851747214 |
+| source.excerpts.114.value | GUIBOURT , à qui furent remis deux échantillons de cette substance , ignorait la plante qui la produisait .En 1884 , CONDE DE FICALHO pensa d ' abord qu ' il s ' agissait de l ' exsudat résineux du safa ( Pachylobus edulis ) , puis , suivant une détermination d ' OLIVER , considéra comme arbre producteur le Sorindeia irimera OLIV .Enfin , en 1897 , MOLLER soumit des échantillons de la plante , rapportés par lui de San Thomé , à Engler qui la nomma Santiriopsis balsamifera ENGL . |
+| source.excerpts.114.words.0 | exsudat |
+| source.excerpts.114.words.1 | En 1884 |
+| source.excerpts.114.words.2 | safa |
+| source.excerpts.114.words.3 | Pachylobus |
+| source.excerpts.114.words.4 | Sorindeia |
+| source.excerpts.114.words.5 | CONDE DE FICALHO |
+| source.excerpts.115.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/d9a315d4-5595-5423-aa21-9b0c60995878 |
+| source.excerpts.115.value | Connue et employée depuis le xvie siècle , cette térébenthine a toujours été appréciée pour sa limpidité et son odeur agréable .Elle se présente sous forme d ' une masse de consistance sirupeuse , claire , transparente , de couleur variant du jaune au brun , d ' odeur rappelant celle de la mélisse et du citron ( térébenthine citriodore ) , de saveur balsamique , un peu piquante , avec un arrière - goût amer .A MM . |
+| source.excerpts.115.words.0 | odeur |
+| source.excerpts.115.words.1 | celle |
+| source.excerpts.115.words.2 | citron |
+| source.excerpts.115.words.3 | mélisse |
+| source.excerpts.115.words.4 | térébenthine citriodore |
+| source.excerpts.116.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/e0826798-1c6a-507b-902b-6e26ef039f8f |
+| source.excerpts.116.value | C ' est un exsudât jaune rougeâtre dont la composition exacte est peu connue , mais qui paraît avoir les plus grandes analogies avec le produit guttoïde d ' un autre Symphonia indigène de Madagascar : le Symphonia clusioides BAKER , grand et bel arbre nommé kizy , kijy ou kimba en dialecte bozanozano , dintina ou dintinina en hova , kimbavy et kimbamena dans le Betsiléo .Des incisions faites dans l ' écorce , il s ' écoule un ' suc résineux jaune qui se solidifie progressivement à l ' air et se transforme en une sorte de résine durej en morceaux de coloration brun verdâtre , foncé à l ' extérieur , avec des parties jaune soufre à l ' intérieur r très cassante , à cassure lisse , luisante ; d ' odeur faible et de saveur presque nulle , sans âcreté .Cet exsudat de kijy fond à 65 ° , et se dissout dans l ' alcool bouillant , l ' éther de pétrole , la benzine , le chloroforme , les alcalis . |
+| source.excerpts.116.words.0 | faible |
+| source.excerpts.116.words.1 | odeur |
+| source.excerpts.116.words.2 | nulle |
+| source.excerpts.117.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/e3f08efe-f153-5ca6-8747-0021ee3a09af |
+| source.excerpts.117.value | Le Macaranga Roxburghii WIGHT du Dekkan est décrit par M .Joseph HOOKER comme un « petit arbre résineux » , dont les jeunes bourgeons et les fruits sont couverts d ' une sécrétion brune adhésivë , dégageant une odeur de térébenthine .Il en est de même pour une forme très voisine de cette espèce , le M . |
+| source.excerpts.117.words.0 | odeur |
+| source.excerpts.117.words.1 | fruits |
+| source.excerpts.117.words.2 | sécrétion |
+| source.excerpts.117.words.3 | térébenthine |
+| source.excerpts.117.words.4 | arbre |
+| source.excerpts.117.words.5 | jeunes bourgeons |
+| source.excerpts.117.words.6 | Joseph HOOKER |
+| source.excerpts.118.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/ea45b115-76d5-5e09-8391-e61d66854ce9 |
+| source.excerpts.118.value | La résine de X .hastilis se présente aussi en morceaux globuleux , possédant une fine odeur de benjoin qui s ' accentue lorsqu ' on la pulvérise .Le X . |
+| source.excerpts.118.words.0 | odeur |
+| source.excerpts.118.words.1 | benjoin |
+| source.excerpts.118.words.2 | fine |
+| source.excerpts.118.words.3 | hastilis |
+| source.excerpts.119.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/ea511875-30a3-55fb-94ae-9545134a4245 |
+| source.excerpts.119.value | Il ne paraît toutefois avoir été introduit en Europe qu ' au Inne siècle : d ' abord en France , puis plus tard en Angleterre où il fut vendu sous le nom de « balsam of Gilead » , Ce baume pur a Ja consistance d ' un li - .quide épais ; parfaitement limpide , il est de couleur jaune clair tirant sur le vert , faiblement fluorescent , d ' odeur aromatique agréable et de saveur amère , .- Il se dissout dans la plupart des solvants des résines ; sa solution alcoolique est faiblement acide . |
+| source.excerpts.119.words.0 | odeur |
+| source.excerpts.119.words.1 | il |
+| source.excerpts.119.words.2 | amère |
+| source.excerpts.119.words.3 | aromatique agréable |
+| source.excerpts.120.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/edc38350-a40f-573d-8ef5-4b043191fb5c |
+| source.excerpts.120.value | BR ., qui fournit une résine en petites larmes arrondies , de couleur brun rougeâtre , se ramollissant à la chaleur de la main , d ' odeur agréable , et qui servirait , en Australie , de brai ou de cire à cacheter .Récemment M . |
+| source.excerpts.120.words.0 | résine |
+| source.excerpts.120.words.1 | agréable |
+| source.excerpts.120.words.2 | odeur |
+| source.excerpts.120.words.3 | cire à cacheter |
+| source.excerpts.120.words.4 | brai |
+| source.excerpts.121.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/f07d490b-1173-5356-a300-45e99df93623 |
+| source.excerpts.121.value | f ., qui habite les Mascareignes , îles de la Réunion et Maurice , et qui produit également une substance résineuse aromatique rappelant le benjoin , mais sur laquelle on ne possède encore aucune donnée précise .XI LES PLANTES A SANG - DRAGON Les végétaux qui produisent le sang - dragon vrai ou des Indes orientales — substance résineuse qu ' il ne faut pas confondre avec les gommes tannifères ou les tannoïdes que l ' on a désignés , à tort , sous le même nom — sont des Palmiers grimpants appartenant au genre Dœmonorops , que les Malais appellent vulgairement rotans ou rotangs . |
+| source.excerpts.121.words.0 | Mascareignes |
+| source.excerpts.121.words.1 | aromatique |
+| source.excerpts.121.words.2 | benjoin |
+| source.excerpts.121.words.3 | substance |
+| source.excerpts.121.words.4 | îles de la Réunion et Maurice |
+| source.excerpts.122.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/f359e942-f90b-5ad9-95f5-954c9dac14cb |
+| source.excerpts.122.value | Les Conifères y dominaient ; il en découlait une résine qui après avoir subi une transformation dans le sol est devenue l ' ambre .Cette résine répandait une odeur aromatique qui attirait de nombreux insectes , des araignées , tandis que des reptiles pourchassaient ces petits invertébrés ; lous ces animaux se retrouvent emprisonnés dans les masses résineuses , en même temps que de multiples débris végétaux : écorces , feuilles , fruits ou cônes , etc ., L ' ambre a pu être recueilli au fond de la mer par des dragages ou des explorations au scaphandre . |
+| source.excerpts.122.words.0 | résine |
+| source.excerpts.122.words.1 | aromatique |
+| source.excerpts.122.words.2 | odeur |
+| source.excerpts.122.words.3 | attirait de nombreux insectes |
+| source.excerpts.123.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/f63a1952-a7e9-5641-bb67-5215959f8c71 |
+| source.excerpts.123.value | Le produit est vendu à Zeila et Berbera , sur la côte des Somalis , et à Aden ou Makalla , en Arabie .L ' encens est formé de larmes arrondies ou oblongues , de couleur jaune pâle ou rougeâtre , dégageant par le frottement une odeur , aromatique caractéristique , et de saveur amère ; on sait qu ' il brûle en répandant un parfum agréable .Dans l ' Inde , le Boswellia serrata RoxB . |
+| source.excerpts.123.words.0 | agréable |
+| source.excerpts.123.words.1 | parfum |
+| source.excerpts.123.words.2 | odeur |
+| source.excerpts.123.words.3 | encens |
+| source.excerpts.123.words.4 | amère |
+| source.excerpts.123.words.5 | larmes |
+| source.excerpts.123.words.6 | aromatique caractéristique |
+| source.excerpts.124.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/f977caf9-7298-5e6b-9be0-9e7bae060bde |
+| source.excerpts.124.value | XI LES PLANTES A SANG - DRAGON Les végétaux qui produisent le sang - dragon vrai ou des Indes orientales — substance résineuse qu ' il ne faut pas confondre avec les gommes tannifères ou les tannoïdes que l ' on a désignés , à tort , sous le même nom — sont des Palmiers grimpants appartenant au genre Dœmonorops , que les Malais appellent vulgairement rotans ou rotangs .La résine rouge est exsudée par les écailles des fruits arrivés à la maturité .On a longtemps admis que la seule espèce productrice était le Dœmonorops Draco BLUME ( Calamus Draco WILLD . |
+| source.excerpts.124.words.0 | exsudée |
+| source.excerpts.124.words.1 | résine rouge |
+| source.excerpts.125.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/fd105d40-1723-5a64-bdec-def5b104be77 |
+| source.excerpts.125.value | En Afrique occidentale , d ' après RANÇO ., les indigènes utiliseraient surtout cette gomme - résine comme désinfectant , en la brûlant dans leurs cases .Le bdellium de l ' Inde est fourni par deux espèces : le Commiphora Agallocha ENGL . |
+| source.excerpts.125.words.0 | résine |
+| source.excerpts.125.words.1 | gomme |
+| source.excerpts.125.words.2 | désinfectant |
+| source.excerpts.125.words.3 | indigènes |
+| source.excerpts.126.@id | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/fd963fe3-b331-508c-9d7f-624e02b941fc |
+| source.excerpts.126.value | Il est appelé arouaou par les Galibis , Bois ' d ' encens et sa résine encens de Cayenne , d ' après MARCHAND , et Gommier à encens , à Sainte - Lucie , selon M , HOOPER .De son tronc s ' écoule une oléorésine fluide , - à odeur de citron , de saveur amère ; mais desséchée , elle n ' a aucune odeur appréciable et se présente alors en morceaux d ' un blanc grisâtre ou jaunâtre , très légers , brûlant avec une flamme fuligineuse , en répandant un parfum agréable rappelant l ' encens .De mes essais particuliers , il résulte que cette résine est entièrement soluble dans l ' éther , le chloroforme , ainsi que dans le toluène et l ' alcool absolu bouillants . |
+| source.excerpts.126.words.0 | agréable |
+| source.excerpts.126.words.1 | aucune |
+| source.excerpts.126.words.2 | parfum |
+| source.excerpts.126.words.3 | odeur |
+| source.excerpts.126.words.4 | encens |
+| source.excerpts.126.words.5 | elle |
+| source.excerpts.126.words.6 | amère |
+| source.excerpts.126.words.7 | appréciable |
+| source.excerpts.126.words.8 | citron |
+| source.excerpts.126.words.9 | oléorésine |
+| source.author.0.@id | http://data.odeuropa.eu/actor/535cab9c-d72c-5edf-9050-f622cf022b93 |
+| source.author.0.label | Hubert  Jacob de Cordemoy |
+| source.label | Les plantes à gommes et à résines / par H. Jacob de Cordemoy,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k63731805 |
+| source.date | 1911 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/62 |
+| smellSource.0.label | Essential oil |
+| time.0.@id | http://data.odeuropa.eu/time/29ce4f30-b5c5-5df4-b3eb-f13c313f90a9 |
+| time.0.label | 1911 |
+| time.0.begin | 1911 |
+| time.0.end | 1911 |
+| place.0.@id | https://sws.geonames.org/415189/ |
+| place.0.label | Aden |
+| relevantExcerpt | http://data.odeuropa.eu/source/eb04f8b1-6cc8-5e90-afbe-dfaeb0803b47/fragment/11ecbb69-1a2e-518c-ada8-cddbaf50c436 |
+| license | Public domain |
+| adjective.0 | fortement aromatique |
+| adjective.1 | franchement amère |

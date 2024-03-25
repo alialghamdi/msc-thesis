@@ -1,0 +1,102 @@
+## mordicante
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/3c5496f9-039d-58df-a7b3-71fd2f7a07c9 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | mordicante |
+| source.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/24ab3e05-574d-5f22-9f1b-3eba1e6c17b4 |
+| source.excerpts.0.value | symptômes généraux caractérisés par une fièvre vive , de Rembarras gastrique , de la prostration des forces et quelquefois même par des phénomènes ataxo - adynamiques .L ' inflammation gangreneuse convertit la sécrétion virulente en une sérosité içhoreuse , à odeur gangreneuse , mais dépourvue de toute contagiosité .A partir du moment où la gangrène s ' est établie les produits morbides qui s ' échappent de la cavité glandopréputiale ne sont plus inoculables . |
+| source.excerpts.0.words.0 | odeur |
+| source.excerpts.0.words.1 | sécrétion |
+| source.excerpts.0.words.2 | gangreneuse |
+| source.excerpts.0.words.3 | sérosité |
+| source.excerpts.0.words.4 | içhoreuse |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/32455b48-4b81-54fc-9e1b-13a625c81bd4 |
+| source.excerpts.1.value | Quelquefois la sensibilité s ' exagère à tel point que la pression , même la plus légère , suffit à provoquer les plus vives douleurs .Une sécrétion abondante s ' échappe de la cavité préputiale , l ' odeur en est fade et repoussante .L ' écoulement , d ' abord clair , devient opalin , lactescent , puis jaunâtre . |
+| source.excerpts.1.words.0 | odeur |
+| source.excerpts.1.words.1 | sécrétion |
+| source.excerpts.1.words.2 | repoussante |
+| source.excerpts.1.words.3 | fade |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/3a248565-494f-572e-8ea7-9817ef9dcf74 |
+| source.excerpts.2.value | des ulcères dont ils sont le siège .On panse au vin aromatique .On donne le quart d ' aliments . |
+| source.excerpts.2.words.0 | aromatique |
+| source.excerpts.2.words.1 | vin |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/492459ef-18eb-5482-8223-50ac598836c3 |
+| source.excerpts.3.value | est dans un état de prostration dont on a peine à le tirer .L ' odeur qui se dégage de la partie malade est caractéristique .Les chancreiles du limbe sont à peu près éteintes . |
+| source.excerpts.3.words.0 | odeur |
+| source.excerpts.3.words.1 | caractéristique |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/5691de60-b50e-548b-a08a-67b4dc538364 |
+| source.excerpts.4.value | Compresses d ' eau phôniquée .Dès le début de la gangrène , au moment où les phlyctènes apparaissent , l ' odeur qui s ' exhale des parties malades suffirait à la rigueur pour renseigner le médecin sur la nature du travail morbide qui s ' opère .L ' eau phéniquée , les désinfectants de toute nature peuvent à peine masquer cette fétidité repoussante . |
+| source.excerpts.4.words.0 | odeur |
+| source.excerpts.4.words.1 | morbide |
+| source.excerpts.4.words.2 | Dès |
+| source.excerpts.4.words.3 | médecin |
+| source.excerpts.4.words.4 | parties malades |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/68e21729-7d88-580b-b621-8d28b19b92cc |
+| source.excerpts.5.value | Dès le début de la gangrène , au moment où les phlyctènes apparaissent , l ' odeur qui s ' exhale des parties malades suffirait à la rigueur pour renseigner le médecin sur la nature du travail morbide qui s ' opère .L ' eau phéniquée , les désinfectants de toute nature peuvent à peine masquer cette fétidité repoussante .- 33 — Cette odeur gangreneuse devient de plus en plus forte pendant toute la durée de la formation de l ' eschare ; elle persiste même en partie pendant la période d ' élimination . |
+| source.excerpts.5.words.0 | repoussante |
+| source.excerpts.5.words.1 | eau phéniquée |
+| source.excerpts.5.words.2 | désinfectants |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/a05793d8-5c21-5be6-bd97-b697aa7dcb01 |
+| source.excerpts.6.value | Le malade dit que le membi * e a au moins triplé de volume .La peau est tendue et d ' un rouge érysipélateux .L ' orifice préputial , très oedématié , est couvert d ' une série de petits chancres . |
+| source.excerpts.6.words.0 | peau |
+| source.excerpts.6.words.1 | érysipélateux |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/b0f6aa0e-0c38-5e27-8d93-be152fca9c81 |
+| source.excerpts.7.value | L ' eau phéniquée , les désinfectants de toute nature peuvent à peine masquer cette fétidité repoussante .- 33 — Cette odeur gangreneuse devient de plus en plus forte pendant toute la durée de la formation de l ' eschare ; elle persiste même en partie pendant la période d ' élimination .Jusqu ' ici la balano - posthite gangreneuse , symptomatique du chancre simple , n ' a été étudiée par nous que comme une affection locale . |
+| source.excerpts.7.words.0 | odeur |
+| source.excerpts.7.words.1 | gangreneuse |
+| source.excerpts.7.words.2 | pendant toute |
+| source.excerpts.7.words.3 | de plus en plus forte |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/b8e3aa46-6ec7-5c51-b08e-354a4824ba6a |
+| source.excerpts.8.value | L ' incision n ' a pas enrayé la gangrène .Les deux lambeaux préputiaux sont noirs et gonflés ; une odeur très forte s ' échappe de la région .L ' examen des urines ne donne aucune trace de sucre . |
+| source.excerpts.8.words.0 | très forte |
+| source.excerpts.8.words.1 | odeur |
+| source.excerpts.8.words.2 | région |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/c7024b87-a404-5547-bde4-fae8ad51f3bc |
+| source.excerpts.9.value | A l ' extrémité du prépuce et sur Ta partie inférieure du fourreau , siègent toute une série d ' inoculations qu ' il est impossible de ne pas reconnaître pour des chancreiles .En pressant sur le prépuce , on fait couler , par l ' orifice , un flot de pus — 25 — d ' odeur , nauséabonde ; les linges , qui enveloppaient la verge , en sont tout imprégnés .Les ganglions de l ' aine sont doulou - : reux . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | nauséabonde |
+| source.excerpts.9.words.2 | pus |
+| source.excerpts.9.words.3 | linges |
+| source.excerpts.9.words.4 | verge |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/d35e9153-dfb8-5d34-8b53-127116071ab5 |
+| source.excerpts.10.value | La verge se déforme , elle se renfle à son extrémité libre , suivant la comparaison classique , en massue , en battant de cloche .La région devient le siège d ' une chaleur acre et mordicante .Quelquefois la sensibilité s ' exagère à tel point que la pression , même la plus légère , suffit à provoquer les plus vives douleurs . |
+| source.excerpts.10.words.0 | région |
+| source.excerpts.10.words.1 | mordicante |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/e06cb939-62b3-53ad-9458-ab5c8d321bc7 |
+| source.excerpts.11.value | On touche légèrement avec le nitrate d ' argent les parties non cicatrisées .On panse toujours avec du vin aromatique .' On donne les trois quarts d ' aliments . |
+| source.excerpts.11.words.0 | aromatique |
+| source.excerpts.11.words.1 | vin |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/e833afed-af9e-586c-886e-be043a0c0046 |
+| source.excerpts.12.value | Le malade nous montre sur la face antérieure de la verge , au milieu de la région prépuliale , une tache brune , insensible , de forme elliptique et dont le grand diamètre a plus d ' un centimètre .Aucune odeur ne se dégage du point gangrené .La plaque de sphacèle aurait paru dès hier soir . |
+| source.excerpts.12.words.0 | odeur |
+| source.excerpts.12.words.1 | point gangrené |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/ef4b2dcd-2caa-5464-ab9e-4fbd820010c6 |
+| source.excerpts.13.value | Les chancreiles du limbe sont à peu près éteintes .La sécrétion mucoso - purulente a diminué , mais elle est sanguinolente .Le 25 . |
+| source.excerpts.13.words.0 | sécrétion |
+| source.excerpts.13.words.1 | sanguinolente |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/f188104a-f9f6-5371-862b-9d7b70f08cd5 |
+| source.excerpts.14.value | Plus de , fièvre ; la nuit a été très calme .La plaie est nette : pas d ' odeur , pas de suppuration ; il n ' y a pas trace d ' inoculation chancrelleuse sur la plaie résultant de la chute du gland ni sur l ' incision faite le jour même de l ' entrée du malade , pour débrider le paraphimosis .Le 23 . |
+| source.excerpts.14.words.0 | odeur |
+| source.excerpts.14.words.1 | jour même de l ' entrée |
+| source.author.0.@id | http://data.odeuropa.eu/actor/c97cfcde-e052-5e6a-839d-ae79e2a64db0 |
+| source.author.0.label | Albert  Petit |
+| source.label | De la Balanophosthite chancrelleuse / par le Dr Albert Petit,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k56679879 |
+| source.date | 1882 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/260c497d-a092-5af7-b2cf-cfe26f14f0f6 |
+| time.0.label | 1882 |
+| time.0.begin | 1882 |
+| time.0.end | 1882 |
+| place.0.@id | https://sws.geonames.org/12200097/ |
+| place.0.label | Region 2 |
+| emotion.0.@id | http://data.odeuropa.eu/emotion-type/greed |
+| emotion.0.label | greed |
+| relevantExcerpt | http://data.odeuropa.eu/source/e28e1132-bb37-5f9a-890f-cb06172e9f93/fragment/d35e9153-dfb8-5d34-8b53-127116071ab5 |
+| license | Public domain |

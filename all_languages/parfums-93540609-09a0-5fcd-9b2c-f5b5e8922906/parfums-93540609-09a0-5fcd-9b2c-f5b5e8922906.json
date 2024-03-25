@@ -1,0 +1,300 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/93540609-09a0-5fcd-9b2c-f5b5e8922906",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/002e848b-c9f4-582b-aef5-71c3a23ec64d",
+        "value": "« Je crains bien de tomber malade , écrivait - elle à son fils , car je ne me trouve guère bien .» De plus , est - il possible d ' être empoisonné par des gants parfumés ? Il n ' est pas prouvé que la main absorbe les médicaments et les poisons ; mais c ' est au parfum seul que l ' on attribuait la mort de la reine , et l ' on reproche aux médecins du roi , qui pratiquèrent l ' autopsie , de n ' avoir pas examiné le cerveau .Un parfum s ' insinue par les narines dans le cerveau et le corrode ; c ' était la science du temps .",
+        "words": [
+          "parfum",
+          "empoisonné",
+          "parfumés",
+          "gants",
+          "médicaments",
+          "poisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/08a67795-8264-5b04-97e8-a618cfa64bf4",
+        "value": "Sur tous ces amas de choses disparates , une fine poussière jetait un léger brouillard gris , qui harmoniait les nuances , adoucissait les contours .La lumière de deux lampes d ' argent , où brûlait une huile parfumée , éclairait cette retraite où n ' arrivaient jamais les rumeurs du dehors .Depuis longtemps déjà maître René , debout près de la fenêtre , guettait , lorsqu ' il vit briller à l ' orée du pont la flamme rouge des torches .",
+        "words": [
+          "huile",
+          "parfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/0a7d8584-e27c-54cd-a054-992492b241de",
+        "value": "Or , des bruits étranges couraient sur le parfumeur florentin , et son nom , déjà exécré , venait d ' acquérir une lugubre renommée à cause de ces rumeurs que l ' histoire a désormais le droit de taxer de calomnieuses .On l ' accusait d ' avoir , sur l ' ordre de Catherine , empoisonné , avec une paire de gants parfumés , la reine de Navarre , Jeanne d ' Albret , mère de ce jeune prince que la raison d ' État unissait à Marguerite de Valois .Jeanne d ' Albret , selon le langage d ' Agrippa d ' Aubigné , « n ' avait de femme que le sexe , » - l ' âme entière aux choses viriles , l ' esprit puissant aux grandes affaires , le cœur invincible aux adversités .",
+        "words": [
+          "parfumés",
+          "gants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/1348815c-d73d-5621-8985-afda1b87ce4a",
+        "value": "Les chats rôdaient à pas de velours , la queue en panache , épiant des restes mis en réserve pour la soupe des pauvres , et frôlaient parfois d ' une caresse sournoise les pieds tors de la table .Dans la salle où flottait une légère vapeur , où la fenêtre ouverte laissait pénétrer l ' air frais du soir qui chassait l ' odeur fade des nourritures , les parfums âcres du vin , il ne restait que Ségur et Téligny , devisant à voix basse , l ' oreille au guet , et parfois jetant autour d ' eux un regard de méfiance .Près de la tenture flamande relevée en dra * perie sur l ' alcôve où Malipieri , le coude sur la table , écoutait Euloge Aubelet , il y avait encore le soldat d ' aventures , le dos à la muraille , roide sous son harnois , les jambes écartées , les bras allongés sur la table .",
+        "words": [
+          "odeur",
+          "vin",
+          "parfums",
+          "âcres",
+          "fade",
+          "nourritures",
+          "la salle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/26378267-a4d1-5c83-aff9-f75a2c876ebc",
+        "value": "Un parfum s ' insinue par les narines dans le cerveau et le corrode ; c ' était la science du temps .Aujourd ' hui on n ' admettrait pas qu ' un corps volatil pût être conservé autrement qu ' en vase clos , ni manié impunément par le parfumeur qui voudrait en imprégner des gants .Le cerveau de la pauvre reine fut examiné , quelques jours plus tard , par ses médecins huguenots , Caillard et Desnœux ; ils le trouvèrent sain et sans lésion .",
+        "words": [
+          "corps",
+          "gants",
+          "imprégner",
+          "parfumeur",
+          "Aujourd"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/285601d4-3a0c-5fae-b6c7-e742998e3359",
+        "value": "— Au cabaret du Chat - qui - Pêche ? — A la taverne de la Femme - sans - Tête , en la Cité ? — Non .Chez l ' étuviste Ludger , qui a reçu pour vous , Henri , tout un assortiment de parfums d ' Italie .Et pour vous , François , un panier de ces vins de Hongrie qui sentent la pierre à fusil .",
+        "words": [
+          "parfums",
+          "Henri",
+          "étuviste Ludger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/297cc7d2-7007-5213-8d31-bcc59a056815",
+        "value": "Au centre s ' élevait , emplissant un grand vase de grès un splendide bouquet empanaché de glaïeuls et d ' iris , et quatre supports de métal , enchâssés eux - mêmes entre des jattes ; des guéridons chargés de hors - d ' œuvre attendaient les quatre plats de résistance permis par les lois somptuaires .Et tout en admirant cette belle ordonnance , Jean Le Caucheteur écoutait le colloque engagé entre la mère et la fille , donnant à la fois du plaisir à ses yeux , à ses oreilles , à son odorat , ayant au surplus l ' espoir fondé de satisfaire bientôt le sens du goût .— Par ainsi donc , tout est prêt ? dit soudain Mademoiselle Casilde en s ' arrêtant au milieu de la salle , les poings sur la hanche .",
+        "words": [
+          "odorat",
+          "Jean Le Caucheteur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/2e37af21-e5f5-585a-bbb0-516d8894290c",
+        "value": "Je veux être dame de la Gaure , et dans cette eau trouble des choses de religion , si mon mari est avisé , il saura pêcher une charge au parlement pour son gendre .Préposant alors la mignonne Yvette à la garde du réfectoire , où rôdait une énorme chatte rousse , escorté de ses quatre chatons , et de la cuisine , d ' où s ' échappait un doux parfum d ' épices , Mademoiselle LeLellier courut audevant de son époux aussi vite que le lui permettait sa corpulence .Mais elle l ' eut rejoint , sans doute , avant d ' avoir atteint le bas des degrés , car elle rentra presque aussitôt précédant le tailleur du roi , dont les sourcils froncés trahissaient la mauvaise humeur .",
+        "words": [
+          "doux",
+          "cuisine",
+          "doux parfum",
+          "réfectoire",
+          "Mademoiselle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/32b7be2c-6a40-562e-9dca-bde10cd5988d",
+        "value": "J ' ai vingt ans .J ' aimela couleur noire , la rose , le parfum du musc , et voici ma main , acheva - t - il en ôtant un de ses gants de soie .Harald fronça le sourcil : — Vous serez roi ! dit - il .",
+        "words": [
+          "parfum",
+          "musc",
+          "rose",
+          "J"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/3fb3bc42-ae17-528d-821d-59b6fdb4b294",
+        "value": "Et comme le pétrinal est plus court et plus léger qu ' une arquebuse , on n ' a pas besoin de fourquine pour soutenir le canon .— Et après ? — Après ? J ' ai fourni au sire une lame de fauchard , damasquinée , avec sa gaîne de cuir turc , et puis je lui ai baillé en pur don une curieuse dague à lame dentelée , dont la poignée se dévisse et renferme une fiole où l ' on peut mettre , selon son goût , du poison ou des parfums .- Et le tout pour cent nobles à la rose ? - Tout au juste prix .",
+        "words": [
+          "parfums",
+          "fiole",
+          "lame de fauchard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/4fe368c0-d31a-50fa-9771-51dd32df3aa3",
+        "value": "Ils m ' ont accusée d ' avoir fait empoisonner la reine de Navarre .Avec des gants enduits par toi d ' un parfum .trop subtil .",
+        "words": [
+          "parfum",
+          "gants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/5a10fddc-7042-56f9-92aa-c83dc7ecc9ce",
+        "value": "- A Rhodes ? En Grèce ? A Malte ? - J ' ai fait une excursion en Syrie , puis sur la côte burbaresque , répondit Euloge , que ces interrogations répétées agaçaient évidemment .Je tenais à rapporter en France des tissus , des tapis , des étoffes , des joyaux , des parfums d ' Alep et de Tripoli .C ' est une grosse fortune à tenter .",
+        "words": [
+          "Alep",
+          "Tripoli",
+          "parfums",
+          "tissus",
+          "étoffes",
+          "tapis",
+          "joyaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/6d5fec1c-17c9-5834-b01f-57a4c8b05188",
+        "value": "Affaire d ' État , parfois se traduit en une expression plus à la portée de mon entendement .— Laquelle ? - Celle - ci Affaire de famille ! — Et quelle affaire de famille pensez - vous qui me tienne au cœur ? — Eh bien ! ma mère , vous avez marié Charles à Isabelle d ' Autriche ; ma sœur Claude au duc de Lorraine ; vous allez marier Marguerite à ce gascon qui sent l ' ail et ne hante que des reîtres .- Henri ! .",
+        "words": [
+          "ail",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/73731744-6a4a-5b58-82bb-1292465d5ff5",
+        "value": "Chez l ' étuviste Ludger , qui a reçu pour vous , Henri , tout un assortiment de parfums d ' Italie .Et pour vous , François , un panier de ces vins de Hongrie qui sentent la pierre à fusil .— Et pour vous , Sire ? demanda Monsieur , qui se mordit les lèvres .",
+        "words": [
+          "François",
+          "sentent",
+          "vins de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/74e3a6e5-111a-5658-a449-16924d490a3e",
+        "value": "Mettez le comble à vos bonnes grâces , ma belle enfant , et m ' assistez de votre goût pour le choix de ces étoffes , et l ' harmonie de leurs couleurs .Alors , tandis que Lorédan prenait un siège et s ' asseyait fout auprès de la fenêtre , dont le double vitrail laissait filtrer une lumière adoucie , la jeune fille appela Remy Pouley , qui monta à l ' échelle pour prendre sur les rayons des hautes armoires de noyer , parfumées au musc , les pièces de tissus précieux , enfermées dans des sachets de maroquin .Puis de l ' angle obscur où elle s ' était réfugiée , elle considérait à la dérobée le brillant seigneur qu ' elle avait pris , tout d ' abord , pour un petit hobereau de Gascogne , cherchant fortune aux trousses du Béarnais .",
+        "words": [
+          "musc",
+          "parfumées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/829aff4a-de5f-5c03-8c79-5d5fec3e76f7",
+        "value": "— Quelle fleur ? — La marguerite .— Quel parfum ? — L ' ambre .Harald abaissa lentement son regard , sursauta , se mit à trembler et soudain : — Oh ! ne m ' interrogez pas ! s ' écria - t - il , ne m ' interrogez pas ! — Par ma foi , riposta le prince lorrain sans se départir de son calme , il paraît que la Providence m ' a réservé une vie bien terrible .",
+        "words": [
+          "parfum",
+          "ambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/9845e335-dc8f-5a8f-a2b0-ecb8302aeae7",
+        "value": "Les ardoises , humides de pluie , miroitaient à la lueur blafarde des astres , et des étincelles d ' argent pailletaient les vitraux des logis .Des cheneaux engorgés d ' eau tombaient des gouttes brillantes : aux rafales impétueuses de la tempête avait succédé une brise légère ; de la terre mouillée se dégageait une odeur âcre .Parfois un éclair fugace embrasait l ' horizon .",
+        "words": [
+          "âcre",
+          "odeur",
+          "gouttes",
+          "terre mouillée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/9c205685-e0d3-57c1-bc98-99d8d5389ee8",
+        "value": "Et c ' est toi qui paies l ' écot ? - S ' il plaît à Votre Seigneurie , répartit Anzolo modestement .Tout en devisant ainsi , ils avaient tourné derrière Saint - Germain - l ' Auxerrois , passé devant la croix du Trahoir , longé Saint - Eustache , traversé les piliers des halles sans se laisser distraire par les appels des apprentis et les offres des marchands , et par la rue aux Ours qu ' embaumaient les parfums appétissants des rôtisseries , ils avaient gagné la grande rue Saint - Denis , qu ' on appelait encore au siècle précédent « la grant ' chaussée de Monsieur Saint - Denys » .Ils admirèrent , en passant à l ' angle de la rue des Lombards , les vastes bâtiments de l ' hôpital de Sainte - Catherine , fondé en 1188 par l ' architecte de Notre - Dame , l ' évêque Maurice de Sully , car en tous pays et à toute époque , dans toutes les œuvres de charité , de conservation ou de préservation sociale , c ' est l ' Eglise qui apparaît , bienfaitrice du peuple , des pauvres , des malades , des déshérités .",
+        "words": [
+          "parfums",
+          "embaumaient",
+          "Saint - Germain - l ' Auxerrois",
+          "appétissants",
+          "Saint - Eustache",
+          "chaussée de Monsieur Saint - Denys",
+          "croix du Trahoir",
+          "grande rue Saint - Denis",
+          "rue aux Ours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/aa125f84-ca19-5a4b-8ced-a534c83564c7",
+        "value": "Ses lèvres un peu retroussées aux coins , ses narines mobiles , marquaient l ' ironie et la verve caustique de l ' Italien , fort ami de l ' hyperbole et de la gaieté bruyante .Il attendait patiemment que l ' apprenti eût étalé sur la banquette les boîtes en bois odorants , les sachets de cuir souple aux émanations fortes .Et près de lui , Anzolo , le poing sur la hanche , le nez au vent , dans une pose de lazzarone méditatif , examinait , la figure plissée par un insouciant dédain , la boutique de maître Jean Letellier , vaste salle carrée , au plafond de solives enfumées et noircies , entourée d ' armoires à moulures épaisses d ' un beau poli , entre lesquelles ressortait un grand bahut flamand à ferrures ouvragées , qui recélait dans ses flancs tout un trésor de franges , passementeries , galons , broderies , canetilles , aiguillettes d ' or , d ' argent et de soie .",
+        "words": [
+          "bois",
+          "émanations",
+          "odorants",
+          "fortes",
+          "cuir souple"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/ab1d02be-9238-51a7-ace3-7ea78f551168",
+        "value": "» De plus , est - il possible d ' être empoisonné par des gants parfumés ? Il n ' est pas prouvé que la main absorbe les médicaments et les poisons ; mais c ' est au parfum seul que l ' on attribuait la mort de la reine , et l ' on reproche aux médecins du roi , qui pratiquèrent l ' autopsie , de n ' avoir pas examiné le cerveau .Un parfum s ' insinue par les narines dans le cerveau et le corrode ; c ' était la science du temps .Aujourd ' hui on n ' admettrait pas qu ' un corps volatil pût être conservé autrement qu ' en vase clos , ni manié impunément par le parfumeur qui voudrait en imprégner des gants .",
+        "words": [
+          "parfum",
+          "cerveau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/ad7acd5c-c78c-55bd-be9c-8a8bc30ea4b2",
+        "value": "Il sourit .— Ne m ' inondez pas de ces odeurs de Florence , La Tour .Si ma mère m ' écoutait , elle aurait déjà renvoyé son René d ' où il vient .",
+        "words": [
+          "Florence",
+          "odeurs",
+          "Tour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/b3335592-e5e6-5894-aa99-d6c18539ee20",
+        "value": "Sachez seulement que j ' apporte les plus belles étoffes , choisies par moi dans les meilleures fabriques : toile d ' or , taffetas , serge , satin et damas .Plus des broderies de Constantinople , des écharpes rayées d ' Égypte , des bijoux de filigranes d ' or et d ' argent , des parfums , des guipures de Venise , en un mot de quoi garnir la plus belle boutique de Paris .Cousine Casilde , ne me donnerez - vous pas une tranche de cette alose ? La bourgeoise emplit l ' assiette que lui tendait son parent .",
+        "words": [
+          "parfums",
+          "plus belle boutique de Paris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/c4eed18c-d6f8-5b9b-bf4f-a336e97491f4",
+        "value": "Et ces broches supportaient , l ' une un chapelet d ' oies , de dindes , d ' oisons , de poulets ingénieusement entremêlés ; l ' autre des quartiers de bœuf et de veau , des gigots superbes ; la troisième , enfin , des cuissots de chevreuil , des lièvres piqués .Le jus de ces diverses victuailles tombait en - crépitant dans une lèchefrite semblable à la vasque de bronze d ' un temple païen , et formait une mer odoriférante où nageaient des mauviettes , des truffes , des champignons , destinés à garnir les plats de rôts qu ' attendaient sept ou huit tablées de oonvives atramés .En outre , devant un fourneau chargé de mar - mites , casseroles , coquemars , bouilloires , dont les flancs de cuivre rouge luisaient , léchés par la flamme , dorés par la braise , un queux besognait , remuant cuillères , louches et couvercles , - , servi par un marmiton à mine éveillée , et par une maritorne qui pesait , mesurait , combinait les épices , les herbes , les condiments .",
+        "words": [
+          "odoriférante",
+          "ces",
+          "vasque",
+          "vasque de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/e8d88766-aadb-57c1-9650-5781c14ae8ea",
+        "value": "Les toits effondrés laissaient voir le ciel à travers les poutres de leur charpente .L ' herbe , une herbe grasse et fétide , tapissait les abords de cette ruine , assurément inhabitée , car elle eût à peine offert un abri au plus misérable des meurt - de - faim : les corbeaux et les chouettes , seuls , y pouvaient nicher , et les rats eux - mêmes n ' eussent rien trouvé à ronger dans cet amas de pierres croulantes .Euloge , après un dernier regard autour de lui pour s ' assurer qu ' il n ' était pas épié , quitta son abri , sans nul souci d ' être inondé par les torrents d ' eau que vomissaient les gargouilles de l ' église .",
+        "words": [
+          "fétide",
+          "herbe",
+          "ruine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/ee7be830-91ee-52e1-a2bd-fd28976c839a",
+        "value": "Quand la petite troupe eut disparu au tournant de la rue Coquillière , Euloge se dirigea vers la pointe Saint - Eustache que déjà des charrettes de légumes bloquaient .Sur le pavé s ' enroulaient des monceaux de verdure , à l ' odeur âcre et fraîche ; des paniers s ' alignaient , débordant de feuilles humides ; quelques maraîchers et des jardinières bavardes caquetaient , riaient , en déchargeant leurs ânes .Ces voix égayaient un peu le morne silence nocturne .",
+        "words": [
+          "âcre",
+          "odeur",
+          "fraîche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/f3a7652a-91e4-5ccb-99aa-13397d3657be",
+        "value": "Je déteste ces graisses et ces huiles .Un soldat doit sentir le cheval .Après , Saint - Prix ? .",
+        "words": [
+          "sentir",
+          "soldat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/ffe55ef0-b77a-5121-8abc-93cecad40212",
+        "value": "Dès ses plus tendres années , le pauvre petit roi n ' avait - il pas dû recourir à la dissimulation , ayant partout des ennemis à combattre , partout des trahisons à déjouer ? Son regard plein de finesse , mais altier , commandait le respect , et si parfois une expression de colère plissait son front large et découvert , tout aussitôt un sourire bienveillant en venait tempérer la sévérité .Lorsqu ' il eut bu le breuvage odorant , Charles émietta un morceau de pain dans son gobelet , et mangea ce pain trempé de vin .L ' air frais du matin entrait à flots dans le retrait royal , dont le soleil faisait resplendir les dorures , jetant aussi des reflets éclatants sur le velours azuré des tentures , sur les cabinets d ' ébène incrustés d ' étain et que chargeaient des coffrets ciselés , des coupes de Venise , des statuettes , des vases de faïence aux émaux crus .",
+        "words": [
+          "odorant",
+          "breuvage",
+          "breuvage odorant"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/ac53a005-f657-5055-a5bb-7b047e8f22cb",
+        "label": "Charles  Buet"
+      }
+    ],
+    "label": "Le roi Charlot. La recluse du Puits-qui-parle / par Charles Buet,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6566472s",
+    "date": "1883",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6345e1a7-16cf-584c-b652-3c134011b20a",
+      "label": "1883",
+      "begin": "1883",
+      "end": "1883"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/170063/",
+      "label": "Aleppo"
+    },
+    {
+      "@id": "https://sws.geonames.org/2210247/",
+      "label": "Tripoli"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/06c1d5e3-c2f4-5a52-9d41-0ba00c3b3a29/fragment/5a10fddc-7042-56f9-92aa-c83dc7ecc9ce",
+  "license": "Public domain"
+}

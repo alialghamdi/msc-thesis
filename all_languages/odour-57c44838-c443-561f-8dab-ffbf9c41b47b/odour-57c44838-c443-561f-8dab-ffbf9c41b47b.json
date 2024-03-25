@@ -1,0 +1,1043 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/57c44838-c443-561f-8dab-ffbf9c41b47b",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "odour",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/0512e997-e12f-51b8-80b2-50d24c2d8ca5",
+        "value": "2 Case studies ( a ) 2 .3 Studies of dispersion ( a ) D Investigation High isolated chimneys : surveys round power stations High chimneys in built - up areas : wind tunnel and full scale studies Chimney design in relation to nearby buildings : wind tunnel studies Chimney design in relation to nearby buildings : comparison of wind tunnel and full scale tests Theoretical and experimental investigation , using wind tunnels , into turbulent flows near typical building shapes and effect of these flows on local dispersion of airborne pollution Theoretical treatment of dispersion from stacks Measurement and advice on control of emissions from industrial chimneys Advice on the fundamentals of design of industrial chimneys Wind tunnel study of atmospheric diffusion of smoke plume from chimney stack Emission and dispersion of smoke fumes from shipsâ   funnels and industrial chimneys ; wind tunnel tests Wind tunnel studies for built - up areas Use of vortex rings to obtain very large rise for pollution , and allow use of low chimneys Studies include : ( i ) Supercooled fog on a proposed cooling lagoon at Connahâ   s Quay ( ii ) SO in the City of London and effects of architectural structure ( iii ) Dust on urban motorways ( iv ) Dispersion of odours from an urban source ( v ) Effects of details of local wind behaviour on dispersion of gases from Holyhead aluminium works , and meaningfulness of averages Dispersion of products of combustion 49 Officer Organisation Responsible G .E .",
+        "words": [
+          "fumes",
+          "odours",
+          "from Holyhead aluminium works"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/0bd8f2a9-e632-5efe-8c75-3a7dfd5af5f8",
+        "value": "Ltd .Odour Absorption Carter Industrial Products Ltd ., Midac Dust Control Division .",
+        "words": [
+          "Odour",
+          "Absorption"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/0fc078af-3757-5a88-81ae-af419f9c14c0",
+        "value": "A more detailed study of a works in another area has been spon - sored jointly by DOE and the Health & Safety Executive .Pollution Abatement Odours 1975 saw the publication of the second and final report of the DOE Working Party on Odours from Offensive and Other Trades , chaired by Dr Valentin , Deputy Director of Warren Spring Laboratory .As a result of a recommendation in that report a substantial programme of research has been commissioned at WSL on the problems of assessing odours and their abatement by various methods .",
+        "words": [
+          "Odours",
+          "Dr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1332579d-d74a-529a-bf51-53007ffca2fa",
+        "value": "2 Case studies ( a ) 2 .3 Studies of dispersion ( a ) rise for pollution , and allow use of low chimneys Studies include : ( i ) Supercooled fog on a proposed cooling lagoon at Connahâ   s Quay ( ii ) SO in the City of London and effects of architectural structure ( iii ) Dust on urban motorways ( iv ) Dispersion of odours from an urban source ( v ) Effects of details of local wind behaviour on dispersion of gases from Holyhead aluminium works , and meaningfulness of averages Dispersion of products of combustion 353 Officer Organisation Responsible G .E .",
+        "words": [
+          "odours",
+          "at",
+          "from Holyhead aluminium works",
+          "Dust on"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1a262b9f-730f-597a-b8e5-7b3afcb5d85f",
+        "value": "S .Three Reports on Successes with Smoke Control ; two papers on solid fuel distribution and supply problem ; air pollution and mortality ; odour control ; control of pollution from road vehicles ; four papers on new horizons in domestic heating ; two papers on industrial problems ; two papers on unresolved problems in air pollution .Price : Â £ 1 .",
+        "words": [
+          "odour",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1bcfaf00-d0e9-5dbc-a671-f11625b430f4",
+        "value": "E .â   Whitewebbsâ   , Woodland Avenue , Cranleigh , Surrey tel : Cranleigh 2411 Main activities concerned with handling and processing of solids and dealing with subsequent exhaust emis - sions , particularly in the scrap metal recovery and animal waste product processing fields including destruction of offensive odours .Nalfloc Limited P .",
+        "words": [
+          "animal",
+          "offensive",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1d2d94d0-411d-5128-ae00-e04c18e34ef0",
+        "value": "C .Saword are members of the Department of the Environ - mentâ   s Working Party on the Suppression of Odours from Offensive and Similar Trades .Messrs .",
+        "words": [
+          "Odours",
+          "from Offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1e1e17f5-0b28-59b5-a09e-092cec0b2475",
+        "value": "_ The disposal of waste by tipping or burning will con - â   tinue to be a potential source of air or water pollution .Whether it be grit and dust from the furnaces or offensiveodours of tipping sites or incinerators will require constantvigilance to suppress it .Toxic Wastes The Deposit of Poisonous Waste Act 1972 has been largely replaced by the proposed new legislation for the control of pollution and the Waste Disposal Authorities will be concerned with the disposal of this material no less than the more normal discards from trade and industrial sources .",
+        "words": [
+          "offensive",
+          "odours",
+          "from the furnaces",
+          "grit",
+          "incinerators",
+          "of tipping sites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1ea9fcaf-c990-5941-99cc-26f6c524a669",
+        "value": "Abatement 17 .The amount of effort on abatement , particularly on abatement of offensive odours and of vehicle emissions , has increased , as has that on monitoring of emissions with a view to improvement of the evaluation of needs for abatement as well as to improved control of emissions .18 .",
+        "words": [
+          "offensive",
+          "odours",
+          "of vehicle emissions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/1f020589-2db7-5596-baf4-b88cbf0e8045",
+        "value": "Pollution Abatement Odours from Offensive Trades During 1971 the Department of the Environment set up the Working Party on Odours from Offensive and Other Trades under the Chairmanship of Dr Valentin , Deputy Director of Warren Spring Laboratory .The Working Party , which produced its first report in 1973 has examined the major odour - producing industries , assessing the effective - ness of existing odour abatement techniques and looking , where necessary , for more successful practices .Warren Spring Laboratory has provided the Working Party with detailed technical support .",
+        "words": "odour"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/253e30b8-1330-5b62-a9bf-ca5a9c924bb4",
+        "value": "E .â   Whitewebbsâ   , Woodland Avenue , Cranleigh , Surrey tel : Cranleigh 2411 Main activities concerned with handling and processing of solids and â   dealing with subsequent exhaust emis - sions , particularly in the scrap metal recovery and animal waste product processing fields including destruction of offensive odours .Nalfloc Limited P .",
+        "words": [
+          "animal",
+          "offensive",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/25594796-e213-56ee-8646-88afabb67b68",
+        "value": "PriceeL ince Folkestone Conference , 1971 .Part I : A report by the Societyâ   s Technical Committee on Sulphur Dioxide , two papers on Odours and their Control , three papers on the Meteorological aspects of Air Pollution , three papers on Aircraft Pollution and a paper on the National Surveyâ   Trends in Pollution .Pricein Â £ 2 .",
+        "words": [
+          "Sulphur",
+          "Odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/257323fa-ec50-5542-a2be-68310a0b6a95",
+        "value": "Also in hand is a wind tunnel assessment of deposit gauge perfor - mance which will show what different gauges are capable of collecting .Pollution Abatement Odours from Offensive Trades During 1971 the Department of the Environment set up the Working Party on Odours from Offensive and Other Trades under the Chairmanship of Dr Valentin , Deputy Director of Warren Spring Laboratory .The Working Party , which produced its first report in 1973 has examined the major odour - producing industries , assessing the effective - ness of existing odour abatement techniques and looking , where necessary , for more successful practices .",
+        "words": [
+          "Odours",
+          "Dr",
+          "from Offensive Trades",
+          "from Offensive and Other"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/2aa07773-d8bb-52b1-a5bd-c7c262ea672a",
+        "value": "The effects on a receiving water are such that the natural dissolved - oxygen level is depressed owing to its absorp - tion by bacteria in the presence of the organic matter .If the organic pollution load is sufficiently great , the stream may lose all its dissolved oxygen , when putrefaction , and foul odours , due the to liberation of hydrogen sulphide , ammonia , and mercaptans , result .The general overall effect is to diminish or destroy the general amenity and recreational aspects of watercourses which are the main source of supply of water for domestic and industrial purposes .",
+        "words": [
+          "foul",
+          "odours",
+          "ammonia",
+          "the stream",
+          "mercaptans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/2f9fb7e0-aa97-5240-8f9d-c035fd7e1db1",
+        "value": "The problems , though widespread and of long standing have come sharply into focus because odour is a form of pollution , difficult to measure or quantify but undoubtedly deleterious to the environment .People are now very vocal and clamour for abatement of a subjective nuisance which , though not usually toxic is certainly at best , an annoyance and at worst , intolerable .Thus it is that the National Society for Clean Air must concern itself with all forms of pollution from whatever sources , and seek to suppress them .",
+        "words": [
+          "nuisance",
+          "intolerable",
+          "People",
+          "subjective",
+          "an annoyance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/2fbad5b5-d384-5589-8376-31bc6b7b9250",
+        "value": "Fire Research Station Fire Research Station Freshwater Fisheries Laboratory , Pitlochry .Freshwater Fisheries Laboratory , Pitlochry Government Chemistâ   s Laboratory Liverpool University , Department of Oceanography London University , Chelsea College , Department of Applied Biology London University , Imperial College of Science and Technology , Department of Mechanical Engineering London University , Imperial College of Science and Technology , Department of Public Health London University , Imperial College of Science and Technology , Department of Civil Engineering London University , Queen Mary College , Department of Mechanical Engineering London University , Queen Mary College , Industrial Materials Research Unit Manchester University , Simon Engineering Laboratories Meteorological Office Meteorological Office Microbiological Research Establishment Graduate Department Specific Investigation equivalent responsible staff employed NERC / DES Investigation of Antarctic ice â   cores to give historical evidence of airborne substances DOI Sampling and analysis of waste 2 gases and particulate emissions from glass furnaces DOE Air pollution from copper â   - smelters MOD Sampling and identification of â   unusual pollutants MRC / DESIsolation of aromatic 1 hydrocarbons from petroleum DOE Combustion products of 4 plastics DOE Special investigation of dust Pe explosions in industrial plant DAFS Acid content in rain 1 DAFS Organochlorine residues in 1 rain DOI Pollutants in air and rain â   NERC Significance of chlorinated â   hydrocarbons in the natural environment NERC Survey of relative burdens â   of atmospherically borne metals in Britain SRC / DES Analysis of engine exhaust 1 emission with a view to developing low pollution engines DOE / TRRL The identification of the I malodorous components in street air arising from vehicle emissions SRC Studies in air and water â   pollution SRC / DES â   Carbon formation in burning Z diesel sprays DOE Smoke formation during the 3 : 5 burning of plastic materials SRC / DES _ Investigation of pollutant â   formation in spark ignition engines MOD Measurements of pollutants in 3 - 5 air and in rain and the role of the atmospheric aerosol in the formation of precipitation MOD Study of sulphur budget over 0 - 5 the British Isles MOD Studies of bactericidal â   properties of pollutants in urban areas with reference to recognition of the presence of olefinozone reaction products Estimated completion date Indefinite Indefinite 1974 Indefinite 1974 Indefinite Indefinite 1974 1974 Indefinite 1974 1974 1974 1973 1973 1974 1974 1973 Indefinite 1975 Indefinite 34 .35 .",
+        "words": [
+          "aromatic",
+          "malodorous",
+          "smelters",
+          "aerosol",
+          "pollutants",
+          "components",
+          "Pollutants",
+          "Z diesel sprays",
+          "from copper"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/2ffc372f-5d33-5207-94aa-88571625c202",
+        "value": "Page 86 88 85 86 Water Pollution Control in Britain Background and the Law For well over 100 years the control of pollution of water - courses has been a matter of concern to the British Government .With the development of modern industry and mass urbanisa - tion early in the 19th century , coupled with the widespread introduction of the water - carriage system about the same time , rivers and streams throughout the country soon became evil - smelling open sewers and a danger to public health .Fish were killed and water made quite unfit for either domestic or industrial use .",
+        "words": [
+          "smelling",
+          "evil",
+          "throughout the country",
+          "a danger to public health",
+          "rivers and streams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/317587b8-49d2-59ab-8eb0-cda511e97fdf",
+        "value": "The range also includes disinfectants and detergent cleansers with odour counteractant properties .Airkem odour counteractants attack mal - odour molecules in the atmos - phere and the interaction of the two result in the reduction of the offensive odour to an acceptable level , both quickly and economically .List of products manufactured by Airkem : Cavalier Solidaire Gels ; Sentinel ; Sentinel V ; Guardian ; Guardian 2 ; Musketeers ; Cavalier 2 ; On Guard ; Airkem Wick Bottles and Chloroblocs .",
+        "words": [
+          "offensive",
+          "odour",
+          "mal -",
+          "molecules",
+          "in the atmos - phere",
+          "Airkem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/317f1211-20a6-54b6-a984-fe8b83e37376",
+        "value": "by Sterling Industrial .The range also includes disinfectants and detergent cleansers with odour coun - teractant properties .Airkem odour counteractants attack mal - odour mole - cules in the atmosphere and the inter - action of the two result in the reduction of the offensive odour to an acceptable level , both quickly and economically .",
+        "words": [
+          "odour",
+          "disinfectants",
+          "detergent",
+          "teractant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/320462e6-57f6-5bc9-8ee1-8fd48363a361",
+        "value": "A revised method for carbon disulphide has been published and the existing method for aromatic iso - cyanates etxended to enable their determination in the presence of aromatic primary amines .Work is in progress for the development of tests for ammonia , cadmium , formaldehyde and mercury , and for aromatic amines , in - cluding a method involving gas chromatographic determina - tion of their heptafluorobutyryl chloride derivatives .108 .",
+        "words": [
+          "aromatic",
+          "formaldehyde",
+          "amines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/33bad792-b8ec-5318-a891-5f596111dd95",
+        "value": "Pollution Abatement Odours 1975 saw the publication of the second and final report of the DOE Working Party on Odours from Offensive and Other Trades , chaired by Dr Valentin , Deputy Director of Warren Spring Laboratory .As a result of a recommendation in that report a substantial programme of research has been commissioned at WSL on the problems of assessing odours and their abatement by various methods .This research , which aims also to provide guidelines and codes of practice for these difficult industries , is financed principally by DOE but also substantially by in - dustry and Local Authorities which are both represented on the pro - grammeâ   s Steering Committee .",
+        "words": [
+          "odours",
+          "at WSL"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/3421e36c-9251-5cac-9989-df4483eb552a",
+        "value": "It attacks the problem at source through our unique principle of odour counteraction .So the unpleasant smell is neutralized , not covered up .Different smells need different counteractants .",
+        "words": [
+          "smell",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/3ee474fd-c815-53ca-92b9-047f0df0d9d3",
+        "value": "The Conference programme naturally included the usual outings and similar activities , and perhaps one of the most interesting of these was the special trip arranged by river steamer through the heart of the industrial Rhineland .Here it was possible to see not only industry working at its full potential but also to see pollution , to smell it , to taste it and to hear it .It served as a salutory reminder that the main task for us all is not just to attend Congresses and to discuss the abatement of pollution in all its aspects , technical , administrative and sociological , but really to get on with the main task of actually cleaning up such pollution .",
+        "words": [
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/411272c4-195a-52dc-a26b-6541fe2723a6",
+        "value": "Much of the interest is in instruments for use within our factories for efficient pollution control and to ensure that we can assess the quality of the environment in which our workers operate and that we do not waste valuable materials .This work has been extended to monitor pollution outside the factory perimeters and at one location we have found the services of an Odour Identification Panel to be most useful .The panel comprises five members of our staff whom we found , by carrying out a survey , to be skilled in identifying odours .",
+        "words": [
+          "we",
+          "Odour",
+          "outside the factory perimeters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/44af5f25-84e8-56e3-a736-8b2cb7be8613",
+        "value": "Industrial Acoustics Ltd .Odour Absorption William Boulton Ltd .Odour Control Bacterol Ltd .",
+        "words": [
+          "Odour",
+          "Absorption"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/44e3898c-fd28-5e19-a721-f7b1821ebd47",
+        "value": "PricesÂ £ 1 , 25 Folkestone Conference , 1971 .Part I : A report by the Societyâ   s Technical Committee on Sulphur Dioxide , two papers on Odours and their Control , three .papers on the Meteorological aspects of Air Pollution , three papers on Aircraft Pollution and a paper on the National Surveyâ   Trends in Pollution .",
+        "words": [
+          "Sulphur",
+          "the",
+          "Odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/4500b182-b903-55a2-b914-02fb4bd98079",
+        "value": "Gas Scrubbers & Washers Grit Arresters Heat Exchangers Heaters , Air Heating Equipment , Industrial ( Process Space ) Heating Systems - Electric Heating Systems - Oil Humidifiers Incandescent / Whiting Wet Arrester for Cupolas Incinerators ; Indicators , Humidity Instruments , Gauges , Meters , etc .Laboratory Fume Cabinets Lecture , Filmstrips & Notes Odour Control Perforated Metal Pumps Radiant Heating Refrigeration Plant Research and Development Facilities Roof Ventilators ( P .V .",
+        "words": [
+          "Odour",
+          "Control Perforated Metal Pumps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/53651e44-b197-50c1-befa-744f9fda6122",
+        "value": "by Izal .The range also includes disinfectants and detergent cleansers with odour counteractant properties .Sheffield , 104 Midac Dust Control Bedford Road , Birmingham Bll 1AY ( 021 - 772 - 3781 ) .",
+        "words": [
+          "odour",
+          "disinfectants",
+          "odour counteractant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/5a530559-316f-5c2f-b1b0-3a1c48efba9d",
+        "value": "Mass Transfer Ltd .Odour Control Bacterol Ltd .Carter Industrial Products Ltd .",
+        "words": [
+          "Odour",
+          "Control"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/5db6afba-6889-5655-bd0c-6ea061123950",
+        "value": "87 Page 88 90 92 88 Water Pollution Control in Britain Background and the Law For well over 100 years the control of pollution of water - courses has been a matter of concern to the British Government .With the development of modern industry and mass urbanisa - tion early in the 19th century , coupled with the widespread introduction of the water - carriage system about the same time , rivers and streams throughout the country soon became evil - smelling open sewers and a danger to public health .Fish were killed and water made quite unfit for either domestic or industrial use .",
+        "words": [
+          "smelling",
+          "evil",
+          "throughout the country",
+          "a danger to public health",
+          "rivers and streams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/5fd28391-c594-5f72-821d-309619c7834b",
+        "value": "A .) odour control equip - ment and products for industrial plant , sewage works , crematoria , hospitals , washrooms etc ., are distributed in the U .",
+        "words": [
+          "odour",
+          "products",
+          "for industrial plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6062f4cf-7a68-52fa-ad48-bff1c1af4d4f",
+        "value": "Price : Â £ 1 : 25 Folkestone Conference , 1971 .Part I : A report by the Societyâ   s Technical Committee on Sulphur Dioxide , two papers on Odours and their Control , three papers on the Meteorological aspects of Air Pollution , three papers on Aircraft Pollution and a paper on the National Surveyâ   Trends in Pollution .Price : Â £ 2 .",
+        "words": [
+          "Sulphur",
+          "Odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/60783afa-1b96-5965-a3fb-cacccc41bd6e",
+        "value": "Thring Manager 52 Officer Problem Investigation Organisation Responsible ( ix ) Study of emission of nitrogen oxides , Shell â   CO and unburnt hydrocarbons from exhausts of petrol engines in relation to fuel and engine factors ; fuel requirements of emission - controlled engines ( x ) Development of petrol - powered Esso â   cars with acceptably low emissions by means of engine modifications , exhaust manifold reaction , and exhaust gas recycle .Study of effect of fuel quality on emissions ( c ) Isolation of aromatic hydrocarbons ( i ) Exeter University , â   from petroleum Department of Chemistry ( with M .R .",
+        "words": [
+          "aromatic",
+          "hydrocarbons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/609bcb68-3ad7-52b2-bd28-c3ff63bc9099",
+        "value": "The least costly form of refuse disposal is tipping to reclaim land but whether refuse is tipped â   â   as receivedâ   â   or first treated by pulverisation or compressed into high - density bales , there is an ever present risk of pollution of rivers , watercourses and underground supplies of potable water due to the leaching of polluting chemicals from the refuse .Flies , rodents and offensive odours arising from burning refuse are more obvious and immediate problems .It has been estimated that more than half the nitrates in water in the highly developed countries are washed from agricultural land by rainfall .",
+        "words": [
+          "offensive",
+          "odours",
+          "rodents",
+          "from burning refuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/609f96b1-aebe-520b-bb2f-3524c463d109",
+        "value": "pollutants ( fluorine , oxides of sulphur , obnoxious smell ) are emitted ; identification of compounds and mechanisms responsible for smell ; removal of odours and noxious components from waste gas ( identification of stages completed ) Reduction of smoke during firing of blue British Ceramic Research engineering bricks , roofing tiles and floor Association , Queens Road , quarries , of fume during salting period in Penkhull , Stoke - on - Trent , firing salt - glazed pipes , of acid soot and Staffs .fumes especially from oil - fired kilns and / or when firing sulphur - bearing clays in the structural ceramic and refractories industry and of fluorine from pottery kilns ; overcoming health hazard from dust in clay industries Reduction of pollution arising from saltGas Council , 4 / 5 Grosvenor glazing and blue brick manufacture Place , London , S .W .",
+        "words": [
+          "fumes",
+          "sulphur",
+          "of fluorine",
+          "sulphur -",
+          "bearing clays",
+          "from oil - fired kilns",
+          "- bearing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/60e69c86-b492-55d1-af8c-bd85edff2dd7",
+        "value": "Peabody Holmes Ltd .Ã © A we y : Sweet smell Of SUCCESS Success in this case is good relations with your neighbours .And if you are responsible for , say , asewage disposal plant , hotel kitchen , factory or wherever general industrial malodours occur , good relations are not always easy .",
+        "words": [
+          "Sweet",
+          "smell",
+          "your neighbours",
+          "Of SUCCESS Success"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/63baf6f5-3485-5f8a-80df-df2e5775a9d0",
+        "value": "A NEWTON CHAMBERS COMPANY Newton Chambers Engineering Ltd ., Process Engineering Division , Thorncliffe , Chapeltown , Sheffield S30 4YP Telephone : Ecclesfield ( STD 0741 - 5 ) 3171 Telex : 54 - 220 ee be l Please send technical literature :Company Name â   â   â   eanf ollution liers : If you havea problem of : BOF fume Electric Arc Furnace fume Blast Furnace dust 7 ; Cupola fume Hydrochloric Acid mist Phosphorous TrichlorideAluminium Chloride Ammonium Chloride Chlorine Sulphur Dioxide Hydrogen Sulphide Prussic Acid Sulphuric Acid Hydrofluorosilicic Acid Molybdenum Sulphide Lead Chloride fumes from de - leading furnace Zinc Oxide furnace fumes Paper dust from pulverisers and incinerators Fluorine gas Asbestos dust Sodium Perborate Phthalic Anhydride Boron Trifluoride or similar , itâ   s not one to be sniffed at .Sotry us for the answer .",
+        "words": [
+          "sniffed",
+          "Paper",
+          "Aluminium",
+          "Chloride",
+          "BOF",
+          "Electric Arc Furnace",
+          "Furnace",
+          "Cupola",
+          "Hydrochloric Acid mist Phosphorous Trichloride",
+          "Prussic Acid Sulphuric Acid Hydrofluorosilicic Acid Molybdenum",
+          "Fluorine gas Asbestos dust Sodium Perborate Phthalic Anhydride Boron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/648532d2-b69a-5d4c-a2ee-4f2448e8bbca",
+        "value": "C .Saword and myself are members of the Department of the Environmentâ   s Working Party on the Suppression of Odours from Offensive and Similar Trades .Messrs .",
+        "words": [
+          "myself",
+          "Odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6741f693-9554-5cde-853a-2a7a791512d9",
+        "value": "The higher the octane number the lower the tendency to knock .Odour Threshold The concentration of an odour - bearing gas at which only half of a panel of sniffers can detect the smell .Olefins Hydrocarbons of the ethylene series of the general formula CnHon .",
+        "words": [
+          "odour",
+          "smell",
+          "Odour",
+          "bearing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/686e7b45-9c11-5f29-b655-d90efa2467f8",
+        "value": "L .pollutants ( fluorine , oxides of sulphur , obnoxious smell ) are emitted ; identification of compounds and mechanisms responsible for smell ; removal of odours and noxious components from waste gas ( identification of stages completed ) Reduction of smoke during firing of blue British Ceramic Research engineering bricks , roofing tiles and floor Association , Queens Road , quarries , of fume during salting period in Penkhull , Stoke - on - Trent , firing salt - glazed pipes , of acid soot and Staffs .fumes especially from oil - fired kilns and / or when firing sulphur - bearing clays in the structural ceramic and refractories industry and of fluorine from pottery kilns ; overcoming health hazard from dust in clay industries Reduction of pollution arising from saltGas Council , 4 / 5 Grosvenor glazing and blue brick manufacture Place , London , S .",
+        "words": [
+          "smell",
+          "odours",
+          "noxious",
+          "obnoxious",
+          "fume",
+          "compounds",
+          "fluorine",
+          "pollutants",
+          "from waste",
+          "oxides of sulphur",
+          "in Penkhull , Stoke - on - Trent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6958f137-6814-55fe-95f8-b38708b3617e",
+        "value": "Tel : 01 - 592 3060 .A wide range of odour - control compounds is manufactured and supplied under the name â   Alamask â   .These compounds are extensively used to control malodours in a variety of industries , for example in sewage and refuse disposal , animal by - products , food manufacturing and foundry resins , as well as for problems from the spreading of farm manure slurries and from miscellaneous effluents .",
+        "words": [
+          "odour",
+          "compounds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6a094be9-eb59-518b-8d08-38352e154ad8",
+        "value": "The gases are then stored in a gas holder and used on the plant to supply heat for the process or for other purposes .The process has the advantage over traditional methods of refuse incineration in that it does not create any pol - lution problems including those of offensive odours .The gases evolved in the furnace do not carry significant quantities of solids to the scrubber and acidity is neutralised by the ammonia produced in the decomposition of the vegetable matter in the refuse .",
+        "words": [
+          "offensive",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6b8456b0-2aa0-5e1d-a9ab-8a45e070f60f",
+        "value": "A .Formation of aromatic polycyclic London University : Imperial hydrocarbons involving pyrolysis of College of Science and polymeric materials formed in combustion ; Technology , Dept .of Civil formation of carcinogenic or toxic Engineering , Public Health materials in industrial processes Engineering Section , Prince Consort Road , London , S .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6be7ee4d-9372-58cd-9013-46e393e3ad8b",
+        "value": "E .â   Holmcroftâ   , Heathside Park Road , Woking , Surrey tel : Woking 62885 Chemical engineering advice ; filtra - tion and separation technology ; distil - lation ; effluent treatment ; odour con - trol ; solvent recovery .Feasibility studies ; investigations ; design ; engin - eering services ; expert evidence ; market surveys .",
+        "words": [
+          "solvent",
+          "odour",
+          "effluent",
+          "con - trol",
+          "Heathside Park Road , Woking"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6c1a871a-cadf-5a0f-b319-15e511fbe845",
+        "value": "In addition to the programme of technical sessions there was the usual social activity with events to suit all tastes , and perhaps one of the most interesting features was the special trip arranged by river steamer through the heart of the industrial Rhineland .Here it was possible to see not only industry working at its full potential , but also to see pollution , to smell it , taste it and actually hear it ! It served as a salutary reminder that the main task for us all is to clear up such pollution .Technical papers which might be described as â   more and more about less and lessâ   are all very well and are very necessaryâ   but the main concern is still that more effort should be put into clearing up pollution .",
+        "words": [
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/6e20953b-0237-5db5-bc7c-16479e0005bb",
+        "value": "Nobody likes being next to unpleasant odours .And itâ   s not only neighbours that suffer , staff arenâ   t too happy putting up with bad smells all day long .There is a solution .",
+        "words": [
+          "bad",
+          "smells",
+          "all day long"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/707bff90-3826-5127-8bb5-4cac9b2261cf",
+        "value": "But itâ   s a vastly different proposition to other so - called solutions .Because Airkem doesn ' t just swamp a smell with another smell .It attacks the problem at source through our unique principle of odour counteraction .",
+        "words": [
+          "smell",
+          "another",
+          "Airkem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/72098175-2583-59c2-9292-13dc9a834d28",
+        "value": "The first Part of the Working Partyâ   s Repoit * was published by Warren Spring Labora - tory in 1974 and outlined the pronlems .Although the greatest number of complaints still arise from those trades which were enumerated in the Public Health Act 1875 and designated â   â   â   Offensiveâ   â   certain types of modern farming have produced odour problems in rural districts hitherto remote from the encroachment of industrial nuisance to mar the natural and unspoiled environment .Between these contrasting situations are the sophisticated odours arising from the concentration of odour - producing processes which in small quantities may be stimulating , as in coffee roasting at breakfast or exciting , in the case of a droplet of perfume but when manufactured in tonnes every hour of the day odours in the vicinity of the factory are nauseating in the extreme .",
+        "words": [
+          "odour",
+          "in rural districts",
+          "to mar the natural and unspoiled environment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/72d84d76-63bd-5ba9-b4d8-a33571f17c06",
+        "value": "The liquefied natural gas is brought to the plant from the Gas Council terminal at Canvey Island , and is stored in an insulated tank with a capacity of 5 , 000 tonsâ   the storage temperature being â   258Â ° F .Members were impressed when walking round the works by a complete absence of the smells usually associated with gas making , and it was of interest to learn that the gas produced at this plant had to be odorised to meet statutory requirements before distribution .After a tour of the works , members were entertained to luncheon at the Court Barbecue Restaurant , Allestree , at the kind invitation of the East Midlands Gas Board .",
+        "words": [
+          "the works",
+          "smells",
+          "odorised",
+          "Members",
+          "the gas produced",
+          "at this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/7542b09f-bff0-525b-9f36-d64e1f8cf929",
+        "value": "Engineers ( 1972 ) Ltd ., Vehicle Engineering Division Rothamsted Experimental Station Safety in Mines Research Establishment Transport and Road Research Laboratory Transport and Road Research Laboratory Transport and Road Research Laboratory Transport and Road Research Laboratory ; Aston University , Department of Chemistry ; in co - operation with Birmingham City Corporation Transport and Road Research Laboratory , Warren Spring Laboratory University of Wales ; University College of Swansea , Department of Botany Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Department responsible SRC / DES SRC DOE ARC DOI DOE DOE DOE DOE DOE NERC / DES DOE DOE DOE DOE DOE DOE SDD DOI SDD DOI Specific Investigation Soot formation in gas turbine combustion chambers Photochemical reactivity with particular reference to excited species of atmospheric interest Diesel exhaust odour Nature and behaviour of air - borne fungal spores arising from agricultural materials ( Farmerâ   s Lung ) Investigation .of the mixing of fluid streams of different densities The measurement of atmo - spheric pollutants arising from vehicles in an urban area The measurement of organic lead in certain areas The measurement of particulate lead on and near a heavily trafficked motorway Monitoring pollutants arising from traffic around the Gravelly Hill Interchange , Birmingham Monitoring the long - term trends in air pollution in urban areas arising from vehicle emissions Survey of relative burdens of atmospherically borne metals in Britain Assessment of the nature and quantity of noxious emissions from domestic refuse incinerators Automobile air pollution monitoring networks Characterisation of suspended particulates Extension of UK national air pollution surveillance by central and local governments ( heavy metals , sulphur in particulates etc .",
+        "words": [
+          "odour",
+          "Diesel exhaust",
+          "air - borne fungal spores"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/761e2761-1284-5fb7-9d14-2dc80b4906b8",
+        "value": "by Izal .The range also includes disinfectants and detergent cleansers with odour counteractant properties .Airkem odour counteractants attack mal - odour molecules in the atmos - phere and the interaction of the two result in the reduction of the offensive odour to an acceptable level , both quickly and economically .",
+        "words": [
+          "odour",
+          "disinfectants",
+          "odour counteractant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/7a4bc3ff-b724-5cff-bc5b-e3c689eaddff",
+        "value": ", Vehicle Engineering Division Rothamsted Experimental Station Safety in Mines Research Establishment Transport and Road Research Laboratory Transport and Road Research Laboratory Transport and Road Research Laboratory Transport and Road Research Laboratory ; Aston University , Department of Chemistry ; in co - operation with Birmingham City Corporation Transport and Road Research Laboratory , Warren Spring Laboratory University of Wales ; University College of Swansea , Department of Botany Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Department responsible SRC / DES SRC DOE ARC DOI DOE DOE DOE DOE DOE NERC / DES DOE DOE DOE DOE DOE DOE SDD DOI SDD DOI Specific Investigation Soot formation in gas turbine combustion chambers Photochemical reactivity with particular reference to excited species of atmospheric interest Diesel exhaust odour Nature and behaviour of air - borne fungal spores arising from agricultural materials ( Farmerâ   s Lung ) Investigation .of the mixing of fluid streams of different densities The measurement of atmo - spheric pollutants arising from vehicles in an urban area The measurement of organic lead in certain areas The measurement of particulate lead on and near a heavily trafficked motorway Monitoring pollutants arising from traffic around the Gravelly Hill Interchange , Birmingham Monitoring the long - term trends in air pollution in urban areas arising from vehicle emissions Survey of relative burdens of atmospherically borne metals in Britain Assessment of the nature and quantity of noxious emissions from domestic refuse incinerators Automobile air pollution monitoring networks Characterisation of suspended particulates Extension of UK national air pollution surveillance by central and local governments ( heavy metals , sulphur in particulates etc .) Five - cities studies of pollution from road traffic Fluoride emission monitoring Measurement of smoke and sulphur dioxide in air in remote areas Monitoring of industrial emissions of grit and dust Relationship between meteorological conditions and air pollution Graduate and equivalent staff employed 1 1 - 16 Ae } 1 : 5 0 - 5 3 - 0 25 0 - 25 0 - 1 1 - 0 101 Estimated completion date 1973 1973 1975 Continuing Indefinite Indefinite 1975 1913 1974 1977 1974 Continuing Continuing Continuing Continuing Continuing Continuing Continuing Continuing Continuing 102 Graduate and Estimated Institution Department Specific Investigation equivalent completion responsible staff employed date 54 .",
+        "words": [
+          "noxious",
+          "heavy",
+          "sulphur in particulates",
+          "from domestic refuse incinerators",
+          "around the Gravelly Hill Interchange , Birmingham",
+          "in urban areas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/7f46d519-c899-5d6f-90b4-0796afc2c4fe",
+        "value": "Odour measurements , using a dynamic dilution technique and the human nose for detection , are being made at two laboratories ( WSL and Shell Research ) .Two large - scale dynamic dilution rigs are in use at WSL , one of which is installed in a mobile odour laboratory .A portable version is being developed .",
+        "words": [
+          "odour",
+          "at WSL"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/84deb7dd-1f93-59ea-9284-7fd58d8a8bec",
+        "value": "25 Folkestone Conference , 1971 .Part I : A report by the Societyâ   s Technical Committee on Sulphur Dioxide , two papers on Odours and their Control , three papers on the Meteorological aspects of Air Pollution , three papers on Aircraft Pollution and a paper on the National Surveyâ   Trends in Pollution .Price : Â £ 2 .",
+        "words": [
+          "Sulphur",
+          "Odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/858681c8-1cf4-577d-b307-a5a301f377d9",
+        "value": "15 Pollution Control ( d ) ( a ) ( a ) ( b ) ( c ) ( a ) ( b ) Investigation ( ix ) Study of emission of nitrogen oxides , Shell CO and unburnt hydrocarbons from exhausts of petrol engines in relation to fuel and engine factors ; fuel requirements of emission - controlled engines Development of petrol - powered cars with acceptably low emissions by means of engine modifications , exhaust manifold reaction , and exhaust gas recycle .Study of effect of fuel quality on emissions ( x ) Isolation of aromatic hydrocarbons from petroleum ( c ) Combination of steam - powered prime mover and hydrostatic transmission unit to exploit inherent low pollutant characteristics of external combustion unit Production and consumption of pollutants from rich hydrocarbon / air flames , at high pressures , with particular reference to aircraft gas turbine conditions Production of solid smokeless fuels : production scale work on carbonisation of small coal in a fluidised bed followed by briquetting of char without a binder , and on briquetting of high rank coal with pitch , followed by a mild heat treatment Development of domestic appliances ( room heaters and domestic central heating boilers ) for burning small graded bituminous coal smokelessly Measurement of smoke emission from solid fuel - fired appliances and from manufactured solid fuels Measurement of smoke emission from oil - fired appliances and from fuel oils Abatement of manure drying odours , etc .Measurement of hydrocarbon emissions from petroleum handling problems Analysis of causes and effects of existing and potential air pollution problems Assessment of flue gas desulphurization processes Officer Organisation Responsible Esso ( i ) Exeter University , Department of Chemistry ( with M .",
+        "words": [
+          "manure",
+          "aromatic",
+          "odours",
+          "from rich hydrocarbon / air flames",
+          "hydrocarbons from petroleum",
+          "small graded bituminous coal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/859ce0d5-2b94-54e0-8c52-61757f04b9d7",
+        "value": "All seriously detrimental to the amenities of those areas , often rural in character , where these two large scale operations for the winning of minerals are carried out .Farm waste from intensive stock rearing is liable to produce odour problems which are difficult to subdue , economically .Though these extensions of the responsibili - ties of the new Waste Disposal Authorities creates a formidable task , they must be taken into account in the preparation of future waste disposal plans .",
+        "words": [
+          "odour",
+          "Farm waste from intensive stock rearing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/87f0ffdf-3463-55de-a6ce-e0fd4f8d2114",
+        "value": "A .) odour control equipment and products for industrial plant , sewage works , crematoria , hos - pitals , washrooms etc ., are distributed in the U .",
+        "words": [
+          "odour",
+          "products",
+          "washrooms",
+          "hos - pitals",
+          "crematoria",
+          "control equipment",
+          "for industrial plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/8bf52fe4-7f1d-5640-954e-88d7b3300948",
+        "value": "The higher the octane number the lower the tendency to knock .Odour Threshold The concentration of an odour - bearing gas at which only half of a panel of sniffers can detect the smell .Olefins Hydrocarbons of the ethylene series of the general formula CaHen .",
+        "words": [
+          "odour",
+          "smell",
+          "Odour",
+          "bearing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/8d201e9d-9164-5e86-9f4b-6666e9333f25",
+        "value": "Abatement of Nuisance from Malodorous Emissions Now that such good progress has been made towards the removal of smoke from towns , various other pollutants that previously tended to be overlooked in the generally smoky air , are becoming more and more apparent and are causing lively complaint .These are the malodorous emissions from various types of industry , from the offensive trades and , most wide - spread of all , from motor vehicle exhausts .Warren Spring Laboratory is examining these problems to see where there may be possibilities of solutions .",
+        "words": [
+          "offensive",
+          "malodorous",
+          "from motor vehicle exhausts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/8fbec04b-01c9-5ec8-a50f-dd6f75ab861c",
+        "value": "39 : 1973 Room humidifiers ( M ) 3813 3841 3879 3899 # 229 3955 3958 4076 4096 4201 4207 4257 4350 1962 Non - domestic space heaters burning town gas .Amendments PD 5656 , October 1965 ; AMD 448 , February 1970 Methods of test for the assessment of odour from pack - ing materials used for foodstuffs .Amendment AMD 684 , March 1971 Incinerators for waste from trade and _ residential premises .",
+        "words": [
+          "odour",
+          "from pack - ing materials"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/91ed73e2-4a58-5eb3-b0db-f6fcc4604eb1",
+        "value": "Coal Research â   solid fuel - fired appliances and from Establishment manufactured solid fuels ( d ) Measurement of smoke emission from Bee Manager oil - fired appliances and from fuel oils 1 .13 Odours ( a ) Abatement of manure drying odours , etc .W .",
+        "words": [
+          "odours",
+          "Odours",
+          "manure drying"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/986133f4-70b8-529e-ab93-e0c9b467364f",
+        "value": "Whiteley 5 .Odour Nuisances in Industry T .R .",
+        "words": [
+          "in",
+          "Odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/98773926-f4c2-576b-8ca7-20fe4cc329fa",
+        "value": "S .Three Reports on Successes with Smoke Control ; two papers on solid fuel distribu - tion and supply problem ; air pollution and mortality ; odour control ; control of pollution from road vehicles ; four papers on new horizons in domestic heating ; two papers on industrial problems ; two papers on unresolved problems in air pollution .Â £ 1 - 25 Blackpool Conference , 1967 .",
+        "words": [
+          "odour",
+          "solid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/9a3baafa-47d6-5fab-9e3d-e06a76cc71cf",
+        "value": "Hydrogen Sulphide ( H .S ) A gas with the characteristic smell of rotten eggs .It is highly poisonous at all but the lowest concentrations .",
+        "words": [
+          "smell",
+          "of rotten eggs",
+          "characteristic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/9d0f7433-5ed7-599c-9397-78529eb2e458",
+        "value": "E .â   Whitewebbsâ   , Woodland Avenue , Cranleigh , Surrey tel : Cranleigh 2411 Main activities concerned with handling and processing of solids and dealing with subsequent exhaust emis - sions , particularly in the scrap metal recovery and animal waste product processing fields including destruction of offensive odours .Dr .",
+        "words": [
+          "animal",
+          "offensive",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/9e36961f-c48f-5c66-8b2c-bc37a400da43",
+        "value": "Part 4 : Abatement of Emissions of Pollutants 169 .Research work on methods for abatement of odorous emissions from â   offensive and selected other tradesâ   is currently claiming a high proportion of effort and funding .Warren Spring Laboratory is undertaking the majority of the investigational work , both at the Laboratory and at factory sites , Current funding is over Â £ 600 , 000 with DOE support at Â £ 440 , 000 and the balance provided from local authority and industry sources .",
+        "words": [
+          "offensive",
+          "odorous",
+          "from â "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/a1c2fe90-8fbd-51b5-a27b-2abb1eab3bd6",
+        "value": "The range also includes disinfectants and detergent cleansers with odour coun - teractant properties .Airkem odour counteractants attack mal - odour mole - cules in the atmosphere and the inter - action of the two result in the reduction of the offensive odour to an acceptable level , both quickly and economically .List of products manu - factured by Airkem : Cavalier Solidaire Gels ; Sentinel ; Sentinel V ; Guardian ; Guardian 2 ; Musketeers ; Cavalier 2 ; On Guard ; Airkem Wick Bottles and Chloroblocs .",
+        "words": [
+          "offensive",
+          "odour",
+          "in the atmosphere",
+          "mal -",
+          "mole - cules",
+          "Airkem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/a3b18952-b6a1-50bf-8cd1-927161b64dca",
+        "value": "The Laboratory of the Government Chemist con - tinues to develop field and more precise laboratory methods for the determination of toxic substances in industrial atmospheres .A revised method for carbon disulphide has been published and the existing method for aromatic iso - cyanates etxended to enable their determination in the presence of aromatic primary amines .Work is in progress for the development of tests for ammonia , cadmium , formaldehyde and mercury , and for aromatic amines , in - cluding a method involving gas chromatographic determina - tion of their heptafluorobutyryl chloride derivatives .",
+        "words": [
+          "aromatic",
+          "primary"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/a5319c51-a5a2-5c21-a7bb-cdff013a7887",
+        "value": "A wide range of odour - control compounds is manufactured and supplied under the name â   Alamask â   .These compounds are extensively used to control malodours in a variety of industries , for example in sewage and refuse disposal , animal by - products , food manufacturing and foundry resins , as well as for problems from the spreading of farm manure slurries and from miscellaneous effluents .Medical & Biological Instrumentation Ltd .",
+        "words": [
+          "food",
+          "in",
+          "malodours",
+          "These compounds",
+          "foundry resins",
+          "animal by - products",
+          "from miscellaneous effluents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/a5386a81-5534-5625-a803-7e3e66668c47",
+        "value": "For many pollutants air quality will be found to be expressed as a concentration over a certain period of time eg Â » g / m ? over 24 hours .Air Quality Criteria See Criteria Air Pollution See Pollution Aldyhydes Organic compounds containing the JO group â   C A number of them have \\ H an unpleasant smell , eg in _ diesel exhaust , and can be irritant to nose and eyes ; many can be poisonous .Alkali / Alkaline A substance which , in solution in water , splits up to some extent to give rise to an excess of hydroxyl over hydrogen ions .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "Organic compounds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/a5c6a492-5c63-5921-ba42-2a01d5ca5836",
+        "value": "E .( I ) ( m ) ( n ) ( 0 ) Investigation ( i ) Sulphurous odour pollutants : human perception , and rapid measurement of concentration in air ; ( ii ) study of acid particles using metal film technique Simple , rapid sampling and analysis of aero gas turbine combustion products , using current gas solid chromatographic techniques ; discrimination between different types of petroleum fuel products Dust measurement ; monitoring dust in flues and chimneys Analysis of aromatic polycyclic hydrocarbons in airborne particulates , soots and oils using gas chromatography and mass spectrometry ; analysis of lead tetramethyl and tetraethyl and of trace metal pollutants Full name and address Atomic Energy Research Establishment , Health Physics and Medical Division , Hanwell , Didcot , Berks .G .",
+        "words": [
+          "lead",
+          "oils",
+          "odour",
+          "aromatic",
+          "Sulphurous",
+          "trace",
+          "pollutants",
+          "soots",
+          "polycyclic hydrocarbons",
+          "tetraethyl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ae316f6e-9fa2-5cde-8e90-479c45d2e952",
+        "value": "Food waste disposal units 1971 ( Metric ) .Methods of test for the assessment of odour from packing materials used for foodstuffs .Amendment AMD 684 , March 1971 .",
+        "words": [
+          "odour",
+          "from packing materials"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/af913c54-f5ea-5128-b555-71859c08f462",
+        "value": "O .Odours and Air Pollution : a Biblio - graphy with Abstracts .U .",
+        "words": [
+          "Odours",
+          "Air Pollution"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/afc00ac8-ad41-5145-8239-8f2b470e0dda",
+        "value": "179 pages .REV EY Odour Pollution of Air : Causes and Control .W .",
+        "words": [
+          "Odour",
+          "Pollution of Air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/b016ae20-f5d3-55f2-a63e-545cd7b5bc5a",
+        "value": "99 .Odour measurements , using a dynamic dilution technique and the human nose for detection , are being made at two laboratories ( WSL and Shell Research ) .Two large - scale dynamic dilution rigs are in use at WSL , one of which is installed in a mobile odour laboratory .",
+        "words": [
+          "Odour",
+          "at two laboratories ( WSL"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/b083509b-3d04-5a51-bde3-b48357921d98",
+        "value": "heavy metalsâ   lead from motor car exhausts .Odours seem to have become more apparent , and they are difficult to control ; but research is being carried out by Warren Spring Laboratory .Greatest need is awareness of the prob - lemâ   what has been done and what still needs to be done .",
+        "words": [
+          "Odours",
+          "more apparent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/b1afcc5b-b38b-518a-a7b2-f9e0d1258ee4",
+        "value": "Odour .Report of the Working Party on the Suppression of Odours from Offensive and Selected other Trades .Part 1 , The Assessment of the Problems in Great Britain .",
+        "words": [
+          "Odours",
+          "the Working Party"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/b1c5dce2-f656-5af0-8e3c-300c02bdf662",
+        "value": "The panel comprises five members of our staff whom we found , by carrying out a survey , to be skilled in identifying odours .After further special training in odour recognition , they have helped us to trace leakages taking place from equipment at high levels which were completely undetected on the plant itself .We believe that much of the general research work is best done in a university environment .",
+        "words": [
+          "odour",
+          "from equipment",
+          "on the plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/b5279788-7171-5c81-8e63-069963085d8d",
+        "value": "S .Three Reports on Successes with Smoke Control ; two papers on solid fuel distribution and supply problem ; air pollution and mortality ; odour control ; control of pollution from road vehicles ; four papers on new horizons in domestic heating ; two papers on industrial problems ; two papers on unresolved problems in air pollution .Price ; ( Â £ 1 .",
+        "words": [
+          "odour",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/bcbb1440-0a0d-56b5-894e-0830dcdd5967",
+        "value": "E .* Holmecroftâ   , Heathside Park Road , Woking , Surrey tel : Woking 62885 Chemical engineering advice ; filtra - tion and separation technology ; distil - lation ; effluent treatment ; odour con - trol ; solvent recovery .Feasibility studies ; investigations ; design ; engin - eering services ; expert evidence ; market surveys .",
+        "words": [
+          "solvent",
+          "odour",
+          "effluent",
+          "con - trol",
+          "Heathside Park Road , Woking"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/bee12e1a-27a9-53dd-936b-4bde9fa8beec",
+        "value": "Impregnated paper tapes for analysers 1977 monitoring trace gas concentrations 136 ( 173 ) SIRA Institute Ltd .Performance assessment of instrumentation â   for measuring concentration of dissolved gases and pollutants 137 ( 174 ) South Bank Polytechnic , Department of X - ray energy dispersion analysis of air â   Chemistry and Polymer Technology particulates 138 ( 175 ) Southampton University , Department of Electrochemical devices for the analysis of 1977 Chemistry atmospheres 139 ( 176 ) Southampton University , Department of Species present in gases â   Chemistry 140 ( 179 ) Warren Spring Laboratory Instrumental methods for odour analysis â   141 ( 180 ) Warren Spring Laboratory Mobile facility for odour assessment by â   _ organoleptic techniques 142 ( 181 ) Warren Spring Laboratory Problems of measurement , assessment and = abatement of vehicle emissions 143 ( 182 ) Warren Spring Laboratory Study of deposit gauge performances and _ deposition 144 ( 183 ) Warren Spring Laboratory Study of methods of measuring air pollutants â   _ for the designation of international standard methods ( 150 , etc .) 145 ( 184 ) Warren Spring Laboratory UK deposit gauge survey 111 PROGRESS IN RESEARCH ON AIR POLLUTION IN THE UNITED KINGDOM Report by the Interdepartmental Committee on Air Pollution Research I : GAPS AND PRIORITIES IN RESEARCH ON AIR POLLUTION DEVELOPMENTS SINCE JUNE 1973 1 .",
+        "words": [
+          "odour",
+          "dissolved",
+          "pollutants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/c02784a3-efde-5b9a-8d33-df24773a1a76",
+        "value": "Catalysis and pollution control Combustion of coal in fluidised beds Gas recovery and purification Estimated completion date ( where known ) 1980 1977 , 1978 1976 1978 1984 a 101 ( 127 ) 102 ( 128 ) 103 ( 129 ) 104 ( 130 ) 105 ( 132 ) 106 ( 135 ) 107 ( 137 ) 108 ( 139 ) 109 ( 140 ) 110 ( 141 ) 111 ( 142 ) 112 ( 143 ) 113 ( 144 ) 114 ( 145 ) 115 ( 146 ) 116 ( 147 ) 117 ( 148 ) 118 ( 149 ) 119 ( 150 ) 120 ( 152 ) 121 ( 154 ) 122 ( 156 ) 123 ( 157 ) 124 ( 158 ) Institution ESSO Petroleum Co Laboratory of the Government Chemist Leeds University , Department of Mechanical Engineering Liverpool University , Department of Mechanical Engineering Manchester University , Pollution Research Unit National Engineering Laboratory , Shell Research Ltd Rolls - Royce Motors Ltd .Car Division Salford University , Department of Chemical Engineering Torry Research Station Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory _ Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Warren Spring Laboratory Atomic Energy Research Establishment , Environmental and Medical Sciences Division Bradford University , School of Environmental Science Bradford University , School of Environment Science , Department of Planning and Transportation British Carbonisation Research Association Specific Investigation Chemically active fluidised bed process for sulphur removal during gasification of heavy fuel oil Determination of fume and dust emissions Investigation of the influence of electrical fields upon flame gases Effects of water injection on engine emissions Combustion system for reduction of vehicle emissions The development of device ( VAPIPE ) that uses exhaust gas heat transferred by means of a two - phase thermosiphon to vapourise the air / liquid fuel mixture entering the inlet manifold Closed loop fuel metering system for emission controlled spark ignition IC engine Use of absorbents of high temperatures for reduction of SO , and NO , emissions Reduction of air , water and noise pollution from fish handling and processing plant Absorption and liquid / gas phase oxidation of odours Aerodynamic pollution distribution problems relating to chimneys and buildings Air pollution problems relating to process emissions Authorisation of smokeless fuels and appliances Catalytic oxidation for odour control Direct thermal destruction of odours Identification of grit and dust deposits Motor vehicle air pollution abatement using catalytic methods Recovery and treatment of metallurgical fumes Solid adsorbents for odour control System study of odour producing processes and of odour control in rendering processes Electron microscopy of aerosol particles Odour identification and air quality assessment using a panel of blind people The use of a mobile laboratory for pollution measurement and appraisal Methods of analysis of atmospheric pollutants from coking plants 109 Estimated completion date ( where known ) 1977 1977 1978 110 Estimated completion date Institution Specific Investigation ( where known ) 125 ( 159 ) British Carbonisation Research Mitigation of atmospheric pollution at rae Association coking plants 126 ( 160 ) British Coke Research Association Liquid effluents and atmospheric pollution â   127 ( 164 ) Medical Research Council , Air Pollution Analysis of respiratory waveforms using a â   Unit recently developed method for measuring changes in breathing patterns 128 ( 165 ) Medical Research Council , Air Pollution Development of analytical techniques for â   Unit determination of physical and chemical characteristics of pollutants 129 ( 166 ) Motor Industry Research Association Atmospheric pollution from diesel engines â   130 ( 167 ) Paint Research Association Analytical methods for monitoring gaseous 1976 effluent from industrial stoving finishing plants 131 ( 168 )Safety in Mines Research Establishment Development of instruments and sampling â   techniques for measurement of respirable dust 132 ( 169 ) Safety in Mines Research Establishment Development of instruments and sampling â   techniques for pollutant gases ( e .g .",
+        "words": [
+          "dust",
+          "odour",
+          "fumes",
+          "particles",
+          "odours",
+          "Odour",
+          "Solid",
+          "grit",
+          "from diesel engines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/c3ced4cb-27eb-597f-925e-f2980f9c9cb1",
+        "value": "Part 9A 1971 .Appearance ( colour and turbidity ) , odour suspended and dissolved solids and electrical conductivity .Amendment AMD 1012 , August 1972 ( Metric ) .",
+        "words": [
+          "suspended",
+          "odour",
+          "dissolved"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/c56009d1-3bd4-5993-852e-bc79ad7c9dd9",
+        "value": "Fume Very fine solid or liquid particles 0 - 001 to 1 um in diameter arising from chemical reactions or condensation of vapour ( often metal vapour ) .The word fumes is commonly used to imply unpleasant and smelly airborne effluents .Fumigation When pollution from an emitter has been trapped under an inversion layer , it is sometimes brought rapidly to ground level with minimum dilution by turbulence as the inversion breaks up .",
+        "words": [
+          "unpleasant",
+          "fumes",
+          "smelly",
+          "airborne effluents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/c7e12b00-a9b8-5475-bcdf-1071a6b23b84",
+        "value": "It may be that this aspect will receive overriding weight .Offensive Odours â   The Suppression of Odours from Offensive and 91 Selected other Tradesâ   is being considered by a Working Party set up by the U .K .",
+        "words": [
+          "Odours",
+          "Offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ca8cb7d3-acca-530e-8ae6-d06fd48407d8",
+        "value": "And if you are responsible for , say , asewage disposal plant , hotel kitchen , factory or wherever general industrial malodours occur , good relations are not always easy .Nobody likes being next to unpleasant odours .And itâ   s not only neighbours that suffer , staff arenâ   t too happy putting up with bad smells all day long .",
+        "words": [
+          "unpleasant",
+          "odours",
+          "Nobody"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/cad90ecc-3917-5d61-aff9-125166ab7a75",
+        "value": "74 Hatton Garden , London ECI1P 1AE .Tel : 01 - 405 6989 , Abatement of odours or organic content of air / steam by means of Honeycat ( r ) air pollution control catalytic incineration .Lee , Howl & Co .",
+        "words": [
+          "odours",
+          "organic content of air / steam"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/cb90dca2-b76b-5f5f-bc88-e6c151f7bd88",
+        "value": "Warren Spring Laboratory is undertaking the majority of the investigational work , both at the Laboratory and at factory sites , Current funding is over Â £ 600 , 000 with DOE support at Â £ 440 , 000 and the balance provided from local authority and industry sources .Although the effort is primarily directed towards abate - ment of emissions from offensive trades , odours from works scheduled under the Alkali Act are not excluded .170 .",
+        "words": [
+          "odours",
+          "from works"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/cceb0d47-67d6-5c9a-a576-5d7e71485f13",
+        "value": "74 Hatton Garden , London EC1P 1AE ( 01 - 405 6989 ) .Abatement of odours or organic con - tent of air / steam by means of HoneycatÂ ® air pollution control cata - lytic incineration .CORROSION TREATMENT Combustion Chemicals Ltd .",
+        "words": [
+          "odours",
+          "organic con - tent of air / steam"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/cd0710f0-9b70-5584-ade8-a229a2e8dec2",
+        "value": "2â   South West , Wales and North West Vol .3â   East Anglia , East Midlands and West Midlands Lead in the Environment and its Significance to Man ( A report of an Inter - Departmental Working Group on Heavy Metals ) Odours ( A report of the Working Party on the Suppression of Odours from Offensive and Selected Other Trades ) â   Part Iâ   Assessment of ithe Problem in Great Britain 134 SECTION 9 DIRECTORIES The International Union of Air Pollution Prevention Associations Directory of Consultants ..",
+        "words": "Odours"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ce775320-0df8-502b-8779-9c1a3e14908c",
+        "value": "Between these contrasting situations are the sophisticated odours arising from the concentration of odour - producing processes which in small quantities may be stimulating , as in coffee roasting at breakfast or exciting , in the case of a droplet of perfume but when manufactured in tonnes every hour of the day odours in the vicinity of the factory are nauseating in the extreme .The problems , though widespread and of long standing have come sharply into focus because odour is a form of pollution , difficult to measure or quantify but undoubtedly deleterious to the environment .People are now very vocal and clamour for abatement of a subjective nuisance which , though not usually toxic is certainly at best , an annoyance and at worst , intolerable .",
+        "words": [
+          "odour",
+          "deleterious to the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/cee56dcf-5b59-5b6a-8eed-cb4283af2182",
+        "value": "Although the greatest number of complaints still arise from those trades which were enumerated in the Public Health Act 1875 and designated â   â   â   Offensiveâ   â   certain types of modern farming have produced odour problems in rural districts hitherto remote from the encroachment of industrial nuisance to mar the natural and unspoiled environment .Between these contrasting situations are the sophisticated odours arising from the concentration of odour - producing processes which in small quantities may be stimulating , as in coffee roasting at breakfast or exciting , in the case of a droplet of perfume but when manufactured in tonnes every hour of the day odours in the vicinity of the factory are nauseating in the extreme .The problems , though widespread and of long standing have come sharply into focus because odour is a form of pollution , difficult to measure or quantify but undoubtedly deleterious to the environment .",
+        "words": [
+          "coffee",
+          "perfume",
+          "day",
+          "odour",
+          "odours",
+          "nauseating",
+          "every",
+          "at",
+          "of the",
+          "the day",
+          "every hour",
+          "hour of",
+          "in the vicinity of the factory",
+          "sophisticated",
+          "droplet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/d8ccd04c-d1a2-5614-b6dd-403491a5f12f",
+        "value": "Pollution Abatement Odours from Offensive Trades During 1972 the Department of the Environment set up the Working Party on Odours from Offensive and Other Trades under the chairmanship of Dr Valentin , Deputy Director of Warren Spring Laboratory .The Working Party , which is to report in 1973 and 1974 , is examining the major odour - producing industries , assessing the effectiveness of existing odour abatement techniques and looking , where necessary , for more successful practices .Warren Spring Laboratory is providing the Working Party with detailed technical support including several research projects .",
+        "words": "odour"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/dcaed4b8-8a83-5576-8d26-b6955d62654d",
+        "value": "Odour Absorption William Boulton Ltd .Odour Control Bacterol Ltd .May & Baker Ltd .",
+        "words": [
+          "Odour",
+          "Control"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/dda0eea3-4ce8-5913-aaf5-0c3b8b431295",
+        "value": "Ã © A we y : Sweet smell Of SUCCESS Success in this case is good relations with your neighbours .And if you are responsible for , say , asewage disposal plant , hotel kitchen , factory or wherever general industrial malodours occur , good relations are not always easy .Nobody likes being next to unpleasant odours .",
+        "words": [
+          "malodours",
+          "general industrial",
+          "hotel kitchen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ddc2b85d-c92c-5efe-9ac4-20a88486a2f6",
+        "value": "The Department of the Environment has commissioned the Laboratory to survey airborne metals in the vicinity of a number of metallurgical plants in the Birmingham area .Pollution Abatement Odours from Offensive Trades During 1972 the Department of the Environment set up the Working Party on Odours from Offensive and Other Trades under the chairmanship of Dr Valentin , Deputy Director of Warren Spring Laboratory .The Working Party , which is to report in 1973 and 1974 , is examining the major odour - producing industries , assessing the effectiveness of existing odour abatement techniques and looking , where necessary , for more successful practices .",
+        "words": [
+          "Odours",
+          "Dr",
+          "from Offensive Trades",
+          "from Offensive and Other"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/e033166a-545c-52fb-bf8c-ed399d4cb386",
+        "value": "This work has been extended to monitor pollution outside the factory perimeters and at one location we have found the services of an Odour Identification Panel to be most useful .The panel comprises five members of our staff whom we found , by carrying out a survey , to be skilled in identifying odours .After further special training in odour recognition , they have helped us to trace leakages taking place from equipment at high levels which were completely undetected on the plant itself .",
+        "words": [
+          "odours",
+          "we",
+          "five members of our staff"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/e23c8b8c-6ea2-5bd7-8984-c2a4773c780d",
+        "value": "For many pollutants air quality will be found to be expressed as a concentration over a certain period of time eg Â » g / mÂ ® over 24 hours .Air Quality Criteria See Criteria Air Pollution See Pollution Aldyhydes Organic compounds containing the JO group â   C A number of them have NE an unpleasant smell , eg in diesel exhaust , and can be irritant to nose and eyes ; many can be poisonous .Alkali / Alkaline A substance which , in solution in water , splits up to some extent to give â   rise to an excess of hydroxyl over hydrogen ions .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "diesel",
+          "Organic compounds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/e87c9ae4-ddfa-5087-b003-40acca9d63db",
+        "value": "Gray ) .( iii ) Concentrations of polynuclear aromatic compounds in combustion products and urban areas .( Mr .",
+        "words": [
+          "aromatic",
+          "compounds",
+          "polynuclear",
+          "in combustion products"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ebef7de8-a92b-5adf-8f6a-a54815e5e239",
+        "value": "Wheat - ley and the Director .Members of the Society have served on the Working Party on the Disclosure of Information Regarding Emissions to Atmosphere ; others are members of the Working Parties on the Suppression of Odours from Offensive and Similar Trades , and on Grit and Dust Emis - sions from Combustion Processes , while Mr .Philip Draper continues as a member of the appropriate committee of the British Standards Institution concerned with exhausts from diesel engined vehicles .",
+        "words": [
+          "Odours",
+          "Members of the Society"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ec8fe115-acea-58f2-8308-9aed12256b4c",
+        "value": "S .Three Reports on Successes with Smoke Control ; two papers on solid fuel distribution and supply problem ; air pollution and mortality ; odour control ; control of pollution from road vehicles ; four papers on new horizons in domestic heating ; two papers on industrial problems ; two papers on unresolved problems in air pollution .Price 2 ) Blackpool Conference , 1967 .",
+        "words": [
+          "odour",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ece7ae78-8ada-5fcc-8916-f29fe980202e",
+        "value": "S ., Chairman of the Royal Commission on Environmental Pollution , and will include papers on : Sulphur Dioxideâ   New Report by the Technical Committee Odours and their Control Meteorological Aspects of Air Pollutionâ   Global effects and climate Pollution by Aircraft Trends in Pollution as indicated by the results of the National Survey There will be technical and ladies visits , golf and tennis tournaments and social events .Full membership for the four days is Â £ 12 .",
+        "words": [
+          "Sulphur",
+          "Odours",
+          "the Technical Committee"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/ee8dc9b2-7b48-5fb0-b876-e52227a993a5",
+        "value": "So the unpleasant smell is neutralized , not covered up .Different smells need different counteractants .So we have an advisory service to ensure the right Airkem is applied by the best methods at the correct times in the most effective locations .",
+        "words": [
+          "smells",
+          "Different"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/f08198c5-497d-5045-b8c8-1b7f64599c75",
+        "value": "( Â £ 12 .00 ) Guide to the Reduction of Smoke and Odor from Diesel - powered Vehicles .LS : Environmental Protection Agency , Office of Air Programs , Research Triangle Park , North Carolina , 1971 .",
+        "words": [
+          "Odor",
+          "from Diesel - powered Vehicles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/f6d8a909-d6de-52fe-a299-98011db27a8a",
+        "value": "S .Three Reports on Successes with Smoke Control ; two papers on solid fuel distribution and supply problem ; air pollution and mortality ; odour control ; control of pollution from road vehicles ; four papers on new horizons in domestic heating ; two papers on industrial problems ; two papers on unresolved problems in air pollution .PLIGG 2125 Blackpool Conference , 1967 .",
+        "words": [
+          "odour",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/f74cbbc3-be72-5325-8f6b-a785c0ff0a1b",
+        "value": "363 .This Chemical Manufacturing Com - pany has a specialist Aromatics Divi - sion producing a wide range of de - odorising compounds for farm and industrial use under the name of â   Alamask â   .The company also mar - kets a variety of de - odorants for incorporation into aerosol household polishes , cleaners and insecticides .",
+        "words": [
+          "Aromatics",
+          "compounds",
+          "odorising",
+          "de - odorising"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/fa98fc0d-be7c-54dc-a945-78a0198c655c",
+        "value": "Johnson Matthey Chemicals Ltd , 74 Hatton Garden , EC1P 1AE ( 01 - 405 6989 ) .Abatement of odours or organic con - tent of air / steam by means of HoneycatÂ ® â  ¢ air pollution control cata - lytic incineration .Peabody Ltd .",
+        "words": [
+          "odours",
+          "organic con - tent of air / steam"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/fbd53c03-acdb-5ab8-937b-4695962a5ead",
+        "value": "74 Hatton Garden , London EC1IP 1AE ( 01 - 405 6989 ) .Abatement of odours or organic con - tent of air / steam by means .of Honeycatâ  ¢ air pollution control cata - lytic incineration , CEILINGS , HEATED Phoenix Burners Ltd .",
+        "words": [
+          "odours",
+          "organic con - tent of air / steam"
+        ]
+      }
+    ],
+    "label": "NSCA handbooks and yearbooks",
+    "url": "http://archive.org/details/b20279024",
+    "date": "1971",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/508bfcae-5316-5b36-98f4-67ed29e17b3d",
+      "label": "1971",
+      "begin": "1971",
+      "end": "1971"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12210527/",
+      "label": "Arḑ Waşl al Yās"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/bcfc85b7-e368-5ef5-8cd5-a05a6fb78cd4/fragment/7f46d519-c899-5d6f-90b4-0796afc2c4fe"
+}

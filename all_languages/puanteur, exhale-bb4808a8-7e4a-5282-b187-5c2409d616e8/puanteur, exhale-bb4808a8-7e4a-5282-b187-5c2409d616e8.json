@@ -1,0 +1,76 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/bb4808a8-7e4a-5282-b187-5c2409d616e8",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "puanteur",
+    "exhale"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/4ef61164-9620-5c18-af6c-647dff588157",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/4ef61164-9620-5c18-af6c-647dff588157/fragment/7dcecb49-6a96-53e6-b6e9-a46ee67d33f0",
+        "value": "» Dans tout ce morceau de belle poésie chez le Tasse , on voit encore ressortir les traditions du moyen - âge sur le Diable .Le Pluton de la Jérusalem délivrée est armé de cornes immenses ; il exhale les flammes et la puanteur de l ’ enfer en ouvrant sa gueule énorme , immense et profonde comme un gouffre ( voragine profonda ) .VIII POÈTES ESPAGNOLS Vers le I7 rae siècle , les poètes espagnols ont eu connaissance du Tasse et cherchent à rivaliser avec lui .",
+        "words": [
+          "Jérusalem",
+          "puanteur",
+          "exhale",
+          "enfer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4ef61164-9620-5c18-af6c-647dff588157/fragment/a03c8eb2-e535-5a41-9668-cd5328751066",
+        "value": "Le premier sac contenait des rats , le second des chats .On juge de l ’ empressement des rats , poursuivis par les chats , à franchir le pont ! Cruel désappointement du Diable ! Il s ’ enfuit en sifflant d ’ une manière horrible et en laissant après lui un puant sillage de fumée - 93 - et de soufre ! Et ce fut tout ! Mais on s ’ empressa de sauvegarder le nouveau pont en le bénissant et en y plaçant une croix à chaque abord .Telle est la tradition ou la légende ! XII CONCLUSION Après tout ce qui précède , il y aura sans doute encore bien des personnes tentées de se demander sérieusement s ’ il ne faut pas croire à l ’ existence d ’ un démon malfaisant qui cherche sans cesse à nous dévorer ( quœrens quent devoret ) ? Plusieurs hésiteront è se prononcer en présence des deux bulles des papes Innocent VIII et Adrien VI , qui affirment démons et sorciers et ordonnent d ’ exorciser les uns et de poursuivre les autres ! Vrai est - il que ces deux bulles sont tombées en désuétude , de même que le fameux Rituel de l ’ exorcisme des sorciers .",
+        "words": [
+          "puant",
+          "fumée",
+          "soufre",
+          "sillage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4ef61164-9620-5c18-af6c-647dff588157/fragment/dd06422f-6bdb-573d-b599-f956ece74107",
+        "value": "Mais enfin , il se décide en frémissant ; et hurlant de douleur et de rage , il se plonge dans la cuve , dont on voit l ’ eau s ’ évaporer en fumée et en jets bouillonnants ! « Ma troisième et dernière condition te sera « la plus douce et la plus facile , reprend la « dame avec un charmant sourire : La première « année que mon mari va passer en enfer , toi , tu « la passeras près de moi , en me jurant amour , « respect , fidélité et obéissance .» A peine a - t - il entendu cette demande que le Diable fait un bond terrible pour s ’ enfuir ; mais l ’ habile femme a pris les devants , fermé sa porte à clé , et elle retient le Diable prisonnier ! La terreur de Satan est telle qu ’ il se transforme en fil ténu et s ’ enfuit par le trou de la serrure , laquelle , depuis lors , est restée noire et puant le soufre .Le pacte fut ainsi rompu ! Quelle femme ! et quel bon Diable ! Voyons enfin comment Henri Heine , poète allemand contemporain , traite le Diable en rêveur et en sceptique dans Le Retour ( Heimkehr ) , strophe 33 : « J ’ appelai le Diable et le Diable vint .",
+        "words": [
+          "puant",
+          "soufre"
+        ]
+      }
+    ],
+    "label": "Le Diable et ses Métamorphoses. Étude historique, par le bibliophile C. P.",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k3136329",
+    "date": "1882",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/260c497d-a092-5af7-b2cf-cfe26f14f0f6",
+      "label": "1882",
+      "begin": "1882",
+      "end": "1882"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/db4c3539-22ee-559d-b290-f8426bde3b9e",
+      "label": "enfer"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/fear",
+      "label": "fear"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pain",
+      "label": "pain"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/4ef61164-9620-5c18-af6c-647dff588157/fragment/7dcecb49-6a96-53e6-b6e9-a46ee67d33f0",
+  "license": "Public domain"
+}

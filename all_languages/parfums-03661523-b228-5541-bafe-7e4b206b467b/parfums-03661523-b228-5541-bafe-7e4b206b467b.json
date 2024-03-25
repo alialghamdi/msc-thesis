@@ -1,0 +1,65 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/03661523-b228-5541-bafe-7e4b206b467b",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/41471175-0c7a-5b2d-8d67-24e01777b884",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/41471175-0c7a-5b2d-8d67-24e01777b884/fragment/24cb3c73-f27b-5284-ba3a-661b11443086",
+        "value": "• Alors le monde accourl frémissant d ' allégresse » Pour respirer ces fleurs qui lui versent l ' ivresse ; • Il s ' étonne , il admire , et puis ballant des mains , • Il les sème en chantant par ses mille chemins .» L ' arbuste , c ' est le nom , les parfums sont la gloire , » De tous ceux qu ' à grand bruit revendique l ' histoire , > Que le monde insulta , proscrivit lour - à - lour , > Et qui morts sont l ' objet de son tardif amour .• Mais qu ' importe ! travaille , accomplis sans relâche • Ta sainte mission , là noble et grande tâche , » Méprise le présent et songe à l ' avenir , » Le présent , selon moi , ne vaut pas un soupir ! » El ( on âme écoutait ce que disait celte âme , Qui pour la vérité d ' un saint amour s ' enflamme , Et qui croit fermement que l ' oeuvre que lu fais , Malgré ses ennemis , ne périra jamais : — 24 — Alors l ' on oeil éteint retrouvait son audace , El tressaillant d ' orgueil sous ta forte cuirasse , Tu marchais le front haut , en assurant tes pas Dans l ' arène poudrons » où grondent les combats .",
+        "words": [
+          "parfums",
+          "arbuste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/41471175-0c7a-5b2d-8d67-24e01777b884/fragment/d574ab9e-57a9-5c52-bbc4-9cc2aff319f7",
+        "value": "• Aspire du soleil les regards bienfaisants , .• Ouvre son beau calice aux caresses des vents , • Puis grandit lout - à - coup dans la funèbre enceinte • Où gémit la douleur , où s ' exhale la plainte , • El bientôt un arbuste aux splendides rameaux , • Remplit de ses parfums la ville des tombeaux .• Alors le monde accourl frémissant d ' allégresse » Pour respirer ces fleurs qui lui versent l ' ivresse ; • Il s ' étonne , il admire , et puis ballant des mains , • Il les sème en chantant par ses mille chemins .",
+        "words": [
+          "parfums",
+          "ville des tombeaux"
+        ]
+      }
+    ],
+    "label": "Epître à Jean Jacques Lazowski, docteur-médecin",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6100820z",
+    "date": "1848",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/96679562-28c0-5055-b617-719bef45e0de",
+      "label": "1848",
+      "begin": "1848",
+      "end": "1848"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/9179994/",
+      "label": "Eastern Cemetery"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/grief",
+      "label": "grief"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/sadness",
+      "label": "sadness"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pain",
+      "label": "pain"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/disappointment",
+      "label": "disappointment"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/41471175-0c7a-5b2d-8d67-24e01777b884/fragment/d574ab9e-57a9-5c52-bbc4-9cc2aff319f7",
+  "license": "Public domain"
+}

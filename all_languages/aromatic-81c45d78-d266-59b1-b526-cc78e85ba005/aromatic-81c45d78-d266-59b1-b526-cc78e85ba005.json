@@ -1,0 +1,549 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/81c45d78-d266-59b1-b526-cc78e85ba005",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "aromatic",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/02e31218-9128-5fba-b41e-2424414ddbdd",
+        "value": "Armenia Armenia and the countries bordering on the southern and eastern slipres of the Euxine â   the modern Georgia and Circassia â   furnished horses , mules , and slaves ; also copper and the tunny fish .Phoenicia had undoubtedly great commercial intercourse with Greece , as is evident from the fact that the Grecian names for the principal objects of oriental commerce , especially spices and perfumes , were derived from the Phoenicians .( Herod , iii .",
+        "words": [
+          "perfumes",
+          "spices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/04b61f9b-13c1-5a2e-add2-4c269d1d1186",
+        "value": ") the midst of the satrapy of Idumaea , in length ex - tending about 500 stadia , and in breadth about 60 .Its water is very salt , and of an extremely noxious smell , so that neither fish nor any of the other ordinary marine animals can live in it : and although great rivers remarkable for their sweetness flow into it , yet by its smell it counteracts their effect .From the centre of it there rises every year a large mass of solid bitumen , sometimes more than 3 plethra in size , sometimes a little less than one plethrum .",
+        "words": [
+          "smell",
+          "its",
+          "Its",
+          "extremely noxious",
+          "it counteracts their effect"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/0d258bc5-18af-5072-85d9-4ce50d89e2e4",
+        "value": "The latter are described by the Roman philosopher as immensas immensas paludes , quarum exitus nee incolae noverant , noverant , nee sperare quisquam potest , ita implicitae aquis herbae & amp ; c .: the former by recent explorers explorers as interminable sea of fetid stagnant & amp ; c .As the White River indeed approaches the higher table - land of the S .",
+        "words": [
+          "fetid",
+          "stagnant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/10293e88-2512-5a9f-b6be-39b4c33d1ac8",
+        "value": ") .This wine was universally esteemed all over the ancient world ; it was said to possess the odour of Nectar ( Nonnus , i .12 , xvii .",
+        "words": [
+          "odour",
+          "it",
+          "of",
+          "This",
+          "of Nectar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/10450c90-cf85-5e71-ba24-2c51fddaffeb",
+        "value": "37 .) Among the valuable productions of the vegetable kingdom , the fragrant saliunca is mentioned ( Plin .xxi .",
+        "words": [
+          "fragrant",
+          "saliunca"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/1155976b-43b2-52cb-b292-ae1b51b7b2f1",
+        "value": "The fact remarked by St .Jerome , of the proper name of tho mountain being synonymous with frankincense , both in Greek and Hebrew , has given rise to the idea that tlie mountain produced this odoriferous shrub , of which , however , there is no proof .( Reland , Palaestina , p .",
+        "words": [
+          "odoriferous",
+          "frankincense",
+          "shrub"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/16028f73-b9f1-561d-87e7-584631c6102f",
+        "value": "Accord - ing to the accounts of recent travellers the Putrid Sta , now called the Shivdshe .does not appear to de - serve its name , as it has neither an unpleasant smell nor are its shores unhealthy ( Seymour , p .33 ) ; yet in the times of Clarke and Pallas it seems to have possessed both these offensive qualities .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/2aa18446-e4cb-52cd-99f4-ca6f1dcf9388",
+        "value": "12 ) as a prodigious work of nature , formed by abrupt precipices , precipices , and having the interval closed by gates with iron bars .Beneath ran a river whicli emitted a strong smell ( uSubtermedias ( fores ) , amne diri odoris Plin .1 .",
+        "words": [
+          "strong",
+          "smell",
+          "a river whicli",
+          "amne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/2b02bf37-61c1-5c87-9647-6d17773a862a",
+        "value": "According to Strabo it was built after the return of the Heraclidae into Peloponnesus .It is called a town of the Ozolian Locrians by the poet Archytas of Amphissa , who describes it in an hexameter line : the grape - clad , perfume - breathing , lovely It is also mentioned in an epigram of Alcaeus , the Messenian , who was a contemporary of Philip V ., king of Macedonia .",
+        "words": [
+          "perfume",
+          "breathing",
+          "the grape -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/2bcac681-c6c2-53f3-b5e4-4f5b5ddf0f4d",
+        "value": ") The power and prosperity of Thebes arose from three sources â   trade , manufactures , and religion .Its position on the Nile , near the great avenues through the Arabian hills to the Red Sea , and to the interior of Libya through the western desert , rendering rendering it a common entrepot for the Indian trade on the one side , and the caravan trade with the gold , ivory , and aromatic districts on the other , and its comparative comparative vicinity to the mines which intersect the limestone borders of the Red Sea , combined to make Thebes the greatest emporium in Eastern Africa , until Alexandreia turned the stream of commerce into another channel .It was also celebrated for its linen manufacture â   an important fabric in a country where a numerous priesthood was interdicted from the use of woollen garments ( Plin .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/30279474-ccd9-54f3-91be-9aafaf46dd82",
+        "value": "Pausanias found at Methone a temple of Athena Anemotis , the and one of Artemis .He also mentions a well of bituminous water , similar both in smell and colour to the ointment of Cyzicus , but of which no trace is now found .In 1124 Modon was conquered by Venice , but did not become a permanent possession of the republic till 1204 .",
+        "words": [
+          "smell",
+          "well of bituminous water",
+          "the ointment of Cyzicus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/333806de-c5af-5919-88e0-7413b4683fd4",
+        "value": "The time of the rising of the bitumen is known about twenty days before it takes place ; for around the lake to the distance of several stadia the smell of the bitumen spreads with a noxious air , and all the silver , gold , and brass in the neighbourhood loses its proper colour ; which , however , returns again as soon as all the bitumen is ejected .The fire which burns beneath the ground and the stench render the in - habitants of the neighbouring country sickly and very short - lived .It is nevertheless well fitted for the cultivation of palms , wherever it is traversed by serviceable rivers or fountains available for the pur - poses of irrigation .",
+        "words": [
+          "the",
+          "stench",
+          "the in - habitants of the neighbouring country sickly and very short - lived"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/3fb2f62a-2f10-58f4-a2df-8c12d343a7a3",
+        "value": "14 , & amp ; c .) Phoenicia was likewise celebrated for its perfumes .( Juv .",
+        "words": [
+          "perfumes",
+          "its",
+          "Phoenicia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/47a8d85f-fdb1-55cc-9f2c-19bb95d9aa17",
+        "value": "To the king and tyrant were given horses , pack - mules , vessels of silver and brass , and costly raiment .Besides Besides the above named articles of merchandise , which were chiefly supplied to its markets from Adule , on the opposite coast , the great emporium of African produce [ Adule ] , Musa exported a precious myrrh cf native growth , an aromatic gum , which the author names erasers dSeipuivaia , and a white marble or alabaster ( AvySos ) .( Arrian , Peripl .",
+        "words": [
+          "aromatic",
+          "gum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/492b57ab-8638-51a2-a7cf-5a1ba77f8e00",
+        "value": "tained in a little vein or canal which follows the spiral line of these molluscs , and yields but a very small drop .The fluid , which is extracted with a pointed instrument , is of a yellowish white , or cream colour , and smells like garlic .If applied to linen , cotton , or wool , and exposed to a strong light , it successively becomes green , blue , red , and deep purple ; and when washed in soap and water a bright and permanent crimson is produced .",
+        "words": [
+          "smells",
+          "The fluid",
+          "like garlic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/4dc02391-99dc-5585-87a9-9c64dfb82eae",
+        "value": ") The produce of the Norican iron mines seems to have been sufficient to supply the material for the manufactories of arms in Pannonia , Moesia , and Northern Italy , which owed their origin to the vicinity of the mines of Noricum .There are also indications to show that the Romans were not unacquainted unacquainted with the salt in which the countiy abounds ; and the plant called Saliunca , which grows abundantly in the Alpes Noricae , was well known to the Romans , and used by them as a perfume .( Plin .",
+        "words": [
+          "perfume",
+          "them",
+          "the plant called Saliunca",
+          "to the Romans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/5a867dc6-f446-5293-81cc-88130c6fcd16",
+        "value": "Lieut .Lynch , while encamped near Engedi , remarked , a strong smell of sulphuretted sulphuretted though there are no thermal springs in this vicinity ; and again , a foetid sulphureous sulphureous odour in the â   the north wind , quite fresh , and accompanied with a smell of Lieut .Molyneux detected the same disagreeable smell the night he spent upon the sea , which he ascribed to the water ( Journal of the R .",
+        "words": [
+          "strong",
+          "odour",
+          "smell",
+          "sulphureous sulphureous",
+          "foetid",
+          "in the",
+          "of sulphuretted",
+          "Lynch",
+          "accompanied with a",
+          "near Engedi",
+          "of Lieut ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/61aa1ffa-9694-528b-9f75-0536b62cd6a0",
+        "value": "of Opone there is no trace of ancient commerce .The articles of export from this emporium were , according to the author of the Periplus , cinnamon , distinguished as aroma , fragrant gums generally , motb , or cinnamon of inferior quality ; slaves of a superior kind ( AouAiKfc npei & lt ; raova ) , principally for the Aegyptian market ; and tortoise - shell of a superior quality and in great abundance .( See Vincent , Commerce and Navigation of thc Ancients , vol .",
+        "words": [
+          "cinnamon",
+          "fragrant",
+          "aroma",
+          "gums",
+          "tortoise - shell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/649958cc-cb0a-5b22-87c2-aef914250f79",
+        "value": "Â § 1 , seq .) Some derived it from the verb oÂ £ civ , to either from the stench arising from a spring at the foot of Mount Taphiassus , beneath beneath which the centaur Nessus is said to have been buried , and which still retains this property $ cf .Strab .",
+        "words": [
+          "stench",
+          "at the foot of Mount Taphiassus",
+          "from a spring"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/64b307e6-a514-568e-a55c-5df89793d30c",
+        "value": "p .427 ) , or from the abundance of asphodel asphodel which scented the air .( Cf .",
+        "words": [
+          "scented",
+          "the air",
+          "asphodel asphodel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/657b992e-9e18-5a0b-a885-0c55c086d7f7",
+        "value": "Constantinople .The caravans went up the Nile as far as Coptos , whence they travelled through the desert for 7 or S days to Berenice or Myos - Hormos , and exchanged their gold for silk , spices , porcelain , and perfumes .A pound of silk was considered equivalent to a pound of gold .",
+        "words": [
+          "porcelain",
+          "perfumes",
+          "spices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/6c5d0ac7-e36a-50e3-9850-95b5d4f30be8",
+        "value": "32 .) They are mentioned mentioned by Diodorus ( as Mwvalot ) , in connection with the Gerrhaei , as transporting frankincense and other scented wares from Upper Arabia ( itc ttjs avu KeyofA .if - ns KeyofA .",
+        "words": [
+          "scented",
+          "frankincense",
+          "wares",
+          "from Upper Arabia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/7c83f863-61a8-569e-9239-33ae875a932b",
+        "value": ") But Lieut .Lynch states that , although the water was greasy , acrid , and disagreeable , it was perfectly He is therefore inclined to attribute the noxious smell to the foetid springs and marshes along the shores of the sea , increased , perhaps , by exhalations from stagnant pools in the flat plain which bounds it to the north .( Expedition , pp .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "the water",
+          "noxious",
+          "from stagnant pools",
+          "the foetid springs",
+          "along the shores of the sea",
+          "in the flat plain which bounds it to the north"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/839a42c3-3d41-5741-899f-6d20b830a05c",
+        "value": "Such spots prevail in the tracts towards the eastern side of the country , where tbe soil is mostly an indurated clay , with irregular ridges of limestone hills separating different parts of the surface .The better description of soil is occasionally diversified by hill and daie , and has very much the appearance of some of our downs , but is covered with the liquorice plant , mixed with aromatic shrubs , and occasionally some dwarf trees , such as the tamarisk and acacia .Many of the tracts eastward of the Jordan ( Peraea ) are of this description , particularly those near the Hauran , which , under the name of Roman Arabia , bad Bozra for its capital .",
+        "words": [
+          "the",
+          "aromatic",
+          "shrubs",
+          "the tamarisk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/8e9087cd-8c54-5471-9da9-01a54376af1a",
+        "value": "Silver mines were also worked at Damastium .Wax and honey were probably articles of export ; and it is a proof that the natural products of Illyria Illyria were carefully sought out , when we find a species of iris peculiar to the country collected and sent to Corinth , where its root was employed to give the special flavour to a celebrated kind of aromatic unguent .Grecian commerce and intercourse not only tended to civilise the S .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/8ebb4044-92aa-5161-a3a9-3a833b946051",
+        "value": "c .) describes as remarkable for its sweetness , white in colour , in quality excellent , light , with a fragrant bouquet ; it was by no means astringent , and did not affect the ( Comp .Plin .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/918dfcba-5cd2-5358-92b2-4e0fc29455d1",
+        "value": "c .) Strabo , in describing the same volcanic eruption to which Pausauias alludes , alludes , says that a hill 7 stadia high , and fragments of rocks as high as towers , were thrown up ; that in the day - time the plain could not be approached in consequence of the heat and sulphureous smell , while at night there was no unpleasant smell , but that the heat thrown out was so great that the sea boiled at the distance of 5 stadia from land , and its waters were troubled for 20 stadia ( i .p .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "sulphureous",
+          "at night",
+          "in the day - time"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/958bec26-bf8e-5d77-bff1-8780910ad325",
+        "value": ") Diodorus mentions that the violation of any of these customs was a capital crime .Their occupations were chiefly pastoral ; some possessing camels and others sheep in much greater abundance than the other Arabs , although their number did not exceed 10 , 000 ; but they also acted as carriers of the aromatic drugs of Arabia Felix , which were discharged at their great mart at Petra , and by them transported to the Mediterranean , Mediterranean , at Rhinocorura .The love of liberty was a passion with them ; and their custom , when attacked by a more powerful enemy , was to retire to the wilderness , wilderness , whither the invaders could not follow them for want of water .",
+        "words": [
+          "aromatic",
+          "drugs",
+          "at Petra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/a00edda4-5a7f-5214-a5e8-7944a3e80cfb",
+        "value": ") Synesius , who has given in his letters ( Ep .51 , 100 , 114 , 129 ) several particulars about this spot , states that it was dangerous to live here because of the stagnant waters , and tlieir fetid exhalations .It had a harbour situated to the W .",
+        "words": [
+          "fetid",
+          "the stagnant waters",
+          "fetid exhalations",
+          "tlieir fetid",
+          "dangerous to live"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/a375c616-dcad-5f7d-8115-e6a81dfe23e1",
+        "value": "The lagoon is deep , being fed with subterraneous sources ; in summer it is said to be very fetid , and the air extremely extremely unwholesome .Strabo relates that the waters of the lake were fetid , and its fish not eatable , eatable , which he attributes to the Centaurs washing their wounds in the Anigrus .Pausanias mentions the same circumstances ; and both writers describe the efficacy of the water in curing cutaneous diseases .",
+        "words": [
+          "fetid",
+          "the waters of the lake"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/a382d950-9bef-51cb-8645-e4fb5b3c1b30",
+        "value": "This also takes place in Apollonia of Epeirus .There are many other evidences evidences also of the existence of fire beneath the ground ; for several rough burnt rocks are shown near Moasas [ Masada ] , and caves in several places , and earth formed of ashes , and drops of pitch distilling distilling from the rocks , and boiling streams , with an unpleasant odour perceptible from a distance , and houses overthrown in every direction , so as to give probability to the legends of the natives , that formerly formerly thirteen cities stood on this spot , of the principal of which , namely , Sodoma .ruins still remain about 60 stadia in circumference ; that the lake was formed by earthquakes and the ebullition of fire , and hot water impregnated with bitumen and sulphur ; that the rocks took fire ; and that some of the cities were swallowed up , and others were de - serted by those of their inhabitants who could escape .",
+        "words": [
+          "earth",
+          "odour",
+          "perceptible",
+          "unpleasant",
+          "from a distance",
+          "drops of pitch",
+          "boiling streams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/a4f7f31f-9b0e-57f6-ba3a-0a44ce15da76",
+        "value": "681 ) .Independently of wine and oil , the country about Selge was rich in timber , and a variety of trees , among which the storax was much valued from its yielding a strong perfume .Selge was also celebrated for an ointment prepared from the iris root .",
+        "words": [
+          "strong",
+          "perfume",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/aaef2e3a-f57c-5df6-8232-61a33b93458f",
+        "value": ") The river Anigrus flows into the latter of these lagoons , and from thence flows out into the sea .The lagoon is deep , being fed with subterraneous sources ; in summer it is said to be very fetid , and the air extremely extremely unwholesome .Strabo relates that the waters of the lake were fetid , and its fish not eatable , eatable , which he attributes to the Centaurs washing their wounds in the Anigrus .",
+        "words": [
+          "fetid",
+          "very fetid",
+          "it",
+          "in summer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/ac0a9ed3-dd49-5e22-b60b-bb71e1c5ad7d",
+        "value": "e .Afaon , fragrant gums and spices ; which , again , is nearly equivalent to the Greek designation of the spice - land of Eastern Libya â   Aromata .And this derivation is rendered the more probable , when taken in connection with the neighbouring bluff or headland of Guardafui or Jerdaffoon , since Afun enters into the composition of both names , and Jerd or Guard resembles the Punic word Kartha , a headland .",
+        "words": [
+          "fragrant",
+          "gums",
+          "spices",
+          "Afaon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/ac5af51d-3cbd-5297-95f5-c31f84421384",
+        "value": "c .) that the inhabitants of Leuca showed there a spring of fetid water , which they pretended to have arisen from the wounds of some of the giants which had been expelled by Hercules Hercules from the Phlegraean plains , and who had taken refuge here .These giants they called Leuternii , COIN of lete .",
+        "words": [
+          "water",
+          "fetid",
+          "the inhabitants of Leuca"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/b3df78b8-425f-577a-97cb-fe5159720f71",
+        "value": "555 , & amp ; c ) .The Salii were accustomed to banquet here ; and an anecdote is recorded of the emperor Claudius , that once when he was sitting in judgment in this forum , he was so attracted by the savoury odour of the dinner preparing for these priests , that he quitted the tribunal and joined their party .( Suet .",
+        "words": [
+          "odour",
+          "he",
+          "savoury",
+          "once",
+          "in this forum",
+          "of the dinner preparing",
+          "that he quitted the tribunal and joined"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/b5d60eae-8603-5db0-9cd5-26c7d305f188",
+        "value": "At that time the episcopal see was removed to the neighbouring town of Capaccio , in an elevated situation a few miles inland .Paestum was chiefly celebrated in ancient times for its roses , which possessed the peculiarity of flowering twice a year , and were considered as surpassing surpassing all others in fragrance .( Virg .",
+        "words": [
+          "Paestum",
+          "fragrance",
+          "its roses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/bc1e8dc0-9b58-5b94-944d-ad76c5c4767d",
+        "value": "than it had hitherto reached .These extensions are not only geographically , geographically , but commercially , important , inasmuch as the farther southward the boundaries extended , the nearer did the Aegyptians approach to the regions which produced gold , ivory , gems , and aromatics , and the more considerable , therefore , was the trade of Thebes itself .Only on the supposition that it was for many generations one of the greatest emporiums emporiums in the world can we understand the lavish expenditure of its monarchs , and its fame among northern nations as the greatest and richest of cities .",
+        "words": "aromatics"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/c5f2e85e-24f8-56ad-95df-b7860f96bed5",
+        "value": "According to the scholiast on the passage of Horace just cited , the street was also called Vicus Turarius .This appellation was doubtless derived from the frankincense and perfumes perfumes sold in it , whence the alludon in Horace ( Ep .i .",
+        "words": [
+          "perfumes",
+          "frankincense"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/cbb3036a-9984-52a1-8c6a-3aeb2c079a46",
+        "value": ") ; but it must have been on the eastern side , as objects already described filled the space between the curia and the Capitoline hill .The Forum Piscatorium stood close behind it , since Plautus describes the unsavoury odours from that market as driving away the frequenters of the basilica into the forum : â   vilest of the Roman prostitutes .( Senec .",
+        "words": [
+          "unsavoury",
+          "odours",
+          "driving away the frequenters of the basilica into the forum",
+          "from that market"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/ccae28f2-8b42-5356-9210-5fc6ca6b289c",
+        "value": "It had no proper harbour , but a good roadstead , and a sandy anchorage .Its principal import trade was in fine and common purple purple cloth ; Arab dresses with sleeves â   probably the kemis â   some plain and common , others embroidered with needlework and in gold ; saffron ; an aromatic aromatic plant , named cyperus ( tivirepos ) ; fine linen ; long robes â   the abus ; quilts ; striped girdles ; perfumes perfumes of a middling quality ; specie in abundance ; and small quantities of wine and grain , for the countTy grew but little wheat , and more wine .To the king and tyrant were given horses , pack - mules , vessels of silver and brass , and costly raiment .",
+        "words": [
+          "aromatic",
+          "perfumes",
+          "aromatic aromatic",
+          "plant",
+          "saffron",
+          "perfumes perfumes",
+          "a middling",
+          "tivirepos",
+          "cyperus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/cfd150c5-ffea-504b-bb6b-a6bd3c99f03d",
+        "value": ") Their long and undisturbed tenure of their own proper country is forcibly described by the prophet Jeremiah .Moab hath been at ease from his youth , and he hath settled on his lees , and hath not been emptied from vessel to vessel , neither hath he gone into captivity : therefore his taste remained in him , and his scent is not ( xlviii .11 ) ; and the enumeration of its prosperous cities , in his denunciation , indicates the populousness and richness richness of the country , to which the Israelites resorted when suffering from famine in their own most fruitful districts ( Ruth , i .",
+        "words": [
+          "scent",
+          "his"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/d04768ca-c1e2-593a-8878-4fe47b1e554e",
+        "value": "Lynch , while encamped near Engedi , remarked , a strong smell of sulphuretted sulphuretted though there are no thermal springs in this vicinity ; and again , a foetid sulphureous sulphureous odour in the â   the north wind , quite fresh , and accompanied with a smell of Lieut .Molyneux detected the same disagreeable smell the night he spent upon the sea , which he ascribed to the water ( Journal of the R .Geog .",
+        "words": [
+          "the",
+          "smell",
+          "he",
+          "Molyneux",
+          "the same disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/d266ea8b-765d-5e14-9e23-12a8176bc0d0",
+        "value": "Assuming , then , that the Sabeans were a widelyspread widelyspread race , extending from the Persian Gulf to the Red Sea , and running up to the borders of the desert in the Arabian peninsula , we proceed to examine examine the grounds of their reputation for excessive opulence and luxury .A portion of their wealth was undoubtedly native ; they supplied Aegypt and Syria from the remotest periods with frankincense and aromatics ; and since the soil of Yemen is highly productive , they took in exchange , not the corn or wine of their neighbours , but the precious metals .But aromatics were by no means the capital source of their wealth .",
+        "words": [
+          "frankincense",
+          "aromatics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/d71e9cbc-a417-5c88-8eba-9c9f74303daf",
+        "value": "extravagant .According to Agatharchides and Diodorus , the odour of the spice - woods was so potent that tlie inhabitants were liable to apoplexies , and counteracted counteracted the noxious perfumes by the ill odours of burnt goats ' - hair and asphaltite .The decorations of their houses , their furniture , and even their domestic utensils utensils were of geld and silver : they drank from vases blazing with gems ; they used cinnamon chips for firewood ; and no king could compete in luxury with the merchant - princes of the Sabaeans .",
+        "words": [
+          "ill",
+          "odour",
+          "perfumes",
+          "odours",
+          "noxious",
+          "so potent",
+          "of burnt goats ' - hair and asphaltite",
+          "of the spice - woods",
+          "that tlie inhabitants were liable to apoplexies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/ebce4f18-5b42-5a36-949a-f29e1f2a627e",
+        "value": ") These mountains contain the sources of the rivers Catarrhactes and Cestius , which flow through Pisidia and Pamphylia into the bay of Pamphylia .The principal products of Pi - sidia were salt , the root iris , from which perfumes were manufactured , and the wine of Amblada , which was much recommended by ancient physicians .( Plin .",
+        "words": [
+          "perfumes",
+          "salt",
+          "the wine of Amblada"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/f20febf1-9209-50ba-b5ac-020ace264d82",
+        "value": "the Arnon was found to be 82 feet wide and 4 feet deep at its mouth , â   is all carried off by evaporation ; and , when the small extent of the sea is considered , it is clear that the decomposition of its waters must be very rapid .The ancient writers apeak of a noxious smell , of bubbles like those of boiling water , of much soot , and an invisible vapour , tarnishing all metals , and deleterious to the inha - bitants ; and its change of aspect thrice a day may also be ascribed to the same cause .Now it is remarkable that nearly all these phaenomena have been noticed by recent explorers , and the single one which is not confirmed is accounted for in a manner which must exempt the ancient geographers from Specific Gravity - Chloride of Calcium , , _ .",
+        "words": [
+          "smell",
+          "vapour",
+          "noxious",
+          "invisible",
+          "of bubbles like",
+          "of much soot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/f2e7a023-ab3c-5256-9198-7b55c67a8d30",
+        "value": ") , and subsequently in Rome , the Indian trade became more valuable to the Sabaeans .It was computed in the third century of the Empire , that , for every pound of silk brought to Italy , a pound of silver or even gold was sent to Arabia ; and the computation might fairly be ex - tended to the aromatics employed so lavishly by the Romans at their banquets and funerals .( Comp .",
+        "words": [
+          "aromatics",
+          "the Romans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/f34eb6f5-d04d-52a6-8a89-cadcee10e97b",
+        "value": "For the most part it is a narrow valley , inter - sected by the river and bounded by a double line of hills , lofty and abrupt on the eastern or Arabian side , lower and interrupted by sandy plains and valleys on the Libyan or western .The desert on either side produces a stunted vegetation of shrubs and herbs , which emit a slight aromatic odour .The cultivable soil is a narrow strip on each side of the Nile , forming , with its bright verdure , a strong contrast contrast to the * brown and arid hue of the surrounding district .",
+        "words": [
+          "herbs",
+          "odour",
+          "slight aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/f4bc1be3-59d2-516c-b7f5-af01766dba54",
+        "value": "p .688 ) the town was celebrated for the manufacture of rose - perfume , and Nicander ( ap .Athen .",
+        "words": [
+          "rose",
+          "perfume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/f5bbe58d-cffb-5d6b-b307-937a1ddaa246",
+        "value": "29 .) According to the Roman writers the name of Puteoli was derived either from the stench arising from the numerous sulphureous springs in the neighbourhood , or ( with more probability ) from the wells ( putei ) or sources of a volcanic nature with which it abounded .( Varro , L .",
+        "words": [
+          "stench",
+          "from the",
+          "in the neighbourhood",
+          "Puteoli",
+          "from the numerous sulphureous springs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/fa3b6efb-b6ea-521d-9545-4b1d8bc1e57e",
+        "value": ") The commerce of Yemen with Phoenicia and Aegypt under the Pharaohs would render the name of the Sabaeans familiar in all the havens of the Red Sea and the eastern Mediterranean .The Aegyptians imported spices largely , since they employed employed them in embalming the dead ; and the Phoenicians Phoenicians required them for the Syrian markets , since perfumes have in all ages been both favourite luxuries and among the most popular medicines of the East .At the time when Ptolemy wrote ( in the second century a .",
+        "words": [
+          "perfumes",
+          "the most popular",
+          "in all ages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/fb02f1a1-0681-5b61-8ea7-b148f1326406",
+        "value": "The bitumen floating on the surface of the water appears at a distance like an island .The time of the rising of the bitumen is known about twenty days before it takes place ; for around the lake to the distance of several stadia the smell of the bitumen spreads with a noxious air , and all the silver , gold , and brass in the neighbourhood loses its proper colour ; which , however , returns again as soon as all the bitumen is ejected .The fire which burns beneath the ground and the stench render the in - habitants of the neighbouring country sickly and very short - lived .",
+        "words": [
+          "smell",
+          "of the bitumen",
+          "around the lake"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6ec537ff-b646-516c-95f3-2b7f280a3aa9",
+        "label": "William SMITH"
+      }
+    ],
+    "label": "A Dictionary of Greek and Roman Geography ... Edited by W. Smith",
+    "date": "1854",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/475",
+      "label": "Drug"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b1623c3f-d5a7-5805-84ba-c82941ab27ef",
+      "label": "1854",
+      "begin": "1854",
+      "end": "1854"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/250745/",
+      "label": "Petra"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/87eb7853-4fea-5083-9dd8-4cc8e1d4ad4d/fragment/958bec26-bf8e-5d77-bff1-8780910ad325"
+}

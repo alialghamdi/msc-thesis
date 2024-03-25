@@ -1,0 +1,264 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ea89f332-3527-55a1-82ca-cce882cc60c5",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/0416f6ce-a703-5eb3-a80c-4ffbd7736165",
+        "value": "ne creusons pas ! Elle me fit bon accueil ; craignant toujours des attaques nocturnes , elle éprouvait le besoin d ' avoir un gardien .La maison était sombre , humide , puante , malsaine ; elle n ' était habitée que par de pauvres hères , qui pouvaient à grand ' peine payer leur loyer .Au premier , habitait M .",
+        "words": [
+          "puante",
+          "malsaine",
+          "maison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/0790bdb3-2a21-5add-af23-53a2543535cf",
+        "value": "La nuit était venue , un bec de gaz placé vis - à - vis éclairait la maison d une lueur sinistre .Les deux hommes enfilèrent une allée noire aux murs suant l ' humidité ; une odeur méphitique se dégageant des plombs me fit reculer ; mais la voix rauque appela Palmyre , je n ' hésitai plus , je montai l ' escalier .Au quatrième , une porte s ' ouvrit , nous entrâmes tous les quatre .",
+        "words": [
+          "odeur",
+          "méphitique",
+          "plombs",
+          "me",
+          "allée",
+          "Palmyre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/0973b29c-06ab-5a6f-b07a-74e9616bc660",
+        "value": "J ' entendis sonner deux heures du matin ; épuisé , découragé , je revins dans l ' intérieur de l ' École , je vis une porte ouverte , j ' entrai machinalement .A peine avais - je fait quelques pas que je heurtai un corps , une odeur repoussante s ' en dégageait : le corps que je venais de toucher était un cadavre 1 J ' étais dans l ' amphithéâtre .La lune venait de se lever et de ses rayons argentés elle éclairait un spectacle hideux .",
+        "words": [
+          "odeur",
+          "corps",
+          "je",
+          "repoussante",
+          "cadavre",
+          "l",
+          "J",
+          "amphithéâtre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/1b888c89-7478-5bad-8bc0-3c070c02b73a",
+        "value": "Les chevaux les plus rétifs se courbaient , devenaient dociles sous sa main de fer ; son regard faisait trembler bêtes et gens .Quelles belles années ils avaient passées ; pourquoi avaient - elles fui si vite ? Ils vivaient sans s ' en apercevoir , emportés par le tourbillon des plaisirs , enivrés par la gloire ! Chaque soir c ' étaient applaudissements frénétiques et triomphes nouveaux ! Que de conquêtes ils firent ensemble ! Ofi êtes - vous billets parfumés , et vous femmes fantasques qui vous donnèrent au saltimbanque ? Vous ne le reconnaîtriez plus , à présent , l ' écuyer qui emporta votre cœur au galop de son cheval ! Mylord , à ces récits qu ' il nous faisait le soir dans l ' écurie de .quelque auberge de village , redressait encore la tête : — Nous avions quatre - vingts chevaux à l ' écurie , quinze écuyères de toute beauté , les meilleurs écuyers .",
+        "words": [
+          "parfumés",
+          "billets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/2b5c2e19-5f39-5412-a88a-a372dd61ff8a",
+        "value": "— Le bonheur , disait - il amèrement , n ' existe que pour les imbéciles .FRISE - POULET Avez - vous vu quand je nie campe Le corps lascif , le pied cambré ; Quand je glisse près de la rampe , En laissant uu parfum ambré .Avez - vous vu quand je me penche Toute rouge de volupté ; Sous le maillot on voit ma hanche Tressaillir de lubricité .",
+        "words": [
+          "parfum",
+          "corps",
+          "ambré"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/3f92a6a7-c2bb-52ae-a817-fc3a5d26abad",
+        "value": "Cet homme répandait autour de .lui une odeur de pommade et de vinasse .A son entrée , Virginie se leva toute rouge de colère .",
+        "words": [
+          "odeur",
+          "pommade",
+          "vinasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/65969229-6404-5bea-a28b-3c08fcf072a8",
+        "value": "' Ah ! si j ' avais pu parler , je leur aurais dit : — Mais j ' en sors de votre Académie , c ' est là que l ' on m ' a arrangé de la sorte , je ne veux pas y retourner ! Il fut convenu que l ' on me conduirait le lendemain à la clinique du matin .Avant il faut le laver , avait dit la tante Aurore ; aidée de la bonne , elle me lava des pieds à la tête ; elle alla ensuite chercher un flacon sur - sa table de toilette et elle me parfuma .Après quoi on m ' envoya coucher .",
+        "words": [
+          "flacon",
+          "me",
+          "parfuma",
+          "table de toilette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/84944224-d006-56e4-83aa-cb28113d274f",
+        "value": "— Viens , dit - elle , tu m ' ôteras mes bottines , je ne peux pas les enlever .La chambre à coucher était un petit boudoir dont l ' air était tout parfumé .Elle était meublée luxueusement , M .",
+        "words": [
+          "parfumé",
+          "air",
+          "chambre à coucher",
+          "boudoir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/8defc34e-e47e-5b88-8ed2-44cbe41c0e96",
+        "value": "Elle était en jupon blanc et en camisole blanche , dont elle avait relevé les manches , laissant voir tout nus deux bras charmants .Il se dégageait de cette chambre un parfum de linge fraîchement lavé qui saisissait agréablement .— Tiens , tu as un chien ? fit - elle en me voyant .",
+        "words": [
+          "parfum",
+          "chambre",
+          "linge",
+          "fraîchement lavé",
+          "linge fraîchement",
+          "lavé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/8e957aea-0ad9-5032-a9fd-83a5689d2f2e",
+        "value": "Je suis réduit à chasser le cotillon .Je vous demande un peu si c ' est pour cela , que la nature nous a doués , si admirablement , d ' un flair particulier , d ' un odorat que rien n ' égale , d ' aptitudes qui ne demandent qu ' à être développées .— Parmi les Nemrods dont , vous parlez , il doit cependant y en avoir qui chassent quelquefois , ne fût - ce que par hasard .",
+        "words": [
+          "odorat",
+          "flair"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/965b9235-1e01-5c6b-8e0b-518777f6b100",
+        "value": "Il reprit , sans prendre garde à mon interruption .— Oh ! chasser ! chasser sous bois par un beau soleil levant , respirer les senteurs du matin , la brise embaumée de la forêt ; gambader dans les clairières , effaroucher l ' écureuil , poursuivre le cerf ou le sanglier .Quelles ivresses et quelles joies ! Au lieu de cela , s ' avachir dans des boudoirs , entendre dire les mêmes mensonges à des femmes qui ne les croient pas ! .",
+        "words": [
+          "senteurs",
+          "embaumée",
+          "brise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/97956b65-b586-5c5c-96ba-fd1e6426eaf6",
+        "value": "On prétendait qu ' ils avaient eu un enfant , mais que , sitôt après sa naissance , ils l ' avaient coupé en morceaux et qu ' ils avaient jeté ces morceaux dans les lieux .On n ' osait pas trop en parler , comme disait la mère Billet : — Les affaires de ménage , il ne faut jamais y mettre le nez , cela sent mauvais .- » Sur le même palier , habitaient deux peintres , appartenant à l ' école réaliste .",
+        "words": [
+          "mauvais",
+          "sent mauvais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/9796ae2f-023d-5426-b920-04b29b3d9f90",
+        "value": "— Mon frère , reprit le lévrier , cette brute mal élevée , cet animal grossier , méchant , brutal , ignorant .— Mon frère , reprit le dogue , ce gommeux parfumé qui n ' est bon à rien , qui va lécher je ne sais trop quoi , tandis que moi je m ' échigne pour gagner ma vie .— Vous êtes tous utiles et vous êtes frères , argua gravement le griffon .",
+        "words": [
+          "parfumé",
+          "gommeux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/9b473fc1-bec8-56e0-8771-4ef1ec43a9b5",
+        "value": "Tous étaient ouverts .Il se dégageait une odeur cadavérique , odeur nauséabonde qui soulevait le cœur .Vous étiez là nobles coursiers : chevaux de course , chevaux de combat ; chevaux de labour , chevaux de camion ; chevaux du riche , chevaux du pauvre .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "cadavérique",
+          "soulevait le cœur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/b3b2dfcf-6152-5538-8e7c-f7027cc16049",
+        "value": "Il aimait une femme de la maison et le malheur eux était jaloux ! On ne s ' était aperçu de sa mort que le douzième jour ; les vers avaient mangé la corde , trop tard , hélas ! et le corps , en tombant , avait éveillé l ' attention des voisins .Depuis cette époque l ' appartement n ' avait pas trouvé d ' amateurs , le propriétaire avait diminué le prix , néanmoins personne n ' en voulait : à cause de 1 odeur .La mère Binet trouvait que le monde d ' au - jourd ' liui fait bien le dégoûté .",
+        "words": [
+          "odeur",
+          "appartement",
+          "Depuis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/ccf55037-e348-5dbc-a7cc-4fd0adb9414f",
+        "value": "Elle habitait un réduit sombre , situé sous l ' escalier , et vivait en compagnie d ' un vieux chat à poil roux tout pelé , qui était hargneux , gourmand et profondément égoïste .Cette loge était remplie d ' émanations impossibles à décrire ; jamais un rayon de soleil n ' avait pu y pénétrer .Une petite lampe à pétrole , au feu constamment entretenu par la vestale du lieu , l ' éclairait de sa pâle lumière .",
+        "words": [
+          "émanations",
+          "loge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/cf6395bb-29ff-5074-b7b0-0bb8f4d4a350",
+        "value": "Il aimait en poète , ne pouvait sentir les chiennes crottées , n adressait jamais un regard à une chienne des rues .Il n aimait que les chiennes aristocratiques , les chiennes parfumées , au cou entouré d ' un ruban rose , que l ' on voit passer en voiture dans l ' avenue des Champs - Elysées , à côté de leurs maîtresses en falbalas ; chiennes de qualité , chiennes du monde financier , chiennes du monde interlope .Amours platoniques s ' il en fut ! Il les suivait jusqu ' à leur demeure , se couchait à leur porte , passait là de longues journées sans manger , en contemplation , humant l ' air qu ' elles avaient respiré , ne s ' en allant que lorsque la faim le chassait , ou lorsque des portiers prosaïques le poursuivaient à coups de balai .",
+        "words": [
+          "parfumées",
+          "cou",
+          "chiennes",
+          "l ' avenue des Champs - Elysées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/d527b195-b84b-5014-943e-1f48c7987f1f",
+        "value": "Une femme encore jeune était assise devant la table , elle fumait une ciga : \" rette .Sur le plancher on remarquait des malles entr ' ou - vertes , qui servaient de commode ; par terre traînaient des savates , des jupons , des guenilles ; il se dégageait de partout une odeur d ' absinthe , de tabac et de renfermé qui soulevait le cœur .Dans un coin je vis un monceau de colliers , un frisson parcourut mon corps .",
+        "words": [
+          "odeur",
+          "tabac",
+          "renfermé",
+          "absinthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/d70084d6-6ca4-5581-904e-26563273f416",
+        "value": "Figurez - vous qu ' il m ' a déjà fait quatre calembours .— Cela demande vengeance ! — Il faut que j ' aille à ma brasserie , reprit - elle , en rajustant le désordre de sa toilette : elle était bien mise et très parfumée .Ils sortirent , Durand lui donna le bras .",
+        "words": [
+          "parfumée",
+          "brasserie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/d8910668-92be-5db9-bf71-5188adc0502e",
+        "value": "La guerre civile fut déclarée .Tout chien un peu propre , tout chien parfumé , tout chien portant collier fut traqué , poursuivi , déchiré à belles dents .Tout chien soupçonné de regretter la tyrannie fut déclaré suspect et étranglé sans pitié .",
+        "words": [
+          "parfumé",
+          "chien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/f4baa6dd-3d4d-54b3-9fd4-b457924eb175",
+        "value": "La porte était en tr tr ' ouv , erte , j ' entrai .Devant un bon feu , une femme d ' un certain âge surveillait une rangée de marmites , d ' où s ' échappait une odeur de fricot qui aurait fait tourner la tête à un chien moins affamé que moi .A ma vue elle poussa un cri d ' effroi : — Oh ! Monsieur le curé .",
+        "words": [
+          "odeur",
+          "chien",
+          "fricot",
+          "fait tourner la tête",
+          "femme d ' un certain âge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/fdc735b9-198a-5962-8ae0-16b906d8de4f",
+        "value": "Que faisait - il ? Mystère ! On n ' avait pu faire causer ses domestiques , il avait , oublié d ' en amener .En le voyant passer avec son habit râpé et sa face amaigrie , ce farceur de père la Morgue avait dit : — En voilà un qui sent le sapin , je crois qu ' il lui faudra un pardessus pour l ' hiver .Enfin , au sixième , sous les toits , dans une soupente ouverte à tous les vents , recevant toutes les gouttières , logeait un homme chauve d ' une quarantaine d ' années .",
+        "words": [
+          "sent",
+          "sapin"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/5457e27e-c04a-5ee3-bfbd-ae96f62a984b",
+        "label": "Eugène  Fourrier"
+      }
+    ],
+    "label": "Le chien Mouton : la comédie animale / Eugène Fourrier",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9753817v",
+    "date": "1884",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/8725a7bb-4879-5152-9827-74c4adba2640",
+      "label": "1884",
+      "begin": "1884",
+      "end": "1884"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8378566/",
+      "label": "Palmyrene Empire"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/fa952855-3e87-5e44-99ca-ee9e94f8c22c",
+      "label": "allée"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/fear",
+      "label": "fear"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/2e60936e-408b-5daf-93a9-60ca9bb7bc37/fragment/0790bdb3-2a21-5add-af23-53a2543535cf",
+  "license": "Public domain",
+  "adjective": "méphitique"
+}

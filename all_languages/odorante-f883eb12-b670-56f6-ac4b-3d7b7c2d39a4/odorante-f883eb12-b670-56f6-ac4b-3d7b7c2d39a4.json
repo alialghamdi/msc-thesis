@@ -1,0 +1,2189 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f883eb12-b670-56f6-ac4b-3d7b7c2d39a4",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odorante",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/012c1847-3252-58b4-a77a-bab088f4f248",
+        "value": "Phys .Matières effluentes , émanations invisibles des corps .Effluve , s .",
+        "words": [
+          "émanations",
+          "invisibles",
+          "Matières effluentes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/0149857c-5687-5600-93eb-7c5c5ac75dd7",
+        "value": "f .Plante médicinale qui a une forte odeur de camphre .Camphrier , s .",
+        "words": [
+          "forte",
+          "odeur",
+          "camphre",
+          "médicinale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/0378bd46-6321-5e52-aaa4-9f80c1648ec3",
+        "value": "ch .de piquant , de corrosif : Un goût acre .\\ Fig .",
+        "words": [
+          "acre",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/0484aa84-feea-59d8-8afa-25ddad2d2494",
+        "value": "a .Pousser , envoyer hors de soi des vapeurs , dos odeurs , etc a rose exhale une douce odeur .I Manifester exprimer vivement , faire éclater un Icntimont , une passion : Fxhaler sa ™ ? i V .",
+        "words": [
+          "douce",
+          "odeur",
+          "rose",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/04fac85f-3b8a-5d42-9ec1-bc225b803f42",
+        "value": "| Prov .Cela fleure comme baume , cela sent fort bon .| Médicament composé , qui a une odeur balsamique , j Fig .",
+        "words": [
+          "baume",
+          "fort bon",
+          "fleure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/054a5e3a-720d-5b24-b2ec-9f89bb0692d5",
+        "value": "f .Air qu ' on souffle par c la bouche en une seule respiration lorsqu ' il est accompagné d ' odeur : Une halenèe de r vin , d ' ail .Halener .",
+        "words": [
+          "Air",
+          "odeur",
+          "vin",
+          "ail",
+          "halenèe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/05508930-7e0d-57ca-994b-0b858685075a",
+        "value": "Action de choisir .Graine acre et aromate \" fort usitée comme vermifuge .„ Semer , v .",
+        "words": [
+          "Graine",
+          "aromate",
+          "vermifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/08b8e5da-5286-59b2-96e8-3b8cfc0dda2b",
+        "value": "des 2 g .Qui a une odeur forte et très désagréable .Fétidité , s .",
+        "words": [
+          "forte",
+          "odeur",
+          "très désagréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/08e76461-4c60-57ec-beca-8406fc235179",
+        "value": "Remplir un cadavre de substances balsamiques , pour empêcher qu ' il no se corrompe .| Parfumer , remplir de bonne odeur : Ces fleurs embaument sa chambre .| Cette liqueur embaume la bouche , elle aune saveur exquise .",
+        "words": [
+          "bonne",
+          "odeur",
+          "fleurs",
+          "chambre",
+          "embaument"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/0cec1a09-2a0b-524c-b0c9-5402bb43725d",
+        "value": "Bot .Arbre des deux Indes , dont le fruit est d ' une saveur douce et d ' une odeur aromatique .Pape s .",
+        "words": [
+          "fruit",
+          "aromatique",
+          "douce",
+          "odeur",
+          "deux",
+          "saveur",
+          "Arbre des deux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/0cf8fc97-949a-5fc0-9b89-8fd8f1189fb9",
+        "value": "f .Plante de la famille ; des Crucifères , qui a une odeur d ' ail .Alliance , s .",
+        "words": [
+          "odeur",
+          "ail",
+          "Crucifères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/0df9f16d-94a9-5987-8cf2-1d535f6c62bb",
+        "value": "f .Il n ' est usité que dans cette expression , Eau de naffe , eau de senteur , doni la fleur d ' oranger est la base .Nage , s .",
+        "words": [
+          "Eau",
+          "senteur",
+          "fleur d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/10acb403-69b7-5dd9-a7bd-cf438eabbea4",
+        "value": "Un temps pourri , humide ot malsain , j Subst .Cela sent le pourri .Pourrissage .",
+        "words": [
+          "sent",
+          "pourri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/13a9916b-1946-50f5-b70e-041899d0f103",
+        "value": "n .Provenir , sortir , découler de : Les corpuscules qui émanent des corps produisent les odeurs .\\ ÉMANÉ , ÉE .",
+        "words": [
+          "corps",
+          "odeurs",
+          "corpuscules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/14db40be-3541-5edd-93b4-2580e9bf911f",
+        "value": "| Gaz ammoniac , alcali volatil à l ' état de gaz .| Gomme ammoniaque , gomme - résine d ' une odeur fétide .Ammoniacal , aie .",
+        "words": [
+          "résine",
+          "fétide",
+          "odeur",
+          "gomme",
+          "Gomme ammoniaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/16ac3c2a-d972-57ac-832e-667315947590",
+        "value": "pron .Les balles de coton s ' imprègnent de miasmes pestilentiels ,Fig .son esprit s ' est imprégné d ' une foule de préjugés .",
+        "words": [
+          "miasmes",
+          "pestilentiels",
+          "balles de coton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/188178c5-eaaa-5466-9699-fc819c090d57",
+        "value": "m .Toute substance qui appartient au règne végétal , et qui exhale une odeur forte et agréable .Aromatique , adj .",
+        "words": [
+          "agréable",
+          "forte",
+          "odeur",
+          "substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/1960afac-f097-5817-ae68-815d0575c136",
+        "value": "adj .Qui exhale une odeur : Les particules odorantes des corps .| Qui répand une bonne odeur : Les fleurs odorantes .",
+        "words": [
+          "odeur",
+          "corps",
+          "odorantes",
+          "particules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/1daeae82-3f8b-5677-8f2a-e899ecaf4e4c",
+        "value": "m .Espèce do résine odoriférante qui découle d ' un arbre des Indes , cl qui s ' emploie dans la pharmacie .Store , s .",
+        "words": [
+          "résine",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/1dbe933c-0c97-5672-b6ad-fbe02d56076d",
+        "value": "| Pop .Il sent le sapin , il a mauvais visage , il parait devoir mourir bientôt .| Pop .",
+        "words": [
+          "sent",
+          "sapin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/1fdb4c9d-b915-54a0-b024-3cd77c59446a",
+        "value": "peu d ' une chose pour la première fois .| Juger par l ' odorat : Goûtez de son tabac , et vous goûterez du mien .] V .",
+        "words": [
+          "tabac",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2046e8ef-d884-51a7-bd83-0224c61ec2da",
+        "value": "f .Action d ' humée * v ter ! action des médicaments humectants .Humecter , v .",
+        "words": [
+          "médicaments",
+          "humectants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2224e478-5e26-5302-a84f-734cbbdcd6d3",
+        "value": "Bot .Plante odorante de la famille des Légumineuses ; l ' espèce la plus remarquable est appelée Trèfle musqué ou Faux baume du Pérou .Lotion , s .",
+        "words": [
+          "odorante",
+          "Trèfle musqué",
+          "Faux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2267b545-ca72-51c6-ac7b-71bc4f51b042",
+        "value": "a .Parfumer avec du musc : Masquer une peau .Masquer des gants .",
+        "words": [
+          "Parfumer",
+          "musc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/24bd009b-086c-59df-8f01-0c488f4153a9",
+        "value": "ittféèiioh insupportable .| Corruption produite dans un corps par les substances ou miasmes délétères qui s ' y introduisent : Cet - hôpital est un foyer d ' infection .Nous Sommes inférieurs en nombre .",
+        "words": [
+          "corps",
+          "miasmes",
+          "délétères",
+          "substances",
+          "hôpital"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/26ed3540-aaec-5ca9-ab9c-0f5caffc93b7",
+        "value": "| Fig .Le parfum de la louange , le plaisir qu ' on a de s ' entendre louer .| Cbo .",
+        "words": [
+          "parfum",
+          "louange"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/27217c7f-54c3-5257-8bea-f85ab7e007d4",
+        "value": "Puant , gâté , cor .ifohipu , Util infecte : Un air infect .Des Va & M , iphctes > Va & M , iphctes > , .",
+        "words": [
+          "air",
+          "infect"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/27cc56a3-a3e4-59ed-83b4-91f141ef38f3",
+        "value": "Odeur aromatique , agréable : L ' n doux , parfum .Des parfums exquis .| Fig .",
+        "words": [
+          "parfums",
+          "exquis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/292482c9-34f5-52bb-8d21-25b302ea4d0b",
+        "value": "| Adv .Sentir bon , avoir une odeur agréable .| Tenir bon , résister avec beaucoup de fermeté .",
+        "words": [
+          "agréable",
+          "bon",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2bdde606-16a1-553f-a5a8-98fd4bdb839c",
+        "value": "( hoin ) .Gros fruit jaune en forme de poire , qui a une odeur forte : Gros coing .Confiture , gelée de coing .",
+        "words": [
+          "forte",
+          "odeur",
+          "fruit jaune",
+          "Gros coing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2be99c9a-7260-51cd-9f96-db95046e02c1",
+        "value": "IVi .)Parfum , composition qui rend une odeur agréable : Des eaux , de la poudre de senteur .Aimer les senteurs .",
+        "words": [
+          "agréable",
+          "odeur",
+          "eaux",
+          "Parfum",
+          "poudre de senteur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2df140a9-de99-5c5a-8a00-e0ad8df88aae",
+        "value": "Chim .Substance gazeuse , d ' une odeur suffocante : Le chlore sert à blanchir les toiles .Chlorhydrate , s .",
+        "words": [
+          "odeur",
+          "suffocante",
+          "blanchir les"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2e1937b1-1f21-5f4a-a817-51acdaabe7e9",
+        "value": "i .Toute drogue aromatique , chaude et piquante , dont on se sert pour assaisonner des viandes .| Anc .",
+        "words": [
+          "aromatique",
+          "viandes",
+          "drogue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2f098a73-e73d-5799-98b5-0aa38ee66a69",
+        "value": "a .infecter , répandre une mauvaise odeur , la communiquer .| V .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2f3058ab-2441-5174-824a-f77878a06b60",
+        "value": "adj .Qui tient de 1 la pesto : Respirer un air pestilenl .i Pestilentiel , elle .",
+        "words": [
+          "air",
+          "pestilenl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2fb7e3e3-0b20-5e7c-9d70-66900cd15826",
+        "value": "adj .Qui asphyxie : Une odeur asphyxiante .Asphyxie , s .",
+        "words": [
+          "odeur",
+          "asphyxiante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/2fbd1b2e-a2a6-51c8-b34c-7b2325335e01",
+        "value": "m .Bois des \\ i Indes qui a une très forte odeur : Le San - il dal jaune et le sandal blanc .| Santal rouge , pc arbre qui fournit une teinture rougeâlre .",
+        "words": [
+          "très forte",
+          "odeur",
+          "San",
+          "Bois des \\ i Indes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3145afe3-a5ef-5066-9a03-60cd64c77670",
+        "value": "a .Purger d ' un mauvais air , des vapeurs infectes .I Désinfecter l ' air , purifier un air vicié .",
+        "words": [
+          "infectes",
+          "vapeurs",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/321763c0-d093-5c94-b395-40a79e442a16",
+        "value": "Qui est d ' une couleur faible : Vin clairet , j Subst .Infusion de plantes odorantes dans du vin : Boire du clairet .Claire - voie .",
+        "words": [
+          "vin",
+          "plantes",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/33d84e90-6727-5dca-80a3-3a27e7ffa4cf",
+        "value": "des 2 g .Qui communique la peste : Un air , une odeur pestiféré .Pestiféré , ée adj .",
+        "words": [
+          "odeur",
+          "air",
+          "pestiféré"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/33f4f86b-5995-5ef8-b315-d04f8be93a6a",
+        "value": "Ce qui s ' exhale de qq .corps : Exhalaison agréable .Exhalant , adj .",
+        "words": [
+          "agréable",
+          "corps",
+          "Exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3523b1af-8325-52c8-b291-c11898d87323",
+        "value": "| Subst .Sentir l ' enfermé , sentir une mauvaise odeur par longue privation d ' air .[ Dans ce sens on dit mieux , Renfermé .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3546eecf-3799-5ab1-8e65-1b91c5f0214c",
+        "value": "s , m .Arbrisseau qui fleurit un des premiers et qui porte de petites fleurs par bouquets très odorants .| Adj .",
+        "words": [
+          "odorants",
+          "Arbrisseau",
+          "très odorants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/35fe5248-5b30-5fa8-93af-b797259db127",
+        "value": "a .Mêler une substance aromatique à un remède , à un aliment : Aromatiser un sirop , une sauce .Arôme , s .",
+        "words": [
+          "substance",
+          "sauce",
+          "sirop",
+          "aliment",
+          "remède",
+          "substance aromatique",
+          "Aromatiser"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/36b668ab-4638-568d-a1e5-ddc0ec53c053",
+        "value": "Espèce : Un bois d ' essence de chêne .| Huile aromatique qu ' on obtient de certains végétaux par la distillation .Essénien .",
+        "words": [
+          "aromatique",
+          "certains végétaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/37bec6fc-e2bd-5463-ad04-b2478a836f18",
+        "value": "Qui manque de coeur , qui a l ' âme faible , lâche : Unhommepusiltanime .Action par laquelle , un corps se pourrit ,Élat do co qui est putréfié : La putréfaction d ' un cadavre .Putréfait , aitc .",
+        "words": [
+          "corps",
+          "cadavre",
+          "putréfié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/37cc200b-0d70-51a6-8183-a99599a271f4",
+        "value": "f .Chacune des deux ouvertures du nez , par lesquelles l ' homme et certains animaux respirent et flairent .Narquois , oise .",
+        "words": [
+          "respirent",
+          "flairent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/38e1a548-96eb-5d51-bdc8-5ec484ae0a9f",
+        "value": "homme pue le vin .\\ Cela pue le musc , a une forte odeur de musc .Puéril , ile .",
+        "words": [
+          "forte",
+          "odeur",
+          "musc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3b009360-833f-5475-a915-8f751f5eb8ad",
+        "value": "Infecter de la peste , d ' un maheontagieux .| Empuantir , infecter de mauvaise odeur .Empêtrer , v .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "Empuantir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3b3ba509-4654-5954-9aa6-8c896d2343a0",
+        "value": "Bot .Espèce d ' armoise , - arbuste dont les feuilles ont une odeur citronnée .Aurore , s .",
+        "words": [
+          "odeur",
+          "feuilles",
+          "arbuste",
+          "armoise",
+          "citronnée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3b46045e-4223-51e5-b357-888ab82852a8",
+        "value": "f .Arbrisseau épineux du genre Néflier , qui produit de petites fleurs blanches d ' une odeur agréable .Aubère , adj .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Arbrisseau",
+          "fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3b74b68b-c20c-5f80-854c-85c1bfad4810",
+        "value": "| Qui fait r Une vive impression sur le goût ou sur \\ ' odorat : Une liqueur forle .Une odeur forle .eQui est désagréable au goût , à l ' odorat : Un beurre fort .",
+        "words": [
+          "odeur",
+          "forle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3e15bde6-2054-56e4-b5d2-8c354d6c8565",
+        "value": "m .Odeur d ' une chose que le feu a roussie : Ce plat sent le roussi .Bout .",
+        "words": [
+          "Odeur",
+          "chose",
+          "sent",
+          "roussi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/3e3172bb-bc94-5ef3-b5d2-157bd49db662",
+        "value": "m .Espèce de résine odoriférante appelée aussi Storax .V .",
+        "words": [
+          "résine",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/40429851-1e16-5561-8415-55268e34ff53",
+        "value": "| Saveur : Viande de bon goût .] Odeur : Un goût de renfermé .| Appétence des aliments .",
+        "words": [
+          "Odeur",
+          "renfermé",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/40d51ace-3042-5110-bc5d-a82a1097bfc4",
+        "value": "m .Une des deux ouvertures du nez par lesquelles l ' animal , cl surtout le cheval , respire et flaire : Ce cheval a les naseaux fort ouverts .Nasi .",
+        "words": [
+          "respire",
+          "flaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/42063aa8-8ed0-5187-ac9e-5c445dc30801",
+        "value": "Rot .Plante aromatique de la famille des Labiées .| Eau de mélisse , ou des Carmes , eau spiritueuse .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/423570aa-0d14-57ff-842e-53467fe88126",
+        "value": "a .Répandre une bonne odeur dans qq .lieu , sur qq .",
+        "words": [
+          "bonne",
+          "odeur",
+          "qq"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/4994f651-48b1-5700-9182-cd2d4101c8d7",
+        "value": "Qui sent mauvais , qui a uno mauvaise odeur , j Fam .Mensonge puant , mensonge grossier et impudent .| Pop .",
+        "words": [
+          "puant",
+          "Mensonge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/4aeb3b3d-953c-5ecb-970a-2ce56733623c",
+        "value": "m .Principe odorant des substances végétales : L ' arôme des fleurs .Arondc .",
+        "words": [
+          "odorant",
+          "fleurs",
+          "arôme",
+          "substances végétales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/4b4c0359-281b-5f82-b2c6-612a9579bfee",
+        "value": "adj .il se dit d ' un vase qui a pris l ' odeur du vin .Environ , adv .",
+        "words": [
+          "odeur",
+          "vin",
+          "vase"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/4dea4b8d-9fb0-562f-8672-202060a6cd2e",
+        "value": "m .Résine aromatique dont on fait usage dans les cérémonies du culte catholique .| Fig .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/4f6814c2-6b4a-5840-8eff-3c2d5bd60802",
+        "value": "Creux do l ' aisselle .| Mauvaise odeur qui vient du gousset : Sentir le gousset .| Petite pièce de toile qu ' on met à la manche d ' une chemise à l ' endroit de l ' aisselle .",
+        "words": [
+          "odeur",
+          "Mauvaise",
+          "gousset"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5096342e-9987-5d7e-a9a0-710bb4105465",
+        "value": "et subst .Il se dit de raisins parfumés , et des vins qu ' on en tire .Muscle , s .",
+        "words": [
+          "parfumés",
+          "raisins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5100c041-7b8d-5358-bf5d-650752ecfa91",
+        "value": "| Subst .Cela sent le renfermé , se dit des choses qui ont une mauvaise odeur , pour avoir été trop longtemps renfermées .■ ■ enflammer , v .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "choses",
+          "longtemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/515ce9a4-0704-5fbc-9ff6-ae23db584291",
+        "value": "| Assa dulcis , résine du benjoin .| Assa fastida , résine d ' une odeur désagréable , employée en médecine comme antispasmodique .Assagir , v .",
+        "words": [
+          "résine",
+          "désagréable",
+          "odeur",
+          "Assa fastida"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/527a2cdf-6ee4-55bf-9014-e80ee4acf48d",
+        "value": "f .Fluide visqueux que les membranes muqueuses sécrètent : La mucosité des narines , des intestins .Mue .",
+        "words": [
+          "membranes",
+          "Fluide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/52d8dc39-01ec-58d2-81cb-e325cc430de3",
+        "value": "Bot .Plante aromatique de la famille des Labiées .Lavandière , s .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5304329a-23de-5ba4-9368-fb1b1a6b3b84",
+        "value": "a .Presser les narines pour en faire sortir les mucosités .| Moitcher du sang , rendre du sang par le nez en se mouchant .",
+        "words": "narines"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/530a7cd6-1bf9-5644-9987-369d0b760dfd",
+        "value": "et n .Exhaler , répandre une certaine odeur : Cela sent le brillé , le renfermé .| Absol .",
+        "words": [
+          "odeur",
+          "Exhaler"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/53999be8-5cad-536b-a2b0-4b3681a4f972",
+        "value": "Chim .Oxygène qui se manifeste par une odeur très forlc .P — PAILLASSON GSI P I » .",
+        "words": [
+          "odeur",
+          "très forlc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/53e27a04-3ddd-56ee-a449-2ed974b14701",
+        "value": "des 2 g .Qui a contracté de l ' àcreté , une odeur forte et un goût désagréable : Ce boeuf , ce lard est rance .| Subst .",
+        "words": [
+          "désagréable",
+          "forte",
+          "odeur",
+          "rance",
+          "boeuf",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/555cde8f-d4e0-5638-8b0b-4938d6cb9cd2",
+        "value": "m .Humeur épaisse qui suinte du corps des bêtes a laine .| Action d ' interdire un fonctionnaire public de ses fondions pour un temps .",
+        "words": [
+          "épaisse",
+          "Humeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/55879998-45e9-5a54-a5a3-df49a31efc47",
+        "value": "Jonc fleuri .Jonc odorant .| Absol .",
+        "words": [
+          "odorant",
+          "Jonc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/55885416-ec57-5a65-a3fe-d6ee4f6533f2",
+        "value": "m .Sens qui perçoit les odeurs : Un odorat fin , subtil .Odoriférant , ante .",
+        "words": [
+          "Sens",
+          "subtil",
+          "odeurs",
+          "odorat",
+          "fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5626dab7-0b40-58a0-838d-ba6edb6cb276",
+        "value": "Personnage de la Fable .Espèce de lavando très odoriféranlc .| Genre de graminées .",
+        "words": [
+          "très",
+          "odoriféranlc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/574f9cac-014f-50e9-be2d-49ae637a4969",
+        "value": "m .Espèce de mélèze odoriférant dont le bois passe pour incorruptible : Les cèdres du Liban .Cédrle .",
+        "words": [
+          "bois",
+          "odoriférant",
+          "cèdres",
+          "mélèze"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/575f8c1d-60ed-570a-8f6e-436acaa6f62d",
+        "value": "f .Qualité de ce qui est fétide , puant .Fetoyer .",
+        "words": [
+          "fétide",
+          "puant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/57967d2e-6335-534d-a50d-febc3d78845a",
+        "value": "Une forle émotion .| Qui fait r Une vive impression sur le goût ou sur \\ ' odorat : Une liqueur forle .Une odeur forle .",
+        "words": [
+          "liqueur",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5a014834-6995-589f-8702-cfb5324e1845",
+        "value": "m .Arbrisseau grimpant qui porte des fleurs odoriférantes : Chèvrefeuille des bois .Un berceau de chèvrefeuille .",
+        "words": [
+          "fleurs",
+          "odoriférantes",
+          "Arbrisseau",
+          "Chèvrefeuille des bois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5a83866e-bc35-556d-8eef-4e8d665c50e2",
+        "value": "Bot .Genre de plantes dont une espèce , le Ciste de Crète , donne une sorte de gomme odorante .Ciste , s .",
+        "words": [
+          "odorante",
+          "plantes",
+          "gomme",
+          "Crète"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5b25ea54-4c6e-590c-bcab-df95a9d63a52",
+        "value": "f .Petit , pain composé de Mibsiane , - s odorantes , qu ' on bn ' ilo pour parfumer l ' air d ' une chambre : Des pastilles de heuji , in .| pet ils pains ronds faits avec du sucre , des aromates , des jus de fruits , etc .",
+        "words": [
+          "parfumer",
+          "air",
+          "odorantes",
+          "chambre",
+          "Mibsiane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5c80bd0f-8f2d-518d-bf7a-3ef9903a7448",
+        "value": "Production des végétaux , ordin .colorée , et qerfs odorante , qui précède le fruit .| Plante à fleurs que l ' on cultive pour l ' agrément .",
+        "words": "odorante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5d8db5cc-9e0c-50ce-9e60-3507d42f0000",
+        "value": "Bot .Plante aromatique du genre des Menthes .Poulpe , s .",
+        "words": [
+          "aromatique",
+          "Menthes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5dd99d5b-4f55-572c-9834-4a96592902d2",
+        "value": "A ' ulg .La grande lavande , • qui fournit une huile odorante et volatile , appelée par corruption , / / ni7c d ' aspic .Spicn .",
+        "words": [
+          "huile",
+          "odorante",
+          "volatile",
+          "grande lavande"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/5fbf783d-4760-5c54-b132-4c47e25ec8f4",
+        "value": "f .Sensation que produisent sur l ' odorat les émanations des corps : Une bonne , une mauvaise odeur .| Au plur .",
+        "words": [
+          "mauvaise",
+          "bonne",
+          "odeur",
+          "corps",
+          "émanations",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/60d92300-42a9-5728-92e6-87eec39b1ebc",
+        "value": "Action d ' émaner .| Chose qui émane : Des émanations fétides .| Fig .",
+        "words": [
+          "émanations",
+          "fétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/61b42c07-9f61-57bc-a2cc-693617653120",
+        "value": "m .Piège qu ' on tend aux bêtes puantes .| Fam .",
+        "words": [
+          "puantes",
+          "bêtes puantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/61b59b36-8c13-5dad-8158-da0985018e7e",
+        "value": "| Méd .Pus louable , de couleur uniforme , sans mauvaise odeur .Pusillanime , adj .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/633db3fe-afcc-5d71-b083-8a6bf0920456",
+        "value": "f .Nom donné à des plantes qui ont une odeur de citron .Citronnier , s .",
+        "words": [
+          "odeur",
+          "plantes",
+          "citron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/66b834d1-b0c7-556a-9e9e-9ccb7336c1a9",
+        "value": "| Absol .Sentir mauvais : Relirezrous , il sent .| Il se dit du goût , do la saveur d ' un aliment ou d ' une boisson : C .",
+        "words": [
+          "Sentir",
+          "mauvais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/686fdfcd-f5db-538f-b84e-3fd554d61f66",
+        "value": "| Par anal .Semences de certaines autres plantes : Fève de Tonka , fève odorante qu ' on met dans le tabac pour le parfumer .Féverolc .",
+        "words": [
+          "odorante",
+          "parfumer",
+          "tabac",
+          "fève",
+          "Fève de Tonka",
+          "certaines autres plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/6878a907-18df-5068-b249-b49784443a44",
+        "value": "Bot .Plante médicinale odoriférante dont la fleur , qui porte le même nom , s ' emploie en médecine .| Huile de camomille .",
+        "words": [
+          "fleur",
+          "odoriférante",
+          "médicinale",
+          "médicinale odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/68c9fa65-de02-5d11-8155-7579f265e7ae",
+        "value": "f .Vapeur qui s ' exhale de certains vins et de certaines viandes , et qui frappe agréablement l ' odorat et le goût : Un fumet délicieux .Fumeterre .",
+        "words": [
+          "Vapeur",
+          "viandes",
+          "vins",
+          "odorat",
+          "fumet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/6960510c-b463-52b7-aa5a-7b498b514d75",
+        "value": "sent le bâton , celui qui l ' a commise court risque d ' être battu .| Cet homme sent le sapin , il a la mine de mourir bientôt .I Avoir les qualités , les manières , l ' air , l ' apparence de : / / sent l ' homme de qualité ' .",
+        "words": [
+          "sent",
+          "sapin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/6bd4028a-ddc3-50e3-98da-453fb651d3cd",
+        "value": "pron .Devenir puant , infect .Empuantissement , s .",
+        "words": [
+          "puant",
+          "infect"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/6e8879ec-97f2-5e4a-ad79-e9f50f0ca9eb",
+        "value": "Bot .Arbrisseau de la famille des Myrtes , qui porte des fleurs blanches d ' une odeur très forte .Seringue , s .",
+        "words": [
+          "très forte",
+          "odeur",
+          "Arbrisseau",
+          "fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/6f318d60-d996-5574-82cc-404d2e34e766",
+        "value": "\\ Airmarécageux , qui s ' élève des marécages .| Goût marécageux , goût du gibier ou des poissons qui sentent le marécage .Maréchal , s .",
+        "words": [
+          "marécageux",
+          "Goût",
+          "poissons",
+          "gibier",
+          "goût",
+          "sentent",
+          "marécage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/71e253c5-db51-5729-b23d-d9400af83530",
+        "value": "| Un homme essentiel , un homme sur qui l ' on peut compter .| Il se dit des sels qu ' on extrait des végétaux , des huiles aromatiques qu ' on obtient des plantes par la distillation : Sel essentiel .Huilé essentielle .",
+        "words": [
+          "huiles",
+          "plantes",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/72a9affc-5c77-5992-891d-c4859214fa93",
+        "value": "m .Celui qui embaume des cadavres : Un habile embaumeur .Embcguiner .",
+        "words": [
+          "embaume",
+          "cadavres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7549b938-2e7c-54d4-b52f-fb33a66a58b1",
+        "value": "m .Bois très odorant des Indes .Calament .",
+        "words": [
+          "Bois",
+          "odorant",
+          "très odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/75d435f6-33c0-5c0c-90b8-7279d6133132",
+        "value": ": Il est sur le point de partir .| Douleur piquante qui se fait sentir en divers endroits du corps : Un point de côté .\\ DE POINT EN POINT , loc .",
+        "words": [
+          "piquante",
+          "Douleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/75f5a236-df0a-5cef-be17-83e2ddacd901",
+        "value": "f .Humeur qui découle des fosses nasales : At ' ot ' r la roupie au nez .Roupie , s .",
+        "words": [
+          "nez",
+          "Humeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/760f64c1-800b-5be9-92bf-646a0b404d68",
+        "value": "m .Odeur aromatique , agréable : L ' n doux , parfum .Des parfums exquis .",
+        "words": [
+          "aromatique",
+          "agréable",
+          "parfum",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7683c890-64c9-5ccd-bdd1-5ce6050f1364",
+        "value": "Qui a une qualité analogue à celle du baume .| Embaumé , parfumé : Un air balsamique .Balsamite .",
+        "words": [
+          "parfumé",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/79123853-b3c2-5add-9ff5-812434c0b11b",
+        "value": "| Prov .Cela fleure comme baume , sent fort bon ; et fig ., paraît avantageux , lucratif .",
+        "words": [
+          "baume",
+          "fort bon",
+          "sent",
+          "fleure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7a7eceea-68c1-5ce7-bbbb-6cfc44fb9db5",
+        "value": "m .Citron , limon fort gros ot fort odorant , dont on fait la confiture sèche qu ' on appelle Écorce de citron .Poncis .",
+        "words": [
+          "fort",
+          "Citron",
+          "odorant",
+          "limon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7b53cc28-b654-5750-94ce-144a9e24c924",
+        "value": "f .Animal qui ressemble à une grosse fouine , et dont on tire une liqueur épaisse et odoriférante : La civette est fort sauvage .Civette , s .",
+        "words": [
+          "civette",
+          "liqueur",
+          "odoriférante",
+          "épaisse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7bce274a-d98c-558d-8d21-c711cb76396c",
+        "value": "Méd .Qui a une odeur et un goût do pourri , de brûlé , d ' oeufs couvis : Des crudités nidareuses .Nièce , s .",
+        "words": [
+          "odeur",
+          "goût",
+          "pourri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7c25d0a1-f294-5a89-961c-5b10b42f29ab",
+        "value": "Bot .Plante à lige haute , et dont la fleur , qui porto le même nom , est blanche et très odoriférante .Tuhcrciix , euse .",
+        "words": [
+          "fleur",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7e755531-184b-5315-b29f-f57591fe29ca",
+        "value": "m .Plante ombcllifèrc et odoriférante .| Sa graine , dont on fait de l ' anisotte .",
+        "words": [
+          "odoriférante",
+          "ombcllifèrc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/7ef26a96-9c24-54fc-b6e4-41f846be2dcc",
+        "value": "Bot .Plante de la famille des Solanôes , d ' une odeur ot d ' une saveur désagréables .Mandrill , s .",
+        "words": [
+          "odeur",
+          "désagréables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/810e454b-bd20-5d1b-a9f0-47b648c32520",
+        "value": "Bêle noire , un objet d ' aversion .| Bêtes puantes , les renards , les blaireaux , etc .| Absol .",
+        "words": [
+          "puantes",
+          "renards",
+          "Bêtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/811c7464-46d5-5e14-a7ab-05c3465d84d1",
+        "value": "adj .Qui répand une bonne odeur : Le musc est odoriférant .Odyssées .",
+        "words": [
+          "bonne",
+          "odeur",
+          "musc",
+          "odoriférant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/82c30d7d-9731-5901-bcee-9b4b3cca04d7",
+        "value": "À peu près ; un peu plus , un peu moins .Environnant , ante .p .",
+        "words": [
+          "ante",
+          "Environnant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/833d875e-edb7-5af4-8a02-eac678be0be6",
+        "value": "f .Exhalaison pernicieuse qui s ' élève dans les lieux souterrains , et principalcnicntdanslcsmines .| Ane .",
+        "words": [
+          "pernicieuse",
+          "Exhalaison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/83fe92fc-f82b-5dc2-832a-85b31095f50e",
+        "value": "| Afourir en odeur de sainteté , mourir saintement .C62 ODIEUSEMENT —N ' être pas en odeur de sainteté auprès de qqn , être mal dans son esprit .Odieusement , adv .",
+        "words": [
+          "odeur",
+          "sainteté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/85882acb-5fab-5b75-82c1-8efc3e813098",
+        "value": "Bot .Arbuste aromatique de la famille des Labiées : Un bouquet , de romarin .Du miel de romarin .",
+        "words": [
+          "aromatique",
+          "romarin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/8692912a-90d5-51ed-9e80-48c2bb9f2744",
+        "value": "Bot .Arbrisseau , qui porte de petites fleurs d ' une odeur agréable .Myrlifornie .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Arbrisseau",
+          "petites fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/86b1dbb4-7c44-585f-99f0-cd3de184aa65",
+        "value": "Bot .Plante dont la racine esl jaune et d ' une odeur de safran .| On la nomme aussi Safran d ' Inde ou des Indes .",
+        "words": [
+          "odeur",
+          "safran",
+          "racine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/87eb0e76-1015-5002-a517-0e78614b000a",
+        "value": "Plante , type de la famille des Iridées .| Poudre d ' iris , poudre de senteur faite de la racine d ' iris .Irisation , s , f .",
+        "words": [
+          "Poudre",
+          "poudre",
+          "senteur",
+          "iris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/88457a70-ab06-573c-b9e5-23470744e1ea",
+        "value": "Bol .Plante herbacée , fort aromatique , et qui passait jadis pour un puissant vulnéraire .Dictamen .",
+        "words": [
+          "aromatique",
+          "vulnéraire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/8a4904b2-f5d3-556e-b92a-8f5b138d1743",
+        "value": "m .Sorte de baume , substance aromatique et résineuse qui découle d ' un arbre des Indes orientales .Benoîte , s .",
+        "words": [
+          "aromatique",
+          "baume",
+          "substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/8ad9f1ae-2b72-56ac-a7af-2b64fe0ac604",
+        "value": "f .Composition molle et onctueuse , faite avec do la graisse et plusieurs substances parfumées .Pommade , s .",
+        "words": [
+          "parfumées",
+          "plusieurs substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/8c0b893d-ad6f-5b75-898b-e8a3fec44ce5",
+        "value": "Bot .Plante ligneuse , d ' une odeur très forte , et d ' un goût acre ci amer .Rue .",
+        "words": [
+          "très forte",
+          "acre",
+          "odeur",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/8db382c2-c022-5cf2-a725-0462aaeb4fb7",
+        "value": "infecté de ( r peste , contagieux : Un air pestilentiel .- Vapeurs , maladies pestilentielles .Pétale , s .",
+        "words": [
+          "pestilentielles",
+          "Vapeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/8f68e407-8b92-5d3b-8571-02806d60ca85",
+        "value": "Unprixfixe .Flagrant , ante .adj .",
+        "words": "Flagrant , ante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/91167a69-6f5e-54e8-abc3-89a307a2208f",
+        "value": "Petit sac .| Sorte de petit coussin où l ' on met des parfums .Sacoche , s .",
+        "words": [
+          "parfums",
+          "coussin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/91ae8b4c-aae6-5df9-822d-f951ee7146e6",
+        "value": "Parfumer quelqu ' un au sortir du bain .| Parfumée une maison , y faire des fumigations .| V pron .",
+        "words": [
+          "maison",
+          "Parfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/936152df-baa0-5926-b8f3-0147fababb58",
+        "value": "Bot .Plante aromatique de ja famille des Labiées .Hystérie .",
+        "words": [
+          "aromatique",
+          "Labiées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/93685c16-b3b0-5feb-94c4-1adb8bc0687a",
+        "value": "Espèce de rideau qu ' on met à une fenêtre ou à une portière de carrosse , pour garantir du soleil .Qui a la vertu do resserrer : C ' ne plante astringente est styptique .Styrax , s .",
+        "words": [
+          "astringente",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9671ff66-7dfe-5a7d-bebe-7fe9cdbd25d3",
+        "value": "Chim .Action de répandre dans un lieu la fumée d ' une substance odorante , la vapeur d ' un liquide ou un gaz .| Méd .",
+        "words": [
+          "odorante",
+          "fumée",
+          "lieu",
+          "substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/96ef5b0e-0f44-5444-828e-dc865378030f",
+        "value": "Causer une douleur âpre et aiguë , comme celle que fait éprouver une brûlure .Cuisant , ante .adj .",
+        "words": ", ante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9706b387-5f55-5aef-90b7-949125a9b5c9",
+        "value": "Yulg .Espèce de nielle , légèrement àerc et odorante .| Au pi .",
+        "words": [
+          "odorante",
+          "nielle",
+          "àerc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9741cdce-5d56-5042-81c9-7f1252a4ffea",
+        "value": "| Départir , distribuer à plusieurs personnes : Répondre des bienfaits , des grâces .| Étendre au loin , disperser en plusieurs endroits : Ces fleurs répandent au loin une odeur agréable .| Fig .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/98c48c8c-af81-5312-b608-15348dac8381",
+        "value": "m .Odeur qu ' exhale ce qui a élé longtemps enfermé , ou exposé à un mauvais air .Rémunérateur , s .",
+        "words": [
+          "exhale",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/98dedd2c-f31f-5570-a909-e9850814870e",
+        "value": "Chim .Substance liquide aromatique , qui produit l ' anésthésie .- Chloroformer , v .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/99322778-9cc0-5e2c-945e-34e9c3c17326",
+        "value": "adj .Goût sauvagin , d goût , odeur qu ' ont qqs oiseaux do mer , d ' étang , do marais .v Sauvagine , s .",
+        "words": [
+          "odeur",
+          "Goût",
+          "ont",
+          "qqs oiseaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9aa5a6dc-a9bc-54ff-97ce-0e72873f0de9",
+        "value": "| V pron .Remplir ses babils , son linge de bonnes odeurs ; embaumer sa peau avec des eaux ou des pommades odorantes : L ' habitude de se parfumer est moins répandue qu ' autrefois .| PARFUMÉ , ÉE .",
+        "words": [
+          "bonnes",
+          "parfumer",
+          "peau",
+          "odeurs",
+          "odorantes",
+          "pommades",
+          "eaux",
+          "linge",
+          "babils",
+          "Remplir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9afcc608-1c90-5c30-9287-3a9d3584a399",
+        "value": "Engloutir : La terre absorbe tout .| Se dit des couleurs , des sons , des odeurs , des saveurs , j Fig .Consumer entièrement : Les procès ont absorbe tout son bien .",
+        "words": [
+          "odeurs",
+          "saveurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9b3e6aa6-e4a0-5345-b462-25e5c15c6195",
+        "value": "[ Racine de l ' asarct , etc .| Parfum que les anciens tiraient de certaines racines odoriférantes .Nargue s .",
+        "words": [
+          "racines",
+          "odoriférantes",
+          "Parfum",
+          "les anciens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9c94ecf9-d734-55a1-bfc2-57fc3f418d55",
+        "value": "Cela fleure comme baume , cela sent fort bon .| Médicament composé , qui a une odeur balsamique , j Fig .Ce qui calme , adoucit les peines .",
+        "words": [
+          "odeur",
+          "balsamique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/9deb145d-133c-5b0d-8fed-6c1399f9582d",
+        "value": "Plinais , aise , adj .Qui rend par le ne - / une odeur infecte .| Qui est privé du sentiment de l ' odorat .",
+        "words": [
+          "infecte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/a3a7cb50-8beb-5352-ac91-5f88084d562d",
+        "value": "m .Métal qui a la propriété do se volatiliser au feu , et dont la uméc exhale l ' odeur de l ' ail .Arsenical , aie .",
+        "words": [
+          "odeur",
+          "ail",
+          "Métal",
+          "uméc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/a4047cff-13f9-5c25-b625-d2e61afc9181",
+        "value": "Le fin d ' une affaire , le point décisif et principal .| En pari , des sens , Disposé à recevoir jusqu ' aux moindres impressions : Avoir l ' odorat fin , l ' ouïe fine .| Fam .",
+        "words": [
+          "odorat",
+          "fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/a469606d-5dbd-55e6-83a7-b26eb2f5cd6e",
+        "value": "m .Liqueur composée d ' eau - dc - vic , de sucre et de qqs parfums : Rossolis de Turin .Rostrale .",
+        "words": [
+          "Turin",
+          "parfums",
+          "Rossolis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/a8030a6c-6edb-5cd9-b8b1-5b8857844a8a",
+        "value": "à Marine militaire , marine de l ' État .| Goùf , odeur de la mer : Cela sent la marine , a un goût de marine .| Tableau représentant un port de mer ou qq .",
+        "words": [
+          "odeur",
+          "marine",
+          "mer",
+          "sent",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/a9280750-6cf1-587a-83c2-1a36d2970302",
+        "value": "Odeur qu ' une bête laisse dans Vs lieux où elle a passé .| Odeur qui vienl des émanations d ' un corps : Le vent , d ' une , ' \" ' morte .| Fam .",
+        "words": [
+          "émanations",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/a96888c0-57c8-5243-8348-6c9f2ca962f5",
+        "value": "adj .Qui sent mauvais , qui a uno mauvaise odeur , j Fam .Mensonge puant , mensonge grossier et impudent .",
+        "words": [
+          "mauvaise",
+          "mauvais",
+          "odeur",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/aaa360e5-dfa8-5397-9dbe-ee2db046c3cc",
+        "value": "Bol .Plante gramiuée , dont les racines , très odorantes , servent , à préserver le linge et les vêtements de l ' atteinte des insectes .Veto , ( ri ' - fu ) .",
+        "words": [
+          "racines",
+          "odorantes",
+          "linge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/aeb0ea72-c3ac-520f-afa5-4fa96be53393",
+        "value": "| Faculté de sentir , de discerner les qualités des ouvrages d ' esprit , dos productions de l ' art .Avoir le goût sûr .Manquer de goût .",
+        "words": [
+          "goût",
+          "sûr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/aec0ac2f-49d6-5472-b95d-1d5e290dc809",
+        "value": "Partie de la racine de qqs plantes qui est d ' une , forme ren liée : Un oignon de lis , de jacinl lie .\\ l > \\ n , nlepotagère qui a une racine bulbeuse de figure ronde , de saveur et d ' odeur fortes : l ' ue botte d ' oignons .| Ccrtainccallositédoulourcuse qui vient aux pieds : Avoir des oignons .",
+        "words": [
+          "odeur",
+          "fortes",
+          "racine bulbeuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b22e8498-d269-5cdb-8201-ce65b90ac6e2",
+        "value": "m .Substance blanche et demi - transparente , d ' une odeur volatile très forte , qu ' on extrait de certains végétaux .Camphré , ée .",
+        "words": [
+          "odeur",
+          "végétaux",
+          "volatile très forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b3a80b91-0408-5365-b645-55adbc352ed9",
+        "value": "Qui exhale une odeur : Les particules odorantes des corps .| Qui répand une bonne odeur : Les fleurs odorantes .Il y a des bois odorants .",
+        "words": [
+          "bonne",
+          "odeur",
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b3ae5fc8-9b93-565d-b9bb-2a2fd1fd19df",
+        "value": "m .Oignon d ' une odeur et d ' un goût très forts , composé de petites gousses réunies sous une enveloppe commune .| Au plur .",
+        "words": [
+          "Oignon",
+          "odeur",
+          "gousses",
+          "très forts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b4ba8418-2e8a-59f5-9cb7-3878fc8ea0e3",
+        "value": "Ajouter de l ' alcool à des vins pour les conserver .Vineux , euse .adj .",
+        "words": [
+          ",",
+          "Vineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b4d42e7a-c0af-5f3f-8aba-5fccd6071852",
+        "value": "f .Écorce odoriférante du cannelier : Un bâton de cannelle .La cannelle est un bon assaisonnement .",
+        "words": [
+          "cannelle",
+          "odoriférante",
+          "cannelier",
+          "Écorce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b61b3b9a-1722-5c7a-9546-3810d9ea683f",
+        "value": "pass .Des gants parfumés .PARFUMERIE — PARLERIE parfumeries , f .",
+        "words": [
+          "parfumés",
+          "gants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b6302fa6-c2b3-5a3d-b672-a20f4d91eccc",
+        "value": "Émanations contagieuses , morbitiques .| Exhalaisons que répandent les matières animales ou végétales en décomposition , les marais , etc .Miaulement , s .",
+        "words": [
+          "répandent",
+          "marais",
+          "Exhalaisons",
+          "matières animales ou végétales en"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b7904683-2b69-5a24-a254-c94c53183e4b",
+        "value": "Bot .Plante aromatique , employée en médecine comme tonique .Saugrenu , ue .",
+        "words": [
+          "Plante",
+          "aromatique",
+          "tonique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b8ac6b67-aa60-54fb-9127-764d3a6696d3",
+        "value": "Ce qui est moisi : Cela est gâté : ôlez te moisi .\\ La moisissure : Ce fromage sent le moisi .Moisissure , s .",
+        "words": [
+          "moisi",
+          "fromage",
+          "sent",
+          "moisissure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b8fe5034-8682-55d8-ab61-42059c117130",
+        "value": "n .Répandre une odeur , exhaler une odeur : Cela fleure bon .| Prov .",
+        "words": [
+          "odeur",
+          "fleure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b94790e9-53a6-57fb-ae1b-487913b3660e",
+        "value": "| Fleurs de cette plante : Un bouquet de jasmin .| Parfum lire de cette fleur : Huile , poudre , pommade de jasmin .Jaspe , S .",
+        "words": [
+          "fleur",
+          "poudre",
+          "Parfum",
+          "Huile",
+          "pommade",
+          "lire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b9b8465f-9ad1-5f07-abfd-9e40ab9cfa64",
+        "value": "ni .Plante bulbeuse , dont toutes les espèces sont odoriférantes .Narcisse , s .",
+        "words": [
+          "odoriférantes",
+          "espèces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/b9fd91b3-b05a-5c06-8861-d96b60856ec7",
+        "value": "Il n ' est usité que dans cette locution : A la bonne franquette , i franchement , ingénument .Frappant , ante .adj .",
+        "words": [
+          "ante",
+          "Frappant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ba517802-07f7-51e3-ab1a-15def1ebdd10",
+        "value": "m .Herbe odoriférante .Basilicon ou Basillcum .",
+        "words": [
+          "Herbe",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ba7fc6e7-ce43-53c0-8c43-6acd37df6c13",
+        "value": "des 2 g .Qui est sans odeur : Le dahlia est inodore .InofTcnsif , ive .",
+        "words": [
+          "sans",
+          "odeur",
+          "inodore",
+          "dahlia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/bdba0f27-0694-55f8-9e7c-ef5fa021bfae",
+        "value": "Bot .Plante ombellifère d ' une odeur très forte , dont les graines - sont employées pour faciliter la digestion .Cumul , s .",
+        "words": [
+          "Plante",
+          "très forte",
+          "odeur",
+          "graines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/c1da38e3-5ce0-53b6-865a-6246bdeacdf1",
+        "value": "m .Action d ' embaumer un corps mort .Embaumer , v .",
+        "words": [
+          "corps",
+          "corps mort",
+          "embaumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/c48e71ad-4e96-502c-a7f9-f2ce30337b74",
+        "value": "pi .Exhalaisons enflammées qui apparaissent sur terre et • à la surface de la mer .Furoncle , s .",
+        "words": [
+          "enflammées",
+          "Exhalaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ca70ed02-6b1a-5f86-87f5-3d1ae006f8c5",
+        "value": "Bot .Arbuste sarmenteux qui produit des fleurs odoriférantes : Un berceau de jasmin .| Fleurs de cette plante : Un bouquet de jasmin .",
+        "words": [
+          "fleurs",
+          "jasmin",
+          "odoriférantes",
+          "Arbuste",
+          "berceau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ca8f63dd-8a2b-5ee4-b24b-2dd185136a2f",
+        "value": "En pari , du vin , Qui a beaucoup de force : Ce vin là est bien , vineux , j Qui a un goût , une odeur de vin .[ Qui est de la couleur du vin rosé : llouge vineux .Couleur vineuse .",
+        "words": [
+          "vin",
+          "vineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/caeb19b1-c448-5503-ba88-52f4eb2cc6ce",
+        "value": "de laine , la passer sur la vapeur de soufre .| Soufrer du vin , donner l ' odeur de Soufre au tonneau qui doit le conlenir .Souhait , s .",
+        "words": [
+          "Soufre",
+          "odeur",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cb2b1b36-492b-5724-acff-8bc10ccf6444",
+        "value": "adj .Qui dégoutte de sang : Avoir le nez saignant .\\ Viande saignante , viande rôtie très peu cuite .",
+        "words": "nez saignant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cb6f8e33-ff72-5253-a2b5-50c29ee503b4",
+        "value": "adj .Qui dégoutte : sa chemise était toute dégouttante de sueur .Celui qui , dans un port , est chargé de faire délester les bâtiments .",
+        "words": [
+          "sueur",
+          "dégouttante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cbf25562-3e7e-5236-b429-5fa59d2cb586",
+        "value": "Agaric d ' une f .odeur et d ' une saveur agréables .1 Mousseux , euse - adj .",
+        "words": [
+          "agréables",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cc19f56f-349f-578a-a498-fe0ef511a2ef",
+        "value": "m .Substance résineuse et odorante qui coule de certains végétaux : Baume de la Mecque ou de Judée .| Prov .",
+        "words": [
+          "odorante",
+          "résineuse",
+          "Judée",
+          "certains végétaux",
+          "Mecque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cd79cb10-fb42-5b2a-822e-4da875084ee2",
+        "value": "m .Poire d ' été , à la peau rougeâtre , et d ' un parfum agréable .Roussette , s .",
+        "words": [
+          "agréable",
+          "parfum",
+          "Poire d ' été"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cdcd89d9-c605-5960-9c3f-20148d4500fa",
+        "value": "Petite pièce de fer à quatre ou plusieurs pointes fortes et aiguës : Semer des chausse - trapes .\\ Piège pour prendre les bêtes puantes : Mettre des chausse - trapes dans une forêt .\\ Vulg .",
+        "words": [
+          "puantes",
+          "bêtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ce1ff25e-8795-528f-806c-d45176d96d63",
+        "value": "Réserver une chose pour le bouquet , réserver pour la fin ce qu ' il y a de mieux .| Parfum qui distingue certaines qualités de vin : Ce vin a du bouquet .| Au plur .",
+        "words": [
+          "vin",
+          "Parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ce43e3f1-4dfe-587c-a9f9-fe6409469e1f",
+        "value": "Bot .Plante légumineuse dont la graine est très odorante .Féodal , aie .",
+        "words": [
+          "très",
+          "odorante",
+          "graine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cef89377-a2b4-5717-94d1-48a24fe15aa3",
+        "value": "Vêtement court que les Perses , les Romains et les Gaulois portaient en temps do guerre .Saignant , ante .adj .",
+        "words": [
+          "ante",
+          "Saignant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cf5f127a-f9bb-559f-9112-aaaf38a09d17",
+        "value": "f .Mauvaise odeur : La puanteur des égouls .Pubère , adj .",
+        "words": [
+          "puanteur",
+          "odeur",
+          "Mauvaise",
+          "égouls"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cfb40aa6-cb2b-5f37-bc2b-1d5ce2e923b9",
+        "value": "Bot .Plante labiée , d ' une odeur pénétrante , dont on fait usage en médecine : Une tisane de bétoine .Béton , s .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "bétoine",
+          "Plante labiée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cffbb537-8467-51c5-b66b-7fbed1612119",
+        "value": "| Au plur .Parfums : Les odeurs portent à la tète .| Fam .",
+        "words": [
+          "odeurs",
+          "Parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d03c2dae-5fb8-5e4a-bbca-e4d185e32fae",
+        "value": "m .Odeur causée par une chaleur excessive ou par un commencement de fermentation .Échauflfourée .",
+        "words": "Odeur"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d04d7fbc-ba4e-5fd8-b94f-05ae7abb6546",
+        "value": "Corps embaumé par les anciens Égyptiens .| Cadavre desséché et embaumé .Fam .",
+        "words": [
+          "Cadavre",
+          "embaumé",
+          "desséché"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d061dad8-1f23-5c1a-9cb5-dac6b8806940",
+        "value": "adj .Qui appartient à l ' odorat : Les nerfs olfactifs .Oliban .",
+        "words": [
+          "odorat",
+          "olfactifs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d074f360-3ad1-533c-a64f-0709dcc42445",
+        "value": "| Adv .Sentir mauvais , rendre , exhaler une mauvaise odeur .| / ( fait mauvais , il est dangereux de : Il fait mauvais marcher sur de la glace .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d0d18256-2cb7-5b0d-938b-dd80364a31b6",
+        "value": "m .Vaisseau destine à contej nir des liqueurs , des fruits , des fleurs , des parfums .| Vaisseau qui sert d ' ornement dans les jardins , dans les palais , etc .",
+        "words": [
+          "fruits",
+          "liqueurs",
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d115a5d2-a0c0-58f9-a5df-430b9e61dc23",
+        "value": "Plante dont les feuilles sont assez semblables à celles de la ciguë .| On la nomme aussi Cerfeuil musqué , et Cicutai - re odorante .Myrte , s .",
+        "words": [
+          "odorante",
+          "Cerfeuil",
+          "musqué"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d1f537a0-afce-5e41-83fa-d1e87f15c69e",
+        "value": "( su - igé - né - rice ) .De son genre , particulier , spécial : Une odeur sui generis .Suint , s .",
+        "words": [
+          "sui generis",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d29f471e-b2ff-5015-8779-28fc56393879",
+        "value": "adj .En pari , du vin , Qui a beaucoup de force : Ce vin là est bien , vineux , j Qui a un goût , une odeur de vin .[ Qui est de la couleur du vin rosé : llouge vineux .",
+        "words": [
+          "odeur",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d356cc60-aeb6-59c0-bbd1-ac2feb8ce341",
+        "value": "Sens qui perçoit les odeurs : Un odorat fin , subtil .Odoriférant , ante .adj .",
+        "words": [
+          "Odoriférant",
+          "ante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d3bef6de-fabc-57c6-bfdf-813ffa18c73f",
+        "value": "Brûler .Genre de plantes de la famille des Composées : L ' arnica est tonique et stimulante .Aromate , s .",
+        "words": [
+          "plantes",
+          "tonique",
+          "arnica",
+          "stimulante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d4bc6ad2-d012-501f-81fd-a7e83e648b8b",
+        "value": "Bot .Herbe aromatique de la famille des Rosacées .Pin .",
+        "words": [
+          "aromatique",
+          "Rosacées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d4dfd3b8-efd0-521a-a25e-050f143afc94",
+        "value": "des 2 g .Qui produit des exhalaisons malfaisantes , pernicieuses : Air , vapeur méphitique .Mépliilisme .",
+        "words": [
+          "Air",
+          "exhalaisons",
+          "malfaisantes",
+          "pernicieuses",
+          "vapeur méphitique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d51adf92-4feb-59b8-a99a-d1e39e70c1b9",
+        "value": "m .Odorat du chien : Ce chien a le flair excellent .| Fig .",
+        "words": [
+          "excellent",
+          "flair"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d763ee23-d17a-59b0-b9bd-98701b6b9982",
+        "value": "[ Qui est de la couleur du vin rosé : llouge vineux .Couleur vineuse .Vingt , adj .",
+        "words": [
+          "vineuse",
+          "Couleur vineuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d7c89917-9370-506d-b1c1-cff9b37cbe00",
+        "value": "Nourriture dés divinités de l ' Olympe .Saveur amère .| Fig .",
+        "words": [
+          "amère",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d8a8019f-1215-5360-893d-46e43309389e",
+        "value": "| Cbo .- o dont il s ' exhale une odeur agréable : L ' essence de .rose est un délicieux par f uni .",
+        "words": [
+          "agréable",
+          "odeur",
+          "essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/d99c0a70-7eda-5443-91a6-fd6ce218c25e",
+        "value": "cavité du corps ou dans une plaie .| Liquide que ' l ' on injecte : Une injection aromatique .Injonction , s , f .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/dacd6a33-c0a1-54b2-bb30-1ebd2123aa3e",
+        "value": "Rot .Fleur odoriférante .I La plante même .",
+        "words": [
+          "Fleur",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/dc1d9123-4f8f-58f8-957e-9aef3ec1a0e3",
+        "value": "pour qqn , être disposé à l ' aimer .| Flairer : Sentir une fleur .| Fam .",
+        "words": [
+          "Sentir",
+          "fleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/dda8469b-9acd-562d-81a1-e51c3674080f",
+        "value": "f .Gomme - résine aromatique .| Adj .",
+        "words": [
+          "résine",
+          "aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/dfe30eac-ebae-59d2-b5d7-c437361410ad",
+        "value": "Iiot .Espèce de spirée à fleurs odorantes ; n .autr .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "spirée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e05cee97-c39d-569b-a396-2deb44c674ff",
+        "value": "Dot .Plante herbacée , i d ' une odeur très agréable .Réséquer , v .",
+        "words": [
+          "odeur",
+          "très agréable",
+          "Plante herbacée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e097ef2f-86a1-555b-b389-f552f549cdff",
+        "value": "Respiration , souffle , haleineYen .Odeur qu ' une bête laisse dans Vs lieux où elle a passé .| Odeur qui vienl des émanations d ' un corps : Le vent , d ' une , ' \" ' morte .",
+        "words": [
+          "Odeur",
+          "bête"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e27dd1b0-68d6-5e03-9a95-e36dc8f18b08",
+        "value": "Chim .Qualité désagréable au goût et à l ' odorat , que contractent des substances soumises à l ' action d ' un feu violent .Émulateur , s .",
+        "words": [
+          "désagréable",
+          "odorat",
+          "substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e37fafd9-c18a-5376-9319-c6b42c8121d3",
+        "value": "Zool .Insecte de forme plate , d ' une odeur fétide .jMiaiaisie .",
+        "words": [
+          "fétide",
+          "odeur",
+          "Insecte de forme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e409efb4-0030-5fc5-b1b0-07f5479884f4",
+        "value": "adj .Corrompu , tombé en putréfaction , infect , puant .( Peu usité .",
+        "words": [
+          "puant",
+          "infect"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e4dad992-1eb9-55cc-9ad8-2984cc970405",
+        "value": "f .Espèce de pomme qui a l ' odeur du fenouil ..",
+        "words": [
+          "odeur",
+          "fenouil",
+          "pomme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e52672a8-462f-5397-9709-b915222bed2c",
+        "value": "f .Graine très odorante , de la forme d ' une noisette , et qu ' on met au uombre des epiecs .On l ' appelle ausis , adjectiv .",
+        "words": [
+          "Graine",
+          "odorante",
+          "très odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e5ffcfc9-9611-5d17-ade6-1f266f1b3a56",
+        "value": "a .Parfumer avec de l ' ambre gris .Ambrette .",
+        "words": [
+          "Parfumer",
+          "ambre gris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e6ce5c21-facc-59ab-a03a-6ad4e592628a",
+        "value": "Toute substance , sapido ou non , formée par la combinaison d ' un acide avec une base .| Respirer des sels , respirer l ' odeur d ' un sel volatil pour ranimer ses esprits .Sélaciens , s .",
+        "words": [
+          "odeur",
+          "sels",
+          "sel volatil",
+          "ranimer ses esprits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e71039c0-203b-5c4e-90d6-011a8ac3afcd",
+        "value": "Rot .Corps végétal de la famille dos Champignons , très savoureux et très odoriférant , qui so trouve dans la lerre on polites masses charnues .Trufler .",
+        "words": [
+          "odoriférant",
+          "savoureux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e7d6664a-f768-543c-a102-056e36cf7747",
+        "value": "adj .infecté de ( r peste , contagieux : Un air pestilentiel .- Vapeurs , maladies pestilentielles .",
+        "words": [
+          "air",
+          "pestilentiel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e85a6fbe-3cc6-5cdd-b7ec-a37d8cfedd13",
+        "value": "m .Particule invisible qui se dégage d ' un corps quelconque , j Effluves magnétiques , émanations attribuées à un fluide magnétique .Effondrement , s .",
+        "words": [
+          "émanations",
+          "Effluves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e8eb5d0a-6ee5-5409-b39a-37414048c5e3",
+        "value": "f .Sorte do gomme odorante qui vient de l ' Arabie Heureuse .Myrrbis .",
+        "words": [
+          "odorante",
+          "gomme",
+          "Arabie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e93c73b8-ecad-5a83-b0a2-7586166ec633",
+        "value": "Bot .Plante amère et aromatique , j Liqueur préparée avec ses feuilles .| Fig .",
+        "words": [
+          "Liqueur",
+          "Plante",
+          "aromatique",
+          "amère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e9837a0b-4bae-55d5-a760-77ac2ea21424",
+        "value": "f .Plante ombellifôre dont les semences sèches ont une odeur et un goût très agréables .Corindon , s .",
+        "words": [
+          "odeur",
+          "très agréables",
+          "goût",
+          "semences sèches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/e9a8cfdd-e8a1-5dba-aeb2-690dc46220fb",
+        "value": "Bot .Plante potagère odoriférante , qu ' on metordin .dans les salades et dans les ragoûts .",
+        "words": "odoriférante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ebeef000-eff8-54cc-b890-e690d3b094cf",
+        "value": "f .Fleur odoriférante , ordin .d ' un rouge un peu pâle , qui croit sur un arbuste épineux : Rose simple , double , panachée .",
+        "words": [
+          "Fleur",
+          "odoriférante",
+          "ordin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ec0d547b-22c9-52aa-8a8a-4a0ebee661e6",
+        "value": "f .Plante dont les grains ont une odeur d ' ambre .Ambroisie - s .",
+        "words": [
+          "odeur",
+          "ambre",
+          "grains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ec441344-a80a-5767-980f-1c13de75924a",
+        "value": "f .Humeur visqueuse qui découle des narines : Avoir la morve au nez .| Maladie particulière aux chevaux .",
+        "words": [
+          "Humeur",
+          "visqueuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ecd933ac-2e43-5fd1-b53c-10649c6ad087",
+        "value": "f .Odeur , ce qui frappe l ' odorat : La rose a une senteur agréable .IVi .",
+        "words": [
+          "agréable",
+          "rose",
+          "odorat",
+          "senteur",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ed007aaa-dec6-5a6a-b4ad-95c1d26fe016",
+        "value": "Bot .Plante d ' une odeur agréable , en usage en médecine .Calamlnalre .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ed874295-8f2d-5a13-9972-dba1c3c02c8b",
+        "value": "Bot .Plante aromatique , de la famille des Labiées .Marjolet .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/eda7a753-fc67-5d49-aaa4-7e74a0652831",
+        "value": "( ca - sto - ré - ome ) .Substance odorante extraite du castor , et qu ' on emploie en médecine comme antispasmodique .Castorine .",
+        "words": [
+          "odorante",
+          "castor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/edc3d27d-e9e1-537f-8105-b1b1c59c72aa",
+        "value": "m .Mammifère d ' Europe , rangé parmi les bêtes puantes .Blâmable , adj .",
+        "words": [
+          "puantes",
+          "Europe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ef791ccc-f05d-58d4-a3f6-6354c68f887a",
+        "value": "| Qui répand une bonne odeur : Les fleurs odorantes .Il y a des bois odorants .Odorat , s .",
+        "words": [
+          "bois",
+          "odorants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/f22af8c3-a4ec-5f14-9446-2c0c93553a1b",
+        "value": "Ce qui a été brûlé .| Odeur d ' une chose brûlée : On sent ici le brûlé .Brûlerie , s .",
+        "words": [
+          "Odeur",
+          "brûlé",
+          "chose",
+          "brûlée",
+          "chose brûlée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/f2f4b42c-2625-5ca5-b6c0-dd684150321b",
+        "value": "- £ ËtiMEtt médicaments ou .comme parfums : Huile d ' absinthe .Huile de fleurs d ' orange .",
+        "words": [
+          "parfums",
+          "absinthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/f32d94fc-0414-5728-979a-8a11aec8aacf",
+        "value": "Bot .Armoise aromatique et sudorifique des Alpes .Gêner , v .",
+        "words": [
+          "Alpes",
+          "aromatique",
+          "sudorifique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/f5015737-799c-5958-b740-8e767ccc7081",
+        "value": "m .Exhalaison enflammée qui parait près de terre pendant la saison chaude .Ardcrou Ardre , v .",
+        "words": [
+          "Exhalaison",
+          "enflammée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/f575af9d-fbb8-5308-8990-4f3a266ed499",
+        "value": "f .Petite boule de savon parfumé , préparé pour la barbe .| Prov .",
+        "words": [
+          "parfumé",
+          "savon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/f783728f-838f-54ae-a05a-7ec63a1c65f9",
+        "value": "| Subst .Celle huile sent le rance .Rauclicr .",
+        "words": [
+          "huile",
+          "rance",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/fa4571d6-e341-5242-9dd1-ee384ae9483f",
+        "value": "| Parfumer , remplir de bonne odeur : Ces fleurs embaument sa chambre .| Cette liqueur embaume la bouche , elle aune saveur exquise .Embaumeur , s .",
+        "words": [
+          "bouche",
+          "liqueur",
+          "exquise",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/fb6361fb-b00d-559d-ac2e-be83bc3355f3",
+        "value": "Rot .Petite plante odoriférante , à fleurs labiées .Serre , s .",
+        "words": [
+          "odoriférante",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/fc606cb2-6bba-58c4-b000-c97ad53811b9",
+        "value": "adj .Qui est dc la nature , qui a l ' odeur de l ' urine .Urique .",
+        "words": [
+          "odeur",
+          "urine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/fc7e8d15-fd96-519d-97ac-2c5b0f7e957a",
+        "value": "Bol .Genre des piaules aromatiques .Cachucha .",
+        "words": "aromatiques"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/fda6c453-13f8-5d04-a877-4a88c7354c00",
+        "value": "m .Odeur rebutante d ' un corps corrompu ; odeur d ' hôpital .Faiblissant , ante .",
+        "words": [
+          "odeur",
+          "corps",
+          "Odeur",
+          "rebutante",
+          "hôpital"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/fdcb9ad7-75d7-51dd-814e-711e99a1fe58",
+        "value": "Une odeur forle .eQui est désagréable au goût , à l ' odorat : Un beurre fort .Une haleine forle .",
+        "words": [
+          "désagréable",
+          "odorat",
+          "beurre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/ffb387cf-1d2c-50c6-8b4d-571f460aa6d8",
+        "value": "f .Résine odorante av qui découle d ' une espèce ' de thuya .Sang .",
+        "words": [
+          "odorante",
+          "thuya"
+        ]
+      }
+    ],
+    "label": "Abrégé du dictionnaire de l'Académie française, d'après la dernière édition de 1878 : ancien vocabulaire Nodier, entièrement refondu, et suivi d'un appendice comprenant tous les mots en usage non encore admis par l'Académie et d'un dictionnaire de géographie ancienne et moderne",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5762324d",
+    "date": "1883",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/403",
+      "label": "Vegetable"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6345e1a7-16cf-584c-b652-3c134011b20a",
+      "label": "1883",
+      "begin": "1883",
+      "end": "1883"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    },
+    {
+      "@id": "https://sws.geonames.org/8378515/",
+      "label": "Judea (Roman province)"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/5c0bde08-b813-5122-9171-32e6317331f7/fragment/cc19f56f-349f-578a-a498-fe0ef511a2ef",
+  "license": "Public domain",
+  "adjective": [
+    "résineuse",
+    "odorante"
+  ]
+}

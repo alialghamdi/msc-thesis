@@ -1,0 +1,396 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/dc8b9d39-912d-52ac-bcd7-3ff58679b1d0",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odorat",
+    "yeux"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/03804fd1-171c-5066-ad01-e6c068eeaf85",
+        "value": "Là , merveilles de l ' art mauresque , Avec extase nous notons L ' ogive au contour pittoresque , La frise aux élégans festons , Et ces admirables dentelles , Ainsi que le marbre immortelles ; Auprès d ' elles nous hésitons , Tant le ciseau de la sculpture , Imitateur ingénieux , En décorant l ' architecture , Y séduit et trompe les yeux ; Les colonnettes en spirales Entrecroisant , appuis légers , Leurs ciselures latérales Sous les balustres étagés ; La chambre autrefois consacrée A l ' odalisque préférée , Boudoir aux arabesques d ' or , Où d ' amour tout palpite encor , Bien qu ' au sortir du champ d ' alarmes Un de nos valeureux guerriers Vienne aujourd ' hui pendre ses armes , Son uniforme et ses lauriers , Contre ces murs parés sans doute Pour un plus frivole dessein , Où le faible écho de la voûte Pourrait redire à qui l ' écoute Les secrets soupirs de Hussein .Tandis qu ' ainsi l ' heure s ' avance , Et qu ' ensuite pour nous le Café d ' Apollon D ' un odorant moka parfume son salon , Un soleil , près de qui le soleil de Provence Semblerait un fanal éteint , De ses ardents rayons vient bronzer notre teint .Loin de la rue alors chacun de nous s ' exile , Pour chercher sur sa couche un solitaire asile ; Et là , d ' un demi - jour ineffables effets , Le sommeil sur nos yeux épanche ses bienfaits .",
+        "words": [
+          "odorant",
+          "parfume",
+          "moka",
+          "Café d ' Apollon",
+          "son salon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/09e90ec4-01f8-5d64-aab0-862660959976",
+        "value": "Elle aime , et de l ' amour ignore les tourments .Sous le bizarre accent de la langue sabire , Tantôt elle nous offre , et comme nous aspire , Sans scrupule et sans peur , D ' un cigare enivrant l ' odorante vapeur ; Tantôt , pour qu ' à nos yeux son talent se déploie , Fixant entre les doigts d ' un de ses pieds mignons L ' écharpe dont Tunis a coloré la soie , D ' une main exercée elle y brode ces noms , Ces dessins élégants , dont les femmes d ' Asie Nuancent avec art la riche fantaisie .DIXIÈME JOURNÉE .",
+        "words": [
+          "odorante",
+          "nous",
+          "enivrant",
+          "vapeur",
+          "cigare",
+          "odorante vapeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/1634597b-6f9a-50a5-9209-7f2801e1a3b2",
+        "value": "Le soir venu , nous franchissons le seuil Du palais d ' Achmet - Bey ; cette étrange folie , Alors que d ' Hussein - Dey la ruine accomplie Eut de ce fier voisin gonflé le sot orgueil , Devait , dernier reflet de sa gloire enivrante , Éterniser le deuil d ' une pompe expirante .Nous admirons , par la lune argenté , Ce féerique séjour , ce domaine enchanté : Voûtes où brille l ' or , colonnettes mauresques , Murs que l ' art indigène a revêtus de fresques , Corridors étagés aux riantes couleurs , Jardins que l ' oranger parfume de ses fleurs , Bassins d ' où l ' eau s ' élance en gerbes bondissantes , Tout ce qui peut des âmes languissantes , Pendant l ' ardeur des jours , ou la fraicheur des nuits , Éveiller les transports ou tromper les ennuis .VI .",
+        "words": [
+          "parfume",
+          "Pendant",
+          "ardeur des jours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/1954126d-4832-5a25-ae49-e4d04b10cac8",
+        "value": "Non loin de là , forçant avec un signe D ' un gardien vigilant l ' impuissante consigne , Rohault nous introduit dans l ' hôpital du Dey , Séjour chéri d ' Hussein quand l ' amour l ' y guidait .Un soleil tropical flamboyait sur nos têtes : Mais là , ruisseaux partout au murmure incessant , Et des tièdes zéphyrs le souffle caressant ; Partout , dans ces jardins qu ' ont ornés tant de fêtes , Et le parfum des fleurs sans cesse renaissant , Et tout ce dont s ' enivre un cœur incandescent .Là je revois encor ces bassins dont les marbres Invitaient au bain parfumé , Ces orangers au fruit savoureux , embaumé , Ces bananiers plus hauts que la cime des arbres .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "jardins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/1eed084a-095a-55f5-9553-3452ed387b24",
+        "value": "Mais l ' astre étincelant dont le feu nous brunit , Au - dessus de nos fronts a touché le zénith .Fuyons sa chaleur dévorante ; Cherchons le silence et la paix , Et la source désaltérante Qui court sous le feuillage épais .Lentement alors nous gravîmes Des sentiers abrupts , mais boisés , Et , haletants , nous nous assîmes Sous les rameaux entrecroisés De noirs sapins à hautes cimes , Admirant de ce belvéder , Où nous caressent des flots d ' air , Le versant à la molle pente Qu ' embaume le parfum des fleurs , La route qui fuit et serpente Au sein de leurs mille couleurs ; Les rochers lointains et sauvages , Les dentelures des rivages , La mer si bleue à l ' horizon ; Puis , en - deçà , sur le gazon , Mainte villa , blanche famille , Par l ' ombrage de sa charmille En vain dérobée à nos yeux , Et que trahit ce soin lui - même , Et surtout sa blancheur extrême Qui tranche sur l ' azur des cieux .",
+        "words": [
+          "source",
+          "désaltérante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/1f724b43-1092-5203-8c49-b750e4c3d9aa",
+        "value": "Déjà plus d ' une fois nous avons visité La ville phocéenne , opulente cité , Qui maintenant possède , et peut s ' en montrer fière , Des quartiers près desquels pâlit sa Cannebière , De brillants magasins , étalage de prix , A faire pâmer d ' aise un flâneur de Paris , Un théâtre assez beau , quelques restes gothiques , De son vieux château d ' If les cachots romantiques , Enfin sa Notre - Dame , amour des matelots , Qui , de son belvéder , les garde au sein des flots .Mais ce qui chaque fois , à Marseille , m ' inspire Une surprise égale à mon profond dégoût , C ' est l ' infecte vapeur que son port , vaste égout , Mélange incessamment avec l ' air qu ' on respire ; Poison que viennent boire à cet impur bassin Les navires que l ' ancre a fixés dans son sein , Et qui même , à tel point son miasme est malsain , Chez le navigateur vieilli dans la marine Fait bondir l ' estomac et crisper la narine .IV .",
+        "words": [
+          "Marseille",
+          "infecte",
+          "vapeur",
+          "port",
+          "Poison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/206d7e49-0847-5050-802a-3f4a2afaa34f",
+        "value": "Pour nous , qu ' il vient aussi d ' occuper un instant , Donnons ensuite en le quittant Quelques regards du moins bienveillants , sympathiques , A ces réduits déserts , à ces tristes boutiques , D ' où , le Code à la main , l ' ardent démolisseur Bientôt repoussera leur pauvre possesseur .Et lui , sur ces rares décombres , D ' un bazar qui n ' est plus trop misérables ombres , Il s ' assied cependant impassible , isolé , Mêlant au miasme impur par l ' asphalte exhalé Les doux parfums du narghilé .HUITIÈME JOURNÉE .",
+        "words": [
+          "doux",
+          "parfums",
+          "impur",
+          "asphalte",
+          "exhalé",
+          "narghilé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/35285851-beab-5df1-badf-9df16da76316",
+        "value": "Pour cette joyeuse tournée Aux apprêts du départ consacrons la journée .C ' est un grand jour ; car il achève enfin Chez les pieux croyants les rigueurs de la faim , Terme du rhamadan , sitôt qu ' il vient d ' éclore , Vingt - un coups de canon l ' annoncent à l ' aurore ; C ' est un jour de fête et de vœux , Où les jeunes enfants , parfumant leurs cheveux , Arrosent les passants de liqueurs embaumées , Où riait Garagous , où dansent les almées a3 , Où nous voyons les tendres musulmans Se prodiguer entre eux de doux embrassements , Où les nègres surtout , étranges saturnales , Promenant dans la ville et les bruyants faubourgs Leurs castagnettes , leurs tambours , Prolongent jusqu ' au soir leurs folles bacchanales .TROISIÈME PARTIE VOYAGE A CONSTANTINE TROISIÈME PARTIE .",
+        "words": [
+          "liqueurs",
+          "cheveux",
+          "embaumées",
+          "ville",
+          "parfumant",
+          "bruyants faubourgs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/40d4557a-aa8e-58ba-89e6-49b27955342f",
+        "value": "L ' un travaille , en ronflant , à compléter sa nuit ; L ' autre , qu ' apparemment la politique éveille , Relit d ' un air grondeur son journal de la veille ; Celui - ci , dont la mer menace la sapté , Invoque , heureux croyant , ou bien le liquide aigre Qu ' un flacon élégant mêle au sel de vinaigre , Ou le bonbon de Malte à Paris inventé : Tel autre est à l ' abri du vertige , il s ' en pique , Et le voilà , fatigant narrateur , Qui , vous prenant pour auditeur , Ne vous parle plus qu ' équateur , Vents alizés , longitude et tropique ; Tandis que des joueurs un peu plus loin assis S ' opposent l ' un à l ' autre ou bien le double six , Ou la dame de cœur et le valet de pique , Et que , chacun enfin portant là ses travers , Moi - même dans un coin je griffonne des vers .Cependant du dîner voici que l ' heure approche ; Sur l ' aile des zéphyrs , au hasard dispersés , Arrivent jusqu ' à nous les parfums de la broche , Et dans notre salon deux garçons empressés Chargent de plats brillant des couleurs les plus vives , Une table où viendront s ' asseoir trente convives .Ces apprêts engageants , ce piquant avant - goût , Par un effet étrange , et que d ' ailleurs explique Un trouble d ' estomac , frère de la colique , Nous causent à l ' instant le plus affreux dégoût .",
+        "words": [
+          "parfums",
+          "salon",
+          "broche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/462767e8-6928-5ca0-be57-ad252dfe07c9",
+        "value": "Cependant , emportés par nos coursiers étiques , De Bouffuriek naissant , à chaque pas surpris , Nous venons de franchir les abords aquatiques .Comme aux alentours de Paris , Nous y trouvons la ferme aux bruyants volatiles , L ' auberge et l ' hôtel même aux touristes utiles , L ' estaminet où fume un odorant brouillard , Et la bière de mars et le noble billard .Sur les bords curieux de cette route hybride , Par un frappant contraste , ici d ' un sol aride , Tristes , nous contemplons l ' austère nudité ; Ailleurs un mur qui croule , asile inhabité , Ou bien un toit noirci , de façon trop notoire Nous redit la récente histoire Des malheurs qui l ' ont dévasté .",
+        "words": [
+          "odorant",
+          "Nous",
+          "brouillard",
+          "auberge",
+          "hôtel",
+          "estaminet",
+          "bière de mars",
+          "aux alentours de Paris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/49925eb3-d1b7-5a18-b559-8b94cb13064d",
+        "value": "Là n ' est point encore finie L ' étonnante cérémonie .Afin de s ' y purifier , Se dirigeant vers le brasier , La Juive aux flammes dévorantes Livre des poudres odorantes , Et la prêtresse soulevant Sa cassolette parfumée , Du nuage de sa fumée , Et par derrière et par devant , Entoure la Juive embaumée .Celle - ci même en ce moment , Ouvrant son corsage et ses manches , Expose au feu dévotement Son sein , ses deux bras et ses hanches ; Et qui plus est , les yeux baissés , Rougissant , pourquoi ? je ne sais , Jusque sous sa robe réclame L ' encens que dégage la flamme .",
+        "words": [
+          "parfumée",
+          "odorantes",
+          "embaumée",
+          "poudres",
+          "cassolette",
+          "Juive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/55beacd8-91bd-596c-a3fc-f64d6063adba",
+        "value": "Le croirions - nous ? et de cette journée A peine nous sépare une seconde année .Un village nouveau surgit près de ces lieux : Béni - Méred , village gracieux , Proche voisin de Blidah qui , lui - même , Va se montrer à nous sous des dehors qu ' on aime , Avec ses orangers , bois nombreux et touffus , Ses jardins embaumés , mélange un peu confus De fleurs , de fruits divers qu ' ici pour la clinique , D ' une savante main , cueille la botanique , Ces coteaux verdoyants dont les hauts mamelons Étagent en gradins leurs riants échelons , Et cette plate - forme , étonnante corniche , Où , gardien avancé , veille le fort Mimiche .Quels sont ces étranges guerriers , Par leurs armes , leurs étriers , Par leur costume pittoresque , Leurs traits bronzés , leur air mauresque , Si bizarres , si différents Des combattants que notre armée Jusqu ' ici s ' est accoutumée A voir figurer dans ses rangs ? Ce sont nos troupes indigènes : Le spahis aux brillantes rênes , Au burnous largement drapé , Au cheval fringant , équipé De la haute et profonde selle Aux arçons où l ' or étincelle ; C ' est le Turc , piéton recrépi80 , Qui va , plus fier qu ' un matamore , Portant avec la veste maure Le turban au lieu du képy ; Et depuis qu ' on le civilise , Sous le vainqueur qui l ' utilise Oubliant ses maîtres passés , Pour manœuvrer dans la carrière , Sur notre musique guerrière Règle ses pas mieux cadencés .",
+        "words": [
+          "embaumés",
+          "jardins",
+          "Blidah"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/5b278d74-885d-532a-8b6f-23813dbdc5a6",
+        "value": "et la magnificence .Ils nous livrent , détails charmants , délicieux , Des secrets logements le séduisant mystère : C ' est le boudoir coquet et solitaire , Ou le salon vêtu de marbre et d ' or , Ou les murs découpés de l ' étroit corridor ; C ' est le kiosque , enceinte diaphane , Où d ' Aumale venait sur la fin du repas , Des entretiens légers animant les ébats , S ' enivrer des parfums mûris par la Havane .Ils nous expliquent ces dessins Ces fresques , solennel hommage Voué par l ' Islamisme au plus grand de ses saints ; Naïve et curieuse image Des villes que la mer dut baigner de son eau Pour le croyant qui vit la Mecque et son tombeau .",
+        "words": [
+          "parfums",
+          "salon",
+          "boudoir",
+          "Havane",
+          "kiosque",
+          "sur la fin du repas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/5ca431c0-bba4-5011-ad09-c11125bf1b9f",
+        "value": "Philippeville enfant si nouvellement née , Puisqu ' elle compte à peine une cinquième année , Est déjà , pour les amateurs , Belle de monuments flatteurs .Vous débarquez sur une large place , 1 Qu ' entourent des cafés où mainte et mainte glace Éblouissent vos yeux surpris ; Vous y voyez , à l ' instar de Paris , La rue en droite ligne , au trottoir de bitume ; Le coquet parfumeur ; le friand pâtissier ; Le coiffeur fashionable , et , suivant la coutume , A chaque pas le bavard épicier ; De Maures presque aucun , au point que leur costume , Si parfois vous le retrouvez , Vous fait croire que vous rêvez ; Vous revoyez les Maltais , pauvre engeance ; Et puis de bons hôtels .Celui de la Régence Est le premier , dit - on , et le plus merveilleux ; Mais on paie un peu cher ce renom glorieux , Alors même que pour partage On n ' obtint , comme nous , à son suprême étage , Qu ' une chambre où le vent , par ses carreaux cassés , Vient d ' un parfum de mer rafraîchir vos pensers , Une chambre où , malgré ses airs de solitude , Certains hôtes blottis sous les murs crevassés Ont de votre sommeil troublé la quiétude .",
+        "words": [
+          "parfumeur",
+          "place",
+          "cafés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/681f3281-a4c1-5a14-a83d-92ff31cdfff4",
+        "value": "En même temps , compagne harmonieuse , Du régiment qui part la musique joyeuse Adresse nos saluts à ces lieux enchantés , Où souvent la reconnaissance , Des plaisirs par nous récoltés Devait doubler la jouissance .Adieu donc , terre que j ' aimai ! Alger au rivage embaumé , Qui le premier nous fis connaître Les splendeurs d ' un ciel d ' Orient , Tout ce que , sur un sol riant , Un soleil africain fait naitre ! Adieu , flèches des minarets , Dûmes arrondis des mosquées , Murailles de canons Ilanquées ; Et toi , coteau tranquille et frais , Mustapha , dont je vois encore , Sous le palmier qui les décore , Au sein des buissons toujours verts .Serpenter les chemins couverts ; Et vous tous qui sur notre vie Venez d ' effeuiller en passant Ce bonheur pur et caressant Auquel l ' amitié nous convie ! Bien loin de vos toits étagés , Hélas ! nous fuyons dans l ' espace ; Mais vos souvenirs moins légers Survivront à tout ce qui passe ; Et déjà nous cherchons en vain Votre ciel limpide et serein ; Déjà , sous les ombres jalouses , S ' abîment vallons et pelouses , Cimes qu ' Atlas amoncela , Terrasses même au vif éclat ; Adieu , noble terre historique , Où le poëte aime à songer ! Rives lointaines de l ' Afrique , Versant où disparaît Alger ! .",
+        "words": [
+          "Alger",
+          "embaumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/74ea7e70-7953-52fd-8ad8-d42a5e010cb1",
+        "value": "Fuyons sa chaleur dévorante ; Cherchons le silence et la paix , Et la source désaltérante Qui court sous le feuillage épais .Lentement alors nous gravîmes Des sentiers abrupts , mais boisés , Et , haletants , nous nous assîmes Sous les rameaux entrecroisés De noirs sapins à hautes cimes , Admirant de ce belvéder , Où nous caressent des flots d ' air , Le versant à la molle pente Qu ' embaume le parfum des fleurs , La route qui fuit et serpente Au sein de leurs mille couleurs ; Les rochers lointains et sauvages , Les dentelures des rivages , La mer si bleue à l ' horizon ; Puis , en - deçà , sur le gazon , Mainte villa , blanche famille , Par l ' ombrage de sa charmille En vain dérobée à nos yeux , Et que trahit ce soin lui - même , Et surtout sa blancheur extrême Qui tranche sur l ' azur des cieux .Vers un de ces castels , un des plus solitaires , Un de ceux qui peut - être avec plus de mystères Eludent les regards humains , Nous ont conduits d ' invisibles chemins : D ' un léger choc imprimé par nos mains , Le marteau fait vibrer la porte catholique Que signale une croix , emblème évangélique , Et bientôt une sœur , au mystique maintien , A la robe claustrale , au timide entretien , Ouvre devant nos pas une de ces demeures Où , pour sanctifier le cours réglé des heures , La femme , sous un joug librement accepté , Immole à Dieu son cœur et sa virginité .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "nous",
+          "embaume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/7ebffae4-efde-5401-a4fd-7338904b1c0e",
+        "value": "Approchez cependant ; à la moindre parole , Ce rêveur va pour vous jouer un nouveau rôle ; Il va se redresser lentement , le pied nu , Vous adressant un jargon inconnu , Détritus espagnol où l ' arabe transpire , Et qu ' Alger a nommé le langage sabire .D ' un air majestueux , presque impassible encor , Il ouvre ses tiroirs , et devant vous étale Tout ce qu ' a su créer la pompe orientale : Le mouchoir que Tunis brocha de soie et d ' or ; La bourse algérienne à Paris imitée ; Ces coffrets où la nacre , aquatique décor , A des bois odorants se marie incrustée ; L ' écharpe aux plis soyeux de Stamboul importée ; Les étuis élégants , arsenal du fumeur , Et ces cristaux dorés , trésor du parfumeur , Où , riche des bienfaits dont l ' aurore l ' arrose , Stamboul emprisonna le jasmin et la rose ; Puis , misères qu ' on aime emporter comme dons , Ces glands , ces bracelets , ces colliers , ces cordons , Séduisant attirail dont cette galerie Chatouille les regards de la coquetterie .Et combien n ' ai - je point dans cette liste omis De ces riens dunt chacun se montrerait avide , Souvenirs qu ' au retour partagent les amis , Si l ' on ne craignait pas qu ' un douanier livide , Dans le port de Marseille , au sortir du bateau , Ne vînt les flageller d ' un rigoureux veto ! Heureux , si contre vous son ardeur anomale , Scrutant jusques au fond votre gisante malle , Ne vous intente point un absurde procès Pour d ' innocents tissus nés sur le sol français .",
+        "words": [
+          "bois",
+          "odorants",
+          "parfumeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/8d2968a5-2e9a-55ae-9e5d-c8aa4969a56e",
+        "value": "Que l ' aride simoun Fonde sur cette place à son souffle exposée , Voyez - vous quel facile abord Va trouver à l ' entour ce courrier de la mort , Cet enfant du désert à l ' haleine embrasée ? Heureux du moins , colon intelligent , Quiconque n ' a pas cru devoir , à prix d ' argent , Sur le sol africain pour assurer ses aises , Se fixer sous le toit de ces maisons françaises Qui viennent afficher dans ce climat lointain Les somptueux dehors de nos hôtels d ' Antin .Oh ! que j ' aime bien mieux les fines arabesques Et le style enchanteur de ces bijoux mauresques , Poétiques manoirs , voluptueux séjours , Où , de leur molle vie emprisonnant le cours , Les Arabes savaient , prodigues de délices , Faire de leurs plaisirs les lieux mêmes complices ! Là , dans les corridors l ' un sur l ' autre étagés , Circulent des zéphyrs avec soin ménagés ; Là , pour que la fraicheur n ' en soit jamais bunnie , Gazouille des jets d ' eau la plaintive harmonie ; Là , divans pour dormir et coussins pour s ' asseoir ; Enfin , pour respirer l ' air embaumé du soir , Sous la voûte des cieux une blanche terrasse Où broute la gazelle , et d ' où la vue embrasse Les murs algériens , la prochaine maison , Avec l ' immensité des mers à l ' horizon .Telles à nos regards séduits se présentèrent Les habitations où nos pas débutèrent ; Tel était notre hôtel , et spécialement Les jolis alentours de l ' étroit logement Qui d ' abord nous reçut .",
+        "words": [
+          "embaumé",
+          "terrasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/9752ddea-f229-5634-a53b-253e81e83724",
+        "value": "Au dehors , il est vrai , cet hôtel travesti S ' orne d ' un front moderne aux voisins assorti ; Et là , splendidement par la rue éclairée , Règne une vasle salle aux repas consacrée .Entrons - y maintenant , pour un diner joyeux Tout y flatte à la fois l ' odorat et les yeux ; Et puis nous risquerons , pour clore la journée , Hors de Bab - el - Oued encore une tournée .Promenade choisie , elle va dérouler , Sous l ' ombre dont la .",
+        "words": [
+          "odorat",
+          "yeux",
+          "el",
+          "Bab",
+          "Oued"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/a6dfa656-2e31-5bf8-9a00-4244f28b2f36",
+        "value": "Un soleil tropical flamboyait sur nos têtes : Mais là , ruisseaux partout au murmure incessant , Et des tièdes zéphyrs le souffle caressant ; Partout , dans ces jardins qu ' ont ornés tant de fêtes , Et le parfum des fleurs sans cesse renaissant , Et tout ce dont s ' enivre un cœur incandescent .Là je revois encor ces bassins dont les marbres Invitaient au bain parfumé , Ces orangers au fruit savoureux , embaumé , Ces bananiers plus hauts que la cime des arbres .J ' y revois le frais corridor , La voûte aux arabesques d ' or , Le mur de porcelaine aux coquettes losanges ; Et dans cet Eden enchanté Dont les amours furent les anges , Où le bonheur ne fut que volupté , J ' ai peine , je l ' avoue , en fouillant ma mémoire , A me ressouvenir que , par un sort fatal , Des beaux jours d ' autrefois la ravissante histoire N ' a plus qu ' un prestige illusoire , Que ce palais oriental N ' est aujourd ' hui qu ' un hôpital .",
+        "words": [
+          "embaumé",
+          "orangers",
+          "bain parfumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/a6fe8e24-6add-5815-9b27-b0915f3b760c",
+        "value": "Vous débarquez sur une large place , 1 Qu ' entourent des cafés où mainte et mainte glace Éblouissent vos yeux surpris ; Vous y voyez , à l ' instar de Paris , La rue en droite ligne , au trottoir de bitume ; Le coquet parfumeur ; le friand pâtissier ; Le coiffeur fashionable , et , suivant la coutume , A chaque pas le bavard épicier ; De Maures presque aucun , au point que leur costume , Si parfois vous le retrouvez , Vous fait croire que vous rêvez ; Vous revoyez les Maltais , pauvre engeance ; Et puis de bons hôtels .Celui de la Régence Est le premier , dit - on , et le plus merveilleux ; Mais on paie un peu cher ce renom glorieux , Alors même que pour partage On n ' obtint , comme nous , à son suprême étage , Qu ' une chambre où le vent , par ses carreaux cassés , Vient d ' un parfum de mer rafraîchir vos pensers , Une chambre où , malgré ses airs de solitude , Certains hôtes blottis sous les murs crevassés Ont de votre sommeil troublé la quiétude .C ' était pourtant , sur ce haut belvéder , Un doux plaisir , au sein de nos tourbillons d ' air , De voir cet horizon que le regard embrasse , Cette mer bondissant au pied de la terrasse , Ce Cocyte surtout , ce navire lointain Que le flot berce encor de sa rude caresse ; Et de redire alors ce passage latin , Ces vers si bien sentis du poète Lucrèce : Suave mari magno .",
+        "words": [
+          "parfum",
+          "chambre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/aa5eb47a-6a9d-5f67-a91e-bb21fefd3d7f",
+        "value": ", Des fruits d ' un autre ciel enrichit la nature .Nous admirons dans ce jardin d ' essais , Auprès du bananier aux feuilles colossales , Le vanillier grimpant , arôme de nos salles ; Les cactus ; l - ' aloès connu du médecin , Et l ' arbrisseau palmé qui donne le ricin ; Le caféier venu de l ' Arabie Heureuse ; L ' ananas du Pérou , la canne savoureuse ; La liane qui rampe et le dattier debout ; Le goyavier indien ; l ' américain bambou ; Le verdoyant hévé , de Cayenne transfuge , Qui verse à Macintosh sa liqueur hydrofuge , Et bien d ' autres encor , précieux exilés , Des points les plus divers avec art rassemblés .Regagnons maintenant la ville ; Un dîner d ' amis nous attend .",
+        "words": [
+          "Cayenne",
+          "Nous",
+          "aloès",
+          "arbrisseau",
+          "cactus",
+          "arôme",
+          "jardin d",
+          "vanillier",
+          "verdoyant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/b6f502a0-86f0-5b79-aec5-637f286bae88",
+        "value": "— Marséille .oc J ' aime Avignon , je le préfère A plus d ' une fraîche cité ; J ' aime sa rêveuse atmosphère Et son parfum de vétusté ; Sa cathédrale dont l ' enceinte Répéta les hymnes païens , Avant d ' être la maisoij sainte Où se prosternent les Chrétiens ; Son vieux donjon , sombre édifice , Où plus d ' un cruel sacrifice , Pour servir un Dieu rédempteur , Fatigua le zèle imposteur Du sanguinaire inquisiteur Et des bourreaux du saint - office .J ' aime à venir sur ce rocher , Qui du monde entier fut le trône , M ' asseoir longtemps , et m ' y pencher Vers cette plaine où court le Rhône : Admirable panorama , Site heureux que Pétrarque aima , Et que la nature anima De tant de richesse et de vie , Que plus d ' un beau site pourrait A son éclat porter envie , Qu ' à son aspect l ' âme ravie N ' en put jamais être assouvie , Que nul ne l ' a fui sans regret .",
+        "words": [
+          "parfum",
+          "J",
+          "cité",
+          "Avignon",
+          "cathédrale",
+          "rêveuse",
+          "oc J"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/b7e83156-9fa7-5459-bf61-ea531c915f68",
+        "value": "Voyez - vous leur dévotion ? Pour commencer l ' ablution , Toute la pieuse assemblée Va baigner dans l ' onde salée Ses pieds , son visage et ses bras ; Ensuite , en poussant des hélas , Un cri même assez pitoyable Pour sans doute effrayer le diable , Une Juive au milieu des eaux Jette , ou la dépouille d ' oiseaux Dont sa main arracha la plume , Ou bien un liquide inconnu , Et , sans calculer son volume , Le vase qui l ' a contenu .Suivons ses pas : elle s ' approche De la négresse , et celle - ci Puise dans le creux de la roche Une eau fraîche et pure , et voici Qu ' après avoir mouillé sa bouche De cette eau lustrale que touche Le bout de ses lèvres , au sein De ce religieux bassin , De sa main droite qu ' elle penche , La fille d ' Israël épanche Une autre liqueur , soit du lait , Soit quelque parfum qui lui plaît ; Tandis qu ' en priant , la prêtresse , D ' un air indifférent , se presse D ' éparpiller sur le chemin Fève ou gâteau , tributs modestes , Dont elle recueille les restes Pour son repas du lendemain .Là n ' est point encore finie L ' étonnante cérémonie .",
+        "words": [
+          "parfum",
+          "eau",
+          "lait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/c3c5cd21-1d62-52a0-bd09-81eae5aaac97",
+        "value": "L ' un contre mon thorax par ses genoux pressé Pèse de tout son poids , cauchemar insensé ; L ' autre pétrit mes chairs , ou tord chaque jointure , Et d ' affreux craquements m ' inflige la torture ; Et pendant ce travail j ' entends entre leurs dents Bourdonner je ne sais quels accents discordants .Quand tous deux ont ainsi , de leurs mains vigoureuses , Tiraillé , malaxé mes fibres chaleureuses , Ils s ' arment , pour combler la somme de mes maux , D ' un gant fait en poils de chameaux , Et me versant à flots une onde parfumée , Avec un dévoûment qui dépasse mes vœux , Me brossent tout entier des pieds jusqu ' aux cheveux , Et m ' inondent le corps d ' une mousse embaumée .Le grand œuvre du moins est enfin accompli .",
+        "words": [
+          "parfumée",
+          "corps",
+          "embaumée",
+          "mousse",
+          "onde",
+          "gant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/d7ca0600-3cc0-5a48-ac2b-6ac6f4e4c9a7",
+        "value": "En effet , noterai - je Dans ce récit que j ' abrège : Ici ce paquebot qui passe à l ' horizon , Seul atome vivant où se pose la vue , Quand du ciel et de l ' eau l ' effrayante étendue Comme un désert sans fin étonne la raison ; Là , des vagues rasant l ' écume , Compagne chère aux matelots , La mouette à la blanche plume Dont le vol argente les flots ; Ou bien encor , hideux avec leurs noirs museaux , La troupe des marsouins hésitante et craintive , Apparition fugitive Qui bondit au - dessus des eaux ? Mais que vois - je ? quelle est la verdoyante plage Qui tout à coup brille à nos yeux ? C ' est Mahon , précieux mouillage , Où , quand la foudre éclate aux cieux , Quand l ' élément capricieux Du navire effrayé tourmente le sillage , Bien souvent le navigateur Trouva contre la mort un abri protecteur .Salut , Mahon ! et toi , son riant acolyte , De aux bords enchantés , gracieuse Palma ! Toi que la vive ardeur et l ' éclat insolite Dont rayonne ton doux climat , Que tes femmes toujours séduisantes et belles , Que les parfums dont le ciel t ' embauma , Ornent si bien , que tu rappelles L ' île heureuse où jadis la mère de l ' Amour , Sous des bosquets de myrte , avait fixé sa cour .C ' était vers le milieu du jour Que nous longions cette île fortunée , Tous alors réunis dans une salle , ornée D ' un piano de Pleyel , d ' élastiques divans ; Et de leur souffle ami nous caressaient les vents .",
+        "words": [
+          "Mahon",
+          "parfums",
+          "île",
+          "embauma",
+          "jadis",
+          "Palma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/ea9e6444-fbb9-565a-9f41-4ed4f8051cc1",
+        "value": "Ces fièvres sont le résultat , sans doute inévitable , Ùl $ premières fouilles pratiquées au sein d ' une terre laissée sans usage pendant une longue suite d ' années .On conçoit que les innombrables successions de matières végétales el animales décomposées à la surface de ces terres abandonnées doivent , quand l ' agriculture vient à s ' en emparer de nouveau , dégager une ample quantité d ' émanations malsaines , analogues , sinon identiques , aux effluves marécageuses .Mais on conçoit aussi que ces émanations doivent s ' épuiser et les terrains être plus ou moins promptement assainis .",
+        "words": [
+          "malsaines",
+          "émanations",
+          "effluves",
+          "matières végétales el animales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/ef363c7c-b03c-59fd-96f5-59ee1e476ab3",
+        "value": "Nous y remarquerons gravés sur une pierre , Humble et modeste monument , Les noms du duc d ' Harcourt , officier de zouaves , Dans les champs de Blidah , mort de la mort des braves .Enfin dans les frais environs , Guidés par un ami , nous nous égarerons , Soit sur ces bords fleuris qu ' en sa course rapide , Sous de riants berceaux , baigne un ruisseau limpide ; Soit au sein des bosquets où nous récolterons , Près du myrte odorant , grenades et citrons .Voici qu ' un hôtel confortable De mets réparateurs va charger notre table ; Avant ce gai repas , songeons au lendemain ; Et pour nous assurer d ' avance le chemin , Auprès d ' Abd - el - Kader , Arabe qui pratique En ce pays l ' état de muletier , Vêtu dans ce noble métier D ' une bizarre dalmatique , Allons choisir , sous les yeux du patron , De cinq de ses coursiers l ' imposant escadron .",
+        "words": [
+          "odorant",
+          "citrons",
+          "nous nous",
+          "grenades",
+          "frais environs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/f12b2ce9-4c53-52f6-9988-e6565313a696",
+        "value": "Nous y retrouverons , de près , les noirs dehors , Les murs imperforés , les tortueux abords , La porte , en général , timide , surbaissée , Des maisons que d ' en haut leur cour à ciel ouvert Nous laissa librement scruter à découvert , Et , sous les corridors de leur rez - de - chaussée , La servante , négresse aux trop flasques appas , Pétrissant le kouscous , habituel repas ; Ou bien , sans les compter laissant couler les heures , Nous y contemplerons ces étranges demeures Où l ' indigène Figaro , Bien loin , comme chez nous , de voiler son carreau , Livre à nos regards ses pénates : Nous verrons ses clients étendus sur des nattes , Chez qui l ' acier tranchant court de la nuque au front ; Fidèles à leur loi , tous ne conserveront Que cette touffe précieuse Par Jaquelle , dit - on , la main officieuse Du père des Croyants , les saisissant un jour , Portera ses élus à l ' éternel séjour .Ailleurs , pour aspirer une liqueur aimée , Nous allons nous asseoir sous la voùte enfumée Où bientôt un Zoppi que chacun remarqua Nous verse les parfums d ' un odorant moka .Plus loin nous admirons , ermite solitaire , Cet artiste à l ' air calme , à la figure austère ; Voyez - le , dans un moule avec art disposé Façonnant le foyer au contour évasé Où brûle du fumeur l ' encens aromatique .",
+        "words": [
+          "odorant",
+          "parfums",
+          "liqueur",
+          "Nous",
+          "moka",
+          "chacun",
+          "Zoppi",
+          "voùte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/f7eabf1a-48c1-5357-b21c-dcba522bb4b8",
+        "value": "Dans ces lieux , mobile cristal , Un frais ruisseau court sous la voûte sombre De platanes touffus qui lui prêtent leur ombre ; Et , comme un casino modeste , oriental , S ' arrondit d ' un café le dôme solitaire .Sous cette voûte , accroupi contre terre , L ' Arabe qu ' ont lassé les ardeurs du soleil Aspire lentement l ' odorante fumée Qu ' exhale du tabac la feuille parfumée , Ou bien , de sa paupière écartant le sommeil , Hume d ' un doux moka la liqueur embaumée .Non loin de ce café , dont l ' humble desservant Sut rendre la fraîcheur à nos lèvres brûlantes , S ' ouvre un immense enclos , où le riche Levant , Où les zônes du Sud qu ' explore le savant , Au sol algérien ont confié leurs plantes Là , directeur habile et fier de maint succès , Hardy , grâce aux efforts d ' une active culture .",
+        "words": [
+          "parfumée",
+          "odorante",
+          "liqueur",
+          "tabac",
+          "exhale",
+          "embaumée",
+          "feuille",
+          "Arabe",
+          "odorante fumée",
+          "Sous cette voûte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/fe80cf12-ed33-545a-b348-5316c6c3322e",
+        "value": "PARIS PAUL MASGANA , LIBRAIRE - ÉDITEUR 12 GALKRIB DE L ' OIiF .ON 4 84 3 On a beaucoup écrit sur l ' Algérie : mais , chose étonnante , cette contrée si pittoresque et si riche de souvenirs , cette terre si digne d ' études et si belle , soit au flambeau de l ' histoire , soit au reflet du jour oriental qui l ' éclairé , que nous a - t - elle inspiré jusqu ' à présent , si ce n ' est , sauf quelques exceptions trop rares , de sérieuses élucubrations , de graves projets de colonisation et d ' industrie , de sanglants récits de batailles ? N ' y aurait - il déjà plus à respirer , eu Afrique , que l ' odeur de l ' asphalte ou celle de la poudre ? L ' industrialisme moderne et le génie de la politique ou de la guerre y auraient - ils donc tué la poésie ? Non , sans doute .Au reste , c ' est bien moins pour le prouver par lui - même que pour appeler nos littérateurs et nos poëtes à le démontrer , à leur manière , que l ' auteur de cet opuscule entreprend de raconter ici ses impressions en Algérie .",
+        "words": [
+          "Algérie",
+          "Afrique",
+          "odeur",
+          "contrée"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/efc9cd7a-e6d5-541d-8266-e84962949324",
+        "label": "Félix  Andry"
+      }
+    ],
+    "label": "Un touriste en Algérie / par le Dr Prosper Viro [Félix Andry]",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6468622z",
+    "date": "1845",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6387bc23-9e59-5b99-bf83-08883c98157a",
+      "label": "1845",
+      "begin": "1845",
+      "end": "1845"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/174018/",
+      "label": "Al Bāb"
+    },
+    {
+      "@id": "https://sws.geonames.org/2462881/",
+      "label": "Laayoune"
+    },
+    {
+      "@id": "https://sws.geonames.org/8504646/",
+      "label": "Foum el Oued"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/joy",
+      "label": "joy"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/courage",
+      "label": "courage"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/excitement",
+      "label": "excitement"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/aff43c6e-c2c0-556e-b4b0-5fa2bf484076/fragment/9752ddea-f229-5634-a53b-253e81e83724",
+  "license": "Public domain"
+}

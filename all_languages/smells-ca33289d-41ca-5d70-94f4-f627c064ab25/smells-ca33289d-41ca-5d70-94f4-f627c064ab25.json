@@ -1,0 +1,68 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ca33289d-41ca-5d70-94f4-f627c064ab25",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "smells",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/5455fcfd-b202-5a50-9358-f14ee7970198",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/5455fcfd-b202-5a50-9358-f14ee7970198/fragment/a4401619-986b-5075-9a6c-758a177b4210",
+        "value": "Thirty - eight visits have been made during the year , and the general sanitary condition and water supply were satisfactory .At three of the schools , headmasters were interviewed concerning smells in the W .C .",
+        "words": [
+          "in",
+          "smells",
+          "in the",
+          "W",
+          "At three of the schools",
+          "W .",
+          "headmasters",
+          "the W"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/17c148f3-7c3c-5007-89a8-df7ff4de7a14",
+        "label": "Bredbury and Romiley . Urban District Council"
+      }
+    ],
+    "label": "[Report 1946]",
+    "url": "http://archive.org/details/b28947757",
+    "date": "1946",
+    "language": "en"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/8af6017c-4f86-56af-aa45-5a235c45b50e",
+      "label": "in|in the|the W|W"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/56db6bca-d6b3-5078-9c7d-b0d3b0f1f095",
+      "label": "1946",
+      "begin": "1946",
+      "end": "1946"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/1159456/",
+      "label": "Sistan and Baluchestan"
+    },
+    {
+      "@id": "https://sws.geonames.org/3573374/",
+      "label": "The Valley"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/62e67ee7-9b96-5caf-b50d-c5a4f093ab0a",
+      "label": "At three of the schools"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/da219f78-9a8d-5923-ae1e-ed11df57bef2",
+      "label": "in"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/5455fcfd-b202-5a50-9358-f14ee7970198/fragment/a4401619-986b-5075-9a6c-758a177b4210"
+}

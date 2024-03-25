@@ -1,0 +1,1972 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c43c426a-1101-5a98-800c-bad1cc6eaeab",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "perfumes",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/03bb40a8-2f1d-5ab6-80a5-60dd2e945362",
+        "value": "The concrete resinous substance bearing this name appears to be the produce of two or even three different plants , that which is received from Manilla being yielded by the Ccinarium com - mune ; the Brazilian , by the Idea Icicariba , and the Mexican , by the Elaphrium elemiferum .The colour and the consistency vary , therefore , according to the origin ; usually , however , it is yellowish and waxy , and possessed of a pleasant odour and somewhat bitter flavour .The properties , like those of other substances of similar nature , are stimulant .",
+        "words": [
+          "odour",
+          "pleasant",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/04335a2a-050a-52ff-99f0-6bfe2660eed0",
+        "value": "Active Ingredients .â   The thick and substantial root , when dried and sliced , has an agreeable and camplioraceous odour , and an aromatic , rather bitter , and slightly pungent taste .It contains a neutral crystalline principle , insoluble in water , somewhat resembling camphor , and called lielenine , C21 ! ! 23Â © 1 * 3 * ; also a peculiar kind of starch , called inuline , CeH10O5 ; bitter extractive , soluble in water ; an acrid resin , gum , lignin , albu - men , and salts of potash , lime and magnesia .",
+        "words": [
+          "agreeable",
+          "odour",
+          "camplioraceous",
+          "The thick and substantial root"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/062b8945-918c-5910-bb7e-80424796f87f",
+        "value": "203 plant .This oil is a yellowish fluid , becoming colourless when rectified ; it has a penetrating odour of the fresh plant , and a burning taste .Specific gravity , â   89 â   â   94 .",
+        "words": [
+          "penetrating",
+          "odour",
+          "it",
+          "of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/096dca5f-e5db-5d53-8338-fbb846099f76",
+        "value": "The capitula are terminal , less than an inch in diameter , and constituted of a convex yellow disk and numer - ous white rays .Every part of the plant is bitter , and evolves a strong but pleasant odour .Under cultivation the place of the disk florets is taken by ligulate ones .",
+        "words": [
+          "strong",
+          "odour",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/0aa16fb9-074e-5e32-9be7-cd3dd6d94f03",
+        "value": "The dried plant , as imported into England , is greenish - yellow .The smell is disagreeable and irritating ; the taste is burning and acrid , and so similar to that of tobacco that the vernacular 410 LOBELIA .name is at once accounted for .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "and irritating",
+          "similar to that of tobacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/0c17a40c-9b88-5cf7-871c-723e3da421b8",
+        "value": "It is a powerful base , and com - pletely neutralizes acids .It exists as a colourless , transparent , mobile fluid , possessing a well - marked tobacco odour ( which is strongly developed when it is heated ) , and a sharp and burning taste long retained by the tongue .The specific gravity curiously diminishes at successively higher temperatures ; the vapour is exceedingly heavy ; it turns the plane of polarization strongly to the left ; it is very soluble in water ( which it also absorbs freely from the atmosphere ) , in ether , in rectified spirit , in 90 TOBACCO .",
+        "words": [
+          "odour",
+          "It",
+          "well - marked"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/0d701fca-245f-51eb-83f5-1c234caf5c33",
+        "value": "Active Ingredients .â   The root has a very pungent odour , and an acrid taste , depending on a volatile oil , C4HBNS , produced by the action of myrosin or myronic acid in the presence of water ; it is identical with oil of mustard , and is readily dissipated by heat or exposure to the air .It is very volatile ; one drop is sufficient to odorize a whole room .",
+        "words": [
+          "oil",
+          "odour",
+          "very pungent",
+          "The root"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/0df37c92-dc1c-571f-b3f4-41bc5c1f3a3f",
+        "value": "The bark both of the stem and of the roots , especially the latter , also yields hydrocyanic acid .â    In the fresh state , when alone it should be used ( since by keeping its quality deteriorates ) , it evolves an odour resembling that of peach leaves .The taste is agreeably bitter and aromatic , and resembles that of bitter almonds .",
+        "words": [
+          "odour",
+          "it",
+          "resembling that of peach leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/0ebddaee-ab3e-5940-87f8-372eaeb15c4d",
+        "value": "It is miscible with absolute alcohol , benzol , sulphide of carbon , chloroform , and ether , and is insoluble in water .The penetrating odour and burning taste are sufficiently \" well known .3 .",
+        "words": [
+          "penetrating",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/0f031189-b724-5e2e-bc65-0440ab8d6c44",
+        "value": "Active Ingredients .â   These consist of a green volatile oil , having a strong wormwood odour ; and a bitter extract , yielding absinthine , C1gH22Ob ( Kromager ) , which last is the essential bitter principle of the plant , and presents itself in the form of a faintly crystalline powder , of bitter taste and disagreeable odour .It is soluble in alcohol , ether , and the alkalies ; the re - action is neutral .",
+        "words": [
+          "odour",
+          "disagreeable",
+          "a",
+          "absinthine",
+          "a green volatile oil",
+          "strong wormwood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/102a0736-0b7b-5bff-a447-2f34447db25c",
+        "value": "The kinds most esteemed are the East Indian and the Alexandrine .The leaflets of these are about 11 - inch in length , lanceolate , entire , and unsymmetrical at the base , and have a peculiar and tea - like odour , and a nauseous and bitter taste .2 .",
+        "words": [
+          "tea",
+          "odour",
+          "peculiar",
+          "tea - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/11d3a6ec-361d-5278-9618-84b329234e23",
+        "value": "It contains a volatile oil , fatty matter , resin , a principle called sassafrine , tannin in small quantity , and some other less important ingre - dients .The volatile oil is light yellow ; it has a pungent taste like the odour of the wood , a sp .gr .",
+        "words": [
+          "odour",
+          "The",
+          "the odour",
+          "odour of the wood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/127d0174-99a5-52bc-ac42-8dcef7fa4a83",
+        "value": "Physiological Action .â   Horse - radish has a very pungent odour , very irritating to the nostrils , and causing the eyes to flow profusely with tears .Its taste is sweetish , hot , and acrid .",
+        "words": [
+          "odour",
+          "very pungent",
+          "Horse - radish",
+          "very irritating",
+          "causing the eyes to flow profusely with tears"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/12efef3e-9c4e-5bfe-89b6-902d93c5bb3c",
+        "value": "Physiological Action .â   Very little is known with regard to this , beyond the fact that pimento is an aromatic stimulant , stomachic , and carminative , and that it holds an intermediate place between pepper and cloves .Externally em - ployed , it is a rubefacient .",
+        "words": [
+          "aromatic",
+          "pimento"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/14ffa1bd-6a84-5525-b023-2ebc378c430c",
+        "value": "to be an oxidised hydrocarbon , containing camphor in solution .The colour is pale yellow ; the odour corresponds with that of the 494 BOS ! ' : MARY .recent plant , which is peculiar and agreeable ; the taste is warm , aromatic , and somewhat bitter .",
+        "words": [
+          "odour",
+          "that"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/15d66126-f36a-54ab-bed7-5913bb03288a",
+        "value": "It may also be employed with advan - tage in inflammation of the external auditory canal , so often met with in children , where the lining membrane is red and swollen , and severe pain is experienced , while later on a thin acrid discharge appears , often tinged with blood , and soon becoming puriform .It may be used also in inflammation of the nasal passages , accompanied by profuse mucous or muco - purulent discharge , the smell of which is offensive .Inflammations .",
+        "words": [
+          "offensive",
+          "smell",
+          "which",
+          "profuse mucous or muco - purulent discharge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/161d98cb-6da9-5bea-8241-559be97fc1a9",
+        "value": "The former of these ( oleum pimentce ) constitutes about six per cent , of the dried berries , and is considered to possess all the active properties of oil of cloves ; it is separated by distillation , and on it mainly depend the strong fragrance and the warm and aromatic flavour .The fixed oil is greenish , and has an acrid , burning taste , and a rancid , but somewhat clove - like odour .3 .",
+        "words": [
+          "rancid",
+          "odour",
+          "somewhat",
+          "- like",
+          "-",
+          "clove -",
+          "The fixed",
+          "somewhat clove"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/16921a4c-080b-5dda-9378-8bd61f78c329",
+        "value": "Morphia , C17K19NOs + HzO ( that is , with one atom of water of crystallization ) forms small white silky needles ; or ( if slowly crystallized out of alcohol ) colourless , semi - transparent , six - sided , oblique , rhombic prisms .It has a distinctly alkaline reaction , and a bitter taste , but no smell .It melts at about 130Â ° C .",
+        "words": [
+          "smell",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/18176ef2-378c-539f-b4b2-cab36c0c3f90",
+        "value": "The resin ( copaivic acid , C20H20O2 ) , is crystalline , and resembles common resin or pinic acid .The volatile oil is a colourless liquid , having the smell and taste of copaiva , and is isomeric with oil of turpentine , i .e .",
+        "words": [
+          "smell",
+          "of copaiva",
+          "oil of turpentine",
+          "The volatile oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/185e2896-2f59-5121-be4b-fd6d997ce0c5",
+        "value": "gr .T95 ) , of peculiar odour , and nauseous , bitter , and somewhat acrid flavour .2 .",
+        "words": [
+          "odour",
+          "peculiar",
+          "nauseous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/1a01aa1e-e4fe-593e-bc9b-a809feb0b487",
+        "value": "The leaves are usually ovate or lanceolate ; the minute and apetalous green flowers are collected into slender spikes shaped like the tails of little mammals ; the stamens are extremely few ; the ovary is superior , one - celled , and one - seeded , and ripens into a berry .Ordinarily , these plants are possessed of a certain aromatic pungency , referable to the presence of a peculiar acrid resin , an etherial oil , and the crystallizable body called Pipeline .They are also astringent and narcotic , sometimes remarkably so .",
+        "words": [
+          "aromatic",
+          "plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/1ad60c57-4eea-523b-93a6-628d6cec47ce",
+        "value": "At any rate Dr .Henderson mentioned that it was in use among the natives of India as a remedy for gonorrhoea ; and in the appendix to the Pharmacopoeia of India we find it stated that the wood of white sandal yields about 2 ' 5 per cent , of the oil , which is of a pale yellow colour , and has a resinous taste and a sweet peculiar smell , best appreciated by rubbing a few drops on the warm hand .2 3 .",
+        "words": [
+          "smell",
+          "sweet peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/1afc4226-5f0c-5515-be17-9f8ec78c64f3",
+        "value": "Description .â   â   This name , â   says Lindley , â   has been given to a supposed order of plants , represented by the Canella alba , a common West Indian aromatic shrub , with evergreen , obovate , alternate , ex - stipulate , petiolate , and coriaceous leaves , and corymbs of small and purplish flowers .â   The affinities of the plant , elsewhere described as a tree of 40 to 50 feet in height , he considered to be with the Pittosporacese .",
+        "words": [
+          "aromatic",
+          "shrub",
+          "a",
+          "the Canella alba"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/1d1ff443-e6d7-55d0-a749-dbdd0a7c6273",
+        "value": "This PHYSIOLOGICAL ACTION .251 ethereal oil is of a light - yellow colour ( turning brown on keeping ) , has a bitter acrid taste , and a very disagreeable odour : sp .gr .",
+        "words": [
+          "odour",
+          "very disagreeable",
+          "251 ethereal oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/20de4cd3-d83c-5824-b1e6-0110b8d21457",
+        "value": ") , and the solution evaporated , a balsam - like body is left which contains much angelic and much valerianic acid .According to Sommer , the dry distillation of this substance brings over a blue volatile oil containing umbelliferine , C6H402 , a substance which crystal - lizes in transparent , silky needles destitute of taste or smell , and subliming at a high temperature .Its solution in boiling water is remarkable for possessing a blue fluorescence .",
+        "words": [
+          "substance",
+          "smell",
+          "umbelliferine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/22b86310-d3ee-5a72-a80d-1e9d2b4ec01a",
+        "value": "289 glabrous ; and the small and panicled flowers are followed by little roundish and purple fruits .When pure , the turpentine is very thick , yellowish , and sweet - scented , the odour somewhat resembling that of the lemon .The taste is agreeable , and though sharp , by no means acrid .",
+        "words": [
+          "sweet",
+          "odour",
+          "scented",
+          "the turpentine",
+          "resembling that of the lemon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/23ea7f0c-ba73-5695-be9a-8bad2ac807b4",
+        "value": "Alkaline watery solutions turn it red ; ammonia gives a violet - red .Phaoretine , C1gH16Ot , is an extra product of the process for extracting the rhubarb - tannin ; it is a dull brown shining mass which pulverizes to yellow brown ; is tasteless , melts on heat - mg , and evolves yellow fumes that smell like rhubarb .It is 184 RHUBARB .",
+        "words": [
+          "smell",
+          "fumes",
+          "like rhubarb",
+          "Phaoretine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/247c5eb0-c749-58f9-b4b4-d84684216dcf",
+        "value": "The properties of the Magnoliacese are shown in a delightful perfume in the flowers , and a bitter flavour in the substantial parts of the plant , this flavour corresponding to tonic qualities .In addition to the bitterness there is often an agreeable aroma , which constitutes a further recommendation for their use in medicine .The sub - family Winter aceie contains two members which have been employed in European medicine , viz .",
+        "words": [
+          "agreeable",
+          "aroma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/258a680e-ac89-500c-af9e-c86537915891",
+        "value": "The most important ingre - dient is the alkaloid polygaline or senegine , called also saponine , struthiine , quillagine , githagine , monninine , and monesine , ac - cording to the source whence derived , since it is present in many different plants .This alkaloid is an amorphous white powder , neutral and odourless , but capable of exciting severe sneezing if smelt ; the taste is sweet at first , but has a secondary sharpness and pungency .Senegine is freely soluble in water , very little soluble in cold strong spirit , and not at all soluble in ether .",
+        "words": [
+          "smelt",
+          "odourless",
+          "This alkaloid",
+          "exciting severe sneezing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/25d5b5a4-0581-573a-9556-56c8dbc973ff",
+        "value": "Description .â   This well - known plant is easily dis - tinguished from the other British Viola ) , which are four or five in number , by its perennial root , flagelliform runners , roundish - cordate leaves , and fragrant blue or white flowers , the sepals of which are obtuse .2 .",
+        "words": [
+          "fragrant",
+          "flowers",
+          "blue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/27b21244-8688-5070-a34f-4f12ac3827e2",
+        "value": "Proof spirit dissolves nearly the whole .Socotrine aloes give a resinous or vitreous fracture ; thin layers are sometimes trans - lucent ; the odour , instead of being repulsive , is aromatic ; when powdered , the colour is bright yellow , and in proof spirit the solution is complete .No difference is perceptible in the bitterness of the two varieties .",
+        "words": [
+          "odour",
+          "aromatic",
+          "repulsive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/27cead5d-d8a8-545e-98e7-39ff1c158877",
+        "value": "The white or pinkish flowers are borne in umbels of 4 or 5 rays ; the umbellules are many - rayed ; the fruit is globular , and obscurely striated , and separates into two hemi - spherical mericarps .When bruised this plant evolves an in - tolerable odour , resembling that of bugs , and possessed by no other member of the Umbelliferse .The fruits while recent partake of the same ; when dry , however , the scent becomes grateful .",
+        "words": [
+          "odour",
+          "tolerable",
+          "this plant",
+          "that of bugs",
+          "possessed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/299854d2-5652-537f-8e73-cf07c3b26c27",
+        "value": "37Â ° .The long and scandent stems , the tendrils , the large and beautiful 3 to 5 - lobed leaves , changing in autumn to red ; the tliyrses of minute green and honey - scented flowers , and the incomparable fruit , at once distinguish it from any other plant yet discovered .PHYSIOLOGICAL ACTION .",
+        "words": [
+          "honey",
+          "scented",
+          "flowers",
+          "minute green"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/2ce66f94-1347-5d3c-8651-061c519290dd",
+        "value": "Active Ingredients .â   Guaiacum resin has a slightly aromatic and balsamic odour ; on being chewed , it softens , and communicates a slightly bitter and acrid taste , followed by a peculiar burning and prickling sensation in the back of the throat .The sp .",
+        "words": [
+          "balsamic",
+          "odour",
+          "slightly aromatic",
+          "Guaiacum resin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/2d7b1dbb-6427-5799-8a20-3f37d1c5f445",
+        "value": "gr .0 89 , possessed of a strong , penetrating , and stupefying odour , and an acrid flavour , somewhat resembling that ot tobacco .The volatile character is made apparent by dropping a small quantity of the alkaloid upon paper , which it will render , in that part , translucent , and as if greasy , the spot disappearing upon subjec - tion of the paper to a slight degree of heat .",
+        "words": [
+          "strong",
+          "penetrating",
+          "odour",
+          "acrid",
+          "stupefying",
+          "resembling that ot tobacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/2e267099-e1a5-542f-b43d-59c0686f5448",
+        "value": "Physiological Action .â   Resembles that of the other aromatic Labiates .4 .",
+        "words": [
+          "aromatic",
+          "Labiates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/2fa2377d-4652-5ddb-a7ff-b3fc6460bfa4",
+        "value": "These , clammy while recent , become , when dried , brittle and slightly translucent , and are easily pulverised ; but , if exposed to the air , they recover moisture , and become flexible .The scent is feeble ; the taste is disagreeable , mucilaginous , strongly bitter , and somewhat acrid .3G6 squill .",
+        "words": [
+          "scent",
+          "feeble"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/2fb97cd0-2f11-54c4-a44e-0d6321b5a5c1",
+        "value": "It is distinguished from the garden lettuce chiefly by the leaves being horizontal instead of erect , and by the keel of every leaf being prickly - setose instead of smooth .The odour is rank , and upon the stem there are blood - red spots .1 Companion to the Brit .",
+        "words": [
+          "odour",
+          "rank",
+          "blood - red spots"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3026f398-64cd-5e96-9501-1eb51d75d657",
+        "value": "â   These are probably chirettine , Ck6H48015 , a bitter , neutral , resinoid substance , discovered by Hohn , ( which does not reduce an alkaline solution of a copper salt ) , and ophelic acid , C13H20O10 .The latter forms a yellowish brown syrup , tasting , at first , sour , and then persistently bitter , having also a peculiar gentianaceous odour .3 .",
+        "words": [
+          "odour",
+          "peculiar gentianaceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/30b4848c-cb23-59a1-84c0-0d88b052ec1e",
+        "value": "It is insoluble in water , readily soluble in alcohol and ether .Cymol , C10H14 , is a colourless oil , strongly refractive of light , with an unpleasant , camphor - like smell .It is insoluble in water , readily soluble in alcohol , ether , and fats .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "camphor - like",
+          "Cymol"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/33740131-9edb-5ae0-8a66-1f7364597370",
+        "value": "â   In large doses turpentine is a powerful narcotic irritant poison , exerting its effects espe - cially upon the alimentary and the genito - urinary tract , the whole of which is influenced by it ; and acting also as a deliriant narcotic , producing symptoms of brain - intoxication not very unlike those of alcoholic tipsiness .A dose of two or three tea - spoonsful produces great heat at the stomach , and afterwards all over the body , with rapid and tense pulse , slight giddiness , and mental confusion : the breath , the sweat , and the urine smell slightly of turpentine , or , more accurately speaking , the last smells not of turpentine , but of violets .If the dose be larger , nausea and vomiting set in , with delirium ; purging sometimes 196 TURPENTINE .",
+        "words": [
+          "smell",
+          "slightly",
+          "the breath",
+          "smells",
+          "the urine",
+          "of violets",
+          "of turpentine",
+          "the sweat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/341620f3-2521-54be-a424-12c2a2aefe2c",
+        "value": "In 1719 , an epidemic dysentery which raged in Trance was successfully treated with cascarilla ; and soon after this it was extensively employed in every part of Germany .The bitter - tonic qualities of this drug have recommended it as a substitute for cinchona ; and although inferior to that medicine in tonic and febrifugal operation , it has the advantage of sitting easily upon the stomach , being not merely bitter , but aromatic .In irritable conditions of the alimentary canal , cinchona is apt to produce vomiting or purging ; but neither of these results ensues upon the exhibition of cascarilla in anything like a moderate dose .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/35f66cb2-beec-5cfa-95ad-e71cbbf6738a",
+        "value": "This plant is a hard , rough and erect biennial , two to three feet high , of the order Composite , and common in the limestone districts of England .The leaves , though similar in form to those of the foxglove , and tufted in the same manner , are rougher and much less toothed , and are at once distinguished by their odour , which some call foetid , others aromatic .The leaves of the Verfois - cum Thapsus are also sometimes mixed with those of foxglove .",
+        "words": [
+          "odour",
+          "aromatic",
+          "at once",
+          "foetid",
+          "their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/366d4b40-f3c1-5ba7-99ac-710d0f7286b7",
+        "value": "Physiological Action .â   The Eelleborus niger emits no particular odour until bruised .The fibres of the root , which are the part employed in medicine , have a disagreeable smell ; their taste while fresh is penetrating , and , though neither bitter nor very warm , it leaves a long persisting impression upon the tongue .",
+        "words": [
+          "odour",
+          "no particular",
+          "The Eelleborus niger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/36740014-5496-5592-9718-e14bc122e180",
+        "value": "But though anomalous , and in physiognomy often quite unlike the rest of the order , they possess no substantially different characters .The properties of the Magnoliacese are shown in a delightful perfume in the flowers , and a bitter flavour in the substantial parts of the plant , this flavour corresponding to tonic qualities .In addition to the bitterness there is often an agreeable aroma , which constitutes a further recommendation for their use in medicine .",
+        "words": [
+          "perfume",
+          "delightful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/367c712a-512b-5b8b-9335-0da478c691a1",
+        "value": "When bruised this plant evolves an in - tolerable odour , resembling that of bugs , and possessed by no other member of the Umbelliferse .The fruits while recent partake of the same ; when dry , however , the scent becomes grateful .2 .",
+        "words": [
+          "scent",
+          "grateful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/36b71c60-7034-5e82-b63a-3cf8835f6099",
+        "value": "426 COMMON VALERIAN .The roots of these plants are in many instances hitter and aromatic , and in their properties , tonic , antispasmodic , and vermifugal .Some are powerful stimulants , exciting the cerebro - spinal system , and , if taken in large doses , occasioning even convulsions .",
+        "words": [
+          "aromatic",
+          "antispasmodic",
+          "The roots of these plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/38636181-07b7-5123-a592-19e89620b45a",
+        "value": "Description .â   An evergreen and glaucous bush , na - tive of the south of Europe , 3 or 4 feet high , abundantly clothed with alternate and decompound leaves , of nauseous odour , and producing its tetramerous yellow flowers in terminal corymbs .2 .",
+        "words": [
+          "odour",
+          "nauseous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3889448f-28d7-5373-a895-170abdd135af",
+        "value": "A second ingredient in hemlock is the volatile alkaloid called conydria or conhydrine , C8H17NO , discovered by Wertheim , and distinguished from coniine by being solid and crystalline .A third ingredient , present only in minute quantity , is a volatile oil , which possesses in a high degree the characteristic odour of the plant , but is scarcely at all poisonous .This plainly shows that it is not the active principle of conium ; and further , that in judging of the pharmaceutical value of different preparations of hemlock , no stress can be laid either upon the presence or the absence of the accustomed odour .",
+        "words": [
+          "odour",
+          "characteristic",
+          "a volatile oil",
+          "in a high degree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/39c84165-7b00-550d-a42c-491e0a7ddf35",
+        "value": "Kinovine ( or Quinovine ) , C30H48O8 , is an amorphous resinoid body , which can be rubbed into a smooth white powder , possessed of manifestly electric properties .When warmed , it evolves a feebly balsamic odour .The taste , though very slight , is sharp , and unpleasantly bitter .",
+        "words": [
+          "odour",
+          "it",
+          "feebly balsamic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3be3bdfa-ac9d-5d12-af05-5ca8953d22ae",
+        "value": "It has been employed in chronic diarrhoea , and dysentery ; and in old and obstinate gleet .Mastich is used for strengthening the gums , and as a masti - catory , on account of the agreeable odour which it communicates to the breath .CHIAN TURPENTINE .",
+        "words": [
+          "agreeable",
+          "odour",
+          "the breath",
+          "Mastich"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3c26f896-d49e-5f76-bca1-9ab983e48d94",
+        "value": "one hard , the other soft .The oil , called Styrole , C8H8 , is a colourless , translucent , and very volatile liquid , with a burning taste , and yielding the odour of storax .It is soluble in alcohol and in ether ; boils at about 295Â ° F ; burns with a sooty flame ; and is of sp .",
+        "words": [
+          "odour",
+          "The oil",
+          "of storax",
+          "Styrole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3d26ea55-8ff1-5c8d-8a20-00d91694c483",
+        "value": "The formula is C10H12O .Anise oil is colourless when fresh , but gradually becomes yellowish ; it has the characteristic taste and smell of the seeds .Sp .",
+        "words": [
+          "smell",
+          "it",
+          "Anise oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3daf6e66-3a80-5929-8c88-dbdb7c3c310a",
+        "value": "This substance crystallizes in long needles ; is very deliquescent , and its solution , when very concentrated , acts as an irritant to the skin and the mucous membranes .Its solution does not possess the stinking - fish smell of tri - methylamine unless it be heated or mixed with an alkali .M .",
+        "words": [
+          "smell",
+          "of tri - methylamine",
+          "Its solution",
+          "stinking - fish"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/3f588cfb-b149-509d-b9d4-885d10279740",
+        "value": "In the second case , a similar dose was given , and this quickly produced nausea and retching , which was a good deal relieved by a fit of sneezing : a stool occurred 6 ^ - hours after the administration , and a second two hours later .Eleven hours after the administration there occurred epistaxis , and a single violent vomiting , which last did not recur , although there was constant nausea and a smell ( subjective ? ) of rotten eggs .On the second day there were nine fluid stools , and on the third day there were three ; the nausea and retching , with great feeling of weakness and languor , continued till the fifth day .",
+        "words": [
+          "smell",
+          "of rotten eggs",
+          "subjective"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/41428863-b73f-5d45-bc14-339af14ea42c",
+        "value": "being 0 â   929 .It yields the odour and possesses the flavour of cubebs , and evaporates on exposure to the atmo - sphere .Upon this volatile oil the active properties mainly PHYSIOLOGICAL ACTION .",
+        "words": [
+          "odour",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/43324821-c5d4-5153-8f2c-31b3c900358c",
+        "value": "Active Ingredients .â   Sassafras - wood has a warm and aromatic taste , and a peculiar fragrance .It contains a volatile oil , fatty matter , resin , a principle called sassafrine , tannin in small quantity , and some other less important ingre - dients .",
+        "words": [
+          "peculiar",
+          "fragrance",
+          "Sassafras - wood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/43ddafe8-6705-5c0f-bd33-3e0adfbac68a",
+        "value": "Physiological Action .â   Taken into the system , wormwood operates in the manner usual with aromatic tonics .It increases the appetite , promotes digestion , slightly accelerates the circulation , and to some small extent augments the secretions .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/4472518f-d24f-525f-97bf-92c3e2281eb9",
+        "value": "These qualities are referable to the active principle of the plant , called cannabine , PHYSIOLOGICAL ACTION .517 a resinous body possessed of a peculiar fragrance , and a warm , bitter and acrid taste .It is soluble in alcoliol and in ether , but not soluble in water , which throws it down from the alcoholic solution as a white precipitate .",
+        "words": [
+          "peculiar",
+          "fragrance",
+          "resinous body"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/44bc12fe-245b-5783-a7e2-c5f98f4d3250",
+        "value": "But this soon fades , and the tint changes to the yellowish or pinkish - brown which pertains to the superficial part .The taste is acrid and bitter ; the odour is powerful , alliaceous , and eminently peculiar .In the atmo - sphere it burns with a white flame , and evolves a considerable amount of smoke .",
+        "words": [
+          "odour",
+          "powerful",
+          "alliaceous",
+          "eminently peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/44d17158-e67a-55b2-8f02-4033769f4f4e",
+        "value": "Active Ingredients .â   Cajeput - oil is very fluid and transparent , light green in colour , and possessed of a strong but agreeable odour , and a warm , aromatic , and camphoraceous taste , soon followed by a sense of coolness in the mouth .The SMIL A CE / E .",
+        "words": [
+          "strong",
+          "agreeable",
+          "odour",
+          "Cajeput - oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/46c73dfa-0326-5bfa-a97e-ad94531a7a38",
+        "value": "With fatty bodies it unites readily .The volatile oil , C3 * * * * * * 10 * * * * * H16 , when pure , is colourless , and has the taste and odour of pepper .Sp .",
+        "words": [
+          "odour",
+          "of pepper",
+          "The volatile oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/46f8da88-5d00-529d-bd96-6b85a16e7739",
+        "value": "â   Castor oil may be ad - ministered floating upon some aromatic water ; or mixed in a cup of hot and sweetened coffee .If the stomach be delicate , it may be taken as an emulsion , with yolk of egg , sugar , and aromatic water .Patients who dislike the flavour , slight as it is , are apt to suck a peppermint lozenge immediately after swallowing the dose ; but if the taste of this , or any similar medicine , is to be thus covered or obscured , the mouth should be saturated with peppermint before instead of after taking the oil .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/4a12d5b9-06b0-58c7-baa6-d5f2ba9d0c95",
+        "value": "With alkalies and certain other bases , it unites so as to form a soap .Exposed to the atmosphere , it is apt to become rancid , acquiring an unpleasant taste and smell , a deeper colour , and a more dense consistence , which changes are quickened by heat .These quali - ties recommend it as â   salad oil .",
+        "words": [
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/4d7a10e1-3021-59ae-b83c-87f2ac54b9d2",
+        "value": "But it is a perfect and direct poison to intestinal worms , especially tape - worms .And as regards the active ingredients it may be mentioned that koussine has been successfully employed by various physicians , in a dose of about 20 grains , against tape - worm ; this sometimes causes vomiting and diarrhoea , and it has been found needful to give it in three or four divided portions , with some aromatic substance added .4 .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/4e21e793-431e-5551-9928-bb7a78740d94",
+        "value": "Active Ingredients .â   Pepper is hot , pungent , and aromatic , and along with other ordinary constituents of small berries , contains the above - named Pipeline , a resin , and a volatile oil .Piperine , C17H19NOs , occurs , when pure , in white , crystal - line , rhomboidal prisms , which are odourless , and almost taste - less .",
+        "words": [
+          "Pepper",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/4f457bee-427a-5135-b16c-0de90ee51606",
+        "value": "It is soluble in water , more readily so in alcohol and in ether ; and forms crystalline salts with the mineral acids .Lobelia also contains lobelic acid , which is crystalline , and soluble in water , alcohol , and ether ; also a volatile oil , to which the odour of the drug is due ; and a resin of acrid taste .3 .",
+        "words": [
+          "odour",
+          "of the drug",
+          "a volatile oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/4fdfa0cd-ff7f-55ff-9105-d2c42ae5f579",
+        "value": "Active Ingredients .â   By distillation , the bark yields a warm and aromatic oil .This is a mixture of eugenic acid , C H O2 , with two neutral oxygen - containing oils .",
+        "words": [
+          "the",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/503f2d07-5b33-581f-8353-b971320a06b6",
+        "value": "buff colour outside , and internally paler .The odour is aromatic and spicy ; the taste is warm , pungent , and bitter .It is brittle , and has a white and granular fracture .",
+        "words": [
+          "odour",
+          "spicy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/5092dd90-b53a-527e-ae6e-d6508d29e408",
+        "value": "Active Ingredients .â   The dried inner hark of the cinnamon tree possesses a warm , sweet , and aromatic taste , and evolves a corresponding odour .These qualities are referable to a volatile oil , C9H7OH , which when separated varies a little in colour , when good is bright yellow , but by keeping becomes red .",
+        "words": [
+          "odour",
+          "corresponding",
+          "The dried inner hark of the cinnamon tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/51b1528a-d079-53e3-a8b2-82c089ae7629",
+        "value": "â   A bushy and deciduous shrub , native of Europe , and growing three to five feet high .The branches are numerous and nearly erect ; their upper portions are densely clothed in early spring with sessile , fragrant , and tetramerous pink flowers ; the lanceolate and glabrous leaves come out subsequently ; the ripe fruits resemble red currants , but are solitary and sessile .2 .",
+        "words": [
+          "fragrant",
+          "sessile",
+          "tetramerous pink flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/51fb08fd-c75d-5b60-8211-43586716476f",
+        "value": "Active Ingredients .â   Pure olive - oil is unctuous , pale yellow , or yellow with a greenish tinge , very slightly odorous , and possessed of a bland and slightly sweetish flavour .The sp .",
+        "words": [
+          "odorous",
+          "very slightly odorous",
+          "Pure olive - oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/52022045-1cd6-54cc-89f6-436ef31e6af9",
+        "value": "The centifolia , aboriginal to the woods in the eastern parts of the Caucasus , is at once distinguished from the Gallica by its drooping flowers .The canina , an inhabitant of every English hedgerow , is known by its long and arching shoots , small leaves , which are destitute of glands , and small and faintly odorous flowers , rarely possessing depth of hue .Preparations and Dose .",
+        "words": [
+          "odorous",
+          "flowers",
+          "small",
+          "faintly odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/564a72f4-6bac-52fd-a7ab-17a63ff7597e",
+        "value": "The taste is very bitter .It is readily soluble in water , and when heated gives out an odour resembling that of E 242 CURARA .chocolate .",
+        "words": [
+          "odour",
+          "It",
+          "resembling that of E 242 CURARA"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/58cad6ac-59df-5fc3-ae5b-b9e72a781de7",
+        "value": "It has a very sharp and unpleasant taste ; is almost insoluble in cold water , more easily soluble in hot ; and soluble in spirit , ether , chloroform , arnylic alcohol , benzole , and dilute acids .The pure alkaloid is permanent in the air ; the impure ( which is amorphous ) is hygroscopic , and much more soluble in water than the former ; it has also a tobacco - like odour .Besides the alkaloid , an einpyreumatic oil has been obtained , by Morris , from the destructive distillation of the plant ; it is identical in character with a similar oil obtained from digitalis , and is a powerful narcotic .",
+        "words": [
+          "odour",
+          "it",
+          "tobacco - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/59049e4a-b057-5ed7-b788-844489516369",
+        "value": "It quickens the pulse , relieves nausea and flatulence , increases the appetite , and causes slight moisture of the skin .At the same time the flow of urine is augmented , the colour of the fluid be - comes darker , and a brown sediment is deposited , accompanied by a strong aromatic smell .4 .",
+        "words": [
+          "smell",
+          "strong aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/5abd2cd4-1db9-512f-a73d-286290008819",
+        "value": "Active Ingredients .â   The oil upon which depends the well - known scent of this plant is colourless ; it is apparently of the same composition as the Labiate oils already described , and retains both the odour and the taste of the plant .Sp .",
+        "words": [
+          "odour",
+          "scent",
+          "of this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/5be32ffe-f4f8-566e-883a-30d0840adb34",
+        "value": "â   Several other species of aloes supply a gum - resin of properties similar to those of the officinal kinds , and advantage would seem to be taken of this in the collecting .Such , for example , are the Aloe spicata , which appears to yield â   Cape aloes , â   a sort even stronger and of still more disagreeable odour than the Barbadoes ; the Aloe purpurascens , by some botanists considered to be a variety of the Socotrina ; the Aloe arborescens , the A .Commelyni , the A .",
+        "words": [
+          "odour",
+          "more disagreeable",
+          "even stronger",
+          "Cape aloes",
+          "the Aloe arborescens",
+          "the Aloe purpurascens",
+          "the Aloe spicata",
+          "the A ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/5cecde1b-0fe7-551a-bd16-72260df583bb",
+        "value": "3 a brownish colour externally , white internally , with an earthy odour , and has been frequently gathered for horse - radish .But the root of the latter plant is of much the same thickness all the way down , and destitute of fleshy lateral fibres , while the odour on scraping is exceedingly penetrating , and forms in itself an excellent distinctive mark .The flowering - stems rise early in the spring , gradually attaining the height of three or four feet .",
+        "words": [
+          "odour",
+          "exceedingly penetrating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/5e2ee294-784b-5cda-a498-097ce04dee77",
+        "value": "The leaves are pinnate , composed of 8 to 12 leaflets , which are oval , entire , and perfectly glabrous ; the small green flowers are borne in axillary panicles ; the berries are small , pea - like , and reddish .The sweet and fragrant resin called mastich is obtained from this tree by incision .When pure , it occurs in small , pale - yellow friable tears , entirely soluble in ether and in chloroform ; soluble in alcohol to the extent of 80 per cent ; and wliich when chewed become soft and ductile .",
+        "words": [
+          "sweet",
+          "resin",
+          "fragrant",
+          "mastich"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/5f59fb66-cf30-56f7-832f-cba228f3096d",
+        "value": "These symptoms continue only so long as the occupation is pursued .Like other substances of an aromatic nature , orange - peel produces in the stomach a grateful sense of warmth .4 .",
+        "words": [
+          "aromatic",
+          "orange - peel",
+          "aromatic nature",
+          "produces in the stomach a grateful sense of warmth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/60034014-8060-5349-a5a7-5fd58e969c9a",
+        "value": "Cinnamic acid , C9H8Oz ( a constituent also of the Balsams of Peru and Tolu ) , is colourless and crys - talline ; soluble in alcohol , and sparingly so in cold water .It is distinguished from benzoic acid by yielding the odour of oil of bitter almonds on being treated with a solution of chromic acid .The third important element of storax , styracine , C18H1602 , is a crystalline solid , sometimes obtained in a liquid state .",
+        "words": [
+          "odour",
+          "of oil of bitter almonds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6018194d-6aca-57ae-8e91-4366ae1df115",
+        "value": "The berries are ovoid , and of a fine translucent crimson .The smell of this plant , while fresh , is somewhat heavy and disagreeable , but when dried it becomes perfectly inodorous .A PHYSIOLOGICAL ACTION .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "of this plant",
+          "perfectly inodorous",
+          "somewhat heavy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6219a5b9-f085-570b-aef1-482f19777f69",
+        "value": "In irritable conditions of the alimentary canal , cinchona is apt to produce vomiting or purging ; but neither of these results ensues upon the exhibition of cascarilla in anything like a moderate dose .In England , cascarilla is chiefly employed in such forms of dyspepsia as require an aromatic stimulant and tonic .It is also used in cases of debility generally ; and in chronic bronchial affections , with a view to checking excessive secretion of mucus .",
+        "words": [
+          "aromatic",
+          "cascarilla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/626a10d5-32d5-572d-8d08-a3ceee57caa6",
+        "value": "The stem , renewed year by year , is 3 to 4 feet high , stout and hollow ; the ovate leaves are 5 or 6 inches in length ; the yellow and pentamerous flowers are nearly an inch across , and are produced in axillary whorls .Gentian - root has a bitter but somewhat saccharine taste , and a sweet odour .When dried , it becomes corrugated .",
+        "words": [
+          "sweet",
+          "odour",
+          "Gentian - root"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/628b375d-7011-58f7-83ac-ba7d7594af61",
+        "value": "The oil , though clear and colourless when fresh , gradually acquires , by keeping , a dark and reddish - brown hue .The taste is aromatic and some - what acrid ; the odour is that of the spice , and very strong .It is soluble in alcohol , ether , and the fixed oils , and has a sp .",
+        "words": [
+          "very strong",
+          "odour",
+          "that",
+          "of the spice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/63eebe1d-3320-5bc1-8f12-d1ed08ad6546",
+        "value": "The irritant qualities of the volatile oil have been thoroughly tested .It is one of the most poisonous of the ethereal oils : rabbits have been killed in two hours by a drachm , and in fifteen minutes by half an ounce ; there was violent gastro - enteritis , and the odour of the oil was perceptible in the blood , the urine , and the breath .Upon the human skin the volatile oil acts with exces - sive severity , causing great burning pain , with redness and rapid vesication , even when much diluted .",
+        "words": [
+          "odour",
+          "perceptible",
+          "of the oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/64752b30-c43c-5201-96aa-8881de28cb89",
+        "value": "Active Ingredients .â   The recent and outermost part of the rind of the fruit has an aromatic and bitter taste ; the odour is strong and peculiar .These qualities depend upon the presence of a volatile oil , which , when pure , is colourless or pale yellow , limpid , fragrant , and possessed of a warm and bitter taste .",
+        "words": [
+          "strong",
+          "odour",
+          "peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/64e45abd-261b-5274-971f-f03106f02f8d",
+        "value": "Besides these , there are gum , extractive , and other constituents ordinarily occurring in the bark of trees .Salicine , when separated , presents itself in the form of white and silky acicular crystals and 1 ami me ; it is bitter and in - odorous , and soluble in water and in alcohol .3 .",
+        "words": [
+          "odorous",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/659331de-8210-5d53-8e09-f6ccd9296724",
+        "value": "â   Canada balsam exudes from the trunk of the Abies bal - sajiiea , a North American conifer attaining the height of 40 feet , with short and solitary leaves that are silvery under - neath , and erect and cylindrical cones , four to five inches in length .As met with in commerce , the balsam , so called , is a pale yellow , translucent oleo - resin , of the consistence of thin honey , very ductile when warmed , and of a peculiar and agree able odour , with a slightly bitter and acrid taste .2 .",
+        "words": [
+          "odour",
+          "peculiar",
+          "the balsam",
+          "agree able"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6636541c-7b5d-5f88-a4db-6d55447244a9",
+        "value": "The leaves are pari - pinnate ; the leaflets , produced in two or three pairs , are oval and entire ; the slightly clustered and brilliant blue pentamerous flowers are nearly an inch across .The lieartwood , commercially known as â   lignum vitse , is of a dark greenish - brown colour , and one of the hardest and heaviest yet discovered ; it possesses little or no smell , but upon friction , or if burned , it yields a perfume ; tho taste is bitter and some - what warm .By means of incision , also by natural exudation and by application of heat , the tree yields guaiacum resin .",
+        "words": [
+          "perfume",
+          "smell",
+          "little",
+          "it",
+          "The lieartwood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/66a43f39-31a9-548e-b9a4-6a88516c9eb3",
+        "value": "Active Ingredients .â   Every portion of this plant , while fresh , has a heavy and disagreeable odour .In America the scent is said to be sometimes so powerful as to cause sickness in those who inadvertently expose themselves to it .",
+        "words": [
+          "odour",
+          "heavy and disagreeable",
+          "Every portion of this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/67513fe9-e8ca-5d3d-8c0c-52881ccf94f2",
+        "value": "515 are opposite , petiolate , 2 to 5 inches across , either 3 to 5 - lobed or cordate , serrated , and very rough ; the flowers are dioecious , those of the male plants forming large light and feathery panicles ; those of the females constituting chaffy cones , 1 to 3 inches in length , every scale , when the cone is ripe , having a couple of seedlike fruits at the inner base , and being powdered , over its inner surface , with minute golden - yellow resinous glands or grains , which easily shake off , and constitute â   lupuline .â   These grains are aromatic and in - flammable .2 .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6758cd92-5a35-595d-be35-afa196139fdc",
+        "value": "The influence upon the urinary organs is shown by diuretic effects , and by the changed quality of the secretion , which ac - quires a deeper colour , a certain degree of bitterness , and a slightly balsamic odour , or , at times , the smell of violets .This peculiar odour is perceptible , likewise , in the stools .After standing a little while , the urine of persons who have taken copaiva often presents , also , a filmy covering or delicate pellicle , which is apt to be iridescent ; the suspension in it of a certain resinous matter produces , at the same time , a very manifest turbidity .",
+        "words": [
+          "odour",
+          "peculiar",
+          "perceptible",
+          "in the stools ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6a5e44e0-73be-5b6a-99c4-18f1296cbb2f",
+        "value": "Therapeutic Action .â   When it can be obtained go o d , â   that is to say , as the result of simple expression , as ordered by the Pharmacopoeia , instead of by means of heat , which gives it a disagreeable taste and smell , â   linseed - oil is an excellent corrective of habitual costiveness .If a little tincture PURGING FLAX .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6a727499-471a-5423-8fb0-5f47a186ce30",
+        "value": "Myrrh itself , in its pure and THERAPEUTIC ACTION .287 concrete state , is a reddisli - brown solid , faintly translucent , plea - santly odorous , especially when rubbed , and possessed ot an aromatic and bitter taste with considerable warmth .2 .",
+        "words": [
+          "odorous",
+          "santly odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6e81dfb8-1d9d-5e09-9aae-c63330c0e1e1",
+        "value": "The extreme effects are seen in numerous bloody evacuations , attended by painful tenesmus , colic , and enteritis .The general action is therefore much the same as that of jalap , but more powerful ; while as a medicine it has the advantage over the last - named in being less nauseous both in smell and taste .Compared with gamboge , scammony is deci - dedly less irritant .",
+        "words": [
+          "smell",
+          "it",
+          "less nauseous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6f52ca37-10c3-58db-893c-18b3882f2d98",
+        "value": "o / < are bruised , is offensive and characteristic .Drying dissipates the odour , hut the taste remains , and then exhibits a certain amount of astringency .Their most important constituent is amygdaline , the formula of which , according to Wohler and Liebig , is C3 * * * * * * * * * * * * * * * * 20H27NOU ; a substance identical with the glucoside of that name which is found in bitter almonds , although not crystalline , like the latter , but amorphous .",
+        "words": "odour"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/6f57008b-b0b7-5c36-ad82-17a89ecd7a94",
+        "value": "A third ingredient , present only in minute quantity , is a volatile oil , which possesses in a high degree the characteristic odour of the plant , but is scarcely at all poisonous .This plainly shows that it is not the active principle of conium ; and further , that in judging of the pharmaceutical value of different preparations of hemlock , no stress can be laid either upon the presence or the absence of the accustomed odour .3 .",
+        "words": [
+          "odour",
+          "accustomed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/732d00d4-80b3-542d-a516-20edb873b30f",
+        "value": "The small yellow flowers appear in racemes before the leaves ex - pand ; the fruit is bright blue , and rather larger than a pea , while the clavate peduncles are red , the contrast of colours presenting an appearance very remarkable .Sassafras - wood occurs m commerce in large pieces of a greyish red colour , soft , spongy , light , and possessed of an aromatic odour .More usually it is met with in the form of â   chips .",
+        "words": [
+          "odour",
+          "aromatic",
+          "Sassafras - wood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/7427a9d2-a73a-519d-9d3f-9d92beec75ff",
+        "value": "Active Ingredients .â   Besides resin , gum and other unimportant substances , which constitute the chief bulk , asafcetida contains a variable quantity of volatile oil , upon the presence of which its odour and its properties essentially depend .The usual quantity is about 3 ' 5 to 4 - 5 per cent .",
+        "words": [
+          "odour",
+          "gum",
+          "its",
+          "asafcetida"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/744bc0fe-a062-5fe4-a339-3ac4629ffbf1",
+        "value": "â   The best Siam benzoin occurs in white or reddish tears , agglutinated together by a darker coloured and amorphous portion , the fracture presenting an amygdaloid appearance .The odour is agreeable , to some persons it is fragrant ; the taste is balsamic and slightly sweet .When heated , it melts , and gives off benzoic acid in the form of white fumes , with a little empyreumatic oil , and then gradually consumes away .",
+        "words": [
+          "fragrant",
+          "agreeable",
+          "odour",
+          "it",
+          "to some persons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/7686c6a7-1a44-56cf-a23f-bcf03b4c2334",
+        "value": "( d ) Myrosine is an albuminoid substance analogous to emulsin , and acts as a ferment to the myronic acid in mustard - seeds , as soon as water is mixed with the flour .By this reaction is produced â   ( e ) The volatile oil of mustard , whioh has no existence in the dry seeds * It is colourless or light yellow ; has a pungent odour and taste , and a neutral reaction .It largely consists of the sulpho - cyanide of allyl , C * H6NS , mixed with some cyanide of allyl .",
+        "words": [
+          "pungent",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/76d3428d-59ff-5ba8-979c-aa554c7894ee",
+        "value": "Therapeutic Action .â   Nervous headache and hys - teria are said to be relieved by the smell of rosemary , and the powers of the mind have been said to be quickened .It is celebrated also for its property of encouraging the growth of the hair , and mitigating baldness .",
+        "words": [
+          "smell",
+          "of rosemary",
+          "relieved",
+          "Nervous headache and hys - teria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/77a65d57-4350-559e-9e3c-2d6c6736f2e9",
+        "value": "In commerce this drug occurs in horizontal slices , light brown in colour , of a worn and dirty appearance , variable in thickness , and from 2 to 5 inches in diameter ; the pieces which formed the upper extremity of the root retaining relics of the base of the stem , and portions of the dark brown and papyraceous skin .The odour is musk - like , the taste after a time becomes somewhat bitter and balsamic , and by mastica - tion a pleasant aroma is evolved .2 .",
+        "words": [
+          "odour",
+          "musk",
+          "aroma",
+          "pleasant",
+          "like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/77b03d0c-cd52-57bd-8893-d35327bd710c",
+        "value": "Active Ingredients .â   The oil of sweet fennel , constituting the active principle , is of a light straw colour , and retains the odour of the fruit .In composition it corresponds with the oil of anise ; it contains , moreover , a peculiar camphor - like body with a high boiling point .",
+        "words": [
+          "odour",
+          "The oil of sweet fennel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/7c186056-206a-5319-b49c-3b80a7f97724",
+        "value": "Spiritus myristicse : dose , 30 to 60 minims .The volatile oil of nutmeg enters into the composition of pilula aloes socotrinue , and of the spiritus ammonite aroma - ticus .ASCLEPIADA CEPE .",
+        "words": [
+          "aroma",
+          "The",
+          "ammonite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/7e6293a3-1d43-59ec-9158-0606017d3e10",
+        "value": "lanceolate , about two inches in length , subsessile , serrated , glabrous and bright green ; the small and purplish flowers are produced in terminal and cylindrical spikes .The odour of the herbage is strong and agreeable ; the taste pleasant , aromatic , and somewhat bitter .* 2 .",
+        "words": [
+          "strong",
+          "agreeable",
+          "odour",
+          "of the herbage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/7f49abce-1dc9-5503-a028-3503720970c3",
+        "value": "â   Cardamoms well illustrate the aromatic qualities of the seeds of the Zingiberacese .They are gratefully fragrant and pungent , carminative and stomachic , and , compared with many other substances of their class , less heating and stimulating .4 .",
+        "words": [
+          "pungent",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/7f912a0d-3b4c-594e-8b01-e406fb3caab3",
+        "value": "Active Ingredients .â   Bucku leaves contain 7 per cent , of a volatile oil , which gives them a powerful and pene - trating odour .This oil is yellowish - brown , and lighter than water .",
+        "words": [
+          "them",
+          "odour",
+          "powerful",
+          "of",
+          "cent",
+          "pene",
+          "trating",
+          "Bucku leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/80aa0f5d-e8b9-57d8-9766-f03e61609268",
+        "value": "Upon making incisions in the bark , during the heat of the day , the resin exudes freely .While moderately fresh , it is soft and tenacious , translucent , reddish , or yellowish brown , fragrant , and of a pleasant and somewhat sweetish taste .With age the character of softness gives way to hardness and brittleness , and the texture becomes granular and somewhat crystalline .",
+        "words": [
+          "fragrant",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/81663add-c235-57ab-bd97-4ff382d8830c",
+        "value": "Picked out carefully and dried , the stigmas and styles are the saffron of commerce .In this condition they acquire a deep orange colour : the odour is powerful , penetrating , and diffusive ; the taste is warm , pungent , and rather bitter .Chewing saffron renders the saliva yellow ; if it be triturated with ginger in a mortar , the same colour is communicated ; and if moistened , and pressed upon white paper , the tint is shown even more plainly .",
+        "words": [
+          "penetrating",
+          "odour",
+          "powerful",
+          "diffusive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/82efb5f3-5afb-5fcb-b414-ef9e4f458c17",
+        "value": "The myristic acid crystallizes in silky needles .In addition to the fixed oil , there is a volatile one ( the same as that obtained by distillation ) , which is colourless or pale yellow , and has the peculiar smell and taste of the nutmeg itself .Sp .",
+        "words": [
+          "smell",
+          "peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/84360371-9745-5b08-ae16-e664ec435667",
+        "value": "The fruit itself is sweetish , and by no means dis - agreeable .The leaves have a sub - acid and somewhat nauseous 48 belladonna .taste , but scarcely any odour until bruised or crushed , when , like the stem , they evolve an unpleasant smell .",
+        "words": [
+          "nauseous",
+          "48"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/84471f2d-09f7-5bf7-93a8-1f934aec0fe0",
+        "value": "They are followed by about three large follicles , each of which contains several rudely globular seeds , brown externally , and having an ex - tremely bitter taste .The odour of these seeds is offensive , and , were it more powerful , would amount to fcetor .The native countries of this remarkable plant are Provence , Languedoc , and others of the south of Europe , whence it extends to the Levant .",
+        "words": [
+          "offensive",
+          "odour",
+          "more",
+          "more powerful",
+          "of these seeds",
+          "would amount to fcetor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/84e85725-3e39-5751-9b40-9230b5cd86ab",
+        "value": "But the infusion will not keep for any length of time , as it rapidly undergoes decom - position .It may be usefully combined with aromatics , with orange - peel , alkalies , and neutral salts .Sometimes the root is chewed , after the manner of rhubarb .",
+        "words": [
+          "aromatics",
+          "neutral",
+          "alkalies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/84f392dc-5561-53a9-8b01-29a9907a166a",
+        "value": "Mannite , C3H703 , may be extracted from the crude manna by means of boiling alcohol , from which , on cooling , it separates in shining , whitish , four - sided , and acicular crystals .It is odour - less , sweet , soluble in boiling , less so in cold , alcohol , and is incapable of fermenting with yeast .3 .",
+        "words": [
+          "odour",
+          "- less"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/853c572d-f68b-5595-9c37-4b9f4ec56dc0",
+        "value": "Active Ingredients .â   Cardamom seeds are fragrant ; the taste is warm , pungent , and highly aromatic .Their prin - ciples are extracted by water , and still more easily by alcohol .",
+        "words": [
+          "fragrant",
+          "Cardamom seeds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/85ef3a36-65f9-5fe9-8971-f301ace44ac1",
+        "value": "Physiological Action .â   Cardamoms well illustrate the aromatic qualities of the seeds of the Zingiberacese .They are gratefully fragrant and pungent , carminative and stomachic , and , compared with many other substances of their class , less heating and stimulating .",
+        "words": [
+          "aromatic",
+          "Cardamoms",
+          "the seeds of the Zingiberacese"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/8671917f-0721-5257-b8d5-edfd0be552a2",
+        "value": ", and rises with the water on distillation .It is colourless , possessed of an agreeable and penetrating odour , and of a strong , burning , camphoraceous , and slightly bitter taste ; this , however , as well as the scent , is lost by exposure to the atmosphere .In addition to the volatile oil , cardamom seeds contain a fixed oil , some colouring matter , salts , and other unimportant ingredients .",
+        "words": [
+          "strong",
+          "agreeable",
+          "penetrating",
+          "odour",
+          "scent",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/86cf94e8-02df-5dc9-b986-8239713175a6",
+        "value": "â   Croton oil , as expressed from the seeds , and employed in medicine , is a clear , darkish - brown , rather thick fluid , and contains , according to Schlippe , 1 4 per cent , of a substance which he calls crotonol , and upon which the irritant action of the drug on the skin appears to depend .It is a colourless or pale - yellow turpentine - like substance , with a faint but characteristic odour ; it is destroyed by heat ; and the action of caustic potash changes it to a brownish resinoid mass .This , however , is not the â   purgative , principle of croton oil , for Schlippe could not produce either diarrhoea or intestinal inflam - mation when he administered as much as grain to rabbits .",
+        "words": [
+          "odour",
+          "faint",
+          "It",
+          "characteristic",
+          "turpentine -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/8707d9bb-fdaa-5102-875a-bd55b5ba2fc4",
+        "value": "The latter is externally dark - red , internally reddish - brown , and so heavy as to sink in ^ water .It is cut into chips , which have a slight and agreeable odour , and a sweetish taste , and on being chewed , impart to the saliva a dark pink colour .2 .",
+        "words": [
+          "agreeable",
+          "odour",
+          "slight",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/88f87585-99a7-5117-bed1-723da0205d94",
+        "value": "2 .Active Ingredientsâ   The active element of the odorata is the alkaloid violine , discovered in the root by Boullay ( 1828 ) .It is a pale - yellow , bitter - tasting powder , which , on the application of heat , first melts and then burns like a resin .",
+        "words": [
+          "odorata",
+          "alkaloid violine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/8aec515f-69cf-595f-b8be-1606f42a5505",
+        "value": "Administered in large doses , it induces nausea , followed by flatu - lence and purging .Observations are still wanting , however , both as to its absolute properties and its relative ones ; and meantime it is safest , perhaps , to regard this drug as an aromatic tonic and stomachic , adapted for substitution when there are BUCKU .255 objections to cascarilla , cinchona , or calumba , and especially foi use in the tropics .",
+        "words": [
+          "aromatic",
+          "drug"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/8d744204-0459-5328-baae-5fdbf0e1dbd4",
+        "value": "The root is biennial ; the stem is 4 to 6 feet high ; the large tripinnatifid leaves , formed of innumerable little segments , are triangular in general outline , and often 20 to 24 inches in length near the base of the plant , all spreading and hanging very gracefully ; the compound umbels of minute white flowers appear in June and July ; the ovoid and pale - green fruits are about an eighth of an inch in length , and are produced in great plenty .The leaves of hemlock have a strong and unpleasant taste , and upon being bruised emit a disagreeable odour , resembling the smell of mice or of catsâ   urine .Active Ingredients , â   The special and characteristic medicinal substance contained in hemlock is a peculiar alkaloid , called coniine , and known also by the names of conin , conia , and cicutine .",
+        "words": [
+          "odour",
+          "smell",
+          "disagreeable",
+          "of",
+          "resembling the smell",
+          "of catsâ   urine",
+          "The leaves of hemlock",
+          "smell of mice or of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/8d8eb695-2cd3-5afc-aadb-de4f55f40b6e",
+        "value": "Bonjeanâ   s was called extrait hcemostatique , and espe - cially recommended for uterine and pulmonary haemorrhages .It is a reddish - brown substance , with a roast - meat - like smell , and a pungent bitter taste .Aneurism , however , was the disease , the treatment of which with ergotine fully aroused attention to the importance of this remedy .",
+        "words": [
+          "roast",
+          "smell",
+          "It",
+          "roast - meat - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/8f91011a-c4aa-5752-ac02-4722d2192286",
+        "value": "The leaves have a sub - acid and somewhat nauseous 48 belladonna .taste , but scarcely any odour until bruised or crushed , when , like the stem , they evolve an unpleasant smell .When dried ! the former retain their active properties for a considerable period , â   provided they are carefully protected from the influence of air and moisture .",
+        "words": [
+          "odour",
+          "smell",
+          "unpleasant",
+          "they"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/903925b8-0a77-5918-822c-7165e884fee6",
+        "value": "191 is that of tallow ; in colour it is yellowish ; the fracture is clean , presenting no indications of an admixture of foreign matter ; exposure to the air does not render it rancid ; in water it is in - soluble , but in alcohol , ether , and oil of turpentine it dissolves ; it melts at a temperature of 122Â ° .To these qualities are added a bland and agreeable flavour , and an odour resembling that of chocolate .Good shelled cocoa - beans contain about 52 per cent , of this oil .",
+        "words": [
+          "odour",
+          "resembling that of chocolate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/92e6d04a-2ad9-5a81-9e91-1245889ac16b",
+        "value": "Physiological Action .â   The volatile oil obtained by distillation of the berries with water is aromatic , stimulant , and narcotic .In large doses the leaves are emetic .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/9361ed3d-600a-5a24-9219-940f28d708b7",
+        "value": "The volatile oil is obtained by the distillation of the bark with water .It retains the peculiar odour of the bark , and in taste is acrid ; it is lighter than water , and is of a yellowish - white colour .3 .",
+        "words": [
+          "odour",
+          "peculiar",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/93b340b4-e19b-5c45-b8f4-e939909fa81e",
+        "value": "It is lighter than water , and at first is colourless , but exposure to the air causes it to acquire a yellow tinge and also to become acid .The odour is very powerful , and , as evaporation proceeds rapidly , it is soon perceived at a long distance .The taste is at first mild , afterwards bitter and acrid .",
+        "words": [
+          "odour",
+          "very powerful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/93f5163e-6eee-57dd-b14c-c9fc07b2e6f7",
+        "value": "maize ) , semolina , sugar , treacle , and other well - known vegetable products , are derived from different members of the order , but nothing is yielded that can be said to possess properties such as v ould entitle it to the name of a drug .In India , a few species aie reputed useful by reason of their bitterness and aromatic qualities , but nothing of the kind appears in the Materia Medica or the Pharmacopoeias of Great Britain .Intimately connected with this great natural order we have a drug , nevertheless , of immense potency , namely Ergot , which , though from the botanical point of view more properly classed with the fungi , as a therapeutic agent , is more conveniently considered in the present place .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/94bb49a9-9352-5b83-921a-5212cddfa798",
+        "value": "â   A native of western Thibet , where it attains the height of at least 8 or 9 feet .The stem is 0 - 7 inches in circumference at the base , robust and branchy ; the leaves are bipinnate , those near the ground two feet or more in length ; the flowers are yellow , and produced in numerous and very large umbels ; and the root , which is massive and perennial , blackish externally , but white in the inside , is charged with dense and milky juice , the odour of which is alliaceous and penetrating .From the root is obtained the asafcetida , incisions being made in the upper part , from which the milky juice exudes and soon coagulates .",
+        "words": [
+          "penetrating",
+          "odour",
+          "alliaceous",
+          "which"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/9585f623-1860-5b98-9c1d-587b8ee6933c",
+        "value": "With age the character of softness gives way to hardness and brittleness , and the texture becomes granular and somewhat crystalline .If heated , it melts readily , and , while burning , gives out an agreeable odour .352 LOGWOOD .",
+        "words": [
+          "agreeable",
+          "odour",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/96f0275f-2535-5f59-81fc-138de912a9b4",
+        "value": "Taken with food , it produces a sense of warmth in the stomach , and is said to assist the digestion , especially of animal food .Freely administered in the form of infusion , it produces a sensation of soreness and relaxation in the throat , with a burning heat in the stomach , soon followed by nausea and vomiting ; the urine is increased in quantity , and often acquires the peculiar odour of the plant .Tiedemann injected an ounce of the juice into the crural vein of a dog , and immediately after detected its odour in the animalâ   s breath .",
+        "words": [
+          "odour",
+          "peculiar",
+          "the urine",
+          "of the plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/986b9a26-cb03-56e1-a05a-df5b197b5a1a",
+        "value": "Physiological Action .â   The root of this plant , when dry , is scentless .On chewing it , there is soon perceived on the lips and tongue a peculiar pricking sensation , accompanied by heat .",
+        "words": [
+          "scentless",
+          "The root of this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/986f78a7-8355-54be-be9a-cef7904353ad",
+        "value": "â   The taste of the rhizome is hot and biting , with a little acridity superadded : these characters it retains when dried .The odour , although in recent examples faint , then becomes pleasantly aromatic and pungent .These qualities depend chiefly upon a .",
+        "words": [
+          "pungent",
+          "odour",
+          "faint",
+          "pleasantly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/98e0f588-1511-554b-ae00-025215e5a80e",
+        "value": "The evacuation of the bowels is generally attended by griping pains ; the stools are copious , but not too abundant ; there is usually only one , or at all events there are not more than two .They are feculent , and of a dark brownish yellow colour , and have a characteristic odour .The number of motions depends more upon the condition of the bowels , i .",
+        "words": [
+          "odour",
+          "They",
+          "feculent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/992a21dc-6edd-5f90-b03a-563f4069bab3",
+        "value": "The qualities of the order consist in bitterness , with a certain amount of astringency .Some species contain an acrid resinous matter ; others an etherial oil , which renders them aromatic .In medicine , accordingly , the Compositae become valuable as tonics and stimulants ; also as purgatives , diaphoretics , and diu - retics .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/994b1779-2e66-5b24-9dba-9f183520b905",
+        "value": "The active principles of the plant , which are probably identified with the oils , or with one of them , are separable by means of ether , in which they are soluble .The ethereal extract , termed â   oil of male fern , â   contains also the resin ; it is blackened by the pre - sence of colouring matter , and retains the peculiar odour of the rhizome .3 .",
+        "words": [
+          "oil",
+          "odour",
+          "peculiar",
+          "it",
+          "The ethereal extract"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/99ce3211-2796-5c94-a628-64b610fbfa77",
+        "value": "Active Ingredients .â   Iceland moss is devoid of odour , but possessed of a bitter taste , and in substance is muci - laginous .It contains about 80 per cent , of farinaceous matter , which is resolvable into lichenine , or lichen - starch , and the starcli - like body called inuline .",
+        "words": [
+          "Iceland moss",
+          "odour",
+          "laginous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/9a0aefe8-2633-512d-b199-d8da801a1a41",
+        "value": "â   Every portion of this plant , while fresh , has a heavy and disagreeable odour .In America the scent is said to be sometimes so powerful as to cause sickness in those who inadvertently expose themselves to it .The taste is bitter ; and if the plant be chewed , the saliva acquires a green tinge .",
+        "words": [
+          "scent",
+          "so powerful",
+          "sometimes",
+          "In America",
+          "as to cause sickness in those who inadvertently expose themselves to it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/9a23b2f0-a3b4-5632-8199-54e68593e8e6",
+        "value": "Active Ingredientsâ   The flowers contain volatile oil ( called oil of Neroli ) , bitter extractive , and other substances .The water prepared from them should be colourless and fragrant .The rudimentary and , of course , unripe fruits contain volatile oil , a bitter extractive ( hesperidine ) , bitter astringent matter , and citric and malic acid .",
+        "words": [
+          "fragrant",
+          "The water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/9f52da4e-72a6-599a-a080-33cd62566e09",
+        "value": "â   â   Storax in the tear , â   the genuine liquid balsam of storax , is brownish - yellow , trans - lucent , and of the consistence of honey .The odour is peculiar and agreeable ; the taste is warm and aromatic .When pure , it is soluble in alcohol and in ether .",
+        "words": [
+          "agreeable",
+          "odour",
+          "peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/9fa7a7d8-e12d-5717-b2cb-cdaf115341a1",
+        "value": "In commerce this gum - resin occurs in irregular lumps of a yellowish or pinky - brown colour , breaking with a conchoiclal fracture .The newly - exposed surface is whitish and pearly , but exposure to the atmosphere causes it to assume , after a little while , a violet - red or peach - blossom hue .But this soon fades , and the tint changes to the yellowish or pinkish - brown which pertains to the superficial part .",
+        "words": [
+          "peach",
+          "blossom",
+          "hue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/a0e524dc-a776-5276-a74b-bfb45b353a56",
+        "value": "â   Gentian - root has long been employed as a valuable tonic ; and before the discovery of the cinchonas , occupied the first place in medicine as a febrifuge .It is very properly regarded as a pure and simple bitter , that is to say , as a bitter without the accompaniment , or nearly so , of either astringency or aroma .It agrees best with patients of a torpid and phlegmatic habit , but should be avoided where the temperament is irritable .",
+        "words": [
+          "It",
+          "aroma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/a113d582-2761-55f9-8d75-42166edbf96a",
+        "value": "The pods of this one rarely exceed an inch in length .The hot and fiery taste of capsicum , and the extremely pungent odour , are well known .These properties are readily communicated to alcohol and to ether , and , in a less degree , to water , and confer upon capsicum the character of a powerful stimulant .",
+        "words": [
+          "odour",
+          "extremely pungent",
+          "of capsicum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/a83387c3-8580-5f56-8d38-8b9f35c93aa5",
+        "value": "The juice of the Papaveracese is frequently coloured , resembling milk in the common opium - poppy , while elsewhere it is red or orange - yellow .The odour of the plants is often offensive .The qualities are expressed in their maximum in the Lethean poppy itself .",
+        "words": [
+          "offensive",
+          "odour",
+          "of the plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/a96e54fb-2f42-5fce-90c8-bdfe6cef5891",
+        "value": "Active Ingredients .â   The leaves , the tops , and the berries have a foetid and offensive odour , and a bitter , hot , and acrid taste .Distilled with water , they yield a considerable quantity of an essential oil , which is the active element of the therapeutic action .",
+        "words": [
+          "offensive",
+          "odour",
+          "foetid",
+          "The leaves",
+          "the berries",
+          "the tops"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/add86b86-0f20-5963-ada8-66c8e977fcbf",
+        "value": "The impure farm is distinguished by its greyish - yellow colour , and occurs usually in transparent scales .In taste it is bitter and acrid ; it is nearly destitute of odour , very soluble both in water and in alcohol , but insoluble in ether .In addition to the peculiar alkaloid emetine , ipecacuanha contains an astringent acid , C14H907 , somewhat akin to cate - cliine , and called cephaelic or ipecacuanhic acid .",
+        "words": [
+          "odour",
+          "it",
+          "nearly destitute"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ade1c78d-098e-517f-8dda-813b3462e00d",
+        "value": "Freely administered in the form of infusion , it produces a sensation of soreness and relaxation in the throat , with a burning heat in the stomach , soon followed by nausea and vomiting ; the urine is increased in quantity , and often acquires the peculiar odour of the plant .Tiedemann injected an ounce of the juice into the crural vein of a dog , and immediately after detected its odour in the animalâ   s breath .On the skin it produces perspiration when administered internally ; and when the scraped root is applied externally , it causes redness of the surface , which often leads to vesication .",
+        "words": [
+          "odour",
+          "its",
+          "in the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/af34b02a-f5f1-5ce9-91e0-3ec5f0f75ce6",
+        "value": "Upon analysis , the volatile oil resolves into a hydro - carbon , C10H16 , in which eugenic acid , C10H12O2 , is dissolved ; caryophylline , C10H16O , a substance isomeric with camphor ; and , thirdly , a body called eugenine , probably isomeric with eugenic acid .The caryophylline presents itself in crystals of satiny brilliance , destitute of taste and smell , fusible , volatile , and soluble in alcohol , but insoluble in water .The oil , though clear and colourless when fresh , gradually acquires , by keeping , a dark and reddish - brown hue .",
+        "words": [
+          "smell",
+          "fusible",
+          "The caryophylline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b5c4c332-b05d-5473-9119-92d4c1a562ea",
+        "value": "THE SEVILLE OR BITTER ORANGE ( Citrus vulgaris , or Citrus Bigaradia ) .This is a smaller tree than the preceding ; the leaves are more elliptical ; the flowers are more decidedly white , and yield a stronger perfume ; the rind of the fruit is not yellow , but deep - orange colour , and the pulp is acid and bitter .A good distinctive character is found also in the remarkable uneven - ness of the fruit .",
+        "words": [
+          "perfume",
+          "stronger",
+          "the flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b6138e44-1fb8-51f2-8e26-ea414faf3999",
+        "value": "Eor a variety of reasons , hereafter to be mentioned , it is now probable that neither arnicine nor the oil , but â   trimethylamine , â   is the really useful ingredient of arnica .Trimethylamine , C3H9N , is a clear colourless fluid , which boils at a very low temperature , and then emits a fishy smell .It is quite freely soluble in water , in alcohol , and in ether , and its vapour is absorbed by water with great avidity .",
+        "words": [
+          "smell",
+          "fishy",
+          "Trimethylamine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b6ddccb5-7927-540b-8a63-93d159b2d28f",
+        "value": "â   The wood of the picrsena owes its qualities to a peculiar neutral principle called quassine , or quassite , C10H12O3 .When separated it appears in the form of small , white , prismatic crystals , destitute ot odour , but intensely bitter ; fusible readily , soluble in alcohol , but very slightly so in either water or ether .There is no tannin or gallic acid in the bark .",
+        "words": [
+          "odour",
+          "small",
+          "ot",
+          "white , prismatic crystals"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b7930e1c-2a2c-570b-b0f7-134bf216c349",
+        "value": "The cloves of commerce are the unexpanded flower - buds , consisting of the long , inferior , and somewhat tetragonal ovary , the four small sepaliue lobes of the adherent calyx , and the incurved corolla upon the summit .The odour of cloves is strongly aromatic ; the taste is hot and acrid , but pleasant .Compared with pepper and ginger , it is not so fiery .",
+        "words": [
+          "odour",
+          "strongly aromatic",
+          "of cloves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b809cd3c-b0da-5d93-9e3b-c772e665690f",
+        "value": "Active Ingredients .â   The leaves , when dried and pulverised , evolve an odour resembling that of hay or tea ; their taste is bitter and astringent .The constituents , which are brought out both by water and by spirit , consist of about 35 per cent , of tannin ; T5 per cent , of bitter extractive ; gallic acid , just a trace ; a peculiar substance called arbutine , to which the properties of the plant are probably due ; and one or two others of little moment .",
+        "words": [
+          "odour",
+          "The leaves",
+          "resembling that of hay or tea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b8145156-dab2-5b3d-8a47-e6c94cb110eb",
+        "value": "The small greenish - white flowers are borne in little axillary clusters , the females upon distinct individuals , and succeeded by globular , dull - red fruits , the size of peas .The root is a large and fleshy tuber , of dis - agreeable odour and extremely nauseous taste .In continental Europe , especially in the woods and vineyards of the southern parts , grows the Bryonia alba , so called from the decided whiteness of the root .",
+        "words": [
+          "agreeable",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/b8766330-f369-5d62-91c8-b3d1666714d3",
+        "value": "â   An evergreen Japanese shrub , eight or nine feet high , with obovate and entire leaves , and solitary yellow flowers , which are followed by stellate clusters of woody follicles .These in particular , and other parts of the plant in a less degree , yield the odour of anise .2 .",
+        "words": [
+          "odour",
+          "of anise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/baf6e28d-dfa9-5ea1-b73e-6243090cfece",
+        "value": "2 .Active Ingredientsâ   The root while fresh exhales a disagreeable odour ; it is acrid , bitter , and very nauseous ; and if a small piece be chewed the mouth and fauces become ex - coriated .The active properties depend upon the presence of mm2 532 VERATliUM VI RIDE .",
+        "words": [
+          "odour",
+          "disagreeable",
+          "very nauseous",
+          "The root"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/bb5a4a6e-84a3-587f-94ea-764fd443a591",
+        "value": "In man , the opera - tion of the oil is shown especially in the region indicated .It quickens the action of the kidneys , causes vascular injection of those organs , and gives an albuminous character to the urine , which also acquires the peculiar odour of cubebs .In addition to these more striking effects , under the influence of cubebs , the peritoneum becomes affected ; the gastric mucous membrane becomes injected ; and , if the dose be large , there are nausea and vomiting .",
+        "words": [
+          "odour",
+          "peculiar",
+          "of cubebs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/bb63e459-1404-593c-99e5-b7b16c191e22",
+        "value": "â   The active properties of lobelia are yielded botli to alcohol and to ether , and appear to depend principally upon the presence of lobeline , 1 a peculiar alkaline principle which presents itself in the form of a pale yellow liquid , of less specific gravity than water , upon the surface of which it floats .The odour is aromatic ; the taste is pungent .It is soluble in water , more readily so in alcohol and in ether ; and forms crystalline salts with the mineral acids .",
+        "words": [
+          "odour",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/bce465e5-cd74-50e7-8a35-170cbef50e00",
+        "value": "Physiological Action .â   Very little is yet known beyond the general fact that rnatico is aromatic , stimulant , and laxative .4 .",
+        "words": [
+          "aromatic",
+          "stimulant",
+          "rnatico"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/bde083ae-5394-5447-bf93-501debd65d17",
+        "value": "The solid one makes its appearance when the oil is reduced to a temperature of 12Â ° or thereabouts , and receives the name of â   peppermint - camphor .â   It presents itself in the form of aeicular white crystals ; retains the taste and odour of the plant ; is soluble in alcohol and in ether , almost insoluble in water , and fusible at 92Â ° F .The composition is C10H19HO .",
+        "words": [
+          "odour",
+          "of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c05ffef1-99f2-5419-bea0-26e625823631",
+        "value": "From a watery solution codeia separates in crystals which contain water ; and , if the process he slow , forms large , regular , transparent octahedra , and light rhombic jirismsj these part with their water of crystallization at 100Â ° C .; in boiling water they melt into an oily fluid , odour - less , and of a weakly bitter taste .Codeia is soluble in 17 parts of boiling and 80 parts of cold water ; easily soluble in alcohol , chloroform , and ether .",
+        "words": [
+          "odour",
+          "they",
+          "- less"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c1617761-44b7-50eb-9ee8-b8e0f56fb38e",
+        "value": "The properties of the Umbelliferse are distinctly threefold .Some species produce aromatic and carminative fruits ; others furnish gum - resin ; others , with watery juice , are narcotic .There is also a list of simply poisonous species ; and another of esculents , while many more are negative or inert .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c28d765a-83f6-53f4-a84c-4205210a51df",
+        "value": "â   The root of this plant contains a volatile oil , a resin , and a bitter and acrid extractive matter , which last is soluble both in water and in spirit .The volatile oil is yellowish when newly evaporated , but with age it becomes brownish ; the odour is aromatic , the taste warm , bitter and camphoraceous .All the properties of serpentary are yielded to water , as well as to proof spirit and to alcohol .",
+        "words": [
+          "odour",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c4bbf66d-d47d-54ef-9928-3086a7bad963",
+        "value": ", and under the influence of nitric acid is transformed into ordinary camphor .Valerianic acid , C1JH10O \" , is a colour - less oily fluid , with a smell recalling at once the odour ot valerian , and that of decayed cheese ; it has a strongly acid and burning taste ; the specific gravity is somewhere about 0945 ; the boiling point about 170Â ° C .It greases blotting - paper , but the mark gradually vanishes .",
+        "words": [
+          "odour",
+          "smell",
+          "at once",
+          "that of decayed cheese"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c6745f7d-086d-5782-be5c-0ae913c0f571",
+        "value": "â   Nutmegs contain about SO per cent , of a concrete oil , which , when extracted by means of heat and expression , receives the name of butter of nutmegs .In commerce it occurs in solid , oblong , brick - shaped cakes , of an orange colour , and possessed of the agreeable and aromatic odour of the nut .Ordinarily , they are wrapped in the leaves of some endogenous plant .",
+        "words": [
+          "agreeable",
+          "odour",
+          "aromatic",
+          "brick -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c6d2eec0-0703-5974-b5c7-27c8d99a334e",
+        "value": "The inconspicuous flowers are usually clustered , and consist of a single perianth , a small and definite number of perigynous stamens , the anthers of which open by recurving valves , and a superior and one - celled ovary , which ripens into a baccate or drupaceous fruit , with a pendulous seed .The plants of this order are perfectly innocuous , and are noted very generally for their aromatic secretions .LA U Ii A CEAE .",
+        "words": [
+          "aromatic",
+          "their",
+          "secretions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c7961c12-eea5-55f7-af77-74b141ecbb6e",
+        "value": "1 Externally it is violet - black ; internally it is firm , pinkish , and mealy , with a short fracture .The odour is faint .If a thin slice be placed in water and viewed with a high magnifying power , it is found to consist of flocci and spores , compacted into a homogeneous mass .",
+        "words": [
+          "odour",
+          "faint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/c8a26dd7-42ee-573b-adb6-af2a61feb17b",
+        "value": "It is a mixture of cuminol and cymol .Cuminol , C10H12O , isomeric with anise oil , is a colourless oil with a sharp burning taste , and a strong smell like caraway .It is insoluble in water , readily soluble in alcohol and ether .",
+        "words": [
+          "strong",
+          "smell",
+          "Cuminol",
+          "like caraway"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ca378578-1632-5a9e-a11d-00131cbb6eab",
+        "value": "The stems rise to the height of about two feet ; they are branched , somewhat ligneous , and clothed with large and sinuated leaves which are usually decurrent .Every portion of the plant , excepting the corolla , is more or less downy and viscid , and possessed of a heavy and offensive odour .The flowers appear at first in a dense terminal cluster , but by degrees the stem elongates , so that by the time the blooming is finished there is a long and unilateral spike not unlike that of the digitalis .",
+        "words": [
+          "offensive",
+          "odour",
+          "heavy",
+          "Every portion of the plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/cdca1324-c067-5053-801a-098afec8a792",
+        "value": "Physiological Action ; â   The ancients , who were very imperfectly acquainted with mineral poisons , considered aconite to be the most deadly thing in nature , and their opinion is almost justified by modern experience .Every por - tion of the plant is more or less virulent ; even the odour thrown out when the plant is in full bloom is said to operate injuriously upon susceptible constitutions .Sometimes it causes b 2 4 ACONim loss of sight for a day or two ; in other instances it has been known to induce fainting fits .",
+        "words": [
+          "odour",
+          "operate injuriously upon susceptible constitutions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ce31cb2b-63c7-52e6-ae65-5596c693ed59",
+        "value": "The oil employed in pharmacy is obtained from these seeds by expression .It is translucent and viscid , and possessed of very little taste or smell , though what flavour there may be is considered nauseous .2 .",
+        "words": [
+          "smell",
+          "very",
+          "nauseous",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/cec7da0d-47f7-5fdf-b84e-f9390db97720",
+        "value": "However , in chronic gastric catarrh , attended with much pyrosis , opium in small doses , perhaps combined with the mineral acids , is sometimes very useful : and constipation may be met by the use of mild aperient waters , such as Pullna or Eriedriclishall , if necessary .In catarrhal affections of the intestines , especially in autumnal diarrhoea , and in English cholera ( early stage ) , the good effects of opium , combined or not , according to circumstances , either with mineral acids , or with chalk and aromatic confection , are well known .One - sixth to one - fourth or half a grain , or an equivalent dose of tincture , should be given every two , four , or six hours .",
+        "words": [
+          "aromatic",
+          "confection"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/cff14e9c-9535-5907-975e-d60842a2fbc3",
+        "value": "â   The recent and outermost part of the rind of the fruit has an aromatic and bitter taste ; the odour is strong and peculiar .These qualities depend upon the presence of a volatile oil , which , when pure , is colourless or pale yellow , limpid , fragrant , and possessed of a warm and bitter taste .It is soluble in anhydrous alcohol ; less so in rectified spirit .",
+        "words": [
+          "oil",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/d106a06c-734b-5ef5-8315-cd703031a8c7",
+        "value": "This tree is common in the morasses of the middle and southern United States , and bears the vernacular names of â   beaver - tree â   and â   swamp - sassafras .The bark has an aro - matic odour , diminishing , however , after it has been kept for some time ; and a warm , pungent , and rather bitter flavour .OTHER MAGNOLIA CEJi .",
+        "words": [
+          "odour",
+          "matic",
+          "The bark",
+          "aro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/d25c6de0-4a88-515b-a528-53e4a58625e2",
+        "value": "It consists of two bodies , carvol and carvene .The former has the formula C10H14O ; it is a thin , clear fluid , with caraway smell ; sp .gr .",
+        "words": [
+          "caraway",
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/d4724d25-9b9d-5de4-b45c-ad2ad0a1e21d",
+        "value": "â   The Eelleborus niger emits no particular odour until bruised .The fibres of the root , which are the part employed in medicine , have a disagreeable smell ; their taste while fresh is penetrating , and , though neither bitter nor very warm , it leaves a long persisting impression upon the tongue .Grew , in his work upon Tastes , describes its effects as benumbing and as inducing a paralytic stupor â   comparable to that produced by eating or drinking anything too hot .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "The fibres of the root"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/d58ec1ce-c6fe-5fd5-8011-d5d9ac4a934d",
+        "value": ") .As a perfume , oil of lemon is an exceedingly useful adjunct to sulphur ointment and to evaporating lotions .Lemon - juice , converted into â   lemonade , â   is of great service in febrile and inflammatory complaints , and in haemorrhages .",
+        "words": [
+          "perfume",
+          "oil of lemon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/da9389a9-c14c-559d-8103-3c03bcd65dbb",
+        "value": "dulce may after all be only a small variety of the last - named species .The herbage is noted for its powerful but not unpleasant odour ; the fruit , when required for medi - cinal purposes , is generally imported from Italy .2 .",
+        "words": [
+          "odour",
+          "powerful",
+          "not unpleasant",
+          "its",
+          "The herbage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/dacc3577-83e4-5d8b-a6d1-453324cbd8a5",
+        "value": "It is of ACTIVE INGREDIENTS .3 a brownish colour externally , white internally , with an earthy odour , and has been frequently gathered for horse - radish .But the root of the latter plant is of much the same thickness all the way down , and destitute of fleshy lateral fibres , while the odour on scraping is exceedingly penetrating , and forms in itself an excellent distinctive mark .",
+        "words": [
+          "odour",
+          "earthy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/dca70fe8-b2d7-5349-bed0-618caf13f9fe",
+        "value": "1 In addition to the other principles , trimethylamine , C3 * * * * * H9N , is believed to have been obtained from ergot by distillation with potash .2 This substance , as stated under Arnica , may be recog - nised by its offensive and peculiar odour .3 .",
+        "words": [
+          "offensive",
+          "odour",
+          "peculiar",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/dcc08ec6-d2fd-5ca9-8f0c-91e626a2257f",
+        "value": "of rectified spirit , or one part of kamala to five parts of proof spirit .Of the stronger tincture , half an ounce , either in one or two doses , with some aromatic water : of the weaker tincture , a proportionally larger quantity .CUCURBIT ACE .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/dd1567ce-4996-542c-9de2-f8631b53d32d",
+        "value": "Balsam of Peru contains cinnameine ( cinnamate of benzyl , C1SH1402 ) to the extent of about 70 per cent .This is a neutral , acrid , colourless , strongly - refracting oil , inflammable , of sharp taste , and slightly aromatic odour .It is heavier than water , and insoluble in that medium , but soluble in alcohol and in ether .",
+        "words": [
+          "odour",
+          "This",
+          "slightly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/dda4a07d-6a29-51e2-a403-68fa62a3ab98",
+        "value": "Helleborein ( C26 ! ! 44 ! ! ) 15 ) crys - tallizes out of a very concentrated alcoholic solution in col - lections2 * * of fine , nearly colourless transparent needles , which quickly turn chalk - white under the influence of the atmosphere .The evaporation of a watery solution leaves a greyish - yellow resinous powder , which has no distinct smell , but is strongly 1 It is remarkable that so recent and intelligent an author as Nothnagel ( Arzneimittellehre ) should have perpetuated the confusion , not of course in ignorance , but in mere carelessness .8 â   Warzenâ   ( Marrne and Husemann ) , literally nipples or warts .",
+        "words": [
+          "distinct",
+          "smell",
+          "yellow resinous powder"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/de76e0bf-2c5a-5f71-8ecc-f5e44ff76265",
+        "value": "The stem , which rises to the height of 12 or 18 inches , is round , striated , and branched ; the lower leaves are imperfectly 3 â   5 lobed , the upper ones in many acuminate segments ; the small white flowers are pro - duced in terminal and flat - topped umbels , of 10 or 12 lays , and devoid of bracts ; the fruit is ovoid , contracted at the sides , ^ and tipped by the persistent and recurving styles .The odour of anise is aromatic , and the flavour warm and grateful , with a decree of sweetness .Alcohol extracts nearly the whole of the qualities , but water only a small proportion .",
+        "words": [
+          "odour",
+          "aromatic",
+          "of anise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/dfbe7c03-034d-52ad-a204-412a383e6779",
+        "value": "somewhat varies , but is usually about 095 , the lightest oil being the purest .It is fragrant , of a pungent and aromatic taste , soluble in rectified spirit , and in two parts of proof spirit .3 .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e06315e3-1e5b-5b0a-bb1c-e0a8002ba148",
+        "value": "( c ) Myronic acid , C10H19NS2O10 , exists in black mustard - seeds in the form of myronate of potash , C10H19KN S2010 .This myronate of potash is easily soluble in water , insoluble in ether , chloroform , and benzol , somewhat soluble in dilute alcohol : it has a cool , bitter taste and neutral reaction ; when heated , it gives out a pungent smell .( d ) Myrosine is an albuminoid substance analogous to emulsin , and acts as a ferment to the myronic acid in mustard - seeds , as soon as water is mixed with the flour .",
+        "words": [
+          "pungent",
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e2b20ca1-1213-5766-9e4e-a7f101f7eb28",
+        "value": "â   Valerian oil , procured by distillation of the root with water , may be taken as the repre - sentative of the collective virtues of the plant , and hence the recent researches of Grisar upon its action are full of interest and importance .Grisar states that he experimented with the ordinary volatile oil of valerian employed in pharmacy , and mentions that every specimen used was highly charged with the peculiar odour of valerianic acid .The general result of his experiments with valerian oil was similar to that of the trials with chamomile oil , & c .",
+        "words": [
+          "odour",
+          "peculiar",
+          "of valerianic acid",
+          "every specimen",
+          "the ordinary volatile oil of valerian"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e2e62a50-45d2-5fcf-a651-cc567e378df4",
+        "value": "â   The resin of the vulgaris , when pulverised , is of a dirty yellow colour , always presenting a dull appearance ; even thin laminae are very opaque .The odour is excessively disagreeable , and is intensified by breathing upon the lump , which in fracture is imperfectly conchoidal .Proof spirit dissolves nearly the whole .",
+        "words": [
+          "odour",
+          "excessively disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e392521f-d6ab-519a-9835-3463d17bcc0b",
+        "value": "The leaves are ovate , acuminate , 3 - ribbed , and shining ; the small and yellowish white flowers are borne in corymbose panicles , aud are followed by globular and blackish red berries , the size of a large pea .Every part of the plant , flowers included , evinces by its odour and flavour the presence of the well - known substance which it secretes .2 .",
+        "words": [
+          "substance",
+          "odour",
+          "its",
+          "Every part of the plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e48df150-e8e0-5d87-8943-9d64a2cfb601",
+        "value": "Active Ingredients .â   Angustura has a strong , pecu - liar , and slightly offensive odour , with an abiding , bitter , and aromatic taste which is said to produce salivation .It yields its properties to water and alcohol ; these depending upon the pre - sence of a bitter , crystallizable principle called angusturine , or cusparine ; a hard and bitter resin ; a soft and balsamic resin ; volatile oil ; gum and woody fibre .",
+        "words": [
+          "strong",
+          "odour",
+          "slightly offensive",
+          "pecu -",
+          "Angustura"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e6b583ea-94f0-55ab-9f5d-793893f1db69",
+        "value": "According to this author the oil consists of valeren , 25 parts ; valerianic acid , 5 parts ; valerian - camphor , 18 parts ; resin , 47 parts ; water , 5 parts .Valeren is a colourless oil , smelling like turpentine , which boils at 160Â ° C ., and under the influence of nitric acid is transformed into ordinary camphor .",
+        "words": [
+          "smelling",
+          "like turpentine",
+          "Valeren"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e7b7b901-034c-5e8b-9ab7-a3673a4aba12",
+        "value": "Not a single instance of a deleterious plant occurs among the Labiates .Many are strong - scented , and many others are aromatic ; the scent in each case arising from oil , of which a portion is contained in superficial cysts readily seen witli a low magnifying power .Pharmaceutical Species .",
+        "words": [
+          "aromatic",
+          "scented",
+          "scent",
+          "strong - scented",
+          "from oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e7ce9765-fe52-5982-8050-4ed14c2f13f1",
+        "value": "Physiological Action .â   The offensive odour of the aerial parts of hyoscyamus is such as to deter , or at all events to disincline , anyone from swallowing even a small portion , unless designedly .The roots , however , being sweetish , have sometimes been eaten by mistake for those of some escident vegetable , in the same way as those of certain poisonous Umbelliferse ; and the results have then been vertigo , burning sensations in the lips , the tongue , and the throat , and severe pains in the iliac region , and in all the joints .",
+        "words": [
+          "offensive",
+          "odour",
+          "as to deter , or at all events to disincline , anyone from swallowing",
+          "of the aerial parts of hyoscyamus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/e88868b2-6d14-521f-ac77-82e59865c594",
+        "value": "The ovary is inferior and tliree - celled ; the fruit capsular and many - seeded .None of the species are deleterious ; many are distinguished either for pungency or aroma .GINGER ( Zlngibek officinale ) .",
+        "words": [
+          "many",
+          "aroma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ea1e3abf-cf9e-5ee9-a448-6bad372440ca",
+        "value": "The odour is agreeable , to some persons it is fragrant ; the taste is balsamic and slightly sweet .When heated , it melts , and gives off benzoic acid in the form of white fumes , with a little empyreumatic oil , and then gradually consumes away .It is soluble in alcohol , and in solution of potash .",
+        "words": [
+          "fumes",
+          "white"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ed5f0ae6-a0b8-5ff6-b0ef-4977c89e688a",
+        "value": "Active Ingredients .â   The taste and odour of cori - ander seeds are referable to a yellowish volatile oil which in flavour renders them moderately warm and pungent .Kawalier believes it to be of the camphine class , and to consist of C10H9O .",
+        "words": [
+          "odour",
+          "of cori - ander seeds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/eec29bf9-a5ff-5e7a-92dd-7092bfae3502",
+        "value": "Some are powerful stimulants , exciting the cerebro - spinal system , and , if taken in large doses , occasioning even convulsions .In oriental countries one or two are esteemed as perfumes .COMMON VALERIAN ( Valeriana officinalis ) .",
+        "words": [
+          "perfumes",
+          "one or two",
+          "In oriental countries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ef762e49-705a-5f7c-ae17-a0e368a00520",
+        "value": "The smooth and shining leaves vary in form from lineal to oval ; the small flowers , green upon the outside and purplish within , are produced in axillary and sessile racemes .The root , to the virtues of which part this plant owes its medicinal value , is long and slender , not much branched , invested with a ferruginous bark , and possessed of an agreeable scent , which is not lost by drying .In commerce it is known by the name of â   Indian Sarsaparilla .",
+        "words": [
+          "agreeable",
+          "scent",
+          "by",
+          "The root",
+          "drying",
+          "by drying"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/ef86c48a-8212-5ec4-898e-3a315bb8dab3",
+        "value": "Taken into the stomach in moderate or medicinal doses , it causes , first , a sensation of warmth in that part , and in the abdomen ; the pulse becomes slightly accelerated , and a sate purgative action soon ensues , the stools being liquid , and ot a yellow colour .Even the odour of senna leaves or of the in - fusion is , in certain susceptible persons , sufficient to cause an evacuation of tbe bowels .1 In large doses it produces nausea , 1 Stille , vol .",
+        "words": [
+          "odour",
+          "sufficient",
+          "of senna leaves",
+          "in certain susceptible persons",
+          "of the in - fusion",
+          "sufficient to cause an evacuation of tbe bowels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/efffdc1a-fb4d-5373-b5db-3853d44eed17",
+        "value": "These qualities are referable to a volatile oil , C9H7OH , which when separated varies a little in colour , when good is bright yellow , but by keeping becomes red .The odour and taste are pleasaut , and resemble the corresponding - qualities of the hark ; it is heavier than water , and on exposure to the atmosphere absorbs oxygen , and forms cinnamic acid , two resins , and water .Cinnamon hark also contains tannic acid in considerable quantity , a resin , and an acid called cinnamic acid .",
+        "words": [
+          "odour",
+          "pleasaut",
+          "qualities of the hark"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/f0f0de2d-14b2-5270-b396-c5d7b42cd010",
+        "value": "326 CAJEPUT OIL .The former of these ( oleum pimentce ) constitutes about six per cent , of the dried berries , and is considered to possess all the active properties of oil of cloves ; it is separated by distillation , and on it mainly depend the strong fragrance and the warm and aromatic flavour .The fixed oil is greenish , and has an acrid , burning taste , and a rancid , but somewhat clove - like odour .",
+        "words": [
+          "strong",
+          "aromatic",
+          "fragrance",
+          "oleum pimentce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/f2a47c78-99a4-5c14-b397-ba0c917c522d",
+        "value": "of 1T5 .It is reddish - brown , or almost black ; possesses an agreeable odour , somewhat resembling that of vanilla , and has a warm , acrid , and slightly bitter taste .It is inflammable , and burns with a considerable amount of smoke ; is entirely soluble in alcohol , and in about 5 parts of rectified spirit ; and undergoes no diminution when mixed with water .",
+        "words": [
+          "agreeable",
+          "odour",
+          "It",
+          "resembling that of vanilla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/fa2ff4d6-15d8-5076-9edd-c9ad05e7a2c1",
+        "value": "Behier 2 to possess stimulant qualities .The volatile and aromatic ingredients of coffee are developed in the roasting ; it is not accurately known either what they are , nor how far they influence the physiological action of coffee .It is possible that the whole of the undoubted increase in physiological power which the roasting confers upon the seed is due to the change of part of the caffeine into methylamine .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/fc597ee7-2f87-594e-a493-6db0837d9c06",
+        "value": "It is prepared by taking pyroxylia , 1 ounce ; ether , 36 fluid ounces ; and rectified spirit , 12 fluid ounces ; mixing the two latter , and allowing the pyroxylia to dissolve in them .The formula is C36H52 ( N048 ) 030 , Collodion is a colourless , inflammable fluid , having an ethereal odour , and rapidly drying upon exposure to the atmosphere .When the drying is complete , pyroxylin is left as a trans - parent film , insoluble both in water and rectified spirit .",
+        "words": [
+          "ethereal",
+          "odour",
+          "Collodion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/fdc19a91-6b1b-541c-957d-bb7190b8dd76",
+        "value": "â   The root has a very pungent odour , and an acrid taste , depending on a volatile oil , C4HBNS , produced by the action of myrosin or myronic acid in the presence of water ; it is identical with oil of mustard , and is readily dissipated by heat or exposure to the air .It is very volatile ; one drop is sufficient to odorize a whole room .It imparts its properties to water , vinegar , and alcohol ; is very easily soluble in alcohol , less so in water .",
+        "words": [
+          "It",
+          "odorize",
+          "a whole room"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/fde853c3-6373-51f0-9a06-31e581f51f61",
+        "value": "Active Ingredients of the seeds vary accordingly as it is raw or roasted .In the raw seed , Caffeine , C8H10N4O2 , is probably the only important ingredient ; it crystallises in pure white silky needles , which can be sublimed by a heat of about 350Â ° ; its vapour has no smell ; it has a neutral reaction , and a weak , bitter taste ; it is moderately soluble in water , in alcohol , and in ether .It combines with the stronger acids to form acidly reacting salts .",
+        "words": [
+          "smell",
+          "vapour",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/fde9cc88-35fb-5616-8a0a-8723fac38f74",
+        "value": "The volatile oil of nutmeg has been shown by experiments to possess rather powerful properties .Applied to the human skin it acts as a decided rubefacient : given to rabbits in doses of 2 to 6 drachms , it proved fatal , with symptoms of narcotic - irri - tant poisoning extending over a few hours or days ; the urine had a peculiar smell , which was not that of the oil itselt .When the dose was not quite large enough to kill , there was prolonged constipation after recovery from the acute symptoms .",
+        "words": [
+          "smell",
+          "peculiar",
+          "which",
+          "the urine",
+          "that of the oil itselt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/fe2aac69-ae8f-5961-89a7-4ae8f9ab0941",
+        "value": "Preparations and Dose .â   Castor oil may be ad - ministered floating upon some aromatic water ; or mixed in a cup of hot and sweetened coffee .If the stomach be delicate , it may be taken as an emulsion , with yolk of egg , sugar , and aromatic water .",
+        "words": [
+          "aromatic",
+          "Castor oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/feafffec-5628-5b2e-a0e4-117946cbcea2",
+        "value": "Active Ingredients .â   The leaves possess a bitter and somewhat acrid flavour , and the odour evolved , when they PHYSIOLOGICAL ACTION .o / < are bruised , is offensive and characteristic .",
+        "words": [
+          "odour",
+          "acrid",
+          "The leaves"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/2d952f4c-aa5c-555e-bf1c-ee5e51cbb282",
+        "label": "Charles Douglas Fergusson Phillips"
+      }
+    ],
+    "label": "Materia medica and therapeutics [electronic resource] : vegetable kingdom",
+    "url": "http://archive.org/details/b21297034",
+    "date": "1874",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f2e47c1b-176d-57cb-a777-0d321ddc08e5",
+      "label": "1874",
+      "begin": "1874",
+      "end": "1874"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/289283/",
+      "label": "Al Ḩajar ash Sharqī"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/26e7d22c-44e6-5121-b56c-3c27e475be37/fragment/eec29bf9-a5ff-5e7a-92dd-7092bfae3502"
+}

@@ -1,0 +1,768 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/b30a099f-a30b-5ac6-8e7f-2d73dfdbb168",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/00fa9057-09f1-5d82-9f74-11f06c2aa4d6",
+        "value": "D ' autre part , le gonflement , d ' abord circonscrit autour de la plaie , gagne de proche en proche et envahit la totalité du membre attaqué .Dès lors , le mal a acquis sa plus grande intensité ; la fièvre s ' empare du malade ; il a des sueurs froides , comme visqueuses , et présente tous les phénomènes qui caractérisent l ' état adynamique ; l ' haleine devient fétide , les muscles se relâchent ; enfin , la mort termine bientôt ses souffrances si une médication énergique ne parvient pas à arrêter le progrès du mal .» Il est cependant assez rare que , dans nos climats , la morsure de la vipère ait une issue fatale ; les cas de mort s ' observent surtout chez les enfants .",
+        "words": [
+          "fétide",
+          "plus grande intensité"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/046ee687-d3d5-5d1d-bf46-5a376534f445",
+        "value": "Quoique moins commune que la belette , l ' hermine ne laisse pas de se rencontrer assez fréquemment dans les anciennes forêts , et quelquefois , pendant l ' hiver , dans les champs voisins des bois .Le PUTOIS ( Putorius fœtidus ou Putorius communis ) ainsi nommé à cause de la puanteur , de l ' odeur infecte qu ' il exhale , est un peu plus .petit que la fouine dont nous parlerons tout à l ' heure ; il a la queue plus courte , le museau plus pointu , le poil plus épais et plus noir ; il a du blanc sur le front , aux côtés du nez et autour de la gueule ; il a le cri plus couvert que la fouine ; mais tous deux font entendre , comme l ' écureuil et la marte , un grognement d ' un ton grave et colère qu ' ils répètent souvent lorsqu ' on les irrite .",
+        "words": [
+          "puanteur",
+          "infecte",
+          "odeur",
+          "exhale",
+          "PUTOIS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/059a7e68-3a20-5362-b530-c689044b98cb",
+        "value": "venu à Paris en 1715 , en fit soigneusement ramasser les fleurs pour les distiller .Il buvait cette eau qu ' il considérait comme puissamment rafraîchissante .Ce fin duvet est employé par les petits oiseaux pour tapisser l ' intérieur de leurs nids .",
+        "words": [
+          "eau",
+          "rafraîchissante",
+          "puissamment rafraîchissante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/079c96f1-09c5-5569-9406-c81c08e255e4",
+        "value": "Les fouines déposent leurs petits dans un trou de muraille , dans un grenier à foin , dans le tronc d ' un arbre creux ; elles y transportent de la paille , de la mousse ou de l ' herbe ; on trouve des jeunes depuis le printemps jusqu ' en automne ; quand on les inquiète , la * mère les transporte ailleurs ; au bout d ' un an , ils ont acquis presque toute leur grandeur .Les fouines , ainsi que les martes , rendent une matière onctueuse à odeur de musc : les vésicules de ces animaux contiennent une matière odorante semblable à celle de la civette .Leur chair en contracte un peu l ' odeur ; cependant , celle de la marte n ' est pas mauvaise à manger , tandis que celle de la fouine est fort désagréable .",
+        "words": [
+          "odorante",
+          "odeur",
+          "civette",
+          "musc",
+          "matière",
+          "fouines",
+          "martes",
+          "vésicules de ces animaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/0abfd548-9059-553b-96d4-f05c4f7c20be",
+        "value": "Son bois très dur servait à fabriquer les statues des dieux du paganisme ; ce même bois fournit , par la distillation , une substance très fétide connue sous le nom d ' huile de cade et que les vétérinaires emploient pour guérir la gale et les ulcères des animaux .C ' est avec le bois des grands genévriers des Bermudes et de ; Bahama , qu ' on fait , en Angleterre , des boiseries , des escaliers , des lambris , des meubles dont l ' odeur est forte et pénétrante .FIN .",
+        "words": [
+          "Bermudes",
+          "Angleterre",
+          "pénétrante",
+          "forte",
+          "odeur",
+          "bois des grands genévriers des"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/0c4e7bec-590d-565c-aa7c-e62204d28c52",
+        "value": "Quel aspect belliqueux ! Ils nous saisissent les doigts avec les mandibules aiguës dont leur grosse tête est armée .Il s ' exhala de leur corps une suave odeur de rose : Ce sont des Cicindèles .Ces carnassiers aux longues pattes , à la taille élancée sont d ' excellents chasseurs d ' insectes ; et , il est curieux de voir avec quelle avidité ils poursuivent et massacrent leur proie .",
+        "words": [
+          "suave",
+          "odeur",
+          "corps",
+          "rose",
+          "Cicindèles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/0ed38422-4ca1-59b2-8ab1-c533e6fe065b",
+        "value": "C ' est dans les chantiers d ' Archangel qu ' on en construit ces beaux mâts qui étonnent par leur élévation .On extrait du mélèze , par incision , la térébenthine de Briançon ou de Venise , employée par la médecine ; l ' écorce sert au tannage ; les feuilles transsudent une sorte de manne connue sous le nom de gomme il Orembourg ou manne de Briançon ; elle est en petits grains arrondis et jaunâtres et jouit d ' une forte propriété purgative .Le CÈDRE DU LIBAN Cedrus orientalis ) , originaire du mont Liban et du Taurus , espèce de conifère encore rare en France , y serait très commune , si depuis l ' exemple donné par Bernard de Jussieu , on eût pris la peine de l ' y cultiver .",
+        "words": [
+          "Venise",
+          "feuilles",
+          "manne",
+          "térébenthine",
+          "purgative",
+          "mélèze"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/14f604ae-83c7-5a38-94e0-234c28bdc8e3",
+        "value": ", en Orient , d ' une grande réputation .Kœmpfer vantait singulièrement la délicieuseodeur de l ' eau distillée d ' une espèce de saule particulière à la Perse .« Le KALAF , dit un vieux naturaliste , est une espèce de saule uaiu qui croît en Egypte , en Syrie , dans les lieux humides et qui a été désigné par d ' anciens auteurs sous les noms de ban , de safsaf et de .",
+        "words": [
+          "eau distillée",
+          "Kœmpfer",
+          "délicieuseodeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/1b3c2f62-15c9-51d7-abe9-7479ff8a65f7",
+        "value": "Il découle , de la plupart des frênes , un suc particulier connu sous le nom de manne .C ' est surtout le FRÊNE A MANNE ( Fraxinus rotondifolia ) qui fournit à la médecine ce purgatif si recherché .Cet arbre , plus souvent appelé frêne de Galabre , a de huit à dix mètres d ' élévation : Son tronc , ses branches , ses rameaux et ses feuilles secrètent un suc abondant , depuis midi jusqu ' au coucher du soleil , pendant les mois de juin et de juillet : C ' est la manne , qui s ' épaissit peu à peu et devient jaunâtre ; elle a l ' odeur de miel et une saveur sucrée .",
+        "words": [
+          "purgatif",
+          "MANNE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/21214993-a26f-5ea7-99f9-4f2aceb8e7f2",
+        "value": "Le son du cor devient de plus en plus distinct , la voix des chiens résonne comme un tonnerre , répercutée par les échos des bois : Le noble animal prend une détermination ; il rentre sous bois et semble vouloir revenir au point d ' où il est parti .Evidemment , il cherche à dépister les chiens « Au printemps , dit Buffon , lorsque les feuilles naissantes commencent à parer les forêts , que la terre se couvre d ' herbes nouvelles et s ' émaille de fleurs , leur parfum rend moins sûr le sentiment des chiens , et comme le cerf est alors dans sa plus grande vigueur , pour peu qu ' il ait d ' avance , ils ont beaucoup de peine à le rejoindre .Aussi , les chasseurs conviennent - ils que cette saison est celle de toutes où la chasse est le plus difficile , et que dans ce temps , les chiens quittent souvent un cerf mal mené pour tourner à une biche qui bondit devant eux ; et de même , au commencement de l ' automne , les limiers quêtent sans ardeur : l ' odeur forte de l ' animal leur rend peut - être la voie plus indifférente ; peut - être aussi tous les cerfs ont - ils , dans ce temps , à peu près la même odeur .",
+        "words": [
+          "parfum",
+          "leur",
+          "chiens",
+          "Au printemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/24bc214f-405a-51d1-92c1-4ea235c65b59",
+        "value": "La résine des conifères est un produit immédiat de ces arbres qui contient une grande quantité d ' hydrogène , ce qui le rend excessivement inflammable .Ce produit prend feu à l ' approche d ' un corps en ignition et brûle avec une flamme forte et jaunâtre , donnant beaucoup de fumée , et produisant une odeur agréable .L ' insolubilité de la résine dans l ' eau rend les arbres verts qu ' elle imprègne plus propres que les autres aux ouvrages destinés aux lieux humides .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Ce produit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/267a5cd8-708a-52b4-9849-32d39cabbe64",
+        "value": "Mieux doués que nous sous ce rapport , les animaux n ' ont pas besoin d ' un acte de guerre pour distinguer l ' ennemi de leur espèce ; ils le reconnaissent à une odeur spéciale , caractéristique , dont leur instinct à la prescience , et qui les remplit d ' épouvante , même dans leur plus jeune âge , même lorsqu ' ils la sentent pour la première fois .Un cheval sur lequel on essaye dr charger le cadavre d ' un loup se cabre , se défend et lutte longtemps avant de se résigner à cet odieux contact ; la plupart des jeunes chiens prendront la fuite lorsque la brise leur apportera les émanations d ' un loup ; s ' ils ne fuient pas , ils se réfugient dans les jambes du maître , le poil hérissé , l ' œil hagard , tremblants , donnant tous les signes de l ' effroi .» La chair du loup est si mauvaise , l ' odeur en est si caractéristique , qu ' M n ' y a guère que les loups qui la mangent volontiers ; les chiens ne l ' acceptent que lorsqu ' elle a subi certaines préparations et qu ' op y a joint certains assaisonnements .",
+        "words": [
+          "émanations",
+          "loup"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/2bf848cc-281c-51db-8638-58cde27413de",
+        "value": "La NOCTULE ( Vespertilio noctula ) vit également dans les bois et se rencontre dans toute l ' Europe ; elle sort plus tôt que la sérotine , et on la voit , luttant de vitesse avec les oiseaux de proie qui la poursuivent et auxquels elle échappe presque toujours par ses brusques changements de direction ; elle sait se soustraire aux serres du hobereau que ne peuvent pas toujours éviter les hirondelles .Cette espèce exhale une odeur des plus désagréables .Leï noclules , moinssolitaires que les sérotines se réunissent par petites troupes .",
+        "words": [
+          "odeur",
+          "des plus désagréables",
+          "espèce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/2de33f13-36fc-5331-8443-e59dbb289b3c",
+        "value": "Le blaireau a des caractères bien tranchés et dignes de remarque qui lui sont propres : Telles sont les bandes alternativement noires et blanches qu ' il a sur la tête , et , l ' espèce de poche qui règne entre l ' anus et la queue .Cette poche , assez large , ne communique point à l ' intérieur ; elle pénètre environ à trois centimètres de profondeur , et il en suinte continuellement une liqueur onctueux , d ' assez mauvaise odeur , qu ' il se plaît à sucer .La queue est courte et garnie de poils longs et forts .",
+        "words": [
+          "odeur",
+          "liqueur",
+          "assez mauvaise",
+          "plaît à sucer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/2f4c6106-75b7-56ca-8bfe-35cd141e83b5",
+        "value": "Le caractère le plus remarquable des chauves - souris , est incontestablement celui que présente leur membrane aliforme qui n ' est qu ' une continuation de la peau des flancs ; elle consiste en deux lames , l ' une provenant du dos et l ' autre du ventre .La face externe d * s la membrane de l ' aile est imprégnée d ' un liquide gras , huileux , d ' une odeur pénétrante , secrété par des glandes placées entre les narines et les yeux .Toutes les fois que l ' animal se réveille ou qu ' il veut s ' envoler , il se frotte l ' aile de ce liquide , afin de l ' entretenir toujours grasse et soupk .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "liquide",
+          "aile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/319775c3-7d76-529a-9e22-8915cb8e3997",
+        "value": "La femelle dépose ses œufs dans des creux d ' arbres , dans des fentes de murailles , dans des trous de rochers .Aristote et bien d ' autres après lui , ont avancé que le nid de ces oiseaux était composé d ' ordures , de fiente de chien et d ' excréments humains , et c ' est probablement d ' après ces indications , qui se sont transmises jusqu ' à nous , qu ' on a appelé la huppe , Pupu , Coq puant .Cette croyance est entièrement erronée ; il est bien vrai que la demeure de la jeune famille répand une odeur nauséabonde , mais cette odeur provient des excréments des petits , mêlés aux débris d ' insectes qui ont servi à leur nourriture , et que les parents laissent s ' accumuler avec une négligence qu ' on ne rencontre pas chez les autres oiseaux .",
+        "words": [
+          "puant",
+          "Aristote",
+          "excréments humains",
+          "ces oiseaux",
+          "fiente de chien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/3323259d-87ef-5d0b-8ca2-fd5f865e24a2",
+        "value": "L ' écorce , appelée quinine d ' Europe , est sudorifique et fébrifuge .C ' est sur les feuilles de frêne qu ' on recueille les mouches cantharides ; elles s ' y abattent quelquefois en si grand nombre que l ' arbre est promptement dépouillé et qu ' elles répandent au loin une odeur insupportable .C ' est cet inconvénient qui fait qu ' on l ' éloigné des parcs et des jardins anglais .",
+        "words": [
+          "odeur",
+          "elles",
+          "insupportable",
+          "feuilles",
+          "mouches cantharides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/379d5751-549f-5da2-8a88-9ed2fdf56a4e",
+        "value": "» VII .Le Chevreuil Lorsque vers la fin de mai ou le commencement de juin le naturaliste fait une excursion silencieuse à travers bois , il a quelquefois la bonne fortune de rencontrer dans une clairière toute parfumée de la suave odeur du muguet et de la jacinthe , les animaux les plus charmants de la forêt .Ils sont là tout gracieux , tout séduisants .",
+        "words": [
+          "suave",
+          "odeur",
+          "jacinthe",
+          "muguet",
+          "naturaliste",
+          "clairière",
+          "vers la fin de mai ou le commencement de juin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/3d6bedbe-0322-5fbe-a911-8a222ad870ce",
+        "value": "On chasse le sanglier à force ouverte , avec des chiens , ou bien on le tue par surprise , pendant la nuit , au clair de la lune .Comme il fuit très lentement , qu ' il laisse une odeur très forte , qu ' il se défend contre les chiens et les blesse dangereusement , il ne faut pas la chasser avec les bons chiens courants destinés au cerf et au chevreuil ; des mâtins bien dressés suffisent pour cette chasse .« On chasse , dit M .",
+        "words": [
+          "très forte",
+          "odeur",
+          "il"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/403816b4-c481-5ef0-958a-8a0eb104b95c",
+        "value": "Mais , continuons l ' histoire de ce gracieux animal .Le cerf a l ' odorat exquis , l ' oreille excellente ; lorsqu ' il écoute , ij lève la tête , dresse les oreilles , et alors , il entend de fort loin .Lorsqu ' il sort de l ' épaisseur du bois et qu ' il se trouve dans un taillis ou dans quelqu ' autre endroit à demi découvert , il s ' arrête pour regarder de tous côtés et cherche ensuite le dessous du vent pour sentir s ' il n ' y a pas quelqu ' un qui puisse l ' inquiéter .",
+        "words": [
+          "odorat",
+          "exquis",
+          "cerf"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/461e0e08-b90b-58c6-979d-9445fce894b6",
+        "value": "Les Egyptiens distillent \" les fleurs et en retirent una fameuse eau cordiale qu ' ils appellent macahalef .On prépare aussi , à Damas , de cette eau dont l ' odeur est si agréable et si pénétrante qu ' elle suffit pour dissiper les défaillances .Les Maures s ' en servent , tant intérieurement qu ' extérieurement , dans les fièvres ardentes eL pestilentielles .",
+        "words": [
+          "Damas",
+          "agréable",
+          "odeur",
+          "eau",
+          "dissiper les défaillances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/463f420b-efb9-5d73-ba88-1e776264fcad",
+        "value": "J ' ai cité des faits qui démontrent qu ' entre les deux races le rapprochement est possible ; mais ces rapprochements ne sont que l ' exception et n ' infirment nullement l ' antipathie profonde et vivace qui les sépare ; cette antipathie se traduit , le plus souvent , dans l ' espèce canine , par la terreur .Mieux doués que nous sous ce rapport , les animaux n ' ont pas besoin d ' un acte de guerre pour distinguer l ' ennemi de leur espèce ; ils le reconnaissent à une odeur spéciale , caractéristique , dont leur instinct à la prescience , et qui les remplit d ' épouvante , même dans leur plus jeune âge , même lorsqu ' ils la sentent pour la première fois .Un cheval sur lequel on essaye dr charger le cadavre d ' un loup se cabre , se défend et lutte longtemps avant de se résigner à cet odieux contact ; la plupart des jeunes chiens prendront la fuite lorsque la brise leur apportera les émanations d ' un loup ; s ' ils ne fuient pas , ils se réfugient dans les jambes du maître , le poil hérissé , l ' œil hagard , tremblants , donnant tous les signes de l ' effroi .",
+        "words": [
+          "odeur",
+          "spéciale",
+          "caractéristique",
+          "animaux",
+          "épouvante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/60dba8a9-84a2-5e45-830b-3aa3257a964c",
+        "value": "Les fouines , ainsi que les martes , rendent une matière onctueuse à odeur de musc : les vésicules de ces animaux contiennent une matière odorante semblable à celle de la civette .Leur chair en contracte un peu l ' odeur ; cependant , celle de la marte n ' est pas mauvaise à manger , tandis que celle de la fouine est fort désagréable .Comme ces animaux sont de terribles destructeurs de volailles , on leur tend des pièges .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "celle",
+          "fort désagréable",
+          "Leur chair",
+          "marte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/661a77a7-3178-511e-a7fe-8c6eb3458ce5",
+        "value": "Les fibres des racines , fortes et flexibles , fournissent de bonnes cordes ; avec les branches on fait des échalaset des cerceaux ; le bois dur du tronc , d ' un beau jaune marbré , est employé par les tourneurs et par les menuisiers qui en fabriquent de jolis meubles .Le TILLEUL ( Tilia ) mieux encore que l ' orme , l ' acacia ou le platane , fait l ' ornement des promenades , des jardins publics , des parcs , des bosquets , par son port gracieux , par la docilité avec laquelle ses rameaux se prêtent à toutes sortes de formes , par son odeur si douce qui parfume l ' air lorsqu ' il est en fleurs , et par l ' ombre épaisse et la belle verdure de son feuillage ; en même temps , il n ' y a aucune de ses parties qui n ' ait une utilité bien reconnue .Linné avait désigné tous les tilleuls sous le nom de Tilleuls d ' Europe ; et , il en avait distingué deux variétés , l ' une à petites feuilles , assez commune dans les bois où elle croît naturellement , et que les paysans nomment tillau ou tillot ; l ' autre à grandes feuilles , connue sous le nom de tilleul de Hollande .",
+        "words": [
+          "douce",
+          "odeur",
+          "son",
+          "air",
+          "parfume",
+          "rameaux",
+          "jardins publics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/6a67a3bf-ae63-570f-98ff-5f74be70a22b",
+        "value": "A la ville et à la campagne , ces animaux vivent de pillage , et de chasse : Ils passent l ' été dans les terriers de lapins , dans des fentes de rochers , dans des trous d ' arbres creux , d ' où ils ne sortent guère que la nuit pour se répandre dans les champs , dans les bois ; ils cherchent les nids des perdrix , des alouettes et des cailles , grimpent sur les arbres pour prendre ceux des autres oiseaux , épient les rats , les taupes , les mulots , et font une guerre continuelle aux lapins qui ne peuvent leur échapper , parce que les putois entrent aisément dans leurs trous .C ' est surtout quand il est échaufté , irrité , que le putois exhale et répand au loin une odeur insupportable .Les chiens ne veulent point manger de sa chair , et sa peau ne perd jamais complètement cette odeur désagréable .",
+        "words": [
+          "odeur",
+          "exhale",
+          "insupportable",
+          "putois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/6f403751-1a38-5f79-a39f-aa9b1e79e567",
+        "value": "Les chatons mâles sont allongés , formés de grcupes irréguliers de - fleurs , et exhalent , au .temps de la fécondation , une odeur toute particulière .Le fruit consiste en une sor ' .",
+        "words": [
+          "odeur",
+          "toute particulière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/7988b7c6-b606-5274-b263-772d72c19b6d",
+        "value": "Les chiens ne veulent point manger de sa chair , et sa peau ne perd jamais complètement cette odeur désagréable .Cette odeur provient de deux vésicules que ces animaux portent auprès de l ' anus et qui contiennent une matière onctueuse dont les émanations , insupportables dans le putois , le furet , la belette , constituent , au contraire , un agréable parfum dans la civette et plusieurs autres animaux .La FOUINE ( Mustela foina ) est de la grandeur du chat ; elle a la tête petite , le corps allongé , les jambes très courtes , une queue presque de la longueur de son corps , bien touffue , et dont le poil a plus de cinq centimètres de longueur .",
+        "words": [
+          "insupportables",
+          "agréable",
+          "parfum",
+          "qui",
+          "odeur",
+          "émanations",
+          "ces animaux",
+          "deux vésicules",
+          "matière onctueuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/79914b51-77a0-564e-a51b-f43074f226cd",
+        "value": "Cet oiseau qui ne survit guère à la perte de sa liberté se rencontre assez fréquemment en Normandie ; elle est très commune - en Suède .Elle se plaît dans les friches , dans les lieux solitaires abondants en genévriers , et l ' on prétend qu ' elle contracte l ' odeur des baies de cet arbrisseau .La MÉSANGE A LONGUE QUEUE ( Parus caudatus ) n ' est guère plus grosse que le roitelet ; mais les plumes longues , effilées dont elle est couverte , la font paraître beaucoup plus grosse qu ' elle ne l ' est en réalité , et lui donnent un air si singulier que les paysans du Dauphiné la considère comme un monstre ; ils l ' appellent meunière , malérat .",
+        "words": [
+          "odeur",
+          "baies",
+          "arbrisseau",
+          "genévriers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/824e8e11-6dc3-51c3-8b50-52ca61915364",
+        "value": "Ce carabe a la tête et le corselet d ' un beau vert doré du plus vif éclat ; ses étuis , creusés de trois larges sillons , présentent des côtes assez saillantes ; ses pattes et ses antennes sont de couleur fauve ; son abdomen est d ' un noir verdâtre , un peu doré .Comme tous les autres insectes de son genre , il laisse échapper par la bouche , quand on le saisit , une salive brune , à odeur désagréable , qui s ' imprègne fortement dans les doigts ; et , en outre , il lance , par l ' extrémité de l ' abdomen , un liquide très caustique qui , lorsqu ' il atteint la figure , cause quelquefois une vive douleur .Ce sont , avec ses pinces robustes , les armes Les hannetons que la nature lui a données .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "il",
+          "liquide",
+          "salive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/83f518cc-8cf1-5f84-93a7-98a63c14827e",
+        "value": "~ - \\ n \" ^ CINQUANTE GRAVURES DANS LE TEXTE ET HORS TEXTE FA LIMOGES EUGENE ARDANT ET Cie ÉDITEURS © A TRAVERS BOIS ET FORÊTS INTRODUCTION Tous ceux qui ont vécu à la campagne savent de quel attrait sont , pour les enfants , les longues et bonnes courses dans les bois .Ce plaisir tous les jours renouvelé , est , tous les jours , également apprécié , soit que les grands chênes livrent au froid de l ' hiver leurs longs bras couverts de givre , et que les feuilles sèches crient sous les pieds , soit que les bourgeons s ' épanouissent pour laisser échapper les jeunes tiges , et que la violette apparaisse à l ' abri des talus couverts de ronces , soit que les fraises parfumées embaument les clairières et que les oiseaux construisent leurs nids dans la feuillée .Mais quand les promenades deviennent des excursions , et qu ' on abandonne ie qu ' on est accoutumé d ' appeler la région des bois pour entrer sous les sombres arceaux de la forêt , le cœur des plus hardis , enfants ou hommes , cède à un sentiment inconscient d ' effroi indéfinissable : Les sifflements du merle se répercutent avec une intonation étrange , et , par instant , éclatent comme le bruit d ' une trompette guerrière ; les éclats de rire du geai , les notes stridentes du pic , le bourdonnement des insectes , le bruissement des herbes sous lesquelles les lézards fuient à votre approche , le craquement d ' une branche , mille fois répété par les échos , ressemblent aux appels fantastiques de quelques génies mystérieux dont l ' imagination peuple ces solitudes .",
+        "words": [
+          "fraises",
+          "tous les jours",
+          "parfumées embaument"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/850c11ca-ba13-5c5a-9e0a-69b79a589aad",
+        "value": "Il était fort singulier de voir un oiseau , qui avait attaqué déjà des serpents et des rats , reconnaître ainsi instinctivement un serpent venimeux et refuser le combat .Cependant , mes buses n ' étaient pas encore complètement adultes ; la nombreuse assistance pouvait les avoir effrayées ; je les avais vues , de plus , manger avec avidité des morceaux de vipère ; l ' odeur de ce serpent ne pouvait les avoir retenues , car la buse se guide par la vue et non par l ' odorat .C ' est du premier coup d ' œil qu ' elles avaient reconnu leur ennemi mortel .",
+        "words": [
+          "odeur",
+          "les",
+          "odorat",
+          "serpent",
+          "avidité",
+          "je les",
+          "morceaux de vipère",
+          "buse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/851a2718-ae46-5419-91f1-5b7d74780132",
+        "value": "Le CÈDRE DU LIBAN Cedrus orientalis ) , originaire du mont Liban et du Taurus , espèce de conifère encore rare en France , y serait très commune , si depuis l ' exemple donné par Bernard de Jussieu , on eût pris la peine de l ' y cultiver .Sa grandeur , sa beauté , sa forme pyramidale , l ' ont rendu , dans l ' antiquité , le plus célèbre de tous les arbres ; sa durée , son incorruptibilité et sa bonne odeur le firent demander par Salomon » à Hiram , roi de Tyr , pour la construction du temple de Jérusalem et de son propre palais .Il se reconnaît à ses rameaux disposés par étages et couverts de feuilles nombreuses , aciculaires , serrées , d ' un vert un peu sombre , qui se déploient horizontalement , couvrent de leur ombre un vaste espace et forment une magnifique pyramide aussi large à la base qu ' elle est haute .",
+        "words": [
+          "Jérusalem",
+          "bonne",
+          "odeur",
+          "temple"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/85b22d9d-701f-557c-b5a0-e08175ae9cff",
+        "value": "De l ' écorce , oa extrait la sancine , produit amer et tonique , dont les propriétés , .voisines de celle du quinquina , sont cependant très inférieures Les fleurs de plusieurs saules ont une odeur agréable ; ou eo pré pare une eau médicinale , appelée kalaf , qui joui ' ., en Orient , d ' une grande réputation .",
+        "words": [
+          "agréable",
+          "odeur",
+          "eau",
+          "fleurs de plusieurs saules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/85b4f028-fafa-5ce4-b492-d96d91bf5c22",
+        "value": "Le GENÉVRIER COMMUN , qui n ' est habituellement qu ' un arbrisseau , peut , si le site lui convient , et surtout s ' il est dirigé par la taille , devenir un arbre de cinq ou six mètres de hauteur , quelquefois même il s ' élève jusqu ' à dix mètres .Le tronc du genévrier commun est , le plus souvent , branchu , tortueux , difforme , d ' un aspect sauvage ; son écorce est d ' un brun rougeâtre ; son bois tendre , léger , d ' un rouge clair lorsqu ' il est bien sec , donne une odeur agréable et est recherché des ébénistes et des tourneurs qui en font de jolis ouvrages .Ses feuilles sont épineuses et ses fruits , d ' un noir bleu , sont moins des baies que de petits cônes devenus charnus par l ' agglutination des quatre ou six écailles qu ' ils offraient primitivement .",
+        "words": [
+          "bois",
+          "agréable",
+          "odeur",
+          "son",
+          "tronc du genévrier commun"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/87fb9347-4a63-58b7-abc8-b187e3cb2eb3",
+        "value": "Il commet quelquefois des ravages dans les champs de maïs , de blé ou d ' avoine ; il s ' assied commodément , cueille d ' énormes gerbes et dévore les épis , Sa prédilection pour les fruits a plus d ' une fois causé sa perte .A l ' époque où les vignes les plus voisines de son repaire sont chargées de grappes appétissantes , quand les pêchers se courbent sous le poids de leurs fruits veloutés , maître Martin , par l ' odeur alléché , quitte les épais taillis ; il descend de la montagne et vient , sans plus de cérémonie , prendre sa part de la récolte .Il arrache les ceps pour cueillir les raisins , casse les branches des arbres pour s ' emparer des pêches ; et le paysan , victime de ses méfaits , est bientôt sur sa trace .",
+        "words": [
+          "odeur",
+          "alléché",
+          "appétissantes",
+          "maître Martin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/8f5f65d2-a6ad-5065-b9fc-4798ab3922e3",
+        "value": "Les nœuds sont de vraies articulations , et les pousses de chaque année se joignent les unes aux autres .La plante donne beaucoup de rameaux , entrelacés les uns dans les autres , plus gros par les deux bouts ; les feuilles sont oblongues , obtuses , épaisses , dures et charnues , d ' une odeur faible et désagréable .Les deux surfaces des feuilles du gui sont tellement semblables , qu ' on ne parvient à les distinguer , l ' une de l ' autre , qu ' en faisant attention à l ' insertion des feuilles dans les tiges .",
+        "words": [
+          "faible",
+          "désagréable",
+          "odeur",
+          "feuilles",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/91b9e074-ce54-51c4-bf5b-60183b926d89",
+        "value": "Ces baies , qui ne mûrissent que la seconde année et qui demeurent Gur la tige où l ' on en trouve en tout temps , sont employées comme un assaisonnement dans la cuisine allemande .Leur saveur est à la fois douce et amère , forte et aromatique .On fait , avec les fruits du genièvre , une liqueur de ménage saine et agréable en les torréfiant , mais beaucoup moins que le café , et en les jetant chauds dans l ' eau - de - vie .",
+        "words": [
+          "aromatique",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/97ba695f-8447-553a-afdf-fc6a069924de",
+        "value": "« La LAIE , dit M .de Cherville , reste dans son fort avec ses marcassins pendant trois ou quatre mois ; elle est , à cette époque , sans cesse aux aguets , et , en raison de la finesse de son ouïe et de son odorat , il est fort difficile de la surprendre .Si les petits sont attaqués , elle les défend avec un courage , avec un acharnement sans égal , non seulement contre les loups et les chiens , mais contre l ' homme lui - même .",
+        "words": [
+          "fort",
+          "odorat",
+          "pendant trois ou quatre mois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/97d4ea44-a85b-5148-940e-0b64c617d167",
+        "value": "Ces petits animaux dorment les trois quarts du jour , et emploient Ja plus grande partie de la nuit à manger ou à chercher leur proie .Ils ont une odeur très forte et très caractéristique qui se manifeste plus encore en été qu ' en hiver et qui se répand au loin quand ils sont irrités .Les belettes marchent toujours en silence et ne donnent jamais de voix que si on les frappe : Elles ont alors un cri aigre et enroué qui exprime la colère et la douleur .",
+        "words": [
+          "très forte",
+          "odeur",
+          "très caractéristique",
+          "en été qu ' en hiver"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/9ac9839b-e799-5681-a70e-9db1069e0a5e",
+        "value": "Ne pouvant le contraindre par la force , il n ' est pas de moyoti qu ' il ne mette en œuvre pour l ' obliger à quitter sa demeure .La rusée bête l ' inquiète en faisant sentinelle à l ' entrée du repaire ; et , connaissant l ' excessive propreté du blaireau , elle l ' attaque par son côtë faible , se glissant dans le terrier , y déposant des ordures fétides , renouvelant ce stratagème jusqu ' à ce que le solitaire n ' y tenant plus , et recherchant avant toui sa tranquillité , cède la place , non toutefois sans pousser force grognements .Le peu scrupuleux compère s ' installe dans le souterrain , l ' élargit , l ' approprie à sa convenance et s ' en fait une habitation confortable .",
+        "words": [
+          "fétides",
+          "repaire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/9aea100c-734f-5849-9d70-0fe327751f8e",
+        "value": "Les chenilles de cette colonne infernale , mortes sur place , faute de nourriture , couvraient le sol d ' une couche qui atteignait , en certains endroits , douze centimètres d ' épaisseur .Ces myriades de corps en putréfaction répandaient une odeur infecte et faisaient craindre l ' invasion d ' un fléau plus redoutable encore 1 III .Rossignols et Fauvettes Passons en revue quelques - uns des soldats de la gracieuse milice que la nature oppose aux armées dévastatrices des insectes .",
+        "words": [
+          "infecte",
+          "odeur",
+          "myriades de corps en putréfaction"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/9b0bb3fc-89e8-54f6-9802-2d04ffc7f361",
+        "value": "Les feuilles sont composées de folioles oblongues entières , rangées symétrique ment par paires sur un pédicule commun , avec une foliole unique a l ' extrémité .Ses fleurs blanches sont papillonnées , comme celle du haricot : Disposées en épis ou en belles grappes pendantes , elles paraissent au mois de mai , embaument l ' atmosphère et exhalent au loin une suave odeur qui rappelle l ' arôme des fleurs de l ' oranger .La parfu - merie en a retiré des essences , la teinture une couleur jaune , et la cuisine en fait des beignets .",
+        "words": [
+          "suave",
+          "odeur",
+          "fleurs",
+          "elles",
+          "atmosphère",
+          "fleurs blanches",
+          "arôme",
+          "au mois de mai",
+          "haricot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/9efc1d9d-881f-5596-bbef-a7a3a205bad9",
+        "value": "Gomme le vautour , il peut être considéré comme un agent de salubrité public ; sa voracité n ' a pas de bornes ; et , rien ne lui répugne quand il s ' agit de l ' assouvir .Son odorat très développé lui fait deviner de loin les immondices qu ' il recherche de préférence à toute autre nourriture ; il absorbe ainsi les cadavres en putréfaction et les ordures qui pourraient , dans le voisinage des lieux habités , répandre des miasmes dangereux .Il a été l ' objet de supertitions nombreuses : On lui accordait volontiers de la finesse et de la sagacité ; mais , on l ' a accusé de ruse et d ' aimer à l ' excès à dérober , à amasser et à cacher .",
+        "words": [
+          "odorat",
+          "miasmes",
+          "très développé",
+          "dangereux",
+          "cadavres",
+          "ordures",
+          "voisinage des lieux habités"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/a178d5fb-ed5c-57df-a501-73cc05b64fa1",
+        "value": "Nous avons parlé du grand capricorne noir , et des ravages qu ' il commet , mais il convient de rapprocher de cet insecte , toute la famille des Longicornes , reconnaissables à la longueur de leurs antennes , et dont les larves , toutes fort nuisibles , vivent dans l ' intérieur des végétaux .Le PRIONE COUVERT DE CUIR , gros insecte qui vit aux dépend du chêne et du hêtre et ne dédaigne pas le cerisier ; le Capricorne à odeur de rose , qui s ' attaque au saule et à l ' osier ; les Gallidies qui sillonnent de leurs nombreuses galeries les aulnes et les chênes ; les Clytes qui perforent le chêne , l ' orme , le hêtre , l ' érable et le bouleau ; les Rhagies qui dévastent pins et sapins , peupliers et saules , ormes et tilleuls .N ' oublions pas F Œ sTYMONE ÉDILE ( Estymonus edilis ) dont la larve est nuisible aux pins , et dont le mâle adulte porte des antennes deux fois plus longues que son corps .",
+        "words": [
+          "odeur",
+          "rose",
+          "cerisier",
+          "saule",
+          "osier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/a727ca87-0168-519c-b2d5-a39f801677b0",
+        "value": "Aristote et bien d ' autres après lui , ont avancé que le nid de ces oiseaux était composé d ' ordures , de fiente de chien et d ' excréments humains , et c ' est probablement d ' après ces indications , qui se sont transmises jusqu ' à nous , qu ' on a appelé la huppe , Pupu , Coq puant .Cette croyance est entièrement erronée ; il est bien vrai que la demeure de la jeune famille répand une odeur nauséabonde , mais cette odeur provient des excréments des petits , mêlés aux débris d ' insectes qui ont servi à leur nourriture , et que les parents laissent s ' accumuler avec une négligence qu ' on ne rencontre pas chez les autres oiseaux .La huppe est un oiseau méfiant que tout effraye ; à chaque instant elle se cache sous le feuillage , fait entendre sa voix ronflante et exécute les mouvements les plus singuliers .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "demeure de",
+          "excréments des petits",
+          "débris d ' insectes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/a8cbdf83-ad76-5d43-971e-8c1909f9af6b",
+        "value": "Dos aisselles di s feuilles sortent des bractées , espèces de petites feuilles membraneuses , allongées en forme de languettes , d ' un blanc jaunâtre , soudées dans une certaine étendue au pédoncule ; le pédoncule se divise en quatre ou cinq petites branches , dont chacune contient , au mois de mai , une fleur complète , garnie d ' un nombre prodigieux d ' étamines .A ces corymbes odorants succèdent , au mois de juillet , des coques anguleuses , de la grosseur d ' un pois divisées intérieurement en cinq loges qui contiennent les semences dont la maturité est complète au mois d ' août .Lo TILLEUL A PETITES FEUILLES ( Tilia mycrophylla ) , très commun dans certaines foré i , notamment dans celles du département de l ' Oise , peut s ' élever à quinze ou vingt mètres de hauteur .",
+        "words": [
+          "odorants",
+          "au mois de juillet",
+          "corymbes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/ac1ddfe7-768f-562c-b88f-bd8168090bc5",
+        "value": "Il est de première grandeur ; sa végétation vigoureuse et rapide fournit abondamment des branches feuillées , que l ' on coupe tous les cinq ou six ans pour faire des fagots et nourrir les moutons et les chèvres , pendant l ' hiver .Ses bourgeons sont enduits , au printemps , d ' un suc résineux dont , l ' odeur embaume l ' air , ils enlrent .dans la composition de l ' onguent .",
+        "words": [
+          "odeur",
+          "air",
+          "embaume",
+          "au printemps",
+          "suc résineux",
+          "Ses bourgeons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/ad5f89c8-2bfa-5204-a75e-a11972b2c646",
+        "value": "n De tous les animaux qui vivent d ' herbes , dit un vieil auteur , celui qui parait le plus stupide est , peut - être , le lièvre .La nature lui a donné des yeux faibles et un odorat obtus : Si ce n ' est l ' ouïe qu ' ils excellente , il paraît n ' être pourvu d ' aucun instrument d ' industrie .D ' ailleurs , il n ' a que la fuite pour moyen de défense ; mais aussi semble - t - il épuiser tout ce que la fuite peut comporter d ' intentions et de variétés .",
+        "words": [
+          "odorat",
+          "obtus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/b46d9696-16d2-5d52-9b37-9931d9b61d91",
+        "value": "On a planté dans quelques bois , notamment vers le Midi , le FRÊNE A FLEURS ( Fraximus ornus ou Ornus eUl ' opæa ) .Cet arbre se distingue de notre frêne commun par ses fleurs odorantes , blanchâtres , pourvues d ' un calice et d ' une corolle à quatre divisions .Il découle , de la plupart des frênes , un suc particulier connu sous le nom de manne .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "arbre",
+          "frêne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/b87d11ea-0256-5ea1-a6b9-56c162a24c82",
+        "value": "zarneb .Sa fleur naît avant la feuille : CeLLe fleur est longuette , blanche , lanugineuse et odorante .Ses feuilles , grasses au toucher et de couleur perlée , sont beaucoup plus grandes que celles du sauta ordinaire .",
+        "words": [
+          "odorante",
+          "fleur",
+          "lanugineuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/b92f2787-27e6-5a44-8688-7d1e17864193",
+        "value": "Ils muent au sortir de l ' hiver ; le poil nouveau est plus roux que celui qui tombe .Ils sont propres , se peignent , lissent leur poil et n ' ont aucune mauvaise odeur .( ( Avant la naissance des petits , et pendant qu ' ils tètent , dit Lenz , les parents jouent autour du nid .",
+        "words": [
+          "aucune mauvaise",
+          "odeur",
+          "Ils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/c0f895a1-8cae-57b2-b71c-2e77d1f854f9",
+        "value": "Au milieu des sombres forêts vierges , où les rayons du soleil ne pénètrent qu ' avec pein - e , elles volent - quelquefois pendant le jour ; mais , le plus souvent , elles ne se montrent qu ' au moment du crépuscule .Leur vue perçante , leur odorat très fin leur font découvrir de loin les arbres couverts de fruits savoureux ; elles y accourent en bandes innomVables et ont promrtement dévalisé un arbre ; elles ne s ' attaquent qu ' aux fruits les plus mûrs ; elles les sucent et rejettent la pulpe .Le jour , elles sont très c - raintives et l ' apparence du moindre dan - ger les met en grand émoi ; elles tombent sur le sol où elles se démènent follement , et cherchent à grimper sur tous les objets élevés , arbres , chevaux ou hommes .",
+        "words": [
+          "leur",
+          "odorat",
+          "perçante",
+          "très fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/c6e40f2e-eece-5c7d-987c-cf93aab72182",
+        "value": "Sur la branche d ' un de ces arbres , on suspend horizontalement une roue par une corde bien solide ; on la fait descendre jusqu ' à la ruche , et on la fixe tout auprès à l ' aide d ' un ressort .L ' ours , alléché par l ' odeur du miel , grimpe sur le pin , et voulant plus commodément dénicher et manger sa nourriture favorite , il s ' assied sur la roue ; le ressort se détend à l ' instant même , et le gourmand reste suspendu à une hauteur de quatre - vingts à cent pieds .N ' ayant ni assez de courage pour sauter par terre , ce qui , du reste , l ' exposerait à une mort certaine , ni assez d ' agilité pour grimper à l ' aide d ' une mince corde aux branches supérieures de l ' arbre , il attend , dans cette position gênante , l ' arrivée du propriétaire du miel , qui peut aisément s ' en rendre maître .",
+        "words": [
+          "odeur",
+          "miel",
+          "ours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/c6efa385-a5e7-5e6d-a8bb-c35d1e354ad6",
+        "value": "Si rien n ' est venu troubler les ébats des lapins et que la journée promette d ' être belle , ils ne rentrent pas dans leurs trous ; vous ne les rencontrerez point , cependant , dans les endroits découverts .Après qu ' ils ont « brouté , trotté , fait tous leurs tours , » ces démons familiers de nos bois se tiennent blottis au soleil au milieu des herbes parfumées , ou sous le couvert des ronces entrelacées .Vous pourrez passer et repasser à côté d ' eux , ils ne bougeront point ; ce n ' est que si , par hasard , votre pied se lève pour les écraser qu ' ils détaleront .",
+        "words": [
+          "parfumées",
+          "Après"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/cfd60ee3-d660-51f4-9d48-509736a30f82",
+        "value": "Un cheval sur lequel on essaye dr charger le cadavre d ' un loup se cabre , se défend et lutte longtemps avant de se résigner à cet odieux contact ; la plupart des jeunes chiens prendront la fuite lorsque la brise leur apportera les émanations d ' un loup ; s ' ils ne fuient pas , ils se réfugient dans les jambes du maître , le poil hérissé , l ' œil hagard , tremblants , donnant tous les signes de l ' effroi .» La chair du loup est si mauvaise , l ' odeur en est si caractéristique , qu ' M n ' y a guère que les loups qui la mangent volontiers ; les chiens ne l ' acceptent que lorsqu ' elle a subi certaines préparations et qu ' op y a joint certains assaisonnements .On force les loups avec des chiens courants ; mais comme ils marchent toujours en avant et qu ' ils couront tout un jour sans être rendus , cette chasse n ' est pas toujours fructueuse , malgré les nombreux relais disposés par les chasseurs .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "caractéristique",
+          "chiens",
+          "loups",
+          "chair du loup"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/db4641b5-bb86-5a12-a5c5-2b2cd3fec7d6",
+        "value": "Ils sont composés de trois toiles , dont les deux extérieures sont formées par des mailles de six pouces de diamètre ; les mailles de la toile du milieu , dont l ' étendue est le double de celle des deux autres , n ' ont qu ' un pouce de diamètre .On voit alors un grand nombre de huppes en Afrique ; elles sont surtout communes en Egypte où la négligence et la malpropreté des habitants met partout à leur portée les immondices qu ' elles aiment tant à fouiller .Ces oiseaux recherchent les prairies , les terres fraîches et arrosées où ils trouvent plus facilement les vers et les insectes dont ils se nourrissent ; ils semblent préférer les endroits où les champs cultivés alternent avec des bois de peu d ' étendue .",
+        "words": [
+          "Afrique",
+          "immondices",
+          "Egypte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/dbef7747-0dbd-5d93-a8c2-00770e59c9ce",
+        "value": "Evidemment , il cherche à dépister les chiens « Au printemps , dit Buffon , lorsque les feuilles naissantes commencent à parer les forêts , que la terre se couvre d ' herbes nouvelles et s ' émaille de fleurs , leur parfum rend moins sûr le sentiment des chiens , et comme le cerf est alors dans sa plus grande vigueur , pour peu qu ' il ait d ' avance , ils ont beaucoup de peine à le rejoindre .Aussi , les chasseurs conviennent - ils que cette saison est celle de toutes où la chasse est le plus difficile , et que dans ce temps , les chiens quittent souvent un cerf mal mené pour tourner à une biche qui bondit devant eux ; et de même , au commencement de l ' automne , les limiers quêtent sans ardeur : l ' odeur forte de l ' animal leur rend peut - être la voie plus indifférente ; peut - être aussi tous les cerfs ont - ils , dans ce temps , à peu près la même odeur .En hiver , pendant la neige , on ne peut pas courre le cerf , les limiers n ' ont point de sentiment , et semblent suivre les voies plutôt à l ' œil qu ' à l ' odorat .",
+        "words": [
+          "forte",
+          "odeur",
+          "animal",
+          "cerfs",
+          "chasseurs",
+          "commencement de l ' automne",
+          "dans ce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/dc832210-0326-5465-b77b-b3b1491ebc21",
+        "value": "Il se reconnaît à ses rameaux disposés par étages et couverts de feuilles nombreuses , aciculaires , serrées , d ' un vert un peu sombre , qui se déploient horizontalement , couvrent de leur ombre un vaste espace et forment une magnifique pyramide aussi large à la base qu ' elle est haute .Avec sa térébenthine , nommée gomme de Cèdre , on prépare une espèce de goudron liquide dont les Egyptiens se servent pour embaumer les corps ; les feuilles suintent une espèce de manne , appelée mastichihine ; le bois entre dans la composition des pastilles de l ' Inde qu ' on brûle pour leur parfum .« Dans une espèce de vallon semi - circulaire , formé par les deruières croupes du Liban , dit Lamartine , nous voyons une large tache noire sur la neige : Ce sont les groupes fameux des cèdres .",
+        "words": [
+          "bois",
+          "parfum",
+          "corps",
+          "leur",
+          "embaumer",
+          "feuilles",
+          "manne",
+          "térébenthine",
+          "goudron",
+          "gomme de",
+          "pastilles de l"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/e17f8e02-5193-52aa-8ee6-612237dcff7e",
+        "value": "Il a aussi les oreilles plus courtes , la queue plus grande , le poil plus long et plus touffu , les yeux plus inclinés .Il en diffère encore par une très forte odeur qui lui est particulière .Il s ' apprivoise difficilement , jamais parfaitement , languit quand il n ' a pas sa liberté , et meurt d ' ennui quand on le garde trop longtemps en domesticité .",
+        "words": [
+          "très forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/e2d1ab5f-6c56-54f9-8e5a-313ddd69f32e",
+        "value": "On prétend que les racines du frêne sont alimentaires ; les Anglais en mangent les jeunes feuilles , et ils s ' en servent aussi pour falsifier le thé ; ils en confisent le fruit , avant sa maturité , dans le sel et le vinaigre , et en font le même usage que des câpres .L ' écorce , appelée quinine d ' Europe , est sudorifique et fébrifuge .C ' est sur les feuilles de frêne qu ' on recueille les mouches cantharides ; elles s ' y abattent quelquefois en si grand nombre que l ' arbre est promptement dépouillé et qu ' elles répandent au loin une odeur insupportable .",
+        "words": [
+          "sudorifique",
+          "écorce",
+          "fébrifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/e4f5c26d-e988-5498-976f-767032d96984",
+        "value": "Aussi , les chasseurs conviennent - ils que cette saison est celle de toutes où la chasse est le plus difficile , et que dans ce temps , les chiens quittent souvent un cerf mal mené pour tourner à une biche qui bondit devant eux ; et de même , au commencement de l ' automne , les limiers quêtent sans ardeur : l ' odeur forte de l ' animal leur rend peut - être la voie plus indifférente ; peut - être aussi tous les cerfs ont - ils , dans ce temps , à peu près la même odeur .En hiver , pendant la neige , on ne peut pas courre le cerf , les limiers n ' ont point de sentiment , et semblent suivre les voies plutôt à l ' œil qu ' à l ' odorat .Dans cette saison , comme les cerfs ne trouvent pas à brouter , à viander dans les forêts , ils en sortent , vont et viennent dans les parages les plus découverts , dans les petits taillis , et même dans les terres ensemencées .",
+        "words": [
+          "odorat",
+          "En hiver",
+          "courre",
+          "limiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/e8600f7e-a4c5-52dc-9dd5-b0d99ff4eaf1",
+        "value": "Ils n ' attendent pas , pour employer la ruse , que les forces viennent à leur manquer .Ils reviennent sur leurs pas , retournent , reviennent encore ; et , lorsqu ' ils ont confondu par leurs mouvements opposés la direction de l ' aller avec celle du retour , lorsqu ' ils ont mêlé les émanations présentes avec les émanations passées , ils s ' enlèvent de terre par un bond rapide , et se jetant de côté , ils se mettent ventre à terre , laissant sans bouger , sans que rien trahisse leur présence , passer là , tout près d ' eux , la troupe entière de leurs ennemis .Les chevreuils ne se mettent pas en hardies ; ils ne marchent pas en troupes , comme les cerfs , mais ils demeurent en famille .",
+        "words": "émanations"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/f349a4b3-52c8-5d47-aeba-4911edfdfc07",
+        "value": "C ' est surtout quand il est échaufté , irrité , que le putois exhale et répand au loin une odeur insupportable .Les chiens ne veulent point manger de sa chair , et sa peau ne perd jamais complètement cette odeur désagréable .Cette odeur provient de deux vésicules que ces animaux portent auprès de l ' anus et qui contiennent une matière onctueuse dont les émanations , insupportables dans le putois , le furet , la belette , constituent , au contraire , un agréable parfum dans la civette et plusieurs autres animaux .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "peau",
+          "chair",
+          "perd",
+          "chiens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/f497a9b5-c3b6-579d-b0d0-ebc22ca1f8d9",
+        "value": "C ' est surtout le FRÊNE A MANNE ( Fraxinus rotondifolia ) qui fournit à la médecine ce purgatif si recherché .Cet arbre , plus souvent appelé frêne de Galabre , a de huit à dix mètres d ' élévation : Son tronc , ses branches , ses rameaux et ses feuilles secrètent un suc abondant , depuis midi jusqu ' au coucher du soleil , pendant les mois de juin et de juillet : C ' est la manne , qui s ' épaissit peu à peu et devient jaunâtre ; elle a l ' odeur de miel et une saveur sucrée .Fraîche , elle n ' est pas purgative , et les habitants de la partie de l ' Italie où on la récolte s ' en servent pour remplacer le miel et le sucre .",
+        "words": [
+          "odeur",
+          "elle",
+          "sucrée",
+          "miel",
+          "feuilles",
+          "manne",
+          "branches",
+          "rameaux",
+          "tronc",
+          "saveur",
+          "pendant les mois de juin et de juillet",
+          "depuis midi jusqu ' au coucher du soleil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/f4b2ed61-7c1a-51f8-8867-3bb239454424",
+        "value": "Son corselet d ' un bleu sombre est bordé d ' un bleu plus vif ; ses élytres brillent de mille reflets ; son abdomen est mélangé de noir et de violet ; il est monté sur de grandes jambes , sa forme un peu raccourcie a quelque chose de carré ; ses antennes sont très mobiles ; sa mâchoire est armée de robustes mandibules : C ' est le splendide CALOSOME SYCOPHANTE ( Calosoma sycophanta ) un des plus terribles destructeurs de chenilles , particulièrement des processionnaires du chêne .Si vous le touchez , il exhale une odeur très forte et très pénétrante ; mais il vaut mieux l ' observer en liberté .Il marche , il court , il inspecte l ' arbre , s ' arrête de temps en temps , étrangle une chenille , la rejette , s ' empare d ' une seconde qu ' il laboure de ses griffes puissantes ; puis d ' une troisième , lui ouvre le corps et se repait de son cadavre ; il sème autour de lui le carnage et la mort .",
+        "words": [
+          "très forte",
+          "odeur",
+          "il",
+          "exhale",
+          "très pénétrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/f614718e-22cc-5bd1-94d0-f4fdfda81eb2",
+        "value": "Les aulnes .afin de les rendre plus souples ; L ' écorce de ces osiers est employée par les jardiniers pour lier les écussons lorsqu ' ils greffent Les feuilles et - les chatons du saule sont esiimses astringentes et rafraîchissantes ; il est avantageux d ' eu mêler au fourrage des chevaux qui manquent d ' appétit .De l ' écorce , oa extrait la sancine , produit amer et tonique , dont les propriétés , .",
+        "words": [
+          "astringentes",
+          "rafraîchissantes",
+          "saule"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/f717a75f-9417-5397-a4c7-433d50e3c064",
+        "value": "Cette substance qui transsude du tronc et des branches , et dont nous reparlerons plus loin , permet d ' en faire des torches usitées dans beaucoup de pays , notamment en Provence .Le bois de cet arbre brûle bien et exhale une odeur agréable , son charbon est recherché pour les fonderies .Les feuilles peuvent nourrir les moutons pendant l ' hiver , et produire un assez bon engrais quand elles ont séjourné sous les troupeaux et dans les basses - cours .",
+        "words": [
+          "charbon",
+          "agréable",
+          "odeur",
+          "bois de cet arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/f724e323-296d-5c96-b17c-3b1ffe2426b0",
+        "value": "Il a le corps maigre , les flancs rentrés , les pattes minces , les oreilles droites ; le pelage varie pour la coloration suivant le climat .Son cou est si court qu ' il ne peut facilement le fléchir , ce qui l ' oblige , en quelque sorte , à tourner tout son corps quand il veut regarder de côté ; il a l ' odorat fin , et il peut , à juste titre , passer p ) ur le plus goulu et le plus carnassier de tous les animaux .Le loup hurle au lieu d ' aboyer comme le chien dont il diffère par des caractères essentiels : Ses mouvements sont différentsi sa démarche est plus précipitée ; son corps , beaucoup plus fort , est bien moins souple * ; ses membres sont plus fermes ; ses mâchoires et ses - dents plus grosses ; son poil plus rude et plus fourré ! Sa couleur ordinaire , dans notre pays , est d ' un fauve grisonnant , m été de brun noirâtre dans certains endroits .",
+        "words": [
+          "il",
+          "odorat",
+          "fin",
+          "cou"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/ffb1224e-6c1c-503d-a854-645e7e2a7ced",
+        "value": "Dès qu ' il paraît , il est poursuivi ; l ' attroupement et l ' émeute lui annoncent combien il est redouté et tout ce que lui - même il doit craindre .Aussi , toutes les fois que l ' odeur de l ' homme vient frapper son nez , elle réveille en lui les idées de danger .La proie la plus séduisante lui est inutilement présentée , tant qu ' elle a cet accessoire effrayant ; et même lorsqu ' elle ne l ' a plus , elle lui reste longtemps suspecte .",
+        "words": [
+          "odeur",
+          "son",
+          "toutes les"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/26a05e94-76e2-5746-b626-3f27add39c42",
+        "label": "Amand Dubois"
+      }
+    ],
+    "label": "À travers bois & forêts : oiseaux et insectes, animaux divers, les végétaux / par A. Dubois,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6303695d",
+    "date": "1895",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/126",
+      "label": "Water"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/37ef26f6-7f0d-572e-9752-94524f8e97ae",
+      "label": "1895",
+      "begin": "1895",
+      "end": "1895"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/170654/",
+      "label": "Damascus"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/relief",
+      "label": "relief"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/85d634ff-306d-51ea-9913-56105035a8f1/fragment/461e0e08-b90b-58c6-979d-9445fce894b6",
+  "license": "Public domain"
+}

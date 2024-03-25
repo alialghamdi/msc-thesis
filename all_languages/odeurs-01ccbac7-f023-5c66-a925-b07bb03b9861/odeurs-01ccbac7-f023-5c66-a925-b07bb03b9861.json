@@ -1,0 +1,560 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/01ccbac7-f023-5c66-a925-b07bb03b9861",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeurs",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/05c6e058-aea2-5ef5-9644-238453f45539",
+        "value": "On doit bien se garder d ' opérer cette prise d ' air directement dans la cave du calorifère , afin d ' éviter les poussières et la fumée qui sont souvent produites pendant l ' allumage et le chargement du foyer ; poussières et fumées qui s ' introduiraient rapidement dans toutes les pièces .Les caves sont rarement bien saines et l ' odeur de moisi et d ' humidité qu ' elles exhalent presque toutes , pourrait aussi pénétrer dans les appartements .Enfin , il faut considérer que les conduits d ' air pur établissent de véritables communications acoustiques , surtout quand ils ne sont pas chauffés , et il est parfois utile de .",
+        "words": [
+          "odeur",
+          "elles",
+          "moisi",
+          "exhalent",
+          "les appartements",
+          "caves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/08ac52f2-17dc-50eb-a4b2-c48c814dac68",
+        "value": "ailetLes , assurent un refroidissement presque complet de la fumée , c ' est - à - dire l ' utilisation presque totale de la chaleur qu ' elle détenait .La disposition verticale des surfaces de chauffe empêche les dépôts de poussières de donner à l ' air pur une odeur de brûlé .Enfin , chacun des nombreux tuyaux de chauffe verticaux pouvant être isule et enveloppé d ' une gaîne en tôle , il devient facile de diviser la chambre d ' air en compartiments distincts et spéciaux pour chaque bouche d ' air pur chaud ; ce qui permet l ' indépendance du chauffage pour chaque pièce de l ' édifice à chauffer .",
+        "words": [
+          "odeur",
+          "air",
+          "brûlé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/0bcc220c-6f49-50a8-80dd-ab2961770277",
+        "value": "Sans parler même des industries où ces poussières sont si abondantes qu ' on a dû se prémunir contre elles pas des dispositions spéciales , il est évident que dans tous les cas l ' on a intérêt à s ' en garantir .En plus des poussières , l ' atmosphère des salles est chargée , dans des proportions variables , d ' émanations plus ou moins malsaines .Celles - ci proviennent tantôt de la fabrication , qui laisse échapper des gaz ou des vapeurs , tantôt der mécanismes , où se volatilise une partie de l ' huile destinée aux rouages , tantôt enfin des exhalaisons du personnel , d ' autant plus nuisibles que les travailleurs sont plus resserrés et que leur labeur est plus actif .",
+        "words": [
+          "atmosphère",
+          "émanations",
+          "salles",
+          "plus ou moins malsaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/0f8b5b34-a8a7-564d-982d-09f58549ed67",
+        "value": "En plus des poussières , l ' atmosphère des salles est chargée , dans des proportions variables , d ' émanations plus ou moins malsaines .Celles - ci proviennent tantôt de la fabrication , qui laisse échapper des gaz ou des vapeurs , tantôt der mécanismes , où se volatilise une partie de l ' huile destinée aux rouages , tantôt enfin des exhalaisons du personnel , d ' autant plus nuisibles que les travailleurs sont plus resserrés et que leur labeur est plus actif .Pour ces divers motifs , le renouvellement de l ' air est indispensable .",
+        "words": [
+          "exhalaisons",
+          "nuisibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/14140bf6-661f-5617-acb0-79351dd609d9",
+        "value": "Il me restera à considérer , dans une troisième partie , l ' air de l ' atmosphère , non pas comme un fluide aériforme susceptible de se décomposer , mais comme un agent chimique qui peut se charger , par voie de dissolution et même d ' une sorte de division mécanique , de miasmes d ' une infinité d ' espèces .On est effrayé quand on pense que , dans une assemblée nombreuse , l ' air que chaque individu respire a passé et repassé un grand nombre de fois , soit en tout , soit en partie , par le poumon de tous les assistants , et qu ' il a dû se charger d ' exhalaisons plus ou moins putrides ; mais de quelle nature sont ces émanations ? Jusqu ' à quel point diffèrent - elles dans un sujet ou dans un autre , dans la viellesse ou dans la jeunesse , dans l ' état de maladie ou de santé ? Quelles précautions pourrait - on prendre pour neutraliser ou pour détruire l ' influence dangereuse de ces émanations ? Il n ' est peut - être aucun de ces points dont l ' examen ne puisse donner prise à l ' expérience , et il n ' en est pas plus important pour la conservation de l ' espèce humaine .Tous les arts marchent rapidement vers leur état de perfection ; celui de vivre en société , de conserver dans leur état de force et de santé un grand nombre d ' individus réunis ensemble , de rendre les grandes villes plus salubres , la communication des maladies contagieuses moins facile , est encore dans son enfance .",
+        "words": [
+          "air",
+          "émanations",
+          "exhalaisons",
+          "dangereuse",
+          "moins putrides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/1c848a1d-c754-592b-b50a-d44c5860f81a",
+        "value": "Indépendamment de ces fermetures , placées à l ' entrée de l ' égoût , il convient d ' en placer d ' autres à l ' origine des tuyaux qui débouchent dans les appartements , afin de se prémunir contre les mauvaises odeurs qui peuvent se dégager , non de l ' égoût avec lequel la fermeture inférieure intercepte la communication , mais des tuyaux eux - mêmes .C ' est dans ce but que l ' évier de la cuisine et la cuvette des cabinets sont ordinairement pourvus d ' une soupape hydraulique Elle n ' est pas utile au tuyau des eaux pluviales , qui ne livre point passage à des matières nauséabondes .Au moyen de ces diverses dispositions et d ' un écoulement d ' eau convenable dans les organes , on parvient à se mettre complétement à l ' abri des mau0 vaises odeurs .",
+        "words": [
+          "matières",
+          "nauséabondes",
+          "cuisine",
+          "cabinets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/20875690-55b2-5eb6-b6b8-66ba6fc2fa8b",
+        "value": "En pratique on admet qu ' il faut deux tonnes de tourbe , non desséchée artificiellement pour égaler l ' effet calorifique d ' une tonne de houille , sous les générateurs de vapeur .La tourbe brûle avec flamme en donnant une fumée épaisse et une odeur fort gênante ; inconvénients qu ' il faut éviter dans certains cas et qu ' on réussit à supprimer en opérant la carbonisation de la tourbe .Charbon de Tourbe .",
+        "words": [
+          "odeur",
+          "épaisse",
+          "tourbe",
+          "fort gênante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/21c1cdc1-40c8-5138-a313-2cf53e48a619",
+        "value": "Les passages d ' air , dans le calorifère , doivent être larges , afin de permettre réchauffement rapide d ' un grand volume d ' air à une température moyennece qui est plus salubre qu ' un petit volume d ' air pur chauffé à une trop haute température .Il est indispensable de pouvoir facilement nettoyer les surfaces de chauffe léchées par l ' air pur , afin d ' éviter l ' odeur de brûlé causée par la com - bustion lente ou la distillation des poussières et corpuscules organiques qui viennent se déposer sur ces surfaces pendant les interruptions du chauffage .Les surfaces de chauffe verticales offrent sous ce rapport plusieurs avantages , les dépôts de poussière s ' y produissent plus difficilement et leur nettoyage extérieur est généralement plus commode .",
+        "words": [
+          "odeur",
+          "brûlé",
+          "corpuscules organiques",
+          "surfaces de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/21c2e0eb-f57c-5fb7-bde1-e107857d6456",
+        "value": "Nous ne saurions toutefois recommander d ' imiter cette disposition , à moins d ' y ( 1 ) Les dessins du calorifère Grouvelle sont exposés par Grouvelle fils .être obligé par la nécessité de donner peu de hauteur au calorifère , dans les caves peu profondes par exemple , car les surfaces horizontales des tuyaux se chargent de poussières et matières organiques déposées par l ' air pendant les interruptions de chauffage , il en résulte au moment de la reprise de ce chauffage une odeur de brûlé fort gênante et peu salubre .Le service de ce calorifère doit donc être complété par de fréquents nettoyages des surfaces de fonte , afin d ' éviter ces inconvénients désagréables .",
+        "words": [
+          "odeur",
+          "matières organiques",
+          "brûlé",
+          "fort gênante",
+          "peu salubre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/221af617-eeef-56f6-97f4-33d062512906",
+        "value": "Des usines spéciales ont été installées dans ce but dans la plupart de nos grands ports et elles ont donné d ' excellents résultats .La marine française exige des agglomérés durs , sonores , homogènes , peu hygrométriques , à peu près sans odeur , fabriqués avec des menus de récente extraction , lavés avec soinils doivent renfermer comme matière agglomérante 8 de brai sec , leur poids ne doit pas dépasser 8 kilog .et leur densité doit être au moins égale à 1 , 2 .",
+        "words": [
+          "odeur",
+          "agglomérés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/23c58f02-5f7d-5a8b-be88-14f1e6ce72ad",
+        "value": "Rien de plus aisé , on le comprend , que de nettoyer un semblable appareil et d ' éviter tout engorgement .Indépendamment de ces fermetures , placées à l ' entrée de l ' égoût , il convient d ' en placer d ' autres à l ' origine des tuyaux qui débouchent dans les appartements , afin de se prémunir contre les mauvaises odeurs qui peuvent se dégager , non de l ' égoût avec lequel la fermeture inférieure intercepte la communication , mais des tuyaux eux - mêmes .C ' est dans ce but que l ' évier de la cuisine et la cuvette des cabinets sont ordinairement pourvus d ' une soupape hydraulique Elle n ' est pas utile au tuyau des eaux pluviales , qui ne livre point passage à des matières nauséabondes .",
+        "words": [
+          "mauvaises",
+          "odeurs",
+          "tuyaux",
+          "les appartements",
+          "égoût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/3423107f-55fc-5e6a-a8e3-418b699b505f",
+        "value": "Cette condition indispensable est trop souvent négligée , et on emploie presque toujours pour ces décharges des tuyaux en fonte à emboîtement simple , dont le joint reste largement ouvert à tous les gaz infects et dangereux qui se développent dans l ' intérieur du tuyau .Nous insistons donc pour la suppression de cet insalubre installation qui devrait d ' ailleurs être formellement interdite par les règlements d ' hygiène des habitations , Pour assurer la salubrité des cuisines , il ne suffit pas d ' y produire une bonne ventilation , mais il faut encore leur procurer une eau abondante , afin d ' y permettre le nettoyage journalier de toutes les surfaces susceptibles d ' être imprégnées ou salies par les opérations culinaires , c ' est à cette condition indispensable , qu ' on obtiendra une cuisine saine et sans odeur .Il est également nécessaire , pendant l ' été , de laisser les vasistas largement ouverts à l ' air frais de la nuit .",
+        "words": [
+          "sans",
+          "odeur",
+          "Nous",
+          "saine",
+          "insalubre",
+          "cuisine",
+          "cuisines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/3cc3ae34-3863-551c-ae5b-35ade8179eae",
+        "value": "Enfin l ' accès de ce foyer était rendu accessible de tous côtés , ce qui facilitait le service de la cuisson et de la préparation des aliments .Le chauffage de l ' habitation était trouvé mais il restait à découvrir le moyen de se débarrasser de la fumée et des odeurs gênantes qui se concentrent dans tout lieu clos et habité .On dût bientôt remarquer que la fumée tendant toujours à s ' élever dans un air calme , il était facile d ' en débarrasser l ' habitation en laissant en haut de la ( 1 ) Viollet - Le - Duc .",
+        "words": [
+          "fumée",
+          "odeurs",
+          "gênantes",
+          "habité",
+          "lieu clos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/42527ecc-9ea4-599c-9943-c0f56d8bb0ac",
+        "value": "relative aux cabinets d ' aisances , qui , dans bien des fabriques , sont situés tout à côté des ateliers et souvent même n ' en sont séparés que par une porte dormante .Cette disposition prise en vue de ménager le temps des ouvriers et de prévenir les désordres , a le grand inconvénient de donner des odeurs aux salles , d ' autant plus que ces sortes de locaux sont , en général , fort mal tenus .S ' il est difficile , avec les habitudes du personnel , d ' arriver à des conditions tout à fait satisfaisantes , on peut du moins par quelque procédé technique , diminuer beaucoup les émanations Un moyen fort simple et très - efficace , qu ' il est presque toujours possible d ' appliquer , consiste à mettre le tuyaux de chute en communication avec une cheminée de l ' usine .",
+        "words": [
+          "odeurs",
+          "salles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/4b942dd6-9c11-562d-bbcb-e8b503bf3491",
+        "value": "Ce bec de gaz pourrait d ' ailleurs , au besoin , être tenu constamment allumé , en temps d ' épidémie , par exemple .11 est aisé de voir que la ventilation de chaque cellule serait ainsi parfaitement assurée d ' une façon indépendante et complète , et que l ' air vicié rejeté directement dans l ' atmosphère par le plus court chemin serait immédiatement dispersé dans l ' air ambiant , sans avoir passé par de longs circuits infects , augmentant sa résistance et son insalubrité , et le concentrant dans une cheminée centrale pour en former une cascade de miasmes retombant du haut de cette cheminée sur la prison et ses abords .Afin d ' éviter tout retour des gaz infects provenant des siéges d ' aisances , nous proposons d ' adopter le siège hydraulique système Jennings , du .",
+        "words": [
+          "atmosphère",
+          "miasmes",
+          "prison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/59d92c0b-813f-5e45-aed5-ce8c29e04223",
+        "value": "Ces troncs sont généralement empilés en couches horizontales qui paraissent avoir été formées par d ' immenses inondations précédées de tempêtes dont la violence a dû renverser des forêts entières , ces débris recouverts par les eaux ont subi une transformation analogue à celle que nous observons dans la formation de la tourbe , qui renferme souvent des troncs d ' arbres fossiles comparables aux lignites .Ce combustible brûle facilement en donnant une flamme longue , il produit une fumée noire d ' une odeur forte et désagréable .Il donne un charbon analogue à celui du bois , non collant et sans boursouflures , Les lignites perdent promptement leur principes combustibles par l ' exposition à l ' air et la dessiccation .",
+        "words": [
+          "désagréable",
+          "forte",
+          "odeur",
+          "fumée",
+          "Ce combustible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/6876f1be-b663-5e55-9ed9-9c1e5cb588eb",
+        "value": "Quand la température est au contraire plus haute à l ' extérieur , l ' air froid des habitations étant plus dense que l ' air extérieur , il se produit nécessairement des sorties d ' air par le bas des pièces , des escaliers et des cheminées sans feu .Cet effet des cheminées donne lieu souvent à des odeurs de suie , indiquant parfaitement le sens du courant d ' air , qu ' on constate d ' ailleurs facilement avec une bougie allumée .Franklin parait être le premier physicien qui ait publié une explication exacte des effets qui se produisent dans les cheminées sans feu pendant les chaleurs de l ' été ; il les décrit ainsi : ( 1 ) « A propos des cheminées , je me rappelle une de leurs propriétés , que j ' ai eu autrefois occasion d ' observer , et à laquelle je ne me rappelle pas que personne ait fait attention .",
+        "words": [
+          "odeurs",
+          "suie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/6a2d129e-2552-5fb8-a92c-07f303a626e4",
+        "value": "Construite en métal elle donnerait lieu à d ' abondantes condensations , et à un refroidissement trop fort qui pourrait ainsi nuire au tirage .Étudions maintenant la circulation de l ' air pur : la prise d ' air extérieur doit être placée dans un endroit bien aéré et loin des émanations gênantes ou nuisibles .On doit bien se garder d ' opérer cette prise d ' air directement dans la cave du calorifère , afin d ' éviter les poussières et la fumée qui sont souvent produites pendant l ' allumage et le chargement du foyer ; poussières et fumées qui s ' introduiraient rapidement dans toutes les pièces .",
+        "words": [
+          "air",
+          "émanations",
+          "nuisibles",
+          "gênantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/749164f3-8ca0-577c-b09f-809e24a45446",
+        "value": "Aussi pour avoir des cabinets véritablement dignes du nom de water - clo - sets , a - t - on installé à Paris et à Lyon ces diviseurs soit fixes , soit mobiles , qui laissent filtrer la totalité des liquides et graduellement , par voie de dissolution ou d ' entraînement , la plus grande partie des solides , si bien qu ' il ne reste pour ainsi dire plus dans le réceptacle que des corps inertes , souillés de matières .Mais alors on se demande à quoi sert d ' introduire dans le mécanisme de l ' expulsion une semblable complication , qui , sans préserver efficacement les galeries d ' égoût de l ' infection qu ' on redoute pour elles , entretient néanmoins autour du tuyau de chute une source de mauvaises odeurs ; car si la quantité de matière retenue par le filtre est insignifiante par rapport à celle qui passe , elle suffit cependant pour engendrer des émanations considérables .» Les appareils à fermeture hydraulique que nous venons de décrire , suffisent dans tous les cas à éloigner complément tout retour de gaz infect ; mais leur emploi ne dispense point d ' écarter les water - closets du voisinage immédiat des pièces habitées .",
+        "words": [
+          "mauvaises",
+          "odeurs",
+          "émanations",
+          "considérables",
+          "galeries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/753e386c-6a48-5a5b-81bd-0eed9d0bfc14",
+        "value": "L ' alimentation en air pur est parfaitement assurée sur tous les points de la circonférence , il balaye donc devant lui tous les gaz de la combustion , de la respiration , et toutes les odeurs produites dans la cabane par les provisions , viandes , poisson , etc .; acrochées tout naturellement à une certaine hauteur dans le courant de fumée sortant , pour se débarrasser de leurs émanations .Remarquons en passant que cette pratique a dû de fort bonne heure faire découvrir la puissance conservatrice de la fumée sur les viandes et le poisson , et que de cette observation découla l ' usage de fumer les provisions pour en assurer la conservation .",
+        "words": [
+          "leurs",
+          "émanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/7f5dfea7-9802-5599-af86-d208e4fdc45f",
+        "value": "— Volumes d ' air nécessaires à l ' éclairage , par : bougies , huile , gaz , gaz oxyhydrique , électricité .— Extraction de l ' air vicié .— Analyses de l ' air confiné .",
+        "words": [
+          "air",
+          "vicié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/80520255-ea14-578a-adb8-e7aa9b2da10a",
+        "value": "La nuit elles servent de dortoirs .La ventilation y est naturelle , c ' est à - dire insuffisante ; en hiver , les chambres , chauffées au moyen d ' un poêle , sont tenues hermétiquement closes pour empêcher la déperdition du calorique ; les latrines mal tenues , mal installées où trop rapprochées , infectent souvent les salles ; chaque homme conserve près de lui les différentes pièces de son équipement , et parfois la sellerie et le harnachement , ses chaussures , ses vêtements imprégnés d ' émanations malfaisantes : pendant l ' hiver au milieu de la nuit , dans les casernes de cavalerie surtout , le méphitisme atteint d ' ordinaire des proportions d ' autant plus fortes que la propreté et les soins de la peau laissent plus à désirer .» Le professeur Marvaud , du Val - de - Grâce , insiste également sur ce confinement prolongé et sur l ' absence de ventilation ( 5 ) .",
+        "words": [
+          "émanations",
+          "chambres",
+          "malfaisantes",
+          "vêtements",
+          "salles",
+          "imprégnés",
+          "dans les casernes de cavalerie",
+          "pendant l ' hiver au milieu de la nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/8165d729-0f76-5474-8803-a8cdcd09de85",
+        "value": "La continuité de la ventilation dissipe cependant promptement toute trace de mauvaise odeur quand les malades sont sortis .Les lieux d ' aisances ne donnent aucune mauvaise odeur ; ceux qui dépendent des salles sont , comme on l ' a dit , placés à l ' extérieur de la partie principale du bâtiment .et sont , ainsi que les autres , ventilés séparément , au moyen d ' une conduite d ' extraction .",
+        "words": [
+          "aucune mauvaise",
+          "odeur",
+          "salles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/84357f05-aa37-58c2-b428-9b3532ded906",
+        "value": "Nous avons un témoignage qui dépose du danger de l ' infection de l ' air , c ' est celui de Dionis , démonstrateur d ' anatomie sous Louis XIV , et premier chirurgien de Madame la Dauphine : A Paris dit - il , le trépan est assez heureux , et encore plus à Versailles , où l ' on n ' en meurt presque point ; mais les trépanés périssent tous à l ' Hôtel - Dieu de Paris , à cause de l ' infection de l ' air qui agit sur la duremère et qui y porte la pourriture .Quant aux femmes en couches , la mauvaise disposition des salles ne peut que leur être funeste ; aussi voit - on qu ' il en périt un grand nombre ; Vesou , médecin de cet hôpital , indique le défaut de la situation des salles , et attribue cette grande mortalité aux vapeurs infectes qui s ' élèvent de la salle des blessés .Le pays le plus sain est le pays où l ' on vit le plus longtemps ; l ' hôpital le plus insalubre est celui qui perd le plus de malades en proportion de ceux qu ' il a reçus , il perd plus d ' hommes , parce qu ' il oppose plus d ' obstacles à leur guérison , parce qu ' il réunit plus de causes d ' insalubrité .",
+        "words": [
+          "infectes",
+          "vapeurs",
+          "salle des blessés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/8ad8e0f0-24e4-5489-83e5-6a271ea96b08",
+        "value": "Le premier exemple est celui d ' un atelier à confectionner les cigares , dans la manufacture de Nantes .Dans ces sortes d ' ateliers , il se produit effectivement très - peu de poussières , mais on a à se prémunir contre les émanations de tabac humecté et surtout contre celles qu ' engendre la grande agglomération des personnes .Le système de ventilation est mixte et basé à la fois sur le principe du chauffage et sur celui de la propulsion mécanique .",
+        "words": [
+          "tabac",
+          "émanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/91860c6a-d981-5731-813d-3948ac19139e",
+        "value": "citerons les extraits suivants dûs au savant ingénieur de Freycinet ( 1 ) ( aujourd ' hui ministre des travaux publics ) : « La salubrité des cabinets d ' aisances se ressent directement du système de réceptacles employé .Il faut se représenter en effet tout réceptacle de matières comme un foyer plus ou moins actif de dégagements , duquel les émanations tendent incessamment , quoi qu ' on fasse , à gagner les appartements .La véritable condition de l ' assainissement des cabinets , c ' est donc la suppression même des réceptacles , ou l ' envoi direct des déjections aux égoûts .",
+        "words": [
+          "émanations",
+          "réceptacle de matières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/96730fa7-be79-58a5-b26b-fed807a20465",
+        "value": "Le grand nombre des ouvriers , la nécessité de maintenir les chaînes des toiles dans un état convenable d ' humidité , l ' influence des produits de la combustion du gaz , l ' absence de ventilation , rendaient l ' atelier d ' Orival tellement insalubre , que le nombre des ouvriers indisposés ou malades , dans la partie centrale la plus éloignée des portes , y était habituellement de trente à quarante , ( soit près du Yio en moyenne ) , sur lesquels une douzaine en moyenne , étaient obligés de suspendre tout travail et de garder la chambre .Les ouvriers valides , souvent incommodés l ' été par la chaleur , l ' hiver par les émanations du gaz , étaient obligés de sortir pour respirer l ' air pur ; beaucoup d ' entre eux éprouvaient un malaise qui leur enlevait l ' appétit , la vigueur ; la production de l ' atelier s ' en ressentait .Telles étaient les conditions fâcheuses auxquelles M .",
+        "words": [
+          "émanations",
+          "ouvriers valides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/99ec5891-7e5e-534f-86f1-2e75be5b9301",
+        "value": "ont une capacité disproportionnée avec le nombre de leurs habitants , et sont dépourvues de tout moyen de ventilation régulière ; on ouvre les fenêtres pendant l ' intervalle des classes ou aux heures de récréation ; mais cette mesure est insuffisante , et en hiver on la néglige .Que l ' on entre dans ces locaux une heure après le renouvellement de leur atmosphère , déjà on est frappé par une odeur d ' air usé , confiné ou miasmatique .Assainir ces établissements , c ' est améliorer la race humaine , c ' est préparer au pays des générations valides et utiles .",
+        "words": [
+          "odeur",
+          "air",
+          "locaux",
+          "une heure après le renouvellement de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/9d7d6e8f-62a3-5ee1-b8d5-2eaf5b62d461",
+        "value": "Pendant le jour , celle - ci peut être assurée , il est vrai , dans une certaine mesure par les ouvertures naturelles , portes et fenêtres et surtout par les entrées et sorties des hommes .Mais l ' hiver , quand le temps est rigoureux , l ' aération par les portes et fenêtres se fait beaucoup plus difficilement ; aussi l ' air des chambres acquiert rapidement une odeur tellement forte qu ' il indique suffisamment à la personne qui y pénètre les produits délétères qu ' il renferme .Pendant la nuit et dans les temps froids , la ventilation devient impossible , ( 1 ) Etude sur les casernes .",
+        "words": [
+          "odeur",
+          "air",
+          "chambres",
+          "l ' hiver",
+          "tellement forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/a418315a-f907-54ac-aae0-2c7d4b1e7444",
+        "value": "Cette forme a même , par cette raison , l ' avantage d ' accélérer l ' évacuation de l ' air vicié quand il n ' y a point de feu , Les parois de ces rustiques cabanes étant assez perméables , l ' air pur extérieur peut pénétrer tout autour par petits filets qui s ' échauffent en se tamisant et ne causent point de courants incommodes par leur fraîcheur .L ' alimentation en air pur est parfaitement assurée sur tous les points de la circonférence , il balaye donc devant lui tous les gaz de la combustion , de la respiration , et toutes les odeurs produites dans la cabane par les provisions , viandes , poisson , etc .; acrochées tout naturellement à une certaine hauteur dans le courant de fumée sortant , pour se débarrasser de leurs émanations .",
+        "words": [
+          "gaz",
+          "odeurs",
+          "provisions",
+          "cabane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/a4539021-060c-5713-8dbf-3bb93c68b1c5",
+        "value": "Il résulte de l ' ensemble de ces absurdes conditions habituelles de chauffage excessif et d ' absence complète de ventilation , de sérieux inconvénients pendant les repas , et surtout ceux du soir qui comportent un éclairage échauffant et producteur de gaz irrespirables qui vient encore ajouter une nouvelle cause d ' insalubrité .Les vapeurs des mets et des vins viennent se mêler à toutes les émanations des lumières et aux produits de la respiration des convives , en formant aingi rapidement une masse de gaz viciés et irrespirables , qui infectent non - seulement la salle , mais pénètrent souvent dans les salons voisins où ils sont appelés par le tirage des cheminées de ces pièces .Il est donc nécessaire de renoncer à employer des dispositions aussi insalubres , qui ne sont d ' ailleurs pratiquées que par esprit d ' imitation et de routine .",
+        "words": [
+          "vapeurs",
+          "vins",
+          "émanations",
+          "mets",
+          "salle",
+          "salons",
+          "viciés",
+          "irrespirables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/a8b7a39c-d868-5f0f-8176-4dc48afd767c",
+        "value": "Cuisines .( 1 ) — La ventilation des cuisines est souvent imparfaite , il est cependant fort important qu ' elle soit énergique et régulière , afin d ' enlever complètement toutes les vapeurs fortes qui s ' y développent et se répandent dans les pièces voisines .Pour combattre ce fâcheux effet , il faudrait placer dans le tuyau de la cheminée à hotte de la cuisine un petit ventilateur à hélice mis en mouvement par la chute d ' un poids qu ' on remonterait pendant la préparation des mets .",
+        "words": [
+          "vapeurs",
+          "fortes",
+          "pièces",
+          "cuisines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/a96bd199-d3fa-502d-be4c-e61332aaaa2a",
+        "value": "( 3 ) Principes de l ' assainissement des villes , page 92 .« C ' est naturellement dans l ' intérieur des habitations que les exhalaisons offrent le plus de danger .Là , il est nécessaire d ' y couper court absolument .",
+        "words": [
+          "exhalaisons",
+          "intérieur",
+          "habitations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/aa254478-1a3a-5026-9ce3-47c5be10fdb8",
+        "value": "» Salles à manger .— Les salles à manger devraient toutes êtres largement aérées , à cause des odeurs fortes qui s ' y produisent au moment des repas , et qui finissent par saturer leurs parois de miasmes dégoûtants , dus à l ' absence de ventilation .Il faudrait donc absolument renoncer à employer pour le chauffage de ces pièces , les poêles dits de faïence qui y sont généralement appliqués .",
+        "words": [
+          "odeurs",
+          "miasmes",
+          "fortes",
+          "dégoûtants",
+          "parois",
+          "salles à manger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/ac42d991-a331-51c7-a8c5-4cab49e632bc",
+        "value": "Même avec ce volume de ventilation , l ' atmosphère est altérée par les émanations des vêtements de ce grand nombre d ' individus serrés les uns contre les autres , qui appartiennent principalement aux classes les plus pauvres , et cet effet est principalement sensible quand le temps est humide .La continuité de la ventilation dissipe cependant promptement toute trace de mauvaise odeur quand les malades sont sortis .Les lieux d ' aisances ne donnent aucune mauvaise odeur ; ceux qui dépendent des salles sont , comme on l ' a dit , placés à l ' extérieur de la partie principale du bâtiment .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/adb869f1-87df-5b21-9fd5-f92149c71949",
+        "value": "Les viticulteurs algériens nous sauront gré de leur avoir signalé ce moyen de sauvegarder peut - être leurs cuvées , si compromises jusqu ' à ce jour .Si nous abordons maintenant la série des applications hygiéniques proprement dites , sans répéter ce que nous avons dit des théâtres , des hôpitaux et des casernes , quelle énumération ne resterait - il pas à faires des écoles , ateliers , salles de concerts et de bals , lieux de réunion d ' agglomération de toutes sortes , ou après avoir pâti de longues heures entières des inconvénients d ' un air confiné , raréfié , échauffé , méphitisé par la combustion des appareils d ' éclairage et celle de lh respiration de la foule , les assistants ont encore à craindre , en les quittant , les dangers de la transition du dedans au - dehors ? « En temps d ' épidémies , ou , plus simplement , toutes les fois que l ' on redou « tera des émanations putrides fait encore observer M .Philippe Delahaye , dans « les amphithéâtres de dissection , salle de cholériques , varioleux , exanthéma « teux , typhoïdés , etc .",
+        "words": [
+          "putrides",
+          "air",
+          "émanations",
+          "de longues heures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/b06d8103-dc26-5842-9dfc-b4eeddd397e4",
+        "value": "A l ' inverse des orifices privés , les bouches de décharge des rues , dans un système d ' égoûts bien ordonné , doivent être toujours ouvertes .Si l ' on suppose le réseau souterrain établi sur des bases rationnelles , de telle façon que toute matière putrescible y soit constamment en présence d ' un excès d ' eau et ne séjourne jamais plus de 24 heures dans les galeries , les exhalaisons ne sont pas de nature à incommoder sérieusement les habitants .Il suffit que ceux - ci ne les laissent point parvenir au sein de leurs demeures , mais ils peuvent sans danger les laisser s ' échapper sur la voie publique .",
+        "words": [
+          "exhalaisons",
+          "plus de 24 heures",
+          "matière putrescible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/b1dfa17e-beab-5a7f-a52e-e346beed96b8",
+        "value": "Il est ordinairement trouble , sa coloration est brune .L ' odeur forte et pénétrante qu ' il exhale provient des combinaisons sulfurées , phosphorées et arsénicales associées au pétrole dont l ' odeur masque celle de l ' huile .Le pétrole du Canada d ' une teinte foncée est surtout remarquable par sa viscosité et son odeur repoussante .",
+        "words": [
+          "huile",
+          "pénétrante",
+          "forte",
+          "odeur",
+          "arsénicales",
+          "combinaisons sulfurées , phosphorées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/c025910d-99a9-558d-8dfb-9779f47787d2",
+        "value": "L ' odeur forte et pénétrante qu ' il exhale provient des combinaisons sulfurées , phosphorées et arsénicales associées au pétrole dont l ' odeur masque celle de l ' huile .Le pétrole du Canada d ' une teinte foncée est surtout remarquable par sa viscosité et son odeur repoussante .Le pétrole de Pensylvanie généralement plus léger , est plus transparent et plus fluide ; sa couleur varie du vert au brun olivâtre .",
+        "words": [
+          "odeur",
+          "son",
+          "repoussante",
+          "pétrole du Canada"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/cf46a905-1fdb-568d-a6f4-24d04ed1f241",
+        "value": "Les travaux commencés en juin n ' ont été terminés qu ' en août 1868 .Dès les premiers jours du fonctionnement de la ventilation , l ' amélioration dans l ' état de l ' air de cette salle , précédemment infectée d ' odeurs nauséabondes , qui causaient aux ouvriers un malaise indéfinissable et leur enlevaient une partie de leur énergie , devint immédiatement sensible ; mais j ' ai voulu attendre Il y a maintenant près de dix mois que la ventilation fonctionne régulièrement .Les rapports mensuels du médecin et du sous - directeur de l ' établissement , constatent que le nombre des malades a considérablement diminué , et il n ' en manque plus au travail que 3 ou 4 par jour , au lieu des trente ou quarante qui manquaient avant l ' établissement de la ventilation .",
+        "words": [
+          "air",
+          "odeurs",
+          "nauséabondes",
+          "salle",
+          "Dès les premiers jours du"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/d647ca94-730a-5c50-bb52-a839fa44544c",
+        "value": "Mais outre cela quand on a épuisé le mauvais air , pour redonner de l ' air nouveau , il ne s ' agit que d ' appliquer à l ' ouverture de la circonférence les tuyaux qui vont à la chambre du malade , et de faire pomper par l ' ouverture centrale où était le tuyau d ' aspiration , l ' air de la chambre où est la machine .Cette machine serait très - utile dans tous les hôpitaux et dans les prisons , elle servirait parfaitement bien ' à porter dans les chambres les plus éloignées de l ' air chaud ou de l ' air froid , et suivant même le besoin , à répandre dans les appartements les parfums les plus sensibles .» Désaguliers a donc bien compris tous les effets qu ' on pouvait tirer du ventilateur centrifuge , qu ' il a du reste appliqué avec succès à la ventilation de la Chambre des Communes , et plus tard à la ventilation des navires .",
+        "words": [
+          "parfums",
+          "appartements",
+          "les plus sensibles",
+          "dans les prisons",
+          "dans tous les hôpitaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/dca766e1-61a6-5503-b638-9b4fb9f4bf07",
+        "value": "salons , sont d ' ailleurs parfaitement exposés dans les lignes .suivantes dues au professeur Daremberg ( ll ) , l ' érudit et savant auteur de Yffîstoïré des sciences médicales : « Quand on songe aux terribles et inévitables effets que produit immédiatement ou à la longue une atmosphère viciée par les êtres vivants ; quand on a assisté à ces expériences où les animaux s ' affaissent et périssent empoisonnés par leur propre respiration , on serait tenté de crier à l ' assassin , toutes les fois qu ' on entre dans ces salles basses et étroites où cent poitrines à la fois exhalent la pestilence , dans ces salons d ' où les flots pressés de visiteurs ne songent même pas à s ' échapper , quand déjà les bougies pâlissent , faute de ce gaz oxygène qui en alimentait la flamme .Pour peu qu ' on lise avec attention les cinquante pages que Péclet a consacrées au chauffage et à la ventilation des appartements , on reconnaît bien vite , que sous ce rapport nos architeetes n ' ont pas fait de grands progrès depuis les heureuses , mais insuffisantes réformes de Rumford .",
+        "words": [
+          "atmosphère",
+          "salles",
+          "exhalent",
+          "salons",
+          "pestilence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/e209fda7-52d2-5a58-8479-d1e94b8892e9",
+        "value": "C ' est que , dans un but d ' économie , que ne justifie que trop le modeste budget de la plupart des ouvriers , la famille se tient au complet , pendant les heures de loisir de la journée , dans une même pièce , où un seul feu alimente la cuisine , réchauffe le corps et aide souvent au séchage de la lessive .A l ' ancienne cité de Mulhouse , où les lieux d ' aisances sont dans l ' intérieur du logement , leurs émanations achèvent quelquefois de vicier un air déjà bien malsain .Il serait cependant facile en construisant une maison ouvrière d ' y ménager des dispositions spéciales pour le chauffage de toutes les pièces par le feu de la cuisine ; la ventilation s ' obtiendrait d ' ailleurs aisément en ménageant de simples conduits d ' extraction d ' air vicié dans l ' épaisseur des murailles .",
+        "words": [
+          "air",
+          "leurs",
+          "émanations",
+          "vicier",
+          "bien malsain",
+          "A l ' ancienne cité de Mulhouse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/e21789c0-7da4-5b99-8bfe-b98e46420267",
+        "value": "Enfin , des observations plus récentes dues à MM .Grassi , Trélat , Péligot , Thomas et Laurens , général Morin ; ont montré qu ' une évacuation de 60 à 70m3 n ' empêche pas toujours l ' air d ' avoir une odeur désagréable .Dans la dernière édition , 1874 , de son manuel de chauffage , le général Morin semble d ' abord s ' être arrêté aux nombres suivants qui nous paraissent suffisants , et que la pratique a paru consacrer : Hôpitaux ordinaires .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "air",
+          "Morin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/e7452106-7fef-56ab-a13c-05edc362fd82",
+        "value": "C ' est dans ce but que l ' évier de la cuisine et la cuvette des cabinets sont ordinairement pourvus d ' une soupape hydraulique Elle n ' est pas utile au tuyau des eaux pluviales , qui ne livre point passage à des matières nauséabondes .Au moyen de ces diverses dispositions et d ' un écoulement d ' eau convenable dans les organes , on parvient à se mettre complétement à l ' abri des mau0 vaises odeurs .Les water - closets des bonnes maisons anglaises en sont une preuve frappante .",
+        "words": [
+          "odeurs",
+          "mau0 vaises"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/e7a53d09-ca00-565d-87f7-cedb0990b798",
+        "value": "Water - closets .— Les cabinets d ' aisances , presque toujours mal disposés , sont la cause d ' une infection non - seulement fort gênante , mais qui peut encore avoir des suites graves , car il est reconnu aujourd ' hui qu ' un certain nombre de maladies épidémiques se propagent surtout par les miasmes des excréments des malades ( 1 ) .Il est donc absolument nécessaire de supprimer tous ces miasmes et d ' empêcher complétement tout retour des gaz infects dans les pièces habitées et dans le cabinet lui - même .",
+        "words": [
+          "miasmes",
+          "fort gênante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/e871d1a2-2be1-55b7-9dc3-b12cb21ea908",
+        "value": "La preuve évidente , qu ' il a bien saisi toute l ' importance d ' un air renouvelé méthodiquemennt , réside dans les lignes ci - dessous , textuellement extraites de son précieux ouvrage : « Si cette manière d ' échauffer la chambre est utile à ceux qui se portent bien , l ' on peut dire qu ' elle est nécessaire aux malades , à ceux qui les gouvernent et qui les voient : Car l ' haleine gâtée des malades , les humeurs corrompues qu ' ils transpirent , ce .qui s ' exhale des remèdes qu ' ils prennent et qu ' ils rendent , se mêlant continuellement avec un air qui reste toujours le même , ( parce que l ' on n ' ose rien ouvrir pour en faire entrer de nouveau , pour peu qu ' il fasse froid ) , le corrompent de plus en plus , ainsi un malade respire un air plus corrompu , plus empesté que celui qu ' il exhale ; ceux qui le voient respirent le même air ; et peut - on douter que ce ne soit souvent la cause de la mort des infirmes et de la maladie de ceux qui les ont gouvernés , ou qui les ont vu souvent .Mais si par le moyen de ces cheminées on laisse continuellement entrer de nouvel air chaud , et au degré de chaleur que le malade le pourra souffrir , cet air nouveau chassera continuellement celui de la chambre , et en fera respirer de plus sain au malade , et à tous ceux qui sont dans sa chambre et les garantira ( 1 ) Viollet - Le - Duc , Dre d ' Architecture , t .",
+        "words": [
+          "air",
+          "exhale",
+          "empesté",
+          "corrompu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/e88245e3-bb80-5fdb-ba91-5fa13a38733d",
+        "value": "234 .temps , saturer les murailles des habitations et des hôpitaux , grâce à ces infiltrations des gaz viciés et miasmatiques .Il y aura donc lieu d ' en tenir sérieusement compte dans les applications et , en particulier , pour les écoles , les casernes et les hôpitaux .",
+        "words": [
+          "miasmatiques",
+          "hôpitaux",
+          "viciés",
+          "murailles des habitations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/ec31cfd4-89a6-59b3-a237-21fb2e632f6b",
+        "value": "Les pièces du rez - de - chaussée ne sont pas constamment occupées , mais dans les salles d ' attente pour consultations , il y a souvent un très - grand nombre de personnes réunies pour un temps assez court ; pendant environ 2 heures , ces salles contiennent quelquefois 300 personnes , et la ventilation est donnée à raison de 3 , 300 pieds cubes en une minute , ou 5 , 544 mètres en une heure , soit fi pieds cubes par minute pour chaque individu ( 18mc , 4 par personne et par heure ) .Même avec ce volume de ventilation , l ' atmosphère est altérée par les émanations des vêtements de ce grand nombre d ' individus serrés les uns contre les autres , qui appartiennent principalement aux classes les plus pauvres , et cet effet est principalement sensible quand le temps est humide .La continuité de la ventilation dissipe cependant promptement toute trace de mauvaise odeur quand les malades sont sortis .",
+        "words": [
+          "atmosphère",
+          "émanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/f3f1ec31-932d-5244-9e68-a4a34667f470",
+        "value": "les chambres restant complétement fermées de sept heures du soir à six heures du matin , soit pendant onze heures environ .Rien n ' est alors plus désagréable que de pénétrer le matin dans ces vastes salles où les hommes sont couchés en grand nombre , au milieu d ' une atmosphère fétide , malsaine et imprégnée des odeurs les plus repoussantes et des émanations les plus délétères .Il n ' est pas d ' officier et de médecin , dans l ' armée , qui ne connaisse l ' effet désagréable et fâcheux que produit , sur une personne qui n ' y est pas habituée , l ' entrée dans une chambrée au moment du réveil .",
+        "words": [
+          "fétide",
+          "atmosphère",
+          "odeurs",
+          "malsaine",
+          "les plus délétères",
+          "salles",
+          "le matin",
+          "les plus repoussantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/f582014b-d65c-54bd-8d8b-3ef032a97d3b",
+        "value": "Cette marche avait été suivie dans l ' hôpital pendant les deux derniers hivers , et semble avoir pour origine la tendance à donner plus d ' importance aux considérations d ' économie qu ' à celles qui sont relatives à la salubrité , tendance qui se manifeste souvent là où l ' on devait le moins s ' y attendre à la rencontrer .Ainsi qu ' on pouvait le prévoir , la suspension de la ventilation pendant la nuit avait déterminé dans les salles une odeur désagréable particulièrement sensible le matin .Ce règlement ayant été abandonné , l ' air nouveau fut aussi introduit pendant la nuit , le volume admis étant toutefois proportionné à la puissance calorifique conservée par l ' appareil de chauffage , dont le feu n ' était pas alimenté pendant la nuit , mais simplement remué .",
+        "words": [
+          "odeur",
+          "salles",
+          "le matin",
+          "pendant la nuit",
+          "désagréable particulièrement sensible"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/717f5619-9fd0-5964-942c-ab07d43d3666",
+        "label": "Adolphe Wazon"
+      }
+    ],
+    "label": "Chauffage et ventilation des édifices publics et privés, chauffage des serres : Précédé d'une étude pratique sur les combustibles (2e édition...) / Par M. A. Wazon,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6580914r",
+    "date": "1886",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/147",
+      "label": "Smoke"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/cf202db9-febf-584e-9501-ba6356d75cf6",
+      "label": "1886",
+      "begin": "1886",
+      "end": "1886"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/173864/",
+      "label": "Al Habīţ"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/401e99d0-a934-550b-8b1c-a3a0aa7f23f1",
+      "label": "lieu clos"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0437031d-43aa-5e8d-9f66-d05f5891e641/fragment/3cc3ae34-3863-551c-ae5b-35ade8179eae",
+  "license": "Public domain",
+  "adjective": "gênantes"
+}

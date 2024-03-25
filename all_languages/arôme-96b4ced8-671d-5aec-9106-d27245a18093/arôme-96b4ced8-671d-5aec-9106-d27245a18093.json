@@ -1,0 +1,264 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/96b4ced8-671d-5aec-9106-d27245a18093",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "arôme",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/02339f87-098f-5a96-aad2-ad68b359b562",
+        "value": "Et c ' était la voix de ma mère .O fleur , tu n ' as que le parfum Dune lointaine rêverie , Qu ' un souvenir , si c ' en est un : — Je sais qu ' on la nommait Marie .Sur ce lys pur comme un beau ciel , Mon âme un instant s ' est posée , Le temps de prendre un peu de miel Et de boire un peu de rosée .",
+        "words": [
+          "parfum",
+          "fleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/1e0aa3b0-94fd-57b0-a944-e41f1c5d8261",
+        "value": "Cependant je lirai ma bouffarde .ALBERT défait une liasse de papiers d ' où s ' échappent une tresse de cheveux et un portrait Des cheveux ! un portrait ! des lettres ! Les baisant avec transport Mes beaux jours ! 18 POÉSIES Voilà ce qu ' en partant nous laissent nos amours , Comme une barque laisse , en fuyant , son sillage ! Mettant ses lettres sous le nez de Saturnin Vois si cela sent bon , hein ? SATURNIN , reculant Quel enfantillage ! ALBERT , insistant Allons , sens ! SATURNIN Quel ennui ! ..",
+        "words": [
+          "bon",
+          "sent bon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/268fbc1c-1f35-532a-b042-094d276272d5",
+        "value": "12 178 POÉSIES Un instinct leur disait : de notre bien céleste , Nous aimer tous les deux toujours , c ' est ce qui reste .Ils avaient tant perdu , Seigneur , dans un seul jour ! Que vous avez bien fait de leur laisser l ' amour ! DE VALENTIN 179 LA VIERGE DES QUATRE SAISONS O Vierge pure , Quand la nature Ouvre au printemps ses prés fleuris , Donnez aux roses Fraîches écloses Tous les parfums du Paradis .O Vierge pure , Quand la nature En été prodigue ses blés , Que par vos anges Autour des granges Tous les pauvres soient rassemblés .",
+        "words": [
+          "Paradis",
+          "parfums",
+          "roses Fraîches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/33fbf07b-5e40-5500-94c1-200cc2da1b54",
+        "value": "Fais à cette tombe l ' aumône D ' une herbe plus épaisse encor , Donne lui la douce anémone , La pervenche ou le bouton d ' or .Fais qu ' une seule violette Sur ce tombeau toujours obscur Ouvrant sa frêle cassolette Lui verse son parfum si pur .Ah ! petite soeur .",
+        "words": [
+          "parfum",
+          "son",
+          "violette",
+          "pur",
+          "tombeau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/4b271f69-2180-5075-b8ef-267f1b50a8ff",
+        "value": "— Maintenant , qui voudra consoler ma souffrance ? Lorsque l ' homme , puni , de l ' Eden fut chassé , Il jeta vers la terre un oeil sombre et glacé , Puis regardant le ciel , y chercha l ' espérance ! 118 POÉSIES PREMIERES VIOLETTES QUEL que soit le tourment où mon esprit se jette , Et dont à tout instant je voudrais l ' arracher , Dans l ' herbe à peine en fleur , j ' irai pour vous chercher Et vous cueillir encor , première violette .Quels chants purs et légers vous dictez au poète ! Que vous êtes jolie et charmante à toucher ! Quel parfum de beaux jours , ô fraîche cassolette , Et quels chers souvenirs vous savez épancher ! Peut - être qu ' avec vous j ' oublierai ma détresse ; Et , puisque je n ' ai plus de joie et de maîtresse , J ' irai seul , un matin , dans l ' ombre vous cueillir , Vous chercher dans les bois , dans l ' herbe , sur la mousse , Et je rajeunirai : — car votre odeur si douce , En parfumant le coeur , l ' empêche de vieillir .DE VALENTIN 119 A Mlle ARMANTINE D Vous portez au front une rose Qu ' un magicien va changer , Tout heureux , en fleur d ' oranger , — Oh ! la tendre métamorphose ! A cette heure où l ' oiseau dispose Son nid merveilleux et léger , Que vous faites bien de songer A préparer la même chose ! Comme un riant avant - coureur , Vous recevrez avec bonheur Ce simple et fragile poème .",
+        "words": [
+          "parfum",
+          "odeur",
+          "cassolette",
+          "votre",
+          "coeur",
+          "parfumant",
+          "un matin",
+          "si douce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/53281128-e21b-56bc-bdaa-1a2db3b29c91",
+        "value": ".et pour quelle raison Brisez - vous sans retour votre nid de fauvettes ? Mais vous êtes , madame , un ange de douceur , D ' un diadème pur la bonté vous couronne ; Flottante et parfumée , elle vous environne Comme dans une blonde et céleste vapeur ! DE VALENTIN 147 REMINISCENCE J ' AVAIS sept ans , l ' âme bien folle : Mais que de beaux jours se passaient ! Lorsque je sortais de l ' école , Les belles dames m ' embrassaient .— J ' étais paresseux à l ' extrême , Du premier au trente du mois .",
+        "words": [
+          "parfumée",
+          "Flottante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/5ca2996b-ebb6-515a-9748-3171131f2fc1",
+        "value": "C ' est un baume du ciel suave à conserver .Un moment de silence ALBERT Dans nos jours de repos , aux heures de rêver , Quand dans la plaine en feu le siroco circule , Lorsqu ' en touchant la tente , à midi , la main brûle , Que le soleil dévore , et qu ' on croirait le camp Arrête sur la bouche ardente d ' un volcan ; Que la pensée , alors flottante et presqu ' éteinte , D ' un malaise penible et lourd se sent atteinte , Si , charmant imprévu du caprice des airs , Succède au vent torride et fumant des déserts , Un souffle de fraîcheur venu du fond des plaines , Ranimant herbe et fleur sous de pures haleines , 20 POÉSIES Comme le front respire alors , et comme on sent Sous les cheveux courir et frissonner le sang ! Comme le poumon s ' enfle et reçoit cette brise Echappée aux roseaux d ' une terre promise ! Ainsi , cher Saturnin , quand l ' esprit attristé S ' affaisse , tout chargé d ' ennuis et d ' âpreté , Que de gémissements la poitrine est étreinte , Quel charme de pouvoir , dans une chère empreinte , Dans un bon souvenir , une lettre , une fleur , Donner une rosée odorante à son coeur ! SATURNIN Heureux celui pour qui l ' heure d ' aimer résonne ! Mais malheur à celui que l ' ennui désarçonne ! Qui se lamente , pleure , et loin du sol natal , Tourne en rongeant ses poings dans un cercle fatal ! Le voyant délaissé , morne , privé de joie , La Débauche , qui veille et qui guette une proie , Le prendra tout entier , et , dans son vol géant , Le faisant tournoyer sur l abîme béant , Comme un frêle caillou qui tourne avec la fronde , Le lâchera , roulant dans une nuit profonde ! ALBERT Ne prêche pas si haut ; autour de nous on dort : SATURNIN C ' est un ami qui prêche ..",
+        "words": [
+          "odorante",
+          "front",
+          "rosée",
+          "coeur",
+          "Saturnin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/67699be9-d427-5f79-be6b-9b1ebba6fdc7",
+        "value": "Mais , là bas , dans les lauriers roses , Un bon café nous attendait ! DE VALENTIN 29 O boisson salutaire et sainte ! Merveilleuse et pure liqueur , Tu vaux bien la coupe d ' absinthe Qui ravage et détruit le coeur ! En savourant ton ambroisie , Les Anges de la Poésie Ouvrent un rayonnant essor , Et devant le café qui fume Les rimes volent de la plume Ainsi que des papillons d ' or ! En France , avec combien de joie , Toujours servi , toujours chauffé , A l ' heure où le midi flamboie , On prend , on hume son café ! O Sévigné , blonde immortelle , Fin crayon voilé de dentelle , Que pensaient vos esprits flottants , Lorsque votre bouche mutine Disait , à propos de Racine , Que le café n ' aurait qu ' un temps ? O nectar qu ' adorait Voltaire ! Tu rendais plus étincelant Chaque trait que ce sagittaire Lançait sur un monde croulant ! Sa verve était plus fécondée , Plus violente était l ' idée Qui jaillissait de son cerveau .30 POÉSIES Tel , quand le vent fouette en furie Un foyer de braise endormie , Il le change en ardent flambeau ! Allons , qu ' après mon sac on mette Tente , bâton , petits piquets , Petit moulin , maillet , hachette ! Prenons mes balles en paquets , Et du café plein ma valise , Afin que plus tard je vous dise Que lorsque l ' Arabe attaqua , Il sentit , avant la fumée Que jette la poudre enflammée , L ' odeur suave du moka ! DE VALENTIN 31 LA ROSE DE VOGHERA ÉPISODE DE LA GUERRE D ' ITALIE — 1859 A M .Ferdinand Laroussilhe I C ' ÉTAIT dans Voghera : pour chasser un parti Croate , un bataillon de ligne était sorti .",
+        "words": [
+          "suave",
+          "odeur",
+          "moka",
+          "valise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/797a9acb-90a5-51b2-9353-a2f849fc484d",
+        "value": "112 POESIES A LOUISE CE matin , heureux , je crayonne Un sonnet pour vos grands yeux noirs , Mobiles et profonds miroirs Où tant de volupté rayonne .Quel rêve aimé m ' illusionne ! De parfums , de brises des soirs , Je remplis pour vous , ô mignonne , Mes poétiques encensoirs .Ah ' si j ' étais plus jeune encore , Mon luth , ardent et plus sonore .",
+        "words": [
+          "parfums",
+          "brises des soirs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/98096140-c61b-5136-8889-3582b562668c",
+        "value": "Les élus que le sort envoie , La nuit , sous mes rideaux de soie , Le matin diraient avec joie Si je sais , quand le bal est clos , Dans l ' escrime d ' amour savante , Entre toutes celles qu ' on vante , Varier la lutte énervante Dont mon alcôve est le champ clos .Allez ! apôtres des familles , Des foyers bourgeois , des charmilles , Qui ne rêvez que jeunes filles , Ou lys vierges aux frais parfums , Je connais vos sages pratiques Aussi vieilles que les reliques 154 POÉSIES Qui de vos chambres monastiques Ornent les murs froids et communs ! Vos prudes ont bouclé leur lente Quand moi , d ' une main palpitante , Je tiens dans ma robe flottante Les fleurs qu ' elles n ' ont pu saisir .Aussi , crèvent - elles d ' envie De me voir tournoyer ravie Dans les lumières de la vie , Comme un papillon du plaisir .",
+        "words": [
+          "parfums",
+          "lys vierges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/9fd083ef-4bc5-5064-afef-e6f1aba86aa7",
+        "value": ".Tant mieux si cette odeur Flatte ton odorat ! ALBERT Elle charme mon coeur : Pense , j ' étais bien jeune encor quand cette tresse Tomba comme une fleur du front de ma maîtresse .Hélas ! j ' allais partir : — pour la première fois , Un accent faible et doux faisait trembler sa voix .",
+        "words": [
+          "odeur",
+          "odorat",
+          "Elle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/b82b0ab1-60cb-5932-8e21-9a6d78cb33b5",
+        "value": ".Pourtant ils respiraient , dans les airs épandu , Le pénétrant parfum du Paradis perdu .En suivant le sentier de ronces et de pierre , Leurs yeux , doux et navrés , regardaient en arrière .",
+        "words": [
+          "Paradis",
+          "parfum",
+          "airs",
+          "pénétrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/bb45be03-2e22-5818-9292-479158fb48f6",
+        "value": "Il chante , elle travaille , et Laïs se repose : Ici , fenêtre ouverte , et là , fenêtre close .Chez elle , un flot d ' air pur ; chez Lais , la chaleur D ' un air tout saturé des parfums de l ' orgie , Atmosphère étouffante où l ' on sent l ' énergie Et de l ' âme et du corps se fondre avec langueur .LAÏS Tu peux me flageller , ô muse vengeresse ! De mon char de triomphe où rayonne l ' ivresse , Dédaigneuse , j ' entends à peine tes discours ; Dans les sentiers fleuris , où , le soir , je chemine , Je ne remarque point une méchante épine Qui frôle par hasard ma robe de velours .",
+        "words": [
+          "air",
+          "parfums",
+          "étouffante",
+          "orgie",
+          "Atmosphère",
+          "Lais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/d00a0fa4-1b8c-5911-a75b-c0f5fa7554ea",
+        "value": "Soyons ainsi toujours ; n ' ayons pas d ' autre envie Que de vivre ignorés et bien loin des splendeurs ; Que chaque heure pour nous qui passe , soit suivie D ' une heure plus sereine et d ' entretiens meilleurs ! N ' ayons jamais d ' ennuis , de craintes , d ' amertume .Ce bouquet , que l ' amour renouvelle et parfume , D ' un souffle de chagrins n ' allons pas le ternir .Car ce n ' est pas l ' instant , ce n ' est pas l ' heure encore , Delphine , de poser , sur ton front que j ' adore , Ce voile qu ' en pleurant tisse le souvenir .",
+        "words": [
+          "bouquet",
+          "parfume"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/d02138bb-6d2b-58c0-93d5-c1cc9f5d0c8c",
+        "value": "DE VALENTIN 167 Mon oeil ardent te dévorait : Je restais muet , immobile , Comme un pauvre qui recevrait Un diamant dans sa sébile .Avril , précoce jardinier , Parsemait alors la colline Des fraîches fleurs de l ' amandier ; Les chemins sentaient l ' aubépine .Il s ' éveillait , en ces instants , En moi bien des métamorphoses ; Je crois que ce n ' est qu ' au printemps Qu ' il peut arriver de ces choses .",
+        "words": [
+          "fleurs",
+          "aubépine",
+          "amandier",
+          "colline",
+          "sentaient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/d8be2ef9-00a7-5583-87ee-a73c41dd19ff",
+        "value": "Et me rend plus léger le lourd métier des armes .Mais l ' absence me tue , et plus mon faible coeur Aspire les parfums lointains de cette fleur .Plus la mélancolie et les soucis austères Arrachent à mes yeux de pleurs involontaires .",
+        "words": [
+          "fleur",
+          "parfums",
+          "lointains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/dac7cae7-2341-51ff-b2b6-ba070484f68a",
+        "value": ".Mais , en faveur de l ' odorat , Moi , j ' aurais supprimé les bottes .13 194 POESIES DISTRACTION ELECTORALE EN ce mois de mai si charmant , O brunette espiègle et jolie , N ' avez - vous pas quelque moment D ' amoureuse mélancolie ? Serait - ce à moi — quelle folie ! — Que vous pensez innocemment ? — Non , répondez - vous sèchement .",
+        "words": [
+          "odorat",
+          "j",
+          "bottes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/f3aee803-518e-5213-9e30-ab7affedd072",
+        "value": "Ce soir là , bon souper , bon lit , feu bienfaisant , Etaient prêts à fêter le retour de l ' absent .On avait retiré de l ' armoire si grande Les draps blancs parfumés de thym et de lavande .Quelques couverts d ' argent à table furent mis ; D ' antiques chandeliers , longtemps ensevelis Sous une gaze fine en festons terminée , Ornaient étincelants , la haute cheminée .",
+        "words": [
+          "thym",
+          "draps",
+          "parfumés",
+          "lavande",
+          "draps blancs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/f80dfa7d-f544-5022-af73-74dd50eb5e45",
+        "value": "— Tu vas connaître un autre monde ; La fleur d ' oranger désormais Embaumera ta tête blonde .Jeunesse aux yeux bleus et coquets , Adieu ! va t - en toute ravie ; Emporte avec toi les bouquets Les plus odorants de la vie ! Etincelante à ton matin Comme un lilas sur la montagne , Tandis que le chagrin me gagne , Va , poursuis ton heureux destin .Sois toujours la plus adorée , Et qu ' on le le dise à genoux ! Que des madrigaux les plus doux Ton oreille soit enivrée ! Dans son orageux tourbillon , Si le monde à présent t ' entraîne , Par ton sourire sois la reine , Par ta grâce sois le rayon ! 94 POESIES Que dans le bal , à l ' heure où glisse La valse au méandre élégant , Quelque amoureux extravagant T ' offre sa vie en sacrifice Pour le frivole et doux caprice De baiser le bout de ton gant ! .",
+        "words": [
+          "odorants",
+          "bouquets",
+          "à ton matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/fc4aaee0-c687-580a-936e-f0b9389694a6",
+        "value": "En rangeant leurs sacs , ils se surprennent l ' un l ' autre à baiser leurs lettres en cachette ALBERT , l ' oeil humide , serrant la main de son camarade Je ne sera jamais la morne indifférence qui nous rendra tous deux misérables ! La sentinelle derrière la tente Silence ! 28 POÉSIES AU CAFE AU camp la diane résonne ; Le soldat , debout , sémillant , Déboucle sa tente et fredonne Un gai refrain en s ' habillant .Une ardente et rouge lumière Paraît sur le front de bandière ; Ah ! le joyeux auto da - fé ! Regardez ! le ciel se colore , Et dans les brumes de l ' aurore Monte l ' arôme du café ! Riants souvenirs militaires ! Je franchissais avec plaisir Les vastes plaines solitaires De Géryville et de Gazir .Je savais l ' étape bien rude : De solitude en solitude Un soleil de flamme dardait ; Mes pensers devenaient moroses .",
+        "words": [
+          "café",
+          "arôme",
+          "Riants",
+          "Gazir",
+          "Géryville"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/2906b7bc-17a4-5914-a29c-5e3c6cc52209",
+        "label": "Henri Bourette"
+      }
+    ],
+    "label": "Poésies de Valentin / (Henri Bourette) ; publiées par MM. F. Laroussilhe et J. Combarieu",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5427000p",
+    "date": "1885",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/50",
+      "label": "Coffee"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/897bdb11-1fc5-56b6-bcd7-5863cf8b074b",
+      "label": "1885",
+      "begin": "1885",
+      "end": "1885"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/2498543/",
+      "label": "El Bayadh"
+    },
+    {
+      "@id": "https://sws.geonames.org/37913/",
+      "label": "Gāzīr"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/admiration",
+      "label": "admiration"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/joy",
+      "label": "joy"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/optimism",
+      "label": "optimism"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/excitement",
+      "label": "excitement"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0fd8b2be-8d9d-5ecd-b9ec-58e49b4734ea/fragment/fc4aaee0-c687-580a-936e-f0b9389694a6",
+  "license": "Public domain",
+  "adjective": "Riants"
+}

@@ -1,0 +1,881 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/599cee47-1397-510d-b014-fe0ad8c09a55",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "embaumer",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/012c3c7d-a507-5cd7-ae62-d6dc371b212b",
+        "value": "128 .) cueillir sur toutes choses ce que Sainte - Beuve appelle ' < la fleur du désenchantement et à s ' enivrer du mortel parfum de ses pâles corolles .La mélancolie de Vigny n ' a rien de vague , rien de maladif , ni d ' efféminé elle ne se raconte pas pour le vain plaisir de s ' offrir en spectacle au monde .",
+        "words": [
+          "parfum",
+          "fleur",
+          "mortel",
+          "ses pâles corolles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/018e61e4-bf5e-5c47-a8b5-15de7d952499",
+        "value": "Sur la théorie des fioles alignées aux murs en guise de tapisseries l ' esprit des sels , l ' âme des simples voltigent au long des rayons .C ' est une atmosphère impérieuse d ' hôpital et d ' épicerie .Derrière les gros yeux jaunes de ses bocaux la boutique du pharmacien abrite des mystères incantations , décantations .",
+        "words": [
+          "atmosphère",
+          "hôpital",
+          "épicerie",
+          "impérieuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/02112b68-8807-55e3-9d2a-e2b51af24177",
+        "value": "livrer à leur seule distraction parler de la vie occidentale aux toilettes élégantes , aux arts suggestifs , aux romans passionnants où les femmes sont libres Comme le mien , leurs fronts se sont appuyés aux quadrillages de ces fenêtres pour contempler le panorama de Damas nimbé dans la rutilance du soleil levant , et les flancs de la montagne tour à tour bleuis , violacés , empourprés , sur lesquels s ' étagent les maisons plates du pauvre quartier musulman et du sauvage quartier Kurde .Au pied de ma demeure poussent des orangers déjà en fleurs , dont les pétales d ' ivoire jonchent le sol , tandis que , telle une âme enlaçante , leur odeur subtile monte jusqu ' à moi .Non loin de mon quartier j ' aperçois de coquettes habitations de forme assez européenne , malgré leurs murailles en torchis uniformément jaune sable , et dont , seuls , les soubassements sont en pierre .",
+        "words": [
+          "odeur",
+          "leur",
+          "subtile",
+          "orangers",
+          "Au pied de ma demeure",
+          "âme enlaçante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/0527b3ce-c03f-55ba-bd34-ed3f9adcda70",
+        "value": "Robert Randau surprend et détonne comme la foudre en un ciel serein .Son coup de sirocco balaie les odeurs de moisi et même ces fadeurs qui voudraient être des pestilences .Dans un monde artificiel et maladif il apporte la vie ardente , mais non sans heurts et sans horions .",
+        "words": [
+          "odeurs",
+          "moisi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/074aca6a-7311-5e42-816c-22242bb4cbfd",
+        "value": "Un jugement éclectique et sûr met l ' homme et le cœur à nu .Ce livre a la capiteuse variété d ' une gerbe aux fleurs innombrables , opinions amères , arômes subtils .L ' auteur ne se montre jamais .",
+        "words": [
+          "subtils",
+          "arômes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/0b5afe07-a799-5ebe-a142-9cc79f2ee1b7",
+        "value": "Le soir venu , il a laissé sous la surveillance de ses rameurs son sampan bourré de contrebande et franchi d ' une traite les quatre lieues qui le séparent de son petit et de sa femme .Celle - ci ne l ' attend pas avant deux jours l ' atmosphère est accablante et les hautes herbes dégouttantes encore du dernier orage l ' ont trempé jusqu ' aux reins mais l ' enfant toussait lorsqu ' il est parti et une fringale soudaine lui est venue de Thi Miên , cette frêle Annamite à l ' épiderme satiné qu ' il acheta , il y a trois ans , pubère à peine , à une matrone de Nam - Dinh et qu ' il épousa depuis .Une grande nappe de soleil fou coupée en d ' innombrables disques par autant d ' immenses chapeaux jaunes et plats , striés d ' une infinité de plis disposés comme des rayons .",
+        "words": [
+          "atmosphère",
+          "dégouttantes",
+          "a trois ans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/1083dbbb-d3b4-5ef3-84b6-7bf294f7ff5d",
+        "value": "Tous se frôlent , du bout des antennes , en passant .La foule sent les parfums et les étoffes neuves .Jacassements , débinages , potins .",
+        "words": [
+          "parfums",
+          "foule",
+          "étoffes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/12a39115-b0fa-5285-a87e-c0be92ca7d10",
+        "value": "Il n ' abusera que le profane et jamais le gourmet .Les palais avertis y reconnaîtront des erreurs du goût , une oblitération du parfum , une perversion des essences , par où se révèle la supercherie et la main du fabricateur .Rien de tel chez Colette .",
+        "words": [
+          "parfum",
+          "essences",
+          "palais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/142b6eb8-cbd2-50d1-9c3a-26c3b1189520",
+        "value": "Ses tonnelets précieux sont de xérès , d ' alicante et de vin muscat .Dans la boutique poisseuse rôdent les senteurs d ' Orient , voluptueuses et chavirantes .= ! ! ! t ' = ! ! Sous ton complet sordide , à quoi penses - tu , frère des toréadors ? 2 A l ' ombre de tes sourcils charbonneux , ton œil est plein d ' éclairs bariolés , de bannières de soie et de Sévillannes en mantilles .",
+        "words": [
+          "senteurs",
+          "voluptueuses",
+          "chavirantes",
+          "boutique poisseuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/1a7d0efb-27f2-59ca-9d6c-9ef59e58b820",
+        "value": "Des plaisirs insoupçonnés , de subtils enivrements lui en arrivent par ses sens plus délicatement impressionnables aux parfums , aux saveurs , aux nuances des clartés et des coloris .En elle s ' éveillent des sympathies qui la surprennent c ' est avec un peu d ' émotion fraternelle qu ' elle se penche sur les fleurs sans vouloir les cueillir , pressentant une identité obscure entre le destin de sa jeunesse ivre de félicité , et celui des roses que le même soleil épanouit et brûle , et qui le soir s ' inclinent alourdies , fanées déjà , pour avoir livré tout un jour à sa force leur âme - parfum .H arrive qu ' aux heures de recueillement nocturne le charme tende à se dissiper .",
+        "words": [
+          "parfum",
+          "roses",
+          "fleurs",
+          "tout un jour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/1a9f5422-df84-59ae-9cc1-802e107a5d13",
+        "value": "Des amitiés qu ' elle n ' a pas cherchées se penchent sur elle et l ' entourent de leur protection , d ' humbles tendresses vivent et meurent cachées sur son passage .Elle les ignore ou les soupçonne à peine dans l ' atmosphère embaumée qui circule autour d ' elle pensées et parfums exhalés d ' invisibles cœurs .N ' est - il pas tout simple qu ' on l ' aime et qu ' on se dévoue en silence , sans nulle prétention , sans aucun espoir ? Comme pour émouvoir son naturel dédain , tous les biens lui viennent en abondance .",
+        "words": [
+          "parfums",
+          "atmosphère",
+          "embaumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/1b3a4e5f-304f-59ef-a620-b4b722da5f29",
+        "value": "Il ne laisse après lui que des souches dénudées , gnomes tordus , sans yeux , ngés dans leur douleur .En souvenir de leur passé , les paniers d ' osier gardent une odeur aquatique ils sentent les prés bas , la rivière et le vent .L ' ARBRE D ' AUTOMNE Vers la mi - septembre , quand le premier gel a mordu les herbes , le peuplier penché sur le miroir de la rivière aperçoit dans sa chevelure une tache d ' or .",
+        "words": [
+          "odeur",
+          "osier",
+          "aquatique",
+          "paniers d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/219485a1-68d2-5d7e-b7b7-87b4c65f23fe",
+        "value": "L ' atmosphère de cet antre était lourde .Elle me rappela celle qui sort , par bouffées , des bouches du métro , avec cette différence qu ' ici l ' odeur du gros tabac et de l ' anis remplaçait celle de la créosote .Messieurs et dames .",
+        "words": [
+          "odeur",
+          "celle",
+          "anis",
+          "créosote",
+          "gros tabac",
+          "bouches du métro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/2883ebd0-274d-5468-a5fa-b08720d86e9c",
+        "value": "Une affaire de cette importance ne pouvait être traitée au pied levé les touareg raffolent des longues palabres , des discussions interminables , des horsd ' oeuvre de la conversation la suite des pourparlers fut renvoyée au lendemain .Ce fut alors que le chef , alléché par l ' odeur du riz qui , non loin cuisait dans les marmites , nous affirma que , sa confiance en nous était absolue .Je profitai de ce moment de détente pour l ' interroger .",
+        "words": [
+          "odeur",
+          "chef"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/299dc3ea-aafc-537f-a9c6-a17d9bf09007",
+        "value": "Cette petite avait , sans aucun doute , un tempérament d ' amoureuse .Les ailes de ses narines palpitaient , cueillaient dans l ' air d ' écrasants parfums qui tout à coup lui renversaient la tête .Et ce sourire étrange 1 Il étirait comiquement les sclérotiques et laissait voir entre les minces lèvres violettes un fil d ' émail éblouissant .",
+        "words": [
+          "air",
+          "parfums",
+          "écrasants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/2e575e59-20a5-585d-9280-3a39e65b9adc",
+        "value": "Mais Baudelaire n ' a pas seulement développé une des conséquences de la doctrine romantique , il a apporté , dans la littérature et dans l ' art , une nouvelle manière de sentir .En effet , le pessimisme inconsistant de René , après s ' être précisé chez Vigny sous une forme plus dense , s ' épanouit , chez Baudelaire , comme une étrange orchidée aux fleurs enivrantes .Ces nouvelles fleurs , jugées dangereuses dès leur apparition , comme des plantes « venues dans les serres chaudes d ' une Décadence ( 1 ) » , ces fleurs que les contemporains comparèrent à des tubéreuses empoisonnées , peuvent être respirées aujourd ' hui sans grand danger .",
+        "words": [
+          "fleurs",
+          "Baudelaire",
+          "orchidée",
+          "fleurs enivrantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/32af4bcd-c4ad-5e98-bdd8-dfccf874c3ff",
+        "value": "Je n ' aperçois pas davantage d ' auréole au - dessus de son front .Il n ' est pas sans analogie , déférence à part , avec la lice en chaleur dont les émanations provoquent , dans les carrefours , les tumultes inquiétants des , mâles .Je le suis , je l ' approche , je le flaire .",
+        "words": [
+          "émanations",
+          "lice en chaleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/34ee8fc0-5046-5805-bc27-89d1dfa4e13a",
+        "value": "Ses tonnelets précieux sont de xérès , d ' alicante et de vin muscat .Dans la boutique poisseuse rôdent les senteurs d ' Orient , voluptueuses et chavirantes .Sous ton complet sordide , à quoi penses - tu frère des toréadors ? Ton fricot aux piments bouillote entre deux régimes de bananes et dans sa fumée tremblottante dansent les fantômes des pays du soleil .",
+        "words": [
+          "senteurs",
+          "voluptueuses",
+          "chavirantes",
+          "boutique poisseuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/36d6f9d3-b5e9-56ae-9628-9d15135719be",
+        "value": "Pour faire de la place , dans son ventre , il sort parfois ses intestins à l ' air .Leur boyau hélicoïdal digère les ripailles accumulées , sous l ' œil des connaisseurs et dans l ' odeur des moûts .L ' âne aux écus d ' or ne lâchait ses trésors qu ' en boulettes .",
+        "words": [
+          "odeur",
+          "moûts",
+          "Leur boyau hélicoïdal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3acf1ca0-895e-5895-bb44-fc6675d05edd",
+        "value": "Le temps passa .Les roses , à Ispahan , continuaient d ' embaumer .Le ciel ne se lassait pas d ' être bleu .",
+        "words": [
+          "Ispahan",
+          "roses",
+          "embaumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3c512008-3734-5804-9608-e449e0f3d005",
+        "value": "J ' éprouve un voluptueux plaisir à parler de cet écrivain de l ' Auvergne dont l ' oeuvre ne s ' est pas émasculée au contact de la civilisation .Tout ce qu ' un vieux terroir peut comporter de sucs , d ' odeurs et de richesses , M .Henri Pourrat l ' a enclos dans l ' histoire de Gaspard .",
+        "words": [
+          "odeurs",
+          "M"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3e987aae-96fb-5122-9d57-ad5f5bc94775",
+        "value": "Mais il a perdu l ' habitude de se draper dans une nceHe .Les enfants aspirent avidement l ' odeur exotique de son ' étal citrons , oranges , cédrats , grenades et chapelets de cacahuettes ..",
+        "words": [
+          "odeur",
+          "exotique",
+          "citrons",
+          "oranges",
+          "grenades",
+          "cédrats",
+          "avidement",
+          "Les enfants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3f42b75d-c7bb-53df-9489-c0b175089391",
+        "value": "Une extrême sensibilité qui se connaît et se dirige naît en elle au moindre contact .Chez certains , l ' un des sens est plus spécialement pénétrant ouïe subtile , odorat prescient , vue exacerbée .Il est rare de trouver , dans le même individu , plusieurs ~ sens également aiguisés .",
+        "words": [
+          "odorat",
+          "prescient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3f62401b-4dfd-51c0-97ad-a967b403f5ce",
+        "value": "Les corps étaient blancs et nacrés De la cheville à la narine .Depuis que le soleil patine Leur jeunesse et leur puberté Sous la brise et l ' odeur marine Les filles ont les bras dorés .Partout les brunes et les rousses Glissent en odorants essaims , Vieilles tiges et jeunes pousses , Arborant sur les sables fins Et les rochers coiffés de mousses Les pires et les plus beaux seins .",
+        "words": [
+          "odeur",
+          "Depuis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3f7d3ed5-ccbb-54f5-8720-38d2ea8411ec",
+        "value": "Les présents devenaient de plus en plus nombreux .C ' était de la myrrhe , c ' était de l ' encens , des tapis , des armes , des fourrures , des gemmes et des parfums encore .Et l ' homme restait assis dans sa sublime et absurde immobilité .",
+        "words": [
+          "myrrhe",
+          "encens",
+          "parfums",
+          "tapis",
+          "fourrures",
+          "armes",
+          "gemmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/43163eb9-4e5a-5ec0-aa1c-fde7a7756d5c",
+        "value": "Demain , chauve et rabougri , il ne sera plus qu ' un bouquet de branches hivernales pleurant leur sève dans le soleil .Une odeur lourde et musquée irradie en l ' air chaud sa volupté morbide .Les insectes repus se détachent , .",
+        "words": [
+          "odeur",
+          "musquée",
+          "air",
+          "lourde",
+          "morbide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/45eb9f24-304b-5dfd-b63d-9df7a4651f31",
+        "value": "Les araignées , même , au - dessus de sa tête vénérable , ' semblaient intimidées .Les ileurs , au faîte du mur vétuste , osaient à peine dégager leurs parfums .Et , un matin , les lêvres pâles et fendillées de l ' homme s ' ouvrirent .",
+        "words": [
+          "leurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/4bdc0c7d-5284-5c5b-8a45-4ce4001271fb",
+        "value": "Elle n ' acheva pas .Fraîcheur de l ' eau voisine , murmures , parfums épars , l ' heure était exquise , Lap , la tête toujours appuyée contre le cou tiède de la jeune fille , savourait son odeur animale .Sans qu ' il y prît garde peut - être , sa main glissa jusqu ' à la hanche évasée , gagna le mollet dur , souleva le large - pantalon .",
+        "words": [
+          "odeur",
+          "son",
+          "parfums",
+          "animale",
+          "murmures",
+          "cou",
+          "épars",
+          "eau voisine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/4c503897-e585-5733-95c9-16936262ac46",
+        "value": "Une heure après sa conversation avec le coolietram son parti était pris .f La nuit suivante , sa maison était assoupie dans ses bruits et ses fétidités habituelles trottinements de rongeurs , térébrations d ' insectes , grognements , piétinements , exhalaisons mêlées des volailles , des porcs et des bûmes réunis sous le clayonnage qui leur sert de plancher , lorsqu ' écartant sa moustiquaire sans bruit , Niep quitta son lit dé camp .Son chignon retordu , il s ' assura que ses filles dormaient de leur sommeil habituel de bêtes harassées , décrocha son meilleur coupe - coupe et se glissa au dehors .",
+        "words": [
+          "exhalaisons",
+          "mêlées",
+          "maison",
+          "La nuit suivante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/569b5980-59a0-5f49-a7ae-2c3910b4b6f5",
+        "value": "L ' avant - veille Thuc qui habite assez loin de sa maison et qui n ' avait aucun motif apparent de venir de ce côté , avait passé devant sa porte avec un étranger , un sorcier peut - être , comme il l ' avait fait déjà , étrange coïncidence trois jours avant la mort de sa femme .A - t - il empoisonné les bêtes ? Les a - t - il tuées de loin au moyen de quelque maléfice ? Niep n ' a pu l ' élucider mis il a senti l ' envahir une de ces fureurs froides , tenaces , progressives , où s ' élaborent chez les gens de sa race les pires résolutions .Une heure après sa conversation avec le coolietram son parti était pris .",
+        "words": [
+          "empoisonné",
+          "tuées de loin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/69053de8-e0c8-5082-973d-e831326d4620",
+        "value": "Les potaches font débauche de grenades dans l ' espoir de frôler ses colliers de sequins .Quel occidental ne rêverait de l ' Orient , près du comptoir aux senteurs de piment , de musc et de rose ? La belle sarrazine sinue parmi les cassolettes sa marche évoque des cliquetis de cimeterres et le glissement voluptueux des houris .Ne la dirait - on pas sortie des Mille et Une Nuits pour nous vendre la confiture d ' œillet contre des lacs et des roupies ? Dût Mahomet , dans la Kasbah , en frémir sous sa pierre noire , la Turque est originaire de Romorantin .",
+        "words": [
+          "musc",
+          "rose",
+          "senteurs",
+          "piment",
+          "Orient",
+          "occidental"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/6bd19517-e508-572a-9017-1031a58036c3",
+        "value": "Moustiques et cousins s ' élèvent en vapeurs légères , dans l ' air vibrant de libellules , de guêpes et de taons .Le soleil digère les clameurs de mille vies exaspérées et pompe sur le marécage l ' odeur âpre et .magnifique des humus .",
+        "words": [
+          "odeur",
+          "âpre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/6cc861ca-4920-5e2d-9645-acef2b04a9f2",
+        "value": "Des cœurs battants suivront sans doute , aux modernes veillées , la fantastique histoire d ' Anne - Marie et de Gaspard .Mais les lettrés rechercheront , dans ce livre dense , la diversité d ' expression ou le verbe parfumé de Gaspard des Montagnes , et l ' ensemble de rudes qualités qui font de M .Henri Pourrat un homme , parmi tant d ' efféminés .",
+        "words": [
+          "parfumé",
+          "Montagnes",
+          "verbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/6d7ca304-c2c4-5795-8362-fe7946ceaf98",
+        "value": "De ces roses d ' Ispahan , rouges comme des gouttes de sang , et d ' autres , pâles et ivoirées comme des conques de velours .Leur parfum voluptueux et enivrant pénétra le vieux prophète .Depuis des temps et des temps qu ' il avait tout oublié , il se ressouvint de sa jeunesse .",
+        "words": [
+          "parfum",
+          "voluptueux",
+          "enivrant",
+          "Leur",
+          "vieux prophète"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/701c4784-ff9e-5bd1-8818-086ed1917204",
+        "value": "Il fuit la populace ignoble , dont les appétits grossiers rappellent ceux des animaux domestiques reniuant la pourriture avec délice .Comme au chien , dit - il , ne présentons jamais au public « les parfums délicats qui l ' exaspèrent , mais des ordures soigneusement choisies » .Baudelaire n ' est pas tendre pour la multitude « ignare et stupide et ce n ' est pas le côté le moins douloureux de son pessimisme .",
+        "words": [
+          "parfums",
+          "chien",
+          "ordures",
+          "délicats"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/71855cc1-a6af-5fc6-bb17-7444ef3be5ae",
+        "value": "La Baïa qui supplée à l ' exiguité de sa taille par beaucoup de dignité , nous accueille avec une esquisse de sourire , nous tend une main parclieminée dont les ongles sont presque propres et nous fait asseoir sur deux fauteuils antiques juxtaposés dans le fond de la pièce .Une odeur bizarre nous enveloppe aussitôt de drogues , de poussière et de moisissure .Au - dessus de nos têtes un merle - mandarin sautille dans une cage d ' où pleuvent des graines et de l ' eau .",
+        "words": [
+          "odeur",
+          "drogues",
+          "nous",
+          "bizarre",
+          "poussière",
+          "aussitôt",
+          "moisissure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/73d09be2-2721-54b1-bb4d-d673aa7c0cec",
+        "value": "Chasseurs de plantes sont tôt levés et , filet à l ' épaule , prospectent au hasard des sous - bois la moisson odorante .Bolets noirs , bolets jaunes , bolets bruns , parapluies retournés des girolles , russules bleues , russules jolies , lactaires délicieux les hydnes bosselés , les coprins à chevelure , les psaliottes boules de neige la pleurote huitre et ses branchies , la pleurote conque et ses bénitiers la coulemelle dartreuse au parasol de pustules , la corne d ' abondance des craterelles , l ' éponge de la clavaire jaune , l ' armillaire de miel et la langue de bœuf , toutes les formes de la délicatesse et de la succulence , toutes les variétés de l ' arome et du parfum .Aux privilégiés échoit la découverte de l ' oronge vraie , l ' Amanite des Césars .",
+        "words": [
+          "parfum",
+          "arome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/7a5aa41f-8b22-5483-8dab-80e32dc5cf11",
+        "value": "Une chute dans du noir , sans fin .s Les filles de Niep surprises de l ' absence prolongée de leur père allaient en aviser le Tri - chau , quand des colporteurs marrons attirés par l ' odeur épouvantable qui s ' en dégageait , découvrirent au pied des rochers , tête fendue et ventre béant , son corps odieusement mutilé .Personne n ' hésita à accuser le lépreux .",
+        "words": [
+          "odeur",
+          "épouvantable",
+          "père",
+          "colporteurs",
+          "filles de Niep"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/7de55b1e-8a34-55ba-a302-23d7a5caaa42",
+        "value": "En une nuit jailli de la croûte des feuilles ou la soulevant , par endroits , de ses chapeaux têtus , le peuple des champignons hérisse ses armées innombrables .Chasseurs de plantes sont tôt levés et , filet à l ' épaule , prospectent au hasard des sous - bois la moisson odorante .Bolets noirs , bolets jaunes , bolets bruns , parapluies retournés des girolles , russules bleues , russules jolies , lactaires délicieux les hydnes bosselés , les coprins à chevelure , les psaliottes boules de neige la pleurote huitre et ses branchies , la pleurote conque et ses bénitiers la coulemelle dartreuse au parasol de pustules , la corne d ' abondance des craterelles , l ' éponge de la clavaire jaune , l ' armillaire de miel et la langue de bœuf , toutes les formes de la délicatesse et de la succulence , toutes les variétés de l ' arome et du parfum .",
+        "words": [
+          "odorante",
+          "moisson"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/83c19ede-675f-508a-bfad-f0d0caf0fe66",
+        "value": "La poésie lui est surtout prétexte à maintes et bruyantes déclamations qui nocturnement troublent mon sommeil , et me font encore préférer davantage à ce bruit puéril qu ' ils appellent littérature la muette beauté de mon art favori .Ah voici la Ford traditionnelle Ne vous sem - Ne - t - il pas qu ' elle apporte en cette salle obscure comme un parfum de la grande Amérique ? Quelle force d ' évocation l ' écran n ' a - t - il pas ? Très sincèrement , Monsieur , est - il un art qui , à ce point de vue , l ' approche , même de fort loin ? .Or , le pouvoir d ' évoquer n ' est - il pas le tout de l ' art ? .",
+        "words": [
+          "parfum",
+          "elle",
+          "Ford",
+          "salle obscure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/84adb5ea-a2cc-5c87-a4ba-92d4e8cf816f",
+        "value": "C ' est la collectivité qui est idiote .L ' OFFICINE DU PHARMACIEN Bien qu ' il en ait quelques extraits dans ses tiroirs on ne saurait dire du pharmacien qu ' il est le chef des odeurs suaves .Le parfum de son officine est d ' une invariable complexité .",
+        "words": [
+          "suaves",
+          "odeurs",
+          "PHARMACIEN"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/87079072-611f-5ce3-ac2d-acf5978f09cf",
+        "value": "Elle s ' enfuit et l ' entraîne .Derrière le rideau d ' une futaie , la pâleur du crépuscule s ' épand sur un champ de roses où s ' amasse en nuée bleue l ' haleine de la terre chaude .Il y a un banc au milieu du parterre en fleurs .",
+        "words": [
+          "haleine",
+          "champ",
+          "champ de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/88dc00a6-9bc0-5e2c-a7cf-9dd02ad17411",
+        "value": "beû .qu ' on n ' entend plus à force de les entendre , l ' odeur lourde des plaines mondées , un ruissellement blanc d ' étoiles et de lucioles sur des lueurs fauves d ' éclairs .Sur le sentier tortueux qui longe le fleuve déjà gros , Hoan Van Quân se hâte vers sa demeure .",
+        "words": [
+          "odeur",
+          "lourde",
+          "étoiles",
+          "plaines mondées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/8b0a1695-24d9-58b0-b996-49ba866c0cc9",
+        "value": "Un bock répondit Fernand .L ' air , dans ce coin de Paris , était étouffant on le respirait mêlé de suie il avait une odeur d ' essence carburée et d ' huile chaude .Sur la place de Rome c ' était une inextricable échauffourée de taxis , d ' autobus , de camions s ' immobilisant dans une trépidation impatiente une cacophonie ahurissante de sifflets , d ' appels rauques où glapissaient les trompes et hoquetaient les moteurs , avec des claquements de portières et des aboiements de camelots .",
+        "words": [
+          "odeur",
+          "air",
+          "mêlé",
+          "étouffant",
+          "huile chaude",
+          "dans ce coin de Paris",
+          "essence carburée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/8c34f181-3c4f-5aea-9a6c-573f53669dbf",
+        "value": "Tu ne me parles pas de ton séjour en Grèce ? Que dis - tu de l ' Acropole et du Parthenon ? Hein 1 Quel bel emplacement pour un casino comme celui de Monte - Carlo , avec dancing et restaurant de nuit 1 Conçoit - on que le gouvernement grec laisse perdre ça , et pourquoi ? pour une mauvaise copie démantibulée de la Madeleine .As - tu vu Olympie ? Que cela devait être charmant aux temps de sa gloire 1 Quelle belle anticipation de la fête de Neuilly 1 Je vois ça d ' ici des brocanteurs , vendant au rabais des knémides usées et des peplos en loques , les baraques où l ' on montrait , soit la belle Fathma , soit la Gauloise albinos , les pâtisseries sentant l ' huile et le safran , des débitants de vins résineux hurlant leur camelote dont ils étaient saouls déjà , des vendeurs d ' olives en saumure , de tomates frites , et de poissons grillés au cumin , des philosophes gras avec des éphèbes épilés , des courtisanes riantes et sentant le .jasmin , de la poussière , des cris , des voleurs , des bousculades et des injures en tous patois thessaliens ou asiatiques .",
+        "words": [
+          "sentant",
+          "baraques",
+          "vins résineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/8fbff53a-e35f-542a-88a4-e1a839acef16",
+        "value": "Sous de brillants dehors ils ont une âme d ' encre .Ils sont avides , lâches , puants .Le brochet les mange , faute de mieux , mais ' ils lui donnent la colique .",
+        "words": [
+          "puants",
+          "avides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/91b70c53-8945-5e7f-8dce-7943ad23bda2",
+        "value": "Et partout , sur la cheminée , sur le bahut , sur la table de rotin , la console , la petite étagère surgissent , fourmillent , s ' enchevêtrent , baroques et tourmentés , de tout âge , de toute couleur , de toute forme , si divers et si naïvement pareils dans leur cocasserie touchante , les mille riens , coquillages , porcelaines , joncs tressés , les bibelots qu ' elle appelle des souvenirs .Un air glacé monte vers le plafond bas dans cette chambre à l ' odeur fanée .Le logis de la vieille fille sent la lavande , la pomme reinette et le tombeau .",
+        "words": [
+          "odeur",
+          "air",
+          "cette chambre",
+          "fanée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/92b2d620-106e-5d99-956c-a5b7224cd610",
+        "value": "SS ~ D ' u ~ e ~ Bt ~ e de trois mille kilomètres , Cft ~ MertyHe , se dégage un gaz mortel le Necron .L ' atmosphère terrestre s ' empoisonne lentement , e < l ' humanité disparaît , sauf autour de Paris , où des savants énergiques utilisent dix millions d ' hommes à dominer ce farouche destin d ' une mort universelle .Trente ans là lutte se pro ~ ong - e .",
+        "words": [
+          "empoisonne",
+          "lentement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/92cb23af-76b9-590d-bf78-b6b0af89f478",
+        "value": "A gauche , une longue banquette de molesquine d ' un rouge sombre , où des affaissements indiquaient la place des ressorts cassés , partait du comptoir et allait jusqu ' à une porte vitrée ouverte sur un escalier noir , celui de la cave , probablement .La fumée des cigarettes bleuissait l ' air .Le carrelage disparaissait presque complètement sous une épaisse couche de sciure de bois .",
+        "words": [
+          "air",
+          "fumée",
+          "cigarettes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/96f86aa4-0d01-510e-ac5e-fa0c7cb7b2d3",
+        "value": "L ' œillet a l ' odeur sensuelle Et folle D ' une aisselle De danseuse espagnole .Le muguet tintinnabulant De ses mille et une clochettes Nous verse avec ses cassolettes Un baume allègre d ' Orient .Immortelle , triste et cruelle , Fleur que l ' on jette sur les corps , Pourquoi t ' appeler immortelle Si tu ne parles que de mort ? Lis pur , lis blanc , chaste calice , Orgueil , pudeur , Tu prodigues avec délice L ' or jaune de ton cœur .",
+        "words": [
+          "baume",
+          "muguet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/99d4ccfd-4370-51f7-85a7-2f908e592d1b",
+        "value": ".Des fronts ruisselants , des bas de jambe , des cous et des pieds nus une rumeur confuse , de la poussière et des relents animaux .Çà et là dans le jeu vif des reflets et des ombres , le scintillement pâle d ' un collier , d ' une chaîne , d ' un anneau de cheville ou d ' un bracelet d ' argent un visage aux yeux étroits et au nez court brusquement éclairé la touche claire d ' une ceinture verte , orange ou flamme , d ' une robe violette ou mordorée , de jeune Annamite , d ' une tunique de dessous pourpre , turquoise ou réséda , qu ' un geste brusque découvre un instant .",
+        "words": [
+          "poussière",
+          "relents",
+          "fronts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/9a78fce1-581a-5ccd-a9ab-a8b97beadcb6",
+        "value": "Plusieurs centaines de milliers d ' êtres allaient ainsi , dans un fabuleux désordre , sans armes , au milieu d ' un immense cri fait d ' injures , de prières chantées , et d ' obscénités .Le soleil échauffait lourdement Paris , exaltait l ' odeur forte de tous ces êtres fébriles .Lorsque la foule arriva aux boulevards , Vialy espéra se dégager de cette étreinte tentaculaire d ' une plèbe dense et coléreuse , puis , le courant quitté , gagner d ' autres rues où il serait le maître de ses actes et de sa route .",
+        "words": [
+          "Paris",
+          "forte",
+          "odeur",
+          "tous ces êtres fébriles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/9c113664-8d92-53c0-8106-2b9ddf4c2631",
+        "value": "Des servants empressés recueillent le produit de ses libations dans des jarres de cuivre et l ' eau ardente s ' écoule de ses entrailles en intarissable filet .Le soir venu , on l ' emmène sous le hangar tout embaumé de son ivresse et là , seul , dans la nuit divine , l ' alambic dort entre deux vins .i LE PETIT RELIEUR C ' est un petit , tout petit relieur dont le matériel tient au fond d ' une soupente .",
+        "words": [
+          "embaumé",
+          "hangar",
+          "Le soir venu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/9c3b5e40-3df7-5cc0-80cd-347af3583ccf",
+        "value": "On est à la fin de mars .Du moindre hameau s ' épand dans l ' air frais un parfum doucereux de lilas du Japon et d ' orangers en fleurs .Comme il passe devant celui de Thuc , le scintillement d ' une lumière dans la direction de son toit le fit sourire .",
+        "words": [
+          "Japon",
+          "parfum",
+          "orangers en",
+          "doucereux",
+          "lilas du Japon",
+          "air frais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/a167a654-af78-506f-8dee-ef959b7d3318",
+        "value": "Ce livre émeut et révolte à la fois , car il est tout gonflé de la sanie des hérédités et du pus de la misère humaine .Sainte Odeur de la vie , par Roger DENUX ( La Cité Nouvelle , édit ., 4 francs ) .",
+        "words": [
+          "Odeur",
+          "vie",
+          "Roger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/a2190d24-4117-5c5a-9888-b842dc72b36c",
+        "value": "C ' est bien , avec sa solitude un peu funèbre et pourtant charmante , le lieu convenable aux apparitions et c ' est là aussi que chaque soir le bien - aimé vient au rendez - vous .Son pas diminué à la mesure du pas plus petit , en cheminant près d ' elle il lui murmure des choses imprécises comme les feuillages dans l ' ombre , mais plus enivrantes que l ' odeur des lis et plus douces que la tiédeur du soir .Là flotte du trouble , un charme inquiétant .",
+        "words": [
+          "odeur",
+          "douces",
+          "enivrantes",
+          "lis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/a58e85b1-c1b3-5030-8751-2a5fdb388281",
+        "value": "Le ciel rit dans les jupes claires , Dentelles fines et linons , Sous le soleil qui les éclaire Le jour les yeux des femmes sont Couleur de l ' algue ou du limon , Caresses d ' ombre ou de lumière .Torses masqués et torses nus , Roulis triste et divin tangage , Ventres cambrés , ventres chenus , Avec leurs différents langages Et , dans l ' odeur de leur sillage , Tous les vices et les vertus .La débauche des chairs offertes Fleurit dans les baisers du flot .",
+        "words": [
+          "odeur",
+          "leur sillage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/a877e107-b1a1-59ee-8554-c341858b3b6d",
+        "value": "Sans plier sous le faix , Colette supporte sa gloire et la respire ainsi qu ' un bouquet dénoué .La fleur d ' envie , condiment discret , y mêie son odeur amère .Nul plus qu ' elle n ' a mérité son piédestal .",
+        "words": [
+          "odeur",
+          "son",
+          "amère",
+          "discret",
+          "fleur d ' envie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/aac228e5-e617-52b6-8d0e-537416193eb2",
+        "value": "Jaillissement ininterrompu d ' éclairs hors d ' un chevauchement de sinistres nuées , trombes d ' eau , fracas de tonnerre persistent souvent jusqu ' au milieu de la nuit , parfois même jusqu ' à l ' aube suivante .Parfois aussi tout s ' apaise avant le coucher du soleil e < l ' on jouit alors d ' un moment exquis où , dans la lumière ambrée de l ' astre à son déclin , apparaîssent les moindres replis des collines , où mille aromes épars d ' herbes c / de feuillages s ' amalgament à l ' odeur puissante de la terre détrempée , où l ' on se sent revivi fié pour la longue brûlure des lendemains .C ' est par un de ces soirs cléments que j ' aperçus le gros Tri - Phu Vu Van Coc prenant le frais devant le pagodon aux dragons f urieux e < grotesques , qui s ' élève près du chau , sa demeure officielle .",
+        "words": [
+          "odeur",
+          "puissante",
+          "feuillages",
+          "aromes",
+          "terre détrempée",
+          "revivi fié"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/afe51b58-34bc-5f23-a62b-c656e4bd7145",
+        "value": "Dans une plaquette consistante et harmonieuse , Roger Denux a dessiné fort habilement .huit poèmes le soir de campagne avec son parfum de menthe et de lait .ou Tout lé village est paré comme un autel de Marie .",
+        "words": [
+          "parfum",
+          "menthe",
+          "lait",
+          "campagne",
+          "soir",
+          "soir de",
+          "de campagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/b01cbd1d-d9ac-587b-9b5f-514ca5e28412",
+        "value": "La houle des visages ondule , masques et rictus .< ! Il monte des odeurs de bétail et de sueur humaine .Elles se marient sous les arbres en un halo d ' or .",
+        "words": [
+          "odeurs",
+          "bétail",
+          "sueur humaine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/b0c2fa7c-1d74-56ec-b5d9-5fae67ba2cac",
+        "value": "Allongeant comme un fou de toute sa longueur et jappotant et pleurant , et riant , il arriva aux pieds de Lisée , et s ' y roula , lui lécha les souliers , les genoux , les mains , lui sauta au visage , lui peigna la barbe , lui parlant , ne sachant comment faire , comment se tordre et battre du fouet assez vite pour lui dire toute sa joie , tout son bonheur .A la lecture de ce roman , on respire un parfum de vie forestière on se met à l ' affût avec le chasseur dans les bas - fonds à l ' heure de la rosée , on dévale les pentes et parcourt les sous - bois sur les jarrets de Miraut à la poursuite des lièvres , éveillant les bruits de la forêt , effarouchant les animaux timides , goûtant l ' âpre et robuste senteur des herbes sauvages .On y découvre également l ' existence d ' un humble celle du bûcheron qui vit au jour le jour et cependant amateur de chasse et vivant au gré de sa fantaisie , âme simple et rude , sympathique malgré ses défauts parce que l ' on perçoit sa bonté foncière .",
+        "words": [
+          "parfum",
+          "senteur",
+          "âpre",
+          "vie",
+          "robuste",
+          "herbes sauvages",
+          "effarouchant les animaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/b1f3dc41-a4cb-5f69-b012-86e03712eef0",
+        "value": "J ' aime aussi les prévenances discrètes , les petits soins , les louanges , tous les menus témoignages par quoi s ' expriment finement la douceur et la grâce d ' un sentiment que contient le respect .Je voudrais respirer les parfums de l ' Amour comme l ' odeur de ces roses lointaines sans aborder le dieu redoutable .Je ne le pressens que trop mon âme deviendra votre esclave , ami si doux Un moment encore laissez - moi , je vous en prie , ma royauté fragile et mes plaisirs d ' enfant 1 » Elle pense à lui depuis son réveil et l ' aime aujourd ' hui plus délicieusement il est ainsi des jours où la fleur de tendresse que l ' on porte en son sein exhale des parfums plus suaves .",
+        "words": [
+          "odeur",
+          "parfums",
+          "Je",
+          "roses lointaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/b228ad29-6c4c-51d2-8757-f53ac8737e11",
+        "value": "Il fut longtemps à la mode , pour les artistes , de confectionner des palais de rêve dont la magnificence était d ' autant plus évidente que gratuite .Ici , ce sont des masures croulantes , branlantes , puantes , bourrées jusqu ' à la luette de tous les virus , de toutes les sanies transmissibles , de tous les microbes , y compris celui de l ' inexorable misère .Contel a donné de cela des visions âcres et véhémentes , d ' une effarante grandeur .",
+        "words": [
+          "puantes",
+          "virus",
+          "masures",
+          "croulantes",
+          "les sanies transmissibles",
+          "branlantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/b9afd87d-c537-5b95-8a49-be3078a658ae",
+        "value": "Elle travaillait en journée chez Rogatkine , une fois par semaine , pour faire la lessive .S ' étant attardée un soir , elle sentit une odeur de chair brûlée elle eut la curiosité de pénétrer dans la partie la plus reculée de l ' appartement et de regarder par le trou de la serrure du cabinet de M .Rogatkine , dont l ' accès lui avait été toujours interdit .",
+        "words": [
+          "odeur",
+          "chair",
+          "un soir",
+          "appartement",
+          "chair brûlée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/bf45ccbf-e984-590b-a129-c361be9012b9",
+        "value": "Les heures viennent se dévêtir une à une pour r Claudine et lui apportent leur hommage en tribut familier .Les odeurs , les sons , les aromes , les formes sont les affluents multiples de son esprit .Fécond , fertilisateur , engendrant et concevant , son génie s ' émeut de l ' apport innombrable , s ' en pénètre et le réfléchit .",
+        "words": [
+          "odeurs",
+          "sons",
+          "aromes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/c2b1e6bb-c8b5-5100-b213-a7f4c74e95a2",
+        "value": "Avez - vous senti le frisson qui a passé sur le jardin ? J ' ai frémi avec lui .C ' est que l ' âme des choses s ' ouvre à la mienne si largement que je me sens vivre dans le vent qui passe , la sève cachée qui circule , les parfums exhalés de la terre et des fleurs .et je ne sais plus rien de moi - même .",
+        "words": [
+          "fleurs",
+          "terre",
+          "parfums exhalés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/c2d7a892-01a4-5cfc-b7ad-d01c46c941ba",
+        "value": "Il se sent vigoureux , souple et sain .Une bonne odeur de porc et de ciboule frits caresse ses narines .Allons , allons t la vie est belle , malgré la chaleur et la clarté qui l ' enveloppent , violentes au point que les paysannes indigo si jacassières d ' ordinaire en perdent leur caquet .",
+        "words": [
+          "bonne",
+          "odeur",
+          "narines",
+          "porc",
+          "ciboule frits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/c34212cd-5f0e-5fcf-9604-43b62568a7bc",
+        "value": "Mais déjà ! e monstre a disparu , dans un décroissement des borborygmes métalliques .H ne demeure que la rivière énervée et la barbare odeur du pétrole - sur les eaux .MARECAGES LE MARAIS Le marais est le parent pauvre de la rivière .",
+        "words": [
+          "odeur",
+          "eaux",
+          "rivière",
+          "pétrole",
+          "barbare"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/c63f87fb-2fce-56e7-b2ba-4ccb0b9b0455",
+        "value": "Sur l ' escabeau de leur arrière grand ' mère , elles tenaient la balance égale entre la tomate et le potiron .Et du même doigt qui fourrageait naguère leurs cheveux gris , elles pressaient , pour tenter notre convoitise , la panse élastique et odorante du Noir des Carmes ou du Cantaloup .Aujourd ' hui , ma jardinière a des souliers blancs , des bas soyeux , une robe de flanelle rose .",
+        "words": [
+          "odorante",
+          "naguère",
+          "Cantaloup",
+          "Noir des Carmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/c6cb3eff-e9b6-533f-9484-d41d7e77ab71",
+        "value": "Ecoute et tais - toi prévint hargneusement Léon , après avoir demandé la communication .Quelques secondes de silence tragique dans un réduit où flottait une odeur d ' égout , de vaisselle sale et de vermouth .Puis C ' est toi Marcel ' ? Ici Léon – Bien .",
+        "words": [
+          "odeur",
+          "égout",
+          "réduit",
+          "flottait",
+          "vermouth",
+          "vaisselle sale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/c8cfe805-4afd-5595-a5fb-2e0e99b2f2da",
+        "value": "Fleurs Fleurs Fleurs Fleurs Fleurs Fleurs Fleurs Fleurs Fleurs du ciel et fleurs de la * terre , de la joie et du sanglot , du scandale et du mystère , de la brise et fleurs de l ' eau , de lumière et de ténèbres , de chair et fleurs de velours , d ' hyménée et fleurs funèbres , de haine et fleurs de l ' amour .L ' œillet a l ' odeur sensuelle Et folle D ' une aisselle De danseuse espagnole .Le muguet tintinnabulant De ses mille et une clochettes Nous verse avec ses cassolettes Un baume allègre d ' Orient .",
+        "words": [
+          "odeur",
+          "folle",
+          "sensuelle",
+          "œillet",
+          "aisselle De danseuse espagnole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/cf75e682-c0f3-521f-88a8-3267b9194a2b",
+        "value": "André STEEMAN .CIGARES , Cigares dans la nuit , comme des points de feu Balancés à travers les ombres odorantes Et qui vous consumez chaque minute un peu Sous le baiser subtil de nos lèvres savantes , Havanes blonds mûris par l ' haleine d ' un dieu Et le souffle jaloux des Antilles ardentes , Fils du jaune soleil et de l ' horizon bleu , En qui dort le secret des volutes ferventes , Après un long sommeil aux limbes du santal Dans une robe d ' ambre et bagués de métal Vous livrez au bûcher vos âmes parfumées Et vous faites pousser aux célestes jardins , Aidés par je ne sais quels ouvriers divins , La fleur inconsistante et souple des fumées .Pol GORDON .",
+        "words": [
+          "fleur",
+          "odorantes",
+          "parfumées",
+          "âmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/d46863ef-5ab6-5465-8d80-07cb0a0f4d04",
+        "value": "Je voudrais respirer les parfums de l ' Amour comme l ' odeur de ces roses lointaines sans aborder le dieu redoutable .Je ne le pressens que trop mon âme deviendra votre esclave , ami si doux Un moment encore laissez - moi , je vous en prie , ma royauté fragile et mes plaisirs d ' enfant 1 » Elle pense à lui depuis son réveil et l ' aime aujourd ' hui plus délicieusement il est ainsi des jours où la fleur de tendresse que l ' on porte en son sein exhale des parfums plus suaves .Elle a souhaité le voir et sait qu ' il viendra .",
+        "words": [
+          "parfums",
+          "plus suaves",
+          "fleur de tendresse",
+          "depuis son réveil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/d9d1bd96-d4e5-5436-b2e2-20e5cb92d507",
+        "value": "Un air glacé monte vers le plafond bas dans cette chambre à l ' odeur fanée .Le logis de la vieille fille sent la lavande , la pomme reinette et le tombeau .Le foyer est - il éteint ? ` 1 Non , parmi les cendres attiédies de l ' âtre , voici , derrière les griffons des chenêts de fonte , deux tisons qui confrontent leurs dernières lueurs .",
+        "words": [
+          "lavande",
+          "sent",
+          "pomme reinette",
+          "Le logis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/dc40fdc4-6482-5ede-8032-6815abe038dc",
+        "value": "Mais il a perdu l ' habitude de se draper dans une ficelle .Les enfants aspirent aveuglément l ' odeur exotique de son étal citrons , oranges , cédrats , grenades et chapelets de cacahouettes .Ses tonnelets précieux sont de xérès , d ' alicante et de vin muscat .",
+        "words": [
+          "odeur",
+          "exotique",
+          "citrons",
+          "oranges",
+          "grenades",
+          "cédrats",
+          "Les enfants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/ddcaa552-3eae-5ea0-848c-2ba364592476",
+        "value": "Les promesses sont comme le bon vin .Elles ont un parfum agréable et stimulent l ' économie .Il n ' en demeure qu ' un peu de lie avec de l ' amertume au fond .",
+        "words": [
+          "agréable",
+          "parfum",
+          "Elles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/e5b3cc41-ffb0-5b3d-98a1-637a4115f12b",
+        "value": "C ' est qu ' entre les deux livres une demi - existence s ' est écoulée , pendant laquelle , au sein de la nature , l ' auteur a vécu .Longtemps il s ' est gavé des bruits , des parfums , des lumières , des spasmes du jour , des frissons de nuit .Lorsque ses sens eurent moissonné , quand de splendeur son âme fut pleine , après avoir conçu dans l ' allégresse il enfanta dans le plaisir .",
+        "words": [
+          "parfums",
+          "lumières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/efe25215-4601-589a-90fb-cc3bfbcedb89",
+        "value": "Des midis ardents encore mais des matins et des soirs frais .Un ciel très haut un air très pur des feuillages revivifiés aux tons légers , graves ou somptueux et dans les herbes des montagnes de grandes orchidées délicieusement odorantes .Dès le lever du jour les parents et les amis de Dinh en habits de fête , prirent le chemin de sa .",
+        "words": [
+          "air",
+          "odorantes",
+          "feuillages",
+          "délicieusement odorantes",
+          "grandes orchidées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/f0a721ed-43b1-550c-ab0d-8ae12aa7c57f",
+        "value": "Derrière elle on portait ses objets de toilette , des coussins , des nattes des musiciens jouaient .Dans la cour qui précède la maison de Xien , près d ' un autel où brûlaient des baguettes parfumées , un sorcier attendait les époux .Sur son invitation ils saluèrent le Génie des fils de soie rouge et la vieille déesse la Lune qui président aux mariages puis les compagnes de la mariée la conduisirent dans une petite chambre qui avait été préparée pour elle .",
+        "words": [
+          "parfumées",
+          "baguettes",
+          "Dans la cour qui précède la maison de Xien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/f1ce0f02-0bef-5dae-b391-1a73ba4150ed",
+        "value": "( Extrait de Sur la route de Dorno ~ .) ~ Ïa ~ GES En rouge ou mauve , en beige ou blanc , Crème , lilas , amande , orange , Couleurs sobres , couleurs étranges , Au milieu des parfums troublants , Les femmes ont innocemment Rires pervers et têtes d ' anges .Les corps étaient blancs et nacrés De la cheville à la narine .",
+        "words": [
+          "Crème",
+          "orange",
+          "parfums",
+          "femmes",
+          "troublants",
+          "lilas",
+          "amande"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/f862cf19-2739-519f-8311-2837a7a8a833",
+        "value": "Cette dernière , dans son honnête simplicité , ne tint pas à se singulariser en restant pucelle , et elle devint maJame Du Barry .Elle régna plusieurs années sur le roi Louis quinzième , c ' est - à - dire sur la France , et toute odorante de grâce et de vénusté , sut dans l ' éclat de sa toute puissance demeurer adorablement femme .Les gentilshommes de la Cour l ' ont beaucoup salie parce que la noblesse avait seule jusqu ' alors approvisionné le lit royal .",
+        "words": [
+          "France",
+          "odorante",
+          "roi",
+          "grâce",
+          "plusieurs années",
+          "vénusté"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/fefa3672-820a-5cb9-b33e-f5d904c5cafa",
+        "value": "Sur le sol rêche et sec et craquelé , j ' entends Le doux bruit inégal de ses pas hésitants .Sur l ' arbre poussiéreux et sur l ' herbe altérée , Elle tombe , bue aussitôt , évaporée Elle promène son éponge et son vernis Sur le gazon brûlé , les feuillages ternis , Et de neuves senteurs , tout à l ' heure étouffées , Du jardin rafraîchi s ' élèvent par bouffées .Le manteau noir du ciel s ' enfuit vers l ' inconnu Comme une écharpe glisse et découvre un col nu .",
+        "words": [
+          "senteurs",
+          "à l ' heure",
+          "neuves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/ff7abf5a-3f96-56b8-b785-2678546bcb2a",
+        "value": "Ils font aux bateaux des caresses sur les longues échines et leur prodiguent de petits chatouillis dans les coins .Ah sur les chantiers qu ' ensoleille mai en fleurs , la bonne odeur de térébinthe Chaque jour une parure est terminée et chaque jour un nouveau lancement .A l ' entrée de l ' été ils sont tous là , nichés par deux , par quatre , par dix , dans les remous et dans les échancrures des berges des gros , des longs , des minces , des ventrus , de gros pères plats et tranquilles , des canots à quille , sveltes et fringants .",
+        "words": [
+          "bonne",
+          "odeur",
+          "térébinthe"
+        ]
+      }
+    ],
+    "label": "La Revue des lettres : paraît le 15 de chaque mois / directeur Georges Barbarin",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k37068w",
+    "date": "1925",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/138",
+      "label": "Rose"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/54469aae-872a-5876-9b18-6f5f13f5d111",
+      "label": "1925",
+      "begin": "1925",
+      "end": "1925"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/418863/",
+      "label": "Isfahan"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/greed",
+      "label": "greed"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/f7c14496-0e6b-591a-8116-9eba26461dea/fragment/3acf1ca0-895e-5895-bb44-fc6675d05edd",
+  "license": "Public domain"
+}

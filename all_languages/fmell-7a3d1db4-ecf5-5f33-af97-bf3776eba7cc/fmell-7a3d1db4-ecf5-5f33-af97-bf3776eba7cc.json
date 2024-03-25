@@ -1,0 +1,802 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/7a3d1db4-ecf5-5f33-af97-bf3776eba7cc",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "fmell",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/015ce8d8-7e61-5a34-a787-b6afac83e4f9",
+        "value": "May 9th .Alvine evacuation more in quantity , feculent , of natural colour , with lefs fetor â   irregular motions nearly , if not altogether gone â   good night â   mixture , and falts , and full allowance of nourifliment taken .Habeat vini rubri uncias quatuor tantum , quibus admifceantur aquas uncias quatuor .",
+        "words": [
+          "fetor",
+          "feculent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/04a68f8b-6878-59d9-a267-3657dd203854",
+        "value": "Fiat infufum , eras mane , quatuor vicibus fumendum â   Continuetur vinum , Pills taken â   vomiting fucceeded the third 10t ^ - dofe of the infufion , on account of which it was intermitted .One fluid fetid dark green - coloured ftool , ac - companied with much flatus â   fulnefs of abdo - men more fubfided â   eyes more lively , and fome colour in the cheek â   a good night â   mouth eafier .Continuetur 246 appendix , No .",
+        "words": [
+          "fetid",
+          "fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/0756dca2-8c04-5955-9f99-9c86dd869e76",
+        "value": "Proftration and depravity of appetite , a { changing i IN MARASMUS .61 changing complexion , tumefaction of the abdo - men , fcanty and unnatural flools , and fetid breath , indicate approaching danger .When thefe , therefore , are obferved , ailiftance mould be afked ; by the prompt interpofition of which much eventual diftrefs , and even death itfelf may be prevented .",
+        "words": [
+          "fetid",
+          "breath",
+          "fetid breath"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/095860fc-b89d-5f2d-b452-2c8a3b0e02fc",
+        "value": "But in our cooler latitudes 1 , no fuch inftances of numerous lumbrici have been noticed .On the contrary , after the beft directed courfe of anthelmintic medicines , when the fymptoms of the difeafe are going off , no lumbrici have been feen , unlefs we admit , that the worms , deftroyed by the ef - ficacy of the medicines , conftitute the unnatu - ral and fetid feces which , in fuch inftances , arc voided in great abundance .This admiffion , however , is not to be readily granted ; for fimilar feces are paffed upon the exhibition of an early purgative , and before any fpecific vermifuge is employed .",
+        "words": [
+          "fetid",
+          "ral",
+          "feces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/0ae9cd0d-6420-549b-83aa-a0b655016120",
+        "value": "a regular ftate of the belly ; and returning ap - petite was fatisfied with light and nourishing food .I always infpecled the alvine difcharge of the fick ; the quantity of which , varying in confif - tence , colour , and fetor , daily evacuated during the fever by each boy , was aftonifhing to me .An emetic was given occafionally , but not generally , on the approach of the fever ; and towards its decline , a moderate quantity of wine was allowed .",
+        "words": "fetor"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/0afb3b37-f483-59ef-b958-712ee566be5c",
+        "value": "30th .Injection given â   was foon returned â   he has had very copious alvirie evacuation â   fluid , of a dark - green colour , and of a high , and peculiar fetor â   pain of epigaftrium gone â   two flight at - tacks of fpafm of the lower extremities , laft night â   no other irregular mufcular aftion has occurred â   tongue clean and moid â   pulfe feeble â   a peculiar fuinefs , and general tenfion of ab - domen is perceived â   wine has been relilhed , and he has pafl ' ed a good night .Habeat pilulas aloeticas , duodecim ; fumat tres omni bihorio j hifce fumptis , habeat enema domefticum , ni prius exoneretur alvus .",
+        "words": [
+          "peculiar",
+          "fluid",
+          "fetor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/0c93ce44-f2ed-5677-b360-a9fb506bb10f",
+        "value": "Continuetur vinum , A quiet night ; under greater involuntary agi l - kh .tation than yefterday â   gripes and vomiting fuc - eeeded the third dofe of the infufion â   a copious ftool of a light - green colour , fluid and fetid .Repetatur pulvis , ut heri ; et eras mane fu - mat quid reliqui fit infufi .",
+        "words": [
+          "fetid",
+          "the infufion â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/0cd3f4f8-02bf-511a-a859-b9922528f188",
+        "value": "lith .The alvine discharge fince yefterday is abun r dant , fluid , of a greenifli colour , and more fetid than the lafl â   excoriations are healed â   pulfe firm and regular â   difpofition to coldnefs of the furface has gradually yielded â   fkin now of na - tural heat .Recipe CHOREA .",
+        "words": [
+          "fetid",
+          "more fetid",
+          "The alvine discharge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/11164476-562c-53ed-946c-269a164e9014",
+        "value": "Be fides 32 UTILITY OF PURGATIVE MEDICINES Befides thefe motives for the exhibition of purgatives , I have obferved , that the febrile ftate in fcarlatina has a more powerful effect to induce coftivenefs , and to change the nature of the contents of the bowels , than it has in typhus .For in moft cafes of fcarlatina , the alvine evacua - tion has an unnatural appearance , and in general , a peculiarly fetid fmell .While I have thus found , that purgative me - dicines mitigate the fymptoms of fcarlatina , I have alfo in general , experienced them to afford the moft certain means , either of preventing dropfical fwellings , and other fubfequent de - rangements of health , or of removing them , when formed .",
+        "words": [
+          "fmell",
+          "peculiarly fetid",
+          "the alvine evacua - tion",
+          "in moft"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/157077b8-de13-54f4-91dd-3b080cf13103",
+        "value": "With thefe me laboured under proftration of appetite , want of fleep , and obftinate coftivenefs .She had been taking pills of calomel and rhubarb , with little effeft on her bowels ; but her mouth became fore , and her breath acquir - ed the mercurial fetor .We were not without apprehenfions for the event of thefe fymptoms , which feemed to us to indicate MARASMUS .",
+        "words": [
+          "breath",
+          "fetor",
+          "mercurial"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/18b434e0-6055-5ce4-9302-a24e3d5a2217",
+        "value": "In mature years , the belly is generally moved , once in twenty four hours .In the healthy ftate , the feces , though foft , preferve a form too well known to be de - fcribed ; they are of a yellow colour , and they give our a certain odour .But when they are evacuated lefs frequently than the age of a perfon requires , when they are indurated , when their colour is changed , and when they acquire a peculiar fetor , they mark a de - rangement of the ftomach and bowels : whence the approach of difeafe , if difeafe is not already formed , may be apprehended .",
+        "words": [
+          "odour",
+          "they",
+          "certain",
+          "our",
+          "feces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/1e1fc0ef-0629-57ab-8272-dbb83ef7bf2b",
+        "value": "Perceiving that me was relieved , her head being lefs pained , and the pulfe more regular ; another dofe of fenna was given , early in the forenoon of the 11th ; and the mercurial medi - cines were omitted .This dofe alfo , operated brifldy , and brought off , notwkh ( landing the large evacuations of the preceding day , fix or feven copious ( tools , all of them uncommonly fetid , and of a dark colour .She fuffered much from ficknefs , oppremon , and gripes , during the operation of both dofes of fenna ; but immedi - ately after the lafl dofe , every fympfom of dif - eafe vaniftied .",
+        "words": [
+          "fetid",
+          "uncommonly fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/1f94bcf0-d9ea-5460-bd81-fd5784f4c324",
+        "value": "Three dofes of the mixture taken â   injections May 4th .of beef - tea have been continued and retained â   fome beef - tea and a little food have alfo been taken ; wine is reamed â   one pretty copious green coloured and fetid ftool paffed in bed â   excoriations mend .Continuentur miftura e magnefia , vinum , et enemata e jufculo bovino .",
+        "words": [
+          "wine",
+          "fetid",
+          "ftool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/21f1f255-641f-56ea-817b-20ad0eb87a51",
+        "value": "Alvine difcharge , in refpecT : of quantity , can - not be afcertained , feces having been voided without notice in bed ; but on the whole they have not been fo abundant as yeflerday j they are of a CHOREA .261 a lighter colour and fetid â   involuntary motions ftiil lefs violent â   appetite for food abates â   thirfty â   articulation fhill fufpended , and deglu - tition is difficult Habeat vini rubri , Aquas , utriufque uncias fex .Sumat unciam , fubinde .",
+        "words": [
+          "fetid",
+          "â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/23422db6-433a-5b73-bc88-daf7a31539b7",
+        "value": "Spontaneous vomiting of contents of ftomach 13th .this morning , after breakfaft â   one fetid ftool , natural , and in moderate quantity â   diftenfion and pain of abdomen , preventing lleep , ftill continue â   pulfe feeble .Recipeâ   Magnefias uftas drachmam unam , Mucilaginis gummi arabici unciam dimidiam , Spiritus 208 APPENDIX , No .",
+        "words": [
+          "fetid",
+          "ftool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/23a80f0a-38c2-5a87-9078-11aaf90166cc",
+        "value": "â   9th .Three copious ftools , of a dark greenifli co - lour , and fetid â   fenfe of weight at fcrobiculus cordis CHRONIC DISEASES .303 cordisâ   headach and vertigo are confiderably relieved .",
+        "words": [
+          "fetid",
+          "â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/249bd9b5-ac37-5ee9-9317-e7de8b225cf7",
+        "value": "We fucceeded , but not without diffi - culty , in attaining the object in view .The ap - pearance and odour of the feces evinced their morbid ftate ; while the quantity that was dif - lodged proved that the feculent accumulation had been great .And there was no doubt of thefe circumftances having been the caufe of the ailment , for the ceffation of the cough , and the progrefs of convalescence kept pace with the gradual unloading of the bowels .",
+        "words": [
+          "odour",
+          "of the feces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/25954e65-883c-5258-9fce-7580bab5066c",
+        "value": "The effect of the purgatives was favourable .The feces were hard , generally of a black , or greenifh colour , and fetid ; and fometimes of the colour and confidence of clay , and lefs fe - tid .In proportion to the evacuation of thefe feces , relief was perceptible .",
+        "words": [
+          "fetid",
+          "The feces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/29696398-86ae-58bc-892e-9a3d78cb164e",
+        "value": "Habeat quam primum enema purgans ; ct eras primo mane bolum jalapss compofitum cum ealomclenas granis octo .Several copious dark and fetid ftools after igtfr .the .",
+        "words": [
+          "fetid",
+          "ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/3a96c83f-c5b0-533d-ba4f-859641300118",
+        "value": "â   â   3d .A ftool previous to the injection , pretty co - pious , of a dark green colour , and fetid ; a fmaller one after the houfe injection ; thofe of beef - tea have been retained â   has had a better nighty CHOREA .263 night , and appears fomewhat revived â   motions as defcribed â   wine relilhed , and a little beef - tea has been fwallowed .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/3b46ba0c-5303-57c2-8865-ee55f62bebf2",
+        "value": "24th .Belly open â   ftools of firm confiftence , dark colour , and ftill fetid â   irregular motions Hill more relieved .Continuentur pilulse aloeticse .",
+        "words": [
+          "fetid",
+          "â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/3c474e07-d54c-5a5e-a855-c12980d20b48",
+        "value": "2d .A pretty copious clay - coloured , and fetid ftool â   food taken .Repetatur cras mane pulvis , ut heri pre - fcriptus .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/422a9724-6d40-54dd-8011-86ea04e1bc5d",
+        "value": "12th .pearance , but ftill very fetid â   fulnefs of abdo - men diminimed â   pain ftill continues , prevent - ing fleep during the night â   pills rejected by vomiting â   pulfe rather quick .Repetatur hauftus e tin & ura jalapae , eras mane .",
+        "words": [
+          "fetid",
+          "very fetid",
+          "â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/442613ea-3a72-584c-beae-49e312af2cf0",
+        "value": "In the healthy ftate , the feces , though foft , preferve a form too well known to be de - fcribed ; they are of a yellow colour , and they give our a certain odour .But when they are evacuated lefs frequently than the age of a perfon requires , when they are indurated , when their colour is changed , and when they acquire a peculiar fetor , they mark a de - rangement of the ftomach and bowels : whence the approach of difeafe , if difeafe is not already formed , may be apprehended .I am not ignorant , that coftivenefs will prevail to a confiderable extent , even in robuft , and o - 3 therwife PURGATIVE MEDICINES .",
+        "words": [
+          "peculiar",
+          "they",
+          "fetor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/47a961a4-6870-5c46-b857-87a44372e5a9",
+        "value": "A feculent ftool , with much flatus , in about May 25th .half an hour from receiving the injection ; an - other fince morning ; on the whole , the alvine difcharge is more copious , fluid , and of nearly - natural colour , but fetid â   appetite continues good â   pulfe regular and firm â   fulnefs of abdo - men more fubfided â   had a vifit from a brother and fitter , both children , in whofe company me appeared delighted , and , by account , converfed with them freely and eafily ; in their abfence , fhe refumes her ufual dullnefs and taciturnity .Recipe â   Oxidi ferri nigri purificati grana fex , Pulveris jalapae , Sacchari rubri , utriufque grana qua - tuor .",
+        "words": [
+          "the",
+          "fetid",
+          "refumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/49bf458e-dc71-5153-816e-9fedf6083d58",
+        "value": "I comprehend under the general title , Maraf - mus , a variety of fymptoms which affect the young of both fexes .A fluggifhnefs , lafTitude on flight exertion , depravity and lefs of appetite , wafting of the inufcular flefh , fulnefs of the features and pale - nefs of the countenance , fuelling of the abdo - men , an irregular and generally a coftive ftate of the bowels , a change in the colour and odour of the feces , fetid breath , fwelling of the upper hp , UTILITY OF PURGATIVES , & C .49 lip , and itching of the nofe , mark the beginning of the difeafe .",
+        "words": [
+          "fetid",
+          "odour",
+          "breath",
+          "of the feces",
+          "fwelling of the upper hp"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/508751a4-b582-54a9-944f-4bbe8c535158",
+        "value": "His head has been fhaved , and vinegar ap - plied to it .Took a dofe of phyfic , which pro - duced feveral ftools of a greenifli appearance and fetid fmell .Habeat bolum e jalapa cum mercurio .",
+        "words": [
+          "fetid",
+          "fmell",
+          "dofe",
+          "phyfic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/5382aece-9e90-50de-986a-cff2597968c5",
+        "value": "On the 12th ( he had a third dofe of .fenna , not however , fo ftrong as the preceding ones j but neverthelefs it procured three or four ( tools , lefs fetid than the former , and of more natural appearance .On MARASMUS .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/539a6883-7c99-5e26-b4ce-e6782a054265",
+        "value": "6th .Refufed the bolus â   - jaw is at prefent fixed , and general fpafm affects the body .Recipe â   $ ubmuriatis hydrargyri fcrupulum ? Sacchari albi drachmam .",
+        "words": [
+          "fpafm",
+          "Refufed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/5b1118b6-d422-5ccf-aa4c-a12ae00e288d",
+        "value": "18th .Pretty copious alvine difcharge from fix mo - tions , more fetid than for two days paft â   con - fiderable fullnefs of abdomen is flill per - ceived .Recipe â   Submuriatis hydrargyri grana qua - tuor , Pulveris jalapas , Sacchari , utriufque grana oÂ £ to .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/5e0d387a-876b-55ee-aae5-45952a5ffaab",
+        "value": "The previous hiftory of this patient ' s health , and the prefent occurrence , indicated clearly our line of practice .Much fetid feculent matter was brought off by appropriate purgative medicines ; immediate abatement of the pain took place , and complete relief in all refpects foon enfued .In eight or ten days no veftige of complaint remained .",
+        "words": [
+          "fetid",
+          "matter",
+          "feculent",
+          "fetid feculent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/5fe058c4-e3ca-56fb-8554-93cade0ace0f",
+        "value": "- loth .Involuntary motions have not recurred â   de - glutition is free , and me begins to articulate â   ftools feculent , and natural in appearance and fmell .Continuetur vinum , necnon miftura e mag - nefia , adempto pulvere jalapae .",
+        "words": [
+          "natural",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/61a2605e-9265-5a1b-9507-beb793e65aef",
+        "value": "Recipe â   Sodse tartarifata ? drachmas quatuor , Foliorum fennae drachmas duas , Extracti glycirrhizas drachmam unam , Aqu32 fervidae uncias duodecim .Fiat infufum , eras mane , quatuor vicibus fumendum â   Continuetur vinum , Pills taken â   vomiting fucceeded the third 10t ^ - dofe of the infufion , on account of which it was intermitted .One fluid fetid dark green - coloured ftool , ac - companied with much flatus â   fulnefs of abdo - men more fubfided â   eyes more lively , and fome colour in the cheek â   a good night â   mouth eafier .",
+        "words": [
+          "infufion",
+          "infufum",
+          "Fiat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/6596dc49-b028-59b6-b240-726c2029f233",
+        "value": "The l UZ UTILITY 01 - PURGATIVES The { lighten : attention to the general hiftory of the difeafe evinces , that coftiveneis precedes , and accompanies the other fymptoms .Cof - tivenefs induces the feculent odour of the breath , difordered ftomach , depraved appetite , and impaired digeftion .Thefe preclude a fuf - licient fupply of nourilhment , at a period of growth , when it is mod wanted : hence pale - nefs , laxity , flaccidity , the nervous fymptoms , wafting of the mufcular flefh , languor , debility , the retention of the menfes , and fufpenfion of other excretions , ferous effufions , dropfy , and death .",
+        "words": [
+          "odour",
+          "of the breath",
+          "feculent",
+          "tivenefs",
+          "Cof"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/67cb8b8d-3c6c-56ba-b2fe-0a94c4cdfecc",
+        "value": "loth .Has had the bath twice , which he bore well â   one pretty copious confiftent green - coloured and fetid ftool â   feven powders taken â   mouth fore with mercurial fetor â   has taken more nour - ifhment â   irregular convulfive motions as de - fcribed yefterday .Continuetur balneum tepidum , mane et vef - pere .",
+        "words": [
+          "fetid",
+          "fetor",
+          "mercurial",
+          "ftool",
+          "feven"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/6a5453be-35aa-54a0-a63d-a80251c2e424",
+        "value": "Habeat bolos - quatuor , ut heri praefcriptos ; fumat unum omni trihoris .Three ( tools , dark and fetid â   and in conft .- 8th .",
+        "words": [
+          "fetid",
+          "tools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/6a716af1-4d55-5a18-a0f7-3bc2270ea6ed",
+        "value": "Sumat unciam , fubinde .Four fetid ftools , but rather of more natural May 1st .appearance , fince yefterday ; evacuation on the whole copious , has been voided without notice â   â  ¢ abdomen feems more diftended â   involuntary motions ftill abate â   pulfe is feeble , and looks are rather languid , and mufcular flefti apparent - ly wafted â   appetite ftill indifferent â   eight pow - ders taken , and wine relifhed .",
+        "words": [
+          "fetid",
+          "more natural",
+          "ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/6ebac730-c219-596f-a07a-697e228cddcb",
+        "value": "In four weeks from the firft attack , this girl , furnifhed with proper purgative medicines , went to the country , for the com - plete re - eftablifhment of her health .A full dofe , there - fore , of an infufion of fenna was exhibited , on the morning of the 9th inftant .Next day , we found that the fenna had purged brifkly , not lefs than nine times ; and at every motion , that a large quantity of black coloured feces , fully formed , 220 APPENDIX , No .",
+        "words": [
+          "infufion",
+          "of fenna",
+          "on the morning of the 9th"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/6f13fe13-978a-554f-a866-41d294b5e664",
+        "value": "During the prevalence of the difeafe , the fe - ces are dark , fetid , and varying from a coftive confidence , to that of clay , and are often fluid ; and fuch they appear upon the firft exhibition of the purgative medicines .I obferve that the recovery of the fick keeps pace with the return of feces of natural colour , form , and fmell ; a change ? 58 UTILITY OF PURGATIVES change which the repetition of purgatives does net fail to produce .While I give purgative medicines after this manner , in this ftage of Marafmus , in which the obftinacy of the difeafe is fometimes great , and the danger attending it imminent , nourifhing food , of light and digeftible quality , and fuited to the tafte of the patient , and the moderate ufe of wine , are much wanted .",
+        "words": [
+          "feces",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/6f5b5706-271d-543a-b22a-2ead42ffe5f0",
+        "value": "â   Sodse vitriolatas drachmas fex , Sacchari drachmas duas , Chryftaliorum tartari , Foliorum fennas , utriufque drachmam , Aquas fervidge uncias fedecim .Fiat infufum , quam primum fumendum .Cras mane infufi fennas unciam et dimi - diam .",
+        "words": [
+          "infufum",
+          "Fiat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/7691a050-27f1-5e20-96fb-ccd3860093d2",
+        "value": "In three or four months , this patient return - ed , labouring under conftipation , and a recur - rence of the vomiting of blood .The conftipa - tion was again removed , by means of calomel , and a great load of indurated , and fetid feces was brought off .In a fhort time me left the Hofpital , again cured , and again admonilhed to be more attentive to the ftate of her bowels .",
+        "words": [
+          "fetid",
+          "feces",
+          "fetid feces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/78de3b7b-79ee-521f-977f-c5ead6dbfe6d",
+        "value": "This inflection is the more neceffary , as we cannot expect the information we want from our little patients ; and we will often look for it in vain from the attendants , whofe prejudices , and whofe igno - rance of our views , prevent their feeing the propriety of the enquiry .During the prevalence of the difeafe , the fe - ces are dark , fetid , and varying from a coftive confidence , to that of clay , and are often fluid ; and fuch they appear upon the firft exhibition of the purgative medicines .I obferve that the recovery of the fick keeps pace with the return of feces of natural colour , form , and fmell ; a change ? 58 UTILITY OF PURGATIVES change which the repetition of purgatives does net fail to produce .",
+        "words": [
+          "the",
+          "fetid",
+          "ces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/7a7f6068-6fe6-57a6-9c7c-745198c05c92",
+        "value": "Spontantenous vomiting this morning of the contents of the ftomach .Fetid and clay - coloured , but more fcanty alvine evacuation â   indifferent nights .Recipe â   Tin .",
+        "words": [
+          "Fetid",
+          "fcanty"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/7b845da1-9e5e-5751-9996-299df3050836",
+        "value": "9th .alvine difcharge on the whole fcanty , of a green colour , and fetid â   urine fcanty , of a dark and almoft bloody colour â   cedema continues â   breathing eafy â   mouth is affected .Repetatur folutio fodse tartarifatse ut heri prsefcripta , quam primum ; eras mane iterum re - petenda .",
+        "words": [
+          "urine",
+          "fetid",
+          "â",
+          "alvine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/84c8df13-d575-54d6-a49f-8f2952248a76",
+        "value": "A fcanty ftool in the afternoon of yefterday ; May 30ti .fix have fmce occurred , giving on the whole a copious feculent , fluid , and fetid difcharge â   the injeftion was returned accompanied with much flatus â   fulnefs of abdomen continues â   appetite good .Habeat pilulas aloeticas quatuor vefpere ; eras mane repetatur enema fcetidum .",
+        "words": [
+          "fetid",
+          "feculent",
+          "difcharge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/8562210c-5688-5223-8cae-ce6d15ca2526",
+        "value": "May 23d .The alvine evacuation is more copious , of a darker colour , and fetid â   the injection , retained four hours , was voided along with feculent matter and much flatus â   fulnefs and tenfion of belly continue to abate â   appetite for food flags , but wine is relilhed â   pulfe about 90 , and feeble â   fhe feems to lofe in refpect of flefli and ftrength .Habeat quam primum juris bovini libras duas ; cujus injiciantur uncise fex per anum , omni bihorio .",
+        "words": [
+          "fetid",
+          "â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/8b543dcd-e1be-5da5-9d61-0cf748f077ea",
+        "value": "31st .Pills and injection given â   feculent difcharge lefs copious than yefterday , and lefs fetid ; is of a clay - colour , partly fluid , and partly fcybalous .Fuinefs and tenfion of abdomen gone â   a flight return of fpafm of the lower extremities was of fliort duration â   furface inclines to be cold â   3 pulfe CHRONIC DISEASES .",
+        "words": [
+          "fetid",
+          "feculent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/90bace12-c20b-5ba1-abf7-0d189a5ae994",
+        "value": "30th .General forenefs of breaft â   oppreffion about praecordia â   headach and faintnefs are relieved â   pulfe firmer , and expreffion of countenance more lively â   a copious , fetid , dark , and greenifh coloured alvine evacuation â   no vomiting .Habeat pilulas aloeticas duodecim ; Sumat tres omni bihorio ; et pilulis fumptis , repetatur enema , ut heri .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/937103e6-ac57-56ca-93fd-6a9a709bc6a3",
+        "value": "The alvine evacuation of yefterday and of 14th .this day abundant , fluid , and without peculiar fetor â   pulfe regular and firm â   articulation not farther recovered .Habeat pulveris jalapse grana fex tantum , in - dies .",
+        "words": [
+          "peculiar",
+          "fetor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/96efc6c4-e505-54df-aeac-ea9a13d875b2",
+        "value": "The infufion was taken , and the injection was May 21st .foon returned without feces â   the alvine evacua - tion on the whole fince yefterday has been co - pious , and fetid , and of a dark colour , with fcybala intermixed â   for fome days { he has ap - peared more wan , and feems to have loft in re - fpect of fleih â   the wine is relimed , and food - taken â   no return of involuntary motions .Recipe â   Infufi fennas uncias duas cum fe - mifle , Tincluras jalapas drachmas tres , Extracti glycyrrhizse drachmam .",
+        "words": [
+          "the",
+          "fetid",
+          "fcybala"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/99455c88-2c7c-5adf-bcc6-8d4c28f583c1",
+        "value": "Continuetur vinum .â  ¢ 26th , A quiet night â   difpofed to fleep fmoe morn - ing â   countenance more florid , and of a more natural appearance â   a copious , dark - coloured , and fetid ftool , after the inje & ion .Repetatur bolus e jalapa , cum mercurio et enema domefticum , fi opus fit .",
+        "words": [
+          "fetid",
+          "ftool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/99fbfcdc-5fa7-5819-bc78-6513f47d217d",
+        "value": "lfit h .ance , and lefs fetid than hitherto - r - irregular motions continue , but are ftill lefs frequent and lefs fevere â   fpafm refembling tetanus , by ac - count , occurred while in the bath â   continues to take food , but declines the beef - tea and por - ter .Recipe â   Magnefice uftee , Sacchari , utriufque drachmas duas , Aquze uncias fex .",
+        "words": [
+          "fetid",
+          "lefs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/9b6f7eaa-defe-51d2-9925-aef0377be1a6",
+        "value": "A night nurfe .6th Has paffed a good night â   involuntary mo - tions as lafl defcribed , with longer intervals be - tween different attacks â   appetite more improved , and excoriations more difpofed to heal â   four alvine evacuations , confident , dark , and fetid j on the whole in fmall quantity .Recipe â   Submuriatis hydrargyri , Sacchari , utriufque grana fex .",
+        "words": [
+          "fetid",
+          "j"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/9d08b5b8-e250-58b4-843c-b8b1668d42cb",
+        "value": "Continuejjtur vinum et enemata e jufculo bo - vino .A feculent ftool , with much flatus , in about May 25th .half an hour from receiving the injection ; an - other fince morning ; on the whole , the alvine difcharge is more copious , fluid , and of nearly - natural colour , but fetid â   appetite continues good â   pulfe regular and firm â   fulnefs of abdo - men more fubfided â   had a vifit from a brother and fitter , both children , in whofe company me appeared delighted , and , by account , converfed with them freely and eafily ; in their abfence , fhe refumes her ufual dullnefs and taciturnity .",
+        "words": "feculent"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/9db2983b-4992-55ea-8812-b22193a5653e",
+        "value": "April 2Stth .Has pafied a quiet night , enjoying foft fleep â   has had ten ( tools ; the feces upon the whole are abundant , of a light greenifh colour , partly fluid , and partly fomewhat in feparate knots , approaching in appearance to fcybala ; thefe evacuations are highly fetid â   the convulfive motions are ftill more flayed and lefs violent â   nine powders , taken without reluctance , have been given .Continuetur pulvis jalapsc ut heri prasfcrip - tum .",
+        "words": [
+          "fetid",
+          "highly fetid",
+          "evacuations",
+          "fcybala"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/a0ac9ea7-acfa-52b0-9ee1-ce7bc9487ce6",
+        "value": "A copious , partly fluid , green - coloured , and 15th .highly fetid flool â   flight naufea after the infu - Q 4 fion 248 appendix , No .V , fion â   an indifferent night â   motions continue violent â   food taken .",
+        "words": [
+          "fetid",
+          "highly fetid",
+          "flool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/a237ecb2-d003-516d-ad74-542e63f723bd",
+        "value": "i - Hh .Several copious feculent but fetid ftools .Habeat omni node pilulas aloeticas tres .",
+        "words": [
+          "fetid",
+          "feculent",
+          "ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/a68b7636-d586-5b30-91bc-5ee019a2c786",
+        "value": "The purgatives employed in the firfl inftance , were of the weaker kind , and inadequate to thÂ £ object to be obtained .Stronger ones were found to be neceflary to move , and difcharge the indurated and fetid feces .I found the quantity of feculent matter col - lected , to vary in different fubjects , and at dif - ferent periods of the complaint .",
+        "words": [
+          "fetid",
+          "feces",
+          "indurated"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/ae5e5ac5-0ec3-5e4c-aa98-632b45934511",
+        "value": "15th .A copious feculent alvine difcharge , of more natural appearance and fmell than hitherto â   motions continue more moderate , and lefs fre - quent in their attack â   appetite is improvingâ   i - blifter not yet moved .Repetatur tinctura jalapae , ut heri .",
+        "words": [
+          "fmell",
+          "copious feculent",
+          "alvine difcharge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/afbc53e3-6b44-5942-95d3-10bad86d7f30",
+        "value": "20th .Confident fetid bilious ftool â   rejected the bo - lus by vomiting .Filulas aloeticas duodecim ; fumat duas om - ni quadrihoris .",
+        "words": [
+          "fetid",
+          "bilious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/aff2a548-7d49-58aa-9a4e-d13f8aa6175c",
+        "value": "As the ftrength of patients labouring under this vomiting of blood is generally pretty entire , we need not dread full purging ; but this effect is not wanted ; if we unload the bowels , we accomplifh the cure .The feces which are brought off are copious , unnatural in colour , confidence , and fmell , as they generally are after long remora , the con - fequence of obftinate , and protracted coflivenefs .fequence IN J - IiEM ATEMESIS .",
+        "words": [
+          "copious",
+          "feces",
+          "fmell",
+          "unnatural"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/b2d91125-b542-5e32-999f-c7bb8f0cd8e1",
+        "value": "Repetatur vinum .Has paffed an indifferent night â   has had longer and more fevere attack of cramp in the lower extremities â   a coftive , green , and fetid ftool followed the injection , when previous un - eafinefs fubfided .He appears more languid , but pulfe continues firmer , and furface warm â   tongue clean â   appetite declines .",
+        "words": [
+          "fetid",
+          "ftool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/b46d012a-b04b-5904-94d8-4bae51bd2800",
+        "value": "Tere intime , et divide in dofes duodecim , quarum fumat unam , omni bihoris , m â   7th .Trifmus and fpafm were of fiiort durations - involuntary motion of thp mufcles of the abdo - men and of the lower jaw continuerâ   one rather coftive , but pretty copious fetid and green ftool â   ufes little food â   eight powders taken .Repetantur pulveres e fubmuriate hydrargyri , lit heri fumendi ufque dum iterum folvatur al - vus .",
+        "words": [
+          "fetid",
+          "Trifmus",
+          "fpafm",
+          "copious fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/b6349f33-454b-5805-884c-a2fa3f684913",
+        "value": "During thefe three weeks , this medicine had the effect of producing three or four ( tools eve - ry day .At firft , the ftools were of a natural appearance ; afterwards they became black , and very fetid ; gradually , however , they aflumed a natural appearance .During this time , me became ftronger .",
+        "words": [
+          "fetid",
+          "they",
+          "very fetid",
+          "the ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/bc42f358-560b-54a1-8e5c-52006d812030",
+        "value": "o 3 When 54 UTILITY OF PURGATIVES When I confider the languor and laffitude which precede this Marafmus ; when I recollect the conftitutional or acquired debility of thofe who arc more particularly expofed to be affect - ed by it , inftead of adopting the common opi - nion , of its being occafioned by worms , I am more difpofed to think , that a torpid ftate , or weakened action of the alimentary canal , is the immediate caufe of the difeafe ; whence proceed coftivenefs , diftenfion of the bowels , and a pe - culiar irritation , the confequence of remora of the feces .I have accordingly been long in the habit of employing purgative medicines for the cure of this Marafmus ; the object is , to remove indurated and fetid feces , the accumulation per - haps of months ; and as this object is accom - plishing , the gradual return of appetite and vi - gor mark the progrefs of recovery .The hiftory of the difeafe , from the firfl in - difpofition , to the appearance of more urgent fymptoms , difpofes me to confider it as confift - ing of two ftages or periods ; the incipient , and the confirmed .",
+        "words": [
+          "fetid",
+          "feces",
+          "fetid feces",
+          "indurated and"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/bc7d1f7a-baea-599c-a72b-89ddba5142b9",
+        "value": "5th .Four ftools , of a dark green colour and fetid fmell ; the evacuation upon the whole has been copious , and paffed in bed â   fpafmodic motions ceafe altogether at times , and again return with fome violence â   has paffed an indifferent night â   appetite mends .Continuentur vinum , jus bovinum , et miftu - ra e magnefia .",
+        "words": [
+          "fetid",
+          "fmell",
+          "Four ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/bdc13157-a192-5a2a-a345-b70e541bcecd",
+        "value": "Has had free paflage of belly â   ftoOls more Sept .i6tft , frequent , but ftill fetid â   motions more ftaid .Repetantur pilulse aloeticse et infufum fennse .",
+        "words": [
+          "fetid",
+          "â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/c00ad357-2295-5d42-8e66-200808dee5ab",
+        "value": "29tfo .continued ; the ftools were fcanty , white - colour - ed , and fetid â   fince the exhibition of the ca - thartic , a very copious alvine evacuation has taken place ; it is fluid , of a mixed greenifh and clayim colour , of a fomewhat acid fmell , and otherwife of a peculiar fetor .Two camphor draughts have been given , and wine has been ufed â   pulfe is lefs hard â   cramps of the lower extremities occafionally recur fince morning , but the involuntary action of other mufcles has ceafed â   countenance lightened â   he has enjoyed fome fleep .",
+        "words": [
+          "acid",
+          "fetid",
+          "peculiar",
+          "fetor",
+          "it",
+          "fmell",
+          "â",
+          "the ftools",
+          "fcanty"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/c04ffdf4-1b2a-59c4-a76a-f711f7a5ebd7",
+        "value": "This antimonial remedy was not ineffectual ; but I remarked that it was beneficial only , when it moved the belly .The ftools were black and fetid , and in general copious .On the dif - charge of thefe , the low delirium , tremors , floc - citatio , and fubfultus tendinum , which had prevailed , abated in fome cafes ; the tongue , which had been dry and furred , became moifter and cleaner , and a feeble creeping pulfe ac - quired a firmer beat .",
+        "words": [
+          "fetid",
+          "copious",
+          "The ftools"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/c5ab6c18-7e9a-5d2b-871b-7722e353db40",
+        "value": "The alvine evacuation , in refpecl : of quantity 22d .and appearance , as yefterday , unlefs perhaps it is more of the natural colour ; it contains a few fcybala , and is ftill fetid â   the injeclion was re - tained nearly five hours , when it was voided , accompanied with much flatusâ   - pulfe towards 90 , 270 APPENDIX , No V .90 , and firmer â   abdomen feems lefs diftended â   food and wine relifhed .",
+        "words": [
+          "fetid",
+          "it",
+          "a few fcybala"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/c70b9a61-1d8c-5b37-a90c-ff3a2c6bff4c",
+        "value": "Has had feveral flools - â   the evacuation on 3i $ t .the whole copious , fluid and feculent , and with - out peculiar fetorâ   belly is lefs full â   articula - tions diftincl : , and fhe has become cheerful and playful .This , how - ever , producing no effects , the quantity of the fubmuriate of mercury was increafed to five grains , and that of the jalap , to fifteen grains .",
+        "words": [
+          "peculiar",
+          "feculent",
+          "fetorâ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/cdc2e0f3-06ec-50af-8722-06884987cd71",
+        "value": "The young of either , but particularly of the female fex , are expofed , about the age of pu - berty , to a feries of fymptoms , which , although flight in the beginning , become by flow degrees , abundantly diftrefling and fevere .They arc ufhered in by a difagreeable breath , or exhala - tion from the mouth , not unfrequently of a fe - culent odour ; by acid and fetid eructations , by proftration , and depravity of appetite , marked by an averfion to ufual food , and a defire for fubftances , which are not eatable , fuch as chalk , cinders , fand .Thefe fymptoms are generally preceded JU UTILITY OF PURGATIVES preceded bycoftivenefs , which prevails through * out the difeafe .",
+        "words": [
+          "fetid",
+          "odour",
+          "They",
+          "fe",
+          "eructations",
+          "difagreeable",
+          "culent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/cf63473e-4f28-57f3-b787-39fc8436e848",
+        "value": "Sera node enema purgans , fi opus fit .A copious , confident , blackifh , and fetid _ 13th .ftool , upon the exhibition of the injection â   ge - neral pain of abdomen â   pulfe calm .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/d1fabf81-32f8-5440-bd61-97bdc56b3c08",
+        "value": "90 , and firmer â   abdomen feems lefs diftended â   food and wine relifhed .Repetatur infufum fennas cum tin & ura jala - pse ; necnon enema fetid urn vefpere .Continuetur vinum .",
+        "words": [
+          "fetid",
+          "infufum",
+          "necnon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/d3bd01e7-6ab3-571c-a37c-77b01044bb2c",
+        "value": "â   24th .Alvine evacuation , fince yefterday , is lefs co - pious , fluid and fetid â   injections of beef - tea re - tained â   P u - k firnier , and more food taken .Repetatur CHOREA .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/d4adf109-30df-5b8d-9c56-767a6bec6e0f",
+        "value": "Has had three ftools , of a deep green colour f sth .and fetid ; the difcharge upon the whole is fcanty â   has palled a better night , and this morning the involuntary motions are lefs gene - r 2 ral 260 APPENDIX , No .V .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/d917ba9d-2fb2-5d82-b997-fef1b63075af",
+        "value": "i 265 2ppetite continues to improve â   expreffion of .countenance is more lively â   pulfe calm , and firmer than hitherto â   excoriations healing â   al - vine evacuation of a lighter colour , lefs fetid , and alfo lefs copious than for fome days pad â   calomel given , and mixture , as prefcribed taken .Recipe â   Phofphatis fodas drachmas quatuor e juris bovini unciis fex fumendas .",
+        "words": [
+          "fetid",
+          "al - vine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/db8a9d9c-16e3-5d1c-8aaa-1367f04d7950",
+        "value": "Repetatur miftura cum tinctura jalapas , ut fu - pra prsefcriptum .Ilth , One dark - coloured confiftent fetid and rather fcanty ftool fince yefterday â   irregular motions difappearcd during the whole of yefterday , and at prefent affect only the mufcles moving the head â   pulfe good â   more nourifhment taken , but he has refufed altogether the laxative mix - ture .Continuetur balneum .",
+        "words": [
+          "fetid",
+          "fcanty"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/dc53fa1d-a33e-5287-9709-086f06cd53c0",
+        "value": "The fix pills taken â   two ftools of dark co - lour , and in part of a clayey confidence , adher - ing to the fides of the containing veffel â   eye is more languid , and cheeks paler than ufual .She cannot as yet articulate â   an eafy night without motion â   mouth fomewhat pained with mercuri - al fetor of the breath .Recipe â   Foliorum fennse drachmas tres , Cremoris tartari , Extra & i glycirrhizse , fmgulorum drachmam unam .",
+        "words": [
+          "fetor",
+          "of the breath",
+          "al"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/e579b81e-e684-521f-b84d-9a92a820d204",
+        "value": "IV .formed , and uncommonly fetid , had been dif - charged .Perceiving that me was relieved , her head being lefs pained , and the pulfe more regular ; another dofe of fenna was given , early in the forenoon of the 11th ; and the mercurial medi - cines were omitted .",
+        "words": [
+          "fetid",
+          "uncommonly fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/e75f829b-cffb-5c5f-9bb3-80e1c2e6667a",
+        "value": "An eafier night , fleep being of longer conti - 9th .nuance , he awakes lefs fuddenly , and without fcreaming â   by his account , is free of headach , but complains of pain of abdomen â   counte - nance at prefent pale and lefs languid â   pulfe towards 100 , and feeble â   a fetid , fluid , and dark - coloured ftool â   urine in fmall quantity , and high - coloured â   little food taken .n 3 Habeat 198 APPENDIX , No .",
+        "words": [
+          "urine",
+          "fetid",
+          "fluid",
+          "dark - coloured ftool"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/e8a5ffc7-ee3a-5c0f-b584-5402646915b8",
+        "value": "1st .more natural appearance , without fetor or fcy - bala â   fpafmodic affection has once appeared , and has been flight â   furface warm â   pulfe firm - er â   painful affection of both eyes â   headach and drowfinefs gone .Abluat oculos folutione fulphatis zinci fub - inde .",
+        "words": [
+          "fetor",
+          "fcy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/ecf1442a-d59d-5c2f-b659-1b462961a454",
+        "value": "It ne - ver operated above four times .The feces were / at firft natural : they afterwards became black and fetid ; and then again aflumed a natural ap - pearance .The involuntary motions gradually became better : they ceaied altogether , in eight days : CHOREA .",
+        "words": [
+          "fetid",
+          "they",
+          "feces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/ef677b72-12f3-5b26-a146-abc58da2f598",
+        "value": "Tth .Fourteen pills taken â   one copious , confident , dark , and fetid ( tool â   an eafy night â   motions fufpended during fleep are weaker and more regular this morning .Sumat quid reliqui fit pilularum heri pras - fcriptarum .",
+        "words": [
+          "fetid",
+          "Fourteen pills"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/f1f0a521-3c6b-562b-9b8a-917f319711e0",
+        "value": "I obferve calomel to be equally ufeful in this , as in the incipient ftate of the difeafe ; but great attention muff be given during the exhibition of it .Without this , as the fetor of the breath pre - vents IN MARASMUS 57 vents us from recognizing the mercurial fetor accurately , the mouth may be affected unnecef - farily and unexpectedly .While I thus give appropriate purgative me - dicines , I find it neceifary , in order to have full information of their effects , to infpect daily what is palled at ftool .",
+        "words": [
+          "us",
+          "fetor",
+          "of the breath",
+          "mercurial",
+          "MARASMUS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/f27fbb97-2ded-5a3b-a019-1a72194832b6",
+        "value": "3 Fifty CHOREA .243 One { tool , confifting of many fcibula float - ing in a dark - coloured fetid fluid , has beenpafled .Continuentur pilulse aloeticas .",
+        "words": [
+          "fetid",
+          "fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/f5e3daf3-2b47-5233-b8c5-26bdfcaf9b23",
+        "value": "19th .A more copious alvine evacuation , ftill fetid , with flight fulnefs of abdomen â   fpontaneuus vomiting of contents of ftomach this morning , preceded by ficknefs â   wine relifhed .Cras mane repetatur pulvis , heri praefcriptus , et repetatur vinum .",
+        "words": [
+          "fetid",
+          "ftill"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/f64cb1e2-bee0-5295-b2ae-c0398d146cbc",
+        "value": "10th .Two ftools , both fcanty â   but of more natural appearance than hitherto , and lefs fetid â   confi - derable fulnefs of abdomen , without pain â   wine relifhed â   appetite variable â   pulfe quick and feeble .Recipe â   Submuriatis hydrargyri grana duo , Pulveris jalapas , Sacchari , utriufque grana fex .",
+        "words": [
+          "fetid",
+          "Two"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/fcffc5b0-d24a-5925-ab5b-ce0b0de2ea10",
+        "value": "20th .Since taking the powder , a rather fcanty al - vine evacuation has taken place ; it is feculent , fluid , and fetid â   fulnefs of abdomen continues â   wine relilhed .Recipe â   Infufi fennas uncias duas , Extracti Glycyrrhizas drr .",
+        "words": [
+          "fetid",
+          "it",
+          "feculent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/ffaf44d1-6be7-5ecd-93c8-105c9509f0f4",
+        "value": "While I thus give appropriate purgative me - dicines , I find it neceifary , in order to have full information of their effects , to infpect daily what is palled at ftool .The fmell and appear - ance of the feces are a criterion of the progrefs we make in the cure , and direct the farther ad - miniftration of the purgatives .This inflection is the more neceffary , as we cannot expect the information we want from our little patients ; and we will often look for it in vain from the attendants , whofe prejudices , and whofe igno - rance of our views , prevent their feeing the propriety of the enquiry .",
+        "words": [
+          "fmell",
+          "the feces"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/70952929-8dde-5741-9174-c225f33b3418",
+        "label": "James Hamilton"
+      }
+    ],
+    "label": "Observations on the utility and administration of purgative medicines in several diseases [electronic resource]",
+    "url": "http://archive.org/details/b21299201",
+    "date": "1805",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/67132a15-5546-5fe8-b862-18e8ee8f8e66",
+      "label": "1805",
+      "begin": "1805",
+      "end": "1805"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6743674/",
+      "label": "Rūdkhāneh-ye Dezgā"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/46260263-a47b-5e77-8b55-fe7260f495dd/fragment/11164476-562c-53ed-946c-269a164e9014",
+  "adjective": "peculiarly fetid"
+}

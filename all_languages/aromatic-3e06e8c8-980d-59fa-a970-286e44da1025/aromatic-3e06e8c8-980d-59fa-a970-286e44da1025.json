@@ -1,0 +1,361 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/3e06e8c8-980d-59fa-a970-286e44da1025",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "aromatic",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/102067de-9102-5eeb-b483-e134af25ec9d",
+        "value": "P .( Physiologically Standardised , Wellcome Physiological Research Laboratories ) CONCENTRATED TINCTURES â   WELLCOMEâ   brand â   Wellcome â   Brand Concentrated Tinctures are prepared from picked drugs by a special process which retains the full therapeutic value , whilst the aroma of the diluted preparations is equal to that of tinctures prepared by the usual methods .They are specially suitable for dispensing , and their diminished bulk renders them convenient and economical for transport and storage .",
+        "words": [
+          "aroma",
+          "of the diluted preparations",
+          "of tinctures"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/15e6366a-5c42-520f-a5d3-d1f9f38671ac",
+        "value": "Measurements : 6A X 3J X 2 in .Contains â   Tabloidâ   Bandages and Dressings , â   Vaporoleâ   Aromatic Ammonia , for use as â   Smelling Salts , â   Borofax , Carron oil gauze , jaconet , plaster , protective skin , camel - hair brush , pins , etc .With webbing strap for attaching to belt or cycle .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "Salts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/1604c7ae-bfcd-53b1-acc8-d26a8c17bb0e",
+        "value": "Antient Egyptians Embalming a Body The early Ethiopians used a diaphanous resin to preserve the bodies of their dead from putrefaction , whilst the Persians enveloped theirs in wax .From a recent investigation carried out at the Government School of Medicine in Cairo , it is stated Recent on scientific evidence , that the early Egyptians light on simply pickled the bodies of their dead in methods of brine , and that the various aromatic balsams embalming j i , ., and resins employed , were mainly accessories to the process .",
+        "words": [
+          "aromatic",
+          "various",
+          "balsams",
+          "in Cairo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/188f169b-b44d-5db8-8ece-070f7882975a",
+        "value": "Wounds recently received , when they are washed with aqua ardenti , heal most speedily , because the liquid cleanses and dries and also removes any harmful combination introduced from the air .â   A very general belief prevailed in mediasval times in the preventive and antiseptic powers of certain plants possessing powerful odours .The fresh or dried plants were exposed so that their odours were diffused in the air , or they were burnt in such a way that the smoke pervaded the atmosphere , a practice Antise P tic * .",
+        "words": [
+          "powerful",
+          "odours",
+          "certain plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/1b78f067-8cc2-5e65-a12d-757a99b58860",
+        "value": "â   Tabloidâ   Brand Pocket First - Aid ( Registered ) Measurements : 3A X 3 X J in .Contains bandage , boric gauze , Carron oil gauze , â   Vaporoleâ   Aromatic Ammonia , for use as â   Smelling Salts , \" adhesive plaster , court plaster , jaconet , pins , and 1 card of contents , etc .In aluminium , complete .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "pins",
+          "Salts",
+          "adhesive",
+          "jaconet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/1df26ac1-2d42-5344-a913-be8759f7c29b",
+        "value": "â   Sage and salt , baked into cakes and powdered , formed a tooth pow der .A sixteenth - century preventive of plague w r as a sponge dipped into vinegar and rose - water , or vinegar in which wormwood and rue had been boiled ; the sponge was to be â   smelled often .â   Later still , pomanders were made containing cinnamon , cloves , amber , nutmegs , storax , chamomile , juniper and red roses , beaten together to make a powder which w ^ as then made into a mass with rose - water .",
+        "words": [
+          "wormwood",
+          "smelled",
+          "sponge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/2018856e-43bc-523f-8972-4eca4e7f726b",
+        "value": "properties which was but recently maintained by the of plants strewing of fragrant herbs in the dock on the first day of the opening of the Criminal Sessions at the Old Bailey .Occasionally , also , preparations of the plants were taken internally as medicines , whilst the dried herbs were frequently made up into â   poman - ders , â   or scent balls , to be carried about the person , or small scent - bottles were filled with the powdered herbs .Arnauld de Villeneuve Physician and Alchymist Born about 1240 .",
+        "words": [
+          "scent",
+          "bottles",
+          "the powdered herbs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/21165170-1d0e-5f00-a7b9-bd9c8daa64ae",
+        "value": "1 - 1 / 2 Apomorphine Hydrochloride , gr - 1 / 50 Apomorphine Hydrochloride , 0 - 0025 g m Apomorphine Hydrochloride , and Morphine Hydro - chloride , of each 0 - 0025 gm .1 to 4 Aromatic Chalk Powder with Opium , B .P .",
+        "words": [
+          "Aromatic",
+          "with Opium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/24d8aef3-e831-56ac-b46d-8e5b7498b0e7",
+        "value": ") ( glass capsules ) , boxes of 12 1 ( by injec - tion ) 1 ( by injec - tion ) * 1 ( by injec - tion ) 1 ( by injec - tion ) 1 ( by inhala - tion ) , , Aromatic Ammonia ( glass capsules ) , en - closed in silken sacs , boxes of 12 .For use as â   â   Smelling Salts â   1 ( by inhala - tion ) Various other products issued under the â   Vaporole â   brand â   Vaporoleâ   Brand Ammonium Chloride Inhaler Delivers perfectly neutral fumes of pure ammonium chloride .A model of compactness , convenience and utility .",
+        "words": [
+          "Smelling",
+          "fumes",
+          "Salts",
+          "perfectly neutral",
+          "of pure ammonium chloride"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/28e0a812-d7a8-51fb-90e6-7f98917110f2",
+        "value": "Measurements : 6Â £ x 3 ^ X2 in .Contains seven tubes of â   Tabloid â   and â   Soloid â   Brand products , â   Vaporole â   Aromatic Ammonia , for use as â   Smelling Salts , â   â   Borofax , â   Carron oil gauze and jaconet , castor oil , â   Tabloid ' Bandages and Dressings , plaster , protective skin , scissors , pins , etc ., etc .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "Salts",
+          "Borofax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/2d0895b2-6bef-5454-a9d8-7e3daac1e39f",
+        "value": "REMEMBER THE TRADE MARKS 235 TKS * VALO I D â   brand PRODUCTS The word ' Valoid ' is a brand which designates fine products issued by Burroughs Wellcome & Co .â   VALOIDâ   BRAND â   , , Aromatic Cascara Sagrada , bottles con - dose taining 4 fl .oz .",
+        "words": [
+          "Aromatic",
+          "Cascara Sagrada"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/2ec9690f-77a3-58bf-bdae-7103fd4d196f",
+        "value": "Measure - ments : 7 X 5 } X 2J in .Contains eight tubes of â   Tabloid â   and â   Soloid ' Brand products , â   Vaporole â   Aromatic Ammonia , for use as â   Smelling Salts , â   â   Borofax , â   â   Hazeline â   Cream , sal volatile , Carron oil gauze , â   Tabloid â   Bandages and Dressings , tourniquet , jaconet , plaster , protective shin , scissors , pins , etc ., etc .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "Salts",
+          "Borofax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/2ed70aca-4c8d-5274-af0e-75f72a938202",
+        "value": "Measurements : 7 ! X 4J X 2 in .Con - tains eight tubes of â   Tabloidâ   and â   Soloid â   Brand pro - ducts , â   Vaporole Aromatic Ammonia , for use as â   Smelling Salts , \" â   Boi > fax , â   sal volatile , Carron oil , â   Tabloidâ   Bandages and Dressings , jaconet , plaster , pro - tective skin , scissors , â   Tabloidâ   Brand First - Aid pins , etc .( See also page 1 44 ) No .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "Salts",
+          "Vaporole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/316263f3-01f9-56f4-bd49-06618e4daac1",
+        "value": "Ambroise Pare records that a great number of dead having been thrown , in 1562 , into a deep well , there arose , two months after , contagious and offensive fumes , which spread in the country and round about , and many districts were infected with plague .What is said of putrefied bodies can also be applied to noxious mineral or vegetable matter , and it is easily understood how air which has thus become changed , can become in us a cause of putrefaction , by causing a putrid fermentation which infects all the liquids in our bodies .â   Following on the simple lines suggested by Pibrac , in 1780 , Hevin , writing on the treatment of wounds , states : â   For ordinary wounds it is only necessary to foment the parts from time to time with lukewarm water , vulnerary water , or brandy distilled with two - thirds of ordinary water .",
+        "words": [
+          "putrid",
+          "mineral",
+          "noxious",
+          "bodies",
+          "vegetable matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/35ad9149-761e-5f75-bb34-ca18ea263319",
+        "value": ", in that it is non - toxic , inodourous as well as antiseptic .Whilst not possessing the power to deodorise foul - smelling pus it prevents putrefaction .Clinical experience confirms that it can be left in situ for a week if desirable , and on removal will be found â   sweet â   and odourless .",
+        "words": [
+          "smelling",
+          "pus",
+          "foul - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/360d46c6-5055-5c4f-8b4c-c9bdae2940f0",
+        "value": "Measurements : 61 X 4 } X 2 in .Contains seven tubes of â   Tabloid â   and â   Soloid â   Brand products , â   Vaporole Aromatic Ammonia , for use as â   Smelling Salts , â   â   Borofax , â   Catron oil gauze and jaconet , Castor oil , â   Tabloid â   Bandages and Dressings , plaster , protective skin , scissors pins , etc ., etc .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "Salts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/45a8e60f-918d-5fc4-aa3e-30b490ba8824",
+        "value": "Sushruta , the Hindu father of surgery , in one of his works , advises that certain incense of â   .Early aromatic drugs should be kept burning in Hindu the room in which an operation is being performed , with the presumed object of purifying the air .Sthenelus dressing the wound of Diomedes Greek Army Surgeon dressing the wound of a Soldier THE EVOLUTION OF ANTISEPTIC SURGERY 25 CHAPTER III Antiseptic Methods in the Grecian and Roman Periods Coming to the Grecian period and the methods the Greeks employed in the treatment of wounds , Virgil describes how Diana , moved with pity at the r J Antiseptics sight of the sufferings of the son of Theseus , in Greek who was torn by his own horses , healed his mylhology wounds by the aid of certain medicinal plants .",
+        "words": [
+          "aromatic",
+          "drugs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/5c6f353c-e47c-5130-8e9e-6d303504bf59",
+        "value": "gr .1 Retains the full therapeutic activity of the Valerianates , whilst concealing their un - pleasant odour ., , Thymol , gr .",
+        "words": [
+          "odour",
+          "their",
+          "un - pleasant",
+          "the Valerianates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/754e0569-ee61-5bae-b91c-e9a48c733485",
+        "value": "Needhamâ   s experiments were followed by Spallanzani , who argued that in the formerâ   s experiments , the temperature used was not sufficiently high to destroy the vital properties of the germs , and that to suppress all production of infusoria , it was necessary to maintain a boiling temperature for three - quarters of an hour .Sweet - smelling plants , such as woodruffe , were re - commended for medicinal purposes by Linnaeus , in his Philosophia Dotanica , in 1751 , where it is stated that such plants not only drive away moths and other destructive vermin , but also â   when chewed , preserve people from infectious disorders .â   In recent years , Klein has pointed out that some plants , owing to their strong odours , have a certain amount of antiseptic power .",
+        "words": [
+          "smelling",
+          "plants",
+          "Sweet - smelling",
+          "woodruffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/7b44550c-5a71-5431-9cbf-0855a70bc0e7",
+        "value": "Arnauld de Villeneuve Physician and Alchymist Born about 1240 .Died 1313 THE EVOLUTION OF ANTISEPTIC SURGERY 37 A fourteenth century â   drynke for the pestilence â   con - tained fever - few , mugwort , maythe ( stinking mayweed ) , and other strong - smelling plants mixed with old ale .The writer of the book , in which the recipe appears , quaintly states that , â   gif the seke drynke VI sponful at ones , it schal distroye the cornpcion , and cauen the man or wumman , whethin it be .",
+        "words": [
+          "mugwort",
+          "smelling",
+          "stinking",
+          "plants",
+          "strong - smelling",
+          "mayweed",
+          "maythe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/8babaf82-333c-5139-bfa4-7629739ba61d",
+        "value": "Opio , Pulv .( see Aromatic Chalk , page 191 ; , , Cubeb and Belladonna , Effer - vescent R Pulv .Cubebae .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/8c6771ab-8859-53bd-9567-304b2fd49135",
+        "value": "â   A very general belief prevailed in mediasval times in the preventive and antiseptic powers of certain plants possessing powerful odours .The fresh or dried plants were exposed so that their odours were diffused in the air , or they were burnt in such a way that the smoke pervaded the atmosphere , a practice Antise P tic * ..",
+        "words": [
+          "in the air",
+          "odours",
+          "their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/8cec66c4-1075-53a8-a55f-b600ea720d21",
+        "value": "c .) ( glass capsules ) , boxes of 12 1 ( by injec - tion ) 1 ( by injec - tion ) * 1 ( by injec - tion ) 1 ( by injec - tion ) 1 ( by inhala - tion ) , , Aromatic Ammonia ( glass capsules ) , en - closed in silken sacs , boxes of 12 .For use as â   â   Smelling Salts â   1 ( by inhala - tion ) Various other products issued under the â   Vaporole â   brand â   Vaporoleâ   Brand Ammonium Chloride Inhaler Delivers perfectly neutral fumes of pure ammonium chloride .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "glass"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/8d1ea81b-8f0f-50d1-81d8-2dfc18ea573e",
+        "value": "Sweet - smelling plants , such as woodruffe , were re - commended for medicinal purposes by Linnaeus , in his Philosophia Dotanica , in 1751 , where it is stated that such plants not only drive away moths and other destructive vermin , but also â   when chewed , preserve people from infectious disorders .â   In recent years , Klein has pointed out that some plants , owing to their strong odours , have a certain amount of antiseptic power .The experiments of Omeltschenko have con - firmed the view that the vapours of essential oils also exercise a bactericidal action .",
+        "words": [
+          "strong",
+          "odours",
+          "their",
+          "some plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/8f967cd1-23b1-52b0-876f-8fe4b3412bd3",
+        "value": "c .) For prices , see separate list â    2 < jâ   2 â   WELLCOME â   BRAND PRODUCTS â   Wellcomeâ   Brand Products â   continued â   WELLCOME â   BRAND â   , , Cascara Sagrada , Aromatic Liquid Extract of This preparation is made by a special process , is palatable and aromatic , and possesses the full activity of the official liquid extract , but contains less inert extractive .It may be diluted with water without precipitating , and it does not deposit on keeping .",
+        "words": [
+          "Aromatic",
+          "aromatic",
+          "Cascara",
+          "BRAND"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/96374a55-23b8-5a1e-b2bd-c82b3a5800c3",
+        "value": "After a battle , buried corpses have often given rise to epidemics .Ambroise Pare records that a great number of dead having been thrown , in 1562 , into a deep well , there arose , two months after , contagious and offensive fumes , which spread in the country and round about , and many districts were infected with plague .What is said of putrefied bodies can also be applied to noxious mineral or vegetable matter , and it is easily understood how air which has thus become changed , can become in us a cause of putrefaction , by causing a putrid fermentation which infects all the liquids in our bodies .",
+        "words": [
+          "offensive",
+          "fumes",
+          "many",
+          "contagious",
+          "in the country",
+          "two months",
+          "in 1562"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/bd198ea7-43ec-5b75-a426-4a988e64360f",
+        "value": ", and 16 oz .â   Opaâ   Liquid Dentifrice ( formerly known as â   Salooentâ   , ) ( Trade Mark ) Aromatic , Antiseptic , Refreshing .Bottles containing 2 fl .",
+        "words": [
+          "Aromatic",
+          "Refreshing",
+          "Antiseptic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/c1b9f11f-d323-557b-8a92-74a0c500559e",
+        "value": "Measure - ments : 6J X 3 } x 2 in .Contains â   Tabloid â   Bandages and Dressings , Vaporole â   Aromatic Ammonia , for use as â   Smelling Salts , â   â   Boro - fax , â   Carron oil gauze , jaconet , plaster , protec - tive skin , camel - hair brush , pins , etc ., and two tubes of â   Tabloid â   and â   Soloid Brand products .",
+        "words": [
+          "Aromatic",
+          "Ammonia",
+          "Smelling",
+          "Salts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/d8adc471-c211-5cf4-9fe2-c6b3b6b51384",
+        "value": "â   â  ¢ â  ¢ formulary _ OF FINE PRODUCTS ISSUED BY Burroughs Wellcome & Co .i Alaxa Aromatic Liqueur of Cascara Sagrada dose ( Trade Mark ) An aromatic liqueur which presents the tonic One - half to laxative properties of cascara sagrada in a two teaspoon - pleasant and acceptable condition .fuls .",
+        "words": [
+          "Aromatic",
+          "Liqueur",
+          "liqueur",
+          "aromatic",
+          "cascara"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/e0835f9f-429c-5fab-82f4-a7db16866359",
+        "value": ", Extract of ( Ergotin ) ( Made from ergot physiologically tested in the Wellcotne Physiological Research Laboratories ) The ergot is carefully hand - picked and freed from all foreign matter .The extract has a pure characteristic odour , and is free from the objectionable properties sometimes imparted by excessive heat .Dose â   gr .",
+        "words": [
+          "odour",
+          "pure characteristic",
+          "The extract"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/f4f33185-2242-5e5f-bcd6-f20e9156b4a4",
+        "value": "( See also page 237 ) AxMaaj Xkr \\ hKr ' \\ t < A .L uSâ   â   ALAXA â   brand Aromatic Liqueur of Cascara Sagrada An elegant and palatable laxative liqueur , scientifi - cally prepared from carefully selected and fully matured bark of the true cascara sagrada .Its attractive appearance and pleasant flavour and aroma entitle it to be classed as a liqueur .",
+        "words": [
+          "Aromatic",
+          "liqueur",
+          "Liqueur of Cascara Sagrada",
+          "true cascara sagrada"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/f55baf1a-cc33-5228-adba-e94f17b9ff74",
+        "value": "meth < xisÂ ° f t â  ¢ 11 , , embalming finally , the body was washed with oil of cedar and natron .Another method of embalming , practised by the Egyptians , was carried out as follows : the brain and intestines were first removed , after which the abdomen was washed clean with palm wine and then filled with myrrh , cassia and other aromatic gums and gum resins .The body was then soaked for seventy days in a solution of natron , and was finally bandaged with gummed linen or cloth .",
+        "words": [
+          "aromatic",
+          "gum",
+          "cassia",
+          "gums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/fcf99278-17a1-525d-9f24-ced08b5276b5",
+        "value": "L uSâ   â   ALAXA â   brand Aromatic Liqueur of Cascara Sagrada An elegant and palatable laxative liqueur , scientifi - cally prepared from carefully selected and fully matured bark of the true cascara sagrada .Its attractive appearance and pleasant flavour and aroma entitle it to be classed as a liqueur .The tonic laxative action possessed by â   Alaxa â   enables it to take the place of the after - dinner pill .",
+        "words": [
+          "liqueur",
+          "aroma",
+          "pleasant",
+          "Its"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/fbfcb27e-8a42-5378-b11c-cfde5b8fe12d",
+        "label": "Burroughs Wellcome and Company. n 80146293"
+      }
+    ],
+    "label": "The evolution of antiseptic surgery : an historical sketch of the use of antiseptics from the earliest times : lecture memoranda, British Medical Association, London, 1910",
+    "url": "http://archive.org/details/b24855613",
+    "date": "1910",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/08d78d7b-da9b-5eb6-adb7-ed731b7b0357",
+      "label": "1910",
+      "begin": "1910",
+      "end": "1910"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/f5c610c3-600a-5117-b367-6822a9bb27ce/fragment/1604c7ae-bfcd-53b1-acc8-d26a8c17bb0e"
+}

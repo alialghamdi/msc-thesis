@@ -1,0 +1,516 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/048c9fd9-83a4-5f5c-8d88-24ff14a21db4",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfumé",
+    "embaumé"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/032f45ca-5b9d-53b9-b96e-58263f5d6471",
+        "value": "Mère , plus de sanglots ! Courage ! disait Jean , si notre Dieu succombe , C ' est pour paraître , un jour , plus grand , plus glorieux ; O ma Mère , ton Fils n ' est pas fait pour la tombe ; Mais il doit , en vainqueur , monter un jour aux cieux ! » IV On avait descendu le flanc raide et stérile Du mont du Golgotha , parsemé d ' ossements ; Puis prenant un sentier , à l ' ouest de la ville , Dans le val du Hinnon on marcha quelque temps .En face se dressait , splendide de verdure , Ombragé de palmiers et parfumé de fleurs , Le plateau de Sion , qu ' une riche nature Ornait , en ce temps - là , de toutes les splendeurs .Sur les flancs de ce mont , au milieu du feuillage Des touffus aloès et des verts caroubiers .",
+        "words": [
+          "parfumé",
+          "fleurs",
+          "plateau de Sion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/107d4fc8-789a-52d3-ba2d-f2a0dd0795e3",
+        "value": "Elles seront fières , si leur langage fait naître un sentiment d ' amour envers Notre - Seigneur Jésus - Christ .Daignent le Sacré - Coeur de Jésus et la Vierge immaculée , qui ont vu ces fleurettes déposées sur leurs autels , les vivifier de leur amour et de leur tendresse ! Et parfumées ainsi , qu ' elles aillent faire un peu de bien ! C ' est la seule gloire que je désire .Monastère de Notre - Dame de Beauchêne , en la fête de la Nativité de la Vierge immaculée , 8 septembre 1895 .",
+        "words": [
+          "parfumées",
+          "fleurettes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/19326082-b5f2-5e0d-b9b4-55040dbe56ca",
+        "value": "De toutes parts des fleurs Rouges , jaunes et blanches , De leurs fraîches couleurs Ornaient les vieilles branches .Dans leur rapide essor , Les essaims des abeilles Butinaient les fleurs d ' or Et les roses vermeilles , Là - bas , en Orient , Où le Seigneur déploye Un ciel toujours riant , Où le bonheur ondoie , Sur la plaine et le mont , En vague parfumée , Du Carmel à l ' Hermon , Et d ' Acre à l ' Idumée , Trois voyageurs lassés , Joseph , Jésus , Marie , Après sept ans passés , Revoyaient leur patrie .L ' exil était fini Et partant la souffrance .",
+        "words": [
+          "parfumée",
+          "roses",
+          "mont",
+          "Orient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/1a4b76c1-b80f-5d9f-8cbc-d5849b9b9f46",
+        "value": "Et Jean devint bientôt , de Jésus le bon Maître , De Jésus que son coeur venait de reconnaître , L ' apôtre bien - aimé .Car Jésus savait bien que cette âme était pure , Il savait que le coeur de Jean , sa créature , Était tout parfumé .Et Jean , de plus en plus captivé de tendresse Pour son maître chéri , le regardait sans cesse , Ne le quittant jamais .",
+        "words": [
+          "parfumé",
+          "coeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/1ef27149-abe5-5029-a319-56114ae7fcee",
+        "value": ".De ses longs cheveux d ' or les tresses odorantes Retombent jusqu ' au sol ..",
+        "words": [
+          "odorantes",
+          "tresses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/223c4f90-91dc-5616-bfca-4234fbffa271",
+        "value": ".Alors , dans la nature Tout était embaumé D ' amour et de verdure .De toutes parts des fleurs Rouges , jaunes et blanches , De leurs fraîches couleurs Ornaient les vieilles branches .",
+        "words": [
+          "embaumé",
+          "amour",
+          "verdure",
+          "nature"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/2351be53-6ed8-5f99-b05c-5ba68406f8ae",
+        "value": "» Radégonde s ' arrête , Et scrutant l ' horizon Elle incline sa tête Dans le fond d ' un sillon .Et l ' avoine semée Grandit , grandit soudain , Epaisse et parfumée Et pleine de bon grain .La brise la caresse Bien doucement , ce soir ; Elle monte et s ' abaisse Comme un pur encensoir .",
+        "words": [
+          "parfumée",
+          "avoine",
+          "bon grain",
+          "Epaisse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/2516e812-c30e-51e9-8dd3-10909eb36403",
+        "value": ") Quand Jean , le petit Jean , le fils de Zacharie , D ' Élisabeth , Vint voir le bel enfant de la Vierge Marie A Nazareth , Déjà quatre printemps , sur l ' aile de la brise .Avaient jeté L ' arôme des cactus , les parfums du cytise Et leur beauté .Et Jean , le petit Jean , sur son mignon visage , Avait des fleurs Les grâces , les attraits , le suave langage Et les couleurs .",
+        "words": [
+          "parfums",
+          "cactus",
+          "arôme",
+          "cytise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/292d39a6-097b-52e4-8d36-7bb1aaa2df02",
+        "value": "Mère , salve ! salve ! ( Dulcedo .) En toi tout est suave , ô fontaine scellée , O cinname odorant , Epouse immaculée , Tes charmes et ton nom sont plus doux que le miel , C ' est le calme enivrant et le repos du ciel ..",
+        "words": [
+          "odorant",
+          "enivrant",
+          "fontaine",
+          "cinname"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/299155b0-b39e-5e5a-b663-abb09b4f8b5c",
+        "value": "» Et sur l ' ordre du saint , de verdure et de fleurs Tout le temple est orné .Sur les autels , les cierges Aux voûtes font monter leurs suaves odeurs .De tout petits enfants , des choeurs de blanches vierges , Sont là pour acclamer le prince élu de Dieu .",
+        "words": [
+          "suaves",
+          "leurs",
+          "odeurs",
+          "autels",
+          "cierges",
+          "voûtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/2b8ece72-286d-5288-92b9-375ab1c1c84d",
+        "value": "Pendant mes heures solitaires , au sein du Bocage vendéen , je recueillis mes modestes poésies , fleurettes éparpillées à tous les points de l ' horizon , et je les ai rassemblées dans une humble gerbe , que j ' offre aux âmes qui ont été bonnes pour moi .Ces humbles fleurs de nos prés et de nos champs , dont le calice s ' est entrouvert sous la verdure de nos buissons , ne recherchent pas les vases en cristal et les consoles en palissandre des riches demeures , mais elles seront heureuses de laisser évaporer leurs parfums de campagne , au pied de la statuette ou sur la table en bois blanc , dans les pauvres cellules des âmes religieuses .Elles auront réjouissance d ' être regardées et odorées par les blanches âmes des enfants .",
+        "words": [
+          "parfums",
+          "humbles fleurs",
+          "évaporer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/34e58ed0-ae30-54b2-b42a-028f8e1e16c8",
+        "value": "Et la Vierge étendit sa caressante main En signe de tendresse , Et le lis , c ' était lui , se redressa soudain , Frémissant d ' allégresse .Le saint Enfant Jésus , respirant son odeur Suave et parfumée , De ma maman , dit - il , chaste et gentille fleur , Oh ! sois la bien - aimée ! La Vierge la cueillit et plaça sur son coeur La fleurette chérie ..",
+        "words": [
+          "Suave",
+          "parfumée",
+          "odeur",
+          "son",
+          "saint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/3b36a1a1-4a5e-53e8-85b8-83e436001cb6",
+        "value": "Notre ame ainsi gémit du fond de sa tristesse , Quand , accablé d ' ennuis , son regard s ' est levé Pour t ' adresser ces mots : Mère , salve ! salve ! ( Et flentes in hac lacrymarum valle .) Dans l ' Eden tout fleuri , parfumé d ' espérance , Quand sur l ' homme confus , brisé de repentance , Tomba celte sentence horrible : Tu mourras ! On entendit aussi ces mots : Tu pleureras ! C ' est vrai : dans cet exil , au milieu des alarmes , Nos yeux ne sont - ils pas toujours voilés de larmes ? ..",
+        "words": [
+          "parfumé",
+          "Eden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/3bb3a7d9-c176-5f20-baa4-1b5d30f65dbf",
+        "value": ".Je te cède l ' honneur A toi , Vierge cachée ! Violette du ciel , la plus belle des fleurs , A toi tous mes baisers , c ' est toi la Souveraine ! A toi tous mes parfums et mes vives couleurs ! C ' est toi , c ' est toi la Reine ! Et dans les champs , les prés et sur le bord des bois Une voix s ' entendit , voix douce et parfumée ..",
+        "words": [
+          "Violette",
+          "douce",
+          "parfumée",
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/3ceda999-b9ce-507a-a06f-e26a1a5c07f2",
+        "value": ".Les suaves odeurs du lis et de la rose , Qui parfument la couche où la Vierge repose Avec sa pureté .Elle est morte ! .",
+        "words": [
+          "suaves",
+          "rose",
+          "odeurs",
+          "lis",
+          "parfument",
+          "Qui"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/3e65f062-52e1-5299-88c4-f44238f2abc8",
+        "value": "Et de toutes ces fleurs les lèvres empourprées Laissaient monter au ciel le parfum le plus pur , Ainsi qu ' aux jours bénis , sous les voûtes sacrées , On voit monter l ' encens en spirales d ' azur .Leurs suaves odeurs imprégnaient l ' atmosphère , Et de blonds chérubins descendant du ciel bleu Dans leurs encensoirs d ' or recueillaient sur la terre Cette haleine des fleurs pour la porter à Dieu .La rose , dit Jésus , en caressant sa mère , La rose doit fleurir au céleste séjour ; Tout en elle , vois - tu , tout en elle est mystère , Elle est comme le coeur l ' emblème de l ' amour .",
+        "words": [
+          "suaves",
+          "fleurs",
+          "atmosphère",
+          "haleine",
+          "odeurs",
+          "Leurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/46bed478-3bed-51de-b945-9a0d86efc2a1",
+        "value": "Sa lente mélodie , Qui s ' entend chaque soir , Supplie , Pleine d ' amour , d ' espoir .Le parfum de la rose Au milieu du satin Eclose Monte à Dieu , le matin .Sur le treillis aride , La grappe au teint vermeil , Avide , Aspire le soleil .",
+        "words": [
+          "parfum",
+          "rose",
+          "le matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/5092b540-79ae-5489-92c7-eeb81b9d59b9",
+        "value": "Le ciel applaudissait , Et les oiseaux joyeux donnaient leurs chansonnettes ; La Vierge vit au bord du ruisseau qui passait , De gentes violettes .Salut , petite fleur , ô fleur d ' humilité , Dit la Vierge abaissant son beau regard limpide ; Ton parfum te trahit par sa suavité ..",
+        "words": [
+          "parfum",
+          "Ton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/50de6d4b-f25c-5647-bf5f-0a56f14a0c2a",
+        "value": ".Elle était jeune et belle , et sa taille élancée Était celle du cèdre aux rameaux odorants , Sous d ' épais cheveux blonds sa tempe était pressée , Elle était noble et riche ..",
+        "words": [
+          "odorants",
+          "cèdre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/534ab854-433d-5897-a4bd-0e512fa97584",
+        "value": "Dans la ville elle était connue comme pécheresse .Elle apporta un vase de parfums et elle oignit les pieds de Jésus .( Évangile .",
+        "words": [
+          "parfums",
+          "vase"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/61d51fa5-75c7-5982-92d7-4121c8533c5b",
+        "value": ".Et dans Jérusalem tous ces coeurs attristés ? Qui donc prit à l ' oiseau sa note triomphante ? A la fleur , son parfum , son sourire ? ..",
+        "words": [
+          "Jérusalem",
+          "parfum",
+          "fleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/66e198a0-0faa-5fa2-bd0e-4263a20f20ae",
+        "value": "Toutes disant gaiment jusqu ' à la primevère : Merci de vos regards sur les petites fleurs .Et les fleurs souriaient au fils , puis à la mère , Offrant naïvement et parfums et couleurs .III Le petit âne , lui , marchait , marchait sans cesse , La sueur à longs flots coulait sur son poil blanc .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/681a9538-2848-5b7c-a090-7b9a5fdd40ff",
+        "value": ".Les oiseaux étonnés , de leurs voix délirantes Se mirent à chanter , Mais aucun d ' eux pourtant aux dattes odorantes N ' accourut becqueter .Courbe - toi , dit la Vierge ( alors d ' une auréole Son front était paré ) ; Le verdoyant palmier comprit cette parole Et cet ordre sacré .",
+        "words": [
+          "odorantes",
+          "oiseaux",
+          "dattes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/6ee30d77-99a6-56f1-b2f4-8012cbb95803",
+        "value": "Les anges recueillis Accompagnaient ses pas et lui faisaient cortège ; Elle aperçut soudain un majestueux lis Plus blanc que de la neige .Salut , ô chaste fleur ! dit la Vierge aux cils d ' or , J ' admire tes parfums et ta blanche parure ; J ' aime ton blanc calice où l ' abeille s ' endort .Salut , ô fleur très pure ! Et le lis répondit : Vierge , la chasteté , C ' est toi , Mère du Christ , colombe toute belle ! En toi tout est candeur ; la céleste beauté N ' a point de tache en elle .",
+        "words": [
+          "parfums",
+          "tes",
+          "J"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/6ffae34b-54ed-5bd3-8464-f8dec6cc4418",
+        "value": ".Il lui parlait des roses , Il l ' appelait le lis éclatant de blancheur , Lui donnait sa prière et l ' amour de son coeur ; Il disait que Jésus est roi de la nature , Qu ' il a droit aux parfums , aux fleurs , à la verdure , Que tout doit le bénir et chanter ses bienfaits , Qu ' il est la Providence et le Dieu de la paix .Puis il invitait l ' homme à venir reconnaître Le Jésus de l ' autel pour son souverain maître .",
+        "words": [
+          "roses",
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/7400c072-0bb8-5f8c-be95-3021d9b18192",
+        "value": "Puis il dit : Cette rose Est belle , mais je sais rose plus belle encor .O rose du Carmel ! chaste rose mystique ! O suave parfum pour le coeur de ton Roi ! C ' est moi qui l ' ai chantée aux versets du Cantique ! O mère , cette fleur , cette rose , c ' est toi ! Et Jésus étreignit cette rose fleurie , Déposa sur son front le baiser le plus doux ..",
+        "words": [
+          "suave",
+          "parfum",
+          "fleur",
+          "rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/81683840-0d6e-55c9-a9e3-f0ebfc9d3c04",
+        "value": "Un palmier , qui croissait sur des rochers moussus , Leur fournit son ombrage , Et des fruits savoureux , quand apparut Jésus , Ornèrent son feuillage .Au milieu des cactus , un ruisseau parfumé Donnait son onde claire Et maintenant encor , ce séjour embaumé Se voit non loin du Caire .Joseph , tout souriant et bénissant les cieux , Descendit de monture La mère et son enfant , son enfant aux doux yeux , Près de la source pure .",
+        "words": [
+          "parfumé",
+          "ruisseau",
+          "embaumé",
+          "onde",
+          "séjour",
+          "Caire",
+          "Au milieu des cactus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/9212cff7-2a71-5ad4-b64f-6d14dcf11941",
+        "value": "Et quand mon oeil descend sur les vastes prairies Où la brise soupire et caresse la fleur , J ' entre jusqu ' aux genoux dans les herbes fleuries , L ' allégresse dans l ' âme et l ' amour dans le coeur .Je cause avec mes fleurs , je leur dis des paroles Qu ' on ne dira jamais qu ' à des êtres aimés , J ' admire leurs couleurs , je baise leurs corolles , Leurs feuilles de satin , leurs manteaux parfumés .Aux fleurs des champs ainsi je donne mes tendresses , Nous parlons gravement , nous nous disons des riens , Elles , en me rendant caresses pour caresses , Me livrent leurs secrets , et je livre les miens .",
+        "words": [
+          "corolles",
+          "parfumés",
+          "feuilles",
+          "mes fleurs",
+          "manteaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/96cbf25b-7cfd-594f-a323-c1422261ac73",
+        "value": "On n ' entend pas un mot , Mais parfois les soupirs , les plaintes déchirantes D ' un pauvre coeur brisé , quelquefois un sanglot .Sur les pieds de Jésus que Magdeleine presse , Le doux parfum se mêle aux larmes de ses yeux , Et ces pieds ..",
+        "words": [
+          "doux",
+          "parfum",
+          "Sur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/96d0dd29-86b7-5c05-bd45-b8b15cd4d999",
+        "value": ".C ' était la voix des fleurs qui toutes à la fois Chantaient la Vierge aimée : Vierge de Nazareth , la plus belle des fleurs , A toi tous nos baisers , c ' est toi la Souveraine ! A toi tous nos parfums et nos vives couleurs ! C ' est toi , c ' est toi la Reine ! LÀ VIERGE AU RAISIN Maturce sunt uvoe ejus .Ses raisins sont mûrs .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/9a545f92-3b46-56ee-99c2-3a26620c2d6e",
+        "value": "Et scellez bien sa tombe , Car moi , Dioclétien , Je veux avoir raison de cet homme rebelle , Je veux anéantir la race criminelle De leur Galiléen .» VI Bientôt le saint martyr , succombant sous le glaive , Comme un lis embaumé qu ' à sa tige on enlève , Au ciel monta vainqueur ..",
+        "words": [
+          "embaumé",
+          "lis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/9bcdb872-a069-56d8-93ee-fbd06f8683d7",
+        "value": "Ces humbles fleurs de nos prés et de nos champs , dont le calice s ' est entrouvert sous la verdure de nos buissons , ne recherchent pas les vases en cristal et les consoles en palissandre des riches demeures , mais elles seront heureuses de laisser évaporer leurs parfums de campagne , au pied de la statuette ou sur la table en bois blanc , dans les pauvres cellules des âmes religieuses .Elles auront réjouissance d ' être regardées et odorées par les blanches âmes des enfants .Elles seront fières , si leur langage fait naître un sentiment d ' amour envers Notre - Seigneur Jésus - Christ .",
+        "words": [
+          "odorées",
+          "blanches âmes des enfants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/9e8f9687-0206-51d1-b5c5-ff91e4669944",
+        "value": "et l ' ayant retrouvé , Je chanterai sans fin : Vierge , salve ! salve ! ( O clemens , o pia , o dulcis Virgo Maria .) Douce Vierge , salut ! ô Vierge toute blanche , Vierge aux parfums plus purs que ceux du lis qui penche Aux bords des ruisselets ; Vierge plus belle encor Que tous les saints ensemble avec leur nimbe d ' or , Coupe pleine d ' amour , belle rose mystique , Etoile du matin , Epouse du Cantique , O sublime Idéal , que j ' ai souvent rêvé , O Vierge , viens vers moi ! ..",
+        "words": [
+          "parfums",
+          "rose",
+          "plus purs",
+          "lis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/ab3ece9e-4582-534c-998a-7f58009fcc4f",
+        "value": ".et l ' on voit à l ' entrée Des roses et des lis De suaves parfums saturent l ' atmosphère , Un bonheur inconnu se répand sur la terre , Venant du Paradis .Le ciel s ' ouvre soudain .",
+        "words": [
+          "suaves",
+          "roses",
+          "parfums",
+          "atmosphère",
+          "lis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/b2c77b33-7b31-5f7d-9090-cf2862ef81f9",
+        "value": "Pour offrir les parfums , que d ' habitude on donne Aux convives amis qu ' on réunit chez soi , Simon , dans ta maison , je n ' ai trouvé personne .Cette femme a versé tous ses parfums sur moi : Oh , oui ! je te le dis , Simon , il se peut être Que ce coeur par le crime ait été déformé ; Mais je te le dis bien haut , car moi je suis le Maître , Ses péchés sont remis ..",
+        "words": [
+          "parfums",
+          "ses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/bdc5ff4c-7b39-5c5d-a088-aea7963da754",
+        "value": ") ( Salve .) Douce Vierge , salut ! ô Vierge toute blanche , Vierge , aux parfums plus purs que ceux du lis qui penche Aux bords des ruisselets ; Vierge plus belle encor Que tous les saints ensemble avec leur nimbe d ' or , Coupe pleine d ' amour , belle rose mystique , Etoile du matin , Epouse du Cantique , O sublime idéal que j ' ai souvent rêvé , O Vierge , viens vers moi ! ..",
+        "words": [
+          "parfums",
+          "rose",
+          "ceux",
+          "plus purs",
+          "lis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/bf643dc3-4fc8-5ebc-87ae-a1994d9d1966",
+        "value": "Tous les petits oiseaux chantaient sur leur passage Et les accompagnaient en leur disant bonjour .Les palmiers inclinaient leurs branches verdoyantes Jusqu ' au front de Jésus avec leurs fruits bien mûrs ; Pour donner au Sauveur des dattes odorantes , Les palmiers inclinaient leurs branches verdoyantes .Pour rafraîchir un peu les poitrines brûlantes De ces trois voyageurs si bons , si doux , si purs , Les palmiers inclinaient leurs branches verdoyantes , Jusqu ' au front de Jésus , avec leurs fruits bien mûrs .",
+        "words": [
+          "odorantes",
+          "dattes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/c6138b2c-077e-5dd8-80f9-959d83849e2b",
+        "value": ".Avez - vous entendu ? LÀ VIERGE AUX FLEURS Florete , flores et date odorem .Epanouissez - vous , ô fleurs , et donnez vos parfums .",
+        "words": [
+          "FLEURS",
+          "odorem",
+          "flores",
+          "Florete"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/c8d637ad-bda4-56f9-a0f6-8eca068b7cc2",
+        "value": ") C ' était à Nazareth , dans cette ville aux fleurs , Assise aux flancs d ' un mont ruisselant de verdures , Dans l ' antique Orient , au pays des splendeurs Et des riches parures .C ' était au mois de mai , les palmiers agitaient Leurs feuilles et leurs fruits à la brise odorante ; Au fond des verts bosquets tous les oiseaux chantaient .D ' une voix délirante .",
+        "words": [
+          "odorante",
+          "fruits",
+          "brise",
+          "feuilles",
+          "palmiers",
+          "C",
+          "au mois de mai"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/c9391205-7bb6-50fc-ae46-746e87b0676e",
+        "value": ".De la sainte patrie Nous voulons les parfums , les suaves accents ..",
+        "words": [
+          "suaves",
+          "parfums",
+          "patrie",
+          "accents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/cdcdc558-fced-53a4-9d34-b40bb29c1ac3",
+        "value": "» De leurs lèvres encore une insulte brutale , Un blasphème hideux allait frapper Jésus , Quand une femme entra tout à coup dans la salle , Qui se remplit bientôt d ' un murmure confus .Cette femme portait , dans un vase d ' albâtre , Des parfums précieux d ' une suave odeur ; Elle alla , vacillant comme le feu dans l ' âtre , Se mettre à deux genoux aux pieds de son Sauveur ..",
+        "words": [
+          "suave",
+          "précieux",
+          "odeur",
+          "parfums",
+          "vase"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/d60e037d-de80-5835-95f8-1ec6af0d8402",
+        "value": "Vrais diamants , les gouttes de rosée Font resplendir les feux de l ' arc - en - ciel ; On croirait voir une chaste épousée Devant l ' autel .Son doux parfum plane sur la vallée , Parfum si pur que les anges de feu , A deux genoux et la face voilée , L ' offrent à Dieu .Des monts altiers les neiges éternelles , Les blancs manteaux de nos blanches brebis , N ' auront jamais des splendeurs aussi belles Que ce blanc lis .",
+        "words": [
+          "doux",
+          "parfum",
+          "Son",
+          "Parfum",
+          "vallée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/d96bf01f-27e1-569e-9fc7-d7cc945707ba",
+        "value": "Montraient avec éclat leur front épanoui , Et d ' autres souriaient timidement ouvertes Comme une lèvre pure épelant le mot : oui .Et de toutes ces fleurs les lèvres empourprées Laissaient monter au ciel le parfum le plus pur , Ainsi qu ' aux jours bénis , sous les voûtes sacrées , On voit monter l ' encens en spirales d ' azur .Leurs suaves odeurs imprégnaient l ' atmosphère , Et de blonds chérubins descendant du ciel bleu Dans leurs encensoirs d ' or recueillaient sur la terre Cette haleine des fleurs pour la porter à Dieu .",
+        "words": [
+          "parfum",
+          "encens",
+          "ces fleurs",
+          "le plus pur",
+          "jours bénis",
+          "voûtes sacrées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/ecc88422-bb8b-53a7-a3c8-574b54b7e9cc",
+        "value": "Sa fleur à lui c ' était cette Mère chérie Qui le tenait , pressé bien fort sur ses genoux .Et brûlé d ' un amour qui jamais ne se sèvre , Jésus le bien - aimé , le bon Sauveur Jésus , Aux lèvres de la Vierge approche alors sa lèvre Pour boire les parfums de la fleur des élus .Je crois vous avoir dit le pourquoi de la chose , Je serais très heureux si tout ce que j ' ai fait Vous montre clairement que la Vierge à la rose Rappelle une légende .",
+        "words": [
+          "parfums",
+          "fleur des élus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/ed310294-3a97-5a90-9d9d-9369e19613f7",
+        "value": "Et la brise arrivait à travers le feuillage , Pour calmer du soleil les longs rayons de feu .Et les fleurs souriaient au fils , puis à la mère , Offrant naïvement et parfums et couleurs , Et la mère et le fils baissaient leurs yeux à terre , Et les fleurs souriaient au fils , puis à la mère .Toutes disant gaiment jusqu ' à la primevère : Merci de vos regards sur les petites fleurs .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/f08f2261-6974-5847-961e-c56b6f687938",
+        "value": "Avez - vous entendu ? LÀ VIERGE AUX FLEURS Florete , flores et date odorem .Epanouissez - vous , ô fleurs , et donnez vos parfums .( Ecclésiastique , ch .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/fda7346c-04ba-5324-a170-75d84f78a102",
+        "value": ".C ' est la fille de Dieu , l ' Epouse bien - aimée , De l ' Esprit du Très - Haut la toute parfumée , La Mère de Jésus ! Gloire ! gloire à jamais à son front qui rayonne ! Gloire à son sceptre d ' or et gloire à sa couronne ! Et gloire à son grand coeur ! Prosternés à ses pieds , nous saluons en elle La pureté sans tache et l ' oeuvre la plus belle De notre Créateur ! ..",
+        "words": [
+          "parfumée",
+          "nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/fddf30aa-1f18-567a-a040-570de704c01a",
+        "value": "Mère , compte sur moi .Mais après cet exil , là - haut dans la patrie , Tes mains me remettront , ô ma Vierge fleurie , Ton Jésus odorant ..",
+        "words": [
+          "odorant",
+          "Jésus",
+          "après cet exil"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4913bf68-57a1-5ac0-9978-82c80d37dbb4",
+        "label": "Joseph (chanoine régulier de Latran Roux"
+      }
+    ],
+    "label": "Fleurettes du Bocage vendéen. [Première (-seconde) gerbe.]. Vol. 1 / Dom Joseph Roux,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k373572t",
+    "date": "1895/1897",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/626",
+      "label": "Shrub"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/2857cb99-2076-5f06-8745-95166c70a77d",
+      "label": "1895/1897",
+      "begin": "1895",
+      "end": "1897"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "https://sws.geonames.org/3730465/",
+      "label": "Beau Séjour"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/6878c8f5-d7fa-5b76-834c-28d2a22c267c",
+      "label": "Au milieu des cactus"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6712d162-6ec3-5f19-b02f-d72d6c6b9bc4/fragment/81683840-0d6e-55c9-a9e3-f0ebfc9d3c04",
+  "license": "Public domain",
+  "adjective": [
+    "parfumé",
+    "embaumé"
+  ]
+}

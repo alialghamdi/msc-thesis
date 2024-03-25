@@ -1,0 +1,87 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/567d279a-15aa-5281-b1f6-4494057bb2d4",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": [
+    "scent",
+    "smells",
+    "Perfumes"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421/fragment/0a8e948f-851a-5a33-83d7-29405c2d149e",
+        "value": "When his lips were tickled , he dreamt that a pitch - plaster was being torn off his face by the old doctor of his childhood .Perfumes brought close to the nostrils induced dreams of pleasant smells , as when he dreamed he was in a conserÂ ¬ vatory , and on one occasion in a well - known scent shop in Cairo .When a drop of water was placed on his forehead , Maury dreamed he was in Italy in hot weather perspiring and drinking wine .",
+        "words": [
+          "scent",
+          "he",
+          "smells",
+          "Perfumes",
+          "pleasant",
+          "in Cairo",
+          "induced dreams of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421/fragment/48bfe58c-9a54-5354-b806-44e3ec0332c4",
+        "value": "Cold feetâ   our own or someone elseâ   sâ   are a familiar cause of sleeplessness .The onset of sleep as due to the with - [ 26 ] SLEEP AND SLEEPLESSNESS drawing of sensations is strikingly shown in a case known as â   StriimpeUâ   s boy This boy , aged sixteen , living in Leipzig , suffered from the following defects : he was insensitive to touch , he had no sense of smell or taste , he had no muscular sense , no sense of pain , and , finally , he was deaf in the right ear and blind in the left eye .When his left ear was stopped up and his right eye bandaged , he fell asleep in two or three minutes .",
+        "words": [
+          "smell",
+          "he",
+          "in Leipzig"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421/fragment/4b61e415-9575-5d88-b6f4-86ec76c4cae7",
+        "value": "In these [ 86 ] THE FUTURE OF SLEEP investigations the specially constructed vertically vibrating mattress will be emÂ ¬ ployed to discover what is the precise reason for the sleep - producing power of this mechanism .When the cause of the sleeplessness is that variety of asthma called â   anaphylactic â   , it is suggested that absolutely dust - free , odour - free air , should be delivered to the interior of a specially constructed sleeping - cabinet .The claims of brain - workers might now and again come in for a little civic reÂ ¬ cognition comparable with the trouble that is taken over the well - being of the labouring masses .",
+        "words": [
+          "odour",
+          "air",
+          "free"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421/fragment/6713e1ee-9b55-5f1a-81aa-9e1974c50792",
+        "value": "There is no doubt that a personâ   s own snoring can be the source of his dreams .Both the appropriate and inappropriate type of dream is well described in Romeo [ 57 ] MORPHEUS and Juliet where Mercutio says that Oueen Mab , the fairiesâ   midwifeâ   â   gallops night by night Oâ   er lawyersâ   fingers who straight dream on fees , Oâ   er ladiesâ   lips who straight on kisses dream , Sometimes she gallops oâ   er a courtierâ   s nose , And then dreams he of smelling out a suit , And sometimes comes she with a tithe - pigâ   s tail Tickling a parsonâ   s nose as aâ   lies asleep , Then dreams he of another benefice : Sometimes she driveth oâ   er a soldierâ   s neck , And then he dreams of cutting foreign throats , Of breaches , ambuscades and Spanish blades , Of healths , five fathoms deep , and then anon Drums in his ear , at which he starts and wakes , And , being thus frighted , swears a prayer or two , And sleeps again .â   The relationship between a particular stimulus and the subsequent dream was made the subject of experimentation many years ago by the Frenchman , Alfred Maury .",
+        "words": [
+          "smelling",
+          "a suit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421/fragment/a0e8b1db-5f09-5c9c-a79c-39db8d6bf2d0",
+        "value": "A certain amount of legislation will be enacted in the near future in the interests of sleep , legislation exactly comÂ ¬ parable with that we already have in the interests of pure air , pure food and proper drainage .Noise will be regarded in the Public Health Acts as much of a Nuisance as are certain stenches in the noxious trades .So important a factor is sleep in its relations to the Public Health that in the near future it will be granted recognition by the Ministry of Health .",
+        "words": [
+          "stenches",
+          "Noise"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6c9eb2e5-ba7a-53e0-b20c-e6e13c015d0b",
+        "label": "David Fraser. n 81108884 Fraser-Harris"
+      }
+    ],
+    "label": "Morpheus : or, The future of sleep",
+    "url": "http://archive.org/details/b29813372",
+    "date": "1928",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5bada246-bfd5-5948-9747-0aaca4b662f9",
+      "label": "1928",
+      "begin": "1928",
+      "end": "1928"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/e19bb949-c55f-5618-af62-435220069421/fragment/0a8e948f-851a-5a33-83d7-29405c2d149e"
+}

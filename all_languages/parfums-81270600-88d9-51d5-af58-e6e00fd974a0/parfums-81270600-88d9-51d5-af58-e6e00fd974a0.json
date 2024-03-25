@@ -1,0 +1,141 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/81270600-88d9-51d5-af58-e6e00fd974a0",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/40953731-e92a-5852-9f00-dd4ac5e5bb9f",
+        "value": "» Rois , x , 19 .pains ; les prêtres y entraient pour brûler les parfums et déposer les offrandes ; 3 \" En avant , le parvis , ouvert au peuple , où l ' on sacrifiait les victimes sur le grand autel .Le .",
+        "words": [
+          "parfums",
+          "parvis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/61408274-53f7-5aab-a821-2037d3c380e3",
+        "value": "— Pendant ce pèlerinage l ' âme peut vouloir rentrer dans le corps pour s ' y reposer .Il fallait donc conserver les corps intacts ; les Égyptiens apprirent à les embaumer .On remplissait le cadavre d ' aromates , on le faisait tremper dans un bain de natron , on l ' entourait de bandelettes , on le transformait en momie .",
+        "words": [
+          "corps",
+          "embaumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/63e638d8-c0f1-5716-98e0-42f65b281835",
+        "value": "Le Temple .— Le Temple de Jérusalem , bâti enfin sous Salomon , fut , comme le Tabernacle , divisé en trois parties : i 0 Au fond , le Saint des Saints , où reposait l ' arche d ' alliance ; seul le grand - prêtre avait le droit d ' y entrer une fois l ' an ; 20 Au milieu le Lieu saint , où l ' on tenait l ' autel des parfums , le chandelier à sept branches , la table des ( 1 ) De la Jérusalem antique il ne reste rien , non plus que des autres villes juives .( 2 ) « Ce trône avait 6 degrés .",
+        "words": [
+          "Jérusalem",
+          "parfums",
+          "Temple",
+          "Lieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/661eb1ad-5cff-56dd-82e6-8c6a745bfcee",
+        "value": "Râ , quand ils le voient se lever dans sa barque et qu ' il a renversé les ennemis .0 Râ , donne toute vie au Pharaon , donne des pains à son ventre , de l ' eau à son gosier , des parfums à sa chevelure .» Dieux à tête d ' animal .",
+        "words": [
+          "parfums",
+          "chevelure",
+          "gosier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/69234626-058f-5409-bb7e-b0612062e0ab",
+        "value": "Il fallait donc conserver les corps intacts ; les Égyptiens apprirent à les embaumer .On remplissait le cadavre d ' aromates , on le faisait tremper dans un bain de natron , on l ' entourait de bandelettes , on le transformait en momie .La momie , enfermée dans un cercueil de bois ou de plâtre , était déposée dans le tombeau avec tous les objets nécessaires à la vie .",
+        "words": [
+          "aromates",
+          "cadavre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/81c9c938-33b3-5cc8-8efe-4660b7d644b2",
+        "value": ".Ne continuez plus de m ' apporter des offrandes de néant , votre encens me dégoûte ..",
+        "words": "encens"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/8851c437-5ae1-5267-8994-5bf693990b91",
+        "value": "— L ' homme combat pour Ormuzd en favorisant son œuvre et en détruisant l ' œuvre d ' Ahriman .Il lutte contre les ténèbres en entretenant le feu avec du bois sec et des parfums ; contre le désert en cultivant la terre et en bâtissant des maisons ; contre les animaux d ' Ahriman en tuant les serpents , les lézards , les parasites , les bêtes de proie .— Il lutte contre l ' impureté en se tenant propre , en écartant de soi tout ce qui est mort , surtout les ongles et les cheveux , car « là où gisent des cheveux et des ongles coupés s ' assemblent les démons et les animaux impurs .",
+        "words": [
+          "bois",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/b2f53052-d506-55ac-87de-19181f575978",
+        "value": "Là Ormuzd l ' interroge sur sa vie passée .Si elle a fait le bien , les âmes pures et les âmes des chiens la soutiennent , l ' aident à traverser le pont et la font entrer dans le séjour des bienheureux ; les démons s ' enfuient , car ils ne supportent pas l ' odeur des âmes vertueuses .L ' âme du méchant au contraire arrive sur le pont malade et chancelante , personne ne la soutient , les démons l ' entraînent dans le gouffre , le mauvais esprit la prend et l ' enchaîne au fond des ténèbres .",
+        "words": [
+          "odeur",
+          "démons",
+          "âmes",
+          "séjour des bienheureux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/c727e009-eb44-5d86-aad1-dbf4ddc48c33",
+        "value": "Les caravanes .— Sur terre les Phéniciens envoyaient des caravanes dans trois directions : 1 ° Vers l ' Arabie , d ' où elles rapportaient l ' or , l ' agate et l ' onyx , l ' encens et la myrrhe , parfums de l ' Arabie : les perles , les épices , l ' ivoire , l ' ébène , les plumes d ' autruche et les singes amenés de l ' Inde ; 2 ° Vers l ' Assyrie , d ' où venaient les étoffes de coton et de lin , l ' asphalte , les pierres précieuses , les eaux de senteur , la soie de Chine ; 3 ° Vers la mer Noire où elles allaient prendre des che - .( 1 ) Vénus et Hercule .",
+        "words": [
+          "ivoire",
+          "myrrhe",
+          "encens",
+          "parfums",
+          "perles",
+          "pierres précieuses",
+          "eaux",
+          "onyx",
+          "ébène",
+          "épices",
+          "Arabie",
+          "Assyrie",
+          "plumes d ' autruche",
+          "singes",
+          "mer Noire",
+          "agate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/f37cb89e-d5de-5c8a-8fa6-1f050bfeea0b",
+        "value": "— Au contraire tout ce qui est nuisible vient d ' Ahriman et sert au mal : la nuit , la sécheresse , le froid , le désert , les plantes vénéneuses , les épines , les bêtes de proie , les serpents , les parasites ( moustiques , puces , punaises ) , et les bêtes qui vivent dans des trous noirs , lézards , scorpions , crapauds , rats , fourmis .De même dans le monde moral la vie , la pureté , la vérité , le travail sont bons et viennent d ' Ormuzd ; la ( 1 ) « J ' ai créé le chien , dit Ormuzd , avec une odeur forte et des dents fortes , attaché à l ' homme , mordant contre l ' ennemi , pour protéger les troupeaux .Voleurs et loups n ' approchent pas du bercail quand le chien est bien portant , bien en voix et près du troupeau .",
+        "words": [
+          "forte",
+          "odeur"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/a4200f0a-cdbe-5f18-8176-f19e2848d6bc",
+        "label": "Charles  Seignobos"
+      }
+    ],
+    "label": "Histoire de la civilisation ancienne : Orient, Grèce et Rome / par Ch. Seignobos,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9810197p",
+    "date": "1888",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3237e0d6-c834-5d6d-90bd-b7f718a9c7cc",
+      "label": "1888",
+      "begin": "1888",
+      "end": "1888"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11495188/",
+      "label": "Temple Hall"
+    },
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/bbaade59-0662-579a-8242-7c2f1c3abb1a",
+      "label": "Lieu"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/1b94d786-8330-5eb3-97d2-90c50c649c99/fragment/63e638d8-c0f1-5716-98e0-42f65b281835",
+  "license": "Public domain"
+}

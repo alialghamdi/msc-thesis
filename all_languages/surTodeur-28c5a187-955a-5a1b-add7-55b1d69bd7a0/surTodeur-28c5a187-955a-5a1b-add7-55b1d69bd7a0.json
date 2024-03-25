@@ -1,0 +1,89 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/28c5a187-955a-5a1b-add7-55b1d69bd7a0",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "surTodeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/103dacb1-5209-5dfa-8de1-99561ca3d0ca",
+        "value": "Bernutz ( 1850 ) , on ne trouve guère que des observations éparses de Bordenave ( 1774 ) Bourrienne ( 1775 ) , où il y a confusion avec l ' hydropisie enkystée du péritoine .Dance ( 2 ) ( 1832 ) attire l ' attention surTodeur fétide des collections purulentes de cette région .Velpeau ( 1836 ) signale qu ' elles peuvent être l ' origine de fistules stercorales .",
+        "words": [
+          "fétide",
+          "région",
+          "collections purulentes",
+          "surTodeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/2c2064cc-fafd-5c9c-a071-afb7468cfe6a",
+        "value": "Gouraud , assisté de M .Tennesson fait , au point culminant de la tumeur , une ponction avec l ' appareil de Potain qui donne issue à près de 200 grammes d ' un liquide très épais , brunâtre , grummeleux , à odeur fétide , rappelant celle des oeufs pourris dans lequel le microscope montre la présence de globules de graisse , des cellules , du pus et des cristaux de cholestérine , il n ' y a pas trace d ' éléments hépatiques .Les recherches de M .",
+        "words": [
+          "fétide",
+          "odeur",
+          "oeufs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/8b38a3cc-597d-5d1c-8fa4-20901a95dc8e",
+        "value": "Depuis 15 jours , elle se plaint de nouvelles douleurs continues dans cette région dont le gonflement augmente , en même temps qu ' apparaissent de l ' inappétence et de la fièvre .On constate , en effet , putre des symptômes généraux , céphalalgie , fièvre , anorexie , une tuméfaction notable , chaude , fluctuante et douloureuse de la région de l ' hypochondre droit .On fait une incision de 6 centimètres parallèlement à la ligne médiane , qui donne issue à une grande quantité de pus à odeur fétide , de couleur brique foncée .",
+        "words": "putre"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/968310fe-29b4-5bbc-b396-21077130d678",
+        "value": "La tumeur , devenue fluctuante , on l ' ouvre par une incision de 6 centimètres , qui .donne issue à 1 / 2 litre de pus phlegmoneux , rougeâtre , à odeur fétide , ne contenant pas de gaz .Le doigt introduit dans la cavité permet do confirmer le diagnostic et de circonscrire une cavité siégeant dans la paroi ( 1 ) .",
+        "words": [
+          "fétide",
+          "odeur",
+          "pus phlegmoneux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/b0b3bda3-6d27-54fb-8d31-c36a972285d8",
+        "value": "Gosselin , puisque ce chirurgien a dû faire une incision verticale , ce qui tend évidemment à démontrer que dans son cas le grand axe de la tumeur se trouvait dans cette direction .Le pus - 11 — dont l ' odeur fétide n ' a rien de particulier , présente une couleur rougeâtre , ainsi que l ' ont déjà signalé Follin et Duplay pour lesquels ce seul phénomène serait distinct .Les signes généraux ne dénotent rien qu ' on ne rencontre dans les autres cas , mais l ' évolution du processus affecte une lenteur que signalent tous les observateurs et le maximum signalé a été de 8 mois .",
+        "words": [
+          "fétide",
+          "odeur",
+          "pus - 11"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/e2834fd5-551a-5aea-b80d-414b9ebe56fd",
+        "value": "On constate , en effet , putre des symptômes généraux , céphalalgie , fièvre , anorexie , une tuméfaction notable , chaude , fluctuante et douloureuse de la région de l ' hypochondre droit .On fait une incision de 6 centimètres parallèlement à la ligne médiane , qui donne issue à une grande quantité de pus à odeur fétide , de couleur brique foncée .A la suite de cette opération , l ' exploration digitale de la cavité fait sentir le plan postérieur , et ne laisse aucun doute sur le siège pariétal et sous - péritonéal ( 1 ) Cliniques de Gosselin .",
+        "words": [
+          "fétide",
+          "odeur",
+          "pus"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/dfa640f1-7165-56e0-9095-9629868deb40",
+        "label": "Paul  Blocq"
+      }
+    ],
+    "label": "Du Phlegmon sous-péritonéal de la région hépatique / par Paul Blocq,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5660458p",
+    "date": "1885",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/897bdb11-1fc5-56b6-bcd7-5863cf8b074b",
+      "label": "1885",
+      "begin": "1885",
+      "end": "1885"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/65338f70-0848-5590-9efd-c5836a562854/fragment/103dacb1-5209-5dfa-8de1-99561ca3d0ca",
+  "license": "Public domain",
+  "adjective": "fétide"
+}

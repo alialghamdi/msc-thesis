@@ -1,0 +1,624 @@
+## parfumés
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/fbd08e2c-72dd-5e68-be67-68a6d93dcda0 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | parfumés |
+| source.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/04398f09-f14a-5ee6-bb6e-58f9b1fb740c |
+| source.excerpts.0.value | Au flanc de la montagne était une fissure profondément creusée , toute pleine d ' une ombre condensée et grossière , digne de l ' Averne ( 1 ) .( 1 ) En général , tout marais dont les exhalaisons putrides tuent les oiseaux qui le traversent .De ἀ privatif et ὄ ρ ν ι ς , oiseau . |
+| source.excerpts.0.words.0 | putrides |
+| source.excerpts.0.words.1 | exhalaisons |
+| source.excerpts.0.words.2 | marais |
+| source.excerpts.0.words.3 | tuent les oiseaux qui le traversent |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/06683a42-bf6c-5941-8c22-c97d2f97d92f |
+| source.excerpts.1.value | Là , dans les vides que laissaient les arbres susdits , disposés en rond , était établi un treillage circulaire aux mille entrelacs bien imaginés , en bois de santal rouge , d ' un pas ( 1 ) de haut .Des rosiers aux roses cent - feuilles , aux petites roses Grecques ( 2 ) d ' automne , grimpaient et s ' entrelaçaient le long de ce treillage qui laissait passer à travers ses ouvertures des touffes de fleurs pourprées d ' un parfum inimaginable , garnies de leurs feuilles ( 1 ) Dans le texte , il y a pedale , d ' un pied ; mais plus loin , Colonna dit , en parlant d ' un berceau , et levata altro tanto uno passo .On comprend qu ' un treillage de cinq pieds de haut puisse être tapissé de rosiers comme il nous décrit celui - ci . |
+| source.excerpts.1.words.0 | parfum |
+| source.excerpts.1.words.1 | roses |
+| source.excerpts.1.words.2 | fleurs |
+| source.excerpts.1.words.3 | rosiers |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/095874df-06dc-576b-8feb-247fab2376cd |
+| source.excerpts.2.value | Toutes se livraient , dans l ' épaisseur de l ' ombre , à des actions agrestes .Ces nymphes étaient élégamment vêtues d ' habillements de soie très - déliée , crêpés , fermés ( 3 ) , d ' une pâle couleur de safran ; vêtements voluptueux ( 4 ) qu ' un d ' une agréable odeur et propre à ramener les menstrues de femmes en couches ( XXIV , 15 ) .( 1 ) Ville de l ' Arabie heureuse . |
+| source.excerpts.2.words.0 | agréable |
+| source.excerpts.2.words.1 | odeur |
+| source.excerpts.2.words.2 | ramener les menstrues |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/0d20ebb9-8b44-5a4e-b211-7b121839fc41 |
+| source.excerpts.3.value | ( 7 ) Fille d ' Épopée , roi de Lesbos , selon d ' autres de Nyctée , roi d ' Éthiopie , fut changée en hibou .doutant et fuyant la lumière précieuse ? Je voyais Menthe , la brûlante , transmuée en plante aromatique par la mère de Proserpine ( 1 ) ; je voyais la malheureuse Smilax , portant la fleur en laquelle elle fut changée pour l ' amour de Crocus son bien - aimé .Je voyais les pleurs de l ' infortunée Canens , qui s ' évapora sur les rives gracieuses du Tibre . |
+| source.excerpts.3.words.0 | Menthe |
+| source.excerpts.3.words.1 | aromatique |
+| source.excerpts.3.words.2 | plante |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/0f2bec19-8b79-5ed5-8143-9791aff7193f |
+| source.excerpts.4.value | Dans cette seconde rangée de prés , les arbres variaient , quant aux espèces , portant des fruits superbement colorés , d ' une odeur très - agréable , d ' un goût très - suave .Le sol y était recouvert recouvert menu serpolet odorant , et les caisses des il sécha de douleur , et les dieux le changèrent en marjolaine .( Pline , XXI , 11 . |
+| source.excerpts.4.words.0 | odorant |
+| source.excerpts.4.words.1 | serpolet |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/0fd209be-ba7c-5c9f-bcd6-49d7bf26983c |
+| source.excerpts.5.value | En traduisant par dent de lion , ce serait le pissenlit .Tusculum ( 1 ) , de violettes de mer , de violettes calathianes ( 2 ) , de violettes d ' automne , la tanaisie ( 3 ) ou plante à odeur de punaise ( 4 ) ou trachy ( 5 ) , ainsi que d ' autres très - nobles plantes qui croissent sur le bord des rivières .Là , se trouvaient en grand nombre des oiseaux vivant sur les rives . |
+| source.excerpts.5.words.0 | odeur |
+| source.excerpts.5.words.1 | plantes |
+| source.excerpts.5.words.2 | plante |
+| source.excerpts.5.words.3 | tanaisie |
+| source.excerpts.5.words.4 | violettes d ' automne |
+| source.excerpts.5.words.5 | violettes calathianes |
+| source.excerpts.5.words.6 | violettes de mer |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/135f1a13-dfa1-53d9-90ca-4da80c2a978c |
+| source.excerpts.6.value | Cependant , ils se montraient plus insolents , plus emflammés de rage , plus menaçants .Ils offensaient mon odorat par l ' infection de leur puanteur à faire vomir , et qui , par le mouvement , s ' exhalait de leur chair malpropre , rance , punaise , insupportable , s ' évaporait de ces hommes à la mine odieuse , au front ridé par la férocité , qui me remplissaient de terreur .» Endurant les dernières angoisses , accablée de tristesse , pendant ce long combat , cette lutte indicible , me répandant en plaintes amères , j ' étais troublée à l ' excès , je perdais l ' âme . |
+| source.excerpts.6.words.0 | puanteur |
+| source.excerpts.6.words.1 | leur |
+| source.excerpts.6.words.2 | odorat |
+| source.excerpts.6.words.3 | insupportable |
+| source.excerpts.6.words.4 | mon |
+| source.excerpts.6.words.5 | leur chair |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/158676d6-e58f-5a3d-bc86-c2be17fba237 |
+| source.excerpts.7.value | L ' un portait des poires muscatelles ( 1 ) , l ' autre des Crustumies ( 2 ) , le troisième de tendres et succulentes Syriaques ( 3 ) , la quatrième des curmondules ( 4 ) .Dans cette seconde rangée de prés , les arbres variaient , quant aux espèces , portant des fruits superbement colorés , d ' une odeur très - agréable , d ' un goût très - suave .Le sol y était recouvert recouvert menu serpolet odorant , et les caisses des il sécha de douleur , et les dieux le changèrent en marjolaine . |
+| source.excerpts.7.words.0 | odeur |
+| source.excerpts.7.words.1 | arbres |
+| source.excerpts.7.words.2 | très - suave |
+| source.excerpts.7.words.3 | très - agréable |
+| source.excerpts.7.words.4 | Dans cette seconde rangée de prés |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1701108e-a663-5787-8021-54b52080ae56 |
+| source.excerpts.8.value | ( 9 ) On ne sait pas trop ce qu ' était la stachys de Pline , qui n ' est pas celle de Dioscoride .Pline la décrit comme une plante semblable au poireau , à feuilles nombreuses et assez larges , tirant sur le vert , l ' arbre à encens , et l ' arbre à myrrhe , comme il n ' en vient pas à Saba ( 1 ) , et une infinité d ' autres arbustes aromatiques .Le sol très - uni était là partout couvert d ' asarum ( 2 ) , ainsi que n ' en produisent ni la province du Pont , ni la Phrygie , ni l ' Illyrie , et qui rivalise avec le nard . |
+| source.excerpts.8.words.0 | myrrhe |
+| source.excerpts.8.words.1 | aromatiques |
+| source.excerpts.8.words.2 | arbre |
+| source.excerpts.8.words.3 | arbustes |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/181b88c8-68ad-5e2f-9523-82febbd98229 |
+| source.excerpts.9.value | Bientôt la petite flamme s ' éteignant se mit à fumer .Je compris que ces aromates avaient été placés là pour neutraliser l ' odeur des chairs grillées , ce à quoi ils suffisaient outre mesure .Donc , pas plus tôt la flamme éteinte , toutes les vierges , moins Polia , se prosternèrent précipitament sur le pavé . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | aromates |
+| source.excerpts.9.words.2 | Je |
+| source.excerpts.9.words.3 | chairs grillées |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1847638a-7f93-5646-bae9-25994dc0e097 |
+| source.excerpts.10.value | Ce divin triomphe et son cortège de nymphes étaient précédés , comme il a été dit plus haut , des pastophores , après lesquelles venaient les porteuses de trophées , les porteuses de flambeaux , leur torche d ' or au flanc , puis les porteuses de falots , munies de lanternes d ' or garnies de résine , de cire blanche ou de toute autre matière épurée , rendant une claire lumière .Après suivaient celles qui portaient les auspices , celles qui portaient les parfums dans des pyxides d ' or comme on n ' en vit jamais , dans des cassolettes de même métal , ( 1 ) Le scincos de Pline ( VIII , 25 ) , sorte de saurien regardé par les anciens comme alexipharmaque et aphrodisiaque .dans des encensoirs répandant une odeur exquise outre celle qu ' exhalait de partout cet endroit fortuné . |
+| source.excerpts.10.words.0 | parfums |
+| source.excerpts.10.words.1 | cassolettes |
+| source.excerpts.10.words.2 | aphrodisiaque |
+| source.excerpts.10.words.3 | alexipharmaque |
+| source.excerpts.10.words.4 | pyxides |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1a3af0a7-02b8-55db-8366-62b401b8aa4c |
+| source.excerpts.11.value | Régulièrement , aux lieux opportuns et devant les voies , s ' ouvrait une porte arquée formée d ' un épais fourré d ' orangers , de cédratiers et de citronniers .Les feuilles , déjà mûres ou renouvelées , étaient d ' un vert brillant , partout ornées de fruits anciens ou nouveaux , de fleurs très - odorantes , d ' une vue d ' autant plus agréable , d ' un aspect d ' autant plus beau que , d ' ordinaire , il est très - rarement accordé aux regards humains de contempler un pareil spectacle .Donc , en cet aimable et délicieux enclos , sis entre la muraille de myrtes et cette dernière d ' orangers fleuris , d ' innombrables animaux enfermés erraient , couraient pêle - mêle . |
+| source.excerpts.11.words.0 | fruits |
+| source.excerpts.11.words.1 | fleurs |
+| source.excerpts.11.words.2 | odorantes |
+| source.excerpts.11.words.3 | feuilles |
+| source.excerpts.11.words.4 | très - |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1bd6a0d3-21ce-5272-a8a4-21638ae5a15e |
+| source.excerpts.12.value | ( 4 ) Il y a dans le texte cheropheli , transcription vicieuse qu ' on retrouve plus bas , pour coerefolia , cerfeuils ; mais il faut ici , comme très pourprés , abondants et touffus ; dans la dernière du mélilot très - fourni .Au troisième rang , par delà le deuxième berceau , croissaient , dans la première marche , les belles fleurs jaunes de l ' herbe thora ( 1 ) , dans la seconde , des anémones rouges , dans la troisième , des cerfeuils odorants aux nombreuses feuilles à cinq folioles .Quant à la dernière , elle était divisée en dix parties garnies des fleurs les plus variées , les plus belles et les mieux associées . |
+| source.excerpts.12.words.0 | fleurs |
+| source.excerpts.12.words.1 | odorants |
+| source.excerpts.12.words.2 | anémones |
+| source.excerpts.12.words.3 | cerfeuils |
+| source.excerpts.12.words.4 | herbe thora |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1cbd607e-2b39-530f-a64a-0fe84c14a6ed |
+| source.excerpts.13.value | Les femmes Romaines se frottaient de son suc pour s ' embellir la peau ( Pline , XXI , 21 ) .tiques et parfumées , ainsi que des hyacinthes blanches , bleues et pourprées , comme la Gaule n ' en produit pas ( 1 ) .Entre ces abondants feuillages , tout remplis de fleurs , voltigeaient d ' innombrables oiseaux ou oiselets , revêtus de plumages superbes . |
+| source.excerpts.13.words.0 | parfumées |
+| source.excerpts.13.words.1 | hyacinthes |
+| source.excerpts.13.words.2 | tiques |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1cfd6c41-dd2c-5404-b12e-78b958364ff5 |
+| source.excerpts.14.value | J ' avais rouvert à peine mes yeux épouvantés et regardé l ' autel , que , de la fumée qui s ' en dégageait , je vis , tout émerveillé , sortir un rosier verdoyant qui croissait et multipliait progressivement .Il remplissait de son branchage surabondant une large partie du sanctuaire , et s ' élevait jusqu ' au comble , chargé de ses innombrables roses vermeilles , pourprées et rosées , portant en outre une abondance de fruits ronds , d ' une senteur merveilleuse , d ' une couleur blanche teintée de rouge .Ces fruits se montraient plus agréables que ceux qui étaient exposés devant Tantale , plus beaux que ceux qui furent l ' objet de la convoitise d ' Eurysthée ( 1 ) . |
+| source.excerpts.14.words.0 | senteur |
+| source.excerpts.14.words.1 | sanctuaire |
+| source.excerpts.14.words.2 | merveilleuse |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/1e328913-b30a-563a-9d04-fe61a6881c94 |
+| source.excerpts.15.value | Autour de sa panse , sous les anses , étaient imprimées , avec le plus grand soin , dans une bonne mesure et à égale distance , treize lettres Grecques : IIANTA BAIA BIO ϒ ( 3 ) , sans compter beaucoup d ' ornements et des canaux obliques .La partie de ce vase , depuis les lettres jusqu ' à l ' orifice , était percée de trous d ' où sortait aisément , par de petits conduits , une fumée odoriférante qui se dissipait dans l ' air .Ayant enfin reçu ces oblations mystiques , ces fatidiques instruments d ' amour et ces saluts prescrits , l ' enfant divin s ' assit sur un antique char d ' or , véhicule préparé pour le triomphe , tout revêtu de lames d ' or , et orné tout autour d ' une frise de neuf pouces de large , dans laquelle brillaient , d ' un éclat comparable à celui du Soleil , de magnifiques gemmes enchâssées , d ' une grandeur inimaginable , d ' un prix , d ' un art inconnus , d ' une invention rare , établies dans une disposition et ( 1 ) De fameuse . |
+| source.excerpts.15.words.0 | fumée |
+| source.excerpts.15.words.1 | odoriférante |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/2274f260-1553-5a71-806d-7e5b6db7e78b |
+| source.excerpts.16.value | Un autre compartiment fort beau était voisin .Il renfermait des noyers ou juglands ( 3 ) , arbres dont l ' ombre a une bonne odeur .On y trouvait la noix Persique , la noix royale ( 4 ) , dite aussi mollusca ( 5 ) , la noix de Tarente ( 6 ) . |
+| source.excerpts.16.words.0 | bonne |
+| source.excerpts.16.words.1 | odeur |
+| source.excerpts.16.words.2 | arbres |
+| source.excerpts.16.words.3 | noyers |
+| source.excerpts.16.words.4 | juglands |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/24c6eec2-947d-54ef-a64c-c59b26c098a8 |
+| source.excerpts.17.value | Seules ces coupoles étaient couvertes de roses jaunes .Quant aux berceaux longitudinaux , ils étaient revêtus de toutes les espèces de rosiers à fleurs blanches ; les transversaux l ' étaient de rosiers à fleurs vermeilles de toutes les variétés , en quantité , perpétuellement feuillus et fleuris , exhalant une odeur suave .Hors de ces caisses s ' élevaient toutes sortes de fleurs et d ' herbes aromatiques . |
+| source.excerpts.17.words.0 | suave |
+| source.excerpts.17.words.1 | odeur |
+| source.excerpts.17.words.2 | rosiers |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/2b6c6528-f20b-5458-af71-fa1fe3087d7e |
+| source.excerpts.18.value | Ces eaux ne grossissaient , ne doublaient , ne réfractaient ni ne raccourcissaient le corps Cythéréen ; mais celui - ci se laissait apercevoir parfaitement entier et d ' une venue , tel qu ' il était .Tout à l ' entour , jusqu ' au bas des degrés , se répandait une écume exhalant un parfum de musc .Ce corps céleste se montrait transparent et diaphane en sa majesté , en son aspect divin , comme une précieuse escarboucle étincelant aux rayons du Soleil , fait et composé qu ' il était d ' une substance que les humains ne virent ni ne conçurent jamais . |
+| source.excerpts.18.words.0 | parfum |
+| source.excerpts.18.words.1 | musc |
+| source.excerpts.18.words.2 | écume |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/2ba65035-4ff6-5f0f-b866-7d291c890936 |
+| source.excerpts.19.value | Dans ces vases , se voyaient des simples de toute beauté et de petites plantes taillées dans toutes les formes .C ' étaient de la marjolaine , de la santoline aromatique et frisée ( 3 ) , de l ' aurone , de petits myrtes et autres qui donnaient au plaisir des yeux une satisfaction que n ' eût pu procurer l ' objet le plus agréable .De ce péristyle aux rives d ' un fleuve , le sol garni d ' un sable de couleur citrine était recouvert d ' un gazon épais et humide de rosée . |
+| source.excerpts.19.words.0 | aromatique |
+| source.excerpts.19.words.1 | marjolaine |
+| source.excerpts.19.words.2 | myrtes |
+| source.excerpts.19.words.3 | santoline |
+| source.excerpts.19.words.4 | aurone |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/2bc5cc86-fdc3-53af-90e7-029cd5263f36 |
+| source.excerpts.20.value | ) déceler la calomnie ( 1 ) .Puis , aux endroits convenables , étaient plantées de très - belles fleurs de toutes les colorations , réparties avec une élégante harmonie et très - odorantes .Dans ces espaces charmants se trouvaient des habitants des deux sexes , uniquement occupés au travail de la très - féconde nature , adonnés à la culture , à l ' entretien l ' entretien si belle oeuvre horticole . |
+| source.excerpts.20.words.0 | fleurs |
+| source.excerpts.20.words.1 | odorantes |
+| source.excerpts.20.words.2 | très - odorantes |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/2c1ad95c-8fe5-5a3e-add6-2e4542171221 |
+| source.excerpts.21.value | Cet entourage d ' arbres commençait à quatre pas de distance des bordures en marbre de la fontaine sainte et sacrée qui était un hexagone de douze pas de circuit , et lui formaient ainsi une enceinte dont la circonférence mesurait trente - six pas .Cette enceinte était toute plantée d ' orangers , de cédratiers et de citronniers rangés en un gracieux entourage formant clôture , plaisant à voir , d ' un bel effet , tout en feuillage épais aux nombreux rejetons , égayé par des fleurs parfumées et par les teintes d ' un rouge de minium , se dégradant en jaune pâle , de ses fruits mûrs et brillants .Les arbres étaient disposés et plantés les uns près des autres à de bonnes distances égales . |
+| source.excerpts.21.words.0 | fleurs |
+| source.excerpts.21.words.1 | parfumées |
+| source.excerpts.21.words.2 | enceinte |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/2d0d3b7a-e893-5d91-8920-36600103136b |
+| source.excerpts.22.value | ) ( 4 ) Colonna entend sans doute par ce mot , fabriqué par lui , une espèce de poire qui sert à faire une cervoise , une poirée , du mot curmi , qu ' on trouve dans Ulpien .autels remplies de variétés de simples aromatiques .Il nous reste à décrire l ' ordonnance du troisième rang de prés convergeant au centre . |
+| source.excerpts.22.words.0 | aromatiques |
+| source.excerpts.22.words.1 | simples aromatiques |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/3214af3c-039c-514e-821b-8a95c713da36 |
+| source.excerpts.23.value | ) pas de pareils au palais des Césars ( 1 ) , quand on en planta par l ' ordre des augures , attendu que cet arbuste sert d ' ornement triomphal , surtout quand il est stérile .Je vis encore là le daphnoïde ou eupétale ( 2 ) à l ' odeur parfumée .La fille du Pénée ne fut pas métamorphosée en une verdure aussi belle et aussi durable , elle dont Apollon prit des feuilles pour en faire l ' ornement perpétuel de sa cithare et de son carquois . |
+| source.excerpts.23.words.0 | parfumée |
+| source.excerpts.23.words.1 | odeur |
+| source.excerpts.23.words.2 | eupétale |
+| source.excerpts.23.words.3 | daphnoïde |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/357ea39f-9325-5a06-a8ba-fd2944289180 |
+| source.excerpts.24.value | En effet , la cheminée , formée par l ' orifice placé juste au - dessus , me paraissait pleine de suie ; d ' où je conclus que la fumée des sacrifices , en s ' élevant , s ' échappait par l ' ouverture de la coupole en porphyre et se dissipait au dehors .D ' aventure , je supposai que la voûte du temple était ouverte ainsi selon le rite Égyptien et qu ' ainsi la fumée sainte , l ' odeur de grillé ou de brûlé se dégageaient sans incommodité pour l ' intérieur du temple .Sur la face opposée à celle où se trouvait la petite fenêtre , je vis le titre ci - dessous , gravé en lettres Romaines d ' une façon exquise . |
+| source.excerpts.24.words.0 | odeur |
+| source.excerpts.24.words.1 | fumée |
+| source.excerpts.24.words.2 | grillé |
+| source.excerpts.24.words.3 | brûlé |
+| source.excerpts.24.words.4 | temple |
+| source.excerpts.24.words.5 | voûte du temple |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/36efa6d2-e8b7-57ed-99b3-4476246d9e92 |
+| source.excerpts.25.value | Je com ( 1 ) com ( 1 ) gattilier agneau - chaste , que les Grecs nommaient λ ύ γ o ς ( osier ) , d ' autres ἀ λ ν ò ς ( chaste ) , et les Latins agnus - castus .Arbrisseau aromatique auquel les anciens attribuaient des propriétés anaphrodisiaques .( 2 ) Les femmes d ' Athènes gardaient , pendant les fêtes de Cérès , une étroite chasteté et dormaient sur les feuilles de l ' agnus - castus . |
+| source.excerpts.25.words.0 | aromatique |
+| source.excerpts.25.words.1 | anciens |
+| source.excerpts.25.words.2 | anaphrodisiaques |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/389ea7c3-9172-51e4-86e7-bc82e610ac3f |
+| source.excerpts.26.value | Aux coins des enclos se trouvaient également des autels disposés dans l ' ordre susdit .Ils étaient triangulaires , en chryselectron ( 1 ) semblable à de l ' or fauve , tel que les nymphes Hespérides ( 2 ) n ' en collectionnent pas , exhalant au frottement une suave odeur citrine , translucide et clair , comme il ne s ' en récolte point dans l ' île de la Germanie citérieure ( 3 ) .( 1 ) C ' est l ' ambre jaune . |
+| source.excerpts.26.words.0 | suave |
+| source.excerpts.26.words.1 | odeur |
+| source.excerpts.26.words.2 | île |
+| source.excerpts.26.words.3 | or fauve |
+| source.excerpts.26.words.4 | Germanie |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/3cd7c4f7-4cba-51d4-b0ce-0ce7fb44956c |
+| source.excerpts.27.value | Je vis , ensuite , une abondante plantation de pins chevelus garnis de leur cônes , ou pins de Tarente ( 1 ) , le pin urbain ( 2 ) , le pinastre ( 3 ) , le sapin , à la résine en larmes , tous ingénieusement distribués .En un autre enclos se voyait encore un grand plant de buis abondants qui se présentaient sous forme de tombes arrondies ou de carrés , entre lesquels se trouvaient des plantes légumineuses odorantes et fleuries .Ces buis , comme on ne saurait en trouver de semblables sur le mont Cytorus , en Macédoine ( 4 ) , étaient très - denses ; ils se terminaient graduellement en pointe , fort régulièrement et bien dégradés , affectant encore bon nombre d ' autres formes parfaitement rendues . |
+| source.excerpts.27.words.0 | plantes |
+| source.excerpts.27.words.1 | odorantes |
+| source.excerpts.27.words.2 | buis |
+| source.excerpts.27.words.3 | fleuries |
+| source.excerpts.27.words.4 | légumineuses odorantes |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/3e2f479e-4a63-5cd7-8bda-91658c34668c |
+| source.excerpts.28.value | Écrit ainsi , c ' est le surnom de Séleucie en Cilicie .L ' auteur a voulu , sans doute , mettre trachys ou trachy , arbuste d ' aspect rude , tordu , et odorant ( Pline , XII , 25 ) , De Tpayùç , âpre .( 5 ) Mot forgé de cimex , punaise . |
+| source.excerpts.28.words.0 | odorant |
+| source.excerpts.28.words.1 | arbuste |
+| source.excerpts.28.words.2 | trachys |
+| source.excerpts.28.words.3 | trachy |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/3f0a7910-2331-57a0-976e-e4faeaec9485 |
+| source.excerpts.29.value | Le reste du corps était putride , morbide et invalide , tardigrade et caduc .Son linge , quand il remuait , exhalait une puanteur d ' urine fétide .C ' est pourquoi prête bien attention , ma fillette , et garde mémoire de ce que tu vas entendre . |
+| source.excerpts.29.words.0 | puanteur |
+| source.excerpts.29.words.1 | fétide |
+| source.excerpts.29.words.2 | urine |
+| source.excerpts.29.words.3 | linge |
+| source.excerpts.29.words.4 | urine fétide |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/3f835eb8-cf12-5919-a2cd-91a05dd6e963 |
+| source.excerpts.30.value | C ' étaient encore l ' arbre qui donne le bdellium ( 2 ) , avec ses feuilles semblables à celles du chêne , le pommier Médique ( 3 ) toujours chargé de fruits , le précieux ébénier , l ' arbre à poivre , le santal à la triple espèce , le cannellier , le xylon ( 4 ) si vanté , comme on n ' en trouverait plus dans la vallée de Jéricho , en Égypte ou à Methora ( 5 ) .Là se trouvaient le costus blanc ( 6 ) , tel que n ' en produit pas l ' île de Patalé ( 7 ) , l ' arbrisseau nommé nard ( 8 ) , à la pointe garnie d ' épis pour lesquels il est renommé , ainsi que pour ses feuilles , l ' aloès au bois d ' une saveur indicible , comme n ' en transporte pas le Nil acéphale , et le styrax , et la stachys ( 9 ) , et ( 1 ) Pistacia Terebinthus ( Linné ) , abondant à Oricium , ville d ' Epire voisine des monts Cérauniens .( Pline , XIII , 6 . |
+| source.excerpts.30.words.0 | aloès |
+| source.excerpts.30.words.1 | styrax |
+| source.excerpts.30.words.2 | saveur |
+| source.excerpts.30.words.3 | indicible |
+| source.excerpts.30.words.4 | stachys |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4089efd2-9e35-58d3-ae73-b4b390186bd4 |
+| source.excerpts.31.value | Quant à la dernière , elle était divisée en dix parties garnies des fleurs les plus variées , les plus belles et les mieux associées .C ' étaient , dans la première division , la primevère , dans la seconde l ' hélicryse ( 2 ) , dans la troisième l ' amaranthe , dans la quatrième la violette rousse matronale ( 3 ) , dans la cinquième le panic violet ( 4 ) , dans la huitième le muguet blanc aux fleurettes renversant sur leur tige leurs calices très odorants , dans la neuvième les nombreuses espèces de lys , l ' orangé ( 5 ) , le blanc d ' Hyrié ( 6 ) , l ' hyacinthe ( 7 ) , le jaune ( 8 ) , le rouge ( 9 ) , dans la derl ' épithète derl ' épithète l ' indique , lire caryophylli , espèce d ' oeillet qui a donné son nom à la famille des caryophyllées .( 1 ) Herbatora , nom spécifique et vulgaire d ' une plante des Alpes , espèce de renoncule dont les Gaulois se servaient pour empoisonner leurs flèches . |
+| source.excerpts.31.words.0 | violette |
+| source.excerpts.31.words.1 | odorants |
+| source.excerpts.31.words.2 | muguet |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/44e1c338-3ba8-51cd-92e4-7451a46d1b7c |
+| source.excerpts.32.value | Ce n ' était pas une barque assemblée avec de la sparterie ( 2 ) , mais une nacelle à six rames admirablement enduite , non pas de poix recuite , ou de poix cirée ( 3 ) , mais bien , en tous sens , d ' un précieux liquide composé de benjoin amygdaloïde en larmes , de ladanum , musc , ambre , civette ( 4 ) et des deux styrax .Elle était assemblée avec un art parfait , construite en bois de santal odoriférant , blanc et citrin , bois pesant , incorruptible , frotté d ' un parfum dont on ne sentit jamais le pareil .Elle était chevillée de clous d ' or dont la tête , en forme de bouton , brillait par le fait de gemmes très - précieuses qui s ' y trouvaient serties . |
+| source.excerpts.32.words.0 | bois |
+| source.excerpts.32.words.1 | parfum |
+| source.excerpts.32.words.2 | odoriférant |
+| source.excerpts.32.words.3 | bois de santal |
+| source.excerpts.32.words.4 | blanc et citrin |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4639894e-4005-5a82-b766-8d9f11c83d34 |
+| source.excerpts.33.value | déterminée , la compagnie cheminait sous le berceau chargé de roses de toutes les espèces , toujours nouvelles , aux feuillages toujours verts , et qu ' elle faisait retentir de douces acclamations .Le sol était tout jonché de pétales de roses serrés dru , de fleurs d ' oranger , de violettes couleur d ' améthyste , de grandes violettes jaunes , de belles blanches , de pourprées abondantes , de fleurs de jasmin , de lys et autres superbes sentant bon .Des boutons de la grande guimauve à tige unique ( 1 ) , ainsi que des rameaux de myrte fleuri , avaient été répandus là , en abondance , sur le pavé bien égalisé fait de marbres assemblés dans toutes les configurations et joints comme un travail de mosaïque . |
+| source.excerpts.33.words.0 | sentant |
+| source.excerpts.33.words.1 | lys |
+| source.excerpts.33.words.2 | fleurs de |
+| source.excerpts.33.words.3 | fleurs d |
+| source.excerpts.33.words.4 | pétales de roses |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4cd0d94f-c510-5c4d-a303-a7a259be5bc4 |
+| source.excerpts.34.value | Dans un angle je vis des pommes Appiennes très - dorées , dans un autre des pommes Claudiennes ( 1 ) , dans le troisième des pommes de paradis ( 2 ) et dans le quatrième de petites pommes Décimiennes ( 3 ) .Mais , dans chaque pré de cette première rangée , les espèces variaient , et , très - fécondes , la remplissaient entièrement de la bonne senteur des pommes qui s ' y montraient d ' une si belle couleur et d ' un goût si suave que l ' arbre de l ' Hercule Gaditain n ' en eût pas produit de pareilles et que les pommiers que Junon commanda de planter en ses jardins ( 4 ) n ' en portaient pas de telles .Aux fruits de ces pommiers on peut donner l ' épithète d ' apyrènes . |
+| source.excerpts.34.words.0 | bonne |
+| source.excerpts.34.words.1 | senteur |
+| source.excerpts.34.words.2 | pommes |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4cfe7c61-1af7-58dd-b63c-03b404337cfd |
+| source.excerpts.35.value | On y voyait des cèdres très - élevés , propres à tant d ' emplois , dont les feuilles ressemblent à celles du cyprès , dont le bois servit à faire le simulacre de Diane à Éphèse ( 2 ) , bois fort apprécié pour la construction des très - nobles temples ( 3 ) , à cause de son éternelle durée , car il résiste à la pourriture causée par la vétusté et ne craint pas la morsure des vers .Ces arbres abondent en la grande Crète ( 4 ) leur patrie ; ils sont fort beaux en Afrique et parfumés en Assyrie ( 5 ) .Ils étaient là , entremêlés de brathys ( 6 ) ou sabines ( 7 ) à la perpétuelle verdure , très - dangereuses pour Lucine , taillées , aussi , de diverses façons . |
+| source.excerpts.35.words.0 | Afrique |
+| source.excerpts.35.words.1 | ils |
+| source.excerpts.35.words.2 | parfumés |
+| source.excerpts.35.words.3 | arbres |
+| source.excerpts.35.words.4 | Assyrie |
+| source.excerpts.35.words.5 | patrie |
+| source.excerpts.35.words.6 | grande Crète |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4da73471-6250-5391-8a8e-0369ff28a821 |
+| source.excerpts.36.value | – Aëtius , De re medica , II , 30 .) ( 4 ) Démocrite , cité par Pline ( XXXVII , 10 ) , dit que cette pierre , d ' un éclat argentin , d ' une forme lenticulaire , d ' une odeur agréable , et dont C ' est ainsi qu ' alternaient harmonieusement ces colonnes , procurant à la vue une jouissance agréable .Elles avaient une si exacte anthésis qu ' elles semblaient avoir été faites au tour , avec un art que les architectes Théodore et Rholus ( 1 ) n ' eussent su atteindre dans leur atelier de tournage . |
+| source.excerpts.36.words.0 | pierre |
+| source.excerpts.36.words.1 | agréable |
+| source.excerpts.36.words.2 | odeur |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4e186aa3-1421-5a0f-a4b2-7e25aa1d88f9 |
+| source.excerpts.37.value | Alors , attentive et bien instituée , elle posa sur le foyer la paire de tourterelles soigneusement déplumées au préalable , après avoir été égorgées sur la sainte anclabris et avoir eu la peau du dos fendue par la sécespite , attachées l ' une à l ' autre de fils noués en or et en soie pourpre , et leur sang chaud recueilli soigneusement ( 1 ) De , je brûle des parfums .C ' est le nom d ' une fumigation obtenue en brûlant un composé d ' aromates : myrrhe , galbanum et surtout encens .( 2 ) Résine extraite par incision du lentisque . |
+| source.excerpts.37.words.0 | myrrhe |
+| source.excerpts.37.words.1 | encens |
+| source.excerpts.37.words.2 | aromates |
+| source.excerpts.37.words.3 | galbanum |
+| source.excerpts.37.words.4 | composé |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4e81cded-ba8d-5037-8e24-acc5914a918a |
+| source.excerpts.38.value | Il portait un divin bouclier d ' argent fort orné , somptueux et superbe , comme Brontès ( 1 ) et ses compagnons n ' en fabriquèrent point pour l ' exilé Troyen ( 2 ) .Son chef était couvert d ' un casque étincelant couronné de fleurs odorantes , décoré sur le sommet d ' un crest proéminent en or .Son torse était revêtu d ' une cuirasse en même métal , comme le divin Jules n ' en porta point , comme il n ' en dédia pas à la Vénus Génitrice en son temple ( 3 ) , comme n ' en fit jamais l ' excellent ouvrier Didymaon ( 4 ) . |
+| source.excerpts.38.words.0 | fleurs |
+| source.excerpts.38.words.1 | odorantes |
+| source.excerpts.38.words.2 | chef |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/50abcf14-b445-5b02-9bc7-057a01ed61c4 |
+| source.excerpts.39.value | Il advint , alors , que mon coeur se reposa dans un feu des plus agréables , dans la plénitude d ' un plaisir précieux ; je me trouvais tout près de ma chère Polia .En outre du plaisir de voir tous ces ravissants spectacles , je me sentais inondé d ' un parfum des plus délicieux et des plus purs , qui me plongea dans une grande rêverie .Causant , en moi - même , avec mon propre génie , je disais : « Le voici donc , ce bonheur que je convoitais ( 1 ) Tyran de Samos , au temps de Pythagore et d ' Anacréon , célèbre par ses richesses et le bonheur de sa vie . |
+| source.excerpts.39.words.0 | parfum |
+| source.excerpts.39.words.1 | je me |
+| source.excerpts.39.words.2 | plus délicieux |
+| source.excerpts.39.words.3 | des plus purs |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/51908356-6c5e-5a1a-ad16-0c8e9c02e270 |
+| source.excerpts.40.value | Ainsi du troisième et du quatrième .Dans le premier , de même que dans les autres , croissaient des herbes odoriférantes .Là , donc , étaient des basilics très - petits et frisés ( 1 ) , de la citronnelle ( 2 ) et des cerfeuils . |
+| source.excerpts.40.words.0 | odoriférantes |
+| source.excerpts.40.words.1 | herbes |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/54c29e33-1943-5852-9e2c-268647ddb8d0 |
+| source.excerpts.41.value | Ici grimpaient le périclymène ( 1 ) , des jasmins , des convolvulus , des lupins , du tamnus ou vigne noire , des volubilis d ' espèces très - variées , aux clochettes pareilles à des lys , mi - parties d ' azur ou toutes blanches et dentelées .Là , de la flamme de Jupiter ( 2 ) , de la nymphe Smylax ( 3 ) qui , par amour pour le beau Crocus , porta des fleurs blanches à senteur de lys ( 4 ) , des feuilles odorantes semblables à celles du lierre ( 5 ) ; ailleurs de la lépreuse ( 6 ) clématite tout embrouillée à la vue , à la graine blanche semée de taches , et bien d ' autres plantes grimpantes aux noms inconnus .( 1 ) O Clymène , qui doit son nom au fils de Nelée et frère de Nestor , l ' un des Argonautes . |
+| source.excerpts.41.words.0 | plantes |
+| source.excerpts.41.words.1 | odorantes |
+| source.excerpts.41.words.2 | senteur |
+| source.excerpts.41.words.3 | feuilles |
+| source.excerpts.41.words.4 | lys |
+| source.excerpts.41.words.5 | graine |
+| source.excerpts.41.words.6 | fleurs blanches |
+| source.excerpts.41.words.7 | lierre |
+| source.excerpts.41.words.8 | lépreuse |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/54fd59c1-eec9-539f-b489-dcf5c1d41018 |
+| source.excerpts.42.value | Le divin timonier , appelant à lui Zéphyr au souffle embaumé , déploya ses légères ailes écartées qui , frappées par le vent , brillaient plus que des charbons ardents , que des torches allumées , que des foudres étincelantes .Poussés par la brise chargée du parfum des fleurs qui emplissait ces ailes au fin plu ¬ mage , nous commençâmes à laisser les rives bruyantes et à naviguer sur la profonde et vaste mer tranquille , jouissant d ' une agréable bonace .Le coeur amoureux et fier , saisi d ' un grand respect craintif , empli de douceur et de joie , fort agité en dedans de moi - même , pensif , m ' entretenant avec mon propre génie , je me demandais s ' il se pourrait jamais trouver un coeur assez inhumain , assez dur , assez violent et rigoureux , un coeur aussi rude que l ' écaillé de la patte de la chimère , pour ne se pas montrer subitement plein de mansuétude , très - attendri , très - adouci , désarmé , calmé en présence d ' objets si désirables et si divins . |
+| source.excerpts.42.words.0 | parfum |
+| source.excerpts.42.words.1 | fleurs |
+| source.excerpts.42.words.2 | nous |
+| source.excerpts.42.words.3 | ailes |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/57824cf9-f3d7-5a90-b933-f68724179da5 |
+| source.excerpts.43.value | Leurs cheveux , pareils à des poils de bouc , étaient gras , emmêlés , à moitié très - noirs et d ' un blanc sale , ressemblant à l ' écorce d ' un vieil orme rugueux .Leurs grandes mains calleuses , sanglantes et visqueuses , avaient des doigts puants aux ongles malpropres .Ils paraissaient vouloir s ' en servir cruellement contre moi faible pucelle ! Ces maudits avançaient le front crispé , ridé ; ils blasphémaient , les sourcils froncés , le visage enflé . |
+| source.excerpts.43.words.0 | puants |
+| source.excerpts.43.words.1 | doigts |
+| source.excerpts.43.words.2 | Leurs grandes mains |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/582f38fe-65ce-5444-9b09-d5328fb99574 |
+| source.excerpts.44.value | A son sommet , selon l ' exigence , s ' étalait une ouverture en forme de conque ou plateau d ' une brasse de circonférence .On mit dans cette conque du sperme des immenses baleines ( 3 ) , du musc odoriférant , du camphre cristallin et fugace , l ' odorant ladanum ( 4 ) de la grande Crète , le ( 1 ) Le plus célèbre des ciseleurs Grecs , florissait vers 356 av .J . |
+| source.excerpts.44.words.0 | odorant |
+| source.excerpts.44.words.1 | camphre |
+| source.excerpts.44.words.2 | musc |
+| source.excerpts.44.words.3 | odoriférant |
+| source.excerpts.44.words.4 | conque |
+| source.excerpts.44.words.5 | ladanum |
+| source.excerpts.44.words.6 | sperme des immenses baleines |
+| source.excerpts.44.words.7 | grande Crète |
+| source.excerpts.44.words.8 | vers 356 av |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/61bd918d-2e4b-5db2-bdf3-43ffcb8e276f |
+| source.excerpts.45.value | Frotté , il attirait les fétus .Dans la caisse inférieure poussait la casia parfumée ( 3 ) , dans la seconde le nard odoriférant , dans la troisième la menthe , cette nymphe qui témoignait de la haine cruelle de Proserpine ( 4 ) ; dans la quatrième caisse croissait Amaracus ( 5 ) l ' infortuné , mort inondé de son parfum .Chypre n ' en produit pas de tel . |
+| source.excerpts.45.words.0 | parfumée |
+| source.excerpts.45.words.1 | parfum |
+| source.excerpts.45.words.2 | son |
+| source.excerpts.45.words.3 | odoriférant |
+| source.excerpts.45.words.4 | menthe |
+| source.excerpts.45.words.5 | nard |
+| source.excerpts.45.words.6 | casia |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/68b79a2a-c7fc-5f4b-b963-3b680c8aa0fa |
+| source.excerpts.46.value | Au beau milieu de ce plateau , trois hydres s ' appuyaient sur la queue posée à même le fond , en trois endroits différents ; elles s ' entortillaient , en formant un noeud très - serré , les ventres écartés l ' un de l ' autre , réunies et contournées différemment , attachées ensemble par le cou comme des anguilles .Leurs trois têtes , départies en trois endroits différents , vomissaient dans la conque une eau très - odorante et soulevaient , dressées au même niveau , à deux pieds de haut , un vase de forme ovoïde .Au sommet de ce vase étaient fixées huit fistules d ' or , d ' où jaillissaient de très - minces filets d ' eau qui , s ' échappant par les intervalles des colonnettes en buis , humectaient tout le pré de rosée . |
+| source.excerpts.46.words.0 | odorante |
+| source.excerpts.46.words.1 | vase |
+| source.excerpts.46.words.2 | eau |
+| source.excerpts.46.words.3 | très - odorante |
+| source.excerpts.46.words.4 | conque |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/69676a86-fb06-5c9e-9874-ab972ceaface |
+| source.excerpts.47.value | Les fleurs et les herbes odoriférantes étaient , en ce lieu , dans les mêmes conditions de durée .Il se dégageait de partout un parfum insolite et délicieux .Les ( 1 ) Les soeurs de Méléagre changées en pintades . |
+| source.excerpts.47.words.0 | parfum |
+| source.excerpts.47.words.1 | délicieux |
+| source.excerpts.47.words.2 | insolite |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/6c885589-cbc7-5e1d-971b-20c9778353f4 |
+| source.excerpts.48.value | Ils avaient de grands museaux avec des lèvres pendantes gonflées , crispées , épaisses , d ' une couleur de pourriture , avec des mâchoires aux longues dents inégales , rouillées , gâtées , pareilles à de la vieille ferraille , avec des gencives déchaussées , dégarnies et que les lèvres ne recouvraient pas .Leur laide bouche était béante , garnie de crocs saillants comme les défenses d ' un sanglier écumant qu ' on chasse , et d ' une puanteur dégoûtante .Leur face était hideuse , d ' un ton noirâtre et boueux , pleine de verrues , pleine de sillons . |
+| source.excerpts.48.words.0 | puanteur |
+| source.excerpts.48.words.1 | dégoûtante |
+| source.excerpts.48.words.2 | Leur |
+| source.excerpts.48.words.3 | sanglier |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/6ec6d97d-fdf0-5f87-9d73-2b1b7b6eaf65 |
+| source.excerpts.49.value | J ' intercède donc pour eux , je prie , je supplie ta haute sainteté , ta puissance sublime de répandre sur eux , avec munificence , les grâces désirées .O Cypris ! par les amoureuses ardeurs dont il te plut de t ' enflammer pour ton Mars chéri , par ton fils qui vit près de toi , avec ce Dieu , dans les délices suprêmes et les glorieux triomphes ! » A ce discours toutes les vierges consacrées répondirent à haute voix : « Ainsi soit - il ! » La grande prêtresse n ' eut pas plutôt clos ses lèvres sur ces oraisons saintes , sur cette pieuse intervention , que , très - experte dans la conduite des choses sacrées , elle prit des roses odorantes , tout exprès préparées , ainsi que quelques coquilles d ' huîtres marines , et , de ses mains pures qu ' elle en avait remplies , les répandit cérémonieusement sur l ' autel , autour du foyer .Puis , avec une coquille d ' huître , puisant de l ' eau de mer contenue dans la petite urne , elle en aspergea tout l ' autel divin . |
+| source.excerpts.49.words.0 | roses |
+| source.excerpts.49.words.1 | odorantes |
+| source.excerpts.49.words.2 | huîtres marines |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/70f03b75-46d2-5419-a5cc-aaff5328f03f |
+| source.excerpts.50.value | Quant à Polia , tout en faisant sa narration avec une très - grande et très - admirable éloquence , elle liait les odorantes fleurettes tressées en couronne arrondie .Dès qu ' elle eut mis fin à ses douces paroles , elle me la posa gracieusement sur la tête , tandis que je me tenais affectueusement agenouillé ; puis , de ses deux lèvres au parfum de nectar et de cinname , elle me donna un voluptueux et tendre baiser .Les nymphes l ' en louèrent extrêmement , approuvant son gracieux parler et sa riche éloquence , l ' élégante déduction , les gestes superbes , les beautés remarquables avec lesquelles elle avait mené son discours plein d ' élévation et digne de mémoire . |
+| source.excerpts.50.words.0 | parfum |
+| source.excerpts.50.words.1 | nectar |
+| source.excerpts.50.words.2 | cinname |
+| source.excerpts.50.words.3 | Dès |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/71b73661-7478-5ea1-ab38-187a140a3936 |
+| source.excerpts.51.value | La marche se déroulait avec des jeux en tête , éclairée des brillantes et vives lumières que répandaient les torches resplendissantes portées en avant .Elle allait , parmi des plantes odorantes , sous des arbres vivaces chargés de fruits parfumés , dans un air embaumé , sous un ciel clément et très - limpide .Les chemins étaient garnis de toutes sortes d ' arbustes ; ils étaient couverts entièrement de simples et de gazons verts , remplis de roses à tous les pas , de masses de fleurs , et de tout ce qui sent bon , de tout ce qu ' il existe d ' heureux , de fortuné , de délicieux , d ' agréable . |
+| source.excerpts.51.words.0 | fruits |
+| source.excerpts.51.words.1 | air |
+| source.excerpts.51.words.2 | plantes |
+| source.excerpts.51.words.3 | odorantes |
+| source.excerpts.51.words.4 | embaumé |
+| source.excerpts.51.words.5 | parfumés |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/72b40518-a01b-5717-b635-399d94e6e47b |
+| source.excerpts.52.value | Là fleurissaient les roses de Damas ( 1 ) , de Praeneste ( 2 ) , les roses à cinq feuilles ( 3 ) , celles de Campanie , de Milet ( 4 ) , les roses rouges de Paestum ( 5 ) , les roses Trachyniennes ( 6 ) , les roses d ' Alabande ( 7 ) , toutes les variétés les plus nobles et les plus renommées .Ces gracieuses fleurs , à l ' odeur si suave et si , agréable , étaient remontantes , durant perpétuellement au milieu de leur vert feuillage .Sitôt que l ' une venait à tomber , il lui en succédait une autre . |
+| source.excerpts.52.words.0 | suave |
+| source.excerpts.52.words.1 | odeur |
+| source.excerpts.52.words.2 | durant |
+| source.excerpts.52.words.3 | , agréable |
+| source.excerpts.52.words.4 | gracieuses fleurs |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7755965f-4c46-572d-82f5-d2c43bac9071 |
+| source.excerpts.53.value | Ni ses caresses , ni ses mouvements pétulants et vénériens , ni ses grâces , ne purent jamais réchauffer , émouvoir , exciter ce vieil impotent stérile , incapable d ' être mis en état .Son souffle semblait être l ' air émané d ' un cloaque putride , d ' un bourbier pestilentiel .Sa bouche contractée montrait des lèvres pâles et ridées ; sa voix n ' avait pas de son . |
+| source.excerpts.53.words.0 | putride |
+| source.excerpts.53.words.1 | pestilentiel |
+| source.excerpts.53.words.2 | cloaque |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7891d9ac-eabb-567e-a0da-c0798f3a52a6 |
+| source.excerpts.54.value | Deux vierges la précédaient qui , de leur flûte de Lydie , jouèrent très - suavement sur le mode et le ton de cette contrée , comme Amphion l ' eût su faire .Polia et les autres vierges suivirent à la file , tenant en main un rameau de myrte odorant et fleuri .Or donc , dansant en mesure , avec les attitudes , avec les pas voulus , à distance égale l ' une de l ' autre , sautant comme en des bacchanales solennelles et religieuses , elles émettaient des intonations vocales concordant avec la musique et s ' échappant de leur poitrine virginale , répercutées en une incroyable symphonie sous la coupole close . |
+| source.excerpts.54.words.0 | odorant |
+| source.excerpts.54.words.1 | fleuri |
+| source.excerpts.54.words.2 | myrte |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7949a647-eb86-5ac0-9819-b6eed55f46ae |
+| source.excerpts.55.value | Dès que celle - ci eut terminé sa longue histoire , elles se levèrent toutes du siège paisible qu ' elles occupaient .Quant à Polia , tout en faisant sa narration avec une très - grande et très - admirable éloquence , elle liait les odorantes fleurettes tressées en couronne arrondie .Dès qu ' elle eut mis fin à ses douces paroles , elle me la posa gracieusement sur la tête , tandis que je me tenais affectueusement agenouillé ; puis , de ses deux lèvres au parfum de nectar et de cinname , elle me donna un voluptueux et tendre baiser . |
+| source.excerpts.55.words.0 | odorantes |
+| source.excerpts.55.words.1 | fleurettes |
+| source.excerpts.55.words.2 | Polia |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7b0e2ffc-56db-5e5a-9693-cff57fb06cb0 |
+| source.excerpts.56.value | Cette épithète désignerait une pensée provenant d ' une des deux villes de Campanie qui portaient le nom de Calatia ( Caiazzo et le Galazze ) .( 3 ) Balsamite , Tanaretum vulgare , plante qui exhale une odeur forte .Herbe aux vers . |
+| source.excerpts.56.words.0 | forte |
+| source.excerpts.56.words.1 | odeur |
+| source.excerpts.56.words.2 | plante |
+| source.excerpts.56.words.3 | Balsamite |
+| source.excerpts.56.words.4 | Tanaretum |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7b7754ec-0db4-5fa7-a298-5ed9284d8958 |
+| source.excerpts.57.value | ( 3 ) Minerve .( 4 ) Alphesivie dans le texte , mot formé de ἀ λ φ ε σ ί ϐ o ι o ς , littérale ¬ parées lascivement sur leur corps nu de nymphe , de fleurs variées et odorantes , lesquelles ramaient .Elles étaient vêtues de tuniques d ' étoffe crêpée et transparente , teintes de crocus , tout ourlées d ' or , ceintes , ne protégeant pas contre les regards les chairs rosées qu ' elles montraient . |
+| source.excerpts.57.words.0 | fleurs |
+| source.excerpts.57.words.1 | odorantes |
+| source.excerpts.57.words.2 | variées |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7c2f67c6-7723-5947-b2fd-264374ffac0f |
+| source.excerpts.58.value | gazouillaient parmi les pousses nouvelles et voltigeaient on ne peut plus gracieux à la vue .Avec eux j ' entendais les nymphes très - parées chanter ensemble leurs mélodies aux sons inouïs ; je voyais leurs gestes divins , leurs mouvements pleins de retenue qui m ' invitaient aux voluptés les plus extrêmes ; je contemplais cet édifice si noblement conçu , cette disposition due à une habile et ingénieuse réflexion ; j ' aspirais , avec avidité , une odeur si grandement , si extraordinairement bonne .Par Jupiter immortel ! j ' ignorais , en vérité , auquel de mes pouvoirs sensitifs je me devais fermement arrêter pour bien goûter cette jouissance fortunée , ce voluptueux plaisir , et je m ' amusais de cette ignorance . |
+| source.excerpts.58.words.0 | odeur |
+| source.excerpts.58.words.1 | grandement |
+| source.excerpts.58.words.2 | extraordinairement bonne |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/7d06f68f-0df3-537f-8258-b915d85a5248 |
+| source.excerpts.59.value | Des plantes fluviales ombrageaient et embellissaient ses bordures .Elles poussaient de nombreux rejetons chargés de charmantes floraisons diversement parfumées sur leurs feuillages frais et mouillés de rosée .Un fort agréable ruisseau , courant rapidement sous des ormes feuillus , transportait , avec un mol et doux murmure , lés eaux vives emplissant toujours cette fontaine . |
+| source.excerpts.59.words.0 | parfumées |
+| source.excerpts.59.words.1 | floraisons |
+| source.excerpts.59.words.2 | diversement |
+| source.excerpts.59.words.3 | rejetons |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/803325c9-a51a-5727-a92d-3621397d776a |
+| source.excerpts.60.value | Les lettres étaient formées de serpolet sur un champ de politric .L ' intérieur des boucles , entre les bandes , était de santonique ( 2 ) , le dedans des anneaux placés dans les triangles était garni , un et trois d ' aurone odorante , deux et quatre de lavande .Au beau milieu de ces anneaux se trouvaient placées , alternativement , une boule de Sabine et une boule de genévrier , hautes de trois pieds . |
+| source.excerpts.60.words.0 | odorante |
+| source.excerpts.60.words.1 | lavande |
+| source.excerpts.60.words.2 | aurone |
+| source.excerpts.60.words.3 | santonique |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/803f1e93-bd0a-50da-8b81-cf84fa7dc6e6 |
+| source.excerpts.61.value | Les nymphes , enjouées de leur nature , se montraient envers nous gracieuses avec empressement ; elles nous stimulaient par d ' amoureuses flatteries , et , le visage rempli d ' une gaieté douce , d ' une hilarité naturelle , nous réconfortaient voluptueusement par des caresses délicates .Enfin , dans ce parcours mystérieux et triomphal , au milieu des pompes des phratries ( 1 ) , au milieu des trophées de victoire et des fleurs odorantes , dominait la bannière insigne et victorieuse précédée de cette jeunesse joyeuse et virginale chantant des cantiques .La marche se déroulait avec des jeux en tête , éclairée des brillantes et vives lumières que répandaient les torches resplendissantes portées en avant . |
+| source.excerpts.61.words.0 | fleurs |
+| source.excerpts.61.words.1 | odorantes |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/8c114549-71ed-5b71-9428-5b027e675f3d |
+| source.excerpts.62.value | Ils n ' avaient à subir ni les brouillards ni la pluie , ni les pâleurs de Phébus ; sans que rien vînt jamais à leur nuire , ils demeuraient d ' un vert tendre , toujours pleins de sève , sans cesse dans le même état de conservation , donnant une abondante récolte .Les fleurs et les herbes odoriférantes étaient , en ce lieu , dans les mêmes conditions de durée .Il se dégageait de partout un parfum insolite et délicieux . |
+| source.excerpts.62.words.0 | fleurs |
+| source.excerpts.62.words.1 | odoriférantes |
+| source.excerpts.62.words.2 | herbes |
+| source.excerpts.62.words.3 | lieu |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/8e2882a3-89fe-53d8-a17a-9599fbb744fd |
+| source.excerpts.63.value | Après suivaient celles qui portaient les auspices , celles qui portaient les parfums dans des pyxides d ' or comme on n ' en vit jamais , dans des cassolettes de même métal , ( 1 ) Le scincos de Pline ( VIII , 25 ) , sorte de saurien regardé par les anciens comme alexipharmaque et aphrodisiaque .dans des encensoirs répandant une odeur exquise outre celle qu ' exhalait de partout cet endroit fortuné .Quelques nymphes , tenant de petits vases d ' or , à la très - étroite ouverture , qu ' elles secouaient sans cesse , répandaient goutte à goutte la très - odorante liqueur qu ' ils contenaient et en aspergeaient les assistants comme d ' une pluie fine . |
+| source.excerpts.63.words.0 | odeur |
+| source.excerpts.63.words.1 | celle |
+| source.excerpts.63.words.2 | exquise |
+| source.excerpts.63.words.3 | encensoirs |
+| source.excerpts.63.words.4 | exhalait |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/90bd892e-fe15-575c-a337-aa3d0f3e7262 |
+| source.excerpts.64.value | » Fort avide , fort jaloux de joindre la vue de ces oeuvres à ce qu ' il m ' avait été donné déjà de contempler de si remarquable , je me levai du siège délicieux établi sous l ' ombrage tempéré du laurier et du myrte , parmi d ' assez hauts cyprès .Un chèvrefeuille embellissait ce lieu de sa floraison odorante , un jasmin enroulé nous y enveloppait d ' une ombre suave , tout en épandant abondamment sur nous ses fleurs blanches , en ce moment très - parfumées .Absorbé , sans autre pensée , je m ' en fus d ' auprès de Polia et , fort empressé , j ' atteignis ces champs remplis de hauts et larges entassements de ruines couverts en grande partie de chamaesyce ( 1 ) , encombrés de terre meuble et embarrassés d ' épines . |
+| source.excerpts.64.words.0 | odorante |
+| source.excerpts.64.words.1 | jasmin |
+| source.excerpts.64.words.2 | parfumées |
+| source.excerpts.64.words.3 | lieu |
+| source.excerpts.64.words.4 | chèvrefeuille |
+| source.excerpts.64.words.5 | épandant |
+| source.excerpts.64.words.6 | floraison |
+| source.excerpts.64.words.7 | ses fleurs blanches |
+| source.excerpts.64.words.8 | très - parfumées |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/95748a7f-38be-5e17-973b-709c95685ad4 |
+| source.excerpts.65.value | ) ( 3 ) Il entend dire que les parties solides de ce treillis avaient deux pouces de largeur superficielle .deux térébinthes ( 1 ) mâle et femelle , au bois résistant à la vétusté , d ' un noir superbe , d ' une odeur agréable .C ' étaient encore l ' arbre qui donne le bdellium ( 2 ) , avec ses feuilles semblables à celles du chêne , le pommier Médique ( 3 ) toujours chargé de fruits , le précieux ébénier , l ' arbre à poivre , le santal à la triple espèce , le cannellier , le xylon ( 4 ) si vanté , comme on n ' en trouverait plus dans la vallée de Jéricho , en Égypte ou à Methora ( 5 ) . |
+| source.excerpts.65.words.0 | bois |
+| source.excerpts.65.words.1 | agréable |
+| source.excerpts.65.words.2 | odeur |
+| source.excerpts.65.words.3 | deux térébinthes |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/9c56b578-9285-523d-a704-69ea48754bd7 |
+| source.excerpts.66.value | Il advint que mon coeur , goûtant une joie muette , se réconforta par de nouvelles pensées qui renaissaient en foule et , renonçant aux vulgaires et communes folies , je considérai ce pieux et intelligible effet , en même temps que le ciel très - serein , l ' air doux et salubre , le site délectable , la région délicieuse , les belles verdures , les collines plaisantes , modérément hautes , ornées de bois touffus , la clémence de la température , la pureté des brises , le bel et charmant endroit convenablement arrosé par les fleuves s ' écoulant au milieu des vallons boisés , courant mollement , à droite et à gauche , le long des collines arrondies et se précipitant dans la mer ; je considérai les champs très - fertiles , couverts d ' agréable gazon et plantés d ' arbres nombreux emplis du concert des petits oiseaux .Que le fleuve de Thessalie cède le pas , lui et sa campagne ( 1 ) ! Or , nous étions là , tous deux assis , parmi les fleurs odorantes du printemps , parmi les roses .Je tenais , avec tant de plaisir , mes yeux grands ouverts fixés sur cette effigie céleste , j ' appliquais si fort tous mes sens à contempler une forme si belle , si rare , une image si divine , que de plus brûlantes attaques me venaient doucement assaillir davantage , cependant que mon âme se fondant en une extrême suavité , je demeurais insensé , tout anxieux , entièrement absorbé , curieux , à considérer avec surprise comment et pourquoi la liqueur pourprée , pénétrant les carnations précieuses de la main polie et satinée , cette main , toutefois , restait blanche comme du lait et aucune teinte rouge n ' y apparaissait . |
+| source.excerpts.66.words.0 | Thessalie |
+| source.excerpts.66.words.1 | fleurs |
+| source.excerpts.66.words.2 | odorantes |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/9db22c60-d876-5151-9ac7-9f739d185a73 |
+| source.excerpts.67.value | Ses mains tremblantes n ' avaient aucune vigueur .Le reste du corps était putride , morbide et invalide , tardigrade et caduc .Son linge , quand il remuait , exhalait une puanteur d ' urine fétide . |
+| source.excerpts.67.words.0 | corps |
+| source.excerpts.67.words.1 | putride |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/9deadfcb-c53f-5a02-bba3-88f8c322e896 |
+| source.excerpts.68.value | ( 4 ) Dans le texte , pollicarie pour pulicarie , le φ ύ λ λ ι o ν des Grecs , plantain des sables .( 5 ) Sans doute sa bonne odeur .( 6 ) Inula Helenium , Inule Aunée . |
+| source.excerpts.68.words.0 | bonne |
+| source.excerpts.68.words.1 | odeur |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/9df6f15d-2ea4-50ed-83c7-64008a84c9e3 |
+| source.excerpts.69.value | Sous cette première treille , le sol , bien plané , non - seulement stupéfiait l ' intelligence , mais encore confondait les sens .Il était , dans tout son parcours circulaire , paré d ' une pâte condensée faite d ' un mélange bien proportionné de ladanum parfumé , d ' ambre , de musc , de styrax et de benjoin aux sombres couleurs .Dans cette mixture tout embaumée étaient fixées , d ' une manière égale , de fort blanches perles décrivant , en une frise de mosaïque , un bel enroulement de feuillage à l ' antique , garni de fruits d ' olivier , avec les vides remplis de fleurs dans le calice desquelles reposaient de petites bestioles et des oiselets . |
+| source.excerpts.69.words.0 | parfumé |
+| source.excerpts.69.words.1 | musc |
+| source.excerpts.69.words.2 | benjoin |
+| source.excerpts.69.words.3 | ambre |
+| source.excerpts.69.words.4 | styrax |
+| source.excerpts.69.words.5 | ladanum |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/9e13ecf0-e3fe-5cbb-8320-200a6f20ee89 |
+| source.excerpts.70.value | ) Si bien qu ' il ne s ' écoula guère de temps sans qu ' ils lui eussent trouvé un homme , patricien , dans une bonne condition de parenté , riche , mais déjà vieux et le paraissant plus qu ' en réalité , car il était décharné .Il avait atteint l ' âge douteux ; ses joues pendaient quelque peu , il avait les yeux ulcérés , les mains tremblantes , l ' haleine fétide ; il se couvrait la tête parce qu ' elle ressemblait à l ' échiné d ' un chien galeux ; son vêtement , sur la poitrine , était couvert de bave .A donné qu ' il était à une rapace avarice , et tout tendu aux insatiables désirs , son esprit était inquiet . |
+| source.excerpts.70.words.0 | fétide |
+| source.excerpts.70.words.1 | haleine |
+| source.excerpts.70.words.2 | chien |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/a2d4feff-409c-56c2-aa9f-2024859a86bc |
+| source.excerpts.71.value | 728 .) ( 5 ) Personnage de la cour de Cynire , roi de Chypre , chargé du soin des parfums ; ayant brisé des vases qui en contenaient de précieux , Au milieu du degré supérieur de chaque autel était planté un arbre fruitier dont les fruits différaient de ceux qui se voyaient dans la première rangée d ' enclos , et dont la taille était autre .Ces arbres , en effet , affectaient une forme sphérique d ' une grande beauté et produisaient quatre espèces de poires différentes . |
+| source.excerpts.71.words.0 | Chypre |
+| source.excerpts.71.words.1 | parfums |
+| source.excerpts.71.words.2 | Cynire |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/abc02e1e-4033-5b22-8d93-fbe2a2613669 |
+| source.excerpts.72.value | J ' aperçus , provoquées par la douceur suprême de son émotion , de petites larmes qui brillaient dans ses yeux luisants , pareilles à du cristal transparent , pareilles à des perles rondes , larmes plus belles que celles d ' Euryale ( 1 ) , que celles que l ' Aurore distille en rosée sur les roses matinales .Soupirant , telle qu ' une céleste image déifiée , comme une fumigation de musc et d ' ambre qui , odorante , s ' élève dans l ' air , à la grande joie des esprits célestes , elle se résolut dans l ' espace en une vapeur d ' un parfum céleste , elle disparut de devant mes yeux en même temps que mon délicieux sommeil , me disant , dans sa fuite rapide : « Poliphile , mon cher amant , » adieu ! » ( 1 ) L ' ami de Nisus .V . |
+| source.excerpts.72.words.0 | odorante |
+| source.excerpts.72.words.1 | parfum |
+| source.excerpts.72.words.2 | air |
+| source.excerpts.72.words.3 | musc |
+| source.excerpts.72.words.4 | ambre |
+| source.excerpts.72.words.5 | esprits célestes |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/af8076c1-8f9a-52ba-9a37-ffadf90b5f60 |
+| source.excerpts.73.value | Son corps était d ' un ivoire poli .Son souffle divin était une émanation d ' ambroisie et de musc .Ses cheveux tombaient sur les eaux très - pures en fils d ' or étiré très - fins . |
+| source.excerpts.73.words.0 | musc |
+| source.excerpts.73.words.1 | émanation |
+| source.excerpts.73.words.2 | ambroisie |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/b1a50618-536d-580f-945b-d1d25b2f8614 |
+| source.excerpts.74.value | Aussi Polia , immédiatement atteinte de la contagion amoureuse , tournait paisiblement , tout émue , vers moi ses vifs regards capables de faire envie au Soleil , et je me sentis devenir entièrement la proie d ' un incendie dévorant qui infiltrait son prurit dans mes parties les plus intimes , les plus profondes , et se répandait comme une semence dans mes vaisseaux capillaires .A force de contempler ses manières nobles et distinguées , je sentis augmenter en moi une saveur douce comme le miel .Atteint , alors , d ' un appétit désordonné , insatiable , grièvement oppressé par une brûlante et inopportune excitation , avec des pleurs dans la voix , avec de persuasives et ardentes prières , j ' évoquai , à part moi , les baisers désirés , les baisers succulents , fluides et si doux , aux exquises vibrations de serpent , m ' imaginant de goûter la saveur de la petite bouche suave , de l ' haleine embaumée au souffle musqué et frais , me figurant de pénétrer dans le trésor caché de Vénus , et là , de dérober , à la façon de Mercure ( 1 ) , les très - précieux joyaux de la maternelle nature . |
+| source.excerpts.74.words.0 | douce |
+| source.excerpts.74.words.1 | je |
+| source.excerpts.74.words.2 | miel |
+| source.excerpts.74.words.3 | saveur |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/b8f88343-b1e8-524f-8648-fe12a39e42b8 |
+| source.excerpts.75.value | Chacun , fuyant précipitamment sa propre cité , se réfugiait dans les lieux suburbains et à la campagne .Telle était l ' extermination des populations , qu ' il y avait lieu de croire que les vents fétides du Sud eussent apporté la peste de l ' Egypte humide , alors que , par suite d ' une crue excessive du Nil limoneux , des animaux innombrables transportés dans les champs , puis , abandonnés par le retrait des eaux , ramollis et putréfiés , eussent infecté l ' air .C ' était à croire que le sacrificateur d ' Argos eût encore égaré les boeufs destinés à l ' autel de Junon et qu ' il en dût advenir comme à Egine ( 1 ) , pour qu ' après , on revît le beau voeu d ' Inachus ( 2 ) et les pierres jetées par Deucalion et Pyrrha sur le mont Parnasse ( 3 ) . |
+| source.excerpts.75.words.0 | air |
+| source.excerpts.75.words.1 | infecté |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/ba7f01ba-40ba-566e-8496-38e944ea0b76 |
+| source.excerpts.76.value | taillé absolument en sphère et qui décorait le vide triangulaire causé par l ' inflexion des cyprès .Dans le reste de la caisse poussait une grande variété de plantes aromatiques exquises , abondamment chargées de fleurs odorantes , comme on peut le voir sur le dessin du théâtre .Le premier berceau , celui du bas , était couvert de myrte fleuri . |
+| source.excerpts.76.words.0 | fleurs |
+| source.excerpts.76.words.1 | plantes |
+| source.excerpts.76.words.2 | odorantes |
+| source.excerpts.76.words.3 | aromatiques |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/bbd0143b-e525-50da-9fdc-62055ce81777 |
+| source.excerpts.77.value | Quant aux berceaux longitudinaux , ils étaient revêtus de toutes les espèces de rosiers à fleurs blanches ; les transversaux l ' étaient de rosiers à fleurs vermeilles de toutes les variétés , en quantité , perpétuellement feuillus et fleuris , exhalant une odeur suave .Hors de ces caisses s ' élevaient toutes sortes de fleurs et d ' herbes aromatiques .La première treille circulaire était contiguë à la clôture d ' orangers , où une ouverture cintrée s ' ouvrait sur la treille droite qui s ' en allait au centre . |
+| source.excerpts.77.words.0 | fleurs |
+| source.excerpts.77.words.1 | aromatiques |
+| source.excerpts.77.words.2 | herbes |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/c5d4f180-9d96-5c29-8547-4a9189f50ea5 |
+| source.excerpts.78.value | beaux ornements , d ' un art dont on ne vit jamais le pareil , ni au bourg d ' Atella ( 1 ) ni en tout autre lieu célèbre ; bâtiment exquis , absolument parfait , long à décrire , presque inimaginable , impossible a dire , oeuvre non humaine mais plutôt divine , étalage d ' une structure immense .Arrivés devant cette porte d ' entrée , tout en nous livrant à une solennelle réjouissance , à une joie incroyable , aux plus charmants ébats , par la voie maîtresse , sous la fine rosée d ' une eau parfumée dont les processionnaires arrosaient le cortège triomphal au moyen de vases aux petits pertuis , je remarquai l ' art stupéfiant qui avait présidé à cette construction .Elle était de lapis - lazuli dans lequel brillaient , dispersées , des étincelles d ' or fulgurant . |
+| source.excerpts.78.words.0 | parfumée |
+| source.excerpts.78.words.1 | je |
+| source.excerpts.78.words.2 | eau |
+| source.excerpts.78.words.3 | Arrivés |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/cc98f9ee-130a-5751-a0e8-4d47b20b8b95 |
+| source.excerpts.79.value | Tout aussitôt après qu ' elle les eut allumés , elle éteignit le cierge et le rangea .Dans cette petite flamme fumeuse exhalant un incomparable parfum , elle mit un ramuscule de myrte sec qui prit feu , puis , immédiatement , le posa sur l ' autel du sacrifice , qui se ralluma .Tous les autres rameaux semblables furent jetés au feu sur ledit autel . |
+| source.excerpts.79.words.0 | parfum |
+| source.excerpts.79.words.1 | incomparable |
+| source.excerpts.79.words.2 | myrte sec |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/cd5353f5-b209-5e35-ace9-8c541879ab2b |
+| source.excerpts.80.value | , 370 .) Le populaire appelait cette herbe casia comme nous appelons baume une menthe cultivée .( L . |
+| source.excerpts.80.words.0 | baume |
+| source.excerpts.80.words.1 | menthe |
+| source.excerpts.80.words.2 | herbe casia |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/ce6897a8-6f04-51f8-81cd-36d14f26fbc0 |
+| source.excerpts.81.value | Il poursuivit un peu , dans l ' air , le char de glacé que la chaleur du sien faisait fondre en eau ; puis , l ' un et l ' autre s ' éloignèrent et disparurent .» Après avoir contemplé cette scène avec un courage amoureux , je m ' aperçus que mon giron et le pavé de ma chambre étaient couverts de roses parfumées éparses , ainsi que des rameaux d ' un myrte verdoyant et fleuri .Je perdis toute appréhension et pris une sécurité légitime , par le seul fait que cet enfant me paraissait être s ' ecourable , prendre ma cause en main et me devoir défendre contre la vengeance qui me menaçait , comme étant mon seigneur absolu combattant victorieusement pour moi . |
+| source.excerpts.81.words.0 | roses |
+| source.excerpts.81.words.1 | parfumées |
+| source.excerpts.81.words.2 | chambre |
+| source.excerpts.81.words.3 | myrte |
+| source.excerpts.81.words.4 | pavé |
+| source.excerpts.81.words.5 | giron |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/cf911404-daac-552f-9ac7-cfff626a3740 |
+| source.excerpts.82.value | Aussi , mon âme s ' apaisant au milieu de ses flammes continuelles et de ses âpres brûlures , Amour m ' incita à prendre patience ainsi qu ' espoir .Tel le Phénix d ' Arabie , sur son bûcher de branches aromatiques enflammé par l ' apparition du Soleil levant , espère renaître de ses cendres arides .( 1 ) Le tripolion ou polion ( Pline , XI , 7 ) , dont la fleur est blanche au matin , rouge au couchant et bleue le soir . |
+| source.excerpts.82.words.0 | aromatiques |
+| source.excerpts.82.words.1 | branches |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/d185fdc6-5b95-5d78-88b1-148c9ceb7548 |
+| source.excerpts.83.value | Oh ! l ' horrible spectacle ! l ' horrible mode de sépulture ! Hélas ! pensez , ô nymphes compatissantes , avec quelle épouvante , assistant au spectacle de si atroces et si sanglantes cruautés , je me trouvais là , privée de tout secours , sans moyens de défense , exposée à une terreur , à un effroi démesuré , cachée , blottie au milieu d ' un buisson hérissé , parmi les pruneliers épineux , les églantiers , exposée aux pointes indomptables ( 1 ) , aux dards rigides de l ' âpre paliure ! » Me tenant enveloppée dans cette ombre , enfouie dans ce meurtrier fourré de la forêt , j ' avais lieu de redouter , sous le coup de la terreur extrême que me causait une telle vision dont j ' étais plus épouvantée que ne le fut le parricide Oreste par le spectre hor ( 1 ) hor ( 1 ) le texte acrasie acrade , mots fabriqués de ἀ ϰ ρ α σ ί α , déréglement et ἄ ϰ ρ α , extrémité , pointe .rible de Clytemnestre avec ses serpents et ses feux dévorants , j ' avais lieu de redouter , dis - je , que ces bêtes féroces et indomptables , à l ' odorat subtil , ne fissent de moi , isolée que j ' étais dans cette épaisse forêt retirée , sans défense , faible de sexe et d ' âge , sans espoir , sans secours , un carnage semblable .Tremblante , je disais , à part moi : hélas ! aurais - je été transportée ici par les vents , comme Iphigénie sur les monts incléments de la Tauride , afin d ' y être sacrifiée ! Quel Caucase , quelle Hyrcanie , quelle Lybie intérieure , quelle Inde nourrissent tant de bêtes aussi sanguinaires ? Quelle cruauté si grande pourrait égaler celle - ci ? Hélas ! elle excédait encore la férocité , la rage de tous ces animaux sauvages qui , brutalement , mettaient en pièces ces proies sur le sol et les décharnaient . |
+| source.excerpts.83.words.0 | subtil |
+| source.excerpts.83.words.1 | odorat |
+| source.excerpts.83.words.2 | bêtes |
+| source.excerpts.83.words.3 | serpents |
+| source.excerpts.83.words.4 | feux |
+| source.excerpts.83.words.5 | féroces |
+| source.excerpts.83.words.6 | Clytemnestre |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/d2d58d1d-7db5-55b7-90f5-5b9d60b17107 |
+| source.excerpts.84.value | ( 4 ) Fille d ' Acheloüs , donne son nom à la fontaine au pied du mont Parnasse .cette dernière , une eau douce , claire , à l ' odeur de musc , jaillissant à une hauteur de seize palmes ( 1 ) .La fontaine d ' Hercule ( 2 ) , à Gadès , ne versait pas des eaux aussi abondantes , aussi douces , que celles de ce fleuve : eaux si limpides , si pures , si déliées , qu ' à la vue elles ne semblaient pas environner un objet qui s ' y trouvait et qu ' elles ne le déformaient pas , mais tout ce qui était au fond se voyait en perfection , tout ce qui leur était présenté s ' y réfléchissait comme en un miroir . |
+| source.excerpts.84.words.0 | odeur |
+| source.excerpts.84.words.1 | musc |
+| source.excerpts.84.words.2 | eau |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/df02075e-733e-521d-bba8-f285e122044e |
+| source.excerpts.85.value | Une semblable disposition était partout uniformément observée .La seconde marche contenait du thym menu et odorant cher aux essaims d ' abeilles ; la troisième , une petite plante amère édulcorante du vin ( 3 ) , soit de l ' herbe nectarie ( 4 ) , soit de l ' aurone ( 5 ) .Une distribution pareille existait pour les quatre autels colloqués ainsi aux quatre angles de chacun des prés de cette première rangée toute couverte de lauriers nains . |
+| source.excerpts.85.words.0 | odorant |
+| source.excerpts.85.words.1 | thym |
+| source.excerpts.85.words.2 | aurone |
+| source.excerpts.85.words.3 | petite plante |
+| source.excerpts.85.words.4 | édulcorante |
+| source.excerpts.85.words.5 | herbe nectarie |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/e51b89f2-dd84-5b5f-ad1d-258c034ae0c8 |
+| source.excerpts.86.value | Je tenais , avec tant de plaisir , mes yeux grands ouverts fixés sur cette effigie céleste , j ' appliquais si fort tous mes sens à contempler une forme si belle , si rare , une image si divine , que de plus brûlantes attaques me venaient doucement assaillir davantage , cependant que mon âme se fondant en une extrême suavité , je demeurais insensé , tout anxieux , entièrement absorbé , curieux , à considérer avec surprise comment et pourquoi la liqueur pourprée , pénétrant les carnations précieuses de la main polie et satinée , cette main , toutefois , restait blanche comme du lait et aucune teinte rouge n ' y apparaissait .De même je me demandais par quel artifice la maîtresse Nature avait répandu et disséminé en ce très - beau corps tous les parfums de l ' Arabie ; avec quelle industrie elle avait , sur ce front illuminé de fils d ' or pareils à des pampres charmants , colloqué la plus belle partie du ciel , la splendide région Héraclienne ( 2 ) .Puis , portant mon attention sur ( 1 ) Le Penée et la vallée de Tempé . |
+| source.excerpts.86.words.0 | corps |
+| source.excerpts.86.words.1 | parfums |
+| source.excerpts.86.words.2 | région |
+| source.excerpts.86.words.3 | Arabie |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/e7e7d8fd-d0d0-5069-b33d-9b42fa78f30c |
+| source.excerpts.87.value | Je la vis , sous son bel aspect , semblable à Phoebus lorsqu ' il surgit coloré des teintes de la fraîche Aurore .Là , cérémonieusement , avec prestesse et assurance , elle versa du vase une liqueur parfumée et , de ses mains délicates , en oignit gracieusement son visage blanc comme le lait et vermeil comme les roses pourprées .Ainsi divinement purifiée , avec plus de ferveur que n ' en posséda peut - être la vierge AEmilia ( 2 ) , elle se plaça devant le degré du très - saint autel où était installé un admirable candélabre d ' or d ' une exécution accomplie , fort épais , élégamment garni et parsemé de grosses gemmes . |
+| source.excerpts.87.words.0 | parfumée |
+| source.excerpts.87.words.1 | liqueur |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/ed6541a4-d25a-5827-856a-848295343de3 |
+| source.excerpts.88.value | dans le praeféricule .Ces tourterelles immolées , jetées dans la flamme odorante , furent brûlées .L ' interprète des rubriques du rituel se prit à chanter et à psalmodier , puis toutes les assistantes psalmodièrent également en alternant avec elle . |
+| source.excerpts.88.words.0 | odorante |
+| source.excerpts.88.words.1 | tourterelles |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/ee1fe19f-08b5-5f9c-9297-7eb5cfc92034 |
+| source.excerpts.89.value | Puis , toutes ensemble s ' agenouillèrent , inclinées , sur cette verdure si agréable , si aimable et si plaisante .Alors moi , dépouillé de tout respect humain qui me retînt , je me jetai dans le sein de ma Polia , respirant cette bonne odeur extraordinaire qu ' elle exhalait si magnifiquement et si purement , tant de sa propre personne , que de ses fins vêtements inondés récemment d ' une rosée embaumante , et , profitant de son amou ¬ reuse permission , je baisai frénétiquement ses mains de lait , sa poitrine étincelante d ' un blanc de neige et d ' ivoire .Ces effets d ' une impulsion d ' amour furent mutuels . |
+| source.excerpts.89.words.0 | bonne |
+| source.excerpts.89.words.1 | odeur |
+| source.excerpts.89.words.2 | sein |
+| source.excerpts.89.words.3 | je |
+| source.excerpts.89.words.4 | extraordinaire |
+| source.excerpts.89.words.5 | rosée |
+| source.excerpts.89.words.6 | exhalait |
+| source.excerpts.89.words.7 | embaumante |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/efff4d26-9337-5471-84f8-6ff2a0e7da72 |
+| source.excerpts.90.value | Celles qui venaient après , d ' un côté comme de l ' autre de chaque porte , étaient en splendide hiéracite ( 3 ) .Puis , dans la même disposition , se voyaient des colonnes en chrysoprase , enfin les dernières , en atizoé ( 4 ) resplendissante , pierre qui a l ' éclat de l ' argent et qui dégage une bonne odeur .( 1 ) Pline , XXXVI , 6 . |
+| source.excerpts.90.words.0 | pierre |
+| source.excerpts.90.words.1 | bonne |
+| source.excerpts.90.words.2 | odeur |
+| source.excerpts.90.words.3 | atizoé |
+| source.excerpts.90.words.4 | chrysoprase |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/f3c5fde9-3976-5b58-a31a-3d5946de89a2 |
+| source.excerpts.91.value | La mosaïque , bien nivelée , couvrait tout le sol intérieur .L ' extérieur était absolument vert partout , sans places dénudées , entièrement de serpolet odorant , si bien rasé , qu ' aucune feuille ne dépassait l ' autre .Fort épais , égal , il allait couvrant le terrain d ' une verdure également taillée jusqu ' aux bords de la fontaine . |
+| source.excerpts.91.words.0 | odorant |
+| source.excerpts.91.words.1 | serpolet |
+| source.excerpts.91.words.2 | extérieur |
+| source.excerpts.92.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/f5dd54bc-c589-5d41-9190-ed36d7fdbdfd |
+| source.excerpts.92.value | Le cou de ces dragons adhérait à la boule placée au - dessus .Ils avaient la tête relevée et la gueule ouverte , par laquelle une eau très - parfumée jaillissait au moyen de tuyaux cachés .Les pieds de ces dragons , au nombre de six , étaient dirigés vers leur tête , leurs ailes étaient étendues . |
+| source.excerpts.92.words.0 | parfumée |
+| source.excerpts.92.words.1 | eau |
+| source.excerpts.92.words.2 | très - parfumée |
+| source.excerpts.93.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/f6c0f282-4be4-5ed3-a4c6-8434fc4d4372 |
+| source.excerpts.93.value | Ainsi ses regards éclataient dans mon coeur en nombreuses étincelles .Charmante elle proféra des paroles qui s ' échappaient , avec d ' angéliques accents , de sa bouche purpurine , vrai réceptacle de toute bonne odeur , écrin de perles orientales , pépinière fertile en mots doucement émis , paroles qui , tout à propos , dissipaient l ' inquiétude de mon esprit , paroles capables , sans aucun doute , d ' apaiser l ' aspect terrifiant de Méduse , de mitiger les atroces horreurs de Mars l ' enflammé et de le dépouiller de ses armes sanglantes , paroles capables d ' arracher le beau Ganymède aux serres de l ' aigle suprême , capables d ' amollir , de pulvériser les marbres les plus durs , les cailloux , les pierres les plus résistantes , les rocs abrupts de la Perse et de l ' inaccessible mont Atlas toujours couvert de nuages dans sa partie tournée vers l ' Océan , paroles capables d ' adoucir , d ' apprivoiser les fauves féroces de la Lybie , de revivifier tout mort réduit en cendres ou en poussière .Elle me dit ainsi , en saisissant ma main : « Très - cher Poliphile , allons à cette heure au rivage mugissant , ô toi que je tiens là si sage et si ferme ! J ' espère que nous parviendrons en joie au but où vise notre coeur ardent . |
+| source.excerpts.93.words.0 | bonne |
+| source.excerpts.93.words.1 | odeur |
+| source.excerpts.93.words.2 | Perse |
+| source.excerpts.93.words.3 | perles orientales |
+| source.excerpts.94.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/f7817fd0-de36-5322-8721-01c3c44ac949 |
+| source.excerpts.94.value | Il avait également une hauteur d ' un pas dans sa partie droite et mesurait un autre pas dans sa partie cintrée .Long de douze pieds , il était couvert de nobles rosiers chargés de roses vermeilles d ' une délicieuse odeur , gracieusement soutenues par des baguettes d ' or brillant .Le sol luisant , autrement dit le pavé , était fait en mosaïque de menus morceaux de pierres précieuses . |
+| source.excerpts.94.words.0 | odeur |
+| source.excerpts.94.words.1 | délicieuse |
+| source.excerpts.94.words.2 | rosiers |
+| source.excerpts.94.words.3 | roses vermeilles |
+| source.excerpts.95.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/f96f8973-891a-5727-8af1-4878b50085c7 |
+| source.excerpts.95.value | ( 3 ) Gliciacomo dans le texte , mot mal formé ; peut - être de j ' édulcore , et ο ῖ ν ο ς , vin .En effet , l ' herbe nectarée et l ' aurone servaient à parfumer le vin .( Pline , XIV , 19 . |
+| source.excerpts.95.words.0 | parfumer |
+| source.excerpts.95.words.1 | vin |
+| source.excerpts.95.words.2 | aurone |
+| source.excerpts.95.words.3 | herbe nectarée |
+| source.excerpts.96.@id | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/fcc71bfb-d464-5dd4-8c6e-c109cc4b13c7 |
+| source.excerpts.96.value | Ces substances étaient réparties en poids parfaitement gradués .Avertie , Polia , très - empressée , diligente au possible et respectueuse , approcha le cierge ardent de ces aromates .Tout aussitôt après qu ' elle les eut allumés , elle éteignit le cierge et le rangea . |
+| source.excerpts.96.words.0 | aromates |
+| source.excerpts.96.words.1 | ces |
+| source.author.0.@id | http://data.odeuropa.eu/actor/cbb87d95-bf55-5e69-9579-825d298dc66f |
+| source.author.0.label | Francesco  Colonna |
+| source.label | Le songe de Poliphile ou Hypnérotomachie de frère Francesco Colonna. Tome 2 / littéralement traduit pour la première fois, avec une introduction et des notes, par Claudius Popelin ; figures sur bois gravées à nouveau par A. Prunaire |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k1073368n |
+| source.date | 1883 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/200 |
+| smellSource.0.label | Tree |
+| time.0.@id | http://data.odeuropa.eu/time/6345e1a7-16cf-584c-b652-3c134011b20a |
+| time.0.label | 1883 |
+| time.0.begin | 1883 |
+| time.0.end | 1883 |
+| place.0.@id | https://sws.geonames.org/6255146/ |
+| place.0.label | Africa |
+| place.1.@id | https://sws.geonames.org/3718585/ |
+| place.1.label | Platon Grande Crête |
+| place.2.@id | https://sws.geonames.org/6049746/ |
+| place.2.label | La Petite-Patrie |
+| place.3.@id | https://sws.geonames.org/8378483/ |
+| place.3.label | Assyria (Roman province) |
+| relevantExcerpt | http://data.odeuropa.eu/source/a11e4257-e1df-560c-927a-4d0bc02ae2af/fragment/4cfe7c61-1af7-58dd-b63c-03b404337cfd |
+| license | Public domain |
+| adjective | parfumés |

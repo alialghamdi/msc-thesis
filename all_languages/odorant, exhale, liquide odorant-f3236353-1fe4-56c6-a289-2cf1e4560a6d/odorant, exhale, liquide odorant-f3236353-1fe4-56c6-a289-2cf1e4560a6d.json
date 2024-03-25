@@ -1,0 +1,332 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f3236353-1fe4-56c6-a289-2cf1e4560a6d",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odorant",
+    "exhale",
+    "liquide odorant"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/00fddbbd-6eb2-5e43-95d0-0cccbc297dfc",
+        "value": "Sa marche est lente , et il laisse à sa suite des cicatrices indélébiles , et , dans certains cas , de véritables difformités .Nous admettons deux espèces bien distinctes d ' impeligo rodens : 1 ° l ' un de nature scrofuleuse , répond à notre scrofulide maligne crustacée ulcéreuse ; 2 ° l ' autre est une syphilide pustulo - crustacée simple ou serpigineuse .Aux cinq variétés décrites par l ' auteur anglais , MM .",
+        "words": [
+          "syphilide",
+          "scrofulide",
+          "impeligo rodens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/086502da-b5d0-572e-8d4b-54d96f2b5881",
+        "value": "Ce fait , d ' ailleurs assez rare , a été surtout observé pour les ganglions axillaires , dans des cas de pemphigus confluent du membre thoracique .— En vous parlant de l ' urticaire , messieurs , je me suis attaché à vous montrer combien cetle affection générique diffère d ' ellemême , suivant qu ' elle revêt la forme aiguë ou la forme chronique , elpour mieux consacrer , en quelque sorte , celle distinction fondamentale , j ' ai proposé de donner à la première forme le nom d ' urticaire , et à la deuxième celui de cnidosis .Or , cette division n ' esl ici ni moins importante , ni moins radicale qu ' elle ne l ' était à l ' égard de l ' urticaire .",
+        "words": "urticaire"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/2a2fdb7a-6222-5f8a-860a-48ca52006d06",
+        "value": "Vous agirez de môme à l ' égard des ulcères , s ' ils ont été mis à nu par la chute 276 HUITIÈME LEÇON .spontanée ou accidentelle des croûtes , et si ces moyens ne suffisaient pas , si les surfaces restaient blafardes ou grisâtres , vous auriez recours aux topiques détersifs , tels que l ' onguent styrax el l ' onguent digestif , aux lotions avec l ' alcool étendu , l ' eau blanche ou le vin aromatique , ou même à de légères cautérisations avec le nitrate d ' argent .Telles sont les indications tirées du genre , les seules qui doivent nous occuper ici .",
+        "words": [
+          "aromatique",
+          "vin",
+          "onguent",
+          "onguent styrax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/2a69b61c-eae4-515d-83d5-a1da80fb7b41",
+        "value": "érylhémateux , rosé ou violacé dans la scrofule , d ' un rouge sombre ou cuivré dans la syphilis .» Le pus n ' est pas le même dans les deux cas : il est semblable à du petit lait , plus ou ou moins trouble , jaunâtre ou roussâlre , avec des fragments caséeux ou ûbrineux , d ' une odeur fade , dans la scrofule ; sanieux , plus ou moins fétide , pareil à la colle ou à une solution de gomme , dans la syphilis .j Enfin , l ' ulcère tertiaire de la syphilis diffère de l ' ulcère scrofuleux .",
+        "words": [
+          "fétide",
+          "odeur",
+          "fade",
+          "sanieux",
+          "pus",
+          "scrofule",
+          "fragments caséeux ou ûbrineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/380ab799-dd44-5970-882e-e6f6321b0587",
+        "value": "Elle se caractérise par des plaques dures , peu élevées , prurigineuses , accompagnées de douleurs lancinantes qui se font sentir profondément , tntre cuir et chair , pour nous servir de l ' expression des malades .Je rattache cette variété à l ' urticaire dartreuse .6 ° Urticaria tuberosa .",
+        "words": [
+          "urticaire",
+          "dartreuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/390b2ffb-00b9-501a-88d1-29e6061b1514",
+        "value": ", comme il arrive dans la miliaire épidémique .En même temps , les malades éprouvent une chaleur brûlante , - une sensation prurigineuse et formicante parfois d ' une grande intensité .Enfin arrive la période de dessiccation .",
+        "words": [
+          "malades",
+          "sensation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/3ce894b7-6bac-5839-9ddc-e44a5e52cfe1",
+        "value": "Dans ce cas , les signes différentiels se tirent , vous le savez , de trois sources principales : 1 ° des caractères des croûtes ; 2 ° de l ' état des cheveux ; 3 ° de l ' examen microscopique .Dans lefavus , les croûtes sont sèches , ternes , adhérentes , d ' une couleur jaune soufrée , d ' une odeur sui generis , d ' une cassure pulvérulente ; elles sont souvent figurées en forme de godets , el traversées par un poil à - leur partie centrale .Au - dessous de ces croules , on trouve une surface légèrement déprimée et revêtue d ' une mince lamelle épithéliale , tandis que les croûtes de l ' impétigo recouvrent constamment une ulcération du derme .",
+        "words": [
+          "sui generis",
+          "odeur",
+          "elles",
+          "croûtes",
+          "cassure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/3f48f662-6fcc-5c7a-b6b5-e7ad6239ee45",
+        "value": "La nature de l ' impétigo rodens n ' est pas toujours facile à déterminer .Est - il scrofuleux ou syphilitique ? tel est le problème important qui se présente à chaque instant dans la pratique .Les difficultés semblent s ' accroître encore , lorsque l ' affection occupe le nez qui constitue , comme je vous l ' ai dit , son siège de prédilection .",
+        "words": [
+          "scrofuleux",
+          "syphilitique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/4892aebd-0544-51a3-a633-91a07288739e",
+        "value": "La croûte est épaisse , brunâtre , enchâssée dans la peau , formée d ' un plus ou moins grand nombre de couches superposées assez souvent concentriques .Lorsqu ' elle vient à se détacher , on voit des surfaces ulcérées , formant des excavations irrégulières et anfraclueuses , ou bien , ces surfaces paraissent saillantes , comme boursouflées et granuleuses , rouges ou d ' un blanc rougeâtre , imbibées d ' une liqueur ichoreuse , sanieuse , plus ou moins - fétide .Mais je n ' ai point ici à vous décrire la scrofulide crustacée 200 SIXIÈME LEÇON .",
+        "words": [
+          "fétide",
+          "liqueur",
+          "moins - fétide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/56ed32c0-9cd8-527b-9e92-22c5bf8fb9e7",
+        "value": "Si les croûtes sont Irès - épaisses , profondément enchâssées dans la peau , si la pression fait sourdre du pus à leur circonférence , il faut en provoquer la chute au moyen de cataplasmes émollienls , et panser les surfaces IMPÉTIGO DE CAUSE INTERNE .209 mises à nu au moyen de tamponnels de charpie imbibés de coaltar saponiné , de liqueur de Labarraque étendue , de vin aromatique , du solulum de larlrate ferrico - polassique , etc .Si les ulcères sont fongueux , blafards , les lotions excitantes , les cautérisations au nilrate d ' argent , etc .",
+        "words": [
+          "aromatique",
+          "vin",
+          "liqueur",
+          "coaltar",
+          "larlrate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/677f6bcb-4ebb-5b08-9655-766515189cab",
+        "value": "Celle affection s ' accompagne assez souvent de leucorrhée ; elle peut se propager jusque dans l ' intérieur du vagin , et devenir ainsi une cause d ' onanisme ou de nymphomanie .Dans le prurigo partiel , l ' éruption papuleuse fait le plus habituellement défaut , mais elle est remplacée , dans les trois dernières variétés surtout , par des altérations toutes spéciales de la membrane cutanée : la peau brunit , se boursoufle , s ' épaissit , el prend un aspect humide et comme muqueux : elle se ride , se gerce , se fendille ; des stries blanches se dessinent à sa surface - ; l ' épidémie se flétrit , comme macéré , et de toute la région s ' exhale un liquide odorant , surtout appréciable au moment des paroxysmes .M .",
+        "words": [
+          "odorant",
+          "peau",
+          "exhale",
+          "région",
+          "liquide odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/6faa0dbc-a121-5360-94d3-8ad5d108a6a1",
+        "value": "— Urticaire untuogénctiuuc , ou provoquée indirecte .L ' urticaire pathogénélique se montre à la suile de l ' ingestion de certaines substances alimentaires , parmi lesquelles il faut citer les crabes , les moules , les écrevisses , le homard , la langouste , les crevettes , les huîlres , etc .Les poissons salés ou fumés , la viande de porc , quelques aliments de provenance végétale , tels que les amandes , les fraises , les concombres , etc .",
+        "words": [
+          "urticaire",
+          "certaines substances alimentaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/7038ce8a-3534-5ecc-ba21-2198890289c1",
+        "value": "Une partie de ces grains reste en contact avec les téguments du crâne ; l ' autre en est séparée par les ongles du malade et glisse sur les cheveux , qui en sont tout hérissés .Celte affection siège de préférence à la partie postérieure de la tête ; elle s ' accompagne presque toujours d ' une odeur infecte , et dans ce cas des poux pullulent en grand nombre au milieu des croûtes ..",
+        "words": [
+          "infecte",
+          "odeur",
+          "affection"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/76044e91-35fb-55b9-9460-86f7cd138cec",
+        "value": "La durée individuelle de chaque élément est de deux à trois jours en moyenne ; mais il est bien rare que tout soit dit après une seule éruption , et le plus souvent la miliaire se prolonge , par poussées successives , pendant trois , quatre et même cinq et six septénaires .L ' existence des sueurs est un fait presque aussi constant dans la miliaire que l ' inflammation vésiculeuse de la peau ; très - modérées et même presque insensibles , dans les cas ordinaires , elles peuvent être profuses , vaporeuses , d ' une odeur de vinaigre , de moisi , de paille pourrie , etc ., comme il arrive dans la miliaire épidémique .",
+        "words": [
+          "odeur",
+          "moisi",
+          "vinaigre",
+          "paille",
+          "profuses",
+          "vaporeuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/7e47ff7f-2e44-5374-9621-800ef6155c25",
+        "value": "Cette forme s ' accompagne très - fréquemment de blépharites rebelles et de croûtes impétigineuses dans les fosses nasales .De même que la variété figurata , elle fait partie de notre scrofulide bénigne exsudative .L ' impeligo granulata ( teigne granulée d ' Alibert , galons ) se caractérise , dit M .",
+        "words": [
+          "exsudative",
+          "bénigne",
+          "scrofulide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/8c3e5a02-1709-5dd8-96a0-ea3359595d9d",
+        "value": "227 sexuelles , au pli des cuisses , aux parois thoraciques ou abdominales .Des bulles apparaissent , qui laissent échapper un fluide d ' une odeur fétide ; et la surface dénudée s ' ulcère aussitôt el se creuse .Celte forme s ' accompagne de symptômes généraux souvent graves , et la mort peut survenir en dix ou quinze jours .",
+        "words": [
+          "fétide",
+          "odeur",
+          "fluide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/8e92f11c-c332-561b-a194-6840eefdb218",
+        "value": "5 ° Produits exhalés .— Quand une surface ulcérée sécrète un pus jaune verdàlre , bien lié , louable en un mot , pour nie servir d ' une expression consacrée , on doil espérer une prompte guérison ; mais le pronostic devient fâcheux quand elle exhale un liquide séreux , ichoreux et fétide .6U Évolution , transformation .",
+        "words": [
+          "fétide",
+          "exhale",
+          "liquide",
+          "surface"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/98ba52b8-ccd1-55a1-8a48-9ce3f5cfc67f",
+        "value": "Mais d ' autres fois , dit - il , le mal serpente de cellule en cellule , les croules s ' enfoncent profondément , s ' étendent au loin , et il convient alors , pour établir son jugement , de ler 182 SIXIÈME LliÇON .nir grand compte de la couleur des croûtes , de leur odeur , de l ' état des parties voisines : « Color flavus , sordide viridescens , consistenlia crustarum alque puris inde spissior , bine vero mucosa et flocculenla , pessumdatam cmnino humoris naturam demonstrant ..",
+        "words": [
+          "odeur",
+          "croûtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/a743e78c-9409-5a3b-939a-f9523a162e75",
+        "value": ", etc .Enfin , comme les caustiques déterminent fréquemment une réaction inflammatoire assez vive , il est bon de faire laveries parties affectées avec des décoctions ou des infusions de plantes émollienles ou légèrement narcotiques , dans l ' intervalle qui sépare chaque cautérisation .CHAPITRES II ET III .",
+        "words": [
+          "plantes",
+          "narcotiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/acac7292-228c-5b46-8203-cc18d7399a28",
+        "value": "les traits disparaissent sous une sorte de masque hideux el difforme , comme il arrive dans les cas de variole confluenle .Ces croûtes exhalent une odeur fétide et nauséabonde ; elles sont jaunâtres , quelquefois brunes ou noires , irrégulières , rugueuses , fissurées de dislance en distance par le fait des mouvements alternatifs dont la face est le siège .Au - dessous des croûtes sont des surfaces rouges , ulcérées par petites places , granuleuses et quelquefois comme fongueuses et végétantes dans certains points .",
+        "words": [
+          "fétide",
+          "odeur",
+          "elles",
+          "nauséabonde",
+          "Ces croûtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/bda0235b-299d-514b-9851-985995a1099b",
+        "value": "Dans certains cas , il donne des signes très - uliles .La gangrène ne se traduit - elle pas par une odeur caractéristique , spéciale ? Quand les autres signes ne sonl pas bien tranchés , l ' odeur de souris n ' indique - l - el ! e pas assez qu ' il s ' agit d ' un favus ? 6 ° Forme .— La forme alvéolaire appartient au favus et au favus seul , et constitue par conséquent un signe pathognomonique de cette teigne .",
+        "words": [
+          "odeur",
+          "spéciale",
+          "caractéristique",
+          "souris",
+          "gangrène"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/c015831b-756f-589b-a7c0-593a11b55ed7",
+        "value": "» — Ce dernier passage se rapporte très - probablement à notre scrofulide maligne cruslacée ulcé reuse .Localisée dans les premiers temps sur le cuir chevelu , la gourme impétigineuse se répand ensuite sur les oreilles , le cou , la face , et peut même s ' étendre assez rapidement à loule la surface de la peau .Dans d ' autres cas , de - beaucoup plus rares , elle apparaît primitivement sur une région quelconque du corps .",
+        "words": [
+          "cou",
+          "oreilles",
+          "gourme",
+          "impétigineuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/c90c61ec-84e1-5db9-8b3f-425f22186ec7",
+        "value": "3 ( 51 de riz , d ' amidon , lotions à l ' eau de sureau , à l ' eau de guimauve , etc .Si les ulcères sont à nu , s ' ils sont atoniques , blafards , on aura recours aux lotions slypliques el stimulantes avec la teinture d ' aloès , le vin aromatique , la liqueur de Labarraque , l ' eau de goudron , etc .Ici se place encore le coaltar saponiné , dont vous connaissez , la merveilleuse influence sur toutes les suppurations de mauvaise nature .",
+        "words": [
+          "teinture",
+          "aromatique",
+          "vin",
+          "lotions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/c9950302-1ca5-5c08-8cdc-4b4f841a7a58",
+        "value": ".» — Ce dernier passage se rapporte très - probablement à notre scrofulide maligne cruslacée ulcé reuse .Localisée dans les premiers temps sur le cuir chevelu , la gourme impétigineuse se répand ensuite sur les oreilles , le cou , la face , et peut même s ' étendre assez rapidement à loule la surface de la peau .",
+        "words": [
+          "maligne",
+          "scrofulide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/c9d14cd7-5842-5563-b7a6-78e4a095db4c",
+        "value": ", quelques médicaments , tels que la valériane , la jusquiame , le baume de copahu , l ' eau de Seltz , ont paru jouir parfois de propriétés analogues .Lorry a fort bien indiqué cette forme d ' urticaire , qu ' il a le tort d ' attribuer à une altération humorale survenue par le fait de la substance ingérée : « Saîpe mitulis , oslreis , ■ » aliisque marinis cruslaceis imprudenliùs comeslis , subito » non sine pruritu atque calore per tolum corpus papulae » lalserubese erumpunt .Simulque et gula inflari , et aliqua » tussis exsurgere .",
+        "words": [
+          "substance",
+          "urticaire",
+          "Lorry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/cd51ee8a-596e-5427-a7df-4de1bdf0801f",
+        "value": "La roséole de cause interne peut être idiopathique ou symptorna tique .La roséole idiopathique constitue une véritable maladie , dans le sens absolu que nous attachons à ce mot , c ' est - àdire un étal morbide général ayant ses lois particulières et 76 TROISIÈME LEÇON .son autonomie propre .",
+        "words": "roséole"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/cd82f3c9-8e4a-5f33-8ad9-78d6b671cb2c",
+        "value": "son autonomie propre .Aussi la rapprochons - nous des véritables pyrexies exanthématiques .La roséole symplomatique n ' est que le reflet à la peau d ' une maladie constitutionnelle , la dartre ou la syphilis .",
+        "words": [
+          "pyrexies",
+          "exanthématiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/db5b59c2-ecf6-5de1-9132-cd57fae33154",
+        "value": "Puis , on aura recours aux topiques légère - DU îtupiA .299 ment astringents , aux solutions ferrugineuses , au vin miellé ou aromatique , au sulfale de zinc , à la crème de tartre préconisée par M .Rayer , etc .",
+        "words": [
+          "aromatique",
+          "vin",
+          "astringents",
+          "solutions",
+          "miellé",
+          "sulfale de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/f6fdfae5-7e3e-5a1d-9d37-64cd7915be7a",
+        "value": "171 recourir à des modificateurs d ' une grande puissance , à la teinture d ' iode , à la pierre infernale , aux caustiques de Vienne ou de Canquoin , elc .— Si les ulcérations qui succèdent à l ' impétigo malin ont un caractère gangreneux ou phagédénique , vous retirerez de grands avantages des lotions chlorurées ou toniques , des pansements avec le vin aromatique el surtout avec le coaltar saponiné , qui arrête et modifie d ' une manière si prompte et si heureuse les suppurations de mauvaise nature .Tels sont les moyens locaux que l ' on peut mettre successivement en oeuvre dans le cours de l ' impétigo .",
+        "words": [
+          "aromatique",
+          "vin",
+          "lotions",
+          "coaltar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/fb085d57-2b4c-5c75-9d71-70019349ef7f",
+        "value": "Elles entraînent après elles des difformités plus ou moins grandes , et toujours irréparables .La scrofulide ulcéreuse fibro - plastique procède quelquefois d ' une autre manière .« Un point isolé , rouge et tuméfié se montre sur la peau de l ' aile du nez .",
+        "words": "scrofulide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/fb6f68de-8992-5cd3-a6cb-6ab9d3d3e3c0",
+        "value": "— Suppuralion presque simultanée dans toute l ' étendue delà tumeur .— Pus semblable à du petit — lait , trouble , jaunâtre ou roussâtre , avec des fragments caséeux ou fibrineux , d ' une odeur fade .— Marche chronique .",
+        "words": [
+          "odeur",
+          "fade",
+          "fragments caséeux ou fibrineux"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/97501b52-b508-5ad5-80f9-abdc7fdb132f",
+        "label": "Ernest  Bazin"
+      }
+    ],
+    "label": "Leçons théoriques et cliniques sur les affections génériques de la peau. Volume 2 / professées par le Dr E. Bazin,... ; rédigées et publiées par le Dr Émile Baudot,... (et le Dr Léon Guérard)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57240897",
+    "date": "1862/1865",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/628",
+      "label": "Skin"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/12173ca5-5c23-5e93-bb12-fa64788395a7",
+      "label": "1862/1865",
+      "begin": "1862",
+      "end": "1865"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/8bf3af80-a36e-5ed3-a145-c103017326cd/fragment/677f6bcb-4ebb-5b08-9655-766515189cab",
+  "license": "Public domain",
+  "adjective": "odorant"
+}

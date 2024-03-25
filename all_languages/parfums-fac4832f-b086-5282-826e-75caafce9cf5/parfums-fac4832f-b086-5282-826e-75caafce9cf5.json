@@ -1,0 +1,425 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/fac4832f-b086-5282-826e-75caafce9cf5",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/063592dc-9f1c-5330-8c98-2e347f253fdf",
+        "value": "Arbres et buissons ne font qu ' un immense massif de verdure sombre : ce sont des touffes de caroubiers , de chênes , de térébinthes et de genêts .Mille fleurs émaillent le gazon , et de tous les coins de la montagne s ' exhalent les senteurs des plantes aromatiques .L ' Écriture a vanté la beauté du Carmel , en même temps que la gloire du Liban .",
+        "words": [
+          "fleurs",
+          "plantes",
+          "senteurs",
+          "aromatiques",
+          "exhalent",
+          "la montagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/075c348e-437f-585d-b226-20fa05b99b95",
+        "value": "' ; l ' air .Il y a peu de végétation sur le rivage ; par conséquent , il ne peut y avoir que peu de décomposition végétale pour corrompre l ' air , et l ' odeur puante que nous aA ^ dns souvent remarquée proAmenait certainement des sources chaudes chargées de soufre , que l ' on ne considère pas comme contraires à la santé .Nous avons trouvé trois fois , il est vrai , des oiseaux morts ; mais ils avaient péri d ' épuisement , sans aucun doute , et nullement à cause de l ' air malsain de la mer , qui est tout à fait inodore , et qui émet plus qu ' aucun autre des vapeurs salées , que l ' on tient comme saines , autant que je puis croire .",
+        "words": [
+          "puante",
+          "odeur",
+          "air",
+          "nous",
+          "sources",
+          "rivage",
+          "dns souvent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/0fcce9af-d1bf-58bd-a7fd-0f8e2a51d28b",
+        "value": "La nécessité nous ayant forcés à soulever une des tables d ' albâtre que sainte Hélène y avait ' fait placer pour recouvrir le sépulcre , afin qu ' il fût possible d ' y célébrer la sainte messe , nous Aimes à découvert ce lieu ineffable où notre Seigneur reposa durant trois jours .Ce lieu , où l ' on distinguait encore dans tous ses contours des traces du sang de notre Sauveur , mêlé aux aromates qui servirent à l ' embaumer , offrait à nos yeux comme l ' image d ' un soleil resplendissant .A cette Arue , nous poussâmes de pieux gémissements , des larmes de joie s ' échappèrent de nos yeux , nos lèvres baisèrent avec amour ces restes vénérés et divins .",
+        "words": [
+          "nos",
+          "aromates",
+          "embaumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/14388571-355f-51e7-9e3b-dda866532a47",
+        "value": "251 s ' enfuit dans le désert , et mena une Aie agitée jusqu ' à ce qu ' il Arînt lui - même s ' asseoir sur le trône .Le térébinthe , qui a donné son nom à la A ' allée , est un arbre célèbre , en Orient , par la beauté de son feuillage et la suave odeur de son bois .Il est résineux , et donne , par incision , la Aréritable térébenthine employée dans les préparations pharmaceutiques .",
+        "words": [
+          "bois",
+          "suave",
+          "odeur",
+          "feuillage",
+          "allée",
+          "Orient",
+          "térébinthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/1710e0e6-168b-561f-bce0-b9c978255230",
+        "value": "Il est résineux , et donne , par incision , la Aréritable térébenthine employée dans les préparations pharmaceutiques .L ' écorce est aromatique , et se brûle comme de l ' encens .On confit et on mange les fruits , qui ont une saAreur légèrement acide .",
+        "words": [
+          "aromatique",
+          "encens",
+          "écorce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/192b035d-3891-5297-a6b9-81f6bc6fb9bc",
+        "value": "La mer , dit Josèphe , était rouge de sang et couverte de cadavres .Quelques jours après , ces corps flottant à la surface de l ' eau , enflés et livides , corrompirent l ' air d ' émanations pestilentielles , de sorte que les contrées voisines en furent infectées : six mille cinq cents hommes avaient péri .Les étrangers qui n ' avaient pu suivre leurs compatriotes sur le lac furent saisis à Tarichée et condamnés à mort .",
+        "words": [
+          "corps",
+          "air",
+          "émanations",
+          "pestilentielles",
+          "Quelques jours après"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/1b2966b5-0eeb-534b-aa68-7eb09860a0d4",
+        "value": "Nous y aA ' ons remarqué des orangers , des citronniers , des mûriers , des oliviers , les autres arbres qui prospèrent sur les côtes de la Méditerranée , et surtout des bananiers gigantesques .Les fruits du bananier y atteignent une parfaite maturité ; ailleurs ils ne sont ni aussi doux ni aussi parfumés ; dans tout l ' Orient , les dattes de Sidon < sont recherchées .Les poissons se trouvent en abondance au marché de Sidon .",
+        "words": [
+          "parfumés",
+          "Orient",
+          "fruits du bananier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/214013bc-d872-56d5-8f69-7b65761625b5",
+        "value": "On assure aussi qu ' on jetait au fond les immondices de la ville : c ' était comme la voirie de Jérusalem .En plusieurs circonstances , afin de purger l ' air des exhalaisons pestilentielles qui s ' en échappaient , on fut contraint de brûler les cadavres d ' animaux qui s ' y trouvaient amoncelés .Sur les pentes de la même colline se trouve le champ du potier , Haceldama , ou le Champ du sang , qui fut acheté des deniers de la trahison de Judas pour serAir à la sépulture des étrangers .",
+        "words": [
+          "air",
+          "exhalaisons",
+          "pestilentielles",
+          "En plusieurs circonstances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/23f8329d-b40d-5c07-9036-04f14dc74033",
+        "value": "Il y a peu de végétation sur le rivage ; par conséquent , il ne peut y avoir que peu de décomposition végétale pour corrompre l ' air , et l ' odeur puante que nous aA ^ dns souvent remarquée proAmenait certainement des sources chaudes chargées de soufre , que l ' on ne considère pas comme contraires à la santé .Nous avons trouvé trois fois , il est vrai , des oiseaux morts ; mais ils avaient péri d ' épuisement , sans aucun doute , et nullement à cause de l ' air malsain de la mer , qui est tout à fait inodore , et qui émet plus qu ' aucun autre des vapeurs salées , que l ' on tient comme saines , autant que je puis croire .te Autour de nous et au - dessus de nous , continue le même écriAraîn , il y aArait de noirs abîmes , et les pointes âpres des rochers enveloppées d ' une brume transparente , pareille à une atmosphère Aisible qui semblait les laisser entrevoir involontairement ; et à treize cents pieds au - dessous de nous , notre sonde avait touché à la plaine enfouie de Siddim , qui est maintenant couverte de fange et de sel .",
+        "words": [
+          "vapeurs",
+          "inodore",
+          "malsain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/2569d304-0745-5acd-8cf1-33423feaa580",
+        "value": "Lynch panint au lieu de l ' immersion des pèlerins , qu ' il signale comme étant un passage dangereux .L ' approche de la mer Morte s ' annonça par une odeur fétide , due à des courants imprégnés de soufre ; les barques entrèrent dans la mer Morte par un A ' ent frais du nord - ouest .La mer agitée offrait à sa surface comme une couche de saumure écumante .",
+        "words": [
+          "fétide",
+          "odeur",
+          "mer Morte",
+          "courants",
+          "la mer Morte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/31b02fcd-db03-5c1a-b504-47b6a01e2771",
+        "value": "Après avoir suivi un chemin aride , à travers des roches nues et calcinées , durant à peu près un kilomètre , IeA ' oyageur est surpris tout à coup le plus agréablement clu monde .Une charmante vallée s ' offre à ses yeux , tout émaillée de fleurs , embaumée des suaves émanations des fleurs et des fruits , remplie d ' arbres vigoureux et de plantes sans nombre .Il y distingue le figuier , le pommier , l ' oranger , le citronnier et le grenadier : on y recueille du blé , du riz et des légumes .",
+        "words": [
+          "suaves",
+          "fruits",
+          "fleurs",
+          "émanations",
+          "embaumée",
+          "vallée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/420b5fd0-4cbe-52ae-9e03-e777e3ff0684",
+        "value": "A cette vue le pieux monarque ne peut retenir ses larmes , et comme ses compagnons reculent deArant le pénible devoir d ' enterrer ces tristes restes tombant déjà en putréfaction , il leur donne le plus touchant exemple de charité .Saint Louis invite le légat à bénir un cimetière ; puis , descendant de cheA ' al , il charge lui - même sur ses épaules un cadaATe qui exhalait une odeur infecte : Allons , mes amis , s ' écrie - t - il , allons donner un peu de terre aux martyrs de Jésus - Chrisl .En 1289 , les chrétiens furent dépossédés à jamais de cette Aille .",
+        "words": [
+          "infecte",
+          "odeur",
+          "cimetière",
+          "cadaATe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/4215f193-d2e5-51d1-9312-596b33557806",
+        "value": "Autour de la source , et le long du ruisseau qui s ' en échappe en murmurant , des .arbres touffus répandent une ombre épaisse et entretiennent une atmosphère fraîche et parfumée .Nous reconnaissons l ' acacia aux fleurs jaunes ; le jujubier sauvage , dont les fruits ressemblent à ceux du cormier , et dont les fleurs sont formées de petites corolles tubulées d ' un rouge écarlate ; le zakkum , qui ressemble au prunier d ' Europe , et dont le fruit donne une espèce d ' huile estimée des Arabes pour la guérison de diverses maladies ; les noyaux servent à faire des chapelets ; le hadag , qui produit un fruit jaunâtre , gros comme une noix , dont la chair mêlée de graines se change en poussière au temps de la maturité : plusieurs le prennent pour la pomme de Sodome , dont la couleur flatte agréablement les yeux , mais qui tombe en poudre dans la main .",
+        "words": [
+          "parfumée",
+          "atmosphère",
+          "fraîche",
+          "arbres touffus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/435346b1-d34b-51d6-824d-9e59b2d90da9",
+        "value": "Après les pluies torrentielles de l ' hiver , les rayons du soleil de l ' Orient échauffent promptement la terre .Comment dépeindre la perspective joyeuse qui se déroule sous nos yeux au sortir de Jérusalem , la Aille des ruines ? Mille fleurs étalent leurs bouquets et répandent leurs parfums .Nous remarquons de charmants oeillets sauArages de couleur Ariolette , qui nous rappellent les élégantes fleurs rustiques aimées de la reine Claude et si communes en Touraine sur la lisière des bois , des anémones rouges et des fleurs jaunes sans nombre ; les oliA ' iers et les figuiers , aussi Aigoureux qu ' en aucun lieu de la Palestine .",
+        "words": [
+          "Jérusalem",
+          "fleurs",
+          "leurs",
+          "parfums",
+          "Aille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/48c4bc87-fb7e-527c-b8ec-7a8982040ca9",
+        "value": "L ' auteur du livre de la Sagesse dit que le vin excite la gaieté ; mais il réprimande vivement ceux qui en prennent jusqu ' à perdre la raison .Celui que les Juifs prisaient davantage était doux et parfumé , vinum condilum , suivant l ' expression du Cantique des cantiques ' ; le goût 1 vin , 2 .384 GALILEE .",
+        "words": [
+          "parfumé",
+          "les Juifs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/5a0681fe-add9-5d9e-b524-c65a7f662db6",
+        "value": "TYR ET SIDON .485 tions intérieures de ces somptueux logis , où les émanations aromatiques du bois de cèdre entretenaient constamment une odeur suave et salubre .En 1252 , saint Louis releva les remparts de Sidon démolis par les musulmans de Damas .",
+        "words": [
+          "suave",
+          "odeur",
+          "émanations",
+          "aromatiques",
+          "salubre",
+          "bois de cèdre",
+          "constamment",
+          "somptueux logis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/65347e26-5916-5314-bdd1-a0fbb3c7b862",
+        "value": "Bientôt aux rives encaissées de la mer de Galilée succèdent de frais vallons , arrosés de fontaines abondantes .La végétation y paraît luxuriante , et sur le bord de sources chaudes , dont l ' odeur sulfureuse trahit l ' origine volcanique , elle s ' épanouit plus splendidement encore .Parmi des arbres au feuillage touffu se dressent , comme dans un verger , de beaux arbres à fruit , noyers , poiriers , oliviers , grenadiers , orangers .",
+        "words": [
+          "odeur",
+          "sulfureuse",
+          "luxuriante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/77df9e90-72e3-5aa4-8848-cc0c89a12644",
+        "value": "Autrefois elle était entièrement pavée et bien entretenue .Plus d ' un historien , par suite d ' une exagération facile à comprendre dans des régions ordinairement brûlées par le soleil , nous la représente comme agréablement ombragée , bordée de rosiers , de Aignes et de plantes odoriférantes : pour eux c ' était une allée de jardin et un chemin du paradis .Nous ne deArons pas omettre de signaler un point de la route consacré par le souvenir du prophète Élie , et d ' où l ' on jouit d ' une perspectiA ^ e admirable .",
+        "words": [
+          "plantes",
+          "odoriférantes",
+          "rosiers",
+          "paradis",
+          "Aignes",
+          "allée de jardin",
+          "un historien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/7c5b264a-b334-5cf7-855e-1c7c31edf6a7",
+        "value": "Les anciens conservaient le vin dans des vases de terre ou dans des outres en peaux de chèvres ; le poil était à l ' intérieur de l ' outre et ordinairement enduit de résine .Ce singulier mode de transport et de conservation du vin , encore en vigueur dans l ' Orient , communique au vin une odeur et un goût auquel l ' odorat et le palais des Européens ont de la peine à s ' accoutumer .Cana nous rappelle non - seulement le miracle du changement de l ' eau en vin , mais encore que Jésus - Christ a voulu par sa présence sanctifier la cérémonie des noces .",
+        "words": [
+          "odeur",
+          "vin",
+          "odorat",
+          "Européens",
+          "Orient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/8125cd8b-9611-5922-87a9-08097c5dfed2",
+        "value": "gardes , et couvert de vêtements blancs , insigne de la dignité royale .Il s ' était plu à y réunir les plantes les plus rares et les plus variées : l ' odorat et la vue y étaient également flattés .Sous un ciel brûlant , et au centre des montagnes de la Judée , où la sécheresse fut toujours excessive , Salomon possédait un petit éden à la porte de Jérusalem .",
+        "words": [
+          "plantes",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/83ea702e-9954-5169-9d8e-8d2e3f44a2a9",
+        "value": "Plusieurs sources s ' échappent des collines boisées qui forment les premiers gradins de la montagne .Le sommet est un plateau de deux kilomètres de circonférence , légèrement incliné vers l ' ouest , et couvert d ' yeuses , de noyers , de lierres , de bosquets odorants et de ruines antiques .La tradition rapporte que la transfiguration de notre Seigneur eut lieu dans la partie sud - est du plateau .",
+        "words": [
+          "odorants",
+          "sommet",
+          "lierres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/899824f0-15f1-5f0b-aaf4-40f4caf4501b",
+        "value": "Les plaies invétérées , surtout celles qui proviennent de blessures d ' armes à feu , y sont cicatrisées assez promptemenl .La principale source a une température de cinquante à soixante degrés centigrades ; elle exhale une odeur sulfureuse prononcée , et tient en dissolution de la 1 Joseph ., De Bello Jud .",
+        "words": [
+          "odeur",
+          "elle",
+          "sulfureuse prononcée",
+          "principale source"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/8b3daf68-94ee-5331-9418-7958482f7563",
+        "value": "Les coteaux sont couronnés de pampres : la vigne y produit des vins généreux , qui ne le cèdent point en qualité aux fameux vins d ' or du Liban .Par suite d ' une vieille routine , les habitants du pays gardent leurs vins dans des vases en terre enduits de térébenthine à l ' intérieur , ce qui leur donne une odeur et une saveur désagréables .Après avoir escaladé plusieurs collines , nous montons les ' gradins en pente douce sur lesquels s ' étagent les maisons de la ville actuelle dans un désordre pittoresque .",
+        "words": [
+          "odeur",
+          "leur",
+          "vins",
+          "désagréables",
+          "térébenthine",
+          "vases",
+          "habitants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/917d4709-ecaa-5675-9e98-2cb406cc25d7",
+        "value": "Du haut des arcades , où ils se sont nichés comme des colombes , du fond des chapelles ou des souterrains , ils font entendre leurs cantiques à toutes les heures du jour et de la nuit : l ' orgue du religieux latin , les cymbales du prêtre abyssin , la voix du caloyer grec , la prière du solitaire arménien , l ' espèce de plainte du moine cophte , frappent tour à tour ou tout à la fois votre oreille .Vous ne savez d ' où partent ces concerts ; A ' OUS respirez l ' odeur de l ' encens sans apercevoir la main qui le brûle : seulement , vous voyez passer , s ' enfoncer derrière des colonnes , se perdre dans l ' ombre du temple , le pontife qui va célébrer les plus redoutables mystères aux lieux mêmes où ils se sont accomplis .» En examinant attentivement l ' extérieur de l ' église du Saint - Sépulcre , des yeux accoutumés aux observations archéologiques reconnaissent sans peine , outre le plan de l ' édifice primitif , les murs et fragments dus à sainte Hélène .",
+        "words": [
+          "odeur",
+          "encens",
+          "OUS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/9a49c66e-69a8-5bc0-bcc9-6fc706379f61",
+        "value": "La plaine d ' Acre est parfois inondée ; SAINT - JEAN - D ' ACRE .SOI de ses bas - fonds marécageux s ' exhalent des émanations pestilentielles .La plupart des rues sont étroites et sales .",
+        "words": [
+          "émanations",
+          "pestilentielles",
+          "exhalent",
+          "fonds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/a066fe93-3522-5321-b2ed-e803d5022184",
+        "value": "Aussi les anciens l ' appelaient - ils avec raison Chrysorrhoas , le fleuve aux flots d ' or .Partout les arbres fruitiers les plus variés répandent le parfum de leurs fleurs et de leurs fruits .Cent jolies maisons de campagne se cachent au milieu de jardins enchantés .",
+        "words": [
+          "parfum",
+          "fruits",
+          "fleurs",
+          "arbres fruitiers les plus variés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/a318c8c8-0ced-5784-93d7-10000b5e8775",
+        "value": "Les plus vieux , au nombre de douze , peuvent être regardés comme les géants de la création et les patriarches des végétaux .Ce sont des arbres au port majestueux , au feuillage toujours vert , dont le bois répand une odeur aromatique et passe pour être incorruptible .Le plus gros , mesuré au bas du tronc , a dix mètres quarante centimètres de circonférence .",
+        "words": [
+          "bois",
+          "aromatique",
+          "odeur",
+          "arbres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/a819deb1-55b2-522f-adaa-953f24abaa8c",
+        "value": "La population entière les regardait comme des anges envoyés du ciel pour les soulager dans leur infortune .L ' humble fille de saint Vincent de Paul répand ainsi la bonne odeur de Jésus - iChrist , et fait briller aux yeux de tous la sublimité de TÉA ' angile .La peste choisit une de ses Aictimes parmi ces intrépides et infatigables religieuses .",
+        "words": [
+          "bonne",
+          "odeur",
+          "Jésus",
+          "iChrist",
+          "humble fille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/c35394bc-b85a-5e66-a7ad-ffc416ae9fb4",
+        "value": "384 GALILEE .et l ' odorat étaient flattés en même temps ; les Grecs l ' appelaient nectar .Ces vins étaient en général épais , et il fallait les mêler d ' eau avant de les boire .",
+        "words": [
+          "odorat",
+          "Grecs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/cb0db919-da36-55f4-af13-3c83d64425f1",
+        "value": "En suivant les bords de la mer , nous traversons une plaine magnifique remplie d ' arbustes , d ' arbres vigoureux et de hautes herbes : c ' est la plaine de Génésareth , arrosée de plusieurs fontaines abondantes .En ce moment la végétation et les fleurs embaument l ' air ; toute la campagne est coquettement parée , comme la femme mondaine dont parle l ' Évangile .Bethsaïde est la patrie de saint Pierre , de saint André et de saint Philippe ; c ' était autrefois un bourg peuplé de pêcheurs .",
+        "words": [
+          "fleurs",
+          "embaument",
+          "végétation",
+          "campagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/d652a5b2-a538-5f44-8957-2916e31ff0f8",
+        "value": "Pressée par la faim , une mère égorgea son enfant , le fit rôtir et en mangea la moitié .Attirés par l ' odeur , des soldats affamés menacent cette femme si elle ne découArre ses proArisions .« Je vous en ai gardé une part , » dit - elle d ' un ton lugubre , en leur présentant ce qui restait de son effroyable festin .",
+        "words": [
+          "odeur",
+          "soldats affamés menacent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/de25b167-54ef-53a7-a52d-4a0e062efb62",
+        "value": "A l ' intérieur , il est divisé en deux parties : le vestibule ou chapelle de l ' Ange , et la chambre sépulcrale .Une pierre placée vers le milieu indique la place où se tenait l ' ange lorsqu ' il dit aux saintes femmes portant des parfums : « Ne craignez point ; je sais que vous cherchez Jésus qui a été crucifié .Il n ' est pas ici ; • il est ressuscité , comme il l ' aArait prédit .",
+        "words": [
+          "parfums",
+          "saintes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/eb255462-2fa1-5a1d-a36a-e635a2828576",
+        "value": "Des aqueducs y amenaient de loin des eaux limpides et abondantes .Des jardins enchantés étaient remplis d ' arbres rares et de plantes odoriférantes .Les Arabes en gardent le souvenir en désignant toujours ce lieu , quoique maintenant il soit stérile , sous le nom de Paradis .",
+        "words": [
+          "plantes",
+          "odoriférantes",
+          "arbres",
+          "jardins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/f1b00798-34e0-58fc-bbbe-1a18e9e7e6d9",
+        "value": "On DAMAS ET BALBECK .427 est étonné , derrière une façade si modeste , de trouver réunies toutes les merveilles de l ' opulence orientale : vastes cours et bassins de marbre , jets d ' eau et cascades , bosquets fleuris , plantes rares exhalant des parfums exquis , arceaux élégants , tapis moelleux , peintures délicates , plafonds ornés de pendentifs , sofas couverts de riches étoffes de soie brochées d ' or , vases précieux , etc .Ici se pressent les objets sans nom que la mollesse asiatique a su créer et multiplier .",
+        "words": [
+          "parfums",
+          "exquis",
+          "plantes rares"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/f3d78365-22d9-5aa3-aff6-32e35c921ca0",
+        "value": "Des touristes modernes qui n ' ont fait qu ' une apparition de quelques heures près de l ' embouchure du Jourdain , en venant de Jéricho , ont écrit qu ' ils n ' ont rien observé de semblable .Il est bien constaté aujourd ' hui que la mer Morte ne produit pas de miasmes pestilentiels ; mais aucun homme , LA MER MORTE .311 durant un séjour de quelques semaines sur ses rivages , ne saurait échapper à une influence maligne .",
+        "words": [
+          "miasmes",
+          "pestilentiels",
+          "mer Morte",
+          "MER MORTE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/fa70bb91-095b-5727-a5c2-9e2f4c3faf2c",
+        "value": "Pour en faire le tour , il faut environ quinze jours , et ce Aroyage ne s ' effectue pas sans danger .Beaucoup de voyageurs ont parlé des exhalaisons pernicieuses qui s ' élèArent de la mer Morte , et qui en rendent le voisinage malsain .Des touristes modernes qui n ' ont fait qu ' une apparition de quelques heures près de l ' embouchure du Jourdain , en venant de Jéricho , ont écrit qu ' ils n ' ont rien observé de semblable .",
+        "words": [
+          "exhalaisons",
+          "pernicieuses",
+          "malsain",
+          "de voyageurs",
+          "mer Morte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/fad7197d-ad31-50d8-8fdd-4600104c365b",
+        "value": "Le cimetière turc , en dehors de la ville , est un des plus curieux que nous ayons vus en Orient .Les tombes y sont nombreuses ; elles sont abritées sous des arbres magnifiques , ornées de myrtes et de jasmins odorants .L ' aloès et l ' agave s ' y développent dans des dimensions extraordinaires .",
+        "words": [
+          "odorants",
+          "jasmins"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/c3708235-919b-5fda-bd19-74149fe0281f",
+        "label": "Jean-Jacques  Bourassé"
+      }
+    ],
+    "label": "La Terre-Sainte, voyage dans l'Arabie Pétrée, la Judée, la Samarie, la Galilée et la Syrie, par M. l'abbé J.-J. Bourassé,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5778700h",
+    "date": "1860",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c6cfeed0-e193-5007-8738-1c03ad19017d",
+      "label": "1860",
+      "begin": "1860",
+      "end": "1860"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/optimism",
+      "label": "optimism"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/46088086-d07f-5426-b9ea-cb530ab0230d/fragment/435346b1-d34b-51d6-824d-9e59b2d90da9",
+  "license": "Public domain"
+}

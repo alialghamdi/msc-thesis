@@ -1,0 +1,220 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/e13542ed-c983-5d53-8498-965747a064ea",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfums",
+    "embaumée"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/01fb78a2-bf42-5bfb-b5b0-9ba55c4bf717",
+        "value": "Mais tu aimes je ne sais quelle courtisane aux caresses fiévreuses , et tu n ' oses me l ' avouer .Tes nuits , je le sais , ne se passent pas dans le veuvage ; ton lit , bien que muet , dépose contre toi ; les guirlandes dont il est orné , les parfums qu ' il exhale , ces carreaux , ces coussins partout foulés , les craquemens de cette couche élastique et mobile , tout me révèle ce que tu voudrais me cacher .Pourquoi donc ces flancs amaigris , s ' ils ne trahissent tes folies nocturnes ? Ainsi donc , fais - moi part de ta bonne ou peutêtre de ta mauvaise fortune .",
+        "words": [
+          "parfums",
+          "exhale",
+          "carreaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/09de8b19-c91f-5ede-9a7f-301beb7d2d51",
+        "value": "Entre la Vierge et le cruel Lion , et près de Callisto , la fille de Lycaon , je guide à l ' occident le Bouvier paresseux , qui ne descend que lentement et à regret dans le vaste Océan .Mais quoique , la nuit , les dieux me foulent sous leurs pas , quoique , le jour , Téthys me reçoive dans son sein , nulle crainte ne m ' empêchera de dire la vérité ( dût Némésis s ' en offenser , dussent les astres irrités s ' élever contre moi ) ; je te dévoilerai les secrets sentimens de mon coeur : non , quelque brillant que soit le sort dont je jouis , il ne peut me consoler d ' être séparée pour toujours du front royal de ma maîtresse ; car , lors même qu ' elle n ' était encore qu ' une jeune vierge , et qu ' elle s ' abstenait de toute essence , il suffisait , pour m ' embaumer , du doux parfum de son haleine .O vous pour qui s ' allume enfin le flambeau d ' hyménée , ne vous livrez pas aux caresses d ' un ardent époux , ne dévoilez pas ' à ses yeux les trésors de votre sein , avant que l ' albâtre , symbole de votre virginité , n ' ait offert les libations qui me sont agréables , vous qui voulez que la chasteté règne dans votre lit nuptial .",
+        "words": [
+          "parfum",
+          "haleine",
+          "embaumer",
+          "essence",
+          "m"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/1152226d-d907-57fb-a5c1-4a7c5471d179",
+        "value": "Céeilius Rufus , orateur célèbre , dont parle Pline dans le vu livre de son Histoire Naturelle ? Ce Rufus est - il le même auquel Catulle , dans la pièce LXIX , reproche de sentir le bouc ? Il est difficile de répondre affirmativement à l ' une ou à l ' autre de ces deux questions .S ' il était vrai que ce perfide ami qui a soufflé à Catulle sa maîtresse , fût le même qu ' il raillait naguère de ce que toutes les femmes fuyaient ses perfides exhalaisons , il paraîtrait que , pour s ' en venger , Rufus se serait mis en bonne odeur auprès de Lesbie .Ces femmes romaines avaient de si singuliers caprices ! * LXXVIII .",
+        "words": [
+          "bonne",
+          "odeur",
+          "exhalaisons",
+          "perfides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/3884992a-96f2-5ede-9bb8-dd815a0d79b6",
+        "value": "Mais il est impie de se comparer aux dieux ; et gardons - nous d ' huiler le Ion grondeur d ' un vieux père .D ' ailleurs , ce n ' est pas l ' auteur de ses jours qui , la tenant par la main , l ' a conduite dans ma maison embaumée , pour la recevoir , des parfums de l ' Assyrie ; mais elle s ' échappa furtivement des bras mêmes de son époux dans cette nuit d ' ivresse où elle me prodigua tous les trésors de son amour .Ah ! n ' est - ce pas assez pour mon bonheur de compter dans ma vie un si beau jour , dont le marbre blanc conserve la date fortunée ? Accepte le tribut de ces vers , cher Manlius : c ' est tout ce que j ' ai pu faire pour te prouver ma reconnaissance de tant de bienfaits ; puissent - ils préserver ton nom de la rouille des âges ; que le jour les redise au jour , l ' année à l ' année , le siècle au siècle ; que les dieux y ajoutent les faveurs sans nombre dont autrefois Thé mis comblait les mortels vertueux ! Soyez heureux , et toi et ta maîtresse , et ta maison , théâtre de nos joyeux ébats , et toute ton existence ; et celui qui me concilia ton amitié , source première de toutes mes félicités ; et surtout , et avant tous les autres , cette lumière de mon âme , qui m ' est plus chère que moi - même , et dont l ' existence méfait apprécier le bonheur de vivre .",
+        "words": [
+          "parfums",
+          "embaumée",
+          "maison",
+          "Assyrie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/4ab353f1-ca25-5f61-ae71-9a73ab567248",
+        "value": "O vous pour qui s ' allume enfin le flambeau d ' hyménée , ne vous livrez pas aux caresses d ' un ardent époux , ne dévoilez pas ' à ses yeux les trésors de votre sein , avant que l ' albâtre , symbole de votre virginité , n ' ait offert les libations qui me sont agréables , vous qui voulez que la chasteté règne dans votre lit nuptial .Mais que l ' aride poussière boive l ' encens impur de l ' épouse adultère ; loin de moi les dons offerts par le crime ! Ainsi , jeunes épouses , puisse toujours votre demeure être le sanctuaire de la concorde et de l ' amour .Et toi , belle reine ! lorsque , les yeux fixés vers le ciel , tu invoqueras , à la clarté des flambeaux , la divine Vénus dont jamais le sang ne rougit les autels , ce n ' est pas seulement par des voeux , mais plutôt par de riches i5a CATULLI CARMEN LXVII .",
+        "words": [
+          "encens",
+          "impur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/539c8ef7-3421-5830-995f-7b711af869e7",
+        "value": "Il paraît , et la princesse le contemple d ' un oeil avide .Une chaste retraite , exhalant de suaves parfums , l ' avait vue jusqu ' alors s ' élever doucement sur le sein de sa mère : tel croît un myrte sur les bords du limpide Eurotas ; tels , au souffle du printemps , les prés s ' émaillent de mille fleurs .Elle n ' a point encore détaché du jeune héros ses brûlans regards , que déjà , circulant de veine en veine , un feu subtil embrase tous ses sens et pénètre jusqu ' au fond de son coeur ; hélas ! l ' infortunée attise elle - même la flamme cruelle qui la consume ! Enfant redoutable , qui mêles tant de soucis aux plaisirs des mortels , et toi sa mère , reine de Chypre et de l ' ombreuse Idalie , dans quel torrent d ' inquiétudes avez - vous plongé cette vierge passionnée qui soupire si souvent à la vue du bel étranger ! Que de craintes agitent son coeur souffrant ! Que de fois une pâleur mortelle a couvert son visage , lorsque , brûlant de combattre le cruel Minotaure , Thésée courait affronter la mort , ou cueillir la palme du courage ! Hélas ! quoique agréables aux dieux , elles seront vaines pour son bonheur , les offrandes qu ' elle leur promet , et les voeux secrets que la pudeur suspend à ses lèvres tremblantes ! i22 CATULLI CARMEN LXIV .",
+        "words": [
+          "suaves",
+          "parfums",
+          "myrte",
+          "exhalant",
+          "Eurotas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/5d04b318-247c-5ac7-9cc9-5d69515be99c",
+        "value": "A LESBIE .Tu me demandes , Lesbie , combien de tes baisers il faudrait pour me satisfaire , pour me forcer à dire , Assez ? Autant de grains de sable sont amoncelés en Libye , dans les champs parfumés de Cyrène , entre le temple CATULLI CARMEN VIII .Oraclum Jovis inter aestuosi Et Batti veteris sacrum sepulcrum ; Aut quam sidéra multa , quum tacet nox , Furtivos hominum vident amores : Tarn te basia multa basiarë , Vesano satis et super Catullo est , Quae nec pernumerare curiosi Possint , nec mala fascinare lingua .",
+        "words": [
+          "Libye",
+          "parfumés",
+          "champs",
+          "de Cyrène",
+          "temple CATULLI CARMEN VIII"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/68822922-6170-5130-971d-3e10c4b32033",
+        "value": "23 et toute la troupe des Ris ! Viens avec tout cela , mon aimable ami , et le souper sera charmant ; car , hélas ! la bourse de ton pauvre Catulle n ' est pleine que de toiles d ' araignées .Eu échange , tu recevras les témoignages d ' une amilié sincère ; et , ce qui surtout rend un repas élégant , agréable , je l ' offrirai des parfums dont les Grâces et les Amours ont fait don à ma jeune maîtresse ; en les respirant , tu prieras les dieux de te rendre tout nez des pieds à la tête .XIV .",
+        "words": [
+          "parfums",
+          "respirant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/894588be-5794-55a9-93bf-016095c27ec5",
+        "value": "A CÉSAR .LIBERTIN grossier , si tout dans tes mignons ne te déplaît pas , je voudrais , du moins , que toi et Fuffitius , ce vieux débauché , vous eussiez assez de goût pour être dégoûtés de la tête de fuseau d ' Othon , des sales jambes de Vettius , et des exhalaisons traîtresses que laisse échapper Libon .Héros sans pareil , excuse donc mes ïambes , si , sans le vouloir , ils excitent de nouveau ton courroux .",
+        "words": [
+          "exhalaisons",
+          "traîtresses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/8fe64d7a-9184-5392-a186-e7788cc41e77",
+        "value": "JEUNES gens , - c ' est moi , dont vous voyez l ' image de chêne grossièrement façonnée par la serpe d ' un villageois , c ' est moi qui ai fertilisé cet enclos , qui ai fait fructifier de plus en plus chaque année cette rustique chaumière , couverte de glaïeuls et de joncs entrelacés .Les maîtres de cette pauvre demeure , le père comme le fils , me rendent un culte assidu , me révèrent comme leur dieu tutélaire : l ' un a soin d ' arracher constamment les herbes épineuses qui voudraient envahir mon petit sanctuaire ; l ' autre , m ' apporte sans cesse d ' abondantes offrandes ; ses jeunes mains ornent mon image , tantôt d ' une couronne émaillée de fleurs , prémices du printemps ; tantôt d ' épis naissans aux pointes verdoyantes ; tantôt de brunes violettes , ou de pavots dorés , de courges d ' un vert pâle , ou de pommes au suave parfum ; tantôt de raisins que la pourpre colore sous le pampre qui leur sert d ' abri .Parfois même ( mais gardez - vous d ' en parler ) le sang d ' un 3ï CATULLI CARMEN XX .",
+        "words": [
+          "pommes",
+          "suave parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/9a8639a9-85f3-5e62-932d-1d2406841835",
+        "value": "Voilà ce que redoutent toutes les femmes , et je le conçois sans peine ; car le bouc est une vilaine bête qu ' une belle , n ' aime pas à trouver dans son lit .Ainsi donc , ô Rufus , ou corrige en toi cette odeur fétide qui offense l ' odorat , ou cesse de t ' étonner que toutes les femmes te fuient .LXX .",
+        "words": [
+          "fétide",
+          "odeur",
+          "odorat",
+          "Rufus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/ad1eb081-e309-5778-9c2e-c301f280b6d2",
+        "value": "Il est impossible de traduire littéralement cette pièce en français .Elle roule sur tin pauvre diable , probablement le Rufus dont il s ' agit plus haut , qui augmentait par des excès de débauche les douleurs de goutte qui le minaient , et qui infectait sa maîtresse par l ' odeur de bouc qu ' il exhalait .Cela n ' est pas autrement intéressant .",
+        "words": [
+          "odeur",
+          "bouc",
+          "exhalait",
+          "infectait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/b1917f0b-909e-5afc-8afb-9e0df860f3b0",
+        "value": "NE t ' étonne plus , Rufus , si toutes les femmes se refusent à tes caresses ; s ' il n ' en est pas une seule que tu puisses .séduire par le don d ' une robe de prix ou l ' offre d ' une pierre précieuse : c ' est qu ' il court sur ton compte un bruit qui te fait beaucoup de tort ; on ditque sous tes aisselles habite un bouc infect .Voilà ce que redoutent toutes les femmes , et je le conçois sans peine ; car le bouc est une vilaine bête qu ' une belle , n ' aime pas à trouver dans son lit .",
+        "words": [
+          "pierre",
+          "infect",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/bfb20534-851a-533e-91e9-86cf4bbad7c8",
+        "value": "HABITANT de la double colline , fils de Vénus Uranie , toi qui livres la tendre vierge aux bras de son ardent époux , dieu d ' hyménée , ô Hymen ; ô Hymen , dieu d ' hyménée ! Ceins ton front de .marjolaines odorantes .Prends ton voile ; qu ' un jaune brodequin pare tes pieds blancs , et , joyeux , viens ici , viens parmi nous .",
+        "words": [
+          "odorantes",
+          "marjolaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/c4119c63-dfdc-585d-9a23-efa025a0e527",
+        "value": "— LXXIII .I7I tourmente , c ' est assurément ton rival , celui qui te remplace auprès de ta maîtresse ; et , chose admirable ! c ' est à toi qu ' il est redevable de celte double infirmité qui te venge à la fois de tous les deux ! Car , toutes les fois qu ' il est dans les bras de l ' infidèle , il l ' infecte par ses fétides exhalaisons , et lui - même il ajoute aux douleurs de la goutte qui le tue .LXXII .",
+        "words": [
+          "exhalaisons",
+          "fétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/cbde3928-9420-5928-bb15-fe31c18fbe68",
+        "value": "219 souper .71 En échange , et pour payer son écot , Catulle lui promet un parfum délicieux qui lui fera regretter de n ' être pas tout nez des pieds à la tête .De nos jours , une pareille invitation aurait l ' air d ' une mauvaise plaisanterie ; car il n ' est pas d ' expéditionnaire à douze cents francs qui ne se croie obligé , pour recevoir un ami , de dépenser plusieurs mois de ses appointemens .",
+        "words": [
+          "parfum",
+          "délicieux",
+          "Catulle lui"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/d9de1059-b8b9-5bc3-99c4-ef0f0982cfd1",
+        "value": "i35 Après leur départ , le premier qui se présente , c ' est le Centaure Chiron , qui , descendu des sommets du Pélion , apporte de champêtres offrandes .Toutes les fleurs que produisent les champs , toutes celles qui croissent sur les hautes montagnes de la Thessalie , toutes celles que la tiède haleine du Zéphyr fait éclore sur la rive des fleuves ; il a tout moissonné ; et ses guirlandes , tressées sans art , embaument au loin le palais de leurs suaves parfums .Soudain Pénée accourt ; il a quitté la verte Témpé , Tempe que couronnent les forêts suspendues à sa cime , Tempe à jamais célèbre par les doctes chants des filles de Mnémosyne .",
+        "words": [
+          "suaves",
+          "fleurs",
+          "leurs",
+          "parfums",
+          "la Thessalie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/e0e4fd8e-e791-5949-b71f-df0220b1f60d",
+        "value": "LXXL A VIRRON .Si jamais , Virron , homme fut victime à juste titre de l ' odeur exécrable qu ' il exhale et de la goutte qui le 170 CATULLI CARMEN LXXIII .iEmulus iste tuus , qui vostrum exercet amorem , Mirifice est a té nactus utrumque malum .",
+        "words": [
+          "odeur",
+          "exhale",
+          "exécrable",
+          "goutte",
+          "Virron , homme"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d4303654-43f5-5094-b2bc-93c97ce104f1",
+        "label": "Charles-H.  Héguin de Guerle"
+      }
+    ],
+    "label": "Poésies de C. V. Catulle / traduction nouvelle par Ch. Héguin de Guerle,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5804608j",
+    "date": "1837",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e3225a80-19bb-5c2f-ba40-9e1ffe815aba",
+      "label": "1837",
+      "begin": "1837",
+      "end": "1837"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8378483/",
+      "label": "Assyria (Roman province)"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/1ef4a2e8-ec23-51ff-ae68-94d28e6627a9",
+      "label": "maison"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/greed",
+      "label": "greed"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/1c7f6a43-7dc8-522e-bb6d-988776df4c6b/fragment/3884992a-96f2-5ede-9bb8-dd815a0d79b6",
+  "license": "Public domain"
+}

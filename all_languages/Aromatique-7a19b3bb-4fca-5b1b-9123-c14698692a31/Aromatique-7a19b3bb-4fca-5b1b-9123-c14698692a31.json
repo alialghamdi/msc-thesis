@@ -1,0 +1,91 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/7a19b3bb-4fca-5b1b-9123-c14698692a31",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "Aromatique",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560/fragment/2c312884-ec66-5db5-9057-fa9d48168e18",
+        "value": "Ipiration si ailée ; relies qui ( ont irevetus d ' habit des autres couvertures du corps ; ce pourquoy la matiere ^ qui est une fois Poussée hors des petits tuyaux sanguins esi contrainte d ' arrêter , & par son fejaur elle meurie plus ou moins vite , suivant la qualité des Tels & de la lymphe qui la composent 1 si on veut gua - rantir cette partie de vilaines cicatrices , qui suivent la guerison des pustules profondes , & quelque fois des ulceres que cette matière y a causée ; il ne faut pas se servir de repercussifs , on augmenterait le mal plûtôt que de le diminuer ; on doit mettre en usage tout ce qui peut faciliter une transpiration & un adoucissement des tels retenus dans ces petits abcez afin que leurs pointes étant cmouiïees , ils ( oient moins en êtat de corroder les parties qu ' ils occupent ; on a dit que l ' eau de Vie appliquée differente fois sur ces endroits étoit un très excellent re - : mede : il faut s ' en servir à sur & à mesure que les croûtes tomberont , il faut les remplacer avec la Pomadç donc on a parlé çy - devant .La demangeaison du nez que les malades ressentent les premiers jours des attaques de la petite Verole , est un signe certain que les grains de cette maladie vont se former sur la membrane quitapifle intérieurement les lames oiseuses de l ' organe de l ' odorat , • pour le peu de progrez qu ' elles y feroient , elles rongeraient non seulement cette membrane , mais aussi les lames tendres & : deli - cates qui les soutiennent , ce qui non fçuleroçpt feroiç perdre l ' odqrat ^ ? mais encore elles cauieroient un coulement perpetuel de matiere , 3111 seroit très incommode : il faut aller audevant de cet accident fâcheux & se servir des mêmes remèdes que l ' on a donné cy dessus pour conserver les yeux & dans lesquels ion imbibera des Tentes que l ' on introduira dans les narines le plus ravant que l ' on pourra : les fumigations sont encore bonnes en pareil [ cas i on peut faire bouillir des San - : taux & des Roses de Provence a -Vec les écorces & les fleurs de IGrenade avec un peu de Camphre , les mettre dans un petit Sacq , ar - rosé de vinaigre que l ' on approchera des narrines pour attirer sur la partie affligée , ce qui en exhalera , à la faveur de l ' inspiration .' On a dit que la salivation , qui venoit dans les commencemens de la petite Verole , & qui cesToit de couler avant la meurison de cette maladie etoit d un mauvais preiage3 parce que les Tels acres n ' étant plus entraînez hors de la maÍfe du sang \" par cet écoulement suspendu , ils * augmentent la fermentation & re .",
+        "words": [
+          "odorat",
+          "malades",
+          "Roses",
+          "narrines",
+          "les premiers jours des attaques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560/fragment/41c22cb0-b396-59e2-9b48-2f3dcdfe9305",
+        "value": "La suppression d ' urine qui suit la guerison de la petite Verole est causée par une lymphe épaissie qui s ' est arrêtée dans les glandes de ces parties : lor [ qu ' elle ne permet point à l ' urine de se separer de la masle du sang , elle devient un levain pernicieux : qui excite une Fièvre lente d ' abord , mais qui augmente à la suite & devient dangereuse , si on ne leve pas bientôt cette supprefhon ; il faut mettre ces malades dans des Bains bien doux , & ïes y tailler une heure & demie ad moins à chaque fois : pendant leur ùsage on ordonnera des remedes ape - ritives , telles que la décoction de : èy - dessus : on fera purger le malade avec la Medecine suivante : prené de la decoétion de racine de Pis - enlit quatre onces , dans laquelle vous infufèré deux gros de Sené } une demie dracme de ( è - l de Tarrre , aprés l ' avoir passe , vous y dissoudré une once de Catholicon double , une once de Syrop de Porne composé & une drac .me de Creme de Tartre ; on réitérera cette Medecine deux ou trois fois : on pourra aussi se servir de l ' esprit de Nitre dulcifie dans le bouillon , ou \" de l ' esprit de ' Sel Volatil Huilleux Aromatique : on frotera la région des Reins , tout le Ventre & particulièrement Je Nombril avec ÏHuilte oe ' Scorpion .' Les naufez qui paroiiient avet la ( petite Verole fatiguent autant les ma ; tades que celles qui accompagnent ^ îes autres symptomes fâcheux au ' com - rmencement de finvasion de cette ^ maladie , quoy qu ' elle ' ne foit pas Êdangereusè , il faut pourtant se faire iquite des incommoditez le plûrôt : : : q ' ùe l ' on peut : une ' demie dracme jd ' Hypecacuana qui procurera un le - jgere vomissement , emportera une shumeur gluante qui êtoit ia seule cau - Ife de cette incommodité .",
+        "words": [
+          "Aromatique",
+          "Sel",
+          "région"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560/fragment/55f7f6e5-c82c-5da1-b882-d373c60a58e0",
+        "value": "t de Rheubarbe , oc une Drame * e Sel polycreste : on ne doit pas Négliger les remedes extérieurs > il pue leur faire UÍer du Collyre fui - rant : prené Eau de Fœnouille & .l ' Euphraise de chaqu ' un une once ! k demie , Tutie préparée six grains , fris de Florence pulueriesée , quatre grains , Eau Coëleste une demie on - ' e , avec lequel on bassinera tres soulent la partie affligée : entre les : emps de la purgation , on tiendra toujours le Ventre libre , tantôt par l ' usage des lavemens , ou par celuy ^ esRaisins de corynthe purgatif , dont on en prendra tous les matins une ou deux cuillerez suivant l ' effet qu ' .ils produiront ; on pourra même faire appliquer quelques vesicatoirs sur la nucque , ou derriere les oreilles 5 & si l ' inflammation étoit grande , il faut avoir recours à la Saignée .",
+        "words": [
+          "purgatif",
+          "tous les matins",
+          "corynthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560/fragment/e69cfab9-cbb7-59cf-878d-9df3a5c91476",
+        "value": ".en font plutôt attaquez ) ue les autres , On est fort convaincuë de la cor - option de ces eaux , par la puanteur insupportable des accouchemens s certaines Femmes .Et par fuite de raisonnemens , on oit etre convaincue que tous les tfans 3 reçevant cette corruption .",
+        "words": [
+          "puanteur",
+          "insupportable",
+          "ces eaux",
+          "accouchemens s certaines Femmes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560/fragment/e72e4c8b-f6dd-57cd-8486-322e46c9692b",
+        "value": "vçit eine , ce sera en quelque fa » stçon la fomenter & luy faire acquérir d ' autres degrez de malignité pour engendrer des maladies mortelles ; on renvoyera aux Parotides & aux ' .Bubons des fiévres pestilentielles , rI qui à 1 \" insiar des abcez de la petite i Verole , guerissent le malade par leur suppuration & qui donneraient la mort , si on ne les empêchoit de venir ; de même aussi dira - t - on , si on empêchoit la petite Verole de paroître , elle deviendra elle - même la cause funeste des maladies dan - gereuses .f Si ceux qui ont étez une fois en leur vie bien attaquez de la petite r [ Verole étoient exempts pour toû * jours des atteintes des autres maladies j on auroit raison d ' attendre son arrivé avec quelque espèce de tranquilité .",
+        "words": [
+          "pestilentielles",
+          "fiévres"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/94a63926-1527-545e-8e17-73a7e763fc9d",
+        "label": "J F  Wagret"
+      }
+    ],
+    "label": "Nouveau traité de la petite vérole, avec les moïens necessaires & faciles pour aller audevant de cette maladie, & l'empêcher de paroître pendant la vie . Par Mr Wagret,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9753703g",
+    "date": "1720",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/150",
+      "label": "Smelling Salts"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e06b4a8f-980b-5102-8bc5-c0617f89f5ad",
+      "label": "1720",
+      "begin": "1720",
+      "end": "1720"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/7cf5e2af-6b35-59b7-acdf-faaafb964560/fragment/41c22cb0-b396-59e2-9b48-2f3dcdfe9305",
+  "license": "Public domain",
+  "adjective": "Aromatique"
+}

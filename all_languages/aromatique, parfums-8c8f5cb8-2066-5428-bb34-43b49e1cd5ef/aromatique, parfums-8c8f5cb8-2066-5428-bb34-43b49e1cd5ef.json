@@ -1,0 +1,648 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8c8f5cb8-2066-5428-bb34-43b49e1cd5ef",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "aromatique",
+    "parfums"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/06b378fb-b3e6-5033-b0c3-5ef47147f7f3",
+        "value": "— S ' exhaler , en parlant d ' odeurs agréables , Bc .— Ripandre une odeur agréable , Abbad .II , 200 , 9 .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/079fce65-0076-541b-aeab-b843d111aae9",
+        "value": "» C ' est un vent très - dangereux pour la santé .« Quand il souffle pendant treize jours consécutifs , dit al - Djâhidh , les Egyptiens achètent linceuls et parfums , convaincus qu ' ils sont de l ' approche d ' un fléau qui répand partout la mort » ( Tha ' âlibi Latâïf 99 , 8 et 9 = Masoudî YI , 273 ) .La même province produit une excellente espèce d ' ânes , ) L .",
+        "words": [
+          "parfums",
+          "linceuls",
+          "les Egyptiens",
+          "pendant treize jours consécutifs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/0c8a9bc9-0bb3-5d76-9743-f8072f07b281",
+        "value": "sous lanceare ., - ~ qjcUs bubon pestilentiel , GI .Manç .",
+        "words": [
+          "pestilentiel",
+          "bubon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/0d602374-c66c-59f8-9aa3-83c532db85f1",
+        "value": "( laudano olor conocido ) , Bc , Daumas Sahara 302 : a une matière odoriférante , appelée el adan , très - estimée dans le Maroc ; elle est malléable comme do la cire ; les riches s ' en font des cadeaux ; » chez Beaussier ou .- ) ~ ! K pâte noire composée tie plusieurs aromates qu ' on emploie comme préservatif en temps d ' épidémie ; » dans le Voc .( comme dans le Câmous ) avec le dzâl , aromata ; , .",
+        "words": [
+          "aromates",
+          "pâte noire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/11199965-4695-552d-98a8-06b0d02c8ff7",
+        "value": "— Ptyalagogue , qui provoque la salivation , Bc .— ~ J ~ àJ ~ J ~ ~ L < nauséabond , Bc .~ xoJU jouet , Bat .",
+        "words": "nauséabond"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/17624569-2596-5fb2-9e21-67527bb2909c",
+        "value": "U ~ Lmàà sort des cratères de l ' Etna .- Odeur agréable , Gl .Bayân .",
+        "words": [
+          "agréable",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/19a6e681-8d43-59ca-9666-94ed770b0372",
+        "value": "è ~ ne permet pas de penser à des objets entrelacés de pieces d ' ambre ; il faut qu ' ils en aient été faits entièrement , ce qui est assez étrange .— Nom d ' une pierre noirâtre ou verdâtre , parsemée de taches noires , jaunes et blanches , et qui exhale une odeur d ' ambre gris .On en faisait des coupes ; voyez Cazwînî I , 231 , 6 et suiv .",
+        "words": [
+          "pierre",
+          "odeur",
+          "ambre gris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/22226d35-634d-5ebf-8a90-3f23c1a425e3",
+        "value": "Hay 43 .— D ' autres productions de Tafilelt sont ~ L ~ ! J ~ ~ , qui est la meilleure espece , Jackson 23 , 30 , 76 , et ~ ~ La ~ qui ressemble à la rose de la Chine et dont l ' odeur est très - forte ; on en tire par distillation le ~ L ~ r , qu ' on appelle par corruption en Angleterre otto of roses , Jackson Timb .79 .",
+        "words": [
+          "odeur",
+          "rose",
+          "très - forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/24f3c1b4-6824-522d-b3b9-3981361d866f",
+        "value": "Mosl .— S ' exhaler , en parlant d ' odeurs agréables , Bc .— Ripandre une odeur agréable , Abbad .",
+        "words": [
+          "odeurs",
+          "exhaler",
+          "agréables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/2c7ec4d7-b13e-5c5d-96ec-c5a2061539ac",
+        "value": "796 : « Il y a plusieurs sortes de sandal ; la meilleure est Ie sandal jaune , etc ., qu ' on dirait enduit do safran , qui a une odeur aromatique et qui s ' appelle le macâciri .On n ' est pas d ' accord sur l ' origine de ce nom : quelques - uns disent que c ' est un nom relatif forme du nom d ' un pays appelé Macâcir ; d ' autres prétendent qu ' un calife abbâside fit faire de ce bois des chambres ~ ( .",
+        "words": [
+          "aromatique",
+          "odeur",
+          "safran"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/2e23336a-e629-5af4-bcf8-81058bd6dbb8",
+        "value": "sous redolere .— sentir , répandre une odeur , Alc , ( olor hazer o dar ) ; — puer , sentir mauvais , Ht .— Comme chez Freytag , R .",
+        "words": [
+          "mauvais",
+          "odeur",
+          "sentir",
+          "puer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/30a302a0-a4a8-541c-b8e7-dd0571b55b87",
+        "value": "V se corrompre , devenir malsain ( air ) , Beaussier .~ \" , b ; mauvais air , air malsain , corruption de l ' air , putridité , miasmes , insalubrité , Beaussier , méphytisme , Bc , Berb .I , 616 , 2 , Amari 436 , 3 a f .",
+        "words": [
+          "air",
+          "miasmes",
+          "putridité"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/39993439-95f6-55bc-b605-15070448131d",
+        "value": "V , 21 , XIII , 153 .~ juM signifie selon Freytag , qui ne cite pas d ' autorité , et le M , qui l ' a suivi , qui exhale l ' odeur de l ' ambre , et de Sacy traduit ainsi , Chrest .I , VA , 1 .",
+        "words": [
+          "odeur",
+          "ambre",
+          "M",
+          "Freytag"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/3a74c635-c967-5e78-b594-870f1cff9303",
+        "value": "2 .~ xix - b bubon pestilentiel , M .~ Ql * Jb dans le Yoc .",
+        "words": [
+          "pestilentiel",
+          "bubon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/3ad0fc47-9237-5e2f-8750-6da4c0d368fa",
+        "value": "XLVI , 6 .O > ~ j plante dont les graines sont très - noires et d ' une odeur fort agréable ; on en fait des colliers avec lesquels on joue , et plus on en fait usage , plus ils luisent , , M .— Grains de corail noir qu ' on tire de la mer Rouge , Bruce I , 210 , Burckhardt Arabia I , 70 et l ' index du IIe volume , Prax R .",
+        "words": [
+          "odeur",
+          "fort agréable",
+          "graines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/3d765c92-7456-564b-9cda-8a534c70c0c5",
+        "value": "II .couper , giner la respiration , suffoquer , en parlant d ' odeurs , Bc .Y dans le Yoc .",
+        "words": [
+          "odeurs",
+          "respiration",
+          "couper",
+          "giner"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/48891fff-2c9b-5808-be6b-c9df02183a2c",
+        "value": ", en parlant d ' un bossu : traduction de Habicht , gibet , que Freytag a copiée , est ridicule ) ; grande poupée , figure humaine , Nowairî Egypte , man .2 k ( 2 ) , 154 , et 2 l , 66 r ° : on trouva parmi les trésors d ' un grand % > â lr - y \" jtji ~ CIA ~ aU * J « une figure d ' ambre de la grandeur de son corps , etqui servait à recevoir ses habits , que l ' on y plaçait afin qu ' ils s ' imprégnassent du parfum de l ' ambre , » ; pas gibet comme chez Habicht et Freytag , ni croix comme chez Lane ( I , 32G ) ; cf .Dcfrémery Mémoires 330 - 1 , et dans le J .",
+        "words": [
+          "parfum",
+          "ambre",
+          "habits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/4b3f88d2-d073-5dc8-bc2f-12955ea18a13",
+        "value": "On dit au pl .~ pol pour designer des compositions odoriférantes qu ' on fém ., Gl .",
+        "words": [
+          "odoriférantes",
+          "compositions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/513e4f40-a2c0-59c7-ae32-c11460c8c640",
+        "value": "219 ( Catal .III , 217 ) , je trouve ce passage , qui est assez curieux , 25 vo : le chien sait distinguer par l ' odorat celui qui est mort réellement de celui qui ne l ' est qu ' en apparence , et l ' on dit que les Roum font flairer pas les chiens ceux qu ' ils veulent enterrer , pour savoir s ' ils sont bien ~ - a voyez ~ .hli ~ « bjlï soûl , Mehren 33 .",
+        "words": [
+          "odorat",
+          "chien",
+          "chiens",
+          "flairer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/51cded1a-2980-5aee-9907-20c0f5c2efc8",
+        "value": "Ltn .XjJLcL odeur aromatique , Most .v ° .",
+        "words": [
+          "aromatique",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/53e3443d-a0dc-5beb-9b71-1c30a42d9ad9",
+        "value": "wân et d ' al - Mahdiya on donne ce nom à une plante qui ressemble au fenouil , porfe des fleurs jaunes , et des fruits qui sont semblables à l ' anis , mais dont le goût est celui du fenouil .Elle est aromatique , s ' appelle aussi , et se trouve également en Egypte , Bait .II , 297 d , 210 d ( lisez ainsi ) .",
+        "words": [
+          "aromatique",
+          "Egypte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/5512f85d-38c8-5eb1-b2af-3ecb15efe73e",
+        "value": "ào * u ^ Js seul et avec U , , .P - j ' l sauge ( plante aromatique ) , Bc .archer , M , Aie .",
+        "words": [
+          "aromatique",
+          "sauge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/610cb14b-d2c6-52f4-a92c-ca9495e47ca5",
+        "value": "a .rivaliser en agréable parfum avec , Weijers 24 , 9 .~ iL ~ ~ j mesure pour le froment à Bokhârâ , qui contient 57 mann , M .",
+        "words": [
+          "agréable",
+          "parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/619b2828-69e8-5b09-a65b-eaab63ab4880",
+        "value": "300 , 11 : au commencement du mois j c \\ t ~ a - 5 — A - ~ ! t ~ L < t ~ Jt .— Trouver une odeur bonne , Abou ' l - Walid 194 , 31 .YI , en parlant du mari et de la femme , est ~ , M .",
+        "words": [
+          "bonne",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/6f639986-a415-5e42-82ab-29eab5ba9016",
+        "value": "' j , chez Bc aussi xlSi , ladanum , substance ré1 sineuse , Aie .( laudano olor conocido ) , Bc , Daumas Sahara 302 : a une matière odoriférante , appelée el adan , très - estimée dans le Maroc ; elle est malléable comme do la cire ; les riches s ' en font des cadeaux ; » chez Beaussier ou .- ) ~ ! K pâte noire composée tie plusieurs aromates qu ' on emploie comme préservatif en temps d ' épidémie ; » dans le Voc .",
+        "words": [
+          "Maroc",
+          "odoriférante",
+          "matière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/76ebc44a-1c39-5cda-acfb-f198e0b5d207",
+        "value": "170 .De même le verbe seul , Fakhri 77 : — Dans le sens de répandre une odeur agréable , en parlant de fleurs , P .Berb .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/77e96ff1-08c5-5a7f-9ec5-3e1c42177d73",
+        "value": "— Tenue , manière de tenir , Bc .A muscat , qui a une odeur agréable , Bc .— ~ c .",
+        "words": [
+          "agréable",
+          "odeur",
+          "muscat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/7909f2d8-35d1-5064-8cab-4110696fd91c",
+        "value": "~ K - L - cls .Toute fleur odorante s ' appelle ainsi , mais c ' est specialement celle de la Lawsonia inermis , Bait .I , 338 b , II , 244 c .",
+        "words": [
+          "odorante",
+          "fleur",
+          "Lawsonia inermis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/7d405b90-d6e8-5f24-83ce-55a8edff8e6d",
+        "value": "; BL ~ iJlius ; A ~ Uàài ; quelques man .( pas AB ) ont ïyJlS ' ~ ~ 4 ~ ~ les substances qu ' on employait chez les anciens Egyptiens pour embaumer les corps morts , M sous ..",
+        "words": [
+          "corps",
+          "embaumer",
+          "substances",
+          "embaumer les"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/801c88c7-93d4-5c14-ad6c-6e7226e55089",
+        "value": "d ' un .~ ij , cédrat , espèce de citronnier , son fruit odorant , Bc , Hbrt 52 , poncire , sorte de gros citron , Bc ; ~ a bigarade , grosse orange aigre et grenue , Bc , Vansleb 98 : « les kebbads , qui sont des orangers qui portent des oranges d ' une extraordinaire grosseur ; » 1001 N .I , 578 , 5 a f .",
+        "words": [
+          "fruit",
+          "odorant",
+          "citron",
+          "cédrat",
+          "citronnier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/82931e51-cd9a-5e34-a0ff-37ef58878660",
+        "value": "~ iwJiE .~ ttles parfums les plus exquis , les plus précieux , » Abou ' l - Walid 659 , n .60 .",
+        "words": [
+          "parfums",
+          "les plus exquis",
+          "les plus précieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/85beb4c6-ab81-5307-bdb5-e8cbf1d8b03e",
+        "value": "III , 105 , 15 .— Poudre faite de clous do girofle , de lavande sauvage et d ' autres plantes aromatiques , avec laquelle les femmes au Fezzan se parfument les cheveux , Lyon 160 , 170 ( atria ) ..",
+        "words": [
+          "Poudre",
+          "cheveux",
+          "aromatiques",
+          "autres plantes",
+          "clous do girofle",
+          "lavande sauvage",
+          "Fezzan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/8953cfba-84f9-5f46-bb1e-7e62a9fd7cf3",
+        "value": "— ylÂxil ~ Mxaâji ~ iXÂe , M .— Quand une étoffe ne deteint pas sur une autre , ou que l ' odeur de son parfum ne se communique pas à une autre , s ' il faut traduire ainsi les paroles du M : \" : ) ~ ( JI ~ J ~ Jc ~ ( jrlâi le blé graine bien , Cherb .C .",
+        "words": [
+          "parfum",
+          "odeur",
+          "son",
+          "étoffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/8c0aa48b-b666-5f30-98bc-45c0782a9e67",
+        "value": "» Le sens que donne Beaussier , fourmiller , grouiller , pourrait donc convenir .- Démanger , avoir la démangeaison , Bc .II c .",
+        "words": [
+          "démangeaison",
+          "Démanger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/92e5cd6f-697a-54ef-9769-c48f88fd889b",
+        "value": "Dans la langue classique = ~ - ~ .- jL ) ; chez les médecins c ' est une fleur sans odeur , mais dont la forme ressemblo beaucoup à celle du Gl .Manç .",
+        "words": [
+          "sans",
+          "odeur",
+          "fleur",
+          "médecins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/9414abb7-ba44-5007-afd4-b0a7d3a380db",
+        "value": "- Bitume de Judée , de Sacy Abd - allatif 273 .- ~ ~ JL ~ L ~ ~ J ! amalgame dont les Egyptiens se servaient pour embaumer leurs morts , ibid .— Sorte de pierres noires qui se trouvent à Çan ' â dans le Yémen et qui ont une petite cavité .",
+        "words": [
+          "embaumer",
+          "Egyptiens",
+          "embaumer leurs morts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/972acc26-f95b-5bfa-ba67-50d4a3dbeabd",
+        "value": ".; : \" tandis que les parfums fumaient sans cesser w ' - ' « il ne cessait d ' exciter son cheval , jusqu ' à ce qu ' il » etc .De la vient que le vulgaire joint cet ~ JL .",
+        "words": [
+          "parfums",
+          "exciter son cheval"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/9cb4e28d-c321-5b0a-88a2-107b4e3fc38d",
+        "value": "— Boutons de roses , Prax 29 .— ' - ~ - J < ~ s ~ espèce de rose sans odeur , M .— ~ L rose à cent feuilles , Pagni MS .",
+        "words": [
+          "sans",
+          "odeur",
+          "rose",
+          "M"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/a0be6ea0-1841-5409-81bd-631795c7337b",
+        "value": "~ W aiguillon de la chair , Bc .~ Làj odorant , qui répand une bonne odeur , Voc ., Macc .",
+        "words": [
+          "bonne",
+          "odorant",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/a0d8b23f-0a03-5621-8348-a7459b929c1b",
+        "value": "- Se disperser , Selecta ~ f , 10 : ~ Hpfr JSS ' J ( jkÂj W \" ~ & jb ~ ~ L ~ ~ ~ J ~ - Prol .II , 211 , 12 , en parlant de vapeurs méphitiques : ~ lôii ~ s ~ J ~ J - 1 \\ ~ x ~ ( j ~ NJLj QI , car c ' est ainsi qu ' il faut lire avec notre man ., au lieu de l .",
+        "words": "vapeurs"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/a36fb472-2200-5b71-b3cc-8d5b7a9b2330",
+        "value": "et ~ j r .faire respirer l ' odeur de quelque chose à quelqu ' un pour ranimer ses esprits , p .e .",
+        "words": [
+          "odeur",
+          "chose",
+          "ranimer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/aa279215-27a5-5326-8727-08c1193fd161",
+        "value": "perche oh se repose l ' oiseau de fauconnerie , w O ) caryophillus Indicus flos , Pagni MS ; — nom d ' une fleur odoriférante , ordinairement rouge ou blanche , qui so trouve en abondanco en Syrie ; tel est le sens de ce mot dans la Mo ' allaca d ' Amro ' l - kais , M ; œillet , Be , Hbrt 50 .£ > * K - AJLAJ - S odeur de clou de girofle , Bait .I , 130 , — En Espagne , buccharis , Bait .",
+        "words": [
+          "odeur",
+          "clou de girofle",
+          "clou",
+          "AJLAJ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/ab848d39-dd02-5a11-a6b9-4e18aa6bb6f6",
+        "value": "II , 364 , 10 .— Espèce de pastèque qui a une odeur parfumée , Auw .II , 224 , 2 , 231 , 12 et suiv .",
+        "words": [
+          "parfumée",
+          "odeur",
+          "Espèce de pastèque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/ae4603bc-bab8-51f2-b626-2df5a34c0f8d",
+        "value": "O ~ jt .On nomme ainsi dans le Hidjaz une écorce qui vient du Yemen et qu ' on apporte a la Mecque ; elle ressomble à la casse aromatique épaisse , et l ' on s ' en sert dans les parfums des femmes , Bait .II , 302 c ( il l ' épelle ) .",
+        "words": [
+          "aromatique",
+          "parfums",
+          "écorce",
+          "Mecque",
+          "le Hidjaz"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/b785d62f-52cb-5a22-ba0c-2a99b50bccca",
+        "value": "vo ~ ~ aSHJJjlXJI .( malai ~ 4A Devic 83 ) le bois odorant du carambolier , qui est un arbre des Indes orientales ; les musulmans en font des rosaires , Niebuhr B .136 , Burckhardt Arabia I , 70 ; — carambolas , le fruit du carambolier , Bg 837 .",
+        "words": [
+          "bois",
+          "odorant",
+          "musulmans",
+          "carambolier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/baa361ac-d4af-507a-85cb-1783a902cc3b",
+        "value": "I , 445 , Le .bouquet dlt vin , son parfum , voyez sous ~ - .Le bouquet du vin , son parfum , voyez sous ~ 0 - — ~ j ! .",
+        "words": [
+          "parfum",
+          "son",
+          "dlt vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/c12492ef-e116-5010-9d4e-b4d7b94af252",
+        "value": "Carette , Géogr .137 , la nomme aussi , et dit que son parfum est trèsagreable .Jackson se trompe peut - être quand il dit , 245 , et Timb .",
+        "words": [
+          "parfum",
+          "son",
+          "trèsagreable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/c19286c6-4145-5dec-b6b2-c4dd56fb6bbd",
+        "value": "I , 383 .— Fluteau ou plantaind ' eau - , plante de la famille des alismacées et dont la racine est odoriférante , Aie .( almea yerva ) .",
+        "words": [
+          "racine",
+          "odoriférante",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/c6d41587-ef9c-57a3-95ad-5c385da6753d",
+        "value": "e .en parlant de parfums dont l ' odeur se communique aux vêtements , Bait .I , 51 a : ~ Jj - o L ~ - I ~ ~ j .",
+        "words": [
+          "odeur",
+          "parfums",
+          "vêtements",
+          "Bait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/d05213a4-e734-59ad-b840-4b6124bf0f9b",
+        "value": "' - ' , : ., b - J I parfumer , embaumer la peau avec une pom - made odorante , Rhazès dans Chec .194 v ° : ~ JL - ~ J II vaciller , Bc .",
+        "words": [
+          "odorante",
+          "parfumer",
+          "peau",
+          "embaumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/d11121b6-04e7-5c52-ba03-596c8bd28ff1",
+        "value": "p .118 ) sorte d ' encens composé de plusieurs substances , et aussi le pin , à cause de sa bonne odeur , Bait .II , 331 d : Le nom de l ' arbre est écrit incorrectement \\ ; .",
+        "words": [
+          "bonne",
+          "odeur",
+          "pin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/d1d36ca2-194f-5e35-92ad-4043942b67a5",
+        "value": "' < L < , .~ baguettes ( qL > - a1îï ) blanches et velues , dont l ' odeur ressemble à celle de la myrrhe , M ./ ~ L ~ ( composé des deux mots pers .",
+        "words": [
+          "odeur",
+          "myrrhe",
+          "baguettes",
+          "M"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/d2a0c40f-f852-5de3-8f4c-811ac5fc74f7",
+        "value": "II , 454 , 12 .IV , comme verbe d ' admiration en parlant du musc , ~ r3l Lo comme son parfum est délicieux ! P .Prol .",
+        "words": [
+          "parfum",
+          "son",
+          "musc",
+          "délicieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/d6a96aec-1b7d-5c38-81c2-817ac6ba6685",
+        "value": "? ; \" o sorte de poisson , Yâcout I , 886 , 4 ; var ~ Óf I , 6 et II , 2e signif .chez Freytag , doit être corrigé ; c ' est : toucher ou frotter un agneau avec des mains sales et puantes , ce qui a pour effet que sa mère ne veut plus avoir rien à faire avec lui , Gl .Mosl .",
+        "words": [
+          "puantes",
+          "mains",
+          "agneau",
+          "Freytag"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/dafbbe1f-2b83-56be-9c59-abe291419756",
+        "value": "X ~ - < - \\ J ! — ortie , Most .v ° ~ 8 — ^ 1 ( seulement dans Lm ) ; les falsificateurs en mêlent la semenco avec le cumin des prairies , auquel elle ressemble par la couleur ; seulement ses grains sont un peu plus grands et elle n ' a pas d ' odeur , J .A .",
+        "words": [
+          "odeur",
+          "elle",
+          "pas",
+          "J",
+          "cumin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/dc72d41e-fae7-5ff9-8988-d7e8dd383571",
+        "value": "- Arab .169 ) ressemble à celui de la mandragore mâle : il a aussi la peau très - lisse , et en outre « son odeur est agréable et narcotique ; c ' est pour cotte raison que le vulgaire s ' imagine que c ' est une sorte de loffâh , qui est le fruit du yabrouh , » Bait .I , 149 a , cf .",
+        "words": [
+          "agréable",
+          "odeur",
+          "son",
+          "il",
+          "narcotique",
+          "vulgaire",
+          "mandragore mâle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/de8e1189-b5d0-502e-9ebd-5998779b8366",
+        "value": "~ aJLv * _ i « il lui .fit respirer du vinaigre , » 1001 N .III , 276 , 5 , 278 , 4 a f .",
+        "words": [
+          "respirer",
+          "vinaigre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/e52d4068-eab5-5c37-bbf7-1d6acbec46a9",
+        "value": "X .~ L ~ J ! ~ cyiiJs casse aromatique , Ale ., mais il a altéré le second mot , car il l ' écrit ( casia arbol e yerva conocida e olorosa ) açâleh , et ( casia linea cor - teza ) xelêhua ; cf .",
+        "words": [
+          "aromatique",
+          "casse aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/e616aea4-df9c-55d4-a68f-f8c54ea003be",
+        "value": "II , 164 , que Be prononce ~ jiac ; de la l ' anglais otto of roses .tjjjaxi aromatique , Be , ~ £ - L * Jt aromates , Bat .II , 379 , ~ , ~ ! ! .",
+        "words": [
+          "aromatique",
+          "aromates",
+          "tjjjaxi aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/eb52ca67-ee5b-55ac-9e43-32d112dee0ce",
+        "value": "& , ♦ - » - Lg , , j tonture , \" branches ou feuilles que l ' on - coupe , Bc .L * L , 4 ~ ( jtàhoiftoç ) Calamus aromaticus , Most .vo ~ ~ aSHJJjlXJI .",
+        "words": [
+          "aromaticus",
+          "Calamus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/ec46ac66-994b-5ac7-9c58-1e4fb94dceb0",
+        "value": "V , 20 : « pilé avec le serghin , il donne une poudre que les femmes .répandent sur leur chevelure pour la parfumer .» Le pl .",
+        "words": [
+          "parfumer",
+          "chevelure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/ee8186c7-16e5-541f-8dfa-7c871af328e3",
+        "value": "bouquet dlt vin , son parfum , voyez sous ~ - .Le bouquet du vin , son parfum , voyez sous ~ 0 - — ~ j ! .~ : L ~ ! ! Laurus Camphora , Bait .",
+        "words": [
+          "parfum",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/f388dc3a-83e7-535b-8176-94f76a5d0a52",
+        "value": "I , 252 , 4 et 6 , où il faut lire deux fois ~ oJUu , et 1 .10 , où il faut lire O ^ c ( cette ~ QLLA ^ L Lgj N _ ALL > On emploie même ce verbe , du moins en poésie , dans le sens d ' humecter , mouillert comme dans ces vers d ' Ibn - Zaidoun , apud Weilers 44 , 1 et 2 , que l ' éditeur a mal prononcés et qu ' il a encore plus mal rendus ( 148 - 9 ) : « On dirait que les nuées pluvieuses du soir répandent sur les bords du fleuve , où les fleurs brillent comme des étoiles , de l ' eau rose , et qu ' ensuite elles se mettent à humecter des bouches [ c .- à - d .",
+        "words": [
+          "bouches",
+          "humecter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/f5cb7c26-2e8a-511f-8a2e-05da2c9db66f",
+        "value": "( carrança ) .perche oh se repose l ' oiseau de fauconnerie , w O ) caryophillus Indicus flos , Pagni MS ; — nom d ' une fleur odoriférante , ordinairement rouge ou blanche , qui so trouve en abondanco en Syrie ; tel est le sens de ce mot dans la Mo ' allaca d ' Amro ' l - kais , M ; œillet , Be , Hbrt 50 .£ > * K - AJLAJ - S odeur de clou de girofle , Bait .",
+        "words": [
+          "Syrie",
+          "fleur",
+          "odoriférante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/f64768f2-4b7f-5129-86c6-be8e275e1da2",
+        "value": "71 , 10 et 12 .— Répandre une odeur agréable , Gl .Bayân - .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/f91d684e-cd45-594f-91d4-b493be30d972",
+        "value": "~ ^ Jaôi qui a rapport au naphte , Mong .133 b ; ~ gJd ' U512à ; 31 espèce de sel qui vient du voisinage de Darâbdjird et qui a l ' odeur du naphte ; les riches s ' en servent à table , Gl .Geogr .",
+        "words": [
+          "odeur",
+          "sel",
+          "riches",
+          "naphte",
+          "voisinage de Darâbdjird"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d58c4ca6-ed9c-56fb-977e-3dd418f31e84",
+        "label": "Reinhart Pieter Anne  Dozy"
+      }
+    ],
+    "label": "Supplément aux dictionnaires arabes, par R. Dozy. T. 1, 2. 2e édition. Tome 2,Edition 2",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6250059p",
+    "date": "1927",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/625",
+      "label": "Bark"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/14c75b90-468e-538c-8c85-f0a623c533e9",
+      "label": "1927",
+      "begin": "1927",
+      "end": "1927"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/bf17fe9f-106b-5b3c-8436-58a2acd34f26",
+      "label": "le Hidjaz"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6c5e943d-08c8-5486-9ade-49807ffdadb1/fragment/ae4603bc-bab8-51f2-b626-2df5a34c0f8d",
+  "license": "Public domain"
+}

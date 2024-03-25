@@ -1,0 +1,53 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/4c593852-1f7e-57ce-8342-5734fabfa125",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/873cac94-cc49-52f1-a983-d04d98f9640e",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/873cac94-cc49-52f1-a983-d04d98f9640e/fragment/53e91a78-d25a-5ca5-a02e-addcc7ea2687",
+        "value": "éclat v Que sa victorieuse étreinte Reste maîtresse du combat ! _ 3 — Et de ce mensonge cupide Arrachant le masque perfide 0 Seigneur ! armez , votre main j Car votre droite est toujours celle Qui frappait le peuple rebelle , Ou qui lui montrait le chemin .Ces champs que le Jourdain arrose Ainsi qu ' aux jours de nos aïeux , Ces champs où Moïse repose Dans un tombeau mystérieux , Boiront - ils le sang du martyre ? Et l ' air où sans cesse on respire Comme un parfum des anciens temps , Mêlera - t - il à son murmure , Après le bruit de la torture , Le cri de mort des innocens ? • Si le Dieu qu ' Israël adore , De son peuple écoutant la voix , Pour un jour lui rendait encore Toute sa force d ' autrefois , Et si nos tribus dispersées De leurs bannières délaissées Retrouvaient l ' image et le nom , Jusqu ' aux rivages de l ' Oronte , Elles iraient porter la honte Et venger l ' honneur de Sion .— k IL Quoi ! Les siècles éteints n ' ont pas dans leur poussière Enseveli ce préjugé ! Et quand tout disparaît , le palais , la chaumière , • Lui seul n ' est donc pas submergé ! Le prétexte grossier de tristes représailles Permettra - t - il longtemps encor A des bourreaux armés de fers et de tenailles De tuer pour avoir de l ' or ? Et lorsqu ' enfin l ' Europe a su prêter l ' oreille A notre éloquente douleur , L ' Orient à son tour s ' agite , se réveille , Et brandit le glaive oppresseur .",
+        "words": [
+          "Oronte",
+          "parfum",
+          "air"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4d465583-dbd9-5db1-86ab-bbb13f22a1be",
+        "label": "Moyse  Alcan"
+      }
+    ],
+    "label": "Damas : poésie / par Moyse Alcan",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5484982c",
+    "date": "1840",
+    "language": "fr"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/417",
+      "label": "Air",
+      "exemplifies": "http://data.odeuropa.eu/vocabulary/olfactory-objects/417"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b96d403b-c79f-5b37-9cf7-a29c39bdb731",
+      "label": "1840",
+      "begin": "1840",
+      "end": "1840"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/303365/",
+      "label": "Orontes"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/873cac94-cc49-52f1-a983-d04d98f9640e/fragment/53e91a78-d25a-5ca5-a02e-addcc7ea2687",
+  "license": "Public domain"
+}

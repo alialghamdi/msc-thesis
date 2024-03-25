@@ -1,0 +1,122 @@
+## émanations
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/e390d839-6f33-5d3c-baf6-794ebe2fb755 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | émanations |
+| source.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/078d0373-207f-50ca-ac80-9b2e29838762 |
+| source.excerpts.0.value | Il est , du reste , très - facile , de ramener le fait à une formule générale , et d ' écrire : D , étant la densité mortelle , de l ' acide carbonique ; C , la proportion centésimale de ce - gaz dans l ' air analysé après l ' expérience ; P , le nombre de centimètres de pression barométrique dont on a fait usage .- Si nous voulons maintenant nous rappeler ce que nous avons déjà dit de l ' asphyxie dans l ' air Confiné , par défaut d ' oxygène , nous pourrons formuler les propositions suivantes : - 1 ° Les animaux placés sous des récipients hermétiquement clos meurent ' sous l ' influence de phénomènes différents , selon la pression sous laquelle ils périssent ; 2 ° Pour une pression de 76 et au dessous , ils meurent , lorsque la densité de l ' oxygène ambiant est descendue à 0 , 04 ; 3 ° Pour des pressions dépassant deux atmosphères , ils meurent , lorsque l ' acide carbonique qu ' ils exhalent , acquiert dans l ' air ambiant une densité de 0 , 26 à 0 , 28 ; f Pour une pression de 1 à 2 atmosphères , les limites des deux actions se rapprochent et paraissent agir simultanément , pour causer la mort à la fois par privation d ' oxygène et par excès d ' acide carbonique .En d autres termes , chez les animaux confinés , la mort survient soit lorsque Facide carbonique contenu dans les veines acquiert une tension faisant équilibre à 26 ou 28 pour 100 de ce gaz contenu dans l ' air ambiant , soit lorsque les sujets des expériences n ' ont plus dans le sang artériel qu ' une quantité d ' oxygène faisant équilibre à la pression de 4 pour 100 de ce gaz contenu dans l ' air du récipient . |
+| source.excerpts.0.words.0 | ils |
+| source.excerpts.0.words.1 | air |
+| source.excerpts.0.words.2 | animaux |
+| source.excerpts.0.words.3 | air ambiant |
+| source.excerpts.0.words.4 | exhalent |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/0d580493-3521-5800-b0a4-9b9b1d9a7bad |
+| source.excerpts.1.value | l ' ai cogneu et long temps frequenté le général Hicrosme Costilla , ancien peupleur de Cusco , qui auoit perdu trois ou quatre doigts de pieds , qui luy tombèrent en passant les deserts de Cliillé , par ce qu ' ils auoient esté atteints et penetrez de ce petit air , et quand il les vint à regarder , ils estoient desia tous morts , et tombèrent d ' eux mesmes sans luy faire aucune douleur , tout ainsi que tombe de l ' arbre vne pome gastée .Ce Capitaine racontoit que d ' vne bonne armée qu ' il auoit conduite et passée par ce lieu les années precedentes , depuis la descouuerte île ce Royaume faicte par Almagro , vne grande partie des hommes y demeurèrent morts , et qu ' il y vid les corps estendus parmy le desert , sans aucune mauuaise odeur ny corruptiO .Adioustant d ' auantage vne chose fort estrange , qu ' ils y trouuerent vn ieune garçon viuant , lequel estant enquis come il auoit vescu en ce lieu , dist qu ' il s ' estoit caché en vne petite cauerne , d ' où , il sortoit , pour couper auec vn petit C - Oustcau , de la chair d ' vn cheual mort , et qu ' il s ' estoit ainsi substanté long temps , auec ne sçay combien de compagnons , qui se maintenoient de ceste façon , mais que desia ils y estoient tous demeurez , l ' vn mourant auiourd ' huy et demain l ' autre : disant qu ' il ne desiroit autre chose que de mourir là auec les autres , veu qu ' il ne sentoit desia plus en luy aucune disposition pour aller en vn autre endroit , ny pour prendre goust en aucune chose . |
+| source.excerpts.1.words.0 | odeur |
+| source.excerpts.1.words.1 | aucune mauuaise |
+| source.excerpts.1.words.2 | les années precedentes |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/0de26d9d-8f1d-57cf-bce0-fecc9b764e01 |
+| source.excerpts.2.value | Les variétés dont on se sert en Europe pour la chasse ne conservent qu ' imparfaitement leurs qualités physiques sur le plateau et leur instinct chasseur s altère promptement .La finesse de leur odorat est la première chose qui se perd .Les petits chiens de Chiliuahua pour lesquels il existe un certain engouement — et je ne sais pourquoi , car ils sont laids et sentent mauvais — s ' acclimatent péniblement à Mexico , quoiqu ' ils n ' aient pas changé considérablement leur niveau en y montant . |
+| source.excerpts.2.words.0 | leur |
+| source.excerpts.2.words.1 | odorat |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/239a3298-850f-5b17-8215-c427147b6a30 |
+| source.excerpts.3.value | Ce n ' est pas tout encore en fait de supplices .Ces travailleurs infortunés sont obligés de vivre au milieu d ' un air vicié par les diverses émanations du - soufre .Ils ont de la peine , en s ' y conservant eux - mêmes , à y faire . |
+| source.excerpts.3.words.0 | air |
+| source.excerpts.3.words.1 | soufre |
+| source.excerpts.3.words.2 | vicié |
+| source.excerpts.3.words.3 | travailleurs infortunés |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/3c83e283-381e-5993-8588-59999aea4283 |
+| source.excerpts.4.value | Lors donc que M .Bert a donné ses démonstrations des animaux mourant dans l ' air confiné , à divers degrés de pression barométrique , il a dû se prémunir contre l ' objection qui lui serait faite avec l ' intention de prétendre que ses animaux mouraient dans leurs cloches , étouffés par la présence de l ' acide carbonique qu ' ils y avaient eux - mêmes exhalé .79 » 100 » Or déjà , dans une expérience antérieure , M . |
+| source.excerpts.4.words.0 | air |
+| source.excerpts.4.words.1 | exhalé |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/4663aeff-5325-54fb-bb1a-771074735a9c |
+| source.excerpts.5.value | Mais à la vérité ce mal si commun et si ordinaire vient aux hommes , pour la nouueauté de l ' air de la mer .Car combien qu ' il soit vray que le mouuement du nauire y aide beaucoup en ce qu ' il s ' esmeut plus ou moins , et mesme l ' infection et mauuaise odeur des choses des nauires .Neantmoins , la propre et naturelle cause est l ' air et les vapeurs de la mer , lequel débilité et trauaille tellement le corps et l ' estomach , qui n ' y sont point accoustumez , qu ' ils en sont merueilleusement esmeus et changez . |
+| source.excerpts.5.words.0 | mauuaise |
+| source.excerpts.5.words.1 | odeur |
+| source.excerpts.5.words.2 | infection |
+| source.excerpts.5.words.3 | choses des nauires |
+| source.excerpts.5.words.4 | nauire |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/54ab580f-5d3b-560e-9227-8be1d3e7bc44 |
+| source.excerpts.6.value | Le souffle rafraîchissant du sud - ouest y est arrêté par la hauteur des montagnes ; de sorte que la descente transporte l ' habitant ou l observateur sur des bas - fonds animés par les seules influences de la latitude .L ' immense espace de la terre ferme est d ' ailleurs là qui s étend vers l ' est pour y recueillir et communiquer les émanations des ardeurs solaires ! C ' est la région naturelle de la tierra calienre avec tous les développements connus de ises effets les plus ordinaires .Rien ne manque donc au Pérou pour mériter d ' être considéré comme un centre de réunion de tous les climats que la terre possède . |
+| source.excerpts.6.words.0 | émanations |
+| source.excerpts.6.words.1 | région |
+| source.excerpts.6.words.2 | tierra calienre |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/5f12bb0a-d72f-532a-89b6-3feab44026bd |
+| source.excerpts.7.value | La finesse de leur odorat est la première chose qui se perd .Les petits chiens de Chiliuahua pour lesquels il existe un certain engouement — et je ne sais pourquoi , car ils sont laids et sentent mauvais — s ' acclimatent péniblement à Mexico , quoiqu ' ils n ' aient pas changé considérablement leur niveau en y montant .Ces petites bêtes y grelottent d ' une manière fort ridicule . |
+| source.excerpts.7.words.0 | Mexico |
+| source.excerpts.7.words.1 | mauvais |
+| source.excerpts.7.words.2 | sentent mauvais |
+| source.excerpts.7.words.3 | petits chiens |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/6fc0b8d0-4477-55d4-8586-7d6152b3aef5 |
+| source.excerpts.8.value | Je suis convaincu d avance de la surprise qu ' il en éprouvera ; car il ne parait pas croyable , t priori que la raréfaction modérée de l ' air entre 2000 .' j 2500 mètres ait pu produire des effets plus nuisibles à notre espèce que les effluves de tout genre des parties torrides du pays .Cela esl cxacl , néanmoins , et l ' on a d autant plus lieu de voir avec étonnement le peu de progrès de la population du haut Anahuac , que l ' habitude d ' y chercher la sécurité et le désir de jouir de son délicieux climat ont fixé , de tout temps , les préférences des émigrants sur ces lieux élevés . |
+| source.excerpts.8.words.0 | nuisibles |
+| source.excerpts.8.words.1 | effluves |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/8546b234-9daf-59a9-962e-3a33ec9f9701 |
+| source.excerpts.9.value | Il désirait vivement se créer des ressources de ce genre en prévision des événements futurs .Jugeant donc qu ' il pourrait se trouver du soufre dans le volcan qui est à douze heures de Mexico , et qu ' il serait facile de fabriquer de la poudre avec ce produit , et comme , d ' ailleurs , le capitaine Diego de Ordaz , en 1519 , avait cru pouvoir en affirmer la présence par 1 odeur qu ' il en avait perçue , Cortès , toujours soucieux à cet égard , gagna pour cette entreprise l assentiment de Montano , homme plein de courage et de zèle , et de Mesa , l employé dans l ' artillerie .Il renchérit sur la gloire qui en serait pour eux la conséquence et leur offrit des récompenses peu communes . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | soufre |
+| source.excerpts.9.words.2 | en 1519 |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/be8b8655-65b6-5c61-a5aa-695edff3e0b2 |
+| source.excerpts.10.value | Les hommes se mêlent , traitent , gouvernent sous des teintes variées , sans distinctions ridicules et sans de vaines répulsions pour les origines .Les répugnances qui peuvent exister encoreen cette matière sont de celles qui n ' ont rienà voir avec le sentiment : elles proviennent des sensations d ' un ordre tout à fait matériel dont l ' odorat et la vue de certaines gens se trouvent involontairement affectés en présence des races trop fortement nuancées .Affaire de goût , mais non pas de principe ; et cela sera ainsi dans tous les temps et sous le règne des philosophies les plus pures . |
+| source.excerpts.10.words.0 | odorat |
+| source.excerpts.10.words.1 | matière |
+| source.excerpts.10.words.2 | certaines gens |
+| source.excerpts.10.words.3 | involontairement affectés |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/c048f848-1fa4-5c19-9e10-6480273afbde |
+| source.excerpts.11.value | Les Indiens étonnés les regardaient monter , témoignant les uns leur confiance , les autres leur peu d ' espoir dans la réussite .« Après avoir gravi le quart environ de la sierra du volcan , les voyageurs furent surpris par la nuit , et comme le froid était excessif , ils s ' occupèrent à faire un trou dans la terre pour s ' y étendre sous leurs couvertures ; mais , à environ 0m , 40 de profondeur , ils trouvèrent une chaleur si forte , avec le dégagement d ' une odeur sulfureuse si repoussante , qu ' ils en furent comme effrayés .L ' excès du froid du dehors leur donna le courage de résister un moment à ces embarras pénibles ; mais la situation devenant enfin insupportable , ils résolurent , vers minuit , de continuer leur route . |
+| source.excerpts.11.words.0 | odeur |
+| source.excerpts.11.words.1 | repoussante |
+| source.excerpts.11.words.2 | sulfureuse |
+| source.excerpts.11.words.3 | volcan |
+| source.excerpts.11.words.4 | les voyageurs |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/c1f79229-6c94-5b52-a6cd-f1230e75dbfc |
+| source.excerpts.12.value | M .Lortet nous a dit , d ' ailleurs , que le refroidissement du corps entier témoigne alors de l ' altération sensible de son pouvoir réchauffant .Or , les grands effets naturels ne viennent jamais sans mesure . |
+| source.excerpts.12.words.0 | corps |
+| source.excerpts.12.words.1 | réchauffant |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/d7bb2edc-3edd-5bd7-8c7f-77516846437c |
+| source.excerpts.13.value | fi atteignit ainsi en quelques instants une région de rafales , qui projeta le globe - sur la nacelle , beaucoup trop rapprochée , et enveloppa les voyageurs dans ses replis .Le malheur voulut , au surplus , qu ' une fissure considérable se formât , donnant passage au gaz , dont les aéronautes se trouvèrent un moment asphyxiés .La position était d ' autant plus critique que le ballon dégonflé descendait avec une rapidité vertigineuse . |
+| source.excerpts.13.words.0 | asphyxiés |
+| source.excerpts.13.words.1 | aéronautes |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/d900c144-e981-5967-b4e2-e3d333befeb2 |
+| source.excerpts.14.value | de montagnes trouve la récompense de sa hardiesse dans la grandeur même du spectacle qui frappe aes regards , à de lointaines distances , et dans la variété prodigieuse des détails naturels dont il est immédiatement entouré .Il peut lire avec délices les changements rapides de la chaleur dans le tableau riant et merveilleux de la nature animée ; il s ' inspire des arbustes et des fleurs qui changent à sa vue ; il a les vives senteurs du sol que ses pas ont foulé etles silhouettes pittoresquement groupées des montagnes , pour se distraire ou se consoler par les sens , des fatigues de la marche et des dangers du précipice ; mais l ' homme intrépide qui a confié sa vie aux caprices du vent , l ' aéronaute se détache en quelque sorte du théàtre habituel de la .vie réelle , pour courir des hasards inconnus . |
+| source.excerpts.14.words.0 | senteurs |
+| source.excerpts.14.words.1 | vives |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/e730144e-e7cc-5558-ba20-f952f2b7cf3c |
+| source.excerpts.15.value | Mon Dieu ! quelle misère ! On sent ses forces brisées , la tête tourne , tous les membres semblent se disjoindre , on éprouve un malaise tout à fait semblable au mal de mer ; et malgré ' cela , il faut conserver - assez d ' énergie , non - seulement pour se traîner soi - même , mais encore pour frapper à coups redoublés les animaux qui se couchent à chaque pas et refusent d ' avancer .Une partie de la troupe , par mesure de prudence , s ' arrêta A moitié chemin , dans un enfoncement où les vapeurs pestilentielles étaient , disait - on , moins épaisses ; le reste , par prudence aussi , épuisa tous ses efforts pour arriver jusqu ' au bout et ne pas mourir asphyxié , au milieu de cet air chargé d ' acide carbonique i .. |
+| source.excerpts.15.words.0 | vapeurs |
+| source.excerpts.15.words.1 | air |
+| source.excerpts.15.words.2 | pestilentielles |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/e8bf58bb-8042-586d-87b4-85d334a5846c |
+| source.excerpts.16.value | une part très - notable de ce gaz se conduira comme s ' il était libre , en s échappant au dehors , dès qu ' il arrivera dans les conduits pulmonaires .Cette exhalation spontanée me paraît prouver jusqu ' à l ' évidence que l acide carbonique possède dans le sang une tension plus ou moins marquée ; c ' est - à - dire , , qu ' il y représente une force incontestable .Or , dès lors que cette force existe , je ne saurais admettre qu ' elle puisse rester absolument sans effet , et , comme d ' ailleurs elle se forme dans les capillaires , je ne trouve rien de hasardé à prétendre qu ' elle y est une cause de mouvement pour le sang qui s ' en est emparé . |
+| source.excerpts.16.words.0 | sang |
+| source.excerpts.16.words.1 | exhalation |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/ff919208-72e2-5540-bda3-32abd2a1752b |
+| source.excerpts.17.value | - La naïveté qui en résulte donne à la narration un attrait particulier , sans lui rien enlever de l ' intérêt qu ' elle a réellement pour nous - mêmes .Voici ce singulier passage : « La caravane tout entière chercha à ramasser le plus de forces possible pour franchir le Bourhan - Bota , montagne fameuse par les vapeurs pestilentielles dont elle est , dit - on , continuellement enveloppée .. |
+| source.excerpts.17.words.0 | vapeurs |
+| source.excerpts.17.words.1 | pestilentielles |
+| source.excerpts.17.words.2 | montagne |
+| source.excerpts.17.words.3 | le Bourhan - Bota |
+| source.author.0.@id | http://data.odeuropa.eu/actor/9aca9e7e-0591-58fe-bd92-8cfbf1718036 |
+| source.author.0.label | Denis  Jourdanet |
+| source.label | Influence de la pression de l'air sur la vie de l'homme : climats d'altitude et climats de montagne. Tome 1 / par D. Jourdanet,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k9738514k |
+| source.date | 1875 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/8cf9f659-20f8-568b-9c43-1fd3d114aad9 |
+| time.0.label | 1875 |
+| time.0.begin | 1875 |
+| time.0.end | 1875 |
+| place.0.@id | https://sws.geonames.org/12200097/ |
+| place.0.label | Region 2 |
+| place.1.@id | http://data.odeuropa.eu/place/3a5067a7-8e8d-5a38-8578-932482a6bd2f |
+| place.1.label | tierra calienre |
+| emotion.0.@id | http://data.odeuropa.eu/vocabulary/plutchik/love |
+| emotion.0.label | love |
+| relevantExcerpt | http://data.odeuropa.eu/source/7d9958ca-56ca-560e-9a93-f6fdf9b4687d/fragment/54ab580f-5d3b-560e-9227-8be1d3e7bc44 |
+| license | Public domain |

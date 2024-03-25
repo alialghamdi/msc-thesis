@@ -1,0 +1,359 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8b776a11-8568-5f97-8f41-a97941ec967a",
+  "@graph": "http://data.odeuropa.eu/liberliber",
+  "label": "profumo",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/01203255-0188-500c-9a98-478ab50b2f00",
+        "value": "- Ã  un errore .Sicuro che nessuno di noi aspira a morire in odore di santitÃ   .Una certa inclinazione al buon vino e alle belle donne non mostrerebbe in noi alcuna vocazione ad accettar la regola di S .",
+        "words": [
+          "odore",
+          "nessuno",
+          "di santitÃ",
+          "di noi",
+          "nessuno di",
+          "noi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/06f3f779-530f-5dca-b398-494d1542aac9",
+        "value": "E senza piÃ ¹ , volgendo in giro sugli astanti il suo grand ' occhio pieno d ' espressione severa , attraversÃ ² la sala ed uscÃ ¬ dal caffÃ ¨ Demetrio ; e un lettore d ' Omero , guardandolo , ben poteva ripetere , Indi coll ' ira Di chi vibra dall ' alto armi celesti , Taciturno con lente orme si tolse .V Quando il Parini fu uscito , aveva lasciato dietro a sÃ ¨ , quasi diremmo , il profumo della sua nobile natura .Quanti erano raccolti in caffÃ ¨ stettero alcuni istanti senza parlare , assorti in quella nuova atmosfera ; cosÃ ¬ se una elegante gentildonna , passando in mezzo ad una frotta di rozze contadine che alterchino , avvien che le avvolga nella fragranza lasciata dalle sue vesti , coloro si tacciono , irresistibilmente comprese di quell ' aura odorosa .",
+        "words": [
+          "profumo",
+          "della sua nobile natura",
+          "Quando il Parini fu uscito"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/1116fc45-d232-5033-960f-60bb49307784",
+        "value": "- Quale adunque sia stato il momento e quale il modo con cui que ' due concertarono la maniera per trovarsi insieme , non Ã ¨ ciÃ ² che piÃ ¹ importa di sapere .- Ma il fatto sta che allorchÃ ¨ in quella notte di febbrajo suonÃ ² quella tal ora , la contessa discese , e Amorevoli si alzÃ ² dal sedile di sasso e si tolse d ' intorno al volto il ferrajuolo , e nell ' esaltazione affrontÃ ² anche il chiaro di luna quando sentÃ ¬ aprir la vetriera ; e cosÃ ¬ in meno d ' un lampo fu lÃ   , e nella sua , sebbene con renitenza ineffabile , stette la morbida mano di donna Clelia ; di donna Clelia , che , ignara , di tutto , fuorchÃ ¨ di quello che Ã ¨ men necessario alla donna , e versando allora come attonita in un mondo di sensazioni non mai esplorato prima da lei , riusciva ingenua e quasi stolidamente inesperta , come una fanciulla quattordicenne , la quale , sebben difesa dal senso arcano del pudore , se non Ã ¨ vegliata da esperti custodi , concede improvvida le sue fragranze al primo vento protervo che le soffi intorno .- Quella stima eccessiva di sÃ ¨ stessa che aveale generato lo studio e la scienza , quell ' orgoglio in cui era venuta , forse perchÃ ¨ la sua intelligenza , sviluppata da infinite cure , non era perÃ ² per natura forte abbastanza da sostenere il peso della dottrina , quella acerbezza dei modi e del linguaggio , che era l ' espressione e dell ' uno e dell ' altra , erano scomparse .",
+        "words": [
+          "fragranze",
+          "al primo vento"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/1c7f7167-4edc-5ab7-a168-afda559105d6",
+        "value": ".ma non tocchi il cattivo odore de ' suoi rii ..",
+        "words": [
+          "cattivo",
+          "odore",
+          "de ' suoi rii"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/3479e5ff-f0f1-54d6-b282-e1e64278c8cf",
+        "value": "Qui il Galantino si fermÃ ² di punto in bianco , spaventato dalla propria imprudenza , e diventÃ ² pallido come un panno lavato .Il capitano di giustizia fece un atto di sorpresa ; l ' auditore guardÃ ² il capitano contento , come un pilota che dopo una lunga bonaccia , odora finalmente un fil di vento , e s ' accorge che si puÃ ² spiegar la vela .- Come sapete voi che la contessa abbia tentato di rovinarvi , scrivendo sul conto vostro ad una persona fidata di Milano , e mettendo innanzi i sospetti che voi gli avete ispirati ? - Io non so nulla .",
+        "words": [
+          "odora",
+          "dopo una lunga bonaccia",
+          "il capitano",
+          "la vela",
+          "un fil di vento"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/42dd7b6a-4254-5180-964a-8d12bbd0f846",
+        "value": "Quando , in fantasia , si arriva a immaginare il ristauro completo di questa mole , e si ricostruiscon in mente gli ottantasette archi completi , e le colonne dorate del secondo e del terzo piano , e le statue d ' oro che posavano in mezzo a ciascuna di quelle arcate ; e nell ' interno la fuga delle gradinate dal basso in alto delle tre precinzioni ; colle pareti del podio tutte rivestite di marmo , e i baltei , che dividevano le precinzioni stesse , tutti coperti di smalto e d ' oro e di gemme , Balteus en gemmis , en illita porticus auro , etc .e al sommo della cavea un portico tutto a colonne , e statue di marmo bianco , e di porfido , e di verde antico , e di bronzo dorato , disposte sparsamente lungo i baltei ; e vasi e tripodi diffondenti odori di essenze bruciate ; ..",
+        "words": [
+          "essenze",
+          "odori",
+          "di essenze",
+          "bruciate",
+          "essenze bruciate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/432dbff8-6168-5f14-a5ec-23aae06dc217",
+        "value": "Quanti erano raccolti in caffÃ ¨ stettero alcuni istanti senza parlare , assorti in quella nuova atmosfera ; cosÃ ¬ se una elegante gentildonna , passando in mezzo ad una frotta di rozze contadine che alterchino , avvien che le avvolga nella fragranza lasciata dalle sue vesti , coloro si tacciono , irresistibilmente comprese di quell ' aura odorosa .Quel silenzio rispettoso perÃ ² non durÃ ² molto , chÃ ¨ al pari delle rozze contadine , le quali , svanito il profumo , deridono la squisitezza di chi lo ha lasciato indietro , anche quei compagnoni si rivoltarono contro l ' autoritÃ   dell ' alto poeta , e : - Bella anche questa , cominciÃ ² a dire il ventilatore del braciere ; curiosa davvero , che uno si creda in diritto d ' insultare una societÃ   di galantuomini perchÃ ¨ ha stampato de ' versi che , se i suoi amici dicono il vero , saranno immortali .- Ma Ã ¨ assai piÃ ¹ strano , soggiunse il Baserga , che chi si arroga d ' insegnare i buoni costumi a ' ricchi , si trattenga poi in una bottega ad origliare i discorsi altrui .",
+        "words": [
+          "profumo",
+          "rozze",
+          "rozze contadine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/46706fb7-2668-5015-b2bd-22c6d919747c",
+        "value": ".Per questo lato Ã ¨ convenuto che debbano esalare essenza di rose .E noi vediam d ' abbandonarci a qualche digressioncina , secondo il solito .",
+        "words": [
+          "di rose",
+          "esalare essenza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/54786e20-a3be-584b-a6ca-06183a3a04b8",
+        "value": "L ' aria elastica del mattino , una tazza d ' acqua freschissima bevuta in un fiato , un ' occhiata ai libri mastri , due parole fatte col giovane di studio che teneva la corrispondenza , lo misero in tÃ ´ no , tanto che uscÃ ¬ persino in qualche celia .Esaminati cosÃ ¬ i mastri e rallegratosi , perchÃ ¨ l ' idea di una gran ricchezza che va sempre crescendo ravviva lo spirito anche piÃ ¹ dell ' aria sana e dell ' acqua fresca , ritornÃ ² all ' appartamento superiore , e si dispose alla toilette , la quale non ostante la gioventÃ ¹ ancor viva e la bellezza che non avea bisogno d ' ajuto , pure gl ' involava tutti i giorni un ' ora buona , per quella sua innata predilezione allo sfoggio e alle delicatezze profumate del vivere .Guardandosi dunque nello specchio intanto che lo andava impolverando il parrucchiere Castini ( il quale era tra i piÃ ¹ rinomati del rione di porta Romana , e di cui noi abbiam conosciuto il figlio , celebratissimo anch ' esso a ' suoi bei giorni , finchÃ ¨ rimase oscurato dalla fama irrompente degli Scandelari , dei Migliavacca e dei Brambilla ) ; guardandosi dunque nello specchio , moltiplicando l ' idea di gioventÃ ¹ e di beltÃ   che si vedeva innanzi agli occhi in tutta la sua seducente apparenza , per l ' idea di ricchezza di cui un momento prima aveva veduto le cifre espressive sui mastri , ne cavÃ ² un prodotto che mise in fuga tutti i timori e le incertezze provate durante la notte ; e per soprappiÃ ¹ , dalla finestra vedendo nel cortile il carrozzino di gala verde , rigirato intorno intorno da una ghirlandella dipinta ad oro , colore e ghirlanda che erano all ' ultima moda , non gli sembrÃ ² vero che , investito dall ' eloquenza di tutta quella pomposa apparenza e di quella innegabile sostanza , il conte V .",
+        "words": [
+          "profumate",
+          "del vivere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/559801ff-e8aa-5559-b3db-39e85cba8755",
+        "value": "AllorchÃ ¨ la gondola si fermÃ ² davanti allo scaglione di quella casa , Galantino diede al gondoliere un breve portafoglio di seta legato con nastri , fuor del quale spuntava una cartolina .Allora , come ognun sa , non c ' eran biglietti di visita propriamente detti e propriamente fatti , ma c ' eran i loro precursori ; e giacchÃ ¨ era il secolo delle eleganze piÃ ¹ profumate e delle caricature , chi voleva farsi annunziare a qualcuno per una visita , faceva presentare al guarda portone , perchÃ ¨ lo facesse avere al padrone della casa , un bigliettino su cui scriveva il proprio nome , il qual bigliettino veniva sempre collocato in un portafoglio , in un astuccio , in un vezzo qualunque ; e tali vezzi qualche volta avevano un gran valore , essendo d ' argento , d ' oro e persino ornati di pietre preziose ; a seconda della ricchezza del visitatore , e del bisogno che aveva di rendersi gradito e d ' imprimersi bene nella memoria di chi voleva visitare ; perchÃ ¨ era di prammatica che il padrone o la padrona di casa , tolto il foglietto , e letto il nome , si tenesse il vezzo per sÃ ¨ , come pegno e come dono .Il Suardi , che conosceva tutte queste bizzarie della moda , aveva creduto bene di farne uso in quell ' occasione .",
+        "words": "profumate"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/5cd62ec9-388b-5bec-b7e8-48a3e5d2cb56",
+        "value": "CosÃ ¬ dicendo , e porgendo la sedia , col gesto pregava donna Clelia a voler sedere .Per quanto la contessa sentisse dentro di sÃ ¨ sdegno e disprezzo e persino paura di quel vezzoso serpente che le stava davanti , pure si lasciÃ ² per il momento quasi deviare e placare da quell ' aspetto cosÃ ¬ vago e sorridente , da quell ' eleganza cosÃ ¬ profumata ; credeva , ma senza che nemmeno sapesse formular la cosa a sÃ ¨ medesima , che quel volto geniale , que ' modi eleganti e quel ricco vestito costituissero come un muro di divisione tra lei e l ' abbiettezza e la tristizia di quel giovane .- L ' uomo Ã ¨ cosÃ ¬ fatto : anche il piÃ ¹ sapiente , anche il piÃ ¹ astuto ama lasciarsi ingannare dall ' apparenza , anche allorquando sa benissimo che di sotto sta il marcio .",
+        "words": "profumata"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/6617919c-2f57-5b44-9c2a-fefbf01c556a",
+        "value": "Se il lettore Ã ¨ stato attento alle parole del conte Aquila , si sarÃ   accorto come il disegno del suo edificio , ch ' egli improvvisÃ ² dopo che la sua ambizione venne lusingata dal discorso del vicerÃ © , fosse fatto in modo da lasciare l ' addentellato per un edificio di tutt ' altro stile .Ã  carattere dell ' ambizione , quello di non aver nessun sistema prestabilito e inconcusso , ma di odorare il vento e virare e atteggiarsi a seconda degli avvenimenti e dell ' invito delle circostanze .Al conte Aquila non parea vero che Napoleone avesse potuto parlare di lui in quel modo e avere di lui quel concetto ; perÃ ² , quando ebbe quella rivelazione inattesa , il suo pensiero fu tosto di approfittare della fortuna e di giganteggiare con Giove , giacchÃ ¨ era assai arduo il rinnovar l ' impresa dei Titani .",
+        "words": [
+          "il vento",
+          "odorare"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/6ddb7d7e-9d21-5c29-b9ac-2406b312f759",
+        "value": "e comparve una livrea che , vista la scena , ritornÃ ² tosto con due donne .Â « Queste , essendosi fatte presso alla contessa con acque odorose ed altro , ed accingendosi a spogliarla , io fui mandato fuori ; e mi ricordo benissimo , come se fosse adesso , che , passando vicino alla contessa , non potei a meno di soffermarmi a guardarla .Il vestito di drappo azzurro , illuminato da un ultimo raggio di sole che entrava per la finestra del giardino , dava a quel volto una tinta di cielo e avvolgeva quel gruppo di donne come in un ' atmosfera di luce particolarissima .",
+        "words": [
+          "odorose",
+          "acque",
+          "presso alla contessa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/72d078d8-55b2-589d-a238-c5fe6a6d930c",
+        "value": ".E la fanciulla Ada ritornÃ ² e s ' affacciÃ ² : s ' affacciÃ ² e si ritrasse , per affacciarsi e ritrarsi ancora , come fa la capriuola che , irresoluta , sporge la testa dalla rupe , quasi odorando il vento se gli porta rumor di cacciatori , e fugge precipitosa , per ritornar tosto a rigirar l ' occhio sospettoso finchÃ ¨ , rassicurata , spicca il salto e procede .E anche Ada ritornÃ ² lÃ   , e girato l ' occhio intorno e non vedendo nessuno , si fermÃ ² e alzÃ ² lentamente lo sguardo al balcone poco discosto lasciandovelo riposare a lungo , e quasi dimenticandolo su di esso , assorta in una immobile contemplazione ! Oh divino spettacolo della giovinezza , della beltÃ   e della innocenza ! Oh spettacolo doloroso della tentazione , che sorge lenta lenta , e inavvertita si associa a cosÃ ¬ dolci compagne ! O voi che avete i cuori fatti d ' agata , e dal gelo del sangue vi fu reso arcigno e spietato il giudizio , non vogliate abborrire in anticipazione , quasi fosse una figliuola del diavolo , questa leggiadra figura che , senza sua colpa , portÃ ² dalla natura strani fervori nel sangue .",
+        "words": [
+          "il vento",
+          "odorando"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/7a509ee0-449b-54a9-80a5-d48a9a0be41e",
+        "value": "Il Fontana padre e figlio stavano in quel punto strappando l ' inferriata della scaletta che metteva alla camera dove il Prina erasi rifugiato .Giunsero in capo alla scaletta , lÃ   v ' era un uscio : l ' uscio era chiuso , chiuso per di dentro ; l ' atterrarono di un colpo ; pareva che quelle belve avessero sentito l ' odore della preda .Pochi uomini erano lÃ   .",
+        "words": [
+          "odore",
+          "quelle",
+          "della preda"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/85e0997e-5947-5ea0-8ec6-e82e1f480828",
+        "value": "Egli aveva preso con soverchio rigore matematico il detto e il fatto , che il mondo non Ã ¨ che un luogo di passaggio .Per questa ragione , riputando che l ' uomo non deve mai nÃ ¨ pensare nÃ ¨ operare se non nell ' intento supremo di meritarsi un posto nel regno de ' cieli , aveva sgomento e avversione di tutto ciÃ ² che puÃ ² rendere piÃ ¹ cara e piÃ ¹ attraente ai mortali la vita mondana ; in certi momenti in cui lo invadeva piÃ ¹ del consueto il sacro furore dell ' ascetismo , avrebbe voluto che la luce del firmamento fosse lugubre e uggiosa , che le stelle inviassero sulla terra un raggio sinistro , che i fiori non avessero fragranze , che le donne non avessero avvenenza .A forza d ' adorare Iddio , di non pensare che a lui , di credere che ogni cosa si dovesse fare quaggiÃ ¹ onde glorificarlo , per uno strano pervertimento del suo giudizio , di cui non aveva la consapevolezza , veniva di tal modo ad offendere Dio stesso , rifiutando e biasimando gran parte delle opere sue mirabili .",
+        "words": [
+          "i fiori",
+          "fragranze"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/919376e7-4238-5f8e-84b7-e315b8453210",
+        "value": "Al di fuori perÃ ² non appariva nulla .Egli , colla faccia inclinata sul capo leggiadro della fanciulla , inspirava con ineffabile voluttÃ   la fragranza che usciva dalle sue chiome inanellate .Non si sa da che dipende , ma l ' odore che esala da una giovane chioma femminea puÃ ² assassinare un galantuomo piÃ ¹ che la punta di un pugnale di Damasco vibrata da un traditore .",
+        "words": [
+          "fragranza",
+          "Egli"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/98ec5041-81e1-5b23-b55a-ea28bc428a15",
+        "value": "- Ã  dunque facile a comprendere come , ad onta del veladone di broccato e dei due orologi e delle ricche trine e della parrucca ad ala di piccione e del cappellino a tre punte listato d ' oro , e di tutta quella trasformazione , dell ' abitino succinto di lacchÃ ¨ all ' abitone prolisso di gentiluomo , a lei facesse colpo quella figura e quella faccia veduta tante volte ; faccia caratteristica quant ' altra mai , perchÃ ¨ ad un profilo finissimo , ad una bocca quasi da fanciulla , ad un incarnato bianco e rosato , che parea quello di una educanda non ancora trilustre , facean contrasto due occhi neri , vivacissimi e pieni di fuoco , ma d ' un taglio cosÃ ¬ traditore e d ' una luce tanto sinistra , che a lungo lasciava disgustato chi lo guardava .Che il giovane Suardi , ossia il Galantino , come veniva comunemente chiamato a Milano , da questa cittÃ   fosse passato a Venezia , non ci era nulla di straordinario , sebbene non fosse questo il luogo piÃ ¹ adatto alla sua professione di lacchÃ ¨ ; ma quel che ragionevolmente doveva promuovere di grandi sospetti era quello sfoggio repentino del suo abbigliamento e quell ' aria di profumatissimo gentiluomo ch ' egli si dava .La contessa , quando lo vide la prima volta sul ponte , pensÃ ² ch ' egli avesse fatto una gran vincita al giuoco , e bizzarro qual era e amante della eleganza e del lusso , come ne aveva dato un saggio anche a Milano pur nell ' umile sua livrea di lacchÃ ¨ , attendesse allora a gettare i guadagni in fretta e in furia nel recitare per poco tempo la parte del gran signore ; ma a questa prima congettura ne tennero dietro delle altre , essendole nota la cagione per cui era stato cacciato dalla casa F .",
+        "words": [
+          "profumatissimo",
+          "quell ' aria",
+          "gentiluomo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/a1b5655e-aa60-5622-8ce1-d539c82ba097",
+        "value": "Intanto , domani che Ã ¨ giovedÃ ¬ , parlerÃ ² alla ragazza ; sentirÃ ² , e vedrÃ ² poi , di pieno accordo colla signoria vostra , quello che si dovrÃ   fare .Ma in questo punto , in cui la nobile conservatrice del monastero di san Filippo sta parlando con donna Paola , noi , girando l ' occhio e facendolo penetrare entro al monastero stesso , possiamo vedere una fanciulla trattenersi nel dormitorio , mentre le sue compagne educande ne escono a coppie ; indugiarsi un momento davanti uno specchio , accarezzarsi le chiome quasi a migliorare la gretta acconciatura del convento , levarsi il grembialetto di levantina nera , assottigliarsi la vita stringendo la cintura oltre il punto voluto dalla governante del dormitorio ; e , fatto questo , accostarsi al proprio letto , tirar la stringa della fodera del guanciale , levarne un gelsomino appassito , odorarlo , con una inspirazione lenta , estatica , voluttuosa , che finisce in un lungo sospiro ; poi rimetterlo di furto , guardandosi in torno , sotto la copertina del guanciale , e con passo lieve lieve e quasi trasvolante uscir dal dormitorio , discender le scale e farsi colle compagne , baciando sulla guancia la prima che le si fa incontro , ma con un trasporto e con un atto cosÃ ¬ particolare e curioso , che sembra quasi che , baciando materialmente quella faccia , coll ' intelletto del senso ne baci un ' altra .Tentare di tradurre al vivo il profumo incantevole , la vaghezza , diremo , trasparente , ma che parrebbe voler dissimulare i tratti piÃ ¹ risentiti di quell ' adolescente beltÃ   ; rendere quella grazia lieve e quasi fuggitiva e che lascia indovinare come , scorrendo qualche lustro , ella potrebbe forse ritrarsi per lasciar luogo a forme piÃ ¹ compiute , piÃ ¹ sode , piÃ ¹ solenni ; tentare adunque di tradurre ciÃ ² in sembianza di veritÃ   viva , Ã ¨ impossibile .",
+        "words": [
+          "odorarlo",
+          "un gelsomino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/a278d5ea-1193-5712-b759-71a5c14b9086",
+        "value": "La contessa tornÃ ² a Bologna ; Ada fu ricondotta in monastero .Or che lume d ' intelletto risplendeva entro al leggiadro velo di quella fanciulletta ? che spontanea virtÃ ¹ di natura avea sortito ? che cuore , che sentimenti , che istinti ? Ahi , nata di passione , pur troppo , il germe di essa le si depose inavvertito nel sangue , quasi come avviene de ' malori gentilizj ! germe destinato a dar subite espansioni e precoci , a guisa di un fiore che , affidando all ' aria ancor fredda le sue prepostere fragranze , precorra , annunciandola , la primavera ; - e all ' occulto germe doveva dar forza e riceverne a gara , per le consuete rispondenze arcane , una non comune svegliatezza di mente , recando essa nell ' ingegno un abito spontaneo a manifestarsi col linguaggio dell ' arte ! Tutte queste cose , quando la fanciulla non avea che otto anni , non furono intravedute che dalla penetrazione profonda di donna Paola ; ma a dieci anni vennero considerate , e con inquietudine sospettosa , anche dalla madre superiora del monastero di san Filippo .L ' ingegno straripava in insolita vivacitÃ   , e certe baldanzose interrogazioni della fanciulletta turbarono spesso l ' insipienza bigotta delle monache maestre .",
+        "words": [
+          "fragranze",
+          "la primavera"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/aa443a52-a2dc-5138-bb94-d0ca1a9b2b4b",
+        "value": ".A Venezia c ' Ã ¨ tutto di grande , di bello , di buono , ma bisogna avvezzarsi all ' odore della laguna .Tutte le cittÃ   hanno il loro difetto .",
+        "words": [
+          "Venezia",
+          "odore",
+          "della",
+          "della laguna",
+          "laguna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/b2d86b77-fc4a-5273-9627-99998b208174",
+        "value": ".Non per la moglie , ma per quella che voglio io ; e quella che voglio io Ã ¨ nientemeno che la promessa sposa del conte Alberico ( il lettore comprenderÃ   come questa fosse un ' invenzione del Suardi ) , e tutto Ã ¨ pronto , e si dice che il bello e leggiadro e profumato e viziato conte , messi da parte i suoi cento amori , e lasciatine gli avanzi alla servitÃ ¹ come si fa cogli stivali e colle calze smesse , siasi innamorato perdutamente di quella che piace a me .Ma il conte non l ' avrÃ   e non la sposerÃ   .",
+        "words": [
+          "profumato",
+          "conte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/b5c040cc-9ee5-5966-aa54-a4802f92b236",
+        "value": "- Vuol l ' amo o le reti , signor Angelo ? - Bada a te , Zampino .- E Amorevoli si alzava aspergendosi il volto e le mani d ' acqua odorosa , e mettendo in mostra una camicia tutta gaja di preziosissime trine , e un pajo di calzoni di raso turchino con punte d ' argento .Si adattÃ ² il gilÃ ¨ , che pareva un mazzo d ' ortensie , mise gli stivali di rnarocchino nero con rovesci azzurri come i calzoni , infilÃ ² la marsina variopinta come una squama di serpente , si calcÃ ² il cappellino a tre punte sulla parrucca alla circostanza , e si gettÃ ² il mantello sulle spalle .",
+        "words": [
+          "odorosa",
+          "acqua"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/bb29e495-2c9d-5a50-a5c1-4c71bf147996",
+        "value": "Dalla giovine societÃ   che lo aveva circondato , non ebbe mai dunque che segni d ' antipatia e di disprezzo in tutto il tempo de ' suoi primi studj .PerÃ ² il seminario riuscÃ ¬ per lui un luogo di sicurezza e di tranquillitÃ   , dove fu ben felice di sentir l ' odore de ' sornioni suoi pari , che l ' odorarono a gara , e gli si accostarono e si strinsero in lega seco .In simile maniera s ' accovacciano insieme nelle cantine , e accanto ai focolari delle vecchie pinzochere , i gatti soriani , in odio al mondo e all ' allegra brigata dei cani barboni .",
+        "words": [
+          "odore",
+          "odorarono",
+          "de ' sornioni suoi pari",
+          "a gara",
+          "il seminario",
+          "un luogo di sicurezza e"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/c83b23a8-23f8-5b4b-917c-0b6536b8610f",
+        "value": "- La lettura di un romanzo si fa , per solito , di nascosto e lontano possibilmente dagli occhi de ' curiosi , press ' a poco come quando si commette un peccato .- Se una ragazza Ã ¨ in odore di gran leggitrice di romanzi , storna da sÃ ¨ qualunque possibilitÃ   di matrimonio ; la spina dorsale deviata , il broncocele , la clorosi , l ' isterismo , l ' epilessia , sono in una fanciulla , contro i giovinotti assestati che voglion metter casa , spauracchi meno spaventosi dell ' abitudine a legger romanzi .- I maestri , i pedagoghi , i prefetti di camerata , se colgono un giovinetto alunno sprofondato nella lettura di un romanzo , tosto Ã ¨ un tumulto nella famiglia , un parapiglia nel Collegio - Convitto ; minacce di castighi , di espulsioni , di collere implacate .",
+        "words": [
+          "odore",
+          "di",
+          "una ragazza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/c8e481ff-490b-57b5-9a90-d8fc304e2d5d",
+        "value": "V Quando il Parini fu uscito , aveva lasciato dietro a sÃ ¨ , quasi diremmo , il profumo della sua nobile natura .Quanti erano raccolti in caffÃ ¨ stettero alcuni istanti senza parlare , assorti in quella nuova atmosfera ; cosÃ ¬ se una elegante gentildonna , passando in mezzo ad una frotta di rozze contadine che alterchino , avvien che le avvolga nella fragranza lasciata dalle sue vesti , coloro si tacciono , irresistibilmente comprese di quell ' aura odorosa .Quel silenzio rispettoso perÃ ² non durÃ ² molto , chÃ ¨ al pari delle rozze contadine , le quali , svanito il profumo , deridono la squisitezza di chi lo ha lasciato indietro , anche quei compagnoni si rivoltarono contro l ' autoritÃ   dell ' alto poeta , e : - Bella anche questa , cominciÃ ² a dire il ventilatore del braciere ; curiosa davvero , che uno si creda in diritto d ' insultare una societÃ   di galantuomini perchÃ ¨ ha stampato de ' versi che , se i suoi amici dicono il vero , saranno immortali .",
+        "words": [
+          "odorosa",
+          "fragranza",
+          "dalle sue vesti",
+          "una elegante gentildonna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/cd694775-dd42-53b7-a229-517226fa66ce",
+        "value": "IX Or lasciamo per poco Milano , la Babylo minima di Ugo Foscolo , e rechiamoci a Venezia , la cittÃ   adottiva del chiaro di luna , del romanticismo convenzionale e degli amori pseudo - platonici .O Venezia ! Oppure Vinegia , come noi preferiamo di chiamarti per appagare un nostro gusto da antiquario , quante fantasie di poeti hai tu stancate ; quanti romanzieri hai raggirati lontano dal vero , attraverso all ' inestricabile labirinto delle tue calli ; a quanti esageratori di professione hai fatto prestito grazioso della tragica tinta de ' tuoi palagi secolari e dell ' onda stigia de ' tuoi rii , saturi di gas fosforici e di quel jodio che Ã ¨ tanto lodato per la cura della scrofola ! Quante bugie , senza tua colpa , hai fatte pronunciare agli storici , che pure , con un coraggio da leone , s ' incaricano di dire la veritÃ   ! Quanti femori e coscie e stinchi hai tu infranto colla pietra bianca de ' tuoi ponti traditori ! A quanti giovinotti hai fatto perdere l ' appetito e la salute ricoverandoli insidiosamente sotto al felze delle tue gondole ! Quanti odorati squisiti e permalosi hai offeso coll ' odore infesto del tuo baccalÃ   ! Quante spregiate crete VersÃ ¢ r fonti indiscrete dalle tue altane e dalle tue finestre plebee sul capo dell ' ansioso visitatore delle vetuste tue glorie ! O Venezia , o , come ci piace meglio , Vinegia , tanto straordinariamente bella e fantastica e divina , quanto , in certe parti , difettosa e incomoda e talora fetente ! O regina dell ' Adriatico , o donna di duplice aspetto , che rendi veraci tutte le descrizioni perchÃ ¨ , al pari della fata Alcina , ti mostri in apparenza di vegliarda a mettere in fuga chi pure Ã ¨ venuto a visitarti colle migliori intenzioni ; ma per chi ben ti contempla , sei bella e giovane ed attraente e divina cosÃ ¬ , da ammaliare Ruggero .Ma la colpa Ã ¨ di chi ha sempre voluto descriverti da un lato solo ; e dei pittori di prospettiva che non sanno altro che far ripetizioni eterne della tua piazza e del tuo palazzo Ducale .",
+        "words": [
+          "Venezia",
+          "odore",
+          "fetente",
+          "odorati",
+          "infesto",
+          "Vinegia",
+          "del tuo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/cd8805bc-d3f6-53b3-84b6-e4c6b44c9e26",
+        "value": "Egli , colla faccia inclinata sul capo leggiadro della fanciulla , inspirava con ineffabile voluttÃ   la fragranza che usciva dalle sue chiome inanellate .Non si sa da che dipende , ma l ' odore che esala da una giovane chioma femminea puÃ ² assassinare un galantuomo piÃ ¹ che la punta di un pugnale di Damasco vibrata da un traditore .Il giovine s ' inchinÃ ² ancora di piÃ ¹ ; osÃ ² varcar la linea della convenienza ; baciÃ ² quei capegli ; la fanciulla tacque , ma un brivido sacro la percorse tutta lungo la colonna vertebrale .",
+        "words": [
+          "odore",
+          "esala",
+          "da una giovane chioma femminea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/d9f63dff-8271-5b3b-aa67-cde29ab15115",
+        "value": "Ma in questo punto , in cui la nobile conservatrice del monastero di san Filippo sta parlando con donna Paola , noi , girando l ' occhio e facendolo penetrare entro al monastero stesso , possiamo vedere una fanciulla trattenersi nel dormitorio , mentre le sue compagne educande ne escono a coppie ; indugiarsi un momento davanti uno specchio , accarezzarsi le chiome quasi a migliorare la gretta acconciatura del convento , levarsi il grembialetto di levantina nera , assottigliarsi la vita stringendo la cintura oltre il punto voluto dalla governante del dormitorio ; e , fatto questo , accostarsi al proprio letto , tirar la stringa della fodera del guanciale , levarne un gelsomino appassito , odorarlo , con una inspirazione lenta , estatica , voluttuosa , che finisce in un lungo sospiro ; poi rimetterlo di furto , guardandosi in torno , sotto la copertina del guanciale , e con passo lieve lieve e quasi trasvolante uscir dal dormitorio , discender le scale e farsi colle compagne , baciando sulla guancia la prima che le si fa incontro , ma con un trasporto e con un atto cosÃ ¬ particolare e curioso , che sembra quasi che , baciando materialmente quella faccia , coll ' intelletto del senso ne baci un ' altra .Tentare di tradurre al vivo il profumo incantevole , la vaghezza , diremo , trasparente , ma che parrebbe voler dissimulare i tratti piÃ ¹ risentiti di quell ' adolescente beltÃ   ; rendere quella grazia lieve e quasi fuggitiva e che lascia indovinare come , scorrendo qualche lustro , ella potrebbe forse ritrarsi per lasciar luogo a forme piÃ ¹ compiute , piÃ ¹ sode , piÃ ¹ solenni ; tentare adunque di tradurre ciÃ ² in sembianza di veritÃ   viva , Ã ¨ impossibile .Anche ai pittori Ã ¨ malagevole piÃ ¹ che mai il far ritratto della beltÃ   femminile adolescente ; forse perchÃ ¨ presenta il fenomeno d ' un ' assidua ineguaglianza .",
+        "words": [
+          "profumo",
+          "incantevole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/da9f9118-d293-5145-a16f-c00009ca5919",
+        "value": "un baleno gli aveva attraversato i pensieri ; e in un baleno , fatto un calcolo e un disegno : - Ebbene , le rispose , divideremo la protezione in due metÃ   .Accettate , contessa ? - SÃ ¬ che accetto ! - Ho un mazzo profumato di viole , colte nel mio giardino d ' Inzago .ManderÃ ² il mio bel capitano a farvene un presente .",
+        "words": [
+          "profumato",
+          "di viole",
+          "mazzo",
+          "nel mio giardino d ' Inzago"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/de82089c-0e60-573a-a3ab-04d10e60871d",
+        "value": "Per quanto ei fosse fiducioso di sÃ ¨ e della propria avvenenza , e fosse reso baldo dalle molte e continue e facili sue vittorie , pure non avrebbe saputo giurare a se stesso d ' aver fatto nella fanciulla quella profonda impressione , da cui dovesse poi prorompere la necessitÃ   d ' una corrispondenza .Era ingegnoso e acuto , lo abbiam detto cento volte , e conoceva le anomalie dei cuori femminili ; ma d ' altra parte , nella interminabil lista delle sue avventure , non ancora era comparsa una figura sÃ ¬ giovane , sÃ ¬ olezzante di fragranza virginea .Era quella la prima volta ch ' ei trovavasi al cospetto d ' una innocenza tanto pura , mentre egli era di tanto piÃ ¹ provetto di lei , che avrebbe potuto essere suo padre .",
+        "words": [
+          "olezzante",
+          "fragranza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/e33f7875-ba63-5a38-b7e8-3b579a031415",
+        "value": ".- Che ? - C ' Ã ¨ qualcosa qui presso che non manda buon odore ..",
+        "words": [
+          "buon",
+          "odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/e57fb0c2-661e-5a90-9afd-d7236fefd09a",
+        "value": ".- Scusate se vi richiamo un nome che puzza di scandalo ..",
+        "words": [
+          "puzza",
+          "di scandalo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/e7f61251-1acd-57b4-be62-6803dca3b37b",
+        "value": "- Signore , disse la Gaudenzi al conte Verri con una semplicitÃ   piena di vezzo , si degni di restar servito ; e precedendolo e schiudendo ella stessa le porte , lo pregÃ ² ad entrar nella sala , e gli presentÃ ² la sedia con quella disinvoltura onde un uomo avrebbe potuto comportarsi con una donna .- L ' ingenuitÃ   era pari tanto nel giovine Verri quanto nella Gaudenzi ; ma il primo era timidissimo , mentre la seconda , dall ' abitudine ad affrontar le mille pupille del pubblico , aveva contratta quella scioltezza , quasi diremmo virile , che forse , a chi era avvezzo al profumato galateo delle aule dorate , potea parer soverchia ; ma che in quella giovinetta cosÃ ¬ bella , e in quell ' eleganza spontanea e quasi non voluta d ' ogni suo movimento , si vestiva di un incanto specialissimo .Pietro Verri la contemplava muto , e andava pensando come non fosse sempre vero quel che comunemente avea sentito dire , che cioÃ ¨ le beltÃ   da palco scenico non debbano mai esser vedute in camera .",
+        "words": [
+          "profumato",
+          "galateo",
+          "delle aule dorate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/edcf2f7d-d235-5bcb-b655-f91403e9d922",
+        "value": "A Ferragosto , a Natale , ogni qualvolta era opportuno , si mandavano a coloro che potevano quel che volevano , casse di cioccolata sopraffina di Caracca , i cui pani dovevano far l ' ufficio di coprire un sedimento di talleri , o di zecchini , o di oggetti preziosi in oro , in argento , in gemme , a seconda del grado e dell ' indole dell ' uomo .Una volta tra l ' altre - e crediamo sia stata la sola perchÃ ¨ l ' occasione e il bisogno fu della massima importanza - un servizio da tavola tutto d ' oro , del valore di circa ottantamila ducati , venne avvolto nella bambagia , dissimulato appunto dalla fragranza del cacao , del thÃ ¨ e del caffÃ ¨ ; e cosÃ ¬ spedito al ministro Kaunitz .Nel torbido adunque si pescava chiaro ; e il sinedrio dei divoratori sedeva a tavola con formidabili ganascie , mentre i loro commessi entravano dappertutto insolentemente a metter sossopra merci , masserizie , mobiglie , per cercare quel che talvolta non c ' era , e spesso per avere l ' occasione di metter l ' indulgenza a caro prezzo .",
+        "words": [
+          "fragranza",
+          "del cacao",
+          "del thÃ",
+          "del caffÃ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/f189fe57-5768-560f-abf6-bf16bd3a7a7e",
+        "value": "- PerÃ ² avveniva talvolta che le nature giovanili piÃ ¹ vivaci e generose prorompessero peggio delle altre in atti d ' insubordinazione e di disordine .NÃ ¨ limitavansi a quelle battaglie tra loro ; ma talvolta quando durava la tregua , siccome avevano degli spiriti esuberanti da versar fuori , tanto piÃ ¹ esuberanti quanto piÃ ¹ , siccome dicemmo , venivan compressi in casa dal folto sopracciglio paterno e in iscuola dall ' arcigna canizie del frate professore gesuita o barnabita , cosÃ ¬ si sfogavano sui passeggieri , su qualche figura barbogia e ridicola , su qualche vecchia che vendesse i libretti della cabala e avesse odore di sortilega , press ' a poco , come non Ã ¨ gran tempo , potemmo vedere qualche sucida vecchiarda inseguita a dileggi e a fischiate dall ' irrompente folla della fanciullesca marmaglia .Qualche volta perÃ ² , uniti in formidabile truppa , segnatamente gli scolari giÃ   adulti della rettorica , si dilettavano anche a far qualche atto di giustizia sommaria , a fare scherzi e dileggi a coloro che per veritÃ   li avevano provocati , scherzi e dileggi che non mancavano di spirito , e mettevano di buon umore tutta la cittÃ   .",
+        "words": [
+          "odore",
+          "di sortilega",
+          "gran tempo"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/b360415e-3eb8-52db-8ef8-59ba8bb8fdbb",
+        "label": "Giuseppe Rovani"
+      }
+    ],
+    "label": "Cent'anni",
+    "date": "1975",
+    "language": "it"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f7426f27-46d1-519b-98d3-4b540b85394a",
+      "label": "1975",
+      "begin": "1975",
+      "end": "1975"
+    }
+  ],
+  "place": [
+    {
+      "@id": "http://data.odeuropa.eu/place/bbc2269b-6316-5009-8db6-2575e1311cd8",
+      "label": "rozze contadine"
+    },
+    {
+      "@id": "https://sws.geonames.org/295488/",
+      "label": "Wādī Ghazzah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/a339256b-2ee9-585e-81f6-cc413217dd83/fragment/432dbff8-6168-5f14-a5ec-23aae06dc217"
+}

@@ -1,0 +1,1914 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8b7a7df3-11d6-5dc1-b4fa-bb2a19ed9911",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "aromatique",
+    "exhalaisons"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/00aeda6f-965a-57bd-94b7-db6b0e1f6bf9",
+        "value": "( 1 ) Nous marquerons d ' un * les plantes qui ne se trouvent qu ' au - delà de ce rayon .Nous citerons au hasard : à Bacalan , le Senebiera didyma , à l ' odeur forte et désagréable , ' et le Myagrum perfoliatum ; à Bruges , dans les marais , le Nénuphar blanc et le jaune , l ' Hippuris mlgaris , le Salvinia natans ; à Eyzines , le , Genista anglican à Blanquefort , le beau trèfle de Castor , Menyanthes trifoliata ; au Haillant , l ' Osmonde des bois , Blechnûm spicant , et la Fougère mâle , Aspidium filix mas ; à Saint - Médard , connu par son moulin à poudre , le Tribulus terrestn ' s , o .dans la lande de Pezeu , Ylnula salicina ; àMérignac , les Orchid alba , Pyramidalis , l ' Epipactis Nidus avis , 8cc .",
+        "words": [
+          "Bruges",
+          "désagréable",
+          "forte",
+          "odeur",
+          "trèfle",
+          "Saint",
+          "Nénuphar",
+          "Senebiera",
+          "Myagrum",
+          "Bacalan",
+          "Eyzines",
+          "Médard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/01c72e64-61d0-5762-b780-1f6c73dd5578",
+        "value": "capitatum , le plus commun hreuPeut - être ' ? plus agréable de tous , par ses feuilles nomYeuses À ondulées .velues et répandant une douce odeur de brun ' î ; le TRISTE , P .triste , dont les fleurs d ' un violet Giron ordi de souffre , répandent le soir , une odeur de e et de Cannelle .",
+        "words": [
+          "douce",
+          "odeur",
+          "brun"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/02b1bbf3-b09b-50a1-9293-0b547a5aded4",
+        "value": "hérissés de poils glanduleux , styles t e us , réunis en colonne ; tige et pétioles à aiguillons Us et épars ; bractées lancéolées ; feuilles lisses , lgu - antes , persistantes , à dents simples .Fleurs blanes et odorantes ' .Les haies : à Caudéran , & c .",
+        "words": [
+          "odorantes",
+          "Fleurs blanes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/04e20e1c-6f41-530c-b0ca-73d593a3658b",
+        "value": "Les landes : à Arlac , etc .Les fleurs ont une odeur agréable ., Roseum .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/051bd364-c12b-5791-95a0-347034e09440",
+        "value": "L .Violette odorante .Drageons raW pants ; feuilles en cœur ; pédoncules nus , partant de la racine et portant une fleur violette ou blanche d ' une odeur très - agréable .",
+        "words": [
+          "Violette",
+          "odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/05cc0ade-a736-549c-8a61-7e9a920a2a10",
+        "value": "bea ^ ^ s < înrè entre Bruges et Parempuyre , dans les marais , trois rnèfr de ciguës .Il y en a des pieds qui s ' élèvent jusqu ' à portable s - Elle répandait , aplès l ' orage , une odeur insupOu ^ Thamanta * D ' une montagne de Thessalie , d ' Ath amas roi de Thèbes .Fruit ovale - oblong et l etales involutés et échancrés .",
+        "words": [
+          "Thessalie",
+          "odeur",
+          "Elle",
+          "Thèbes",
+          "insupOu",
+          "aplès"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/071ce637-07c9-57ea-8e3f-ceb10d6a8507",
+        "value": "Lau .rieras , dont le bois a une odeur forte et agréable ; le QUa ' 7r , rouge ou Bourbon , L .Borbonia , à feuilles épaisses .",
+        "words": [
+          "bois",
+          "agréable",
+          "forte",
+          "odeur",
+          "rieras"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/07e0b138-8918-59e9-a617-b7acca7d7cea",
+        "value": "ill Les chatons sont émétiques et sudorifiques , les Les s emménagogues , fébrifuges et vermifuges .s émanations de cet arbre sont nuisibles ; et la ^ Ussière de la sciure cause des coliques rebelles .Ve bois est employé et recherché dans la menuinoi ' il est excellent pour la gravure .",
+        "words": [
+          "émanations",
+          "nuisibles",
+          "sciure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0941a122-1d3d-5609-bdff-a346aeb890d9",
+        "value": "longs et uniflores , terminaux ; Kg tes du réceptacle , molles , lancéolées , obtusa Estiv .Plante odorante , stomachique , carmin très - résolutive .Les pâturages secs : à Caud , Sauterne , etc .",
+        "words": [
+          "odorante",
+          "stomachique",
+          "carmin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0b1951c6-a3b1-526d-950a-c2089c3a4dcd",
+        "value": "Muguet de Mai .Hampe nue : ped es ovales - lancéolées ; fleurs en grelot , blanches , géantes , odorantes , formant un épi unilatéral .à es sont céphaliques et antispasmodiques .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0c5355d2-3837-5fc8-adb2-17891dcfcdf0",
+        "value": "et rameuse au sommet ; feuilles deux ou trois foijs .P ^ atifides , à lobes capillaires ; fleurs blanches , slIaveque jaune , en corymbe .— Odeur forte , assez nazad ' .",
+        "words": [
+          "P",
+          "atifides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0d9e48cb-ca4c-569d-80b9-d93ce0094497",
+        "value": "pinnatifides , à div .frangées ; Prrsd d nn rouge pâle , à odeur suave .cf Estival .",
+        "words": [
+          "suave",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0e370213-943e-5dc9-9291-3cceb04d8eb4",
+        "value": "P ^ atifides , à lobes capillaires ; fleurs blanches , slIaveque jaune , en corymbe .— Odeur forte , assez nazad ' .fI ) Les champs ; à Poussignac , etc .",
+        "words": [
+          "forte",
+          "Odeur",
+          "assez nazad"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0eddf229-bb4d-52b0-a7c2-ce71559f7bf6",
+        "value": "Les CLB et les jardins .— Aromatique , stomachique et 8 spasmodique .Contre les flatuosités .",
+        "words": [
+          "Aromatique",
+          "stomachique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/0f35cd9f-2d8f-5d1e-83ae-97e607059b59",
+        "value": "Sent 3Unous est impossible de parler ici des nomb ' e ' ses espèces de Geranium et Pelargoniumque l ' on cultive .PIUSSI nous bornerons - nous à rappeler celles que l ' on voit le Plus 0 < ? rnIîlunéraent dans nos jardins et qui ne sont pas les MO ' Ps intéressantes , savoir : le GÉRANIUM A BANDES , Pelarbrt tum , Zonale , à feuilles en cœur , marquées d ' une zone brnnp ! odeur désagréable , à fleurs d ' un rouge vif ; l ' EcutANT l ' r fulgidum , à tige épaisse , tortueuse , à feuilles tri - bla ees .IOclsées .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "fleurs",
+          "GÉRANIUM",
+          "r fulgidum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/12522145-25c8-58c2-be71-851777f21265",
+        "value": "Les prés .Fleurs peu odorantes paraissant en et Septembre .entie EPIPACTIS .",
+        "words": [
+          "odorantes",
+          "Fleurs",
+          "peu odorantes",
+          "en et Septembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/1294f58f-ec55-5dd3-8b9c-9a27f8785d13",
+        "value": "Feuilles presque ovales , terne rapproehées , sessiles , relevées en bosses , alen tr s .et Un peu redressées ; fleurs en bouquet divisé trois parties * - Vomitif , purgatif et anti - hydropique Il e partIes .- Vomitif , purgatif et anti - hydropiest d ' une si grande âcreté qu ' on ne doit l ' emLes III InterIeurement qu ' avec précaution .",
+        "words": [
+          "fleurs",
+          "purgatif",
+          "Vomitif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/148274c7-9035-51c5-bb48-96735b2053eb",
+        "value": "- Stomachique , tonique et fébrifuge .On eniploie les fleurs , qui ont une odeur forte , péHétrante et aromatique .l , Pa AM : OMILLE PUANTE OU MAROUTE , Anthémis ccttula .",
+        "words": [
+          "aromatique",
+          "forte",
+          "qui",
+          "odeur",
+          "fleurs",
+          "péHétrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/16964134-31ff-5ae8-8268-83925f108993",
+        "value": "Sur les vieux murs : ils mont , etc .On le cultive à cause de la beauté < 2 fleurs , quelquefois odorantes et qui offrent a d ' hui de nombreuses et jolies variétés .À .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/171f63fd-a54c-5b9b-8c9f-5ab43bc8f149",
+        "value": "Les paluS d ' Arveyres .La Gesse odorante , ou Pois DE SENTEUR , L .odoratus , eS l ' on nomme vuigaircment Pois - fleur , remarquable par * e belles fleurs blanches , bleues .",
+        "words": [
+          "odorante",
+          "Gesse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/176bca9b-adb6-5c89-91de-034ce4841209",
+        "value": "BALLOTA .Peut - être de w , je ejette , cause de son odeur répugnante .Cal .",
+        "words": [
+          "odeur",
+          "son",
+          "je",
+          "répugnante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/1824716a-adcf-5102-8a43-45bf15d9177c",
+        "value": "L .Flouve odorante .Épi 01 ovale et lâche , fleurs portées sur un petit pédo fleurs et racines odorantes .",
+        "words": "odorante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/18c4b12b-3dfe-5497-b3cf-21f4ddc04fe5",
+        "value": "Le bois de cet arbre est Cherché Par les tourneurs ; sa racine et son écorce t ' age ) OUees et sucrées ; ses feuilles servent de fourrage à toi t sucrées ; ses feuilles servent de fourdonn a tous les bestiaux .C ' est au printemps qu ' il Elles e ses a ' lJrs noml ) reuses , blanches et odorantes .n sont antispasmodiques .",
+        "words": [
+          "odorantes",
+          "au printemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/1a3ee51f-18c3-581b-9fe9-f61e98c29472",
+        "value": "charnu , un peu visqueux , ( j , n jaune de brique , à lames verdâtres , à péd .fisy eux - Odeur agréable , saveur amère .En groupes à s les bois , sur la terre et sur les troncs coupés : aUdéran , etc .",
+        "words": [
+          "agréable",
+          "Odeur",
+          "amère",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/1ad42383-ae30-5155-bf6a-44c739375b3f",
+        "value": "mince , fragile , au Jc urs irrégulièrement arrondi , d ' abord verdâtre Plein eire et ensuite roux ; feuillets blancs ; péd .Un g * , e Promet des Béarnais a une odeur agréable , exquis .C ' est un des champignons les moins \" bles dont on fasse usage .",
+        "words": [
+          "agréable",
+          "odeur",
+          "exquis",
+          "Promet des Béarnais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/1e355faf-5333-500e-b2d9-f1a0e55d0c74",
+        "value": "Les nservés dans l ' huile d ' olive , forment un calmant doutonse sert avec succès .ri Cte tal , que l ' on cultive dans nos jardins avec une vale , qui n ' a ni l ' odeur , ni le parfum de la simple , « rot » weillement en Suisse , dans la Palestine et en Syrie .W .",
+        "words": [
+          "Syrie",
+          "Suisse",
+          "Palestine",
+          "parfum",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/1fd61674-49d4-505d-899a-102272f6df9b",
+        "value": "feuilles pétiolées , lisses , dentées , obtuses et à trOI lobes ; fleurs blanches et odorantes , à un ou deupistils ; fruit d ' un beau rouge , quelquefois inon \" sperme , et assez doux au goût .— C ' est en Mai qlJI parfume nos campagnes .Les haies .",
+        "words": [
+          "parfume",
+          "en Mai"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/229ba1da-6bbc-58ba-b826-cf30541d21da",
+        "value": "Épi 01 ovale et lâche , fleurs portées sur un petit pédo fleurs et racines odorantes .C ' est l ' espèce tu au foin son agréable odeur .if Estivale .",
+        "words": [
+          "agréable",
+          "odeur",
+          "son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/27089437-a86b-519b-9e54-80bbf5e6a808",
+        "value": "à feuilles blanchp i / en dessous , à fleuts petites , jaunes , en têtes et odorantes .Le a ® , a ! 7 « scanensts , à belles grappes de fleurs odorantes , dem anae la serre en hiver .11 prospère au jardin de Bordeaux .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "hiver"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/279d141c-fdaa-514a-8601-6858c59b7cfb",
+        "value": "à long éperon .Corne do di , belle sétacée et plus longue que l ' ovaire ; labeUe di , visé peu profondément en trois parties ; pétales j très - ouverts ; fleurs purpurines et odorantes .tc , Les prairies ombragées : à la tour de Veyrines > jette * 0 .",
+        "words": [
+          "odorantes",
+          "purpurines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2828e49c-76c8-5121-a092-890456c54f96",
+        "value": "— Lesj iardi ' 15 et les champs .— Plante à odeur pénétrante , a Save acre , qu ' on ne doit employer qu ' avec précau 1 Anti - hystérique .' il ¡ ' SAUGE , Salvia officinalis { pag .",
+        "words": [
+          "pénétrante",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2a367160-02db-5cf0-8963-b620e0396df1",
+        "value": "Saponaire .Tige droite et élevée ; feuilles sessiles , ovales - lancéolées et nervées ; fleurs en bouquets , blanches ou couleur de chair et odorantes .— Amère .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2b76058b-6ee9-5f1b-9f39-e06dc158c955",
+        "value": "@ De Mai en Floir re .Les fleurs ont l ' odeur de celles du temtifolia .MOUIc , sur la digue de la Garonne , ( Ch .",
+        "words": [
+          "odeur",
+          "fleurs",
+          "celles",
+          "temtifolia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2bd5a279-bcde-5658-a2d2-94dfea355418",
+        "value": "commune .Tige droite , haute , articulée , rameuse et velue ; feuilles oblongues ; calices glanduleux et velus ; fleurs blanches , dioïques et odorantes le soir .% • Les champs et les haies .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "le soir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2daa9d49-b650-5142-9fe8-c5834cf923e4",
+        "value": "Peu usitée aujourd ' hui .La VERVEINE ODORANTE ou à trois feuilles , Y .triphyllfe remarquable pli \" son odeur de citron , est cultivee dossis ' jardins où l ' on trouve aussi quelquefois le F .",
+        "words": [
+          "ODORANTE",
+          "VERVEINE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2de09429-7dfa-5759-b677-94c6ef020f48",
+        "value": "b Estiv .Les collines , e généralement les terrains sablonneux : au Tondu , etc : Tout le monde connaît le parfum que répandent s : fleurs .- Le Thymus vulgaris .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "répandent",
+          "Tout le monde",
+          "collines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2e356c41-bb17-5700-a27f-18165d4eebf6",
+        "value": "Les bois humides , au bord des eaux à Lassouyes , etc .— La racine , qui a une odeur très - forte et recherchée des chats , est a1111 .spasmodique et même antiépilcptique .",
+        "words": [
+          "odeur",
+          "racine",
+          "très - forte",
+          "chats"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2ee1bfc2-e844-5a59-a4b1-d82e4687094a",
+        "value": "l où H Heurit chaque année , te Pot / to ~ a ~ ea .à spadice lin a capsules triangulaires , dont les feuilles répandent agréable , quand on les froisse , indiqué par Ihore nades sur les côtes du golfe de Gascogne ) entre La ïesin et Cazau .n ' y a été retrouvé ni par M .",
+        "words": [
+          "agréable",
+          "Cazau",
+          "La ïesin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2f8ac566-a473-5338-b0b2-5ecb18ceb92d",
+        "value": "Les ruisseaux et les grands 0 d ses : à l ' allée Boutaut , etc .Toute la plante répa une mauvaise odeur .s CH .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/2f9a44c0-8dde-504d-80f8-bf21b15b4417",
+        "value": "b es fruit d Les fruits du M .cerifera , de l ' Amérique , transudent si coite pouent une liqueur cireuse et odorante , qu ' on la rétolte pour en fabriquer des bougies .f p Unles di CONIFÈRES .",
+        "words": [
+          "odorante",
+          "liqueur",
+          "cerifera"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/30670a97-baf2-59a3-8fd5-5b23705d543a",
+        "value": "Berton , vient de Calcutta , et fleurit deux fois par la serre n ° 3 .Une hampe forte et latérale , d ' abord caj les belles feuilles de la plante , s ' allonge et se couroOIl etqlll vingtaine de grandesneurs mêlées de rose et de blanc répandent une odeur d ' héliotrope et de vanille .L ' AGA à fleurs bleues , rarement blanches , agapanthas um e erie ell est le crinum africanum de L .",
+        "words": [
+          "odeur",
+          "vanille",
+          "héliotrope"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/31d75b72-2aeb-501e-b370-875062a96719",
+        "value": "Les bois : Ressac , etc .daaÍbrsseall à grandes fleurs odorantes , que l ' on cultive dans Jardins d ' agrément , sous le nom de GENET d ' ESPAGNE , est u le Spartium junceum .110 .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "ESPAGNE",
+          "daaÍbrsseall"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3299fd6a-6d68-5747-8079-e319382017f9",
+        "value": "Du reste , on a vu de ces Saules cre ' ( j iii avaient jusqu ' à 9 mètres de circonférence .sallllJ r Souvent les Saussaies ( lieux plantés de ) ) - de c C ^ une douce odeur de rose , qui provient de capricorne musqué ( Cerambix moschatus ) , ( luiVl - t sur le ? feuilles du Saule .Le - le d ' Arlac ( pag .",
+        "words": [
+          "douce",
+          "odeur",
+          "rose",
+          "capricorne musqué",
+          "Cerambix moschatus",
+          "Saussaies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/34e43393-2423-5741-bc73-d1785e7d44cb",
+        "value": "Les haies .Ses finalre de l ' Orient , d ' où sa beauté et l ' odeur de ses flleups l ' ont fait transporter en Europe .PEE trouve communément dans les jardins , le LILAS DE Var afs e ersica , à feuilles plus étroites et pointues , et sa t cciu st , pour ainsi dire , intermédiaire entre le commun Joli .",
+        "words": [
+          "odeur",
+          "Europe",
+          "Orient",
+          "ses flleups"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/37b8eca1-5ea3-55bf-b760-7f76b5a3cb27",
+        "value": "Hampe , pétioles et feuille hérissés de poils .Elle ressemble d ' ailleurs à l ' espèce précédente , mais ses rejets sont courts et ses fleur inodores .' ] ; Print .",
+        "words": [
+          "fleur",
+          "inodores",
+          "rejets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/398004b4-6497-5f95-8b3f-bba53691855d",
+        "value": "ressemblant à des feuillets et décU e , i tes .Odeur agréable .Estivale .",
+        "words": [
+          "agréable",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3a3d2bef-61e2-5781-8c6a-e1945060b3a2",
+        "value": "Ses feuilles , qui sont crénelées , devienNous Vent crépues et frisées .ons les composées en citant parmi celles que gé : les l ; e : le Cacalia soncliifolia , à fleurs d ' un rouge oran ; ies agetes patuia , PASSE - VELOURS , erecta , OEILLET Jaune ' tous ' es aeux à odeur forte , lucida , à fleurs petites , iail nes , dfIlt les feuilles dounent une agréable odeur d ' anis rOUge On les f .roisse ; le Zinnia multiflora , à fleurs d ' un beau rouge a disque jaune , savariété à tieurs jaunes et le Z .",
+        "words": [
+          "agréable",
+          "forte",
+          "odeur",
+          "feuilles",
+          "anis",
+          "Cacalia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3af07edf-d468-5b27-974c-8c090c52ffcd",
+        "value": "inihe des bois .Feuilles radie , planes ; hampe ca : e et lisse ; épi incliné , composé de fleurs bleues , Irén P - et odorantes , à six div .révolutées ; bractées prè llnees .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "Feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3bcc7e39-09f1-5a1f-a0c9-a5eb3485d853",
+        "value": "ui 811 La VrANILI .Î : K \\ COQUILLI : , Epidendrum cochleatu Jardin des Plantes de Bordeaux , a donné sans interrPjolW en 18H , depuis le 8 Juin jusqu ' au 23 Décembre , Ses JO lies fleurs violetes , et qui fleurit de nouveau chaque ai ' née , La VANILLK proprement dite , Yanilla aromatica , W drum Vanilla , de Linné , parasite , du llréiI , si con \" l ' odeur délicieuse de ses fruits .tttTll ' il Enfin , le SABOT DE VENDS , Cypripedium calceola H0 .",
+        "words": [
+          "odeur",
+          "délicieuse",
+          "ses fruits",
+          "aromatica",
+          "Yanilla",
+          "VANILLK",
+          "drum Vanilla",
+          "fleurs violetes",
+          "Jardin des Plantes de Bordeaux",
+          "chaque ai ' née",
+          "en 18H , depuis le 8 Juin jusqu ' au 23 Décembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3cc40578-365b-565a-94f6-dff218e27efa",
+        "value": "Les lieux abrités .Oute la plante répand une odeur forte et désagréable .Sent 3Unous est impossible de parler ici des nomb ' e ' ses espèces de Geranium et Pelargoniumque l ' on cultive .",
+        "words": [
+          "désagréable",
+          "forte",
+          "odeur",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3d3288d3-5d0d-5c22-bca6-a29b021aa3c5",
+        "value": "490 .Odeur fétide .Ch coccineus .",
+        "words": [
+          "fétide",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3d897089-23cd-5d7a-8da7-1e9e9abb9bfb",
+        "value": "Tige ' droite , élevée un peu rougeâtre et rameuse ; feuilles grandes , ailée ' à folioles ovales , dentées , ayant quelque ressemblae avec les feuilles de l ' ormeau , ulmus ; à foliole impaIl tJ plus grande que les autres et trilobée ; fleurs petite .blanches , répandant une odeur douce et agréable , c formant une grande panicule .If Estivale .",
+        "words": [
+          "agréable",
+          "douce",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/3f11099d-7829-57b9-8b95-22ebfb5c6551",
+        "value": "La VERVEINE ODORANTE ou à trois feuilles , Y .triphyllfe remarquable pli \" son odeur de citron , est cultivee dossis ' jardins où l ' on trouve aussi quelquefois le F .bonart # * je à feuilles lancéolées amplexicaules , le Malindrcs à feutlle s chamœdrys et ses innombrables variétés et variations .",
+        "words": [
+          "odeur",
+          "son",
+          "citron",
+          "triphyllfe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/40915eb6-0548-5b2d-95a7-9d7e81e57b90",
+        "value": ") J cinale , Coucou .Hampe nue et assez élevée née par une ombelle garnie , à la base , d ' une coD de 5 à 6 petits feuillets allongés ; fleurs iûjl jaunes , odorantes , à limbe des corolles con Mai .Feuilles et fleurs anodines , cordiales raires .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "Mai"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/41d0dfa1-3893-5975-856c-9e1d83e45c90",
+        "value": "L .Lauréole odorante .Tige basse t rameuse , quelquefois simple ; feuilles éparses , ovalc ' linéaires et mucronées ; fleurs terminales , sessllr fasciculées , roses et odorantes .",
+        "words": "odorante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/423c2f8b-0b25-5e5c-a173-58c9ae325abc",
+        "value": "On cultive l ' H .du Pérou , peruvianum , dont les O t répandent une odeur agréable , et le Grandi / lorum , Q1 * plus grand dans toutes ses parties .Ces deux espèces deTU fil dent une exposition chaude et des arrosementsfrequeH 0 été .",
+        "words": [
+          "agréable",
+          "odeur",
+          "O",
+          "peruvianum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/47cf2874-363d-5cd0-abca-6f7011c6d28d",
+        "value": "La côte située entre Cenon et Floirac , et les Palus qui la bordent , réunissent dans un petit espace presque toutes les richesses botaniques de l ' Entre - deux - Mers .Là , fleurissent au printemps , la Sanicle , la Consoude tubéreuse , les Muguets et nos belles Orchidées ; en été , la Gesse à larges feuilles , Lathyrus latifolius , qui mériterait une place dans nos parterres ; la Filipendule , aux feuilles élégamment découpées ; la Reine des prés , Spirœa ulmaria , dont l ' odeur agréable semble indiquer les propriétés ; l ' Anthéric liliacé et différentes espèces de Mufliers ; en automne , un grand nombre d ' Ombellifères et le Pain de pourceau , Cyclamen europœum , très - rare dans cette localité , beaucoup plus commun dans le Médoc .Et lors même que le triste hiver a étendu son voile sombre sur nos climats , lorsque le ruisseau qui fertilisait la vallée est devenu un torrent , les côteaux du Cypressac , l ' écorce des vieux arbres qui en couronnent le faîte , se couvrent de lichens aux cupules variées , de mousses rares et verdoyantes ; et cependant les algues fluviatiles se mêlent à l ' onde qui remplit les fossés , et l ' hépatique des fontaines , Marchantiapolymorpha , vient orner les bords de la source où les filles du hameau ne trouvent plus ni le parfum de la menthe , ni l ' humble violette .",
+        "words": [
+          "agréable",
+          "odeur",
+          "en été",
+          "en automne",
+          "au printemps",
+          "Reine",
+          "Filipendule",
+          "Spirœa",
+          "Consoude tubéreuse",
+          "espèces de Mufliers",
+          "Anthéric liliacé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/4a94d61b-08b9-560b-a6ac-a41b0b43572e",
+        "value": "Les coteaux .— Amère et légère # 1 eet aromatique .Tonique et fébrifuge .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/4c08163a-2d2a-5754-8379-9ad11c3c33d0",
+        "value": "nous c ' tprons : le GRENADIER , Punica granatum , a aux féb oe , à fruits aigrelets dont l ' usage est permis même aux féb rl - eitants ; le SERYNGA .vulgairement et improprement aeeelé eitronelle ; le MYRTE , Myrtus communis si agréable par son et Par son odeur ; plusieurs cactées , Mamillaria simPlex , passe arrondie , couverte d ' épines , le Cereus peruvianus nu S , CIIERGF DU Pérou , remarquable par sa hauteur ; le C .belles Corus , dont la tige est cylmd , et à six côtes , dont les POUr Se eUrs à odeur de vanille ne s ' épanouissent que le soir pour se faner le lendemain matin ; le C .",
+        "words": [
+          "agréable",
+          "odeur",
+          "son",
+          "MYRTE",
+          "cactées",
+          "Cereus",
+          "Myrtus communis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/4c550f21-179a-5ea3-9231-cafc22a71124",
+        "value": "Je l ' ai observé en Août dans les lieux marécageux ; à l ' allée Boutaut .Il est astable à l ' odorat et au goût , dit de Candolle ; mais OUs n ' osons affirmer qu ' il soit comestible .DC .",
+        "words": [
+          "odorat",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/4d07079c-6a9b-53a1-b9a8-a8affdd6e9c2",
+        "value": "On en voit un beau à Lormont ; à 1 dignan , dans le vieux château d ' Ornon , nous fé ' avons mesuré un qui a huit décimètres de circOIJ fc rence .1 Le lierre est vulnéraire et astringent .Avec lIil bois on fait des boules pour les cautères , et ses Ie d les servent à les panser .",
+        "words": [
+          "astringent",
+          "lierre",
+          "vulnéraire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/53c4fd75-775d-548f-a1dd-d9fce5e4a4f1",
+        "value": "La petite centaurée n ' a lue nq étamines ; le garou en a huit : 4 grandes et 4 courtes .Il a d ' ailleurs une odeur agréable Ille le ait débiter en bouquets ; c ' est sous cette forCenth Ue nous lui avons vu donner le nom de petite \" u ) ' ee .POMME EPINEUSE , Datura stramoniim ( pag .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Il"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/54550e07-ac83-5872-92de-1c9cc211213a",
+        "value": "humides et les terres les plus profondes .Elle Heurl en Juin , en parfumant nos campagnes , et trop so \" vent la gelée a enlevé , en Mai , l ' espoir de la récoM ^ Les cultivateurs craignent ces cruelles gelées jI .: qu ' au 16 du même mois , jour de saint Fort qlll appellent naïvement un marchand de vin .",
+        "words": [
+          "campagnes",
+          "parfumant",
+          "en Mai",
+          "en Juin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/55dac263-ee52-57cc-ac0e-00d803639cd9",
+        "value": "Mais ses feuilles sont plus délicates et d ' un vert plus foncé .Toute la plante répand une odeur très - forte , un peu alliacée et désagréable .@ Print .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "plante",
+          "très - forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/57f2361b-ea10-5c66-896f-109e3fe3989b",
+        "value": "vulgairement et improprement aeeelé eitronelle ; le MYRTE , Myrtus communis si agréable par son et Par son odeur ; plusieurs cactées , Mamillaria simPlex , passe arrondie , couverte d ' épines , le Cereus peruvianus nu S , CIIERGF DU Pérou , remarquable par sa hauteur ; le C .belles Corus , dont la tige est cylmd , et à six côtes , dont les POUr Se eUrs à odeur de vanille ne s ' épanouissent que le soir pour se faner le lendemain matin ; le C .flagelliformis , à jets formée rosseur du doigt , la RAQUETTE , Opuntia vulgaris , unes su de plaques charnues , ovales , comme superposées les unes su tes autres ; la Glaciale , Mesembryanlhemum cristaltihum ' on reconnaît très - facilement à ses feuilles onPlaute chargées de papilles qui lui donnent l ' aspect d ' une plantj , j oute couverlede glaçons au milieu de l ' été ; la FICOÏDE fleurs ru iol ceum , ainsi nommée de la couleur de ses eurs , et le Spectabile , à tige ligneuse , à grandes fleurs .",
+        "words": [
+          "odeur",
+          "vanille",
+          "le soir",
+          "le lendemain matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/5a9ca3db-a8bb-5e83-ba65-d20345bbb7d8",
+        "value": "Les fossés liiw , : à I ' essac , etc .Sie odeur agréable , forte et pénétrante , une saveur énergie de un peu amère , indiquent toujours une grande énergjp , ans les végétaux , les Menthes ne mentent - elles pas UOtre attention ? Il serait trop long de détailler ici lesnomh reuse propriétés qui ont été reconnues à ces plantes Pfécipn uses qui agissent surtout comme toniques , stomachl - ques et antispasmodiques .L ' espèce la plus usitée est celled1 l ' on cultive dans les jardins , M .",
+        "words": [
+          "agréable",
+          "pénétrante",
+          "forte",
+          "odeur",
+          "plantes",
+          "un peu amère",
+          "saveur",
+          "ques",
+          "antispasmodiques",
+          "Menthes",
+          "stomachl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/5e102ccb-ed92-58fd-9515-e4ac183fc9c2",
+        "value": "M ° ut ° une .Flouve odorante .a Navet .",
+        "words": "odorante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/5ebf07aa-d876-550a-899f-dda0a896b706",
+        "value": "— Saveur cre , .odeur fétide , fleurs jaunes .q .",
+        "words": [
+          "fétide",
+          "odeur",
+          "fleurs jaunes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/5fe84115-639a-5023-bbad-fabcce4dd261",
+        "value": "Grande Ciguë .Tige droite , verte , feUile de noir , médiocrement élevée et fistuleuse ; feuines trois fois ailées , à folioles pinnatifides , molles grêlenEvert sombre ; ombelles ouvertes , à rayons 0 répand une odeur fétide .On pense que el , es t la Plante avec le suc de laquelle les Athéniens mes l ! .",
+        "words": [
+          "fétide",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/60314366-a9ee-5c64-bbef-1220ca042fdf",
+        "value": "- Ce champignon est assez abondant s le , site indiqué .Il répand une odeur fétide que je n ' ai sen prochant des narines .ar02 .",
+        "words": [
+          "fétide",
+          "odeur",
+          "je"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/6055e9c3-82e7-5b92-8064-5f610f3330c4",
+        "value": "Flouve odorante .Épi 01 ovale et lâche , fleurs portées sur un petit pédo fleurs et racines odorantes .C ' est l ' espèce tu au foin son agréable odeur .",
+        "words": [
+          "fleurs",
+          "racines",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/60afae2c-4371-52df-adfa-735c480316f9",
+        "value": "fes , comme les autres plantes .Quant à leurs proprie ali , il y en a quelques - uns qui sont employés comIïie ter ' ment , et un grand nombre qui sont des poisons terribles .Morille comestible .",
+        "words": [
+          "terribles",
+          "poisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/60fd9717-9a12-5347-b7f5-c0ac39da59eb",
+        "value": "hÍes - commun .Odeur désagréable .La variété à fleurs jj , nches , à anthères pourprées , se trouve à Bacalan et dans le Bazadais .",
+        "words": [
+          "désagréable",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/6111f547-7797-5987-b790-d45a80c087d8",
+        "value": "elegans , à feuilles orbiculaires , légère - s In , l à t lobées , a fleurs d ' un blanc pur .variées de pourpre ; le G , a odeur de rose ou musqué , G .capitatum , le plus commun hreuPeut - être ' ? plus agréable de tous , par ses feuilles nomYeuses À ondulées .",
+        "words": [
+          "odeur",
+          "rose",
+          "musqué"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/618ee988-c39b-563d-8c69-711cb3676f0a",
+        "value": "Lauréole odorante .Tige basse t rameuse , quelquefois simple ; feuilles éparses , ovalc ' linéaires et mucronées ; fleurs terminales , sessllr fasciculées , roses et odorantes .if Printanière .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/61f32a17-2d75-583f-ad19-1ab5183ed56f",
+        "value": "Fruits comprimés .Jt Les anciens l ' employaient comme assaisonn é Il répand une odeur forte : Les paysans le Ï ~ dans nos marchés sous la * dénomination patoi Lbrlatine .et ) Printanier .",
+        "words": [
+          "forte",
+          "odeur",
+          "anciens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/62046a4a-d1c8-531e-b8c1-a2dd595e76dd",
+        "value": "Solit les et très - entières ; fleurs sessiles , latérales , paires et jaunes .Toute la plante a une odeur de SUre .On la prend en infusion théiforme .",
+        "words": [
+          "odeur",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/623f9f3e-687c-5001-9e57-8c3111b38561",
+        "value": "Ces plantes ont tant uji dans les parties de la fleur , que les genres sont e / a bli ~ ~ souvent sur des caractères peu sensibles ., Elles sont amères et aromatiques , clfphaliqlleS dci résolvantes .On emploie les feuilles .",
+        "words": [
+          "aromatiques",
+          "amères",
+          "résolvantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/62a4c660-6fc0-582a-af97-2c10c0ffa45e",
+        "value": "Le suc propre ou latex descend par l ' écorce ; il est jaune dans la Chélidoine , et d ' un blanc laiteux dans les Euphorbes .Les huiles végétales sont insolubles dans l ' eau ; les grasses , que l ' on ne trouve guère que dans la graine , sont douces et inodores ; les éthérèes on essentielles ont l ' odeur de la plante qui les renfermé et dont on peut les retirer par expression .La résine est une des substances fondamentales des végétaux ; ou la trouve jusque dans la plantule .",
+        "words": [
+          "odeur",
+          "inodores",
+          "douces",
+          "huiles végétales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/6464e4af-b75e-58cd-a1b4-e2abfdf23b7b",
+        "value": "l : t ° i ' ., parfum , - et d ' ijouç , suave , à cause de l ' odeur des KrK ; coronarium , sainfoin d ' Espagne , belle espèce à fleUrs a grandes , d ' un beau rouge , rarement blanches , orjgînajSees z de l ' Italie , et que l ' on voit quelquefois dans nos jardins resO .SUPINA .",
+        "words": [
+          "suave",
+          "parfum",
+          "odeur",
+          "sainfoin",
+          "coronarium",
+          "KrK"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/66d4c77d-8fb7-5822-b5dd-ddbcadf2693a",
+        "value": "Ch .Des ' ir Uhs , dans la cale à moitié pleine d ' eau d ' un natr \\ ) \\ H a une odeur de gentiane et il est bientôt dé1 pa les insectes qui en sont très - friands .épa \" hispidus ( Fries ) .",
+        "words": [
+          "odeur",
+          "cale",
+          "gentiane",
+          "ir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/67dbba7c-9fa0-56f2-acef-f3e8fb156e93",
+        "value": "Les plantes amères sont généralement vermifuges : celles qui joignent à l ' amertume un principe arorpa tique , sont fébrifuges .Les ombelliféres aromatiques , qui croissent hal3 ■ .tujellement dans les lieux secs , sont générale ! * 16 échauffantes , résolutives et carminatives .",
+        "words": [
+          "aromatiques",
+          "ombelliféres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/68bc850b-fdc0-55f5-96e2-d3159d6d34d5",
+        "value": "très - entières , lisses ; fleurs purpurines .( f ) Il est facile de distinguer cette espèce de la suivante par la saveur de la racine .puisque celle du Navet est douce et que celle de 13 Rave est piquante et sucrée après la cuisson .",
+        "words": [
+          "racine",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/6b601d22-4cb5-5bb5-afdd-ed156d6614eb",
+        "value": "l ' nt de IOnneron qUitter la belle famille des Liliacées , nous menL ! ! encore : q e Lachen Z ' Le L C ^ eV ' atia tricolor , à fleurs d ' un jaune - citron , bordées Yert ) Pointillées de pourpre , assez rare .LePolyanthes tuberosa , TUBÉREUSE , belle plante À oeul ~ ' blanches et d ' une odeur très - suave .adi ' L ' Agave americana , vulgairement ALOÈS , à feuille \\ f ditcales grasses , épaisses , longues , épineuses , qui fleufleeot on , au bout de cent ans , et que l ' on voit comme on „ u obligé dans tous les jardins des amateurs .",
+        "words": [
+          "odeur",
+          "plante",
+          "très - suave",
+          "LePolyanthes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/6b9d1933-14b2-5f2b-bc54-8efabb630b5e",
+        "value": "Clandestine .Tige rameuse , cou h ' v C ee sous terre , couverte d ' écaillés blanches , rondies et imbriquées ; fleurs droites , solitaires , Le oculées , longues , bleues et odorantes .' li Print .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/6f2a9e74-3fda-5d22-93b4-4f91ae9e524c",
+        "value": "Tige assez grêle , t ' Il panicule , rameuse et striée ; feuilles 2 ou 3 fois ailées , à folioles , surtout les terminales , légèrement trilobées .Odeur fétide .Fleurs herbacées .",
+        "words": [
+          "fétide",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/7175d2e5-efd4-56af-ad6a-6953bd64cc9c",
+        "value": "Episperme charnu .Les plantes de cette famin en général suspectes , souvent narcotiques , ce es décèlent par une odeur désagréable .t Fruits en baie .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "narcotiques",
+          "plantes de cette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/720e7071-7544-5c5e-9c8f-266de1de988f",
+        "value": "Tige raffleUi ; dès la base ; rameaux , droits et élevés ; feuilles épa ses , presque imbriquées , étroites , lancéolées et se siblement mucronées ; fleurs petites , blanches , P donculées et formant une panicule terminale .* sont très - odorantes .if Estiv .",
+        "words": [
+          "odorantes",
+          "très - odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/73b63965-3784-5b0a-8dad-b6eb3b7029aa",
+        "value": ") Nénuphar jaune .Feuilles un peu plus ovales , fleurs plus petites , jaunes et odorantes , ressemblant d ' ailleurs au N .blanc .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "Feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/7501568d-dc04-586d-8fcf-3d05263af77b",
+        "value": "Satyre boufeuili TIge épaisse , droite ou redressée et élevée ; dont lancéolées ; labelle divisé en trois parties , nt l ' iliterniédiaire est très - allongée , comme rongée à y xtrémité , roulée en spirale avant son entier dé \\ el ^ Pernent .Fleurs d ' un blanc jaunâtre , varié de JUin pre , et répandant une forte odeur de bouc .' 1 .",
+        "words": [
+          "forte",
+          "odeur",
+          "bouc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/750c5413-2b67-58be-af97-138c0de10280",
+        "value": "jaune , bilobé .Fleurs llarlees de blanc , de jaune , de rose , et répandant ne forte odeur de Giroflée .¥ Estiv .",
+        "words": [
+          "forte",
+          "odeur",
+          "rose",
+          "Giroflée",
+          "Fleurs",
+          "blanc",
+          "jaune"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/75d72d7a-b1fb-5890-8565-426032e3fd21",
+        "value": "La de1 codt 011 des fleurs est un excellent sudorifique .Le suc de l ' , corce verte , mêlé avec de l ' huile et de la cire , fOlll un onguent précieux pour les brûlures , Estiv .L .",
+        "words": [
+          "onguent",
+          "corce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/76098410-caf4-5d00-805c-b22deb1609cf",
+        "value": "Tige ent ' 7 ^ ^ e feuilles ovales , presque lancéolées et Pétvolées ; fleurs en têtes ovales , en recouvrement , Pres Inales ; cor .grandes et jaunâtres dans l ' intérieur , b tn labiées , et répandant une odeur agréable .5 tstiv .",
+        "words": [
+          "agréable",
+          "odeur",
+          "labiées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/76422f50-072b-5cfc-b393-578ebf3db190",
+        "value": "des Antilles dont le fruit ressemble liu frUi \\ ( d ' oiseau , l ' angulosa du Mexique dont les cornes du vOlk sont plus courtes ; les Clerodendrum inrortunatlm .ieria cordifolia des jardiniers ; let ; ATTRLII , ' R , Ute ~ Unnu , CQstu \" , arbrisseau aromatique ; r ican ' / u ' branc - ursin > T Acanthus mollis , dont la représentation des feuilles se t d ' O , nement au chapiteau de l ' ordre corinthien , le Justice adh ( il ioda , Carmantine en arbre , et le J .coccinea ou C .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/77513911-d6c0-5fd4-8094-5eea20c5fbb3",
+        "value": "Didynames ( gymnospermes de Lznne ) , a 10 aS bilabiée ( unilabiée dans les TeucrinID , presque P labiée dans les lUenlhes , ' .Plantes à tige quadrangulaire ou imparjaiteme n l cr lindrique , à rameaux et à feuilles opposées WIll odorantes , offrant un calice monosépale , perslS b rds divisés en deux parties principales et écartées , présentent assez bien deux espèces de lèvres , a chacune est ordinairement dentée ou lobée , à J ( tj consistant en 4 graines placées au fond du calice qlit leur sert de péricarpe .Ces plantes ont tant uji dans les parties de la fleur , que les genres sont e / a bli ~ ~ souvent sur des caractères peu sensibles .",
+        "words": [
+          "odorantes",
+          "Plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/775d5eb8-769b-52a9-80c9-6f4ed48dd4b6",
+        "value": "La partie la plus magnifique de la plante est sans doute la fleur .Elle réunit souvent l ' élégance des formes , l ' éclat des couleurs et une odeur agréable .Elle est une des parties les plus essentielles du végétal .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/77a7b2df-4000-5119-b05b-52b2456638a4",
+        "value": "C ' est avec ce même bois que nous préparons nos aliments , et que nous rendons à notre corps , la chaleur dont un air trop froid le prive .Le Quinquina et la Cannelle ne sont - ils pas , l ' un l ' écorce précieuse d ' un arbre qui croît au Pérou , et l ' autre d ' un arbre qui parfume l ' île de Ceylan ? Le sucre ne provient - il pas surtout de la tige qui porte son nom ? LES BRANCHES .Les branches et les rameaux sont les divisions et les subdivisions de la tige .",
+        "words": [
+          "Cannelle",
+          "parfume",
+          "arbre",
+          "Quinquina",
+          "île de Ceylan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/780bdffd-6e1e-5c1b-824f-91f885c0b41d",
+        "value": "A .bolride Tige peu rameuse , f ¡ ' \" les pétiolées , oblongues , sinuées , presque ailées ; flp llrS 6n grappes nues ; toute la plante est un peu ve ] T ' ^ § ® rement visqueuse et répand une odeur ana ° § ue à celle de l ' encens .( j ) Les endroits sablonne t ' x - à Sainte - Croix du Mont , à la lléole , etc .",
+        "words": [
+          "odeur",
+          "encens",
+          "plante",
+          "toute",
+          "ana ° § ue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/79c4a74a-1a79-5b29-9266-6e45f2897e08",
+        "value": "Violette odorante .Drageons raW pants ; feuilles en cœur ; pédoncules nus , partant de la racine et portant une fleur violette ou blanche d ' une odeur très - agréable .if Mars et Avril .",
+        "words": [
+          "odeur",
+          "fleur",
+          "pédoncules",
+          "très - agréable",
+          "Drageons",
+          "pants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/7f0fe5d8-92ad-5521-9512-fa4e12de9c00",
+        "value": "Avec lIil bois on fait des boules pour les cautères , et ses Ie d les servent à les panser .Sa gomme - résine rep3 rit une odeur d ' encens lorsqu ' on la brûle .y Il ne rit en Octobre .",
+        "words": [
+          "odeur",
+          "encens",
+          "gomme",
+          "résine rep3"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/7f3ce7c5-3cb2-5c27-9b29-49d124033952",
+        "value": "Mai et Juin .Les la arides et sabloneuses : à Bazas , et à Captieux malgré son odeur nauséabonde , on la mange so - le nom de Turey .619 .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "arides",
+          "sabloneuses",
+          "Bazas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/7fdb71c7-505a-5923-8563-875af4821aa5",
+        "value": "et Un peu redressées ; fleurs en bouquet divisé trois parties * - Vomitif , purgatif et anti - hydropique Il e partIes .- Vomitif , purgatif et anti - hydropiest d ' une si grande âcreté qu ' on ne doit l ' emLes III InterIeurement qu ' avec précaution .If .",
+        "words": [
+          "purgatif",
+          "Vomitif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/80bb30d4-95dd-5507-90f6-007c483e0d07",
+        "value": "dracunIais : tIge grosse et maculée , à fleurs grandes et violettes .forte ces mêmes fleurs répandent une odeur cadavéreuse si fortp Obligé ge les mouches se rassemblent autour , et qu ' on est obi - de les couper avant leur entier épanouissement .aujourd ' hui Calla œthiopica , si remarquable par ses h » u i fleurs blanches , n ' est guère cultivé que dans les jardin s Curieux .",
+        "words": [
+          "odeur",
+          "mêmes fleurs",
+          "cadavéreuse si"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/80ca1663-ae32-57f4-a31e-be0269f788db",
+        "value": "au printems les pleurs de la vigne .Son ascension est favorisée par la chaleur ; le cambium se trouve surtout entre l ' écorce et le bois , partout où doivent se former de nouveaux produits ; c ' est une sève dont la saveur ressemble assez à celle de la gomme .Le suc propre ou latex descend par l ' écorce ; il est jaune dans la Chélidoine , et d ' un blanc laiteux dans les Euphorbes .",
+        "words": [
+          "gomme",
+          "sève",
+          "saveur",
+          "cambium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/848c4b73-d404-5cc5-956e-f2352618c807",
+        "value": "RYNGIUM .D ' vpvyy - oç , poil de bouc , à cause de se PIquants .Fleurs en têtes .",
+        "words": [
+          "poil de bouc",
+          "PIquants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/84b254d5-c65d-5105-bb8f-2bac0e86c0d4",
+        "value": "Jacqut et 13 ra .dont les fleurs forment des guirlandes si élégan teret ris ' poincette , poincetliu pulcherrima , aux larges bradées , ri $ , sent en hiver dans les serres du Jardin .389 .",
+        "words": [
+          "fleurs",
+          "sent",
+          "en hiver",
+          "les serres du Jardin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/880840e6-380a-503d-a5b2-add63663b760",
+        "value": "que l ' on nomme aussi Myrthe bâtard , PiSeau bqUahque et Piment royal , est un petit arbnsSea ranchu dont la hauteur ne dépasse guère un les ; .II est fortement aromatique et se trouve dans Végét yals où la Providence a sans doute placé ce végétal salutaire pour corriger les exhalaisons funesrecéle 1 Sortent des lieux qu ' il habite .Le Galé paraît de grandes propriétés .",
+        "words": [
+          "aromatique",
+          "exhalaisons",
+          "fortement",
+          "végétal",
+          "yals"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/897e30de-ee9b-534f-b6da-a99dc6d8fdd9",
+        "value": "blo \" cultive dans les jardins , sous le nem d ' HÈnoTRopK ? ' le T .( ragrans , que l ' on reconnaît a ses feuilles ojk : U Ps et a ses fleurs odorantes et un peu purpurines .e naturalisé à Floirac , sur une côte exposée à l ' est .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "feuilles",
+          "purpurines",
+          "ragrans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/8a44b6a9-f068-5856-b71f-11330337c6e0",
+        "value": "Ce qu ' on appelle improprement Pivoine mâle , est la même espèce , à feuilles plus larges , plus épaisses et d ' un vert brun .Nous citerons dans la famille des Magnoliers le TULIPIER DE VIRGINIE , Lyriodendron tulipifera , bel arbre dont le bois est aromatique et léger ; les Magnolia glauca , grandiflora , et tripetala .NYMPHÈACÉES .",
+        "words": [
+          "Magnolia",
+          "bois",
+          "aromatique",
+          "léger",
+          "arbre",
+          "Lyriodendron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/8a48dcd4-7f85-5be9-b7e8-9875eba26229",
+        "value": "GRAND - BAUME OU MKNTHE - COQ , est une espèce de tanj Tanacetum Balsamita .L ' usage des Menthes doit être 010 dére , , , les cataplasmes des Menthes sont vésicants et peuvent Ff0duire des boursouflements très - douloureux et graves .351 .",
+        "words": [
+          "graves",
+          "cataplasmes",
+          "Menthes",
+          "vésicants",
+          "boursouflements",
+          "très - douloureux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/8bbf90c6-d219-5dd9-8733-ea062a2ed8c2",
+        "value": "bleues , rarement blanches , à anthères jaunes .— Les tiges et les feuiUe sont apéritives , résolutives et expectorantes .Il faU être très - réservé sur son usage : trop long - te ® ^ prolongé , il survient clonisme , insomnie , vertlg : et fièvre .",
+        "words": [
+          "résolutives",
+          "tiges",
+          "apéritives",
+          "expectorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/8d1e1ae2-7393-5903-8ece-7120a23907fe",
+        "value": "Les Stalactites de la grotte dite le Puits - d ' Enfer , la fontaine d ' Ausone , entourée de vieux ormes , tout est beau , varié , plein de souvenirs dans ces sentiers fleuris où la Mélisse , Melissa officinalis .embaume l ' air de son doux parfum .M .",
+        "words": [
+          "doux",
+          "parfum",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/8ef7540b-c8d2-5cbe-ab35-c4a06f0d1f3d",
+        "value": "de Saint - Amans a nommée Tulipa oculus solis .Au port même de Génissac se trouve l ' Ambroisie , Chenopodium ambrosioïdes , dont l ' odeur est forte et agréable .Nous avons aussi cette plante aux environs de Bordeaux , à Bacalan et à La Bastide .",
+        "words": [
+          "agréable",
+          "forte",
+          "odeur",
+          "Chenopodium",
+          "Ambroisie",
+          "Au port même de Génissac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/9141937a-1d96-5668-9fac-cd8518065187",
+        "value": "a l ' âge du végétal , à la saison , à l ' heure même , et s Il s ' agit de parasites , aux plantes sur lesquelles elles croissent .Les herbes émollientes ont leur prorleté d ' autant plus prononcée qu ' elles sont plus jeues ; les aromatiques au contraire n ' ont tout leur rarfum que lorsqu ' elles ont acquis tout leur dévePPement ; les premières doivent donc être recueileles au printemps , et les secondes en été ; l ' automne IISl la saison la plus propre à la récolte des racines .jj est évident que l ' heure la plus favorable de la Journée , pour la récolte des plantes , est celle où le s oieil vient de dissiper l ' humidité dont la rosée les a couvertes Il est bien reconnu que le polypode euli sur le chêne est préférable à celui qui croît d ' autres arbres ou sur les murs .",
+        "words": [
+          "en été",
+          "aromatiques",
+          "herbes",
+          "au printemps",
+          "rarfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/9143071b-aa31-5f02-961b-fbd95b45aa35",
+        "value": "Chantelat , ni par moi .- s a variété acorus verus qui croît dans l ' Inde , et dont rQnt glole la racine comme stomachique , est le roseau odorant rant es pharmaciens .ORCHIDÉES .",
+        "words": [
+          "Inde",
+          "odorant",
+          "racine",
+          "stomachique",
+          "pharmaciens",
+          "variété acorus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/931cc9e7-16fa-53dd-bb89-86af4ace5399",
+        "value": "pinnatifides .Le fruit est astringent .On en fait une conserve appelée kynoi \" rhodon .",
+        "words": [
+          "fruit",
+          "astringent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/934455c7-0fff-5bd1-a896-7e8a979958f5",
+        "value": "( Saxifragées ) .De saxa f & £ mt briser les pierres , parce que plusieurs espèce sent sur les pierres .Cal .",
+        "words": [
+          "pierres",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/934db536-ce4a-50a8-aa80-6114ff895a3c",
+        "value": "Chatons axilBai ? ' plante a l ' aspect d ' un ajonc , Ulex .répand stomachiques , carminatives et diurétiques , Pandant une bonne odeur quand on les brûle .Bois colline lqle .",
+        "words": [
+          "bonne",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/936f0120-0534-5e0e-b56d-49ff3ebdaeb8",
+        "value": "du Gaillet .Tige d ' un demi - mètre et rouo ^ t G fleurs odorantes , d ' un violet tirant sur le rouo crépues et frangées .Les sépales n ' égalent ai oguer , que la moitié du tube de la corolle .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/95dac749-6cf4-5064-9d79-8c3c8252569d",
+        "value": "La Gesse odorante , ou Pois DE SENTEUR , L .odoratus , eS l ' on nomme vuigaircment Pois - fleur , remarquable par * e belles fleurs blanches , bleues .ou roses , qui exhalent u ne odeur douce et agréable , sert à décorer nos parterres .",
+        "words": [
+          "fleur",
+          "fleurs",
+          "odoratus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/9646b67a-a26a-58ab-ac90-d4fae35acb7f",
+        "value": "Tige couchée à la base et ensuite redressée , gu : z courte et velue ; feuilles sessiles , ovales - oblonfes > dentées et rapprochées les unes des autres ; Qetirs axillaires , pédonculées , d ' un pourpre bleuâtre .fort e la plante est d ' un vert sombre et répand une rte odeur qui a du rapport avec celle de l ' ail .C ' est un bon tonique .",
+        "words": [
+          "odeur",
+          "ail",
+          "plante",
+          "rte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/972f4cfb-150b-56b9-af35-ae0730c3b361",
+        "value": "if sonvhl .L ' herbe est légèrement odorante et les fleurs W balsamiques .Cette lierbe et ces fleurs sont vulcheaIes , astringentes et résolutives .",
+        "words": [
+          "odorante",
+          "fleurs",
+          "légèrement odorante",
+          "herbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/97e9b5a6-d185-5e63-8c55-e382c6e78e04",
+        "value": "- 7 Les champs et les jardins .— Racine astringente , dinreUq et fébrifuge .Fruits aromatiques et rafraîchissant , FUMETERRE , Fumaria officinalis ( page 113 ) lieux cultivés .",
+        "words": [
+          "astringente",
+          "fébrifuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/982cd41c-59ec-5eb0-b7ec-8d11c2b54d59",
+        "value": "Serpolet .Tiges nombreuses et » esque ligneuses , un peu velues , à rameaux grêles , rougeâtres et redressés ; feuilles planes , obtUstl : garnies de cils à la base ; fleurs pourprées ou bla ches , très - odorantes et en têtes terminales .On trou quelquefois aux extrémités des branches , des pet1 têtes blanches et cotonneuses qui sont le résultat la piqûre d ' un insecte .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/98f29869-b5d2-5e23-9b79-327c96e597cb",
+        "value": "FRAGARIA .De fragare , exhaler , à cause l ' odeur du fruit .Cal .",
+        "words": [
+          "fruit",
+          "odeur",
+          "exhaler",
+          "fragare"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/99f0c64a-ae6d-5e81-b930-c7e03f5a847f",
+        "value": "1 Ces trois arbrisseaux qui donnent au printemps , leurs fleurs d ' un blanc sale ou verdâtre , ne se trouvent ( J ' ue ' r que dans les jardins où l ' on commence a cultiver que dans es jardins ou on commence à e .r aussi le groseiller odorant , R .PALMATUM de que Septentrionale .",
+        "words": [
+          "odorant",
+          "groseiller"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/9cee35bd-cf6c-51ae-83cf-c4f17f139518",
+        "value": "drar ¡ , ORTRNSIA ou Rose du Japon , Hortensia opulmdes , Hyfleur gea de quelques auteurs , plante sous - ligneuse , dont les arro SJ .° ses , plus rarement bleues , forment de grosses têtes Il les , inodores , demande une terre de bruyère .157 .",
+        "words": [
+          "inodores",
+          "terre de bruyère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/9f17286d-0f3e-5a05-bb24-df0932d16419",
+        "value": "Là , fleurissent au printemps , la Sanicle , la Consoude tubéreuse , les Muguets et nos belles Orchidées ; en été , la Gesse à larges feuilles , Lathyrus latifolius , qui mériterait une place dans nos parterres ; la Filipendule , aux feuilles élégamment découpées ; la Reine des prés , Spirœa ulmaria , dont l ' odeur agréable semble indiquer les propriétés ; l ' Anthéric liliacé et différentes espèces de Mufliers ; en automne , un grand nombre d ' Ombellifères et le Pain de pourceau , Cyclamen europœum , très - rare dans cette localité , beaucoup plus commun dans le Médoc .Et lors même que le triste hiver a étendu son voile sombre sur nos climats , lorsque le ruisseau qui fertilisait la vallée est devenu un torrent , les côteaux du Cypressac , l ' écorce des vieux arbres qui en couronnent le faîte , se couvrent de lichens aux cupules variées , de mousses rares et verdoyantes ; et cependant les algues fluviatiles se mêlent à l ' onde qui remplit les fossés , et l ' hépatique des fontaines , Marchantiapolymorpha , vient orner les bords de la source où les filles du hameau ne trouvent plus ni le parfum de la menthe , ni l ' humble violette .Plus loin , dans les Palus de Bouliac , le Perce - neige , Galanthus nivalis , donne le signal des beaux jours .",
+        "words": [
+          "parfum",
+          "menthe",
+          "filles du hameau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/9f48ca9c-4599-5c50-8635-ff3630098cb1",
+        "value": "On appelle feuille digitée , celle dont les folioles , au nombre de quatre ou cinq , sont fixées immédia ' tement au sommet d ' un pétiole commun : le Marron * nier ; pédaire .celle qui imite , mais grossièrement , le pied d ' un animal : l ' Hellébore fétide .Il y a des plantes dont les feuilles sont fort gran * des : la Patience aquatique ; d ' autres où elles sont remplacées par des espèces d ' écaillés : les Oroball ' ches .",
+        "words": [
+          "fétide",
+          "Hellébore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a05793a2-b114-57b3-810e-c230eaae69de",
+        "value": "Tronc tortuel1 .feuilles pétiolées , lisses , dentées , obtuses et à trOI lobes ; fleurs blanches et odorantes , à un ou deupistils ; fruit d ' un beau rouge , quelquefois inon \" sperme , et assez doux au goût .— C ' est en Mai qlJI parfume nos campagnes .",
+        "words": [
+          "odorantes",
+          "feuilles",
+          "fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a1059c9e-4f8f-5759-b187-bd232753fcef",
+        "value": "velues et répandant une douce odeur de brun ' î ; le TRISTE , P .triste , dont les fleurs d ' un violet Giron ordi de souffre , répandent le soir , une odeur de e et de Cannelle .ne 42 .",
+        "words": [
+          "Cannelle",
+          "odeur",
+          "fleurs",
+          "souffre",
+          "triste",
+          "e",
+          "le soir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a130ebaf-949d-5231-9276-6645d633c2a1",
+        "value": "Les lieux secs : à Bègles , etc .Uiau VéTiVERT des Indes dont les racines sont si odorantes , teIgnes d n hHgne point , comme on l ' a cru , les artes et les t des fourrures , est VA .squarrosum .",
+        "words": [
+          "racines",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a2b77e6f-30d3-5055-91ca-1464d51accba",
+        "value": "Ombelles grandes et bien gatJleS - : fleurs d ' un blanc verdâtre .- Goût et odeur - Cordiale , sudorique : antiputride et lIIen natIve .On emploie la racine , l ' herbe et les sedan ce .",
+        "words": [
+          "odeur",
+          "antiputride",
+          "Goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a497cf3b-ddaa-5ee3-8415-5495fd0df80d",
+        "value": "Ach .Feuilles redressées , lobées et exhalant une odeur fétide .Les bois .",
+        "words": [
+          "fétide",
+          "odeur",
+          "Feuilles redressées , lobées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a5753297-7fc1-5555-9f69-c56a602c6beb",
+        "value": "Ces quatre espèces de corolles polypétales sont régulières .La papilionacée ou celle dont la forme représenta à peu près un papillon , est composée de cinq pétales : un supérieur , ordinairement plus grand que les autres , nommé étendard ; deux latéraux , appelés ailes , et deux inférieurs , plus ou moins pressés par les ailes , et formant ensemble une petite nacelle que l ' on désigne sous le nom de caréné : le Pois de senteur .On appelle anomale .",
+        "words": [
+          "senteur",
+          "papilionacée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a58f63a0-7d28-5744-b8ce-12db60f632f1",
+        "value": "odoratus , eS l ' on nomme vuigaircment Pois - fleur , remarquable par * e belles fleurs blanches , bleues .ou roses , qui exhalent u ne odeur douce et agréable , sert à décorer nos parterres .Elle e , t originaire de la SLcile , annuelle et estivale .",
+        "words": [
+          "agréable",
+          "douce",
+          "odeur",
+          "roses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a75d3453-1176-5f65-9b00-502798a40f28",
+        "value": "Sceau de Salomon .Feuilpédo eres et amplexicaules ; tige à deux tranchants ; r ) L Q ° ncules axillaires , portant une ou deux fleurs anches , tubulées et d ' une odeur douce .if Avril et diStt es bois ; à Arlac , etc .",
+        "words": [
+          "douce",
+          "odeur",
+          "fleurs anches",
+          "ncules",
+          "Feuilpédo eres",
+          "amplexicaules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a8bbc861-a55d-52b3-af24-3fc1cfbfcfa1",
+        "value": "L ' herbe est légèrement odorante et les fleurs W balsamiques .Cette lierbe et ces fleurs sont vulcheaIes , astringentes et résolutives .Les bords des F ' le : Is et les bois : à Mérignac , à Pessac , etc .",
+        "words": [
+          "astringentes",
+          "ces fleurs",
+          "lierbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a8c06077-161f-5740-9c33-d3b8393282a8",
+        "value": "GALEOPDOLON .Du grec YALJ , belette , et p ~ mauvaise odeur .Genre détaché du précédent .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a8c21c87-18e4-5564-9165-14678e27612d",
+        "value": "Bel arbre , à tronc droit et élevé , à écorce grisâtre ; feuilles en cœur , un peu arrondies , pointues et inégalement dentées ; pédow cules axillaires , pendants , à fleurs blanches et d ' une odeur agréable ; capsule turbinée , à côtes saillantes .— Les fleurs prises en infusion théiforme sont anti - spasmodiques .— Les menuisiers font usage de son bolS .",
+        "words": [
+          "fleurs",
+          "spasmodiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/a9eced38-dfea-5961-b3e6-6d6a7352689f",
+        "value": "Tiges sessil es et disposées en rond sur la terre ; feuilles Pédo es , vales - linéaires , un peu glauques ; fleurs ulees , terminales , rassemblées en bouquets arrondis et d ' un blanc sale .Toute la plante répal1 ( 1 une très - mauvaise odeur , surtout quand il fait chaud , 09 Estivale .Les champs sablonneux : au Sabl ° n nat , & c .",
+        "words": [
+          "mauvaise",
+          "très",
+          "odeur",
+          "plante",
+          "Toute"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/aac702ea-c52a-5ce1-bd88-673319235d53",
+        "value": "Les bois des coteaux : à Marcamps .La vai fleurs blanches est commune , dans les jardiné elle répand , surtout le soir ( en grec , ècrnépoç , d ' d nom du genre ) , son odeur douce et agréable .« 57 : MALCOLMIA .",
+        "words": [
+          "agréable",
+          "douce",
+          "odeur",
+          "son",
+          "elle",
+          "surtout le soir",
+          "vai fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/ab3a0768-03d4-591d-89da-9d8097cf78f3",
+        "value": "de Bordeaux .citero1 les belles plantes endogènes que l ' on cultive , nous ftns : le Bananier ou figuier d ' Adam , Musa paradisiaca , dUJard VOlt en pleine terre pendant l ' été , autour du bassin rentre ln de l ' Ecole Botanique de Bordeaux , mais que l ' on réntre en automne ; le Balisier d ' Inde , Canna indica , qui dazuli 1Cl il nos hivers ordinaires quand il est abrité ; le Gan ' ] tu ( le l ' Inde , Hedychium gardnerianum ( de serre chaude ) agreabl ermine par de beaux épis de fleurs jaunes , d ' une odeur e1 le Tillandsia rubra et le Bilbergia pyramidalis .nordels dernières fleurissent dans les serres du Jardin de b , , , e àul , et même quelquefois en plein air pendant 1 été .",
+        "words": [
+          "odeur",
+          "plantes",
+          "pendant",
+          "Canna",
+          "épis de fleurs jaunes",
+          "Tillandsia rubra",
+          "Bilbergia pyramidalis",
+          "Bananier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/ac503233-dad8-5956-a70c-1b72a1da16b7",
+        "value": "Les semences , acres et piquantes , son ' diurétiques , anti - hydropiques , sternutatoires , etl ' , Ou en prépare la moutarde dont on se sert pour relc ' ver le goût des viandes .On applique extérieurement la moutarde comme vésicatoire .La blanche est plu : faible .",
+        "words": [
+          "moutarde",
+          "vésicatoire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/b390fc0f-43fc-5b52-afa7-e9a452174662",
+        "value": "creux ; t ¡ de .conique , verdâtre , couvert d ' une liqueur très - ie On le trouve , en automne , dans les bois et dao ' loil1 ' prés , où sa mauvaise odeur le fait découvrir de 10ill A Pessac , etc .PH .",
+        "words": [
+          "Pessac",
+          "mauvaise",
+          "odeur",
+          "liqueur",
+          "en automne",
+          "très - ie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/b3b3f6e6-6e6a-5497-9420-9f5f823cdb25",
+        "value": "— Sous le sable , à 4 ou 6 centIlne la \" de profondeur , très - rarement à la surface .L ~ ~ ) pins paraissent la rechercher , ce qui , joint a , odeur agréable quoique légère , semble indIquer Cil \" espèce comestible , qualité que nous n ' osons cep eil , dant pas encore affirmer ., G09 .",
+        "words": [
+          "agréable",
+          "odeur",
+          "nous",
+          "légère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/b4c4325f-6fa7-5725-a774-b52e20a7dc2c",
+        "value": "tttTll ' il Enfin , le SABOT DE VENDS , Cypripedium calceola H0 .11 fleurs belles et odorantes , originaire du Dauphins ^ ) ! • fleurs belles et odorantes , originaire du Dauphle , conséquent de pleine terre , cultivée avec succès P Crespy , à Talence .IRIDÉES .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "belles",
+          "Dauphins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/b5a38793-fc24-5211-924f-789f0c145aae",
+        "value": "vein ' ance charnue , solide , arrondie , noirâtre , rude , ansee , odorante ; entièrement cachée sous terre et caus racine .— r On sait que la truffe est recherchée à Ca Se de son odeur et de son goût agréable ; mais st est échauffante et même dangereuse lorsqu ' elle pst lllOlsIe .Les lieux sablonneux : à Caudéran , a Pessac , où l ' on en a trouvé d ' excellentes ; à Taurtf dans les vignes .",
+        "words": [
+          "agréable",
+          "odeur",
+          "son",
+          "échauffante",
+          "truffe",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/b6637323-e5fe-5668-84c2-eef09913f483",
+        "value": "Dufqf marine .glamillées exotiques que nous avons déjà citées , nous C eronsle SUCRE , si connu par ses propriétés bechiques , dé1 ( ' I \\ IZ s , antiputrides et par l ' usage habituel que l ' on en fait ; W .2 ' oryza saliva , à six étamines , aliment sain et rafraichicîant » enfin la LARME DE JOB , coïx lacryma , remarquables Par ses graines pyriformes , dures , luisantes , et d ' un gris de au Jads Id rois plantes sont originaires de l ' Inde , et cultivées au ln e Bordeaux .",
+        "words": [
+          "nous",
+          "antiputrides",
+          "SUCRE",
+          "bechiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/ba1f2ce6-ac07-593a-bbf4-099d78bdcebf",
+        "value": "Sur vieilles murailles et les toits .- La beauté et l ' odeur de ses fleurs l ' ont fait inû duire dans les jardins où on - en cultive des varlâ remarquables par la couleur de la corolle , leurs leurs doubles , & c .^ 1 .",
+        "words": [
+          "odeur",
+          "ses fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/bb970d6b-b589-5aaa-a101-573b88f0c7f9",
+        "value": "Alliaire .Tige droite et presque : Illple ; feuilles pétiolées en cœur et c dentées ; fleurs bl i ' S ' Lorsqu ' on froisse ses feuilles , elles répandent ^ ne forte odeur d ' ail que la plante communique au i * ut des vaches qui la broutent , e Print .Les , h * - au Tondu , ftc .",
+        "words": [
+          "forte",
+          "odeur",
+          "fleurs",
+          "elles",
+          "ail",
+          "feuilles",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/bc7f7baa-1e42-5d08-868c-5e13a0e4059e",
+        "value": "SMYRNIml .De la ville de Smyrne , ou 11 que la racine a , 1 ' odeur de la Myrrhe .- Cal .",
+        "words": [
+          "Myrrhe",
+          "odeur",
+          "racine",
+          "ville de Smyrne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/bd1f1a72-8963-582e-a41f-53828e141ecc",
+        "value": "Feuilles oblongues épi - oblong , un peu serré ; fleurs d ' un rouge violet , , peu mêlé de vert ; labelle à trois div .un peu dente , la moyenne plus longue ; pétales réunis ; pon jj éperon conique deux fois plus court que l ' oVIrebll - répand une odeur de punaise .Mai .",
+        "words": [
+          "odeur",
+          "punaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/c20a7641-718c-5952-851c-9906e3508fe8",
+        "value": "jaune , vrai Gaillet .Tige quadran , faIble , penchée et rameuse ; verticilles de Ailles linéaires , marquées d ' un sillon ; rameaux perrorten des fleurs , courts ; fleurs en panicules , get es et jaunes , ayant une odeur de miel .— Astrinlies et vulnéraire , ' 9 , Estiv .",
+        "words": [
+          "odeur",
+          "fleurs",
+          "miel",
+          "Ailles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/c2d19b2b-e89c-547d-9566-f89513194a99",
+        "value": "Les bords de Un can : au cap Ferret .Avant la floraison , elle exhale Une forte odeur de rhubarbe , odeur qui devient resieuse quand on frotte les feuilles entre les doigts .( Polygamiesuperflue de Linné ) .",
+        "words": [
+          "forte",
+          "odeur",
+          "elle",
+          "rhubarbe",
+          "Avant la floraison",
+          "resieuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/c3ff2c13-fec8-5896-8544-8426ceb79b52",
+        "value": "- On en cultive de nomuses var .connues par leur agréable odeur .D .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/cada52a6-f200-51d2-9ac6-b4cecef5089a",
+        "value": "- Emménagogue , vermifuge , 8cc .rePapd une odeur forte , et ne doit être emPIYée - qu ' avec précaution .- 46 ^ rt ° RIARIA \" ( Coriariées ) .",
+        "words": [
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/cae29f82-f512-516e-be6e-b3e17dd8a8f8",
+        "value": "Calice à divisions entières , nceolées - linéaires ; fruit globuleux déprimé , noircissant à la maturité et alors couronné par les lanières conniventes et persistantes du calice .Arbrisseau très - rameux , à fleurs roses , blanchâtres ou jaunâtre3 et odorantes .— La var .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "Arbrisseau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/cd024bb6-25bd-5254-9d44-1e09ee6a00bf",
+        "value": "Sa nUit lere est inodore et se répand avec facilité ; elle nn ' t à la quantité de la récolte , mais non à la qualité son farine , parce qu ' elle se disperse avant la mois11 î la Carie ( U .caries ) , aù contraire , qui n ' attaque que le froment , dans sa graine , qu ' elle ne dénie presque pas , est fétide avant d ' être sèche , et t sSIste dans le grain récolté ; elle est très - contagieuse et se transmet aux grains qui proviennent des semen < ton ? ii * sont atteintes .La Rouille ( U .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/cd6403d5-2934-5de1-ad4c-61418d99a4fa",
+        "value": "Tige garnie de feuilles lancéolees * t , ji l ' es .Fleurs odorantes , commençant à se mon eli Juillet .Les lieux humides : à Bruges , etc .",
+        "words": [
+          "odorantes",
+          "Fleurs",
+          "Juillet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/cebf030b-9744-52ee-83d9-925965626371",
+        "value": "IMPUDICUS .Satyre fétide .Péd .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/cf2a3d16-8ebb-5ed7-acb4-08e56e10e71c",
+        "value": "Mais ce champignon est si irnlle qu ' après l ' avoir cueilli il est difficile , presque tom .osslble , de le porter un peu loin sans qu il ne tombe en décomposition , et il répand alors une odeur fétide , On nous a assuré que lorsque les paysans le q / rt , ils s ' empressent de le recouvrir de terre , ce Pr : le rend nécessairement plus rare qu ' il ne serait .haint .",
+        "words": [
+          "fétide",
+          "odeur",
+          "le",
+          "il",
+          "paysans",
+          "On nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d000427d-c6e7-501d-85c5-d23c0d223935",
+        "value": "est luisante , très - glabre , d ' une belle coU roit noisette .Odeur de violette quand il est frais .Il C JJc en groupes imbriqués et fixés latéralement aux trO eté des peupliers tombés à terre : à Bègles où il a trouvé par M .",
+        "words": [
+          "violette",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d19f9183-e614-58a7-a513-22384d6bddaa",
+        "value": "1 Ob voit assez communément dans les jardins , le M .à odeur e OUe , lH .hircinum .",
+        "words": [
+          "odeur",
+          "e"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d2f4900d-9f62-5cbd-9466-32692a4a82a2",
+        "value": "Psoralier bitumineu rameuse et redressée ; feuilles ternées , pé Heurs en têtes pédonculées et axillaires .Tau plante a une odeur forte et bitumineuse .Fleu j et blanches .",
+        "words": [
+          "forte",
+          "odeur",
+          "bitumineuse",
+          "Tau plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d30d9890-84da-5a70-a50b-c22cd6b46607",
+        "value": "Le fruit consl , ^ toujours en .deux carpelles réunis avant la M Les espèces aromatiques de cette famillc , q viennent dans les lieux secs , sont révolutives et ' a minatives ; les aquatiques et celles qui croissent da ; t les lieux simplement humides , sont généraleJ ) vénéneuses : telles sont principalement , a les plantes du département , la Ciguë , Conium macif tum ; la petite Ciguë , JElhusa cynapium , la Clg aquatique , Phellanârium aquaticum .1 .",
+        "words": [
+          "aromatiques",
+          "vénéneuses",
+          "espèces",
+          "avant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d33a9cac-d50a-5129-ae9a-3cdca48ee5be",
+        "value": "L .Crépide fétide .Feuilles pinnatifides , , hissées ; tige un peu couchée , rameuse ; calices Gd us , a cotes saillantes .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d436a429-90da-5322-bf8f-d9907c3aa9a1",
+        "value": "aIs , aux environs d ' Harlem , est le Hyacinthus orten \" e Linné .' fourn ' t USCARI qui sent le musc .Genre formé par efort .",
+        "words": [
+          "musc",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d4fffe65-e58e-5ba0-a438-c4ca4e01e1a7",
+        "value": "pubescents , fleurs herbacées avec une bordure pourprée au sommet .— Plante suspecte , acre et répandant une mau - vaise odeur .V Hiémale .",
+        "words": [
+          "odeur",
+          "suspecte",
+          "mau - vaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/d870867f-3cf4-5569-bdbd-420183ccbdc8",
+        "value": "Esrîr % n ^ a < ^ e Buisson ardent .£ « c urlatine Fenouil puant .P p £ ? r ° * Crête de coq .",
+        "words": [
+          "puant",
+          "urlatine Fenouil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/da4baa9c-e185-5acd-9bc0-2a6c7ce89e2f",
+        "value": "Labelle linéaire - lancéolé et très - entier ; coi \" très - longue ; pétales très - ouverts .La tige est droitC et terminée par un bel épi de fleurs blanches qui pandentau loin une odeur agréable .Mai .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/db2dd75b-3757-5ed4-b113-cb1ffe6b07fd",
+        "value": "R * RUBIGINOSA .Eglantier rouge Ovaires ovales , arr ® , * s > hérissés de piquants recourbés , ainsi que Pétioles et la tige ; feuilles ovales , garnies en de poils glanduleux , ce qui fait paraître leur rosesce mfeIeure couleur de rouille ; fleurs petites , nette repandant une forte odeur de pomme rainette fmt .Les haies : à Bègles , à Saint - Denis , etc .",
+        "words": [
+          "forte",
+          "odeur",
+          "pomme",
+          "tige",
+          "Eglantier rouge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/dba8251b-0889-5d2c-bbec-7a03468e95fe",
+        "value": "erecta , à fleurs blanchesplus grandes , en panicule ; le C .virginiana , à fleurs blaD ches , odorantes , à feuilles ternées .à folioles en cœur , près .",
+        "words": [
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/dca4bb06-9374-59e5-915d-bfc7031d5de7",
+        "value": "Pancrace maritime .Bulbe grosse glau longee ; feuilles radicales , latérales , engainantes , jaques et tordues ; hampe droite et comprimée , cul ' nee par une ombelle de fleurs grandes , pedon , ees , blanches , à tube verdâtre et odorantes .1 ] : Août .",
+        "words": [
+          "odorantes",
+          "Bulbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/de1e6e8e-ba7a-50c9-b24b-e30c4d0e816e",
+        "value": "3 On cultive le MUSCARI ODORANT ; M .Moschatum , « verdâtres qui répandent une odeur de musc , et LE MOATIL M .monstruosum ou lïlas de terre formant une gre fleurs stériles et d ' un violet pâle .",
+        "words": [
+          "odeur",
+          "musc",
+          "MOATIL",
+          "Moschatum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/dee8d8e0-a0f3-50a6-bdba-996aa6526d80",
+        "value": "- FctU , e , ¡ émollientes , anodines et résolutives .La de1 codt 011 des fleurs est un excellent sudorifique .Le suc de l ' , corce verte , mêlé avec de l ' huile et de la cire , fOlll un onguent précieux pour les brûlures , Estiv .",
+        "words": [
+          "fleurs",
+          "excellent sudorifique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/df4a48f7-0ba1-53d4-b444-6c9f381d9b4e",
+        "value": ") A .fétide ou Arroche puante .Tiges rameuses et couchées ; feuilles rhof boïdes - ovales , très - entières et chargées en desSou , de points farineux qui les rendent blanchâtres .",
+        "words": [
+          "fétide",
+          "puante",
+          "Arroche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/dfb2cba5-1d52-5f8d-b2bf-ea1d2e4e8f6f",
+        "value": ") Tige droite , haute de de Î mètres ; folioles d ' autant plus grandes , qu ' elles , ( .rapprochent du sommet de la feuille ; fleurs pu Les formant un long épi , un peu odorant .EstI \\ , .",
+        "words": [
+          "peu",
+          "odorant",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e0c74ba1-e7d5-5afd-9aef-3706eeb73345",
+        "value": "saleiî ^? Œ NIGlJLl M - Fruits comme coupés transvereInent L F ) , OFFCINALE ( Allioni , ( Anethum foeiticulum ( le , lFenouiL ou Anis doux .Tige droite , élevée et rapreuse ; feuilles deux ou trois fois ailées , à folioles b esque capillaires ; rayons de l ' ombelle moins nomrrex , mais plus forts que dans l ' espèce précédente ; Ovales Toute la plante a une odeur forte et aapa fe - Elle possède , et particulièrement la sebeaucoup de propriétés .Elle est surtout stoanis 1Ue carminative .",
+        "words": [
+          "forte",
+          "odeur",
+          "plante",
+          "Elle",
+          "aapa fe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e1328090-370a-514e-aeb5-14ba2282f0fb",
+        "value": "Tilleul .Bel arbre , à tronc droit et élevé , à écorce grisâtre ; feuilles en cœur , un peu arrondies , pointues et inégalement dentées ; pédow cules axillaires , pendants , à fleurs blanches et d ' une odeur agréable ; capsule turbinée , à côtes saillantes .— Les fleurs prises en infusion théiforme sont anti - spasmodiques .",
+        "words": [
+          "agréable",
+          "odeur",
+          "pédow cules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e23d654b-17a9-5aba-a17a-01beb0e03e9e",
+        "value": "Les lieux secs : à Catusso , preS de Libourne , à Vayres , etc .- lie Toutes les Sauges ont une odeur agréable .Ce de de la Toute - bonne indique par sa force les vertus d , cette plante qui est résolutive , sternutatoire , st0111 chique , etc .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Sauges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e61fc459-9fc3-5a12-8498-d996458a8279",
+        "value": "blanc et uni ; chapeau ovoïde , adhérent au Po Icule .Il a une odeur agréable , varie beaucoup POtir la forme , les dimensions et la couleur qui est \" dihairement d ' un jaune paille .Print .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e6210a15-321f-50dd-9726-85206dc46048",
+        "value": "Fruits aromatiques et rafraîchissant , FUMETERRE , Fumaria officinalis ( page 113 ) lieux cultivés .— Saveur amère .On emploie le e .",
+        "words": [
+          "amère",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e6917667-a6bc-5787-8509-6da428753e43",
+        "value": "Depuis , il a été ob serve à Guîtres , et dans le Médoc où il est 1 Pluus s n commun .o \" le cultive dans les jardins avec quelques espèces étrandont les Prius delicates , particulièrement avec Vhederœfolium \" ' I ' t les fleurs sont odorantes .HOTT ° WA .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "Vhederœfolium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e790314e-4ecd-56a8-887a-2422f68108d0",
+        "value": "Arbrisseau élevé , à rameaux cas - sauts , creux ou remplis d ' une moëlle abonùan ( \" feuilles opposées , ailées , à folioles ovalcs - lancéot et dentées .Fleurs blanches et odorantes .- FctU , e , ¡ émollientes , anodines et résolutives .",
+        "words": [
+          "odorantes",
+          "Fleurs blanches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/e849dbb9-2c45-5d1a-bad6-ec04249dddb3",
+        "value": "P .fétide .Tige assez grêle , t ' Il panicule , rameuse et striée ; feuilles 2 ou 3 fois ailées , à folioles , surtout les terminales , légèrement trilobées .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/ed9910b1-e681-57a9-b7ed-80457aa73361",
+        "value": "La variété à fleurs blanches se trouve à Cefl ° sur les bords de la rivière et à Mérignac .Toute plante répand une odeur forte et désagréable .et 358 .",
+        "words": [
+          "désagréable",
+          "forte",
+          "odeur",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/ee30e0de-10b5-571d-ace9-091cef97398e",
+        "value": "— Racine astringente , dinreUq et fébrifuge .Fruits aromatiques et rafraîchissant , FUMETERRE , Fumaria officinalis ( page 113 ) lieux cultivés .— Saveur amère .",
+        "words": [
+          "aromatiques",
+          "Fruits",
+          "rafraîchissant",
+          "FUMETERRE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f04d6448-229b-5be4-852a-942783ba2289",
+        "value": "presque plane , sec , 1 Un blanc sale , à lames distinctes et blanches comme , p ; Pédicule .Il répand une douce odeur d ' anis .Les alllps : à Caudéran .",
+        "words": [
+          "douce",
+          "odeur",
+          "anis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f1595a57-7b8f-5485-859d-b0a96c7884d6",
+        "value": "V Estiv , Trop commune dans les chanir , et dans les vignes .Fleurs pourprées et d ' une odellt agréable quand on les approche des narines .261 .",
+        "words": [
+          "agréable",
+          "Fleurs pourprées",
+          "odellt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f1bb7d1b-a1ae-5abd-a03e-474ad4b19bf4",
+        "value": "musqué , herbe au mtiscFeuilles ailées , à folioles presque pétiôlées , oblongues , incisées et dentées ; tige couchée ; pédoncules multiflores , pétales égaux au calice .Toute la plante répand une forte odeur de musc , surtout lorsqu ' on la froisse entre les doigts .( t ) Print .",
+        "words": [
+          "forte",
+          "odeur",
+          "musc",
+          "plante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f56b7204-a9f3-5441-9090-ae815a8644c2",
+        "value": "Tronc droit , lisse et élevé ; fpi UliUi es ailées , à folioles ovales , lisses et un peu denfeu .ill Les chatons sont émétiques et sudorifiques , les Les s emménagogues , fébrifuges et vermifuges .s émanations de cet arbre sont nuisibles ; et la ^ Ussière de la sciure cause des coliques rebelles .",
+        "words": [
+          "sudorifiques",
+          "vermifuges",
+          "émétiques",
+          "emménagogues",
+          "fébrifuges",
+          "chatons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f7a19833-5b98-5436-9cc8-106ca53de0f5",
+        "value": "Les lieux stériles : a - Vaees , ac .- Emménagogue , vermifuge , 8cc .rePapd une odeur forte , et ne doit être emPIYée - qu ' avec précaution .",
+        "words": [
+          "vermifuge",
+          "Emménagogue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f7ecd9ef-f265-5721-8140-bbde5d80c2b0",
+        "value": "Fruit monosperme .: GAILF - * L Galé Tige ligneuse et droite , feuilles tes 0 ees , un pen dentées au sommet , très - odorante et ne paraissant qu ' après les chatons des fleurs .nient a e .",
+        "words": [
+          "odorante",
+          "très -",
+          "Galé",
+          "feuilles tes 0"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f8bf995f-f93c-595a-8fae-4f1e8c4410dc",
+        "value": "Tige fe ; dressée , à folioles ovales - oblongues , plus courtes de aile t : ) fies ; fleurs jaunes , quelquefois blanches , à rud s plu longues que la carêne ; gousses dispermes , rude aIguës .Cette plante répand une odeur fort Leseble qu ' elle conserve dans les herbiers , e Estiv .PeUltrds des champs : : à Bègle et à Lesparre .",
+        "words": [
+          "odeur",
+          "plante",
+          "fort Leseble"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/f8fdf710-f51a-5619-b305-179d02544a50",
+        "value": "feUIlles oblongues - lancéolées et dentées ; fleurs Planlre , sessiles , glomérulées , herbacées .Toute la qUe e répand une odeur forte et agréable , qui indilieu des propriétés peut - être trop négligées .Les pij .",
+        "words": [
+          "agréable",
+          "forte",
+          "odeur",
+          "qUe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/fbdcb75d-3b28-5037-865e-d7fa5dfdf15f",
+        "value": "Les labiées sont toniques ; les crucifères , anti - sOl \" butiques ; les borraginées béchiques ; les malvacèC , s : mucilagineuses et émollientes ; les rosacées , astfltt gentes .Une odeur forte et balsamique indique de grano propriétés dans les plantes .e Le principe de narcotisme est particulier au règ \" e végétal .",
+        "words": [
+          "forte",
+          "odeur",
+          "balsamique",
+          "grano"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/fd77294e-5e84-511c-93a5-fd5c7b45ec3f",
+        "value": "Les endroits ombragés et humides : au pont On la Maye , etc .Amère et nauséeuse ; odeur fétide .la d ne 1 emploie qu ' extérieurement .",
+        "words": [
+          "Amère",
+          "fétide",
+          "odeur",
+          "nauséeuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/fed2ae2a-31b2-511d-af01-5fa5d4393431",
+        "value": "odorant .Tige droite élevée ; feuilles linéaires et creusées en gouttIer et fleurs d ' un violet pourpré , formant un épi loIlg à grêle , très - odorant , à lèvre obtuse , à trois lobes > j pétales latéraux ouverts , à éperon recourbé , P que égal à l ' ovaire , et plus court que les bractées Print .Les prés : à Libourne , etc .",
+        "words": [
+          "odorant",
+          "fleurs",
+          "très -"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/dfac3685-e95f-5d3a-a438-cbf9f5bc0dbf",
+        "label": "Jean-François  Laterrade"
+      }
+    ],
+    "label": "Flore bordelaise et de la Gironde : description caractéristique des plantes qui croissent naturellement dans ce département... précédée de notions élémentaires de botanique (4e édition...) / par J.-F. Laterrade,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6455724x",
+    "date": "1846",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/403",
+      "label": "Vegetable"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e7028377-604f-5437-bccb-92b6e141f8bf",
+      "label": "1846",
+      "begin": "1846",
+      "end": "1846"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/145270/",
+      "label": "‘Abbās Yāles-e Yek"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ff90aebf-7e4b-5350-93bd-0fa2439d2629/fragment/880840e6-380a-503d-a5b2-add63663b760",
+  "license": "Public domain"
+}

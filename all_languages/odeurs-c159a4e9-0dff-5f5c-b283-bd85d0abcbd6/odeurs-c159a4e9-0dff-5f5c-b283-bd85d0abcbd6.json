@@ -1,0 +1,79 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c159a4e9-0dff-5f5c-b283-bd85d0abcbd6",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeurs",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/efb7f766-403c-5f67-9b32-4a94da440d41",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/efb7f766-403c-5f67-9b32-4a94da440d41/fragment/a8b8efc0-ba1b-57f2-b124-5e98b83f5cf7",
+        "value": "Ha ! mon Dieu ! le teint de sa joiie Et la tresse d ’ or qui se joiie Sur son sein en flots ondoyans , Et ses yeux deux flames jumelles , Me font prendre dans leurs cordelles , Et ardre en leurs rais flamboyans .Voy ses cheveux que l ’ Arabie , Ny le baume de l ’ Assyrie , N ’ égalent en bonnes odeurs ; Cheveux dont Venus la doree Voudrait sa teste estre honorée , Et non des primeraines fleurs .0 beaux filets d ’ or de Minerve , Mon ame se plaist d ’ estre serve De vos nœuds mignardement tors : Il luy plaist bien d ’ estre contrainte Par vous d ’ une si douce estrainte Quittant la prison de son corps .",
+        "words": [
+          "bonnes",
+          "fleurs",
+          "baume",
+          "cheveux",
+          "odeurs",
+          "Assyrie",
+          "Cheveux"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4a218aff-626d-52c5-98b3-69b362953974",
+        "label": "Catherine  Des Roches"
+      }
+    ],
+    "label": "La puce de Mme Desroches / publiée par D. Jouaust",
+    "url": "https://gallica.bnf.fr/ark:/12148/bd6t53721441",
+    "date": "1868",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/211",
+      "label": "Balm"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/639",
+      "label": "Hair"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29e16ff7-5d42-5a7d-9f72-57c8fee9fafb",
+      "label": "1868",
+      "begin": "1868",
+      "end": "1868"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8378483/",
+      "label": "Assyria (Roman province)"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/admiration",
+      "label": "admiration"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/envy",
+      "label": "envy"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/efb7f766-403c-5f67-9b32-4a94da440d41/fragment/a8b8efc0-ba1b-57f2-b124-5e98b83f5cf7",
+  "license": "Public domain",
+  "adjective": "bonnes"
+}

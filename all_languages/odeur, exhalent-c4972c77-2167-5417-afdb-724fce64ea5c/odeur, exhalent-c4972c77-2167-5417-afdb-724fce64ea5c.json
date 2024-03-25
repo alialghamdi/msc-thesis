@@ -1,0 +1,1274 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c4972c77-2167-5417-afdb-724fce64ea5c",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odeur",
+    "exhalent"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/02a7cbe3-0453-5231-b5e8-922744da633a",
+        "value": "Les deux variétés d ' éphidrose les plus importantes à connaître au point de vue pratique sont les éphidroses de la paume des mains et de la plante des pieds .Nombre de personnes ont les paumes des mains constamment humides : quand on les essuie , on voit immédiatement la sueur sourdre de tous les 940 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE petits orifices glandulaires ; ce phénomène s ' accentue surtout pendant l ' été et sous l ' influence des moindres émotions .Cette infirmité rend certaines professions manuelles fort difficiles , sinon impossibles .",
+        "words": [
+          "pendant l ' été",
+          "de personnes",
+          "orifices glandulaires",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/0362c1ec-4e73-5973-bced-4618efc9f6ba",
+        "value": "— Il ne faut pas que les cheveux deviennent trop secs , et quand cet inconvénient se produit il faut leur restituer un peu de graisse ou d ' huile : on se sert pour cela d ' huile d ' amande douce , d ' huile de ricin pure ou mélangée à de la moelle de boeuf préparéo , aromatisée ou non avec de l ' essence de bergamote , de l ' essence de lavande , ou du baume du Pérou ; à la rigueur on peut employer l ' huile antique ou T ' huile de Célèbes : toutes ces préparations doivent être souvent renouvelées ; il ne faut jamais en user dès qu ' elles commencent à rancir .Quand le cuir chevelu lui - même est trop sec , et qu ' il y a à sa surface quelques pellicules , il est indiqué de le lubrifier : nous employons pour cela ou de l ' huile comme pour les cheveux , ou de la vaseline pure , ou un mélange de moelle de bcouf 20 grammes , pour huile de ricin 10 grammes , parfum ad libitum , etc .Pour appliquer ces substances , quand il s ' agit de personnes portant les cheveux très courts , on en enduit le cuir chevelu soit directement avec les doigts , soit avec les paumes des mains que l ' on a imprégnées de la préparation que l ' on emploie , soit avec un petit tampon d ' ouate hydrophile , soit avec un petit tampon de flanelle propre ; quand le cuir chevelu dans sa totalité est suffisamment lubrifié , on prend un mouchoir propre que l ' on déploie et que l ' on froisse entre les mains de manière à en faire un tampon , ou une serviette éponge , et on le passe fortement sur le cuir chevelu en allant toujours dans le sens des cheveux , de manière à enlever l ' excès de cosmétique .",
+        "words": [
+          "parfum",
+          "huile de ricin",
+          "chevelu",
+          "moelle de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/0475ead6-1fcb-592f-a955-8ce58819d9f6",
+        "value": "SYNONYMIE .— Séborrhée congestive ( Hebra ) ; Erythème centrifuge ( Biett ) ; Herpès crétacé ( Devergie ) ; Scrofulide érythémateuse , érythématosquameuse et acnéique ( Hardy ) ; Vespertilio or Bat ' s wing diseuse ( Balmanno Squire ) ; Cazenave ' s disease ( Payne ) ; Erythema alrophicans ( Morrow ) ; Uléryihème centrifuge ( Unna ) ; Atrophodermatitis centrifuga ( Tommasoli ) .vue d ' ensemble .",
+        "words": [
+          "Séborrhée",
+          "Herpès",
+          "Scrofulide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/06180431-d5e1-5827-8f17-9e20728b444e",
+        "value": "— A certaines périodes , en certains points du corps , vers les plis articulaires , à la face interne des cuisses , sur les parties latérales du tronc , l ' aspect do la peau peut se rapprocher de celui de l ' eczéma , soit spontanément , soit à la suite d ' applications irritantes et intempestives .On observe alors du suintement ; le derme est rouge violacé ; les malades exhalent une odeur fade ou fétide .On a vu se produire dans quelques cas des bulles pemphigoïdes isolées qui persistent pendant plusieurs jours , puis qui disparaissent en laissant un peu d ' infiltration du derme .",
+        "words": [
+          "fétide",
+          "odeur",
+          "malades",
+          "fade",
+          "derme",
+          "exhalent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/08840cd9-7f47-515c-901e-fe67b5507839",
+        "value": "Voici , par ordre alphabétique , la nomenclature succincte des principales de ces substances , qui peuvent provoquer des lésions des téguments : L ' ammoniaque : éruption érythémateuse , et parfois phlyctènes par un processus analogue à la vésication .L ' arsenic : cette substance peut provoquer de l ' érythème , des vésicules , des pustules , des ulcérations arrondies , caractéristiques du type dit Pigeonneau ( voir plus loin ) , avec fond grisâtre ou rougeâtre , et induration périphérique : les tissus teints avec des couleurs à base d ' arsenic ( surtout les bas ) provoquent des dermatites extrêmement intenses .Le Baume du Pérou peut donner des dermatites pustuleuses et des accidents d ' intoxication générale quand on l ' applique sur de vastes surfaces \" comme dans le traitement de la gale .",
+        "words": [
+          "cette substance",
+          "arsenic",
+          "intenses",
+          "dermatites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/1094521d-13d4-5b8b-a90b-37f257bf5dc4",
+        "value": "symptômes .— Cette dermatose simule tout à fait au début des éléments d ' acné miliaire , mais elle s ' accompagne rapidement d ' une infiltra - 600 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE tion profonde du derme que l ' on sent épaissi quand on le saisit entre les doigts .Le plus souvent les follicules pileux intéressés sont complètement détruits : quelques - uns peuvent cependant persister .",
+        "words": [
+          "derme",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/1162ba38-edc7-5bf7-bf64-a849d2829cc6",
+        "value": "Particularités relatives au traitement de l ' érythème intertrigo .— Si l ' odeur est trop fétide et la suppuration trop abondante , on ajoute à la lotion de l ' acide borique , ou de l ' eau blanche , ou du coaltar saponiné , ou de l ' eau d ' Alibour .Quand l ' inflammation est un peu calmée on fait des lotions astringentes avec de l ' eau de feuilles de noyer plus ou moins forte , puis on saupoudre les parties malades avec une poudre non fermentescible , par exemple , oxyde de zinc et sous - nitrate de bismuth ââ 25 grammes , talc pulvérisé 50 grammes , ou kaolin , ou ceyssatite pure ou mélangée à de l ' acide borique finement porphyrisé .",
+        "words": [
+          "fétide",
+          "odeur",
+          "acide borique",
+          "eau blanche",
+          "coaltar saponiné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/118989f2-edf5-5d89-8773-256f9fcf8612",
+        "value": "49 .— Dermatite herpétiforme \" ( sens herpès vulgaire ) .Fig .",
+        "words": [
+          "Dermatite",
+          "herpétiforme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/12c8c8de-fe5a-57ef-984c-040f834185c7",
+        "value": "QUATRIÈME FORME .— Éruption papulo - pustuleuse miliaire récidivante de la face .Il est plus fréquent d ' observer des formes d ' intensité moyenne , caractérisées par les petits éléments pustuleux ou mieux légèrement papulopustuleux que nous avons décrits .",
+        "words": [
+          "pustuleuse",
+          "miliaire récidivante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/1322069c-3103-57b5-8179-1611962c7cff",
+        "value": "— On peut se contenter de saupoudrer les surfaces malades avec des poudres inertes , poudre d ' amidon , de lycopode , de talc , de sous - nitrate de bismuth , d ' oxyde de zinc , etc ., ou bien avec des poudres camphrées ou opiacées ( sulfate de morphine 1 gramme , lycopode ou amidon 250 grammes ) , puis de les recouvrir d ' une lame d ' ouate antiseptique .On renouvelle ce pansement toutes les vingt - quatre heures .",
+        "words": [
+          "antiseptique",
+          "poudres",
+          "ouate",
+          "sulfate de",
+          "amidon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/16046839-5c07-5f92-9978-0c56448ac57a",
+        "value": ") d ) GRANULOSIS RUBRÂ NASI ( JÀDASSOHN ) Cette affection est caractérisée par une rougeur du bout du nez , par de petites papules rouges et aplaties existant sur cette base rouge , et par une hyperidrose notable de toute cette surface sur laquelle la sueur transsude sous la forme de gouttelettes perlées brillantes qui se reproduisent incessamment .Au point de vue anatomo - pathologique , il y a une légère parakératose autour des pores sudoripares , de l ' oedème du corps muqueux : les capillaires des couches papillaires et sous - papillaires sont fort dilatés ; tout autour d ' eux existe une infiltration de leucocytes , do cellules du tissu conjonctif , de quelques mastzellen : les glandes sudoripares sont hypertrophiées et environnées de foyers d ' infiltration cellulaire .L ' ensemble des lésions représente un processus inflammatoire chronique ayant son point de départ autour des glandes sudoripares et des vaisseaux .",
+        "words": [
+          "oedème",
+          "glandes sudoripares",
+          "pores sudoripares"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/18527e30-886d-5fec-b540-f98a161c573b",
+        "value": "II .Le malade a une éruption très abondante de psoriasis , ne peut être surveillé par le médecin , et ne peut se servir de pommades odorantes .1 ° Prendre tous les deux jours un bain simple ou sulfureux dans lequel on décape les plaques malades avec du savon au goudron ou à l ' acide salicylique .",
+        "words": [
+          "odorantes",
+          "pommades"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/1976f3e8-77e2-5591-9194-8c573b4551e7",
+        "value": "309 .- Syphilome ulcéro - gommeux du nez .— Le processus morbide a détruit une partie de la paroi latérale inférieure de la narine gauche et de la sous - cloison .",
+        "words": [
+          "nez",
+          "gommeux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/1c4de2bd-a31f-5bf8-9e75-e6a565d7239b",
+        "value": "— Si l ' odeur est trop fétide et la suppuration trop abondante , on ajoute à la lotion de l ' acide borique , ou de l ' eau blanche , ou du coaltar saponiné , ou de l ' eau d ' Alibour .Quand l ' inflammation est un peu calmée on fait des lotions astringentes avec de l ' eau de feuilles de noyer plus ou moins forte , puis on saupoudre les parties malades avec une poudre non fermentescible , par exemple , oxyde de zinc et sous - nitrate de bismuth ââ 25 grammes , talc pulvérisé 50 grammes , ou kaolin , ou ceyssatite pure ou mélangée à de l ' acide borique finement porphyrisé .On peut y ajouter de i / 100 à i / 50e de camphre quand le prurit est intense .",
+        "words": [
+          "lotions",
+          "eau de feuilles de noyer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/1fd03fa2-e260-5fb1-b1a4-e25318534e17",
+        "value": "Quand l ' affection a subi cette modification , elle est infiniment plus rebelle au traitement .Les parakératoses psoriasiformes peuvent se compliquer dans quelques cas d ' impétigo simple de Tilbury Fox , plus fréquemment de folliculites ( impét ' go de Bockhart ) et de furoncles .Les folliculites greffées sur parakératoses psoriasiformes eczématisées sont tout particulièrement tenaces ; elles sont remarquables par leurs incessantes récidives , par l ' infiltration progressivement croissante des tissus périphériques , et dans certains cas par une tendance marquée à la destruction des follicules pileux et à l ' alopécie cicatricielle .",
+        "words": [
+          "furoncles",
+          "psoriasiformes",
+          "folliculites",
+          "parakératoses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/201d481b-4841-59bd-8307-dc5a24f6e8b2",
+        "value": "— Quand on peut trouver une indication étiologique de quelque valeur , on doit soigner la maladie dont la dermalgie semble dépendre .S ' il n ' existe aucune affection définie à laquelle on puisse la rattacher on essaie le sulfate ou le valérianate de quinine , les préparations de valériane et de datura stramonium , les pilules de Méglin , l ' antipyrine pour agir contre l ' élément névralgique , l ' aspirine , le salicylate de soude , les bains de vapeur , les fumigations aromatiques , etc .On a conseillé de faire de la révulsion sur le point d ' émergence des nerfs qui se rendent à la région intéressée .",
+        "words": [
+          "aromatiques",
+          "salicylate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/20578612-3b08-5e05-8fee-5c6ca923cc30",
+        "value": "11 est même permis 1142 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE de se demander si parfois , à ce degré , elle n ' est pas en partie consécutive à l ' administration de préparations arsenicales .Tous nos malades présentaient une sécrétion séborrhéique abondante au niveau du cuir chevelu ; ils en avaient également , mais en proportion beaucoup plus minime , au niveau de la partie médiane de la face ( l ) .Les annexes de l ' épiderme , poils et ongles , croissent chez certains de ces malades avec rapidité .",
+        "words": [
+          "sécrétion",
+          "abondante",
+          "séborrhéique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/23598b51-0a58-5f76-8ce6-16dbca1f240f",
+        "value": "dans les plantations de thé de l ' Assam .Les coolies qui y travaillent présentent tout d ' abord aux pieds « une vive démangeaison qui va en s ' accroissant jusqu ' au second jour .Alors le pied gonfle , la marche devient douloureuse , et une éruption apparaît .",
+        "words": [
+          "démangeaison",
+          "coolies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/243d463f-84f5-58c4-bf9c-3e7885299876",
+        "value": "Localement on a surtout préconisé les scarifications linéaires quadrillées , les effluves et les étincelles de haute fréquence et la radiothérapie ( x ) .e ) AUTOGRÂPHISME ou DERMOGRAPRTSME ( Voir PI .VIII , fig .",
+        "words": [
+          "AUTOGRÂPHISME",
+          "DERMOGRAPRTSME"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/26469eee-879e-572c-9df5-d9a8c7177135",
+        "value": "— Les pêcheurs d ' épongés de la Méditerranée peuvent être atteints d ' accidents cutanés caractérisés par des sensations de brûlure , de la rougeur , parfois de la gangrène , des abcès , etc .On peut remplacer la pommade d ' Helmerich , toujours un peu irritante , par une des suivantes : Glycérine 200 grammes Gomme adragante 1 » Pleur de soufre ..",
+        "words": [
+          "Gomme",
+          "soufre",
+          "irritante",
+          "Glycérine",
+          "adragante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/276bb383-fb57-510e-805a-687cdfeaf06d",
+        "value": "LUPUS VULGAIRE 443 A côté de ces formes nous devons signaler une variété dite à tort lupu , s pernio du nez , dans laquelle sous l ' aspect érythémateux violacé on tirouve des tubercules lupiques ( * ) .Parfois les nodules lupiques provoquent un oedème accentué de la face , , c ' est le lupus oedémateux .Avec Jacquet nous avons observé une forme spéciale de lupus de la face ( lupus annulaire ) , à marche extensive centrifuge , dont la lésion élémentaire reportée à la périphérie est constituée par une série linéaire de petits nodules , transparents , comme perlés , presque tangents , formant une zone d ' extension de 2 à 4 millimètres de large , indurée , un peu croûtelleuse , entourant la zone centrale qui est déprimée , légèrement cicatricielle .",
+        "words": [
+          "oedémateux",
+          "nodules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/276cd734-ad17-5d19-930e-05f80957a18a",
+        "value": "des éruptions fort prurigineuses et qui simulent l ' eczéma .Il existe un enduit crémeux très fétide dans les plis et les sillons de la peau .L ' administration d ' anthelminthiques et des lotions soigneuses suffisent d ' ordinaire pour faire disparaître ces accidents .",
+        "words": [
+          "fétide",
+          "très fétide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/2c76f266-801c-5cea-902b-efac388a7685",
+        "value": "— L ' étude de Yosmidrose et de la bromidrose se rattache , comme on le voit , intimement à celle de l ' hyperidrose .Ces affections sont en effet caractérisées par la sécrétion d ' une plus ou moins grande quantité de sueur d ' odeur désagréable et dans quelques cas absolument insupportable .Elles compliquent surtout les éphidroses ombilicale , inguinale , axillaire et plantaire ( x ) .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "sueur",
+          "absolument insupportable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/2d40c0a7-8150-5782-bb21-f94eba65f6fa",
+        "value": "Il est indispensable d ' enlever cet enduit toutes les fois que c ' est nécessaire .Si les croûtes sont trop épaisses , on les ramollit d ' abord avec de l ' huile d ' amande douce , de l ' huile de ricin parfumée , du cold - cream frais , du cérat frais ou de la vaseline .Lorsque l ' enduit sébacé est devenu moins adhérent , on lave la tête de l ' enfant avec de l ' eau chaude et du savon de belle qualité , ou bien avec de la décoction de saponaire ou de bois de Panama , ou bien encore avec un jaune d ' oeuf battu dans un peu d ' eau chaude .",
+        "words": [
+          "parfumée",
+          "huile de ricin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/2d9ea0d4-5c2a-5ded-b314-a98a03ce83f7",
+        "value": "Le nodule grandit et s ' étend , les abcès miliaires se succèdent , et il se forme un placard papillomateux bien limité , irrégulier , de consistance assez ferme , infiltré , mais mobile sur les parties profondes et n ' occupant que les parties superficielles du derme .La surface du placard est mamelonnée , papillomateuse , les papilles étant de volume inégal plus ou moins serrées , parfois masquées par une croûte formée par le dessèchement du pus et du suintement qui est souvent fétide .Par la pression on peut faire sourdre entre les papilles un pus épais .",
+        "words": [
+          "fétide",
+          "papillomateuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/2d9f4772-5095-5b56-8a4f-4671ea43a5ae",
+        "value": "49 .- Dermatite herpétiforme ( sens herpès vulgaire .) — Les lésions , constituées par des vésicules et des petites bulles pour la plupart excoriées , sont presque toutes groupées comme des vésicules d ' herpès ; par places elles forment des ébauches de circination .",
+        "words": [
+          "Dermatite",
+          "herpétiforme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/2f17e1db-2972-532a-b37f-2db19884a4c5",
+        "value": ".Les syphilides psoriasiformes diffèrent du psoriasis par la moindre SYPHILIDES PAPULEUSES 295 épaisseur ordinaire de leurs squames , par la teinte plus bistre de leur rougeur et surtout par l ' infiltration plus néoplasique des téguments .Cependant il est parfois difficile de faire un diagnostic précis .",
+        "words": [
+          "psoriasis",
+          "syphilides",
+          "squames",
+          "SYPHILIDES"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/2f8a765d-5c6b-5727-ab26-e6fdb783e14c",
+        "value": "— Avec Bisserié nous avons le premier traité l ' érythème centrifuge par les courants de haute fréquence .Nous avons utilis pour cela les effluves locales .Au début on se sert d ' effluves faibles , e on n ' en prolonge pas la durée plus de trois minutes ; d ' après les résultat de la première séance , on voit si l ' on peut employer des effluves d ' un , puissance plus grande , et même arriver à faire de l ' étincelage énergique .",
+        "words": [
+          "Nous",
+          "effluves",
+          "locales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/3001aadb-8d00-543f-be11-222d6ea35a58",
+        "value": "Les granulations perlées sont formées par une sorte de bouquet de lobules épithéliomateux , soulevant l ' épiderme de revêtement .Au fond des ulcérations et dans la cicatrice , on - trouve des masses épithéliales anguleuses ou disposées en réseau délicat , composées de cellules malpighiennes , à première rangée ordi - 1156 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE nairement cylindrique .Le stroma est plus ou moins riche en cellules plasmatiques ; souvent il est de structure fibreuse .",
+        "words": [
+          "cellules malpighiennes",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/307ba15e-abd9-5811-9ec5-66f7d2de9efa",
+        "value": "Si l ' ulcération marche avec une grande rapidité et fait disparaître promptement les tissus normaux , on a les formes vorax ou phagédéniques , lesqnelles causent d ' épouvantables mutilations , en détruisant les lèvres , le nez , les paupières , le voile du palais , etc .Certains points d ' un lupus peuvent devenir ulcéreux et même phagédéniques , alors que d ' autres points éloignés ou voisins restent à l ' état de lupus tuberculeux non exedens .Lupus vulgaire selon le siège .",
+        "words": [
+          "ulcéreux",
+          "phagédéniques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/3d3c9bc7-92f0-5271-9a10-b883796441c3",
+        "value": "Leur traitement est celui des gommes tuberculeuses .3 ° Tuberculoses végétantes .— On a publié des faits de végétations considérables de nature tuberculeuse qui se développent autour de la vulve , de l ' anus et au nez .",
+        "words": [
+          "végétantes",
+          "Tuberculoses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/3df18e90-2007-5187-ba5f-d2bbb7fd6032",
+        "value": "Le lupus scléreux proprement dit d ' E .Vidal ( scrofulide verruqueuse i 1 ) Le lupus pernio vrai , qui siège au bout du nez , aux pommettes , aux oreilles et eus mains , doit être rangé dans le lupus érythémateus , c ' est - à - dire dans lés tuberculides ; on n ' observe pas en effet dans cette forme clinique de nodule lupique vrai .D ' après Jôrgen Schaumann il aurait la même structure histologique que les Sarcoïdes cutànéas ; ce serait comme elles une lympkadérne iuberculoïde , ou mieux un lymphogranulome bénin .",
+        "words": "scrofulide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/40e8edaa-e7dd-52b5-bd23-c2d12949d96c",
+        "value": "ECZÉMA DES MUQUEUSES .— L ' eczéma envahit dans quelques cas les muqueuses dermo - papillaires , les conjonctives , les narines , les fosses nasales , la muqueuse glando - préputiale , l ' urèthre , la vulve , le vagin et le col de l ' utérus .Les muqueuses buccales et linguales peuvent aussi être atteintes .",
+        "words": [
+          "fosses",
+          "eczéma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/4140b4e0-a925-5310-bf53-529cee6bb0e9",
+        "value": "— Ce traitement est pratique et efficace , pourAoi qu ' on ait de la patience ' et de la persévérance .Il faut tous les jours , soit le matin , soit plutôt le soir avant de se coucher , à cause de la mauvaise odeur des substances dont on se sert , frictionner légèrement le cuir chevelu avec une brosse douce ou avec un petit tampon de tarlatane trempé dans de l ' eau chaude à laquelle on ajoute par tiers de verre de 20 à 100 gouttes de polysulfure de potassium liquide ( polysul - SÉBORRHÉE 955 fure de potassium solide 100 grammes , eau 200 grammes ) , et , si l ' on veut , quelques gouttes de teinture de benjoin .On commence par peigner le malade , puis on trace des raies avec le démêloir en rejetant les cheveux à droite et à gauche , et c ' est sur le cuir chevelu ainsi mis à nu qu ' on fait une friction légère en ayant soin de ne pas tirailler les cheveux , et en évitant le plus possible de les mouiller .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "substances",
+          "tous les jours",
+          "polysulfure de potassium",
+          "plutôt le soir avant de se coucher",
+          "soit le matin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/43769842-1448-5636-a08b-7a222d4ba4bb",
+        "value": "Elle se traduit assez fréquemment par des lésions cutanées et muqueuses qui affectent le voile du palais , le pharynx , la langue , le nez et les fosses nasales , etc ., et qui revêtent l ' aspect du tertiarisme : elles ont pendant longtemps été considérées comme étant de nature scrofuleuse .Elles ont la physionomie générale que nous avons décrite à propos des syphilides tertiaires ; on trouve assez fréquemment chez les sujets qui en sont porteurs des antécédents et même des stigmates qui permettent d ' affirmer l ' hérédo - syphilis .",
+        "words": [
+          "longtemps",
+          "scrofuleuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/44574690-4dab-54cf-80c8-3e9c55534059",
+        "value": "Quand tous les points atteints ont été ainsi traités , on sèche la tête avec une serviette chaude , et l ' on met un peu ( le moins possible ) , d ' huile d ' olive , , d ' huile d ' amande douce parfumée ou d ' huile antique sur l ' extrémité libre des cheveux pour éAdter de les trop sécher ; sans cette précaution , il pourrait s ' y développer de la trichoptilose ou de la trichorrexis nodosa .L ' odeur désagréable du polysulfure se dissipe assez vite .On peut combiner les lotions sulfureuses avec les traitements suivants , en particulier avec les pommades soufrées .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "polysulfure",
+          "assez vite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/45c00230-fcd2-54d3-ac2a-a95363b4d18a",
+        "value": "- v Nous nous trouvons fort bien dé leur faire matin et soir des lotions avec de l ' eau de bains sulfureux .Le baume du Pérou pur ou dilué d ' alcool est un antipsorique .On l ' utilise en pommades , incorporé à l ' axonge aux doses de 30 grammes de baume pour 100 grammes d ' axonge par exem - ple .",
+        "words": [
+          "baume",
+          "antipsorique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/47f34f7b-acbf-52f1-9976-60b2d76f2382",
+        "value": "OSMIDROSE OU BROMIDROSE .Le mot Osmidrose désigne le phénomène des sueurs odorantes , pour ainsi dire essentielles , et celui de Bromidrose s ' applique aux sueurs fétides , particulièrement à celles des pieds .( Audry .",
+        "words": [
+          "odorantes",
+          "fétides",
+          "sueurs",
+          "sueurs odorantes",
+          "essentielles",
+          "Bromidrose",
+          "Osmidrose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/4844d1da-9423-51c7-8b9e-047ecc85fb55",
+        "value": "Traitement par les mercuriaux .— A côté des préparations soufrées nousdevons placer par ordre d ' efficacité les mercuriaux qui sont loin cependant d ' avoir la puissance curative du soufre , mais qui rendent parfois des services chez les personnes qui ne peuvent pas supporter l ' odeur des lotions sulfureuses et qui ne veulent pas avoir de poussières jaunes dans les cheveux .Quand on se sert des mercuriaux , il faut commencer par nettoyer la tête avec soin si le malade a fait usage antérieurement d ' un médicament quelconque , du soufre en particulier .",
+        "words": [
+          "odeur",
+          "cheveux",
+          "préparations soufrées",
+          "lotions sulfureuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/4b737970-9268-59cf-a498-65c78105744d",
+        "value": "La fièvre est modérée , dure doux ou trois jours : les ganglions maxillaires sont toujours tuméfiés .Une ulcération précoce , plus ou moins profonde , peut se creuser sous la fausse membrane qui prend alors l ' aspect d ' un exsudât mou , grisâtre , ou gris jaunâtre , d ' odeur fétide .Au - dessous de cet exsudât , la surface de l ' ulcération est tomenteuse et saigne facilement : tout autour la muqueuse est rouge et oedématiée .",
+        "words": [
+          "fétide",
+          "odeur",
+          "exsudât"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/4bdec7e2-a038-5d41-8b86-0a086a7b58f8",
+        "value": "Ils se réunissent fréquemment entre eux ; ils constituent alors de véritables stratifications , des saillies abruptes , des dépressions , et ont par place à certains moments jusqu ' à 1 centimètre et plus d ' épaisseur .Ils exhalent une odeur particulière de souris , d ' urine de chat , et de moisissure .À la périphérie des plaques il est souvent possible de retrouver un godet isolé ou un vestige de la disposition urcéolaire primitive .",
+        "words": [
+          "odeur",
+          "Ils",
+          "particulière",
+          "souris",
+          "moisissure",
+          "urine de chat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/4cad7e09-77cb-5625-9a48-b13301d4d805",
+        "value": "FAVUS DES ONGLES 397 Le favus des parties glabres débute aussi parfois d ' emblée par un seul point d ' inoculation qui se développe lentement et donne lieu à un godet favique typique , régulier , d ' un beau jaune soufre .Ces lésions peuvent causer des démangeaisons et exhaler l ' odeur caractéristique du favus .Elles peuvent fructifier assez vite ou avoir une marche fort lente .",
+        "words": [
+          "odeur",
+          "caractéristique",
+          "démangeaisons",
+          "favus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/4e86ee61-ed03-5e8c-ace7-148fa07a46ad",
+        "value": "EUes peuvent être assez peu nombreuses pour former des groupes distincts ; mais , dans d ' autres cas , elles sont assez rapprochées pour constituer des sortes de nappes confluentes qui revêtent en quelque sorte les - organes génitaux de fausses membranes grisâtres ou blanchâtres à contours sinueux et festonnés , à surface assez irrégulière , comme plissées et chiffonnées , allongées sur les grandes lèvres ( vulvite couenneuse ) selon le sens de ces organes , et disposées suivant les plis radiés à la - marge de l ' anus où elles sont fort adhérentes ( Bruneau ) .Cet herpès confluent s ' accompagne de douleurs assez violentes pour que les malades ne puissent plus marcher , et d ' écoulement muco - puruleat d ' une odeur fétide .Les pseudo - membranes se détachent spontanément au bout de quelques jours en laissant au - dessous d ' elles des ulcérations de trois types ( Bruneau ) : les unes sont nettes , arrondies , très petites et succèdent à des vésicules ; d ' autres sont polycycliques et succèdent à des groupes de vésicules ; les dernières sont fort grandes , ovalaires , très irrégulières , et succèdent aux larges plaques pseudo - membraneuses .",
+        "words": [
+          "fétide",
+          "odeur",
+          "herpès",
+          "puruleat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/534cb302-7eaf-5794-bac8-ebefa9edd0b5",
+        "value": "La pommade de Dupuytren est excellente : on peut aussi employer la pommade Philocome , à base d ' extrait mou de quinquina , de moelle de boeuf et d ' huile d ' amande douce ; les pommades au soufre et au goudron au 1 / 10 , etc .Quand on ne fait usage que des lotions excitantes , il faut mettre de temps en temps sur les cheveux , dès qu ' ils semblent être trop secs , soit un peu d ' huile d ' amande douce , soit un peu d ' huile de ricin parfumée , soit un peu d ' huile antique .Lorsque ces alopécies se compliquent de pityriasis simplex , ou de pityriasis stéatoïde ou de séborrhée , il faut faire le traitement de ces affections .",
+        "words": [
+          "parfumée",
+          "excitantes",
+          "huile de ricin",
+          "lotions",
+          "huile d ' amande douce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/56f41143-cd0c-5f31-9461-8663b9ccea2d",
+        "value": ".Nous étudierons successivement : 1 ° Les herpétides exfoliatives comprises cliniquement dans le sens que Bazin a attaché à ce mot ; 2 ° les êrythrodermies exfoliantes généralisées primitives .I .",
+        "words": [
+          "êrythrodermies",
+          "herpétides",
+          "exfoliatives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/58b480d1-8cdb-5147-8803-b47c81215ce7",
+        "value": "L ' arsenic : cette substance peut provoquer de l ' érythème , des vésicules , des pustules , des ulcérations arrondies , caractéristiques du type dit Pigeonneau ( voir plus loin ) , avec fond grisâtre ou rougeâtre , et induration périphérique : les tissus teints avec des couleurs à base d ' arsenic ( surtout les bas ) provoquent des dermatites extrêmement intenses .Le Baume du Pérou peut donner des dermatites pustuleuses et des accidents d ' intoxication générale quand on l ' applique sur de vastes surfaces \" comme dans le traitement de la gale .Le bichromate de potasse produit des papules , des pustules , des ulcérations : ces accidents du côté de la peau s ' accompagnent souvent d ' ulcérations de la muqueuse buccale , et de perforations de la cloison nasale .",
+        "words": [
+          "Baume",
+          "dermatites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/58e26f7f-9dcd-522e-b681-0f44695ddf45",
+        "value": "Mais cette préparation , de même que l ' axonge salicylée , est plus irritante pour les téguments que l ' axonge pure et fraîche .Parmi les autres graisses employées , citons : la graisse d ' oie ( excellente ) ; la graisse de rognons de veau ; la moelle de boeuf que l ' on utilise surtout pour le cuir chevelu ; le blanc de baleine ou spermacéti qui sert à fabriquer les cold - creams ; les graisses de laine du mouton qui jouent depuis quelques années un grand rôle en thérapeutique cutanée : ce sont : l ' oesypus ou graisse de laine brute , extrêmement adhérent , formant un très bon excipient pour les pommades quand on le combine avec une huile , mais ayant une odeur désagréable ; — la lanoline , qui est une graisse de laine purifiée ; quand elle est parfaitement pure elle n ' a pas d ' odeur ; elle est un peu jaunâtre , visqueuse ; — l ' adeps lance .ou alapurine , etc .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "elle",
+          "pas",
+          "lanoline",
+          "depuis quelques années",
+          "oesypus",
+          "graisse de laine purifiée",
+          "graisses de laine du mouton",
+          "graisse de laine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/5d867938-b36e-5d1e-b1b3-2a74dc1cb771",
+        "value": ".L ' odeur du phénol , du tabac , de la térébenthine et du pétrole éloigne ces parasites : il en est de même d ' un mélange de pyrèthre et de sel de nitre que l ' on fait brûler .BRACHYCÈRES .",
+        "words": [
+          "odeur",
+          "tabac",
+          "térébenthine",
+          "pyrèthre",
+          "pétrole",
+          "phénol",
+          "sel de nitre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/5e43e2a8-7fd7-5ef8-b7a7-84a90ac7bd6e",
+        "value": "Elles compliquent surtout les éphidroses ombilicale , inguinale , axillaire et plantaire ( x ) .Certains sujets présentent parfois de la bromidrose généralisée et exhalent une odeur de bouc , d ' urine , etc .On sait qu ' il y a des maladies dans lesquelles les sueurs ont une odeur spéciale .",
+        "words": [
+          "odeur",
+          "urine",
+          "bouc",
+          "bromidrose",
+          "Certains sujets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/625af313-7f92-55c5-923e-dc3eac2c1751",
+        "value": "Les bains de sublimé contenant 10 grammes de sublimé pour 200 litres d ' eau peuvent rendre des services .On a aussi préconisé des lotions arsenicales , des applications d ' un mélange de 15 grammes de pétrole et de baume du Pérou et d ' un gramme d ' huile de laurier ( badigeonner les parties malades avec un pinceau imbibé de cette préparation , puis l ' enlever au bout de trois heures par des lavages ) .En Amérique , on se sert de lotions au chloroforme , et tout dernièrement on a proposé de remplacer cette substance par l ' éther , qui est beaucoup moins irritant et qui a des effets presque aussi énergiques .",
+        "words": [
+          "baume",
+          "pétrole",
+          "lotions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/629105a0-c6e2-5a3d-a8a9-dceb45a11587",
+        "value": "Tantôt la forme générale du membre est assez régulièrement cylindrique ; la face dorsale du pied est épaissie : les téguments et le tissu cellulaire sous - cutané peuvent y atteindre de 2 à 4 centimètres d ' épaisseur ; les orteils sont très volumineux , bosselés , mamelonnés , irréguliers , quadrangulaires par pression réciproque .Ils se continuent sans ligne de démarcation nette avec la face dorsale du pied laquelle est parfois lisse , tendue , plus souvent mamelonnée , comme verruqueuse , hérissée de saillies assez irrégulières , arrondies au sommet , quadrangulaires par pression réciproque , souvent enfouies dans une sorte de magma d ' un gris noirâtre fait de crasse et de desquamations épidermiques , et qui exhale une odeur d ' une horrible fétidité .La face plantaire du pied est d ' ordinaire indemne .",
+        "words": [
+          "odeur",
+          "horrible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/62bb050e-155c-5ab1-8ac7-91f2d5988acb",
+        "value": "Bosnie : ' et Doyon ) .Les dentifrices irritants à base de salol , de menthol , de thymol , etc ., seront proscrits .",
+        "words": [
+          "menthol",
+          "salol",
+          "thymol",
+          "dentifrices",
+          "dentifrices irritants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/641086ef-4fdd-5de4-ab13-e426a4ab5dce",
+        "value": "Les \" \\ plaques érythémateuses qui les caractérisent sont mieux \" limitées , de - j f , .ACNÉ ROSACÉE 591 Iviennent plus facilement squameuses par le grattage : mais c ' est surtout fia coexistence d ' éléments typiques de ces affections en une autre régiondu corps qui permettra de sortir d ' incertitude .j * Les engelures du nez et des joues simulent parfois la couperose à s ' y [ méprendre ; mais la variabilité des accidents , les symptômes douloureux ,la coexistence d ' engelures aux mains et aux pieds lèveront tous les doutes .",
+        "words": [
+          "ACNÉ",
+          "squameuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/66b99286-a9c5-5be7-818f-58cd1445c84f",
+        "value": "ladie de Duhring a été étendu d ' une manière abusive en France à tout notre groupe des dermatites polymorphes ( voir sur ce point notre mémoire de 1898 ) .DERMATITES POLYMORPHES CHRONIQUES A POUSSÉES SUCCESSIVES 757 altération , on sent que la pellicule épidermique se plisse en quelque sorte sur les parties sous - jacentes .L ' évolution des vésicules est extrêmement variable .",
+        "words": "DERMATITES POLYMORPHES"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/68b5f441-8a61-5c40-9e2a-68406b5270bf",
+        "value": "E .Vidal , pour supprimer dans une certaine mesure la mauvaise odeur qui se produit sous la feuille de caoutchouc , eut l ' idée d ' interposer entre elle et les parties malades deux ou trois doubles de tarlatane imbibée d ' eau bouillie et exprimée .Cette modification a été le point de départ de la méthode que , depuis 1885 , nous avons vulgarisée , et qui est actuellement adoptée par de nombreux dermatologistes : nous lui avons donné le nom d ' enveloppement indirect .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "parties",
+          "feuille",
+          "caoutchouc",
+          "Vidal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/6aec1edb-a461-5c9d-86c6-672ed270d9c4",
+        "value": "— Troubles fonctionnels des glandes sudoripares .Le produit de sécrétion des glandes sudoripares , la sueur , peut être modifié comme quantité et alors être trop considérable ( hyperidrose ) , ou insuffisant ( anidiose ) ; il peut être aussi modifié comme qualité , comme odeur ( bromidrose , osmidrose ) , comme couleur ( chromidrose ) , comme composition chimique ( uridrose ) .HYPERIDROSE .",
+        "words": [
+          "odeur",
+          "sueur",
+          "glandes sudoripares",
+          "bromidrose",
+          "osmidrose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/6af42bbe-6910-5a39-8927-8eca9ebe75e9",
+        "value": "B .KYSTES DERMOÏDES .— Les kystes dermoïdes sont du domaine de la chirurgie .",
+        "words": "DERMOÏDES"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/70bc3d53-c6d2-531a-af8d-ecc780784cca",
+        "value": "s .pour aromatiser : ou bien les pommades mercurielles , par exemple : oxyde jaune d ' hydrargyre , 1 gramme ; vaseline pure 20 grammes , additionnée ou non de 3 grammes de goudron et de 0 , 50 centigrammes de savon noir .Quand on s ' en tient aux lotions , si les cheveux deviennent trop secs , on y met de temps en temps un peu du mélange suivant : teinture de romarin , de jaborandi àâ 15 grammes , huile de ricin 25 grammes ; agiter avant de s ' en servir .",
+        "words": [
+          "savon",
+          "aromatiser",
+          "oxyde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/70e810eb-ff24-504e-b9ba-2c5c91e3778f",
+        "value": "A ce premier type se rattachent les sous - variétés suivantes : a ) Ces bulles flaccides sont pendant longtemps visibles , reconnaissablés , et dans ce cas : a ) Elles sont isolées les unes des autres , discrètes , collées sur la peau saine comme des pains à cacheter , puis elles desquament en laissant des taches brunes , et l ' affection évolue ainsi par poussées successives : presque toujours dans ce cas elle finit par aboutir au bout d ' un laps de temps à la forme suivante : jS ) Les bulles sont nombreuses , de plus en plus rapprochées les unes des autres ; elles finissent par être confluentes , par se former sur des points déjà atteints et non encore complètement guéris , et dès lors les téguments envahis dans leur totalité prennent un aspect tout spécial : ils sont rouges , d ' une rougeur plus ou moins vive selon les cas et selon les régions , analogue à celle des êrythrodermies généralisées ; sur cette rougeur se voient des squames irrégulières , plus ou moins considérables , en partie flottantes , adhérentes parfois par leur centre , plus souvent par un de leurs bords , jaunâtres et un peu humides pour la plupart , rarement sèches , lamelleuses et nacrées ; par places l ' épiderme est nettement soulevé par un peu de sérosité et glisse sous le doigt : ce sont des bulles nouvelles en apparition .Le malade exhale presque toujours une odeur fétide .Le derme peut proliférer et prendre un aspect papillomateux plus ou moins prononcé .",
+        "words": [
+          "fétide",
+          "odeur",
+          "presque toujours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/71a13e13-8ecd-5c76-b1e3-9e7197e3086c",
+        "value": "s .pour aromatiser c ) Tous les matins faire une friction des plaques malades avec la solution suivante :Acide acétique oristallisable 3 grammes \\ Teinture de cantharide 5 » < Teinture de romarin ) i Teinture de jaborandi ) ( Rhum 170 » B .Glossite traumatique .",
+        "words": [
+          "romarin",
+          "Acide",
+          "cantharide",
+          "aromatiser",
+          "Tous les matins",
+          "oristallisable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/71fec437-0002-526d-8562-2f89dd724954",
+        "value": "Ces bulles peuvent tout d ' abord évoluer comme des bulles de pemphigus vulgaire et guérir rapidement : puis peu à peu au lieu de se conduire comme les bulles ordinaires de pemphigus , la bulle ou la pustulo - bulle du pemphigus végétant laisse après elle une surface à vif , suintante , qui sécrète un liquide séro - purulent horriblement fétide , surtout aux pieds et aux grands plis articulaires .Cette surface excoriée ou mieux exulcérée et qui ne présente aucune tendance à la cicatrisation , végète , se couvre de saillies papillomateuses plus ou moins développées et inégales , lesquelles continuent à suinter , et se recouvrent de croûtes fétides d ' un ( H Voir Traité Elémentaire , t .I , p .",
+        "words": [
+          "fétides",
+          "surface"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/73d9c72e-9fdf-5f48-b13f-c2b8fc582dcc",
+        "value": "Sa physionomie générale est vraiment • pathognomonique : on voit soit vers les lèvres , au pourtour du nez , soit vers les parties latérales ou moyennes des joues des croûtes jaunâtres mélicériques irrégulièrement disposées , parfois peu abondantes , plus souvent stratifiées et formant par places des plaques assez étendues à contours bizarrement découpés , par places des éléments arrondis ou ovalaires discrets et disséminés ; il est d ' ordinaire possible de découvrir en un point quelconque de k face une phlyctène complètement transparente , ou un peu purulente à son point le plus déclive .Cà et là il existe quelques traces de grattage , des excoriations et des croûtes noirâtres sanguinolentes .Chez les jeunes sujets ce tableau clinique est souvent complété par des crevasses et des croûtes impétigineuses au coin des lèvres , aus narines surtout vers l ' angle naso - gènien , aux plis rétro - auriculaires , par de la phtiriase du cuir chevelu .",
+        "words": [
+          "sanguinolentes",
+          "croûtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/746bc046-de06-5c5c-9d9b-d7697bc4d238",
+        "value": "On devra , en présence d ' un cas douteux , rechercher avec soin si en quelques points du corps il ne se produit pas des soulèvements bulleux éphémères , aplatis , vestiges de l ' éruption huileuse primitive .Le pemphigus foliacé se distingue des dermatites exfoliatives généralisées vraies , du pityriasis rubra typique de Hebra et des herpétides exfoliativiS par ses squames moins lamelleuses , moins nacrées , moins transparentes , plus épaisses , plus jaunâtres , comme graisseuses et humides .Le derme sous - jacent est plus suintant , et paraît légèrement macéré ; les sécrétions cutanées sont plus abondantes et beaucoup plus fétides .",
+        "words": [
+          "pityriasis",
+          "dermatites",
+          "pemphigus foliacé",
+          "Hebra",
+          "herpétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/747f3a36-24c6-5eb0-b25b-a7c2df2bf4ed",
+        "value": "Il peut être provoqué par des émotions , par des crises nerveuses , par le surmenage .j ) AFFECTIONS TENANT A DES TROUBLES DE FONCTIONNEMENT DES GLANDES SÉBACÉES ET POUVANT ÊTRE RATTACHÉES A LA RIGUEUR AUX TROPHONÉVROSES Séborrhée .Nous désignerons avec Sabouraud sous le nom de Séborrhée grasse la production exagérée de l ' enduit graisseux qui existe à l ' état normal sur les téguments et qui provient des glandes de la peau .",
+        "words": [
+          "Séborrhée",
+          "GLANDES SÉBACÉES"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/75c9b556-5661-5e28-9b21-201a2a15b448",
+        "value": "Quand les gerçures sont formées , on peut continuer les soins précédents ou recourir de plus à l ' un des moyens que nous allons indiquer : Lotionner deux fois par jour les régions malades avec un mélange ( Monin ) renfermant : 200 grammes d ' eau de laitue , 50 grammes de glycérine pure , de 5 à 15 grammes de Baume du Pérou , 4 grammes de salicylate de soude ; ou bien se frotter les mains matin et soir avec quelques gouttes d ' une préparation contenant 50 centigrammes de tanin pour 20 grammes de glycérine neutre et 100 grammes d ' eau de rose ( Vigier ) .Mettre pour la nuit sur les parties malades soit de la lanoline pure , soit de la lanoline parfumée avec un peu d ' essence de rose , soit un mélange de lanoline 30 pour 10 d ' huile d ' amande douce , soit du glycérolé d ' amidon à la glycérine neutre pure de Price .Gerçures du sein .",
+        "words": [
+          "parfumée",
+          "essence de rose",
+          "lanoline",
+          "pour la nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/75e3f320-7e20-5629-85d1-777112ecdcf1",
+        "value": "8 ° .! 5 ° lallopeau et Thibierge ont décrit des tuberculides suppuratives agmiùées dont la lésion élémentaire est une pustule miliaire péripillair ' .avec aréole rouge : ces éléments peuvent être disséminés çà et là air le tronc et les membres , ou se grouper en longs et larges placairds dont le centre , en voie de guérison , d ' un rouge sombre , est recoxavet de squames minces et adhérentes , tandis que les pustules abconoent vers la périphérie qui est la zone d ' extension .",
+        "words": [
+          "suppuratives",
+          "tuberculides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/78979618-5897-527a-af77-22a44dda98cb",
+        "value": "Sa consistance devient molle ; sa coloration est d ' ordinaire normale , quoique l ' épiderme puisse devenir rugueux ; l ' ongle est normal , ou bien il s ' atrophie et disparaît .Progressivement tous les tissus constitutifs de l ' orteil se résorbent sous l ' influence de la constriction qui s ' exerce au niveau du pédicule , et l ' orteil lui - même finit par se détacher avec ou sans formation d ' une ulcération à suintement fétide , après une évolution qui dure d ' ordinaire de quatre à dix ans .Parfois la maladie s ' accompagne de douleurs , de sensations plus ou moins pénibles de resserrement à la racine de l ' orteil .",
+        "words": "fétide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/79248b50-7500-54ee-ab15-e20012afaa0b",
+        "value": "Traitement .— Pour la trichorrhexis de la barbe nous conseillons de se raser pendant un certain temps , de faire quelques frictions excitantes , et des massages le soir avec une pommade soufrée au 10e ou avec une pommade à l ' oxyde jaune d ' hydrargyre au 20e , Pour la trichorrhexis nodosa de l ' extrémité libre des cheveux des femmes , nous conseillons : de faire couper soigneusement tous les dix jours les cheveux au - dessus des noeuds ; de soigner la séborrhée ou le pityriasis simplex , parfois le pityriasis stéatoïde ou les parakératoses psoriasiformes du cuir chevelu par les moyens appropriés ( voir ces mots ) ; de ne laver les cheveux que lorsque c ' est indispensable , et , immédiatement après l ' avoir fait de remettre de l ' huile ou un corps gras quelconque sur les extrémités libres des cheveux ; de remettre de Phuile de ricin parfumée ou de l ' huile antique sur le bout libre des cheveux toutes les fois qu ' ils sont secs .■ y ) TRICHOCLASIE IDIOPATHIQUE .",
+        "words": [
+          "parfumée",
+          "immédiatement après",
+          "parakératoses",
+          "Phuile de ricin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/799929e7-5a54-50f4-b553-5232c97ea4bf",
+        "value": "L ' urticaire paludique est justiciable de hautes doses de quinine ou des préparations arsenicales .Contre le symptôme urticaire lui - même , on a proposé quantité de médicaments ; on a essayé l ' opium , l ' atropine ( Schwimmer ) , la belladone , le musc , le castoréum les bromures , le chloral , le salicylate de soude ( Pietrzycki ) , la quinine , l ' antipyrine ( Nitot ) qui réussirait dans les cas d ' origine nerveuse ( on sait que ce médicament donne fort souvent des éruptions urticariennes ) , l ' ammoniaque liquide à la dose de 12 à 15 gouttes dans un peu d ' eau trois ou quatre fois par jour ( Hardy ) , l ' arsenic et en particulier les eaux de la Bourboule , les sulfureux , le soufre , l ' acide suifurique , les sulfites et les hyposulfites , fort préconisés en Amérique , le chlorure de calcium ( Netter ) , etc .Les substances qui nous ont paru être le moins inefficaces sont les vasomoteurs , c ' est - à - dire la quinine , Pergotine , la belladone , et l ' adrénaline en solution au millième en injeetions sous - cutanées .",
+        "words": [
+          "soufre",
+          "ammoniaque",
+          "arsenic",
+          "chloral",
+          "sulfites",
+          "castoréum",
+          "urticaire",
+          "hyposulfites",
+          "salicylate de",
+          "eaux de la",
+          "acide suifurique",
+          "les sulfureux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/7b3937e8-4328-5137-b685-6e71b4d692dd",
+        "value": "Cette infirmité rend certaines professions manuelles fort difficiles , sinon impossibles .Il en est de même pour la plante des pieds ; en cette région l ' épidémie peut se macérer , se ramollir , devenir blanchâtre , se soulever même sous forme d ' ampoules et se détacher complètement ; le derme est rouge et congestionné : les pieds deviennent sensibles ; la marche est parfois impossible et les malades exhalent une odeur fétide assez caractéristique .On peut distinguer deux groupes de faits : dans le premier les extrémités sont froides , bleuâtres , dans le second elles sont chaudes et congestionnées .",
+        "words": [
+          "odeur",
+          "derme",
+          "région",
+          "exhalent",
+          "fétide assez caractéristique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/7c706a7b-cf94-5a75-aeb7-d17bdeaa39a6",
+        "value": "II , p .Mais il n ' en est plus de même quand la période huileuse est terminée , quand on se trouve en présence d ' une érythrodermie exfoliante généralisée .On devra , en présence d ' un cas douteux , rechercher avec soin si en quelques points du corps il ne se produit pas des soulèvements bulleux éphémères , aplatis , vestiges de l ' éruption huileuse primitive .",
+        "words": "exfoliante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/7f3cbf08-c16c-5b64-922e-e715a52a5975",
+        "value": "kystes folliculaires peuvent prendre des dimensions allant de celles d ' un petit pois à celles d ' un gros noyau de cerise , et dès lors la tanne est constituée .La tanne est donc une petite tumeur kystique , superficielle , quoique intradermique , molle et pâteuse ; elle porte vers son centre , parfois latéralement , un point noir qui est l ' orifice oblitéré du conduit pilo - sébacé aux dépens duquel elle s ' est développée , et par lequel on peut , par une expression vigoureuse , fane sortir le contenu du kyste sous la forme d ' un long boudin arrondi ou aplati de matière blanchâtre ou jaunâtre , grasse au toucher , d ' odeur souvent nauséabonde : parfois le contenu est à moitié liquide avec de gros grumeaux irréguliers .B .",
+        "words": [
+          "odeur",
+          "souvent nauséabonde",
+          "tanne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/7fcf9d84-4952-5678-8728-844ff7ac00fb",
+        "value": "407 .932 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE éphémère que provoque presque normalement sur les peaux blanches le contact de l ' ongle ou d ' un instrument mousse .Il est fréquent d ' observer l ' autographisme chez les malades qui présentent des troubles de la sensibilité , de l ' analgésie , de l ' anesthôsie soit générale , soit partielle , des désordres du côté des organes des sens , de l ' inipressionnabilitc nerveuse .",
+        "words": [
+          "peaux blanches",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/7fe8a351-77c0-5897-ab4a-83991eb29eab",
+        "value": "Voici ce que nous préconisons d ' ordinaire comme traitement pratique et usuel du chancre simple : Dans les cas non compliqués .— 1 ° Avant tout , ne pas irriter la plaie ; décoller les pansements quand ils sont adhérents par des bains locaux d ' eau boriquée aussi chaude qu ' il est possible de la supporter ; protéger la plaie de tout contact irritant , de l ' urine en particulier , et de tout traumatisme ; faire , si c ' est possible , des applications d ' air cliaud ; 2 ° Lotionner matin et soir la plaie avec de Peau phéniquée chaude au 1 / 100 et de l ' ouate hydrophile , y passer du vin aromatique .3 ° Toucher délicatement une fois par jour la plaie avec un pinceau imbibé d ' une solution de nitrate d ' argent au 1 / 20 , jusqu ' à ce qu ' elle ait pris l ' aspect d ' une plaie ordinaire .",
+        "words": [
+          "aromatique",
+          "plaie",
+          "matin et soir",
+          "Peau phéniquée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/80069936-be8c-5b6d-b160-e84e00c01792",
+        "value": "Voici une excellente formule dont on peut se servir chez eux : Huile de camomille camphrée 100 grammes Baume styrax pur 20 » Si elle est irritante , on diminue la ' dose de baume , ou bien on l ' incorpore à de l ' huile d ' amande douce au lieu d ' employer l ' huile de camomille camphrée .- v Nous nous trouvons fort bien dé leur faire matin et soir des lotions avec de l ' eau de bains sulfureux .Le baume du Pérou pur ou dilué d ' alcool est un antipsorique .",
+        "words": [
+          "lotions",
+          "matin et soir",
+          "eau de bains sulfureux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/81121597-999e-537f-9035-0caa46bbe667",
+        "value": "4 ° Bourrer la plaie après les lavages du matin et du soir avec de la poudre d ' iodoforme , puis recouvrir d ' un peu de gaze iodoformée et d ' un tampon d ' ouate hydrophile salicylée .Ce n ' est que si le pansement à Piodoforme est réellement impossible ( odeur , irritation artificielle ) que l ' on emploiera un \" de ses succédanés , iodol , dermatol , aristol , ectogan , etc ., mais rien ne remplace Viodoforme dans le traitement du chancre simple .",
+        "words": [
+          "odeur",
+          "iodol",
+          "dermatol",
+          "aristol",
+          "succédanés",
+          "ectogan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/82075703-dd6b-505a-969c-a174562dc7be",
+        "value": ") Nous employons fréquemment , en particulier dans les eczémas du cuir chevelu , de la tarlatane pliée en huit ou dix doubles , trempée dans me TRAITEMENT DE L ' ECZÉMA \\ 717 décoction de racine d ' aunée et de têtes de camomille , fortement exprimée , recouverte d ' une couche d ' ouate hydrophile pour absorber l ' excès d ' eau qui pourrait rester et prévenir la macération des téguments : ïe tout est enveloppé de taffetas chiffon .On évite ainsi tout dégagement de mauvaise odeur et ces applications ont un effet curatif assez rapide .Dans les eczémas très généralisés et très enflammés on se trouve bien parfois de faire usage de corps gras frais , axonge fraîche , cold - cream frais sans benjoin , cérat sans eau , glycérolé d ' amidon à la glycérine neutre , vaseline pure qui souvent est mal tolérée , mélange de lanoline et d ' huile , de lanoline et de vaseline , Uniment oléo - calcaire pur .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/84ac808a-804a-5b9a-82b1-080f633e4964",
+        "value": "Mais ce ne sont pas .) ; les savons et surtout les savons parfusmés de toilette ; les dentifrices qui renferment des substances irritantes ; ; les divers médicaments ; les professions si nombreuses dans lesquelles ; on manie des substances irritantes ( maçons , plâtriers , blanchisseuses , boulangers , épiciers , mégissiers , corroyeurs , photographes , médecins , etc ., etc .",
+        "words": [
+          "irritantes",
+          "substances",
+          "savons",
+          "dentifrices",
+          "divers médicaments"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/865c9fa0-b5ba-58da-a763-511bffedd7ad",
+        "value": "On a noté des altérations de la paume de la main et des ongles .Les malades exhalent une odeur d ' une fétidité tout à fait spéciale .L ' affection a parfois une marche rapide pendant les premiers mois et les premières années , puis elle n ' évolue plus qu ' avec lenteur .",
+        "words": [
+          "odeur",
+          "fétidité",
+          "malades",
+          "tout à fait spéciale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/86695ed2-e21f-59d1-b625-e6567e44bbef",
+        "value": "C .TROISIÈME FORME : ACNÉ HYPERTROPHIQUE OU RHINOPHYMA .Les glandes sébacées ont subi un processus d ' hypertrophie tel qu ' elles peuvent devenir dix à quinze fois plus volumineuses qu ' à l ' état normal Tout autour d ' elles les tissus ont proliféré et donné naissance à une pachyderme .",
+        "words": [
+          "ACNÉ",
+          "HYPERTROPHIQUE",
+          "RHINOPHYMA"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/8f042816-5414-5734-95b1-177f19aa21d0",
+        "value": "la conjonctive à travers les paupières en ectropion , br dées par le raccourcissement de leur couche cutanée .11 est même permis 1142 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE de se demander si parfois , à ce degré , elle n ' est pas en partie consécutive à l ' administration de préparations arsenicales .Tous nos malades présentaient une sécrétion séborrhéique abondante au niveau du cuir chevelu ; ils en avaient également , mais en proportion beaucoup plus minime , au niveau de la partie médiane de la face ( l ) .",
+        "words": [
+          "préparations",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/8f546e41-dc10-542b-98d1-cdd5957964fe",
+        "value": "Si l ' urticaire se relie à des affections de l ' estomac , de l ' intestin , du foie , des reins , du système nerveux , on les traitera par les moyens appropriés ( x ) .L ' urticaire paludique est justiciable de hautes doses de quinine ou des préparations arsenicales .Contre le symptôme urticaire lui - même , on a proposé quantité de médicaments ; on a essayé l ' opium , l ' atropine ( Schwimmer ) , la belladone , le musc , le castoréum les bromures , le chloral , le salicylate de soude ( Pietrzycki ) , la quinine , l ' antipyrine ( Nitot ) qui réussirait dans les cas d ' origine nerveuse ( on sait que ce médicament donne fort souvent des éruptions urticariennes ) , l ' ammoniaque liquide à la dose de 12 à 15 gouttes dans un peu d ' eau trois ou quatre fois par jour ( Hardy ) , l ' arsenic et en particulier les eaux de la Bourboule , les sulfureux , le soufre , l ' acide suifurique , les sulfites et les hyposulfites , fort préconisés en Amérique , le chlorure de calcium ( Netter ) , etc .",
+        "words": [
+          "urticaire",
+          "quinine",
+          "préparations arsenicales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/9021e538-a90b-5740-95a6-22d73a2dcec2",
+        "value": "Les médecins brésiliens ( Rabello , Vianna , Terra , Aragâo , etc .266 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE Ce qui nous fait ranger ce type morbide à côté des Leishmanioses , c ' est que les médecins brésiliens disent avoir guéri rapidement le granulome ulcéreux par des injections intraveineuses d ' une solution au centième de tartre stibié dans du sérurn physiologique .Ils en injectent 5 centimètres cubes tous les 2 ou 3 jours .",
+        "words": [
+          "guéri",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/932676c4-0087-59b9-adca-fab284712cba",
+        "value": "d ' après la méthode d ' Unna , pour voir si elle s ' efface ou non parla pression , si les téguments sont profondément atteints .On doit rechercher si elle exhale une odeur particulière .André Broca ( 1893 ) a proposé d ' employer le verre bleu de cobalt pour distinguer avec plus de facilité les éruptions au début ou les éruptions frustes .",
+        "words": [
+          "odeur",
+          "particulière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/93d5bf52-fc1d-5de7-9cc2-d437befc4cb5",
+        "value": "Le nez est comme épaté , élargi .Les narines sont obstruées .La lèvre supérieure est gonflée , immobilisée , convertie en une sorte de tumeur rigide .",
+        "words": [
+          "narines",
+          "obstruées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/954f02ab-2c9f-58c9-8bce-78c87d681d33",
+        "value": "Il peut y être superficiel et ne présenter que quelques fines squames , ou bien il y est plus marqué et se recouvre d ' amas épidermiques stratifiés qui forment des bosselures tout à fait caractéristiques .Les éléments psoriasiques du cuir chevelu se distinguent de l ' eczéma et des autres dermatoses de cette région par leur circonscription , par l ' épaisseur et la limitation de leurs ' squames , par l ' aspect des cheveux qui sont secs , qui traversent perpendiculairement les squames , et qui ne tombent pas .Face .",
+        "words": [
+          "éléments",
+          "psoriasiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/963c15d0-e2fb-5ab4-acff-1aa8fec5269a",
+        "value": "A l ' état adulte cette lésion constitue une petite tumeur hémisphérique de un à deux centimètres de diamètre qui , lorsqu ' elle n ' est pas macérée grâce à son siège dans les plis cutanés , se recouvre d ' une croûte épaisse et adhérente au - dessous de laquelle se trouve une ulcération hérissée de végétations jaunâtres ou rosées qui saignent facilement .Quand elles sont mises à nu , elles sécrètent un liquide fétide qui se concrète à leur surface pour former la croûte dont nous venons de parler ; cette croûte est d ' abord jaunâtre , puis elle prend une teinte de plus en plus foncée .Certains éléments atteignent des dimensions considérables , jusqu ' à 5 ou 6 centimètres de diamètre : les indigènes leur donnent le nom de mère ou grand ' mère pian ou mama - pian , tandis qu ' ils appellent les plus petites filles - pian .",
+        "words": [
+          "fétide",
+          "elles",
+          "liquide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/98654e58-5f27-5556-8ab4-b95c389b4559",
+        "value": "La variété érythémateuse pure ( voir plus haut ) est fort intéressante , elle est très superficielle , caractérisée par de simples rougeurs congestives à bord circinés assez nets , le plus souvent symétriques : il y a peu ou point de desquamation .— Le lupus érythémateux fixe comprend de nombreusesvariétés .Comme types de cette dermatose , nous décrirons les aspects suivants : Sur une pommette se montrent un ou plusieurs foyers voisins caractérisés par une rougeur vive , par un quadrillage d ' un rouge intenseponctué de points blancs ; le centre est plus ou moins déprimé suivant l ' âge et l ' extension de la plaque ; il a des tendances à la cicatrice et à 472 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUES l ' atrophie dermique .",
+        "words": [
+          "lupus",
+          "érythémateux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/989d1047-0002-5832-9bc1-e59a15dc901b",
+        "value": "ACCIDENTS CUTANÉS .— On peut les classer en 3 grandes variétés : a ) Le pemphigus syphilitique : b ) La syphilide érylhémato - papuleuse polymorphe ; c ) La syphilide acnéijorme .a ) Pemphigus syphilitique .",
+        "words": [
+          "syphilide",
+          "pemphigus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/a1342432-4db5-57bf-b871-06774e054cba",
+        "value": "Elle siège au cuir chevelu , au visage , au front , aux ailes du nez , au sillon moutonnier .Aux commissures des lèvres , aux aisselles , aux aines , au pli interfessier , au pourtour de i ' anus , vers les plis des organes génitaux , au scrotum , au - dessous de la verge , au nombril , chez les sujets qui ne prennent pas de soins minutieux de propreté , l ' éruption papuîeuse syphilitique se produit avec intensité : ce sontdcs saillies papuleuses géantes : elles peuvent être isolées , arrondies ou ovalaires , srélevant de 2 à 4 millimètres au - dessus du niveau des tissus sains , suintantes , présentant à leur surface des semis blanchâtres et roses en mosaïque : elles peuvent confluer de façon à former clos nappes plus ou moins étendues et irrégulières de contour : elles peuvent arriver à constituer d ' énormes saillies végétantes , sanieuses d ' aspect , suintantes , à surface irrégulière , granuleuse , criblée de points jaunâtres et rougeâtres , dégageant une odeur d ' une horrible fétidité surtout quand elles siègent entre les orteils .Ce sont les plaques muqueuses végétantes , hypertrophiques des auteurs .",
+        "words": [
+          "odeur",
+          "horrible",
+          "semis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/a2c3b323-7855-5d84-b3bc-d27b0b0055ae",
+        "value": "Ces deux ordres de faits nous paraissent assez voisins l ' un de l ' autre au point de vue pathogénique et même symptomatique .Néanmoins , on peut et l ' on doit décrire une urticaire huileuse vraie distincte des éruptions que nous étudions .Elle est caractérisée par ce fait majeur que tout soulèvement bulleux de l ' épiderme se forme sur un élément urticarien préexistant ; de plus , il est d ' ordinaire possible de provoquer de l ' urticaire factice chez les sujets qui en sont atteints .",
+        "words": "urticaire"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/a6245343-d8e2-51cc-b162-9c466f97c26b",
+        "value": "Le malade exhale presque toujours une odeur fétide .Le derme peut proliférer et prendre un aspect papillomateux plus ou moins prononcé .b ) Les bulles flaccides ne sont reconnaissables que pendant un laps de temps assez court : elles se produisent avec une grande abondance , envahissent tout le corps , et rapidement la dermatose prend l ' aspect d ' une érythrodermie exfoliante généralisée : cependant les squames n ' atteignent pas dans la majorité des cas les énormes dimensions qu ' elles peuvent avoir dans les dermatites exfoliatives généralisées vraies .",
+        "words": [
+          "derme",
+          "papillomateux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/ac2322d8-dbc7-53af-914e-dff5e5c63b6e",
+        "value": "Terminaisons , pronostic — Le pronostic de l ' impétigo vulgaire est d ' ordinaire bénin .On enveloppe tout le membre avec de la tarlatane aseptique sans apprêt pliée en 10 ou 15 épaisseurs , imbibée d ' eau bouillie légèrement boriquée , très fortement exprimée ; on met par - dessus de l ' ouate hydrophile , du taffetas chiffon , et on maintient le tout avec une bande crépon Velpeau faisant compression .Cette dernière indication est capitale pour les impétigos ulcéreux des membres inférieurs .",
+        "words": [
+          "aseptique",
+          "tarlatane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/b04a15aa-c427-58de-8c21-099e36f120fa",
+        "value": "Raynaud ) : elles sont séparées par des sillons postéro - antérieurs , et surtout par le sillon médian qui offre l ' aspect d ' une profonde rainure .Quand on écarte les unes des autres les papilles filiformes hypertrophiées , on voit presque toujours qu ' elles sont surtout colorées à leur 372 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE partie libre terminale , leur teinte est beaucoup moins foncée vers leur base d ' implantation : souvent même elles y sont à peine un peu jaunâtres .Il existe des faits où la coloration noire fait totalement défaut : les gaines épithéliales hypertrophiées sont d ' un blanc mat : cette langue pileuse blanche nous paraît devoir être étudiée plus à fond qu ' elle ne l ' a été jusqu ' ici .",
+        "words": [
+          "papilles filiformes",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/b2c02877-a7fe-5f57-8a10-cd9231c3ba78",
+        "value": "L ' odeur désagréable du polysulfure se dissipe assez vite .On peut combiner les lotions sulfureuses avec les traitements suivants , en particulier avec les pommades soufrées .Dans les cas très légers , ou lorsque le malade est fort amélioré , on ne fait les lotions que tous les deux ou trois jours , ou même qu ' une seule fois par semaine .",
+        "words": [
+          "lotions",
+          "pommades soufrées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/b5e323bc-4642-5068-809b-2ceea057259a",
+        "value": "Le malade est parfois amaigri , débilité par l ' intensité des douleurs , par l ' insomnie , par l ' abondance de l ' éruption ; il est assez souvent obligé de garder le lit , soit parce qu ' il se sent réellement faible , soit parce que les bulles et les pustules excoriées ne lui permettent pas de s ' habiller et de marcher .La diarrhée est un des symptômes alarmants les plus fréquents ; elle se DERMATITES POLYMORPHES CHRONIQUES A POUSSÉES SUCCESSIVES 763 montre surtout au moment des grandes poussées éruptives : on s ' est demandé si elle ne tenait pas à des manifestations directes de la maladie du côté de la muqueuse gastro - intestinale .Dans les cas sérieux , on observe un léger mouvement fébrile qui s ' exaspère le soir et qui peut atteindre sous l ' aisselle de 38 à 39 degrés .",
+        "words": "DERMATITES"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/b9f1dea5-9c6d-5a4c-a01a-55f909c1b557",
+        "value": "On augmente la consistance du mélange avec de l ' oxyde de zinc ou de la .craie , et on parfume soit avec de l ' essence de roses , soit avec de l ' essence de bergamote , soit avec du baume du Pérou .En voici un exemple : Naphtol3 i gramme Soufre précipité de 2 à 5 » Oxyde de zinc 5 » Lanoline ■ 5 » • - Huile d ' amandes douces T » Extrait de violettes Q .",
+        "words": [
+          "roses",
+          "baume",
+          "parfume",
+          "craie",
+          "essence de bergamote"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/bdd77296-9281-5c41-9f9a-7b9a47309b3e",
+        "value": "Les avantages de l ' huile de cade sont : 1 ° la facilité avec laquelle les malades tolèrent le traitement , bien que l ' on soit parfois obligé de l ' interrompre pendant quelques jours et d ' employer les émollients par suite de l ' apparition de l ' acné cadique ; 2 ° la sûreté de son action ; 3 ° la possibilité de l ' employer sur les régions pileuses , aussi bien que sur le reste des téguments .Ses inconvénients principaux sont sa couleur foncée et son odeur pénétrante .2 ° Traitement par le goudron de bois .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/bf81345a-a845-5f76-bc06-5678a89a8ac5",
+        "value": "Chez les enfants il suffit souvent de laver le visage avec de l ' eau salée pour voir tout disparaître .Comme pommade on prescrira d ' abord une simple pommade à l ' oxyde de zinc au dixième , additionnée ou non d ' un peu de teinture de benjoin , de borate de soude , ou d ' acide salicylique ; par exemple : Borate de soude 55 centigrammes Teinture de benjoin XV gouttes Oxyde de zino 2 grammes Cérat sans eau frais ou cold - cream frais sans odeur 18 » M .s .",
+        "words": [
+          "odeur",
+          "benjoin",
+          "acide",
+          "Teinture",
+          "oxyde de",
+          "cream",
+          "Oxyde",
+          "Borate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/c04a0ae2-6f8b-59ea-9700-ae6000fec411",
+        "value": "foliacé , mais il est fort variable comme intensité .Il donne naissance par son mélange avec le ? 6quames à une sorte de magma jaunâtre , mollasse , presque toujours horriblement fétide ..",
+        "words": [
+          "fétide",
+          "magma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/c42cfd00-95cc-51e1-acea-95ace6f59ad8",
+        "value": "Enfin , après un laps de temps plus ou moins long , presque toujours lorsque la température s ' élève , les ulcères se cicatrisent , et le gonflement périphérique disparaît : les engelures non ulcérées s ' affaissent également en laissant ou non après elles une légère desquamation , et tout rentre dans l ' ordre jusqu ' à l ' hiver suivant .196 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE 1 ° Lotions .— Quand les engelures ne sont point ulcérées , après avoir lavé les mains , ou sans les avoir lavées , on frictionne légèrement les parties malades avec une des préparations suivantes : Alcool camphré : puis on poudre avec : amidon 90 grammes , salicylate de bismuth 10 grammes ; Mélange de Liebreich : alun et borax , âà 5 grammes , eau de roses , 300 grammes .",
+        "words": [
+          "Lotions",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/c7453d59-1267-5f5f-a39a-ffd7fad85434",
+        "value": "L ' éruption du pian est surtout fréquente au pourtour des orifices naturels et aux organes génitaux .Partout où l ' épidémie est macéré par les sécrétions cutanées comme dans les plis , ces lésions ont un aspect qui rappelle celui des syphilides papulo - hypertrophiques êrosives ( plaques muqueuses ) : elles ont souvent une apparence diphtéroïde .Elles comblent parfois le vestibule des narines , hérissent les commissures , toute la vulve , le pli génito - crural , le pli interfessier , le pourtour de l ' anus , les parties latérales du scrotum , la face interne et l ' orifice du prépuce , etc .",
+        "words": [
+          "lésions",
+          "diphtéroïde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/ca53ed08-7592-5e1d-91fc-2f284255054d",
+        "value": "c ) Le périonyxis ulcéreux constitue un degré de plus dans l ' intensité de l ' évolution .Il se produit alors une ulcération latérale , parfois en demi - cercle , à bords découpés , taillés à pic , à fond sanieux , grisâtre , fongueux , d ' où suinte un liquide fétide .La dernière phalange se tuméfie , rougit , et est le siège d ' une inflammation relativement intense .",
+        "words": [
+          "fétide",
+          "liquide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d140d6a2-22a0-58a2-96d1-9b77e75cf07a",
+        "value": "Quand les téguments sains semblent s ' irriter sous l ' action des pansements , on protège les zones de peau saine périphérique avec une couche épaisse de pâte à l ' oxyde de zinc .Quand les lésions ont des tendances à la gangrène , on emploie des lotions dites toniques et astringentes telles que le vin aromatique , l ' alcool camphré , la solution de chlorure de chaux au 1 / 50 et même au 1 / i0 , et 534 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE l ' on panse avec une pommade à l ' argent colloïdal au 15e , ou avec de l ' onguent Styrax pur ou mélangé à de Paristol ou à de l ' iodoforme .Dans l ' impétigo - ecthyma ulcéreux des enfants , ce qui nous a paru le mieux réussir ce sont les lotions astringentes d ' eau de feuilles de noyer légèrement chloralées , les lotions à l ' eau oxygénée , les badigeons avec des solutions faibles de nitrate d ' argent au 1 / 50 ou au 1 / 10 avec le Baume du Pérou , la teinture d ' aloès , la solution de Bleu de méthylène au 50e , et les pansements avec des poudres sèches , poudre de chêne , de café , de quinquina ou de ratanhia , de sous - carbonate de fer ; l ' iodoforme est de tous les antiseptiques celui qui paraît être le plus utile , mais il ne faut l ' employer qu ' avec circonspection car il est souvent irritant .",
+        "words": [
+          "aromatique",
+          "vin",
+          "lotions",
+          "alcool camphré",
+          "chlorure de chaux",
+          "onguent Styrax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d3704d57-2ee0-56ca-b881-ad5bdc7869ef",
+        "value": "» ( Sabouraud .) Les régions séborrhéiques dégagent chez certaines personnes une odeur butyrique spéciale , sui generis .Elles peuvent être dans certains cas , surtout au nez , le siège de démangeaisons modérées , intermittentes , qui ne deviennent pénibles que fort rarement et chez des névropathes .",
+        "words": [
+          "odeur",
+          "régions",
+          "butyrique spéciale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d37195db-206b-5ce9-85e1-f94766c04218",
+        "value": "— L ' urticaire semble être favorisée par certaines affections générales ou locales , telles que les maladies du tube digestif , les dyspepsies , les gastrites chroniques , la dilatation stomacale , les maladies du foie , les kystes hydatiques ( pénétration du liquide kystique dans la cavité abdominale ) , les vers intestinaux , les maladies des reins , les maladies des organes génito - urinaires , les fièvres intermittentes , la variole , la rougeole , la scarlatine au début , les maladies du système nerveux et en particulier celles de la moelle épinière , l ' hystérie , le nervosisme , les émotions violentes , le choc opératoire , les accidents , le surmenage , etc .L ' urticaire accompagne assez souvent chez certains sujets d ' autres dermatoses , et en particulier le prurigo de Hébra , les dermatites polymorphes douloureuses , les eczémas papulo - vésiculeux , les névrodermites , etc .En somme les sujets dont la peau réagit dans le sens de ces dermatoses ont de la tendance à réagir aussi dans le sens urticaire .",
+        "words": [
+          "urticaire",
+          "dermatites",
+          "douloureuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d439a9bb-b0f9-5ee3-8d2b-ddaa786481f7",
+        "value": "On a proposé les pommades au rouge écarlate , la lumière rouge .De tous les topiques essayés jusqu ' ici , il nous a semblé que le plus efficace était le sérum polyvalent de Vallée que l ' on applique directement sur les plaies en en imbibant des morceaux de gaze aseptique .L ' air chaud , les effluves de haute fréquence , la fulguration , ont semblé donner des résultats .",
+        "words": [
+          "aseptique",
+          "gaze"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d52b1b55-3502-5769-a6d4-8a0b3d8e4c8f",
+        "value": "En soulevant ; les squames , on voit parfois de petits godets miliaires , ou pour mieux dire une sorte de gaine dorée autour d ' un poil .Enfin la tête exhale l ' odeur spéciale que nous avons indiquée plus haut .b ) Favus impéUginiforme .",
+        "words": [
+          "odeur",
+          "tête",
+          "nous",
+          "spéciale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d727be79-6444-55a1-8083-69c6190f1c6e",
+        "value": "L ' acétate de plomb liquide étendu d ' eau ; Y alun et le borax en lotions et en poudres ; Yécorce de chêne et toutes les substances tanniques en lotions et en poudres .Dans les cas légers , on peut se contenter de se savonner matin et soir avec de l ' eau de feuilles de noyer et du savon de toilette contenant une substance active : nous recommandons les savons à l ' acide salicylique .au borate de soude , à l ' acide phénique , au soufre , au goudron ' ; puis on Doudre avec du talc additionné d ' une cinquantième d ' acide borique .",
+        "words": [
+          "savon",
+          "matin et soir",
+          "savonner",
+          "eau de feuilles de noyer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/d7f8d65a-8921-50fe-856c-e5ab67f4f356",
+        "value": "le professeur d ' Arsonval , mais c ' est le Dr Oudin qui les a employés le premier dans les affections cutanées .Il convient de distinguer les effluves de haute fréquence qui ne provoquent pas de douleur réelle , > et qui ont souvent une action sédative 108 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE marquée , et les étincelles qui , suivant leur intensité , peuvent être fort douloureuses et provoquer de véritables destructions des tissus .Sous le nom de Fulguration Keating Heart et Rivière ont préconisé l ' emploi de fortes étincelles de haute fréquence dans le traitement des cancers après ablation chirurgicale ou raclage complet .",
+        "words": [
+          "effluves",
+          "DERMATOLOGIQUE",
+          "destructions des tissus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/dd4447ab-8195-59f0-a27a-338c9fd6bf33",
+        "value": "La partie à traiter se trouvera en pleine lumière et solidement maintenue en place , soit par l ' opérateur lui - même , soit par un de ses aides ., puis on recouvre avec du taffetas médicamenteux .indications de i - i ca ^ té isatiou igaé .",
+        "words": [
+          "taffetas",
+          "médicamenteux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/dd4f49d3-4a6f-5a69-817c-db5a12019bc6",
+        "value": "D ' après l ' aspect des nattes , on a décrit des formes diverses .La plique est sèche et le cuir chevelu est alors recouvert de croûtes ou de squames , ou humide et dans ce cas le cuir chevelu est huileux ou suintant et exhale une odeur nauséabonde .Traitement .",
+        "words": [
+          "cuir",
+          "odeur",
+          "nauséabonde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/df5f4bcb-8183-5695-87db-5c15871dfaeb",
+        "value": "On devra dans ce cas examiner avec le plus grand soin le pus quand il y a ulcération : s ' il n ' y en a pas , il faut pratiquer une biopsie ou ponctionner les parties fluctuantes .Les liquides qui s ' écoulent des ulcères actinomycosiques ont souvent une odeur fétide , nauséabonde , quelquefois très spéciale , odeur sui generis , odeur actinomycosique .Traitement .",
+        "words": [
+          "fétide",
+          "sui generis",
+          "odeur",
+          "nauséabonde",
+          "liquides",
+          "très spéciale",
+          "actinomycosique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/df8f184d-9e05-58b6-bf7d-d66e1500b9eb",
+        "value": "Quand les lésions ont des tendances à la gangrène , on emploie des lotions dites toniques et astringentes telles que le vin aromatique , l ' alcool camphré , la solution de chlorure de chaux au 1 / 50 et même au 1 / i0 , et 534 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE l ' on panse avec une pommade à l ' argent colloïdal au 15e , ou avec de l ' onguent Styrax pur ou mélangé à de Paristol ou à de l ' iodoforme .Dans l ' impétigo - ecthyma ulcéreux des enfants , ce qui nous a paru le mieux réussir ce sont les lotions astringentes d ' eau de feuilles de noyer légèrement chloralées , les lotions à l ' eau oxygénée , les badigeons avec des solutions faibles de nitrate d ' argent au 1 / 50 ou au 1 / 10 avec le Baume du Pérou , la teinture d ' aloès , la solution de Bleu de méthylène au 50e , et les pansements avec des poudres sèches , poudre de chêne , de café , de quinquina ou de ratanhia , de sous - carbonate de fer ; l ' iodoforme est de tous les antiseptiques celui qui paraît être le plus utile , mais il ne faut l ' employer qu ' avec circonspection car il est souvent irritant .Parfois les applications d ' air chaud donnent d ' excellents résultats .",
+        "words": [
+          "lotions",
+          "ulcéreux",
+          "eau de feuilles de noyer",
+          "Bleu de méthylène"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/e2f9a8af-e98f-5ec0-8f04-f1f0f9793851",
+        "value": "On doit à l ' heure actuelle Rechercher toujours cet élément chez le malade : quand le système nerveux est fortement atteint chez lui , il faut lui conseiller le calme , le repos au bon air , le changement de milieu , l ' isolement , c ' est - à - dire l ' extériorisation de toutes les conditions d ' existence et de vie commune qui tont peu à peu développé l ' état morbide .Quand ce n ' est pas possible , on Mche de lui faire faire de l ' exercice corporel régulier , progressif , surtout au dehors , à la rigueur en chambre ; on lui prescrit de l ' hydrothérapie sédative , des bains de lumière , des bains statiques secs sans effluves ni étincelles ; on lui donne do la valériane .Les théories que nous avons émises à propos de la nature intime de iCes dermatoses ( ' ■ ) , expliquent ces faits en apparence paradoxaux dans lesquels on voit des urticaires , des prurits rebelles à toute médication locale et générale , disparaître en quelques jours quand le sujet est trans ■ porté au grand air dans de hautes altitudes , en dehors de tout souci , de ■ tout surmenage , de toute préoccupation .",
+        "words": [
+          "valériane",
+          "hydrothérapie",
+          "sédative"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/e550b509-ed99-52bb-9cc0-b52cae888d73",
+        "value": "Les foyers sont nonubreux , mais il n ' y a pas en réalité de tendance naturelle de l ' affection a l ' évolution symétrique .Elle a été décrite par Devergie sous le nom d ' herpès crétacé , par Chausit sous celui d ' acné atrophique : c ' est le lupus érythématoacnéique , ou lupus erythematosus oliscoïdes des auteurs moedernes .LUPUS ÉRYTHÉMATEUX 475 g ) La pseudo - pelade ( voir ce mot pour la discussion des faits de passage qui existent entre cette forme morbide et le lupus érythémateux du cuir chevelu ) .",
+        "words": [
+          "herpès",
+          "oliscoïdes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/e596f1db-33a1-55db-b2d7-08d04ea2f609",
+        "value": "On doit instituer une médication interne et une hygiène appropriées à l ' état général des sujets , qui sont presque toujours des autointoxiqués nerveux , avec parfois une teinte de lymphatisme .On prescrira de nettoyer les lèvres avec du cold - cream frais sans odeur , puis avec de l ' eau de guimauve ou de sureau : on y tiendra constamment appliquée une pommade au beurre de cacao et à l ' huile d ' amande douce , ou à l ' axonge , ou au cérat frais , renfermant 1 / 100 d ' acide salicylique ou de résorcine , ou 1 / 10 d ' ichtyol ou de goudron .Ces soins suffisent souvent à maintenir les lèvres en bon état apparent , mais il faut les continuer sans trêve sous peine de voir les lésions se reproduire immédiatement .",
+        "words": [
+          "odeur",
+          "acide",
+          "eau",
+          "goudron",
+          "lèvres",
+          "ichtyol",
+          "cold - cream"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/e7191383-f9fd-5bb9-9c97-eb9afdb95f95",
+        "value": "Pour obvier à cet inconvénient , on emploie quelquefois l ' axonge benzoïnée qui se conserve beaucoup plus longtemps .Mais cette préparation , de même que l ' axonge salicylée , est plus irritante pour les téguments que l ' axonge pure et fraîche .Parmi les autres graisses employées , citons : la graisse d ' oie ( excellente ) ; la graisse de rognons de veau ; la moelle de boeuf que l ' on utilise surtout pour le cuir chevelu ; le blanc de baleine ou spermacéti qui sert à fabriquer les cold - creams ; les graisses de laine du mouton qui jouent depuis quelques années un grand rôle en thérapeutique cutanée : ce sont : l ' oesypus ou graisse de laine brute , extrêmement adhérent , formant un très bon excipient pour les pommades quand on le combine avec une huile , mais ayant une odeur désagréable ; — la lanoline , qui est une graisse de laine purifiée ; quand elle est parfaitement pure elle n ' a pas d ' odeur ; elle est un peu jaunâtre , visqueuse ; — l ' adeps lance .",
+        "words": [
+          "irritante",
+          "téguments",
+          "axonge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/e900d578-2395-5366-aaf0-62dde6490e56",
+        "value": "Les régions voisines des joues et du front présentent parfois des lésions analogues , quoique d ' ordinaire bien moins accentuées .590 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE La peau a une consistance mollasse .Il est possible par la pressîion de faire sourdre de nombreux et volumineux filaments vermicides de miatière ■ grasse , et parfois du pus tenant à ce que certaines glandes sont infectées et - enflammées .",
+        "words": [
+          "peau",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/e9ef53f0-05b5-53bd-829a-3d29d98618a7",
+        "value": "11 y a des peaux qui ne supportent pas les savons : elles se gercent , et il s ' y développe des éruptions à type d ' eczéma lorsqu ' on les savonne d ' une manière habituelle .On peut remédier à cet inconvénient soit en les enduisant de cold - cream frais sans odeur , ou de glycérolé d ' amidon à la glycérine neutre pure , ou d ' un mélange à parties égales d ' huile d ' amande douce et de lanoline pendant toute la huit , et après chaque savonnage ; soit en employant en guise de savon la mie de pain , la pâte d ' amandes , la glycérine , le cold - cream frais qui nettoie admirablement , et que beaucoup de femmes à peau délicate emploient exclusivement pour le visage .Les soins de toilette varient totalement suivant qu ' il s ' agit de peaux graisseuses , séborrhéiques ou de peaux sèches xérodermiques .",
+        "words": [
+          "odeur",
+          "cream",
+          "glycérolé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/eac470fc-53db-5f70-a115-a6a9b3215254",
+        "value": "Sous le nom de Fulguration Keating Heart et Rivière ont préconisé l ' emploi de fortes étincelles de haute fréquence dans le traitement des cancers après ablation chirurgicale ou raclage complet .Nous nous servons beaucoup des effluves de haute fréquence dans le traitement des prurits purs et des prurits avec lichénification .Nous employons les effluves et les étincelles dans le lupus érythémateux .",
+        "words": [
+          "Nous",
+          "effluves",
+          "prurits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/ec79a99d-1057-5c67-9ceb-3d524489f4eb",
+        "value": "Variété éryihémato - urticarienne circinée vésiculeuse ou non vésiculeuse .— Nous avons vu l ' affection garder pendant toute sa durée , pendant des années , DERMATITES POLYMORPHES CHRONIQUES A POUSSÉES SUCCESSIVES 761 le seul et unique caractère objectif de cercles ou d ' anneaux érythémateux plus ou moins urticariens ou saillants formant les dessins les plus capricieux , avec ou sans production de vésicules à leur surface .Cette variété est digne du nom de - dermatite herpétiforme pure , sens herpès circiné trichophytique .",
+        "words": [
+          "pendant toute",
+          "pendant des années",
+          "DERMATITES"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/ecd60421-0160-5fc2-8793-7576bd3cfe75",
+        "value": "\\ ~ c ) Parakératose grasse du type eczéma séborrhéique ou parakératose .psoriasif or me eczématisée .— Disparition du stratum granulosum ; ■ couche cornée formée de cellules globuleuses , réfringentes , souvent nu ■ cléées , de consistance grasse , mais prenant mal l ' acide osmique qui les V ' colore en brun et non en noir .",
+        "words": [
+          "eczématisée",
+          "psoriasif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/eddb62e7-6be3-5b91-a799-739873e0911d",
+        "value": "Autour de chaque pustule d ' acné , il se forme graduellement du tissu chéloïdien très épais , dm ' , constituant des nodosités plus ou moins irrégulières de forme , plus ou moins saillantes et étendues , rosées ou d ' un rouge vif : quand elles sont volumineuses on voit à leur surface comme sur les chéloïdes ordinaires de grosses arborisations vasculaires qui tranchent sur le tissu fibreux un peu blanchâtre et irrégulier .Sur leurs bords se trouvent souvent des sortes de pustules acnéiques ou pour mieux dire des folliculites suppurées traversées par des poils .Si ces moyens ne réussissent pas , on a recours aux cautérisations d ( chaque pustule avec l ' aiguille électrolytique ou avec la pointe fine de l ' électrocautère ou du thermocautère .",
+        "words": [
+          "acnéiques",
+          "folliculites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f0184f7b-44aa-53f3-80fe-72eb37e04ef6",
+        "value": "Érythrocîermies exfoliantes généralisées secondaires ou herpétides exfoliatives .( Dermatites malignes chroniques exfoliantes d ' ~ fi .— Au cuir chevelu , aux sourcils , à la barbe , les squames sont fines , furfuracées , abondantes , adhérentes : elles forment parfois des amas épais d ' un blanc jaunâtre .",
+        "words": [
+          "malignes chroniques exfoliantes",
+          "Dermatites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f12dd142-a0e1-515d-bfae-482b384e096e",
+        "value": "Un bel exemple d ' éphidrose réflexe est l ' hyperidrose axillaire qui survient chez la plupart de ceux qui se déshabillent en public ( Aubert ) .En dehors de cette circonstance purement accidentelle , l ' éphidrose axillaire constitue une véritable infirmité : les femmes sont souvent obligées de garnir de caoutchouc leurs vêtements à ce niveau , et l ' odeur qu ' elles exhalent , surtout lorsqu ' elles sont rousses , est bien connue .Il en est de même pour les organes génitaux et les plis inguinaux où cette sécrétion exagérée peut déterminer de l ' intertrigo , entretenir des éruptions eczémateuses , etc .",
+        "words": [
+          "odeur",
+          "elles",
+          "femmes",
+          "bien connue",
+          "vêtements",
+          "exhalent",
+          "éphidrose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f300ebe5-953d-5cd1-9caf-4ec61efe6489",
+        "value": "Mais à toutes ces causes déterminantes il convient d ' en ajouter deux autres dont l ' importance est véritablement capitale : 1 ° Le surmenage sous toutes ses formes ; 2 ° Les chocs subis par le système nerveux , émotions , chagrins de toute nature .Tout sujet orienté dans le sens furoncle ou anthrax comme réaction mor - 560 PRÉCIS - ATLAS DE PRATIQUE - DERMATOLOGIQUE bide , verra ces lésions se développer dans les deux ou trois jours qtui suivront une violente secousse nerveuse ( * ) .Diagnostic .",
+        "words": [
+          "anthrax",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f61921e4-c680-5f7c-8f03-1ac1a7cabd1d",
+        "value": "3 ° Quand on a terminé les applications de cette pommade , on revêt un complet de tricot ou de flanelle qui s ' imprègne d ' huile de cade aux points correspondant aux plaques psoriasiques , et que l ' on ne fait pas laver pendant toute la durée du traitement de telle sorte qu ' on est pour ainsi dire dans un bain continuel du médicament .4 ° Si l ' on est obligé de vaquer à des occupations sérieuses pendant le jour , on ne fait les applications précédentes que pendant la nuit : le matin on se savonne avec de l ' eau chaude et un savon parfumé , et on s ' enduit pour le jour de vaseline salicylée ou d ' un peu de procuta .5 ° Quelques personnes se trouvent mieux de l ' huile de cade pure ou du cérat cadique .",
+        "words": [
+          "parfumé",
+          "savon",
+          "le matin",
+          "pendant la nuit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f67456c1-28c6-57da-85f3-8760881bcceb",
+        "value": "Continuer ainsi jusqu ' à ce que la verrue ait disparu ; mais dès qu ' on s ' aperçoit que le derme est trop enflammé , ou ulcéré , suspendre le traitement , panser jusqu ' à cicatrisation avec de l ' emplâtre à l ' oxyde de zinc pur , puis recommencer dès que la cicatrisation s ' est faite , s ' il y a encore vestige de verrue .630 PRÉCIS - ATLAS DE PRATIQUE DERMATOLOGIQUE Il est de notion vulgaire que le suc de quelques plantes , telles que certaines euphorbes , la grande chélidoine , le figuier sauvage , etc ., appliqué pendant un certain temps sur les verrues , les flétrit et les fait disparaître .",
+        "words": [
+          "euphorbes",
+          "quelques plantes",
+          "grande chélidoine",
+          "figuier sauvage",
+          "DERMATOLOGIQUE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f8c62169-8c3a-5517-9f99-0ee076247801",
+        "value": ".100 * Carbonate de soude 50 » Parfum ad libitum M s .a .",
+        "words": [
+          "Parfum",
+          "Carbonate de soude"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f90d548a-d0c0-5728-a978-4ed8eef5f9ec",
+        "value": "Mais surtout elle peut s ' étendre à la bouche , sur le bord des gencives , en particulier vers la dernière grosse molaire inférieure , plus rarement sur les lèvres et les bords de la langue .Elle y forme des ulcérations arrondies ou ovalaires , à bords d ' un rouge violacé , irréguliers , déchiquetés et taillés à pic : leur fond anfractueux est recouvert d ' une fausse membrane peu adhérente qui se transforme rapidement en une matière pultacée , grisâtre , d ' odeur fétide { Stomatite ulcéro - membraneuse ) .Le traitement consiste en lavages fréquents et en gargarismes au borate de soude , etc .",
+        "words": [
+          "fétide",
+          "odeur",
+          "leur",
+          "matière",
+          "ulcérations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/f9f9236f-91e4-533c-9920-494c15b76551",
+        "value": "On commence par peigner le malade , puis on trace des raies avec le démêloir en rejetant les cheveux à droite et à gauche , et c ' est sur le cuir chevelu ainsi mis à nu qu ' on fait une friction légère en ayant soin de ne pas tirailler les cheveux , et en évitant le plus possible de les mouiller .Quand tous les points atteints ont été ainsi traités , on sèche la tête avec une serviette chaude , et l ' on met un peu ( le moins possible ) , d ' huile d ' olive , , d ' huile d ' amande douce parfumée ou d ' huile antique sur l ' extrémité libre des cheveux pour éAdter de les trop sécher ; sans cette précaution , il pourrait s ' y développer de la trichoptilose ou de la trichorrexis nodosa .L ' odeur désagréable du polysulfure se dissipe assez vite .",
+        "words": [
+          "parfumée",
+          "trichoptilose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/fb69bade-de76-5b20-aa5d-4a4f7ee26060",
+        "value": "On peut prescrire des lotions à l ' eau boriquée , des cataplasmes de fécule de pomme de terre s ' il y a une réaction inflammatoire un peu vive , sinon on applique une pommade à l ' oxyde de zinc ou à l ' ichtyol et un peu de poudre d ' amidon .HERPÈS RÉCIDIVANTS 889 L ' herpès génital discret réclame des pansements biquotidiens qui comprennent : 1 ° une lotion soit avec de l ' eau blanche coupée d ' eau , soit avec du sulfate de zinc au 1 / 250 , de l ' eau de Labarraque , du vin aromatique très étendu , de l ' eau de feuilles de noyer légèrement boriquée ou phéniquée .de la décoction de roses , etc .",
+        "words": [
+          "aromatique",
+          "vin",
+          "HERPÈS",
+          "eau de feuilles de noyer",
+          "RÉCIDIVANTS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/fe3a3bef-2375-53af-be37-7965101a8f82",
+        "value": "Certains sujets présentent parfois de la bromidrose généralisée et exhalent une odeur de bouc , d ' urine , etc .On sait qu ' il y a des maladies dans lesquelles les sueurs ont une odeur spéciale .Les bromidroses ombilicales , axillaires et plantaires sont très fréquentes ; la bromidrose axillaire s ' observe surtout chez les femmes rousses , la bromidrose plantaire chez tous les sujets des deux sexes , mais plus particulièrement chez les jeunes gens .",
+        "words": [
+          "odeur",
+          "spéciale",
+          "sueurs"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/30f67bc0-1440-5c60-928f-baefb8b279ad",
+        "label": "Louis  Brocq"
+      }
+    ],
+    "label": "Précis-Atlas de pratique dermatologique / par le docteur Louis Brocq,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5821052h",
+    "date": "1921",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f2285f2d-e682-502f-a634-7f034d85d5ff",
+      "label": "1921",
+      "begin": "1921",
+      "end": "1921"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/9f077aaa-4394-54b7-b087-6fdf1c10a57a/fragment/7b3937e8-4328-5137-b685-6e71b4d692dd",
+  "license": "Public domain",
+  "adjective": "fétide assez caractéristique"
+}

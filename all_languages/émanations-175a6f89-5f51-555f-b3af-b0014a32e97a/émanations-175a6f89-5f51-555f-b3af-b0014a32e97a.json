@@ -1,0 +1,99 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/175a6f89-5f51-555f-b3af-b0014a32e97a",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "émanations",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/016c9bd7-265d-5273-8718-8193031186f5",
+        "value": "seulement .En temps de crue , les rivières se transforment subitement , comme l ' Adour àBagnères , en une « masse noire , souillée , nauséabonde , écumant comme un cratère et roulant des blocs de plus d ' un mètre avec un fracas assourdissant » ( Fabre ) .La conformation du relief et le climat introduisent de sen - REGION PYRENEENNE 361 sibles différences entre les rivières pyrénéennes de l ' E et celle de l ' W ; la Garonne supérieure marque la transition .",
+        "words": [
+          "nauséabonde",
+          "rivières",
+          "àBagnères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/35d6ea9f-3f13-5be4-959c-5fa662d771cb",
+        "value": "partie est exportée en Chine sous forme de poisson séché .Avec les produits dé la pêche maritime , très active sur tout le littoral , les indigènes fabriquent notamment une liqueur jaune à odeur forte , le « nuoc - mâm » , sorte de saumure très appréciée en Indo - Chine .Le sel marin donne également lieu à une exploitation assez fructueuse .",
+        "words": [
+          "forte",
+          "odeur",
+          "liqueur jaune",
+          "le littoral",
+          "sorte de saumure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/a58e3d91-1cbf-53b0-9726-7f03954340ef",
+        "value": "La chute des Causses vers les plaines du Bas - Languedoc forme la Garrigue , sorte de Judée ou d ' Allique , pays si pauvre que plusieurs de ses localités accolent à leur nom le suffixe « le - Désert » ( SaintGuilhem - le - Désert ) .Ses calcaires brûlés par le soleil n ' ont en effet d ' autres ressources que les pâturages à moutons , les plantes odoriférantes butinées par les abeilles , les taillis de chênes dont l ' écorce est une des plus estimées pour la tannerie .C ' est une des régions les moins peuplées de la France : U > .",
+        "words": [
+          "plantes",
+          "odoriférantes",
+          "Ses calcaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/c4e33f57-54e3-5925-bb95-dce52477e604",
+        "value": "La Côte d ' Azur forme en outre une province climatique distincte , caractérisée par Y extrême douceur de ses hivers , due à la moindre fréquence des vents du N .: Sécheresse des étés , douceur des hivers déterminent l ' existence du type de végétation spécial au bassin méditerranéen : plantes à feuillage persistant , parce que la végétation ne s ' arrête pas en hiver , — tissus adaptés à la sécheresse , ( tiges ligneuses , feuilles coriaces , d ' un vert sombre , recouvertes d ' un enduit cireux , ou exhalant un parfum qui ralentit l ' évaporation ) .Les associations végétales spontanées les plus fréquentes sont la forêt de pins , de chênes verts , de chênesUèges , et surtout le maquis , formé d ' arbrisseaux touffus comme le lentisque , l ' arbousier et le ciste .",
+        "words": [
+          "parfum",
+          "tiges",
+          "bassin méditerranéen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/dd91c448-5595-578e-a06b-e94e1758d8d6",
+        "value": "- Pour assainir les plaines .basses , qu ' occupaient en partie dès - marécages pestilentiels ( Lac Alloula de la Mitidja , au S .d ' Alger ) ' , : ; on entreprit de grands travaux de défrichement , et Von \" importa - - / en 18 .",
+        "words": [
+          "pestilentiels",
+          "marécages",
+          "Lac Alloula de la Mitidja"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/e0f0f222-69c0-5c3f-876e-238e9047fa1f",
+        "value": "29 y06 COLONIES FRANÇAISES hiver assez froid permet d ' oublier les chaleurs de l ' été , peut très vite s ' y adapter .- Il n ' y aurait peut - être de réserves à formuler que pour certaines régions basses du Tell , fermées du côté de la mer par un rideau de montagnes qui arrêtent les brises , empêchent la ventilation , laissent s ' accumuler les brames malsaines et les émanations fiévreuses du sol .10 .",
+        "words": [
+          "malsaines",
+          "émanations",
+          "fiévreuses",
+          "brames",
+          "du Tell"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/dcdbc9c2-e49a-5690-9b37-50059f6f33b2",
+        "label": "Henri  Hauser"
+      }
+    ],
+    "label": "La France et ses colonies : classe de première / par MM. Henri Busson,... Joseph Fèvre,... Henri Hauser,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5781536j",
+    "date": "1910",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/08d78d7b-da9b-5eb6-adb7-ed731b7b0357",
+      "label": "1910",
+      "begin": "1910",
+      "end": "1910"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/274179/",
+      "label": "Tell Hidâb"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/54220279-74ac-5a65-8a49-851ccf9a2667/fragment/e0f0f222-69c0-5c3f-876e-238e9047fa1f",
+  "license": "Public domain",
+  "adjective": [
+    "malsaines",
+    "fiévreuses"
+  ]
+}

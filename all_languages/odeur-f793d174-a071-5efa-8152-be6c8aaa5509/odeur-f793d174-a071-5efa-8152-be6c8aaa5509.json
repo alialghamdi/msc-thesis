@@ -1,0 +1,412 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f793d174-a071-5efa-8152-be6c8aaa5509",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/20b02262-0c86-5849-8c08-d272a67bd50a",
+        "value": "Les femmes des autres races sont d ’ ailleurs admises dans ce harem .Les Arméniennes et les Grecques , que gêne l ’ odeur des fumeurs , y prennent place avec leurs ajustements parisiens , à côté des femmes d ’ effendis , de beys ou de pachas .Le bateau longe l ’ arsenal de Top - IIané et Dolma Bagtché - séraï .",
+        "words": [
+          "odeur",
+          "fumeurs",
+          "Grecques",
+          "Arméniennes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/22f17ad7-bb02-5bc9-9457-573ce12edc57",
+        "value": "On est grisé par les fumées de l ’ encens javanais que les docteurs arabes nomment benjoin .On est enivré par les arômes de la myrrhe et du cinname d ’ Arabie .L ’ Orient tout entier vous monte au nez en fumées de pastilles du sérail , pour vous verser ses ivresses compliquées .",
+        "words": [
+          "myrrhe",
+          "cinname",
+          "arômes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/4003976a-234f-55cc-858c-fc3868939ef0",
+        "value": ".Ces poudres jaunes et grises ont l ’ air mauvais .Ces bâtons de soufre font peur , ces fruits , gonflés par la sève trop forte des flores torrides , donnent une espèce d ’ inquiétude .",
+        "words": [
+          "mauvais",
+          "air",
+          "poudres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/43026b0a-50ae-5f4a-9cca-6660f89f383d",
+        "value": "Ces villas sont bâties , pour la plupart , de planches frêles .Mais qu ’ importe leur durée ? Ne sont - elles pas faites pour abriter au fond des alcôves , parmi le parfum troublant des roses musquées , sous les baldaquins des kios - 1 .Le mot « horde » n ’ a point , pour les Turcs , le sens défavorable que nous lui donnons dans le style noble .",
+        "words": [
+          "parfum",
+          "troublant",
+          "alcôves",
+          "roses musquées",
+          "baldaquins des kios"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/46b9d3aa-966c-59d3-be56-9d591ed3434a",
+        "value": "11 aperçut d ’ ailleurs sur son passage , des visages malveillants , des yeux faux qui se détournaient de lui en regards obliques , des têtes qui affectaient de ne point saluer sa venue .Aux stations de cette marche processionnelle , qui lui fut douloureuse comme la montée d ’ un calvaire , tandis que les stavro - pliores portaient devant lui des croix d ’ or , constellées de pierres précieuses , et que les sacellaires , sous les plis des bannières frissonnantes , faisaient llotter un nuage de fumée aromatique , au rythme des encensoirs d ’ argent , il entendit des paroles hostiles , injustes , durement haineuses .Tout de suite il sentit qu ’ il était impopulaire .",
+        "words": [
+          "aromatique",
+          "fumée aromatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/487c6653-5eff-549a-a5eb-e03f5e05cbc5",
+        "value": "Us savent déguster des sorbets à la rose et parler de miel ou de sucre avec les femmes .Et quelles femmes , si l ’ on en juge d ’ après le Livre des dames de la Perse ! Ces dames ont des noms colorés , parfumés , mystérieux comme les mousselines soyeuses et les taffetas satinés dont elles voilent leur beauté habituellement recluse .Elles s ’ appellent : Paradis - des - Yeux , Arc - en - ciel , Muscade - Pure , Petite - Fleur - de - Lys , Madame - la - Gazelle , Mademoiselle - Ia - Perdrix , et aussi Naziad , ce qui veut dire la Très - Coquette .",
+        "words": [
+          "parfumés",
+          "taffetas",
+          "Perse",
+          "mousselines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/4942f4ac-e3bd-52a8-b27f-51a4b2bb16a4",
+        "value": ".Le paradis de Recht , fertile en giroflées , s ’ imprègne , au printemps , de l ’ arome des orangers qui chargent d ’ un lourd effluve de parfums l ’ immobile et sereine félicité de quelques Persanes , belles entre les plus belles .On y savoure et l ’ on y respire le bonheur de vivre sans rien faire , sans presque remuer , tandis que les caravanes , vaguement poussées par un instinct de voyage dont elles sentent sans rien dire toute l ’ inutilité , s ’ avancent à pas lents , au rythme des mélopées que murmurent en sourdine les chameliers pensifs , sur les pistes poudreuses que rafraîchit le feuillage des érables et des platanes .",
+        "words": [
+          "lourd",
+          "orangers",
+          "giroflées",
+          "arome",
+          "au printemps",
+          "Persanes",
+          "paradis de Recht"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/51d4c12a-05af-53d7-b15d-c93ea11385cd",
+        "value": "Un nuage subtil d ’ émanations composites vous monte au nez .Toutes les odeurs de l ’ Asie - Mineure , de la Syrie et de la .Judée vous enveloppent et vous pénètrent .",
+        "words": [
+          "Syrie",
+          "Asie",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/51f0281f-97d4-559d-8acc-cec28952b6b4",
+        "value": "Khoum est un paradis inacces - sible , dont les extases mystiques sont réservées aux pèlerins maintenus en état de grâce par la loi de ce chamelier divin qui s ’ appelait Mahomet .Du fond des plus lointaines contrées de la Perse , de l ’ Armina , de l ’ Arabaya et de la Gaudara , à travers des sables ardents et des terres brûlées , parmi les petits cris stridents des cigales , le prestige miraculeux de Khoum attire des fidèles en longues processions , au tombeau de - cette sainte Fatmeh , dont le nom mystérieux exhale des effluves d ’ encens , d ’ ambre , de benjoin , de myrrhe et de cinname , odeur de sainteté ou parfum de sérail .Dans cette grande mosquée , il y a un petit cercueil de femme , précieux comme un coffret .",
+        "words": [
+          "parfum",
+          "odeur",
+          "myrrhe",
+          "encens",
+          "benjoin",
+          "exhale",
+          "sainteté",
+          "ambre",
+          "cinname",
+          "effluves",
+          "Perse",
+          "sérail",
+          "Arabaya",
+          "Armina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/5e34e6bd-48fc-5814-9034-c54a0217fc16",
+        "value": "Ce monument de pieux souvenir lui a été consacré par Antoine Santi - Lomaca son époux .» On ne retrouve pas , chez le poète de Y Hermès le mysticisme de cette bonne grand ’ mère dévote , qui mourut quasiment en odeur de sainteté .Elle eût craint , si elle avait vécu assez longtemps pour lire les Eglogues ou les Idylles , de deviner dans la vie et dans les livres du jeune ami des frères Trudaine et de Fanny un paganisme excessif .",
+        "words": [
+          "odeur",
+          "poète",
+          "Y"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/604b4037-30ed-5cc2-8724-64c6d6962e75",
+        "value": "Judée vous enveloppent et vous pénètrent .Le laboratoire du docteur Faust devait exhaler de ces relents étranges .Dans cette pharmacie infernale , sous lejour de souffrance des soupiraux , on craint de tomber raide , tué par quelque fumée satanique .",
+        "words": [
+          "exhaler",
+          "étranges",
+          "relents",
+          "docteur Faust"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/730422a2-73d0-522c-a23c-92ec31a2925a",
+        "value": "Je ne sais pas si Agnès de France fut aussi belle que Marie d ’ Antioche .Le vieux Nicétas , archevêque d ’ Athènes , qui a rédigé vingt et un livres d ’ histoire et un « Trésor d ’ Ortho - doxie » , affirme qu ’ en son adolescence elle avait des < ( doigts de rose » et que son haleine « exhalait les parfums de l ’ amour ..",
+        "words": [
+          "parfums",
+          "son haleine",
+          "amour",
+          "vieux Nicétas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/7bcbd45b-9962-5222-a3f9-f9301b5b8041",
+        "value": ".J ’ aime de ces contrées Les doux parfums brûlants , Sur les vitres dorées Les feuillages tremblants ; L ’ eau que la source épanche Sous le palmier qui penche , Et la cigogne blanche Sur les minarets blancs .Mais surtout , quand la brise Mo touche en voltigeant , La nuit j ’ aime être assise , Être assise en songeant , L ’ œil sur la mer profonde , Tandis que , pâle et blonde , La lune ouvre dans l ’ onde Son éventail d ’ argent .",
+        "words": [
+          "doux",
+          "parfums",
+          "brûlants",
+          "feuillages",
+          "J",
+          "contrées",
+          "minarets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/7dbf81a8-b9dc-5e41-8f03-fc26a1abe6f6",
+        "value": "On comprend que des peuples saturés d ’ illusion par ces odeurs , surchauffés par des climats ardents , aient ébauché , dans leurs songes vagues , des rêves de volupté et de sang , d ’ amour et de mort .Cet afflux de parfums exotiques évoque un mirage de demi - visions , très lointaines .On entrevoit des bouts de désert et des profils de palmiers , des coins de forêts vierges , regorgeantes de sève et de vie , des lleurs superbes , des grappes de fruits rouges becquetés par des oiseaux aux ailes diaprées .",
+        "words": [
+          "parfums",
+          "exotiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/7fc6b285-49a3-56a4-bea9-9a39e3159983",
+        "value": "Si on n ’ arrive pas , qu ’ importe ? On savoure les jouissances de l ’ imprévu , les longues haltes à mi - chemin , les siestes indéfiniment douces , que hantent des rêves paradisiaques .Et pourquoi s ’ en aller ? On est si bien à Chiraz pour respirer l ’ odeur des orangers , et à Ispahan , pour cueillir des roses , sans doute pareilles à celles qui embaumaient le paradis terrestre ? L ’ immuable sérénité de l ’ Orient nargue les années et les siècles .Depuis Adam et Eve , on a fait très peu de « progrès » dans ces pays - là .",
+        "words": [
+          "Chiraz",
+          "Ispahan",
+          "odeur",
+          "roses",
+          "orangers",
+          "paradis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/81414043-68e2-5502-b742-1058fcda5055",
+        "value": "Les kiosques d ’ Ispahan sont pleins de fleurs et d ’ oiseaux .Dans les écoles d ’ Ispahan , on enseigne que « l ’ odeur framboisée des églantines est l ' haleine de l ’ Lternel » .On trouve là - bas des philosophes sublimes et des grammairiens exquis .",
+        "words": [
+          "odeur",
+          "haleine",
+          "l",
+          "framboisée",
+          "églantines",
+          "Lternel",
+          "les écoles d ’ Ispahan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/9685ec64-10ff-574f-a886-2a70a9b0a9a1",
+        "value": "Le bazar des drogues [ missir - tcharchi ) est un long entre - croisement d ’ étals et de boutiques de toutes sortes , nichés dans une vieille construction voûtée , sorte de tunnel , où le jour pénètre par deux rangées parallèles de fenêtres rondes placées très haut .Dans le clair - obscur de cette demi - lumière , digne de tenter le pinceau de Rembrandt , on voit des ligures d ’ alcliimistes à barbe jaune et à nez crochu derrière des rangées de bocaux et de vases où s ’ étalent les parfums les plus capiteux , les poudres les plus étranges , les substances les plus rares et les plus vénéneuses , distillées par des alambics de sorciers .Un nuage subtil d ’ émanations composites vous monte au nez .",
+        "words": [
+          "parfums",
+          "capiteux",
+          "substances",
+          "poudres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/99722a3a-57d4-5310-94e6-1d32e830c546",
+        "value": "Voici l ’ abelmosc ou graine d ’ ambrette la résine odorante du balsamier de Ceylan .On comprend que des peuples saturés d ’ illusion par ces odeurs , surchauffés par des climats ardents , aient ébauché , dans leurs songes vagues , des rêves de volupté et de sang , d ’ amour et de mort .Cet afflux de parfums exotiques évoque un mirage de demi - visions , très lointaines .",
+        "words": [
+          "odeurs",
+          "peuples"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/9a4aacfb-170e-51b5-bc95-6892da543fd0",
+        "value": ".Nedjibey voilée s ’ en alla seule à Sultan Achmet ; c ’ était un matin de printemps , la saison fraîche où l ’ on vend à tous les coins de rue les fleurs parfumées des jonquilles ..",
+        "words": [
+          "fleurs",
+          "parfumées",
+          "fleurs parfumées",
+          "jonquilles",
+          "un matin de printemps",
+          "Nedjibey",
+          "Sultan Achmet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/a0073d98-0e93-5f60-a267-8ffc8341fd77",
+        "value": "» » A ce moment , l ’ intendant fait un signe .Les serviteurs du comte de Lionne apportent des sorbets , des cassolettes , des parfums , des pastilles du sérail .Ils se mettent à genoux devant le ministre pour lui offrir ces bonnes choses .",
+        "words": [
+          "parfums",
+          "pastilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/a2c43a7b-fc99-50e1-8ef6-1fb204575b15",
+        "value": "Un rouge crépuscule fait a cette vision une auréole de pourpre sanglante .Des bouffées d ’ orgu : 1 , montant au cerveau de Mahomet avec l ’ acre odeur du carnage , ont troublé la raison de ce conquérant à la fois baroque et terrible .Les historiens d ’ aujourd ’ hui ne peuvent attribuer qu ’ à un véritable accès de folie furieuse , l ’ horreur des représailles qui furent exercées sur la population de la pauvre ville incendiée .",
+        "words": [
+          "acre",
+          "odeur",
+          "Mahomet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/a5628731-3415-5bbd-b50c-aca7085e80ae",
+        "value": "Elle me parle du culte byzantin ; elle m ’ indique vaguement l ’ ornementation intérieure de Sainte - Sophie , la profusion des vases sacrés , des cierges ( lam - boyants , des saintes images .Elle évoque les cérémonies séculaires de ce culte qui consiste surtout eu pratiques extérieures et en magnificences matérielles , chapes brodées d ’ or , cortèges de prêtres , musique triomphale des orgues , senteurs de l ’ encens .Ce culte reviendra - t - il en vainqueur sur les rives du Bosphore ? Cette église de la Trinité est - elle la sentinelle avancée d ’ une chrétienté qui reprendra possession de la cité impériale ? Tous ces problèmes s ’ imposent avec une rigueur inquiétante .",
+        "words": [
+          "encens",
+          "senteurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/af1c6949-3e71-5bc8-9f64-09feea430609",
+        "value": "C ’ était une tentation trop forte , une occasion trop facile .Les imans ne durent pas recourir à de bien longues homélies , afin de déterminer la horde des croyants à se jeter sur la ville impériale pour la ravager h Ces idées tragiques sont corrigées par l ’ aspect des villas heureuses et calmes , assises maintenant sur la rive au bord des eaux limpides , vraies maisons de paradis , dont les fenêtres discrètement fermées par un treillis semblent cacher de charmants mystères dans l ’ ombre odorante des lilas et des jasmins .Tout le long de la côte d ’ Europe , c ’ est une succession de ijcilis , maisons de plaisance s ’ égrenant comme les perles d ’ un collier sans lin .",
+        "words": [
+          "odorante",
+          "lilas",
+          "jasmins",
+          "ombre odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/b73c0e85-dcd4-5b15-b543-2879f453e335",
+        "value": "M .Ahmed Chah Kadjar , possède un « apadana » où l ’ eau des bains tièdes et parfumés glissant sur un dallage de faïence s ’ offre en cascatelles de perles aux sultanes cloîtrées , sous le demi - jour des dômes ajourés qui mettent des reflets d ’ azur céleste sur le marbre des vasques bleues .Dans les jardins du harem fleurissent des pavots qui répandent sur les yeux , las du spectacle éblouissant des grandeurs humaines , un doux sommeil , prélude ou présage d ’ une heureuse mort .",
+        "words": [
+          "parfumés",
+          "bains",
+          "Ahmed Chah Kadjar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/baab66db-422f-5840-b949-e43abf2a0595",
+        "value": "Et des voix humaines ou des voix divines , on ne sait , exaltent la passion des âmes qui sont blessées d ’ amour et qui voudraient guérir leurs plaies , tristement et doucement , dans un baume d ’ in - dilîérence , d ’ oubli , de béatitude somnolente et d ’ extase enchantée .Le paradis de Téhéran , — cité rose et bleue que parfument les fleurs de l ’ acacia , — est quelquefois troublé par le bruit métallique de ces pièces d ’ or , d ’ argent , de nickel ou de cuivre dont les hommes ont besoin , hélas ! pour manger du pain tous les jours .Mais à Téhéran les ruelles sombres du bezestin sont ennoblies par une illumination de roses radieuses .",
+        "words": [
+          "cité",
+          "parfument",
+          "paradis de Téhéran"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/bd40ed11-162f-5906-9fc8-20fce255027d",
+        "value": "On ne goûte l ’ exotisme féroce des Orientales que si l ’ on est séparé par cinq cents lieues du sabre que brandit sur la tète des odalisques le redoutable chef des eunuques noirs .Donc les désenchantées se lassèrent de savourer l ’ arome des narghilés chargent , parfumés d ’ essence de roses .La douceur du rahat - loukoum , pâte saturée de vanille et incrustée de pistaches que l ’ on mâche lentement , parut fade à leur goût fatigué de sucreries .",
+        "words": [
+          "parfumés",
+          "essence de roses",
+          "arome",
+          "narghilés chargent",
+          "désenchantées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/c5d2cce4-45ea-5f23-a217-b6f9fce77677",
+        "value": "Leurs murailles sont délabrées , leurs créneaux sont démantelés .Et sous les voûtes des celliers qu ’ embaumait l ’ arome du vin de Chypre , on voit s ’ enchevêtrer maintenant une végétation d ’ herbes folles où flottent les parfums sauvages de la menthe poivrée et du térébinthe odorant .Les fenêtres sont béantes et aveugles , ainsi que des yeux morts .",
+        "words": [
+          "Chypre",
+          "odorant",
+          "parfums",
+          "sauvages",
+          "embaumait",
+          "menthe poivrée",
+          "arome",
+          "térébinthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/c7cc0ce9-8c31-5019-a6d3-9492fbfddaac",
+        "value": "On est enivré par les arômes de la myrrhe et du cinname d ’ Arabie .L ’ Orient tout entier vous monte au nez en fumées de pastilles du sérail , pour vous verser ses ivresses compliquées ..",
+        "words": [
+          "ivresses",
+          "Orient",
+          "compliquées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/ca019fcc-6538-5366-a6be-d21d09f8b577",
+        "value": "Ces bâtons de soufre font peur , ces fruits , gonflés par la sève trop forte des flores torrides , donnent une espèce d ’ inquiétude .Voici l ’ abelmosc ou graine d ’ ambrette la résine odorante du balsamier de Ceylan .On comprend que des peuples saturés d ’ illusion par ces odeurs , surchauffés par des climats ardents , aient ébauché , dans leurs songes vagues , des rêves de volupté et de sang , d ’ amour et de mort .",
+        "words": [
+          "résine",
+          "Ceylan",
+          "odorante",
+          "graine",
+          "balsamier",
+          "ambrette",
+          "abelmosc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/ccf6ebaa-0e54-57be-8a0c-fe417fe61b72",
+        "value": "Qu ’ il est difficile de se représenter l ’ àme d ’ un Osmanli , d ’ imaginer les sentiments qui s ’ agitent dans ces cervelles taciturnes et apathiques , de voir comment le dernier villageois des vilayets asiatiques se fait une opinion , se façonne une manière de voir sur les événements dont il entend le lointain écho ! Après tout , la plupart n ’ en pensent pas très long sur cette matière .Une natte où ils puissent s ’ asseoir , de l ’ eau bien fraîche , du tabac bien coupé , — et de contrebande autant que possible , — la fumée odorante d ’ un cliibouque ou d ’ un narghilé , quelques sorbets , du bois d ’ aloès à brûler , des parfums d ’ ambre et des essences de rose à respirer , une sécurité viagère exempte d ’ impôts et de corvées , voilà peut - être leur idéal sur terre .Après cela , le reste leur est indifférent .",
+        "words": [
+          "odorante",
+          "parfums",
+          "fumée",
+          "tabac",
+          "eau",
+          "ambre",
+          "fumée odorante",
+          "sorbets",
+          "narghilé",
+          "cliibouque",
+          "essences de rose à",
+          "bois d ’ aloès à"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/d55dab6e-59f2-5d6c-8b58-f817d6890690",
+        "value": ".On leur offrira , à la ronde , des aiguières d ’ or et des gobelets remplis de ces bonnes choses qui flattent le goût , charment l ’ odorat et sont les délices des yeux ..",
+        "words": [
+          "odorat",
+          "charment",
+          "gobelets",
+          "ces bonnes choses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/eab89d9e-321b-5381-82db-55f25138b42e",
+        "value": "En apprenant que l ’ armée française avait conquis la Hollande au pas accéléré , le Grand - Turc s ’ empressa de signer les Capitulations .Cette ambassade fut une extraordinaire aventure de plein air , de cape et d ’ épée , avec une grâce de bonne compagnie , un parfum d ’ humanisme délicat et un grand charme d ’ orientalisme ingénument émerveillé .C ’ est , pour les historiens de la France , un délicat plaisir , que d ’ unir ici en un souvenir , rendu vivant par le spectacle d ’ un paysage qui n ’ a point changé , le traducteur des Mille et une Nuits , qu ’ on lit toujours — et le signataire des Capitulations qui n ’ ont pas cessé de régir la condition des Français en Turquie .",
+        "words": [
+          "parfum",
+          "ambassade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/ff67c05a-390e-5245-9a5b-5bd78de3fccc",
+        "value": ".On est grisé par les fumées de l ’ encens javanais que les docteurs arabes nomment benjoin .On est enivré par les arômes de la myrrhe et du cinname d ’ Arabie .",
+        "words": [
+          "encens",
+          "fumées",
+          "grisé",
+          "docteurs arabes"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/b1cad0b5-4db0-56fe-a18f-cc2bc0ed6dfb",
+        "label": "Gaston  Deschamps"
+      }
+    ],
+    "label": "A Constantinople / Gaston Deschamps",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k938332g",
+    "date": "1913",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/138",
+      "label": "Rose"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/483",
+      "label": "Orange"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/32b6ab38-a8c1-5e01-b054-ba6bf666a54f",
+      "label": "1913",
+      "begin": "1913",
+      "end": "1913"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/115019/",
+      "label": "Shiraz"
+    },
+    {
+      "@id": "https://sws.geonames.org/418863/",
+      "label": "Isfahan"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/calmness",
+      "label": "calmness"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/doubt",
+      "label": "doubt"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/86ecfe23-3fab-58c1-929d-af7aa88a661c/fragment/7fc6b285-49a3-56a4-bea9-9a39e3159983",
+  "license": "Public domain"
+}

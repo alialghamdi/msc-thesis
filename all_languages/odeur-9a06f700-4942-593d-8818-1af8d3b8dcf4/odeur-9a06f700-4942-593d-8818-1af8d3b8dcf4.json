@@ -1,0 +1,83 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/9a06f700-4942-593d-8818-1af8d3b8dcf4",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0b890bb9-7f3b-5a64-b20f-6b3a9c1b836f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0b890bb9-7f3b-5a64-b20f-6b3a9c1b836f/fragment/1fc5ed34-6636-5b54-b4df-925ffce637ad",
+        "value": "De chauffer lentement sur les planches de cuivre .La feuille odorante du thé ( i ) ; « Il est doux de rêver dans les fraîches pagodes , De se créer des dieux qui ne défendent rien , Et de lire des vers en quatre périodes ( 2 ) Coupés selon le rhythme ancien ; « II est doux de penser qu ' à travers un nuage L ' âme de l ' homme passe ainsi qu ' un astre errant , De ne rien regretter de l ' éternel voyage Et de ne rien craindre en mourant ! < c Que nous importent donc les conquêteshumaines ? Rien ne change , et tout meurt ; l ' homme à l ' homme est pareil ; .1 .",
+        "words": [
+          "odorante",
+          "thé",
+          "feuille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0b890bb9-7f3b-5a64-b20f-6b3a9c1b836f/fragment/8c22af28-31d6-583c-9c6a-4a5be7648011",
+        "value": ", Vont de Cos à Scio , vont de Lemnos à Tine , Chargés de fruits , couverts de fleurs ; 8o POÉSIES COMPLÈTES .La lumière , dorant ou dispersant la brume , Semble avoir deux foyers : le soleil et la mer ; Et de chaque Cyclade , où l ' eau joyeuse écume , S ' élèvent des parfums qui se mêlent dans l ' air ; Tout brille dans l ' azur , tout chante , tout enivre , Partout la volupté sous un ciel provocant , Il est doux d ' y passer , il est plus doux d ' y vivre ..",
+        "words": [
+          "parfums",
+          "Cyclade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0b890bb9-7f3b-5a64-b20f-6b3a9c1b836f/fragment/97367c32-45d5-5851-8621-b4af7cc75021",
+        "value": "non , la peine aurait été trop forte ; Leurs familles étaient pauvres ; il fallait donc Habiller les enfants , non les mettre à la porte ; Puis , le meilleur remède est encor le pardon 1 Pierre et Jean ( bénis soient ces contrastes étranges ! ) Dans leur folie avaient un mérite commun : Ces deux jeunes démons s ' aimaient comme deux anges .Et cette seule fleur donne à tout son parfum .Un jour , Pierre , en entrant dans la classe , était blême ; Sur son corps presque nu courait un long frisson , Et le maître , rêvant à quelque stratagème , Dit à l ' enfant d ' abord : « Récite ta leçon .",
+        "words": [
+          "parfum",
+          "fleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0b890bb9-7f3b-5a64-b20f-6b3a9c1b836f/fragment/9da215d3-f7a5-58cc-a38c-1c453eda7174",
+        "value": "Allaient crouler soudain au vent de leurs clairons , S ' arrêter , et Paris , où pas un coeur ne tremble , Leur dire : a A Jéricho peut - être je ressemble : Cherchez un Jo ' sué d ' abord , nous l ' attendrons .» Ils l ' ont cherché longtemps ! — Ô gloires retrouvées ! Noble ville parmi les grandes éprouvées , Qui dira ta beauté dans ton immense deuil ? Rome , Jérusalem et Sagonte et Carthage N ' ont eu que la pitié de l ' histoire en partage , A toi l ' hymne éternel de justice et d ' orgueil ! Dans cette légion généreuse et stoïque , Entre tous ces héros Yvan fut héroïque ; ' Il supporta les nuits du bivouac et la faim , Le froid dans les bois noirs , sous la neige et le givre , L ' odeur lourde du sang dont le cerveau s ' enivre , L ' horreur de vingt combats , ce qui fait l ' homme enfin ! LES AMIS DE LA FRANCE .J2J VI Le mois suivant , après des luttes inégales , Près du plateau d ' Avron , il tomba sous les balles ; On le porta , mourant presque , jusqu ' à Paris , Au foyer d ' un théâtre , à présent ambulance .",
+        "words": [
+          "Sagonte",
+          "Jérusalem",
+          "odeur",
+          "lourde",
+          "cerveau"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/5201f294-bbd4-5c11-ac95-28ad9f8c5118",
+        "label": "Henri de  Bornier"
+      }
+    ],
+    "label": "Poésies complètes (1850-1881) / Vte Henri de Bornier",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5400500p",
+    "date": "1881",
+    "language": "fr"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/967df3f2-48e1-5465-b232-650c40927e6f",
+      "label": "cerveau"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/7b1e2825-141c-59bf-8600-d1e37b1ec78e",
+      "label": "1881",
+      "begin": "1881",
+      "end": "1881"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/2511619/",
+      "label": "Sagunto"
+    },
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0b890bb9-7f3b-5a64-b20f-6b3a9c1b836f/fragment/9da215d3-f7a5-58cc-a38c-1c453eda7174",
+  "license": "Public domain"
+}

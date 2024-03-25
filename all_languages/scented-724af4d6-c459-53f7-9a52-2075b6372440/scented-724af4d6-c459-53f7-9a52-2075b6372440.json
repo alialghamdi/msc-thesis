@@ -1,0 +1,184 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/724af4d6-c459-53f7-9a52-2075b6372440",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "scented",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/11ed38b9-75b7-5a4e-a64b-08c409c2fbb7",
+        "value": "NOSSA SENHORA DO MONTE .Late in the evening , Avhen all tho house was a - bed , Gilbert strolled in the scented garden of the hotel , enjoying the air and a cigar .It was a mere freak that had brought him back to Madeira , but gentlemen in the position of Mr .",
+        "words": [
+          "the",
+          "scented",
+          "Gilbert",
+          "Late in the evening",
+          "garden of the hotel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/37d3d0ea-8df9-5575-8abb-35a757fdb0c6",
+        "value": "For this Avas a fairy rose and , fairylike , it changed the heart of the cynical man .It brought light into his life , it filled the air with perfume , it charmed him .It made the world seem gay and habitable , he walked along smiling and smiled on , and because he could not understand the meaning of the change that had been wrought in him , he inquired of a mouse who lived with him in his lodgings , and the mouse said that this was the famous Illusion rose , every leaf of which represented a certain sum of confidence and hope , and the fairest and softest of the leaves stood for Love .",
+        "words": [
+          "perfume",
+          "the air",
+          "it charmed him"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/391c3881-9f15-5d5d-a81b-29833fedeede",
+        "value": "Moses on the height of Pisgah saw no such sight as this ! Marian held her breath and gazed Avith silent , wideeyed wideeyed wonder .Sky , air , and sea — no more than these : but Avhat a miracle of light and sound and odour ! of neverending neverending waters , cloven by the sun , and widening outwards and onwards till they met and mingled with the sky .Oh , it was good of you to bring me here ! said Marian at length , with a voice that came out of her heart .",
+        "words": [
+          "odour",
+          "of neverending neverending waters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/49a26679-8666-566b-a549-9175dd767b9d",
+        "value": "But first let ' s sit down and He was on the point of saying that his friend Beade was scouring all London in search of Arnold , but thought he had blundered enough for the present , and held his peace on that subject .Arnold Avas genial and tolerably communicative , but Dick felt very much as if he were visiting a friend in the condemned cell , and when a comfortable smell of fry arose from the lower regions , he jumped up and said he must have breakfast .They went down , and the appearance of Dick in full toilet , and looking by no means as if he had been up all night , created quite a stir .",
+        "words": [
+          "smell",
+          "he",
+          "Dick",
+          "comfortable",
+          "from the lower regions",
+          "of fry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/561d8961-7bae-57b8-af21-2038276a0581",
+        "value": "When I ' ve doctored this said Paul , I ' ll take you to the river .This nice damp air smells of a flood ; Ave shall have a chance I have no rod with said Beade , feeling that the best trout in the pool would jump in vain for him that day .I ' ll lend you my answered Paul .",
+        "words": [
+          "smells",
+          "This nice damp air",
+          "of a flood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/6493cec3-c580-584d-b638-69d3cb876b91",
+        "value": "It seemed to Arnold that nothing had been moved since he stood in it last , and as a matter of fact nothing had .But the door of Ann Hanoch ' s particular cupboard in the passage leading out of it must have stood open , for there was a penetrating odour of spices and rare apples .Supper smoked in the dining - room — a long , low room with faded - green walls and high - backed wooden chairs without cushions .",
+        "words": [
+          "penetrating",
+          "odour",
+          "of spices and rare apples"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/9ffd94f6-5c71-51a5-adeb-91960d662082",
+        "value": "The genius of the sleeping city watched it from his cloudeyry , cloudeyry , and so , on the dripping pavement , with an occasional lapse into tobacco , did the policeman .In the sloping attic of a fifth - rate French restaurant in Soho , a candle that stood much in need of snuffing threw a wan light over bare walls and an uncarpeted floor .A small round table , covered with writing materials , was in the centre of the room , and a man who had been writing there lay half - across it and slept like a stone .",
+        "words": [
+          "a candle",
+          "snuffing",
+          "In the sloping attic of a fifth - rate French restaurant in Soho"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/a48225d9-1b80-524a-ab83-fb2d85727cf4",
+        "value": "I am glad of was on the tip of her tongue , but she suppressed it , and dismissed Phœbe .The night was soft and sweet - smelling , the fields stretched 220 ' TWIXT LOVE AND DUTY .Noav bankruptcy , Avhich means , literally , the breaking of one ' s is a bad state in all conscience , but bankruptcy minus a certificate is seven times worse .",
+        "words": [
+          "sweet",
+          "smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/c28130ff-5199-5585-90c2-c39a22d306af",
+        "value": "Warren merely closed her eyes and shuddered , and blindly motioned the men to go on .The air blew soft and cool from the sea , carrying on its wings the scent of a hundred flowers .They greAv with the luxuriance of weeds AvhereATer the slenderest hold could be found — hoya , stephanotis , jessamine , scarlet hibiscus , allamandas allamandas with their great yelloAv trumpets , orchids , and those Avondrous roses Avith pale - coloured petals closing round a blood - red heart .",
+        "words": [
+          "scent",
+          "The air",
+          "of",
+          "of a hundred flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/c69205ab-9d24-5e87-a92c-4ce26e730734",
+        "value": "Should she take horse and ride ? No ; she had no companion , and was less fond of solitude than she had been .The air was odorous with the breath of floAvers ; should she sit all day in the garden ? No , its beauty wearied her .She felt that she was being spoiled by idleness , yet here she could not do the work she craved .",
+        "words": [
+          "odorous",
+          "The air",
+          "breath",
+          "of floAvers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/ecb3f653-5fc2-59d0-8f8f-81a371c7ce96",
+        "value": "There ' s that report for the bishop , or you might lop some firewood , and the cabbages wouldn ' t be the worse for a touch of the hoe .Do I smell coffee ? I believe she has got the breakfast , after Arnold continued to flag , notwithstanding his uncle ' s efforts to rouse him .His uncle guessed the cause , and debated within himself whether it were best to leave him for a while to his own resources .",
+        "words": [
+          "coffee",
+          "smell",
+          "I"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/f392cf35-ade8-5aa4-a82b-0fbfdcd59593",
+        "value": "147 in the matter of clothing , and much in want of a Board School .And the dreamy pleasure of the soft , seductive air , SAveet as the air of the Hesperides , which steals into the senses and lulls , but not oppresses ; and the smell of flowers , and the glow of them , and their neATer - ending wealth , spreading along the Avails and twining about the roots of trees , and creeping up the sides of house .? , and over the hanging balconies .",
+        "words": [
+          "smell",
+          "of flowers",
+          "seductive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/f70a0cb3-c7ab-52b2-ae58-30de92ad6725",
+        "value": "There was a winning and a penetrating grace in her manner which belonged entirely to herself .She was full three years younger than Arnold — a woman almost , yet still a girl , and the clear spring fragrance of girlhood about her , which is like nothing so much as the smell of woodland violets .Ay , and there was a woodland purity in her nature , for she had looked on the open sky all her life , and on trees and wild flowers , and all natural things .",
+        "words": [
+          "smell",
+          "fragrance",
+          "clear spring",
+          "of woodland violets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/fe95b7d1-c36f-50f8-9cf2-88d071f0b514",
+        "value": "There was game abroad , and he wanted to trap it , but was not yet certain of its whereabouts .He thought , hoAvever , that he was on the scent .While Arnold was away , Jones had carried Mr .",
+        "words": [
+          "scent",
+          "he",
+          "He"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/baa5a493-e699-5de3-8c80-79e1584c2d8f",
+        "label": "Tighe HOPKINS"
+      }
+    ],
+    "label": "'Twixt Love and Duty. A novel",
+    "date": "1886",
+    "language": "en"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/bafee950-575b-5b4d-a273-31170f17d15f",
+      "label": "the"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/cf202db9-febf-584e-9501-ba6356d75cf6",
+      "label": "1886",
+      "begin": "1886",
+      "end": "1886"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11395381/",
+      "label": "Hilton Garden Inn Dubai Mall of the Emirates"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/relief",
+      "label": "relief"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/calmness",
+      "label": "calmness"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6510d5d2-fb95-5b4d-a07c-cef91fedb541/fragment/11ed38b9-75b7-5a4e-a64b-08c409c2fbb7",
+  "adjective": "scented"
+}

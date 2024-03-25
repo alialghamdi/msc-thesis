@@ -1,0 +1,114 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/48362b8d-88de-5ca4-b25b-3abad513cac0",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfume",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/30b112c1-31e6-5123-a4e3-92532d8572b2",
+        "value": "Lès Fleurs , d ' hiver .uEn ' aimepoint ces fleurs que , sans l ' aveu de Flore - , Des salons les foyers brûlans Au mois de Janus font éclore : Elles n ' ont point l ' éclat de celles qu ' au printemps Le soleil parfume et colore .On veut , par un caprice vain , ' A la nature en deuil arracher un sourire .",
+        "words": [
+          "fleurs",
+          "parfume",
+          "au printemps",
+          "Au mois de Janus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/6459264b-f160-59fe-88a6-04c9e405e67d",
+        "value": "Elle aime à voir ses fleurs nouvelles Sortir des frais boutons , croître et s ' épanouir , Mais sur les tiges maternelles Défend qu ' on ose les cueillir .Que de vulgaires fleurs étalent leur parure Dans le kiosque ou dans le salon ; La rose , sans quitter son trône de verdure , Des doux zéphirs de ce canton Doit embaumer l ' haleine pure Tout le temps de sa floraison .A - t - elle enfin perdu ses charmes Que le vent du sud a flétris ? On l ' effeuille , et de ses débris L ' alambic distille des larmes .",
+        "words": [
+          "fleurs",
+          "rose",
+          "haleine",
+          "salon",
+          "embaumer",
+          "kiosque",
+          "Tout le temps de sa floraison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/77d5c5cb-648c-53fb-86f3-47d59c1fab46",
+        "value": "Ce nom vaut cent titres de gloire ; Mais ce qui doit sur - tout m ' assurer la victoire , C ' est I ' immortalité , don rare et précieux , Que pour eux et pour moi réservèrent les Dieux .Lorsque de rajeunir ma vie Je sens approcher le moment , J ' élève sous le ciel de l ' heureuse Arabie , Un bûcher de bois odorant .Aux rayons du soleil moi - même je l ' allume , Sa flamme pure me consume , ( 77 ) FABLE XLVII .",
+        "words": [
+          "bois",
+          "odorant",
+          "ciel",
+          "bûcher",
+          "heureuse Arabie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/8621af32-16f9-55fb-afff-fbc4f2c9cedf",
+        "value": "A - t - elle enfin perdu ses charmes Que le vent du sud a flétris ? On l ' effeuille , et de ses débris L ' alambic distille des larmes .( 88 ) ) Un cristal précieux renferme le trésor De l ' essence odorante avec soin recueillie , \" Et tandis que l ' hiver exerce sa furie , La sultane respire encor Le parfum de sa fleur chérie .Tel , des objets aimés que nous avons perdus , \" Le souvenir nous rend les attraits , les vertus .",
+        "words": [
+          "odorante",
+          "parfum",
+          "fleur",
+          "essence",
+          "sultane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/8f8e79ba-0fdc-56fe-ae34-6a1880307d4b",
+        "value": "Ce nom vaut cent titres de gloire ; Mais ce qui doit sur - tout m ' assurer la victoires C ' est I ' immortalité , don rare et précieux , Que pour eux et pour moi réservèrent les Dieux .Lorsque de rajeunir ma vie Je sens approcher le moment , J ' élève sous le ciel de l ' heureuse Arabie , Un bûcher de bois odorant .Aux rayons du soleil moi - même je l ' allume , Sa flamme pure me consume , ' ( 79 ) Et de ma cendre aussitôt je renais Plus beau , plus brillant que jamais .",
+        "words": [
+          "bois",
+          "odorant",
+          "ciel",
+          "bûcher",
+          "heureuse Arabie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/d304fe7f-53d5-5d28-95f4-2f9c05d6ebd7",
+        "value": "La Sultane et la Rose .~ AEBUSTE favori de la fière sultane , Et loin de tout regard profane , Cultivé par ses belles mains , Xe rosier du sérail parfume lesjardins .Elle aime à voir ses fleurs nouvelles Sortir des frais boutons , croître et s ' épanouir , Mais sur les tiges maternelles Défend qu ' on ose les cueillir .",
+        "words": [
+          "parfume",
+          "rosier",
+          "sérail",
+          "lesjardins"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/3f9b3192-14ce-5122-a2eb-bd37015e83a9",
+        "label": "André-Clément-Victorin  Bressier"
+      }
+    ],
+    "label": "Fables nouvelles , par M. B***",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5459162k",
+    "date": "1824",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/4b679e64-ebb9-5749-bbdc-7ebb79a3d57e",
+      "label": "1824",
+      "begin": "1824",
+      "end": "1824"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/a9d1b049-4e9e-5b03-8bed-ed8a3ba37bc8",
+      "label": "lesjardins"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pride",
+      "label": "pride"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/c89a2f62-344c-59eb-ae90-367176aa02d2/fragment/d304fe7f-53d5-5d28-95f4-2f9c05d6ebd7",
+  "license": "Public domain",
+  "adjective": "parfume"
+}

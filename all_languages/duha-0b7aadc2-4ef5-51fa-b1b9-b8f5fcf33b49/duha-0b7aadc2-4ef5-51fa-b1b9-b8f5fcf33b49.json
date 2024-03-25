@@ -1,0 +1,142 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/0b7aadc2-4ef5-51fa-b1b9-b8f5fcf33b49",
+  "@graph": "http://data.odeuropa.eu/text-annotation",
+  "label": "duha",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/0821b7e4-8f7e-5477-a489-1d3fa1dbef30",
+        "value": "Poletavajo kresnice, žarijo zvezde, dehti po polju, po cvetju ...",
+        "words": [
+          "dehti",
+          " po cvetju . .",
+          "po cvetju . . "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/20a358df-b374-54bf-8a1d-a050dcfe0534",
+        "value": "Pesem lepote, Carigrad, kje so tvoje zlate strehe, vrtovi z gaji in vodometi, kje so polja dehtečih rož ...",
+        "words": [
+          "rož",
+          "dehtečih",
+          "polja"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/721933a6-c0e4-5295-9e43-fabc2b2f49ec",
+        "value": "Iz gozda je zadehtelo po smoli in zelenju — svežost zraka mu je razbistrila zmedeno glavo, vstal je in zaklical svoje tovariše ...",
+        "words": [
+          "mu",
+          "zadehtelo",
+          " zelenju",
+          "zelenju "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/758899e0-714f-518b-b43b-2a70d8150051",
+        "value": "Vrtiči, negovani od dekliške roke, kjer je dehtela prežilka in žarel nagelj — prijazne, rdeče opisane hišice, kjer so prežale modrooke beloglavke za zelenim rožmarinom, kjer je brnel kolovrat, donele pravljice in pesem — vse je uničeno in požgano ...",
+        "words": [
+          "dehtela",
+          " nagelj ",
+          " zelenim rožmarinom",
+          "dekliške roke",
+          "nagelj "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/7967bacf-e490-59f5-9044-5ff438c3a43e",
+        "value": "V tem kraju nepoznano bogastvo vezenin in blazin, sladkih dišav, je spominjalo, da cvete tu nagelj iz druzega vrta. — Pred kaminom je sedel knez Radivoj.",
+        "words": [
+          "sladkih",
+          "cvete",
+          "nagelj ",
+          " V tem kraju",
+          " dišav",
+          "iz druzega vrta . "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/7c3bdf47-29fb-58f0-8e1b-d9687854c2ee",
+        "value": "Vodil jih je po divjih, nevarnih potih, po rovih, katere je izprala voda, ob robovih prepadov, skozi skalnate, od narave narejene predore. — Z golimi višinami so se menjevale cvetne doline s sočnimi pašniki, z bogatimi čredami ovac, s polji dehtečih rož.",
+        "words": [
+          "rož",
+          "polji",
+          "dehtečih",
+          "doline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/7e90bd8a-2e2d-5acf-a576-2edb05400917",
+        "value": "Na vrtu je podivjalo sadno drevje, slaki in trte so zagrinjale grme cvetočih rož.",
+        "words": [
+          "cvetočih",
+          "rož",
+          "vrtu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/960ec747-3dee-513b-a335-94d2f28c3593",
+        "value": "V zapuščenem vrtu je odprla roža dehtečo glavico, v zapuščenem dvoru je odprla Jelena oko in se nasmehnila bratu.",
+        "words": "roža"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/ac1bc429-5c0d-5f58-bb1a-bda7f3f4f77e",
+        "value": "Dišalo je tako čudno, leblelo tako tiho po hiši in vrtu, kakor da se spominja še vse krasne mlade gospe, kakor da zveni še po zraku njen sladki smeh.",
+        "words": [
+          "Dišalo",
+          "tako čudno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/e359c784-31df-5914-95a2-40749fab4aaf",
+        "value": "„Krvave so in srce me boli od tega duha ...",
+        "words": [
+          "duha",
+          "na mizi",
+          " rože",
+          "Krvave so in srce me boli od tega",
+          "rože "
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/c83e6217-b2e2-5ee1-9e5f-ab174bfeb7ea",
+        "label": "Fatur, Lea"
+      }
+    ],
+    "genre": [
+      {
+        "@id": "http://data.odeuropa.eu/genre/LIT",
+        "label": "Novels & poetry"
+      }
+    ],
+    "label": "Vilemir",
+    "url": "http://nl.ijs.si/imp/wikivir/dl/WIKI00449-1906.html",
+    "date": "1906",
+    "language": "sl"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3232e19f-2ca8-507d-aef8-2c23b8426af5",
+      "label": "1906",
+      "begin": "1906",
+      "end": "1906"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/93501/",
+      "label": "Mayzī"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/84ddfd3e-d052-57ef-9f4a-870ba0db9671/fragment/e359c784-31df-5914-95a2-40749fab4aaf"
+}

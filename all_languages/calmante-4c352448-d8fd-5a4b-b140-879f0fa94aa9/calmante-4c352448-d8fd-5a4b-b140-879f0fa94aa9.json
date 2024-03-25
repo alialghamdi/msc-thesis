@@ -1,0 +1,933 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/4c352448-d8fd-5a4b-b140-879f0fa94aa9",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "calmante",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/0233b014-916c-5451-ba0a-f99b0b2fb6c0",
+        "value": "La première est de beaucoup la plus importante ; c ' est elle qui a fait la réputation des Eaux - Bonnes , réputation ancienne , puisque Montaigne proclamait déjà la vogue de la station , et actuellement mondiale .Glaire , limpide , onctueuse au toucher , très peu odorante , elle est minéralisée par un double sulfure de sodium et de calcium , avec excès d ' hydrogène sulfuré sous forme de sulfhydrate de sulfure .Elle présente une teneur notable en chlorure de sodium qu ' on ne retrouve qu ' à Labassère ( à Bagnères - de - Bigorré ) et à Gazost , une quantité appréciable d ' iodure et de bromure de sodium et des traces - pondérables de nombreux métaux ( argent , cuivre , étain , or , platine , plomb , zinc ) , le tout représentant une minéralisation très complexe , d ' interprétation très difficile , mais formant , suivant l ' expression de L .",
+        "words": [
+          "odorante",
+          "elle",
+          "sulfure de sodium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/04f4db84-a656-5853-81b5-916ebabe46cf",
+        "value": "Si les eaux vierges viennent de cette région ignée d ' où sont éga .lement originaires les émanations métalliques ou métalloïdiques qui remplirent autrefois les fissures éruptives du globe , ces eaux devront généralement contenir tout ou partie des principes volatils constatés dans les fumerolles ou émanations volcaniques : l ' azote , l ' hélium , l ' acide carbonique libre , les sels ammoniacaux , le fluor , le brome , ' l ' iode , l ' arsenic , le bore , le cuivre , le fer , le soufre , etc .Beaucoup d ' eaux thermo - minérales contiennent associés , en effet , plusieurs de ces éléments , qui manquent au contraire dans la plupart .",
+        "words": [
+          "cuivre",
+          "émanations",
+          "arsenic",
+          "iode",
+          "brome",
+          "principes volatils",
+          "autrefois",
+          "sels ammoniacaux",
+          "fluor",
+          "bore",
+          "acide carbonique libre",
+          "métalliques ou métalloïdiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/068527ac-111d-5637-a69b-aaa0681d4876",
+        "value": "Cauterets , la bouche ferme complètement l ' orifice par l ' intermédiaire d ' un embout personnel .D ' après les médecins pyrénéens , le humage est une inhalation perfectionnée : il a l ' avantage de donner des vapeurs exactement dosées ; il met à l ' abri de toute contagion .Ce qui paraît bien démontré aujourd ' hui , c ' est que les principes minéraux des eaux pénètrent réellement dans les voies respiratoires ( Cahy ) .",
+        "words": [
+          "vapeurs",
+          "les médecins pyrénéens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/083a9ec8-b3e1-5530-b63e-7208c05b0975",
+        "value": "Les eaux sulfurées exhalent une odeur sulfhydrique , et il en est quelquefois de même des eaux sulfatées , par suite de phénomènes de réduction .Les sources riches en acide carbonique présentent une saveur acidulé ; les eaux salines ont la saveur du sel , etc .La source de Saint - Boés répand une odeur de bitume très prononcée .",
+        "words": [
+          "sources",
+          "eaux",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/0a1c400f-767d-5499-8a47-62c7419106ff",
+        "value": "source et conserve encore 44 ° à son arrivée aux réservoirs du château .C ' est une eau limpide , d ' odeur de miel ou de lait , agréable , avec arrière - goût salé .- Sa minéralisation totale ( îgl , 50 ) est formée pour moitié ( 3 & r , 80 ) de chlorure de sodium associé à des sulfates et carbonates .",
+        "words": [
+          "agréable",
+          "odeur",
+          "eau",
+          "lait"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/0d003829-2d0f-53a4-96d6-7fae12ac5f8f",
+        "value": "Quant aux sources chaudes , comme la Grande - Grille et Chomel , prises après les repas , elles apaisent les aigreurs et les douleurs tardives .Leur action sédative , due pour une part sans doute à leur teneur en gaz carbonique libre , est manifeste chez les hypersthéniques gastriques et les malades sujets au spasme pylorique .Il est important de savoir que le chimisme gastrique ne se modifie guère sous l ' influence de la cure minérale , et l ' on en a conclu avec raison que Vichy agit plus sur la fonction nerveuse et musculaire que sur la sécrétion glandulaire de l ' estomac .",
+        "words": [
+          "Leur",
+          "sédative"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/0fae44a3-13a9-59f8-8d9d-92e4dc507389",
+        "value": "Ce sont les eaux minérales les plus chaudes connues , si on excepte les geysers d ' Islande , dont la température dépasse 100 ° .Elles sont toutes d ' une limpidité parfaite ; elles ont en général , à leur émergence , une forte odeur d ' hydrogène sulfuré , qui disparaît complètement par le refroidissement .A ce moment , elles n ' ont plus aucune saveur .",
+        "words": [
+          "forte",
+          "odeur",
+          "elles",
+          "Elles",
+          "hydrogène sulfuré"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/179ca3f8-29ab-5c95-b07f-6b97a255933e",
+        "value": "La température des deux principales est de 17 ° ; celle de droite a un aspect louche et opalin , celle de gauche est claire et limpide .Elles ont une forte odeur d ' œufs pourris due au dégagement abondant de H2S .Cette odeur est si intense qu ' elle se répand à une certaine distance des sources .",
+        "words": [
+          "forte",
+          "odeur",
+          "œufs pourris",
+          "œufs",
+          "H2S"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/1af1007a-3522-5717-99d3-98b6b90a31c1",
+        "value": "C ' est ce qui a fait souvent désigner les sulfurées calciques sous le nom d ' eaux sulfhydriquées .On les appelle parfois aussi eaux sulfurées accidentelles : Enghien ( Seine - et - Oise ) ; Allevard ( Isère ) ; Saint - Boës ( Basses - Pyrénées ) , source très curieuse , exhalant une odeur à la fois sulfurée et bitumeuse ; Cambo ( Basses - Pyrénées ) ; Castera - Verduzan ( Gers ) , etc .III .",
+        "words": [
+          "odeur",
+          "eaux",
+          "source",
+          "accidentelles",
+          "Basses",
+          "bitumeuse",
+          "sulfurée",
+          "Cambo",
+          "très curieuse",
+          "Castera"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/1d0c91dc-475b-586c-811c-c5f1a3fb1d3f",
+        "value": "Les boues végéto - minérales sont formées de la manière suivante : à chaque crue , l ' Adour recouvre les sources qui , on l ' a vu , sourdent sur ses rives , et dépose dans les bassins d ' émergence un limon épais , gras , de couleur jaunâtre , qui constitue l ' élément minéral de la boue ; l ' élément végétal est formé par la masse gélatiniforme provenant des conferves .La réunion de ces deux éléments une fois opérée , la boue est noirâtre , en raison de la transformation des sulfates de l ' eau minérale en sulfures par oxydation au contact de la matière organique ; elle est douce , onctueuse , et répand une légère odeur d ' hydrogène sulfuré .Elle tache et corrode le linge , par suite de sa teneur en oxyde ferrique ; elle contient même du sulfure de fer et , par l ' oxydation de ce sulfure , elle prend au contact de l ' air une coloration de rouille .",
+        "words": [
+          "odeur",
+          "elle",
+          "boue",
+          "légère",
+          "hydrogène sulfuré",
+          "eau minérale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/1e9d397e-2e4a-5285-8177-77aaebad76f1",
+        "value": "A cet effet , les - gaz et les vapeurs émanés des sources sont recueillis dans des appareils qui les dirigent par un conduit particulier vers la bouche et les narines de chaque malade .J \\ ous verrons que , dans l ' inhalation , les vapeurs se répandent au contraire dans une salle commune , où les malades les - respirent mélangées à l ' air de la salle .- - Dans les stations pyrénéennes , le humage constitue le fond du traitement des sujets affectés de laryngites et de bronchites .",
+        "words": [
+          "vapeurs",
+          "salle",
+          "salle commune",
+          "ous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/207d2289-4b45-5083-ad52-dfd36cfbdc2e",
+        "value": "On comprend dès lors que l ' appétit soit stimulé , la digestion , les fonctions glandulaires excitées , la thermogenèse accrue , les forces augmentées .Le pouvoir oxydant des eaux chlorurées sodiques indique leur emploi dans les auto - intoxications d ' origine gastro - intestinale , ou consécutives au surmenage , à la neurasthénie .Indications accessoires .",
+        "words": [
+          "oxydant",
+          "eaux chlorurées sodiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/238196ec-dc13-54bd-9839-484a83526730",
+        "value": "Les sources riches en acide carbonique présentent une saveur acidulé ; les eaux salines ont la saveur du sel , etc .La source de Saint - Boés répand une odeur de bitume très prononcée .Densité .",
+        "words": [
+          "très prononcée",
+          "odeur",
+          "bitume",
+          "Saint",
+          "Saint - Boés",
+          "source de Saint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/25be7a1a-f947-5d0d-8eb6-86ab92ab2392",
+        "value": "« C ' est qu ' en effet la baie d ' Ajaccio n ' a rien à envier à la Riviera .Égalité et douceur de climat , végétation tropicale , sol granitique impunément piétiné sans poussières , absence de moustiques , atmosphère chargée de senteurs aromatiques exhalées des Fig .159 .",
+        "words": [
+          "atmosphère",
+          "senteurs",
+          "sol",
+          "exhalées",
+          "aromatiques exhalées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/29e12156-6ae0-586b-a323-793e52f4cdec",
+        "value": "Le voilier possède d ' autres avantages : l ' encombrement y est moindre , les cabines plus commodes .A son bord , ni poussière , ni résidus de fumée , pas d ' odeur nauséabonde du graissage des appareils de chauffe , pas de grincement continuel de la machine , pas de trépidation d ' hélice .Par beau temps , le voilier marche lentement , glisse sur l ' onde , procurant sommeil et bien - être .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "graissage des appareils de chauffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/2b06ebcf-91b8-5672-885b-8af1adac4764",
+        "value": "distincts : il des sources polysulfurées , excitantes au premier che ., produisant du côté de la peau des réactions très vives , exerçant sur la nutrition une action très puissante , par l ' intermédiaire du système nerveux ; ce sont des sources éminemment toniques ; 2 ° des sources siilfilécs et hyposulfitées , surtout sédatives et convenant parfaitement aux neurasthéniques , aux né vralgiques ; 3 ° des sources sulfhydriquées , c ' est - à - dire très peu stables et laisant dégager avec la plus grande facilité leur hydrogène sulfuré ; ces sources sont éminemment propres à faire pénétrer ce gaz par le humage jusqu ' aux plus petites ramifications de l ' arbre respiratoire ; 4 ° des sources blanchissantes , véritable émulsion de soufre , bain type des dermatoses prurigineuses qu ' elles calment , alors que les autres exaspèrent l ' excitabilité et la congestion .Cet ensemble forme une gamme complète qui fait de Luchon « la capitale et la place forte de l ' empire du soufre » ( Landouzy ) .",
+        "words": [
+          "sources",
+          "sédatives",
+          "sources sulfhydriquées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/2cd883fd-09bc-5d18-9961-1a2b15d9a75f",
+        "value": "L ' hydrogène sulfuré , dégagé de ce fait , s ' échappe par six tubulures fixées sur les côtés de l ' appareil , auxquelles on adapte un col de cygne permettant l ' utilisation individuelle .Une installation analogue fonctionne aux Thermes Romains ; la salle d ' inhalation des Thermes Pujade est munie d ' appareils semblables à ceux de Cauterets .Le climat est pur et tonique comme l ' altitude le fait , pressentir ; l ' hôtel de l ' établissement est exposé au midi .",
+        "words": [
+          "salle",
+          "inhalation",
+          "Thermes Pujade",
+          "Thermes Romains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/2f989a79-5d12-5182-83d6-47525e0dcecc",
+        "value": "— Au nombre de quatre , d ' une température variant de 31 à 44 ° , elles débitent 1800 mètres cubes par jour .L ' eau est onctueuse , limpide , d ' un goût légèrement salé et amer , d ' une faible odeur hépatique .En sulfure de sodium , elle contient 0 , 012 , mais le principe sulfuré est si instable qu ' il se transforme très rapidement en hyposulfite ; les eaux de la Preste sont des sulfureuses dégénérées , cHez lesquelles l ' alcalinité a plus d ' importance que le sulfure .",
+        "words": [
+          "faible",
+          "odeur",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/2fc540b9-cd0f-5a84-acb3-3428164eba44",
+        "value": "On extrait les corps radio - actifs de certains minerais dits mdifères ; des terrains ont été rencontrés aussi qui en contenaient des quantités notables .Mais il a été établi , en outre , par de nombreuses expériences , que des traces de radium , de thorium , d ' actinium , existent partout dans la substance de la terre , et que les émanations radio - actives résultant de leur désintégration atomique sont partout répandues dans le sol et le sous - sol .Les eaux et les gaz souterrains se chargent plus ou moins de ces émanations , qui sont ainsi continuellement déversées à la surface du sol dans l ' atmosphère .",
+        "words": [
+          "émanations",
+          "actives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/32ae08e7-cab0-5b45-816f-53e9fe4d975b",
+        "value": "A Luchon et à Ax , certaines des sources , altérables spontanément , laissent dégager un mélange de 1128 , de vapeur de soufre et d ' azote , que l ' on fait arriver jusqu ' au malade par des appareils permettant d ' en graduer la température ( de 30 à 43 \" ) ainsi que la teneur en principes soufrés .Dans les stations à eaux plus fixes ( Cauterets , Amélie ) , le malade respire un mélange de gaz , de vapeur d ' eau et d ' eau finement poudroyée à l ' aide d ' appareils spéciaux .A Aix - les - Bains , on fait , dans certains cas , pratiquer aux malades un humage avec les vapeurs émanées de la source d ' alun et conduites par un embout spécial .",
+        "words": [
+          "malade",
+          "respire",
+          "Cauterets",
+          "Amélie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/3366bd79-b781-5e87-a1e3-7173663c32bb",
+        "value": "Est - ce que , à bien regarder les choses , les raisons pour lesquelles nous envoyons nos malades à Vichy , à Luxeuil , à Plombières , à Dax , à Royat , à Contrexéville , à Évian , à Bourbon , à Châtel - Guyon , à Luchon , àBourbonne , à Yittel , ne sont pas déduites d ' idées pathogéniques semblables à celles qu ' avaient certains médecins des xvie , xvne et xvme siècles ? Est - ce que ce n ' est pas pour provoquer et faciliter l ' exode des residua de la diathèse urique ou des concveta de l ' arthritisme que nous acheminons nos malades aux Eaux ? N ' est - ce pas pour les débarrasser des toxines accumulées par les maladies infectieuses , par les intoxications professionnelles ou alimentaires , que nous envoyons nos clients aux Eaux alcalines , chlorurées ou sulfureuses ? Faisant ainsi , nous pratiquons comme les médecins de jadis ; notre interprétation est peut - être plus approchante de la vérité , notre Humorisme scientifique ayant la chance , à travers les siècles , qui se sent écoulés , de voir avec un peu plus de clarté là où nos pères avaient déjà projeté quelque lumière ? Nous aurions d ' autant plus tort d ' opposer , avec immodestie , notre Pratique à celle des médecins des xvie , XVIIe et xvine siècles , que , à bien regarder , nous ne faisons pas toutes choses beaucoup mieux qu ' eux .Est - ce que , par exemple , nous aussi , nous n ' employons pas fort mal encore la Médication Thermale , la réservant le plus souvent comme juridiction thérapeutique dernière , comme une manière de médication in extremis , alors , qu ' au contraire , nous devrions , par elle , chez les diathésiques , nous attaquer aux premiers troubles fonctionnels et aux premières adultérations organiques ? Que de fois encore nous en remettons - nous à la Médication Thermale pour réussir là où , longuement , trop longuement , ont échoué les Pharmacies galénique et chimique ! Que de fois encore n ' en agissons - nous pas vis - à - vis de nos malades comme faisaient les médecins de Mme de Sévigné , qui l ' envoyaient aux Eaux , quand , à grand renfort de saignées , de purgations et de médecines de toutes sortes , ils ne la pouvaient débarrasser de son désolant rhumatisme ? .C ' est encore et toujours cette même idée de donner exode suffisante aux viciations humorales , par les « boissons » et les « sueries ) > des Fontaines et des Bains , qu ' on retrouve dans les Lettres de Mme de Sévigné .",
+        "words": [
+          "rhumatisme",
+          "désolant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/34598d32-aea6-5cdd-8f7b-118f54b99b7a",
+        "value": "Chamonix n ' est d ' ailleurs pas loin ( 19 kilomètres ) , avec ses hôtels confortables et bien chauffés , pour les journées froides du début et de la fin de saison , et aussi pour les séjours d ' hiver .Le calme de l ' air , les senteurs des immenses forêts de sapins qui entourent la station se joignent a l ' altitude pour faire de SaintGervais à la fois un lieu de cure et de séjour .« Le milieu dans lequel vivent les baigneurs à l ' établissement est sédatif , sans l ' être trop .",
+        "words": [
+          "senteurs",
+          "la station"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/37adb642-55da-5c50-b454-c3c3f819be19",
+        "value": "Cet établissement est alimenté par la source de la Bagnère , dont le débit est considérable et la température de 3 îo , 5 .Cette eau , limpide , a une odeur sulfureuse , une saveur piquante et légèrement salée ; elle est onctueuse au toucher , dépose des cristaux de chlorure de sodium et des filaments de sulfuraire .C ' est donc une eau chlorurée sodique hydrosulfurée , dont - l ' analogie avec Uriage est frappante , avec une minéralisation toutefois un peu inférieure .",
+        "words": [
+          "odeur",
+          "elle",
+          "sulfureuse",
+          "Cette eau",
+          "saveur",
+          "cristaux de chlorure de sodium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/3cb2dbf3-3e31-5655-b9db-8f4bc7dec4c6",
+        "value": "— Les sources qui jaillissent à Hammam - R ' irha sont au nombre d ' une vingtaine ; leur altitude s ' échelonne entre 505 et 575 mètres ; leur température oseille entre 42 et 700 .Elles sont limpides , sans odeur , ni saveur marquée .Leur composition moyenne est la suivante : Sulfate de chaux 191 , 40 Bicarbonate de chaux Ogr .",
+        "words": [
+          "odeur",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/3dae2f64-7ade-5155-a799-ebbd96c1371e",
+        "value": "CEjfs , 129 .Odeur des eaux min - ' , rales , 30 .Onctuosité des eaux minérales , 30 .",
+        "words": [
+          "Odeur",
+          "eaux min"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/4215048a-6393-5d15-9bc5-3525ff131a51",
+        "value": "2 ° Odeur et saveur .— Pure , la mer est sans odeur , d ' une saveur fortement salée , désagréable , nauséeuse .3 ° Température .",
+        "words": [
+          "désagréable",
+          "nauséeuse",
+          "mer",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/446d2f57-0e34-5a6c-9d97-10a732009a14",
+        "value": "— Les nombreuses sources sulfatées calciques de Prèchacq , extrêmement abondantes , ont 60 ° à leur émergence ; leur minéralisation est de tous points semblable à celle de Dax ; les houes qu ' elles forment sont également similaires , comme origine et comme composition .On trouve en outre une source sulfureuse froide ( 18 ° ) qui jaillit à 200 mètres de l ' établissement , qui est limpide et incolore , avec une légère odeur et une saveur sulfureuses .La presque totalité de l ' hydrogène sulfuré qu ' elle renferme est libre et non combiné , grâce à une assez forte dose d ' acide carbonique ; elle contient des traces d ' arsenic .",
+        "words": [
+          "odeur",
+          "légère",
+          "sulfureuses",
+          "saveur",
+          "source sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/45f35944-53c4-58c8-8a0b-f1a16d6c4533",
+        "value": "Sources .— Elles sont dites de Soufre et d ' Alun ( 45 et 47 ) et ont à peu près la même composition chimique : ce sont des eaux limpides , fort gazeuses , très faiblement minéralisées ( Oijr , 49 et 0gr , 43 ) , d ' odeur faiblement sulfureuse .Elles contiennent une certaine proportion d ' hydrogène sulfuré et d ' hyposulfite de soude , associés à des sulfates et à des carbonates calciques .",
+        "words": [
+          "odeur",
+          "eaux",
+          "faiblement sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/476c6e84-4448-565c-9aa0-23fcd2a86655",
+        "value": "La source Bidon , dont la température est de 19 ° et le débit considérable , a une minéralisation à peu près analogue à celle de la source Ancienne , à laquelle on la mélange pour en abaisser le degré thermique .La source Ancienne , la plus importante , a une température de 47 ° , 8 ; son griffon est au centre de l ' établissement ; elle est limpide , sans odeur , d ' une saveur salée et piquante , nullement désagréable .Elle dégage de nombreuses bulles de gaz contenant de l ' oxygène , de l ' acide carbonique et surtout de l ' azote ; son débit est de 70 mètres cubes par jour .",
+        "words": [
+          "odeur",
+          "elle",
+          "saveur",
+          "source Ancienne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/4827ccf1-814e-585a-a3f7-0ee2344b8335",
+        "value": "Les malades y trouvent , de plus , un petit établissement hydrothérapique , avec salles de douches , piscines , bains de bourgeons de sapin , bains de vapeur térébenthinés .La sécheresse du sol , là pureté de l ' air ozonisé et chargé de senteurs balsamiques , font de Gérardmer et de Bussang de parfaits lieux de séjour et aussi de ' post - cU1 ; ê pour les malades ayant déjà .suivi un traitement thermal dans une des stations du groupe vosgien .",
+        "words": [
+          "Gérardmer",
+          "air",
+          "senteurs",
+          "balsamiques",
+          "Bussang"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/49e7e911-bbfd-564d-a858-1590522308fd",
+        "value": "Malades ayant de l ' entérite chronique , des fermentations gastrointestinales .Rhumatisants et goutteux chroniques .Ce climat est en effet idéal , surtout en hiver , où le thermomètre ne descend pas au - dessous de 15 à 200 en moyenne ; la localité possède une luxuriante forêt de pins , comparable à celle d ' Arcachon ; le voisinage de la mer lui donne les avantages toniques de l ' air salé ; l ' altitude moyenne de 550 mètres la rend favorable à tous les cas pathologiques ; c ' est donc une station climatique d ' été et d ' hiver des plus précieuse .",
+        "words": [
+          "goutteux",
+          "chroniques",
+          "Rhumatisants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/4b2efb82-fdb9-5b16-93a5-fcf26fd9bc73",
+        "value": "La minéralisation est en général faible , le sulfate de chaux , peu soluble , étant le principal élément minéralisateur .Ce sel est d ' ordinaire accompagné de sulfate de magnésie , de bicarbonates de chaux et de fer , avec de petites quantités de lithine et une proportion assez notable de matières organiques : Contrexéville ( Vosges ) ; Vittel ( Vosges ) ; Martigny ( Vosges ) ; Captent Hautes - Pyrénées ) ; Bagnères - de - Bigorre ( Hautes - Pyrénées ) ; Aulus ( Ariège ) ; Saint - Amand ( Nord ) , boues exhalant une odeur sulfurée prononcée ; Bath ( Angleterre ) , une des rares stations thermales du Royaume - Uni ; Lucques ( Italie ) .IV .",
+        "words": [
+          "fer",
+          "Bath",
+          "Italie",
+          "Angleterre",
+          "odeur",
+          "matières",
+          "boues",
+          "Pyrénées",
+          "sulfate de magnésie",
+          "Hautes",
+          "Royaume",
+          "sulfurée prononcée",
+          "bicarbonates de chaux et"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/4b985016-eadf-599d-a953-f8006a252516",
+        "value": "En dérivant l ' eau de fuite d ' un vieux moulin , le long de la montagne , il inonda d ' une manière permanente et constante tout le sous - sol alluvien , refoulant l ' eau minérale chaude contre la roche à un niveau invariable , où des galeries d ' amenée vont la chercher pour la conduire au lieu d ' exploitation .Ces eaux sont limpides , onctueuses au toucher , inodores , à saveur légèrement amère .Leur minéralisation est constituée par des sul - Fig .",
+        "words": [
+          "inodores",
+          "eaux",
+          "saveur",
+          "légèrement amère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/5b1ae5eb-e022-55fd-b937-329196140dea",
+        "value": "Mais il a été établi , en outre , par de nombreuses expériences , que des traces de radium , de thorium , d ' actinium , existent partout dans la substance de la terre , et que les émanations radio - actives résultant de leur désintégration atomique sont partout répandues dans le sol et le sous - sol .Les eaux et les gaz souterrains se chargent plus ou moins de ces émanations , qui sont ainsi continuellement déversées à la surface du sol dans l ' atmosphère .En raison d - e cette universelle diffusion des corps radio - actifs ( 2 ) , il semble impossible de trouver une eau ou un gaz naturel qui soient absolument dépourvus de radio - activité , en sorte que les sources thermales sont toutes plus ou moins radio - actives .",
+        "words": [
+          "émanations",
+          "eaux",
+          "gaz souterrains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/63da65f5-d42b-5c73-bbca-fbb24bb83e2b",
+        "value": "11 ne semble pas qu ' il soit jamais totalement absent ; souvent il prédomine , et on a cru pendant longtemps qu ' il constituait seul , ou presque seul , l ' élément gazeux de certaines sources .Nous savons aujourd ' hui qu ' il est toujours accompagné de petites quantités d ' autres corps gazeux , dont on avait jusqu ' à ces dernières années méconnu l ' existence ; ce sontles émanations radio - actives , d ' une part , et , de l ' autre , les « gaz rares » , dont nous allons successivement parler .A .",
+        "words": [
+          "émanations",
+          "gaz rares",
+          "autres corps gazeux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/65305596-97fd-50fc-b1b3-353a09f9a2d7",
+        "value": "Le dégagement spontané d ' hydrogène sulfuré existe dans toutes les sources , mais à un degré variable ; nulle part il n est plus élevé qu ' à Ax et surtout à Luchon , où se trouvent les eaux les plus altérables .Parfois tout le sulfure est transformé en sulfate ; il n ' y a plus de dégagement dli2S perceptible à l ' odorat ; la sulfhydrométrie ne décèle plus de traces de soufre : ce sont des eaux sulfureuses dégénérées ( plusieurs groupes des Pyrénées - Orientales ) .Évalué suivant l ' usage en monosulfure , le principe sulfuré existe en général à la dose de 1 à 3 centigrammes par litre ; il atteint 4 centigrammes à Barèges , 4cg , 5 à Labassère et plus de 7 centigrammes à Luchon et à Cadéac , sans qu ' on puisse en inférer une action proportionnelle à l ' élévation du chiffre .",
+        "words": [
+          "odorat",
+          "eaux sulfureuses",
+          "Pyrénées",
+          "dégagement dli2S",
+          "tout le sulfure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/664a0959-8401-5846-811f-c07c3fba87c7",
+        "value": "Nous comprenons , sous ' cette rubrique , un certain nombre de sources dont la salure , pauvre et généralement banale , ne permet de les placer rationnellement dans aucune des précédentes catégories .Ces eaux présentent souvent une forte radio - activité : Saint - Christau ( Basses - Pyrénées ) , eaux froides , résidu sec ogr , 2 à Offr , 3 environ , salure banale , traces de cuivre ; Dax ( Landes ) , eaux chaudes , environ 1 gramme de résidu sec , salure très banale , boues végétominérales à odeur sulfurée ; La Chaldette ( Lozère ) , eaux tempérées , résidu sec ogr , 58 , salure très banale , forte radioactivité ; Chaudesaigues ( Cantal ) , eaux très chaudes , résidu sec moyen ogr , 9 , salure très banale ; Mont ' Dore ( Puy - de - Dôme ) , sources chaudes , gazeuses , en moyenne 19r , 4 de résidu sec , fer , lithine , arsenic , très siliceuses ( Si ( P , Og , , 175 ) ; Néris ( Allier ) , eaux chaudes , résidu sec environ 1 gramme , faiblement ferrugineuses et lithinées , gaz radio - actifs ; Bagnoles ( Orne ) , eaux tempérées , salure très pauvre ( ogr , 075 de résidu sec ) et banale , gaz radio - actifs ; Bains - lesBains ( Vosges ) , eaux chaudes , résidu sec de Ogr , 3 à Ogr , 5 , salure banale ( forte proportion de silice ) , gaz radio - actifs ; Plombières ( Vosges ) , eaux chaudes , résidu sec 091 , 15 à ogr , 36 , salure banale ( riches en silice ) , forte radio - activité ; Évian ( Savoie ) , eaux froides , minéralisation pauvre ( environ ogr , 3 de résidu sec ) et banale ; Gastein ( Tyrol ) , eaux chaudes , minéralisation pauvre ( ogr , 3 environ de résidu sec ) et banale , très radio - actives .CHAPITRE VI IDENTIFICATION , VARIATIONS , ALTÉRATIONS CONSERVATION 1 .",
+        "words": [
+          "fer",
+          "Tyrol",
+          "odeur",
+          "sources",
+          "boues",
+          "Bains",
+          "lithine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/68603556-f977-572a-a6d4-f0cbfa20c100",
+        "value": "Leur débit est considérable et atteint 2 500 mètres cubes par jour .Elles sont limpides , transparentes et sans odeur .Les plus utilisées sont : Salies , 51 ° ; Cazaux , 51 ° ; le Dauphin , 49 ° ; la Reine , 46 ° ; Saint - Roch , 41 ° ; le Foulon , 35 ° ; le Grand - Pré , 35 ° ; le Platane , 33 ° ; Salut , 33 ° ; les sources Romaines , 29 ° à la grande piscine qu ' elles alimentent ; la Peyrie , 21 ° , exclusivement employée en boisson .",
+        "words": [
+          "odeur",
+          "Elles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/6967d41b-c79c-58f1-987b-3f3ff5481f16",
+        "value": "Seules possèdent une radio - activité durable les eaux qui tiennent en dissolution un sel de radium ; de thorium , etc ., parce que le sel radio - actif produit sans cesse de l ' émanation .III .",
+        "words": [
+          "sel",
+          "émanation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/69acc8b1-635f-5448-952b-4ca065fe4b9a",
+        "value": "Les médications du traitement de Mariiez ne diffèrent guère de celles de Challes : on y traite des enfants lymphatique et scrofuleux , porteurs d ' adénopathies ou de rhino - pharyngites chroniques ( surtout après ablation chirurgicale de leurs végétations ) .Les bronchitiques catarrheux , emphysémateux et asthmatiques tirent grand profit des séances d ' inhalation ..",
+        "words": [
+          "emphysémateux",
+          "catarrheux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/6a6611ff-5c99-5479-b36f-c6c022532fb0",
+        "value": "Ainsi en est - il surtout des obèses avec congestion hépatique , lorsque cette dernière est sous la dépendance , soit de l ' alcoolisme , soit du surmenage prolongé des voies digestives .Ce sont habituellement des dyspeptiques avec langue blanche et haleine fétide ; un certain degré d ' hypertension portale se traduit par du météorisme habituel et des hémorroïdes ; les conjonctives sont subictériques ; le foie gros , le plus souvent indolore , quelquefois cependant sensible à la pression .Ces malades quittent Brides avec des fonctions digestives meilleures , un ventre tombé , le foie rentré dans l ' ordre , les urines et les conjonctives de nouveau claires .",
+        "words": [
+          "fétide",
+          "haleine",
+          "haleine fétide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/6e37de09-ca9f-50be-9e4d-1a30e2fdb4d6",
+        "value": "On s ' y rend soit par les bateaux à vapeur qui vont en quinze minutes de Cette à Balaruc , soit par le chemin de fer , la station de Balaruc étant située sur un embranchement qui , de Cette , va rejoindre la ligne de Montauban à Montpellier .Le climat est celui delà Méditerranée , doux et sec ; les pluies sont rares ; la station est abritée du mistral par les élévations du sol situées au nord - ouest ; l ' air est saturé des émanations des pins qui environnent l ' établissement et des particules salines de la mer , conditions qui font de Balaruc une station à la fois thermale et climatique maritime .La cure peut se faire de mai à octobre , elle est plus agréable au début ou à la fin de l ' été .",
+        "words": [
+          "Méditerranée",
+          "émanations",
+          "station",
+          "Balaruc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/7048b1ce-ceb7-5e1a-b32f-c5810881ff65",
+        "value": "— Il n ' existe pour ainsi dire pas d ' eau minérale absolument inodore et exempte de saveur ; ces deux caractères sont sous la dépendance directe de la composition chimique .Les eaux sulfurées exhalent une odeur sulfhydrique , et il en est quelquefois de même des eaux sulfatées , par suite de phénomènes de réduction .Les sources riches en acide carbonique présentent une saveur acidulé ; les eaux salines ont la saveur du sel , etc .",
+        "words": [
+          "odeur",
+          "eaux sulfurées",
+          "eaux sulfatées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/7224a158-3d78-5e4e-b7bd-5a4540082b94",
+        "value": "de la montagne Noire , 222 .Eaux minérales ( odeur des ) , 30 .r ( onctuosité des ) , 30 .",
+        "words": [
+          "odeur",
+          "Eaux minérales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/746f7546-eb21-55aa-9efd-9d38d8e3dd34",
+        "value": "Si la séance se prolonge plus de huit à dix minutes , la toux reparait , avec sécheresse de la gorge , un peu de pesanteur de tête , du serrement des tempes ; enfin le pouls s ' accélère à nouveau , et il peut même apparaître des vertiges .Au bout de quelques jours , une odeur de soufre commence à se dégager de la peau du malade et de ses expectorations .En même temps , on constate l ' augmentation des sulfates urinaires , preuve certaine de la pénétration de Ii2S par osmose jusque dans le milieu sanguin .",
+        "words": [
+          "odeur",
+          "peau",
+          "soufre",
+          "malade",
+          "Au bout de quelques jours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/75c3d577-f057-538c-b96d-54f65aaceb14",
+        "value": "CARACTÈRES PHYSIQUES .L ' ODEUR des eaux sulfurées sodiques est en général très faible à l ' émergence et rappelle celle des œufs sur le plat ; elle ne devient réellement sulfureuse que lorsqu ' elles sont décomposées par l ' air ou les acides ; leur SAVEUR est franchement hépatique ; leur COULEUR légèrement jaune verdâtre , plus prononcée lorsqu ' il y a des polysulfures .Leur TEMPÉRATURE est généralement assez élevée , 30 à 45 ° ; quelques - unes atteignent 70 ° .",
+        "words": [
+          "très faible",
+          "sulfureuse",
+          "hépatique",
+          "eaux sulfurées sodiques",
+          "ODEUR"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/7662eaac-cf5f-515e-bf65-202804fca469",
+        "value": "Cependant les eaux salées les plus chaudes , celles , à température constante , qui s ' écoulent d ' anciens filons métalliques , paraissent bien plutôt se former gràce à la dissolution directe , par les eaux vierges ambiantes , ces vapeurs chlorurées issues des profondeurs .C ' est qu ' en effet , ces eaux salées thermales contiennent généralement les principes caractéristiques des émanations ignées .Ainsi , les eaux salées de Bourbonne , de Baltfruc , de Salsomaggiore , etc .",
+        "words": [
+          "émanations",
+          "eaux salées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/78a41274-62a9-57af-9af0-9f4b46195045",
+        "value": "Elles ont une forte odeur d ' œufs pourris due au dégagement abondant de H2S .Cette odeur est si intense qu ' elle se répand à une certaine distance des sources .Elles sont onctueuses au toucher , ont une saveur styptique et légèrement amère .",
+        "words": [
+          "odeur",
+          "intense"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/7a68de7a-8bc0-54e5-a014-61623e0c2393",
+        "value": "Sources .— Au nombre de cinq , dont trois seulement utilisées : 10 la source des Arceaux , froide ( 120 ) , extrêmement abondante , limpide , presque inodore , d ' une saveur légèrement styptique et d ' une onctuosité très appréciable ; 2 ° la source du Prieuré , tiède ( 20 ° ) , limpide , à odeur légèrement sulfureuse ; 3 ° la source du Pécheur , froide , également sulfureuse , pure , abondante , utilisée seulement en boisson .Le débit des sources atteint 1850 mètres cubes par jour .",
+        "words": [
+          "odeur",
+          "source",
+          "légèrement sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/7ed5eeef-dbe2-5fa9-abdf-61f9a972c739",
+        "value": "0 , 09 Matière organique 0 , 06 La matière organique est constituée par la barégine , signalée pour la première fois , d ' où son nom , dans cette station .L eau est limpide , avec une forte odeur hépatique , une saveur fade ; elle est onctueuse au toucher .Elle s ' altère difficilement à l ' air , elle ne se trouble pas , ne blanchit pas .",
+        "words": [
+          "forte",
+          "odeur",
+          "elle",
+          "fade",
+          "eau",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/7faeac87-7dbd-5ef0-8716-6dde10bfc094",
+        "value": "Les plus électrogènes sont les sources Bayen et Reine ; ce sont les plus excitantes .Moureu et Lepape , étudiant spécialement vingt sources de Luchon , ont constaté que la Reine n ' était nullement radioactive , tandis que la source Bordeu et les sources les plus douces de la station présentaient une radio - activité considérable .La source Bordeu possède , en France , la plus grande radio - activité connue ( 9 , 18 ) ; seule la station de Gastein en Autriche indique un chiffre supérieur .",
+        "words": [
+          "radioactive",
+          "Moureu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/8991f126-d666-5b6e-b8e7-e8508d8b6ff9",
+        "value": "Le débit de la source sulfureuse est de 43 mètres cubes par jour ; sa température est de 220 , 8 .Elle est limpide , onctueuse au toucher , d ' une odeur et d ' une saveur sulfureuses ; elle contient : Sulfate de calcium - 1 , 57 — de magnésium .\" * * .",
+        "words": [
+          "odeur",
+          "sulfureuses",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/8a0548ff-5a5a-58d3-9bf7-ea740c89b21a",
+        "value": "Il existe enfin des services de , pulvérisations pharyngées et nasales et d ' irrigations rectales .Les eaux mères sont parfois appliquées en compresses locales , dont l ' influence , est décongestionnante et sédative .La Motte .",
+        "words": [
+          "sédative",
+          "décongestionnante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/8dff538b-a09c-5a31-9572-d7d6ae38ec7d",
+        "value": "océanienne intéressé le médecin .Abondante sur les plages à varechs , l ' eau de mer lui doit sa saveur nauséeuse .D ' après Constantin James , elle serait l ' élément essentiel , en quelque sorte vital , de la mer .",
+        "words": [
+          "nauséeuse",
+          "eau de mer",
+          "saveur",
+          "les plages à varechs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/951df60f-c481-5e18-b809-fdccecc581fb",
+        "value": ".Les eaux minérales pourraient être considérées comme des volcans privés de la faculté d ' émettre aucun autre produit que des émanations gazeuses , qui , dans le plus grand nombre de cas , n ' arrivent à la surface que condensées en eaux minérales et thermales .» Cette opinion , plus tard abandonnée par presque tous les techniciens , comme on l ' a vu , doit .",
+        "words": [
+          "émanations",
+          "eaux minérales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/9556c7c3-7ed3-5558-bbb5-7ad77ad63f6e",
+        "value": "Sources .— Au nombre de huit , limpides , sans odeur , ou à faible odeur sulfureuse , d ' un goût salé , onctueuses au toucher en raison de leur teneur en glairine , elles ont une température qui oscille entre 44 et 60 ° , sauf l ' une d ' elles , qui , moins minéralisée que les autres , est en même temps froide ( 18 ° ) et a des propriétés thérapeutiques différentes .Le débit total est considérable , supérieur à 4 000 mètres cubes par vingt - quatre heures .",
+        "words": [
+          "faible",
+          "odeur",
+          "elles",
+          "sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/959bd0eb-b3b8-56ad-b9d4-fa39150deb69",
+        "value": "Quatre salles en amphithéâtre sont remplies d ' un mélange de gaz ( obtenu par ce même procédé de cascades ) et de vapeurs - sexhal - àiit de l ' eau minérale surchauffée à travers un plancher à claire - voie .La température y est constamment de 27 ° à 28 ° , l ' odeur beaucoup moins forte , l ' atmosphère plus douce à respirer .Aussi les malades y séjournent - ils trente à cinquante minutes , en partie déshabillés ' et couverts de grands peignoirs .",
+        "words": [
+          "odeur",
+          "atmosphère",
+          "moins forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/9765b35e-dc78-53ec-ad5f-93bfe7142198",
+        "value": "11 est d ' ailleurs démontré que , sous son influence , il y a accroissement rapide de la tenèur du sang en hémoglobine ( Maurice Faure ) .Le soufre , en augmentant la vitalité de toutes les cellules de l ' organisme , accélère la nutrition , d ' où indication formelle des eaux sulfureuses , chez les arthritiques , à la condition qu ' on se rappelle : que les goutteux doivent être éloignés des sources sulfureuses fortes et ne peuvent ètre traités qu ' auprès de certaines sources dégénérées - - - ou faibles ; que les rhumatisants vrais retirent au contraire de sérieux bénéfices de toutes les eaux sulfureuses , surtout ceux dont les muqueuses sont plus spécialement affectées par la diathèse ; enfin que certains asthmatiques doivent d ' autant plus recourir à la médication sulfureuse que l ' élément catarrhal domine plus chez eux .Sources .",
+        "words": [
+          "eaux sulfureuses",
+          "rhumatisants",
+          "médication"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/a6d8de70-f7ad-599d-b403-e56974f502cf",
+        "value": "En même temps leur réaction d ' acide devient alcaline .Son odeur d ' œufs pourris est très prononcée , la teneur en soufre étant exceptionnellement élevée , au point qu ' on a pu dire qu ' elle battait le record des eaux sulfureuses de France et même du monde entier ( Landouzy ) .Le soufre y est presque entièrement à l ' état d ' acide sulfhydrique ( ogr , 03i ou 24ce , 7 ) , mélangé à 27 centimètres cubes d ' acide carbonique et à une faible proportion d ' azote ( 4 centimètres cubes ) , La minéralisation totale est faible ( 2gl ' , 24 ) ; elle est caractérisée par la présence de sulfates ( lsr , 20 au total ) et de carbonates .",
+        "words": [
+          "France",
+          "très prononcée",
+          "odeur",
+          "Son",
+          "œufs pourris",
+          "eaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/a712a24b-afcd-5062-b9d6-2fa9186199ed",
+        "value": "33 .— Le Mont - Dore : inhalations de gaz thermaux .symptômes , qui cèdent d ' ailleurs rapidement pour faire place à des transpirations abondantes , odorantes même ( M .",
+        "words": [
+          "inhalations",
+          "Mont - Dore",
+          "gaz thermaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/a89e6976-a004-59dc-be06-0a1daec3cab8",
+        "value": "Le cap Martin , dépendance de Menton , est « couvert d ' une forêt de pins maritimes et parasols , dans un véritable bouquet de myrtes , de lentisques , de mimosas , etc .Sa situation en dehors de la grande voie de la Corniche si tumultueuse et si poussiéreuse et au milieu des senteurs balsamiques des pins qui la protègent par ailleurs Fig .lo7 .",
+        "words": [
+          "senteurs",
+          "balsamiques",
+          "pins",
+          "grande voie de la Corniche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/aa11c5d6-2ecd-53fb-b9d5-e27d478481d4",
+        "value": "Les boucs , extraites d ' un gisement naturel , ont une couleur ( 1 ) Barbotan aurait du être décrit parmi les sulfurées caleitlue , il la suite de Uamarde et d ' Eugénie - les - Bains , mais il a paru pratiquement plus logique de la rapprocher des autres stations de boues , ce mode de traitement constituant la caractéristique essentielle des stations qui l ' utilisent .rouge tout à fait spéciale ; elles sont douces , onctueuses et présentent une odeur sulfureuse très accentuée : ce sont des tourbes minérales sulfurées .Au contact de l ' eau chaude , dans le bain , elles produisent un dégagement gazeux considérable .",
+        "words": [
+          "odeur",
+          "elles",
+          "sulfureuse très accentuée",
+          "tourbes minérales sulfurées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/aa795bd1-3e31-528b-8bb0-1baeab7d32fe",
+        "value": "5 ) , l ' Esquirette tempérée ( 32 ° ) , qui alimentent l ' établissement thermal ; Baudot ( 25 ° ) , Laressec ( 24 ° ) , Minvielle ( 100 , 6 ) , qui fournissent l ' eau de trois buvettes isolées .Ces eaux sont limpides , incolores , douces au toucher ; elles ont une odeur légèrement sulfureuse .Leur débit total est de 150 mètres cubes par jour .",
+        "words": [
+          "odeur",
+          "elles",
+          "eaux",
+          "légèrement sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/ac9c4f88-fa0e-58fe-8228-1b9fc2d7b1b1",
+        "value": "» 13gr , 06 En même temps que cette eau , il sort de la roche sèche , portée au rouge dans le vide , une série de gaz divers : hydrogène , acide carbonique , oxyde de carbone , méthane ( variable ) , ammoniaque , oxysulfure de carbone , hydrogène sulfuré ( variable ) , enfin de l ' azote , de l ' argon , de l ' hélium .Tous ces gaz se rencontrent aussi dans les émanations volcaniques .Pour expliquer maintenant l ' origine de l ' eau primitive venue des régions ignées du globe , considérons une couche de porphyre , de granit , de trachyte , etc .",
+        "words": [
+          "émanations",
+          "ces gaz"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/b07be905-fedd-5299-9fc1-c99aefeec95b",
+        "value": "» ( Hayem } .Donc région riche en ozone : salubre et calmante .Selon le Pr Renaut , le climat est un véritable médicament pour le cardiopathe , à la condition que le climat soit stable , uniforme , incapable de donner des à - coups circulatoires , des changements brusques de tension .",
+        "words": [
+          "région",
+          "calmante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/b5344d0b-210f-552e-95f1-3c47757ee996",
+        "value": "— Au nombre de huit , situées à quelques mètres les unes des autres , elles ont un débit évalué à plus de 200 mètres cubes par jour , et encore le captage est - il incomplet .Leur température varie entre 53 et 550 ; leur odeur est à peine hépatique ; elles sont très onctueuses au toucher et contiennent une forte proportion de silicates ainsi que de la glairine en abondance à leur point d ' émergence .La minéralisation de la source Rastello , la plus importante , accuse un résidu sec de ogr , 35 , dont Ogr , 025 de monosulfure de sodium et .",
+        "words": [
+          "odeur",
+          "elles",
+          "leur",
+          "glairine",
+          "silicates",
+          "à peine hépatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/b9d171ba-7d8a-5ad4-9b32-ce0fa53c73c3",
+        "value": "Les eaux sulfureuses sont fournies par neuf griffons donnant par jour plus de 250 mètres cubes , à la température de 35 ° , 4 à 36 ° , 5 .Elles sontlimpides , - ont une saveur douceâtre et une odeur sulfureuse légère .La minéralisation totale est très faible , ne dépassant pas ogr , 15 , constituée essentiellement par des carbonates de chaux et de magnésie , des sulfates et des chlorures , de la silice et du fer à l ' état de carbonate , à la dose de ogr , 03 .",
+        "words": [
+          "odeur",
+          "douceâtre",
+          "saveur",
+          "sulfureuse légère"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/bb3c484c-370b-50c6-8eae-c2e4332ccbb7",
+        "value": "La source Goccie a 38 ° à l ' émergence ; elle est légère , digestive et quelque peu laxative .Elle n ' a presque pas d ' odeur et une saveur un peu amère .Elle contient Os ^ oil de monosulfure de sodium , Ogr , 003 d ' hyposulfite de soude et des silicates .",
+        "words": [
+          "odeur",
+          "pas",
+          "un peu amère",
+          "Elle",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/bef72ce5-b6d9-5fc8-b1fe-70ca92adde60",
+        "value": "Ajoutons que l ' air en est entièrement renouvelé toutes les demi - heures .Les malades séjournent trois à dix minutes au plus dans ce milieu à forte odeur sulfureuse , mais relativement sec , ce qui permet de garder les habits ordinaires .Ils passent ensuite dans l ' antichambre pour une dizaine de minutes et , peuvent faire ainsi progressivement jusqu ' à quatre ou huit séances quotidiennes , toujours Fig .",
+        "words": [
+          "forte",
+          "odeur",
+          "malades",
+          "sulfureuse",
+          "milieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/c167c23d-88f6-5cbc-96aa-c8db3f921488",
+        "value": "Les découvertes récentes , relatives à l ' ionisation , à l ' état colloïdal des éléments , à la radio - activité , aux gaz rares , tout en soulevant un coin du voile , reculent surtout les difficultés du problème et montrent combien incomplètes encore sont nos connaissances .Une Eau Minérale , apportant jusque dans les tissus de nos malades les énergies en décomposition du feu central , renferme des éléments multiples , à liaisons instables , à mutations incessantes ; elle apporte une énergie qui se dégrade et finit par s ' exhaler en émanations radio - actives .Elle comprend donc bien d ' autres choses encore que ce que nous indique l ' analyse chimique .",
+        "words": [
+          "Eau",
+          "elle",
+          "émanations",
+          "actives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/c380325e-a51e-5f93-b549-44c13b524f88",
+        "value": "De toutes parts , on est entouré de verdure , situation qui fait de Préchacq une station estivale à la fois tranquille et agréable et qui explique sa vogue croissante .Le climat est doux et sédatif ; la température n ' y est jamais très élevée , et l ' atmosphère bénéficie des senteurs balsamiques des immenses forèts de pins du voisinage .Sources .",
+        "words": [
+          "atmosphère",
+          "senteurs",
+          "balsamiques",
+          "forèts de pins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/c4994c88-d6fc-51bb-a358-e483caee02d9",
+        "value": "Elle a dans la galerie de captage 51 ° ; elle dégage dans ce parcours une grande quantité d ' acide carbonique , qui nécessite l ' usage de ventilateurs , lorsqu ' on veut faire des recherches dans cette galerie .Elles ont toutes deux une saveur très salée , une limpidité parfaite , pas d ' odeur , sauf parfois une légère émanation sulfureuse qu ' elles doivent à la présence de matières organiques .Leur composition est la suivante : Aïn - el - Bey .",
+        "words": [
+          "odeur",
+          "émanation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/c72a9951-542f-501f-8046-a2d9243d3f01",
+        "value": "Par contre , certaines sources ne contiennent plus que des principes alcalins et barégineux , ou des hyposulfites .Elles sont limpides au griffon ; elles ont une odeur et une saveur hépatiques .Quelques - unes présentent , comme à Luchon , le phénomène du blanchiment ; une d ' elles a une couleur bleue due à une faible quantité de soufre en suspension .",
+        "words": [
+          "odeur",
+          "elles",
+          "saveur",
+          "hépatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/cb47e7de-8318-5744-bbc6-bf85d17a73cd",
+        "value": "Elie a une température de 19 ° , 6 , un débit de 80 mètres cubes par vingtquatre heures .Limpide , sans odeur déterminée , avec un arrière - goût sulfureux et ferrugineux , elle a une minéralisation dans laquelle le sulfate de chaux domine à la dose de isr , 50 , accompagné comme toujours , dans cette famille , de sulfate de magnésie et de bicarbonates .Modes d ' administration .",
+        "words": [
+          "odeur",
+          "elle",
+          "goût",
+          "sulfate de magnésie",
+          "bicarbonates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/cd776ef3-2f0e-58ed-824e-a395c5713a36",
+        "value": "' Gérardmer , à la même altitude de 670 mètres , est une station plus mondaine et surtout fréquentée par les touristes qu ' attirent la vue des lacs , ainsi que les environs boisés et très pittoresques .Les malades y trouvent , de plus , un petit établissement hydrothérapique , avec salles de douches , piscines , bains de bourgeons de sapin , bains de vapeur térébenthinés .La sécheresse du sol , là pureté de l ' air ozonisé et chargé de senteurs balsamiques , font de Gérardmer et de Bussang de parfaits lieux de séjour et aussi de ' post - cU1 ; ê pour les malades ayant déjà .",
+        "words": [
+          "bourgeons de sapin",
+          "hydrothérapique",
+          "salles de",
+          "vapeur térébenthinés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/cf046ce4-21b6-53cc-a701-07c32cb22d95",
+        "value": "Elle est claire , ne blanchit pas à l ' air , est très onctueuse au toucher , et produit sur la peau une impression très particulière de douceur , de velouté , qu ' elle doit à son alcalinité et à sa richesse en barégine .Elle a une saveur hépatique et une faible odeur .Elle dégage une multitude de petites bulles d ' azote .",
+        "words": [
+          "faible",
+          "odeur",
+          "hépatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/d037fe30-d1c5-5a8b-b3b2-ae9d47a7fd74",
+        "value": "Lorsque l ' albuminurie est au contraire fonctionnelle ( quelques centigrammes à 5 grammes ) , avec chiffre d ' urée assez élevé , sans cylindres , on la voit s ' atténuer et disparaître au cours du traitement ( R .Leur action diurétique n ' est pas douteuse , et les sources fortes déterminent rapidement de l ' alcalinité urinaire .On n ' est pas fixé quant à leur action sur les éliminations uriques .",
+        "words": [
+          "diurétique",
+          "Leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/d29b4f09-e633-5909-a0ee-966bcbd51a2d",
+        "value": "On note , au contraire , chez beaucoup de dermopathes , une diminution notable du prurit , des nuits plus calmes , sans ces insomnies et ces traumatismes par grattage nocturne qui contribuent tant à exaspérer le système nerveux .Comme l ' a dit Besnier , « suivant le mode d ' emploi , la forme , la durée de la médication , l ' action du bain de Saint - Gervais est sédative ou excitante , mais elle reste de toutes manières dans la main du médecin traitant » .On trouve , dans les salles du bel établissement reconstruit en 1893 , des installations parfaites de douches nasales et pharyngées , d ' irrigations rectales et vaginales et de pulvérisations pharyngées ou cutanées .",
+        "words": [
+          "sédative",
+          "excitante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/d814b184-a728-5962-9651-56794ddee096",
+        "value": "Aussi le climat est - il tempéré , exempt de variations brusques , et la saison s ' étend - elle , comme à Allevard , des premiers jours de juin au milieu de septembre .La source est froide ( 10 ° , 5 ) , limpide , alcaline , d ' odeur faiblement soufrée ( ce qui tient à la faible proportion d ' H2S qu ' elle renferme ) ; sa saveur est amère et sulfureuse .Plus faiblement minéralisée qu ' Allevard ( 0sr , 85 ) , elle partage sa stabilité , ce qui lui permet d ' être exportée sans altération notable .",
+        "words": [
+          "odeur",
+          "sa",
+          "faiblement",
+          "La source"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/d9a84a49-7004-5cca-90ba-e489b8288305",
+        "value": "— Le Mont - Dore : inhalations de gaz thermaux .symptômes , qui cèdent d ' ailleurs rapidement pour faire place à des transpirations abondantes , odorantes même ( M .Bertrand considérait ce signe comme d ' excellent augure ) , et à des urines plus abondantes .",
+        "words": [
+          "odorantes",
+          "abondantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/dd8236a5-ba39-5653-886e-026261afd153",
+        "value": "Elles sont chaudes et plus ou moins gazeuses : Bourbon - Lancy ( Saône - et - Loire ) , gaz radio - actifs et riches en hélium ; Maizières ( Côte - d ' Or ) , fortemement lithinée , gaz radio - actifs et riches en hélium ; Luxeuil ( Haute - Saône ) , gaz radio - actifs ; Balaruc ( Hérault ) ; Acqui ( Piémont ) ; Baden - Baden ( Grand - Duché de Bade ) ; Kissingen ( Bavière ) ; Rakoczy - Wiesbaden ( Hesse - Nassau ) ; Seltz ( HesseNassau ) , etc .2 ° Chlprurées sulfatées .— Ces sources contiennent des sulfates en notables proportions .",
+        "words": [
+          "sulfatées",
+          "Chlprurées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/defd1ef8-e3e0-52ec-867e-19b36f2553ea",
+        "value": "Ce sont , surtout , les traitements locaux , les inhala tions , pulvérisations , humages , irrigations nasales , introduisant l ' agent actif au .lieu même de la lésion , et qui , par l ' atmosphère humide , chaude , médicamenteuse , provoquent une action sédative , surtout topique , cataplasmante , cicatrisante .Telles sont les pratiques suivies aux Stations sulfureuses , à Cauterets , aux Eaux - Bonnes , à AUevard , par exemple , s ' il s ' agit de pharyngolary ngo - trachéites ; à Luchon , à Ax , s ' il s ' agit de catarrhes de la trompe , nécessitant l ' introduction , parla sonde , de la vapeur jusque dans l ' oreille moyenne .",
+        "words": [
+          "sédative",
+          "cicatrisante",
+          "cataplasmante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/df2994c1-d869-5231-a0bd-0de50bad38f2",
+        "value": "La couleur des eaux chlorurées est ordinairement nulle ; ces eaux sont limpides , blanchissent quelquefois en refroidissant ( Bourbon - l ' Archambault ) ; certaines , en Allemagne surtout , laissent déposer • un sédiment ocracé ; d ' autres ont une coloration rougeâtre ( Salies ) .Leur odeur est également nulle , quelquefois légèrement sulfureuse après refroidissement ( Bourbon - l ' Archambault ) .Leur saveur , fade dans les moins minéralisées , est plus ou moins salée suivant leur teneur en chlorure de sodium ; elle est parfois un peu amère , un peu aigrelette , lorsqu ' il y a une quantité notable de gaz carbonique .",
+        "words": [
+          "odeur",
+          "nulle",
+          "Leur",
+          "légèrement sulfureuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/e3838339-b6d2-5a96-b45c-5b634a42fd56",
+        "value": "L ' absorption intestinale , également très rapide ( Monsseaux ) , est ralentie seulement chez les sujets qui présentent de l ' hypertension portale avec stase dans les réseaux veineux de l ' intestin .A Martigny et à Contrexéville , on note régulièrement , dès le troisième ou quatrième verre d ' eau ingéré , une ou plusieurs selles liquides , souvent bilieuses , très fétides ( peut - être par production de H2S aux dépens des sulfates de l ' eau ) .Ces selles , toujours matinales , cessent de se produire après le déjeuner .",
+        "words": [
+          "fétides",
+          "Contrexéville",
+          "A Martigny"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/e6db8f5e-0286-5790-8073-ed3df810a5e9",
+        "value": "Le calme de l ' air , les senteurs des immenses forêts de sapins qui entourent la station se joignent a l ' altitude pour faire de SaintGervais à la fois un lieu de cure et de séjour .« Le milieu dans lequel vivent les baigneurs à l ' établissement est sédatif , sans l ' être trop .» La saison s ' y étend du 1er juin aux derniers jours de septembre .",
+        "words": "sédatif"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/e81cba09-8935-59c1-a208-ef7dd00afb9f",
+        "value": "On peut d ailleurs déceler au moins des traces de gaz combustibles dans beaucoup d ' autres sources .Certaines sources minérales des environs d ' Alais , qui traversent des couches chargées d ' asphalte , en renferment assez pour en exhaler l ' odeur caractéristique ; quelques eaux de la région du Puy ( près Clermont - Ferrand ) , la source de Saint - Boès ( Basses - Pyrénées ) , etc ., sont également bitumineuses , et une matière analogue existe dans cer \" taines sources de Vichy ( plus spécialement celles de Saint - Yorre ) .",
+        "words": [
+          "odeur",
+          "caractéristique",
+          "eaux",
+          "Pyrénées",
+          "Basses",
+          "Certaines sources minérales",
+          "environs d ' Alais",
+          "près Clermont - Ferrand",
+          "région du Puy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/e95319cf-4c4e-5a0d-8592-e13576d1d63c",
+        "value": "Le résultat le plus immédiatement sensible est le relèvement rapide des forces .La soif et la sécheresse de la bouche diminuent , l ' odeur de l ' haleine disparaît , les muqueuses se colorent , le sommeil est plus calme et le poids reprend .La polyurie cède dans la moitié des cas ; simultanément la densité décroît , et on a voulu y voir la preuve d ' une décroissance des pertes en matériaux solides , une restriction des actes exagérés de la nutrition .",
+        "words": [
+          "odeur",
+          "haleine",
+          "disparaît"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/e9afe005-fd4c-5640-a579-2d72a4409f78",
+        "value": "La place me manque ici pour développer les applications de cette loi qui sont absolument ' typiques .Cela correspond avec l ' idée générale que j ' ai développée ailleurs sur l ' origine des sources thermales , celles - ci , à de très rares exceptions près que l ' on trouve dans les régions volcaniques , me paraissant être le résultat d ' une infiltration superficielle échauffée et minéralisée en profondeur , parfois en même temps chargée d ' émanations radio - actives , puis remontée brusquement par une fracture .J ' ai essayé de caractériser les conditions de cette remontée au jour , qui pourra - se faire , par exemple , avec une vitesse .",
+        "words": [
+          "émanations",
+          "sources thermales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/eab95280-d153-520d-b481-19b617bd5dc6",
+        "value": "Cette loi est telle , dans le cas de l ' émanation du radium , que la quantité d ' émanation existant à un moment quelconque se trouvera , quatre jours après , diminuée de moitié .Beaucoup plus rapidement se détruisentles émanations du thorium et del ' actinium : la diminution de moitié se produit en cinquante - quatre secondes pour la première , en quatre secondes pour la seconde .Quelques conclusions pratiques se dégagent immédiatement de ces faits : 1 ° L ' émanation du radium pourra être reconnue un certain temps après la récolte du gaz au griffon .",
+        "words": [
+          "émanations",
+          "actinium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/ef981615-4b27-5456-ab77-26aab6b4f95c",
+        "value": "Sources .— Au nombre de vingt - deux , sans grandes différences entre elles , de température allant de 36 à 61 ° , elles sont douces au toucher , très altérables , prennent à l ' air une couleur bleue , puis blanche , dégagent une odeur franchement hépatique ; leur débit est de 2200 mètres cubes par jour .Comme à Ax , c ' est un véritable fleuve sulfureux qui coule à Amélie .",
+        "words": [
+          "odeur",
+          "elles",
+          "franchement hépatique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/f2f65334-2631-5b4d-ab53-7c508480b629",
+        "value": "Elles émergent de pointements triasiques , à la limite du supra - crétacé et du cône de déjection fluvio - glaciaire qui forme le plateau de Lannemezan .Elles sont limpides , inodores , sans goût déterminé ; celles du Bouridé sont très onctueuses .Leur composition chimique est sensiblement la même .",
+        "words": [
+          "celles",
+          "inodores"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/f7abb18a-c5c2-55ef-b71d-c8017eb35cf2",
+        "value": "Quant aux lésions tuberculeuses de la peau , elles semblent moins profondément modifiées qu ' à , La Bourboule .Les eczémateux sont modifiés surtout dans les formes humides , suintantes : Doyon n ' a vu que rarement se produire une irritation sous l ' influence des bains , et celle - ci se calme alors d ' elle - même au bout de quelques jours , sans jamais arriver à une poussée , et sans ( 1 ) Simon et Ameuille ont observé que le staphylocoque doré ou le colibacille , ensemencé dans plusieurs tubes de bouillon mélangé à de l ' eau d ' Uriage , ne poussaient qu ' avec un retard considérable ( au bout de deux à .Quant au village de Saint - Gervais , il est à 4 kilomètres plus haut , dans la vallée de l ' Arve , à l ' altitude de 680 mètres : il offre aux baigneurs qui ont fini leur saison thermale des villas et des hôtels leur permettant un séjour de demi - altitude .",
+        "words": [
+          "staphylocoque",
+          "eczémateux"
+        ]
+      }
+    ],
+    "label": "Crénothérapie, climatothérapie, thalassothérapie : cures hydrominérales, cures d'altitudes, cures marines / par le professeur J. Landouzy, les professeurs Armand Gautier, Moureu... [et al.]",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9658022q",
+    "date": "1910",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/08d78d7b-da9b-5eb6-adb7-ed731b7b0357",
+      "label": "1910",
+      "begin": "1910",
+      "end": "1910"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/relief",
+      "label": "relief"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/calmness",
+      "label": "calmness"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/a049a7b0-ffc8-536a-8c8e-5f1c36a4ecb5/fragment/b07be905-fedd-5299-9fc1-c99aefeec95b",
+  "license": "Public domain"
+}

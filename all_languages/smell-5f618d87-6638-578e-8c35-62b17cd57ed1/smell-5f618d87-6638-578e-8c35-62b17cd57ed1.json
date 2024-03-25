@@ -1,0 +1,56 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/5f618d87-6638-578e-8c35-62b17cd57ed1",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "smell",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/e2377fb3-846d-5909-bded-e3c079cec403",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/e2377fb3-846d-5909-bded-e3c079cec403/fragment/c40987fa-08b7-504f-969b-43c21aa4d2f8",
+        "value": "The site is admittedly rather remote , but the surface designed to bear the weight of heavy artillery is ideal as hard - standing for caravans .A complaint that there is a serious smell nuisance emanating from the W .D .",
+        "words": [
+          "smell",
+          "nuisance",
+          "serious",
+          "from the W ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e2377fb3-846d-5909-bded-e3c079cec403/fragment/c76482a2-db18-5dd5-94f9-a60eaaedf221",
+        "value": "New nerve gases have been developed .They are colourless , odourless , cannot be felt or seen ; they enter the body through eyes , nose , skin or even through the clothes , destroying the central nervous system , so that the victim dies in agony within a few hours .No adequate defence or antidote is known .",
+        "words": [
+          "they",
+          "They",
+          "odourless"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/149a665b-74e1-5758-9ae5-99f79738cbce",
+        "label": "South Oxfordshire Combined Districts"
+      }
+    ],
+    "label": "[Report 1953]",
+    "url": "http://archive.org/details/b30114962",
+    "date": "1953",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/2030b50a-949f-55d7-bc55-b3db4fe97b35",
+      "label": "1953",
+      "begin": "1953",
+      "end": "1953"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/1159456/",
+      "label": "Sistan and Baluchestan"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/e2377fb3-846d-5909-bded-e3c079cec403/fragment/c40987fa-08b7-504f-969b-43c21aa4d2f8",
+  "adjective": "nuisance"
+}

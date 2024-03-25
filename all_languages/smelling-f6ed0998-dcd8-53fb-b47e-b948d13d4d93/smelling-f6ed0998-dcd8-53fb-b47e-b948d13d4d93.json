@@ -1,0 +1,144 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f6ed0998-dcd8-53fb-b47e-b948d13d4d93",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "smelling",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/0a6b523e-0612-57d7-8c52-b1fcd4065bef",
+        "value": "Fires were burning brightly in the forest , and thin columns of smoke arose above the trees .I could almost smell the freshly made Eio and the broiled bacon .It was as though a huge picnic were going on in the woods .",
+        "words": [
+          "smell",
+          "I",
+          "the freshly made Eio",
+          "the broiled bacon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/0b987384-8f59-59fc-934b-4ef1b9ef1a37",
+        "value": "A Mississippi slave - dealer was a refined and honourable gentleman in comparison with a Northern bounty - broker , who sold men to the townships which filled their quotas by purchase .I have seen these substitutes , many of them unable to speak English , vermin - infested , rough - skinned , stinking with disease , their eyes running matter , their legs and arms thin and feeble , their backs bowed , and their rat - like and idiot - like heads hanging low , joined the army to be virtually kicked out of the decent commands they were billeted on .They were scorned , kicked , and cursed by the volunteers as mangy curs .",
+        "words": [
+          "stinking",
+          "vermin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/0e23c62f-1072-5dc6-b9bc-41db58718f0c",
+        "value": "We fought and howled and swore with rage and pain .Through it all the smell was overpowering .The deadly , penetrating odours of ulcerous men , who suffered from unnamable unnamable diseases , of stale tobacco - smoke , the sickening fumes of dead whisky , and the smell of many unclean unclean ruffians , made the air heavy with a horrible stench .",
+        "words": [
+          "smell",
+          "overpowering"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/3bd2631f-b243-55ef-870f-f5e105dc4630",
+        "value": "I saw that THE BATTLE OF THE WILDERNESS 63 lay .The air still smelled of powder - smoke .Many soldiers cleaned out their rifles .",
+        "words": [
+          "The air",
+          "smelled",
+          "of powder - smoke"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/70f1f043-db79-5125-ae08-09566be37366",
+        "value": "The killed and wounded of the first day ' s fight lay unburied and uncared - for between the lines .The stench of the dead men became unbearable , and finally a flag of truce was sent out .There was a cessation of hostilities to bury the dead and to succour the wounded .",
+        "words": [
+          "stench",
+          "unbearable",
+          "of the dead men"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/83c14552-5de1-5036-b125-274de33012c7",
+        "value": "That ended all attempts to escape .We marched on board the steamer , a propeller , and descended narrow stairs to between decks , where the light was dim and the air heavy with a smell as of damp sea - weed .There were three large hatches , freight hatches probably , in the deck above us , through which the heavy , cold , outside air sank , and through which three systems of draughty , sneezeprovoking sneezeprovoking ventilation were established as soon as the air in the hold became heated .",
+        "words": [
+          "weed",
+          "smell",
+          "the air",
+          "heavy",
+          "of",
+          "sea -",
+          "of damp",
+          "- weed",
+          "damp sea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/cda0e8a5-c4e5-57f1-95c5-e71cb4714678",
+        "value": "Unguarded , they would have been killed and torn limb from limb .At Alexandria , Alexandria , we , dirty and smelling so vilely that the street dogs refused to approach us , were marched to clean barracks and well fed .That evening I paid a soldier $ 5 to stand over a bath - tub and watch me while I bathed .",
+        "words": [
+          "smelling",
+          "we",
+          "so vilely",
+          "At Alexandria , Alexandria",
+          "that the street dogs refused to approach us"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/d569e64d-6db4-5c6a-b32b-4cd1c791dd2a",
+        "value": "The wounded were haunted with the dread of fire .They conjured the scenes of the previous year , when some wounded men were burned to death , and their hearts wellnigh wellnigh ceased to beat when they thought they detected the smell of burning wood in the air .The bare prospect of fire running through the woods where they lay helpless , unnerved the most courageous of men , and made them call aloud for help .",
+        "words": [
+          "smell",
+          "in the air",
+          "they",
+          "of burning wood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/f3093ac9-2c3c-5868-af1f-0bcb0cb89328",
+        "value": "Through it all the smell was overpowering .The deadly , penetrating odours of ulcerous men , who suffered from unnamable unnamable diseases , of stale tobacco - smoke , the sickening fumes of dead whisky , and the smell of many unclean unclean ruffians , made the air heavy with a horrible stench .Many recruits lost their bounty money .",
+        "words": [
+          "penetrating",
+          "smell",
+          "sickening",
+          "the air",
+          "odours",
+          "stench",
+          "deadly",
+          "horrible",
+          "of stale tobacco - smoke",
+          "fumes of dead whisky",
+          "of many unclean unclean ruffians",
+          "of ulcerous men"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/a95909d5-b579-5c25-a20d-df30fcece108",
+        "label": "Frank WILKESON"
+      }
+    ],
+    "label": "[Recollections of a Private Soldier in the army of the Potomac.]",
+    "date": "1896",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9b29f9a9-44e6-53db-a132-322e536a2c4a",
+      "label": "1896",
+      "begin": "1896",
+      "end": "1896"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361059/",
+      "label": "Alexandria"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/embarrassment",
+      "label": "embarrassment"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ab3e1475-17d2-59f0-86f0-98414d63b149/fragment/cda0e8a5-c4e5-57f1-95c5-e71cb4714678",
+  "adjective": "so vilely"
+}

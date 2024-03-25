@@ -1,0 +1,849 @@
+## odeur
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/9acf3eaf-8044-5dff-a234-ad4ffc6eef49 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | odeur |
+| source.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/09b05fbd-16c3-556e-bc20-c689694361c6 |
+| source.excerpts.0.value | » ' FORMATION ORGANIQUE DU PETROLE 671 « Puisque en Roumanie on ne constate le pétrole en gisement primaire « que dans le paléogène et le salifère miocénique et puisque les gisements « exploités les plus riches se trouvent dans le méotique et le pliocène supé « rieur ( couches à Viviparia bifarcinata et lignite ) , il faut admettre que le « pétrole de ces étages géologiques se trouve en général dans des gisements « secondaires .» « Cobalesco se basant sur l ' interprétation de Tietze que les gisements « de sel de Bai coi et Tintea se trouvent dans des terrains d ' eau douce « ainsi que sur ses observations que le massif de sel de Collbash se trouve dans « les terrains à paludines conclut que la présence du sel doit être attribuée « aux émanations issues du sein de la terre .» « Rappelons que les hypothèses les plus accréditées de la théorie anor « ganique du pétrole supposent , d ' une part , un noyau incandescent dû globe « terrestre et , d ' autre part , des dislocations très profondes dans l ' écorce ter « restre , dislocations qui auraient permis à l ' eau d ' arriver à ce noyau incan « descent . |
+| source.excerpts.0.words.0 | émanations |
+| source.excerpts.0.words.1 | Cobalesco |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/0a80acef-6bd7-5593-8b51-ffee5c84ebb9 |
+| source.excerpts.1.value | Lorsque des fragments de ces schistes non métamorphisés sont exposés aux intempéries en tas un peu important , ils s ' échauffent graduellement au point de permettre la vitrification de certainesparties , comme cela s ' est produit pour les débris des excavations faites pour le passage de la voie du Southern Pacific Rail Road .Près de la mine d ' asphalte de La Paiera ( comté de Santa Barbara ) , se trouve un lac qui semble devoir sa formation à la contraction des schistes sous - jacents à la suite du métamorphisme analogue ; à 30 mètres de profondeur , la chaleur dans la mine est de 41 ° C ; tout autour du lac se trouvent des fissures remplies d ' asphalte contenant des débris de schistes et de l ' eau minérale , sur le bord de la mer , à proximité de la mine de La Paiera , du pétrole s ' élève de sources sous - marines formant des irisations à la surface des flots et répandant une odeur facilement discernable à une grande distance ; de plus , le fond de l ' Océan parallèlement à la côte et au niveau des basses mers est couvert d ' une couche de bitume .A 10 kilomètres de Santa Barbara ( ville ) au Calea Rancho et près de l ' Océan se trouve une surface d ' une vingtaine d ' hectares qui s ' enfonce graduellement , la profondeur totale est de 7 mètres environ et l ' accroissement de profondeur a été de lm , 50 en cinq ans . |
+| source.excerpts.1.words.0 | odeur |
+| source.excerpts.1.words.1 | comté de Santa Barbara |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/0b39f833-0468-52ed-ac6d-133bb638ed11 |
+| source.excerpts.2.value | — REGION DES ARRUZZES 393 Quelques recherches ont été faites à l ' aide de puits ordinaires , et on a obtenu une production de quelques centaines de kilogrammes par an .Il existe des émanations gazeuses à Romanaro , Boccasuolo , Monte Gibio , Pieve Pelago , Rarigazo , Sasso Storno , Monte Creto , Monte Puranello , Castelvetro .Les sources minérales assez nombreuses qu ' on rencontre dans la région sont situées : à Medole , Rubbiano , Salvarola , Rio Lunato , Brandola , R . |
+| source.excerpts.2.words.0 | émanations |
+| source.excerpts.2.words.1 | gazeuses |
+| source.excerpts.2.words.2 | Boccasuolo |
+| source.excerpts.2.words.3 | Castelvetro |
+| source.excerpts.2.words.4 | Monte Creto |
+| source.excerpts.2.words.5 | Monte Gibio |
+| source.excerpts.2.words.6 | Monte Puranello |
+| source.excerpts.2.words.7 | Pieve Pelago , Rarigazo |
+| source.excerpts.2.words.8 | Romanaro |
+| source.excerpts.2.words.9 | Sasso Storno |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/0c0a7d3f-a3c1-54cd-8702-01f99c52f59e |
+| source.excerpts.3.value | Toco - Casauria , on a fait quelques recherches qui ont donné de petites quantités de pétrole ayant une densité de 983 .Dans la baie de Naples , entre Pausilipe et Sorrente , on est souvent frappé par une forte odeur de pétrole qui semble venir d ' une émission sous - marine ; en outre , il existait autrefois une source de pétrole à Bagno del Pelroleo ( Balnenm olii Pclrolii ) , près de Stufe di Nerone ; la dernière mention connue remonte à la fin du xvnc siècle .394 C11AP . |
+| source.excerpts.3.words.0 | forte |
+| source.excerpts.3.words.1 | odeur |
+| source.excerpts.3.words.2 | pétrole |
+| source.excerpts.3.words.3 | Bagno del Pelroleo |
+| source.excerpts.3.words.4 | Dans la baie de Naples |
+| source.excerpts.3.words.5 | Stufe di Nerone |
+| source.excerpts.3.words.6 | entre Pausilipe et Sorrente |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/0ca4f322-6764-5ce1-94bc-d584147cf5a2 |
+| source.excerpts.4.value | Le pétrole se trouve aussi entre Icy Cap et le cap Yatag 2 , au nord - ouest du glacier de Malaspina ; le long de cette partie de la côte , sur une longueur de 40 kilomètres , tous les petits courants d ' eau sont couverts de taches d ' huile .Entre le cap Sukling et l ' embouchure de la Coper River , il y a d ' abondantes exsudations pétrolifères .C ' est dans cette région , à Controller Bay , que les recherches les plus importantes ont été entreprises . |
+| source.excerpts.4.words.0 | exsudations |
+| source.excerpts.4.words.1 | embouchure |
+| source.excerpts.4.words.2 | Entre le cap Sukling |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/0e5e0688-d0e8-56f0-92b1-665811fc457f |
+| source.excerpts.5.value | CARBURES TR1ÉTHYLÉNIQUES C » H2 » - < Valylène C & H < \ CH3 — CH = Cs = CH .— Dérivé de l ' éthylate de sodium et de l ' amylène bibromé ; il bout à 50 " ; il a une odeur aliacée ; il précipite les solutions d ' argent et de cuivre ammoniacales .Anhy drogèraniol G ^ H » » , ( CH3 ) 2 = C = CH — CH2 — CH2 — C ( CH3 ) = C = CH 2 . |
+| source.excerpts.5.words.0 | odeur |
+| source.excerpts.5.words.1 | il |
+| source.excerpts.5.words.2 | aliacée |
+| source.excerpts.5.words.3 | cuivre ammoniacales |
+| source.excerpts.5.words.4 | amylène bibromé |
+| source.excerpts.5.words.5 | éthylate de sodium |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/121743a7-e237-51f2-8b71-71603cd6adc8 |
+| source.excerpts.6.value | — Il bout à 135 ° .Son odeur est celle de la térébenthine , il s ' oxyde facilement à l ' air et se résinifie , il colore en orangé l ' acide sulfurique concentré , et ' en brun rouge un mélange d ' acide sulfurique et d ' acide acétique concentrés .Dihydromëtaxylène ( Di ? nélliyl - i - 3 - cyclohcxadiè ? ie - l - 3 ) . |
+| source.excerpts.6.words.0 | odeur |
+| source.excerpts.6.words.1 | Son |
+| source.excerpts.6.words.2 | il |
+| source.excerpts.6.words.3 | acide |
+| source.excerpts.6.words.4 | térébenthine |
+| source.excerpts.6.words.5 | acide acétique |
+| source.excerpts.6.words.6 | acide sulfurique |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/18d7af37-c854-5920-8cac-f5f9451c5035 |
+| source.excerpts.7.value | versé des marnes plus ou moins sableuses , il rencontra un lit de calcaireà plusieurs profondeurs , il y eut des émissions gazeuses assez violentes pou ; - rejeter l ' eau hors du forage .Le nuro / ' " 7 - ; \ 2 donna , dès le début du forage , des dégagements gazeux ayant une forte odeur d ' hydrogène sulfuré .Il fut arrêté à 50 mètres . |
+| source.excerpts.7.words.0 | forte |
+| source.excerpts.7.words.1 | odeur |
+| source.excerpts.7.words.2 | hydrogène sulfuré |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/19801ea9-c4cc-5aa9-a64b-8e6e2b68b1aa |
+| source.excerpts.8.value | 3 ° IIexhx < î - 4 : ( Méthylpropylacétylcme ) CH3 — CH2 — CH2 — C = C — CH 3 .— Il est incolore , a une odeur désagréable ; il bout à 83 ° - 84 ° ; sa densité à 0 ° est 0 , 749 .Par contact prolongé avec une solution sulfurique à 80 0 / 0 SO ^ II 2 , il se forme une hexanone ( Méthylbutylcétone ) . |
+| source.excerpts.8.words.0 | désagréable |
+| source.excerpts.8.words.1 | odeur |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/199bc229-479a-580f-bc02-6b48f0286176 |
+| source.excerpts.9.value | — LA CHIMIE DES PÉTROLES PÉTROLES DU MEXIQUE Densité variant de 810 à 1 , 06 PÉTROLE DE LA COLOM1ÎIE Densité variant de 920 à 970 " PÉTROLE DE L - ' ÉQUATEUR Densité variant de 925 à 960 PÉTROLE DU PÉROU Densité variant de 855 à 945 PÉTROLES ROUMAINS La couleur varie du brun olivâtre au brun noir ; on a cependant trouvé , à Prédeal ( Valea Gardului ) , du pétrole rougeâtre et , à Campeni Parjol , du pétrole très peu teinté en jaune ; tous les pétroles roumains ont une fluorescence légèrement verdâtre .L ' odeur est généralement agréable et éthérée ; cependant on en trouve qui ont une odeur désagréable et alliacée , comme à Sarata Monteoru , Glodeni Àpostolache .Le pétrole le plus léger qu ' on ait rencontré est celui de Campeni - Parjol , qui a une densité de 763 ; à Gura Ocnitza , on a trouvé le pétrole le plus lourd avec une densité de 935 ( on en a même trouvé à 944 ) . |
+| source.excerpts.9.words.0 | agréable |
+| source.excerpts.9.words.1 | désagréable |
+| source.excerpts.9.words.2 | odeur |
+| source.excerpts.9.words.3 | éthérée |
+| source.excerpts.9.words.4 | alliacée |
+| source.excerpts.9.words.5 | Glodeni Àpostolache |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/1c259299-9cd3-5401-ba77-b7104829c07d |
+| source.excerpts.10.value | ' 98 180 » Pyrène C < HV ° 148 ' » » CH ' — CH Chrysène\|.250 » » CiOHii — CH Naphtanlracènc C ^ FI « = CM2 = C « Hf 141 » » PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS 625 DEUXIÈME PARTIE PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS L ' aspect et l ' odeur des pétroles bruts sont extrêmement variables ; oii peut en trouver qui soient légers , mobiles , à peine teintés en rose jaunâtre , comme certains pétroles du comté de Parme , et certains échantillons trouvés à Surachani et dans d ' autres régions , ayant une odeur plutôt agréable et éthérée et même aromatique comme le pétrole de Sandalwood Spring ( voir p .312 ) ; d ' autres , au contraire , sont épais , visqueux , noirs , opaques , même en couche mince , et ont une odeur sulfurée , repoussante . |
+| source.excerpts.10.words.0 | aromatique |
+| source.excerpts.10.words.1 | odeur |
+| source.excerpts.10.words.2 | éthérée |
+| source.excerpts.10.words.3 | variables |
+| source.excerpts.10.words.4 | régions |
+| source.excerpts.10.words.5 | pétrole |
+| source.excerpts.10.words.6 | plutôt agréable |
+| source.excerpts.10.words.7 | pétroles bruts |
+| source.excerpts.10.words.8 | PÉTROLES BRUTS |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/1fc9cae1-0919-5f3b-9242-30dbf60396cd |
+| source.excerpts.11.value | Triméthylcyelohexènes .— Le triméthyl - l - 3 - 3 - cyclohexène a une odeur d ' essence de pétrole ; il s ' oxyde à l ' air très rapidement , en se résonnant ; il bouta 140 ° ; sa densité est D ( 23 - 4 ) = 0 , 7981 .Nononaphtylènes . |
+| source.excerpts.11.words.0 | odeur |
+| source.excerpts.11.words.1 | il |
+| source.excerpts.11.words.2 | de |
+| source.excerpts.11.words.3 | essence |
+| source.excerpts.11.words.4 | essence de |
+| source.excerpts.11.words.5 | de pétrole |
+| source.excerpts.11.words.6 | triméthyl - l - 3 - 3 - cyclohexène |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/1fe78827-5de3-5f51-9f0f-0c7db9bf1753 |
+| source.excerpts.12.value | 37 B78 CHAPITRE VI .— LA CHIMIE DES PÉTROLES ayant une odeur de térébenthine bouillant à 238 ° , qui n ' est attaqué à J " r ; icj ni par l ' acide nitrique fumant , ni par l ' acide sulfurique ; le chlore donne d - - s produits de substitution ; le brome ne l ' attaque pas à froid .Onl ' obtient par hydrogénation soit de l ' acide pentadécylique , soit de l ' acétone obtenue par distillation d ' un mélange d ' acétate et de myristate de baryum . |
+| source.excerpts.12.words.0 | odeur |
+| source.excerpts.12.words.1 | acide |
+| source.excerpts.12.words.2 | térébenthine |
+| source.excerpts.12.words.3 | CHIMIE DES PÉTROLES |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/21fe37e3-57a6-55e4-9b9e-e570ed0883b8 |
+| source.excerpts.13.value | D ' autres plissements contournent le plateau de Gozdec , pour aller se perdre dans la direction de Sabounchy .On trouve également en abondance des sources sulfureuses , et les forages donnent toujours des émanations d ' hydrogène sulfuré .Il n ' est pas rare , non plus , de trouver dans les crevasses du sol , des dépôts de soufre natif . |
+| source.excerpts.13.words.0 | émanations |
+| source.excerpts.13.words.1 | hydrogène sulfuré |
+| source.excerpts.13.words.2 | sources |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/24aa6684-acd7-5045-addb-bae648acf50c |
+| source.excerpts.14.value | Australie occidentale .— Le long des rivières Donnelly et Warren , entre les caps d ' Entrecasteaux el Leenvin , il y a des exsudations pétrolifères dans le terrain carbonifère et ces manifestations se retrouvent dans l ' intérieur des terres jusque vers le lac Jasper .Australie méridionale . |
+| source.excerpts.14.words.0 | exsudations |
+| source.excerpts.14.words.1 | entre les caps d ' Entrecasteaux el Leenvin |
+| source.excerpts.14.words.2 | le lac Jasper |
+| source.excerpts.14.words.3 | long des rivières Donnelly et Warren |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/24fa82bc-e164-5d9d-92a4-ef1dc566994e |
+| source.excerpts.15.value | LES CARBURES D ' HYDROGENE 60o CARBURES D ' HYDROGÈNE CYCLIQUES GARBURES D ' HYDROGÈNE ALICYCL1QUES Cette classe de carbures est très importante , les terpènes en font partie , r .t elle renferme un grand nombre de composés odorants qui existent dans " les essences naturelles .Comme les carbures à chaîne ouverte , ceux - ci peuvent être ou non saturés , mais les carbures cycliques saturés correspondent à la formule G " H2 ' \ Les carbures alicycliques se combinent plus difficilement aux hydracides et aux éléments halogènes que les carbures non " cycliques de môme formule ; et plus le nombre d ' atomes de carbone est grand , plus la stabilité est grande ; ainsi le pentaméthylène et l ' hexaméthylène s ' unissent difficilement au brome ; tandis que le triméthylêne , le méthyltrimélhylène , le diméthyUriméthylène , le trimélhyltriméfhylène , s ' unissent facilement au brome . |
+| source.excerpts.15.words.0 | odorants |
+| source.excerpts.15.words.1 | essences naturelles |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/27286184-3af9-5eb7-9cc9-1b1293002f34 |
+| source.excerpts.16.value | Les grès qu ' on trouve dans les terrains de Bakou sont à ciment calcaire , ainsi qu ' on peut s ' en assurer en les attaquant par de l ' acide chlorhydrique dilué , et le résidu de l ' opération offre la plus frappante ressemblance avec les sables des couches a voisinantes .Les manifestations pétrolifères ne sont pas exclusivement concentrées sur la terre ferme : au sein même de la mer Caspienne , on constate , par temps calme , des émanations gazeuses el , bien que ces phénomènes tendent à disparaître depuis l ' exploitation intensive des régions avoisinant Bakou , on peut encore les constater aisément .Deux points où les émanations gazeuses sont particulièrement apparentes , sont les environs du cap Bailof et ceux de l ' île Sainte , et l ' on raconte même que , dans cette dernière région , des barques ont été autrefois chavirées par des émissions gazeuses violentes et imprévues . |
+| source.excerpts.16.words.0 | émanations |
+| source.excerpts.16.words.1 | mer Caspienne |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/29a37f69-d796-5085-bdad-381413fc0c6b |
+| source.excerpts.17.value | Par la pression des terrains sédimentaires , des gaz formés et de la chaleur , la saponification pouvait se produire , la glycérine étant enlevée par l ' eau et ce qui pouvait en rester convertie en acroléine par l ' action de la chaleur provoquant la transformation des acides gras en hydrocarbures .L ' acroléine pouvant d ' ailleurs former aussi des carbures aromatiques avec formation d ' eau .Mais pendant ces diverses réactions il se produit de l ' acide carbonique et de l ' oxj ^ de de carbone se forme , et il faut admettre que leur absence dans des gaz naturels est due à leur transformation en carbonate par les niasse des roches avoisinant le pétrole . |
+| source.excerpts.17.words.0 | aromatiques |
+| source.excerpts.17.words.1 | acroléine |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/2fb4ca2d-7e46-5db1-9173-43d95d68e4c2 |
+| source.excerpts.18.value | Le pétrole le plus léger qu ' on ait rencontré est celui de Campeni - Parjol , qui a une densité de 763 ; à Gura Ocnitza , on a trouvé le pétrole le plus lourd avec une densité de 935 ( on en a même trouvé à 944 ) .POIDS SPÉCIFIQUE , COULEUR ET ODEUR D ' UN CERTAIN NOMBRE D ' ÉCHANTILLONS DE PÉTROLE DE ROUMANIE ( D ' APRÈS LE D 1 ' EDELEANU ) NOM NOM OU NUMÉRO PROHIBEE PROPRIÉTÉS PHYSIQUES du nu PCITS en roins CHAJiTiEn ou de la sonde JII ; TIIF .S spécifique coui . |
+| source.excerpts.18.words.0 | ODEUR |
+| source.excerpts.18.words.1 | COULEUR |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/30529386-e94e-57af-9847-fa9eb8187048 |
+| source.excerpts.19.value | H .Perkin a obtenu le tétraméthylène carbinol : en réduisant le chlorure de l ' acide tétramélhylènecarboxylique par le sodium ; il bout à 143 " - 144 ° à 760 millimètres ; odeur semblable à celle de l ' alcool amylique ; sa densité , à 4 ° , est 0 , 9162 ; rotation moléculaire magnétique à 16 ° , 7 = 5 , 314 .LES CARBURES D ' HYDROGÈNE _ 607 GYGLOPENTANES / CH2 — CH 2 Pentaméthylène CH2 /( SYN . |
+| source.excerpts.19.words.0 | odeur |
+| source.excerpts.19.words.1 | alcool amylique |
+| source.excerpts.19.words.2 | acide tétramélhylènecarboxylique |
+| source.excerpts.19.words.3 | tétraméthylène carbinol |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/361755fa-90d5-560c-9139-f4a4a1341f2c |
+| source.excerpts.20.value | - On a signalé des dégagements de gaz inflammables sur la côte de Karamanie , près de Derabund ; à Iscardo et Cashmiré , il y a des dépôts d ' asphalte .XI GRÈCE Bien que des recherches aient été entreprises en différents points delà Grèce , pour trouver du pélrole en quantité exploitable , aucune d ' elles n ' a encore abouti à un résultat satisfaisant ; il y a , cependant , en de nombreuses régions , des indices pétrolifères assez importants , et presque tous les calcaires de la Grèce , même les plus anciens , ont une odeur fétide très caractérisée , quoique pour la plupart , entièrement dépourvus de fossiles .Tels sont ceux ' des environs de Nauplie et d ' autres points de l ' Argolide , les calcaires brun noirâtre des collines entre Navarin et Nisi , où le bitume suinte par des crevasses et où il n ' existe pas de fossiles . |
+| source.excerpts.20.words.0 | Grèce |
+| source.excerpts.20.words.1 | odeur |
+| source.excerpts.20.words.2 | fétide très caractérisée |
+| source.excerpts.20.words.3 | presque tous les calcaires de |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/371fdb83-1bde-5808-a098-9382039e4612 |
+| source.excerpts.21.value | — DISTRIBUTION GEOGRAPHIQUE ET GEOLOGIQUE DU PETROLE deMiribel à Vif ; actuellement encore , on peut enflammer les gaz qui sortent du sol .* Ces émanations gazeuses étaient connues des Romains .En 1885 , on entreprit un sondage en cet endroit , mais les travaux furent arrêtés à cause de la nature très ébouleuse des terrains traversés . |
+| source.excerpts.21.words.0 | émanations |
+| source.excerpts.21.words.1 | gazeuses |
+| source.excerpts.21.words.2 | Romains |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/38eae09a-0391-5da2-974d-24f8677782a7 |
+| source.excerpts.22.value | .179 , 80 à 189 Schistes gris ( gaz en grande quantité , sans odeur sulfureuse ) .. |
+| source.excerpts.22.words.0 | odeur |
+| source.excerpts.22.words.1 | sulfureuse |
+| source.excerpts.22.words.2 | Schistes gris |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/396fdc69-b5e0-57c8-a259-e9387f39617d |
+| source.excerpts.23.value | Le graphite est disséminé en filaments , en veines et en couches dans des épaisseurs considérables du laurentien et la quantité résultante est au moins égale à la houille contenue dans le carbonifère .Dans le centre de l ' Ecosse , où le terrain houiller a été si fréquemment percé par des roches ignées , le pétrole et l ' asphalte se rencontrent fréquemment dans les fentes et les veines du grès et autres roches sédimentaires et dans les cavités des roches ignées elles - mêmes ; et dans l ' ouest du Lotian les roches intrusives traversant les couches de houille et de schistes bitumineux ont une odeur bitumineuse très sensible , quand elles sont fraîchement cassées et de petits globules de pétrole peuvent être reconnus dans leurs cavités .676 CHAPITRE VII . |
+| source.excerpts.23.words.0 | odeur |
+| source.excerpts.23.words.1 | schistes bitumineux |
+| source.excerpts.23.words.2 | bitumineuse très sensible |
+| source.excerpts.23.words.3 | roches intrusives |
+| source.excerpts.23.words.4 | roches sédimentaires |
+| source.excerpts.23.words.5 | le centre de l ' Ecosse |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/3c2ba661-d340-5996-90d5-483c95d24413 |
+| source.excerpts.24.value | Il bout à 73 ° .L ' acide sulfurique dilué le transforme à 100 ° en un produit de condensation , possédant l ' odeur de pétrole .IIEPTYLÈNES ( HEPTÈNES ) C7H ' l ' i 1 » Heptylène normal CH3 — CH2 — CH2 — CH2 — CH2 — CH = CH 2 . |
+| source.excerpts.24.words.0 | odeur |
+| source.excerpts.24.words.1 | acide |
+| source.excerpts.24.words.2 | pétrole |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/3c2ff164-eb94-5dd9-a12c-46454d664368 |
+| source.excerpts.25.value | Au sud de Ganos , sur la rive droite du ruisseau qui se jette dans la mer de Marmara , non loin de la ville , on a creusé autrefois un puits jusqu ' à 90 mètres , qui rencontra des couches abondamment imprégnées d ' un bitume très liquide , et où les gaz se dégagaient en quantité suffisante pour déterminer l ' abandon de l ' approfondissement .Plus au sud , le long d ' une grande partie du cours de la rivière Deli Osman , d ' importantes exsudations pétrolifères ont été relevées .Un peu à l ' ouest de Hora , ville près de laquelle le Deli Osman se jette dans la mer de Marmara , à peu de distance de la rive gauche , deux puits ont été creusés et ont donné une cerlaine quantité de pétrole . |
+| source.excerpts.25.words.0 | exsudations |
+| source.excerpts.25.words.1 | une grande partie du cours de la rivière Deli Osman |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/3d166525-396d-547a-a66e-75836a28b794 |
+| source.excerpts.26.value | Il y a actuellement trois Compagnies importantes engagées dans les recherches de pétrole au Mexique : la Compagnie mexicaine de Pétrole à Ebano , la Compagnie pensylvanienne à Dos Bocas , près de la lagune de Tamiahua , et la Compagnie anglaise , près de Tuxpan .IV ILE DE LA TRINITÉ L ' île de la Trinité abonde en manifestations pétrolifères de toutes espèces ; outre le lac de bitume si généralement connu , d ' où l ' on tire le bitume , dit de la Trinité , on trouve des émanations gazeuses , des suintements pétrolifères , et des bitumes dans beaucoup d ' autres parties de l ' île .Le bitume se rencontre à Guaracaro , dans le district de Montserrat , près du gisement de charbon de Piparo . |
+| source.excerpts.26.words.0 | émanations |
+| source.excerpts.26.words.1 | bitumes |
+| source.excerpts.26.words.2 | île |
+| source.excerpts.26.words.3 | suintements |
+| source.excerpts.26.words.4 | île de la Trinité |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/403d9a50-5dae-52f1-8bd1-e35e132c3126 |
+| source.excerpts.27.value | Les exploitants qui recherchaient du pétrole laissaient en effet perdre le gaz des couches qu ' ils traversaient pour atteindre les niveaux inférieurs où se trouvait le pétrole .De plus , dans presque toutes les recherches de pétrole les premières manifestations qu ' on rencontre dans les sondages sont des émanations gazeuses .VI . |
+| source.excerpts.27.words.0 | émanations |
+| source.excerpts.27.words.1 | gazeuses |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/455bd729-7f68-5df2-a852-1742920562e6 |
+| source.excerpts.28.value | — La partie sud du comté de Lancaster est particulièrement riche .en exsudations pétrolifères , et la présence des gaz naturels a été constatée , dès 1647 , par Thomas Shirley , à Wigan , où existent aussi , dans le carbonifère , des suintements de pétrole , qui se retrouvent également à West Leigh , Swinton , Down Ilolland Moss , au nord de Liverpool , sur la rive nord de la Mersey , près de son embouchure , à Worsley , dans le tunnel du duc de Bridgewater .A Formby , sur la côte , des dégagements gazeux ont aussi été relevés . |
+| source.excerpts.28.words.0 | Liverpool |
+| source.excerpts.28.words.1 | exsudations |
+| source.excerpts.28.words.2 | gaz naturels |
+| source.excerpts.28.words.3 | Swinton |
+| source.excerpts.28.words.4 | tunnel du duc de Bridgewater |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/467915d3-41bd-5656-82b2-ed6ba79d0020 |
+| source.excerpts.29.value | — RÉGION DE L ' ALASKA Le pétrole a été reconnu à la surface du sol en de nombreux points de cette contrée , mais il n ' a cependant pas donné lieu jusqu ' ici à une exploitation régulière .Des traces de pétrole ont été signalées sur les rives est de Cooks Inlet , principalement à l ' e mbouchure de Innerskin Bay ' , entre le cap Itima et la montagne du même nom ; à Oil Bay , il y a de nombreuses exsudations pétrolifères ; l ' une d ' elles forme une source intermittente pouvant fournir plusieurs litres de pétrole par jour , un forage fut entrepris qui donna du pétrole à 150 mètres de profondeur ; .plus bas , il donna du gaz et de l ' eau . |
+| source.excerpts.29.words.0 | pétrole |
+| source.excerpts.29.words.1 | la montagne |
+| source.excerpts.29.words.2 | exsudations |
+| source.excerpts.29.words.3 | le cap Itima |
+| source.excerpts.29.words.4 | mbouchure de Innerskin Bay |
+| source.excerpts.29.words.5 | rives est de Cooks Inlet |
+| source.excerpts.29.words.6 | à Oil Bay |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/474f1fb1-1557-5bc3-93c5-d2a0d86bd5d9 |
+| source.excerpts.30.value | Il y a deux variétés de Limonène actifs : l ' un , lévogyre ; l ' autre , dextrogyre ; les points d ' ébullition varient de 105 ° à 107 ° ; a = + 107 ° , = a — 105 ° ; D ( 20 - 4 ) = 0 , 8425 .Une variété inactive ( dipentène ) a une odeur de citron ; elle bout à 175 ° ; D ( 20 - 0 ) = 0 , 844 .Métamenthadiènes . |
+| source.excerpts.30.words.0 | odeur |
+| source.excerpts.30.words.1 | citron |
+| source.excerpts.30.words.2 | dipentène |
+| source.excerpts.30.words.3 | variété |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/485d7f6e-766f-5921-b6ce-6c024b648e75 |
+| source.excerpts.31.value | — Obtenu en chauffant en vase clos le décylène brome Cl0Hl9Br avec de la potasse alcoolique , bout à 165 ° , à 741 millimètres ; .- la densité à 10 ° est 0 , 784 ; sa densité de vapeur , 4 , 615 ; il a une légère odeur qui rappelle celle de l ' oignon .Propyl - 4 - hepladiénc - l - 4 CH2 = CH — CÏP — c \ Qfi ~ £ w ~ çti * - — Obtenu en chauffant un tube scellé , à 130 ° , l ' allyldipropylcarbinol ( propyl - 4heptène - i - ol - 4 ) , avec de l ' acide sulfurique étendu de son poids d ' eau . |
+| source.excerpts.31.words.0 | odeur |
+| source.excerpts.31.words.1 | il |
+| source.excerpts.31.words.2 | légère |
+| source.excerpts.31.words.3 | oignon |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/4d38f6af-9fc9-56f4-a531-6af86a3a20c1 |
+| source.excerpts.32.value | Auxterpènes se rattachent un grand nombre de produits qu ' on rencontr : - dans les essences naturelles .On a retiré du Cascara Amaga un carbure ( CH1 - 8 ) 1 , fondant à 196 ° ; il £ - décompose à une température plus élevée , en répandant une odeur de bois de Santal ; il est soluble dans l ' éther de pétrole , l ' éther , la benzine , le chloroforme , l ' alcool , l ' acide acétique , l ' huile de lin .Penta - aliylène ( CH 4 ) 5 , C ^ H 20 , C " H2 " - 10 . |
+| source.excerpts.32.words.0 | bois |
+| source.excerpts.32.words.1 | odeur |
+| source.excerpts.32.words.2 | il |
+| source.excerpts.32.words.3 | acide |
+| source.excerpts.32.words.4 | de |
+| source.excerpts.32.words.5 | chloroforme |
+| source.excerpts.32.words.6 | bois de |
+| source.excerpts.32.words.7 | carbure |
+| source.excerpts.32.words.8 | Cascara Amaga |
+| source.excerpts.32.words.9 | de Santal |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/4d595985-a27b-5f2a-8c68-fd9bf23c789b |
+| source.excerpts.33.value | Pour cette désobéissance , les reines furent punies de mort .Mais , avant de mourir , afin d ' éviter le retour du même malheur , elles demandèrent au ciel , que le liquide qui avait été la cause indirecte de leur mort , changea de nature , et que son odeur devint repoussante .Ainsi naquit le pétrole . |
+| source.excerpts.33.words.0 | odeur |
+| source.excerpts.33.words.1 | son |
+| source.excerpts.33.words.2 | repoussante |
+| source.excerpts.33.words.3 | liquide |
+| source.excerpts.33.words.4 | avant de mourir |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/4df8c788-c5af-581e-b5dc-96902d919a47 |
+| source.excerpts.34.value | .0 , 7785 Fusion 48 Fusion 47 , 7 Densité à 80 ° 0 , 7807 Densité 0 , 7570 Mabery a remarqué pendant ce travail que , s ' il n ' y a pas de rentrée d ' air pendant la distillation de la paraffine , elle peut être distillée sans décomposition , mais que la moindre rentrée d ' air provoque une décomposition active qui se manifeste immédiatement par une coloration accentuée et une odeur désagréable 1 .Thorpe et Young , en distillant à plusieurs reprises de la paraffine sous pression , ont reconnu qu ' il se faisait une décomposition notable . |
+| source.excerpts.34.words.0 | désagréable |
+| source.excerpts.34.words.1 | odeur |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/5242d7d0-4013-569f-9e16-561335dff5ac |
+| source.excerpts.35.value | La couleur peut prendre toute une gamme de teintes plus ou moins brunes , avec reilets verdàtres , en sorte que , vu par transparence , le pétrole est brun et vert foncé quand on le regarde par réflexion ; d ' autres pétroles , au contraire , sont franchement bruns sans aucun reflet .L ' odeur varie , sans relation aucune avec la teinte ; certains pétroles peu teintés ont une odeur désagréable , tandis que d ' autres d ' une nuance très accentuée ont une odeur qui n ' a rien de repoussant .Gela tient à ce que l ' odeur du pétrole qui n ' est pas très accentuée , est facilement masquée par celle des . |
+| source.excerpts.35.words.0 | désagréable |
+| source.excerpts.35.words.1 | odeur |
+| source.excerpts.35.words.2 | autres |
+| source.excerpts.35.words.3 | repoussant |
+| source.excerpts.35.words.4 | certains pétroles peu teintés |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/5702cd73-bb8a-5bbe-bc5b-75cd9129339d |
+| source.excerpts.36.value | Le méthane au rouge donne naissance à du propylène : La fonte dissoute dans les acides étendus produit du gaz contenant du propylène .Le propylène est gazeux à la température ordinaire ; il a une odeur alliacée ; sa densité est 1 , 498 ; il bout à — 40 sous la pression ordinaire .Il est peu soluble dans l ' eau , très soluble dans l ' alcool absolu . |
+| source.excerpts.36.words.0 | odeur |
+| source.excerpts.36.words.1 | il |
+| source.excerpts.36.words.2 | propylène |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/57be87f6-2b47-5f07-942c-19dc30579b2c |
+| source.excerpts.37.value | Australie méridionale .• — A l ' est du lac Torren , le long du chemin de fer près de Leigh ' s Creek , il y a des suintements de pétrole ; sur la côte sud , il en existe dans la presqu ' île d ' York , entre le cap Spencer et Yorke - IL — AUTRES LOCALITÉS PÉTROLIFÈRES DE L ' AFRIQUE 303 iown , dans l ' île des Kangourous , principalement vers la baie d ' Estrée .En face de l ' île de Kangaroo , sur la côte de la baie de la Rencontre ; dans les lagunes de Coorong , il y a sur l ' eau des matières bitumeuses ( que certains explorateurs attribuent à la décomposition d ' algues marines ) . |
+| source.excerpts.37.words.0 | côte |
+| source.excerpts.37.words.1 | suintements |
+| source.excerpts.37.words.2 | île des |
+| source.excerpts.37.words.3 | AFRIQUE |
+| source.excerpts.37.words.4 | cap Spencer |
+| source.excerpts.37.words.5 | la baie d ' Estrée |
+| source.excerpts.37.words.6 | la presqu ' île d ' York |
+| source.excerpts.37.words.7 | lac Torren |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/58bc5e4a-34ba-5e62-8ff9-6f4ec5b92d29 |
+| source.excerpts.38.value | Des indications pétrolifères ont aussi été signalées à l ' ouest de Cauton ( comté de Pulton ) ; à Heslier ( comté de Kukakees ) .Des émanations gazeuses ont , été signalées dans les comtés de Bureau et de Randolph .XIV . |
+| source.excerpts.38.words.0 | émanations |
+| source.excerpts.38.words.1 | gazeuses |
+| source.excerpts.38.words.2 | les comtés de Bureau et de Randolph |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/58cb1048-7055-5f60-b883-d386444c3aad |
+| source.excerpts.39.value | 201 ) dont l ' altitude ne dépasse pas 12 mètres .A une époque déjà ancienne , les couches asphaltiques et les émanations gazeuses de ce territoire avaient été signalées , un petit lac occupait le centre de la région et , comme à Sour Lake l ' eau était chargée de produits minéraux , ses bords rocheux contrastaient avec la nature du sol environnant , indiquant que les couches inférieures avaient été en ce point soulevées par un mouvement orogénique .Vers 18G0 , quelques recherches furent entreprises , sans dépasser une profondeur de 00 mètres , et donnèrent du pétrole en petite quantité ; mais le manque de communications et la nature même du pétrole trouvé , qui avait une densité de 950 , no pouvaient inciter à continuer les recherches que dans l ' espoir de trouver de grandes quantités de pétrole , et rien jusqu ' alors n ' avait fait soupçonner que cela fût facilement réalisable . |
+| source.excerpts.39.words.0 | émanations |
+| source.excerpts.39.words.1 | A |
+| source.excerpts.39.words.2 | couches asphaltiques |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/5c0757ff-650e-5be6-8f7a-bf9ef2a90ac6 |
+| source.excerpts.40.value | » Cette légende se trouve également rapportée sous une autre forme : « On dit qu ' un puit ayant été creusé , il se remplit à la suite d ' un tremblement de terre d ' une eau parfumée .« Un prêtre du pays prophétisaqu ' elle se changerait un jour en un liquide nauséabond , mais , que ce serait là encore un grand profit pour la contrée et pour les vingt - quatre possesseurs des puits .» Le reste de la légende est à peu près semblable à la précédente . |
+| source.excerpts.40.words.0 | nauséabond |
+| source.excerpts.40.words.1 | liquide |
+| source.excerpts.40.words.2 | prêtre du pays |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/5c194eef-ecfe-56b1-be4b-3da7734179c6 |
+| source.excerpts.41.value | Le liquide est très attaquable par l ' acide sulfurique concentré et surtout par le mélange nitrosulfurique et l ' emploi de ce dernier réactif y décèle la présence de carbures aromatiques ( benzène et homologues ) et on peut y constater la présence du styrolène qui se change peu à peu en metastyrolène solide .Ce liquide a été soumis à une hydrogénation directe sur le nickel réduit , à 200 ° on obtient ainsi un liquide incolore , d ' odeur non désagréable à peu près inacfif sur le réactif nitrosulfurique ; à la distillation il donne : Deii ^ Ués à 0 ° par rapport Températures , à l ' uau à 0 ° .75 - 100 751 100 - 125 - . |
+| source.excerpts.41.words.0 | odeur |
+| source.excerpts.41.words.1 | liquide |
+| source.excerpts.41.words.2 | non désagréable |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/5e5f0321-d927-57b1-8933-a98e66d8ab6e |
+| source.excerpts.42.value | En 190i , il y avait , à Florence , 80 puits productifs et 120 abandonnés depuis 1887 , il y a eu 500 forages d ' exécutés , certains d ' entre eux ont donné du pétrole pendant dix et vingt ans , la durée moyenne de production est de cinq ans .Le pétrole était connu aux environs de Boulder depuis 1867 ; le long de la Little Thompson Creek , des exsudations pétrolifères sortent d ' un grès du terrain de Pierre ; on a même signalé dans la région des suintements soi ' tant des terrains archéens ; la forte odeur bitumineuse des calcaires et des shistes du Benton et du Niobrara avaient également attiré l ' attention , mais ce n ' est guère que vers 1901 qu ' on entreprit un forage , à 5 kilomètres au nord - est de Boulder , qui donna du pétrole d ' une qualité remarquable .A la suite de cette découverte , des forages furent entrepris depuis Fort Collins au nord jusqu ' à Golden au sud . |
+| source.excerpts.42.words.0 | calcaires |
+| source.excerpts.42.words.1 | forte |
+| source.excerpts.42.words.2 | odeur |
+| source.excerpts.42.words.3 | bitumineuse |
+| source.excerpts.42.words.4 | vers |
+| source.excerpts.42.words.5 | pétrole |
+| source.excerpts.42.words.6 | depuis 1867 |
+| source.excerpts.42.words.7 | shistes |
+| source.excerpts.42.words.8 | Niobrara |
+| source.excerpts.42.words.9 | Little Thompson Creek |
+| source.excerpts.42.words.10 | terrain de Pierre |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/601914c2-acea-51d4-8e69-d46389bcbdcc |
+| source.excerpts.43.value | — TURQUIE D ' ASIE 405 Le bitume de cette contrée avait été signalé dès le commencement des temps historiques , et Strabon dit à ce sujet : « Le lac se remplit d ' asphalte qui jaillit du fond à des époques irréo - ulières ; au milieu du lac , l ' eau semble bouillir par l ' arrivée de bulles de gaz à la surface ; les masses d ' asphalte se bombent au - dessus de l ' eau et présentent l ' aspect de collines .11 se dégage en même temps des vapeurs qui , bien qu ' invisibles , ternissent le cuivre , l ' argent et , en général , tous les métaux polis , l ' or lui - même n ' échappe pas à cette action .« Les habitants jugent que l ' asphalte est sur le point d ' apparaître , quand leurs ustensiles commencent à se ternir ; ils se préparent alors à recueillir le bitume au moyen de radeaux qu ' ils construisent avec des joncs assemblés . |
+| source.excerpts.43.words.0 | vapeurs |
+| source.excerpts.43.words.1 | métaux polis |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/6273a0ce-2a58-59ef-8110-f0189f8009b0 |
+| source.excerpts.44.value | Un carbure dérivé du diisoamyle par traitement par le brome bout ■ - .- 3 63 ° , 7 sous 744 ; sa densité , à 20 ° , est 0 , 7387 ; l ' odeur est aromatique .L ' acide sulfurique étendu de son poids d ' eau lé dissout complètement . |
+| source.excerpts.44.words.0 | aromatique |
+| source.excerpts.44.words.1 | odeur |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/64dc19a6-9614-5eaf-877e-f65d2f8f7c55 |
+| source.excerpts.45.value | 2 ° Des couches de schistes avec quelques couches de grès , dont la partie supérieure est constituée par des lits minces de schistes argileux et de sables .Les couches sableuses delà partie inférieure constituent l ' horizon pétrolifère principal des puits de Puente Hills et leurs affleurements ont une forte odeur de pétrole .L ' ensemble de ces couches appartient au néogène moyen . |
+| source.excerpts.45.words.0 | forte |
+| source.excerpts.45.words.1 | odeur |
+| source.excerpts.45.words.2 | pétrole |
+| source.excerpts.45.words.3 | couches |
+| source.excerpts.45.words.4 | leurs affleurements |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/69bcd7d2-dabc-5a59-a7dc-275745eaa5c9 |
+| source.excerpts.46.value | 3 ° Amylacétylène CH3 - CH2 — CH2 — CH2 — CH2 — C = GH ( OEnanthylidènc ) .— Il a une odeur alliacée prononcée , il bout à 107 ° ( 103 ° ) ; sa densité est 735 à 20 ° .Il donne un précipité jaune avec le chlorure cuivreux ammoniacal et un précipité blanc avec le nitrate d ' argent ammoniacal . |
+| source.excerpts.46.words.0 | odeur |
+| source.excerpts.46.words.1 | alliacée prononcée |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/6fe38b30-15d5-5c89-85ad-d084de8cb2cf |
+| source.excerpts.47.value | — \ ) bout à 98 ° , 5 - 99 ° , 5 ; sa densité , à 19 ° , est 0 , 6967 .Son odeur rappelle celle de l ' essence d ' orange ( ? ) .D ' après M . |
+| source.excerpts.47.words.0 | orange |
+| source.excerpts.47.words.1 | odeur |
+| source.excerpts.47.words.2 | essence d |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/7103d79c-8219-5e8d-ac8b-2a0b60c11a9c |
+| source.excerpts.48.value | — AFRIQUE ALGERIE Sur la côte de la Méditerranée , au fond du golfe de Mostaganem , à 1 embouchure de la Macta ( fîg .271 ) , il y a des traces de pétrole , et , sur le rivage même , existent des émanations de gaz naturel sulfuré ; la .mer elle - même est quelquefois couverte d ' irisations dues à une mince pellicule de pétrole ; dans cette région , les suintements de pétrole sont particulièrement apparents au pied . |
+| source.excerpts.48.words.0 | émanations |
+| source.excerpts.48.words.1 | pétrole |
+| source.excerpts.48.words.2 | gaz naturel sulfuré |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/738b1232-42ac-5e4b-b6f8-c16304642b9a |
+| source.excerpts.49.value | Si l ' hydrogène est en grand excès , le mélange « gazeux arrivant sur du nickel , du cobalt ou du fer disséminés dans les « roches subjacentes à des températures qui peuvent être inférieures à 200 ° , « donne lieu à du pétrole américain en même temps qu ' à de très grandes « quantités de gaz combustibles , où comme dans les gaz naturels de Pittsburg « existent beaucoup de méthane , d ' éthane et aussi d ' hydrogène libre .Si < ( l ' acétylène seul arrive sur les métaux divisés , il fournit surtout des carte bures aromatiques que l ' action immédiate ou consécutive de l ' hydrogène « au contact des mêmes métaux transforme en pétrole du Caucase .« Des conditions intermédiaires , telles que l ' association de l ' acétylène « avec des doses modérées d ' hydrogène peuvent fournir des pétroles de « Galicie et de Roumanie . |
+| source.excerpts.49.words.0 | aromatiques |
+| source.excerpts.49.words.1 | carte |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/742796f1-53a5-5e9d-9011-9d07395c7334 |
+| source.excerpts.50.value | Province de Florence .— On trouve des émanations gazeuses à Fellegare et Pietramala .III . |
+| source.excerpts.50.words.0 | émanations |
+| source.excerpts.50.words.1 | gazeuses |
+| source.excerpts.50.words.2 | Fellegare |
+| source.excerpts.50.words.3 | Pietramala |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/7609aff3-2063-5138-ac69-670ff9564bf2 |
+| source.excerpts.51.value | Egalement clans le terrain primitif , zone des leptynites , nous avons pu constater nous - même à Norberg ( Suède ) ; dans un gisement de fer oligiste et de magnétite , la présence d ' un filon de quartz contenant de nombreuses poches remplies de bitume soit liquide , soit solidifié en perles .Il est difficile de nier que , dans ce cas , le bitume ait été apporté par des sources contenant de la silice ( par exemple à l ' état de silicate de soude en dissolution ) , et il nous semble que c ' est un fait de nature à expliquer l ' abondance , dans le permien du nord du Plateau Central , de nappes siliceuses chargées d ' hydrocarbures qui leur donnent une odeur fétide .S ' il est un produit hydrocarbure pour lequel l ' hypothèse d ' une origine organique soit soutenable et appuyé sur des raisonnements sérieux , ce sont à coup sûr les schistes bitumineux . |
+| source.excerpts.51.words.0 | fétide |
+| source.excerpts.51.words.1 | odeur |
+| source.excerpts.51.words.2 | hydrocarbures |
+| source.excerpts.51.words.3 | silicate de soude |
+| source.excerpts.51.words.4 | nappes siliceuses chargées d |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/76dd32dd-7940-57a3-89fd-c59629d91269 |
+| source.excerpts.52.value | Sabatier et Senderens , à la suite de leurs recherches ( citées page 617 ) pensèrent pouvoir par leur procédé reproduire des corps sensiblement ' identiques aux différents pétroles bruts trouvés dans la nature .Les expériences qu ' ils entreprirent à cet effet donnèrent les résultats suivants : Vers 200 ° , l ' acétylène et l ' hydrogène , en présence du nickel réduit donnent lieu à la production de carbures liquides ; en vingt - huit heures , ils ont produit 20 centimètres cubes d ' un liquide jaune clair fluorescent , ayant une odeur semblable à celle du pétrole rectifié , il commence à bouillir à 45 ° et à 150 ° , la moitié du liquide a distillé ; à 250 ° il no reste plus qu ' une petite quantité , de liquidejaune orangé , très fluorescent et qui , en dissolution a une fluorescence bleue .La densité du liquide à 0 ° par rapport à l ' eau à 0 " est 791 ; il est faiblement attaqué par le mélange nitro - sulfurique , et , dans les produits de l ' attaque , on peut constater la présence de petites doses de nitro - benzène et des homologues le résidu , de l ' attaque a une densité de 753 , et il est formé à peu près exclusivement de carbures forméniques : pentane , hexane , heptane , octane , 690 CHAPITRE VII . |
+| source.excerpts.52.words.0 | odeur |
+| source.excerpts.52.words.1 | liquide |
+| source.excerpts.52.words.2 | pétrole rectifié |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/77853159-45b4-5786-a978-548580ab2ba3 |
+| source.excerpts.53.value | Le long de la côte occidentale de la mer Morte , il y a des dégagements de gaz inflammables et d ' hydrogène sulfuré , notamment à Bas Fesha , non loin de Nebi Mussa et , plus au sud , vers Ras Merched .L ' eau de la mer Morte , recueillie à 42 mètres de profondeur , en face du Ras Merched , a l ' odeur d ' hydrogène sulfuré , non loin de traces bitumineuses , sur le rivage .406 CUAP . |
+| source.excerpts.53.words.0 | odeur |
+| source.excerpts.53.words.1 | hydrogène |
+| source.excerpts.53.words.2 | mer |
+| source.excerpts.53.words.3 | rivage |
+| source.excerpts.53.words.4 | mer Morte |
+| source.excerpts.53.words.5 | eau de la mer |
+| source.excerpts.53.words.6 | Morte |
+| source.excerpts.53.words.7 | en face du Ras Merched |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/788ebcf7-254f-57da-9b86-1b2f0c479ea2 |
+| source.excerpts.54.value | l ) iméîhyl - l - 2 .— Dérivé de l ' orthoxylêne ; il bout à 126 ° ; sa densité à 0 ' est 0 , 8008 ; son odeur rappelle celle du camphre .Diméthyl - l - 3 . |
+| source.excerpts.54.words.0 | odeur |
+| source.excerpts.54.words.1 | son |
+| source.excerpts.54.words.2 | camphre |
+| source.excerpts.54.words.3 | il |
+| source.excerpts.54.words.4 | orthoxylêne |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/7e8ba4a9-335a-5697-8b92-2a4a0e8153e6 |
+| source.excerpts.55.value | Hébrard , « du bitume dans les calcaires d ' où émergent les sources thermales et sa « lines de Tibériade , dans lesquelles le D 1 ' Anderson a trouvé le brome asso « ciô à une matière organique ; 3 ° enfin , sur les analyses mêmes de l ' eau de « la mer Morte , qui , d ' après M .Terreil , renferme une matière organique « fournissant l ' odeur caractéristique des bitumes , et surtout abondante dans « le voisinage du Ras Mersed , en un point où se font sentir les émanations « fétides signalées par Strabon comme accompagnant l ' apparition de l ' asti phalte .En cet endroit il parait exister encore une de ces sources sous « marines , auxquelles fut due sans doute autrefois l ' émission de ces masses « d ' asphalte , et qui se bornerait aujourd ' hui à entretenir dans son voisinage « une richesse exceptionnelle en bitume , en chlorures et en bromures . |
+| source.excerpts.55.words.0 | odeur |
+| source.excerpts.55.words.1 | émanations |
+| source.excerpts.55.words.2 | fétides |
+| source.excerpts.55.words.3 | caractéristique |
+| source.excerpts.55.words.4 | bitumes |
+| source.excerpts.55.words.5 | matière organique |
+| source.excerpts.55.words.6 | Terreil |
+| source.excerpts.55.words.7 | le voisinage du Ras Mersed |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/832685d2-08b9-5a9d-838e-750eb34b4714 |
+| source.excerpts.56.value | Lakowiez ) .PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES RRUTS 643 CARBURES DE LA SÉRIE AROMATIQUE ( silile ) Benzène Pétrole de Californie ( Mabery ) .— russe ( Markownikoff , Reilstein , Kurbatof ) . |
+| source.excerpts.56.words.0 | CARBURES |
+| source.excerpts.56.words.1 | AROMATIQUE |
+| source.excerpts.56.words.2 | PÉTROLES |
+| source.excerpts.56.words.3 | Benzène |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/8400c805-919f-5942-a0f6-36143017d3ce |
+| source.excerpts.57.value | Sabatier et Sanderens 617 Propriétés générales des carbures aromatiques 620 DEUXIÈME PARTIE .— Propriétés physiques et chimiques des pétroles bruts Couleurs , odeurs , densités 625 Pétroles de Californie 625 Pétroles de la région orientale , des États - Unis 627 Pétroles du Wyoming 629 Pétroles du Texas 629 Pétroles des Territoires Indiens 629 Pétroles du Mexique 630 Pétroles de la Colombie .. |
+| source.excerpts.57.words.0 | odeurs |
+| source.excerpts.57.words.1 | pétroles bruts |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/842964c4-f9ac-5e13-9b5d-26b54f90ad73 |
+| source.excerpts.58.value | : Trimëlhyléthylènc ; isoamylène ; Mclhyl - 2 - bulène - 2 ) .— Obtenu en partant de l ' alcool amylique LES CARBURES D ' HYDROGENE 080 inactif , qu ' on traite par le chlorure de zinc , par la suite de réactions suivantes : C ' est un liquide incolore , à odeur alliacée , insoluble dans l ' eau , soluble dans l ' alcool ; sa densité à 0 ° est 0 , 6783 ; il bout à 36 ° , 8 .L ' acide sulfurique concentré le dissout en donnant de l ' acide amylsulfiirique presque aussitôt le carbure reparaît sous forme condensée . |
+| source.excerpts.58.words.0 | odeur |
+| source.excerpts.58.words.1 | liquide |
+| source.excerpts.58.words.2 | alcool |
+| source.excerpts.58.words.3 | CARBURES D ' HYDROGENE |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/84a3d805-9a0d-530f-9e9f-2390c95bc219 |
+| source.excerpts.59.value | — On trouve des suintements pétrolifères à : Ospedaletto , Monlalto , Casai Grande ; à Scandiano , il existe même un puits ordinaire fournissant des traces très appréciables de pétrole .Il y a des émanations de gaz inflammables à Canossa , Casola Canossa , Querzola .On trouve des sources minérales à Onfiano , Carpineti , Monte Gesso , Ventoso . |
+| source.excerpts.59.words.0 | émanations |
+| source.excerpts.59.words.1 | gaz inflammables |
+| source.excerpts.59.words.2 | Canossa |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/86858cd3-380f-5c46-82f8-c857de85068c |
+| source.excerpts.60.value | — LES THEORIES SUR L ' ORIGINE DU PÉTROLE nonane , décane , undécane .Le cobalt et le fer réduits donnent une réaction analogue , mais les produits liquides condensés ont une odeur plus désagréable et , quand on emploie le fer , l ' odeur des produits obtenus rappelle celle de certains pétroles du Canada .Si l ' on fait passer l ' acétylène seul sans hydrogène sur le nickel réduit et qu ' on maintienne la température entre 200 et 300 ° , la réaction se produit avec incandescence du métal , et il se condense des hydrocarbures verdâtres par réflexion et rouges par transparence ; en plusieurs opérations réitérées , il est possible d ' obtenir 250 centimètres cubes d ' un liquide vert à odeur pénétrante . |
+| source.excerpts.60.words.0 | désagréable |
+| source.excerpts.60.words.1 | odeur |
+| source.excerpts.60.words.2 | cobalt |
+| source.excerpts.60.words.3 | fer réduits |
+| source.excerpts.60.words.4 | produits obtenus |
+| source.excerpts.60.words.5 | produits liquides condensés |
+| source.excerpts.60.words.6 | certains pétroles du Canada |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/88acecd0-2fdc-5e42-8e42-ade5e8924675 |
+| source.excerpts.61.value | — Obtenu C2H5 par l ' action du sodium et du zinc éthyle sur l ' éther orthoformique CH ( OC2IP ) 3 .Il bout à 96 ° ; sa densité à 27 ° est 0 , 689 ; il possède une odeur de pétrole .Par traitement par l ' acide azotique de densité , 1 , 075 , on obtient le dérivé tertiaire ( C2H5 ) C — AzO 2 bouillant à 190 ° , à la pression de 743 millimètres , d = 0 , 962 , on obtient en même temps le dérivé secondaire ( C2H5 ) 2CH — CHAzO2 — CH 3 bouillant à 195 " à la pression de 750 millimètres , d = 960 à 0 ° . |
+| source.excerpts.61.words.0 | odeur |
+| source.excerpts.61.words.1 | il |
+| source.excerpts.61.words.2 | pétrole |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/8b45d915-017f-55da-800a-a8d922c7a6fb |
+| source.excerpts.62.value | Cette permission leur fut accordée à la condition qu ' elles ne resteraient pas longtemps absentes .Sur le rivage elles trouvèrent un liquide à l ' odeur agréable qui sortait du rocher .« Elles s ' amusèrent a s ' en éclabousser , oubliant dans cet amusement , l ' époque fixée pour le retour . |
+| source.excerpts.62.words.0 | agréable |
+| source.excerpts.62.words.1 | odeur |
+| source.excerpts.62.words.2 | rocher |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/8d69ffa0-0675-5c07-a41f-b93452a1e9fe |
+| source.excerpts.63.value | Le cobalt et le fer réduits donnent une réaction analogue , mais les produits liquides condensés ont une odeur plus désagréable et , quand on emploie le fer , l ' odeur des produits obtenus rappelle celle de certains pétroles du Canada .Si l ' on fait passer l ' acétylène seul sans hydrogène sur le nickel réduit et qu ' on maintienne la température entre 200 et 300 ° , la réaction se produit avec incandescence du métal , et il se condense des hydrocarbures verdâtres par réflexion et rouges par transparence ; en plusieurs opérations réitérées , il est possible d ' obtenir 250 centimètres cubes d ' un liquide vert à odeur pénétrante .11 commence à bouillir à 60 ° ; en ne recueillant que ce qui se passe au - dessous de 260 ° , on obtient un liquide rougeâtre à odeur forte , ayant une densité à 0 ° par rapport à l ' eau à 0 ° de 879 , et il reste un goudron rougeâtre , très fluorescent . |
+| source.excerpts.63.words.0 | pénétrante |
+| source.excerpts.63.words.1 | odeur |
+| source.excerpts.63.words.2 | liquide |
+| source.excerpts.63.words.3 | hydrocarbures |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/8fd6ac60-6ce5-5399-b8a8-9bd6af126106 |
+| source.excerpts.64.value | , au - dessous desquels on ne saurait supposer la présence de gisements organisés .L ' association des restes organiques et des hydrocarbures 686 CHAPITRE VIL - LES THEORIES SUR L ' ORIGINE DU PETROLE peut fort bien tenir , non à ce que les hydrocarbures proviennent de ces restes , mais , au contraire , à ce qu ' ils ont été conservés , préservés contre la destruction sous les influences atmosphériques et , en quelque sorte , embaumés .D ' ailleurs , quand on rencontre une coquille remplie d ' huile , cette quantité d ' huile est si incomparablement supérieure à celle qu ' avait pu fournir le mollusque en se décomposant qu ' on doit la supposer arrivée d ' ailleurs et après coup . |
+| source.excerpts.64.words.0 | embaumés |
+| source.excerpts.64.words.1 | hydrocarbures |
+| source.excerpts.64.words.2 | restes organiques |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/90b6225b-10b6-5a0e-be67-3515c52b5649 |
+| source.excerpts.65.value | Avec l ' acétylène , l ' action commence à froid ; s ' il y a excès d ' hydrogène , il se produit de l ' éthane : au - dessus de 150 ° , il se produit des carbures condensables .Quand la proportion d ' acétylène augmente et que le mélange gazeux agit sur le nickel fraîchement réduit , celui - ci se trouve porté à l ' incandescence , et il y a production de carbures condensés qui sont d ' autant plus volatils que la température d ' obtention a été plus basse et leur odeur ressemble à celle des pétroles de Pensylvanie ; ce sont surtout des carbures forméniques supérieurs inattaquables à froid par l ' acide nitrique , avec une petite quantité de carbures éthyléniques , de carbures aromatiques et de cabures hydroaromatiques .Avec le cobalt , l ' action ne commence qu ' à 180 ° . |
+| source.excerpts.65.words.0 | odeur |
+| source.excerpts.65.words.1 | leur |
+| source.excerpts.65.words.2 | carbures |
+| source.excerpts.65.words.3 | carbures éthyléniques |
+| source.excerpts.65.words.4 | carbures forméniques supérieurs |
+| source.excerpts.65.words.5 | carbures condensés |
+| source.excerpts.65.words.6 | cabures hydroaromatiques |
+| source.excerpts.65.words.7 | pétroles de Pensylvanie |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/9132f31e-10af-59bc-abc8-69c96245a14a |
+| source.excerpts.66.value | i - 3 - Cyclohcptadiène [ Eydrolropidine ) .— 11 bout à 120 ° ; son odeur rappelle celle du pétrole ; D ( 0 - 4 ) = 0 , 8809 .Cycloheptadiène { Tropidine ) . |
+| source.excerpts.66.words.0 | odeur |
+| source.excerpts.66.words.1 | son |
+| source.excerpts.66.words.2 | pétrole |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/918c4174-a26c-5337-be44-eb6c10885527 |
+| source.excerpts.67.value | Sous l ' influence de l ' arc électrique dans une atmosphère d ' hydrogène , le méthane se forme en même temps quel ' éthine .Le méthane est un gaz incolore , d ' une odeur faible , dont la densité est 0 , 559 , sa température critique est — 82 ° C , et la pression critique 55 atmosphères , il bout à — 164 ° sous la pression de 760 millimètres ; à la pression de 0m , 08 , il bout à — 186 ° et se solidifie .Il est soluble dans 20 fois son poids d ' eau , et encore moins soluble dans l ' eau salée ; l ' alcool en dissout la moitié de son volume . |
+| source.excerpts.67.words.0 | faible |
+| source.excerpts.67.words.1 | odeur |
+| source.excerpts.67.words.2 | gaz |
+| source.excerpts.67.words.3 | méthane |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/924b46bb-ed5b-503f-a610-968e77629b44 |
+| source.excerpts.68.value | La distillation commença à 320 ° sous 10 atmosphères de pression et se termina à 400 ° sous 4 atmosphères ; le distillât obtenu représentait 60 0 / 0 de la matière mise en oeuvre ; la densité était de 810 ; le gaz produit représentait 9 0 / 0 de la matière première , et le reste contenait 50 0 / 0 de matière saponifiable .Le distillât était brun , avait une lluorescence verte et une odeur d ' acroléine ; il y avait du pentane , de .I ' hexane normal , un heptane secondaire , du nomme , de l ' octane du benzène et quelques autres carbures aromatiques , ainsi que du naphtène . |
+| source.excerpts.68.words.0 | odeur |
+| source.excerpts.68.words.1 | acroléine |
+| source.excerpts.68.words.2 | pentane |
+| source.excerpts.68.words.3 | distillât |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/928b1a7c-f05c-54ad-b9ba-be0b3aef6619 |
+| source.excerpts.69.value | Quelques habitants de Relizane formèrent alors une Société de recherches .Excités par le succès du premier puits creusé dans Loued Messila , les Mebareck , habitants du voisinage , creusèrent des puits à 2 \ 500 environ plus au nord , dans une dépression située un peu plus au nord de la branche septentrionale du Chabet - bou - Safir , près de Haouita de Sidi - el - Merk ; il y eut une demi - douzaine de puits exécutés ; il se produisit dans tous soit des suintements plus ou moins abondants de pétrole , soit des dégagements gazeux .L ' attention se trouvant ainsi attirée sur cette région , plusieurs forages furent exécutés . |
+| source.excerpts.69.words.0 | gazeux |
+| source.excerpts.69.words.1 | Mebareck |
+| source.excerpts.69.words.2 | bou - Safir |
+| source.excerpts.69.words.3 | de Haouita de Sidi |
+| source.excerpts.69.words.4 | el - Merk |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/942f2bed-0e93-5772-8bbc-471fc62f6eb4 |
+| source.excerpts.70.value | — 11 boutà ! 08 ° , 5 ; sadensitéestD ( 15 - 4 ) = 0 , 7946 : Cyclohcxènes .— Les cyclobexènes ont une odeur de térébenthine ; ils fixent les hydracides en faisant retour aux cyclohexanes ; ils s ' oxydent à l ' air en donnant de l ' acide carbonique et des produits résineux ; l ' acide azotique les attaque et les résinifie , même si l ' acide est étendu ; il y a , de plus , réaction et transformation en acide .- 614 CHAPITRE VI . |
+| source.excerpts.70.words.0 | odeur |
+| source.excerpts.70.words.1 | ils |
+| source.excerpts.70.words.2 | térébenthine |
+| source.excerpts.70.words.3 | cyclobexènes |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/96f386a2-a918-5806-babc-6546230c098d |
+| source.excerpts.71.value | Dofteana - Pâcuril .a Iuscuta 118 0 , 8470 noir — Casin Bosoiu 0 , 8000 noir verdâtre éthérique PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS 631 POIDS SPÉCIFIQUE , - COULEUR ET ODEUR DU PÉTROLE DE ROUMANIE ( suite ) ;NOM NOM OU NUMÉRO PROFOKMliR PROPRIÉTÉS PHYSIQUES ? ; du DU [ ' uns en ; : POIDS • ! CHANTIER ou de la sonde HÊTRES spécifique COULEUR ODEUR ; ; à ic « « c .' j - DISTRICT DE POTNA li CâmpuriPuitspetite 10 , 83901 noir brunfaible il DISTRICT R . |
+| source.excerpts.71.words.0 | ODEUR |
+| source.excerpts.71.words.1 | PÉTROLES |
+| source.excerpts.71.words.2 | PÉTROLE DE |
+| source.excerpts.71.words.3 | COULEUR |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/97a95734-e35c-563f-a780-393f9857f33a |
+| source.excerpts.72.value | A Nerviano de Rossi , un puits a été foré jusqu ' à 130 mètres et a produit quelques litres de pétrole .Le long de la rivière Parma , à Corniglio et àRivolta , il existe des émanations gazeuses ; on en trouve aussi à Torre di Traversetolo dans la vallée de la Termina .A Traversetolo , il y a des volcans de boue , mais sans traces de pétrole . |
+| source.excerpts.72.words.0 | émanations |
+| source.excerpts.72.words.1 | gazeuses |
+| source.excerpts.72.words.2 | long |
+| source.excerpts.72.words.3 | Torre di Traversetolo |
+| source.excerpts.72.words.4 | la vallée de la Termina |
+| source.excerpts.72.words.5 | rivière Parma |
+| source.excerpts.72.words.6 | à Corniglio et àRivolta |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/9a2a2b55-24e2-5a51-83d1-9b2a3d8016a4 |
+| source.excerpts.73.value | 14 Calcaire avec pétrole 0 , 18 Marnes 4 , 60 Calcaire dur • ' 0 , 18 Marnes 4 , 50 Marnes sableuses ( pélrole ) 8 , 40 Argile jaune ' 0 , 18 Argile » TOTAL EN MÈTRES 84 , 21 En remontant le ruisseau de Milos , depuis le forage presque jusqu ' au village , on trouve des affleurements de sable et de marne d ' où le pétrole suinte par place .Plus à l ' ouest , dans la même région , aux environs de Chingerlu , existent des affleurements de marnes ayant une forte odeur de pétrole ; il y a aussi des couches de lignite en assez grand nombre dans cette région , elles sont principalement abondantes à l ' ouest de Surkoi .A Keschan , il y a une exploitation de charbon bitumineux ; les terrains * qui recouvrent la couche exploitée sont les suivants : Mètres Argile rouge caillouteuse 10 - Cendres volcaniques el conglomérats ( Rhyolithe ) 12 Grès el petits lits charbonneux 2 , 20 Charbon terreux 0 , 50 Schistes et argile 1 , 80 Grès 0 , 40 Schistes et argile - 1 , 60 Charbon terreux 0 , 30 Schistes et argile 3 , 30 . |
+| source.excerpts.73.words.0 | forte |
+| source.excerpts.73.words.1 | odeur |
+| source.excerpts.73.words.2 | pétrole |
+| source.excerpts.73.words.3 | marnes |
+| source.excerpts.73.words.4 | environs de Chingerlu |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/9c82d01c-ad3f-5dff-9713-e5286af5cf35 |
+| source.excerpts.74.value | — Il existe dans les essences de cédrat , d ' orange , etc .C ' est un liquide d ' odeur agréable .Il y a deux variétés de Limonène actifs : l ' un , lévogyre ; l ' autre , dextrogyre ; les points d ' ébullition varient de 105 ° à 107 ° ; a = + 107 ° , = a — 105 ° ; D ( 20 - 4 ) = 0 , 8425 . |
+| source.excerpts.74.words.0 | agréable |
+| source.excerpts.74.words.1 | odeur |
+| source.excerpts.74.words.2 | liquide |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/9c979db5-d5f6-524d-ae06-152056cc95e9 |
+| source.excerpts.75.value | Des traces de pétrole sont également signalées à Cintra , Alcobaca , Monte Real .IX ILES BRITANNIQUES Des traces de pétrole et des émanations gazeuses ont été observées dans beaucoup de localités des Iles Britanniques sans donner lieu à aucune exploitation .Une tentative d ' exploitation de gaz naturel a cependant été faite , dans ces dernières années , à Heathfield , comté de Sussex . |
+| source.excerpts.75.words.0 | émanations |
+| source.excerpts.75.words.1 | pétrole |
+| source.excerpts.75.words.2 | ILES |
+| source.excerpts.75.words.3 | des Iles Britanniques |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a0acafc9-c06b-59c8-8343-1c33163b3c7d |
+| source.excerpts.76.value | La première fraction donna l ' acide hexaméthylène carbonique formant une huile épaisse bouillant à 215 ° - 217 ° , D = 0 , 95025 , dont le chlorure bout à 167 ° - 169 ° , l ' amide fond à 123 ° , 5 , l ' anilide fond à 93 ° - 94 ° .La deuxième portion donna l ' acide heptanaphtène carbonique bouillant à 237 ° - 239 ° , D = 0 , 9982 ; à 0 " , l ' éther méthylique bouta 190M92 ° , D = 0 , 9357 ; à 18 ° , il a une odeur de fruit .Le - chlorure de cet acide bout à 193 ° - 195 ° ; l ' amide fond à 133 ° . |
+| source.excerpts.76.words.0 | fruit |
+| source.excerpts.76.words.1 | odeur |
+| source.excerpts.76.words.2 | il |
+| source.excerpts.76.words.3 | éther méthylique |
+| source.excerpts.76.words.4 | acide heptanaphtène carbonique |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a2756c71-dada-5651-bc41-f13f3706f2b9 |
+| source.excerpts.77.value | Propyl - 4 - hepladiénc - l - 4 CH2 = CH — CÏP — c \ Qfi ~ £ w ~ çti * - — Obtenu en chauffant un tube scellé , à 130 ° , l ' allyldipropylcarbinol ( propyl - 4heptène - i - ol - 4 ) , avec de l ' acide sulfurique étendu de son poids d ' eau .Il bout à 158 ° - 160 ° ; son odeur est caractéristique ; il est insoluble dans l ' eau , soluble dans l ' alcool , l ' élher , le benzène ; sa densité à 0 ° est 0 , 7825 ; à 602 CHAPITRE VI .— LA CHIMIE DES PÉTROLES 16 ° , elle est 0 , 7705 ; l ' acide sulfurique concentré le polymérise ; il absorbe l ' oxygène . |
+| source.excerpts.77.words.0 | benzène |
+| source.excerpts.77.words.1 | odeur |
+| source.excerpts.77.words.2 | son |
+| source.excerpts.77.words.3 | il |
+| source.excerpts.77.words.4 | caractéristique |
+| source.excerpts.77.words.5 | élher |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a2c5d89d-d980-51d8-b5ff-fa983672ca4c |
+| source.excerpts.78.value | Il donne un précipité jaune avec le chlorure cuivreux ammoniacal et un précipité blanc avec le nitrate d ' argent ammoniacal .4 ° Tétraméthylallène CW / C = G = C \ CH 3 Gest Un li ( ïui ( ie inco ~ lore , à odeur désagréable , bouillant à 70 ° .Il ne se combine pas aux sels cuivreux ou argentiques . |
+| source.excerpts.78.words.0 | désagréable |
+| source.excerpts.78.words.1 | odeur |
+| source.excerpts.78.words.2 | bouillant |
+| source.excerpts.78.words.3 | Tétraméthylallène |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a39de9b6-f8eb-55d8-86e9-b93fedde2b4c |
+| source.excerpts.79.value | La méthyIcyclopentanone - 3 bout à 142 ° .et a une odeur ressemblant à la phlorone du camphre .La méthylcyclopentanone - 2 ( dérivé de l ' acide Y - méthyladipique ) a une odeur de menthe ; elle bout à 144 ° ; sa semicarbozone fond à 171 ° ( 184 ) . |
+| source.excerpts.79.words.0 | odeur |
+| source.excerpts.79.words.1 | camphre |
+| source.excerpts.79.words.2 | phlorone |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a76c2dc2-d3d0-551b-8bbe-df96fa8955f3 |
+| source.excerpts.80.value | ' 175 Grès et gaz 185 Schistes 197 Grès 207 Schistes .210 Grès , dégagements gazeux importants 250 Schistes 260 Grès 283 Sables , hydrogène sulfuré et gaz carbures 284 Argiles et gaz en quantité , odeur de pétrole 390 Sables aquifères 400 Schistes 425 VII ESPAGNE Un grand nombre de tentatives d ' exploitation de pétrole , d ' asphalte et de bitume ont été faites en Espagne , le tableau suivant indique les superficies des concessions accordées pour ces différents genres d ' exploitation : Provinces Nature de l ' exploitation Superficie en hectares Alvala Asphalte .507 Rarcelone , Roche asphaltique . |
+| source.excerpts.80.words.0 | odeur |
+| source.excerpts.80.words.1 | gaz |
+| source.excerpts.80.words.2 | hydrogène sulfuré |
+| source.excerpts.80.words.3 | pétrole |
+| source.excerpts.80.words.4 | gaz carbures |
+| source.excerpts.80.words.5 | Argiles |
+| source.excerpts.80.words.6 | Sables |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a79fac01-1fed-5f26-857e-ebb899dd8728 |
+| source.excerpts.81.value | et a une odeur ressemblant à la phlorone du camphre .La méthylcyclopentanone - 2 ( dérivé de l ' acide Y - méthyladipique ) a une odeur de menthe ; elle bout à 144 ° ; sa semicarbozone fond à 171 ° ( 184 ) .Le cblorométhylpentaméthyIène - 1 - 1 bouta 97 ° à la pression de 350 millimètres . |
+| source.excerpts.81.words.0 | odeur |
+| source.excerpts.81.words.1 | menthe |
+| source.excerpts.81.words.2 | acide Y - méthyladipique |
+| source.excerpts.81.words.3 | sa semicarbozone |
+| source.excerpts.81.words.4 | méthylcyclopentanone - 2 |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/a7e73219-2ad8-500f-9edb-93d2d51dd477 |
+| source.excerpts.82.value | forage situé aux environs de Lima , atteignit le calcaire du Trenton , mais au lieu de donner du gaz , il donna de petites quantités de pétrole , au grand désappointement des propriétaires .Après avoir été torpillé , il fournit 18 barils de pétrole par jour ; ce résultat fut regardé comme peu satisfaisant , surtout à cause de l ' odeur désagréable et de la forte densité du pétrole obtenu , de plus , le réservoir d ' où il provenait était un calcaire et les couches productives de la Pensylvanie étaient des sables et des grès ; tout cela déroutait les entrepreneurs de forages .Néanmoins , un second forage fut entrepris , cette fois , avec l ' intention de reconnaître la production du nouveau champ pétrolifère qui semblait avoir été découvert et , en 1886 , ce forage étant terminé , donna 26 barils par jour ; mais ce ne fut que l ' année suivante , que l ' exploitation du pétrole reçut un grand développement . |
+| source.excerpts.82.words.0 | désagréable |
+| source.excerpts.82.words.1 | odeur |
+| source.excerpts.82.words.2 | pétrole |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ad319359-3f3f-5e36-aa44-9971a07ea490 |
+| source.excerpts.83.value | Plus tard , le système américain de sondage à la corde fut introduit , et ce ne fut qu ' ultérieurement que le système de forage dit canadien prit naissance .La densité du pétrole du Canada varie de 840 à 870 ; il a une odeur sulfureuse et contient jusqu ' à 2 1 / 2 0 / 0 de soufre , ce qui rend le raffinage assez difficile .Tout le pétrole de la région de Lambton est distillé à Sarnia . |
+| source.excerpts.83.words.0 | odeur |
+| source.excerpts.83.words.1 | il |
+| source.excerpts.83.words.2 | sulfureuse |
+| source.excerpts.83.words.3 | pétrole du Canada |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/adb1a518-4610-5eaf-b632-9c556a17b7dd |
+| source.excerpts.84.value | Combinaisons oxygénées dans les pétroles bruts .— Aschan , en traitant par l ' acide chlorhydrique les lessives de soude venant de l ' épuration du pétrole de Bakou , a obtenu un liquide ayant une odeur participant à la fois à celle du pétrole et à celle de l ' acide acétique , qui contiendrait un acide hexaméthylène carbonique , un acide heptanaphtène carbonique et vin acide octonaphtène carbonique .Le mélange fut transformé en éther méthylique qui , par rectification donna trois fractions bouillant à 162 ° - 164 ° ; 186 ° - 189 ° , 205 ° - 210 ° . |
+| source.excerpts.84.words.0 | odeur |
+| source.excerpts.84.words.1 | celle |
+| source.excerpts.84.words.2 | acide |
+| source.excerpts.84.words.3 | liquide |
+| source.excerpts.84.words.4 | acide acétique |
+| source.excerpts.84.words.5 | acide chlorhydrique |
+| source.excerpts.84.words.6 | lessives de soude |
+| source.excerpts.84.words.7 | acide heptanaphtène |
+| source.excerpts.84.words.8 | — Aschan |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ae3b8b22-3d1b-5182-bbab-4370573cd7a0 |
+| source.excerpts.85.value | Vers l ' est du lac de Tibériade , dans la vallée du Yarmuk , près du village de Mrani , se trouve un gisement de calcaire extrêmement riche en bitume , que les habitants emploient pour fabriquer de la chaux , par la combustion môme de la roche bitumineuse .Tout le long de la vallée du Jourdain , en descendant du lac Tibériade vers la mer Morte , il y a des sources chaudes et des émanations de gaz inflammablesMiaLurels .A Nebi Mussa , au nord - ouest de la mer Morte , le calcaire est imprégné de 25 0 / 0 de bitume ; ce calcaire est recoupé par de nombreuses couches de gypse . |
+| source.excerpts.85.words.0 | gaz |
+| source.excerpts.85.words.1 | émanations |
+| source.excerpts.85.words.2 | la vallée du Jourdain |
+| source.excerpts.85.words.3 | lac Tibériade vers la mer Morte |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/b02fc7f2-bcad-5e3e-8cad-7831295ac660 |
+| source.excerpts.86.value | Il fut arrêté à 50 mètres .Le numéro 3 , poussé à 100 mètres , a donné des dégagements gazeux < ■ ; deux niveaux différents : au niveau supérieur l ' odeur était franchement , sulfurée , tandis qu ' au niveau inférieur , l ' odeur était celle des gaz pétrolifères .En remontant la côte vers le nord - est , au - dessus de l ' embouchure du . |
+| source.excerpts.86.words.0 | odeur |
+| source.excerpts.86.words.1 | gaz |
+| source.excerpts.86.words.2 | franchement |
+| source.excerpts.86.words.3 | dégagements |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/b26631b2-c7c6-5194-be2f-56cb1ac37feb |
+| source.excerpts.87.value | Les réservoirs qui reçurent ensuite ces produits sont les grès et les couches poreuses .Dans les régions où ces couches affleurent , il n ' est pas rare qu ' elles aient une odeur rappelant celle du pétrole , et les gaz , les suintements , les goudrons furent notés par les premiers explorateurs comme une indication de la présence du pétrole .M . |
+| source.excerpts.87.words.0 | odeur |
+| source.excerpts.87.words.1 | elles |
+| source.excerpts.87.words.2 | gaz |
+| source.excerpts.87.words.3 | pétrole |
+| source.excerpts.87.words.4 | goudrons |
+| source.excerpts.87.words.5 | couches |
+| source.excerpts.87.words.6 | suintements |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/b3191e4d-0996-5828-88b6-fbd62d00c80c |
+| source.excerpts.88.value | D ' ailleurs , quand on rencontre une coquille remplie d ' huile , cette quantité d ' huile est si incomparablement supérieure à celle qu ' avait pu fournir le mollusque en se décomposant qu ' on doit la supposer arrivée d ' ailleurs et après coup .Enfin , le pétrole qui aune composition sensiblement différente de celle de l ' huile de poisson ( beaucoup moins d ' oxygène ) est plus léger que l ' eau : en sorte que , se formant en mer libre , il aurait dû monter à la surface et détruire les microorganismes , en sorte qu ' il aurait arrêté aussitôt la fermentation putride qui le produisait .Le second argument n ' a , à notre avis , aucune valeur ; car le point de départ même en est erroné . |
+| source.excerpts.88.words.0 | putride |
+| source.excerpts.88.words.1 | pétrole |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/b9284b4f-726b-5bb6-a6bc-3747e2dc458d |
+| source.excerpts.89.value | Sabatier et Sandérens à l ' aide du nickel réduit et de l ' hydrogène .C ' est un liquide d ' odeur agréable , tenant du chloroforme et de l ' essence de roses , bouillant à 81 ° ; il fond à 6 ° , 5 ; sa densité est de 0 , 7788 ( 19 ° 4 ) , 0 , 7808 à 0 ° ( Sabatier et Sauderens ) .Il n ' est pas attaqué à froid par un mélange d ' acide sulfurique et d ' acide azotique concentré ; l ' acide azotique , de densité 1 , 5 , l ' oxyde à 100 ° , donnant de l ' acide adipique . |
+| source.excerpts.89.words.0 | agréable |
+| source.excerpts.89.words.1 | odeur |
+| source.excerpts.89.words.2 | liquide |
+| source.excerpts.89.words.3 | chloroforme |
+| source.excerpts.89.words.4 | essence de roses |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ba7a2a93-57aa-5d3e-b046-e4bbe526efd8 |
+| source.excerpts.90.value | Ainsi naquit le pétrole .» Cette légende se trouve également rapportée sous une autre forme : « On dit qu ' un puit ayant été creusé , il se remplit à la suite d ' un tremblement de terre d ' une eau parfumée .« Un prêtre du pays prophétisaqu ' elle se changerait un jour en un liquide nauséabond , mais , que ce serait là encore un grand profit pour la contrée et pour les vingt - quatre possesseurs des puits . |
+| source.excerpts.90.words.0 | parfumée |
+| source.excerpts.90.words.1 | eau |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ba923564-b44b-5afb-8797-2b9826ed61e3 |
+| source.excerpts.91.value | L ' acide azotique concentré l ' oxyde facilement de même que le méthyl et diméthylcyclopentane .On a extrait du pétrole russe un acide C ' H 702 : Il bout à 215 ° - 216 ° ; sa densité à 0 ° est 971 , 2 par rapport à l ' eau à 0 ° ; son éther éthylique bout à 163 ° - 154 ° et a pour densité à 0 ° , par rapport à l ' eau à 0 ° , 922 , 9 ; l ' amide fond à 121 ° - 123 ° ; l ' aminé à 120 ° - 126 ° ; densité , 818 , 9 ; son odeur rappelle celle de la conicine .CYCLOIIEXANES clohexane , Napktène ) . |
+| source.excerpts.91.words.0 | odeur |
+| source.excerpts.91.words.1 | son |
+| source.excerpts.91.words.2 | pétrole |
+| source.excerpts.91.words.3 | conicine |
+| source.excerpts.91.words.4 | amide |
+| source.excerpts.92.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/bf3f08e6-9a44-5ba9-b9cc-ee459081c748 |
+| source.excerpts.92.value | Le méthyléthyléthylène dissymétrique : bouillant à 31 ° - 32 ° , traité par le chlorure amylique tertiaire : en présence du chlorure de zinc ( Kondakow ) donne un décylène : Il bout à 157 ° ; sa densité est 787 , 8 à 0 ° , et 772 , 9 à 20 ° , par rapport à l ' eau à la même température .Un autre carbure est aussi dérivé du dérivé brome du diisoamyle ; il bout à 159 ° - 164 ° et semble posséder l ' odeur de l ' essence de citron .La distillation de la paraffine sous pression fournit un carbure C , 0H 20 . |
+| source.excerpts.92.words.0 | odeur |
+| source.excerpts.92.words.1 | carbure |
+| source.excerpts.92.words.2 | essence de citron |
+| source.excerpts.92.words.3 | dérivé brome du diisoamyle |
+| source.excerpts.93.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/c02b3dc9-0398-52c6-97ae-a3dc928b0568 |
+| source.excerpts.93.value | : DiéLhylcyclohcxane ) .■ — Bout à 170 ° ; sa densité est D ( 22 - 4 ) — 0 , 796 ; son indice de réfraction nù = 1 , 4388 ; il a une odeur de pétrole .Déeanaphtène - a CI0H 20 . |
+| source.excerpts.93.words.0 | odeur |
+| source.excerpts.93.words.1 | il |
+| source.excerpts.93.words.2 | pétrole |
+| source.excerpts.94.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/cbadd662-2cf3-53c4-8ed4-f2ca16f2f7c8 |
+| source.excerpts.94.value | Diméthyl - l - 3 .— Obtenu par hydrogénation du métaxylène ; il bout à 120 ° ; sa densité à 0 ° est 0 , 7874 à ( 18 - 4 ) = 0 , 7736 ; son odeur rappelle le moisi ; chauffé avec un mélange d ' acide sulfurique et d ' acide azotique , il donne le trinitrométaxylène .L ' acide sulfurique fumant donne après un très long contact des dérivés sulfonés du métaxylène . |
+| source.excerpts.94.words.0 | odeur |
+| source.excerpts.94.words.1 | son |
+| source.excerpts.94.words.2 | il |
+| source.excerpts.94.words.3 | moisi |
+| source.excerpts.94.words.4 | trinitrométaxylène |
+| source.excerpts.94.words.5 | métaxylène |
+| source.excerpts.95.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/cd652830-ebf9-5ae2-8e7c-204624c56af3 |
+| source.excerpts.95.value | Dans l ' est de la province , plusieurs forages ont été exécutés et ont atteint de 90 à 100 mètres de profondeur ; tous ont été abandonnés à la suite d ' accidents divers ; en août 1881 , du pétrole avait été rencontré à 90 mètres de profondeur ; il avait une densité de 0 , 75i , il bouillait à 85 ° C .Dans toute cette région , il y a de nombreuses exsudations gazeuses .La surface du terrain , jusqu ' à 60 mètres , est formée par du calcaire à silex ; au - dessous se trouve une roche serpentineuse . |
+| source.excerpts.95.words.0 | gazeuses |
+| source.excerpts.95.words.1 | exsudations |
+| source.excerpts.95.words.2 | toute cette région |
+| source.excerpts.96.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/cd7ba966-b3ec-5f67-9adb-7de0077bac38 |
+| source.excerpts.96.value | 15 , 1 130 159 338 , 30 19 — Brun noir 19 , 0 80 89 21 , 90 18 Kern River Noir 10 , 4 176 pâteux à 16 ° — .13 , 9 131 249 , 50 29 _ — 15 , 6 122 238 341 , 70 16 PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS 627 Leur odeur est très caractéristique , mais plutôt douce et très rarement sulfureuse .La densité varie de 1 , 025 à 740 , mais la moyenne s ' écarte peu de 955 . |
+| source.excerpts.96.words.0 | odeur |
+| source.excerpts.96.words.1 | très caractéristique |
+| source.excerpts.96.words.2 | Leur |
+| source.excerpts.96.words.3 | plutôt douce |
+| source.excerpts.96.words.4 | PÉTROLES BRUTS |
+| source.excerpts.97.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ce1ab681-51da-5280-9fe0-112d5a900ad1 |
+| source.excerpts.97.value | Dans la vallée du Riglio , à Bétola , Ponte dell Olio et Groparello , on a l ' ait plusieurs puits vers 1887 qui ont donné jusqu ' à 900 litres de pétrole par jour ; un sondage avait déjà été poussé à 240 mètres en 1866 .Dans la vallée du Chero , à Velleïa , on trouve des émanations gazeuses et des suintements pétrolifères ; des travaux de recherches sérieux ont été entrepris en ce point , et une raffinerie a été installée à Fiorenzuola d ' Arda pour le traitement du pétrole de cette localité .La Société française des Pétroles a foré environ 150 puits ; une autre Compagnie en a foré une dizaine à Monactro . |
+| source.excerpts.97.words.0 | émanations |
+| source.excerpts.97.words.1 | suintements |
+| source.excerpts.97.words.2 | Dans la vallée du Chero |
+| source.excerpts.97.words.3 | à Velleïa |
+| source.excerpts.98.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ce3259e1-6f72-5c23-88c6-50a279f621bd |
+| source.excerpts.98.value | .La région àl ' est de Brunswick où le pétrole se trouve dans le néocomien et le jurassique , àEssehof , Dibbesdorf , Hordorf , Klein Schoppenstedt , Monche Schoppenstedt , Kremlingen , Hotgum , Sickte ; A Schoningen , dans la même région , où le pétrole se trouve dans le Trias et au nord de Schoningen à Veipke , où il y a de l ' asphalte ; ■ A l ' ouest de Hanovre à Vahrenwald , Harenberg , Ahlen , LimneiyVelber , Linden , Wulfel ; où se trouvent des traces de pétrole dans le Trias et le Jurassique , ainsi que des calcaires asphaltiques ; Au sud - ouest de Hanovre , dans les Deister Gebirge , où se trouvent des calcaires asphaltiques , notamment à Springe à Bennigsen , où les roches du terrain voisin ont une forte odeur de pétrole ; Holzen , au sud de Hanovre , où il y a des asphaltes calcaires ; Enfin , dans le Harz , aux environs de Goslaret de Grund , où les roches dévoniennes contiennent du bitume dans leurs fissures .Dans une région plus à l ' ouest , vers Osnabruk , il y a des bitumes et de l ' asphalte dans le néocomien à Bentheim . |
+| source.excerpts.98.words.0 | calcaires |
+| source.excerpts.98.words.1 | Hanovre |
+| source.excerpts.98.words.2 | forte |
+| source.excerpts.98.words.3 | odeur |
+| source.excerpts.98.words.4 | pétrole |
+| source.excerpts.98.words.5 | région |
+| source.excerpts.98.words.6 | roches |
+| source.excerpts.98.words.7 | calcaires asphaltiques |
+| source.excerpts.98.words.8 | le Harz |
+| source.excerpts.98.words.9 | les Deister Gebirge |
+| source.excerpts.99.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ced0a667-84a4-5889-815c-f5c20aa70473 |
+| source.excerpts.99.value | — Au sud de la base des Portrero Hills , il y a des dégagements de gaz naturels , soit dans des sources où l ' eau bouillonne sous l ' action des bulles de gaz qui se dégagent , soit dans des fissures du sol ; toutes ces émanations sont sur un alignement dirigé nord - ouest sud - est et semblent indiquer une ligne de fracture .Un puits domestique creusé près de Goodyear , dans les environs de Vacaville , a donné du gaz ; il traverse des schistes noirs , sentant fortement le pétrole , dont les couches sont fortement inclinées , et qui affleurent dans le lit de la rivière Ulatis Creek , non loin de Vacaville .Comlé de Colusa . |
+| source.excerpts.99.words.0 | sentant |
+| source.excerpts.99.words.1 | les environs de Vacaville |
+| source.excerpts.100.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/d10b5c3e-baef-5f27-a968-deeeedbd01a8 |
+| source.excerpts.100.value | Les manifestations pétrolifères ne sont pas exclusivement concentrées sur la terre ferme : au sein même de la mer Caspienne , on constate , par temps calme , des émanations gazeuses el , bien que ces phénomènes tendent à disparaître depuis l ' exploitation intensive des régions avoisinant Bakou , on peut encore les constater aisément .Deux points où les émanations gazeuses sont particulièrement apparentes , sont les environs du cap Bailof et ceux de l ' île Sainte , et l ' on raconte même que , dans cette dernière région , des barques ont été autrefois chavirées par des émissions gazeuses violentes et imprévues .En outre , la zone pétrolifère s ' étend certainement sous la mer , et à Bibi1 . |
+| source.excerpts.100.words.0 | émanations |
+| source.excerpts.100.words.1 | gazeuses |
+| source.excerpts.100.words.2 | région |
+| source.excerpts.100.words.3 | apparentes |
+| source.excerpts.100.words.4 | environs du cap Bailof |
+| source.excerpts.100.words.5 | île Sainte |
+| source.excerpts.101.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/d37609ca-7e40-5378-a9f0-def409bc5716 |
+| source.excerpts.101.value | — On l ' obtient en partant de la subérone CO ( CH 2 ) 6 .Il a une odeur de benzène , il distille à 117 - 117 , 3 , sous 736 millimètres de pression ; sa densité est D ( 0 - 0 ) = 0 , 8253 .Le brome ne l ' attaque pas à froid . |
+| source.excerpts.101.words.0 | odeur |
+| source.excerpts.101.words.1 | il |
+| source.excerpts.102.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/d4fdd793-3125-5a66-8824-dc02d62751ad |
+| source.excerpts.102.value | assez variable : dans la province de Mitsu , elle est de 921 .Le pétrole recueilli en d ' autres points a les densités suivantes : Nagaoka 866 G en do i 823 Amaze 818 Kitano 884 Nagamino 899 Kurakawa 927 Miagawa 891 Le pétrole de Mitsu a une odeur agréable .A Nagano ( provine d ' Echigo ) , le pétrole a une densité de 950 , et un point d ' inflammabilité de 100 ° C . |
+| source.excerpts.102.words.0 | agréable |
+| source.excerpts.102.words.1 | odeur |
+| source.excerpts.102.words.2 | pétrole |
+| source.excerpts.102.words.3 | pétrole de Mitsu |
+| source.excerpts.103.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/d6d3a4e5-8d7b-54a3-a34d-c03b061b61c7 |
+| source.excerpts.103.value | La province de Taranaki , qui occupe la partie sud - ouest de l ' île du nord est diagonalement opposée à la région précédente .Dans cette province , aux environs de New - Plynioulh , il y a des exsudations de pétrole , tout le long de la côte , qu ' il esl plus aisé de constater h marée basse , aux endroits où le sable ferrugineux a été enlevé par la mer ; presque tous les galets de cette partie du rivage cachent des lâches de pétrole .III . |
+| source.excerpts.103.words.0 | pétrole |
+| source.excerpts.103.words.1 | exsudations |
+| source.excerpts.103.words.2 | la côte |
+| source.excerpts.103.words.3 | Dans cette province , aux environs de New - Plynioulh |
+| source.excerpts.104.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/d7bc134f-6c84-5b6e-b970-c6cf6cc82b48 |
+| source.excerpts.104.value | Henry ) ( CH3 ) 3 = C — C = ( CH 3 ) 3 .— Il cristallise dans l ' éther en lames barbelées ; il a une odeur piquante , fond à 103 ° - 104 ° , bouta 106 ° - 107 ° à la pression de 765 millimètres .3 ° Diisobutyle ( CH3 ) 2 = CH2 — Cil2 — CH2 — CH = ( CH 3 ) 2 . |
+| source.excerpts.104.words.0 | odeur |
+| source.excerpts.104.words.1 | il |
+| source.excerpts.104.words.2 | piquante |
+| source.excerpts.104.words.3 | lames barbelées |
+| source.excerpts.105.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ddb30886-6a25-580c-a0c8-def84f15be99 |
+| source.excerpts.105.value | Des recherches ont été successivement faites en différents points de cette zone , puis ont été abandonnées ; il semble que les difficultés du climat et des moyens de communication , ont été pour une grande part dans la non - réussite de ces recherches .Un peu plus au Sud , à Daliki ' , à 80 kilomètres au nord - est de Bushire , ( sur les bords du golfe Persique par 29 ° de latitude ) , il y a des suintements de pétrole qui donnent jusqu ' à 50 kilogrammes de pétrole par jour , ce pétrole est recueilli par les natifs pour les usages domestiques ; il a une couleur jaune , une densité de 0 , 810 et peut s ' employer directement dans les lampes , il a une odeur aromatique agréable .Des essais de sondage entrepris malgré la chaleur du climat ont été péniblement poussés jusqu ' à 180 mètres ; mais ni les sondeurs galiciens , ni même ceux de Bakou , n ' ont pu résister au climat et les travaux ont été abandonnés . |
+| source.excerpts.105.words.0 | odeur |
+| source.excerpts.105.words.1 | il |
+| source.excerpts.105.words.2 | aromatique agréable |
+| source.excerpts.105.words.3 | pétrole |
+| source.excerpts.105.words.4 | sur les bords du golfe Persique |
+| source.excerpts.106.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/de706d3e-c065-59d3-b85d-c9b521e8e269 |
+| source.excerpts.106.value | Ces combinaisons cristallisent facilement et régénèrent le composé sulfuré quand on les traite par l ' hydrogène sulfuré .PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS 639 Le soufre peut être éliminé de ces pétroles sans que l ' odeur désagréable disparaisse , ce qui doit être attribué à la présence de carbures non saturés .Dans différents pétroles du Canada , ils ont trouvé de 0 , 47 à 0 , 52 0 / 0 de soufre pour les portions distillant entre 150 et 300 ° , sous 250 millimètres de pression le résidu en renferme 0 , 98 . |
+| source.excerpts.106.words.0 | désagréable |
+| source.excerpts.106.words.1 | odeur |
+| source.excerpts.106.words.2 | PÉTROLES BRUTS |
+| source.excerpts.106.words.3 | carbures non saturés |
+| source.excerpts.106.words.4 | ces pétroles |
+| source.excerpts.107.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/e300c541-17e5-5f65-a77e-f88d47568dc4 |
+| source.excerpts.107.value | La surface du terrain , jusqu ' à 60 mètres , est formée par du calcaire à silex ; au - dessous se trouve une roche serpentineuse .Près de Santa - Clara , à Sandalwood Spring , on recueille sur l ' eau un pétrole ayant une densité de 901 , de couleur jaune ambrée et ayant une odeur de bois de cèdre .Province de Manlanzas . |
+| source.excerpts.107.words.0 | bois |
+| source.excerpts.107.words.1 | odeur |
+| source.excerpts.107.words.2 | pétrole |
+| source.excerpts.107.words.3 | bois de cèdre |
+| source.excerpts.107.words.4 | Près de Santa - Clara |
+| source.excerpts.107.words.5 | à Sandalwood Spring |
+| source.excerpts.108.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/e33a7896-26f0-51dd-9284-e6e0f154348d |
+| source.excerpts.108.value | — Obtenu en partant de l ' alcool butylique .C ' est un liquide incolore , d ' odeur alliacée , bouillant à 18 ° .Il ne précipite pas la solution de chlorure de cuivre , ammoniacale . |
+| source.excerpts.108.words.0 | odeur |
+| source.excerpts.108.words.1 | alliacée |
+| source.excerpts.108.words.2 | liquide |
+| source.excerpts.109.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/e50c0268-b16b-5040-80f2-31955fb570d4 |
+| source.excerpts.109.value | sk , Obliwnoi , Swinoi , Bulla .Dans le nord de la presqu ' île d ' Apscheron , entre les caps de Kalaga et Schoulan , en face de Bouzourna , une île formée par ces émanations boueuses lit son apparition en 1892j ' et , après quelques mois , elle disparut ; mais le fond de la mer resta notablement relevé , et le long de la côte , vers l ' est , les fonds marins se relevèrent également .A une trentaine de kilomètres , à l ' est de l ' extrémité de la presqu ' île d ' Apscheron , existe , dans la mer Caspienne , le Napha Bank , qui donne lieu à des émissions sous - marines dont on retrouve encore la trace plus à l ' est . |
+| source.excerpts.109.words.0 | émanations |
+| source.excerpts.109.words.1 | boueuses |
+| source.excerpts.109.words.2 | Dans le nord de la presqu ' île d ' Apscheron |
+| source.excerpts.109.words.3 | en 1892j |
+| source.excerpts.109.words.4 | en face de Bouzourna |
+| source.excerpts.109.words.5 | entre les caps de Kalaga et Schoulan |
+| source.excerpts.110.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/e7d09291-8803-575b-8357-5bc1219dccdd |
+| source.excerpts.110.value | Dans le district de Winsen , des recherches ont été faites à Thoeren sur l ' alignement OElheim , Hanigsen , Wietze , Werden ; des recherches ont été également faites à Jeversen sur la rive gauche de l ' Aller et à Rosenthal dans les environs de Peina .Le pétrole de Wietze est brun avec une légère odeur ' , sa densité est de 0 , 93732 ; son degré d ' inflammabilité à l ' appareil Abel est de 40 ° C .; à l ' air libre , il donne 80 ° C ; le point d ' inflammation est de 110e C . |
+| source.excerpts.110.words.0 | odeur |
+| source.excerpts.110.words.1 | légère |
+| source.excerpts.110.words.2 | pétrole de Wietze |
+| source.excerpts.111.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ebf1c063-4f75-5e29-a615-a45affbbe8ec |
+| source.excerpts.111.value | On signale aussi le bitume et de petites couches d ' asphalte à Mussiege , Tangy , Lovagny , Bourbonges , Chavaroche .Plus au sud , et dans le prolongement des plissements du Jura , il y a des émanations gazeuses aux environs de Grenoble ( Fontaine - Ardente ) , à Châtillon ( Hautes - Alpes ) .A Châtillon ( Haute - Savoie ) , au milieu de la vallée de l ' Àrve qui sépare Genève du Mont - Blanc , les habitants pensant d ' après la présence de gaz inflammables à la surface du sol qu ' il y avait de la houille en profondeur , firent des recherches pour trouver ce combustible vers 1855 . |
+| source.excerpts.111.words.0 | Grenoble |
+| source.excerpts.111.words.1 | Châtillon |
+| source.excerpts.111.words.2 | émanations |
+| source.excerpts.111.words.3 | gazeuses |
+| source.excerpts.111.words.4 | environs |
+| source.excerpts.111.words.5 | Hautes - Alpes |
+| source.excerpts.112.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ebf2fb69-d55b-572a-9226-3c352a5c012b |
+| source.excerpts.112.value | C02H — CH2 — CH2 — CH ( CH3 ) CH2 — C02H , * qui donne la méthylpentaméthylcnecétone bouillant à 143 ° , 5 , à 738 " " " , 5 de pression et ayant une densité de 931 , 4 par rapport à l ' eau à 0 ° ; l ' alcool obtenu par réduction bout à 150 ° - 151 ° et a une densité de 927 , 8 .Le méthylpentaméthylène a une odeur de benzène , il bout à 70 ° - 71 ° ; il a une densité de 768 , 3 par rapport à l ' eau à 0 ° , 760 , 8 à 20 ° ( bouillant à 72 ° , 5 ; densité , 0 , 747 à 20 ° , 4 , suivant d ' autres expériences ) .L ' acide azotique fumant l ' attaque énergiquement en donnant de l ' acide acétique . |
+| source.excerpts.112.words.0 | odeur |
+| source.excerpts.112.words.1 | il |
+| source.excerpts.112.words.2 | méthylpentaméthylène |
+| source.excerpts.113.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ebf444c1-9d7c-5be2-a490-66e8cce70299 |
+| source.excerpts.113.value | L ' odeur varie , sans relation aucune avec la teinte ; certains pétroles peu teintés ont une odeur désagréable , tandis que d ' autres d ' une nuance très accentuée ont une odeur qui n ' a rien de repoussant .Gela tient à ce que l ' odeur du pétrole qui n ' est pas très accentuée , est facilement masquée par celle des .corps qu ' il contient en petites quantités et qu ' on peut considérer comme des impuretés . |
+| source.excerpts.113.words.0 | très accentuée |
+| source.excerpts.113.words.1 | odeur |
+| source.excerpts.113.words.2 | celle |
+| source.excerpts.113.words.3 | pétrole |
+| source.excerpts.114.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ed41eddd-0eee-5eb8-a212-e8e785394daf |
+| source.excerpts.114.value | — Il bout à 180 ° ; sa densité est D ( 0 - 4 ) = 0 , 813 ; Hexahydrométacyinène { Mclament liane ) .— Il bout à 167 ° ; sa densité est D ( 14 - 4 ) = 0 , 803 ; son odeur rappelle celle de l ' essence de pétrole .Éthylmenthane - 3 . |
+| source.excerpts.114.words.0 | odeur |
+| source.excerpts.114.words.1 | son |
+| source.excerpts.114.words.2 | essence de pétrole |
+| source.excerpts.115.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ed8310dd-f716-50b6-a52e-83bebdb9d534 |
+| source.excerpts.115.value | II .— ROUMANIE 337 Les pétroles bruts roumains sont , à très peu d ' exception près , presque complètement dépourvus de soufre et d ' une odeur plutôt agréable , quoique d ' un rendement moyen en huile lampante ; leur raffinage facile et leurs densités assez voisines , ainsi que la faculté qu ' ils ont de pouvoir , les uns ou les autres , fournir à peu près complètement toute l ' échelle des produits susceptibles d ' être tirés du pétrole brut , fournissent d ' excellentes conditions pour le développement de l ' industrie du raffinage .Les recherches de nouveaux gîtes pétrolifères paraissent devoir toujours être un peu délicates en Roumanie , et certaines régions ne permettront pas sans difficultés l ' exécution de sondages profonds ; mais ce sont là desimpedi ^ menta que le développement croissant des perfectionnements techniques permettront de surmonter sans trop de difficultés . |
+| source.excerpts.115.words.0 | odeur |
+| source.excerpts.115.words.1 | plutôt agréable |
+| source.excerpts.115.words.2 | pétroles bruts roumains |
+| source.excerpts.115.words.3 | ROUMANIE |
+| source.excerpts.116.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ee164dc8-96ef-56f5-a4cd-d5aaff91dfc9 |
+| source.excerpts.116.value | — Dérivé de l ' acide undécylique venant de la distillation de l ' huile de ricin .Odeur douceâtre ; insoluble dans l ' eau ; il bout à 61 ° , 5 sous 15 millimètres , à 87 ° - 88 ° sous 50 millimètres , à 106 ° - 107 ° sous 100 millimètres à 178 ° sans décomposition sous la pression ordinaire .Sa densité est à 0 ° , 7630 ; à 15 ° , 7512 . |
+| source.excerpts.116.words.0 | Odeur |
+| source.excerpts.116.words.1 | douceâtre |
+| source.excerpts.117.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ee633e2c-cde1-5399-8809-f05cc9fc5c41 |
+| source.excerpts.117.value | Non loin de Kesongo , dans la plaine de Grobogan ( Semarang ) , se trouvent aussi de nombreuses sources boueuses donnant aussi un peu de pétrole et des gaz combustibles .Les principales sources sont : Medangramsaw , à l ' est de Wirosari , où , dans une plaine marécageuse , se trouvent plusieurs sources boueuses ; l ' une d ' elles ayant formé ( depuis 1882 ) un cône d ' une dizaine de mètres de hauteur ; Diono , où l ' eau salée est employée à la fabrication du sel ; Nguembak , où les sources salées ont une odeur de pétrole très prononcée ; 1 .Verbock . |
+| source.excerpts.117.words.0 | très prononcée |
+| source.excerpts.117.words.1 | odeur |
+| source.excerpts.117.words.2 | sources |
+| source.excerpts.117.words.3 | pétrole |
+| source.excerpts.117.words.4 | sources salées |
+| source.excerpts.117.words.5 | depuis 1882 |
+| source.excerpts.118.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/efd4ea50-7cfc-5407-87cd-cf8a75978b92 |
+| source.excerpts.118.value | Si l ' on fait passer l ' acétylène seul sans hydrogène sur le nickel réduit et qu ' on maintienne la température entre 200 et 300 ° , la réaction se produit avec incandescence du métal , et il se condense des hydrocarbures verdâtres par réflexion et rouges par transparence ; en plusieurs opérations réitérées , il est possible d ' obtenir 250 centimètres cubes d ' un liquide vert à odeur pénétrante .11 commence à bouillir à 60 ° ; en ne recueillant que ce qui se passe au - dessous de 260 ° , on obtient un liquide rougeâtre à odeur forte , ayant une densité à 0 ° par rapport à l ' eau à 0 ° de 879 , et il reste un goudron rougeâtre , très fluorescent .Le liquide est très attaquable par l ' acide sulfurique concentré et surtout par le mélange nitrosulfurique et l ' emploi de ce dernier réactif y décèle la présence de carbures aromatiques ( benzène et homologues ) et on peut y constater la présence du styrolène qui se change peu à peu en metastyrolène solide . |
+| source.excerpts.118.words.0 | forte |
+| source.excerpts.118.words.1 | odeur |
+| source.excerpts.118.words.2 | liquide |
+| source.excerpts.118.words.3 | goudron |
+| source.excerpts.119.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f01e3a84-7561-5cc4-a1a0-99935ab9c0da |
+| source.excerpts.119.value | l > iméthyl - l - 4 - .— Obtenu par hydrogénation du paraxylène ; son odeur rappelle le fenouil ; il bout à 120 ° ; sa densité estD0 = 0 , 7866 ; D ( 20 - 4 ) = 0 , 769 .Il se dissout facilement dans un mélange d ' acides sulfurique et azotique en chauffant légèrement ; il est facilement attaqué par l ' acide azotique en donnant le trinitroparaxylène . |
+| source.excerpts.119.words.0 | odeur |
+| source.excerpts.119.words.1 | son |
+| source.excerpts.119.words.2 | fenouil |
+| source.excerpts.119.words.3 | paraxylène |
+| source.excerpts.120.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f1e268c9-3547-5612-ac3f-8248dd3f8aa9 |
+| source.excerpts.120.value | Il bout à 110 ° ou 140 ° ( ? ) Il est soluble dans l ' alcool et l ' éther .11 se combine au brome à la température ordinaire , en donnant le bromure C ° IIISB ] 2 , dont l ' odeur ressemble à celle de l ' anis .Un nonylône tiré de l ' huile de hareng , bout à 153 et a une densité de 761 , 8 à 0 ° . |
+| source.excerpts.120.words.0 | odeur |
+| source.excerpts.120.words.1 | anis |
+| source.excerpts.120.words.2 | brome |
+| source.excerpts.120.words.3 | bromure |
+| source.excerpts.121.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f42d034d-5994-5582-949a-8b11294fc787 |
+| source.excerpts.121.value | : Mèthylacélhylènc , Allylène asymétrique ; Propine ) .— S ' obtient en partant du bromure de propylène : C ' est un gaz incolore , à odeur alliacée , assez soluble dans l ' eau ; il se liquéfie sous une pression de 3 atmosphères environ .Sa chaleur de combustion moléculaire est 473 , 6 calories , soit 11 . |
+| source.excerpts.121.words.0 | odeur |
+| source.excerpts.121.words.1 | gaz |
+| source.excerpts.121.words.2 | alliacée |
+| source.excerpts.121.words.3 | bromure de propylène |
+| source.excerpts.122.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f490094e-987d-596d-b18e-115fdf2e18ac |
+| source.excerpts.122.value | mêmes conditions à l ' Escourchade .Il y a des exsudations bitumineuses et gazeuses au puy de la Poix ; à La Bourrière , on a trouvé des masses bitumineuses disséminées au milieu des argiles ; au puy de Crouelle se trouvent des bitumes et des émanations gazeuses ; à Malintrat , le bitume est exploité par une sorte de méthode de drainage souterrain ; en ce point , il affecte d ' une façon très nette la forme d ' un filon presque vertical ayant 1 mètre d ' épaisseur .A Machollë , près de Riom , un forage a été fait en 1896 ; les terrains traversés ont été les suivants : Mètres Calcaires argileux et argiles avec quelques couches de sables 400 Couches de schistes et calcaires argileux , et couches de grès , avec inclusions pyriteusês 699 Schistes , calcaires argileux durs , avec beaucoup d ' inclusions pyriteusês 894 Schistes , argiles , et quelques lits d ' argiles très sableuses 973 Calcaires siliceux , schistes et grès et quelques couches de sel 1 . |
+| source.excerpts.122.words.0 | bitumes |
+| source.excerpts.122.words.1 | masses |
+| source.excerpts.122.words.2 | exsudations |
+| source.excerpts.122.words.3 | La Bourrière |
+| source.excerpts.122.words.4 | puy de Crouelle |
+| source.excerpts.122.words.5 | puy de la Poix |
+| source.excerpts.123.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f8953cd3-89bc-5525-85a6-a2ecf1a88262 |
+| source.excerpts.123.value | Les couches éocènes qu ' on trouve dans d ' autres parties de la Crimée , n ' apparaissent pas à la surface , dans la presqu ' île de Kertch .Le long de la côte de la mer d ' Azof , au - dessous de Berdiansk , tout le terrain de régions importantes donne des dégagements gazeux , au point qu ' il est très difficile pour les habitants de la contrée , de se procurer de l ' eau potable , presque tous les puits donnant des eaux ayant une forte odeur de naphte .Au village de Gueorgewski , en 1889 , les habitants furent obligés d ' abandonner un puits à 75 mètres , à la suite d ' une explosion ; d ' autres puits creusés dans les environs , donnèrent lieu au même accident . |
+| source.excerpts.123.words.0 | forte |
+| source.excerpts.123.words.1 | odeur |
+| source.excerpts.123.words.2 | puits |
+| source.excerpts.123.words.3 | naphte |
+| source.excerpts.123.words.4 | au - dessous de Berdiansk |
+| source.excerpts.123.words.5 | long de la côte de la mer d ' Azof |
+| source.excerpts.124.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f8b180d6-d486-5516-9512-908209c49abd |
+| source.excerpts.124.value | — Les suintements pétrolifères qu ' on trouve dans cette province sont situés : à Sasso Gurlino , Sasso Negro , Rio Canei , Tombe di Sassatella , San Martino in Pedriolo , Sassuno , Monterenzio , Vallone degli Spccchi .On trouve des émanations gazeuses à : Bazzano , Marzabotto , Riola , Mulinaccio , Casale , Gaggio , Montano , Grecchia , Poretta , Bisano , Bergullo .Les sources minérales de la province sont : Monteveglio , Monte San Pietro , Vergato , Poretta , Mogne , Baragazza , Creda , Boschetto , Paduro e Sasso , Bologne , Pianoro , Castel San Pietro , Monte Castellaccio , Imola . |
+| source.excerpts.124.words.0 | Marzabotto |
+| source.excerpts.124.words.1 | Bazzano |
+| source.excerpts.124.words.2 | émanations |
+| source.excerpts.124.words.3 | gazeuses |
+| source.excerpts.124.words.4 | Riola |
+| source.excerpts.125.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/f8fd1308-73ff-57f5-af60-d652bdc6cde1 |
+| source.excerpts.125.value | En 1882 , à quelques kilomètres à l ' ouest de Rimnic - Vulcea , 2 puits furent creusés , l ' un à Gatejesti , l ' autre à Hentza , tous deux donnèrent du pétrole ; mais , en même temps , celui de Hentza donna une eau fortement iodurée ; cette découverte fut le point de départ de la station balnéaire de Govora .A Ocnele Mari , aux environs de la saline , des émanations importantes de gaz inflammables ont été contatées ; au Dealu Muretu , un puits a donné des traces de pétrole et une grande quantité de gaz ; à Banesci , il y a aussi des dégagements de gaz .APausesti , un sondage a été poussé jusqu ' à 327 mètres et a doriné de grandes quantités de gaz . |
+| source.excerpts.125.words.0 | émanations |
+| source.excerpts.125.words.1 | gaz inflammables |
+| source.excerpts.125.words.2 | importantes |
+| source.excerpts.125.words.3 | A Ocnele Mari |
+| source.excerpts.125.words.4 | environs de la saline |
+| source.excerpts.126.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/fbbf6445-7c56-5aca-a42e-13869c2802cb |
+| source.excerpts.126.value | 250 » » CiOHii — CH Naphtanlracènc C ^ FI « = CM2 = C « Hf 141 » » PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS 625 DEUXIÈME PARTIE PROPRIÉTÉS PHYSIQUES ET CHIMIQUES DES PÉTROLES BRUTS L ' aspect et l ' odeur des pétroles bruts sont extrêmement variables ; oii peut en trouver qui soient légers , mobiles , à peine teintés en rose jaunâtre , comme certains pétroles du comté de Parme , et certains échantillons trouvés à Surachani et dans d ' autres régions , ayant une odeur plutôt agréable et éthérée et même aromatique comme le pétrole de Sandalwood Spring ( voir p .312 ) ; d ' autres , au contraire , sont épais , visqueux , noirs , opaques , même en couche mince , et ont une odeur sulfurée , repoussante .Entre ces deux extrêmes il y a place pour une foule de variétés . |
+| source.excerpts.126.words.0 | odeur |
+| source.excerpts.126.words.1 | repoussante |
+| source.excerpts.127.@id | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/fc211eea-ed93-5053-b6f7-6e1e8b48375a |
+| source.excerpts.127.value | Galey .On connaissait , depuis longtemps dans cette localité des émanations de gaz naturels qui se produisaient au sommet d ' une petite colline élevée de 7 à 8 mètres au - dessus du terrain avoisinant ; de même , on avait reconnu plusieurs sources ferrugineuses acides , et diverses tentatives de forage avaient été faites sans résultats , les moyens employés n ' ayant pas permis de s ' enfoncer à une profondeur suffisante à travers les formations ébouleuses de la surface .Le principal niveau pétrolifère est constitué par une couche de carbonate de chaux contenant du soufre natif , et la température du pétrole qu ' on en tire est de 27 ° C . |
+| source.excerpts.127.words.0 | émanations |
+| source.excerpts.127.words.1 | longtemps |
+| source.excerpts.127.words.2 | sources ferrugineuses |
+| source.excerpts.127.words.3 | gaz naturels |
+| source.excerpts.127.words.4 | cette localité |
+| source.author.0.@id | http://data.odeuropa.eu/actor/419590b1-e69d-54d6-9f74-e5dca98ec827 |
+| source.author.0.label | Louis  Tassart |
+| source.label | Exploitation du pétrole : historique, extraction, procédés de sondage, géographie et géologie, recherche des gîtes, exploitation des gisements, chimie, théories de la formation du pétrole / par L.-C. Tassart,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k55453909 |
+| source.date | 1908 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/383 |
+| smellSource.0.label | Petroleum |
+| time.0.@id | http://data.odeuropa.eu/time/9d001fb0-0fcf-545d-bb34-70893ca0ca62 |
+| time.0.label | 1908 |
+| time.0.begin | 1908 |
+| time.0.end | 1908 |
+| place.0.@id | https://sws.geonames.org/12200097/ |
+| place.0.label | Region 2 |
+| place.1.@id | https://sws.geonames.org/2910831/ |
+| place.1.label | Hanover |
+| place.2.@id | http://data.odeuropa.eu/place/a2322405-1a6b-5953-832e-65b9b314ee52 |
+| place.2.label | le Harz |
+| place.3.@id | http://data.odeuropa.eu/place/c9d13696-d25d-509f-a3e7-63808bdea03e |
+| place.3.label | les Deister Gebirge |
+| relevantExcerpt | http://data.odeuropa.eu/source/57b821ea-2c6c-58e4-b378-9c84221e7a93/fragment/ce3259e1-6f72-5c23-88c6-50a279f621bd |
+| license | Public domain |

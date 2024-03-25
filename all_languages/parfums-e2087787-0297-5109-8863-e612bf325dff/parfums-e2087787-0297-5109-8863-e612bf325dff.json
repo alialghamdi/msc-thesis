@@ -1,0 +1,778 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/e2087787-0297-5109-8863-e612bf325dff",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/03a3d63c-6018-509e-b3ca-f4ca9bc96c66",
+        "value": "Tous ses adorateurs , de Tibule à Boufflers , Nous sembleraient avoir de singuliers travers : De la rose embaumée ils couronnaient leurs têtes Lorsqu ' ils se disposaient à faire des conquêtes .Sans la rose aujourd ' hui on obtient des succès , Et de notre Vénus l ' odorat en progrès Pour l ' haleine empestée est plein de tolérance .Un baiser pestilent n ' eût pas été jadis Un plaisir envié de Cythie ou Laïs ; Mais nos beautés n ' ont plus la même répugnance .",
+        "words": [
+          "rose",
+          "odorat",
+          "en progrès",
+          "de tolérance",
+          "notre Vénus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/03c574f5-e309-5cfe-99f0-2d3cd097dfab",
+        "value": "Fournet , professeur à la Faculté des LES VASES MURRHINS .64 Sciences de Lyon , a expérimenté cette propriété odorante .Ces produits , qui sont des carbures d ' hydrogène , exhalent généralement une mauvaise odeur ; mais l ' on sait cependant que certains de ces composés , tels que le succin , en fournissent une excellente .",
+        "words": [
+          "odorante",
+          "64 Sciences de Lyon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/06512bd3-2987-50c4-9317-848fc2f54fe6",
+        "value": "Ce condiment répandait une odeur détestable , et il était trèsestimé des gourmands du meilleur monde .Martial se plaint souvent de ses émanations , et cependant , il lui donne l ' épithète de nobile .Ce dernier trait prouve que de tout temps , si l ' habitude a donné sa sanction , il n ' y a plus rien de dégoûtant , surtout lorsque la substance 140 SERAIT - CE UN PRÉJUGÉ ? est d ' un haut prix ; et le bon g arum , celui de Carthagène , coûtait effectivement très - cher .",
+        "words": [
+          "émanations",
+          "ses",
+          "Martial"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/06773c3d-4bdb-5232-8da6-be523e056095",
+        "value": "Il est ensuite à présumer que le cumin remplissait le principal rôle dans les vertus toniques du susdit mélange ; et en effet Pline dit : Condimentorum omnium fastidiis cuminum amicissimum ( XIX , 47 ) .On comprend que l ' on devait se préoccuper de faire disparaître l ' excès de la mauvaise odeur dans un mélange qui recélait de l ' ail et du garum .Quant à l ' ail , les anciens prétendaient connaître les moyens de lui enlever sa fétidité , et je vais les enseigner à nos contemporains , qui probablement n ' y auront pas grande foi .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/077b3574-7d8d-5e86-8975-aa09dbe301cb",
+        "value": "Si M .Louis Veuillot eût été témoin oculaire , auriculaire et nasiculaire , des faits et gestes des habitants de cette rue , il eût pu certainement , et bien justement , publier un chapitre sur les odeurs , matérielles et morales , de la rue du Bessard .L ' on n ' est plus exposé à rencontrer dans le centre de la ville des spectacles de ce genre ; cependant il ne faut pas croire que le progrès en ait fait entièrement disparaître \" les acteurs .",
+        "words": [
+          "odeurs",
+          "cette rue",
+          "Louis Veuillot",
+          "rue du Bessard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/0c2fbaeb-adcb-5a37-9e8c-6bf17d94ccb7",
+        "value": "- XXXVII , 11 .Dans la nomenclature des pierres précieuses , il cite l ' autachates , qui par l ' échauffement ou la calcination , répand l ' odeur de la myrrhe , autachates , cum uritur , myrrham redolens , - XXXVII , 84 , - La myrrhite a la couleur de la myrrhe , et si on la frotte elle a l ' odeur d ' un parfum , et même celle du nard .La myrsinite a la couleur du miel , et l ' odeur du myrthe , - id .",
+        "words": [
+          "parfum",
+          "odeur",
+          "myrrhe",
+          "elle",
+          "celle",
+          "pierres précieuses",
+          "nard",
+          "myrrhite",
+          "myrrham",
+          "autachates",
+          "cum uritur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/0e607e9e-85eb-525c-ad82-cbb6b5d96772",
+        "value": ", il y a de quoi être asphyxié par l ' infection , et cependant le nombre de gens , logiquement dégoûtés , qui ne mangent pas du fromage , est excessivement restreint .Beaucoup d ' amateurs recherchent le gibier qui commence à se putréfier et répand une légère émanation d ' hydrogène sulfuré .Dans l ' antiquité , le garum , sauce puante , provenait de la décomposition des intestins de certains poissons que l ' on faisait macérer dans le sel .",
+        "words": [
+          "émanation",
+          "hydrogène sulfuré",
+          "gibier",
+          "d ' amateurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/0fc237c6-d3d9-5de3-afb3-2c296d55f118",
+        "value": "297 .- Moyen d ' ôter à l ' ail sa mauvaise odeur .298 .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "ail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/17c7bc3a-8b83-5383-bc85-88e2d693ffe2",
+        "value": "Malgré la bienveillance de Virgile , il est bien certain que dans l ' antiquité romaine l ' ail communiquait , comme de nos jours , à ceux qui en usaient une très - mau - 296 EMPLOI MÉDICAL DE L ' AIL .vaise odeur ( 1 ) , et l ' anecdote suivante prouvera cette assertion .Un jeune homme , qui avait obtenu de Vespasien la faveur d ' une préfecture , se présenta prodigieusement parfumé , flagrantem unguento , devant l ' empereur pour le remercier .",
+        "words": [
+          "odeur",
+          "vaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/2035c536-ae8b-5c01-8ecc-490c2da3bca5",
+        "value": "Beaucoup d ' amateurs recherchent le gibier qui commence à se putréfier et répand une légère émanation d ' hydrogène sulfuré .Dans l ' antiquité , le garum , sauce puante , provenait de la décomposition des intestins de certains poissons que l ' on faisait macérer dans le sel .Ce condiment répandait une odeur détestable , et il était trèsestimé des gourmands du meilleur monde .",
+        "words": [
+          "puante",
+          "sauce",
+          "certains poissons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/21afae27-6112-5fc0-ab1b-aa9c8ad68d78",
+        "value": "Pline parle aussi de cette substance et donne l ' explication suivante : intestina crocodili diligenter exquiruntur , jucundo nidore farta ( xxxvIII , 28 ) .Je pense qu ' il n ' y a de différence entre ces stercora et beaucoup d ' autres que celle de l ' odeur .Je demanderai de quoi se compose cette graisse amère qui des petits oiseaux à la broche découle sur des tranches de pain grillé , délices des amateurs ? Personne ne refuse d ' en manger , et cependant ! Le lait n ' est - il pas une sécrétion animale , et boirait - on toute espèce de lait ? Qu ' est - ce que la laitance de carpe ? Du sperma cyprini .",
+        "words": [
+          "odeur",
+          "stercora"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/28a19980-3b8b-5fbe-9897-550b5a6c4699",
+        "value": "Un jeune homme , qui avait obtenu de Vespasien la faveur d ' une préfecture , se présenta prodigieusement parfumé , flagrantem unguento , devant l ' empereur pour le remercier .Celui - ci , haussant les épaules , nutu aspernatus , lui dit d ' un ton sévère : « J ' aimerais mieux « respirer l ' odeur de l ' ail , maluissem allium oboluisses .( Suet .",
+        "words": [
+          "odeur",
+          "ail",
+          "allium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/2a5a9ca3-36c4-5ca5-9b86-954385afa0c3",
+        "value": "Les brûlantes ardeurs des rayons de Phébus , Ou le manteau trempé dans le sang de Nessus , Qui rendit insensé l ' amant de Déjanire , Me sembleraient vraiment un bien moindre martyre .Si tu veux par caprice , ô Mécènes charmant , Goûter l ' ail empesté , ta belle assurément De tes infects baisers détournera sa bouche , Et se rejettera sur le bord de ta couche .Ces derniers vers sembleraient indiquer chez les dames romaines une grande sensibilité de l ' odorat .",
+        "words": [
+          "empesté",
+          "ail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/2bd7b325-18d6-54f1-8c12-c2f07dbe4078",
+        "value": ") Valmont de Bomare , dans son Dictionnaire d ' histoire naturelle , parle des pierres odorantes , et il cite la pierre de porc ou pierre puante , la pierre de violette et certaines petites ammonites .Cette dénomination de violette semble indiquer une bonne odeur , et quoique l ' auteur soit fort ancien , je pense que le fait rapporté par lui ne doit pas être entièrement rejeté .Quoi qu ' il en soit , les plus récentes expériences de la chimie contemporaine ont fait découvrir dans plusieurs roches siliceuses , calcaires et gypseuses , des produits de composition organique , lesquels , dégagés par la chaleur ou les réactifs , donnent une forte odeur .",
+        "words": [
+          "bonne",
+          "odeur",
+          "violette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/2d033c18-385e-5f89-8c39-6e73fb14a5e8",
+        "value": "4 , 122 .) Il faut bien avouer , au détriment de l ' ail , que son odeur devait entrer pour une forte part dans la victoire remportée sur la susdite sorcière , qui préférait perdre son pouvoir plutôt que de l ' essayer sur un individu exhalant ce parfum désagréable .Horace est parfaitement de cet avis , et dans son épode IIIe , adressée à son protecteur Mécènes , qui avait de la répulsion pour l ' ail , il attaque avec exagération , on peut le dire , ce malheureux végétal , qui fait cependant les délices des habitants du midi de la France .",
+        "words": [
+          "désagréable",
+          "parfum",
+          "odeur",
+          "son",
+          "ail",
+          "sorcière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/3566746c-fb7d-575a-bae8-0b3cb4692483",
+        "value": "Quant à l ' ail , les anciens prétendaient connaître les moyens de lui enlever sa fétidité , et je vais les enseigner à nos contemporains , qui probablement n ' y auront pas grande foi .Palladius rapporte , mais pourtant sans l ' affirmer , qu ' on dégage l ' ail de sa mauvaise odeur , s ' il est convenablement semé au mois de novembre , dans le temps où la lune est sous la terre , et si l ' on arrache dans un semblable moment , fertur , si luna sub terris posita seratur , et item sub terris luna latente vellatur , odoris foedilate cariturum ( XII .6 ) .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "sa",
+          "ail",
+          "mois de novembre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/39bdb6dc-7ee3-5fd2-ad09-ac9fbf7995fc",
+        "value": "8 ) .Ce mot de Vespasien est certainement une épigramme à l ' adresse de l ' ail ; mais il prouve aussi que certains cosmétiques affectent désagréablement l ' odorat , elle musc , malgré sa bonne réputation , produit chez moi cet effet .Il se pourrait encore que Vespasien ait voulu donner une correction aux prétentions élégantes de son jeune protégé , en lui faisant comprendre qu ' un magistrat ne doit pas obéir aux futilités de la mode , mais rechercher , dans un extérieur rempli de dignité et de gravité , le seul ornement convenable à sa position .",
+        "words": [
+          "musc",
+          "odorat",
+          "désagréablement",
+          "cosmétiques",
+          "Vespasien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/3c7bb1a0-e8f3-524c-9814-2bd8dc904f32",
+        "value": "Horace est parfaitement de cet avis , et dans son épode IIIe , adressée à son protecteur Mécènes , qui avait de la répulsion pour l ' ail , il attaque avec exagération , on peut le dire , ce malheureux végétal , qui fait cependant les délices des habitants du midi de la France .Je vais essayer de donner , non pas une traduction exacte , mais une imitation de cette petite pièce , dont plusieurs passages assez obscurs demanderaient une longue dissertation : Si je voulais punir un méchant parricide , Je l ' empoisonnerais avec de l ' ail fétide , Et je ne comprends pas qu ' un grossier moissonneur Puisse le digérer sans prendre mal au coeur .Son odeur me dégoûte , et mes faibles viscères Craindraient peut - être moins le poison des vipères .",
+        "words": [
+          "fétide",
+          "ail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/3ee78f00-14fa-5c5f-a1ab-1554c0da78dd",
+        "value": "Les élégantes de l ' ancienne Rome employaient un cosmétique , extrait , d ' après Horace ( od .v , 12 ) , a stercore crocodili , et qui exhalait une bonne odeur .Pline parle aussi de cette substance et donne l ' explication suivante : intestina crocodili diligenter exquiruntur , jucundo nidore farta ( xxxvIII , 28 ) .",
+        "words": [
+          "bonne",
+          "odeur",
+          "stercore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/40b950bd-a004-5ec0-8624-7bcd0cc1680c",
+        "value": "Je croyais répondre victorieusement ; mais la réflexion , renouvelant son examen , s ' adresse à mon odorat , et lui demande s ' il est disposé à donner un brevet de propreté à des habitudes qui le vexent singulièrement , et qui ne rencontrent pas la moindre contradiction , même dans le monde élégant , ce monde si délicat , qui impose à ses adeptes des lois d ' une prétendue propreté , souvent tellement tyranniques , que les gens de bon sens se mettent en révolte contre leurs exigences .Ainsi , par exemple , est - ce que l ' usage de fumer sans se gêner n ' équivaut pas à une fabrication de mauvaise odeur , qui s ' exhale , non seulement pendant l ' exercice du fumeur , mais qui imprègne toute sa personne d ' une puanteur plus exécrable encore que celle de la fumée ? Eh bien , cet attentat contre l ' odorat est parfaitement reçu ! Si l ' on invite à dîner une société élégante , de suite après avoir pris le café les hommes vont fumer , et ils rentrent imprégnés d ' une odeur qui fait mal au coeur .Les belles dames supportent philosophiquement ce crime de lèse - galanterie , et n ' ont pas l ' idée d ' établir , dans une pièce contiguë au fumoir , un atelier de désinfection , où ces messieurs seraient passés au chlore .",
+        "words": [
+          "mauvaise",
+          "puanteur",
+          "odeur",
+          "fumée",
+          "odorat",
+          "hommes",
+          "imprégnés",
+          "personne",
+          "exécrable",
+          "mal au coeur",
+          "société",
+          "suite après avoir pris le café"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/4a690e99-311a-5a46-b8aa-ca12ce61c362",
+        "value": "Pour que l ' ail perde son odeur , il faut le semer lorsque la lune est sous la terre et le cueillir au moment de la conjonction , cum in coitu colligi .Ménandre , auteur grec , nous apprend que les amateurs d ' ail ne conservent aucune odeur s ' ils ont le soin de manger une racine de bette grillée sur des charbons ardents .( XIX .",
+        "words": [
+          "aucune",
+          "odeur",
+          "amateurs",
+          "Ménandre",
+          "racine de bette",
+          "auteur grec"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/4faf9964-98ee-549c-b25b-c4e86f818493",
+        "value": "Pour achever la ressemblance , on remarque sur ce fragment une tache dont le tissu est semblable à celui d ' une verrue , verrucoe non eminentes .Il manque cependant à mon échantillon une condition essentielle , qui est celle de l ' odeur agréable , et quoique Pline soit souvent d ' une crédulité extrême et d ' une grande inexactitude , il se pourrait qu ' il n ' eût pas tout - àfait tort dans cette circonstance .En effet , ces mots murrhinus , murrheus , ou myrrhinus , myrrheus , qui dérivent du grec , signifient la matière des vases murrhins , ou celle de la myrrhe , résine odoriférante dont on parfumait le vin .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/51cca6a6-1809-5661-ac5f-72bdffd6a09b",
+        "value": "7 et 8 .- Le passage relatif à l ' odeur exhalée par la substance des vases murrhins peut sembler difficile à comprendre ; cependant les minéraux ne sont pas absolument dépourvus d ' odeur : les bitumes en développent à priori une remarquable ; mais beaucoup d ' autres ont besoin pour cela d ' être frottés , insufflés ou chauffés .( Landrin , Dict .",
+        "words": [
+          "odeur",
+          "remarquable",
+          "bitumes",
+          "minéraux",
+          "substance des vases murrhins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/54d9b097-21ec-5ed2-a946-36c2be44c364",
+        "value": "Cela devenait d ' autant plus nécessaire que certaines habitudes contribuaient à ternir leur émail .Ainsi les gens qui buvaient beaucoup - et l ' on sait combien 12 78 HYGIÈNE ET PROTHÈSE DENTAIRES étaient fréquents les excès de boissons - suçaient des pastilles odorantes , qui laissaient leur empreinte sur les dents , et qui cependant n ' obviaient pas toujours à la mauvaise baleine des ivrognes ; car le mélange de ces deux odeurs en produisait une autre fort désagréable .Je puise ce détail dans une épigramme de Martial , - I .",
+        "words": [
+          "odeurs",
+          "odorantes",
+          "fort désagréable",
+          "pastilles",
+          "gens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/587a9e65-7deb-5cdb-81b4-e4485fa4a287",
+        "value": "Le mot liquamen est un peu difficile à expliquer , car seul il répond à un mélange liquide , sans indication précise .Je croirais cependant que ce pourrait être le g arum , substance très - usitée à Rome , provenant d ' intestins de poissons en décomposition et exhalant une odeur très - forte .Un chapitre d ' Apicius , de liquamine emendando , semblerait appuyer cette explication , car il donne le moyen de faire disparaître la puanteur , malum odorem , de ce liquide .",
+        "words": [
+          "Rome",
+          "odeur",
+          "substance",
+          "très - forte",
+          "g arum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/5bb4f814-a178-5946-a94c-d88599bab646",
+        "value": "Je ne rechercherai pas la cause de ce plaisir , qui n ' a d ' existence que pour les âmes délicates : je sais que les gens , dont toute l ' intelligence est appliquée à la satisfaction de besoins matériels , souvent imaginaires , créés par le luxe , nieront cette jouissance et même la ridiculiseront ; mais ce n ' est pas pour eux que j ' écris ces lignes .Je m ' adresse aux hommes de tout âge qui ont embelli leur intelligence par la culture des lettres , et planté dans leur jardin quelques fleurs de poésie : ils comprendront que la sensation , éprouvée par moi et dont je vais leur rendre compte , se repro - 160 UNE RÉMINISCENCE duise encore en ma mémoire comme une senteur agréable .Sunt tamen inter se communia sacra poetis , Diversum quamvis sequamur iter .",
+        "words": [
+          "agréable",
+          "senteur",
+          "hommes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/5c5679db-8124-5241-9ce8-f0362dbab833",
+        "value": "29 .Les incroyables propriétés physiologiques attribuées aux coupes rhodiennes permettent de ne pas ajouter une grande foi aux autres détails donnés par Athénée ; d ' autant plus que les vases décrits par lui , étant probablement mis au four pour acquérir de la ténacité , devaient perdre , par l ' évaporation des substances odorantes , le parfum dont on prétendait les doter .Les diverses opinions dont je me suis fait le rapporteur , prouvent que le problème est loin d ' être résolu , et si j ' ai recueilli quelques documents pour le procès , ce n ' est pas dans le but de rendre un arrêt sur des pièces de conviction , mais seulement afin de les soumettre à l ' examen de juges plus compétents que moi .",
+        "words": [
+          "parfum",
+          "odorantes",
+          "Athénée",
+          "coupes rhodiennes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/5cfadf6c-ed42-5863-abab-999f65046578",
+        "value": "Il manque cependant à mon échantillon une condition essentielle , qui est celle de l ' odeur agréable , et quoique Pline soit souvent d ' une crédulité extrême et d ' une grande inexactitude , il se pourrait qu ' il n ' eût pas tout - àfait tort dans cette circonstance .En effet , ces mots murrhinus , murrheus , ou myrrhinus , myrrheus , qui dérivent du grec , signifient la matière des vases murrhins , ou celle de la myrrhe , résine odoriférante dont on parfumait le vin .Les murrhins auraient donc été ainsi nommés parce qu ' ils exhalaient un parfum semblable à celui de la myrrhe Au reste , voici une épigramme de Martial qui indiquerait que ces vases répandaient véritable6 véritable6 66 LES VASES MURRHINS .",
+        "words": [
+          "résine",
+          "vin",
+          "myrrhe",
+          "odoriférante",
+          "parfumait",
+          "murrhinus",
+          "myrrhinus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/5da60eab-5713-50d4-bc54-a68b103a30f8",
+        "value": "Je croirais cependant que ce pourrait être le g arum , substance très - usitée à Rome , provenant d ' intestins de poissons en décomposition et exhalant une odeur très - forte .Un chapitre d ' Apicius , de liquamine emendando , semblerait appuyer cette explication , car il donne le moyen de faire disparaître la puanteur , malum odorem , de ce liquide .Il est ensuite à présumer que le cumin remplissait le principal rôle dans les vertus toniques du susdit mélange ; et en effet Pline dit : Condimentorum omnium fastidiis cuminum amicissimum ( XIX , 47 ) .",
+        "words": [
+          "puanteur",
+          "liquide",
+          "malum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/5fc8d740-337d-5be8-a244-5884a3dd2695",
+        "value": "III , 213 .) Cette substance graisseuse empêchait la trop grande sécheresse de la peau , et il suffisait qu ' elle fût reçue dans le beau monde pour que ses effluves puantes fussent universellement acceptées ..",
+        "words": [
+          "puantes",
+          "substance",
+          "ses",
+          "effluves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/6601ba9d-c1cf-5607-989f-756cadea9612",
+        "value": "Parmi les déesses hygiéniques , je mettrai au premier rang les deoe Cloacinoe , chargées d ' entretenir en bon état les égouts , cloacoe , et qui savaient probablement en neutraliser les émanations putrides .Nous aurions le plus grand besoin du secours de ces aimables fées ; car , pendant l ' été , les bouches de nos égouts exhalent parfois DANS L ' ANCIENNE ROME .207 des miasmes nauséabonds , à tel point que lorsque ces bouches se trouvent près des cafés , dont les consommateurs préfèrent dans les beaux jours l ' extérieur à l ' intérieur , on est obligé d ' y mettre des bouchons .",
+        "words": [
+          "bouches",
+          "exhalent",
+          "pendant l ' été",
+          "ROME"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/6b2a650e-ac42-5fd1-ae37-2f3caf172559",
+        "value": "Dans l ' antiquité , le garum , sauce puante , provenait de la décomposition des intestins de certains poissons que l ' on faisait macérer dans le sel .Ce condiment répandait une odeur détestable , et il était trèsestimé des gourmands du meilleur monde .Martial se plaint souvent de ses émanations , et cependant , il lui donne l ' épithète de nobile .",
+        "words": [
+          "odeur",
+          "détestable",
+          "condiment",
+          "gourmands"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/7fad733e-b963-51cf-840a-b50ae13af351",
+        "value": "Quant à moi , j ' avoue qu ' un fumeur , après avoir accompli sa fonction , soumet mon odorat à un véritable supplice , et je ne sais si je ne préférerais pas des émanations d ' hydrogène sulfuré .Lorsqu ' on pense que les plus belles dames consentent à coucher côte à côte avec des maris empestés d ' une haleine âcre et fétide , il est bien clair alors que la mauvaise odeur n ' est pas regardée comme un élément de malpropreté ; car les femmes à la mode ne voudraient pas être accusées de n ' avoir aucun scrupule à cet égard .Si de la fumée du tabac nous passons aux substances alimentaires , j ' en pourrais citer une certaine quanti té qui se distinguent par leur fétidité , et qui pourtant servent journellement à notre nourriture : ainsi , le fromage ! Si par un temps de chaleur on passe près d ' un magasin fourni de Mont - d ' Or , de Gruyère , de Roquefort , etc .",
+        "words": [
+          "mauvaise",
+          "fétide",
+          "âcre",
+          "odeur",
+          "haleine",
+          "femmes",
+          "malpropreté",
+          "maris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/81593544-2bc2-538a-aa90-61b49e3755d0",
+        "value": "88 - adressée à Fescenie , et qu ' il termine en recommandant à sa victime de s ' enivrer tout simplement , sans avoir la prétention de cacher son état , sis ebria simpliciter .Il est à présumer que le but de ces pastilles n ' était pas uniquement de dissimuler l ' odeur du vin , mais qu ' on les employait d ' une manière générale dans l ' intention de se parfumer la bouche .On doit les compter parmi les innombrables délicatesses , alliées aux coutumes les plus dégoûtantes , en usage auprès des raffinés de la Rome élégante .",
+        "words": [
+          "parfumer",
+          "odeur",
+          "vin",
+          "bouche",
+          "se parfumer",
+          "pastilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/8275c7e5-166f-501d-b394-fc6e115fce8e",
+        "value": "Je ne sais même pas si une jeune femme accepterait un fiancé insensible au cigare , et par conséquent révolté contre l ' empire de la mode .Virgile parle de l ' ail sans la moindre indignation , et dans son églogue IIe , il met en scène Thestylis qui pile des herbes odorantes , l ' ail et le serpolet , pour les moissonneurs fatigués de la chaleur : Thestylis et rapido fessis messoribus oestu Allia serpylumque herbas contundit olentes .Malgré la bienveillance de Virgile , il est bien certain que dans l ' antiquité romaine l ' ail communiquait , comme de nos jours , à ceux qui en usaient une très - mau - 296 EMPLOI MÉDICAL DE L ' AIL .",
+        "words": [
+          "serpolet",
+          "odorantes",
+          "herbes",
+          "ail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/83de2083-1ed7-57de-aaab-e50e5515aeb4",
+        "value": "64 Sciences de Lyon , a expérimenté cette propriété odorante .Ces produits , qui sont des carbures d ' hydrogène , exhalent généralement une mauvaise odeur ; mais l ' on sait cependant que certains de ces composés , tels que le succin , en fournissent une excellente .Je vais maintenant chercher à contrôler la description de Pline par les opinions de différents auteurs anciens et modernes .",
+        "words": [
+          "mauvaise",
+          "excellente",
+          "odeur",
+          "Ces produits",
+          "carbures d ' hydrogène",
+          "de ces composés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/84f66062-c39d-5cec-9fa9-e7e31aaff67c",
+        "value": "minér .) Valmont de Bomare , dans son Dictionnaire d ' histoire naturelle , parle des pierres odorantes , et il cite la pierre de porc ou pierre puante , la pierre de violette et certaines petites ammonites .Cette dénomination de violette semble indiquer une bonne odeur , et quoique l ' auteur soit fort ancien , je pense que le fait rapporté par lui ne doit pas être entièrement rejeté .",
+        "words": [
+          "pierre",
+          "pierres",
+          "puante",
+          "odorantes",
+          "pierre de porc",
+          "pierre de violette",
+          "Valmont de Bomare",
+          "petites ammonites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/85b28d0c-9030-5714-924d-e64cad929763",
+        "value": "mercenaire , la noblesse d ' un enfant nouveau - né , dont le corps et l ' esprit ont été parfaitement disposés , et cela surtout si la femme qui doit fournir le lait est esclave ou de race servile ; si , selon l ' usage ordinaire , elle est d ' une nation étrangère et barbare ; si elle est méchante , difforme , impudique et ivrogne ? Car le plus souvent on admet sans information celle qui a du lait au moment voulu .Ainsi donc , l ' on permet que son propre enfant soit livré à la contagion et qu ' on souffle dans son esprit et son corps les émanations d ' un corps et d ' un esprit détestables .C ' est pour cela que fréquemment on peut observer que des enfants provenant de chastes matrones , ne ressemblent à leurs parents ni par le corps ni par l ' esprit .",
+        "words": [
+          "corps",
+          "esprit",
+          "émanations",
+          "détestables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/8984c3b9-995a-5a75-864a-69ee8334cda6",
+        "value": "177 .- Pastilles odorantes .178 .",
+        "words": [
+          "odorantes",
+          "Pastilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/8adc94ea-190c-5e0f-a427-952c5044b2b7",
+        "value": "( Hor .331 Si Catulle en fumant eût souillé son haleme , Il n ' eût pas osé dire à sa Lesbie en peine : Da mi basia mill ' et deinde centum .Justement repoussé , l ' amant sans décorum , Déshérité du droit d ' une simple caresse , Eût tout sacrifié pour fléchir sa maîtresse .",
+        "words": [
+          "souillé",
+          "haleme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/8c1998cf-3dc1-5977-9d44-fc8a1b1f2162",
+        "value": "- XXXVI , 67 .- Mais s ' il est vrai que les murrhins eussent de l ' odeur , les acheteurs ne pouvaient pas être trompés par cette falsification .En outre , des matières vitrées , pas plus que la porcelaine , ne se laissaient entamer par la pression des dents , ainsi que l ' avait fait l ' amateur dont j ' ai déjà parlé .",
+        "words": [
+          "odeur",
+          "acheteurs",
+          "murrhins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/90545245-293a-5a2c-877b-f8f06dc01376",
+        "value": "50 .- Mais sans sortir du domaine des dents , voici une préparation odontalgique recommandée par Pline à ses contemporains : « La laine en suint fournil plusieurs remèdes : si « l ' on s ' en frotte les dents et les gencives , après avoir « eu soin de l ' enduire de miel , l ' haleine en devient « plus suave .» Je recommande à mon tour aux fumeurs ce correcteur de l ' haleine empestée .",
+        "words": [
+          "suave",
+          "odontalgique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/9c6c67e1-795d-5b3e-b6e9-270c00bbe822",
+        "value": "Si tu veux par caprice , ô Mécènes charmant , Goûter l ' ail empesté , ta belle assurément De tes infects baisers détournera sa bouche , Et se rejettera sur le bord de ta couche .Ces derniers vers sembleraient indiquer chez les dames romaines une grande sensibilité de l ' odorat .Les nôtres sont moins délicates ; elles ne redoutent aucunement une haleine fétide , et nul mari n ' a vu s ' exécuter celte menace d ' Horace : Manum puella suavio opponat tuo , Extrema et in sponda cubet .",
+        "words": [
+          "odorat",
+          "les dames romaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/9f6f1275-073b-5380-b8e5-ed682037a193",
+        "value": "Cette dénomination de violette semble indiquer une bonne odeur , et quoique l ' auteur soit fort ancien , je pense que le fait rapporté par lui ne doit pas être entièrement rejeté .Quoi qu ' il en soit , les plus récentes expériences de la chimie contemporaine ont fait découvrir dans plusieurs roches siliceuses , calcaires et gypseuses , des produits de composition organique , lesquels , dégagés par la chaleur ou les réactifs , donnent une forte odeur .M .",
+        "words": [
+          "calcaires",
+          "forte",
+          "odeur",
+          "plusieurs roches siliceuses",
+          "produits de composition organique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/a8e80ad3-adb9-555d-854c-ccc40141faa3",
+        "value": "Les priseurs n ' ont pas la moindre conscience du dégoût qu ' ils inspirent ; ils semblent même se complaire dans la durée de leurs exercices .Le mouchoir affreusement souillé commence par se déployer aux yeux des spectateurs , en répandant une odeur fade et dégoûtante .Le priseur continue ainsi la conversation , et lorsque le nez , menaçant de couler , exige qu ' on lui oppose une digue , alors , entre deux efforts d ' expulsion , on place encore des paroles , et les auditeur » sont tentés de dire : Mouchez - vous donc vite , 142 SERAIT - CE UN PRÉJUGÉ ? et vous continuerez .",
+        "words": [
+          "odeur",
+          "mouchoir",
+          "fade",
+          "dégoûtante",
+          "spectateurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/ae67c202-7c00-5cd3-92b4-8910b5e23efb",
+        "value": "En effet , ces mots murrhinus , murrheus , ou myrrhinus , myrrheus , qui dérivent du grec , signifient la matière des vases murrhins , ou celle de la myrrhe , résine odoriférante dont on parfumait le vin .Les murrhins auraient donc été ainsi nommés parce qu ' ils exhalaient un parfum semblable à celui de la myrrhe Au reste , voici une épigramme de Martial qui indiquerait que ces vases répandaient véritable6 véritable6 66 LES VASES MURRHINS .ment une bonne odeur , puisqu ' ils la communiquaient au vin , surtout lorsqu ' on buvait chaud , ce qui arrivait assez souvent : Si calidum potas , ardenti myrrha Falerno Convenit , et melior fit sapor inde mero .",
+        "words": [
+          "parfum",
+          "myrrhe",
+          "vases",
+          "murrhins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/af8f761d-15e5-5b2e-9101-860a8b18ac5a",
+        "value": "Ce dernier trait prouve que de tout temps , si l ' habitude a donné sa sanction , il n ' y a plus rien de dégoûtant , surtout lorsque la substance 140 SERAIT - CE UN PRÉJUGÉ ? est d ' un haut prix ; et le bon g arum , celui de Carthagène , coûtait effectivement très - cher .Les dames romaines du meilleur genre usaient d ' un cosmétique fabriqué à Athènes , l ' oesipe , qui provenait du suint des brebis et répandait une mauvaise odeur : AEsipa quid redolent , quamvis mittantur Athenis , Demtus ab immundo vellere succus ovis ? ( Ovid .De art .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "cosmétique",
+          "dames romaines",
+          "oesipe",
+          "suint des"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/b219fe04-f68b-58bb-b6b7-ce06db3bdca0",
+        "value": "Athénée , continuant sou énumération des vases parfumés , dit , d ' après Aristote , que l ' île de Rhodes fournissait des vases dont la matière était composée d ' une argile pétrie avec de la LES VASES MURRHINS .67 myrrhe , de la fleur de jonc odorant , du safran , du baume , de la cannelle et de l ' amome .Une coupe ainsi fabriquée , lorsqu ' on y buvait du vin chaud , produisait l ' étonnant effet d ' empêcher l ' ivresse , et venerem extinguere .",
+        "words": [
+          "odorant",
+          "cannelle",
+          "safran",
+          "myrrhe",
+          "baume",
+          "amome",
+          "fleur de jonc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/b30de89f-53db-5ef2-8444-b5b901137e63",
+        "value": "Avez - vous parfois essayé de mettre dans votre bouche une pincée de tabac à fumer , afin d ' expérimenter en quoi consistaient les délices de la chique ? J ' ai fait cet essai , et je ne crois pas que mon palais et ma langue aient jamais éprouvé une sensation plus désagréable .Cependant on m ' assure qu ' à New - York , ce pays du confortable , la chique était parfaitement reçue : Je pense , en outre , qu ' une bouche SERAIT - CE UN PRÉJUGÉ ? 141 adonnée à la chique doit être empestée d ' une haleine épouvantable .Eh bien ! je suis persuadé d ' une chose : si l ' usage de savourer un globulum stercoris , comme une chique de tabac , était admis , on ne pourrait plus se dispenser de cette agréable distraction .",
+        "words": [
+          "haleine",
+          "épouvantable",
+          "New - York"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/b85591f7-b8ee-50ff-86c1-7886decca7a2",
+        "value": "II .L ' Amour , ce vieil enfant , ce dieu que nos poètes Ont de tout temps chanté dans mille et mille vers , Aimait qu ' on fît venir du bout de l ' univers L ' encens le plus exquis pour embaumer ses fêtes .Tous ses adorateurs , de Tibule à Boufflers , Nous sembleraient avoir de singuliers travers : De la rose embaumée ils couronnaient leurs têtes Lorsqu ' ils se disposaient à faire des conquêtes .",
+        "words": [
+          "encens",
+          "embaumer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/ba8167b2-0af3-56c3-9f58-29b6665560a9",
+        "value": "« Si tu bois chaud , une coupe murrhine convient au « Falerne ardent , qui sait y puiser une meilleure sa « veur .» Cette citation indiquerait peut - être que l ' odeur de la matière murrhine ne se développait qu ' au moyen de la chaleur .Cependant Pline dit que l ' on buvait également froid et chaud dans les coupes murrhines .",
+        "words": [
+          "odeur",
+          "matière murrhine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/ba94bdfc-8f30-5887-aef5-b7fe72fbbd84",
+        "value": "Je ne m ' étends pas sur ce détail , car il me faudrait différencier les diverses provenances de cet hydracide gazeux et donner des explications trop réalistes .Seulement , ce fait prouve que la mauvaise odeur ne constitue pas uniquement une accusation de malpropreté , et par conséquent je ne produirai pas d ' autres exemples .Voyons maintenant si le sens du goût a le droit d ' établir une limite entre la propreté et la saleté .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/c0c0e22d-a5a1-5ebb-a4c4-82f37b29cae6",
+        "value": ") « Unissez l ' ail à l ' oignon , le pavot des céréales à l ' a « net , et pendant que ces petits paquets sont verts , met « tez - les en vente .Alors , après vous être défaits de vo ( 1 ) vo ( 1 ) en est de l ' ail comme du cigare : un homme qui a mangé do l ' ail sent plus mauvais que le mets lui - même , et un fumeur contracte une odeur beaucoup plus désagréable que la fumée du cigare .EMPLOI MÉDICAL DE L ' AIL .",
+        "words": [
+          "odeur",
+          "plus mauvais",
+          "ail",
+          "cigare",
+          "homme",
+          "sent",
+          "beaucoup plus désagréable",
+          "fumée du cigare"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/c400bb1a-5399-5b6d-ad51-17b8eed56839",
+        "value": "Je ne peux pas quitter ce sujet sans signaler un passage d ' Athénée , relatif à des vases d ' argile auxquels l ' industrie savait donner des qualités odoriférantes .Ces vases étaient apportés de Coptos , en Egypte , et il entrait dans leur composition de la terre broyée avec des parfums .Il est bien étonnant que Pline , qui cite Coptos fort souvent à l ' occasion de ses nombreuses productions , n ' ait pas parlé de cette singulière poterie .",
+        "words": [
+          "parfums",
+          "vases",
+          "Egypte",
+          "terre broyée",
+          "Coptos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/c76dc876-84ed-5f9f-a01a-bdafd8efeb6f",
+        "value": "Je vais essayer de donner , non pas une traduction exacte , mais une imitation de cette petite pièce , dont plusieurs passages assez obscurs demanderaient une longue dissertation : Si je voulais punir un méchant parricide , Je l ' empoisonnerais avec de l ' ail fétide , Et je ne comprends pas qu ' un grossier moissonneur Puisse le digérer sans prendre mal au coeur .Son odeur me dégoûte , et mes faibles viscères Craindraient peut - être moins le poison des vipères .Si Canidie ( 1 ) un jour me donne du venin , C ' est l ' ail certainement que choisira sa main .",
+        "words": [
+          "odeur",
+          "Son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/c97eee6d-cd6e-5591-8e38-7bcc99fa349c",
+        "value": "Ces derniers vers sembleraient indiquer chez les dames romaines une grande sensibilité de l ' odorat .Les nôtres sont moins délicates ; elles ne redoutent aucunement une haleine fétide , et nul mari n ' a vu s ' exécuter celte menace d ' Horace : Manum puella suavio opponat tuo , Extrema et in sponda cubet .Je ne sais même pas si une jeune femme accepterait un fiancé insensible au cigare , et par conséquent révolté contre l ' empire de la mode .",
+        "words": [
+          "fétide",
+          "haleine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/cb3c11eb-ddf8-5d8a-b065-c3bce242821c",
+        "value": "Nous aurions le plus grand besoin du secours de ces aimables fées ; car , pendant l ' été , les bouches de nos égouts exhalent parfois DANS L ' ANCIENNE ROME .207 des miasmes nauséabonds , à tel point que lorsque ces bouches se trouvent près des cafés , dont les consommateurs préfèrent dans les beaux jours l ' extérieur à l ' intérieur , on est obligé d ' y mettre des bouchons .La voirie devrait bien élever un autel à ces divinités bienfaisantes , et les prier d ' obvier aux inconvénients que je signale et dont elle ne sait , pas nous garantir ( 1 ) .",
+        "words": [
+          "miasmes",
+          "nauséabonds",
+          "cafés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/cc64a3e7-ccc0-5659-8c78-07d116c2959f",
+        "value": "299 mes précautions .Pour que l ' ail perde son odeur , il faut le semer lorsque la lune est sous la terre et le cueillir au moment de la conjonction , cum in coitu colligi .Ménandre , auteur grec , nous apprend que les amateurs d ' ail ne conservent aucune odeur s ' ils ont le soin de manger une racine de bette grillée sur des charbons ardents .",
+        "words": [
+          "odeur",
+          "son",
+          "ail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/cc6d627e-35c9-5766-b441-f39d0bf1b606",
+        "value": "Les murrhins auraient donc été ainsi nommés parce qu ' ils exhalaient un parfum semblable à celui de la myrrhe Au reste , voici une épigramme de Martial qui indiquerait que ces vases répandaient véritable6 véritable6 66 LES VASES MURRHINS .ment une bonne odeur , puisqu ' ils la communiquaient au vin , surtout lorsqu ' on buvait chaud , ce qui arrivait assez souvent : Si calidum potas , ardenti myrrha Falerno Convenit , et melior fit sapor inde mero .XLV , 113 .",
+        "words": [
+          "bonne",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/cea984d3-3f78-54fd-baf3-055feee215c7",
+        "value": "Il est bien étonnant que Pline , qui cite Coptos fort souvent à l ' occasion de ses nombreuses productions , n ' ait pas parlé de cette singulière poterie .Athénée , continuant sou énumération des vases parfumés , dit , d ' après Aristote , que l ' île de Rhodes fournissait des vases dont la matière était composée d ' une argile pétrie avec de la LES VASES MURRHINS .67 myrrhe , de la fleur de jonc odorant , du safran , du baume , de la cannelle et de l ' amome .",
+        "words": [
+          "parfumés",
+          "île",
+          "Rhodes",
+          "Athénée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/d3a9e4dd-b064-533d-8088-b94bacc48af7",
+        "value": "Dans la nomenclature des pierres précieuses , il cite l ' autachates , qui par l ' échauffement ou la calcination , répand l ' odeur de la myrrhe , autachates , cum uritur , myrrham redolens , - XXXVII , 84 , - La myrrhite a la couleur de la myrrhe , et si on la frotte elle a l ' odeur d ' un parfum , et même celle du nard .La myrsinite a la couleur du miel , et l ' odeur du myrthe , - id .63 .",
+        "words": [
+          "odeur",
+          "miel",
+          "myrthe",
+          "myrsinite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/d55ed906-dece-5486-b324-35c8bb0152a1",
+        "value": ", 25 ) .Parmi les déesses hygiéniques , je mettrai au premier rang les deoe Cloacinoe , chargées d ' entretenir en bon état les égouts , cloacoe , et qui savaient probablement en neutraliser les émanations putrides .Nous aurions le plus grand besoin du secours de ces aimables fées ; car , pendant l ' été , les bouches de nos égouts exhalent parfois DANS L ' ANCIENNE ROME .",
+        "words": [
+          "putrides",
+          "émanations",
+          "égouts",
+          "neutraliser"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/d63ccf2e-8a63-593f-badc-6c9934fe4940",
+        "value": "Dans deux points de son trajet , où la convexité est remplacée par des angles obtus , sa largeur est portée à trois mètres et demi .Ses rez - de - chaussée étaient en partie occupés par des tripiers , dont les produits répandaient une effroyable odeur , qui se concentrait par suite du manque de NOTRE - DAME DE LA PLATIÈRE .267 courant d ' air ; une autre industrie avait aussi élu domicile dans les premiers étages et même les rez - dechaussée : In aditu lupanarium prostabant lenoe , laborantes sicut et matronoe , et alliciebant raros fiantes in hoc foeditatis gurgite .",
+        "words": [
+          "odeur",
+          "effroyable",
+          "produits",
+          "rez",
+          "tripiers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/d817047d-a923-544e-842d-781bd45b9573",
+        "value": "L ' Amour , ce vieil enfant , ce dieu que nos poètes Ont de tout temps chanté dans mille et mille vers , Aimait qu ' on fît venir du bout de l ' univers L ' encens le plus exquis pour embaumer ses fêtes .Tous ses adorateurs , de Tibule à Boufflers , Nous sembleraient avoir de singuliers travers : De la rose embaumée ils couronnaient leurs têtes Lorsqu ' ils se disposaient à faire des conquêtes .Sans la rose aujourd ' hui on obtient des succès , Et de notre Vénus l ' odorat en progrès Pour l ' haleine empestée est plein de tolérance .",
+        "words": [
+          "rose",
+          "embaumée",
+          "têtes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/de448508-04f2-550d-80c5-24e33059e446",
+        "value": "Madame prend plaisir à la mauvaise odeur , Et comme le tabac n ' a plus rien qui là vexe , Il ne lui faudra pas , pour un mari fumeur , Avoir loin du salon le secours d ' une annexe .Les époux bien d ' accord ensemble fumeront , Et tout en respirant un air nauséabond , Médiront de la rose et de l ' eau de Cologne .Le sans - gêne à la mode , ennemi du bon goût , Sera donc satisfait ; mais le budget surtout Poussera le beau sexe à fumer sans vergogne .",
+        "words": [
+          "air",
+          "rose",
+          "nauséabond",
+          "eau de Cologne",
+          "époux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/dffb5ebd-487c-5780-b8da-24a801631f40",
+        "value": "Les Samoïèdes se frictionnent avec l ' urine de leurs femmes , et celles - ci avec celle de leurs maris .Après s ' être ainsi lavée , une Groënlandaise croit exhaler une odeur suave et sentir sa femme élégante .- Moeurs et Coutumes , t .",
+        "words": [
+          "suave",
+          "odeur",
+          "Après s ' être ainsi lavée",
+          "une Groënlandaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/e71f08be-e499-5072-9722-25b4c7073d03",
+        "value": "« Quelques amateurs estimaient les taches opaques et « les espèces de verrues qui se manifestaient à la sur « face de cette substance .Enfin ce minéral se recom « mandait par son odeur , aliqua et in odore commenda « tio est .» Tous ces détails sont extraits de l ' Histoire naturelle de Pline , - XXXXII .",
+        "words": [
+          "odeur",
+          "minéral"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/ea06c100-8cb4-5419-84c4-9d268f039360",
+        "value": "vaise odeur ( 1 ) , et l ' anecdote suivante prouvera cette assertion .Un jeune homme , qui avait obtenu de Vespasien la faveur d ' une préfecture , se présenta prodigieusement parfumé , flagrantem unguento , devant l ' empereur pour le remercier .Celui - ci , haussant les épaules , nutu aspernatus , lui dit d ' un ton sévère : « J ' aimerais mieux « respirer l ' odeur de l ' ail , maluissem allium oboluisses .",
+        "words": [
+          "parfumé",
+          "prodigieusement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/ebd02925-11fe-5ab5-9971-00d3970356b7",
+        "value": "De tout temps l ' usage et la mode ont absous toute chose de l ' accusation de saleté .Les élégantes de l ' ancienne Rome employaient un cosmétique , extrait , d ' après Horace ( od .v , 12 ) , a stercore crocodili , et qui exhalait une bonne odeur .",
+        "words": [
+          "cosmétique",
+          "élégantes",
+          "ancienne Rome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/eefe3a0e-7471-5d18-92b7-415052d5fc20",
+        "value": "- Qu ' est - ce que la propreté ? 137 .- La mauvaise odeur , les fumeurs .138 .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/f9e5b64d-f14d-5915-b4e6-cc579d8a676e",
+        "value": "Celse est plus sérieux et moins prolixe que Pline : il conseille de frotter les dents rugueuses et noires avec un composé de fleurs de rose pilées , de galle et de myrrhe .- La myrrhe est une gomme résine dont l ' odeur est agréable , et qui provient de l ' Arabie et de l ' Éthiopie .- Il dit que , si les dents sont ébranlées par un choc ou un accident quelconque , il faut les lier solidement avec un fil d ' or , attaché à celles qui sont en bon état .",
+        "words": [
+          "agréable",
+          "odeur",
+          "myrrhe",
+          "gomme résine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/fb4708b6-88ae-5c2b-8bb7-575e5babbf4a",
+        "value": "332 MES DISTRACTIONS .Madame prend plaisir à la mauvaise odeur , Et comme le tabac n ' a plus rien qui là vexe , Il ne lui faudra pas , pour un mari fumeur , Avoir loin du salon le secours d ' une annexe .Les époux bien d ' accord ensemble fumeront , Et tout en respirant un air nauséabond , Médiront de la rose et de l ' eau de Cologne .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "tabac",
+          "Madame"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/ff4fcee7-a0b9-57a3-85b5-249bd9667f98",
+        "value": "Je crois même SERAIT - CE UN PRÉJUGÉ ? 139 qu ' un homme qui ne fume pas est regardé comme une ganache , manquant totalement de chic .Quant à moi , j ' avoue qu ' un fumeur , après avoir accompli sa fonction , soumet mon odorat à un véritable supplice , et je ne sais si je ne préférerais pas des émanations d ' hydrogène sulfuré .Lorsqu ' on pense que les plus belles dames consentent à coucher côte à côte avec des maris empestés d ' une haleine âcre et fétide , il est bien clair alors que la mauvaise odeur n ' est pas regardée comme un élément de malpropreté ; car les femmes à la mode ne voudraient pas être accusées de n ' avoir aucun scrupule à cet égard .",
+        "words": [
+          "émanations",
+          "odorat",
+          "hydrogène sulfuré",
+          "mon",
+          "j"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d0e9cf14-f9ad-515c-91e7-7f6e44fbd382",
+        "label": "Paul  Saint-Olive"
+      }
+    ],
+    "label": "Mélanges historiques et littéraires / par Paul Saint-Olive,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k54038865",
+    "date": "1868",
+    "language": "fr"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/ac5124d7-abdf-58a4-a09a-199d44144788",
+      "label": "vases"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29e16ff7-5d42-5a7d-9f72-57c8fee9fafb",
+      "label": "1868",
+      "begin": "1868",
+      "end": "1868"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/357994/",
+      "label": "Egypt"
+    },
+    {
+      "@id": "https://sws.geonames.org/350560/",
+      "label": "Qifţ"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/c9cd0f1b-0fb1-5329-b5f8-8720a6f6fb83/fragment/c400bb1a-5399-5b6d-ad51-17b8eed56839",
+  "license": "Public domain"
+}

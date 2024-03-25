@@ -1,0 +1,93 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/054d828d-4549-54d3-8a3e-f6cb473ed968",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfumer",
+    "odeur",
+    "fenteur"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/d042cafe-a6f8-5644-a498-77258b2fa0c9",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/d042cafe-a6f8-5644-a498-77258b2fa0c9/fragment/1117c413-8871-5738-af8a-ff1de8550b9c",
+        "value": ", mais ils ne peuvent luy pardonner la mort d ' une Amante } & ils ne peuvent concevoir qu ' un Prince , qu ' un Muzulman fafle le bourreau , quand il cG : dans un lieu delicieux , où il ne doit fonger qu ' à donner à fa maiftrefle des marques agréables dcfapaflion .Mais tu me diras peut - eftre qu ' elle avoit ozé porter devant luy des fleurs , & des parfums qui venoient de fon frere , il en vray que c ' eft un grand crime que de n ' obcïr pas à ceux de qui nous devons recevoir la loy , mais c ' eft un crime plus grand que de faire une deffenfe pour avoir occafion de tuer .Ils difent qu ' un homme qui fait une pareille aélioD cft un monftre y & ce n ' eft pas moy qui parle de la forte .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d042cafe-a6f8-5644-a498-77258b2fa0c9/fragment/402afb09-0be6-5654-83c7-14eb383f3f28",
+        "value": ".Cependant envoyé moy un grand vafe de beaume blanc de la Mecque quifoitle plus , pur , & de l ' odeur la plus parfaite que tu pourras trouver , , & envoyé - moy en mefme temps de crs bois precienx d ' Orient , dont la fenteur eft merveilleufe pour parfumer les corps .J ' ay promisàla bel - ; , » te Daric de luy faire ce prefont , fais que je le reçoive bien - otft , afin que je puifle par là , faire raccoultumer Darie aux propretez & aux dclicatefles des Mahometans .",
+        "words": [
+          "parfumer",
+          "odeur",
+          "corps",
+          "Mecque",
+          "fenteur",
+          "merveilleufe",
+          "la plus parfaite",
+          "beaume blanc",
+          "crs bois",
+          "grand vafe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d042cafe-a6f8-5644-a498-77258b2fa0c9/fragment/fccf9822-0091-5eb4-bfc3-045b7951cf52",
+        "value": "part , mais d ' un fiile fi froid qu ' on voit bien que fon cœur fil tout de glace pour moy .Aullî - tolt qu ' elle fc vit entre les bras de fon époux , elle luy fit un facrifice de ma paffion ; & pour luy mieux faire fa cour & le mieux perfuader de fa âdeliccydicluiafaic coa - fidencede mes lettres : le mary fc mit à rire en les voyant , & luy dit en fe moquant de moy ; un homme donc éperduëmcnt amoureux n ' a faic que foûpirer & qu ' écrire ? II a fait quelque chofe de plus , reprit cette femme diffimulée , il m ' a promis de m ' envoyer un vafe de baume blanc de la MeKque , & du bois d ' Alocz pour fervir à me parfumer , & que je n ' efpere pas pourtant recevoir fi tort , ny peut - ertre jamais : car fi Mahmut n ' cft devenu fol , il m ' aura auffi facilement oubliée r qu ' il eft promptement forci c ma mémoire .Et toy qu ' astu promis à ce barbare , reprit auffi - toft le mary , j ' ay promis > rcpliquaDaric de luy envoyer avec mon portrait ; ecluy de la plus chaftc de toutes les femmes , ce que je ne prctcns pas faire 1 ] tu n ' y confcns , & fi mcfme tu ne le commandes .",
+        "words": [
+          "parfumer",
+          "me",
+          "vafe",
+          "baume blanc",
+          "bois d ' Alocz",
+          "diffimulée"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/2fb18dfa-3540-58bf-a99a-dcd317276df8",
+        "label": "Giovanni-Paolo  Marana"
+      }
+    ],
+    "label": "L'espion du Grand-Seigneur et ses relations secrètes envoyées au divan de Constantinople, découvertes à Paris pendant le règne de Louys le Grand. Tome 3 / , traduites de l'arabe en italien par le sieur Jean-Paul Marana... et de l'italien françoys",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6270434s",
+    "date": "1686",
+    "language": "fr"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/b8b77560-90f1-5076-8832-9232c060b546",
+      "label": "grand vafe|corps"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29c39623-3ea7-5f09-a5bc-321e1d8b5e52",
+      "label": "1686",
+      "begin": "1686",
+      "end": "1686"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/d042cafe-a6f8-5644-a498-77258b2fa0c9/fragment/402afb09-0be6-5654-83c7-14eb383f3f28",
+  "license": "Public domain",
+  "adjective": [
+    "la plus parfaite",
+    "merveilleufe"
+  ]
+}

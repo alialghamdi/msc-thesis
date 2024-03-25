@@ -1,0 +1,232 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/2315c923-5105-569c-a623-d89c7d900258",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfums",
+    "embaumée"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/0687faee-3fcc-57fb-833e-1ebeef1bd65f",
+        "value": "— Hélas ! si , perdu pour ses braves , Assis comme un guerrier qui dévore un affront , Côurhé comme un vieillard sous le poids des années , Depuis trois longues nuits et trois longues journées , : Il croise ses mains sur son front , Ce n ' est pas qu ' il ait vu la révolte infidèle , Assiégeant son harem comme une citadelle , Jeter jusqu ' à sa couche un sinistre brandon ; Ni d ' un père en sa main s ' émousser le vieux glaive , Ni paraître Azraël ; ni passer dans un rêve Les muets bigarrés armés du noir cordon .Hélas ! l ' ombre d ' Allah n ' a pas rompu le jeune , La sultane est gardée , et son fils est trop jeune ; Nul vaisseau n ' a subi d ' orages importuns ; Le Tartare avait bien sa charge accoutumée , Il ne manque au sérail , solitude embaumée , Ni les têtes ni les parfums .Ce ne sont pas non plus les villes écroulées , Les ossements humains noircissant les vallées , La Grèce incendiée , en proie aux flls d ' Omar , L ' orphelin ni la veuve , et ses plaintes améres , Ni l ' enfance égorgée aux yeux des pauvres mères , Ni la virginité marchandée au bazar .",
+        "words": [
+          "parfums",
+          "embaumée",
+          "têtes",
+          "solitude",
+          "sérail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/2a02eaa0-27d0-5313-91f8-41b65160aaad",
+        "value": "A - t - il donc ébréché le sabre de son père ? Ou bien de ses soldats autour de son repaire Vu rugir l ' orageuse mer ? — Qu ' a - l - il donc , le pacha , le vizir des armées ? Disaient les bombardiers , leurs mèches allumées , Les imans troublent - ils cette tête de fer ? A - t - il du ramazan rompu le jeûne austère ? Lui font - ils voir en rêve , aux bornes de la terre , L ' ange Azraël , debout sur le pont de l ' enfer 1 ? — Qu ' art - il donc ? murmuraient les icoglans stupides .Dit - on qu ' il ait perdu , dans les courants rapides , Le vaisseau des parfums qui le font rajeunir ? Trouve - t - on à Stamboul sa gloire assez ancienne ? Dans \" les prédictions de quelque Egyptienne A - t - ilvu le muet venir ? — Qu ' a donc le doux sultan ? demandaient les sultanes , A - t - il avec son fils surpris sous les platanes Sa brune favorite aux lèvresde corail ? A - t - on souillé son bain d ' une essence grossière ? Dans le sac du fellah , vidé sur la poussière , Manque - t - il quelque tête attendue au sérail ? — : Qu ' a donc le maître ? ainsi s ' agitent les esclaves .Tous se trompent .",
+        "words": [
+          "parfums",
+          "essence",
+          "bain",
+          "sac",
+          "sérail"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/3485aa50-e626-5122-b140-d7b222a40966",
+        "value": "Ton front porte une aigrette et ceint le turban vert .Tu peux voir folâtrer dans leur bain entr ' ouvert , Sous la fenêtre où lu te penches , Les femmes de Madras plus douces qu ' un parfum , Et les filles d ' Àlep qui sur leur beau sein hrun Ont des colliers de perles blanches .Ton sabre large et nu semble en ta main grandir .",
+        "words": [
+          "parfum",
+          "femmes",
+          "douces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/44cd2243-5f0e-5367-878f-f9e50ad488ed",
+        "value": "pêle - mêle , palais , hospices , couvents , casernes , tous divers , tous portant leur destination écrite dans leur architecture ; marchés , pleins de peuple et de bruit ; cimetières où les vivants se taisent comme les morts ; ici , le théâtre avec ses clinquants , sa fanfare et ses oripeaux ; là - bas , le vieux gibet permanent , dont la pierre est vermoulue , dont le fer est .rouillé , avec quelque squelette qui craque au vent ; — au centre , la grande cathédrale gothique avec ses hautes flèches tailladées en scies , sa large tour du bourdon , ses cinq portails brodés de bas - reliefs , sa frise à jour comme une collerette , ses solides ares - boutants , si frêles à l ' oeil ; et puis ses cavités profondes , sa forêt de piliers à chapiteaux bizarres , ses chapelles ardentes , ses myriades de saints et de châsses , ses colonneltes en gerbes , ses rosaces , ses ogives , ses lancettes qui se touchent à l ' abside et en font comme une cage de vitraux , son maîtreautel aux mille cierges ; merveilleux édifice , imposant par sa masse , curieux par ses détails , beau à deux lieues et beau à deux pas ; — et enfin , à l ' autre bout de la ville , cachée dans les sycomores et les palmiers , la mosquée orientale , aux dômes de cuivre et d ' étain , aux portes peintes , aux parois vernissées , avec son jour d ' en haut , ses grêles arcades , ses cassolettes qui fument jour et nuit ; ses verj verj du Koran sur chaque porte , ses sanctuaires éblouis ; sants , et la mosaïque de son pavé , et la mosaïque de ses j murailles ; épanouie au soleil comme une large ileur pleine ; de parfums .I Certes , ce n ' est pas l ' auteur de ce livre qui réalisera ja : mais un ensemble d ' oeuvres auquel puisse s ' appliquer la ! comparaison qu ' il a cru pouvoir hasarder .",
+        "words": [
+          "parfums",
+          "mosquée",
+          "sanctuaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/5ee7582f-2cce-5084-9e87-d0253141d8b1",
+        "value": "Ces tentes balancées Au dos des éléphants .Dans ces palais de fées , Mon coeur , plein de concerts , Croit , aux voix étouffées Qui viennent des déserts , Entendre les génies Mêler les harmonies Des chansons infinies Qu ' ils chantent dans les airs ! J ' aime de ces contrées Les doux parfums brûlants ; Sur les vitres dorées Los feuillages tremblants ; L ' eau que la source épanche Sous le palmier qui penche , Et la cigogne blanche Sur les minarets blancs .J ' aime en un lit de mousses Dire un air espagnol , Quand mes compagnes douces , Du pied rasant le sol , Légion vagabonde Où le sourire abonde , Font tournoyer leur ronde Sous un rond parasol .",
+        "words": [
+          "doux",
+          "parfums",
+          "brûlants",
+          "contrées",
+          "minarets",
+          "palais de fées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/6b4626f5-2dbe-5eec-9033-54fc8d491ff2",
+        "value": "Dans ces palais de fées , Mon coeur , plein de concerts , Croit , aux voix étouffées Qui viennent des déserts , Entendre les génies Mêler les harmonies Des chansons infinies Qu ' ils chantent dans les airs ! J ' aime de ces contrées Les doux parfums brûlants ; Sur les vitres dorées Los feuillages tremblants ; L ' eau que la source épanche Sous le palmier qui penche , Et la cigogne blanche Sur les minarets blancs .J ' aime en un lit de mousses Dire un air espagnol , Quand mes compagnes douces , Du pied rasant le sol , Légion vagabonde Où le sourire abonde , Font tournoyer leur ronde Sous un rond parasol .Mais surtout , quand la brise , Me louche en voltigeant , La nuit , j ' aime être assise , Etre assise en songeant , L ' oeil sur la mer profonde , Tandis que , pâle et blonde , La lune ouvre dans l ' onde Son éventail d ' argent .",
+        "words": [
+          "air",
+          "lit de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/733d137a-b802-5185-b7e8-f1078beb516e",
+        "value": "Au reste , il y a beaucoup d ' analogie entre la poésie persane et Ja poésie italienne .Des deux parts , madrigaux , concetti , fleurs et parfums .Peuples esclaves , poésies courtisanesques .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "madrigaux",
+          "concetti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/7771f5a7-db0d-5250-9b08-9bbaf0f9e970",
+        "value": "■ 11 • e Un autre poêle du divan de Bochteri , recueil de poésies * ■ ' ■ ■ \" ' S i ' ! ; 1 ( 1 ) Jlerbe qui sert a tanner .' c d ' hommes inconnus , fleurs du déserf dont il ne reste que le parfum , , dit : « Quand je vis les premiers ennemis paraître d travers les tamarins et les arbres épineux de la vallée , « Je pris mon manteau sans me tourner vers personne ; je haïssais l ' homme comme le hait le chameau à qui on vient de percer les narines ( 4 ) .Des Arabes aux Persans la transition est brusque ; c ' est comme une nation de femmes après un peuple d ' hommes .",
+        "words": [
+          "parfum",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/79c2b716-ca43-5e07-8586-5ada299f3d76",
+        "value": "- - Rafi - Eddin .— ACIDE .« Quel est le plus épars de tes cheveux ou de mes sens ? Quel est l ' objet le plus petit , ta bouche ou le fragment de mon coeur brisé ? « Est - ce la nuit qui est la plus noire ou ma pensée , ou le point qui orne ta joue ? Quel est le plus droit , de la taille , d ' un cyprès ou de mes paroles d ' amour ? « Qui va chercher les coeurs ? ton approche , ou mes vers qui épanouissent l ' âme ? quel est le plus pénible , de tes refus ou de mes plaintes qui brûlent ? — Chahpour Abhari .",
+        "words": "ACIDE"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/7a6a25f9-1703-58c0-9f7d-8b890a34434b",
+        "value": "« Quoi ! chevaux , cavaliers , Arabes et Tartares , « Leurs turbans , leur galop , leurs drapeaux , leurs fanfares , oc C ' est comme si j ' avais rêvé ! « 0 mes vaillants solctets et leurs coursiers fidèles ! « Leurvoix n ' a plus de bruit etleurs pieds n ' ont plus d ' ailes , « Ils ont oublié tout , et le sabre et le mors .« De leurs corps entassés cette vallée est pleine ; « Voilà pour bien longtemps une sinistre plaine ! « Ce soir l ' odeur du sang : demain l ' odeur des morts .« Quoi ! c ' était une armée ! et ce a ' est plus qu ' une ombre ! « Us se sont bien battus , de l ' aube à la nuit sombre , « Dans le cercle fatal ardents à se presser .",
+        "words": [
+          "odeur",
+          "sang",
+          "plaine",
+          "vallée",
+          "morts",
+          "pour bien longtemps"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/7f55a49f-8aa3-5c0b-9aba-90b2220b5ee9",
+        "value": "Ainsi , qw « nd du Vésuve explorant le démaine , De Naple .à Portici l ' étranger se promène , Lorsqu ' il trouble , rêveur , de ses pas importuns , Ischia de ses fleurs embaumant l ' onde heureuse Dont le bruit , comme un chant de sultane amoureuse , Semble une voix qui vole au milieu des parfums ; Qu ' il hante de Poestum l ' auguste colonnade ; Qu ' il écoute à Pouzzol la vive sérénade Chantant la tarentelle au pied d ' un mur toscan : Qu ' il éveille en passant cette cité momie , Pbmpéi , corps gisant d ' une ville endormie , - Saisie un jour par le volcan ; ■ Qu ' il erre au Pausilippe avec la barque agile D ' où le brun marinier chante Tasse à Virgile ; Toujours , sous l ' arbre vert , sur les lits de gazon , Toujours il voit , du sein des mers ou des prairies , Du haut des caps , du bord des presqu ' îles fleuries , Toujours le noir géant qui fume à l ' horizon ! Décembre 1827 .XLI NOVEMBRE Je lui dis : La rose du jardin , comme tu sais , dure peu ; et la saison des roses est bien vite écoulée .",
+        "words": [
+          "Portici",
+          "fleurs",
+          "parfums",
+          "sultane",
+          "Décembre 1827"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/7f9e78fd-c9dd-5db9-9336-5971e2e0da19",
+        "value": "Peut - être on entendait vaguement dans les plaines S ' étouffer des baisers , se mêler des haleines , Et les deux villes soeurs , lasses dès feux du jour , Murmurer mollement d ' une étreinte d ' amour ! Et le vent , soupirant sous le frais sycomore , Allait tout parfumé de Sodome à Gomorrhe ! C ' est alors que passa le nuage noirci , Et que la voix d ' en haut lui cria : — C ' est ici 1 - VIII La nuée éclate ! La flamme écarlate Déchire ses flancs , L ' ouvre comme un gouffre , Tombe en flots de soufre Aux palais croulants , ' Et jette , tremblante , Sa lueur sanglante Sur leurs frontons blancs ! Gomorrhe ! Sodome ! De quel brûlant dôme Vos murs sont couverts ' L ' ardente nuée Sur vous s ' est ruée , 0 peuples pervers ! Et ses larges gueules Sur vos têtes seules Soufflent leurs éclairs ' Ce peuple s ' éveille , Qui dormait la veille Sans penser à Dieu .Les grands palais croulent j Mille chars qui roulent Heurtent leur essieu ; Et la foule accrue Trouve en chaque rue Un fleure de feu .Sur ces tours altières , Colosses de pierres , Trop mal affermis , Abondent dans l ' ombre Des mourants sans nombre Encore endormis .",
+        "words": [
+          "palais",
+          "fleure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/ab9e5daf-5828-511c-8ecd-1f6c85ff2cc8",
+        "value": "mon brûlot ! à la voile ! à la rame ! « Frères , Missolonghi fumante nous réclame , « Les Turcs ont investi ses remparts généreux .« Renvoyons leurs - vaisseaux à leurs villes lointaines « Et que ma lorcbe , ô capitaines ! « Soit un phare pour vous , soit un foudre pour eux ! « Parlons ! Adieu Corinthe et son haut promontoire , « Mers dont chaque rocher porte un nom de victoire , « Ecueils de l ' Archipel sur tous les ilôts semés , « Belles îles , des deux et du printemps chéries , « Qui le jour paraissez des corbeilles fleuries , « La nuit , des vases parfumés ! « Adieu , flère patrie , llydra , Sparte nouvelle ! « Ta jeune liberté pai des chants se révèle ; < < Des mâts voilent tes murs , ville de matelots ! « Adieu ! j ' aime ton île où notre espoir se fonde , « Tes gazons caressés par l ' onde , « Tes rocs battus d ' éclairs et rongés par les flots ! « Frères , si je reviens , Missolonghi sauvée , « Qu ' une église nouvelle au Christ soit élevée .a Si je meurs , Si je tombe en la nuit sans réveil , « Si je verse le sang qui me reste à répandre , « Dans une terre libre allez porter ma cendre , « Et creusez ma tombe au soleil ! « Missolonghi ! — Les Turcs ! — chassons , ô camarades , « Leurs canons de ses forts , leurs flottes de ses rades .",
+        "words": [
+          "Corinthe",
+          "parfumés",
+          "vases",
+          "corbeilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/d55d4df4-c0f5-59d7-b522-cca2a293842a",
+        "value": "« Si elle me disait : Ce pied est un esclave dans nia cour , ■ « Je placerais ce pied sur là neuvième sphère céleste .« Oh ! ne dénoue pas ces tresses à l ' odeur du jasmin ; « Ne fais pas honle aux parfums de la Chine .« Oh ! Rafi - Eddin , avec candeur et sincérité , fais de la poussière qu ' elle foule lé chemin de ton front .",
+        "words": [
+          "odeur",
+          "parfums",
+          "jasmin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/d737f5a2-d6c3-5785-8c18-a434a5a7aac1",
+        "value": "( Tu as loué Leïla en rimes qui , par leur enchaînement , donnent l ' idée d ' une étoffe rayée d ' Yémen .« Est - ce que les grasses et pesantes queues de brebis , mangées avec le lait aigre , sont comme le lait ' doux et crémeux des chamelles paissant des herbes douces , mangées avec la bosse délicate du chameau ? « Est - ce que l ' odeur du genévrier et de l ' acre cheth ( - 1 ) ressemble à l ' odeur de la violette sauvage ( khosama ) , ou au frais parfum de la giroflée ? « On dirait que lu ne connais d ' autre femme qxx ' Omm Nafi .« On dirait que tu ne vois pas d ' autre ombre dont les hommes puissent désirer le frais , que son ombre , et aucune beauté sans elle .",
+        "words": [
+          "parfum",
+          "odeur",
+          "violette",
+          "genévrier",
+          "giroflée",
+          "acre cheth",
+          "violette sauvage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/e14a209b-2131-59a2-a700-ce2408c559fa",
+        "value": "Mais Sara la nonchalante Est bien .lente A finir ses doux ébats ; Toujours elle se balance En silence , Et va murmurant tout bas : « Oh ! si j ' étais capitane , « Ou sultane , « Je prendrais des bains ambrés , « Dans un bain de marbre jaune , « Près d ' un trône , « Entre deux griffons dorés ! « J ' aurais le hamac de soie « Qui se ploie « Sous le corps prêt à pâmer ; « J ' aurais la molle ottomane « Dont émane « Un parfum qui fait aimer .« Je pourrais folâtrer nue , « Sous la nue , « Dans le ruisseau du jardin , « Sans crainte de voir dans l ' ombre « Du bois sombre N « Des yeux s ' allumer soudain .",
+        "words": [
+          "parfum",
+          "corps",
+          "hamac",
+          "molle ottomane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/e33c58c9-b419-5291-b418-cd8e9eed75e4",
+        "value": "De grands angles de murs , par la lune blanchis , Coupaient l ' ombre , ou tremblaient dans une eau réfléchis .Peut - être on entendait vaguement dans les plaines S ' étouffer des baisers , se mêler des haleines , Et les deux villes soeurs , lasses dès feux du jour , Murmurer mollement d ' une étreinte d ' amour ! Et le vent , soupirant sous le frais sycomore , Allait tout parfumé de Sodome à Gomorrhe ! C ' est alors que passa le nuage noirci , Et que la voix d ' en haut lui cria : — C ' est ici 1 - VIII La nuée éclate ! La flamme écarlate Déchire ses flancs , L ' ouvre comme un gouffre , Tombe en flots de soufre Aux palais croulants , ' Et jette , tremblante , Sa lueur sanglante Sur leurs frontons blancs ! Gomorrhe ! Sodome ! De quel brûlant dôme Vos murs sont couverts ' L ' ardente nuée Sur vous s ' est ruée , 0 peuples pervers ! Et ses larges gueules Sur vos têtes seules Soufflent leurs éclairs ' Ce peuple s ' éveille , Qui dormait la veille Sans penser à Dieu .Les grands palais croulent j Mille chars qui roulent Heurtent leur essieu ; Et la foule accrue Trouve en chaque rue Un fleure de feu .",
+        "words": [
+          "parfumé",
+          "Sodome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/f7c2cdba-4f86-5f8b-a1d2-1afd52941e51",
+        "value": "II faut que l ' herbe tombe au tranchant des faucilles ; Il faut que dans le bal les folâtres quadrilles Foulent dîs roses sous leurs pas .Il faut que l ' eau s ' épuise à courir les vallées ; Il faut que l ' éclair brille , et brille peu d ' instants ; Il faut qu ' avril jaloux brûle de ses gelées Le beau pommier , trop fier de ses fleurs étoilées , Neige odorante du printemps .Oui , c ' est la vie .",
+        "words": [
+          "odorante",
+          "fleurs"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/723c30e0-d7e0-55a9-9b04-dfff87f81a52",
+        "label": "Victor  Hugo"
+      }
+    ],
+    "label": "Les orientales / par Victor Hugo ; illustrations de Gérard Séguin",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k54086668",
+    "date": "1868",
+    "language": "fr"
+  },
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/cfb3793d-a29a-5630-a563-65196d0a18ba",
+      "label": "solitude"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29e16ff7-5d42-5a7d-9f72-57c8fee9fafb",
+      "label": "1868",
+      "begin": "1868",
+      "end": "1868"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11542883/",
+      "label": "Solitude"
+    },
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/faith",
+      "label": "faith"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/disappointment",
+      "label": "disappointment"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0d3d58c5-eec6-5577-b35e-f382bd6e07a2/fragment/0687faee-3fcc-57fb-833e-1ebeef1bd65f",
+  "license": "Public domain"
+}

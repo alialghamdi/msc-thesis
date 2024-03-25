@@ -1,0 +1,2642 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/bd0cfff1-0978-573e-8d98-fe00d41f6257",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "smell",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/012831a3-3878-5f93-a241-d5357b035766",
+        "value": "Ag ' ila wood .A fragrant resinous sub - stance of a dark colour , conta ined in the in - terior of the trunk of the Aquilaria ovata and A .agallochum .",
+        "words": [
+          "fragrant",
+          "the Aquilaria ovata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/02aa3541-ad21-5411-af87-86bc31f61893",
+        "value": "( \" Apyy - pos ; ( poptto , to bear ; di / i - iooi - os , a remedy .) Old name for a medicine consisting of opium , various gums , aromatics , & c .; it was recommended in all diseases of the head , and in other cases .",
+        "words": [
+          "aromatics",
+          "opium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/06dd0e05-976d-56a2-8eae-9a2c8505f6ad",
+        "value": "Discovered - by Balard in 1826 .A dark red liquid , at ordinary tem - peratures volatile , odour suffocating ; freezes at - 22Â ° C .( - 7 ' 6Â ° F .",
+        "words": [
+          "odour",
+          "suffocating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/06e658cf-67bd-5b07-9c73-be5593bd20b8",
+        "value": "The vapour is combustible , and burns with a smoky flame .It is a colourless oily liquid , with faint peculiar odour , density 1 - 036 at 0Â ° C .( 32Â ° F .",
+        "words": [
+          "odour",
+          "It",
+          "faint peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/07c188ea-4c3c-57bd-b179-bce263552054",
+        "value": "( ' Apyos , shining ; ( f > v \\ - \\ ov , a leaf .) A species the silvery leaves of which supply a stimulating aromatic like musk .Am at ' ticus .",
+        "words": [
+          "aromatic",
+          "like musk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/09f0171f-355c-5c0b-a220-7658277d60e8",
+        "value": "Europe , North Africa , \" West Asia .The plant has an agreeable odour , and is sometimes used as a stomachie and sudorific .C .",
+        "words": [
+          "agreeable",
+          "odour",
+          "The plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/0bf3af99-0162-521d-a46a-3b95abd54749",
+        "value": "Perennial ; panicle pubescent , interrupted below ; awn short , scarcely exserted ; anthers purple or yellow .It gives the characteristic odour to hay , and it is thought by some that the pollen of this plant is the cause of hay asthma .Anthozo a .",
+        "words": [
+          "odour",
+          "It",
+          "the pollen of this plant",
+          "hay asthma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/0d6a6b93-3e09-5724-9e0c-2d8485c7a515",
+        "value": "A synonym of Cor - tinarius cinnamomeus .The brown mushroom , which has a pleasant smell .A .",
+        "words": [
+          "smell",
+          "pleasant",
+          "The brown mushroom"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/0db41e11-cadc-5160-b7ec-cffef5e6ab50",
+        "value": "Oreille d ' homme .) Pi - leus cinnamon coloured , oblong , reniform , margin deflexed ; laminae equal , white or red , easily separating , decumbent ; stem excentric , bulbous above , mealy ; odour slight ; taste acrid , bitter , astringent .Purgative .",
+        "words": [
+          "odour",
+          "slight",
+          "Pi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/0e257cb6-be9d-53a8-a786-4ac9869bfc17",
+        "value": "Pappus 0 ; florets of the ray short , ! j > ; of the disk jf , with a flattened winged tube ; bracts forming an ovate or oblong imbricated ACHILLEASâ   ACHOLICUS flower - head , receptacle scaly , sub - convex , achaonia compressed ; leaves woolly , those of the stem lanceolate or nearly linear , bipinnatifid , with deeply divided pinna ? , the rachis scarcely at all toothed .The milfoils are strong scented , bitter , stimulating , and tonic .A .",
+        "words": [
+          "scented",
+          "strong scented",
+          "The milfoils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/0e8c5e08-2f0a-5f7f-b88e-717c0bdc2f3f",
+        "value": "Planta ) or C54H40NO2 ( Duquesnel ) , or C ^ H ^ NO , , ( Wright ) .A light , white powder , without smell , with a bitter taste , and soon causing a peculiar heat and tingling sensation in the mouth ; ex - tremely poisonous .It dissolves in 150 parts of cold and 50 parts of hot water , in 4 ' 2 parts ACONITIC ACIDâ   ACONITUM .",
+        "words": [
+          "smell",
+          "white",
+          "causing a peculiar heat and tingling sensation in"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/109b63ef-a1d0-56b5-a408-1a2c3db930e6",
+        "value": "{ Kairvoi , smoke ; fioXpa , a part .) A colourless transparent oil , one of the constituents of smoke , of a peculiar odour , ob - tained from beech tar .It dissolves caoutchouc .",
+        "words": [
+          "odour",
+          "peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/10c4d5ce-b4a0-5dad-b168-0fb5a1fdc226",
+        "value": "They are entire , with the margin a little reflexed , and in the young state slightly pubescent , otherwise the whole leaf is smooth , glabrous , and coriaceous ; the upper surface shining , deeply impressed with a network of veins ; the under minutely reticu - lated with dark veins .The leaves have a very astringent taste , and , when powdered , a tea - like smell .The decoction contains yallic and tannic acids , arbutin , ericolin , and ursone .",
+        "words": [
+          "smell",
+          "The leaves",
+          "tea - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/10dc0993-4d23-590f-b4c6-caa69ba32bff",
+        "value": "It is an orange , oily , BOZEMAN ' S APPAEATUSâ   BRACHIAL .fetid liquid , useful for wounds or ulcers , accord - ing to Beguin .See Beguin ' s fuming liquor .",
+        "words": [
+          "fetid",
+          "liquid",
+          "useful for wounds or ulcers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/12abfca6-82ed-578d-8000-526d685ed649",
+        "value": ") The Salix mgypitiaea .Cultivated at Lahore for the sake of an aromatic water used in the hot season .Bed ' da nuts .",
+        "words": [
+          "water",
+          "aromatic",
+          "at Lahore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/12c51bd8-0e2b-5db8-ab52-eaf8377f8951",
+        "value": "Cas ' sie .The perfume obtained from the flowers of Acacia farnesiana , and used to give a pleasant scent to ointments and other applica - tions .Â © as ' sin .",
+        "words": [
+          "perfume",
+          "scent",
+          "pleasant",
+          "from the flowers of Acacia farnesiana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/12c80442-2ca9-5b3a-81c3-3688f110470e",
+        "value": "Baryos ' ma odora ' ta .( Bapvs ; da - fin , smell .) The Dipterix odorata .",
+        "words": [
+          "smell",
+          "da - fin",
+          "Bapvs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/12d079e7-225b-503a-9cd6-e6c01f5d6f4d",
+        "value": "Also ( B ^ w / ios , a stink ; tifiiis .) Stinking , full of a foul smell .Also ( Bpwfidonai , to bray ) , bellowing , crying with a loud wail .",
+        "words": [
+          "smell",
+          "foul"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/13bef0de-c525-5156-9e79-0057f3ab2682",
+        "value": "( L .suaveolens , sweet smelling .P .",
+        "words": [
+          "sweet",
+          "smelling",
+          "suaveolens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/13c890c0-23a1-57d1-a464-b6a13e2db583",
+        "value": ", Chi ' na varnish .The exudation of Augia sinensis ; highly fragrant .Used as a varnish in China .",
+        "words": [
+          "fragrant",
+          "highly fragrant",
+          "The exudation of Augia sinensis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/14c862ad-0547-585c-9a67-a6a1ffbb2167",
+        "value": "gewiirzhaft .) Odoriferous fhaving an agreeable smell , as spices and such substances have .Applied to a Class of plants ( Aromaticce ) in some natural arrange - ments .",
+        "words": [
+          "agreeable",
+          "smell",
+          "Odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/14e614e0-06cb-5af1-83a5-8e6b7103a56b",
+        "value": ") The secretion of the liver .A mucilaginous fluid , golden brown in man , golden red in earnivora , brownish green in her - bivora , bright green in birds , of bitter taste , and peculiar odour , of sp .gr .",
+        "words": [
+          "odour",
+          "peculiar",
+          "of sp ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/15220b4e-1ee3-5f84-9d8d-8b0831ccd0fd",
+        "value": ") A balsam ' obtained by incisions into the bark of the Myroxylon toluifera .It is a soft , light - brown solid , of fragrant odour and pleasant sweetish taste , perfectly soluble in alcohol , ether , and chloroform .It is used as an expectorant in chronic coughs .",
+        "words": [
+          "fragrant",
+          "odour",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/152e56e1-93d3-5070-a5ee-697e73b5eb24",
+        "value": "B ., sweet - scented .The Galium tri - phyllum .",
+        "words": [
+          "sweet",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/164100f1-b9c4-5e3f-bff6-018ebd2e36d4",
+        "value": "and is stimulant and aromatic .Also , an ethereal oil , of yellow colour and clove - like odour , contained in the pods and seeds of Myrtus pimenta .It is heavier than water .",
+        "words": [
+          "clove",
+          "odour",
+          "- like",
+          "an ethereal oil",
+          "the pods and seeds of Myrtus pimenta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/174096fd-97f8-504c-8210-669ad050f03e",
+        "value": "( Botâ  ¢ , to colour .) A species of soft bituminous fossil of agreeable smell , so named because a tincture made of it was coloured with alkanet root .Bar .",
+        "words": [
+          "agreeable",
+          "smell",
+          "soft bituminous fossil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/17b2740e-62ee-5dca-8e62-f2126dced695",
+        "value": "A .antihysterica f ' ce ' tida ( ' Aim ; hysteria ; fcetidus , stinking .) A synonym of A .",
+        "words": [
+          "stinking",
+          "hysteria",
+          "fcetidus",
+          "antihysterica"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/181d3e86-d160-52da-9770-ff2407d943da",
+        "value": "Falltrank .) An infusion of various Alpine aromatic plants , including the species of arnica , achillasa , Valeriana , primula , pyrola , hypericum , asperula , and others , according to the custom of the family or district .Used in all injuries , of whatever kind , as a drink .",
+        "words": [
+          "aromatic",
+          "plants",
+          "Valeriana",
+          "hypericum",
+          "pyrola",
+          "asperula",
+          "primula",
+          "of various Alpine",
+          "the species of arnica",
+          "achillasa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/1933447d-21f1-51af-b6ea-4fd7d423db26",
+        "value": ") Vinegar .An acid liquid of a brown colour , pleasant acid taste , and peculiar odour , prepared from malt and unmalted grain by acetous fermen - tation ; containing 4 6 per cent , of anhydrous acetic acid .Sp .",
+        "words": [
+          "odour",
+          "peculiar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/1a1f56d6-803e-5b16-9afa-45f5e453c9d9",
+        "value": "Generally small , ovoid , smooth , or slightly tuberculous ; slate or clay coloured , compact , brittle , with an earthy fracture , and very indistinctly laminated .\" When heated it decrepitates , gives out a dis - agreeable smell , and almost disappears .It dissolves in hot water , from which hot solution , on the addition of dilute hydrochloric acid , uric acid is deposited in several varieties of rhombic , prismatic , microscopic crystals .",
+        "words": [
+          "smell",
+          "it",
+          "dis - agreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/1aeaaf50-9e84-5bdf-aaea-68659b931e41",
+        "value": ") Resembling an almond : or containing white bodirs , like almonds , distributed through it .In Botany , this term has been applied by Fee to plants or products resembling in smell that of the bitter almond .In Geology , igneous rocks containing small oval cavities which are , partially or entirely , tilled with agate , jasper , calcareous spar , or other mineral .",
+        "words": [
+          "smell",
+          "plants",
+          "products",
+          "that of the bitter almond"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/1d0e5308-0400-5007-a644-e43d54bdeffd",
+        "value": "It occurs either in the form of whitish and brittle rounded tears , varying from the size of a small pea to that of a cherry , and breaking with a conchoidal shining fracture , or in large yellowish masses composed of agglutinated tears , and often mixed with foreign fragments .It has a faint odour , and a bitter , acrid , and nauseous taste .The nodules are of a pale creamy yellow , or in old specimens of a cinnamon brown outside , opaque , and milk white witbin ; they easily soften with warmth , but do not melt ; they are partly soluble in alcohol , ether , vinegar , alkaline solutions , and water ; with the latter they form a milky emul - sion .",
+        "words": [
+          "odour",
+          "faint",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/1f8ae3a4-bb9d-53d6-9b7e-5ec29cce8d2a",
+        "value": "Aloeplian ' g - inae pil ' ulae .A term for pills composed of aloes and aromatics ; the adjec - tive being of Arabic origin , and signifying odor - ous or aromatic .Aloeresin ' ic acid .",
+        "words": [
+          "odor",
+          "aromatic",
+          "aromatics",
+          "aloes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/200b19ad-1828-5ebc-bf24-0341c42f8f0f",
+        "value": ") A term now generally used to express the destructive changes which occur in the body from the drinking of alcoholic liquors to excess .rlhe first organ to suffer is the stomach , the appetite is bad , nausea and vomiting , especially in the morning , occur , the tongue is foul , and the breath offensive and peculiar in smell , from acetone and similar products ; diarrhoea is not uncommon , occasionally there is constipation .Sometimes there is emaciation , sometimes fatness ; there is often paleness of skin , and frequently acne and tubercles on the nose .",
+        "words": [
+          "offensive",
+          "smell",
+          "peculiar",
+          "breath",
+          "especially in the morning",
+          "from acetone and similar products"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/21c5d91b-3bdc-5278-a68d-15d2929ef4eb",
+        "value": "of o - Kwp , dung .) The odoriferous priuciple of cow - dung which imparts to cow - houses their peculiar odour .BUSC0R1NA â   BUTTER .",
+        "words": [
+          "odour",
+          "peculiar",
+          "odoriferous",
+          "their",
+          "priuciple of cow - dung"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2407ef3b-1fa2-5020-bcfe-a23160c2d76a",
+        "value": "The fruits exhale a strong odour of thyme , and have a biting aromatic taste .They yield 5 â   6 per cent , of an agreeably aromatic volatile oil , and in addition there collects on the surface of the distilled water a crystalline sub - stance or stearoptene , named by the natives Ajwain - ka - pliul , or flowers of Ajwain .Ajowan is much used in India as a condiment .",
+        "words": [
+          "aromatic",
+          "volatile",
+          "agreeably aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/25170e2c-6ec1-5413-9392-4dcd1ecf0da7",
+        "value": "CARDAMONâ   CARDIAC .They contain several seeds , which are small , angular , roughish , reddish - brown without , white within , of a warm , pungent , aromatic taste and an aromatic odour .They contain 10 ' 4 per cent , of fixed oil , 4 - 6 per cent , of volatile oil , 4 - 7 per cent , of colouring and mucilaginous matters , 3 per cent , of starch , and 77 ' 3 per cent , of woody fibre .",
+        "words": [
+          "odour",
+          "aromatic",
+          "several seeds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/261e6a0d-c3b8-53d4-b0bc-913fba82261c",
+        "value": "Order Compusitce .Small plants , chiefly intertropical ; several species of which have a camphoraeeous odour .B .",
+        "words": [
+          "odour",
+          "several species",
+          "camphoraeeous",
+          "Small plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/27323f4e-68ef-5f12-8c10-ae89c92438ff",
+        "value": "A .d ' Armagn ' aCi The Teinture aroma - tique .A .",
+        "words": [
+          "aroma",
+          "d",
+          "Teinture"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/28b71976-1049-564d-9394-d83ffd8c83c3",
+        "value": "The first rudiment of a cranium , protecting or supporting the brain , is found in the Cephalopoda .In Fishes , whilst considerable differences exist , the general type is that there are two symmetrical cerebral hemispheres , which pass in front into the olfactory lobes , and which constitute the prosencephalon , or forebrain ; immediately behind these is the thalamencephalon , which is often almost entirely concealed by the optic lobes , or mesencephalon .Behind these is the cerebellum , or metencephalon , and the medulla oblongata .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/293525d9-acaf-501b-86a9-9193f5df8984",
+        "value": "Am ' bia .A yellow liquid petroleum , smell - ing like tacamahaca , oozing from the soil near the Indian Sea .It is used for the cure of itch .",
+        "words": [
+          "smell",
+          "from the soil near the Indian Sea",
+          "liquid petroleum",
+          "like tacamahaca"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/29372834-77aa-5eff-b29b-a6687d10f77a",
+        "value": "Crude camphor is in small , grey or pinkish , sparkling , aggregated grains ; it is refined by mixing it with a fiftieth part of quicklime and exposing to heat in an iron vessel , by which it is melted , and then , going of ] as vapour , is condensed in a receiver .Purified camphor is white , translucent , of crystalline fracture , powerful odour , and pungent taste .Sp .",
+        "words": [
+          "odour",
+          "powerful",
+          "Purified camphor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/294c1e22-c6b3-51a0-8167-7b3d8ae2d675",
+        "value": "Cantharides contain a green oil , soluble in water , insoluble in alcohol , and non - vesicant ; a black matter , soluble in water , insoluble in alcohol , and inert ; a yellow , viscid matter , soluble in water and alcohol , and CANTHARIDIC ACIDâ   CANTHOPLASTY .non - vesicant ; cantharidin ; a fatty matter , in - soluble in alcohol ; calcium and magnesium phos - phates ; acetic and , in the fresh insect , uric acids ; and a volatile principle , on which the foetid odour of the beetle depends .Adulterated with other insects and with euphorbium .",
+        "words": [
+          "odour",
+          "foetid",
+          "of the beetle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2957e6e3-ab45-51e2-afc1-19e80ed4e0c2",
+        "value": "The plant grows in marshy districts throughout Europe , and has a spongy , somewhat flattened rhizome , which presents irregular rings corresponding to the attachment of the leaves and punctations below which are the marks of the rootlets .' It contains Acorin , and is an aromatic stimulant used in asthma , fevers , ague , chronic catarrh , dyspepsia , and in perfumery , A .grramin ' eus .",
+        "words": [
+          "aromatic",
+          "Acorin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2a891542-5504-503d-ba99-2a37a8488ba9",
+        "value": "( Ger .) A term applied by Martius to the agreeably odorous balsam of ' the Liquidam - bar styraciflua , now called Copalbalsam .Also , a term for amber .",
+        "words": [
+          "odorous",
+          "agreeably odorous",
+          "balsam of ' the Liquidam - bar styraciflua"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2aeff723-6e06-5a77-8134-6de993563dd0",
+        "value": "( \" I < 5ios , peculiar ; a - uyKpaa - Ls , a mingling .) Asthma induced by psychical impressions , or by impressions made upon the organs of special sense , especially upon the olfactory nerves .Hay asthma is an example of this form .",
+        "words": [
+          "olfactory",
+          "Asthma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2bd25aae-634e-51bc-9315-4fb60fa45304",
+        "value": "Cashoo ' .An aromatic drug of Hindostan , said to possess pectoral virtues .Cash ow .",
+        "words": [
+          "aromatic",
+          "drug"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2c0cfe01-81f7-513b-ae35-f0902aeedc29",
+        "value": "They are characterised by giving no precipitate with hydrosulphuric acid , with ammonium sulphide , nor with the alkaline carbonates .Heated with potash , ammonia is disengaged , recognisable by its odour and the white fumes that appear on the approach of a glass rod dipped in hydrochloric acid .With concentrated solution of tartaric acid crystals of ammonium bitartrate are preciptated ; no precipitate with hydrofluosilicic acid or perchloric acid .",
+        "words": [
+          "odour",
+          "fumes",
+          "white",
+          "its",
+          "ammonia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2c19afa4-510f-52b6-a314-3adc460aa7ed",
+        "value": "Zaunriibe ? ) Stem long , branched , weak , with tendrils ; leaves alternate , palmate , rough on both sides ; flowers in short axillary racemes , greenish white ; fruit a globular red berry .The root is large , fusiform , fleshy , succulent , whitish , marked with circular striae , of an acrid taste , and disagreeable odour .It is irritant , and a drastic urgative and an emetic .",
+        "words": [
+          "odour",
+          "disagreeable",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2d46fa26-4fc7-504e-ba51-e5fb65b8532a",
+        "value": "The active narcotic principle of the Agaricus ( or Amanita ) muscarius and Agaricus bulbosus .It is brown , non - crystall izable , without taste or odour , and is insoluble in water , but soluble in alcohol and ether .Amam ' siae .",
+        "words": [
+          "odour",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2d56b007-e23b-56ec-add9-325e8a9a5830",
+        "value": "Amaracine ointments .A term applied anciently to all fragrant ointments , from the fabled circumstance of Amaraous , a youth employed as perfumer to Cinyras , king of Cyprus , having fallen and broken a box of ointment he was carrying , by which means its odour became more diffused and agree - able .Amarac ' inum .",
+        "words": [
+          "fragrant",
+          "odour",
+          "its",
+          "ointments",
+          "more diffused",
+          "agree - able",
+          "Amaraous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2d5fd531-724f-5c4f-8f4e-862a67c442eb",
+        "value": "B ., stink ' ingr .The Hcdcoma pulegioides .",
+        "words": [
+          "stink",
+          "ingr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/2fef201f-790d-5438-824d-9ba61adc541c",
+        "value": "They are oval - oblong , entire , reddish brown when dry , leathery , glossy above , pale and hairy beneath , with many small glands .They have a fragrant smell and a pungent , aromatic taste .Used as a tonic where there is torpidity of the liver , and , especially the oil , in catarrh of the genito - urinary organs .",
+        "words": [
+          "fragrant",
+          "smell",
+          "They"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/310ffde5-be16-5274-9934-ea916fda19a9",
+        "value": "( L .foctidus , stinking .) A synonym of A .",
+        "words": [
+          "stinking",
+          "foctidus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/31cfe389-d5fb-521c-af86-efec655291ba",
+        "value": "cataracte f elide .' ) In extremely rare cases an oily fluid , sometimes of penetrating rancid odour , has been found to occupy a cavity in the substance of the lens , or between the lens and the posterior capsule , which has received the name of putrid cataract .C .",
+        "words": [
+          "odour",
+          "cataract",
+          "penetrating rancid",
+          "an oily fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/34583106-f86a-598e-8091-89072daa5326",
+        "value": "Domingo .Used as an emmenagogue , antihysteric , expectorant , and - vermifuge ; added to baths as an aromatic .B .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/351e8088-ea72-5c8c-af50-3cf5301a7666",
+        "value": "( AtyuTprtos , Egyptian .) Old epithet of a white oily ointment ( AiyuirTiov fiopov ) , prepared from leaves and aromatic sub - stances ; also called Menesium ; also applied to the JEgyptiacum unguentum simplex ; also a term for lint or thread .JE .",
+        "words": [
+          "aromatic",
+          "a white oily ointment",
+          "the JEgyptiacum unguentum simplex"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/35735d1f-ea05-5719-afe4-1d81442920e2",
+        "value": "( L .aromaticus , fragrant .) An old name of Vanilla , the pod of Vanilla planifolia .",
+        "words": [
+          "fragrant",
+          "aromaticus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/35b94e73-4a85-5ebe-b49e-7e9399325ec9",
+        "value": "sebcenan ' tbus , Linn .( Xxoivdvdo ^ , the flower of the aromatic rush ; from crxoi \" os , the aromatic rush ; avBos , a flower .) A synonym of A .",
+        "words": [
+          "aromatic",
+          "rush"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/3722de8d-5cef-5eef-ade7-941423e32a4c",
+        "value": "( Same etymon .) Re - sembling the Ambrosia ; having a pleasant odour .Axnbrosie ' ae .",
+        "words": [
+          "odour",
+          "pleasant",
+          "the Ambrosia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/374c72d2-8b2a-5099-b761-e2a7f1a339c3",
+        "value": "Root perennial ; culms numerous , smooth ; florets in pairs , awnless , one pedicelled and male , the other sessile and hermaphrodite .The root of this plant is yellow , short , and fibrous , it is known as Khus - khus and Vetivert , and has a strong and aromatic odour resembling that of myrrh .It is employed in India and many other countries to perfume apartments and prevent the attacks of insects .",
+        "words": [
+          "strong",
+          "odour",
+          "aromatic",
+          "resembling that of myrrh ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/39164dcf-2478-528f-bdfc-614aa7690cd6",
+        "value": "longifo ' Iium , \" Wight .The fragrant flowers are mildly stimulating , and are used as a perfume .Calyste ' gia .",
+        "words": [
+          "perfume",
+          "fragrant",
+          "flowers",
+          "mildly stimulating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/397b8c92-c914-5851-8b89-b739db2636c5",
+        "value": "antisep ' ticum .The Acetum aroma - ticum .A .",
+        "words": [
+          "aroma",
+          "ticum",
+          "The Acetum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/39932f6a-01d5-53bf-9598-fa339cb5c23e",
+        "value": "sensa ' tion .The continuation or pro - longation of an impression made on the special nerves of touch , taste , smell , hearing , or sight , when the stimulus producing the impression has ceased to act .A .",
+        "words": [
+          "smell",
+          "the special nerves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/3a5ed3f3-bb51-5356-b7a3-65a677a58995",
+        "value": "Bro ' mouSi ( BpSi / nos , a stink .) Stinking , foul .Bro ' mum .",
+        "words": [
+          "foul",
+          "Stinking"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/3a787ac2-2bd6-5cee-bed0-ab47c16c664f",
+        "value": "An evergreen shrub yielding the seeds known as semina abel - moschi , alceae iEgyptiaca ? , and grana moschata .The seeds are kidney - shaped , striated , and of a greyish - brown colour , with musk - like odour and warm spicy taste ; considered stimulant and anti - spasmodic , and applied , both externally and in - ternally , against snakebites ; used to adulterate musk and to flavour coffee .A bensbach .",
+        "words": [
+          "odour",
+          "musk",
+          "like",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/3acec186-647f-5367-8d1c-1fb131ab8032",
+        "value": ", white , of San Sona ' te .A granular , yellowish substance , having an odour of cloves , obtained from the fruit of the Myrospermim peruiferum by expression .From it is obtained Myrocarpine .",
+        "words": [
+          "odour",
+          "of cloves",
+          "the Myrospermim peruiferum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/3f78dd08-6d57-5de5-a616-78862b909945",
+        "value": "It is the balm of the Old Testa - ment , the BoXo - a / iov of Dioscorides .It is in commerce a solid of a golden colour , a delicate aromatic odour , a bitter , somewhat astringent taste .Formerly used as an antiseptic , stimulant , nervine , and vulnerary ; its fumes were supposed to cure barrenness .",
+        "words": [
+          "odour",
+          "It",
+          "delicate aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/40363b04-142a-5ca7-a459-7e29b9ea709a",
+        "value": "A stimulant and sudorific .Used as an aromatic , and burnt in rooms .8 .",
+        "words": [
+          "aromatic",
+          "in rooms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/40fe5f15-c7f5-5a0b-a964-2a97ea582993",
+        "value": ") The form accompanying excessive sweating of the feet .The odour has been supposed to depend on de - composition of the sweat in the stockings and shoes , and later it has been said to be caused by a bacterium , to which the specific name fcetidum has been given .Bro ' minated .",
+        "words": [
+          "sweat",
+          "odour",
+          "of",
+          "of the",
+          "the sweat",
+          "fcetidum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/44044e6d-4714-57c2-aa31-df29d1485610",
+        "value": "A ., sweet - scent ' ed .The Agrimonia par - viflora .",
+        "words": [
+          "sweet",
+          "scent ' ed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/444c9b5b-da20-5a22-9d0d-a7520733e710",
+        "value": "Adlerholz , Aloeholz .) An old name for the wood of the aromatic aloe , Aquillaria agallochum .Ag ' al ' lug ' en .",
+        "words": [
+          "aromatic",
+          "aloe",
+          "Aquillaria agallochum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/44638c8d-626e-57a2-8d66-58241ca11fb1",
+        "value": "Emphysema , dilatation of the bronchial tubes , dilated right heart , serous effusion in connective tissue , and subsequent disorder of liver and kidney , is not infrequently the future history .The expectoration is generally muco - purulent , sometimes fetid , occasionally absent .The per - cussion note is duller than natural , vesicular BRONCHITISâ   BRONCHOPHONY .",
+        "words": [
+          "fetid",
+          "sometimes",
+          "occasionally",
+          "expectoration"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/44c826e2-00f5-54af-ad19-ee3e55fb614d",
+        "value": "( L .foctidus , stinking .) The fetid or stinking healer ; Schroderus , iv , cl .",
+        "words": [
+          "stinking",
+          "foctidus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/451e1587-a58d-5014-8e5d-ec48c21cb8ef",
+        "value": "Stem hairy below ; umbels pedimeled , terminal ; fruit gla - brous .The plant has a strong disagreeable odour and a bitter taste .Has been used as an aro - matic , and is said to he poisonous .",
+        "words": [
+          "odour",
+          "strong disagreeable",
+          "The plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/45e8add0-7229-54d7-b6dc-51915df47e2f",
+        "value": "( L .fcetidas , stinking .) A synonym of Peederia fcetida .",
+        "words": [
+          "stinking",
+          "fcetidas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4601567c-10d0-5389-94ec-8100cbabf820",
+        "value": "Edible mushrooms grow solitarily in dry airy places ; are generally white or brownish ; have a compact brittle flesh ; do not change colour , when cut , by the action of the ah ; have a watery juice , an agreeable odour , and their taste is neither bitter , acrid , salt , nor astringent .Poisonous mushrooms , on the contrary , grow in clusters in woods and dark damp places ; are usually of a bright colour ; have a tough , soft , or watery flesh ; acquire a blue , green , or brown tint when cut and exposed to the air ; the juice is often milky ; the odour commonly powerful and dis - agreeable ; and have an acrid , astringent , acid , salt , or bitter taste .AGAEICUS .",
+        "words": [
+          "odour",
+          "powerful",
+          "dis - agreeable",
+          "Poisonous mushrooms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/483f4c43-35f1-5859-a3e2-08a987eb1376",
+        "value": "( Perhaps from aXtto , to avoid ; be - ALLMAN , WILLIAMâ   ALL ( EOTIC .cause of ita offensive smell .F .",
+        "words": [
+          "offensive",
+          "smell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/487ca4aa-cd96-5509-b582-ea60a3791a1e",
+        "value": "A bright red colouring matter found in annotto , the product of Bixa orellana .It is easily soluble in alkalies , sparingly in cold alcohol and ether ; sulphuric acid turns it blue , nitric acid produces a yellow substance of musky smell .BiXin ' eaB .",
+        "words": [
+          "musky",
+          "smell",
+          "nitric"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4923f8a8-2ee7-5040-9cfa-a4c82cb459f5",
+        "value": "1 - 068 .It has Ihe odour of chlorine , and dissolves gold and plati - num .This acid , introduced by Dr .",
+        "words": [
+          "odour",
+          "It",
+          "Ihe",
+          "of chlorine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/49b57491-5929-5aac-9912-6f8fa0da80b8",
+        "value": "cos ' tus , Falconer .( Kottos , an Oriental aromatic plant .Sansk .",
+        "words": [
+          "aromatic",
+          "plant",
+          "Oriental aromatic",
+          "Kottos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/49fcd857-32a6-5058-a9aa-1c2a5a42f1c9",
+        "value": ") \" Wood betony , also called Stachys betonica .The leaves and tops have an agreeable smell , a slightly warm taste , with some degree of astringeney and bitterness ; the leaves are smoked like tobacco , and when dried their powder is used as a sternutatory ; the roots are bitter and nauseous , strongly emetic and cathartic ; a decoction of the flowers and leaves was anciently an esteemed remedy in gout , scia - tica , headache .B .",
+        "words": [
+          "agreeable",
+          "smell",
+          "The leaves and tops"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4a9de427-7f3a-577a-b500-e91b549d52a0",
+        "value": "avieula , a little bird ; cyprius , Cyprian .) Old name for certain odoriferous candles , said to have been made for burning in times of pestilence .Also , sticks of wax of various colours , used for sealing letters .",
+        "words": [
+          "odoriferous",
+          "candles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4c5c661f-16ab-536c-897b-55511fd6ee13",
+        "value": "Caa ag ' uay - mi .A Paraguayan name of a species of Styrax , having aromatic balsamic properties .( Waring .",
+        "words": [
+          "aromatic",
+          "of Styrax",
+          "aromatic balsamic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4d7193e8-670f-5632-8492-6f3f98111bb2",
+        "value": "The fats vary much , and are much greater after a meal .The extractives consist of sugar , urea , ereatin , crea - tinin , uric acid , lactic acid , hippuric acid , leucin , tyrosin , hypoxanthin , and xanthin , colouring and odoriferous matters .The liquor sanguinis ox plasma consists of water holding in solution the substances which form fibrin , albumin , serum - casein , and salts , of which the chief is sodium chloride ; in coagulation it gives up the fibrin to the clot .",
+        "words": [
+          "sugar",
+          "odoriferous",
+          "matters",
+          "urea",
+          "leucin",
+          "tyrosin",
+          "hypoxanthin",
+          "xanthin",
+          "hippuric"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4edf8bf1-a778-5f1a-a749-700b1ffbf997",
+        "value": "Fiihl - hom , Taster .) Applied to two or four articulated filaments , varying greatly in form , and often ac - cording to sex , inserted in the heads of the Crustacea ? , Myriapoda , and Insecta , and appearing to be peculiarly devoted to a delicate sense of touch or smell , or , as some have thought , another and as yet unrecognised sense .The basal joint is called the scapus ; it is connected by means of a ball - and - socket - joint with the torulus , the part of the head on which the antenna moves ; the second joint is the pedicella , generally small and spheri - cal so as to allow of free motion , and the remainder is the clavula .",
+        "words": [
+          "smell",
+          "Insecta",
+          "Myriapoda"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/4efb47e3-f1b7-599f-9ef3-82da094a8e03",
+        "value": "CA / j .co / jiov ) An odoriferous plant not well characterised in the writings of the aneients .Avieenna , in deseribing the Hamama of the Arabs , which corresponds to the ' A / jLui / nov of the Greeks , gives details whieh have enabled Sprengel ' to identify it with the Cissus vitiginea of Armenia .",
+        "words": [
+          "odoriferous",
+          "plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5024d6cd-75ca-562d-9f27-56415c11168b",
+        "value": "C .It is small , acrid , and aromatic , and now rarely employed ; it is one of the \" quatre sememes chaudes .\" Guibourt affirms that it has been attributed to the Ptyehotis verticillata , the P .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/52eeee01-129c-55e0-82a5-464842ad94ff",
+        "value": "Liliacece .Bulbous fetid plants ; flowers umbellate , enclosed within a spathe ; sepals and petals spreading ; the stamens inserted into their base ; fruit a capsule ; seeds angular .A .",
+        "words": [
+          "fetid",
+          "plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/533fbf6f-082e-5660-acfb-95f9ef59fe42",
+        "value": "myrep ' sica .( Mupti / ziKo ? , aromatic .) The Ben nut , Moringa pterygosperma .",
+        "words": [
+          "aromatic",
+          "ziKo",
+          "Mupti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/537d50a1-9761-561f-ae40-a944507d6f87",
+        "value": "maritimus , pertaining to the sea .) Aplantof Southern Europe , possess - ing a pleasant odour and bitter taste .It is re - garded as tonic , stomachic , and antispasmodic .",
+        "words": [
+          "odour",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/53b9e470-b5d4-539d-bf3b-60f46c648980",
+        "value": "The single variety consists of both yellow tubular and white strap - shaped florets ; the double , of white strap - shaped florets only ; all arising from a conical scaly receptacle .They have a fragrant odour and a warmish , bitter aromatic taste .They contain a terpene , a camphorou ' S ethereal oil , a bitter principle , anthemin , and a small quantity of a doubtful acid ? anthemic , similar to valeri - anic acid .",
+        "words": [
+          "fragrant",
+          "odour",
+          "They"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/54db04ad-596c-56ce-96b3-13350f8130c6",
+        "value": "stem of the Humirium floribunclum .It is a fragrant , pale yellow , oily liquid , and is said to combine the properties of the balsams of copaiba and tolu .B .",
+        "words": [
+          "fragrant",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/55235fbf-ae55-51a1-81e4-21d0eb4e2bb6",
+        "value": "Antibro mic .( ' Avtl ; ppwpos , a stench .) Deodorant .",
+        "words": [
+          "stench",
+          "ppwpos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/55c7abca-5ef0-5670-8ca7-f9350ed2f610",
+        "value": "Valerianic acid four fluid ounces , ammonium chloride and lime , of each a sufficiency ; the two latter being mixed , gaseous ammonia is evolved , and after passing over lime is directed into the valerianic acid to neutralisa - tion , when , on being set aside , crystals of am - monium valerianate form .They are snow - white , pearl } ' , four - sided and tabular , of valerianic odour , and sharp , sweetish taste .Very soluble in water and alcohol .",
+        "words": [
+          "odour",
+          "They",
+          "valerianic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/575fe5aa-2bbb-519b-92ca-e0dbc8b64931",
+        "value": "( 32Â ° F .) It smells of heated butter .It is soluble in alcohol .",
+        "words": [
+          "butter",
+          "smells",
+          "It",
+          "of",
+          "of heated",
+          "heated butter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/595f4cf0-c7e8-5320-a6b0-8404df5ad957",
+        "value": "Coromandel , Bombay , Chittakong , Bengal , Silhet , & c .The flowers are fragrant and beautiful ; a decoction of the leaves is taken internally and dropped into the eyes in ophthalmia and in nebulous cornea ; the bark dried and pounded is applied to foul ulcers ; the oil extracted by heat from the seeds , and ap - plied to the white spots of leprosy , is said to effect a cure ; the leaves are also used in beri - beri .A .",
+        "words": [
+          "fragrant",
+          "The flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5c37be9e-d3be-56e1-a74a-7e9a4842daad",
+        "value": "America .An aromatic , pleasant smelling plant , having diuretic properties .Brachy rrhi na .",
+        "words": [
+          "smelling",
+          "aromatic",
+          "pleasant",
+          "plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5cd1f428-d614-50ea-a7a1-e5f0a4a78ed3",
+        "value": "Eier - schwamm , Tfifferling , Gelbmdnnel .) Edible chanterelle * Stem solid , ringless , thickening as it rises ; pileus fleshy , ' smooth ; gills thick , dis - tant ; colour yellow ; odour pleasant , as of apri - cots or iris root .Found in woods .",
+        "words": [
+          "iris",
+          "odour",
+          "pleasant",
+          "apri",
+          "apri - cots",
+          "of apri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5dc0a55e-987e-53db-9da1-39aac3c4494c",
+        "value": "It , may be known by its smell ; on mixing it with two parts of potassium acetate and one of sulphuric acid , the jargonelle pear - like odour of aniyl acetate is smelt ; and on adding potas - sium bichromate and sulphuric acid , the green chromium oxide is formed .Its vapour produces great irritation of the throat , respiratory organs , and eyes , and giddiness .It is much more in - toxicating than ordinary alcohol , and is said to produce nervous symptoms , especially tremors , at a much earlier peri ' d .",
+        "words": [
+          "vapour",
+          "produces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5e781cf2-44b8-5a11-a5ec-b3292f8cde5c",
+        "value": "ail , garlic .) Term applied to several plants , parts of which exhale an alliaceous odour , as the Cerdana alliodora and Betiveria alliacea , and some species of Cassia .A .",
+        "words": [
+          "odour",
+          "alliaceous",
+          "several plants",
+          "the Cerdana alliodora",
+          "some species of Cassia",
+          "Betiveria alliacea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5f28f896-b38b-57d3-98dc-2d70e369b06d",
+        "value": "The fruit consists of two halves â  ¢ 125 \" to ' 16 \" long , curved , tapering at each end , brown , having a rounded stylopod above , five pale fine ridges , and four dark brown tubes con - taining oil tubes .Caraway seed has an agree - able aromatic odour and a spicy taste .Formerly used as a diuretic , now as a carminative .",
+        "words": [
+          "odour",
+          "able aromatic",
+          "Caraway seed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5f68b983-7192-5dc1-aff7-6011e5ac2f9a",
+        "value": "Meliacece .The flowers of this plant are sometimes used to give a perfume to certain varieties of tea .Aglaopho ' tiS .",
+        "words": [
+          "perfume",
+          "The flowers of this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/5fe99e6e-89b8-59a1-9cbe-0c061dec7648",
+        "value": "Composites .Several species are aromatic and sialogcgue .Alc ' te .",
+        "words": [
+          "aromatic",
+          "Several species",
+          "sialogcgue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/606d2cdc-0608-5b14-94a4-65830d0a5ea4",
+        "value": "Berries edible .\" Wood of old trees used as an aromatic .C .",
+        "words": [
+          "aromatic",
+          "Wood of old trees"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/606d6f0e-f3c5-53c1-be4f-f89fb81388fd",
+        "value": ") A solid , slightly bitter , brownish , resinous alkaline , but not acrid , substance , extracted from the flowers of Arnica montana .It has the odour of castor , and is slightly soluble in water , but much more so in alcohol and ether .Its formula is said to be C35HS407 .",
+        "words": [
+          "odour",
+          "It",
+          "of castor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/607684d4-4d4a-56eb-a740-9a0280f789fa",
+        "value": "( 147 - 2Â ° F .) , and tastes and smells as peppermint .Alan ' tin .",
+        "words": [
+          "smells",
+          "as peppermint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/60c9eb74-f338-516e-af9b-efe2bd1533d7",
+        "value": "wine .See Wine , aromatic .Aromat ica nux .",
+        "words": [
+          "Wine",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/610d6499-3a1c-529d-8d5a-5aaab5473fe8",
+        "value": "ocarbons homologous with benzine that the fatty acids bear to the paraffins .They are produced by oxidation of the corre - sponding alcohols and aldehydes ; by the action of water on the corresponding acid chlorides ; by the action of acids or alkalies at boiling point on the aromatic nitrils ; by the action of sodium and carbon dioxide on the monobrominated deriva - tives of benzine and its homologues ; by oxidation of the hydrocarbons homologous with benzine by dilute nitric acid ; and by fusing the sulpho - aeids of the aromatic hydrocarbons with potssaium formate .They occur free or combined in many resins and balsams , and in the ariimal body .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/617ad443-9179-5a2e-b92c-6eeb8d36dc51",
+        "value": "( 98 - 6Â ° F .) , and smelling like chicken broth .Contain sodium chloride and carbonate , calcium and sodium sul - phate , and carbonic acid gas .",
+        "words": [
+          "smelling",
+          "like chicken broth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/63b10942-c10a-59b6-8b93-46a44a93ff9c",
+        "value": "C21IIi4013 , or C27H32016 .A delicate white powder , crystallising in silky needles , with - out taste or smell , obtained from Apium graveolens and Carumpetroselinum .It fuses at 180Â ° C .",
+        "words": [
+          "smell",
+          "Apium graveolens",
+          "Carumpetroselinum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/646704a6-fb28-52fd-b58a-a98b9588eaf9",
+        "value": "In a few days crystals of alum are deposited , when the liquid is tit for use .It has a pleasant odour , and an astringent balsamic taste .Diluted with 4â   10 parts of water it has been used as an injection in leucorrhoea .",
+        "words": [
+          "odour",
+          "It",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/648c01a4-dffe-5669-a6bd-d2d3c874a027",
+        "value": "Rossalo ' e .) Caballine , horse , or fetid aloes An inferior variety derived from the dregs of more valuable kinds , and at one time used in veterinary medicine on account of its cheapness .It is black , opaque , dull in fracture , and very nauseous .",
+        "words": [
+          "horse",
+          "fetid",
+          "aloes",
+          "Caballine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/649eccec-4b1e-5755-b220-b0328ff36ea4",
+        "value": "It is obtained by draining off the honey from the comb , which is then expressed , melted in water , allowed to subside , and then run into moulds .It is a yellowish solid , with a slight lustre , a peculiar aromatic odour , and a granular fracture .Its sp .",
+        "words": [
+          "odour",
+          "peculiar aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6540d760-fb04-5160-b57d-361cc2598df6",
+        "value": "It consists of twisted , longitudinally wrinkled pieces , varying in size from that of a quill to that of the little finger ; the cortical part is bitter , acrid , and astringent in taste ; the inner ligneous part tasteless .It contains cahincic acid , a green , bad - smelling , fatty matter , a yellow colouring matter , a coloured viscid matter , and cafietannic acid in the bark .It is tonic , diuretic , purgative , and emetic , sometimes producing nausea and griping .",
+        "words": [
+          "smelling",
+          "bad -",
+          "fatty matter",
+          "cahincic acid",
+          "cafietannic acid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6626aeec-2917-5cd6-b6d9-e133abaa2228",
+        "value": "mnbella , a sun - shade , an umbel ; fero , to bear .) The systematic name of a species affording an aromatic gum resin , which exudes from the bark .Aralia ' cese .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/66594778-fdce-5b7f-85ab-68b1e585a74d",
+        "value": "The petroleum naphtha takes up strychnine , brucine , quinine , emetine , veratrine , conine , ni - cotine , and papaverine .( Â « ) Of these , conine and nicotine are fluids , and have characteristic odours .They may be brought into solution in distilled water , and nico - tine is precipitated in minute crystals by potash - cadmium - iodide from the diluted solution after neutralising with sulphuric acid , while conine is precipitated in amorphous form .",
+        "words": [
+          "odours",
+          "characteristic",
+          "nicotine",
+          "conine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6782e87b-9d10-5ff1-9b34-d000af8f30d5",
+        "value": ") Aniseed ; the fruit of Pimpinella anisum .Fruit greenish grey , somewhat hairy , broadly ovate , didymous , the two carpels being nearly separated , crowned with the conical stylopodium and the short styles ; each carpel has five low ridges with broad , shallow , intervening hollows ; on transverse section 25 to 80 vittce are seen ; albumen grey , oily ; odour aromatic ; taste sweetish and aromatic .The fruit yields 3 per cent , of fixed oil , which exists in the albumen , and an equal quantity of colour - less volatile oil .",
+        "words": [
+          "odour",
+          "aromatic",
+          "oily",
+          "albumen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/69c6a189-9a84-5bc7-b83f-bdf36e82ec5d",
+        "value": "In Arabia a preparation is called Ha - schish ; in Western Africa , Diamba and Dakka ; and under other names it is largely used as an intoxicant or narcotic in other parts of the tropics .Cannabis indica has a bitter taste and a peculiar odour ; it contains a bitter substance , chlorophyll , a green resinous extractive , canna - bin , a volatile oil , cannabene , gum , albumen , lignin , and salts .Indian hemp , when given in full doses , produces great exhilaration , intoxica - tion , and stupor .",
+        "words": [
+          "odour",
+          "peculiar",
+          "gum",
+          "salts",
+          "- bin",
+          "albumen",
+          "chlorophyll",
+          "cannabene",
+          "lignin",
+          "Cannabis indica"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/69d9d78e-1b1e-5a36-bfb0-58f9b8d2e65d",
+        "value": ") Silver and ammonium chloride .A crystalline powder , smelling of ammonia , obtained by dissolving silver chloride in boiling liquor ammoniaj .Dose , same as silver nitrate .",
+        "words": [
+          "smelling",
+          "of",
+          "of ammonia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6a196d8f-d5e2-50f0-915c-22506f8b9075",
+        "value": "of Senner ' tus , cor ' dial .The essential oils of citron , cloves , and cinnamon , musk , and ambergris .Used as a stimulant .",
+        "words": [
+          "cinnamon",
+          "essential",
+          "musk",
+          "ambergris",
+          "cloves",
+          "oils of citron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6a234c51-8e3d-5384-80de-44426d53099e",
+        "value": "Dose , one twentieth of a grain to one eighth , in solution or pill , im - mediately after a meal .The tests for arsenious acid are the garlic odour it emits when volatilised ; the octahedral form of its crystals and their volatility ; the appearance of a dark volatilisable metallic ring , when it is heated with a reducing substance ( charcoal and sodium carbonate ) ; the occurrence of a yellow film when a little ammonium sulphide is added to the suspected powder and evaporated to dryness .See Hume ' s , Marsh ' s , Reinsch ' s , and Scheele ' s tests .",
+        "words": [
+          "garlic",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6ba63b16-5d85-5f9c-b5f8-cf4913995f1c",
+        "value": "Pileus fleshy , subumbonate , unequal , at first silky , then smooth and even ; laminae distant , sulphur coloured ; stem firm and sulphur coloured .The plant has a disagreeable , pene - trating smell , like gas - tar .Poisonous .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "The plant",
+          "pene - trating",
+          "like gas - tar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6bc9e266-da21-5deb-80e4-eba9a63d80b4",
+        "value": "foe ' tida Pragen ' sis .Prague fetid water .A synonym of the A .",
+        "words": [
+          "Prague",
+          "water",
+          "fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6dc5da7f-612f-565b-88d9-7662dce541fc",
+        "value": "The leaves supply food to the Bombyx cynthia , or Chinese silkworm .The analyses of Payen and Hetel show that the plant contains lignine , chlorophyll , yellow colouring matter , pectin , bitter substances , aromatic resin , essential oil , nitrogenised fats , and some salts .The powder of the bark may be given in doses of seven grains ; the powder of the leaves and the watery extract of the bark in doses of four grains ; the oleo resin in doses of three grains ; and the resin in doses of six grains .",
+        "words": [
+          "aromatic",
+          "essential",
+          "nitrogenised fats",
+          "bitter substances",
+          "aromatic resin",
+          "pectin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6e6182fa-2b12-50b3-b61e-2479d0d41922",
+        "value": "They are smooth , greyish green , toothed , marked with pellucid dots at the indentations and apex , having a powerful odour and a warm cam - phoraceous taste .Buchu leaves contain a volatile oil , smelling like peppermint , which throws down at a low temperature barosma camphor ; a body similar to rutin has also been observed .Diui - etic stimulant , and stomachic stimulant .",
+        "words": [
+          "oil",
+          "smelling",
+          "like peppermint",
+          "Buchu leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/6ec46aa6-5b9c-51ba-b820-daa2a898bf65",
+        "value": "Baryacoc ' calon .( Bapus , heavy , strong in smell ; kokkoKoi , the kernel of the fir - cone .) The Datura stramonium , from its narcotic pro - perties .",
+        "words": [
+          "strong",
+          "smell",
+          "the kernel of the fir - cone",
+          "kokkoKoi",
+          "Bapus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/72e5298b-6c4e-5625-929b-15b265c4d0cb",
+        "value": "1 ' 2 , it assumes for a short time a fine green colour .The drug has a powerful and persistent alliaceous odour , and a bitter , acrid , alliaceous taste .It dissolves readily in vinegar , weak alcohol , and yolk of egg .",
+        "words": [
+          "odour",
+          "powerful",
+          "The drug",
+          "persistent alliaceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/72ea73d1-c599-547f-aef2-dbf1456a3ab3",
+        "value": "The commissural side has two vittae .The fruits exhale a strong odour of thyme , and have a biting aromatic taste .They yield 5 â   6 per cent , of an agreeably aromatic volatile oil , and in addition there collects on the surface of the distilled water a crystalline sub - stance or stearoptene , named by the natives Ajwain - ka - pliul , or flowers of Ajwain .",
+        "words": [
+          "strong",
+          "odour",
+          "of thyme",
+          "The fruits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7344ed3e-1ce8-54c3-8ada-11cd79e684e2",
+        "value": "It occurs as a glyceride in the butter of cows ' milk , and in cocoa - nut oil , also in fusel oil , and in the feces of meat - eaters .It has a faint unpleasant odour .It solidities at 12Â ° C .",
+        "words": [
+          "odour",
+          "It",
+          "faint unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/734e3920-eda5-565e-8ad4-b1e0f51a8786",
+        "value": "rubeseens .It is dark reddish or yellowish brown , when powdered golden yellow , breaks with an irregular or a smooth and resinous fracture , having trans - lucent edges , is more aromatic in smell than the other vax - ieties , and contains an abundance of crystals when dissolved in spirit .It is supposed to be gentler in action .",
+        "words": [
+          "smell",
+          "It",
+          "more aromatic",
+          "ieties",
+          "vax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/73c1c086-0e92-5465-9b23-99f61dfcbaa2",
+        "value": "' ) A sub - stance believed to be produced from Biymenma coarbaril , a leguminous tree of South America .It is in small irregular pieces of a pale lemon - yellow or reddish colour , more or less transparent , covered with a whitish powder , brittle , with shin - ing fracture , a feeble but agreeable odour , and a mild resinous taste .It consists of two resins , one soluble , the other insoluble , in cold alcohol , and a little volatile oil .",
+        "words": [
+          "agreeable",
+          "odour",
+          "feeble"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/76051fab-7ea9-50f2-b4be-1cb6c97e28e6",
+        "value": "Rutacea .The leaves of several species of this genus , as well as of the genus Barosma , are collected by the Hottentots , who value them on account of their odour ; and under the name of bookoo , or Buchu , rub them in the state of powder into their greased bodies .AGATHOTESâ   AGE .",
+        "words": [
+          "them",
+          "odour",
+          "their",
+          "The",
+          "the Hottentots",
+          "bookoo",
+          "Barosma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/777ffcab-9cc3-5158-9358-55e139ca10bf",
+        "value": ") An almost unique urinary calculus .It is soft and elastic when recent , hard when dry ; it burns without melting , and when hot gives off a smell as of benzoin ; it softens and swells up in water , but does not dissolve ; it is sparingly soluble in alcohol , easily in ether .Cm , u ' terine .",
+        "words": [
+          "smell",
+          "it",
+          "as of benzoin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7785ecad-c88f-5374-80fb-c86da82466a5",
+        "value": "Order Terebinthinacem .The fruit of all the species used contain a resin - ous , aromatic juice , from which is prepared the much esteemed mission balsam , of which the Jesuits send annually a present to the Spanish court .The balsam is an inspissated vinous extract .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7985b85c-47c2-5b97-81fc-702334834a49",
+        "value": "Imported from Su - matra , Java , and Siam .It consists of brownish masses , with or without white tears , of fragrant odour , and somewhat acrid taste .It contains benzoic acid , benzoin , and resin .",
+        "words": [
+          "fragrant",
+          "odour",
+          "brownish masses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7a7af085-f7c3-587b-add4-e099e736f24a",
+        "value": "Pappus 0 ; florets few , all tubular , of the disc Â £ , of the ray in one row ; bracts forming a roundish , imbri - cated head ; receptacle naked or hairy ; achsenia obovate , with a small epigynous disc .The plants of this genus are for the most part warm aromatic bitters , and have a tonic and sialogogue action ; anthelmintic and emmena - gogue properties are also ascribed to them .From the A .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7ac3bc93-b046-5156-baa2-e986cbd4f3d0",
+        "value": ") Wormwood .Leaves hoary , 2 â   3 pinnatifid , with lanceolate obtuse segments ; receptacle hairy ; flowers yellow , of aromatic smell and bitter taste .It supplies , on distillation , a green volatile oil , the base of the liqueur absinthe .",
+        "words": [
+          "smell",
+          "aromatic",
+          "flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7b11e55d-606f-5ae7-8dcf-f4e2a60738b9",
+        "value": "( 131 - 7Â ° F .) the density of its vapour , referred to air , is 2 - 022 .It is very inflammable , and bums with a bright flame ; it is miscible in all pro - portions with water , alcohol , and ether .",
+        "words": [
+          "vapour",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7bb2ed62-a8f9-58a2-9d45-0c71ba798484",
+        "value": "y of resinous concre - tion .It is used as an analeptic and as a stimulant perfume , when burnt , in verligo and paralysis .It is also called Agila wood .",
+        "words": [
+          "perfume",
+          "It",
+          "stimulant",
+          "in verligo and paralysis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7c8238f6-f1b2-5aa4-afbb-036d79ed36ba",
+        "value": "The vapour ' s are condensed in the form of crude flowers of arsenic , and are purified by further sublimation .It is a white crystalline powder , or , when condensed in an iron vessel , a vitreous block ; it has no smell , a sweetish metallic taste ; of sp .gr .",
+        "words": [
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7d2343b6-c996-520b-a915-9e93278d198f",
+        "value": "( Same etymon .) Medicines of a resinous and fragrant nature .Balsam ' ico - ama ' rus .",
+        "words": [
+          "fragrant",
+          "resinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7e204c59-79d2-5179-a9fb-ff2857314afe",
+        "value": "alls and increased pressure from within , by reason of the cough ; atelectasis and lobular pneumonia are believed to be causative agents .The diagnosis is often difficult ; the symptoms are those of phthisis , with copious muco - purulent expectoration , often bloody , and not unusually fetid .Bronchii ' tis .",
+        "words": [
+          "fetid",
+          "unusually fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7e700a66-2e47-5f96-a53b-30ead36e8083",
+        "value": "( KaiaoSia , a bad smell .) Having a bad smell .CACODONTIAâ   CACOTHYMIA , Cacodonti ' & i ( Kaicds ; dSovs , a tooth .",
+        "words": [
+          "smell",
+          "bad"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7e94d677-d0ae-5682-9f80-f233a20adaa4",
+        "value": "( XiXwvtwv , the cycla - men ; or \\ i \\ wvi ) , a tortoise ; slfios , likeness .) The flowers are used in Malabar as a perfume .An infusion is used as a cooling drink in fevers , and the juice is given in mania .",
+        "words": [
+          "perfume",
+          "in",
+          "The flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7e9853ef-17f9-5d57-a273-2b810b594621",
+        "value": "di Bon ' ferme .The Teinture aroma ' tique .A .",
+        "words": [
+          "aroma",
+          "Teinture"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7efba2eb-2f63-5465-8cef-449163c332d0",
+        "value": "amanite bulbcux .) Pileus convex , citron or olive coloured , fleshy , moist ; lamella ? numerous , large , unequal , detached , white ; stem cylindrical , bulbous at the base , where it is surrounded by a ring , stuffed , then hollow ; ring large , very com - plete , regular , moist ; odour nauseous .Poison - ous .",
+        "words": [
+          "odour",
+          "nauseous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7f166e96-937c-5e9f-95d3-bdf71bfdb190",
+        "value": "It is of the size of a small pea , lengthened at each end , of a reddish - brown colour , .and is stimulant and aromatic .Also , an ethereal oil , of yellow colour and clove - like odour , contained in the pods and seeds of Myrtus pimenta .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7f222322-cf59-57d7-98e8-f1ac51a1fb31",
+        "value": "The oblong oval - shaped bean produced by the plant Laurus pichurim , and probably also by the Ocotea puehury .It is heavy , brown - coloured , and has a musk - like smell ; is aromatic and carminative ; famed in South America as an antidote for the poison of all serpents ; called , likewise , the Pichu - rim bean .B .",
+        "words": [
+          "smell",
+          "aromatic",
+          "It",
+          "musk - like",
+          "carminative",
+          "the Pichu - rim bean"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/7fd85fc1-dd09-57da-8e20-8c06a1e05eb3",
+        "value": "stagnot ' ica di Monteros ' si .A water distilled from various aromatic and astrin - gent plants with pitch and the white agaric .It is an haemostatic , and is both used externally and taken internally .",
+        "words": [
+          "aromatic",
+          "plants",
+          "pitch",
+          "the white agaric",
+          "astrin -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/80d34084-f3ac-5693-a6d6-bdd65f79c237",
+        "value": "It varies in colour from light fawn to reddish brown , or it may be whitish from deposit of urate of ammonia or phosphate of lime ; it is generally ovoid and smooth , sometimes slightly mammillated , regularly laminated , hard , and of conchoidal fracture .It blackens when heated , gives off a disagreeable smell , and consumes en - tirely , with the exception of a slight amount of ash of phosphate or carbonate of soda .When a little of the calculus , in powder , is placed in a watch - glass with a little strong nitric acid , it dissolves with effervescence , carbonic acid and nitrogen being given off , and alloxan , alloxantin , and other derivatives , being formed ; when this is evaporated to dryness , and the cold residue treated with ammonia , a purple colour is produced from the formation of murexid .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "It",
+          "carbonate of",
+          "of ash of phosphate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/81b4780b-b8c9-59be-9263-a55e02268d20",
+        "value": "F .bromidrose , sue ur fetid e ; G .stinkender Schiveiss .",
+        "words": [
+          "fetid",
+          ".",
+          "e",
+          "bromidrose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8364c4be-38e0-555b-bf7a-f4368584d681",
+        "value": ") Ale ' cost .{ Ale ; koittos , an unknown aromatic herb .) The Balsamita suaveolens , so called because it was used for flavouring ale .",
+        "words": [
+          "aromatic",
+          "koittos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/84b2d5a1-f6ac-52d7-a933-8806e9a25472",
+        "value": "Acetone is best prepared by the dry distillation of acetates ; it is also obtained by passing the vapour of acetic acid through a red - hot tube .It is a colourless , limpid liquid of peculiar odour ; density , 0 - 792 ; and boils at 5S - 50Â ° C .( 131 - 7Â ° F .",
+        "words": [
+          "odour",
+          "peculiar",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/86dc7ecc-9cea-5c4c-b886-ea23aa376c9e",
+        "value": "It is soluble in hot water , but is precipitated on cooling .It is without smell or taste , and is by some regarded as an alkaloid .Apyrom ele .",
+        "words": [
+          "smell",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/87c580d9-0914-5afc-8f67-b62aaf7418bb",
+        "value": "A ., stinking .The Ptelea trifoliata .",
+        "words": "stinking"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/88024088-7cbf-52ee-b5aa-61b5d0671806",
+        "value": "\" Western Africa .Seeds highly aromatic .Used locally in neuralgia .",
+        "words": [
+          "aromatic",
+          "highly aromatic",
+          "Seeds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8a50077f-0536-5e2e-8d5b-2932ddc9bb47",
+        "value": "' Canopite .Term used by Cclsus , vi , 6 , Â § 25 , for a collyrium made of cadmia , oxide of copper , aromatics , & c .Cano ' pum .",
+        "words": [
+          "aromatics",
+          "a collyrium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8a631c39-c5ea-5364-bc61-688d0c18c3cb",
+        "value": "pubcsco , to be covered .) A species yielding a fragrant gum - resin , and whose inner bark peels off in thin white layers , which are used as paper .It is said to be one of the sources of Gugul , Indian bdellium .",
+        "words": [
+          "fragrant",
+          "gum -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8cc25721-dcb1-58f4-ba53-a081a819ea6f",
+        "value": "Car ' icin .An oily substance of peculiar unpleasant smell and taste , contained in the set - ds of Carica papaya .Caricm ' eae .",
+        "words": [
+          "smell",
+          "peculiar unpleasant",
+          "oily substance",
+          "Carica papaya"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8cc6c6c7-796f-548d-876e-cae05bdf7254",
+        "value": "Good beef should be firm but elastic , of a lively ^ red colour , without lividity ; the fat should be firm , of a pale yellowish white colour .The odour should not be unpleasant .If beef possesses the following characteristics it is unfit for food : â   Very pale or purple colour ; wet , sodden , and flabby to the touch ; fat looking like jelly or wet parchment ; a sickly or cada - verous smell , or one of drugs ; the presence of parasites .",
+        "words": [
+          "odour",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8d8f2aa3-cb84-5844-a2e3-4a8dc01d5fde",
+        "value": "oil .A fetid , blackish - brown , thick oil , obtained during the dry distillation of bone ; from it is prepared the Oleum animate athe - reum .33 .",
+        "words": "fetid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8dbb021a-6588-5c01-bb88-0d1bbc4d6269",
+        "value": ") Garden angelica , is the only species used in medicine .It is a large , strongly aromatic plant , with smooth - furrowed stem , with bipinnate leaves .General involucre wanting ; umbel large , many - rayed , spreading ; umbellule dense , subnemispheric ; involucel 8 - leaved ; calyx o - toothed ; fruit compressed from the back ; ridges 5 , winged , the lateral short of the edge and broader than the dorsal ; vitta ? nu - merous , covering the plano - convexalbumen , which is loose .",
+        "words": [
+          "aromatic",
+          "strongly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8edf2195-2b77-5097-80e6-237d3b452271",
+        "value": "Kallar vauehi .) An herbaceous Indian plant with a strong muriatic odour .Stem erect , branched ; leaves sessile , opposite , lanceo - late , tapering to the base ; flowers small , almost sessile , in close whorls , red .",
+        "words": [
+          "odour",
+          "strong muriatic",
+          "An herbaceous Indian plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/8fb811b0-58cf-5e24-9236-83f365b5f2c3",
+        "value": "biochimique .) Applied by Harless to the action which odorous bodies exercise upon animal organic matter , and upon the nervous power , in order to produce the sensation of odours .BiOChym ' ia .",
+        "words": [
+          "odorous",
+          "odours",
+          "bodies",
+          "animal organic matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/90997997-2db8-5349-9e0e-3479022b3969",
+        "value": "einereus , ashen - grey colour .) A synonym of Bulb , olfactory .B .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/9147ec33-cfc2-546d-b040-22f91a1e3c04",
+        "value": "Pileus fleshy , at first convex , then expanded , dry , pruinose ; stem solid , ventricose , striated ; lamellae strongly decurrent , white , then flesh - coloured , running far down the ringless stem .The flesh with a fresh smell of meal .In woods , from June to Octobe : .",
+        "words": [
+          "fresh",
+          "smell",
+          "The flesh",
+          "of meal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/91500cb0-8c3d-5f35-866b-77c6fda7093e",
+        "value": "The dried root is in con - torted pieces , the thickness of a straw , wrinkled , brownish without , whitish within , aromatic and bitterish in taste ; it contains a volatile oil or camphor , Asarin , and a bitter resin .Warm aromatic stimulant and diaphoretic .It has been used in dropsy .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/929daa84-842e-5db3-913e-7c187f091557",
+        "value": "Ambje ' g ' ua .An odorous vegetable oil , obtained by the Brazilians from a tree that is believed to be the Ambaitinga , a Species of Ce - cropia .Amble .",
+        "words": [
+          "the",
+          "vegetable oil",
+          "odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/93e7b534-0853-5a91-b3cd-ff3de03df564",
+        "value": ") A generic name for certain mineral inflammable substances which have different names .Bitumens are solid , semi - solid , or liquid ; very combustible , have when heated a peculiar smell , and are bitter to the taste and stimulating .Bitumens are of several kinds : â   Naphtha , liquid and transparent ; Pe - troleum , more oily ; Maltha , or Mineral tar , blackish and of the consistence of honey ; Piss - asphalte , bl & ck and soft ; Asphalte , black and solid .",
+        "words": [
+          "smell",
+          "peculiar",
+          "Bitumens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/93f5d2b6-75bd-5079-be4f-aa2b9d2bf3e5",
+        "value": "ubelriechend .) Having a bad smell .Offensive matter discharged by the bowels , the stomach , or by foul ulcers .",
+        "words": [
+          "smell",
+          "bad"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/96479635-6fd5-59f2-a8c3-8e5bd0f401cc",
+        "value": ") The root of Arnica montana .It is a woody , brownish , cylindrical , contorted rhizome , 1 â   3 inches long , rough with the scars of the leaves , ending abruptly and send - ing out many fibres ; it has a peppery taste and a peculiar odour .It contains gallic acid , gum , albumen , yellow colouring matter , and a bitter principle â   Arnicin , which see ; also , Arnica montana .",
+        "words": [
+          "odour",
+          "peculiar",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/96e06f16-9443-596e-a7fd-81fef62dbcb9",
+        "value": "It may result from improper diet and the abuse of alcohol ; from obstinate constipation , leading to pecu - liar forms of decomposition in the retained ftecal matters ; from changes occurring in cer - tain febrile diseases as variola , scarlet fever , and typhoid fever ; from diabetes and organic dis - eases of the stomach , such as cancer ; from inanition .Post - mortem examinations have re - vealed no constant changes of importance , but the blood , muscles , and viscera exhale a strong odour of acetone , and the presence of this peculiar fluid has been demonstrated in the blood after death .Its source and mode of formation during life are un - known , some attributing it to the abnormal gastric digestion of starch , the acetone formed being ab - sorbed , while others think that it is generated in the blood .",
+        "words": [
+          "strong",
+          "odour",
+          "the blood",
+          "of acetone"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/97a262e3-7ee4-5464-b7bc-f66a9480b322",
+        "value": "wollige Ballotte , Wolfshappkvaut .) An aromatic plant growing in Siberia .It contains tannin and an aromatic resinoid matter , piero - ballotin .",
+        "words": [
+          "aromatic",
+          "plant",
+          "in Siberia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/97c76d69-34c1-56c8-b459-146b26cc27df",
+        "value": "Orange peel contains gum , albumen , some fixed oil , resin , a volatile oil , a principle like tannin , and , in the white part , hesperidin .It is an aromatic , sto - machic , and carminative .A .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/97f0ef4a-9ba4-50ba-b8ac-4618c1448d3c",
+        "value": ") C8H1002 , or C ^ S ^ Os .A white , crystallisable , solid , volatile , aromatic , camphor - like substance , obtained from the Asarum euro - pceum .It is soluble in alcohol , ether , and volatile oils ; softens to a waxy consistence at 26 - 6Â ° C .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/98ace891-024d-56e7-8ee4-70b59f848498",
+        "value": "Pileus fleshy , convex , then expanded ; the top is a little downy , pinkish huff ; stem solid , whitish ; lamellae adnexed , nearly free , rose - coloured .It smells like fresh meal , and grows in woods ; autumnal .Poisonous .",
+        "words": [
+          "smells",
+          "It",
+          "like fresh meal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/99c78257-b00c-504e-b065-a8b846227e48",
+        "value": "Letheby , nitrogenous matter 8 - l , carbohydrates 51 \" , fatty matter 1 - 6 , mineral substances 2 - 3 , and water 37 \" per cent .Good bread is uniformly porous and of agreeable smell ; not sodden , heavy , or acid .B .",
+        "words": [
+          "agreeable",
+          "smell",
+          "Good bread"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/9aba9b51-0c7a-5d9d-88fc-10bdef624b59",
+        "value": "As a masticatory , areca nut has been used from time immemorial in India .It is chewed with a little lime and a leaf of the betel pepper , generally when the nut is in a young state , but also when rendered tender by boiling , and sometimes combined with aroma - tics , as camphor or cardamom , and is considered to strengthen the gums , sweeten the breath , and improve the tone of the digestive organs .The dry expanded petioles serve as ready - made spliuts .",
+        "words": [
+          "camphor",
+          "It",
+          "sometimes",
+          "aroma",
+          "cardamom",
+          "tics",
+          "improve the tone of the digestive organs",
+          "sweeten the breath"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/9ec9b6e9-ba67-5c12-9941-dc789cd1e903",
+        "value": ", distilled water 2 pints ; mix the oil with the magnesia and then with the water , and distil 8 pints .An aromatic vehicle .A .",
+        "words": [
+          "aromatic",
+          "vehicle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/9eed300b-1201-5df3-88c3-baeff764cd46",
+        "value": "( ' Ap - ru / uct , a condiment .) A preserve or conserve , a condiment , an aroma .A ' ru aril .",
+        "words": [
+          "aroma",
+          "condiment"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a00e420a-43f8-5cf4-ae94-45ceb4278e8b",
+        "value": "lign - aloe .A Mexican tree , from the wood of which a perfume is distilled , A .niouf tout .",
+        "words": [
+          "perfume",
+          "Mexican"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a0b6de4b-a67e-5703-8a7b-3c1cbe86387b",
+        "value": "Ant achates .Name for Succinum , or a bituminous stone of another colour , which , when burned , gives the odour of myrrh .Antacid .",
+        "words": [
+          "odour",
+          "of myrrh .",
+          "a bituminous stone of",
+          "Succinum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a1597383-c5ae-5330-841a-fad2a5ad3e94",
+        "value": "United States .A plant having the aromatic properties of mint .Bles sed .",
+        "words": [
+          "aromatic",
+          "plant",
+          "of mint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a24ce99e-69e0-5462-807b-2e236045620c",
+        "value": "Caco ' dia .( KaiaoSia , a bad smell .) Having a bad smell .",
+        "words": [
+          "smell",
+          "bad",
+          "KaiaoSia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a297fe90-7ba3-5d01-a6f3-f88f968c70aa",
+        "value": ") Cloves .The fruit of the Caryophyllus aroma - tieus .Anthophyl lite .",
+        "words": [
+          "aroma",
+          "The fruit of the Caryophyllus",
+          "tieus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a5166b9c-3b55-55cc-a613-8d4d07b1d7bf",
+        "value": "suaveolens , sweet - smelling .) The aromatic leaves of this plant are employed to make an infusion which is considered to be efficacious in cholera .Ar ' taneck ^ A term for arsenious acid .",
+        "words": [
+          "aromatic",
+          "leaves of this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a63d454c-4f53-56c1-9d96-79e8b6090e7f",
+        "value": "It occurs in the form of small brown tears , mixed with leaflets and stalks .It is of a yellow - green colour , nauseous odour , and sweet taste , and is a purgative .Alha ' ma .",
+        "words": [
+          "odour",
+          "nauseous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a8444b55-13ff-5a2e-ab68-fff8775bb7dd",
+        "value": "( KaÂ « ds ; doyj / ; , a smell .) Having a bad smell .CacOSO mium .",
+        "words": [
+          "smell",
+          "bad"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a8ca6075-91e1-5a41-bd05-5b0da40998f1",
+        "value": "( 212Â ° F .) It is in white , hard , colour - less , long , acicular crystals , of a camphorous odour and a bitterish taste .It is insoluble in water , slightly in alcohol , easily soluble in chlo - roform and benzin ; it melts at 76Â ° C .",
+        "words": [
+          "odour",
+          "It",
+          "camphorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/a9588a29-728b-5ca0-91e6-58502075c9e8",
+        "value": "of Myn ' sicht , paralyf ic .A mix - ture of the essential oils of different aromatic plants with oils of turpentine and amber .8 .",
+        "words": [
+          "oils",
+          "aromatic",
+          "essential",
+          "plants",
+          "of different",
+          "oils of turpentine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/aa0fe24d-3ff4-59d0-a517-422b1b0d715f",
+        "value": "Aromat icus cortex .The aromatic bark ; a name for Canella alba .Aromati ' tes .",
+        "words": [
+          "aromatic",
+          "bark",
+          "Canella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/aa6592d7-7362-5267-a310-b0be4d91b3e7",
+        "value": "zwiebelahnlich .) Having the odour of the onion or of garlic , or the form of the onion .Cepse ' a .",
+        "words": [
+          "odour",
+          "of garlic",
+          "of the onion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/aa99a905-194a-573f-a992-be4ab1f23ecb",
+        "value": "They consist of a cup - shaped , five - toothed calyx , five white , or , when dry , brownish , oblong , obtuse , glandular petals ; about 20 stamens , united at the base into three or more bundles ; and a cylindrical style .They are very fragrant , and contain the volatile oil of neroli , gum , bitter extinctive , acetic acid , and salts .They are used to make a distilled water , and are supposed to be a mild nervine tonic .",
+        "words": [
+          "fragrant",
+          "very fragrant",
+          "They"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/aaa89c96-c1fa-5b4d-91dc-bc0932362f9c",
+        "value": "C7H602 .A thin , colour - less fragrant oil , occurring in the flowers of the meadow sweet , Spiraea uhnaria , and other species of the same genus .It is formed by the oxida - tion of salicin and populin .",
+        "words": [
+          "oil",
+          "fragrant",
+          "the meadow sweet",
+          "Spiraea uhnaria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ae0a018a-3a84-5a01-93f9-758dccbac0da",
+        "value": "A species of valerian .Eoot and flowers aromatic , stimulant , tonic , and diuretic .( Wa - ring .",
+        "words": [
+          "aromatic",
+          "flowers",
+          "stimulant",
+          "tonic",
+          "Eoot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/af75d65d-1785-53d1-8d7f-cee2d8b36a08",
+        "value": "It is produced , along with acetic , butyric , and other acids , during the oxi - dation of many albuminous substances , as bran , cheese ; occurs in a free state in sweat and in the fa ? ces of meat - eaters , and as a glyceride in butter of cows ' milk .It is an oily liquid , with a dis - agreeable sweaty odour .It boils at 205Â ° C .",
+        "words": [
+          "odour",
+          "It",
+          "agreeable sweaty"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/afe97b0b-c5b7-5fcf-87b6-a336b54be1ec",
+        "value": "which passes over being rejected .It is colourless , free from empyieu - matie odour , of sp .gr .",
+        "words": [
+          "odour",
+          "It",
+          "of sp",
+          "matie",
+          "empyieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b0dbd779-c97c-5903-aceb-0c87db008cdc",
+        "value": "Thee von Bourbon .) The leaves of this plant are entire , coriaceous , and straight - nerved ; they are highly fragrant , and have been introduced into Paris as a substitute for Chinese tea , under the name of The de Bourbon , or The de Fahane ; they contain Coumarin .Anguici ' dus .",
+        "words": [
+          "fragrant",
+          "highly fragrant",
+          "they"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b17472be-9103-5a97-a6fd-39c5555249a6",
+        "value": "It is very poisonous , death having occurred in an hour , with nausea , vomiting , insensibility , tremors , dilated pupils , and tetanic contraction of masse - ters .It is distinguished from parsley by its stem , which is glaucous , reddish at the base , and slightly spotted with red , while that of parsley is green ; by its leaves , which are tripinnate , with numerous narrow segments , while those of parsley are bipinnate , with large trilobed segments ; by its absent involucre , while parsley possesses one ; by its involucel , which consists of three depen - dent bracteoles , while that of parsley is composed of 8 - â   10 circularly disposed bracteoles ; by its flowers , which are white , while those of parsley are yellowish - green ; and by its odour , which is nauseous , while that of parsley is agreeably aro - matic .SI .",
+        "words": [
+          "odour",
+          "nauseous",
+          "its",
+          "its flowers",
+          "of parsley",
+          "agreeably aro - matic",
+          "those of parsley"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b231d8b3-3e0b-5535-b1ea-863575fc5ee7",
+        "value": "aromafica .A Brazilian plant ; the roots are sweetly aromatic , and are employed as carminative and stomachic .A .",
+        "words": [
+          "aromatic",
+          "sweetly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b3e13a0d-2341-5d44-9abc-03bde4bef21a",
+        "value": "{ Balsamum embryonum .) An infusion of mistletoe , civet , musk , and various other aromatics , in a mixture of wine and several kinds of distilled waters , which is then itself distilled .It was used both externally and in - ternally to prevent abortion , by strengthening the foetus and the womb .",
+        "words": [
+          "musk",
+          "civet",
+          "aromatics",
+          "of mistletoe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b4a845e8-9516-5a73-ab6f-8e1b4f6cd257",
+        "value": "A , JEthiop ' icum .A species of maiden - hair , found at the Cape of Good Hope , and used as an astringent and aromatic , and to relieve cough .A .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b4bb6342-8db0-5e70-8ed3-f53e06adef95",
+        "value": "The salts of anilin appear to be almost inert , though they have been tried in various affections .The tests for anilin , given by \" Woodman and Tidy , are â   that it has a peculiar tarry smell ; that it burns with a smoky flame ; turns purple , and then black , with chloride of lime ; precipitates gold in a metallic form from a solution of the chloride ; produces a rich crimson dye when heated with corrosive sublimate ; forms a beauti - ful violet colour with an aqueous solution of an alkaline hypochlorite .A .",
+        "words": [
+          "smell",
+          "aqueous",
+          "it",
+          "an aqueous",
+          "peculiar tarry",
+          "aqueous solution of an alkaline hypochlorite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b5ea8ff9-57e4-55ac-8c7a-14069ad15e23",
+        "value": "Cac ' Odyl .( KclkuiSiis , ill - smelling ; u \\ jj , matter .) As2 ( CH3 ) 4 .",
+        "words": [
+          "smelling",
+          "ill - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b6a3dfa4-45c2-5c2f-ab2e-59dd09c3e368",
+        "value": ") A fossil resin , occurring in irregular nodules and m isses of various sizes in con - nection with Tertiary lignites ; it is found in the Tertiary clays of Sicily , Saxony , and Liberia , on the north coast of England , and the Prussian shores of the Baltic , having been washed up after storms , and in some lignite beds in North Germany ; it also occurs in the United States .It is brittle , of vitreous fracture , easily cut , permanent in the air , of various shades of yellow , tasteless , inodorous when cold , fragrant when heated , generally translucent , and of sp .gr .",
+        "words": [
+          "fragrant",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b76624b5-8b76-52cc-bfd6-8dce7d46dcf7",
+        "value": "( L .eamphora ; torf , a smell .) A Genus of plants of the Nat .",
+        "words": [
+          "smell",
+          "torf",
+          "eamphora"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b7eed2c9-b58c-5398-831c-4ab41f3ce89e",
+        "value": "olfacto ' rius .See Bulb , olfactory ..",
+        "words": [
+          "olfactory",
+          "Bulb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b87ea4d7-e357-5e00-add2-bf160b6c7574",
+        "value": "( 230 = F .) , is freely soluble in alcohol , slightly in water , and smells like the pine - apple ; it is used to communicate this flavour .B .",
+        "words": [
+          "smells",
+          "like the pine - apple"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/b8ee7a3b-5094-57f9-956f-1526f72e5d01",
+        "value": "COCl2 - Obtained when a mixture of equal volumes of dry chlorine and carbonic acid gas are exposed to sunlight .It is a colourless gas , having a pungent , unpleasant , suffocating smell .It liquefies below 8Â ° C .",
+        "words": [
+          "pungent",
+          "smell",
+          "unpleasant",
+          "It",
+          "suffocating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ba704da3-d3aa-5456-a111-4ee3e66b1429",
+        "value": "gr .1009 , of a mingled camphor - ous and peppery smell ; melts at 198Â ° C .( 388 - 4Â ° F .",
+        "words": [
+          "camphor",
+          "smell",
+          "mingled",
+          "peppery"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ba88f0f7-a1e1-512d-b8b6-05217bd600ae",
+        "value": "Found everywhere in groups at the bases of old trees .Pileus subumbonate , smooth , ochre yellow ; flesh yellow ; the stem is hollow , and the gills are greenish and subdrliquescent ; odour heavy ; taste bitter and repulsive .Poison - ous .",
+        "words": [
+          "odour",
+          "heavy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/bafc479a-5c46-5e22-937f-0d2077062eec",
+        "value": "( KaÂ « ds ; a - Topa , a mouth ; o < r < ppn < Ti $ , a smell .) A bad odour from the mouth .CacOStOHl ' ia .",
+        "words": [
+          "odour",
+          "bad",
+          "from the mouth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/bc816b0e-072e-5d22-915a-742c8259e72d",
+        "value": "betulina are more especially used by the Hot - tentots .They are smooth , greyish green , toothed , marked with pellucid dots at the indentations and apex , having a powerful odour and a warm cam - phoraceous taste .Buchu leaves contain a volatile oil , smelling like peppermint , which throws down at a low temperature barosma camphor ; a body similar to rutin has also been observed .",
+        "words": [
+          "odour",
+          "powerful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/be928909-8458-5484-8104-5da702736d4b",
+        "value": "bois - camboge .) The common name in the Antilles of the Hyrtus Greggii , a species of the Genus Eugenia , the fruits of which are aromatic , stimulant , and stomachic .Acon ' dylous .",
+        "words": [
+          "aromatic",
+          "stimulant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/bf7eb6a7-3b0e-584c-ba9c-e0b4c0f5c4d8",
+        "value": "It occurs in two forms , one of which exercises no influence on the plane of polarised light , and yields on oxida - tion valeric acid ; the other produces a right rota - tion , and \\ ields on oxidation lower carbon acids .It , may be known by its smell ; on mixing it with two parts of potassium acetate and one of sulphuric acid , the jargonelle pear - like odour of aniyl acetate is smelt ; and on adding potas - sium bichromate and sulphuric acid , the green chromium oxide is formed .Its vapour produces great irritation of the throat , respiratory organs , and eyes , and giddiness .",
+        "words": [
+          "pear",
+          "odour",
+          "smell",
+          "smelt",
+          "its",
+          "pear - like",
+          "jargonelle pear",
+          "of aniyl acetate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c12d0bb2-8d45-5dd0-b132-c63aec546197",
+        "value": ") A species growing in Java .Used as an aromatic , febrifuge , and emmenagogue .Aromatic .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c13dfb52-f0e3-5bd0-840c-017b7cc7831d",
+        "value": "The roots , leaves , and seeds are used .The root is long , the size of the thumb , yellowish outside , white within , and with an unpleasant odour .It con - tains inuline , nitrate and carbonate of potash , and a waxy or ' oleaginous greenish substance , soluble in ether , which constitutes the basis of a secret remedy against baldness .",
+        "words": [
+          "odour",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c1992fba-c545-5889-ad14-ae31803a54c1",
+        "value": "Chalky fields ; flowers May â   Sep - tember .It possesses a strong , resinous , aromatic odour , and is described by Linnaeus as tonic , stomachic , and emmenagogue , and as being useful in rheumatism , gout , and fever .The flowering - tops are officinal in the French Codex .",
+        "words": [
+          "strong",
+          "odour",
+          "aromatic",
+          "It",
+          "resinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c1f88675-fbb4-5341-b393-0fbd084ff4f3",
+        "value": "Many investigators have contended that under all circumstances it is given out again from the body without chemical alteration ; but late experiments have invalidated this position , and the truth would seem to be that up to a certain extent , probably to the amount of one and a half to two ounces of alcohol taken properly diluted in the twenty - four hours , it is oxidised in the body ; the discrepancy arising from two chief causes , first , that when alcohol has been observed in the excretions it \" iad been given in larger doses than that mentioned , an amount which all admit cannot be disposed of by oxidation ; and secondly from the fact that in the urine of some persons who have never taken alcohol , and in the brain , liver , and muscles of some animals , a sub - stance has been found in small quantities which gives the reaction of alcohol .It is said that alcohol escapes as such by the breath of drunkards , but it is probable that acetone and other deriva - tives of the accompanying ethers are the cause of the supposed alcoholic odour .It may , then , be taken as certain that a large amount of absorbed alcohol is oxidised in the body , but in what part this process takes place , or into what new forms it is changed , is as yet unknown .",
+        "words": [
+          "odour",
+          "alcoholic",
+          "acetone",
+          "other deriva - tives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c2053500-02a1-58c0-8d78-a0569adeb6c3",
+        "value": "stinkender Schiveiss .) A fetid smell of the cutaneous exhalation .S .",
+        "words": [
+          "fetid",
+          "smell",
+          "of the cutaneous exhalation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c335dd43-23ec-51f5-9bbf-c328a705215f",
+        "value": "and W .Indies for its scent and the beauty of its flowers ; it is the Labach of the Arabians .The wood is the \" boisnoir \" of the Mauritius ; the leaves , in the form of fomentation and baths , are used to relieve rheumatic pains ; the boiled seeds are said to be poisonous ; it yields a kind of gum arabic .",
+        "words": [
+          "scent",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c354ba62-5790-54aa-9727-a179888720c8",
+        "value": "In consequence of their solubility they are often satisfactory therapeutic agents .When treated with strong sulphuric acid they give up acetic acid , which may be recognised by its smell ; heated with lime they yield acetone ; distilled with potasBic hydrate they give o ^ T methane ; cold solutions give with mercurous nitrate , a precipitate of mercurous oxide , and with persalts of iron they form a reddish - brown liquid .Acete ' ne .",
+        "words": [
+          "smell",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c44d8f69-477e-5eed-8d5b-f10033157d25",
+        "value": ") The Pharmacopceial name of the dried beetle , Cantharis vesicatoria .They are of the form and colour of the living insect , with a disagreeable odour and acrid burning taste ; the powder is greyish brown , containing shining green fragments of the elytra and limbs ; it soon decomposes when moist .Cantharides contain a green oil , soluble in water , insoluble in alcohol , and non - vesicant ; a black matter , soluble in water , insoluble in alcohol , and inert ; a yellow , viscid matter , soluble in water and alcohol , and CANTHARIDIC ACIDâ   CANTHOPLASTY .",
+        "words": [
+          "odour",
+          "disagreeable",
+          "They"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c4cd8a37-3b08-5b7f-b394-8110ddd7b8a2",
+        "value": "Acarico ' ba .The Brazilian name of Sydrocotyle umbellatum , used by the Indians as an aromatic , alexipharmic , and emetic .Acar ' ida .",
+        "words": [
+          "aromatic",
+          "Sydrocotyle umbellatum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c5696fc4-ce40-5e87-b37f-96a13003d81f",
+        "value": "( Amanita ) phalloi ' des .Matrix - bearing or stinking mushroom .Pileus first well - shaped , then expanded , obtuse , variously coloured ; margin regular ; stem bulbous below , becoming more slender upwards ; volva with the margin free ; lamellae ventricose ; odour offensive ; very poisonous .",
+        "words": [
+          "mushroom",
+          "stinking",
+          "bearing",
+          "Matrix"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c587041b-f5e8-5227-b0da-e45c484749b4",
+        "value": ") This hydrocarbon is a homologue of ethylene or de - fiant gas and the fifth term of the series CnH2n , and is produced by the dehydration of amylic alcohol by sulphuric acid , phosphoric anhydride , or chloride of zinc ; also by the dry distillaiion of amyl sulphate of calcium .It is a transparent , colourless , very thin liquid , having a faint but disagreeable odour .Sp .",
+        "words": [
+          "odour",
+          "faint",
+          "disagreeable",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c6acc972-ea1b-560a-ae3b-41c206220a92",
+        "value": "Bentley gives the following general characters distinguishing edible from poisonous mushrooms .Edible mushrooms grow solitarily in dry airy places ; are generally white or brownish ; have a compact brittle flesh ; do not change colour , when cut , by the action of the ah ; have a watery juice , an agreeable odour , and their taste is neither bitter , acrid , salt , nor astringent .Poisonous mushrooms , on the contrary , grow in clusters in woods and dark damp places ; are usually of a bright colour ; have a tough , soft , or watery flesh ; acquire a blue , green , or brown tint when cut and exposed to the air ; the juice is often milky ; the odour commonly powerful and dis - agreeable ; and have an acrid , astringent , acid , salt , or bitter taste .",
+        "words": [
+          "agreeable",
+          "odour",
+          "Edible mushrooms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/c8557350-07cd-5f58-b00d-ddae3dbee966",
+        "value": "( Camphora .) The generic name of a series of oxygenated , volatile , odoriferous , aro - matic , crystalline compounds .They are found in conjunction with , and are probably the results of the oxidation of , the terpenes in plants .",
+        "words": [
+          "odoriferous",
+          "aro -",
+          "crystalline compounds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/cbc4b864-d068-5238-8917-a92393c16c95",
+        "value": "Riechkolben , Riechnerven - kolben .) The anterior oval termination of the olfactory tract , consisting chiefly of grey sub - stance , and giving origin to the branches of the olfactory nerve , which pass through the foramina in the cribriform plate of the ethmoid .B .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/cc9ec469-db75-5b4e-a785-ed857d8d8135",
+        "value": ", aromat ic .A decoction of balm , chamomile , lavender , mint , rosemary , thyme , angelica , valerian , and any other aromatic herbs , is added to the simple bath , or to the alum , or salt , or ammonium chloride bath .Used in skin diseases , chronic rheumatism , diarrhoea , sperma - torrhcea , and hysteria .",
+        "words": [
+          "lavender",
+          "mint",
+          "thyme",
+          "chamomile",
+          "rosemary",
+          "valerian",
+          "herbs",
+          "aromatic",
+          "balm",
+          "angelica"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/cdb53d5b-c654-5261-8959-9dc3cb9705ed",
+        "value": "It is found in all parts of the world .It has a peculiar and unpleasant odour .The symptoms of ascarides are that children , in whom they most frequently occur , suffer from want of appetite , from colic , and have a white tongue , foul breath , with alternations of constipa - tion and diarrhoea , tickling of the nose and anus .",
+        "words": [
+          "odour",
+          "peculiar",
+          "unpleasant",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ce2c0c4f-f929-58a8-b9c2-b1d0c06ae7a9",
+        "value": "It is a white powder , soluble in twice its weight of water , from which it cr stallises in thin pearly I six - sided monoclinic plates .It is used externally as an astringent and antiseptic in foul ulcers and fetid discharges ; as a mild caustic in enlarged tonsils , polypi , and cancerous ulcers .A solution of a pound or more in a quart of water is an efficient preservative for some time of dead bodies when injected into the veins .",
+        "words": [
+          "fetid",
+          "foul",
+          "It",
+          "ulcers",
+          "discharges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d0cb8403-e798-5ff0-9d6c-f90e891115b1",
+        "value": "Used as a diuretic in hydrothorax and in asthma .Bor ' bOFi * A native name in the Moluccas for an oil prepared from the flowers of the Uvaria odorata and other fragrant flowers with oil of coco and turmeric .It is rubbed into the body as a preventive of fevers .",
+        "words": [
+          "fragrant",
+          "flowers",
+          "turmeric",
+          "oil of coco",
+          "the flowers of the Uvaria odorata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d17a66d2-385b-5713-9a3a-bc7dd66ad022",
+        "value": "Used as an aromatic , febrifuge , and emmenagogue .Aromatic .( ' Apu > p .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d23af6b0-1eae-5544-814c-b845b20a6b60",
+        "value": "Bdu - eherkerzehen .) Old term for candles made of odoriferous and resinous substances , to purify the air and excite the spirits .( Quincy .",
+        "words": [
+          "substances",
+          "the",
+          "odoriferous",
+          "the air",
+          "air",
+          "resinous",
+          "to purify the",
+          "air and excite the spirits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d41764fe-bcde-5cee-8367-82260cfb01b8",
+        "value": "Hundskamille , stinkende Kamille .) The plant May - weed , or stinking chamomile .Annual ; erect ; leaves alternate , sessile , flat , doubly pinnate ; scales of receptacle setaceous ; flowers of ray generally neuter , white ; flowers of disc winged .",
+        "words": [
+          "chamomile",
+          "stinking",
+          "The plant May - weed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d5019187-a667-5332-9976-34bb62f8f58b",
+        "value": "Matrix - bearing or stinking mushroom .Pileus first well - shaped , then expanded , obtuse , variously coloured ; margin regular ; stem bulbous below , becoming more slender upwards ; volva with the margin free ; lamellae ventricose ; odour offensive ; very poisonous .Common everywhere .",
+        "words": [
+          "offensive",
+          "odour",
+          "very poisonous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d58d6e11-f95f-509d-a194-8c9171cb4d31",
+        "value": "Obtained by heating calcium sulphate with powdered coal .When pure it is a white , insoluble mass , smelling of hydrogen suiphide ; it is often coloured from im - purities .C .",
+        "words": [
+          "smelling",
+          "it",
+          "of hydrogen suiphide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d59a89b4-77fe-506f-b044-e5da68721d6a",
+        "value": "They are epigynous with monochlamydeous flowers ; stamens 6 â   12 , rarely 18 â   36 , in one or two whorls ; anthers extrorse ; receptacle concave ; 3â   6 celled inferior ovaries ; indefinite ovules ; embryo small , lying in a large quantity of albumen , leaves alternate , simple ; flowers usually axillary .The prevailing quality of the Order is that of an aromatic stimulant .Aristolochia ' ceous .",
+        "words": [
+          "aromatic",
+          "stimulant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d5a35dbd-1b60-561b-8af1-4dfe61878783",
+        "value": "( L .fragrans , sweet smelling .) Pileus pulvinate , with an indexed margin , subtomentose , umber brown ; stem va - riegated with red and yellow ; tubes semi - free , small , rounded , yellow , becoming green .",
+        "words": [
+          "sweet",
+          "smelling",
+          "fragrans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d6f82367-79ef-5531-aa6a-bf47bd7ca5ed",
+        "value": "Similar solutions , with the addition of ben - zoic or cinnamic acid , as balsam of Tolu .Balsams have an aromatic , agreeable odour , and a strong penetrating taste ; they are insoluble in water , almost entirely soluble in alcohol , and partiaUy soluble in ether and oil .Balsams are natural and artificial .",
+        "words": [
+          "agreeable",
+          "odour",
+          "aromatic",
+          "Balsams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d86f72bc-fb54-5899-a3e2-0a9d79dbf8d3",
+        "value": "Leaves exstipulate , compound , imparipinnate ; flowers cymose , regular , hermaphrodite , or polygamous , â    with convex receptacle ; calyx gamosepalous , persistent , quadrifid ; corolla with 4 imbricated petals ; stamens 8 , 4 being opposite the petals ; anthers introrse , with longitudinal dehiscence ; ovary with fleshy disc , and short capitate style , unilocular , with two anatropal ovules ; fruit a drupe ; seed solitary , exalbuminous .Every part of these plants is charged with glandular fronds , containing a resinous and odorous fluid .A .",
+        "words": [
+          "odorous",
+          "fluid",
+          "resinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d887119b-10df-5257-98ae-71e5d400bc02",
+        "value": "( ' - A , intens .; jwpov , a fragrant juice .) The name of a Genus of the Nat .",
+        "words": [
+          "fragrant",
+          "juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d88b758f-c3be-5bfe-b5a0-5e589bd03161",
+        "value": "In Sanskrit , amrtr in the neuter signifies ambrosia , and all objects offered in sacrifice to the gods ; amrta in the fern ., various plants , such as Phyllanthus , Emblica , Terminalia , and Oci - mum , all of which are odoriferous plants .The ambrosia of Dioscorides and of Pliny , which was probably an Artemisia , was applied by the botanists of the middle ages to Ambrosia maritima , which has retained the name .",
+        "words": [
+          "odoriferous",
+          "plants",
+          "Phyllanthus",
+          "Terminalia",
+          "various plants",
+          "Emblica",
+          "Oci - mum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d9062da6-b4d6-54aa-8e95-a30d154abc36",
+        "value": "The juice is acrid .The rhizomes , which smell like orris root , when deprived of acridity by drying , are used as food by the Kalmucks ; they have been used in doses of ten grains , gradually increased , in chorea , epilepsy , and hydrophobia ; sometimes the } ' produce nausea .The dried leaves will produce vesication ; they have been recommended in chronic cystitis .",
+        "words": [
+          "smell",
+          "The rhizomes",
+          "like orris root",
+          "the } ' produce nausea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/d90cc371-a38b-5de0-85d9-9e6b2cd62710",
+        "value": "genipi blane .) An Al - pine plant , used in the manufacture of the bitter aromatic liqueur known as Creme d ' Absinthe .A .",
+        "words": [
+          "liqueur",
+          "aromatic",
+          "Creme d '",
+          "An Al - pine plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/da85a76d-28a4-5053-88a3-826d0d07a4bc",
+        "value": "The hydrocarbon of which oil of cajeput is the hydrate .It is pleasant to the smell , slightlv soluble in alcohol , and boils between 160Â ° C .( 32CT F .",
+        "words": [
+          "smell",
+          "It",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/db4d6d4d-e129-5608-bcc2-06bb28ff3d2b",
+        "value": "Cold , weak , bicarbonated waters , with a trace of iron .Bro ' mouSi ( BpSi / nos , a stink .) Stinking , foul .",
+        "words": [
+          "stink",
+          "mouSi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/de48fba7-8467-5568-a286-efdbb3be52af",
+        "value": ", iHo ' ka .An inferior kind of hepatic aloes , of dark colour and nauseous smell , brought to Aden from the interior .A .",
+        "words": [
+          "smell",
+          "nauseous",
+          "inferior",
+          "aloes",
+          "to Aden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/df01a45f-b7cd-5f95-a506-3a4bd4f9ea69",
+        "value": ") Spindle - shaped cells lying amongst the branching central ends of the columnar epithelial cells of the olfactory mucous membrane .The basal process passes inwards to the mucous corium , and is probably connected with a fibril of the olfactory nerve ; the apical process terminates on the level of the epithelium .C , os seous .",
+        "words": [
+          "olfactory",
+          "the mucous corium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/dffcc978-bd28-573c-bf58-09cb8498ff2e",
+        "value": "It would appear that the true aloes - wood is a product of the Aloexylum agallochum .It is of ashy brown colour , veined , soft when recent , becoming hard when kept ; of agreeable odour , and bitter , aromatic taste and gives a pleasant perfume when burnt .It is supposed to consist large .",
+        "words": [
+          "perfume",
+          "agreeable",
+          "odour",
+          "It",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e107d335-3009-5722-ac35-4aa0b77efca9",
+        "value": "{ B & KKapts .) A fragrant herb used by the ancients in their garlands against enchantments ; supposed by some to be an Asarum , by others , variously , Valeriana celtica , Nardum rusticum , Gnaphalium sanguineum , and several other plants .A Genus of plants of the Nat .",
+        "words": [
+          "herb",
+          "fragrant",
+          "other plants",
+          "Gnaphalium sanguineum",
+          "Nardum rusticum",
+          "Valeriana celtica"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e1133b7e-f612-5e5f-a5d1-4d0d38ce89da",
+        "value": "A term given to bitter medicines ; bitters .Also , the native name in Socotra of a tree which yields a light coloured gum , which is AMARACINA UNGUENTAâ   AMARANTHUS slightly odoriferous , but much inferior to the Olibanum obtained on the Arabian coast .A .",
+        "words": [
+          "odoriferous",
+          "slightly odoriferous",
+          "AMARACINA",
+          "  AMARANTHUS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e1503f24-8040-54fa-bc41-d8cc073ddce9",
+        "value": "ycrba luisa .) The lemon - scented verbena .The mint - like leaves have a pleasant smell of lemon .",
+        "words": [
+          "scented",
+          "lemon -",
+          "verbena"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e4331426-a66f-57fa-9b60-7bbe499b2503",
+        "value": "Wallrath .) A con - crete , crystalline , pearly - white , glistening , semi - transparent matter , with little taste or odour , obtained from the cavity of the cranium of several species of whale , but chiefly the spermaceti whale , or Physeter macroc ' ephalus .It consists of nearly pure cetin , or cetyl palmitate .",
+        "words": [
+          "odour",
+          "Physeter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e54ddd2c-a062-5592-9d58-737a9a5fc1a8",
+        "value": ", fe ' tid .Fetid bronchitis .Bronchos .",
+        "words": [
+          "Fetid",
+          "bronchitis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e62f642e-8b8a-591a-91c0-8b2c71956158",
+        "value": "C , i ) H40 .A pleasant - smelling liquid contained in oil of caraway , which boils at 227Â ° C .( 440 - 6Â ° F .",
+        "words": [
+          "smelling",
+          "liquid",
+          "pleasant - smelling",
+          "oil of caraway"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e76a6357-67e4-5dfa-9f7b-a3057bf00b5c",
+        "value": "Angelica ' ol .) An oil found in angelica root ; it is colourless when fresh , but soon becomes brown ; it is lighter than water , has a camphorous odour , and a burning spicy taste .A .",
+        "words": [
+          "odour",
+          "camphorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e7999c96-1ca3-5503-83b7-af39586f8b7a",
+        "value": "AgathOS ' ma .( ' Aya0o ' s , good ; oa - pv , a smell .) A Genus of the Tribe JEtidiosmeai , Nat .",
+        "words": [
+          "smell",
+          "good"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e83c7f20-a083-5eb5-ba7e-6cbae4b94f86",
+        "value": "The root supplies one of the varieties of salep .The leaves are reputed sudorific , and yield a perfume .Ac erate .",
+        "words": [
+          "perfume",
+          "The leaves",
+          "sudorific"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e94b1bcd-792a-536f-833a-1b5da8f0b310",
+        "value": "Brazil .The root , which has a sweet aromatic odour , is car - minative , stomachic , and alexipharraic ; and is given in doses of 30 grains .Externally it is applied to foul ulcers .",
+        "words": [
+          "odour",
+          "The root",
+          "sweet aromatic",
+          "alexipharraic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e9522339-37af-5764-8094-69e5634226b5",
+        "value": "Death is usually preceded by coma .The intestines are said to contain a greenish yellow , alkaline , mucous fluid , having an ammoniacal odour ; and their mucous coat to be oedematous and sometimes ulcerated .In the general absence of vomiting , diarrhoea , and convulsions , ammoniaemia differs from uraemia .",
+        "words": [
+          "odour",
+          "ammoniacal",
+          "fluid",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/e97896db-591f-526c-8d7c-2c07dcb02671",
+        "value": "( Quincy .) Am paCi Name of an East Indian tree which yields a highly odoriferous resin , and the leaves of which are used to medicate baths .Am ' par .",
+        "words": [
+          "resin",
+          "odoriferous",
+          "highly odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ea6f0583-eeec-557c-ac5c-22649dd08b79",
+        "value": "The two principal types of this group are ordinary camphor , Ci0H16O , and borneol , ClnHI80 .A camphor is found in the essential oils of many labiate plants , as rosemary , marjoram , and sage , in those of the feverfew and wormwood , and in oil of cloves isomeric with common cam - phor , except that this turns the plane of polarisa - tion to the right , while the feverfew camphor turns it to the left , and the labiate camphors are inactive .) Helenin .",
+        "words": [
+          "wormwood",
+          "rosemary",
+          "sage",
+          "essential",
+          "marjoram",
+          "oil of cloves",
+          "the feverfew",
+          "oils of many labiate plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ebf23908-6bad-5a7d-8dce-d3e48c79841f",
+        "value": "Dry sodium acetate 8 parts , rectified spirit 5 parts , sulphuric acid 10 parts , is distilled , the pro - duct added to half its weight of calcium chloride , left 24 hours , decanted and rectified .A colourless liquid , of agreeable odour and pleasant taste ; sp .gr .",
+        "words": [
+          "agreeable",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ecfa102f-8f18-5dbe-be97-852bd53f4ba3",
+        "value": "Neither have the infectious matters , which are doubtless in some contagious diseases given off ' from the lungs , as yet been recognised .The odorous principles of articles of food , such as alcohol and onions , and of drugs , as ether and phosphorus , are found in the breath .The temperature of the breath is about 35Â ° C .",
+        "words": [
+          "alcohol",
+          "odorous",
+          "drugs",
+          "onions",
+          "phosphorus",
+          "of articles of food"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ecfe44a6-df13-589a-833f-1c7ccc3ffe14",
+        "value": "( L .odoratus , fragrant .) A synonym ofA .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ed326c7c-3bb5-5485-a919-4513d23791e5",
+        "value": "Europe , Asia , America .It is somewhat aromatic , and has been used as a eephalic and tonic .C .",
+        "words": [
+          "aromatic",
+          "somewhat aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ed4a4bc3-db2e-56a8-b0f2-0dfd4adfc0f6",
+        "value": "Cloves are nail - shaped , \" 5 \" long , dark reddish brown , having a cylindrical body , the tube of the calyx ; a rounded head , the unexpanded corolla ; and four teeth below it , the limb of the calyx .They have a strong fragrant smell and a hot , bitterish , pungent taste .Cloves contain a volatile oil , eugenin , caryophyllin , salicylic acid , a peculiar tannin , gum , extractive , and lignin .",
+        "words": [
+          "smell",
+          "They",
+          "strong fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ed939fb1-7e18-53ba-a8d7-0f21381791fd",
+        "value": "gr .of 1055 , of a saltish taste , a faintish odour , an alkaline reaction , and of a temperature of 37 - 8Â ° C .( 100Â ° F .",
+        "words": [
+          "odour",
+          "faintish"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ee034e78-859e-5cbc-aa6b-819c51416d3b",
+        "value": "Six parts of sulphuric acid , lour parts of rectified spirit of wine , and four parts of water , are mixed and poured upon six parts of powdered manganese dioxide ; six pints of fluid are distilled over , and then redistilled twice with cal - cium chloride ; the product is mixed with twice its volume of ether , and saturated with ammonia gas ; the resulting crystalline compound of am - monia and aldehyde , when washed with a little ether , is dried in the air ; it is then distilled in a water bath with sulphuric acid , diluted with an equal quantity of water , and the distillate rectified with calcium chloride .It is limpid , colourless , of characteristic ethereal odour , and mixes well with alcohol , ether , and water .Density 0 - 807 , at 0Â ° C .",
+        "words": [
+          "ethereal",
+          "odour",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ef3cf220-d41d-56bd-a5d9-e4e62d017244",
+        "value": "agaric amcr .) Pileus at first convex , then flat , afterwards concave , dry , reddish yellow ; laminae serrated , unequal , greyish green , then black ; stem yellowish , with an imperfect ring ; odour agreeable ; bark very bitter .Emetic and purgative .",
+        "words": [
+          "agreeable",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/efe34463-8746-5cb1-8455-0aa71852eb64",
+        "value": ") An aromatic plant growing in Siberia .It contains tannin and an aromatic resinoid matter , piero - ballotin .Used in gout , rheumatism , and dropsy .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f0f3cba1-e09d-522d-8b74-a400a6bdd493",
+        "value": "Made by digesting the fruit of the Myroxylon pereira , deprived of its winged appendages , in , f rum .It is a fragrant liquid , in high repute â  ¢ through Central America as a stimulant and - vulnerary , and as a diuretic and anthelmintic .It is used to excite uterine contraction , to relieve spasm , and to check diarrhoea and vomiting .",
+        "words": [
+          "fragrant",
+          "It",
+          "liquid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f226f09e-3eb4-5bdb-861d-88fab122a9cf",
+        "value": "foctidus , stinking .) The fetid or stinking healer ; Schroderus , iv , cl .n .",
+        "words": [
+          "fetid",
+          "stinking",
+          "healer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f2d18ca2-1041-5eb7-b519-08a2d0c34dcc",
+        "value": "sys ' tem .Term which includes the cerebrum , the nerves of special sense , as the olfactory , the optic , and auditory , and those nerves which convey volition , together with the intraspinal or intravertebral chord of cerebral nerves , according to Dr .M .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f442f70d-46f0-5260-8aa9-4bb65b9d21ec",
+        "value": "An amorphous substance re - sembling grape sugar found in the urine of a patient by Bodeker .It is a pale yellow , glazy , amorphous substance , burning with a pale flame , and giving off a urinous smell ; and when heated with calcium nitrate gives off ammonia ; \" it is soluble in water and alcohol ; and reduces copper and silver oxides in the presence of free alkali , but not bismuth oxide .It is not fermentible .",
+        "words": [
+          "smell",
+          "It",
+          "urinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f6e39972-e9f4-5d08-a02e-6f51062f0bb1",
+        "value": "Eagle wood .A perfume , known in Cochin - Ohina as \" tram - toe \" is prepared from the nodosities that form on the base of the broken branches of this tree .Its wood is often substituted for aloes - wood .",
+        "words": [
+          "perfume",
+          "toe",
+          "tram"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f7ba0e5b-72f9-51c1-a587-a4d4e7096321",
+        "value": "Baryod ' mia .( Bapys , heavy , strong ; SSfun , smell .F .",
+        "words": [
+          "strong",
+          "smell",
+          "Bapys"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f8710941-fc53-5b20-a512-8a34c2781483",
+        "value": "Wtingeistvcrbindttngen .) Term by Beral of Paris for combinations of alcohol , as A / coholata , or distillations with aromatic substances ; Alco - holalura , or tinctures , elixirs ; Alcoholica , or solutions of acids , alkalies , oils ; Alcoholativa , or solutions by distillation and maceration , for lini - ments and embrocations .Alcoholisa tion .",
+        "words": [
+          "substances",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/f9720251-8ab0-55cc-aa74-60ca49f41861",
+        "value": "It is dichroic dark brown by reflected , and olive green by transmitted , light .It has an unpleasant penetrating smell , and is lighter than water .The crude oil is of composite nature , containing acetic and butyric acids , and perhaps also valerianic and eapronie acids ; when rectified by distillation it is chiefly composed of two hydrocarbons , probably camphenes .",
+        "words": [
+          "smell",
+          "It",
+          "unpleasant penetrating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/fbbf1e85-7072-5d6f-a6a5-6f4d3f60fb0d",
+        "value": "centre gustatif .) A cortical centre said by Ferrier to be situated along with the olfactory centre at the summit of the temporosphenoidal lobe .C , head and neck move ' ment .",
+        "words": [
+          "olfactory",
+          "centre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/fd3b0a22-dceb-55d4-86c6-35843baa1fd6",
+        "value": "Acaroidharz .) A gum resin flowing from the Xanthorr / uea hastilis , yellowish red , very friable , with balsamic odour and astringent taste ; it melts at a low tempera - ture ; burns with a smoky flame ; when distilled yields benzine , cinnamine , phenol , benzoic and cinnamic acids .It is insoluble in water , soluble in alcohol and alkalies .",
+        "words": [
+          "balsamic",
+          "phenol",
+          "odour",
+          "benzoic",
+          "cinnamic",
+          "cinnamine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/fd56c839-35b0-585b-9a90-debf8df2484d",
+        "value": "( 53Â ° F .) , is without smell and not volatile .Gnielin considers it to be impure malic acid ; Hlasiwetz that it is aconitic acid .",
+        "words": [
+          "smell",
+          "volatile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/fd70783d-d92e-59a4-88f9-9da24e6c8d60",
+        "value": "Bhoop Qoogul .) An aromatic and , when fresh , yellow resin , obtained from Canarium strictum .B .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/fe2d35a2-5862-5ea0-af5c-fa9a78be61bd",
+        "value": "ihara , 32 grammes .A limpid , reddish fluid , with pleasant smell and an acrid and bitter taste .A .",
+        "words": [
+          "smell",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/ff802ee7-4e2a-5ddc-8a72-d7fac246f364",
+        "value": "C , oil of .A pale yellow liquid , of strong camphorous odour , obtained by incision from the Dryabalaiiops camphora when young .It contains 94 per cent , of Borneene and essential oil , and 6 per cent , of a resin .",
+        "words": [
+          "odour",
+          "strong camphorous"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6b7db969-0908-5ee5-bb38-3703ef0792f2",
+        "label": "England). Urban District Council Ashington (Northumberland"
+      }
+    ],
+    "label": "Annual Report of the Medical Officer of Health and Chief Public Health Inspector 1971",
+    "url": "http://archive.org/details/b28812177",
+    "date": "1972",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/652",
+      "label": "Aloe"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/938f6166-2c9a-53b9-9ebb-39b7eb7d6144",
+      "label": "1972",
+      "begin": "1972",
+      "end": "1972"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/415189/",
+      "label": "Aden"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/3252eb3b-4d88-504e-9462-2b3d397707b6/fragment/de48fba7-8467-5568-a286-efdbb3be52af",
+  "adjective": [
+    "inferior",
+    "nauseous"
+  ]
+}

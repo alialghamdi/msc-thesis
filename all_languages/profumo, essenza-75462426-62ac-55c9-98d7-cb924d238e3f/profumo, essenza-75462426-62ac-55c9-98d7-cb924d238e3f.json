@@ -1,0 +1,704 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/75462426-62ac-55c9-98d7-cb924d238e3f",
+  "@graph": "http://data.odeuropa.eu/gutenberg",
+  "label": [
+    "profumo",
+    "essenza"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/00c000ba-2937-55af-b969-7cffcf45051e",
+        "value": "GiÃ   pareva dormire quando Isabella si accostÃ ² al letto col suo passo lieve .SentÃ ¬ ella il profumo delle rose bionde che erano lÃ   presso a ravvivarsi in un vaso d ' acqua .Si chinÃ ² , toccÃ ² appena con le labbra i capelli addormentati .",
+        "words": [
+          "profumo",
+          "ella",
+          "delle rose bionde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/0338d08b-dac2-5943-95e9-42075c671c2c",
+        "value": "Era sorta la luna logora dietro il Mastio mediceo .La magnolia , solitaria nel cortiletto inverdito di muschi , insaporava del suo profumo il silenzio notturno , possente di mollezza nella notte contro il grand ' elce austero , tutta molle della sua cerea carne .GiÃ   nel palagio tacevano le opere dei servi .",
+        "words": [
+          "profumo",
+          "suo",
+          "La magnolia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/04a631e8-cb40-5d82-990d-d78f65adbe30",
+        "value": "Tutto era odio e oltranza e constrizione , dentro di lei .Ella era lÃ   , seduta nella poltrona bassa , accanto alla sua tazza di tÃ ¨ , accanto alle paste e alle confetture che l ' ospite le aveva accumulate sopra un deschetto , nella fragranza dei fiori sparsi per ovunque , nel tepore blando , nel suo grazioso abito di casimir nero a cui un poco d ' oro un poco di blu e una striscia sottile di zibellino davano un ' impronta che rivelava il gusto d ' Isabella Inghirami ; ma la sua anima nascosta non respirava se non nel piÃ ¹ arido orrore .Turbini di forza nascevano dentro di lei , roteavano , si dissolvevano .",
+        "words": [
+          "dei fiori",
+          "fragranza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/04ff851f-7e60-5a30-9ee4-a0589d9b8b0e",
+        "value": "Ella gli parlava sommessamente , con un aspro ardore in cui l ' ironia strideva come il sale sul carbone rosso .- - Guarda lÃ   : Ã ¨ rimasta la cappa del camino squarciata , Ã ¨ rimasto il nero della fuliggine , il mattone sgretolato , il calcinaccio , l ' odore della muffa , l ' odore della morte , e nulla piÃ ¹ .Nulla piÃ ¹ , fuorchÃ © il nostro orrore nascosto .",
+        "words": [
+          "odore",
+          "della morte",
+          "della muffa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/0aeaf464-828f-58d5-9744-fe292d1ae608",
+        "value": "Riconobbe l ' imboccatura della via .L ' odore delle roselline , che imbiancavano i cancelli d ' un giardino , le fece mancare il cuore .SentÃ ¬ sopra di sÃ © il pianto che avevano pianto le sue eguali .",
+        "words": [
+          "odore",
+          "delle roselline",
+          "i",
+          "cancelli",
+          "cancelli d ' un giardino",
+          "i cancelli",
+          "le fece mancare il cuore ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/0afab730-561b-544f-b8f8-c7df1a11ec00",
+        "value": "Non so perchÃ © , dianzi , mi sia venuto in mente quel che una sera diceste dell ' avvoltoio che rigetta il suo cibo orribile , quando Ã ¨ assalito , e quando Ã ¨ ferito a morte , e dopo che Ã ¨ spirato anche .L ' odore atroce fa impallidire e mancare chiunque gli s ' avvicini .Non so perchÃ © mi sia venuto in mente questo , non so .",
+        "words": [
+          "odore",
+          "atroce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/0cb6ae61-d11b-524f-9eb4-825d2713f00b",
+        "value": "E l ' uomo nel rigoglio della virilitÃ   esperto d ' ogni rischio e d ' ogni mÃ ¨ ta , immune da ogni paura e da ogni abitudine , armato di diffidenza e di dispregio , che aveva conosciuto giorni innumerevoli in cui la disciplina della sua virtÃ ¹ piantata su le due calcagna gli bastava a vivere , guardÃ ² il meraviglioso ingombro del corpo omai promesso e oppose al presentimento della sciagura l ' imagine dell ' orgia liberatrice , memore del marinaio disceso nel porto per ripartir piÃ ¹ leggero domani verso l ' Oceano ; e gli gonfiÃ ² le vene l ' impazienza di saziarsi .Non ignara del piacere e bisognosa di gioire soffrendo , smaniosa di sporgersi all ' orlo delle tentazioni piÃ ¹ terribili , con un cuore timido e temerario , soave e spietato , la donna aspirava intorno a sÃ © l ' ardore delle anime simile all ' odore sulfureo dell ' uragano ; e non formava alcun disegno , non si preparava contro l ' impreveduto ; pesava sul ritmo de ' suoi ginocchi la divina bestialitÃ   del suo corpo , covava la sua astuzia e la sua lussuria nel suo calore piÃ ¹ profondo .Ma la vergine e l ' adolescente non avevano difesa contro lo strazio , non contro il profumo della magnolia , non contro la pallidezza della palude , nÃ © contro l ' estasi dell ' aria , pieni entrambi di forze discordi che facevano un cupo tumulto disperdendosi e risollevandosi a ogni soffio intorno un ' ombra che forse aveva una sembianza da non poter essere guardata fisamente senza terrore .",
+        "words": [
+          "simile",
+          "odore",
+          "la donna",
+          "sulfureo",
+          "sulfureo dell ' uragano"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/0d6e59ed-6702-51d7-ae1c-d93f82180c17",
+        "value": "Era come s ' egli si ricordasse d ' aver compiuta quell ' impresa , d ' aver valicato il mare , d ' aver sorvolato le navi , d ' aver mirato lo scoscendimento biancastro , d ' essere entrato nell ' ombra del vallone , d ' essersi posato su l ' erba ; ma in un viaggio assai piÃ ¹ lungo , in un volo infinito , sopra un ' onda ch ' era sempre la stessa e sempre diversa , sopra un ' onda che come quella del Lete gli toglieva ogni memoria della riva di giÃ ¹ .E sentÃ ¬ su la faccia l ' odore dell ' amante , l ' odore caloroso dell ' ascella ; sentÃ ¬ su le sue labbra il piccolo frutto duro del seno che palpitava nello scroscio soffocato del riso .L ' insofferenza fu aspra come uno scoppio di collera .",
+        "words": [
+          "odore",
+          "caloroso",
+          "dell ' amante",
+          "dell ' ascella"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/0dbf7cf6-1608-517e-82f1-3b1b6a00b273",
+        "value": "Assra ! Assra ! Egli pareva eccitato come al principio d ' una caccia .L ' odore sulfureo gli entrava nella gola .Si volse a guardare il nemico che scompariva di lÃ   dalla cresta bianca come di salgemma e di gesso .",
+        "words": [
+          "odore",
+          "sulfureo",
+          "nella gola"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/18548c5a-4a17-5d89-ac9b-eceed89ae7e6",
+        "value": "Bisogna che tu mi cerchi Amar e me lo conduca ; perchÃ © stasera voglio danzare per te , Aini .Egli non guardava le spiagge nÃ © i boschi nÃ © le montagne ; non sentiva l ' odore della resina e della salsedine .Non poteva nÃ © volgere il capo nÃ © distogliere gli occhi ; non poteva se non aspirare l ' aria che vibrava intorno a quel corpo quasi nudo in una mussolina cosÃ ¬ leggera che dava imagine di certe garze chiamate dagli Indiani Â « acque correntiÂ » .",
+        "words": [
+          "odore",
+          "della resina",
+          "della salsedine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/199db28d-3bb6-5e75-9ac3-f2fcbd6d142d",
+        "value": "La bimba dormiva con la gota contro la spalla della sorella , abbandonata su le ginocchia che la reggevano .Vana sentiva l ' odore e il tepore dei capelli , il respiro quieto , tutta la gracilitÃ   sensibile delle ossa .Ascoltava il silenzio : le cose vi calavano a fondo come in un mare .",
+        "words": [
+          "dei capelli",
+          "odore",
+          "Vana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/1ae3c7f7-dda5-51d9-a491-a720c7278d95",
+        "value": "Ella vi discende ; e vi risveglia i mostri da me intraveduti in qualche notte d ' orgia esotica , quando il maschio non sapeva se piÃ ¹ gli piacesse versare il seme o il sangue .E quei mostri ti somigliano ( somigliano a te che sei l ' amore ! ) ; perchÃ © non nell ' approdo , non nella scorreria , non dopo la lunga navigazione , non dopo la cavalcata senza sosta , io ho conosciuto la furia originaria e selvaggia del desiderio come qui , tra due braccia piÃ ¹ fresche e piÃ ¹ odorose del gelsomino dopo la pioggia .Su la strada ardente , non te ne ricordi ? , nel vortice della polvere , io le desiderai spezzate dall ' urto ; imaginai tutto il corpo della tormentatrice ridotto su le pietre un mucchio sanguinoso ; agognai ch ' ella piÃ ¹ non avesse quelle palpebre , quella bocca , quella gola , ch ' ella piÃ ¹ non fosse qual ' era .",
+        "words": [
+          "odorose",
+          "del gelsomino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/1b6d9c0d-d59f-5e7e-bad2-dc385a77b3a1",
+        "value": "- - Guarda le mie braccia pomellate d ' azzurro e di viola ! Mi fai vergognare davanti a Chiaretta , che Ã ¨ una pia francescana nata e cresciuta all ' ombra della Porziuncola .Con una grazia ostinata ella gli andava strisciando sul viso la pelurie delle braccia che odoravano forte come i sacchetti da odore perchÃ © ella li aveva inondati d ' essenza .Egli era insensibile alla carezza ; e i suoi lineamenti divenivano sempre piÃ ¹ ermetici .",
+        "words": [
+          "forte",
+          "odore",
+          "essenza",
+          "ella",
+          "come",
+          "odoravano",
+          "sacchetti",
+          "delle braccia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/22ec8c28-b396-56f4-bcc5-cc0bd9027388",
+        "value": "Apri una finestra , Simonetta .L ' odore piÃ ¹ acuto era quello dei rami di lilla bianchi .Per la finestra aperta apparve un cielo di primavera , verde come l ' acquamarina , sparso di bioccoli rosei .",
+        "words": [
+          "acuto",
+          "odore",
+          "dei rami di lilla bianchi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/324907ba-38e9-598c-b192-30a819ed72b4",
+        "value": "Risospinse la sorella , si levÃ ² ; camminÃ ² per la stanza portando un viluppo enorme di mostri sul passo elastico dei suoi piedi nudi nei sandali di sparto .S ' appressÃ ² al davanzale , si sporse , bevve la frescura , l ' ombra violetta , il profumo della magnolia .Nella valle biancheggiavano le crete lunari come un ' adunazione di mausolei ; laggiÃ ¹ , perfidamente luccicava la CÃ © cina serpigna ; laggiÃ ¹ laggiÃ ¹ , fra Montescudaio e Guardistallo , il suol marino era una profonditÃ   eterea come la dimora dei Mani .",
+        "words": [
+          "profumo",
+          "della magnolia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/32564b02-c3c6-5aa2-987c-709ab36ac4b2",
+        "value": "Â « Quale di quelle portÃ ² la povera folle , seduta tra i due accompagnatori ? Â » Per la via del Proconsolo , pel Duomo , nel chiaro e tiepido argento della sera d ' aprile , andÃ ² al luogo di vergogna .RisentÃ ¬ l ' odore indefinibile che , con quello dell ' ospedale e della prigione , Ã ¨ fra i piÃ ¹ tristi in terra .PensÃ ² all ' ignota femmina dal grembiale rigato .",
+        "words": [
+          "odore",
+          "indefinibile",
+          "quello dell ' ospedale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/37efcd33-b3d7-5946-9725-328335621846",
+        "value": "La famiglia palpitante vigilava il portentoso uccello concepito nel suo seno , asciugava le care gocciole della fronte geniale , si turava con le molte mani i molti orecchi allo strepito prenunziatore del prodigio , contava nel grembo l ' oro imaginario del premio giusto , spingeva lo strumento della nova felicitÃ   verso il campo dell ' aratura , soffiava e risoffiava le sue speranze nella viadana o nell ' olona insensibile , poi respingeva lo stupendo aratro nel ricovero , quivi deplorava l ' inclemenza del cielo e l ' incostanza degli stantuffi .L ' uomo , ritto sopra una capra , col volto lucido di sudore , riprese a versare pianamente l ' essenza dal vaso cubico nell ' imbuto avvolto in un filtro di tela giallastra .Come la striscia di sole passava a quell ' altezza , si vedeva il liquido colare tra le dita ferme luccicando .",
+        "words": [
+          "essenza",
+          "L ' uomo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/3d87e798-ebb1-5931-85cc-af5b8c24cefd",
+        "value": "Non ignara del piacere e bisognosa di gioire soffrendo , smaniosa di sporgersi all ' orlo delle tentazioni piÃ ¹ terribili , con un cuore timido e temerario , soave e spietato , la donna aspirava intorno a sÃ © l ' ardore delle anime simile all ' odore sulfureo dell ' uragano ; e non formava alcun disegno , non si preparava contro l ' impreveduto ; pesava sul ritmo de ' suoi ginocchi la divina bestialitÃ   del suo corpo , covava la sua astuzia e la sua lussuria nel suo calore piÃ ¹ profondo .Ma la vergine e l ' adolescente non avevano difesa contro lo strazio , non contro il profumo della magnolia , non contro la pallidezza della palude , nÃ © contro l ' estasi dell ' aria , pieni entrambi di forze discordi che facevano un cupo tumulto disperdendosi e risollevandosi a ogni soffio intorno un ' ombra che forse aveva una sembianza da non poter essere guardata fisamente senza terrore .- - Ecco il mio giardino - - disse Isabella piegandosi sul davanzale , con l ' accento medesimo ond ' ella avrebbe detto all ' inizio d ' una confessione impetuosa : Â « Ecco la mia colpa , ecco la mia gloriaÂ » .",
+        "words": [
+          "profumo",
+          "della magnolia",
+          "la vergine e l ' adolescente"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/3dc94be3-a590-5f91-abe6-25e2c6d1a55c",
+        "value": "- - Oggi Ã ¨ il decimo giorno .- - E non una parola ! - - La credevi tu tanto feroce ? Il giardino del Museo era dinanzi a loro , coi suoi cippi in forma di pigne , con le sue urne di tufo senza coperchio divenute nerastre come il basalte , coi suoi avanzi di calidario dai doccioni di terra cotta inverditi , con la sua pergola di pampini al sole trasparenti , con i rari suoi rosai che somigliavano i rosai del giardino mantovano , coi suoi gelsomini di Spagna che rendevano un odore folto come l ' odore vaporato dei turÃ ¬ boli .- - Dove sono ? dove sono ? Gli amanti erano su la marina pisana , in una villa solitaria fra la pineta e la prateria salmastra .",
+        "words": [
+          "odore",
+          "vaporato",
+          "coi suoi gelsomini di Spagna",
+          "dei turÃ ¬ boli",
+          "Il giardino del Museo",
+          "i rosai del giardino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/4a183454-008a-5d94-a4a3-8a2de602dd53",
+        "value": "L ' aria v ' era irrespirabile ; anche perchÃ © portavamo sempre di quelle collane di zÃ   gare fresche che fabbricano i giudei , avvolte al collo in due o tre giri .Odoravano cosÃ ¬ forte che io vivevo in una continua vertigine .Ella spirava la voluttÃ   parlando , sorridendo ; e vedeva posato su le sue chiare ginocchia quel viso bronzino che le pareva d ' aver giÃ   intravisto in una fantasia alzato su un grande stallone arabo dal mantello di raso bianco tra lo sventolare del haik e il roteare del fucile in una nube acre di polvere e di fumo , laggiÃ ¹ , nella Mitidja , una sera di festa , prima della gozzoviglia preparata sotto le tende coniche della razza guerriera .",
+        "words": [
+          "forte",
+          "io",
+          "Odoravano",
+          "in una continua vertigine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/4cd059e4-3bd1-579a-8cae-d7d4d6fae37c",
+        "value": "Vide l ' ombra d ' un pioppo su la via splendida ; distinse sul ciglio erboso il fiore intatto del vento , il labile globo di piuma sul gambo sottile ; si contrasse , divenuta un solo istinto vitale dalla nuca al tallone , imitando il guizzo delle rondini vive che sfioravano il cofano pieno di fremito .E non mai aveva conosciuto la sua propria forma come in quel punto , non mai nel suo letto , non mai nel suo bagno , non mai davanti al suo specchio : le lunghe gambe lisce come quelle dei chiari Crocifissi d ' argento levigate da mille e mille labbra pie ; l ' esiguitÃ   delle ginocchia agevoli in cui era il segreto del passo ammirabile ; le piccole mammelle sul petto largo come il petto delle Muse vocali , dall ' ossatura palese di sotto i muscoli smilzi ; e le braccia non molli ma salde che pur sembravano portare la piÃ ¹ fresca freschezza della vita come una ghirlanda rinnovata a ogni alba ; e chiuse nei guanti flosci le magre mani fino alle unghie screziate di bianco , sensibili come il cuore purpureo , ricche di un ' arte piÃ ¹ misteriosa che i segni scritti nelle palme ; e tutto il calore diffuso sotto la pelle come una stagione dorata , e l ' inquietudine delle vene , e l ' odore profondo .Â « No , non moriamo .",
+        "words": [
+          "odore",
+          "profondo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/5572b3b1-8024-5428-9145-4cbd53c4bc7e",
+        "value": "Egli allentÃ ² le braccia , le lasciÃ ² cadere ; si distaccÃ ² da lei , si ritrasse , con uno sgomento che gli mozzava il respiro .E si guardÃ ² intorno come per accertarsi che la cosa mostruosa non era uscita da lui ; perchÃ © egli l ' aveva sentita a un tratto esternata , vivente , palpitante , con un fiato , con un calore , con un odore .- - Di che ? - - ripetÃ © Vana per la terza volta .",
+        "words": [
+          "odore",
+          "egli"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/57ecc5b1-ed60-5d71-ba13-55565697e1f0",
+        "value": "Le mani , che un tempo avrebbero asciugato le tempie stillanti e accarezzato i capelli spartiti , toccavano l ' estremitÃ   fasciata d ' argento , il tallone d ' ebano ove l ' occhio di madreperla era espressivo .Le nari aspiravano l ' odore della colofÃ ² nia , caloroso come l ' odore della ragia nelle pinete pisane .Si spegneva la luce su la fronte dell ' adolescente ; e vi sottentrava un pensiero cosÃ ¬ forte che pareva talvolta lasciarvi il segno di quella grande ruga verticale ond ' era inciso alla radice del naso il taciturno .",
+        "words": [
+          "odore",
+          "caloroso",
+          "della ragia",
+          "Le nari",
+          "nelle pinete pisane",
+          "della colofÃ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/589fe5bc-49ff-575f-b212-fe20ea98d92c",
+        "value": "- - Peccato che non si possa galoppare .- - Senti quest ' odore di solfo ? - - Viene da qualche mofeta .Egli rispondeva senza volgere il capo , andando verso quella cresta sbiancata piÃ ¹ pallida d ' ogni altra .",
+        "words": [
+          "odore",
+          "di solfo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/62ad1556-1d4d-5d64-9f39-0c89c460c0e4",
+        "value": "Il gran letto era preparato ; la lunga camicia molle e trasparente era posata su la rimboccatura orlata di pizzo .Su la tavola della specchiera brillavano innumerevoli cristalli metalli avorii : fiale d ' essenze , scatole di cosmetici , pettini e spazzole di varia densitÃ   , in bacili o in custodie arnesi piÃ ¹ sottili e piÃ ¹ diversi che quelli di qualsiasi altra arte , tutti gli strumenti e tutti i segreti addetti al culto del corpo trionfale .Per l ' ultima volta la potenza dell ' odio creÃ ² di tutto rilievo la figura ondeggiante con la pieghevolezza delle malvage murene .",
+        "words": [
+          "essenze",
+          "fiale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/64c0de2d-c652-51d4-9e85-4edc0d0bc304",
+        "value": "Fra gli scoppii e gli sprazzi , gli squilli rauchi delle trombe e gli ululi lÃ ¹ gubri delle sirene si rispondevano come le voci del pericolo e dell ' allarme .Il fumo e la polvere turbinavano in zone di luce violenta ; un odore acre avvelenava l ' afa ; le figure umane apparivano e sparivano come larve , quasi perdute su i mostri ruinanti .- - Ah , orribile , troppo orribile ! - - lamentÃ ² Isabella Inghirami , tutta chiusa nel mantello e nel velo , stringendosi addosso a Vana che batteva i denti come nel ribrezzo della febbre .",
+        "words": [
+          "acre",
+          "odore",
+          "Il fumo",
+          "la polvere",
+          "avvelenava l"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/6b866231-fe12-5a04-8f35-69e60375acbb",
+        "value": "Ma , come piÃ ¹ si appressÃ ² , nell ' aria il suo sangue prima di lui sentÃ ¬ che non era quella .Chi era ? Forse una creatura ignota che recava all ' eroe una testimonianza d ' amore e di pietÃ   ? una donna gentile che di nascosto veniva a implorare la grazia di rivederlo ? Lo toccÃ ² il profumo delle rose nell ' ombra .- - Sono Paolo Tarsis , eccomi - - egli le disse inchinandosi , con quella strana voce da cui ogni calore s ' era ritratto .",
+        "words": [
+          "delle rose",
+          "profumo",
+          "nell ' ombra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/727affc4-0d8e-5988-9c6f-3376ed253156",
+        "value": "Â « Bisogna trovarla ; bisogna sapereÂ » diceva egli disperandosi sotto i lampi sinistri di tutte le imaginazioni .Il profumo del gelsomino di Volterra emanava dalla stanza verde .La tunica nerazzurra era sospesa alla lettiera , con le sue mille pieghe richiuse , come una corda attorta .",
+        "words": [
+          "profumo",
+          "del gelsomino di Volterra",
+          "dalla stanza verde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/75e2ff58-2d71-5e5f-8141-9bc0e18a744e",
+        "value": "Le resi il fazzoletto ? Ella me lo riprese ? Puoi dirmelo ? Egli scosse il capo , - - Neanche tu lo sai ? Per quanto io ci pensi , non riesco a rammentarmene .Era un piccolo fazzoletto color lilla , profumato di gelsomino , del gelsomino di Volterra .Certo , quando entrammo nel Paradiso , io non l ' avevo piÃ ¹ .",
+        "words": [
+          "profumato",
+          "di gelsomino",
+          "del gelsomino di Volterra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/76dcd24f-90d7-5a9d-8b66-7ce52a46d236",
+        "value": "E ancora la bellezza dell ' Ade vaporÃ ² nell ' estremo crepuscolo .E ancora vi si diffuse l ' odore doglioso della cuora , della resina e del legno arso .Larve tacite si movevano nella nebbietta rischiarata dal novilunio , ondeggiavano , dileguavano : erano le mandre dei cavalli bradi .",
+        "words": [
+          "odore",
+          "doglioso",
+          "della resina",
+          "della cuora",
+          "del legno arso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/7c552336-e5c6-52cd-b490-04b7b5d8ccd2",
+        "value": "- - Ah , ma chi dirÃ   come sei ? Ella allungÃ ² verso di lui le braccia piÃ ¹ lisce e piÃ ¹ fredde delle porcellane che rilucevano su la mensa .- - Come sono ? Come sono ? - - Dove hai preso quest ' odore di gelsomino ? Stordisce .- - Non sai che io ho un giardino di gelsomini , tra due sepolcreti ? - - A Volterra ? - - Un giardino chiuso in quattro muri folti di gelsomini , e non so se piÃ ¹ odori quello di levante o quello di mezzodÃ ¬ .",
+        "words": [
+          "odore",
+          "di gelsomino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/7d61b46d-f157-5df7-b893-d00eea4aa7ae",
+        "value": "Egli interrogÃ ² i due o tre vetturini che sonnecchiavano in serpe .Non seppero dirgli nulla ; non seppero se non soffiargli in viso i loro fiati fetidi di zozza .Alfine , non reggendo piÃ ¹ alla nausea e alla fatica , rientrÃ ² nella sua vera casa , in quella dov ' era venuta Vana a rivelare la cosa mostruosa .",
+        "words": [
+          "fetidi",
+          "fiati",
+          "di zozza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/7f11dd75-ae25-516c-8958-59a2ba4c4b56",
+        "value": "Varcarono una soglia ; e li coperse il cupo azzurro d ' un cielo notturno ove i segni zodiacali scintillarono riflettendosi nell ' acqua stagnante degli specchi .Per la finestra saliva il profumo cocente e possente della magnolia , ebrezza delle costellazioni .- - Un altro giardino ? Era un triste cortile abbandonato .",
+        "words": [
+          "profumo",
+          "possente",
+          "cocente",
+          "della magnolia",
+          "Per la finestra",
+          "ebrezza delle costellazioni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/82a19b64-f10b-5945-8546-20de906a4ec8",
+        "value": "AndÃ ² verso la finestra , si sporse dal davanzale , respirÃ ² dal pieno petto .L ' odore dei gelsomini , l ' odore delle tuberose , l ' umidore del grande vivaio salivano dal chiuso .LaggiÃ ¹ , di lÃ   dall ' Era , sui Monti Pisani lampeggiava senza tuono .",
+        "words": [
+          "odore",
+          "dei gelsomini",
+          "delle tuberose",
+          "dal chiuso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/8794d413-2f22-5bc0-bccb-327255a805fe",
+        "value": "Aveva giÃ   il suo vestito da notte , di seta leggera , e i piedi nudi nei sandali di sparto .Esalava l ' odore della sigaretta oppiata e dell ' abluzione recente .- - Anche tu non hai sonno .",
+        "words": [
+          "odore",
+          "della sigaretta oppiata",
+          "dell ' abluzione recente"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/959fedc3-6b84-5f2e-89ed-a33c2a5091bb",
+        "value": "AndÃ ² .SentÃ ¬ l ' odore singolare che , con quello dell ' ospedale e della prigione , Ã ¨ fra i piÃ ¹ tristi in terra .Un affaccendamento misterioso agitava le sale , gli anditi ; i campanelli tintinnivano di continuo ; s ' udiva qualcuno singhiozzare e implorare , dietro un uscio .",
+        "words": [
+          "singolare",
+          "odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/9c119a44-bc39-507e-b8b3-95aac47279d5",
+        "value": "- - _ Alis non tarsis _ - - diceva l ' ornitologo implume , facendo il bisticcio sul cognome di Paolo .Posatoi rupestri del Mokattam , pregni di splendore come gli alabastri delle meschite , dove nel mattino gli avvoltoi fulvi s ' indugiano al sole che dissecchi la rugiada su le lunghe remiganti disgiunte e curano i fusti teneri delle penne nascenti e a quando a quando starnazzano per esercitar le giunture e , nel sentire il soffio , di sÃ ¹ bito si gettano giÃ ¹ abbassandosi per un tratto di frombola senza batter l ' ali e partono di primo volo e salgono al sommo e poi discendono col becco al vento e s ' aggirano spiando tutta la contrada e si sospendono nell ' aria immobili e poi risalgono e poi ridiscendono , senza mai batter l ' ali ! Specchi della Palude Mareotide , coperti d ' ampie ninfee natanti che sorgono all ' improvviso con uno strepito simile a quello dei cigni ; e sono i pellicani dall ' occhio scarlatto , i gravi pellicani dal sacco gutturale venato come le dÃ   lie ; e s ' ode il lor grido rauco simile al raglio , e lo schiocco delle larghe palme che si posano su l ' isolotto di melma , e di nuovo lo strepito piÃ ¹ forte pel piÃ ¹ alto volo quand ' essi ripiegano il collo tra gli omeri come gli aironi e alzandosi contro il vento cangiano la gravitÃ   palustre nella piÃ ¹ ardua grazia e non remano ma veleggiano sopra le nubi ! Immense lande liquide dei Barari , folte di canne e di tamerici sul pattume salmastro , interrotte da cumuli di mattoni e di cocci che sono le ruine obliate delle cittÃ   regie senza nome divenute nido innumerevole alle dinastie delle mÃ ¨ ropi ; ove su le grandi assemblee degli acquatici volteggia il grifone indagando le ripe se qualche carogna di bufalo vi approdi portato dai canali , mentre a quando a quando capovaccai e corvi trapassano in voli veementi con ombre di morte come tratti dalla fame sagace verso un campo ignoto di carneficina ai limiti del deserto ! Passione del deserto , palpitazione visibile della vampa su l ' ariditÃ   commossa , odore elettrico dello spazio in attesa , quando la grande aquila sola sui rossi torrioni del Khamsin valica in un attimo il campo del piÃ ¹ pronto sguardo umano e col fato della turbinosa metropoli di sabbia e d ' angoscia si dilegua per sempre ! - - _ Alis non tarsis ._ I due compagni avevano vissuto , lunghi e lunghi giorni , assorti in questi spettacoli e in un sogno d ' avventure celesti .",
+        "words": [
+          "odore",
+          "elettrico"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/9e421cad-935f-5669-a23b-6f9d84035824",
+        "value": "Le ripe incenerite della Possera biancicarono , come il tristo ruscello ove Filippo Argenti ingozza il fango .L ' odore sulfureo , la nebbia del bollore , il sibilo e il rugghio annunziarono la valle infernale .- - Come hanno corso ! - - disse Vana discendendo nello spiazzo .",
+        "words": [
+          "odore",
+          "sulfureo",
+          "il rugghio",
+          "il sibilo",
+          "la valle infernale ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/9fec9ba9-b221-54c3-861a-66f093a8d973",
+        "value": "Una materia umana era presa lÃ   , con i due pugni , e posta innanzi ; e bisognava mirarla .Una visione inevitabile era alzata in mezzo alla notte , una visione di voluttÃ   in mezzo all ' odore della notte .- - Aldo , perchÃ © dici questo a me , in questo modo ? - - balbettÃ ² la creatura smorta , come se il fratello a un tratto l ' avesse percossa .",
+        "words": [
+          "odore",
+          "della notte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/a4117492-4d02-5b9c-b53d-b2449d6e8c7d",
+        "value": "Soltanto lungo il muro maestro , dove s ' apriva la porta , un tendaletto rigato come la gandura d ' una Mzabita faceva ombra sul tappeto ricoperto di cuscini ove gli amanti passavano gran parte delle ore diurne e notturne accarezzandosi .- - Dove siamo ? - - diceva Isabella respirando l ' odore della salsedine e della resina con un respiro che sembrava arieggiarle tutto il corpo dalla gola al pollice del piede scalzo .- - A El - Bahadja ? E quella Ã ¨ la bocca dell ' Arrach ? e quelle laggiÃ ¹ sono le montagne della Cabilia ? e tutto quel turchino quel verde quel bianco Ã ¨ il Sahel ? Guarda i cammelli che brucano l ' erba salina su quella lama di sabbia ! Erano i cammelli di San Rossore , che venivano dal Gombo su la spiaggia sottile ove l ' onda dispone le alghe secondo la sua propria curva in guisa di mezze ghirlande .",
+        "words": [
+          "odore",
+          "della resina",
+          "della salsedine",
+          "Isabella",
+          "con un respiro che sembrava arieggiarle tutto il corpo dalla gola al pollice del piede scalzo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/a5aec11a-d3b7-50f9-a0e5-c2f6536ab11a",
+        "value": "Tutto era silenzio nella villa murata .Per la finestra aperta saliva l ' odore dei gelsomini , l ' odore delle tuberose , l ' umidore del grande vivaio .A quando a quando la ventarola gemeva sul colmigno , per un soffio improvviso , e seguiva il gemito quel lungo mugolÃ ¬ o che sempre ha il vento nella campagna di Volterra , come se si generasse dai sepolcreti .",
+        "words": [
+          "odore",
+          "dei gelsomini",
+          "delle tuberose",
+          "Per la finestra aperta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/aaa2f6b1-0024-536d-ae87-3fa00fdc09e7",
+        "value": "La donna uscÃ ¬ .Ella rimase nella vasta camera di damasco verde , che odorava di gelsomino come l ' estate del giardino di Volterra .Il gran letto era preparato ; la lunga camicia molle e trasparente era posata su la rimboccatura orlata di pizzo .",
+        "words": [
+          "di",
+          "di gelsomino",
+          "gelsomino",
+          "odorava",
+          "gelsomino come l ' estate del giardino di Volterra .",
+          "nella vasta camera di damasco verde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/ab40797f-6b77-5385-ab63-0d7ffccbddf9",
+        "value": "Un getto di vapore con un sibilo assordante vinceva ogni altro strepito .Il fetore del solfo riempiva la vasta nebbia estuante .- - Ã  l ' inferno .",
+        "words": [
+          "fetore",
+          "del solfo",
+          "riempiva la vasta nebbia estuante ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/b05a522c-a5c3-5368-a964-7060f52e78c5",
+        "value": "Hai guardato l ' amica di Roger NÃ ¨ de ? Ã  una Cretese escita or ora dal simulacro vaccino ed entrata in una spoglia serpentina di Â « chez CallotÂ » .Era spaventosa ; quasi sempre in fondo alla tettoia rude come nell ' ombra d ' un ' alcova molle , visibile a traverso i fili d ' acciaio , a traverso il polverÃ ¬ o che il vento dell ' elica sollevava dal suolo rossastro , fra gli scoppii del motore in moto , fra le tuniche azzurre dei meccanici lucenti di sudore e di olio , inguainata nella stretta gonna come nella pelle della sua pelle , tutta distinta di particolaritÃ   squisite che squisitamente vivevano su lei come le sue ciglia , come le sue unghie , come la pelurie della sua nuca , come i lobi delle sue orecchie ; liscia odorante e lubrica , con una bocca dipinta ch ' era dipinta dal rosso del minio e forse di queste parole : Â « Dal cuore premuto dell ' onta - - spremetti la dolcezza del frutto - - ch ' era mortifero , onde non resta - - se non la semenza di morteÂ » .Simili a lei altre creature apparivano lÃ   dove gli uomini s ' apprestavano a giocare il gioco che poteva essere di fuoco e di sangue , vive e artificiali , lascive e sfuggenti , ora prossime come minacce , ora lontane come larve , simili a quella e simili tra loro nelle maschere nelle attitudini nelle fogge , suscitando con le lor simiglianze il sogno dell ' enorme Vizio invisibile dalle cento visibili teste ; chÃ © le loro teste coperte dai larghi cappelli sorgevano su i lunghi fÃ ² deri dei corpi come su i lunghi colli della bestia di Lerna .",
+        "words": [
+          "odorante",
+          "liscia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/b1dae71d-158a-5ee9-8f3a-d1589f23ae97",
+        "value": "Prima il dottore domandÃ ² : - - PuÃ ² dirmi qualcosa della femmina dal grembiule rigato ? - - Non comprendo .- - L ' inferma a quando a quando vede una femmina rossiccia e albina con un grembiule rigato Â « che odora di quell ' odoreÂ » .Rifiuta di coricarsi perchÃ © dice che le hanno messo nel letto il lenzuolo cucito da colei , il lenzuolo di tre ferzi .",
+        "words": [
+          "odora",
+          "di",
+          "una femmina rossiccia e albina con un grembiule rigato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/b327c5eb-f5ba-5fed-8d7d-74320b51926d",
+        "value": "Si soffermÃ ² a piÃ ¨ della scala ; guardÃ ² il ferro della ringhiera e i gradini di marmo bianco .Â « Vale la pena di colare a picco , se non per altro , per non aver piÃ ¹ in fondo alle pupille quella fiammella giallastra che iersera illuminava la scala e che Ã ¨ la cosa piÃ ¹ lugubre della terra , piÃ ¹ lugubre del vomito fetido di un avvoltoio dopo la morte , o Vana beata , martire salva ! Â » RientrÃ ² nella casa vera , in quella dove l ' imagine di Giulio Cambiaso era chiusa nella custodia di lutto .Â « I minuti di Pratolino , la sosta per accendere i fanali ! Ecco i giochi della vita .",
+        "words": [
+          "fetido",
+          "di un avvoltoio",
+          "dopo la morte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/b3d53014-dfe2-5756-80b4-d8de49755dc9",
+        "value": "S ' intravede un muro fresco che s ' alza .C ' Ã ¨ l ' odore di quella cosa nell ' aria .Qualche volta s ' incontra per un sentiere , tra gli ulivi , uno che si ferma a guardarti e ride ride , sotto un povero berretto bianco , con un ' aria dolce .",
+        "words": [
+          "nell ' aria",
+          "odore",
+          "di quella cosa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/b7ae7d61-8f9e-57a6-840f-406fb7327962",
+        "value": "Anche il giardino era intorpidito , quasi imbiutato d ' un silenzio pingue come il miele come la cera come la gomma .Era un abbandono e una tristezza che si consumavano in profumo tardo .Gli spiriti dell ' olio si sprigionavano dal cociore dello spigo e del rosmarino ; le albicocche pendevano mÃ © zze nella fronda floscia , qualcuna sfatta , aperta sul nÃ ² cciolo , stillante ; i rosai non potati avevano sprocchi tanto lunghi e teneri che s ' incurvavano sotto una rosa scempia ; e la pallida palude vergiliana appariva di lÃ   dagli alti gigli tanto ricchi di pÃ ² lline che n ' eran lordi .",
+        "words": [
+          "profumo",
+          "tardo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/ba15671f-afb3-558c-ae15-8849f7798a9a",
+        "value": "Le selve s ' oscuravano e vaporavano all ' orizzonte .L ' odore della cuora , della resina e del legno arso era cosÃ ¬ dolce e triste che pareva nascere da un rimpianto di terra lontana , dalla malinconia di un infinito esilio .Â « Ah , fÃ © rmati ! Â » voleva ella pregare .",
+        "words": [
+          "odore",
+          "dolce",
+          "triste",
+          "della resina",
+          "della cuora",
+          "del legno arso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/bcafd507-2275-5ed2-9302-d3f4ef20abc2",
+        "value": "La lor felicitÃ   terribile non piÃ ¹ si tendeva a mordere il dolore ma ad ascoltare il grido della bellezza dilaniata e derelitta .Pareti e volte decrepite ; vecchie tele sfondate ; tavole e seggiole sgangherate dalle gambe d ' oro misere ; tappezzerie lacere accanto a intonachi che si scrostavano , a mattoni che si sgretolavano ; vasti letti pomposi , riflessi da specchi foschi ; impalcature alzate a reggere i soffitti ; e l ' odore della muffa risecca e l ' odore della calcina fresca ; e pel vano d ' una finestra due torri rosse nel cielo , un cigolio di passeri , uno schiamazzo di monelli ; e pel vano d ' un ' altra una strada deserta , una chiesa senza preghiere , il picchierellare di due stampelle ; e appeso un lampadario a gocciole di cristallo , e obliqua una striscia di sole sul pavimento ; e un altro lampadario e un ' altra striscia , e piÃ ¹ triste la cosa lucida che l ' estinta ; e ancÃ ³ ra lampadarii in fila , guasti , pencolanti , simili a fragili scheletri congelati .O desolazione , desolazione senza bellezza ! Â « Che faremo noi dell ' anima nostra ? Â » - - Un giardino ! - - gridÃ ² la visitatrice traendo verso la finestra il compagno , per una sala ampliata dalle imagini dei Fiumi .",
+        "words": [
+          "odore",
+          "della calcina fresca",
+          "della muffa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/c0a6b076-1e24-5b4e-85b2-dc7bdd605594",
+        "value": "- - Di che si ricorda ? Dica ! - - soggiunse Vana con timida insistenza , arrossendo lievemente sotto il cappello tessalico .- - Mi ricordo che , mentre l ' indovino proferiva il presagio profumato dal gengivario , una giovane Indiana dalle pastoie d ' argento era presso il banco di un mercante ; e si volse verso di noi .Egli affisava in lei uno sguardo di sogno , un sorriso smarrito .",
+        "words": [
+          "profumato",
+          "dal gengivario",
+          "e si volse verso di noi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/c28a18a2-9342-5c61-8692-9f3a2eef00e5",
+        "value": "- - Poi ti parlai di Vana , della passione di Vana .Poi ti parlai del piccolo fazzoletto color lilla , profumato di gelsomino , ch ' ella m ' aveva offerto a Mantova , nella stanza del Labirinto , per asciugare il sangue del primo bacio .Te ne ricordi ? - - SÃ ¬ - - rispondeva egli con un sordo tonfo nel petto , riudendo dentro di sÃ © la voce infiammata della vergine olivastra , come portatagli da una rÃ   ffica di tempesta .",
+        "words": [
+          "profumato",
+          "di gelsomino",
+          "a Mantova , nella stanza del Labirinto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/c39292bc-719e-5f01-a9d7-2f436904410e",
+        "value": "Allora egli era col suo compagno verso l ' ignoto ; ora egli era nell ' ignoto contro la sua compagna , e questa contro lui , in un combattimento palese e coperto , di tutti gli attimi , per stabilire una signoria e un servaggio .Ma l ' avrebbe egli amata diversa ? Quali doni l ' attraevano in lei se non quella molteplicitÃ   di aspetti , quel potere di trasfigurazioni , quella stupenda arte di mentire mista a quella tremenda voglia di soffrire , quelle maschere tragiche alternate con quelle grazie puerili , quelle maniere d ' imperatrice e di schiava , quel furore armato e quella fragilitÃ   inerme , tutti quei contrasti e quei dissidii che la rendevano innumerevole come la concordia discorde degli elementi ? Fin allora le donne non erano state per lui se non una veloce vittoria , un piacere breve , un disgusto vanito , un confuso ricordo ; e , s ' egli avesse dovuto riconoscerne alcuna nella greggia , non l ' avrebbe riconosciuta a un bagliore d ' anima ma all ' odore singolare , simile a quei mercanti di schiave che col fiuto riconoscevano la stirpe .Una grande amicizia militante preserva dall ' indugio negli amori vani , affranca dai vincoli vili , difende la mutua libertÃ   .",
+        "words": [
+          "singolare",
+          "odore",
+          "simile a quei mercanti di schiave che col fiuto riconoscevano"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/c650408b-20ef-55c9-a460-e6632639ece9",
+        "value": "Il volto dell ' Amore era osceno come quello d ' un pagliaccio vinoso .Egli vedeva la divina Isabella Inghirami seduta tra il ruffiano e il sodomita , dinanzi a un bicchiere sudicio , nel CaffÃ ¨ male odorante .La parola di vituperio , il destino l ' aveva raccolta per adempierla .",
+        "words": "odorante"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/caa1405c-9aef-5051-adb7-58394ae2e3fa",
+        "value": "Per curarle , facevi ricerca delle forbici piÃ ¹ sottili e aguzze e delle Â « lime da ungieÂ » piÃ ¹ delicate .E ordinavi i tuoi guanti a Ocagna e a Valenza , i piÃ ¹ morbidi e i piÃ ¹ odorosi del mondo .- - PerchÃ © amavo anche allora i profumi .",
+        "words": [
+          "odorosi",
+          "del mondo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/cc28dc30-48a0-53ac-8027-c4403cd1dfa7",
+        "value": "Ella aperse .Le ributtÃ ² il triste odore .- - Ã  pieno di ragnateli - - disse , e richiuse .",
+        "words": [
+          "odore",
+          "triste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/cc4670ae-07e9-56ef-a1c6-573227e374c6",
+        "value": "- - Me ne ricordo .Ella risentÃ ¬ gli sguardi timidi e diffidenti degli artieri , il fresco d ' una larga gocciola caduta dalla tettoia su la sua mano ignuda , il fruscÃ ¬ o dei trucioli all ' orlo della sua gonna , il dolore alla caviglia impigliata in un filo d ' acciaio , l ' odore della vernice e della pioggia , l ' ansia dissimulata del suo cuore sotto il suo artificio .- - Entraste , come chi apre una porta e comanda a un estraneo : Â « Lascia tutto e vieni con meÂ » .",
+        "words": [
+          "odore",
+          "della pioggia",
+          "della vernice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/cf162524-7506-5be8-8bd6-c9278fe09d96",
+        "value": "E i colpi all ' improvviso battuti sopra l ' uscio del corridoio non ruppero quel sonno ch ' era veramente il fratello del nero dÃ ¨ mone .Sentendosi scuotere , la misera si svegliÃ ² con un sobbalzo ; e urlÃ ² di nuovo terrore perchÃ © credette di vedere al suo capezzale la femmina dai capelli rossicci e lisci , dal viso sparso di lentiggini , dagli occhi albini , la femmina che portava l ' odore sinistro nel grembiule rigato , la cucitrice del lenzuolo ov ' ella aveva trovato quel sonno .Non era , ancÃ ³ ra non era .",
+        "words": [
+          "odore",
+          "sinistro",
+          "la femmina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/db278e2a-d38c-5280-9404-0f86c6278ecb",
+        "value": "Ogni spettacolo dell ' altrui passione o dell ' altrui piacere gli suscitava il rancore come per un privilegio che gli fosse tolto .Egli soffriva di ritrovarsi in quella vecchia stanza d ' albergo ingombra di bauli , piena dell ' odore languido emanato dalle vesti femminili sparse per ovunque , dai veli , dalle piume , dai guanti , dalle tante squisite cose vane ; mentre laggiÃ ¹ , nella brughiera selvaggia , sotto il nudo ricovero , un vincitore vegliava il cadavere del suo compagno avvolto nel vessillo della gara e disteso sul letto da campo , con un dolore magnanimo che agguagliava quella tettoia d ' abete e di ferro alla trabacca d ' abete e di paglia costrutta dai MirmÃ ¬ doni , ove portarono gli Achei la spoglia di Patroclo ActÃ ² ride .- - Vuol esser solo .",
+        "words": [
+          "odore",
+          "languido",
+          "dai veli",
+          "con un dolore magnanimo che",
+          "dalle vesti femminili",
+          "per ovunque",
+          "quella vecchia stanza d ' albergo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/dd5944fc-cb38-55e6-a084-bb141431b448",
+        "value": "Morivano dibattendo l ' ali , stridendo .Si raggruppavano , si raggrinzivano , pesti , arsi , con un puzzo di strinato , con un sibilo di vessiche sgonfie ; ma restavano appesi pe ' loro uncini alle radiche .- - GiÃ ¹ , giÃ ¹ , uno almeno , uno almeno ! Vana , Lunella , Isabella non piÃ ¹ parevano sbigottite ma s ' erano disgiunte per seguire quel folle gioco ; e , prese dal contagio , accompagnavano la distruzione con le loro voci rotte .",
+        "words": [
+          "puzzo",
+          "di strinato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/df6754b3-0326-5ba0-9974-cbe963687af4",
+        "value": "E ogni volta le labbra la medicavano .E tutta l ' estate , tutta l ' estate della spiaggia pisana e della Versilia verdebionda e della val di Magra , quella intiera ch ' essi ogni giorno sorvolavano con l ' ali di lino e fiutavano nella sua vastitÃ   concentrata dal volo come si fiuta un sacchetto di nardo , quella medesima odorava per lui nella pelle calorosa .E una stilla di quel sudore bastava a dissolvere tutti i pensieri , tutti i disegni , tutti i rimpianti , tutte le inquietudini .",
+        "words": [
+          "odorava",
+          "ogni giorno",
+          "tutta l ' estate",
+          "nella pelle calorosa",
+          "un sacchetto di nardo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/e46d0587-263b-5376-94c9-3ae76e807578",
+        "value": "- - Senti , - - diceva ella con quella voce che attenuandosi creava l ' increato - - sono freschi ? Piove piano su i gelsomini , contro il muro che conserva il calore del sole .Una gocciola basta a riempire il cuore d ' ogni fioretto bianco ; e non Ã ¨ piÃ ¹ una gocciola di pioggia ma d ' essenza , d ' essenza forte come quella che i profumieri estraggono in Chiraz , in Ispahan , nei paesi che tu hai veduti , che tu hai in fondo a questi occhi che per ciÃ ² sono come due turchesi , due turchesi malate di me , ora , molto malate di me , povero Aini ! Egli entrava come in un torpore magnetico , in cui il profumo la voce e la carne erano una cosa sola .- - Senti , senti ! La pioggia cresce .",
+        "words": [
+          "forte",
+          "profumo",
+          "essenza",
+          "profumieri",
+          "come quella che i",
+          "in Chiraz",
+          "in Ispahan",
+          "molto malate di me"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/eb693a6b-8ec5-5e7a-b0c5-44e925e19e8e",
+        "value": "- - Come sono ? Come sono ? - - Dove hai preso quest ' odore di gelsomino ? Stordisce .- - Non sai che io ho un giardino di gelsomini , tra due sepolcreti ? - - A Volterra ? - - Un giardino chiuso in quattro muri folti di gelsomini , e non so se piÃ ¹ odori quello di levante o quello di mezzodÃ ¬ .Senti ! Inchinandosi , ella strisciÃ ² la bocca di lui prima con l ' un braccio poi con l ' altro , mollemente , dal polso al cavo della piegatura glauco d ' arterie , dal gomito all ' ascella ove pochi fili d ' oro s ' inanellavano .",
+        "words": [
+          "odori",
+          "un giardino",
+          "Un giardino chiuso in quattro muri folti di gelsomini",
+          "quello di levante",
+          "quello di mezzodÃ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/ed3da043-5b5a-565e-8533-56e41e600f5c",
+        "value": "Ã  come se una piccola bolla di saliva vi apparisca .Vuoi ch ' io pensi che l ' effeminato dalle palpebre dipinte una notte ti piacque ? Vuoi ch ' io imagini che lasciasti toccare senza disgusto dalle sue mani profumate di muschio questa pelle ch ' io bacio ? Vuoi ch ' io mi precipiti sopra di te come sopra una meretrice a cui tutto fu lecito e nulla e ignoto ? Â » .Ma egli , come soleva , andÃ ² incontro al tormento .",
+        "words": [
+          "profumate",
+          "di muschio",
+          "dalle sue mani"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/f300ce49-00aa-510b-af8b-f38c6b116b64",
+        "value": "Ma li seguiva pel chiostro il passo della larva , molle come di chi strascichi nella belletta .E si ritrovarono davanti a una porta socchiusa , donde alitava un odore amaro .Su l ' architrave di pietra era scritto in lettere corrose : _ Domus mea _ .",
+        "words": [
+          "odore",
+          "amaro",
+          "una",
+          "porta socchiusa",
+          "socchiusa",
+          "una porta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/f7bc5ed1-9ca4-590c-aa1c-ae232accb627",
+        "value": "Una fanfara guerresca traversava le vie ondeggianti di bandiere , folte di popolo .Un grido sinistro s ' iterava nel fragore : Â « La morte ! La morte ! Â » Da lungi , da presso un altro grido rispondeva : Â « La vittoria ! La vittoria ! Â » Uomini scapigliati , curvi da una banda come storpii pel cumulo di carta che gravava il braccio , correvano a gara gridando il nome della vittima e il nome del vittorioso , sventolando il foglio ancor umido d ' inchiostro , ignobili , sozzi di schiuma , fetidi di vino .Ma la torre della Pallata , la Loggia , il Broletto , la Mirabella , i baluardi del Castello visconteo , le vecchie pietre del Comune e della Signoria , ardevano di luminarie nell ' assalito cielo .",
+        "words": [
+          "fetidi",
+          "di vino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/fb11f099-07da-561b-910a-6af35f1f2216",
+        "value": "La chioma d ' un pino toccava l ' inferriata , movendosi nell ' ombra con quel moto lento e animale che hanno le piante subacquee .- - Quanto mi piaci stasera , Aini ! - - disse Isabella a bassa voce , nel fumo e nel profumo della sigaretta , tenendo su la tovaglia i due gomiti nudi , facendo intorno al suo viso continui gesti con le lunghe mani senz ' anelli .- - Ti prego , fa ancÃ ³ ra cosÃ ¬ .",
+        "words": [
+          "profumo",
+          "della sigaretta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/fb70d0f4-0ac3-5b5b-976c-991850be5535",
+        "value": "E del sonno non rimaneva se non l ' incoerenza delle visioni che non dissipava il battito volontario delle palpebre .Una di quelle femmine , ch ' ella aveva veduto contro il muro scialbo cucire i ferzi del lenzuolo , le apparve ; posÃ ² anch ' ella il capo su la proda , stette con gli occhi stravolti nella penombra , con l ' odore sinistro nel grembiule rigato .L ' insonne levÃ ² la fronte bagnata di sudore ; e l ' atto ch ' ella compiva le fu presente come in uno specchio .",
+        "words": [
+          "odore",
+          "sinistro",
+          "ella",
+          "nel grembiule rigato"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/080e5251-5588-5011-a234-ed767b2b0eed",
+        "label": "Gabriele D ' Annunzio"
+      }
+    ],
+    "label": "Forse che sì forse che no",
+    "url": "https://www.gutenberg.org/ebooks/42673",
+    "date": "1927",
+    "language": "it"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/14c75b90-468e-538c-8c85-f0a623c533e9",
+      "label": "1927",
+      "begin": "1927",
+      "end": "1927"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/115019/",
+      "label": "Shiraz"
+    },
+    {
+      "@id": "https://sws.geonames.org/418863/",
+      "label": "Isfahan"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/sadness",
+      "label": "sadness"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/pain",
+      "label": "pain"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/disappointment",
+      "label": "disappointment"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/61139725-a9f6-5613-b5e0-c646bf7fa665/fragment/e46d0587-263b-5376-94c9-3ae76e807578"
+}

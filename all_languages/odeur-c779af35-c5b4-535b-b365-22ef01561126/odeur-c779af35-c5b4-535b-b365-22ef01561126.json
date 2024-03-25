@@ -1,0 +1,219 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c779af35-c5b4-535b-b365-22ef01561126",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/038009af-f849-573b-a31d-0f31c04701d9",
+        "value": "Ilusny ouvrit et referma la porte de sa boutique avec précaution et monta l ' escalier sur la pointe des pieds .Toundja reposait ; ses vêtements étaient épars sur les nattes , une lampe parfumée brûlait suspendue au plafond , éclairant son visage et ses bras blancs qui se croisaient sur ses cheveux .Ilusny regarda par le trou de la serrure , se releva couvert de sueur , fit un effort sur luimême , s ' éloigna sans bruit , comme il était venu , et descendit dans le jardin où il se promena jusqu ' au jour .",
+        "words": "parfumée"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/11f5d8ec-b0dc-545d-a052-d9377a60bd13",
+        "value": "— En vérité ! poursuivit le pâtissier tournant autour du caveau , je crois être transporté dans uno caverne enchantée de l ' Arabie Heureuse ! — Vous me llattez ! — Et vous n ' avez pas peur ? — De quoi ? — Que les agents « lu Grand - Seigneur fassent une descente ici ? — Si le Sultan venait m ' imposer sa loi barbare , je lui dirais : Va - t ' en de , ces lieux , Padischah , ton édit est fait pour là - haut , et ne s ' éleud pas sous la terre .— Je souhaita que , le cas échéant , celle réplique vous tire [ de danger ; mais j ' ai peine à comprendre le plaisir que vous trouvez à dépenser des sommes folles et à vous exposer à « les périls effrayants , pour une fumée puante ..",
+        "words": [
+          "puante",
+          "fumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/1637d52e-ef22-532f-81cf-11aa0270d7ab",
+        "value": "balbutia Mahmoud .— Rassurez - vous , poursuivit le fruitier , souriant à son tour ; je ne suis point un agent du corps des ulémas ; ma bouche est muette , mes yeux sont éteints , mon odorat est anéanti quand il le faut ; pensez seulement que , si vous aviez parlé à un kadi ou à un kavasse , comme vous venez de le faire à voire très - humble servant , vous ne vous en seriez pas tiré aussi heureusement , car , à coup sûr , l ' odeur pénétrante de votre haleine , et le rapprochement frappant qu ' il y a entre elle et la vapeur du vin ., .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "odorat",
+          "anéanti",
+          "mon",
+          "votre haleine",
+          "kadi",
+          "kavasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/2633f23e-9968-544e-b4f6-134eee0f181a",
+        "value": "Son cadavre fut transporté dans la cour qui précède les appartements intérieurs , et après LA TÊTE DE FER .73 que le précepteur des princes et l ' imam du sérail l ' eurent lavé , on l ' ensevelit dans le tombeau du sultan Mustapha , devant la porta d ' Aya - Sofia , tandis que les officiers de la grande et de la petite chambre lisaient le Coran et brûlaient de l ' aloès cl de l ' ambre , afin que son âme , bercée , suivant la superstition orientale , sur les nuages des parfums et les flots de la prière , pût s ' envoler doucement au sein de l ' éternelle lumière et de l ' éternel repos .MEHEMET LE FUMEUR ET MAHMOUD L ' IVROGNE .",
+        "words": [
+          "parfums",
+          "aloès",
+          "ambre",
+          "tombeau",
+          "porta d ' Aya - Sofia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/28baa292-1c2f-512b-8a5d-8623800e6669",
+        "value": "Ne cherchant que la distraction , il la saisissait , de quelque façon « pi ' elle se présentât .Le fumier ou les parfums , tout lui était bon .Volontiers il eût fini comme Sardanapalc , pour procurer à 112 SIX AVENTURES TURQUES .",
+        "words": [
+          "parfums",
+          "fumier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/2986c11b-494c-5cad-ae9b-e914460b1636",
+        "value": "Prenez garde que votre femme ne vous en fasse autant , et dites - moi si cet exemple ne vaut pas les opinions d ' Hippocrate , deGalien , d ' Arislote ? D ' ailleurs , et cela me suffit , Mahomet , que la bénédiction du ciel soit avec lui , a écrit dans ta Coran : « Le vin est une abomination suggérée parle démon .Au moment où l ' homme prend en main un verre de cette liqueur , il est frappé d ' anathème par tous les anges du ciel el de la terre ! » Vous reprochez au tabac une saveur acre , .unef odeur nauséabonde ; cette saveur , celte odeur sont des preuves de ses vertus stimulantes et somnifères , cinétiques et purgatives .",
+        "words": [
+          "acre",
+          "liqueur",
+          "tabac",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/312e6b39-3100-5aa4-a16a-c331cf14eb18",
+        "value": "— Proposition de Uarbct .L ' entrée des lournebrochcs fit sensation , et leur passage à travers la foule , qui s ' était rapprochée , faillit causer une émeute , tellement l ' odeur pénétrante des boudins , des saucisses , du quartier de venaison impressionna chacun .Les oreilles étaient tendues , les yeux braqués sur les cabas des étrangers , les nez s ' enflaient à respirer le fumet des comestibles .",
+        "words": [
+          "pénétrante",
+          "odeur",
+          "boudins",
+          "venaison",
+          "saucisses",
+          "chacun",
+          "lournebrochcs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/3bdf4e67-d436-5312-aa02-f7f81f5d7d32",
+        "value": "On fait celle récolle en pratiquant une incision dans le Ironc de l ' arbre , incision par laquelle coule le maslie qu ' on reçoit dans des vases de mêlai .Les Turques cl tes Grecques sont très - friandes de celte gomme qui donne à la LouVhe un parfum agréable cl à laquelle les Scioles prêtent mille qualités .Le gouvernement Ottoman s ' est empiré de celte branche de commerce sur laquelle il a mis un impôt .",
+        "words": [
+          "agréable",
+          "parfum",
+          "celte gomme",
+          "LouVhe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/51c5490a-7d02-58a2-b242-ad7032a31c77",
+        "value": "anses terribles ; pourtant , ni l ' un ni l ' autre n ' eût échangé l ' outre pleine « le nectar , le paquet de tabac qu ' il venait d ' acheter , « notre le trône d ' Osman , si ou le lui rôt proposé .Vivant porte à porte depuis des années , ils se connaissaient ; h ; changement qui s ' était opéré dans leurs allures depuis quatre ans n ' avait pu s ' oflecltior sans « puis s ' en aperçussent réciproquement ; mais par prudence ils s ' élaicul gardé h ; secret ; car il suffisait « l ' exhaler l ' odeur de l ' un des produits prohibés , pour être pendu parties janissaires , sans forme « le procès , à la première lanterne de la rue .Néanmoins chacun attendait impatiemment l ' occasion « 1e prouvera sou voisin qu ' il connaissait son faible ; c ' est pounpioi nous avons vu le pâtissier , ayant bu un peu plus que de coutume , et s ' en allant , « lodclin ' uil de la tèle , « lu côté « lu grand port , accrocha le fruitier au passage , après s ' être juré , in petto , ceci eu le voyant : « Je n ' eu aurai pas le démenti ; nous causerons , ou L ' hitoti ( le diable ) m ' emportera ! » Mahmoud avait mal choisi son moment ; car Méhémet connaissait eu partie h ; nouveau llalli - ilumayouu , etde plus il portail une charge de tabac provenant d ' un navire contrebandier arrivé le malin eu rade .",
+        "words": [
+          "odeur",
+          "depuis des années",
+          "depuis quatre ans",
+          "des produits prohibés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/5d33d0a6-a552-500a-b980-d005a17cd5d6",
+        "value": ", 5 trouvée fut un de ses plus intrépides défenseurs .En 1831 , il accomplit son voeu de pèlerinage , et mourut à Médine , en odeur de sainteté , heureux d ' avoir recouvré ses moustaches plus longues que jamais .3 - II * LA TÊTE DE FER i La révolte au camp .",
+        "words": [
+          "Médine",
+          "odeur",
+          "En 1831"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/5d523513-13d0-56ef-868c-bf6356ac1ecc",
+        "value": "\\ ï \\ sier taudis que celui - ci , s ' emparanl d ' un flacon , emplissait une coupe .— C ' esl du bordeaux , dil - il après avoir humé le vin .Les chrétiens l ' estiment beaucoup , el le patriarche romain de ces infidèles , qui sait ce qui est bon , n ' en use pas d ' autre .",
+        "words": [
+          "vin",
+          "après avoir",
+          "humé",
+          "bordeaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/6b26f3ad-9022-5c86-a966-d6589829ca0c",
+        "value": "Au moment où l ' homme prend en main un verre de cette liqueur , il est frappé d ' anathème par tous les anges du ciel el de la terre ! » Vous reprochez au tabac une saveur acre , .unef odeur nauséabonde ; cette saveur , celte odeur sont des preuves de ses vertus stimulantes et somnifères , cinétiques et purgatives .Vous vantez les propriétés de votre liqueur sur le cerveau ; celles du tabac , pourrait - on les nombrer ? Pourrait - on analyser la multitude de sensations agréables que l ' on goûte avec lui et par lui ? En poudre , il produit sur la membrane piluitaire un chatouillement convulsif d ' une incomparable douceur ; en machtcatoirc , il a une saveur à nulle autre pareille .",
+        "words": [
+          "odeur",
+          "nauséabonde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/6ef6ea07-df19-54c7-825c-84c3faee51cf",
+        "value": "Leur guide , mâtin efflanqué , les attendait derrière une haie .L ' odeur des comestibles l ' agita d ' une façon inquiétante ; la contenance des tournebroches le tint en respect .Le cénacle où se tenaient les délibérations des chiens errants de Constantinople était une ancienne citerne construite à la fin du quatrième siècle par l ' empereur Théodose le Grand , pour garantir les habitants contre la pépie , dans le cas où les barbares , qui commençaient à infester le colosse romain , viendraient à faire le siège de la ville , à couper les conduits des fontaines publiques , à détourner le cours des eaux douces .",
+        "words": [
+          "odeur",
+          "l",
+          "comestibles",
+          "inquiétante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/708f199a-af31-5418-849d-9eedfd4c3ccb",
+        "value": "A cet instant , l ' orage , qui depuis cinq minutes grondait , éclata avec violence .gréant , pestiféranl , pleurant , brandissant avec rage son couteau de cuisine , qu ' à l ' exemple de Vatel il voulait se plonger dans le coeur .Qu ' est - ce qui pouvait troubler ainsi la cervelle de ce disciple du dieu des rôtisseurs ? Nous allons l ' expliquer .",
+        "words": [
+          "gréant",
+          "pestiféranl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/80fc098c-7dd7-565d-a5eb-22943ed8976c",
+        "value": "— Mécréants , dit - il , vous avez fait vibrer MÈHÊMET LE FUMEUR ET MAHMOUD L ' iVROGNE .\\ ï > en moi des cordes inconnues ; vos paroles ont résonné dans mon âme comme une lyre ; les vapeurs de vos plantes sont tombées sur mes sens comme la rosée sur les fleurs du désort .Soyez bénis pour les douces sensations que vous m ' avez procurées , et rcmercicz - lc ciel des vertus du vin et du tabac , car je vous fais grâce , — Dieu ! s ' écrièrent les deux voisins en se précipitant la face contre terre .",
+        "words": [
+          "vapeurs",
+          "plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/a18e82e8-4209-5259-8dce-51d83a045af6",
+        "value": "bérer ; Barbet et Griffon ne purent retenir un jappement de surprise en y pénétrant .Des échantillons de toutes les espèces de ce quadrupède que les naturalistes ont reconnu comme le plus intelligent , le plus familier , le meilleur des animaux , y pullulaient : le mâtin commun , aux oreilles pendantes , aux membres vigoureux , fidèle gardien des troupeaux et delà maison ; le lévrier , au museau pointu , au front surbaissé , aux formes svcllcs ; le grand koupara , originaire d ' Amérique , pêcheur de crabes et d ' écrevisses ; le Danois , au pelage fauve ; le Terre - Neuve à la tête forte , au poil soyeux , à la queue panachée ; le chien de berger , aux oreilles courtes et droites , au poil hérissé , à la queue horizontale , remarquable par ses facultés intellectuelles , sa sobriété , son dévouement à son maîIrc ; le chien du mont Saint - Bernard , croisé du mâtin et du Terre - Neuve , qui a hérité de l ' intelligence de l ' un et de la force de l ' autre ; le barbet , ou caniche , qui ne le cède à aucun pour l ' attachement ; le chien de chasse , à l ' odorat fin , aux oreilles tombantes ; le terrier , aux jambes courtes , au pelage ras , intrépide chassscur de renards ; le braque , au nez fendu ; le basset , à la tète forte , aux jambes torses ; le dogue , au museau court , aux lèvres pendantes , aux oreilles petites , au corps robuste , aimant uniquement son maître et dangereux aux étrangers ; le hou - AVENTURES DE DEUX CHIENS .170 lcdoguc , le inopsc , le roquet , le quatre - vingts , le chien turc ( 1 ) à la tête ronde , au museau effilé , aux membres grêles , à la peau huileuse et dépourvus de poil ; le chien do rue , etc .",
+        "words": [
+          "odorat",
+          "fin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/cfe2f187-01c5-5855-b4b7-11e1fca72886",
+        "value": "le lui prouverai , comme cet oranger est un oranger , qu ' il n ' est qu ' un âne .Il faut être Dieu pour avoir créé la vigne , et diable pour avoir donné au monde la passion de brûler celte feuille puante qu ' ils appellent tabac .Par Mahomet ! qu ' on me trouve un bonheur plus grand que celui que je ressens en ce moment .",
+        "words": [
+          "puante",
+          "feuille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/ee4e35e6-4ff5-5a05-9e9d-9ce4047904b4",
+        "value": "unef odeur nauséabonde ; cette saveur , celte odeur sont des preuves de ses vertus stimulantes et somnifères , cinétiques et purgatives .Vous vantez les propriétés de votre liqueur sur le cerveau ; celles du tabac , pourrait - on les nombrer ? Pourrait - on analyser la multitude de sensations agréables que l ' on goûte avec lui et par lui ? En poudre , il produit sur la membrane piluitaire un chatouillement convulsif d ' une incomparable douceur ; en machtcatoirc , il a une saveur à nulle autre pareille ..",
+        "words": [
+          "liqueur",
+          "tabac",
+          "il",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/fc60b61e-c99e-53c0-b475-cfba6e9ea293",
+        "value": "Que serais - je devenu , si les agents du Grand - Stugueiir s « ; fussent approchés .Ce marylainl exhale un parfum ! ..",
+        "words": [
+          "parfum",
+          "marylainl"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/479666cf-80fa-5653-8448-ca2e654e8ef9",
+        "label": "Armand  Dubarry"
+      }
+    ],
+    "label": "Six aventures turques / par Armand Dubarry",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k58093245",
+    "date": "1878",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/09d88220-86cd-566f-b5de-57fde4af3c05",
+      "label": "1831",
+      "begin": "1831",
+      "end": "1831"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/109223/",
+      "label": "Medina"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/calmness",
+      "label": "calmness"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/458d884a-fbe6-5331-8385-9501a627cb24/fragment/5d33d0a6-a552-500a-b980-d005a17cd5d6",
+  "license": "Public domain"
+}

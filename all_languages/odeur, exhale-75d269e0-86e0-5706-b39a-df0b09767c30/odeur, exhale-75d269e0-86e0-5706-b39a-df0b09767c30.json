@@ -1,0 +1,89 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/75d269e0-86e0-5706-b39a-df0b09767c30",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odeur",
+    "exhale"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/16b0c436-7b21-5948-8ada-e3c1a9d2256f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/16b0c436-7b21-5948-8ada-e3c1a9d2256f/fragment/12ac609b-2b31-5af4-93bd-16bf0fda819d",
+        "value": "La lèpre , au contraire , était très bien étudiée et décrite par le législateur hébreu .Pour savoir exactement sous quelles formes atroces se présentait autrefois la lèpre , il suffit de lire le passage suivant du voyageur Maundrelle dans son « Voyage d ' Alep à Jérusalem » : - - « Là lèpre est une maladie terrible , où successivement et Ilâr degrés , la peau semée de taches rouges ou noires se durcit , se ride et se crevasse avec d ' insupportables démangeaisons ; ou le nez s ' enfle , les oreilles s ' épaississent , le visage se déforme , la bouche exhale une odeur infecte ; ou enfin les jointures des pieds et des mains , tuméfiées , se couvrent d ' abcès et d ' ulcères incurables , les ligaments se détruisent , et les membres tombent les uns après les autres , jusqu ' à ce que le tronc n ' offrant plus que le dernier degré de la corruption humaine , le mourant termine , dans les souffrances , des jours passés dans la stupeur ou dans l ' angoisse .» Un mal de cette nature ne pouvait manquer d ' attirer l ' attention du législateur .",
+        "words": [
+          "Alep",
+          "Jérusalem",
+          "infecte",
+          "odeur",
+          "bouche",
+          "exhale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16b0c436-7b21-5948-8ada-e3c1a9d2256f/fragment/2fc0a73c-ec0c-542e-b801-1e9778afa81e",
+        "value": "Le statut suivant prouve bien que , du temps de Moïse , il existait des personnes occupées à traiter les maladies : « L ' homme qui aura blessé son prochain d ' un coup de pierre ou d ' un coup de poing , le dédommagera du temps perdu , et le fera guérir » .Plusieurs contemporains de Salomon furent renommés pour leur zèle à rechercher les vertus des plantes ; et les proverbes font peut - être allusion à l ' art médical , lorsqu ' en parlant de la sagesse , ils disent : « Elle sera comme un médicament à ton ventre et une humectation à ' tes os » .Les chroniques rappellent aussi que les soins des médecins furent infructueux auprès du roi Asa , attaqué de la goutte .",
+        "words": [
+          "Salomon",
+          "plantes",
+          "humectation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/16b0c436-7b21-5948-8ada-e3c1a9d2256f/fragment/8b2822b4-5f8b-5cd7-968f-acff34c3f991",
+        "value": "Pour éviter l ' infection par la viande , on reconnait aujourd ' hui que les animaux doivent être bien saignés avant d ' être livrés à ' l ' alimentation .La viande de l ' animal mal saigné est exposée beaucoup plus facilement à la décomposition et aux phénomènes d ' altérations putréfactives qui donnent à la viande la couleur , l ' odeur et la consistance de la viande malade .Or , la manière de schechitah consiste dan ? l ' évacuation brusque du sang par la section des veines jugulaires et des carotides .",
+        "words": [
+          "odeur",
+          "viande",
+          "viande de l ' animal mal saigné",
+          "viande malade"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/0ad67abb-5d0f-5c33-88c6-22dfe35f0d3c",
+        "label": "Schlioma  Kharon"
+      }
+    ],
+    "label": "Etude sur les principes médicaux et hygiéniques des Hébreux / Schlioma Kharon,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6503478p",
+    "date": "1914",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/632",
+      "label": "Mouth"
+    }
+  ],
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/632",
+      "label": "Mouth",
+      "exemplifies": "http://data.odeuropa.eu/vocabulary/olfactory-objects/632"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f5b0a0f0-ba64-5e68-8930-5b07c4e72a9d",
+      "label": "1914",
+      "begin": "1914",
+      "end": "1914"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/170063/",
+      "label": "Aleppo"
+    },
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/16b0c436-7b21-5948-8ada-e3c1a9d2256f/fragment/12ac609b-2b31-5af4-93bd-16bf0fda819d",
+  "license": "Public domain",
+  "adjective": "infecte"
+}

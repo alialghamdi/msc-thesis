@@ -1,0 +1,104 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/212b05bc-cbf3-5cb6-87db-f3fe70b94178",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "odour",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/54ab08cb-de03-578e-b87e-0ae2c934f8af",
+        "value": "NeA * er ask a woman Avhy she says this or that .If you do get an ansAver , it is not often the correct one — Frank , that ruby lamp is going going out , turn it down before it begins to smell , and light this hanging one just over my head , ' pointing to a small SAA ' inging and rather rickety lamp , Avhich Avas more for ornament than use , judging by the light it emitted , after Frank ' s efforts to kindle it had been successful ; indeed , the 219 SINNED AGAINST YET SINNING .moon shining through the open window , did more to light the room , than the two or three tiny oriental lamps burning in A * arious niches and corners , iioav that the large one Avas hors - cle - combat .",
+        "words": [
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/a579e3a0-892d-5eb1-bee5-42a45c762f5e",
+        "value": "crease the very meagre display of light by Avhich the room Avas illuminated .A strong smell of incense and cinnamon alumettes , — both of Avhich scents delighted delighted the nostrils of Mrs .Albany Green , and which she Avas for ever burning , — coupled Avith the odour that invariably hangs about Cairo Avood - Avork , served to increase the oriental surroundings of the room , till you could easily fancy , Avithout any great stretch of imagination , — particularly particularly Avhen the stained - glass AvindoAvs Avere closed , — that you actually stood in the apartment of some Pasha or oriental magnate , magnate , thousands of miles from Avhere you really Avere — in the heart of Wales .",
+        "words": [
+          "strong",
+          "the",
+          "smell",
+          "scents",
+          "the nostrils",
+          "of incense",
+          "of",
+          "Avhich",
+          "nostrils of",
+          "of Mrs .",
+          "cinnamon alumettes",
+          "delighted delighted the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/cd703a9a-5c68-598d-9649-d0a410ccb868",
+        "value": "Give me your arm , this gravel is not pleasant to Avalk upon in thin satin shoes .' So saying , she lightly placed her hand upon his arm , and then slowly sauntered up and doAvn the terrace , AA * hile even the fragrance of Frank ' s cigarette Avas poAverless to subdue that subtle perfume which seemed to float round this woman , as she Avalked by his side , her hand upon his arm , her hair almost touching his at times , as she leaned over to speak to him .At that moment a servant appeared at the window of the smoking - room to say that coffee was ready , and , as that apartment apartment also opened on to the terrace , they sloAvly turned their steps in that direction , notAA ' ithstan ding Frank ' s observation , ' That VOL .",
+        "words": [
+          "perfume",
+          "fragrance",
+          "subtle",
+          "at times",
+          "of Frank ' s cigarette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/d248957b-e9f5-5238-af42-8a2259f42842",
+        "value": "A strong smell of incense and cinnamon alumettes , — both of Avhich scents delighted delighted the nostrils of Mrs .Albany Green , and which she Avas for ever burning , — coupled Avith the odour that invariably hangs about Cairo Avood - Avork , served to increase the oriental surroundings of the room , till you could easily fancy , Avithout any great stretch of imagination , — particularly particularly Avhen the stained - glass AvindoAvs Avere closed , — that you actually stood in the apartment of some Pasha or oriental magnate , magnate , thousands of miles from Avhere you really Avere — in the heart of Wales .That this room exactly suited its mistress , mistress , and tended to enhance the general effect of her beauty , goes without saying ; and as she threAV herself back among a pile of soft cushions , Avith her fair hair gleaming against the black satin and gold embroidery , with her Avhite arms clasped 214 HUGH DEYNE , OF PLAS - IDRYS .",
+        "words": [
+          "odour",
+          "about Cairo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/d8759afe-5a96-54e6-97b1-476a91e8f3cc",
+        "value": "' n 2 180 HUGH DEYNE , OF PLAS - IDRYS .Noav Frank was not the sort of man to deny his friendship for this woman , because because she had got into bad odour among those who , a short time ago , had thought no one like her ; so he boldly ansAvered , ' Yes ! Mrs .Lannsley Avas quite right .",
+        "words": [
+          "odour",
+          "bad",
+          "she"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/f5c5b87e-df7c-5754-ad05-d49485cd800d",
+        "value": "' I have some at Ellington , but I do not think it is in as good condition as this .' ' When are you going to invite me to Ellington ? ' asked his companion , as she rose from the table , and walked to the window Avhich was open , and through Avhich the scent of mignonette and heliotrope heliotrope Avas plainly perceptible , in spite of the opposition odour of dinner Avhich pervaded pervaded the room .' I suppose it is an enormous place , is it not ? ' Whether accidentally , or by design , Eva Green had so placed herself that her face Avas invisible to Frank , and he could only see the back of her Avell - shaped head and neck , as she leaned out of the open Avindow Avindow ; but , on his rising to join her , she had stopped him by saying , 205 SINNED AGAINST YET SINNING .",
+        "words": [
+          "heliotrope",
+          "odour",
+          "perceptible",
+          "scent",
+          "his",
+          "the room",
+          "of mignonette",
+          "of dinner",
+          "opposition"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/ab34ec9c-0b03-5d2c-85b3-7491ed1a820f",
+        "label": "Vere CLAVERING"
+      }
+    ],
+    "label": "Hugh Deyne of Plas-Idrys",
+    "date": "1893",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5de7592d-5d13-5dac-8d5e-348bf33a90b7",
+      "label": "1893",
+      "begin": "1893",
+      "end": "1893"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/e97ac690-dd1e-5772-991e-5e8c38ec5729/fragment/d248957b-e9f5-5238-af42-8a2259f42842"
+}

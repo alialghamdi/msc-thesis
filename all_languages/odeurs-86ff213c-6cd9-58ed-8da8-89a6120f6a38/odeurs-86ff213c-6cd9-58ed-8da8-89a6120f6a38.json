@@ -1,0 +1,135 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/86ff213c-6cd9-58ed-8da8-89a6120f6a38",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeurs",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/641b731e-0af4-585b-86f1-45715309205d",
+        "value": "Si le repas a eu lieu pendant la chaleur du jour , cette sérénité conduit tout doucement à la sieste .Les heures s ' écoulent lentement , à regarder le soleil descendre , tandis que dans l ' air flottent les pénétrantes senteurs du jardin .CHAPITRE X LE MAROCAIN CHEZ LUI : A LA CAMPAGNE — LA VIE COLLECTIVE Aux champs , le paysan , qu ' il soit riche ou pauvre , présente toujours toutes les apparences de la plus grande pauvreté .",
+        "words": [
+          "air",
+          "senteurs",
+          "pénétrantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/64472339-4c4c-5c0d-ac0d-d41f4760f28b",
+        "value": "La n ' zalah est presque toujours située à proximité d ' un village , dont la population est responsable de la sécurité des voyageurs qui y viennent camper .Le sommeil de l ' Européen dans l ' enciente d ' une n ' zalah n ' est pas toujours paisible , en raison des odeurs ou des parasites que le sol y laisse libéralement filtrer .Aussi , le voyageur expérimenté choisira - t - il , à quelque distance , une place d ' herbe rase , encore vierge de toute souillure , où il fera dresser sa tente , qui , sous la garde de deux habitants du village , spécialement requis , lui offrira pour la nuit un maximum de confort joint à un maximum de sécurité .",
+        "words": [
+          "odeurs",
+          "Européen",
+          "zalah"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/6badfb95-c9e1-5962-aa13-fa3113c91386",
+        "value": "Sans cette responsabilité collective du village , que de meurtres isolés et de pillages éhontés auraient été commis , dont elle a su préserver les routes marocaines , déjà si peu sûres ! CHAPITRE XI LE MAROCAIN CHEZ LUI : A LA CAMPAGNE — LA VIE FAMILIALE PÉNÉTRONS maintenant sous la tente — ou dans la hutte — et tâchons d ' y surprendre la vie de la famille rurale qu ' elle abrite , dans toute sa rude simplicité .Le mobilier est bien modeste ! Un métier , sur lequel les femmes tissent à la main les burnous et djellabas communes ; un moulin à bras pour transformer le grain en farine ; une lampe grossière , simple soucoupe en terre dans laquelle une mèche , fuligineuse et malodorante , brûle sur un doigt de graisse de mouton ; quelques jarres pour aller chercher l ' eau du ménage ; une natte pour dormir ; une théière et sa boîte à thé , mais ce dernier raffinement demande déjà un certain degré d ' aisance relative .Le moulin à bras que cette jeune femme met en mouvement , va faire revivre sous nos yeux une scène d ' intérieur contemporaine d ' Abraham ! Figurez - vous deux pierres rondes , plates , dont l ' une tourne librement autour d ' un pivot en bois dur , solidement incrusté dans l ' autre ; on met le grain dans l ' espace vide entre les deux pierres , puis la broyeuse commence à faire tourner la pierre supérieure autour de son axe , au moyen d ' un morceau de bois , fixé dans le rebord qui joue le rôle de poignée .",
+        "words": [
+          "malodorante",
+          "fuligineuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/8d3587ad-2959-5f36-a35d-ae6ccf93b8fe",
+        "value": "Mais des géraniums de toute couleur y croissent jusqu ' à trois mètres de haut ; des rosiers grimpants s ' élancent le long des treillages .Le parfum des orangers et des citronniers s ' y mêle aux senteurs des verveines , et les troncs des palmiers balancent au - dessus des taillis odorants , le panache élégant des nobles palmes .L ' irrigation est assurée par des bassins , que des noriahs remplissent .",
+        "words": [
+          "parfum",
+          "senteurs",
+          "odorants",
+          "nobles",
+          "orangers",
+          "citronniers",
+          "verveines",
+          "troncs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/9b37ff9d-0408-549f-a119-9b6131297ff1",
+        "value": "Leur année 1329 va du 1er Janvier au 20 Décembre de notre année 1911 .Lorsque le Ramadan tombe en hiver , la pénitence n ' est pas trop rude ; mais si c ' est en été , il faut vraiment , parfois , faire montre d ' héroïsme pour ne pas commettre d ' infraction au précepte ! Songez , mes chers amis , ce que doit être , dans les longs jours de Juin , quand le soleil se lève avant cinq heures pour se coucher après sept heures et demie — il reste un peu moins longtemps sur l ' horizon que chez nous — l ' abstention de tout rafraîchissement , quelle que soit la soif , ou la fatigue , du fidèle ! Et sous un ciel brûlant , qu ' on soit en route ou à la maison , qu ' on longe les rivages tempérés de l ' Atlantique , qu ' on escalade les vallées de l ' Atlas , qu ' on descende les versants rocailleux du Sahara , le Musulman , inlassablement respectueux des prescriptions de sa foi , ne prendra aucun aliment , solide ou liquide , aussi longtemps qu ' on ne pourra , suivant l ' expression du Saint Livre , confondre , aux mourantes clartés du jour , un fil noir avec un fil blanc ! Quel Chrétien fervent ne rougirait de se voir , en matière de mortification pleinement acceptée et mise en pratique , dépassé de si loin par le commun des Infidèles ? Par contre , une fois le soleil couché , l ' Infidèle se rattrape ! Le même homme qui vous a surpris tout à l ' heure par son invraisemblable faculté de résistance aux sollicitations de la soif et de la faim , vous étonnera maintenant par ses aptitudes insoupçonnées au gavage de nourriture et de boisson le plus méthodiquement intensif ! Ce ne sont , au seuil de chaque logis , que joyeux devis autour des « tadjins » fumants , ragoûts de mouton à toutes les sortes de légumes possibles , des plats de « couscous , » pyramides de semoule très savoureuse , arrosés de sauce au piment ou de lait parfumé .Qui n ' a pas mangé les aloses de l ' Oum - er - rebbia , le grand fleuve du Maroc central , rôties au beurre frais , acidulées de citron et coupées en tranches épaisses à demi gratinées , ignorera toute sa vie la seule façon digne d ' un gourmet d ' accommoder un poisson d ' eau douce .",
+        "words": [
+          "parfumé",
+          "lait",
+          "jours de Juin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/afdd2bb8-6625-555d-9c67-421a9c5c2d1c",
+        "value": "Mais , ne vous y trompez pas : la sympathie n ' y est pour rien ; la compassion envers l ' âme perdue d ' un infidèle , pour moins encore .La curiosité seule est en cause , et ce sont les nouvelles du pays parcouru — du « beled » comme ils disent — que ces notables désirent et viennent chercher près du chrétien maudit ! Le thé vert , il est vrai , servi très sucré , bouillant , avec son parfum de menthe , est bien aussi pour quelque chose dans l ' empressement de ces braves gens , car ce thé , vrai sirop très aromatisé , est la suprême gourmandise marocaine .Une heure , deux heures se passent , assez vite en somme , à bavarder par le moyen de l ' interprète .",
+        "words": [
+          "parfum",
+          "menthe",
+          "thé",
+          "aromatisé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/b18e6784-e63f-50ee-b1bb-0779fec911e7",
+        "value": "Pendant que nous avons visité le jardin , on a achevé de préparer le repas , et sur l ' invitation de l ' hôte , nous pouvons , sans plus attendre , nous asseoir sur les coussins .Voici l ' aiguière et le bassin qu ' on nous présente ; nous nous lavons les doigts , sans omettre le savon parfumé , qu ' on nous offre en poudre — une nouveauté sans doute — et nous les essuyons avec une serviette - éponge , venue en ligne droite de quelque grand magasin de Paris .Deux serviteurs apportent successivement les différents services .",
+        "words": [
+          "parfumé",
+          "nous",
+          "savon",
+          "nous nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/b66596ac-f310-56c6-ac58-1ee7e1b9d5cd",
+        "value": "Les restaurants en plein vent fonctionnent — nous l ' avons vu quand je vous ai parlé des voyages du Sultan — sans beaucoup plus de peine .Un trou entre deux pierres pour le foyer ; sur quelques charbons ardents , le samovar qui fournit à d ' innombrables tasses , de ce thé vert , parfumé de menthe , dont les Marocains de toute condition raffolent .Dans un cartonnage criard , du sucre cassé au marteau , qui vient de Marseille , et dans un plat de faïence grossière ébréché , d ' affreuses pâtisseries tièdes à l ' huile rance .",
+        "words": [
+          "parfumé",
+          "thé",
+          "Marocains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/c4647cb9-43c8-5f8e-9a31-0e61ca2cc221",
+        "value": "Comme nous avons notre Carême , les Musulmans ont leur mois de Ramadan , pendant lequel ils font pénitence .Mais , cette pénitence est bien plus sévère que la nôtre ! Du lever au coucher du soleil , depuis le premier jour du mois jusqu ' au dernier , pas une bouchée d ' un aliment quelconque , pas une gorgée d ' eau , ne peuvent franchir le seuil des lèvres ! Fumer même est interdit , et la rigueur de conscience est telle , chez les Marocains vraiment pieux , qu ' ils ramènent précipitamment , s ' ils viennent à croiser un fumeur , un pan de leur burnous sur le bas du visage , afin de priver leurs narines du plus léger contact avec la bonne odeur défendue ! Les années de l ' Islam sont de onze jours plus courtes que les nôtres ; les mois y comprennent , alternativement , vingt - neuf et trente jours .Il en résulte que tous les ans , le Ramadan revient onze jours plus tôt et se trouve parcourir toutes les saisons de l ' année solaire , trois fois par siècle .",
+        "words": [
+          "bonne",
+          "odeur",
+          "visage",
+          "Marocains",
+          "premier jour du mois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/db7c5a71-7510-59cd-a84b-5e940335dc1b",
+        "value": "Sur le foyer qui déjà pétille — il n ' a pas demandé grand travail : c ' est un simple trou , creusé dans le sol , où quelques brindilles de bois , matière précieuse et rare , ont été minutieusement rangées — voici le potage en tablette , au fumet savoureux .Puis tout à l ' heure , ce sera l ' omelette , le poulet rôti , généralement assez maigre ; et enfin , point culminant du bien - être , le café bouillant et parfumé ! Le cigare , naturellement , l ' accompagne , Manille ou Havane , de provenance espagnole , sucré d ' un léger goût de vanille qui n ' est pas sans charme .La pipe , aussi , plus pratique en plein air , a ses adeptes , pour lesquels nul tabac ne peut entrer en lutte avec le caporal Français .",
+        "words": [
+          "Manille",
+          "parfumé",
+          "Havane"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/16cdcb89-0de6-5938-a640-c1a1d8178dba",
+        "label": "Commandant  Haillot"
+      }
+    ],
+    "label": "Le Maroc (hier et aujourd'hui) : orné de douze planches / par le Commandant Haillot,... ; préface de Jean Aicard,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6577493j",
+    "date": "1911",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29ce4f30-b5c5-5df4-b3eb-f13c313f90a9",
+      "label": "1911",
+      "begin": "1911",
+      "end": "1911"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/98288/",
+      "label": "‘Ayn Zālah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/171e2def-76d3-54ee-a8fb-5092dc60a22f/fragment/64472339-4c4c-5c0d-ac0d-d41f4760f28b",
+  "license": "Public domain"
+}

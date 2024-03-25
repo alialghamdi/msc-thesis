@@ -1,0 +1,196 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/89144d1d-985e-52b1-87f7-333bf6692674",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/072f8d20-1980-5d73-8534-7a2e32d76368",
+        "value": "Des familles entières du faubourg du Temple sont installées autour des tables ; c ' est le samedi soir ; l ' ouvrier a reçu sa paye ; il est encore vêtu de la blouse du travailleur ; ce n ' est que demain dimanche qu ' il lavera ses mains calleuses ; devant lui , un ' grog ; la buée se dégage du verre ; sur l ' eau chaude , mêlée d ' eau - de - vie , nage une tranche de citron ; les pépins se sont détachés et gisent au fond du verre à côté du sucre qui , fondant dans l ' eau chaude , remonte à la surface par petits globules , pour se replonger ensuite dans le fond .Une odeur de sueur se mêle aux émanations de l ' alcool et du tabac ; l ' atmosphère est empestée ; un enfant qui miaule aux seins desséchés d ' une brocheuse se tait tout à coup , tandis que sa mère pousse un cri ; elle a senti sur sa robe une humidité que signale une odeur âcre ; elle écarte vivement le mioche , qui achève sa besogne dans le grog de l ' ouvrier .Cette saleté fait rire le public , qui en a vu bien d ' autres .",
+        "words": [
+          "âcre",
+          "odeur",
+          "sueur",
+          "atmosphère",
+          "tabac",
+          "émanations",
+          "empestée",
+          "alcool",
+          "robe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/0c4898fa-c551-54a3-9c8f-2580e03a6ef2",
+        "value": "Mais , patience ! Le monde n ' est pas encore sur le point de s ' écrouler dans la boue et la honte .Nous savons tous qu ' au fond du lac limpide et majestueux il y a la vase nauséabonde ; elle peut parfois , dans la tourmente qui agite les eaux , remonter à la surface et en ternir la pureté , mais ce n ' est là qu ' un accident .La tourbe est destinée à redescendre au fond de la société , comme la vase , par sa propre pesanteur , redescend dans les ténè - bres , sans qu ' il reste d ' elle une trace .",
+        "words": [
+          "nauséabonde",
+          "vase"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/39dfbd63-f2d6-5cf5-8d99-6a461b58acce",
+        "value": "Est - il possible qu ' on puisse infliger de si odieux traitements à un pauvre petit être sans que , pendant deux ans , il en transpire quelque chose au dehors , sans qu ' un voisin entende les cris et qu ' il intervienne personnellement , quand il ne court pas chercher le commissaire de police ? Vous ne le pensez pas , et je crois , moi , que de tels méfaits ne pourraient se commettre impunément pendant deux ans , si chacun faisait son devoir et si les criminels ne trouvaient pas des auxiliaires dans la lâcheté des uns et le féroce égoïsme des autres .Lorsque le pharmacien Danval comparut devant les assises , pour avoir empoisonné sa femme , les témoins sortirent enfin , et malgré eux , de la cachette d ' où , tremblants de peur , ils avaient assisté au prologue du drame final .Sous la foi du serment , ils étaient bien forcés d ' avouer que , toutes les nuits , le pharmacien battait sa femme comme plâtre ; des voisins avaient parfaitement distingué les gémissements à travers la cloison , mais aucun ne songea alors à avertir la famille ou le commissaire .",
+        "words": [
+          "empoisonné",
+          "pharmacien Danval"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/51549f52-b426-5b54-85ff-d77a348875e0",
+        "value": "La maîtresse de l ' hôtel , une ancienne traîneuse de trottoir , était Fentrée chez elle ; elle se gardait bien d ' habiter son hôtel où les lits étaient dévorés par les punaises .Comme les locataires étaient forcés de payer d ' avance , elle n ' avait pas besoin de les surveiller , tes clés étaient pendues * sur le mur , dans l ' allée éclairée par une veilleuse ; les rats , fuyant devant les crochets des chasseurs nocturnes , s ' étaient réfugiés dans cette allée , jusque dans l ' escalier , où ils grignotaient le bois tombé en pourriture ; une odeur fétide , se répandant dans l ' hôtel , témoignait que rien n ' y était installé à l ' anglaise .Au numéro trois , attendait Ruy Blas .",
+        "words": [
+          "fétide",
+          "odeur",
+          "hôtel",
+          "escalier",
+          "allée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/6c9bba19-d1ce-5aca-9731-b47b7e7f3d5b",
+        "value": "C ' est le trait d ' union entre les salons de la véritable société française et les bas - fonds de la galanterie parisienne .Les femmes du monde de ce milieu particulier se distinguent des autres par l ' odeur de tabac qu ' elles remportent des cabarets où l ' on soupe et par un langage particulier qui ne se distingue de celui des demoiselles tarifées que par une certaine forme venant de l ' éducation première .Entre une fille de duchesse qui fait la fête et une fille de portier qui cascade dans le cabinet à côté , la distance n ' est pas énorme .",
+        "words": [
+          "odeur",
+          "tabac",
+          "femmes",
+          "cabarets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/6d3aa2b6-c9fc-5b62-a282-91ba0d4a91bb",
+        "value": "Le docteur Charcot est le seul homme qui pourrait expliquer par suite de quels bouleversements secrets , symptômes alarmants d ' une prochaine - éruption de folie furieuse , le Conseil municipal du cerveau du monde peut faire naître un conflit si misérable et qui nous rend parfaitement ridicules aux yeux de l ' Europe .Alors tout est pour le mieux ? Nous n ' avons plus à nous occuper que de la Queue du chat ? Le travail marche à souhait , les hôpitaux sont déserts faute de malades ; on ferme les maisons de - refuge pour les vieillards pauvres ; aucune puanteur - ne s ' élève plus des égouts ; on n ' a pas engagé un seul matelas au Mont - de - Piété depuis un an .Le Conseil municipal n ' a plus à s ' occuper de rien , tout allant à souhait comme sur des roulettes .",
+        "words": [
+          "puanteur",
+          "égouts",
+          "un an",
+          "Mont - de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/71224168-8cf5-5e91-afd5-75b8cc752fcd",
+        "value": "Je vais en faire une bien bonne à Mme Maria , notre patronne , avec qui je suis en froid .La réponse de ces trois hommes disparut dans un hoquet de l ' ivresse , qui répandit une si forte odeur d ' alcool , que les consommateurs d ' alentour se bouchèrent le nez avec leurs vieux mouchoirs à car - .reaux , crasseux à l ' excès , des loques puantes .",
+        "words": [
+          "forte",
+          "odeur",
+          "alcool",
+          "consommateurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/900454a1-d32f-520d-8ccb-12af56111aaa",
+        "value": "La chambre était éclairée par une bougie qui brûlait dans un chandelier en cuivre , couvert d ' une épaisse couche de vert - de - gris .Dans la cuvette , l ' eau sale de la veille où le dernier locataire , un charbonnier , s ' était lavé les pattes avant de déménager , parce qu ' il se mariait ce jour - là ; des draps puants sur un matelas ouvert en dix endroits , et d ' où la laine sortait en épais flocons .Sur la cheminée , sous un globe en verre , un bouquet de fleurs artificielles ; deux chaises de paille prudemment adossées contre le mur , car il leur manquait un pied à chacune ; une cheminée sans trappe , dans laquelle on avait jeté pêle - mêle toutes les ordures : vieux chiffons , chaussettes trouées par l ' usage ; un soulier éculé et percé , les longs cheveux d ' une fille restés dans le peigne , la photographie d ' un écuyer de cirque ambulant , des peaux de saucisson de Lyon et deux os de jambonneau .",
+        "words": [
+          "draps",
+          "puants",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/ac1efacc-f180-5c06-9aba-e6008a671169",
+        "value": "Les garçons apportaient les matelas , qu ' ils étalaient sur le billard .On éteignit le gaz , et bientôt trente hommes ronflaient et emplissaient la salle de leur haleine pestilentielle .II Mme Marie est une jeune femme , mariée à dix - huit .",
+        "words": [
+          "haleine",
+          "pestilentielle",
+          "salle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/af08e012-2bbf-5414-82c8-69cc3bdaf66b",
+        "value": "La réponse de ces trois hommes disparut dans un hoquet de l ' ivresse , qui répandit une si forte odeur d ' alcool , que les consommateurs d ' alentour se bouchèrent le nez avec leurs vieux mouchoirs à car - .reaux , crasseux à l ' excès , des loques puantes .Salluste resta pensif ; puis avisant un garçon de café , jeune et beau , qui passait avec un bock écumant : Ruy Blas , lui dit - il , veux - tu , dans les vingtquatre heures , devenir un homme chicaucandard ? Pour lors , jette ce tablier ; suis - moi à la Belle - Jardinière ; je vais t ' acheter un petit complet de vingttrois francs , une cravate et un chapeau ; situ obéis , ta fortune est faite ! Il était une heure du matin ; peu à peu , les habitués s ' éloignèrent .",
+        "words": [
+          "puantes",
+          "loques",
+          "crasseux",
+          "reaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/c207df6c-fbd3-5e54-8d2b-9f45ac91bc66",
+        "value": "La philosophie pessimiste n ' est pas un produit parisien ; elle a , même chez les plus grands hommes de cette profession , .un petit parfum qui sent sa province .L ' uniformité naquit un jour de l ' ennui , et le pessimisme aussi , car c ' est une forme de l ' embêtement parvenu à sa plus haute expression .",
+        "words": [
+          "parfum",
+          "province"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/cf71f93c-2121-51c9-a433-880eb5d342cb",
+        "value": "Le touriste est seul dans son compartiment avec ses réflexions .Il respire , il espère , il entrevoit Copenhague et les souvenirs d ' Hamlet , il lui semble qu ' il respire déjà les senteurs des forêts de sapins de la Suède , il entrevoit , dans une douce hallucination , les fjords de la Norwège , pleins de saumons délicieux .Le train s ' arrête , le Parisien saute dans un fiacre et se fait conduire au port ; le steamer chauffe avec un ronflement formidable , qui ne rappelle en rien les mouches de la Seine ; enfin ! voici l ' inconnu 1 Un cri de rage poussé par le Parisien .",
+        "words": [
+          "Suède",
+          "senteurs",
+          "forêts de sapins",
+          "fjords"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/d2cd6ccd-702a-5c9f-9b33-e30b03c8fd74",
+        "value": "A la table voisine , deux hommes sont assis .Le premier peut avoir cinquante ans ; d ' épais sourcils donnent à sa physionomie une singulière expression de dureté ; il fume une pipe en écume , culottée à souhait par un artiste : la tige est d ' un noir parfait ; autour du foyer , de très fort calibre , un cercle bitumineux , passant ensuite au jaune pour se marier enfin avec le ton naturel de l ' écume de mer ; l ' autre roule entre ses doigts une cigarette qu ' il s ' agit d ' allumer ; sur la table , de grossières allumettes ; il en prend une , la frotte contre son pantalon ; une fumée nauséabonde s ' élève du bout phosphore ; on voit scintiller une petite flamme bleue ; le soufre se consume , le bois prend feu , l ' allumette est allumée .Le vieux Salluste , ancien placier , voyant l ' heure s ' avancer , dit à ses voisins : Eh ! Soif - Éternelle , Litre - à - Douze et Perro - quet - Vert , vous , mes trois soiffards fidèles , voici cinq francs .",
+        "words": [
+          "fumée",
+          "nauséabonde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/d446c623-280a-5abe-808c-57373fc7e389",
+        "value": "La visite au Jardin des Plantes est le plus beau souvenir que le shah ait emporté de Paris .Jamais , dit - il , je n ' ai vu autant d ' animaux empaillés ! Cela lui rappelait la série de ministres que ses ancêtres ont fait empailler à Téhéran ; il y avait là comme un parfum de terroir .Sa conversation avec le directeur du Jardin des Plantes est des plus curieuses : Vous enivrez - vous quelquefois ? demanda - t - il à M .",
+        "words": [
+          "Téhéran",
+          "parfum",
+          "ses ancêtres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/e0003dc1-1b5f-5b07-ba2b-613ca2a3babb",
+        "value": "XXXI LE TÉMOIN A PARIS A chaque procès retentissant en Cour d ' assises , on voit arriver le même témoin qui aurait pu prévenir le crime , s ' il avait parlé à temps ; nous en avons eu un nouvel exemple dans l ' affaire Girard , cette méprisable femme qui pendant deux ans , a pu séquestrer et maltraiter son enfant sans que quelqu ' un ait averti la police .Cette marâtre a pu traiter son enfant comme un chien galeux ; elle a pu le condamner à vivre dans une sorte de chenil humide et puant , et elle a pu arracher à ce petit malheureux des poignées de cheveux , sans être jamais inquiétée par un voisin .Est - il possible qu ' on puisse infliger de si odieux traitements à un pauvre petit être sans que , pendant deux ans , il en transpire quelque chose au dehors , sans qu ' un voisin entende les cris et qu ' il intervienne personnellement , quand il ne court pas chercher le commissaire de police ? Vous ne le pensez pas , et je crois , moi , que de tels méfaits ne pourraient se commettre impunément pendant deux ans , si chacun faisait son devoir et si les criminels ne trouvaient pas des auxiliaires dans la lâcheté des uns et le féroce égoïsme des autres .",
+        "words": [
+          "puant",
+          "humide",
+          "chenil",
+          "son enfant"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/9a9c1756-480e-5990-8935-e8eb42fcc7a1",
+        "label": "Albert  Wolff"
+      }
+    ],
+    "label": "La gloriole : mémoires d'un parisien / par Albert Wolff",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k64711015",
+    "date": "1888",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3237e0d6-c834-5d6d-90bd-b7f718a9c7cc",
+      "label": "1888",
+      "begin": "1888",
+      "end": "1888"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/112931/",
+      "label": "Tehran"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/surprise",
+      "label": "surprise"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/nostalgia",
+      "label": "nostalgia"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/a136aeef-02eb-5745-8727-b4db3f78f9ca/fragment/d446c623-280a-5abe-808c-57373fc7e389",
+  "license": "Public domain"
+}

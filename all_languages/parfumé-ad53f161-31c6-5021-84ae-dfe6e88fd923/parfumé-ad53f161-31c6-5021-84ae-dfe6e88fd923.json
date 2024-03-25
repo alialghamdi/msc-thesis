@@ -1,0 +1,231 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ad53f161-31c6-5021-84ae-dfe6e88fd923",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumé",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/07e8d976-24da-56b0-8251-87a4aebaef01",
+        "value": "Huîtres de Courseulle Mortadelle de Bologne Radis noirs du Mexique Beurre d ’ Isigny Pieds de sangliers à la russe Perdreaux frais au cresson alénois 206 LETTRES GOURMANDES Pain de lièvre sur socle Cèpes de Fontainebleau Macédoine de fruits glacés au champagne Dessert Mais les vins étaient de premier ordre ; ils commençaient par le Haut - Barsac , — avec les huîtres , et continuaient par un Haut - Brion , pour aboutir à une Romanée - Conti placée au - dessus de tout éloge .Ah ! la Romanée - Conti ! Écoute , mon cher Pros - per , écoute ce qu ’ en dit le docteur Gaubert : « Prise à point et servie à la température qui lui convient le mieux , sa limpidité plaît à l ’ œil ; son arôme et sa saveur s ’ associent pour produire sur le goût et l ’ odorat une impression délicieuse ; son corps s ’ étend dans la bouche , y roule avec souplesse et laisse à toute sa surface , en passant par l ’ estomac , une sensation moelleuse et chaude .La bouche vide n ’ est ni d ’ une sécheresse désagréable , ni d ’ une humidité aqueuse ; les deux sens flattés demandent le retour de la stimulation .",
+        "words": [
+          "odorat",
+          "délicieuse",
+          "arôme",
+          "docteur Gaubert"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/1f3ced05-4db4-5436-81db-f10d6b061e50",
+        "value": "De Vautre , le menu n ' était pas très pompeux , Mais on me promettait une ardeur éternelle .Attendri par la voix de celle que j ’ aimais , J ’ allais céder enfin , — lorsque , par la fenêtre , Le chevreuil de mon oncle exhala ses fumets .Dès lors , de mon penchant je ne fus plus le maître ; L e feu de mes désirs tout à coup s ’ étouffa , Et l ’ amour du chevreuil dans mon cœur triompha .",
+        "words": [
+          "fumets",
+          "exhala"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/2ba2ca3f-2601-59a4-b8eb-b796bbb2d135",
+        "value": "Les fumets du dîner ne sont pas encore évaporés .Ça sent bon ! Voyons donc ce qu ’ il reste dans le butfet ..",
+        "words": [
+          "bon",
+          "sent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/3acac9a0-74f5-51e2-ace8-82fd29120049",
+        "value": "C ’ est à peine si mes bras peuvent le mesurer .Comme sa chair est ferme , et quel parfum il répand ! Je n ’ y puis résister .Otez ! ôtez ! il m ’ enivre .",
+        "words": [
+          "parfum",
+          "chair",
+          "répand"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/4777306f-412f-590e-b2a6-4caf447d19d0",
+        "value": "Je l ’ ai arrosé , comme il convient , avec du vin de Lamalgue .Lamalgue ! Graveson ! Edenon ! vins charmants et parfumés , que nous avons dégustés ensemble , — tu t ’ en souviens , — sous les tonnelles de Saint - Remy et à l ’ ombre des couvents d ’ Arles ! Mais déjà j ’ ai quitté la Provence , et me voilà sur la frontière italienne .Autres mœurs , autre cuisine .",
+        "words": [
+          "Arles",
+          "vins",
+          "nous",
+          "parfumés",
+          "charmants",
+          "Provence",
+          "tonnelles",
+          "couvents",
+          "Saint - Remy",
+          "frontière italienne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/4ef59b82-9629-5809-99d3-85df71c9990e",
+        "value": "Ce n ’ est pas Y assaut provençal , c ’ est Y aquecaint .Lorsque vous passerez par Bordeaux , mon ami , soit que vous descendiez à l ’ hôtel de France ou à l ’ hôtel des Princes , soit que votre instinct vous guide vers le Chapon - Fin ou qu ’ on vous entraîne vers le Moulin - Rouge , chez Nicolet ou chez Lanta , n ’ hésitez pas à vous faire servir le déjeuner suivant : Melon de Graves Royans Rougets sauce verte Entrecôte tonnelière Poulet sauté aux pommes de terre et aux artichauts Fraises ananas Macarons de Saint - Émilion Fromages VINS Vin blanc de Saint - Bris Vin rouge de Talence Smith Haut - Laffitte 1869 Et lorsque , après le café , vous aurez parfumé vos gencives avec un verre ou deux des liqueurs Martiniquaises de la veuve Amphoux , je vous réponds , mon cher Camuset , que vous ne maudirez pas trop ma mémoire .Passons au dîner maintenant .",
+        "words": [
+          "Bordeaux",
+          "parfumé",
+          "liqueurs",
+          "gencives",
+          "Moulin",
+          ", après le café",
+          "1869",
+          "Haut - Laffitte",
+          "hôtel de France",
+          "hôtel des Princes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/511de9d5-68fd-5ad1-837e-30532bceb9aa",
+        "value": "9 avril .Jean , maître Jean , savez - vous que vous êtes un drôle fort heureux , — plus heureux que beaucoup de ceux que vous conduisez dans votre voiture ? Je suis allé deux ou trois fois vous demander au cabaret du coin de la rue de Beaune , où vous prenez vos repas , et chaque fois mon odorat a été agréablement surpris par un parfum de bonne nourriture , en même temps que mes yeux étaient charmés par l ’ honnête apparence des mets qui vous étaient servis .La première fois , vous vous mesuriez avec un superbe haricot de mouton ; la seconde fois , vous plongiez votre cuiller dans une plantureuse soupe aux choux , d ’ où se dégageait un tourbillon de puissants arômes .",
+        "words": [
+          "bonne",
+          "parfum",
+          "odorat",
+          "Je",
+          "mon",
+          "cabaret",
+          "maître Jean",
+          "coin de la rue de Beaune"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/9ead7ac6-7481-5b6d-ab0a-f2d674894729",
+        "value": "Le temps était charmant , le soleil courtois , le ciel bleu - argent .A l ’ odeur pénétrante de la résine se mariaient les brises des marais salants , dont les damiers , piqués d ’ innombrables muions blancs , s ’ étendent sur une vaste étendue jusqu ’ à la mer .Vous savez combien les arbres sont rares dans cette partie de la Bretagne ; le Bois de la Jalousie avait pour nous la valeur d ’ un ou d ’ une véritable oasis .",
+        "words": [
+          "résine",
+          "pénétrante",
+          "odeur",
+          "brises des marais salants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/a4f0d07d-8e1a-5a49-aa4a-21bd66faf66c",
+        "value": "Un homard à l ’ américaine est le héros de tout repas ayant lieu aux alentours de midi .A peine la casserole en argent est - elle apportée sur la table qu ’ il s ’ en dégage un tourbillon de puissants arômes , par lesquels tous les sens sont immédiatement conquis .Un triple hurrah a salué l ’ autre jour le homard à l ’ américaine .",
+        "words": [
+          "puissants",
+          "arômes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/ad622e02-8793-5ab5-b0f8-98e53f781cf2",
+        "value": "Permettez - moi , dans mon humble prose , d ’ essayer de réparer cette omission , et d ’ initier quelques - uns de mes lecteurs aux douceurs pénétrantes de la brandade .Voici d ’ ailleurs le moment d ’ en manger , ou jamais * Nous sommes au seuil de la sainte semaine , et nos marchés regorgent de vastes morceaux de morue , épais et odorants à souhait .RECETTE Tout dépend du point de départ .",
+        "words": [
+          "odorants",
+          "morue",
+          "la sainte semaine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/b0989cc8-80ee-565a-ac0e-e3cc1a8152f6",
+        "value": "Maître Fouquet avait été assez habile pour se faire soixante - dix mille écus de rente ; mais , à la vérité , — disait cette bonne reine Marguerite , — il avait gagné davantage en portant les poulets de son mari qu ’ en piquant les siens .Que vous êtes heureux , mon cher Jean , de vivre dans cette atmosphère embaumée du Périgord , au milieu des émanations enivrantes de la truffe ! La truffe ! mot magique , dont on a la bouche toute pleine rien qu ’ à le prononcer ! Précieux diamant noir des grands festins 1 Un diamant , ce n ’ est rien dire de trop .Il y a encore des gens qui hésitent à la classer entre le lègne végétal 272 LETTRES GOURMANDES et le règne minéral .",
+        "words": [
+          "atmosphère",
+          "émanations",
+          "vous",
+          "embaumée",
+          "enivrantes",
+          "truffe",
+          "Périgord",
+          "cher Jean"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/c412972b-159c-5379-9fec-8ec319ac9780",
+        "value": "Quelques plats sont sortis de ma mémoire .Mais un tendre souvenir m ’ est resté d ’ une poularde au blanc , onctueuse et discrètement parfumée d ’ estragon .La bécasse joua un rôle impérieux ; le faisan — par un caprice de maître d ’ hôtel — fut mangé en galantine ; il n ’ y perdit rien .",
+        "words": [
+          "parfumée",
+          "estragon",
+          "discrètement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/d2f7a88e-1cd5-5cf4-ad9f-edc0afb02c26",
+        "value": "J ’ ai vu bien des fourchettes s ’ attarder quelquefois avec une surprise complaisante sur ce plat de transition .Dans leur forteresse bariolée , les perdreaux en chartreuse ont grand ’ peine à contenir leurs puissants arômes .Enfin , la forteresse est éventrée , les petites carottes sculptées s ’ écroulent , les choux fument .",
+        "words": [
+          "puissants",
+          "arômes",
+          "perdreaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/da5cb31c-4976-554f-b9da-9253d0471819",
+        "value": "On les mange bouillantes dans des plats de terre posés sur de petits réchauds allumés .Rien d ’ attirant comme leurs crépitements ; rien de suave comme les parfums qu ’ elles dégagent .Leur couleur rappelle les tons roux si chers à l ’ école vénitienne .",
+        "words": [
+          "suave",
+          "elles",
+          "parfums",
+          "dégagent",
+          "attirant",
+          "leurs crépitements"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/eeb1d083-4e79-5f03-a2a5-9b49e13dbf9b",
+        "value": "Jean , maître Jean , savez - vous que vous êtes un drôle fort heureux , — plus heureux que beaucoup de ceux que vous conduisez dans votre voiture ? Je suis allé deux ou trois fois vous demander au cabaret du coin de la rue de Beaune , où vous prenez vos repas , et chaque fois mon odorat a été agréablement surpris par un parfum de bonne nourriture , en même temps que mes yeux étaient charmés par l ’ honnête apparence des mets qui vous étaient servis .La première fois , vous vous mesuriez avec un superbe haricot de mouton ; la seconde fois , vous plongiez votre cuiller dans une plantureuse soupe aux choux , d ’ où se dégageait un tourbillon de puissants arômes .Vous l ’ avouerai - je , maître Jean ? j ’ éprouvai un sentiment d ’ envie , qui s ’ est renouvelé souvent par la réflexion .",
+        "words": [
+          "puissants",
+          "arômes"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/89068c7a-7a28-5008-b8b2-2fb140a26353",
+        "label": "Charles  Monselet"
+      }
+    ],
+    "label": "Lettres gourmandes : manuel de l'homme à table / Charles Monselet",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k3042024q",
+    "date": "1877",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/337",
+      "label": "Liqueur"
+    }
+  ],
+  "carrier": [
+    {
+      "@id": "http://data.odeuropa.eu/object/0c2c1e3f-d2db-559f-aa9a-195b80096da2",
+      "label": "gencives"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/af4ef4e3-b68f-51fa-879b-b63d902c9ff2",
+      "label": "1869",
+      "begin": "1869",
+      "end": "1869"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/time/de17e344-6024-513a-9c04-cb7c6378de14",
+      "label": "1877",
+      "begin": "1877",
+      "end": "1877"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12035919/",
+      "label": "Immobilia Building"
+    },
+    {
+      "@id": "https://sws.geonames.org/3031582/",
+      "label": "Bordeaux"
+    },
+    {
+      "@id": "https://sws.geonames.org/6079463/",
+      "label": "Moulin-Legendre"
+    },
+    {
+      "@id": "https://sws.geonames.org/6464032/",
+      "label": "Inter Hotel Des Princes"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/d72ca19e-b258-552f-b4e6-65197d7633ed",
+      "label": "Haut - Laffitte"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/4bda4fd1-0257-5715-bbaf-e716d243a9ba/fragment/4ef59b82-9629-5809-99d3-85df71c9990e",
+  "license": "Public domain"
+}

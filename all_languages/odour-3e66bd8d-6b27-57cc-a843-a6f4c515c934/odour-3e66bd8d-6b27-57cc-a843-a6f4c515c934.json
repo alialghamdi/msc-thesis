@@ -1,0 +1,1254 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/3e66bd8d-6b27-57cc-a843-a6f4c515c934",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "odour",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/687f35ac-4116-56dd-8790-6b664bbcb674",
+        "value": "She did so involuntarily and without effort .There are minds which clothe the dull books before before them with their own bright fancies and rich thoughts , not perceiving the wrong they do their own judgment in attributing to the author the reflections which he awakened as a passing wind calls forth the perfumes of flowers â   but to the flowers belong the perfumes perfumes nevertheless .She wrote down some words faithfully enough , but they would be escorted with a grand train of her own ; and her thoughts â   real thoughts â   would sweep up his thin verbiage and shake it out into graceful drapery .",
+        "words": [
+          "perfumes",
+          "the flowers",
+          "of flowers",
+          "perfumes perfumes",
+          "a passing wind"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/9d3edb32-c87c-52f3-acc0-a87b826a814a",
+        "value": "More laborious employments , in their strain upon muscular effort , and with noise of hammers , or screech of plane and saw , or amidst the whirling buzz of machinery , or in presence of bertha ' s repentance .35 exhausting fires or depressing smells , leave little room , in their heavy demands upon the taxed energies , for conversation , much less for feverish agitation of social questions .Tailors , on the contrary , seated in their dwarfed position , position , and probably teased by a chronic consciousness consciousness of their undiÂ ° ; nified attitude and semi - feminine calling , seem glad to take refuge in prospects of fierce action .",
+        "words": [
+          "smells",
+          "depressing",
+          "exhausting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/a198475a-7ab8-52ed-98a6-cf12d1034b54",
+        "value": "Once .minds were put upon a track promising a result , they ran along it like a pack in full scent of game .Witnesses , too , came forward to head the chase .",
+        "words": [
+          "scent",
+          "of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/e3c98819-8e6b-54bc-8594-841f308cb5ef",
+        "value": "Her mother gave almost equal attention , attention , although an habitual one , to the inevitable inevitable pot - au - feu .It was nothing more than a goodly slice of beef set down amongst various savoury herbs , all simmering together , as if a laboratory of wholesome odours , and needing no preparatory stimulant of deleterious alcohol bertha ' s repentance .91 for jaded appetite .",
+        "words": [
+          "wholesome",
+          "odours",
+          "It",
+          "a goodly slice of beef"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/01596f5c-0778-57c6-947c-dedb5ca1b1d7",
+        "value": "I should expect , as a matter of course , a clean , sweet bed , where I could sleep alone and undisturbed , untd possibly in the morning a jug of hot water should be placed at my door , to aid the removal of a traveder ' s rigid beard .I should expect to draw a curtain from before a window , to lift the sash without effort , to look into a garden and fid my lungs with fragrant air ; and I should be certain when I came down of a royal breakfast .A man of these circumstances in this rich country , he wid be asking my opinion of his fruits .",
+        "words": [
+          "fragrant",
+          "air",
+          "my"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/0295946f-dd95-5bd2-b735-c8a1265fcccf",
+        "value": "He only recovered his equanimity , when , retiring to a little private den of his own , smelling very poAverfully of bees ' Avax , garlic , and salad oil , he visited the gluttonous delinquencies of his guests by heavy additions to their bills .To say nothing , little niece of he continued , replacing the Panama straw - hat , that thou , thy dear self , must already be hungry , and Avaiting for thy Say Manuelita interposed , smiling , that thou hast smelt the puchero , and art hungering for it .I am not so hungry â   she added , half aside , and Avith half a sigh .",
+        "words": [
+          "smelt",
+          "thou",
+          "the puchero"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/031aef9b-cf69-5f26-9b6a-7a639ad45536",
+        "value": "wonderful .The loud and frequent thunder - storms were phenomena that had been rarely witnessed in thc colder summers of the north ; the forests , majestic in their growth , and free from underwood , deserved admiration admiration for their unrivalled magnificence ; the purling streams and the frequent rivers , flowing between alluvial alluvial banks , quickened the ever - pregnant soil into au unwearied fertility ; the strangest and the most delicate delicate flowers grew familiarly in the fields ; the woods were replenished with sweet barks and odors ; the gardens matured the fruits of Europe , of which the growth was invigorated and the flavor improved by the activity of the virgin mould .Especially the birds , with their gay plumage and varied melodies , inspired delight ; every traveller expressed his pleasure in listening listening to the mocking - bird , which caroled a thousand several tunes , imitating and excelling the notes of all its rivals .",
+        "words": [
+          "sweet",
+          "odors",
+          "barks"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/07e56510-29b0-520c-8b76-f92d258e5d85",
+        "value": "What has become of them now ? I knoAV many of them fell into decadence and hackney7 - coach - hood ; but what has become of the hackney - coaches themselves ? Where are they gone ? Have they been transplanted and transported far bey7ond the seas ? Are the aristocracy7 of the Cannibal Islands borne to his anthropophagic Majesty ' s levees in those bygone equipages ? Are they driven by Cumanchee Cumanchee coachmen in some out of the Avay South American Republic , so happy7 that it is never heard of in Europe ? Are they the roosting places of foAvls in backyards beyond mortal THE NIGHT .97 dozing behind the counter for some scented lozenges â   something he wanted , he said , to take aAvay the smell of smoking .The youthful Galen , Avho Avas very sleepy and very stupid , began to rummage fitfully among the stock , in the hope that something might turn up â   cantharides , tincture of rhubarb , colocynth , prepared lint , or spirits of wine â   which the customer might think was the right thing , and so purchase ; for chemists and chemists ' assistants Avere not nearly so careful or so attentive in supplying the right drugs in 1830 as in 1860 .",
+        "words": [
+          "smell",
+          "scented",
+          "he",
+          "of smoking",
+          "lozenges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/0d6fda90-66fa-5cc5-9875-2db84aafb03d",
+        "value": "It Avas a chariot with four grays ; and the Avhole equipage equipage may be emphatically characterised as For metal and glass , and rubbing and polishing , and rich , smooth stuffs , had been employed with so lavish a hand in that connubial caravan , that y7ou could see yourself in the Avindow - panes , the panels , the horses coats , the harness , the crimson jackets and brilliant tops of the postilions , their rubicund faces , Avhite , fluffy , silky hats , shining spurs and glistening favours , the very rumble and imperial , and axle - boxes , even .The vehicle diffused a perfume of affluence â   Fashionable affluence , mind â   that floated through Maddox Street , and was Avafted up Mill Street , across Conduit Street , and so into Savile Roav , Avhere it stole into faded consulting rooms of pippinfaced pippinfaced old sages of the Fashionable faculty , and made those Avise old ravens chuckle even as they coughed , thinking that Fashion , being 277 THE DANGERS OF BEING PRETTY .unavoidable departure to fulfil his numerous engagements in British India , Honduras , the Bay of Fundy , and the Island of Formosa .",
+        "words": [
+          "perfume",
+          "The vehicle",
+          "of affluence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/0da2d5a9-0b0b-5ad5-ba32-c684d1a1d41e",
+        "value": "The same morning that brought to John Eames the two letters which were given in the last chapter but one , brought to the Great House , among others , the following epistle for Adolphus Crosbie .It was from a countess , and was written on pink paper , beautifully creamlaid and scented , ornamented ornamented with a coronet and certain singularly - entwined initials .Altogether , the letter was veiy fashionable and attractive , and Adolphus Crosbie was by no means sorry to receive it .",
+        "words": "scented"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/0ebaa37b-800e-5479-a64d-a50fc1292e2f",
+        "value": "They are dry and hot to the third degree , slightly astringent and resinous ; yet are found only in moist and wet places .2 The Indians , after bruising the leaves of this plant between two stones , extract a juice with which they rub the whole body , after bathing , from a conviction that it strengthens the skin and gives it a pleasant odor .The Spaniards learned from them to reduce this simple to a powder , which they take in wine when they are attacked 1 Ximenez .",
+        "words": [
+          "odor",
+          "pleasant",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/15d16961-3042-5b53-a17a-6fb8c097e0dc",
+        "value": "ance of our native servant , who apprehended danger in every wave that drenched him , and manifested his dislike in this strain : Allah , Tuan , angin eras , glombang basar , apa kana , Tuan , cluar di capal ini ari â   Allah , Master , how the winds are blowing , and how high the waves are ! Why did you leave the ship on such a day , As we approached the shore our anticipations of a cold bath were fully realized , for although we received little more than a passing shower from many of the waves that passed us , the last we were exposed to overwhelmed us with such fury that both my wife and myself were drenched to the skin .The odours that exhaled from the canal as we approached it were also anything but agreeable .For such a wealthy and commercial town as Samarang , which boasts of from six to seven thousand thousand fishermen alone , the passage , or artificial extension extension of the small stream which passes through it , is so narrow as to be quite a disgrace to the 227 DELIGHTFUL COUNTRY .",
+        "words": [
+          "odours",
+          "from",
+          "anything but agreeable",
+          "from the canal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/170a3ea8-dacb-5a72-bfab-52e59afcb706",
+        "value": "Paul ' s Church , and was one well LLOYD ' S IN THE TIME OF CHARLES n .23 And cry ' d out Yaw , yaw , yaw , mine hare , And as the draught they drew , They stunk for fear that Monk * was there : This sounds as if ' twere true .There ' s nothing done in all the world , From monarch to the mouse ; But every day or night ' tis hurl ' d Into the coffee - house : What Lillys or what Booker J cou ' d By art not bring about , At Coffee - house you ' ll find a brood , Can quickly find it out .",
+        "words": [
+          "stunk",
+          "They"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/1a6fd0b8-8021-5ae8-a7fd-99518162899f",
+        "value": "antiquity .He brought with him a faint , stale odour of smoke , and was very quiet and RICHARD BENTLEY , NEW BURLINGTON STREET , s AUTHOR OF & # 34 ; GLADY ' S THE In 3 vols ., post 8vo .",
+        "words": [
+          "odour",
+          "faint",
+          "He",
+          "of smoke",
+          "stale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/1e6c6a2f-2172-5424-835a-ec3e7585c39e",
+        "value": "Its wood is hot to the second degree , the bark almost to the third .When several several of these trees grow together , they give an odor but little different from that of cinnamon .Some Spaniards of St .",
+        "words": [
+          "odor",
+          "they",
+          "that of cinnamon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/20a36847-4faa-5395-b8c1-4f8652626cee",
+        "value": "At sunset the guests were again called to dinner , where the cold and darkness of late November were cheered by the blazing logs of an open hearth , casting their snug radiance on the warmly carpeted room .Then followed the friendly chat , the savoury cup of coffee , and the fragrant nargile or pipe of Lattakia , in which one forgot for a time the dreary journeys in drizzling rain and the frightful verminswarming verminswarming khans .To be sure , the fair partner of man was a - wanting to these reunions , but there is something to be said on the other side of the question , and in the East the cordiality of man and wife in the evening retirement retirement of the harem is perhaps heightened by the circumstance circumstance of business and custom keeping them apart from morning to night .",
+        "words": [
+          "fragrant",
+          "pipe of Lattakia",
+          "nargile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/22309f01-32e0-53c3-be72-1c6211ed61e7",
+        "value": "About five , we engaged one of the numerous numerous carriages stationed in front of the hotel , and drove a short way into the country .After we had passed through thickly - populated streets , inhaling inhaling on our way different odours which made us long for the interference of some such goddess as Cloacina , we were glad to rest our eyes on the bright green fields and forest - clad hills .I think one never more fully appreciates the country than after a voyage , during which little else but sky and water has met his gaze .",
+        "words": [
+          "different",
+          "odours",
+          "we",
+          "us",
+          "through thickly - populated streets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/27fad560-b430-5bba-b2e8-cb1603cbc740",
+        "value": "TWO PEOPLE SPEAK ILL OF EACH OTHEE .249 As to my knowledge of your sex , this is what experience experience has taught me : that it is divided into two classes , the intensely virtuous , who have such a keen nose for vice that they smell it a mile off ; and the utterly careless in such matters , who are too much absorbed in themselves and their own affairs ( here he frowned ) to think of attacking their neighbour neighbour â   unless their neighbours interfere with them .These are not the women who would give up some hours every week to teaching one of their own sex , more especiady if she were young and pretty , with every disposition to make the most of these advantages .",
+        "words": [
+          "smell",
+          "they",
+          "it",
+          "a mile off",
+          "vice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/2800066e-4992-59ae-9c77-62f3c6650016",
+        "value": "Uncle Sim was strangely reserved in speech on this occasion , and even Mr .Tarbrush , in inhaling the fragrant fragrant fumes of his tobacco , became less and less talkative .A fair field seemed opened to me for oratorical display , and I entered upon it with a degree of courage which astonished astonished myseU .",
+        "words": [
+          "fumes",
+          "fragrant fragrant",
+          "of his tobacco",
+          "Tarbrush"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/2b0329d5-6656-51c2-b2a4-5abc76f9869a",
+        "value": "It was plain as the light of day that they were making love without without any restraint whatever .From the conservatory we strolled into the garden , over the bright lawn , and among the scented flower - beds ; Bella and Mr .Wharton in front , and I loitering behind .",
+        "words": [
+          "scented",
+          "we",
+          "flower - beds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/2c8add88-47ca-5377-aae2-44df501373d5",
+        "value": "' â   Kir .It was thought a suspicious circumstance circumstance regarding a man that he exhibited any gravity ; it smelled of rebellion .If he Avished to pass for a loyal man , to advance his prospects , or even to escape being thought a dangerous person , it was necessary he should put on the air of a swaggerer and a drunkard .",
+        "words": [
+          "smelled",
+          "it",
+          "of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/2d2fbeff-c0be-562e-b4ef-ae0f545fd3b0",
+        "value": "1 Good Louisa from Avranche .2 Winter ' s Perfume .5 Calville , white , winter ' s fruit 6 â   red , autumn ' s fruit , 7 â   red , winter ' s fruit .",
+        "words": [
+          "Perfume",
+          "Winter '"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/2d32fcd5-1c35-5b03-89ee-d5ac0796e0c1",
+        "value": "312 .their equally important and difficult functions â   for the efficient efficient repair of the network of drains small and large by which Rome was pervaded , as well as of the public buildings and places ; for the proper cleansing and paving of the streets ; for preventing the nuisances of ruinous buildings , dangerous dangerous animals , or foul smells ; for the removing of waggons from the highway except during the hours of evening and night , and generally for the keeping open of the communication ; communication ; for the uninterrupted supply of the market of the capital with good and cheap grain ; for the destruction of unwholesome articles , and the suppression of false weights and measures ; and for the special oversight of baths , taverns , and houses of bad fame .In respect to buildings the regal period , particularly the epoch of the great conquests , probably accomplished more than the first two centuries of the republic .",
+        "words": [
+          "foul",
+          "smells",
+          "dangerous dangerous animals"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/2f8d0444-71bf-54e6-869a-35fb429296bd",
+        "value": "There Avere no ladies present save Manuelita .The dinner Avas of a very ambiguous and cosmopolitan description â   the contents of the dishes being mostly dark in colour and poAverful in odour ; but tAvo things AA ' ere certain , that the Castalia of Margaret , the cook ' s , inspiration was the great river of oil , and the Tree of her culinary7 THE NIGHT .111 He raised himself on his knees , and thrusting the globule he had Avarmed into his mouth , crunched it betAveen his teeth , and SAvalloAved it .",
+        "words": [
+          "odour",
+          "poAverful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/3037eb00-28c1-57b0-99dd-4f955089d4e9",
+        "value": "The Romans of Augustus spoke of the Syrian female flute - player , the ambubaia , 1 ambubaia , 1 as we speak of the Parisian cocotte .In the Syrian cities , it is stated even in the last age of the republic by Posidonius , an author of importance , who was himself a native of the Syrian Apamea , the citizens have become disused to hard labour ; the people there think only of feasting and carousing , and all clubs and private parties serve for this purpose ; at the royal table a garland is put on every guest , and the latter is then sprinkled with Babylonian Babylonian perfume ; flute - playing and harp - playing sound through the streets ; the gymnastic institutes are converted into hot baths â   by the latter is meant the institution ef the so - called Thermae , which probably first emerged in Syria and subsequently became general ; they were in substance a combination of the gymnasium and the hotbath .hotbath .",
+        "words": [
+          "perfume",
+          "through",
+          "Babylonian Babylonian",
+          "In the Syrian cities"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/31527571-dd6a-57fc-89ec-eef32b80b92c",
+        "value": "Lozenges to take aAvay the smell of smoking did the gentleman Avant ? Surely , surely .Here were some now ( taking them triumphantly from a jar labelled ' Tamarinds ' ) that would take aAvay the smell of anything from tobacco to turpentine , turpentine , but were extra good for smoking .Would the gentleman take an ounce of those lozenges , the celebrated Tee - loo - goo Pectoral Comfits , recommended by the Yes , the gentleman would take them .",
+        "words": [
+          "turpentine",
+          "smell",
+          "of anything from tobacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/3173cd4d-da33-5c9f-9017-69c959860759",
+        "value": "They pursued the circuitous route by the Canaries and the islands of the West Indies ; after a short stay in those islands , they sailed for the north , and were soon opposite the shores of Carolina .As they drew near land , the fragrance was if they had been in the midst of some delicate garden , abounding with all kinds of odoriferous They ranged the coast for a distance of one hundred and twenty miles , in search of a convenient harbor ; they entered the first haven which offered , and , after thanks to God for their safe arrival , they landed to take possession of the country country for the queen of England .The spot on which this ceremony was performed i Hakluyt , iii .",
+        "words": [
+          "odoriferous",
+          "fragrance",
+          "all kinds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/333ff3a9-6605-5435-a3d8-84aa0a2ef6d5",
+        "value": "Many causes combined to render the new sentinel sufficiently uncomfortable .The night was disagreeably cold ; the companionship of the corpses , whose mutilated mutilated state presented death before his eyes in its most hideous aspect ; their odour horribly infecting the air ; â   all these causes , coming together , could not fail to inspire the soldier with a secret fear .To chase away his unpleasant reflections â   as well as to keep his blood warm against the chill breeze â   he walked too and fro in A HERO IN SPITE OF HIMSELF .",
+        "words": [
+          "odour",
+          "the air",
+          "horribly",
+          "their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/33abf9fa-a112-5124-a59d-0592f0933922",
+        "value": "The river , of fine width as far as the eye could reach , watered great plains , which showed every appearance of fertility .These plains were skirted by woods , the extremely tall trees being interwoven with vines , laurels , lentisks , which embalmed the air with odors .This charming view was bounded on one side by the sea , and on the other by a chain of mountains , which the Indians Indians long persuaded the French to be rich in mines .",
+        "words": [
+          "the air",
+          "odors",
+          "vines",
+          "laurels",
+          "lentisks"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/34ddb65d-0796-52a9-ab1c-796cc88a352c",
+        "value": "TT needed no second summons beyond that Trumpet - Scream to bring the guests pell - mell into the hall , Gervase Falcon first and foremost .There he â   there they â   found fighting , fighting , howling , and Avrestling Avith the footmen on the oil - cloth of the hall , a ragged , shameful Avoman â   possibly , to credit one ' s ears , mad ; apparently , to credit one ' s eyes , in an epileptic fit ; certainly , to credit one ' s olfactory organs , drunk .Amid the noise and confusion , and hurrying to and fro of feet , the shrieking of the womankind , womankind , and the clamour of men ' s tongues , things naturally resulting from so untoAvard , unfore - 256 THE BADDINGTON PEERAGE .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/36de25c9-d5bd-5ede-943a-70467d25584c",
+        "value": "the natives extract a myiiha , or oil .This oil is used medicinally , and is also rubbed over the wood - work of houses , for the purpose of protecting it from the destructive white ants , to which its strong scent acts as a powerful resistant .resistant .",
+        "words": [
+          "strong",
+          "oil",
+          "scent",
+          "its",
+          "a powerful resistant",
+          "acts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/36e55232-bcad-5e51-8b99-96825a14a52c",
+        "value": "It is full of Uttle snug houses , with gardens , and boAA ^ ers , and summer - houses , and Avhere there were some chaps who could grow flowers fit to Avin the first prizes at a shoAv .Then , in the summer - time , it was all a garden , with such patches of bloom , and such whiffs of scent , as would make you think you Avere miles away in the country .But it didn ' t last ; it was too good to last , in fact .",
+        "words": [
+          "such",
+          "scent",
+          "it",
+          "whiffs",
+          "in the summer - time",
+          "as would make you think you Avere miles away in the country"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/37c0e2a7-53c9-512a-8247-572ee1ca9200",
+        "value": "each of us stuck in our mouths a pipe of sotweed , and now began to look about A description of Man ' s Coffee - house , situate in Scotland - yard , Scotland - yard , near the water - side , is an excellent picture of a ' fashionable coffee - house of the day .It took its name from the proprietor , Alexander Man , and was sometimes known as Old Man ' s , or the Royal Coffee - house , to distinguish distinguish it from Young Man ' s and Little Man ' s minor establishments in the neighbourhood : â   We now ascended a pair of stairs , which brought us into an old - fashioned room , where a gaudy crowd of odoriferous Tom - Essences were walking backwards and forwards with their hats in their hands , not daring to convert them to their intended use , lest it should put the foretops of their wigs into some disorder .We squeezed through till we got to the end of the room , where , at a small table , we sat down , and observed that it was as great a rarity to hear anybody call for a dish of Politician ' s porridge , or any other liquor , as it is to VOL .",
+        "words": [
+          "Tom",
+          "odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/3d5ccb80-c9d1-581f-a299-e1028492d5e3",
+        "value": "In the digging COFFEE - HOUSES IN NED WARD ' S TIME .33 some drinking , some smoking , others jangling ; and the whole room stinking of tobacco , like a Dutch scoot [ schuyt ] , or a boatswain ' s cabin .The walls were hung round with gilt frames , as a farrier ' s shop with horseshoes horseshoes ; which contained abundance of rarities , viz .",
+        "words": [
+          "stinking",
+          "of tobacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/41893e65-28a7-513c-adb0-820d1cc4bf91",
+        "value": "SolÂ » odor , S .SolÂ » odor , Froncezes , Forromeco , Feliz , fast olle noch ZuflÃ ¼ ssen deÂ « N .Cohy benannt , u .",
+        "words": [
+          "odor",
+          "Froncezes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/46d52958-8c8c-5e6f-a6c0-6d336c087f8a",
+        "value": "Nor has that city , nor any city in Scotland , ever since seen so many learned divines and scholars at one time together as were immediately before this in Aberdeen .From that time forwards , learning began to be discountenanced ; and such as Avere knowing in antiquity and in the writings of the fathers , were had in suspicion as men who smelled of popery ; and he Avas most esteemed of , Avho affected noAelism and singularity most ; and the very form of preaching , as weel as the materials , was changed for the most part .Learning was nicknamed human learning , and some ministers so far cried it down in their pulpits , as they Avere heard to say : Dowrn doctrine , and up Christ ! ' As a characteristic incident of the period â   an outlaw of the Macgregor clan , named John Dhu Ger , came this day with his associates to the lands of Stuart , Laird of Corse , in the upper vales of Aberdeenshire , and began to despoil them , pretending to be the king ' s man , and that what he did Avas only justice , as against a rebellious Covenanter .",
+        "words": [
+          "men",
+          "smelled",
+          "of popery"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/474652f7-230c-5f75-8445-807b36321add",
+        "value": "He accordingly did so , and his surprise exceeded all bounds when he was informed 139 THE UNTAH .something like those of the jessamine at a distance , distance , impregnating the air with delicious perfume .Wild boars are as common as rabbits in a warren .",
+        "words": [
+          "perfume",
+          "delicious",
+          "the air",
+          "like those of the jessamine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/476c7b31-7ef1-5eb2-8936-72923b078578",
+        "value": "Borrowed plate shines as brightly as our OAvn silver , Avhich Ave have not had time to send for from the bankers ' ; Mrs .Buck of Covent Garden will accommodate us with bouquets bouquets as bright and sweet - smelling as those grown in our oavii conservatories at Easing or Roehampton .People job a good many things noAv - a - days besides horses .",
+        "words": [
+          "sweet",
+          "smelling",
+          "bright",
+          "Buck",
+          "in our oavii conservatories at Easing or Roehampton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/4829479d-19f6-5f23-bb30-7636620adfbb",
+        "value": "ONLY TEMPER .113 her little hand , which in forgetfulness of the white glove , was remorseless pulling the sweet scented bouquet to pieces .Who , I wonder she answered quickly meeting meeting his laughing eye , and feeling wonderfully happy in spite of herself .",
+        "words": [
+          "scented",
+          "sweet scented",
+          "bouquet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/49c83ca3-3354-594f-baf6-16f6232a4b44",
+        "value": "State your terms for salary and outfit , and I venture to say that in less than six months you wall be under the cool breath of an Indian puncha , officiating as responsible editor of the Abominabad Herald , Abominabad , Presidency of As Mr .Tarbrush leaned back in his horsehair horsehair covered seat after this address , a savoury odour was wafted into the room , and the waiter appeared bearing a tray on which steamed a Welch rabbit of extraordinary dimensions .dimensions .",
+        "words": [
+          "odour",
+          "savoury",
+          "into the room"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/4a61ec23-f49b-5e60-9a7d-cf530d07f7bc",
+        "value": "Hi ! Massa say , niggers work ' xcellent well .Coffee aal aff de bush marning Loud laughter welcomed these words ; they broke the spell : first came bitter sarcasm , then a pelting with insulting language ; the worst passions were in the ascendant ; the men pressed on the ladies ; they were almost suffocated and blinded by the heat , the smell , and the smoke .Keep heart , young whispered Rebecca ' s Rebecca ' s voice in Stella ' s ear .",
+        "words": [
+          "smell",
+          "they",
+          "the smoke",
+          "they were almost suffocated and blinded"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/4b1e5ce1-730f-5631-b960-e502062b6b04",
+        "value": "And Mr .Chair snatched up the snuff - dish , placed it beneath his chin , and laid the snuffers across it as his fiddle - bow .Ready asked the Violin .",
+        "words": [
+          "snuff",
+          "Chair"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/4b76876f-4b46-59e9-b6db-f62c60cb5e19",
+        "value": "214 CHAPTER XXI .THE WIDOW - WOMAN ' S PLACE OF On a certain evening , at the hour when night had begun to unfold her pall , and was gradually enveloping enveloping objects beneath its screen , the western edge thereof being gilt by the latest touch of the retiring sun , the Half - pay issued from his little shabbygenteel shabbygenteel house , looked around him for a moment , sniffed the pleasant breeze with a relish , and then stumped down the descent towards the river .Briskly and hastily the Half - pay pushed across the bridge .",
+        "words": [
+          "pleasant",
+          "sniffed",
+          "pleasant breeze",
+          "the pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/4c45f39f-875f-5ae6-a76c-f6c15f2d7a66",
+        "value": "The place is described to us at this time as exclusively Arabian , inhabited by shipowners and sailors , and full of stirring mercantile life ; the Muzaites with their own ships navigate navigate the whole east coast of Africa and the west coast of India , and not merely carry the goods of their own country , but bring also the purple stuffs and gold embroideries embroideries prepared according to Oriental taste in the workshops of the West , and the fine wines of Syria and Italy , to the Orientals , and in turn to the western lands the precious wares of the East .In frankincense and other aromatics Muza and the emporium of the neighbouring neighbouring kingdom of Hadramaut , Cane to the east of Aden , must ' always have retained a sort of practical monopoly ; these wares , used in antiquity very much more than at present , were produced not only on the southern coast of Arabia , but also on the African coast from Adulis as far as the promontory of Cape Guardafui , and from thence the merchants of Muza fetched them and brought them into general commerce .On the already mentioned island of Dioscorides there was a joint trading settlement of the three great seafaring nations of these seas , the Hellenes , that is , the Egyptians , the Arabians , and the Indians .",
+        "words": [
+          "frankincense",
+          "aromatics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/4e397972-d6ae-5079-b1f2-f24e05d65d6b",
+        "value": "Many messages came from the Hall , for Mira , it seemed , found it difficult to do without her ; and as she said in the little notes which came to borrow a song , or a book , or upon any excuse at hand , entertaining Maria when John was out of the way , was very hard work , but if she suits John â   as doubtless he knows best , it cannot matter to me .I have known some of the most stupid women answer the purpose far better than geniuses geniuses like you or Those scented notes were very trying to read , and yet Rose looked for them .Equally trying to her was it to see John Moncton Moncton and Maria , and the groom following in all ceremony , ride by each day ; and yet she could not help covertly watching for them .",
+        "words": [
+          "scented",
+          "notes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/54789661-9084-51a8-8495-01788b9dde64",
+        "value": "The turf under her feet Avas thickly Doctor Weld .30 enamelled with Avild floAvers of every shade and colour â   coAvslips , primrose , hearts - ease , the crimson - tipped daisy , and the fragrant wild thyme yielding its perfume to the foot that crushed it .These and the sweet singing of the birds made a whole so delicious that Agnes ' s Aexations Aexations AA - ere forgotten for the time , AA ' hile her heart rose up to God in grateful thanksgiving for all His mercies â   those mercies AAdiich Ave too often forget under the temporary temporary presence of sorroAV or annoyance .",
+        "words": [
+          "perfume",
+          "primrose",
+          "fragrant",
+          "wild thyme",
+          "the crimson - tipped daisy",
+          "to the foot that crushed it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/5548843d-84cb-50c7-bcf3-dd1e2640d938",
+        "value": "Not a leaf stirred , not an insect chirped , and the perfume of night - blowing floAvers came through the open AvindoAV near her Avith an almost overpowering fragrance .Does the odour of these floAvers really as night advances ? Lina speculated ; or is it only that one ' s own senses grow more keen , just as one ' s ears seem sharpened at this hour to interpret sounds which one could not discover during the The consideration led her into quaint musings , Avhich gradually subsided into that pleasant state between waking and sleeping , in which it is difficult to distinguish dreams from reality .Suddenly the blind girl starts up in her chair , pushes her hair from her ears , and listens keenly .",
+        "words": [
+          "odour",
+          "of these floAvers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/5625150c-d560-54b1-8702-1f517ce76f1e",
+        "value": "But ' twould be the pity to take Ned Culkin ' s life .Ned could neither see nor smell a private still ; and as for his dipping - rule , ' twas never known to find one half - glass in a puncheon of whisky more than the honest dealer said was To prove , however , that if Ned Culkin did not increase the revenue in one way , he certainly did THE TOWN OF THE CASCADES .259 in another .",
+        "words": [
+          "smell",
+          "Ned",
+          "a private still"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/5633f282-c3e6-5ef5-8d8a-709586b596b0",
+        "value": "The bark is polished , reddish , and tastes like aniseed .The wood is light , and has the aromatic aromatic taste and smell of fennel .The root is harder and heavier , and spreads on the surface only .",
+        "words": [
+          "smell",
+          "The",
+          "of",
+          "of fennel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/58f32eaf-0f4d-5249-a999-96c4e998605e",
+        "value": "He loitered somewhat on his Avay , as though he Avere rather before than after the time of his appointment â   if appointment he had .He produced from a handsomely embroidered case , the largest of Havannah cigars , and smoked that fragrant Aveed doAvn to the very butt , strolling along leisurely as he smoked , and communing Avith himself as he strolled .He could not have been a gentleman , you see , for a real gentleman only smokes twothirds twothirds of a real Havannah , Avhich is apt to grow bitter towards the butt .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/5be6c379-0e15-54ac-82a2-d92bdfb2fea2",
+        "value": "Her hair was dressed in the usual manner , tightly drawn back from the forehead , and rolled in a large conday , or knot , at the back , through 33 JAVANESE DANCER .which a large solid - looking pin , like a silver skewer , was thrust ; whilst a few flowers of the bunga - molor â   a sweet - scented white flower â   were inserted between the knot and the head .The skirt she wore , called by the natives sarong , was fastened to the waist by a pindeng , or ceinture of silver .",
+        "words": [
+          "sweet",
+          "scented",
+          "white flower",
+          "few flowers of the bunga - molor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/5fe3c0bf-2ebe-5c4b-a3bb-5aae0f5d0596",
+        "value": "Cromwell - was a dangerous acquaintance for Pope at the age of sixteen or seventeen , but he was a very agreeable one .Most of Pope ' s letters to his friend are addressed to him at the Blue Ball , in Great Wild - street , near Drury - lane ; and others to Widow Hambledon ' s Coffee - house at the end of Princes - street , near Drury - lane , Cromwell made one visit to Binfield ; on his return to London , Pope wrote to him , referring to the ladies in and to his favourite coffee : ' As long as Mocha ' s happy tree shall grow , While berries crackle , or while mills shall go ; While smoking streams from silver spouts shall glide Or China ' s earth receive the sable tide , While Coffee shall to British nymphs be dear , While fragrant steams the bended head shall cheer , Or grateful bitters shall delight the taste , So long her honours , name , and praise shall Even at this early period Pope seems to have relied for relief from headache to the steam of coffee , which he inhaled inhaled for this purpose throughout the whole of his life .* The Taverns and Coffee - houses supplied the place of the Clubs we have since seen established .",
+        "words": [
+          "fragrant",
+          "he",
+          "steams",
+          "steam of coffee"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/61b21c97-3dd6-5f7f-ad9d-ba33b9bd44be",
+        "value": "He could scarcely have placed it better .The surrounding country is beautiful , the soil fertile , the river teeming with fish , the woods full of game , the laurels and the mastics diffuse a very sweet odor , and the Indians of the district testified no less friendship to the French than those of May River had done .However , de Ribaut , convinced that he could not make a more acceptable present to the admiral and the queen - mother , sought to induce some natives to accompany him to France , but could never gain a single one .",
+        "words": [
+          "odor",
+          "very sweet",
+          "the woods",
+          "game",
+          "the laurels",
+          "the mastics"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/61fcc0b1-b453-5aed-af24-ee05e47c90f3",
+        "value": "125 ceased , and the deep unbroken silence of a summer night reigned supreme .Not a leaf stirred , not an insect chirped , and the perfume of night - blowing floAvers came through the open AvindoAV near her Avith an almost overpowering fragrance .Does the odour of these floAvers really as night advances ? Lina speculated ; or is it only that one ' s own senses grow more keen , just as one ' s ears seem sharpened at this hour to interpret sounds which one could not discover during the The consideration led her into quaint musings , Avhich gradually subsided into that pleasant state between waking and sleeping , in which it is difficult to distinguish dreams from reality .",
+        "words": [
+          "perfume",
+          "fragrance",
+          "almost overpowering",
+          "through the",
+          "through",
+          "open",
+          "the open",
+          "near her",
+          "of night - blowing floAvers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/630134a0-5a22-511f-a2b5-c0f0963d5ca1",
+        "value": "The floor was as clean swept as a Sir Courtly ' s dining - room , which made us look round , to see if there were no orders hung up to impose the forfeiture of so much Mopmoney Mopmoney upon any person that should spit out of the chimney - corner .Notwithstanding we wanted an example example to encourage us in our porterly rudeness , we ordered them to light the wax - candle , by which we ignified our pipes and blew about our whiffs ; at which several Sir Foplins drew their faces into as many peevish wrinkles , as the beaux at the Bow - street Coffee - house , near Covent - garden did , when the gentleman in masquerade masquerade came in amongst them , with his oyster - barrel muff and turnip - buttons , to ridicule their 318 INDEX TO VOL .II .",
+        "words": [
+          "we",
+          "whiffs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/6454721b-8c08-5dad-864e-e14d89642430",
+        "value": "How could she bear it ? Rose , what is the matter said Hope , aghast .She had come in , almost scenting of the fresh lime blossoms , beneath which she had been strolling .Her lover ' s words might be few , but they were all complimentary , and they had 210 ONLY TEMPER .",
+        "words": [
+          "scenting",
+          "She",
+          "of the fresh lime blossoms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/65a2fd69-d9e6-5c38-9c78-cd7b7809c1a1",
+        "value": "Vaughan rose from her chair , gathered her aa - oo1s into her work - basket , and stood looking down at Agnes with an air of help - 230 Doctor Weld , less indifference that made the count ' s dark broAvs lower .Ha \\ - e you no smelling - salts ? he said , sharply .Not Go and get them , then but at the instant Agnes ' s eyelids quivered slightly , a faint sigh parted her pale lips , and , looking round her Avith the vague uncertain glance of returning animation , she murmured , Where am I ? What has happened ? Count Vandeweld gently raised her head on his arm , and said Avith real interest , You are better , Miss Stuart ; I am sure you The strange voice seemed to startle her ; for a look of dread passed into her eyes , and when they met those full dark orbs of his fixed upon her , she gaA - e a slight shudder , and said faintly , I think I am ; I don ' t And she made an effort to raise herself from his supporting supporting arm .",
+        "words": [
+          "smelling",
+          "salts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/6676082b-fbb3-58f6-a437-0938c834989b",
+        "value": "Falcon , by the interposition of some sixteen good solid feet of breakfast - table 170 THE BADDINGTON PEERAGE .There Avere scents and essences in plenty about , as Avas to be expected in so aristocratic a saloon ; and these , Avith the opening of the AvindoAV , were sufficient to restore the AvidoAv to a miserable consciousness , Avithout rendering the attendance of her ladies ' maid necessary .Her ladies ' maid ! Would not that chastest and most fastidious of Abigails have repudiated her mistress on the spot , had she known that the name of Falcon , that the state of AvidoAvhood , no more belonged to her than the state of Avife had ever done .",
+        "words": [
+          "scents",
+          "essences",
+          "in so aristocratic a saloon",
+          "to restore the AvidoAv to a miserable consciousness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/66a8773b-5176-5590-ba0e-a0a52fd300ac",
+        "value": "We have tried the experiment , and 1 6 LIFE IN JAVA .where they continue to puff vigorously at their light - ed cigars , to the perfume of which the ladies never make any objection .As this room always opens on a verandah , some retire to seek the coolness of the night air , while others while away the time by music and chit - chat , & amp ; c , retiring generally about eleven or twelve , to renew the same life next day .",
+        "words": [
+          "perfume",
+          "the ladies",
+          "their light - ed cigars"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/66c3369b-d4f3-5ae4-ae60-0fbabb902848",
+        "value": "caused him inexpressible un happiness .He only recovered his equanimity , when , retiring to a little private den of his own , smelling very poAverfully of bees ' Avax , garlic , and salad oil , he visited the gluttonous delinquencies of his guests by heavy additions to their bills .To say nothing , little niece of he continued , replacing the Panama straw - hat , that thou , thy dear self , must already be hungry , and Avaiting for thy Say Manuelita interposed , smiling , that thou hast smelt the puchero , and art hungering for it .",
+        "words": [
+          "garlic",
+          "smelling",
+          "he",
+          "He",
+          "very poAverfully",
+          "salad oil",
+          "a little private den of his own",
+          "of bees ' Avax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/6ad013b6-f1d6-51df-a3b2-c25a9d3e2a88",
+        "value": "coachman was the first ( here ) coffee made , And ever since the rest drive on the trade : ' Me no good Engalash ! ' and sure enough , He played the quack to salve his Stygian stuff ; ' Ver boon for de stomach , de cough , de phthisick , ' And I believe him , for it looks like physic .Coffee a crust is charred into a coal , The smell and taste of the mock china bowl ; Where huff and puff , they labour out their lungs , Lest , Dives - like , they should bewail their tongues .And yet they tell ye that it will not burn , Though on the jury blisters you return ; Whose furious heat does make the water rise , And still through the alembics of your eyes .",
+        "words": [
+          "smell",
+          "of the mock china bowl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/6af83751-a671-57e4-9496-aee8c9be7c7c",
+        "value": "This famdy room would be curtained and carpeted , carpeted , and glowing softly with the light of sperm candles or a shaded lamp .When I entered it , I could expect that a couch or an arm - chair , and a fragrant cup of tea , with refined sugar , and wholesome bread of wheaten i flour , leavened , 55 CHAPTEE II .A TRIP INTO NORTHERN MISSISSIPPI .",
+        "words": [
+          "cup",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/6d316961-b54c-5196-acc9-809007535e95",
+        "value": "To her surprise , however , she found her MILITARY ARSENAL .115 them from the sun ; and by the side of these were wire baskets of fragrant orchids .When I was told what this place had been a year ago , I seemed to realise the Arab tale of Sheddad ' s garden springing springing from a desert .",
+        "words": [
+          "fragrant",
+          "orchids",
+          "wire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/743030eb-7aee-58d3-a6b1-a04387ba10d2",
+        "value": "PAULXOVIA INPERIALIS .Magnificent hardy plant from 12 to 15 yards of bigth : its leave come to tbe size of 75 to 80 centimeter and its fine and larg flowers of a fine blue , gives when the spring comes , a soft and agreable perfume .Besides these plants the amateur will fine at M .",
+        "words": [
+          "perfume",
+          "soft",
+          "agreable",
+          "when the spring comes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/7842f353-e2e8-5fc0-8ebd-37018eb0314d",
+        "value": "Some feAv incidents diversified the monotony of the November twilight .A voluminous mass of faded and slightly mouldy - smelling garments , surmounted by a portentous bonnet 236 â  ¢ THE BADDINGTON PEERAGE .of her splendour having been nearly coeval with her own , it was not unnatural that she should hate her heartily ; a thing which occurs sometimes among brothers and sisters , made of quite other materials than bricks and mortar .",
+        "words": [
+          "smelling",
+          "slightly mouldy - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/7859965f-4db8-5c84-b71d-75b00985e413",
+        "value": "Gratie is at the distance of one post from the Blue Water .We proceeded there next , passing on our way several very extensive sugar factories , strong with fermented odours , and noisy with the voices of Chinese and native coolies , and the jarring jarring discord of machinery .The ditches on either side of our road were full of water - lilies ; and endless numbers of ducks were bathing in them , or diving for animalculÃ ¦ in the muddy bottom .",
+        "words": [
+          "strong",
+          "odours",
+          "fermented",
+          "several very extensive sugar factories"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/7a4a1856-5e0e-5b72-8a79-e8d59cf21ec5",
+        "value": "29 Ten times during the day did Anastasia send from the cottage up to Morton , begging him to leave the search to others , and come down to her .But not for a moment would he lose the scent of his prey .What ! should it be said that she had been so treated , and that others had avenged her ? He sent back to say that her father was with her now , and that he would come when his work was over .",
+        "words": [
+          "scent",
+          "he",
+          "of his prey"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/7c3e9b16-c6d5-58ea-bb43-e9535a01780d",
+        "value": "But Teague ' s acts seemed to imply that he did .First he proceeded to ascertain his mistress ' s iden - tity by scent .This point being settled to his satis - faction , he discovered her hand where it rested by her side .",
+        "words": [
+          "scent",
+          "his mistress"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/7d6a2afd-5eec-53ff-aa3b-679ddf683331",
+        "value": "Die meisten HÃ ¤ usci sind nicdiig .meist nur mit ErdgeschoÃ  , die grÃ ¶ Ã  eren auch mit erstem Stockwerk , mit stachen DÃ ¤ chern und Veranda ' s ; die Bauart schwerfÃ ¤ llig , die Thore stank , die bis an den FuÃ  boden herab .icichendeÂ » Fenstei nicht mit Glas , wohl abÂ « mit Amerika .",
+        "words": [
+          "stank",
+          "die Thore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/7ed43af4-ce9a-53e3-9952-5c7c976363f8",
+        "value": "Into the folds of this were thrust two krisses , one of which was sheathed in a scabbard of gold , minutely carved and profusely ornamented with filigree w ^ ork , and the other with a hilt of ivory , also exquisitety carved , and studded with diamonds .From his neck hung a massive gold chain of European workmanship , to which dangled a bunch of charms , some of which were little boxes containing perfumes and aromatic preparations .Both princes wore shoes , in which , as they slowly waddled rather than walked along the deck , they seemed by no means at their ease .",
+        "words": [
+          "aromatic",
+          "perfumes",
+          "preparations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/80754068-8244-5991-bbbe-3c7a047b1e19",
+        "value": "scenery was very pretty and varied .Now we were winding up the sides of a hill , then galloping through thickets , and afterwards through a plantation plantation of coffee , white with bloom , and very fragrant , at the end of which we came suddenly in full view of the Indrowaty , which appeared like an unexpected unexpected scene in a dissolving view , its sides luxm - i - antly luxm - i - antly clad with verdure .A Dutchman may well be proud of his colony , as he gazes on the interminable fields of cultivation , cultivation , extending from the hill - tops to the valleys below , below , where you see the hand of industry upturning the rich earth , or , when the soil is arid , irrigating irrigating it by means of their bamboo conduits .",
+        "words": [
+          "fragrant",
+          "very fragrant",
+          "a"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/81a4c60c-645e-5308-9ddf-8e2d957d6f83",
+        "value": "The site for a first settlement settlement is apt to be injudiciously selected ; the local advantages which favor the growth of large cities , are revealed by time .It was perhaps on Parris Island , that a monumental stone , engraved with the arms of France , was proudly raised ; and as the company looked looked round upon the immense oaks , which were venerable venerable from the growth of centuries , the profusion of wild fowls , the groves of pine , the flowers so fragrant that the whole air was perfumed , they already regarded the country as a province of their native land .Ribault determined determined to leave a colony ; twenty - six composed the whole party , which was to keep possession of the con - inent .",
+        "words": [
+          "fragrant",
+          "perfumed",
+          "flowers",
+          "so fragrant",
+          "the whole air",
+          "the groves of pine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/82560ec8-d094-5095-97f9-600b5ef1d0dd",
+        "value": "Very often Stella has sought this same spot â   has stayed there for hours , tossing into the bubbling water the leaves and blossoms growing within her reach , her business apparently to watch with half - closed eyes their eddying movements .She was not thinking of them , however , though they were so lovely and sweet , though among them were those Larksheels which in the middle of carnations and gillyflowers make a delicate delicate tussiemussie , or nosegay , both for scent and * Infinite combinations of the same thoughts and memories occupied her , just as from the same colours of the weeds she played w * ith , she might * Parkinson ' s VOL .III .",
+        "words": [
+          "scent",
+          "those",
+          "gillyflowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/89502b15-de52-5f7c-a922-61136a46df9d",
+        "value": "The Bulgarian has never emerged from the dark ages .Fowl soup with rice and a roast was then served up on a round wooden tray with good household bread , dark in colour but quite palateable , the delicious yaourt or curdled milk followed ; and then came a dish of the country of which it was impossible to partake , being putrid cabbage in vinegar and sending forth a most intolerable intolerable odour .This spoiled allâ   and if the reader travel in Bulgaria let him not forget to order that no be served up to him .",
+        "words": [
+          "cabbage",
+          "putrid",
+          "odour",
+          "most intolerable intolerable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/89707360-0a92-5165-b15e-a306039133d3",
+        "value": "Shipping himself alone in a poor canoe , every moment at the hazard of his life , he hastened to the house of the sachem sachem of the Narragansetts .The Pequod ambassadors , reeking with blood , were already there ; and for three days and nights the business compelled him to lodge and mix with them ; having cause every night to expect expect their knives at his throat .The Narragansetts were wavering ; but Roger Williams succeeded in dissolving the formidable conspiracy .",
+        "words": [
+          "reeking",
+          "The",
+          "with blood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/89760d76-1efd-5670-adaf-4e7ed3db5d02",
+        "value": "Marvellous erections began to rear their heads in the grounds of Gore House .The wilderness had become , not exactly a paradise , but a kind of Garden of Epicurus , Epicurus , in which some of the features of that classical bower of bliss were blended with those of the kingdom of Cockaigne , where pigs are said to run about ready roasted with silver knives and forks stuck in them , and crying , ' Come , eat us ; our crackling is delicious , and the sage - and - onions with which we are stuffed distils distils an odour as sweet as that of freshly gathered violets .' Vans laden with wines , with groceries , with plates and dishes , with glasses and candelabra , and with bales of calico , and still more calico , were perpetually arriving at Gore House .",
+        "words": [
+          "odour",
+          "as sweet",
+          "as that of freshly gathered violets",
+          "the sage - and - onions with which we"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/8af1507f-9ab3-5f75-87d1-eb2a8183229e",
+        "value": "bed - side of that woman , stark , stiff , and dead .There w7as a powerful aromatic smell hanging about the body , tallying in odour with that of a box of lozenges I found on the table .Lozenges must be analyzed of course .",
+        "words": [
+          "odour",
+          "smell",
+          "I",
+          "powerful aromatic",
+          "about the body",
+          "that of a box of lozenges I"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/8caceccd-9dea-5ae7-bbe4-7e1c88a7d6ea",
+        "value": "The position of the Egyptian orthodox party is apprehended in a more earnest spirit by the author , belonging presumably to the third century , of the Dialogue of the Gods , preserved in a Latin translation among the writings attributed to Appuleius , in which the thrice - greatest Hermes announces things future to Asklepios : Thou knowest withal , Asklepios , that Egypt is a counterpart of heaven , or , to speak more correctly , a transmigration transmigration and descent of the whole heavenly administration and activity ; indeed , to speak still more correctly , our fatherland is the temple of the whole universe .And yet a time will 2 The often - quoted anonymous author of a description of the empire from the time of Constantius , a good heathen , praises Egypt particularly on account of its exemplary piety : where are the mysteries of the gods so well celebrated as there from of old and still at Indeed , he adds , some were of opinion that the Chaldaeans â   he means the Syrian cultus â   worshipped the gods better ; but he held to what he had seen with his own eyes â   there are shrines of all sorts and magnificently adorned temples , and there are found numbers of sacristans and priests and prophets and believers and excellent theologians , and all goes on in its order ; you find the altars everywhere blazing with flame and the priests with their fillets and the incensevessels incensevessels with deliciously fragrant Nearly from the same time JUDAEA AND THE JE WS .230 BOOK VIII .",
+        "words": [
+          "fragrant",
+          "deliciously fragrant",
+          "the incensevessels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/8ce28cb1-a0ef-5fc2-9243-0fb8e101a158",
+        "value": "was the answer , anything by means of which I could earn my bread and save enough ultimately to secure my release from her .58 GEORGE GEITH odour , so this love , dead and hopeless though it might be , seemed to fill George Geith ' s existence with something it had always lacked before .For her dear sake it was useless for him ever again to toil , to save , to speculate , to increase , but the love he bore her softened and beautified his nature , made him gentler towards his fellows , kinder , more tolerant , better .",
+        "words": [
+          "odour",
+          "GEORGE GEITH"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/8ec9a556-ce7f-56dc-96e0-9191f86e9e92",
+        "value": "When ab was over , they dispersed .Many regretted the act , as inhospitable towards the duke , and we may web believe , if General Dalyell had not been led Avith his troops on a false scent , he would have made the lads repent of their frolic .' For a further testimony and bravado , the school - boys , apprentices , and many other people , mounted blue ribbons , inscribed with , No Pope â   no Priest â   no Bishop â   no Atheist ; which , again , caused the loyal to hoist the rival legend , I am no ' One George Redpath , tutor to a gentleman ' s two sons , was brought before the Privy Council , and examined on the accusation of having drawn up a bond for the execution of this project .",
+        "words": [
+          "scent",
+          "false",
+          "his troops",
+          "made the lads repent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/91490673-e217-5c19-af84-ae292518bd08",
+        "value": "141 1562 Sassafras It never grows larger than a moderate - sized pine , throws out no branches , and has a smooth trunk , and the top tufted , forming a kind of cup .The leaf is three - pointed , like that of a fig , of a dull green , and a pleasant odor , especially especially when dried ; the young leaves are of the shape of the leaf of a pear - tree .The bark is polished , reddish , and tastes like aniseed .",
+        "words": [
+          "odor",
+          "pleasant",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/934fc1d1-c709-5b68-957a-4417a027d779",
+        "value": "Meantime Mrs .George Geith was not idle either ; having once got on the scent , she soon discovered that George lived in Fen Court , City .exclaimed George ' s skeleton , and she went straight to her husband ' s office .",
+        "words": [
+          "scent",
+          "she",
+          "George Geith"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/9490a4d1-3e8f-5b12-a9cf-60408f9361db",
+        "value": "Light and ventilation were secured by ample garret and gable windows .Fires were burning to consume the earthy odour and dry the walls , against which mats acted as an arras .In those I visited brick Mangals were at proper distances ; a space was kept clear in the centre for locomotion ; locomotion ; next the wall were the soldiers ' carpets and kits ; around the perpendicular beams were the muskets , piled in order , and kept bright , and at the end of the apartment apartment were the drums .",
+        "words": [
+          "odour",
+          "earthy",
+          "Fires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/97df8a68-748c-5e40-88e0-1e8bea77eb43",
+        "value": "at breakfast , the invalid was unable to appear on account of a bad On our supper - table was nothing else than the eternal fry , pone and coffee .Butter , of dreadful odour , was here added by exception .Wheat flour they never used .",
+        "words": [
+          "Butter",
+          "odour",
+          "dreadful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/9822a104-ed53-59d5-a9ec-70a43b6b4126",
+        "value": "Tinctop Avas a thrice - distilled ass - â   only that he did not use so mild an epithet as that â   for not enabling enabling him to see it all tAvo hours sooner .You sappy Spooney ! you dolt ! you nincompoop nincompoop ! you jolter - headed , batter - puddingbrained batter - puddingbrained griffin ! you bag of soft sawdust from a timber he cried out in a rage ; 7 O & gt ; you ' ve been leading me on the Avrong scent , with your confounded humming and haAving .Why couldn ' t you come straight to the point , Hoav was I to know that you knew the meekly remonstrated the maligned Mr .",
+        "words": [
+          "scent",
+          "Avrong"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/9a4ba267-36f4-5ac8-906c-0fe5ac14d3b7",
+        "value": "III .1605 fragrant as frankincense ; some trade was carried on with the natives for sables , and skins of deer and otter and beaver ; the land was of such pleasantness that many of the company wished themselves settled there .Having in the last of May discovered in his pinnace the broad , deep current of the St .",
+        "words": [
+          "fragrant",
+          "frankincense"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/9a4c4f0a-4bf7-58a4-bbdb-5fff7a0440d8",
+        "value": "Through the green covering of the cottage , abundance of 12 THE TOWN OF THE CASCADES .roses of every hue and of roseate fragrance , glisten whenever roses bloom .A rustic porch supporting graceful creeping plants shades the entrance door , and this is flanked on either side by a goodly show of exotics in flower - pot stands .",
+        "words": [
+          "roses",
+          "fragrance",
+          "roseate",
+          "of every"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/9f2f2c0c-17ab-5682-8717-07162fd0a24e",
+        "value": "The landlord was inattentive , and * when followed up , inclined to be vmcivd .At the ordinary â   supper and breakfast alike â   there were twelve men beside myself , all of them wearing black cloth coats black cravats , and satin or embroidered waistcoats ; aU , too , sleek as if just from a hairdresser ' s , and redolent of perfumes , which really had the best of it with the exhalations of the kitchen .Perhaps it was because I was not in the regulation dress that I found no one ready to converse with me , and could obtain not the slightest information about my road , even from the landlord .",
+        "words": [
+          "perfumes",
+          "of the kitchen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/a2f2c50e-d1d1-55e4-bda1-e757bb9cf223",
+        "value": "The ground on which we now stood â   for we alighted at the foot of these steps â   seemed literally to tremble under us , and the noise of the crater was quite terrific .The smoke , forcing its way through large apertures in the sides , made a hoarse grumbling sound like that of an impatient steam engine ; and sulphureous odours impregnated the air , almost choking us with their powerful odour .We ascended the rough steps , and soon gained the ridge , where a new sight struck us with wonder der and amazement .",
+        "words": [
+          "odour",
+          "powerful",
+          "the air",
+          "odours",
+          "us",
+          "sulphureous",
+          "their",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/a9f916b2-9e17-5f7c-ab72-1b4bd83ff971",
+        "value": "It signs its name in the register ; its jewelled hand trembling , its peachy cheek blushing through the roseate cosmetics prepared prepared by Mr .Atkinson of Old Bond Street ; it leaves an odour of millefleurs in the A7estry , it comes forth , smiling and skirt - trailing , all lace and rich silks , and gems , and perfect felicity ( of course ) , down these fashion - worn vestry - room steps , to where the lightby - hung chariots , with their gleaming wheels and footmen footmen in embroidery , are waiting ; to where the silky - skinned horses curvet in their armoried harness , pawing and stamping , and champing 319 PHILIP LESLIE .What The same reasons I may have , for doubting most other What name do you imagine , then , is properly properly yours ? That ' s my Philip Leslie an - SAArered unconcernedly .",
+        "words": [
+          "odour",
+          "of millefleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/ad3e7071-08e4-54d5-8b62-d33eb28e60e1",
+        "value": "1 0 Golded Renette , a yellow backward plant .11 White â   of a great perfume .12 Renette , red , winter ' s trait .",
+        "words": [
+          "perfume",
+          "great",
+          "White â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/ae9be936-7a29-5a05-87e9-157630466ddd",
+        "value": "Pandy and Machaddock , Indian merchants , who are authorised to negotiate negotiate this little editorial arrangement .State your terms for salary and outfit , and I venture to say that in less than six months you wall be under the cool breath of an Indian puncha , officiating as responsible editor of the Abominabad Herald , Abominabad , Presidency of As Mr .Tarbrush leaned back in his horsehair horsehair covered seat after this address , a savoury odour was wafted into the room , and the waiter appeared bearing a tray on which steamed a Welch rabbit of extraordinary dimensions .",
+        "words": [
+          "breath",
+          "of an Indian puncha"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/b08aa939-4c0f-5327-a907-098619fb7374",
+        "value": "a neighbouring tree , a plaintive song suited to her mood .Beneath the window came the delightful scent of an abundant bed of mignonette and she thought that ever after mignonette would speak to her of the young fresh dream of love which had been like a fairy vision to her .Oh ! I cannot bear she said to herself , and the sudden tears sprang to her eyes , and fell down her cheeks .",
+        "words": [
+          "scent",
+          "she",
+          "delightful",
+          "Beneath the",
+          "of an abundant bed of mignonette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/b0d9b02a-415b-56ad-9c14-881883374bdc",
+        "value": "Yet this was the man who prided himself on his shrewd , practical sense ; ancl held in horror all romance and sentiment .To him , in the course of that same morning , enters Aunt Clo , bearing in her hand au open note , highly scented , ancl having an elaborate mauve - coloured cipher outside .Miss Pringle has manÅ  uvred , in her turn , to get Olivia well out of the way .",
+        "words": [
+          "scented",
+          "highly scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/b0f805f4-9929-5dd1-b718-3a3469393d8d",
+        "value": "159 niver to touch .I wouldn ' t , bless me sowl , for ad the world , for fear o ' poison And there is a strong smell of turpentine â   is there not asked Olivia .That ' s thrue for you , miss , sure enough .",
+        "words": [
+          "strong",
+          "smell",
+          "of turpentine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/b1d6c60f-d9f2-58b8-9440-d168062884e8",
+        "value": "He had seen a pack of thirteen who would follow a trail two days and a half old , if rain had not fallen in the mean time .When it rained immediately after a negro got off , they had to scour the country where they supposed he might be , till they scented him .When hard pushed , a negro always took to a tree ; sometimes , sometimes , however , they would catch him in an open field .",
+        "words": [
+          "scented",
+          "they",
+          "him",
+          "the country"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/b788f7aa-0174-5eaa-938d-27de009fa11c",
+        "value": "My poor 118 GEORGE GEITH fumes , tenanted by a dream woman , dressed in impossible garments , wreathed with smiles , living for one person and one alone , utterly lifted above the sphere of ordinary existence , and consequently far beyond the consideration of mundane affairs .Matrimony , on the contrary , is the eight or ten roomed home of manhood , with one of Broadwood ' s second - hand pianos in the drawing - room , hnen covers on the stair - carpeting , oilcloth and an umbrella stand in the hall , a pervading smell of dinner in every nook and corner , with a woman just like any other woman sitting by the domestic hearth , darning stockings while she thinks of the peculations of her cook , or the short - comings of her housemaid .And yet to the terrible reality of the latter picture there are occasional exceptions , exceptions which , it may be , prove the rule .",
+        "words": [
+          "smell",
+          "pervading",
+          "of dinner",
+          "in every nook and corner",
+          "oilcloth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/bbfcd864-1ab9-5873-8685-63b77bd1779b",
+        "value": "' ' How is it then that Ave have failed ? ' returned Neville , dejectedly 4 LOOK BEFORE YOU LEAP .' 15 Sir Frederic shook his head , laughed with recovered good humour at the old gentleman ' s saUy , and saying , ' Till tomorrow , tomorrow , then , good - by , ' walked out into the hall , whence the faint odour of a supreme cheroot was presently wafted .Old Mr .",
+        "words": [
+          "odour",
+          "faint",
+          "presently",
+          "into the hall",
+          "Sir Frederic",
+          "of a supreme cheroot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/bc3b01e5-9e2e-51f6-a98f-bbc370d807a4",
+        "value": "It is said that a portion of Batavia itself stands on the site of the old Sundanese capital , once called Jacatra , or Work of Victory .At the present present time , the part known as Jacatra is a small village , through which passes a good macadamised road , planted on either side with pepul trees , beyond which are numbers of small cottages or bungalows â   at the doors or verandahs of which the traveller will see , as he passes in the cool of the evening , the occupants â   most of whom are small salaried clerks â   seated in their loose bajus and baggy pejamas , enjoying the fragrant weed â   to them indeed the calumet of peace , after the toil and turmoil of a city life .Further on to the left , under the sombre shade of bread - fruit , jack , and cocoa - nut trees , with its base almost concealed by thorny bushes , there is a gate walled up , the two D 2 160 LIFE IN JAVA .",
+        "words": [
+          "weed",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/bc69e7b7-9a54-5f3c-9517-36c253da5832",
+        "value": "The only decent looking constructions in the place being the church , with its white spire , and the hunting - box of Prince Lichten - stein , which the general occupied , and which was of one story , with a few acres of garden or shrubbery behind it , all the rest of the country being open , without either fences or ditches .But the air here was very bad ; on our way we were frequently regaled with the odours of imperfectly imperfectly buried carcasses , for this neighbourhood had been , during the two previous months ( June and July ) the scene of three very severe engagements , in which a great many lives had been lost .Adjoining was a wood called the which looked any thing but rural , a pointed peak of it having been stripped and devastated by cannon shot , as well as by those who had laid hands on it to build soldiers ' huts .",
+        "words": [
+          "very bad",
+          "the air",
+          "odours",
+          "we",
+          "during the two previous months ( June and July",
+          "of imperfectly imperfectly buried carcasses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/c124d8e5-cfc5-5bfb-bc77-1d6a8ab9e6aa",
+        "value": "Liverpool said Manchester was grimy with smoke , and disfigured Avith cotton fluff .Manchester said that Liverpool reeked with the odour of tar and hemp , and that the blood of enslaved niggers cried for vengeance from beneath the very pedestal of Huskisson ' s statue .In truth the sisters were as reciprocally rude as the celebrated Saucepan was to the Kettle of proverbial proverbial philosophy : â   not Tupper ' s .",
+        "words": [
+          "Liverpool",
+          "odour",
+          "Manchester",
+          "of tar and hemp"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/c80b33f9-6d30-5ebf-b5e9-f6d7ced11a97",
+        "value": "311 .poet , and disputation with Andrew Melville , Melville , 173 - 175 ; his attempt to reconcile his nobles , 177 , 178 ; writes to Denmark about grain , 179 ; reasons with Mr James Gordon , a Jesuit , 182 ; anecdote of Spanish Armada , 185 ; in expectation of his Danish bride , writes pressing letters letters for contributions , 192 - 200 ; sets sail for Denmark to bring her home , 193 ; his arrival with the queen at Leith , 196 ; her reception in Edinburgh , 196 - 199 ; supposed supposed groundwork of his Demonology , 212 , quoted , 306 ; his imbecility amidst his rude courtiers , 221 ; remonstrates with two Edinburgh ministers , 224 ; admonished admonished by James Davidson , minister , for failures in king - craft , 227 ; his grudge against the ministers , 236 ; admonished by Helen Guthry , 236 ; Earl of Bothwell ' s first , second , and third attempts to seize his person , 229 , 237 , 238 ; commissions Lord Ochiltree to seize the house of Row as a manufactory of false coin , 239 ; anecdote anecdote of courtship of Earl of Mar , 243 ; again in bad odour with clergy , 243 - 245 ; scene with Bothwell in his chamber at Holyrood , 250 , 251 ; Thomas Foulis his Bank of England , 253 ; his queen delivered delivered of a prince , 255 ; his fear of Bothwell , Bothwell , 255 ; inconstancy of his favour to Countess of Bothwell , 264 ; his proclamation proclamation against forestallers , 266 ; attempts to reconcile his hostile nobles , 266 , 267 ; admonitions from clergy , 268 ; his edict against , 275 ; its consequences , 276 , 277 ; revokes commissions against witchcraft , witchcraft , 291 ; Melville ' s Dix - huitaine , 291 ; hangs a number of Border thieves , 293 ; his debts to Edinburgh goldsmiths , 294 , 295 ; nearly drowned on returning to Falkland from a General Assembly , 314 ; Idolatry , act against , i .147 .",
+        "words": [
+          "odour",
+          "bad",
+          "Bothwell",
+          "with clergy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/c8245892-a911-53fc-a729-0c4d838d0a7c",
+        "value": "A short distance from the circle in which we saw these figures is the ruin of a temple , thickly surrounded with bamboo , and the Suma , a plant which bears a flower with white leaves and a yellow centre .It has a pleasant odour , and is always to be met with at shrines and in cemeteries ; and the fact of its growing so plentifully here , to some extent establishes the truth of my conjecture respecting the figures which I suppose to be those of the gods of death in the Hindu time .The temple is built in the shape of a tower standing on a large square basement , raised two or three feet from the ground , and reached by a flight of steps .",
+        "words": [
+          "odour",
+          "It",
+          "pleasant",
+          "at shrines",
+          "in cemeteries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/c881f3a5-2241-5b91-b6a6-1cea68c772c2",
+        "value": "Thus attired , he wends his way quietly to the Koningen ' s Plain , or to that of Waterloo , to gaze on the elite and fashion walking or driving about , which the ladies do in full dress â   decollete â   and wearing ornaments in their hair .The carriages containing gentlemen are distinguished distinguished by the lighted joss - stick in the hand of one of the f ootmen , who stands behind his master , ever ready to present the aromatic torch .The quantity 76 LIFE IN JAVA .",
+        "words": [
+          "torch",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/cb329ea1-cba7-52a0-a5d4-db7c8a1a95fe",
+        "value": "We did shove unfairly , and we did make progress , till we found ourselves in the centre of the dense crowd collected in the body of the chapeL Having got so far , our next object was to get out again .The place was dark , mysterious , and fuU of strange odours ; but darkness , mystery , and strange odours soon lose their charms when men have much work before them .Joseph had made a point of being allowed to attend mass before the altar of the Â © Virgin , but a very few minutes sufficed for his K 100 TALES OF ALL COUNTRIES .",
+        "words": [
+          "strange",
+          "odours",
+          "The place"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/cb5d6124-d331-518e-b27e-8449563c48f1",
+        "value": "PESTH .from the 2 & gt ; l ( stza , with his horses reeking with sweat , the genius of Britannia seems even here in its congenial element , connecting the ocean - like plains of Asia with the civilisation of Europe .Nothing could be more sublime than the spectacle which the Danube presented on my return to the capital ; the intense and long continued frost had rendered the ice of great thickness , and a thaw having taken place , the whole breadth of the channel from shore to shore , was covered with huge , blocks of ice that had been accumulated accumulated above Comorn , sweeping past with a loud roaring noise , and it was with a feeling of terrific pleasure akin to that with which one approaches a great cataract , and compounded of a vague mixture of danger and security , that I stood at the centre of the bridge and looked on the fields of ice rolling downwards , as if they would sweep away the piers of the bridge on which 1 stood , and then with a loud crashing noise splitting themselves on its immoveable foundations .",
+        "words": [
+          "reeking",
+          "his",
+          "with sweat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/cc1a46e4-25c7-5aab-8d83-4b31802246bd",
+        "value": "from his supper .Lozenges to take aAvay the smell of smoking did the gentleman Avant ? Surely , surely .Here were some now ( taking them triumphantly from a jar labelled ' Tamarinds ' ) that would take aAvay the smell of anything from tobacco to turpentine , turpentine , but were extra good for smoking .",
+        "words": [
+          "smell",
+          "the gentleman",
+          "of smoking"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/d42ddbba-b8f1-5d0b-bd2b-8289f58198e7",
+        "value": "These balls , cut and exposed to the sun , become very hard , black without and white within .They have an aromatic odor , like galanga .They are dry and hot to the third degree , slightly astringent and resinous ; yet are found only in moist and wet places .",
+        "words": [
+          "odor",
+          "aromatic",
+          "They",
+          "like galanga"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/d89e4625-0375-518a-9f60-fbf4810eceda",
+        "value": "ADVENTURES IN BULGARIA .foxy odours , â   and in the Christian provision shops , piles of saltfish or ranges of buckets of it for the long fasts of the Oriental Church .â   At the well - built mosque of hewn stone are tall well - grown leafless trees , and an elegant fountain with its cakes of ice ; the wintry scene is animated animated by a venerable figure with flowing white beard , staff in hand , who asks the stranger the news from the Danube , and informs him that the place around him is in the heat of summer the delight of the beholder , from its umbrageous foliage and its gurgling fountain .",
+        "words": [
+          "foxy",
+          "odours",
+          "piles of saltfish"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/d8eb3e1f-c633-5cf2-b962-67531e91268c",
+        "value": "He can turn sorrow into joy , and bring forth good out of evd .My poor 118 GEORGE GEITH fumes , tenanted by a dream woman , dressed in impossible garments , wreathed with smiles , living for one person and one alone , utterly lifted above the sphere of ordinary existence , and consequently far beyond the consideration of mundane affairs .Matrimony , on the contrary , is the eight or ten roomed home of manhood , with one of Broadwood ' s second - hand pianos in the drawing - room , hnen covers on the stair - carpeting , oilcloth and an umbrella stand in the hall , a pervading smell of dinner in every nook and corner , with a woman just like any other woman sitting by the domestic hearth , darning stockings while she thinks of the peculations of her cook , or the short - comings of her housemaid .",
+        "words": [
+          "fumes",
+          "GEORGE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/da6d9c59-1ee8-5bb5-9be6-be77efdc7ea2",
+        "value": "Accidents did really sometimes happen then , from gross negligence , which they never do noAV â   oh dear , no ! under any circumstances .As the customer , hoAvever , wanted lozenges , and AArould have nought but lozenges , the sleepy lad was fain to summon his master , who â   a little , round , punchy man , with a bald head like a Dutch cheese â   came out of his comfortable back parlour , very AA ' arm and shining , and Avith a balmy odour of porkchops porkchops about him , as if he had been disturbed VOL .I .",
+        "words": [
+          "odour",
+          "balmy",
+          "if he had been disturbed",
+          "of porkchops porkchops"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/dae98c51-920a-5658-a8e2-cfcf274bee3f",
+        "value": "Yes ; it Avas a giorno caldissimo , â   a roaster .Senor Juan Manuel Harispe y Crimpo y Malovo , Avhose high - sounding patronymics Avere by the time - saving Liverpudlians abbreviated abbreviated into Old Avas of opinion that the day Avas exceedingly hot , as without coat , waistcoat , or shoes , he sat in a rushbottomed rushbottomed chair in front of his own house , in Liverpool , with a fragrant cigar of considerable length in his mouth , and a Panama straAv hat of enormous diameter on his head , reading the last false news of the Christina and Carlist squabbles from a ragged old Spanish or of some sort , and ever and anon turning in the rush - bottomed chair to scream out some directions in Iberio - Saxon to an old Avoman , Avho might have been descried through the open door slaving in a hot kitchen on the ground - floor , and at the back of the house , which looked like an interior by Gerard Douav .78 THE BADDINGTON PEERAGE .",
+        "words": [
+          "cigar",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/db623ee8-4202-5b68-a76a-1b34966eab4f",
+        "value": "Furthermore , in addition to the horse on which he rode , he was leading another â   a noble steed of a bay - brown colour .This animal , startled at the sight and smell of the dead bodies among which they were passing , gave out from time to 126 A HERO IN SPITE OF HIMSELF .time a snorting of a peculiar character , which had drawn the attention of the dragoons .",
+        "words": [
+          "smell",
+          "of the dead bodies",
+          "This animal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/ddbb3176-21d0-58b2-8556-acef1b836ed1",
+        "value": "His start on recognising you at ALs .Trotter ' s first excited my suspicions as to his identity ; and though his after self - possession for a little while threw me off the scent , the moment I compared his face with the boy ' s I saw it all : his very disguise made the resemblance between them more striking .But I don ' t think Thorpe remarked it .",
+        "words": [
+          "scent",
+          "me",
+          "I",
+          "for a little while"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/deb62e19-9050-5900-b214-50b4777fe70e",
+        "value": "Round the head was a large turban , ornamented with gaudy silk scarfs .Before each priest were small packets made of plantain leaves , containing incense , cense , chips of sandal - wood , and other preparations ; wooden censers , from which arose clouds of aromatic perfumes ; and a basket of plaited rattan , containing water , near which was a goupillon , made of plantain leaves , with flowers fixed at the top .128 LIFE IN JAVA .",
+        "words": [
+          "wooden",
+          "aromatic",
+          "perfumes",
+          "incense",
+          "cense",
+          "chips of sandal - wood",
+          "wooden censers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/dee162b0-9d3d-59bd-92e7-ce0e90b57096",
+        "value": "I am most anxious to get a good exclaimed Drahman , a look of terror on his face .Don ' t , sir ! don ' t say so ! If the Dato ( father ) of the forest does come , it will only be to scent To scent us ? â   what do you mean Why , that is the way they find out whether we have a good or a bad Oh ! if that is your opinion of said I , laughing outright , I see no need for your I beg you , sir , not to have a gun .There are a few bad ones among the lot , and these will attack human beings , but the generality mean well towards mankind , and it will be unlucky for us , sir , if you shoot a good Next morning we were up early , to inspect our THE KALI - KONTO .",
+        "words": [
+          "the",
+          "scent",
+          "us"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/dfe094e4-00d5-5224-ac6b-86c9e152d36d",
+        "value": "Would the gentleman take an ounce of those lozenges , the celebrated Tee - loo - goo Pectoral Comfits , recommended by the Yes , the gentleman would take them .They were tied up , he paid for them , and re - entered the coach , sucking one of the lozenges as he rode â   to judge , doubtless , of their efficacy in taking away the smell of tobacco smoke ; he who had never touched a pipe or a cigar in his life .Was he about to commence that baleful habit of tobacco smoking iioav ? He dismissed the hackney - coach at the corner of Grosvenor Square , and walked toAvards his oavii house through the rain .",
+        "words": [
+          "smell",
+          "of tobacco smoke"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/e4ba0815-29c6-58f8-9ac9-785663035caa",
+        "value": "Living , he was as one dead .Wealth could not console him ; success could not comfort him ; for him , for this hard , fierce worker , for the man who had so longed for rest , for physical repose , for domestic domestic pleasures , the flowers were to have no more perfume ; home no more happiness ; the earth no more loveliness .The first spring blossoms ; the summer glory on tree and field , the fruits and flowers , and thousand tinted leaves of autumn , and the snows and frosts of winter , were never to touch his heart , nor stir his senses in the future .",
+        "words": [
+          "perfume",
+          "the flowers",
+          "more"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/e7f54ad8-9ae5-5239-9cba-ff073a00b9ea",
+        "value": "Neville Watson , are the guests of our old friends .It is June , some six years after the close of our last scene ; the perfume of mignonette and clematis comes through the open French windows .The ' iron - grey man , ' considerably greyer than when we first saw him , holds a little fair - haired girl of three years old on his knee â   a tiny graceful thing , with lustrous , beseeching , dark eyes â   w7ondrously w7ondrously dark , to be accompanied by such ' LOOK BEFORE YOU LEAP .",
+        "words": [
+          "June",
+          "perfume",
+          "clematis",
+          "of mignonette",
+          "through the open French windows"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/eb6e729d-3598-5fa2-8032-5ae12a3c0615",
+        "value": "There were frequent groves of magnolia grandiflora , large trees , and every one in the glory of full blossom .The magnolia magnolia does not , however , mass well , and the road - side woods were much finer , where the beech , elm , and liquid amber formed the body , and the magnolias stood out against them , magnificent chandeliers of fragrance .The large - leaved magnolia , magnolia , very beautiful at this season , was more rarely seen .",
+        "words": [
+          "fragrance",
+          "elm",
+          "The magnolia magnolia",
+          "the magnolias"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/eba9b10c-1ee4-5f9f-85a2-750b70f9d3da",
+        "value": "Yet we did win our way through them , and apparently no man was angry with us .I doubt , after all , whether a ferocious eye and a strong smell and dirt are so efficacious in creating awe and obedience obedience in others , as an open brow and traces of soap and water .I know this , at least , â   that a dirty Maronite would make very little progress , if he attempted to shove his way unfairly through a crowd of Englishmen at the door of a London theatre .",
+        "words": [
+          "strong",
+          "smell",
+          "dirt",
+          "so efficacious",
+          "in creating awe and obedience obedience"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/ec0d7032-d34d-5221-bca3-bd56fbb7727f",
+        "value": "HoAvever , it ' s no business of mine .The stuff will tell no It never entered the wretched man ' s mind that it was his own immortal Business to know the purpose to which he , to whom he had sold a subtile and deadly Poison , intended to apply it â   a poison that , save a slight odour , would leave no mark , no sign , no trace , internal or external , on the body of the person to whom it had been administered .It never entered into his mind to reflect Avith horror , that he was by that time the guilty and cold - blooded accomplice in either a murder or a suicide .",
+        "words": [
+          "odour",
+          "slight"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/ee658674-3b41-5322-95a3-84936669b895",
+        "value": "In the 17th century ballad , The Times , occurs : The bar - boy es and the tapsters Leave drawing of their beere , And running forth in haste they cry , ' See , where Mull ' d Sack comes here ! ' ' The ancient drawers and tapsters were now superseded superseded by the barmaid , and a number of waiters : Ward describes the barmaid as all ribbon , lace , and feathers , and making such a noise with her bell and her tongue together , that had half - a - dozen paper - mills been at work within three yards of her , they ' d have signified no more to her clamorous voice than so many lutes to a drum , which alarmed two or three nimble fellows aloft , who shot themselves downstairs with as much celerity as a mountebank ' s mercury upon a rope from the top of a church - steeple , every one charged with a mouthful of coming , coming , The barmaid ( generally the vintner ' s daughter ) is described as bred at the dancing - school , becoming a bar well , stepping a minuet finely , playing sweetly on the virginals , ' John come kiss me now , now , now , ' and as proud as she was hand Tom Brown sketches a flirting barmaid of the same time , as a fine lady that stood pulling a rope , and screaming like a peacock against rainy weather , pinned up by herself in a little pew , all people bowing to her as they passed by , as if she was a goddess set up to be RAINBOW COFFEE - HOUSE .15 We present James Farr , barber , for making and selling of a drink called coffee , whereby in making the same he annoyeth his neighbours by evill smells ; and for keeping of fire for the most part night and day , whereby his chimney and chamber hath been set on fire , to the great danger and affrightment of his neigh However , Farr was not ousted ; he probably promised reform , or amended the alleged annoyance : he remained at the Rainbow , and rose to be a person of eminence and repute in the parish .He issued a token , date 1666 â   an arched rainbow based on clouds , doubtless , doubtless , from the Great Fire â   to indicate that with him all was yet safe , and the Rainbow still radiant .",
+        "words": [
+          "coffee",
+          "he",
+          "smells",
+          "his neighbours",
+          "evill"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/f302b273-813c-53c9-b364-da28fc90c8f5",
+        "value": "Steel gray clouds were flying low over the sky ; it looked indeed as if another shower were at hand , when suddenly a broad blue expanse appeared overhead , with a bordering of rosy , pillowy clouds .The change was magical : the twittering of birds , the hum of insects , the sound of human voices â   of human labour , the wholesome smell of the refreshed earth filled the air , lately so mournful with the unceasing drip and steam of heavy raindrops .raindrops .",
+        "words": [
+          "smell",
+          "wholesome",
+          "the air",
+          "mournful",
+          "lately",
+          "of the refreshed earth",
+          "steam of heavy raindrops"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/f460466d-f475-5216-a735-ba142405fe16",
+        "value": "not of much account .' A rose , ' you know , ' with any other name would smell as sweet .' & # 34 ; I do not agree with you .",
+        "words": [
+          "sweet",
+          "smell",
+          "A rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/faf5ba8b-05b8-5b30-b315-98fae195b4d2",
+        "value": "219 upon them , were of Egyptian origin ; perfume - vases of Oriental Oriental alabaster , several of them in the form of Isis ; ostricheggs ostricheggs with painted or carved sphinxes and griffins ; beads of glass and amber .These last may have come by the landroute landroute from the north ; but the other objects prove the importation importation of perfumes and articles of ornament of all sorts from the East .Thence came linen and purple , ivory and frankincense , as is proved by the early use of linen fillets , of the purple dress and ivory sceptre for the king , and of frankincense in sacrifice , as well as by the very ancient borrowed borrowed names for them ( Xivov , linum ; iropc ^ vpa , purpura ; OKrj - n - rpov , o - kIttcov , scipio ; perhaps also sXecJhi ? , ebur ; 6vo $ , thus ) .",
+        "words": [
+          "ornament",
+          "perfumes",
+          "articles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/fc05032b-b0f9-5959-b666-77dd36c18b71",
+        "value": "proceeded .The snuffers and snuff - dish rattled and scraped energetically , while the human Violin squeaked a galloping jig ; the jaws of the Clarionet were distended , and the Clarionet ' s body bent and rose , and the Clarionet ' s fingers fingered the air , and the Clarionet screamed shrilly ; and the Bassoon barked bhrum ! â   bhrum ! â   bhrum ! continuously ; and the two arms of the Trombone worked back - ward and forward as if the Trombone were possessed , continuous groaning sounds coming from the Trombone ' s Trombone ' s mouth : and the hide - bound Big - drum battered away fiercely , with a hoarse bow - wow ! bow - wow imitative of a big drum , following the blows .Now and again the instruments paused to take breath , and the instruments laughed , loud wild laughter ; and the instruments wiped their teeming foreheads between whiles ; and the instruments drank deep draughts of liquor , and then went on again with renovated vigour .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/fc0fb647-1121-5c04-9acb-5820f45853e6",
+        "value": "Eine Reihe gegenseitiger Klagen uud Beschwerdm fÃ ¼ hrte zu Prozessen , SÃ ¼ hncuersuchcn uud schiedsrichterlichen schiedsrichterlichen SprÃ ¼ chen , wclche viele Jahre hindurch die ThÃ ¤ tigkeit dcr stÃ ¤ dtischen Verwaltung auf ' s hÃ ¶ chste anspannten und jeden Augenblick zu blutigen Beiwicklungm zu fÃ ¼ hren drohten .Am bedenklichsten bedenklichsten gestalteten sich dic Streitigkeiten Ã ¼ ber die Gruth 2 ) , ein Kraut , welches vor dcr EinfÃ ¼ hrung dcs Hopfens wegen seines bitterÂ » Aromas und scincs gÃ ¼ nstigem Einflusses auf die Haltbarkeit dem Biere zugesetzt zu wcrdcn pflegte .Bis gegen die Mitte des 15 .",
+        "words": [
+          "Aromas",
+          "scincs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/fc48b0d5-476b-5b3b-a1a0-75d627dd3872",
+        "value": "171 Crowds stood within about six paces of the priests , waiting for the consecration of their various offerings , which were placed on stands made of bamboo .The offerings generally consisted of cocoa - nuts , plantains , pine - apples , mangoes , and other fruits ; baskets of chickens recently fledged ; pots , prios , and baskets of rice ; trays piled up w - ith a variety of cakes exhaling incongruous smells ; strips of calico and silk ; coins of silver , gold , and copper ; besides numerous other objects .After some minutes spent in prayer , the people going through all the external forms prescribed by their creed , which often constitute the whole extent of their knowledge of it , each priest dipped his goupillon into the basket of water , which he took into his left hand , and muttering some words , sprinkled the offerings as they were brought to him .",
+        "words": [
+          "silk",
+          "smells",
+          "plantains",
+          "cocoa - nuts",
+          "pine - apples",
+          "incongruous"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/0daea265-08ce-569e-91ce-66ff7a6f1142",
+        "label": "John Frazer CORKRAN"
+      }
+    ],
+    "label": "Bertha's Repentance. A tale",
+    "date": "1863",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b1c4d6ab-6cbc-5029-8cd2-6f2a356643ba",
+      "label": "1863",
+      "begin": "1863",
+      "end": "1863"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/357846/",
+      "label": "Al Muḩammadīyīn"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/f4c2c9fb-9f1c-5d1a-95a7-cec26ae2a59b",
+      "label": "in cemeteries"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/f62b3de6-ce05-5215-969a-1f6409252fe4/fragment/c8245892-a911-53fc-a729-0c4d838d0a7c"
+}

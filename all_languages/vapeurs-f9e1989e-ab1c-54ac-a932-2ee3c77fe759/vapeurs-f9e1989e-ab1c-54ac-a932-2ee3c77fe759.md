@@ -1,0 +1,169 @@
+## vapeurs
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/f9e1989e-ab1c-54ac-a932-2ee3c77fe759 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | vapeurs |
+| source.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/09671e79-855d-5191-873d-d5806871f4c2 |
+| source.excerpts.0.value | ( * ) Car si nous n ' avons point un seul livre sur la matière médicale , où l ' on ait parlé de cette sorte de - sel , sans y mêler quelque fable > , on peut juger comment les anciens « ont embrouillé ce qu ' ils en disent .Quant à l ' art d ' embaumer les corps , il m ' exigeoit point , ainsi que l ' on s ' imagine , ; des çpnnoissances chimiques fort approfondies , et quelques observations réilérées ont spu d ' abord faire découvrir la durée du temps qu ' il falloit laisser à l ' action de l ' alkali fixe pour pénétrer la peau et la chair , et il n ' y ( * ) De commerciis et navigationibus Ptolomaeo ' rum .) patg . |
+| source.excerpts.0.words.0 | corps |
+| source.excerpts.0.words.1 | embaumer |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/1104796d-f106-516a-85bc-5dd4f89a58c5 |
+| source.excerpts.1.value | sur les Egyptiens et les Chinois .4al point avoir été vernissés , sans quoi on n ' auroit pu leur donner une odeur qu ' ils conser * voient assez long - temps , et qui y étoit sûrement incorporée par des drogues d ' une substance étrangère : car les recherches faites sur différentes partie de la minéralogie de l ' Egypte , n ' ont rien produit de satisfaisant touchant une argile naturellement - , odoriférante , que Prosper Alpin dit être en assez grande abondance aux environs de la Matarée , dont on .suppose que l ' emplacement répond à - peu - près à celui de l ' Héliopolis , située hors du Delta . |
+| source.excerpts.1.words.0 | odeur |
+| source.excerpts.1.words.1 | odoriférante |
+| source.excerpts.1.words.2 | temps |
+| source.excerpts.1.words.3 | Prosper Alpin |
+| source.excerpts.1.words.4 | argile |
+| source.excerpts.1.words.5 | assez long |
+| source.excerpts.1.words.6 | la Matarée |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/1415a348-dcf8-5d06-8c50-30ce26aea42d |
+| source.excerpts.2.value | Et ce ne fut que dans des temps bien postérieurs à ceux dont il s ' agit ici , que les Ptolémées ouvrirent les routes que les Egyptiens avoient tenu constamment fermées .Après cela , on peut bien concevoir qu ' il en coûtoït , sans comparaison , moins pour embaumer un corps à Memphis qu ' à Thèbes , où il fallôît acheter de la troisième ou quatrième main , les drogues venues de l ' Arabie .Outre les mensonges qu ' on a à reprocher aux Auteurs grecs dont on vient de parler , il est - manifeste que très - souvent Us ont mêlé les chimères de leur propre mythologie aveu celle de l ' Egypte , et c ' est par un . |
+| source.excerpts.2.words.0 | corps |
+| source.excerpts.2.words.1 | drogues |
+| source.excerpts.2.words.2 | embaumer |
+| source.excerpts.2.words.3 | Thèbes |
+| source.excerpts.2.words.4 | Memphis |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/15db9ce6-8881-5555-88f4-4270fab4cc72 |
+| source.excerpts.3.value | Quoique Trasyle , cité par Stobée , dise que les Egyptiens y employoient aussi une petite pierre noirâtre , qu ' i ! s ramassoient le long du Nil ( * ) , et qui ne peut ( * ) SE11MO XCIÎI de Morbis .Il est rrai que Trasyle dit qu ' on se contentoit de mettre cette pierre sous le nez pour calmer les vapeurs des éaergumènes t comme on le faisoit en Judée avec une racine qui n ' étoit buk tES Egyptiens et ies Chinois .17 ^ avoir été que la plus ferrugineuse des oetites ou des pierres d * aiglé , dont , on trouve des morceaux entiers au - dessus de Térâné , à l ' occident à . |
+| source.excerpts.3.words.0 | pierre |
+| source.excerpts.3.words.1 | vapeurs |
+| source.excerpts.3.words.2 | Judée |
+| source.excerpts.3.words.3 | éaergumènes |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/2089305f-9464-564b-bb11-5d1120f969fd |
+| source.excerpts.4.value | Les anciens ont dit que c ' est entre les tropiques qu ' on trouve des peuples qui , en dormant , ne sont jamais sujets à rêver ; mais ils se seroient beaucoup moins trompés , en attribuant , ce prodige aux hahitans de la Zone glaciale .C ' est - ' un fait déjà observé par BoerJiaave , que le sommeil diminue vraisemblablement dans tous les animaux qui ont un sang chaud t à mesure que la foiblesse de l ' estomac augmente : or , sous les climats brûlans , la foiblesse de l ' estomac est telle , que si la nature ïi ' avoit eu soin d ' y faire croître des plantes 38o Recherches fhïi , oso : phio _ ï ; e5 très - aromatiques , dont les hommes doivent faire un usage excessif , personne ne seroit presque en état d ' y digérer long - temps sans devenir malade .Il résulte de cette observation , que les indigènes des contrées dont je parle , ont les esprits vitaux fort exaltés , parce qu ' ils jouissent de moins de repos : car il n ' y a que le sommeil naturel ou artificiel procuré par des drogues , qui puisse calmer les esprits vitaux . |
+| source.excerpts.4.words.0 | aromatiques |
+| source.excerpts.4.words.1 | e5 très - aromatiques |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/2dd5543c-f515-5b32-8a16-74a581b509c0 |
+| source.excerpts.5.value | Au reste , je crois entrevoir le véritable motif de la rareté des animaux embaumés de la Thébaïde , dans la difficulté où l ' on y a été de s ' y procurer , en .assez grande quantité , les drogues nécessaires , et dont les meilleures , comme la céctria et le bitume judaïque , étoient apportées avec les aromates parles caravanes Arabes , qui , ayant dépassé l ' isthme de Suez , n ' alloient pas plus loin , et s ' arrêtaient dans les pre ~ £ e 3 ' 438 RecheSches philosophiques mières villes du Delta .Car il n ' y avoit alors aucune communication entre l ' Arabie et la TliëbaïJe par la rner Rouge . |
+| source.excerpts.5.words.0 | aromates |
+| source.excerpts.5.words.1 | bitume |
+| source.excerpts.5.words.2 | isthme de Suez |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/37bda06d-5c4b-53b8-9096-3b400a7b8364 |
+| source.excerpts.6.value | lis Egyptiens ut xes Chinois .iJ [ 5 eux - mêmes que ceux qu ' on chargeoit d ' embaumer les chiens sacrés , lorsqu ' ils étoient morts de lliydrophobie ou de la rage , en contracloicnt .une maladie , et devenoient sphlénétiqucs , suivant l ' expression grecque , employée par . |
+| source.excerpts.6.words.0 | embaumer |
+| source.excerpts.6.words.1 | chiens sacrés |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/52241c7a-5112-5cea-935d-2d59532892ae |
+| source.excerpts.7.value | Parmi les petits quadrupèdes , il n ' étoit permis à personne de manger les belettes , les chats , ni les ichneumpns , qui ne s ' ont point hermaphrodites , et qui n ' ont jamais pénétré dans les entrailles d ' aucun crocodile : ces fables décrédifcent autant le jugement de ceux qui les ont contées que de ceux qui les ont crues .Quant aux chiens , il est très - faux qu ' ils aient perdu , après l ' invasion des Persans , l ' estime des Egyptiens , comme Plutarque le soutient : car ils rie dévorèrent point , ainsi qu ' on le croit , le hoeuî Apis , blessé par Can - ibyse ; puisque les prêtres firent embaumer cet animal , qui mourut long - temps après dans son temple .D ' ailleurs les Persans avoient ; plus de vénération pour les chiens que les Egyptiens même , comme on le sait , nonseulement par la coutume des Par sis , établis aujourd ' hui aux Indes , mais encore par les ordres donnés aux ambassadeurs de Darius Nothus , qui enjoignirent de , la part de ce Prince aux Carthaginois de ne plus manger des chiens , comme tant de " Cynophages de l ' Afrique ; et les Sophetim promirent au nom « du Sénat de faire renoncer le peuple à cet allaient . |
+| source.excerpts.7.words | embaumer |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/5467e783-0b07-5679-a4d7-d18575472bdb |
+| source.excerpts.8.value | ' a3 , p .\ % 5 , que de certains procédés qu ' Hérodote rapporte touchant la manière d ' y embaumer les corps humains , sont impossibles dans la pratique , on pourroit ici le démontrer sans beaucoup de peine .Au reste , je crois entrevoir le véritable motif de la rareté des animaux embaumés de la Thébaïde , dans la difficulté où l ' on y a été de s ' y procurer , en . |
+| source.excerpts.8.words.0 | corps |
+| source.excerpts.8.words.1 | embaumer |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/6a4c8037-29c2-5aa0-8d63-a2a3598f1d6e |
+| source.excerpts.9.value | Théophraste , auquel on .doit reprocher d ' avoir embrouillé d ' une maa mère inconcevable l ' histoire des plantes de H l ' Egypte , rapporte eutr ' autres choses , que „ dans ce pays - là toutes les fleurs sont sans * odeur , si l ' on en excepte celles du myrte .{ Tiist . |
+| source.excerpts.9.words.0 | sans |
+| source.excerpts.9.words.1 | odeur |
+| source.excerpts.9.words.2 | fleurs |
+| source.excerpts.9.words.3 | celles |
+| source.excerpts.9.words.4 | myrte |
+| source.excerpts.9.words.5 | Egypte |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/6bd25e13-e78c-5e84-9ec9-63a1fb16003f |
+| source.excerpts.10.value | il s ' en manifeste de temps eîi temps une autre aussi terrible , et apportée au Caire par les caravanes nubiennes , que les Turcs n ' ont jamais pensé à soumettre à aucune espèce de quarantaine : anciennement , c ' est - à - dire avant l ' époque de la conquête des Persans > ces caravanes ne venoieiit point à Memphis , puisqu ' aucun Auteur n ' en a parlé ; mais depuis cette époque , il y a eu en Europe deux grandes pestes venues , suivant tous les historiens , de la Nubie oti de l ' Ethiopie .On n ' embaume plus aujourd ' hui en Egypte aii les hommes ni les bêtes ; et je crois qu ' indépendamment de tant d ' autres motifs , les Egyptiens ont eu raison de les embaumer , et d ' enterrer ces rnomies fort profondément dans des rochers excavés .On s ' est îmasiné < jue le procédé des embaumemens a occasionné plus de putréfaction et d ' incoiiyé * Tome lVt H 1 14 " R E C H E H C H È S PBUOSOÏHlÇtfES niens que l ' inhumation ; mais il n ' y a qu ' ! y réfléchir pour concevoir que cela ne san roit être , puisqu ' on ne je toit ' les entraille que de très - peu de personnes dans le Nil toutes les autres étoient d ' abord mises dan le natron , ou l ' alkali ïixe ^ et injectées . |
+| source.excerpts.10.words.0 | embaume |
+| source.excerpts.10.words.1 | Egypte |
+| source.excerpts.10.words.2 | aujourd |
+| source.excerpts.10.words.3 | Egyptiens |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/74b0ec7a-24d6-5974-8130-fe660717b722 |
+| source.excerpts.11.value | , Mais il n ' y a qu ' à bien ' ' réfléchir à une aventure qu ' on sim * i ; és Egyptiens et ies Chinois .161 qu ' on prêté à Pytbàgore , ce serviie imitateur des philosophes ' orientaux , pour se convaincre que ' c ' est la forte exhalaison que répand la .Fabav ' ulgaris , lorsqu ' elle est en . |
+| source.excerpts.11.words.0 | forte |
+| source.excerpts.11.words.1 | exhalaison |
+| source.excerpts.11.words.2 | Pytbàgore |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/84496815-2b42-51e4-ad3b-63f17c3181df |
+| source.excerpts.12.value | ) que parce que c ' étoit un usage antique , dont je tâcherai d ' expliquer l ' origine .L ' art d ' embaumer paroît avoir été inventé â65 B - SCHEkCHES philosophiqukS en partie par les Ethiopiens , qui ne renfer ^ moient pas leurs plus précieuses momies dans des caisses de bois , mais ils les eriviïoppoient d ' une matière diaphane , que les Grecs , comme Hérodote , Diodore , Strabon et Lucien , ont pris pour du verre , quoique ce semble avoir été réellement une résine transparente , à - peu - près de là même nature que Tàmbre jaune , qui çohserveroit aussi - bien des cadavres humains , qu ' elle conservé des cadavres d ' insectes , si l ? on avoit le secret de la Fondre et de la préparer .Les Egyptiens , qui ne trouvèrent point de telle substance dans leur pays , furent obligés de faire pour les momies des caisses de bois ( * ) , et ce fut ensuite sur ces caisses même qu ' ils copièrent ( * ) Les Egyptiens ont fait ausii , pour conserver les momies , des caisses de verre , telle que celle où reposoit le corps embaiimé d ' Alexandre de Macédoine . |
+| source.excerpts.12.words.0 | embaumer |
+| source.excerpts.12.words.1 | Grecs |
+| source.excerpts.12.words.2 | Ethiopiens |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/8cbfd30d-4d24-591b-9535-feb36521c2bb |
+| source.excerpts.13.value | C ' étoit une sorte de bière composée d ' orge ., et qui pou voit se conserver long - temps sans se corrompre : car au lieu de houblon , abso3 lument inconnu dans cette contrée , on y , ajoutait une infusion âmère de lupin ( * ) : ce qu ' on pourroit essayer en Europe , pour voir si le houblon se laisseroit remplacer par le - lupin , sans produire quelque altération coii ' sidérable dans les qualités de la liqueur , où les Egyptiens faisoient entrer encore des racines de la graine d ' Assyrie , et probablement : d ' autres plantes aromatiques , chacun suivan , ! son goût particulier ; car Strabon observe que ^ chez eux la manière de brasser varioit beau ( * ) beau ( * ) Âssyrioque veiùt quae semine radia ; t Sectaqme pracbetur , madido sociaùi Lupido , UtPelusiaciproritetpoculazythi .Columella } de eu / tu horterum , ■ : M 4 184 Recherches philosophiques coup . |
+| source.excerpts.13.words.0 | plantes |
+| source.excerpts.13.words.1 | aromatiques |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/8f07142d-d988-55d5-97fb-3882d442b993 |
+| source.excerpts.14.value | a ( * ) .Mais ce ne sauroit être là la véritable cause de l ' ophtalmie chinoise , que plusieurs voyageurs ont attribuée aux qualités du riz dont on s ' y nourrit , tandis qu ' il eût été plus naturel de , l ' attribuer aux exhalaisons : des rivières : an a cru avec plus , de fondement que l ' incontinence brutale du peuple , et l ' usage universel dans tout l ' empire de se laver le ma .tin le visage avec de l ' eau chaude , y alioiblissoient les organes optiques ; mais je parlerai encore de tout ceci ailleurs . |
+| source.excerpts.14.words.0 | exhalaisons |
+| source.excerpts.14.words.1 | voyageurs |
+| source.excerpts.14.words.2 | rivières |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/9044cee2-8db0-5a76-821a-2a200df5d016 |
+| source.excerpts.15.value | Ils en ont fait de marbre blanc , de marbre noir , de basalte et de pierre de touche [ lapis pTialaris ) , telle que celle qu ' on voit en .France au château d ' Ussé dans la Touraine , et dont on trouve une description à la page 3 » o4u Recueild ' ' Antiquités dans la Gaule , par Lasauvagère , qui dit que les Egyptiens n ' embaumèrent plus les corps après la conquête de Cambyse ; mais il y a en cela une erreur de plusieurs siècles , puisqu ' ils continuèrent à embaumer probablement jt » - qu ' au règne de Théodose ; iya .iBS Egyptiens jet i . |
+| source.excerpts.15.words.0 | corps |
+| source.excerpts.15.words.1 | embaumer |
+| source.excerpts.15.words.2 | Touraine |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/9cfe0b16-207e-5702-9005-6aeec39674c1 |
+| source.excerpts.16.value | Mais cruand je .considère qu ' il y avoit anciennement en Egypte tant de médecins oculistes , dont la réputation étoit répandue par tout le monde , je ne saurois croire que ces médecins , qui connoissoient leur propre pays , se soient trompés sur l ' origine de l ' ophtalmie égyptienne , qu ' ils ne pouvoient attribuer aux exhalaisons des égoûts , lesquelles ne sont devenues si dangereuses que par la mauvaise police des Turcs et .des Arabes , . |
+| source.excerpts.16.words.0 | exhalaisons |
+| source.excerpts.16.words.1 | médecins |
+| source.excerpts.16.words.2 | le monde |
+| source.excerpts.16.words.3 | Egypte |
+| source.excerpts.16.words.4 | égoûts |
+| source.excerpts.16.words.5 | si dangereuses |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/a058f4cb-ecb5-594d-8c0e-009b330f830a |
+| source.excerpts.17.value | Ce qu ' il ' y a de bien certain encoi - e , c ' es que les anciens Egyptiens n ' ont pas conru le riz 5 et quand ils l ' auroient connu , ils a seroient bien gardes de le cultiver .Anjour tl ' lrui on le cultive tellement qu ' on en exporti tous les ans plus de 400 mille sacs par Da ■ iniette : cela seul suffiroit pour engendre : des maladies dans un pays où il ne % tonii ; jamais , ou très - rarement , et où l ' atmos ' phère imprégnée ' de substances salines , qui le feu du ciel ne consume point , est foi ' « ujète à s ' altérer ( * ) • Aussi au moindre sigw ( * ) En i63o , une peste , apportée vraisemblable ment de l ' Egypte , enleva à Vienne et dans ses t » virons cinquante mille personnes ; alors le médecin ' l ' impératrice Eléonore eut occasion de distiller clac une cornue le suc d ' un bubon pestilentiel , dont ' obtint un seul acide aussi fort que l ' eau régale .Ma ! ■ cette expérience n ' a pas du tout contribué à nous fiii ; connoître l ' origine de la peste égyptienne j le délï 1 , de pluie et le défaut de tonnerre font que l ' air acqu ' , , ;de temps en temps dans la Thébaïde assez de viole ' 1 ' ' srjit les Egyptiens et les Chinois . |
+| source.excerpts.17.words.0 | Vienne |
+| source.excerpts.17.words.1 | pestilentiel |
+| source.excerpts.17.words.2 | substances salines |
+| source.excerpts.17.words.3 | bubon |
+| source.excerpts.17.words.4 | imprégnée |
+| source.excerpts.17.words.5 | En i63o |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/a96d73bc-93e5-5905-95f9-258b4e29560c |
+| source.excerpts.18.value | endroits elles sont saumâtres , et paroissent être en d ' autres légèrement atteintes d ' un principe de sélenite , qui se trouve peutêtre dans cette couche schisteuse , entrecoupée de veines de charbon fossile , qui se prolonge sous terre , à ce qu ' on prétend , d ' une extrémité de la Chine à l ' autre .Le limon jaunâtre du Hoang - cho paroît être dû à une substance ferrugineuse , ainsi que la couleur rouaeâtre de la - rivière Tan : le M - ekiang charrie des particules vitrioliques : les eaux du Iliao sentent le bitume ; celles du Cungyang sontsavoneuses à cause de leur alkali .D ' ailleurs le P . |
+| source.excerpts.18.words.0 | sentent |
+| source.excerpts.18.words.1 | limon |
+| source.excerpts.18.words.2 | substance ferrugineuse |
+| source.excerpts.18.words.3 | sontsavoneuses |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/a979f3f3-96f4-56fb-b1ee-6d910b4cd8b7 |
+| source.excerpts.19.value | ( * ) Car si nous n ' avons point un seul livre sur la matière médicale , où l ' on ait parlé de cette sorte de sel , sans y mêler quelque , fable , ; on peut juger comment les anciens ont embrouillé ce qu ' ils en disent .Quant à l ' art d ' embaumer les corps , il ji ' exigeoit point , ainsi que l ' on s ' imagine , des çonnpissances chimiques fort approfondies , et quelques observations réitérées ont pu d ' abord faire découvrir la durée du temps fm ' il falloit laisser à l ' action de l ' alkali iixe pour pénétrer la peau et la chair , et il n ' y ( * ) De commerciis et navigationïbus Ptolomaeo ~ rum , pSg .2 > 5y . |
+| source.excerpts.19.words.0 | corps |
+| source.excerpts.19.words.1 | embaumer |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/b1d71350-e9b7-5280-9fe4-1239d7b7e143 |
+| source.excerpts.20.value | Les plus anciens ouvrages de poterie qu ' on déterre en Egypte , comme ces petites statues dont j ' ai parlé , prouvent qu ' on y a déjà employé le bleu de cobalt , dont la déa Couverte va se perdre dans la nuit des temps .D ' ailleurs , les Grecs de l ' Egypte ne paraissent point avoir dirigé leurs recherches vers de tels objets ; mais plutôt vers tout ce qui concernoit les drogues propres à la médecine , et de certains parfums très - précieux , et dont quelques - uns surpassoient le prix de l ' or au poids , à en juger par les précautions qu ' employoient les marchands d ' Alexandrie pour empêcher leurs ouvriers de voler j car le soir ils renvoyoient ces ouvriers - là tout ntis ( * ) > exactement comme les Espagnols en agissent avec leurs nègres qui exploitent les mines , et avec ceux qui pèchent les perles , auxquels ( * ) At hercule Alcxcuidriae ubitjiura iitterpolanttir , nulla satis custodit diligentia ojjîcmas .Subligaria signantnr opificl . |
+| source.excerpts.20.words.0 | précieux |
+| source.excerpts.20.words.1 | parfums |
+| source.excerpts.20.words.2 | drogues |
+| source.excerpts.20.words.3 | certains parfums |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/d9c7c373-f040-5bd9-92e3-29f80764fae8 |
+| source.excerpts.21.value | Aussi au moindre sig ; : i ( * ) En i ' 63o , une .peste , apportée vraisemblable s ment de l ' Egypte , enleva à Vienne et dans ses en \ virons cinquante mille personnes ; alors le médecin c i l ' impératrice ELéonore eut occasion de distiller tUn k une cornue le suc d ' un bubon pestilentiel , dont ' ■ r .• obtint un seul acide aussi fort que l ' eau régale . |
+| source.excerpts.21.words.0 | Vienne |
+| source.excerpts.21.words.1 | pestilentiel |
+| source.excerpts.21.words.2 | bubon |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/eb95823d-7dc2-5953-b71c-345af15d2b77 |
+| source.excerpts.22.value | violettes du Caire , et les roses pâles du Feium sont les plus odorantes qu ' il y ait au monde , et toute l ' eau de rose qu ' on consume dans les serrails de l ' Orient , ■ et daiis une grande partie de l ' Italie , vient de l ' Egypte j aussi Maillet , dans la 2me .partie de ssa dissertation de l ' Egypte , parle - t - il comme d ' une chose extraordinaire de l ' exhalaison qui s ' élève le long du Nil , dés champs ensemencés de cette espèce de fève , dont la fleur est mille fois plus odoriférante , dit - il , qu ' en Europe : ce sont ces chaiïips - là que Pythagore n ' eût jamais traversés , dès qu ' il fut circoncis .C ' étoit faute d ' avoir acquis des connoisaances assez exactes sur l ' Egypte et l ' indoustan , que les Auteurs anciens ont tant varié en parlant de la diète des Pythagoriciens : et on voit , parce qu ' en disent Aulugeïle et Athénée , qu ' ils ne savoient pas eux - mêmes ce qu ' il falloit en penser . |
+| source.excerpts.22.words.0 | fleur |
+| source.excerpts.22.words.1 | odoriférante |
+| source.excerpts.22.words.2 | exhalaison |
+| source.excerpts.22.words.3 | Egypte |
+| source.excerpts.22.words.4 | Nil |
+| source.excerpts.22.words.5 | Pythagore |
+| source.excerpts.22.words.6 | cette espèce de fève |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/f43578bc-c085-5ab0-beb7-16bbc19233cb |
+| source.excerpts.23.value | des Arabes ou les .violettes du Caire , et les roses pâles du Feium sont les plus odorantes qu ' il y ait au monde , et toute l ' eau de rose qu ' on consume dans les serrails de l ' Orient , ■ et daiis une grande partie de l ' Italie , vient de l ' Egypte j aussi Maillet , dans la 2me .partie de ssa dissertation de l ' Egypte , parle - t - il comme d ' une chose extraordinaire de l ' exhalaison qui s ' élève le long du Nil , dés champs ensemencés de cette espèce de fève , dont la fleur est mille fois plus odoriférante , dit - il , qu ' en Europe : ce sont ces chaiïips - là que Pythagore n ' eût jamais traversés , dès qu ' il fut circoncis . |
+| source.excerpts.23.words.0 | plus |
+| source.excerpts.23.words.1 | odorantes |
+| source.excerpts.23.words.2 | violettes |
+| source.excerpts.23.words.3 | eau de rose |
+| source.excerpts.23.words.4 | roses pâles |
+| source.excerpts.23.words.5 | Orient |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/febe89b4-5a13-52fd-a5ea-ff00af1bbfdc |
+| source.excerpts.24.value | Voilà ce qu ' on a généralement cru jusqu ' en ijoi , lorsque Hasselqnist se chargea de faire à cet égard des recherches au .Caire : son sentiment est que les vapeurs qui sortent des cloaques y occasionnent ce mal ( a ) .Mais cruand je . |
+| source.excerpts.24.words.0 | vapeurs |
+| source.excerpts.24.words.1 | Caire |
+| source.author.0.@id | http://data.odeuropa.eu/actor/fca83443-2675-51a9-895f-eff98dbaaf32 |
+| source.author.0.label | Cornélius  De Pauw |
+| source.label | Oeuvres philosophiques de Pauw. Tome 4 |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k5403401p |
+| source.date | 1794 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/c4efcd34-6d68-5aeb-b5c8-ec7d8aeb89c5 |
+| time.0.label | 1794 |
+| time.0.begin | 1794 |
+| time.0.end | 1794 |
+| place.0.@id | https://sws.geonames.org/360630/ |
+| place.0.label | Cairo |
+| emotion.0.@id | http://data.odeuropa.eu/vocabulary/plutchik/fear |
+| emotion.0.label | fear |
+| relevantExcerpt | http://data.odeuropa.eu/source/596958d8-c3ed-58cd-bda5-445dfe3fa7d2/fragment/febe89b4-5a13-52fd-a5ea-ff00af1bbfdc |
+| license | Public domain |

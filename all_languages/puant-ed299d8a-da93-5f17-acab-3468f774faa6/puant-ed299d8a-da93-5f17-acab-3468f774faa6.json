@@ -1,0 +1,218 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/ed299d8a-da93-5f17-acab-3468f774faa6",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "puant",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/01b0b56c-ac1b-50de-bb36-18d45c34229e",
+        "value": "Grande est notre surprise à notre réveil le lendemain , de voir autour de nous cette même foule de la veille , toujours aussi gaie , aussi brillante et aussi fraîche , continuera se promener sous les palmiers , à regarder théâtres , lutteurs , etc .Nous rentrons enfin à Mandalay , confondus de ce que nous venons de voir , une foule si sincèrement enjouée , si propre , et surtout si parfumée , qu ' au retour on croit avoir rêvé .BURMAII .",
+        "words": [
+          "Mandalay",
+          "parfumée",
+          "Nous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/1344ee21-9d3a-5bef-ad01-9c02fced55d6",
+        "value": "La majeure partie , toutefois , est à pied ; jamais pareille foule n ' a été rêvée , et il est impossible de voir nulle part ailleurs aussi coquette réunion .Dans toute cette foule parfumée de fleurs à odeur capiteuse , on ne trouverait pas une tache .A part les petites chemisettes extrêmement blanches que portent flottantes hommes et femmes , BURMAH 195 on ne voit que de la soie , des jambes et des bras nus de jeunes filles , des bouches rieuses , des yeux brillants , des fleurs dans des cheveux noirs lissés comme ceux des poupées .",
+        "words": [
+          "parfumée",
+          "odeur",
+          "fleurs",
+          "capiteuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/1b0ab511-7692-5667-9354-e5d30caf98e0",
+        "value": "Quitté Dromtal à 2 h .Délicieuse odeur de jasmin L ' INDE .101 pendant la première moitié de cette deuxième marche qui ne se termine qu ' à 8 h .",
+        "words": [
+          "odeur",
+          "jasmin",
+          "Délicieuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/21aec1f2-36a4-53a0-92d9-ed03c6bc37bb",
+        "value": "C ' est la tigresse qui est morte et qui , déjà blessée de deux balles , retournait à son antre .Deux cents mètres plus loin , nous mettons pied à terre pour grimper , toujours à travers des coulées de pierres roulantes , à la caverne des tigres dans laquelle nous trouvons une forte odeur de charogne mêlée de fauve , et trois petits tigres tout jeunes que les siggaries emportent .Une fois en bas , ces petits animaux continuent à nous faire la grimace quand on les caresse , mais ils boivent et mangent avidement tout ce que nous leur offrons .",
+        "words": [
+          "fauve",
+          "forte",
+          "odeur",
+          "nous",
+          "charogne",
+          "caverne",
+          "petits tigres",
+          "pierres roulantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/22b80fa2-8f3e-573a-bef4-bd18e9b3c66b",
+        "value": "Aussi , quelle animation dans la ville ! Visité d ' abord le temple des singes .Je dépose mon offrande , et des brahmes , comme du reste dans tous les autres temples de Bénarès , me mettent au cou des colliers de fleurs odorantes .Dans les autres temples , on donne ces fleurs enfilées à la vache sacrée , qui les mange avec la ficelle ; ici , pour se faire bien venir des dieux malins , qui alors viennent gentiment prendre dans votre main , il faut acheter aux brahmes des sucreries .",
+        "words": [
+          "fleurs",
+          "odorantes",
+          "tous les autres temples de Bénarès"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/25b3c09d-07b4-5268-9551-85cf2e52a572",
+        "value": "Nouvelle douane : on laisse passer mes fusils , mais on confisque 80 cartouches métalliques d ' express que je fais réclamer dans la journée par le consul .Alexandrie : horrible mélange humain , incolore malgré le soleil , mais sale et puant .Rien avoir si ce n ' est la place des Consulats et quelques offices .",
+        "words": [
+          "Alexandrie",
+          "puant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/2ca13708-eda7-5d8b-94ed-3be972563321",
+        "value": "279 compte depuis en déballant le tout à Paris ) , muni de provisions de bouche que je dois à l ' obligeance de Mme Flandrin , je quitte Pékin en char pour gagner le Peï - ho à Tingchow , et de là redescendre la rivière jusqu ' à Tien - Tsin en bateau .Hélas ! la campagne est certainement moins puante que Pékin lui - même ; mais quels chemins encore ! La première partie de mon voyage , qui n ' est certainement pas la plus agréable , n ' a pas duré moins de neuf heures pour un trajet qui devait me prendre la moitié de ce temps seulement .En traversant une mare profonde , je vois la charrette aux bagages qui me précède s ' arrêter et piquer en avant ; force à la mienne , dans laquelle je reste prisonnier , de s ' arrêter derrière au milieu de la même mare .",
+        "words": [
+          "Pékin",
+          "puante",
+          "campagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/50ac5868-2300-5f19-8748-130fbf99bcd8",
+        "value": "Les bengalows de voyageurs , dans ces dernières villes du sud , se trouvent à la station même , où le voyageur trouve dès son arrivée toutes les facilités pour visiter les temples de la ville ; aussi le sud de l ' Inde se voit - il très vite , d ' autant plus que ces stations ne donnent l ' hospitalité aux voyageurs que pour 24 heures , — d ' où nécessité pour eux de se presser .Plus on s ' enfonce dans le sud , plus le goût des bijoux .s ' accentue chez les populations , voire même chez les hommes .",
+        "words": [
+          "bijoux",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/54fcb010-f33d-51aa-aff7-fe0b6cbb4f80",
+        "value": "Musique , pétards .Quelques autels au diable , couverts d ' étoffes brillantes et éclairés d ' une multitude de petites lumières odorantes , sont improvisés sous les portiques des voyageurs .Certains villages birmans comprennent plusieurs de ces abris dont la fondation rapporte beaucoup de mérites à leur créateur .",
+        "words": [
+          "odorantes",
+          "diable",
+          "autels",
+          "les portiques",
+          "petites lumières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/56c62264-e39a-56a0-9d71-fefdcfb4cb08",
+        "value": "Le premier est le plus beau des deux , il mesure 9 pieds , ce qui est une grandeur moyenne pour un tigre du Radjputana ; mais sa peau est percée de 8 balles .Une forte odeur de charnier nous fait lever le nez au bout de quelques pas ; nous sommes au pied de la caverne de nos tigres .118 NOTES DE VOYAGE .",
+        "words": [
+          "forte",
+          "odeur",
+          "nous",
+          "charnier",
+          "lever"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/8b89ed45-ac6d-58fd-98ca-e398944c914f",
+        "value": "Je n ' ai pu , pendant mon court séjour ici , être renseigné sur ce qui se fait à ce sujet .Notre promenade dans le Jardin botanique , riche et touffu , se trouve embaumée par la présence de superbes gardénias en pleine terre et en floraison .Les environs , extrêmement plats , coupés d ' arroyos , doivent être un pays à riz étonnamment riche .",
+        "words": [
+          "embaumée",
+          "le Jardin botanique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/97618851-a1e8-5275-aee8-6099a3544f95",
+        "value": "Le mahrajah , vieillard extrêmement aimable , et très soigné de sa personne ; ses cheveux sont tout blancs ; ses yeux d ' une vivacité bien rare chez les mahrajahs indous , vivacité tempérée par l ' extrême douceur de son regard aussi bien que de sa parole .On me passe au cou un collier en fil d ' argent , et on me met de l ' odeur sur mon mouchoir .Le mahrajah m ' invite à aller déjeuner le lendemain à son palais situé sur la rive opposée du Gange .",
+        "words": [
+          "odeur",
+          "mouchoir",
+          "fil d ' argent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/a042db81-cfe8-58ed-8abd-bcbf718e9c97",
+        "value": "Mme de Marolles , n ' en a jamais vu de si brillant depuis dix ans , et comme le cortège passe devant le palais , il nous est facile de jouir du spectacle .Des chars extrêmement brillants et extrêmement hauts , couverts de dorures et de miroiteries , entourés de plusieurs rangées de bougies et de guirlandes de jasmin , dont l ' odeur mêlée à d ' autres parfums et renforcée , par le jasmin de la foule ( comme à Madras et dans tout le sud de l ' Inde , les femmes en bourrent ici leur chignons ) est extrêmement forte .Ces chars sont portés par des coolies .",
+        "words": [
+          "Inde",
+          "odeur",
+          "jasmin",
+          "extrêmement forte",
+          "chars",
+          "Madras"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/a3f6e5a2-c6f4-57a0-ac73-620b30a5482d",
+        "value": "commence à souffler et souffle ferme ; le Comilla , dont le tonnage ne va pas au delà de 672 tonnes , § 50 net register , le plus petit steamer de la Compagnie , est encore trop grand , puisqu ' on n ' a pu le charger de manière à le faire entrer dans l ' eau : son hélice est dehors pendant une notable partie du voyage , ce qui donne par moments au bateau une insupportable trépidation ; même mouillé en rivière , il garde ses airs penchés .Une forte odeur de cancrelat règne forcément dans toute la flotte qui ne quitte jamais ces parages ; heureusement je suis le seul passager , et fais du pont ma cabine et mon lit du roof où j ' arrive à me caler avec peine .Stoppons le dimanche 18 à Chittagong .",
+        "words": [
+          "forte",
+          "odeur",
+          "cancrelat",
+          "la flotte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/b9c2d8f7-e3e6-5e12-a74b-cafff7b36796",
+        "value": "Quelquefois môme dans certaines coupes se détachent complètement des animaux , des personnages , jusqu ' à des arbres dont on peut compter les branches et même les feuilles .Les bazars de Mandalay , comme ceux de tous les villages , sont imprégnés d ' une forte odeur de poisson séché qui commence à me fatiguer tant soit peu , et refroidit bien ma curiosité au sujet de ces lieux de réunion .On trouve , dit - on , dansl ' Iraouaddi des carpes superbes ; j ' ai dû en voir beaucoup de desséchées , mais jamais de fraîches .",
+        "words": [
+          "forte",
+          "odeur",
+          "poisson",
+          "poisson séché",
+          "me",
+          "lieux",
+          "fatiguer",
+          "séché",
+          "bazars de Mandalay",
+          "de tous les villages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/c0b99a1f-6745-5de2-8b23-55403d0aa0b8",
+        "value": "Je vois arriver avec plaisir les premiers mangoustans .Ce petit fruit , appelé le roi des fruits par un grand nombre d ' amateurs , est un bonbon crémeux et fondant qu ' aucun confiseur parisien n ' égalera jamais ; il n ' est pas écoeurant à force d ' être sucré et parfumé , comme le custardapple qui vient surtout dans ce pays - ci , à Prome spécialement .Poussé par la faim et par la curiosité , je goûte également à un dorian pour la première et la dernière fois .",
+        "words": [
+          "parfumé",
+          "écoeurant",
+          "petit fruit",
+          "un grand nombre d ' amateurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/c6b1a740-a1e5-55d5-82b8-ef7b143ba57e",
+        "value": "Vent debout .Odeur de la machine , et celle du repas des natifs toute la journée .21 .",
+        "words": [
+          "celle",
+          "Odeur",
+          "machine",
+          "toute la journée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/cce00c9f-f59f-5112-a87d-76c62921b246",
+        "value": "Que ne viens - tu ici supplanter l ' Anglais , narguer l ' Amérique , déloger l ' Allemagne et épater la Chine ? Est - ce la politique dont tu aimais tant à te mêler qui t ' a retenu ? Reposes - tu à cette heure , à Paris entre les deux bras de quelque fauteuil législatif , ou es - tu mort ? Si tu es encore de ce monde , que n ' es - tu ici pour ta plus grande gloire et la prospérité de la France ! De la concession on passe un pont jeté sur un petit bras de la rivière , et immédiatement après sous une des portes de la ville , et on est dans le plus curieux bazar du monde , et en même temps un des plus jolis , des plus colorés et des plus animés qui soient .Cette partie de Canton est peut - être la seule chose colorée qui se trouve dans cette immense Chine uniformément grise , sale , puante .L ' aspect des longues petites rues , si étroites que deux chaises s ' y croisent à peine , et parfaitement dallées , où fourmille cependant un peuple compact de gens affairés , étonne dès le premier pas , à cause surtout des longues planchettes de toutes couleurs ( le chinois s ' écrivant dans ce sens ) , couvertes de caractères chinois , et suspendues jusqu ' au milieu de la rue , assez élevées cependant pour ne pas la barrer , et qui semblables à autant d ' oriflammes aux couleurs des plus variées , donnent à tous ces innombrables petits passages un air de fête perpétuel qui s ' allie admirablement au mouvement non moins perpétuel de la foule .",
+        "words": [
+          "puante",
+          "sale"
+        ]
+      }
+    ],
+    "label": "Notes de voyage aux Indes, en Chine et au Japon, par un officier en congé",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5602668q",
+    "date": "1887",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/dbaa2756-d3b2-505d-8169-691605cea51a",
+      "label": "1887",
+      "begin": "1887",
+      "end": "1887"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361058/",
+      "label": "Alexandria"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/18811745-03c3-504b-8035-2e86d821630b/fragment/25b3c09d-07b4-5268-9551-85cf2e52a572",
+  "license": "Public domain"
+}

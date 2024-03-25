@@ -1,0 +1,151 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/270799ae-fa21-57f2-a65f-153ae459ee20",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "odours",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/1a60895a-3956-5367-bbfb-8962cf2f7da9",
+        "value": "Far from me be such an iniquity .There is dilapidation in both , squalor in both , dirt in both , smells in both .But the Cowgate has no sunshine like the Cairene streets ; no people so varied and interesting as they have .",
+        "words": [
+          "smells",
+          "dirt",
+          "squalor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/1ea51343-ca1d-5e1b-8723-c3e98d2e9751",
+        "value": "It is dirty .It has odours that are not pleasant .The buildings are all dilapidated .",
+        "words": [
+          "odours",
+          "It",
+          "not pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/2490582a-a8b1-5463-a10f-8b2eef1bb490",
+        "value": "There are none in it ; there are plenty outside of it .You can buy great bunches of violets , fragrant as any groAvn in Scotland , for a mere trifle .But they are as nothing to the roses .",
+        "words": [
+          "fragrant",
+          "great bunches of violets",
+          "as any groAvn in"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/37e95993-0c6c-56e3-b16f-7169648c315b",
+        "value": "Only one thing may be a drawback .The odours are not those of Araby the Blest .XV .",
+        "words": [
+          "odours",
+          "those of Araby the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/38d0991b-ed64-5357-8ccc-c75ce4473a1c",
+        "value": "Its doors were paintless .Dust Avas visible , and there Avere strange odours — at least , odours that out of Cairo Avould seem strange .But these are not the mosques into Avhich the Faithful most frequently go to say their prayers .",
+        "words": [
+          "strange",
+          "odours",
+          "Dust",
+          "out of Cairo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/39c5a162-a980-5dd3-ad28-7a343a796ad3",
+        "value": "But in the fruit market opposite we bought NEARING NAPLES 11 violets , purple and white , all bathed in the weet o ' the morn , and giving out a delicious perfume .We bought fruits ; not that Ave Avanted them , but they were so fresh and fragrant that they were an irresistible temptation .Then Ave went off to the Galleries and covered Avays , and Avondered at the skill that had planned , and the patient labour that had made , these Avonderful defences .",
+        "words": [
+          "fragrant",
+          "they",
+          "so fresh",
+          "that they were an irresistible temptation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/90baa2ba-7a30-5240-bde7-601bac09ad55",
+        "value": "Therefore we abstained from eggs .But in the fruit market opposite we bought NEARING NAPLES 11 violets , purple and white , all bathed in the weet o ' the morn , and giving out a delicious perfume .We bought fruits ; not that Ave Avanted them , but they were so fresh and fragrant that they were an irresistible temptation .",
+        "words": [
+          "perfume",
+          "delicious",
+          "violets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/9edd93e9-a078-56fe-b1bd-1f01002116dc",
+        "value": "They have a market of their OAvn .It is a mixture of smells — poultry , eggs , and hempen goods each adding their share .Think of eggs at fourpence a dozen ! We thought of getting some ; but then we remembered remembered the possible consequences of a smash ; and we came to the conclusion that even at fourpence a dozen eggs might be dear .",
+        "words": [
+          "eggs",
+          "smells",
+          "It",
+          "hempen goods",
+          "— poultry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/ade400c5-d099-5fff-8849-965e098c05a3",
+        "value": "Everything was clean and fresh and pleasant .The scent of mimosa flowers floated in at the Avindow and open door .The sound of chirruping buds met your ear .",
+        "words": [
+          "scent",
+          "of mimosa flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/b8000f31-05b6-5653-be7f-f554184240aa",
+        "value": "They are lovely - — the roses I mean , though I intend no disparagement to the ladies .Those roses are pink , and Avhite , and cream - coloured , and they fill the room in which they are placed with a fragrance that no Scottish rose could surpass .Think of it , ye Scottish gardeners .",
+        "words": [
+          "fragrance",
+          "they",
+          "the room",
+          "Those roses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/e0ae61b0-ac12-5ea9-b008-77ec9cfa4d2a",
+        "value": "There might be carpets , and ivory , and gold , and silver .There might be silken hangings and fragrant essences .There might be orange groves and fountains .",
+        "words": [
+          "fragrant",
+          "essences",
+          "fragrant essences",
+          "hangings"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8af0e845-0e5f-518e-a997-49af6b7498f0",
+        "label": "Charles Alfred COOPER"
+      }
+    ],
+    "label": "Seeking the Sun. An Egyptian holiday ... Letters reprinted from the “Scotsman.”",
+    "date": "1892",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/650",
+      "label": "Dust"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9d67ed54-fc4e-5dd3-9e81-8cf97ee284c7",
+      "label": "1892",
+      "begin": "1892",
+      "end": "1892"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/surprise",
+      "label": "surprise"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/64188a4c-f118-5bc3-a415-5528ac76862b/fragment/38d0991b-ed64-5357-8ccc-c75ce4473a1c",
+  "adjective": "strange"
+}

@@ -1,0 +1,347 @@
+## parfum, effluves
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/ead5e0b8-a2a6-53a2-af02-b242b25349e1 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | parfum |
+| label.1 | effluves |
+| source.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/0defd922-d005-5b9c-949e-e8c18cdf7167 |
+| source.excerpts.0.value | elle - même .Des citronniers s ' étoilent de leurs corolles odorantes ; le soleil fait luire les feuilles des orangers dont , lisse et noirâtre comme un tronc de fer , le pied se macule d ' une sorte de rouille blanche ; des cédratiers ploient sous l ' énormité de leurs fruits ; des vignes vagabondes escaladent des mûriers et des érables ; des acacias se revêtent de clématites et , dans l ' ombre de ce fouillis , la terre se tapisse de grandes fleurs et d ' herbes folles .Voici le jardin d ' Abdallah . |
+| source.excerpts.0.words.0 | corolles |
+| source.excerpts.0.words.1 | feuilles |
+| source.excerpts.0.words.2 | citronniers |
+| source.excerpts.0.words.3 | corolles odorantes |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/14b5157c-cee2-5bae-9c83-e6a2a59629b2 |
+| source.excerpts.1.value | De gros piliers carrés l ' entourent d ' une double galerie sur laquelle donnent des cellules voûtées , ténébreuses comme des sépulcres .Une odeur nauséabonde , une puanteur de ménagerie s ' exhalent de ceLte géhenne infecte .Et , dans son ombre verdâtre , ils sont une centaine , couchés en tas de haillons sordides , assis contre les murs , adossés aux colonnes , marchant à petits pas ou sautillant à la manière des pies . |
+| source.excerpts.1.words.0 | puanteur |
+| source.excerpts.1.words.1 | infecte |
+| source.excerpts.1.words.2 | odeur |
+| source.excerpts.1.words.3 | nauséabonde |
+| source.excerpts.1.words.4 | ceLte géhenne |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/152bd64e-5671-5b9e-8f9e-f365b618e1ee |
+| source.excerpts.2.value | Les chacals ? Tenez , en voilà qui , poltrons et la queue traînante , déjà rôdent autour de la gare , avec leur museau pointu et leurs oreilles dressées comme des cornes .Il n ' y a rien pour eux , ici , ni poules , ni pastèques , et ils s ' en iront tantôt , lorsque la brise du désert leur aura apporté les effluves lointains de quelque cadavre pourri .Ils sentiront la mort ; ils partiront en troupe et leurs glapissements éveilleront les hyènes qui , traînant l ' arrière - train comme des chiens battus , tout de travers galoperont à leur suite ; ils raccoleront sur leur passage quelques chiens affamés et cette horde hideuse s ' évanouira dans la nuit . |
+| source.excerpts.2.words.0 | cadavre |
+| source.excerpts.2.words.1 | effluves |
+| source.excerpts.2.words.2 | cadavre pourri |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/152eece5-927f-5403-8a2e-3891208f55cf |
+| source.excerpts.3.value | La Métidja est comme une réd uction du Tell , comme un vaste musée de ses cultures , comme une collection de ses produits .A la longue énumération que nous venons de faire qu ' on ajoute le liège , les thuyas , les cèdres , les pins , le sumac et les caroubes des forêts , les dattes des oasis , l ' alfa des plateaux , le henné du désert , l ' arachide des sables , les plantes odoriférantes d ' Alger et on aura un tableau complet des ressources végétales que nous offre l ' Algérie elle - même .Dans toute la Métidja règne une heureuse activité ; de tous côtés travaillent , pour nous et pour eux , ces Kabyles qui , en loques souillées de poussière et d ' huile , arrivent de Tizi - Ouzou , la faucille à la main , et qui , lorsque revient l ' hiver , regagnent leur montagne avec quelques douros noués dans leur chemise . |
+| source.excerpts.3.words.0 | plantes |
+| source.excerpts.3.words.1 | odoriférantes |
+| source.excerpts.3.words.2 | arachide |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/1cc24e36-a490-590e-8a37-6f9418207325 |
+| source.excerpts.4.value | .Encore un végétal essentiellement algérien , le bellombra ! Spongieux , son tronc est impropre à tous les usages , mais ses petites grappes de fleurs sont si doucement odorantes et son feuillage est si épais ! Et puis , — avantage précieux et dont nous fîmes nous - même l ' expérience , — il atteint en quatre ans la taille de nos chênes .Sous le monticule de Létang s ' ouvre le port que protège une longue jetéé terminée par un phare , que bordent un embranchement de la voie ferrée et les quais de la marine , avec leurs magasins et leurs entrepôts . |
+| source.excerpts.4.words.0 | nous |
+| source.excerpts.4.words.1 | odorantes |
+| source.excerpts.4.words.2 | tronc |
+| source.excerpts.4.words.3 | végétal |
+| source.excerpts.4.words.4 | doucement |
+| source.excerpts.4.words.5 | grappes de fleurs |
+| source.excerpts.4.words.6 | bellombra |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/1d6feb97-ceb1-5971-9622-57fa682c0348 |
+| source.excerpts.5.value | Des sons mystérieux , des chants nasillards , des batteries de tambours , des you - yous étouffés traversent , de temps à autre , une muraille sombre .Et des odeurs étranges se répandent dans l ' air alourdi .D ' autres rues , au contraire , débordent d ' une vie très intense , regorgent d ' une foule bruyante remontée , comme une écume , de la cité française . |
+| source.excerpts.5.words.0 | air |
+| source.excerpts.5.words.1 | odeurs |
+| source.excerpts.5.words.2 | étranges |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/254ad0ee-4b01-5bc7-be83-7fab529e547f |
+| source.excerpts.6.value | Notre cœur se soulève , des nausées nous montent à la gorge .— Impossible , sidi , impossible ! La Louisa P Son odeur seule me donne le mal de mer .Non , je vous jure , j ' ai pour cette herbe une antipathie invincible . |
+| source.excerpts.6.words.0 | odeur |
+| source.excerpts.6.words.1 | Son |
+| source.excerpts.6.words.2 | mal de mer |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/27ba0eff-13cf-5968-bb4d-3ecbb9a4d734 |
+| source.excerpts.7.value | Le soleil de l ' Afrique semble faire couler sa chaleur dans leurs veines et mettre sa flamme dans leurs yeux .Comme ces fleurs qui , en poussant à côté d ' autres fleurs , prennent quelque chose de leur coloris et de leurs arômes , elles paraissent avoir emprunté à la femme arabe un peu de sa fierté , un peu de sa beauté sauvage .Ce sont des Algériennes . |
+| source.excerpts.7.words.0 | fleurs |
+| source.excerpts.7.words.1 | leurs |
+| source.excerpts.7.words.2 | arômes |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/2fd196bd-8292-5a17-885c-b3b82e89709d |
+| source.excerpts.8.value | « Les ) ouyous des femmes couvrent les voix enrouées ; sur leurs mains , sur leur langue qui grésille , les aissaoua s ' appliquent des pelles rougies au feu ; ils renversent le fourneau et , secouant la tête , se tenant par les épaules , ils dansent sur le brasier une ronde de salamandres .Une odeur repoussante de peau et de corne brûlées s ' amalgame aux parfums de l ' encens ; une convulsion dernière secoue les Beni - Aïssa et , en tas informe , les uns sur les autres , ils s ' écroulent enfin , pêle - mêle , autour de leur vieux chef souriant .» Au sommet d ' Alger s ' élève , avons - nous dit , la citadelle que , nom commun à tous les châteaux - forts des villes barbaresques , — on appelle la Kasbah . |
+| source.excerpts.8.words.0 | odeur |
+| source.excerpts.8.words.1 | peau |
+| source.excerpts.8.words.2 | encens |
+| source.excerpts.8.words.3 | parfums |
+| source.excerpts.8.words.4 | repoussante |
+| source.excerpts.8.words.5 | corne |
+| source.excerpts.8.words.6 | brûlées |
+| source.excerpts.8.words.7 | corne brûlées |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/43cee2b5-a1ad-512f-83f1-efa05a86ac7f |
+| source.excerpts.9.value | Recueilli sur une soucoupe , le noir de fumée assombrit leurs cils et leurs sourcils ; mélange de sulfure d ' antimoine , de sulfate de cuivre et de clous de girofle , la poudre de koheul auréole leurs yeux d ' un grand cerne bleuâtre ; écorce de noyer , le souak leur rougit les lèvres ; le vermillon plaque leurs joues ; comme nos marins , elles ont , sur les tempes , des dessins bleus , tracés aux aiguilles ou même au couteau ; à travers les découpures d ' une feuille de papier , les cataplasmes de henné ont , enfin , imprimé sur leurs mains et sur leurs poignets des broderies noirâtres qui leur font comme des mitaines à jour .Et , affaissées dans les hautes herbes , elles s ' enveloppent de la fumée des aromates qu ' elles jettent dans des brûle - parfums d ' argile .— Sghrira , — petite ! crie Abdallah qui frappe dans ses mains . |
+| source.excerpts.9.words.0 | parfums |
+| source.excerpts.9.words.1 | aromates |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/4691e853-1a74-5b18-b2fa-b7709181bf0e |
+| source.excerpts.10.value | La kasbah renfermait , en i83o , de petits jardins où fleurissaient des orangers , où erraient des autruches , où murmuraient des fontaines ; des pavillons luxueux réservés aux beys KASBAH .des provinces en visite chez leur suzerain ; des volières qu ' animaient des oiseaux exotiques ; des cages où grondaient des lions et des panthères ; de petits salons revêtus de glaces et meublés de pendules ; un harem peuplé d ' odalisques et parcouru par de mystérieux corridors dans lesquels , nuit et jour , brûlaient des lampes à l ' huile parfumée .Bouleversé par ce génie militaire que ses dévastations nous faisaient appeler autrefois le génie malfaisant , transformé , défiguré , le vieux palais des beys n ' est plus guère aujourd ' hui qu ' une caserne compliquée et dont , seuls , les souvenirs peuvent rendre la visite intéressante . |
+| source.excerpts.10.words.0 | parfumée |
+| source.excerpts.10.words.1 | nuit et jour |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/47ef094e-e0e1-53ab-af6c-2cfb523773f6 |
+| source.excerpts.11.value | Telle est celle de la Kasbah qui , mi - européenne , mi - indigène , part de la rue Bab - el - Oued pour s ' élever en esca1 lier jusqu ' au haut de la ville .Cafés maures ; cantines mahonnaises qui sentent l ' huile rance ; tabagies espagnoles ; gargotes provençales empestées d ' ail et de gros vin ; tavernes cosmopolites ; buvettes scintillantes de zinc , de verres et de bouteilles ; échoppes de barbiers ; ateliers de repasseuses , des boutiques grouillantes la bordent sur toute sa longueur .La clarté brutale des lampes à pétrole s ' étend en nappes rougeâtres sur le pavé luisant , se heurte aux inégalités du sol , se confond avec celle qui sort des magasins d ' en face et fait de la rue entière un fouillis étourdissant de lumières et d ' ombres . |
+| source.excerpts.11.words.0 | sentent |
+| source.excerpts.11.words.1 | tavernes |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/5f81c4e3-d265-57a9-8e6f-d8eaddbbd7b1 |
+| source.excerpts.12.value | Sur des côtes abruptes et battues par les vagues , voici la baie de Mers - ed - Debbân , — le Port des Mouches , — l ' ancien refuge des sandales pirates ; voici SaintEugène , avec ses seba - aïolln , — ses sept sources , - où vien - MARABOOT DE LA BOU - ZAREAII .nent les sorcières noires , avec ses petits jardins , avec ses ca banons dignes d ' Endoume et auxquels ne manquent ni le poste à feu , ni le parfum de l ' aïoli et de la bouillabaisse ; voilà le vallon riant des consuls ; voilà , à mi - côte , Notre - Dame d ' Afrique , cette bonne mère qui , à son arrivée , sourit la première au matelot de Provence comme , la dernière , elle lui a souri quand il quittait les rives de Marseille .Grimpons par ces sentiers , entre les bellombras aux rameaux luxuriants , entre les raquettes des cactus et les grandes hampes des agaves . |
+| source.excerpts.12.words.0 | Marseille |
+| source.excerpts.12.words.1 | parfum |
+| source.excerpts.12.words.2 | vallon |
+| source.excerpts.12.words.3 | rives |
+| source.excerpts.12.words.4 | ca banons |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/626bba71-cfbc-5d43-a482-a1018f9f6ec4 |
+| source.excerpts.13.value | Suivons ces petits couloirs sombres .Une odeur nauséeuse s ' y traîne , faite des vapeurs du tabac , des relents de la cuisine , des émanations méphitiques dès hôtes de céans , gens qui redoutent l ' eau comme des chiens hydrophobes .Voilà les ' dortoirs , chambres basses , étroites , humides . |
+| source.excerpts.13.words.0 | odeur |
+| source.excerpts.13.words.1 | vapeurs |
+| source.excerpts.13.words.2 | tabac |
+| source.excerpts.13.words.3 | émanations |
+| source.excerpts.13.words.4 | méphitiques |
+| source.excerpts.13.words.5 | nauséeuse |
+| source.excerpts.13.words.6 | relents |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/63043770-d68e-584a-8a01-4322bcb6e103 |
+| source.excerpts.14.value | C ' est là , sur la place Soult - Bey que se perd la préfecture .Mais , devant elle , que font , dans la poussière , tous ces hommes qui sentent le musc ? Où vont - ils avec leur sacoche gonflée de douros , avec ces burnous neufs , ces éventails et ces paquets informes , avec ces regards inspirés et ces faces ascétiques , avec ces chapelets de bois et ces parapluies de coton ? Ce sont des croyants arrivés de Laghouat , de Gardaïa , d ' In - Çalah , de plus loin encore .Ils campent là depuis quatre jours et , avec une indolence fataliste , ils attendent un passeport . |
+| source.excerpts.14.words.0 | Laghouat |
+| source.excerpts.14.words.1 | sentent |
+| source.excerpts.14.words.2 | Gardaïa |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/6a9759a8-0752-583f-8098-e68f6d876a97 |
+| source.excerpts.15.value | Notre Espagnol fait claquer son fouet , ses chevaux s ' impatientent .En route ! Dans les joies du soleil levant , remontons vers le nord ; traversons Dely - Brahim et ses campagnes peuplées d ' orphelinatsprotestants ; tournons vers l ' ouest ; gagnons Cheragas , cette succursale de Grasse , tout embaumée de ses plantes odoriférantes ; continuons notre course et arrêtons - nous un instant à la Trappe de Staoueli .C ' est ici que , en i83o , l ' armée française livra sa première bataille , c ' est ici qu ' elle remporta sa première victoire . |
+| source.excerpts.15.words.0 | plantes |
+| source.excerpts.15.words.1 | odoriférantes |
+| source.excerpts.15.words.2 | embaumée |
+| source.excerpts.15.words.3 | Brahim |
+| source.excerpts.15.words.4 | Dely |
+| source.excerpts.15.words.5 | cette succursale de Grasse |
+| source.excerpts.15.words.6 | gagnons Cheragas |
+| source.excerpts.15.words.7 | la Trappe de Staoueli |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/6b1354ae-555b-5d21-b5b4-f59b0382dfb4 |
+| source.excerpts.16.value | Il a fait comme les oiseaux autochtones qui , d ' abord , se jettent avidement dans leurs vols , mais qui , débordés , aveuglés par leur nombre , s ' enfuient bientôt à tire d ' ailes ; il a disparu .On tente , — procédé impraticable lorsque le champ de ponte occupe des centaines d ' hectares ou est perdu dans des solitudes ignorées , — de couper le mal dans sa racine en bêchant les terrains où les sauterelles ont pondu et en mettant ainsi à l ' air les osthèques qui se dessèchent , stériles , mais qu ' on pourrait utiliser en les traitant par l ' éther et par l ' alcool , pour en retirer une huile qui a l ' odeur de l ' huile de foie de morue et qui , saponifiable et combustible , servirait peut - être à l ' industrie .On tâche enfin et surtout de mettre une digue au flot des criquets et on emploie dans ce but soit des lames de zinc disposées en rempart , soit l ' appareil cypriote , longues bandes d ' étoffes encadrées de toile cirée et , au moyen de piquets , dressées comme des murs en lignes sinueuses . |
+| source.excerpts.16.words.0 | huile |
+| source.excerpts.16.words.1 | odeur |
+| source.excerpts.16.words.2 | huile de |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/6c3035c0-64f0-50f6-9a14-d59e391c695d |
+| source.excerpts.17.value | Le train qui part de Saïda au lever du soleil , grimpe le long de ravins où une végétation sauvage se cramponne et se tord dans des roches éboulées , décrit des courbes multiples , gravit , avec la lenteur d ' une diligence , des rampes d ' une pente étonnante et arrive enfin à Aïn - el - Hadjar , sur la lisière des Hauts - Plateaux .Une enceinte fortifiée , quelques maisons européennes , quelques larges rues plantées d ' arbres , les maisonnettes d ' une sorte de cité ouvrière où vit un millier de travailleurs espagnols , des baraques de bois , des hangars , des cheminées d ' usine , et partout , en piles odorantes et jaunâtres , des amas , des monuments , des collines d ' alfa , telle est Aïn - el - Hadjar , — la fontaine de pierre , — le centre principal de la compagnie Franco - Algérienne .Et , comme une ruche colossale , tout cela bourdonne au grand soleil du sud . |
+| source.excerpts.17.words.0 | odorantes |
+| source.excerpts.17.words.1 | jaunâtres |
+| source.excerpts.17.words.2 | Aïn - el - Hadjar |
+| source.excerpts.17.words.3 | alfa |
+| source.excerpts.17.words.4 | collines d |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/76e1052b-8c20-5709-abfe-b56180acc4f4 |
+| source.excerpts.18.value | Le pain seul - fait défaut et le biscuit de mer est un peu dur , mais les galettes arabes , — lés pompes de bazar , — sont exquises quand elles sont fraîches .Boum ! Voyez terrasse ! Un tapis est étalé devant notre tente , un café odorant fume dans un plateau repoussé et longtemps , la cigarette aux lèvres , rêveur , alourdi par une douce fatigue , on s ' abîme dans la contemplation de ce pays si séduisant par son étrangeté , par sa grandeur mélancolique ; on est envahi par des impressions si diverses et si intenses que dix pages ne suffiraient pas à les analyser .Les bêtes sommeillent , à l ' attache sous des V UNE HALTE FNT R ' E * % É Tl ' AN ET FEZ . |
+| source.excerpts.18.words.0 | odorant |
+| source.excerpts.18.words.1 | café |
+| source.excerpts.18.words.2 | tente |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/7a66cca4-b34e-58eb-85ff-f3b7ae5a8135 |
+| source.excerpts.19.value | Voyez - les ! .Si touffu , si dense est leur feuillage qu ' ils forment là - haut un immense plafond impénétrable au soleil , une voûte sombre que des milliers de troncs élancés et noirâtres soutiennent , comme des colonnes , un dôme de verdure tout étoilé de fleurs aux aromes subtils , tout piqué , en même temps , des milliers de points d ' or qu ' y mettent les fruits mûrs .Un demi - jour plein de mystère , un silence presque religieux règnent dans ce bois , solennel comme un bois consacré à quelque divinité champêtre . |
+| source.excerpts.19.words.0 | fleurs |
+| source.excerpts.19.words.1 | subtils |
+| source.excerpts.19.words.2 | aromes |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/8109808e-6d64-521c-a55f-4d950f49b3f7 |
+| source.excerpts.20.value | Une rue qui descend contre sa porte aux panneaux contrariés , contre les petites fenêtres sculptées qui percent sa muraille méridionale , va aboutir à la poissonnerie .Et cette rue n ' est pas l ' un des recoins les moins pittoresques , les moins amusants d ' Alger avec , sous leurs tentes trouées comme de vieux drapeaux , ses marchands d ' escargots , d ' oiseaux , de caméléons , d ' engins à pêche et de fruits exotiques ; avec ses débitants d ' huîtres , de moules et de patelles que des passants mangent debout ; avec ses tables couvertes de coraux , de grandes coquilles , de crabes et d ' orties de mer aux teintes d ' émeraude ou d ' améthyste ; avec , chers aux gourmets de langoustes et de coquillages , les parfums maritimes et la douce fraîcheur de ses petits restautaurants où fredonnent les harpes et les mandolines .Plus que quelques pas et nous nous retrouvons sur la place du Gouvernement . |
+| source.excerpts.20.words.0 | Alger |
+| source.excerpts.20.words.1 | parfums |
+| source.excerpts.20.words.2 | coquillages |
+| source.excerpts.20.words.3 | orties de |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/83278f2b-643e-5384-9e95-a15d36287efb |
+| source.excerpts.21.value | Ici , en effet , des eaux bicarbonatées et ferrugineuses , — les plus fréquentées de notre colonie , - rendent des jambes aux rhumatisants , du sang aux anémiques , des poumons sains aux poitrinaires .Et , — dans un pays sauvage et charmant , attrayant et sévère ; dans un bas - fond de collines vertes que le Zaccar domine de sa tête sourcilleuse ; dans une immense forêt où le gibier fourmille ; au milieu de grands pins aux senteurs balsamiques , — cela a servi de prétexte plausible à la création du parc traditionnel ; à l ' ouverture d ' un hôpital militaire et d ' un hôpital civil ; à la fondation de plusieurs hôtels qu ' éclairent des lampes Edison ; à l ' installation de tout un établissement balnéohydrothermothérapique avec ses baignoires , ses douches et ses piscines ; au passage perpétuel , enfin , d ' une population très flottante de baigneurs et de malades , de muletiers et d ' hôteliers , d ' Arabes et de domestiques .Revenons à Affreville et montons vers le sud . |
+| source.excerpts.21.words.0 | senteurs |
+| source.excerpts.21.words.1 | balsamiques |
+| source.excerpts.21.words.2 | pays |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/8d18f963-92f3-5ffc-831a-0883194f5135 |
+| source.excerpts.22.value | Puis ce sont les plats doux , les figues écrasées dans le vinaigre mais combinées à la mélasse , les confitures qui ont des goûts de fleurs , les pâtisseries qui semblent pétries avec de la pommade .Et , pour arroser ces produits de parfumeur , de l ' eau de l ' Oued - Fez que , fade et saumâtre , on a coupée avec des sucs d ' oranges , afin d ' en neutraliser , soi - disant , les vices purgatifs .C ' est écœurant . |
+| source.excerpts.22.words.0 | produits |
+| source.excerpts.22.words.1 | parfumeur |
+| source.excerpts.22.words.2 | purgatifs |
+| source.excerpts.22.words.3 | eau de l |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/9a5969ab-821c-515b-9380-bb24cc485a79 |
+| source.excerpts.23.value | Nous sortons des terres cultivées .De suaves aromes se dégagent des petites fleurs aux couleurs passées , des fenouils grêles , des lentisques qui veloutent la lande et , dans l ' air calme du matin , ils se mêlent aux parfums musqués qu ' ont laissés les gazelles .Il fait frais mais la chaleur n ' est qu ' assoupie ; elle arrive par bouffées venues on ne sait d ' où et voici le grand jour ! Nous entrons dans la province du Ghrarb , — de l ' ouest , — l ' une des plus fertiles du Maghreb . |
+| source.excerpts.23.words.0 | suaves |
+| source.excerpts.23.words.1 | ils |
+| source.excerpts.23.words.2 | parfums |
+| source.excerpts.23.words.3 | gazelles |
+| source.excerpts.23.words.4 | petites fleurs |
+| source.excerpts.23.words.5 | lentisques |
+| source.excerpts.23.words.6 | aromes |
+| source.excerpts.23.words.7 | lande |
+| source.excerpts.23.words.8 | musqués |
+| source.excerpts.23.words.9 | fenouils |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/9db2fe4d-5310-550f-9a3e-c04d45389790 |
+| source.excerpts.24.value | - MOSQUÉES .Alger ! Mot harmonieux comme le murmure des flots sur le sable blanc de la grève , nom doux comme le souffle de la brise dans les palmiers des oasis ! Alger ! Ville séduisante et facile , ville qu ' on aime pour la pureté profonde de son ciel , pour la splendeur radieuse de sa mer de turquoise , pour les vagues parfums , pour les tièdes haleines dont elle enveloppe ses visiteurs comme d ' une longue caresse ! Ville où chacun se trouve dans son élément , l ' artiste amoureux de la couleur et de la lumière , le savant que séduisent les merveilles de la nature et le problème de l ' homme , le philosophe qui compare les religions et les mœurs , le politicien qui recherche les questions ardues et compliquées , l ' archéologue qui interroge les restes des temps évanouis , le mondain qu ' attirent encore les plaisirs et les fêtes et celui qui , blasé , fatigué de l ' uniformité de son existence , vient , en même temps , trouver ici , le repos , la gaieté , une vie large et sans contrainte ! Alger , — et c ' est peut - être là le secret de son charme , — est aujourd ' hui une cité mi - française , mi - arabe , une cité hybride où le voyageur rencontre toutes les singularités , tous les arcanes du monde musulman , à côté de toutes les ressources , de toutes les richesses du monde auquel il appartient .Elle a , à peu près , la forme d ' un vaste triangle appliqué sur le versant oriental d ' un promontoire verdoyant , — la Bou - Zareah , — en face du golfe délicieux dans lequel elle baigne ses pieds . |
+| source.excerpts.24.words.0 | Alger |
+| source.excerpts.24.words.1 | parfums |
+| source.excerpts.24.words.2 | cité |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/9e9db910-f151-5e8f-85f3-49115b888eb7 |
+| source.excerpts.25.value | C ' est maintenant un village prospère , l ' une des perles dont la Métidja brode sa robe verte .Les moissons se dorent , les grappes brunissent , les arbres s ' élèvent , majestueux , où croupissaient les marais aux effluves mortels .Mais que font tous ces Arabes réunis dans ce terrain vague ? Ils s ' amusent . |
+| source.excerpts.25.words.0 | mortels |
+| source.excerpts.25.words.1 | marais |
+| source.excerpts.25.words.2 | effluves |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/9f7fa6b1-8f8e-53a8-980f-928ba6781226 |
+| source.excerpts.26.value | Et les Arabes y sautent et s ' enfoncent jusqu ' aux genoux dans leur masse fourmillante qui , sous leurs larges babouches , craque comme des broussailles .Ils les piétinent ; ils les foulent avec rage ; ils entassent sur leur bouillie des fagots de diss et d ' alfa et ils y mettent le feu ; ils les enterrent enfin pour étouffer l ' odeur nauséabonde qui se dégagerait de leur pourriture , pour ensevelir les miasmes dont , — vengeance posthume , — ils infecteraient le pays .Et , pendant ce temps , heureux d ' avoir à faire courir le chat rouge , d ' autres Arabes bondissent comme des démons , une torche à la main , et enflamment les buissons de romarins et de lent - isques où grouille le reste de l ' armée orthoptère . |
+| source.excerpts.26.words.0 | odeur |
+| source.excerpts.26.words.1 | miasmes |
+| source.excerpts.26.words.2 | nauséabonde |
+| source.excerpts.26.words.3 | bouillie |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/a6aa67bf-60da-568c-b5ae-7f618b59c987 |
+| source.excerpts.27.value | Arbustes ici , ce sont , dans le sud , de beaux arbres qui , par le tronc et le feuillage , ressemblent au cyprès , qui , par le port , rappellent le pin d ' Italie .Dur et imprégné d ' une odeur aromatique , leur bois sert à faire les charpentes légères , les poutrelles , les plafonds et surtout les petits meubles de fantaisie .Voici , à mi - côte , — au poitrail de la montagne , disent les Berbères , — le défilé redouté du Fondouk . |
+| source.excerpts.27.words.0 | aromatique |
+| source.excerpts.27.words.1 | odeur |
+| source.excerpts.27.words.2 | leur bois |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/af4d7e84-30c8-539f-9857-a61051d61160 |
+| source.excerpts.28.value | Voilà les ' dortoirs , chambres basses , étroites , humides .Un air empesté , une atmosphère irrespirable s ' épaississent entre leurs murailles noircies ; la vie y semble impossible et , cependant , grâce à la pureté de l ' air marin , les épidémies sont rares à Ceuta ; à - p eine , de temps à autre , y constate - t - on quelques cas de fièvre typhoïde .De simples nattes servent de couche aux condamnés et ils sont là , accroupis comme des brutes en cage . |
+| source.excerpts.28.words.0 | air |
+| source.excerpts.28.words.1 | atmosphère |
+| source.excerpts.28.words.2 | empesté |
+| source.excerpts.28.words.3 | irrespirable |
+| source.excerpts.28.words.4 | Ceuta |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/af71f08c-87d8-5b53-b8c4-71613bd98c7f |
+| source.excerpts.29.value | Et les chevaux froissent les dromadaires chargés de paille et de ballots ; les mulets heurtent les bourriques dont les couffins de sparterie regorgent de légumes , d ' herbages , de moitiés de pastèques sanglantes ; des bandes de Nègres mendient à grand renfort de tamtam et de flûtes criardes ; des filles du peuple , en babouches rouges , promènent leur châle aux franges de couleur et leur longue chemise largement ouverte sur la poitrine ; tout homme s ' arrogeant ici le droit de veiller sur la conduite de toute femme , un passant que cela ne regardait pas accable de reproches une passante qui a parlé à un Maure et qui se sauve comme une coupable prise en faute ; le bonnet écarlate ceint d ' un paquet de cordes qui leur tombent sur les yeux , des gamins se houspillent , se crêpent le mahomet ; à coups de trognons , d ' autres poursuivent des galopins arabes pouilleux et loqueteux ou nus comme des sauvages ; des chiens qui courent , la queue basse , cherchent à voler quelque chose et , avec de petits cris de frayeur , se dérobent aux coups de pied ou de matraque .Et partout des noirs ; des marchands ambulants ; des Négresses aux larges bracelets ; des changeurs tassés dans les angles , avec leur petite table ; des vendeurs à l ' encan qui braillent à tue - tête ; des hommes qui ont de terribles pistolets à la ceinture ; des attroupements autour d ' un sorcier du Sous qui , affublé d ' oripeaux et couvert de sachets rouges , chante à pleine gorge , bat du tambour , dit la bonne aventure et vend des amulettes ; des moit ' lin ' doi , , — des agents du hakkem , chef de la police , — qui , pour faire place à la mule de quelque pacha , laissent retomber leur bâton sur les côtes maigres des chiens , sur la tête des enfants et sur les bras des hommes ; des marchands d ' eau , — des guerbadjis , — qui , la clochette à la main et l ' outre velue sur le dos , se baissent pour faire couler par - dessus leur épaule le liquide tiède et puant dont , pour ceux qui ont soif , ils remplissent leur sébille de cuivre .Mais l ' un de nos étriers accroche une porte et fait , à grand fracas , tomber les poteries qui y sont suspendues . |
+| source.excerpts.29.words.0 | puant |
+| source.excerpts.29.words.1 | tiède |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/b5ed6c68-05f6-5650-b94e-d39867a8e1c1 |
+| source.excerpts.30.value | Si ces ruelles sont plus grandes , si elles atteignent , par exemple , deux ou trois mètres de largeur , des voûtes basses , des toitures , des tentes affaissées , des loques qui se balancent , là - haut , en stalactites poudreuses , des planches vermoulues et crevassées , jetées tant bien que mal sur des traverses de bois , des pampres , enfin , ou des rameaux feuillus échappés d ' une cour les transforment en des galeries couvertes dans lesquelles se jouent la lumière et les ombres .Des odeurs nauséabondes , des poussières animales , écœurantes et fades , les remplissent , émanées de ces tas d ' ordures que fouillent les chiens , de ces amas d ' os et de plumes , de ces monceaux d ' épluchures et de paille pourrie , de ces cadavres d ' animaux , de ces monticules de détritus , tentation des vautours qui tournoient sur la ville et qui , souvent , se hasardent jusqu ' à y descendre .Avançons toujours ! Jusqu ' à présent silencieuses et désertes , les rues se peuplent mais pas un chariot . |
+| source.excerpts.30.words.0 | odeurs |
+| source.excerpts.30.words.1 | nauséabondes |
+| source.excerpts.30.words.2 | fades |
+| source.excerpts.30.words.3 | ville |
+| source.excerpts.30.words.4 | écœurantes |
+| source.excerpts.30.words.5 | poussières animales |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/b920aee6-4a6e-53cc-a9ca-88b2bd3d4f0b |
+| source.excerpts.31.value | Des musiciens se vautrent sous les galeries avec de grosses castagnettes de fer , avec des tambours énormes , — des tambours du Soudan , — et un vacarme diabolique gronde .Hagards , ahuris , les néophytes sont au milieu de la cour ; on les entoure de réchauds incandescents ; on les noie dans les torrents d ' une fumée odorante .Le nuage qui les étouffait se dissipe et les sorciers sont devant eux ; ils leur parlent une langue de l ' autre monde , tramée de yolof , de mandingue , de bambara , d ' expressions hermétiques qui ne signifient rien ; ils plantent leurs yeux dans leurs yeux et , peu à peu , les candidats se raidissent , se tétanisent sous la fixité de leurs regards hypnotisants , sous l ' influence de leur volonté . |
+| source.excerpts.31.words.0 | odorante |
+| source.excerpts.31.words.1 | fumée |
+| source.excerpts.31.words.2 | cour |
+| source.excerpts.31.words.3 | néophytes |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/bc8658e2-9d3d-5b15-aff7-f8cb48f27bca |
+| source.excerpts.32.value | Décrire un marché arabe est une chose presque impossible .Il faudrait , pour cela , reproduire d ' un seul coup de pinceau toutes les scènes dont il est le théâtre , tous les détails épisodiques qui , se mêlant et entrant les uns dans les autres , en forment l ' étourdissant spectacle ; il faudrait , d ' un seul trait de plume , dépeindre cette cohue blanchissante d ' où s ' exhalent des odeurs fauves , d ' où , en une cacophonie - continue , s ' élèvent les cris discordants des bêtes et des hommes ; il faudrait enfin poudrer , imbiber ce tableau d ' une lumière assez éblouissante pour que , à grand ' peine , l ' œil pût en supporter l ' éclat .C ' est une multitude serrée de chevaux et d ' ânes à l ' entrave , de mules et de burnous , de coiffures démesurées et de petites tentes qui , à deux versants , s ' alignent , comme pour former les ruelles d ' un village ; ce sont des amas de gargoulettes rouges et blanches , des piles d ' étoffes , des déballages de vieux habits musulmans , des étalages informes , fies tas désordonnés de ces pauvres atours d ' indienne qui , les jours de fête , remplaceront le haïk bleu des femmes restées au douar ; ce sont , sur des tables boiteuses , des masses de pâtes sucrées et de nougats verts ou rouges que les grands - pères arabes , mettent dans le capuchon de leur burnous , pour les pauvres petits qui n ' ont pas encore pu venir . |
+| source.excerpts.32.words.0 | odeurs |
+| source.excerpts.32.words.1 | fauves |
+| source.excerpts.32.words.2 | exhalent |
+| source.excerpts.32.words.3 | blanchissante |
+| source.excerpts.32.words.4 | cohue |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/c2b1cad9-4fd3-5a05-a47e-47352330fe14 |
+| source.excerpts.33.value | Et la terre est humide sous les rameaux enchevêtrés ; dans les fleurs et dans le gazon l ' eau court , entre les arbres , en ruisselets d ' argent .» Blidah exporte ou consomme annuellement de vingt à trente millions d ' oranges plus parfumées que celles de Valence , plus savoureuses que celles de Mayorque .Dans les environs de la ville est une forêt d ' un autre genre , but d ' une promenade obligatoire . |
+| source.excerpts.33.words.0 | Valence |
+| source.excerpts.33.words.1 | parfumées |
+| source.excerpts.33.words.2 | oranges |
+| source.excerpts.33.words.3 | Blidah |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/c5d091a1-81c3-59c5-90c7-2ccd19f15615 |
+| source.excerpts.34.value | Et là - bas , panorama radieux entrevu à travers les branches , les maisons d ' Alger descendent en cascade de neige jusque au port où , aperçus de cette hauteur , les plus puissants navires ressemblent à des barques ; la baie s ' arrondit mollement et déroule son azur entre des collines d ' émeraude ; fondus , à l ' horizon , dans des vapeurs bleuâtres , l ' Atlas et les monts de la Kabylie estompent leur profil sur un grand ciel sans nuages , dans les profondeurs transparentes d ' une atmosphère de cristal .Dans les douceurs d ' un air où flotte le parfum des orangers , par des chemins creux que les caroubiers ombragent de leurs frondaisons touffues , à travers les massifs où blanchissent toujours les maisons indigènes , remontons encore au couchant .A droite , entre Alger et la route que nous suivons , sourcille l ' ancien bordj de Sultan - Kalassi . |
+| source.excerpts.34.words.0 | parfum |
+| source.excerpts.34.words.1 | air |
+| source.excerpts.34.words.2 | orangers |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/d1baa781-2728-57f2-b3c4-6cb95b510ed6 |
+| source.excerpts.35.value | Et la fantasia commence , la fantasia , cette passion des Arabes que , dans un paroxysme de vie , grisent , quand ses tourbillons les emportent , la fumée et le soleil , le mouvement et le bruit .L ' Arabe adore les émotions de cette guerre dont la fantasia est le simulacre entraînant ; le contact d ' une crosse de fusil que , avec amour , il presse sur son épaule et sur sa joue , fait courir dans ses nerfs de longs frissons de volupté ; l ' odeur de la poudre l ' exalte ; le vacarme des détonations est , pour lui , comme des cris de joie , qui font bondir son cœur ; le galop d ' un cheval lui fait perdre la tête .— Entre les oreilles d ' un coursier de race , Dieu a placé un verre d ' une liqueur enivrante , dit un de leurs aphorismes . |
+| source.excerpts.35.words.0 | odeur |
+| source.excerpts.35.words.1 | poudre |
+| source.excerpts.35.words.2 | lui |
+| source.excerpts.35.words.3 | Arabe |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/d8009eec-db18-509e-89b2-fef2c7bccfa2 |
+| source.excerpts.36.value | Populeux et bruyants , de grands cafés l ' entourent qu ' assiègent , du matin au soir , les colporteurs de bibelots indigènes , les mendiants en haillons , les Nègres qui chantent et qui dansent en s ' accompagnant d ' une guitare monocorde , les crieurs de journaux et surtout ces nuées de décrotteurs dont le spectacle réjouissant est une comédie perpétuelle .Il est flanqué , au nord , à la place qu ' a laissée vide la démolition d ' une petite mosquée , — la Djama - es - Saïda , — d ' un gracieux bouquet de palmiers et de bambous où pépient les moineaux , où les fleuristes entassent leurs gerbes parfumées de géranium et de roses , où les dames viennent broder et caqueter à l ' ombre .Il est enfin , à l ' orient , ouvert sur les quais , sur la mer , sur le vaste panorama de la rade que ferment , au loin , le cap de Matifou et les premières collines kabyles . |
+| source.excerpts.36.words.0 | roses |
+| source.excerpts.36.words.1 | parfumées |
+| source.excerpts.36.words.2 | géranium |
+| source.excerpts.36.words.3 | Saïda |
+| source.excerpts.36.words.4 | mosquée |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/d9382793-0d58-583b-b52a-078046693e4c |
+| source.excerpts.37.value | Il y en a qui sont des restaurants abominables , des fruiteries infectes , des boucheries horribles .Puis ce sont des pharmacies où s ' empilent les herbes odorantes ; puis des ateliers où on repousse et où on burine les aiguières , les plateaux et les brûle - parfums .Ailleurs travaillent des batteurs d ' or , des orfèvres , des lapidaires qui sertissent le corail et les turquoises dans les pendeloques et dans les diadèmes . |
+| source.excerpts.37.words.0 | parfums |
+| source.excerpts.37.words.1 | odorantes |
+| source.excerpts.37.words.2 | herbes |
+| source.excerpts.37.words.3 | pharmacies |
+| source.excerpts.37.words.4 | plateaux |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/de5a7ba8-5aed-542e-987f-068c808f09a5 |
+| source.excerpts.38.value | Le Nègre est convaincu et nous laisse passer .C ' est dans l ' ombre d ' une cour à peine éclairée par des chandelles fumeuses collées au fût tordu des colonnes , pleine d ' odeurs âcres et d ' éclats de voix .Et tout le monde est noir là dedans . |
+| source.excerpts.38.words.0 | odeurs |
+| source.excerpts.38.words.1 | âcres |
+| source.excerpts.38.words.2 | chandelles |
+| source.excerpts.38.words.3 | cour |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/df584900-cd5f-50d7-b226-079780935582 |
+| source.excerpts.39.value | cette terre , effrayante , en sa nudité stérile .Et , s ' ils la comparent à leurs déserts où souffle le vent de la liberté , ce n ' est qu ' avec mépris qu ' ils parlent de l ' Algérie maritime , le Tell - elkhranz , — le Tell puant et corrompu ; — ce n ' est qu ' avec dédain qu ' ils nomment les musulmans déchus qui l ' habitent .Divisés en tribus puissantes que commandent des marabouts , guerriers , eux sont des braves qui n ' ont encore acepté qu ' à demi notre domination , qui , révoltés en 1874 , poussèrent leurs chevaux jusqu ' aux cèdres de Teniet - el - Had , qui sont touj ours prêts à s ' armer pour revendiquer leur indépendance . |
+| source.excerpts.39.words.0 | Algérie |
+| source.excerpts.39.words.1 | puant |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/e1f03f97-e070-567c-bfed-8a07d4ca772e |
+| source.excerpts.40.value | Et c ' est aujourd ' hui son jour .Une cohue d ' où s ' exhale l ' odeur musquée des Arabes se presse , respectueuse , à la porte de sa Koubba .Des cafetiers ont creusé leur fourneau sous les arbres funèbres et , en rond , des buveurs sont assis autour d ' eux , sur l ' herbe sèche et sur les tombes . |
+| source.excerpts.40.words.0 | odeur |
+| source.excerpts.40.words.1 | musquée |
+| source.excerpts.40.words.2 | exhale |
+| source.excerpts.40.words.3 | Arabes |
+| source.excerpts.40.words.4 | la porte de sa Koubba |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/e3c91ad8-48a8-5122-b470-76f7a507cfaf |
+| source.excerpts.41.value | Ce second Mustapha , le Mustapha élégant , est comm { } un quartier de Cannes ou de Nice transporté sur la rive africaine avec ses routes fleuries et que des lianes transforment quelquefois en tunnels de verdure ; avec ses jardins tenus comme des parcs anglais , ses caroubiers , - ses lauriersroses , ses iérébinthes , ses pins - parasols , ses plantes exotiques ; avec ses maisons de tous les styles ; avec ses hôtels somptueux , noyés dans les grands arbres .Mais ce que ne possèdent ni les boulevards de Cannes ni les chemins de Nice , c ' est ce palais du gouverneur , ce sont ces blanches villas mauresques qui , à demi , cachent dans les feuilles leurs terrasses étincelantes , leurs colonnes , leurs fenêtres grillées et leurs petites coupoles ; ce sont ces spahis indigènes qui , si souvent , lancés au grand galop , font , dans tout ce vert , passer la note éclatante de leurs burnous écarlates ; c ' est ce capiteux parfum de poésie africaine qui s ' exhale ici de toutes choses .Et là - bas , panorama radieux entrevu à travers les branches , les maisons d ' Alger descendent en cascade de neige jusque au port où , aperçus de cette hauteur , les plus puissants navires ressemblent à des barques ; la baie s ' arrondit mollement et déroule son azur entre des collines d ' émeraude ; fondus , à l ' horizon , dans des vapeurs bleuâtres , l ' Atlas et les monts de la Kabylie estompent leur profil sur un grand ciel sans nuages , dans les profondeurs transparentes d ' une atmosphère de cristal . |
+| source.excerpts.41.words.0 | parfum |
+| source.excerpts.41.words.1 | capiteux |
+| source.excerpts.41.words.2 | poésie |
+| source.excerpts.41.words.3 | boulevards de Cannes |
+| source.excerpts.41.words.4 | chemins de Nice |
+| source.excerpts.41.words.5 | poésie africaine |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/ee26c9c0-4531-54ed-a46e-d303d9be13ae |
+| source.excerpts.42.value | niers aux gros régimes , ses dattiers dont les fruits ne mûrissent pas sous cette latitude mais dont les palmes se développent avec une vigueur étonnante , ses caroubiers en fleurs , ses mimosas aux boutons d ' or , ses arbres du voyageur dont , comme un immense éventail , les feuilles s ' étalent en queue de paon , ses figuiers des pagodes aux racines aériennes flottant comme des scalps * monstrueux , mais , délaissé par les promeneurs , négligé par les jardiniers , il n ' a plus , ça et là , que l ' aspect désolé d ' un vaste cimetière sur lequel pèse la tristesse des lieux abandonnés .Malgré cette mélancolie , peut - être à cause de cette mélancolie elle - même , volontiers encore , cependant , on s ' oublie dans ses massifs opaques où le parfum des plantes se mêle aux senteurs âcres de la mer , où l ' arôme sucré des fleurs se confond avec les émanations réconfortantes des mousses et des algues rejetées par les flots sur la grève voisine ; volontiers on y prête une oreille songeuse à la brise qui , arrivée du large , murmure dans ses arbres , à ces voix mystérieuses de la nature dans lesquelles , — rire alangui des odalisques , tristes ballades des captives , imprécations des Espagnols , chants de triomphe des corsaires , cantilènes des matelots , - l ' imagination entend comme un écho lointain des temps évanouis .Un bosquet de palmiers à demi sauvages s ' élève entre ce jardin et la mer , et sous leurs cîmes ondoyantes , bruissent les boutiques d ' une fête européenne , chantent des orphéons aux bannières de velours surchargées de médailles , courent des omnibus pavoisés de drapeaux et de verdure . |
+| source.excerpts.42.words.0 | parfum |
+| source.excerpts.42.words.1 | fleurs |
+| source.excerpts.42.words.2 | plantes |
+| source.excerpts.42.words.3 | senteurs |
+| source.excerpts.42.words.4 | émanations |
+| source.excerpts.42.words.5 | âcres |
+| source.excerpts.42.words.6 | algues |
+| source.excerpts.42.words.7 | mousses |
+| source.excerpts.42.words.8 | arôme |
+| source.excerpts.42.words.9 | massifs |
+| source.excerpts.42.words.10 | sucré |
+| source.excerpts.42.words.11 | réconfortantes |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/eeb3ea19-86d3-56d8-8d65-895033b980b8 |
+| source.excerpts.43.value | Derrière des portes closes retentissent les battements de mains et les crins - crins de mandolines qui , dans on ne sait quel taudis , accompagnent les danses andalouses de l ' on ne sait quelles ballerines .Et toujours des émanations suffocantes de tabac et de fleurs , de transpirations et d ' alcool , d ' encens et de cuir mouillé ! .. |
+| source.excerpts.43.words.0 | fleurs |
+| source.excerpts.43.words.1 | encens |
+| source.excerpts.43.words.2 | tabac |
+| source.excerpts.43.words.3 | émanations |
+| source.excerpts.43.words.4 | alcool |
+| source.excerpts.43.words.5 | transpirations |
+| source.excerpts.43.words.6 | suffocantes |
+| source.excerpts.43.words.7 | cuir mouillé |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/f2392198-77e9-5707-ad73-d2d59d0a0bcc |
+| source.excerpts.44.value | Les bêtes sommeillent , à l ' attache sous des V UNE HALTE FNT R ' E * % É Tl ' AN ET FEZ .palmiers noirs ; les soldats se reposent ; des Arabes passent au loin ; des odeurs vagues mêlées à des parfums inconnus s ' exhalent de la terre " chaude .Puis tout se tait , tout s ' endort . |
+| source.excerpts.44.words.0 | parfums |
+| source.excerpts.44.words.1 | terre |
+| source.excerpts.44.words.2 | odeurs |
+| source.excerpts.44.words.3 | vagues |
+| source.excerpts.44.words.4 | inconnus |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/f2d0aab4-92ec-533b-8be8-f46fa33f78db |
+| source.excerpts.45.value | Ici ce sont des bains , ouverts , le jour , aux hommes et , aux femmes , la nuit .Estampillée de mains rouges , leur porte donne sur une cour d ' où , accompagné par des esclaves noirs , le baigneur passe dans un jardin peuplé d ' oiseaux , fleuri , saturé de parfums , arrosé par les fontaines qui alimentent les piscines ouvertes au grand air .Là , contre une maison , se creuse l ' arcade mauresque d ' une large niche au fond plat revêtu d ' émail ; des faïences l ' encadrent , de pieuses inscriptions s ' y peignent en noir sur un champ jaune crème aux reflets métalliques ; massif , mais d ' un travail admirable , un grand auvent de bois , couvert de tuiles vernissées , lui fait comme une visière que soutiennent des épontilles sculptées , que festonnent des découpures , qu ' ornent des arabesques que bariolent des couleurs adoucies par le temps ; une fontaine y coule , enfin , autour de laquelle , dans un perpétuel clapotis , se bousculent les outres , les jarres de terre et les cruches de cuivre . |
+| source.excerpts.45.words.0 | parfums |
+| source.excerpts.45.words.1 | jardin |
+| source.excerpts.45.words.2 | cour |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/faf77684-7edc-54c2-8fd1-54a15742487f |
+| source.excerpts.46.value | Ils sont riches , mais ils sont si rapaces que , volontiers , ils se feraient arracher un œil si on devait leur boucher le trou avec un douro ; ils cachent sous leurs ordures plus d ' argent que tu n ' en possèdes , si riche que tu sois , et , cependant , ils volent encore les Arabes auxquels ils prêtent au dix , au vingt , au trente pour cent par semaine ! Ils te voleront toi - même .Ce sont des Juifs ! Une servante en tunique jaune dépose près de nous une table haute comme un tabouret , et nous ne pouvons partir sans accepter les bonbons parfumés , l ' eau fraîche et le vin doux , épais et noir , - le vin de kachir , — que nous offre cet excellent homme .— Combien êtes - vous ici ? lui demandons - nous . |
+| source.excerpts.46.words.0 | parfumés |
+| source.excerpts.46.words.1 | bonbons |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/fb5d44b4-acef-5eef-8b87-ab91190efb0e |
+| source.excerpts.47.value | Suspendue sur la crête des falaises entre la grande bleue et les collines verdoyantes de la forêt de Baïnem une route d ' une poésie émouvante et sauvage nous conduit à la pointe Pescade .Quel paysage charmant ! Quel décor grandiose ! Des falaises à pic , des éboulements déchirés , des touffes de perce - pierre à l ' odeur pénétrante , des amas de cactus .Là - bas , avec des limpidités de saphir , avec des rayonnements de nacre , la mer sommeille dans les anses tranquilles ou , poussée par des brises molles , elle vient expirer sur le sable piqueté de soleil ; au loin , elle s ' étend , embrasée de lumière . |
+| source.excerpts.47.words.0 | pénétrante |
+| source.excerpts.47.words.1 | odeur |
+| source.excerpts.47.words.2 | cactus |
+| source.excerpts.47.words.3 | éboulements déchirés |
+| source.excerpts.47.words.4 | touffes de perce - pierre |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/ff04ef6c-95c8-5a22-a95d-bfd82fb2aa82 |
+| source.excerpts.48.value | Grimpons par ces sentiers , entre les bellombras aux rameaux luxuriants , entre les raquettes des cactus et les grandes hampes des agaves .Dans les bananiers , dans les grenadiers , dans les orangers , là chantent les norias , là se cachent les maisons mauresques et l ' asile des vieillards , là flottent de voluptueux effluves auxquels les bonnes petites sœurs des pauvres mêlent le parfum mystique de la charité .Montons toujours . |
+| source.excerpts.48.words.0 | parfum |
+| source.excerpts.48.words.1 | voluptueux |
+| source.excerpts.48.words.2 | mystique |
+| source.excerpts.48.words.3 | effluves |
+| source.excerpts.48.words.4 | asile des vieillards |
+| source.excerpts.48.words.5 | maisons mauresques |
+| source.author.0.@id | http://data.odeuropa.eu/actor/964194df-c5a6-596f-8ee7-e3a61d262082 |
+| source.author.0.label | Marius  Bernard |
+| source.label | Autour de la Méditerranée.... d'Alger à Tanger / par Marius Bernard |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k65479832 |
+| source.date | 1894/1902 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/1b9c2f0e-3016-52b4-8ecb-2969c8060066 |
+| time.0.label | 1894/1902 |
+| time.0.begin | 1894 |
+| time.0.end | 1902 |
+| place.0.@id | https://sws.geonames.org/12088669/ |
+| place.0.label | Asile des vieillards |
+| place.1.@id | http://data.odeuropa.eu/place/296f34fe-1aec-5a79-b440-fe1c6db8928f |
+| place.1.label | maisons mauresques |
+| emotion.0.@id | http://data.odeuropa.eu/emotion-type/faith |
+| emotion.0.label | faith |
+| relevantExcerpt | http://data.odeuropa.eu/source/9a793bd8-03bf-5503-a973-0ca220c56c3c/fragment/ff04ef6c-95c8-5a22-a95d-bfd82fb2aa82 |
+| license | Public domain |
+| adjective.0 | voluptueux |
+| adjective.1 | mystique |

@@ -1,0 +1,52 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/0254e410-2320-55d0-995f-df5cd12fb0b2",
+  "@graph": "http://data.odeuropa.eu/eebo",
+  "label": "stench",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/fe10aef3-d874-54f7-b8c1-5c9a439839d5",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/fe10aef3-d874-54f7-b8c1-5c9a439839d5/fragment/5fe8521c-b65f-550e-8dee-50d8d544baa5",
+        "value": "Beware left your separating bethe weeding of our Garden .If you wave Humility and Charity , your selected Flowers are but perfumedThistles ; like the Ibides in Alexandria , which exclude one stench , but createanother .Lastly , you Syllogise .",
+        "words": [
+          "stench",
+          "in Alexandria",
+          "perfumedThistles",
+          "your selected Flowers"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/32fba7b9-b4d3-59b5-943e-247ca11ddb5c",
+        "label": "William Thomas"
+      }
+    ],
+    "label": "An apology for the Church of England in point of separation from it by ... William Lord Bishop of St. Davids.",
+    "url": "https://quod.lib.umich.edu/e/eebo/A64560",
+    "date": "1655",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/116",
+      "label": "Perfume bottle"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6abf9cca-0373-52c3-88e7-e3e48b2a5b6b",
+      "label": "1655",
+      "begin": "1655",
+      "end": "1655"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361059/",
+      "label": "Alexandria"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/fe10aef3-d874-54f7-b8c1-5c9a439839d5/fragment/5fe8521c-b65f-550e-8dee-50d8d544baa5"
+}

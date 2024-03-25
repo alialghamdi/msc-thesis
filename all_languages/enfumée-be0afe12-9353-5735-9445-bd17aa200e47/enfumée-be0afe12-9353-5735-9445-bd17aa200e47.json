@@ -1,0 +1,1132 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/be0afe12-9353-5735-9445-bd17aa200e47",
+  "@graph": "http://data.odeuropa.eu/dbnl",
+  "label": "enfumée",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/01407678-fdae-51ae-baf3-b999a582a5fe",
+        "value": "Sentir , exhaler ( ou ) répandre une certaine odeur , fleurer .Aangenaam r - , sentir bon , avoir bonne odeur .|- , v .",
+        "words": [
+          "odeur",
+          "bonne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/0284b70d-0130-5194-a38a-58a843f105dc",
+        "value": "n .Een verpestenden reuk verspreiden .|S ' emp - , zich , elkander vergiftigen .",
+        "words": [
+          "reuk",
+          "verpestenden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/028ae451-34b0-5419-a262-19b92fdbeb0d",
+        "value": "- Kaneelroos , f .Rose à odeur de cannelle , f .Kaneelsiroop , f .",
+        "words": [
+          "odeur",
+          "cannelle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/063cbe6c-4f21-5b8f-97fd-9aab2c56354d",
+        "value": "Schimpig , adj .Outrageant , injurieux .|- , adv .",
+        "words": [
+          "Outrageant",
+          "injurieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/06941f12-9b18-57c0-ac47-5a9696e0fdfc",
+        "value": "Welriekend , adj .Odoriférant , odorant , aromatique , parfumé .Welriekendheid , f .",
+        "words": [
+          "odorant",
+          "parfumé",
+          "Odoriférant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/07979c13-d5b7-51a9-afb1-38ebcfb6bfc3",
+        "value": "Duf , adv .Qui sent le moisi , qui a une odeur de relent , qui sent le remugle .|Moisi , moite , humide , gâté par l ' humidité .",
+        "words": [
+          "odeur",
+          "moisi",
+          "relent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/0d6915ff-c07f-592c-b3d0-38ed5176ffa0",
+        "value": "|Charogne , f .Stinken als een aas , puer comme une charogne .|( Jeu .",
+        "words": [
+          "Stinken",
+          "als een aas",
+          "puer comme une charogne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/0d73e7f9-e2fa-519e-9b1c-cc00787122d0",
+        "value": "( Bot .) Ambrette , centaurée odorante , f .Amberen , v .",
+        "words": [
+          "odorante",
+          "centaurée",
+          "Ambrette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/0e6e2fe7-6e05-5b80-93c2-d53235f73c48",
+        "value": "n .Laisser une mauvaise odeur .Nastippen , v .",
+        "words": [
+          "odeur",
+          "mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/101d0ce8-ff16-52d0-8baf-c1988e079184",
+        "value": "Ambergeur , m .Odeur d ' ambre , f .Ambergrijs , n .",
+        "words": [
+          "d ' ambre",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/13304efc-1822-552c-a5cc-b2dacb70a599",
+        "value": "|( Chass .) Év - un piège , eenen strik van zijn kwaden reuk bevrijden .|Lucht geven .",
+        "words": [
+          "reuk",
+          "kwaden",
+          "eenen strik"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/1676741a-0ca3-5cb9-8e4b-d9764bf10441",
+        "value": "Ruikbaarheid , f .Odorable , adj .2 g .",
+        "words": "Odorable"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/1708a511-1017-546a-af64-b2a6ce3c4523",
+        "value": "Zwavellucht , f .Odeur de soufre , f .Zwavelmelk , f .",
+        "words": [
+          "Odeur",
+          "soufre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/1a996a6d-f3de-5c09-8c53-500992b643fa",
+        "value": "Empyreume , m .Brandige reuk ( of ) smaak , m .Ému , e , part .",
+        "words": [
+          "reuk",
+          "Brandige"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/1cee0fb4-57e3-5b3c-9a75-ef28ad581d1c",
+        "value": "Ruikbaar .Odorant , e , adj .Welriekend , geurig .",
+        "words": "Odorant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/1ea40caf-f085-526a-982f-0125fd55aee9",
+        "value": "Hatelijk , adj .Odieux , haïssable .|Vilain , hideux , repoussant .",
+        "words": [
+          "haïssable",
+          "Odieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/20dc65c9-e918-5af8-872a-711aeaf8323f",
+        "value": "Nastank , m .Mauvaise odeur qui reste , f .|( fig .",
+        "words": [
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/22b4d5c2-bbe7-56bd-b57d-53ab9409e1b8",
+        "value": "( Bot .) Stinkende kamille , f .Marprime , f .",
+        "words": [
+          "kamille",
+          "Stinkende"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/22f18fc5-246e-5787-956e-714f4d8a9ee1",
+        "value": "Senteur , f .Aangename geur , m .Coussin de s - , reukkussentje , n .",
+        "words": [
+          "geur",
+          "Aangename"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/245d7e52-4d22-5573-9238-50e115117749",
+        "value": "Agréable , charmant , délicieux , gracieux , plaisant , doux , suave .Aang - landschap , paysage riant .Het is hier aang - , il fait bon ici .",
+        "words": [
+          "paysage",
+          "riant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/24aca9a2-ca35-5b4d-b6c2-12d6233607b8",
+        "value": "Snufje , n .Odeur légère , f .Snugger , adj .",
+        "words": [
+          "légère",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/24fb684a-b2bd-5dcb-8298-9695b398405d",
+        "value": "Balsemgeur , m .Odeur balsamique , f .Balsemhars , n .",
+        "words": [
+          "balsamique",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/278e84ec-6627-53cb-bd05-72fc392ce96e",
+        "value": "- Poncir ( e ) , m .Groote welriekende citroen , m .Poncis , m .",
+        "words": [
+          "welriekende",
+          "citroen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/29e79757-fae3-5f9c-9bfb-73310c9fe5d9",
+        "value": "Jeneverlucht , f .Odeur de genièvre , f .Jenevermoed , m .",
+        "words": [
+          "Odeur",
+          "genièvre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/2bff0f84-4d61-52ea-9d44-a94341274ebb",
+        "value": "a .De achting doen verliezen , den goeden naam krenken , in kwaden reuk brengen .|Se d - , zijn krediet , zijn aanzien ( of ) vertrouwen verliezen .",
+        "words": [
+          "reuk",
+          "kwaden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/3149403a-08fb-5ed3-9331-b39cda271b48",
+        "value": "Rotlucht , f .Odeur putride , f .Rotneus , m .",
+        "words": [
+          "putride",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/32c053b6-2d68-58d3-a22e-d3e93dc5b433",
+        "value": "|( Comm .) Van krediet berooven , in kwaden geur brengen .|Se d - , zijn krediet ( of ) het vertrouwen verliezen .",
+        "words": [
+          "geur",
+          "kwaden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/3603c2b6-3985-597a-84a8-1499a4a88058",
+        "value": "Engelrein , adj .Pur comme un ange .Engelsch , adj .",
+        "words": [
+          "Pur",
+          "comme un ange"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/39a85fec-8ea4-563e-ae35-eebeb324903a",
+        "value": "Horrible , abominable , affreux , exécrable , détestable , épouvantable , effroyable , monstrueux , atroce .Afsch - e reuk , odeur abominable , détestable .Afsch - mensch , homme exécrable .",
+        "words": [
+          "odeur",
+          "reuk",
+          "abominable",
+          "détestable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/3aba1f48-1ef1-5192-99ed-9698a29c10d0",
+        "value": "St - e dranken , liqueurs spiritueuses .St - e reuk , odeur pénétrante .St - e boter , beurre rance .",
+        "words": [
+          "odeur",
+          "reuk",
+          "pénétrante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/3cabc967-95e5-57a6-b17f-6033ff49ca56",
+        "value": "Verdord ! Diapasme , m .Welriekend strooipoeder , n .Diapason , m .",
+        "words": [
+          "strooipoeder",
+          "Welriekend"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/400e1c7b-2b0c-56f4-8376-e901ca60e225",
+        "value": "Goutte , f .● Ik heb er een leelijke pijp aan gerookt , cela m ' a coûté cher .Pierewaaien , v .",
+        "words": [
+          "leelijke pijp",
+          "gerookt",
+          "cela m '"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/45e2fe52-7e95-57e4-b343-977d09ea5afb",
+        "value": "Steenroos , f .Lauréole odorante , f .Steenrots , f .",
+        "words": [
+          "odorante",
+          "Lauréole"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/46ad693d-1103-51a4-a470-904317c41f25",
+        "value": "Walglijkheid , f .Odeur nauséabonde , f ., aspect dégoûtant , m .",
+        "words": [
+          "nauséabonde",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/4847b29f-c1e2-5f71-aac9-f9ae3bbec04d",
+        "value": "a .Met een aangenamen geur vervullen , welriekend maken .|Door berookingen zuiveren .",
+        "words": [
+          "geur",
+          "aangenamen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/491787f6-28b1-5057-94d4-5c3f814502e2",
+        "value": "m .Licht gerookt .Hareng s - , bokking , m .",
+        "words": [
+          "Licht",
+          "gerookt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/4bdcc9d5-2d60-5941-8582-a634226eb045",
+        "value": "Cynanthemis , f .Stinkende kamille , f .Cynanthropie , f .",
+        "words": [
+          "kamille",
+          "Stinkende"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/4ce65808-6db6-5d97-b3a5-573d63d8fc8b",
+        "value": "Van d - , très fort .Het stonk er van deeg , il y avait une très mauvaise odeur .Men dronk er van d - , on y buvait à tire - larigot .",
+        "words": [
+          "odeur",
+          "très mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/4df3cc69-2360-59cf-959b-73c0ac62e1fc",
+        "value": "Fétidité , f .Stank , slechte reuk , m .Fêtoyer , v .",
+        "words": [
+          "reuk",
+          "slechte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/50c42894-2d01-5d1e-a9d7-d5ca5305621d",
+        "value": "Onwelriekend , adj .Mal odorant .Onwelsprekend , adj .",
+        "words": [
+          "odorant",
+          "Mal odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/5121ad3e-03b7-592d-8e59-94ac16274d38",
+        "value": "( Bot .) Stinkende netel , f .Épiation , v .",
+        "words": [
+          "netel",
+          "Stinkende"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/56df3fc1-9e6a-572c-928c-cfb87bdf390c",
+        "value": "n .Naar aangebrand vet rieken .Graillonner , v .",
+        "words": [
+          "rieken",
+          "Naar aangebrand vet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/5891647f-132f-5f45-9fca-ec5df9d6977b",
+        "value": "Puer , sentir mauvais .|Zoo lui , dat hij stinkt , paresseux au dernier point .|( fig .",
+        "words": [
+          "stinkt",
+          "hij",
+          "paresseux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/5aabad63-b98e-5d1d-bce8-3bb70abcd5d0",
+        "value": "Welriekendheid , f .Bonne odeur , f ., parfum , m .",
+        "words": [
+          "odeur",
+          "Bonne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/5bb4a36e-eab9-5264-b377-bc64c424aa91",
+        "value": "Verpesten .|Een slechten reuk verspreiden .|( fig .",
+        "words": [
+          "reuk",
+          "slechten"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/5e4a3ada-e441-521f-913f-42cd715c625f",
+        "value": "n .Stinken , vuil rieken .P - au nez , walgen .",
+        "words": [
+          "rieken",
+          "vuil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/5ec7c8c0-1873-5dde-aa32-47e17c65117c",
+        "value": "Balsemen .|Met zoeten geur vervullen .Emb - la bouche , heerlijk smaken .",
+        "words": [
+          "geur",
+          "zoeten"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/623ba60d-ea6e-549c-8473-a608305067db",
+        "value": "Bruit , m .Gerucht , geruisch , geraas , getier , geschal , gerammel , gemurmel , gekletter , gebulder , gewoel , n ., klank , m .",
+        "words": [
+          "geruisch",
+          "Gerucht"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/65283f8b-09a0-5fad-9360-62b21dc838d3",
+        "value": "Cacostome , adj .Met vuilen ( of ) stinkenden adem .Cacothanasie , f .",
+        "words": [
+          "adem",
+          "stinkenden",
+          "vuilen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/6812b351-3035-5507-b5f1-46b1a2b5c8a0",
+        "value": "Parfum , m .Aangename reuk , liefelijke geur , m .P - des fleurs , bloemengeur , m .",
+        "words": [
+          "geur",
+          "reuk",
+          "liefelijke",
+          "Aangename"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/6c16429c-b8ff-5a45-bd89-c605add18182",
+        "value": "|( Cuis .) Een reukje krijgen , muf rieken , beginnen te bederven .|- , v .",
+        "words": [
+          "muf",
+          "rieken"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/6cbbd7d5-8cf5-5cb6-9c09-4074e326fd40",
+        "value": "Rookachtig , adj .Qui sent la fumée , enfumé .Rookachtigheid , f .",
+        "words": [
+          "enfumé",
+          "fumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/6f3f04c5-a60b-5089-b5c6-146cd93b142f",
+        "value": "Geurigheid , f .Bonne odeur , f ., parfum , m .",
+        "words": [
+          "odeur",
+          "Bonne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7479b440-c12b-5399-bc63-99f5e0b14385",
+        "value": "n .Liefelijk rieken .Embaumeur , m .",
+        "words": [
+          "rieken",
+          "Liefelijk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7637418a-8102-5fb3-ada3-ddaf563e2186",
+        "value": "Reukgras , n .Flouve odorante , f .Reukmaker , m .",
+        "words": [
+          "odorante",
+          "Flouve"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7ad1f4cc-3f97-5fa3-9bb3-9bea9ebab102",
+        "value": "Alcoolat , m .Welriekende alcohol , m .Alcoolate , m .",
+        "words": [
+          "alcohol",
+          "Welriekende"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7e6a9cf9-5ce8-5638-a023-57a23023f4ad",
+        "value": "Infection , f .Groote stank , m ., besmetting , verpesting , f .",
+        "words": [
+          "stank",
+          "Groote stank"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7e7e1952-325d-5208-aa39-a31c8c117ada",
+        "value": "Berookt glas , verre fumé .Berookte kamer , chambre enfumée .|( Méd .",
+        "words": [
+          "kamer",
+          "enfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7e809acf-068d-5212-9e93-f656022b1ba3",
+        "value": "Éventer la m - , de mijn ontdekken ; ( fig .) lont rieken .Miner , v .",
+        "words": [
+          "rieken",
+          "lont"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7f723792-bec9-556d-a403-2cc084adaac4",
+        "value": "Sterleverkruid , n .Aspérule odorante , f .Sterrebaan , f .",
+        "words": [
+          "odorante",
+          "Aspérule"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/8150fada-1ede-569f-a1d3-01fbef8160e9",
+        "value": "Kaaslucht , f .Odeur de fromage , f .Kaasmade , f .",
+        "words": [
+          "de fromage",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/839572a5-f283-54cf-9bbe-d0276f7c4dce",
+        "value": "J - fleuri , waterbies - gras , n .J - odorant , kemelshooi , n .De j - , biezen .",
+        "words": "odorant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/847a0e0d-5a59-5ddc-945d-3f6cc96525da",
+        "value": "|( fam .) Le torchon brûle , er is ruzie ( of ) oneenigheid , het rookt daar .|( Jeu ) Le tapis brûle , de pot is ledig , zet in !| Se br - , zich branden , zich verbranden .",
+        "words": [
+          "oneenigheid",
+          "ruzie ("
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/84ad80ce-c0f5-528e-9788-2ae4130a8c4e",
+        "value": ", trame , f .Hij heeft dien afschuwelijken aansl - gesmeed , c ' est lui qui a ourdi cette odieuse trame .|Contribution , f .",
+        "words": [
+          "odieuse",
+          "trame"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/85716dee-4008-55e1-bfaa-73e8e1fd0089",
+        "value": "Knoflookreuk , m .Odeur alliacée , f .Knoflooksaus , f .",
+        "words": [
+          "alliacée",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/8595ec69-b7bb-57eb-99e2-11ad5d586260",
+        "value": "|Voortdurendheid , bestendigheid , f ., bestendige duur , m .Continûment , adv .",
+        "words": [
+          "bestendige",
+          "duur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/872d0590-26df-53fb-9f0b-9db482b7ed55",
+        "value": "Court - vêtu , e , adj .Kort gekleed , kort gerokt .Couru , e , adj .",
+        "words": [
+          "kort",
+          "gerokt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/8870b6aa-3e31-5875-9684-8e26075adecc",
+        "value": "Buiten koers stellen , verbieden .|Het aanzien benemen , een kwaden naam geven , in kwaden reuk brengen .|Se d - , zijn aanzien verliezen .",
+        "words": [
+          "reuk",
+          "kwaden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/8f9c7145-2854-5b58-93dc-5fc3725fad43",
+        "value": "|Rieken , ruiken .S - le brûlé , verbrand rieken .S - le fût , naar ' t vat smaken .",
+        "words": [
+          "rieken",
+          "verbrand"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/8ffc910a-66ba-5241-8db3-5f8944e3f461",
+        "value": "Stank , m .Puanteur , mauvaise odeur , f .|St - voor dank ontvangen , être payé d ' ingratitude .",
+        "words": [
+          "odeur",
+          "mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/921ed4bb-eed7-5b47-93fb-7bc7b7b30dbb",
+        "value": "|Koelte , frissche lucht , f .Prendre le fr - , de frissche lucht inademen .Au fr - , in de koelte .",
+        "words": [
+          "lucht",
+          "frissche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/93886591-2d8f-56f9-9a9e-f0c110f4e551",
+        "value": "n .Sentir , exhaler ( ou ) répandre une certaine odeur , fleurer .Aangenaam r - , sentir bon , avoir bonne odeur .",
+        "words": [
+          "odeur",
+          "certaine",
+          "Sentir",
+          "exhaler"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/978fb192-14bb-5ed6-8ebe-9b00b274e7cc",
+        "value": "Nidoreux , euse , adj .Naar vuile eieren riekend ( of ) smakend .Nidulant , e , adj .",
+        "words": [
+          "riekend",
+          "Naar vuile eieren"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/979c2249-df46-5927-bb62-bda8af48a1fb",
+        "value": "P - des fleurs , bloemengeur , m .|Reukwerk , reukwater , n .|Ontsmettingsmiddel , n .",
+        "words": [
+          "Reukwerk",
+          "reukwater"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/988fb8cf-4b00-5204-b3d6-b28b3fbfcae9",
+        "value": "réfl .Besterven , eenen adellijken reuk ( of ) wildsmaak krijgen .Laisser f - , malsch laten worden .",
+        "words": [
+          "reuk",
+          "adellijken"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/9b74855a-90e7-52c7-9b4b-5bbfde6aa40d",
+        "value": "Negerschortje , n .|Eau de c - , welriekend water , n .Candéfaction , f .",
+        "words": [
+          "water",
+          "welriekend"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/9e87483b-4777-55f4-98e7-3278db2cf24a",
+        "value": "Stinkend .Odeur f - , stank , m .Fétidité , f .",
+        "words": [
+          "stank",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a03d59fd-3175-514e-96e9-c081c482b724",
+        "value": "Appelpompoen , m .Citrouille odorante , f .Appelreuk , m .",
+        "words": [
+          "odorante",
+          "Citrouille"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a0d188de-92ad-5952-813e-43776dcafc5d",
+        "value": "Annoncer en chantant .Het kind kraaide het uit van de pret , l ' enfant riait aux éclats .|( fig .",
+        "words": [
+          "riait",
+          "enfant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a16b5504-e26c-5778-9fdd-a2776de08549",
+        "value": "● Il est très occupé , hij heeft veel te doen .Être en bonne odeur , een goeden naam hebben .Ocelot , m .",
+        "words": [
+          "odeur",
+          "bonne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a1cb1b60-ba00-584f-95af-ab892287e242",
+        "value": "|( fig .) Op zijnen neus k - , avoir l ' air embarrassé .Zuur k - , faire grise mine .",
+        "words": [
+          "neus",
+          "zijnen",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a36bc338-90b1-5170-87cc-14f018042672",
+        "value": "Eau seconde , kraakwater .Eau de Cologne , Keulsch reukwater .Eau blanche , loodwater .",
+        "words": [
+          "reukwater",
+          "Eau de Cologne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a45bfdcd-d278-5550-8f0d-8984972cb542",
+        "value": "2 g .Welriekend , geurig , kruidig , specerijachtig .Aromatisation , f .",
+        "words": [
+          "geurig",
+          "Welriekend"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a54db8a7-f119-5287-b31f-7f752eec3319",
+        "value": "Mahaleb , m .Welriekende kerselaar , m .Mahométan , e , adj .",
+        "words": [
+          "Welriekende",
+          "kerselaar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a5aed90f-32a6-50b7-a42f-eb7c83760399",
+        "value": "Exprimer par des cris aigus .Zij gierden het uit van het lachen , ils riaient à gorge déployée .Het uitg - van de pret , crier de plaisir .",
+        "words": [
+          "ils",
+          "riaient",
+          "gorge déployée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/a91c435a-3105-5d5a-96d8-00feb0beaf13",
+        "value": "Geurtje , n .Mauvaise odeur , f .Geus , m .",
+        "words": [
+          "odeur",
+          "Mauvaise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/aa35e8fe-482f-5d31-8840-5d3a6082e7a5",
+        "value": "Bois d ' ess - de chêne , eikenbosch , n .|Welriekende olie , f ., uittreksel , n .",
+        "words": [
+          "olie",
+          "Welriekende"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/aac19381-b101-5f18-9a22-bfe95040545c",
+        "value": "Appelreuk , m .Odeur de pommes , f .Appelrond , adj .",
+        "words": [
+          "pommes",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b15f7703-e975-51d9-88ca-2fad7bdf0717",
+        "value": "Monter une mèche , eene wiek opdraaien .|Prikkelende smaak ( of ) geur , m .|( Comm .",
+        "words": [
+          "geur",
+          "Prikkelende"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b1bfcf0f-3af5-5141-a590-20c1a768adfc",
+        "value": "Verliesbaar , adj .Perdable , amissible .Verlieven , v .",
+        "words": [
+          "amissible",
+          "Perdable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b5848b0b-ba89-5b45-a460-d82b861d7cfc",
+        "value": "Kruidenbad , n .Bain aromatique , m .Kruidenazijn , v .",
+        "words": [
+          "aromatique",
+          "Bain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b5c878cb-1db7-556c-8f32-0be377f4eb60",
+        "value": "|Iemand werk g - , occuper q .|Reuk van zich g - , exhaler une odeur , sentir .Stank van zich g - , puer .",
+        "words": [
+          "odeur",
+          "Reuk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b5ce3d5e-8806-5b57-bd95-78323e644376",
+        "value": "Absence f .d ' odeur ( ou ) d ' odorat .Reukfleschje , n .",
+        "words": [
+          "odeur",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b5ed5ebd-b4a6-5831-9bdb-754402c5e19d",
+        "value": "Zeereuk , m .Odeur de mer , marine , f .Zeergeleerd , adj .",
+        "words": [
+          "Odeur",
+          "de mer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b739f57e-a91e-551e-a31c-06eaa854de56",
+        "value": "Kamferlucht , f .Odeur de camphre , f .Kamferolie , f .",
+        "words": [
+          "camphre",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/b813257b-2a7a-5d6e-a156-c80b318e7e3f",
+        "value": "Poudre , poudre à canon , f .|Hij heeft al zijn kr - verschoten , il a vidé son car - ● Hij kan geen kruit ruiken , il craint l ' odeur de la poudre , c ' est un couard .quois .",
+        "words": [
+          "odeur",
+          "ruiken",
+          "Hij"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/ba232d32-aba8-584f-862b-0188bc92e1b1",
+        "value": "Il a bon n - .hij heeft eenen fijnen neus ( of ) reuk : ( fig .) hij is slim .",
+        "words": [
+          "reuk",
+          "fijnen",
+          "hij"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/bbe32816-8d40-5729-8210-b06a997846e0",
+        "value": ") Vrijmaken .D - une odeur , eenen reuk van zich geven ( of ) verspreiden .|Redden , verlossen , helpen ( uit ) .",
+        "words": [
+          "odeur",
+          "reuk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/bcff8c1b-6eb9-5894-8116-5af214baa315",
+        "value": "2 g .Heerlijk riekend .Ambrosien , ne , adj .",
+        "words": [
+          "riekend",
+          "Heerlijk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/be49ee5b-03d2-5b4c-843c-fd03c9b4422f",
+        "value": "Wierooklucht , f .Odeur de l ' encens , f .Wierookoffer , n .",
+        "words": [
+          "encens",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/be4bc72a-848c-5a83-be02-4b31bc765039",
+        "value": "Keelklier , amandel , f .● Le torchon brûle , er is ruzie in het huishouden .Tonsure , f .",
+        "words": [
+          "ruzie",
+          "in het huishouden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/bf41bb55-d72d-5019-b7f6-091a1979c36b",
+        "value": "Jeneverreuk , m .Odeur de genièvre , f .Jeneversmaak , m .",
+        "words": [
+          "Odeur",
+          "genièvre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/bf99f826-c20d-5a22-a693-742d0fc02bea",
+        "value": "Rieken , ruiken .S - mauvais , stinken .|Se s - , zich gevoelen , zich bevinden .",
+        "words": "stinken"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/c344e57d-0fab-50a3-88bc-84facf5378e7",
+        "value": "|Ans - maritime , zoutkruid , n .Ans - fétide , stinkende melde , f .Ansette , f .",
+        "words": [
+          "stinkende",
+          "melde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/c42145bc-8754-5a47-ab62-72af821b1ac8",
+        "value": "pl .H - s fines , geurige toekruiden , n .pl .",
+        "words": [
+          "geurige",
+          "toekruiden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/cb4dfaa2-4ce6-5ae6-bb84-99410bc7be56",
+        "value": "Stinkend , adj .Puant , infect , fétide .|( Bot .",
+        "words": [
+          "fétide",
+          "Puant",
+          "infect"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/ce0ea495-1bcf-5492-b863-29ea315e8cd5",
+        "value": "Zevengetijde , n .Trèfle odoriférant , mélilot bleu , m .Zevenhelmig , adj .",
+        "words": [
+          "odoriférant",
+          "Trèfle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/ce4b0c65-0843-5314-b355-16c8d34ebcba",
+        "value": "Eenen geur van zich geven .Cela fleure bon , dat ruikt liefelijk .Fleuret , m .",
+        "words": [
+          "ruikt",
+          "liefelijk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/cf007a9b-a06b-5bcf-abe2-4efc5ed8574b",
+        "value": "Kruitlucht , f .Odeur de la poudre , f .Kruitmaat , f .",
+        "words": [
+          "poudre",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d12cbb68-21e2-5ec8-8e17-e20f8480cdc8",
+        "value": "Échauffé , m .Brandige reuk , m .Échauffé , ée , adj .",
+        "words": [
+          "reuk",
+          "Brandige"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d1c7658a-7fd8-5e63-9bef-94ab673133d4",
+        "value": "n .Répandre ses parfums au - devant de .Tegengif ( t ) , n .",
+        "words": [
+          "parfums",
+          "ses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d34ec111-fba0-597b-85ab-6299af173360",
+        "value": "Brandschoon , adj .Luisant , extrêmement propre , très propre .|- , adv .",
+        "words": [
+          "extrêmement propre",
+          "très propre",
+          "Luisant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d7742fec-3263-5939-87ac-b5b66cd979b6",
+        "value": "Décrédité , ée , adj .In zijn aanzien gekrenkt , in kwaden reuk staande .|Zijn krediet verloren hebbende .",
+        "words": [
+          "reuk",
+          "kwaden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d7b4edae-4bf5-5e1b-8467-03de4376ef45",
+        "value": "Des .De geur der bloemen , le parfum des fleurs .Derde , adj .",
+        "words": [
+          "geur",
+          "parfum",
+          "bloemen",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d80a30ff-5a62-5f37-b5cb-548258b0f22f",
+        "value": "Ruikbaar , adj .Odorable .Ruiken , v .",
+        "words": "Odorable"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/d8be921e-d847-51c4-bffe-45067a2ba751",
+        "value": "|( fig .) Het zal er stinken , il y aura du grabuge .Stinkend , adj .",
+        "words": [
+          "stinken",
+          "grabuge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/dad6925f-da27-57e8-a353-3919537c3e3d",
+        "value": "Kruitreuk , m .Odeur de la poudre , f .Kruitschip , n .",
+        "words": [
+          "poudre",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/df19f753-83c6-55ec-957c-42afe0c61f93",
+        "value": "Welriekend , geurig .Odorifique , adj .2 g .",
+        "words": "Odorifique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/df328ae4-c486-5854-82db-662f322743b1",
+        "value": "Vasé , ée , adj .Slijkerig , naar slijk riekend .Vaseau , m .",
+        "words": [
+          "riekend",
+          "naar slijk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e00a035c-2209-5925-b14a-a2ac77891116",
+        "value": "Houtlucht , f .Odeur du bois , f .Houtluis , f .",
+        "words": [
+          "bois",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e0837111-125e-5554-bdc9-a477fe592664",
+        "value": "Lavendelgras , n .Flouve odorante , f .Lavendelkruid , n .",
+        "words": [
+          "odorante",
+          "Flouve"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e594ace8-1283-59fc-94fa-05037a4bdb6f",
+        "value": "2 g .Brandig riekend ( of ) smakend .Empyreume , m .",
+        "words": [
+          "riekend",
+          "Brandig"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e5d39e6e-ba4f-5350-b4fa-94337182e2b2",
+        "value": "Coussin de s - , reukkussentje , n .Pois de s - , welriekende erwt , f .Senti , e , adj .",
+        "words": [
+          "welriekende",
+          "erwt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e5fa7e5d-e8fe-5a48-b2f4-0e0b4cc73687",
+        "value": "Mufle de chien , m .Eenen h - hebben , avoir le nez fin ( ou ) l ' odorat subtil .Hondengek , m .",
+        "words": [
+          "subtil",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e8610847-70ac-5d7f-b11e-18e729e35faf",
+        "value": "M - aan iets eten , être trompé dans un achat .Dat ruikt naar den m - , cela coûte cher .Mostaardbus , f .",
+        "words": [
+          "ruikt",
+          "Dat",
+          "naar den m -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/e9a1c9ac-2d35-5eb5-8a61-1cc8f122abf3",
+        "value": ") gestolen goed teruggeven .R - une odeur , eenen reuk verspreiden .|( fig .",
+        "words": [
+          "odeur",
+          "reuk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/ed05a4ea-33f5-555c-8350-0b611b651b2f",
+        "value": "Cépacé , ée , adj .Naar knoflook riekend .Cépage , m .",
+        "words": [
+          "riekend",
+          "Naar knoflook"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f2c20afb-5198-54ca-aa94-ad3d0817aedd",
+        "value": "Enviné , ée , adj .Naar wijn riekend .Environ , adv .",
+        "words": [
+          "riekend",
+          "Naar wijn"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f36517bd-266b-509b-ba28-61be901c9b09",
+        "value": "2 g .Tegen den kwaden reuk ; luchtzuiverend .Antimétabole , antimétalepse , antimétatèse , f .",
+        "words": [
+          "reuk",
+          "kwaden"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f3e37d0c-f129-57ae-a3ae-043fbb551ba3",
+        "value": "( Bot .) Barbon odorant , m .Kemelvlieg , f .",
+        "words": [
+          "odorant",
+          "Barbon odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f4f23ac0-23f9-5997-bf18-d6419e67d8e9",
+        "value": "Odeur , f .( ou ) parfum des fleurs , m .Bloemenhandel , m .",
+        "words": [
+          "parfum",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f58d6e3e-ec8a-58ae-873a-02e01219af00",
+        "value": "a .Ruiken , rieken .Odoriférant , e , adj .",
+        "words": [
+          "rieken",
+          "Ruiken"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f600f277-502b-5df8-8354-314301e82ca3",
+        "value": "Tabaksreuk , m .Odeur de tabac , f .Tabaksrol , f .",
+        "words": [
+          "tabac",
+          "Odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/f7af0867-8f04-5bdc-8e06-08ba96da24ea",
+        "value": "Aspirer , respirer .Wij ademen den geur der bloemen , nous aspirons le parfum des fleurs .|( fig .",
+        "words": [
+          "geur",
+          "parfum",
+          "bloemen",
+          "nous",
+          "fleurs",
+          "Wij"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/fff00f88-2fa4-56c0-b1de-b4bb98f5dd89",
+        "value": "Musqué , ée , adj .Naar muskus riekend .Poire m - ée , muskuspeer , f .",
+        "words": [
+          "riekend",
+          "Naar muskus"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8580c964-d3a0-5e5e-be3e-28238e272520",
+        "label": "jan van droogenbroeck"
+      }
+    ],
+    "label": "callewaert's groot nederlandsch-fransch en fransch-nederlandsch woordenboek inhoudende de woorden der gewone spreektaal",
+    "url": "https://www.dbnl.org/titels/titel.php?id=droo002call02",
+    "date": "1909",
+    "language": "nl"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/15f4a8c0-cae1-5aeb-8e34-5a88a93dc163",
+      "label": "1909",
+      "begin": "1909",
+      "end": "1909"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7109996/",
+      "label": "Kamer"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/annoyance",
+      "label": "annoyance"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/19214a86-6fad-5f61-82cb-b6d3202a3baf/fragment/7e7e1952-325d-5208-aa39-a31c8c117ada"
+}

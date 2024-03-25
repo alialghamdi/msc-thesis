@@ -1,0 +1,1143 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/9bed8069-7d47-5d25-9d79-26d66ee527cf",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeurs",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/002e89c7-af70-5d02-b8f2-352d85e01823",
+        "value": "Nous connaissons des personnes qui ont habituellement à l ' anus un suintement muqueux qui répand la même odeur .Nous pouvons comparer ce mucus particulier à celui que sécrètent le musc , la civette , ; la fouine ; c ' est bien à lui , chez ces anil maux , qu ' est due l ' odeur des excréments .A part de légères nuances d ' odeur , de ^ couleur et de consistance , les excréments sont identiques , de quelque aliment qu ' ils proviennent .",
+        "words": [
+          "odeur",
+          "civette",
+          "musc",
+          "excréments"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/06eae477-41ea-515a-8cd4-36bad11939ca",
+        "value": "Thénard croit être l ' acide acétique , et Berzéhus de l ' acide lactique .Mais cela ne suffit pas pour en faire une fonction différente , car s ' il en était ainsi , elle ne serait plus la même , non seulement chez les individus différents et dans les différents points de la surface du corps , où elle a une odeur et des qualités bien tran - chées , comme on le voit aux pieds , aux aisselles , etc ., mais encore dans la même partie , puisqu ' elle y varie d ' un instant à l ' autre de couleur , de saveur et d ' odeur .",
+        "words": [
+          "odeur",
+          "elle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/06f803ad-1f26-5af9-a9a9-67638217965f",
+        "value": "sent distendre par l ' abord d ' une nouvell ( quantité de matière , et ainsi de suit ( jusqu ' à ce que tout ait passé .Pendant et trajet , le chyme se combine : 1 ° avec le suc intestinal , fluide provenant de la sécrétion folliculaire et de la perspiration des exhalants de l ' intestin ; une partie était formée d ' avance et en tapissait les parois ; l ' autre partie , plus abondante , n ' est sécrétée qu ' au moment du passage du chyme , qui , par son contact , excite ces nombreux sécréteurs , y appelle plus de sang et y détermine une véritable fluxion momentanée , qui fournit plus de matériaux , et par conséquent une sécrétion plus abondante .Il est bon dt dire que ce fluide favorise encore le glissement de la masse chymeuse en lu , brifiant les parois de l ' intestin ; 2 ° il se eombine avec la bile et le suc pancréatique , en partie versés dans le duodénum , étendus à sa surface et mêlés au suc intestinal ; mais la sécrétion de ces deux liquides est beaucoup plus abondante dans ce moment , soit parce que la vési - cule biliaire , qui s ' est remplie pendant la durée de l ' abstinence , se vide imcaniquement - par la pression qu ' exercent sur elle l ' estomac et le duodénum distendus , ou activement , par la stimulation qu ' elle reçoit de la présence des ali .",
+        "words": [
+          "Pendant",
+          "exhalants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/087e0ffe-9840-5f3c-a27a-99ba25318650",
+        "value": "ne puisse quelquefois être en défaut .Ainsi une bille unique nous paraît double quand nous la touchons d ' une certaine manière ; une pétale de rose placée entre deux doigts est inappréciable au toucher et ne manifeste sa présence qu ' à la vue et à l ' odorat ; l ' immersion simultanée ou successive des mains dans deux liquides d ' une égale température , mais d ' une nature différente , ferait croire ces liquides identiques , si la différence n ' était indiquée par d ' autres sens .— Ces exemples suffisent pour établir que le toucher employé seul est aussi sujet à fournir des notions incomplètes ou erronées .",
+        "words": [
+          "odorat",
+          "liquides",
+          "pétale de rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0884d6ea-b3e0-5a97-b4d7-71c0b58e7be9",
+        "value": "Lorsqu ' on approche ces substances du nez des personnes qui sont en syncope ou dans une crise histérique , et chez lesquelles la respiration ne s ' exécute pas du tout , l ' odeur qu ' elles répandent n ' en produit pas moins son effet , parce qu ' il suffit , pour que la sensation ait lieu , que les molécules odorantes arrivent à l ' organe .Or , les odeurs vivement expansibles vont toujours en s ' étendant de proche en proche à mesure qu ' elles saturent l ' air ambiant , et cette extension des molécules les fait pénétrer dans les fosses nasales , sans qu ' il soit besoin du renouvellement de l ' air dans ces cavités .— C ' est à la partie supérieure des fosses nasales que l ' olfaction a lieu .",
+        "words": [
+          "odeurs",
+          "vivement expansibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/098cb6ae-7395-536b-99f5-da69015d6939",
+        "value": "Ce sont de tels faits qui ont fourni ample matière à la discussion et à l ' imagination .Dieu sait comme ici on a , fait jouer les effluves corporels , les esprits animaux , les fluides nerveux , les atmosphères magnétiques , l ' âme , etc .; comme on les a fait se dégager de leur enveloppe corporelle , pour aller à toutes les distances voir et entendre sans le secours des yeux ni des oreilles ! Toutes ces créations idéales sont le fruit tantôt d ' une imagination vive , enthousiaste et déréglée , tantôt du charlatanisme le plus déhonté .",
+        "words": [
+          "effluves",
+          "esprits animaux",
+          "fluides nerveux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0b0254e8-f08c-5976-b7a4-e8f5f8f4225e",
+        "value": "— Les sinus maxillaires et , frontaux communiquent au moyen des cellules ethmoïdales antérieures ; ne seraient - ils pas destinés dès - lors , comme la caisse du tympan , à contenir un air d ' une température d ' autant moins va - 1 riable qu ' il provient de l ' expiration ? Ces cavités contribuent d ' ailleurs à l ' agran - ; dissement des surfaces osseuses , sans ajouter au poids de la partie antérieure de la tète ; elles sont encore destinées à modifier les sons produits par le larynx , et à servir au timbre de h voix .Le siége principal de l ' odorat corres - pond à l ' épanouissement du nerf olfac - tif , ce qui déjà est une forte raison pour faire admettre que ce nerf recueille ! et transmet au cerveau les impressions des odeurs .Le rapport exact entre le vo - lumede ce nerf et la portée de l ' olfaction dans les animaux peut être invoqué à l ' appui de cette opinion .",
+        "words": [
+          "odeurs",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0c561d1f-2350-55da-930a-e1652af4f738",
+        "value": "Cette couche semble en effet les protéger contre l ' action dissolvante des eaux de l ' amnios avec lesquelles ils sont pendant si long - temps en rapport .L ' on conçoit encore que si , à la face , par exemple , cette humeur avait répandu l ' odeur qu ' elle a dans d ' autres parties , cela eût singulièrement nui à l ' agrément de certains usages sociaux .3 ° De la graisse .",
+        "words": [
+          "odeur",
+          "face",
+          "cette humeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0cbfcc31-add8-5451-af4a-5dfd16d444d1",
+        "value": "— Dans une atmosphère tranquille , les odeurs s ' affaiblissent progressivement en s ' éloignant de leur origine .Si l ' air est agité , elles obéissent à son impulsion , et peuvent être transportées à de grandes distances ; ainsi , l ' île de Ceylan est , dit - on , annoncée à vingtcinq milles en mer , par l ' odeur de la canelle .— La membrane pituitaire est la seule région du système muqueux qui soit apte à recevoir l ' impression des odeurs ; les effets variés de ces dernières sur l ' organisme en général ou sur quelques - unes de ses parties dérivent des re .",
+        "words": [
+          "odeur",
+          "air",
+          "canelle",
+          "île de Ceylan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0d3d164a-f0cc-500e-a725-56ceaabd5c63",
+        "value": "Mais l ' analogie n ' est pas exacte , la partie membraneuse du conduit auditif suppléant au développement incomplet du temporal .— Enfin les sinus se développent à l ' époque de la dentition , ce qui ne permet pas d ' admettre qu ' ils contribuent au perfectionnement de l ' organe , alors que la sensibilité n ' est plus aussi vivement affectée par les impressions ; leur développement devrait être plus tardif , s ' ils étaient destinés à compenser la diminution d ' activité du sens de l ' odorat par l ' extension de la surface qui en est le siége .— Ces raisons contre l ' usage attribué aux sinus paraissent plus concluantes que les expériences dans lesquelles on a trouvé la membrane de ces cavilés insensible à une odeur forte que l ' on faisait parvenir à l ' aide d ' une fistule accidentelle .",
+        "words": "odorat"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0da35954-59ac-5764-bd35-dd93f06aebe1",
+        "value": "Car , tout ce qu ' il y a de positif et qui n ' explique rien , c est que la faible acidité du chyme , lorsqu ' il est acide , se perd en se mêlant avec les sucs intestinaux .Quelques physiologistes modernes , fondés sur des connaissances chimiques plus positives , supposent que la bile se partage en deux parties : 1 une qui contient l ' alcali , les sels et une partie de la substance animale , et qui va se combiner avec les éléments du chyle pour être absorbée avec eux ; l ' autre qui con - tient l ' albumine coagulée , l ' huile concrète , colorée , âpre et amère , et qui s ' unit aux fèces pour leur donner leur odeur , leur couleur et l ' âcreté nécessaire pour solliciter la contraction des intestins .Dans ce partage de la bile pour opérer un véritable départ chimique , il y aurait donc une partie récrémentitielle absorbée avec le chyle , et une partie excrémentitielle plus considérable qui serait évacuée avec les excréments .",
+        "words": [
+          "odeur",
+          "leur",
+          "fèces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0dcdeb8a-7faa-534d-9652-a7b8bc95dc0c",
+        "value": "Lorsqu ' il est inoore , il est de l ' azote ou de l ' hydrogène mple , ou un mélange de tous les deux ; quelquefois il s ' y trouve un peu d ' acide Irbonique .Lorsqu ' il est odorant , c ' est 11 gaz acide hydro - sulfurique , seul ou ) mbiné avec l ' hydrogène , l ' azote on le irbonique .Les gaz de l ' intestin grêle mt ordinairement de l ' hydrogène pur , mais de l ' hydrogène carboné ou sultrc .",
+        "words": [
+          "odorant",
+          "le",
+          "gaz acide hydro - sulfurique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/0e686772-91d5-541d-bf16-16c5ce0f10d8",
+        "value": "Depuis que la chimie s ' est mieui occupée de la composition intime des corps , on a cherché dans cette composition une classification qui parût plus exacte et plus avantageuse ; sous ce rapport , le savant Hailé a cru pouvoir en établir une que nous adoptons volontiers , parce que , dans ses divisions et subdivisions , elle nous semble réunir toutes les substances alimentaires .En voici les chefs principaux : 10 des substances qui contiennent spécialement la fécule nutritive ; 20 de celles qui contiennent une grande proportion de matière animale fibrineuse , et surtout de la chair des animaux et de ses parties constituantes ; 3 ° de celles dont la base est une substance caséeuse ou albumineuse ; 4 \" des gommes , des mucilages et • des gelées ; 5 ° des sucs gélatineux et mucilagineux végétaux , unis à une ma - tière sucrée , à divers acides , à un principe aromatique , à une matière extractive colorante ; 6 ° des aliments dont la base est une matière huileuse et grasse .Il eût été facile de multiplier les divisions et de donner plus de développements à cette classification ; mais elle peut nous suffire telle qu ' elle est , parce que ce n ' est point un cours d ' hygiène que nous faisons .",
+        "words": [
+          "aromatique",
+          "chair des animaux",
+          "principe",
+          "matière animale",
+          "matière extractive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/15b45bc1-8571-516b-acec-e8034f6e009d",
+        "value": "Sens de l ' odorat .- Les particules odorantes émanées des corps , transportées par l ' air atmosphérique qui leur sert de véhicules , pénètrent dans les cavités nasales toujours ouvertes , s ' y attachent à leurs parois humides , et s ' y dissolvent en quelque sorte dans la mucosité qui , les tapisse , pour aller faire une impres • sion particulière sur la membrane muqueuse nasale et sur l ' épanouissement du nerf olfactif qui la transmet à l ' encéphale , et la transforme ainsi en sensation .— L ' odorat partage avec le goût la ! fonction d ' éclairer sur les qualités des substances alimentaires .",
+        "words": [
+          "corps",
+          "odorantes",
+          "olfactif",
+          "particules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/173199d0-06e2-5bc5-a8b2-49cf0f873af8",
+        "value": "11 n ' y a de particulier que le fluide fourni par la glande prostate et la petite glande de Cowper , qui le sécrètent abondamment pendant l ' acte vénérien et ' le lancent au moment même de l ' éjaculalion , soit pour préparer les voies , soit pour fournir un véhicule qui enveloppe ' l ' humeur s ; spermatique et la délaye , en f quelque sorie , pour lui donner plus de volume .Quoique sa composition soit identique à celle des autres mucus , il en diffère p : ir une odeur , une consistance , une opacité et une blancheur mate remarquables .— Au gland , la mucosité présente une odeur sui generis et une consistance assez grande .",
+        "words": [
+          "odeur",
+          "il",
+          "remarquables",
+          "mucus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/1924837a-d74a-51ee-8e62-3ec4b30545ef",
+        "value": "On ne peut en les classant que comprendre les plus tranchantes .Ainsi , on se contente d ' admettre , avec Haller et Linnée , l ' acide , le doux , l ' amer , le salé et l ' acre ; en ajoutant , avec Boerrhaave \" l ' alcalin , le vineux , le spiritueux , l ' aromatique et l ' acerbe .— Les saveurs ne sont pas , comme on l ' avaifétabli , en relation exacte avec le degré de solubilité .",
+        "words": [
+          "aromatique",
+          "acerbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/1e58e4de-9fea-5662-a795-02bb435313c3",
+        "value": "Cette fonction est suspendue et ne s ' exécute pour ainsi dire plus .la salive , d ' abord ' ugmentée par le besoin que l ' estomac prouve d ' une alimentation quelconque , 1 liminue peu à peu de quantité , devient , Ilus blanche , plus épaisse , et cesse t ' n ^ in de conter ; alors la bouche et la gorge * e dessèchent , se collent presque en - emble et exécutent d ' inutiles mouve - \" nents pour provoquer une faible sécré ' ion d ' une salive gluante ; le sang dimi1 • lue de quantité et de consistance ; l ' a - ; laiprissement fait de rapides progrès , et * a pâleur cadavéreuse s ' y joint ; les an - v oisses les plus cruelles ont lieu et vienr * lent s ' exprimer sur les traits altérés de K 1 face et des yeux ; des lipothymies sur - • ' ienncnt et sont les avant - coureurs d ' une 4 tort prochaine , si les malheureux ne lrennent toujours point d ' aliment pour ' y soustraire .Nous ferons observer que ; cerveau conserve presque toujours ' qu ' à la fin le libre exercice de ses nctions .",
+        "words": [
+          "cadavéreuse",
+          "pâleur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/1f352ba5-ef79-5cf2-99f8-3c02654b65ca",
+        "value": "? Parmi les causes qui agissent sur les sens , nous placerons celles qui vont porter à l ' intérieur leurs qualités stimulantes , parce que leur effet commence toujours par une sensation .Les unes agissant directement sur l ' estomac , le stimulent et le font réagir sur les organes génitaux : telles sont les substances aromatiques et surtout les truffes noires .Les autres sont absorbées , et , transportées par le sang , vont stimuler elles - mêmes ces organes : telles sont les cantharides et les spiritueux .",
+        "words": [
+          "substances",
+          "substances aromatiques",
+          "truffes noires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/21cb0c55-9393-57d2-a3c1-f3e466f6271b",
+        "value": "Prenant pour base le mode de sensation ; qu ' elles produisent , Haller a regardé comme fondamentales , primitives , les odeurs qui se retrouvent dans les trois règnes de la nature .Ainsi l ' odeur musquée se manifeste dans certaines dissolutions d ' or , dans les feuilles du géranium moschatum ; celle de l ' ail est commune à plusieurs plantes , à l ' arsénic , à lime espèce de crapaud .C ' est d ' après de semblables observations qu ' il admit comme autant de chefs principaux les odeure musquée , safranée , résineuse , cordiale , balsamique , aromatique , âcre , forte , douce , etc .",
+        "words": [
+          "or",
+          "odeur",
+          "musquée",
+          "celle",
+          "ail",
+          "feuilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/22f1f11b-261d-5760-8817-c8f3bdad957f",
+        "value": "Mais cela ne suffit pas pour en faire une fonction différente , car s ' il en était ainsi , elle ne serait plus la même , non seulement chez les individus différents et dans les différents points de la surface du corps , où elle a une odeur et des qualités bien tran - chées , comme on le voit aux pieds , aux aisselles , etc ., mais encore dans la même partie , puisqu ' elle y varie d ' un instant à l ' autre de couleur , de saveur et d ' odeur .Mais ces nuances dépendent de quelques modifications légères dans le mode de sensation de l ' organe et non d ' une différence dans la fonction .",
+        "words": [
+          "odeur",
+          "elle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/2aa10c17-4cac-58ba-b5cb-e02588614b2f",
+        "value": "Nous le demandons , ces principes suffisent - ils pour nous expliquer les destinées que ces Ofluides sont appelés à remplir ? .Prenons encore la matière d ' un bubon syphilitique et d un bubon pestilentiel , le venin de la vipère , le virus varioleux , le vaccin , etc .; la chimie y trouvera d ' abord de l ' albumine et de l ' eau , et en décomposant , ou plutôt en détruisant ces produits de l ' organisation , elle obtiendra ses éternels hydrogène , oxigène , azote et carbone , Nous le demandons encore , cette analyse , tant scrupuleuse soit - elle , fait - elle connaître la véritable nature de ces liquides ? a - t - elle saisi leur principe spécial , ce qui fait que l ' un donnera la syphilis , l ' autre la peste , un autre la variole , etc .",
+        "words": [
+          "venin",
+          "bubon",
+          "virus",
+          "syphilitique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/2b68d7b8-98e6-5060-b573-76fdc6295f24",
+        "value": "Magendie a surtout soutenu l ' importance de la cinquième paire , et s ' est appuyé sur plusieurs expériences , La 1bembrane pituitaire lui a paru sensi - ble à des odeurs fortes après la section i du nerf olfactif , tandis que cette mem - 1 brane avait perdu cette propriété ainsi que sa sensibilité générale lorsque la même opération avait été faite sur la cinquième paire .On est donc forcé de Teconnaître au moins que ce dernier nerfr est une condition importante , sinon l ' a - gent principal de l ' odorat .- Les rameaux droit et gauche fournis par les ganglions t de Meckel , et qui vont aboutir au gan - 1 glion naso - palatin , paraissent chargés d ' établir la sympathie étroite qui existe entre ce sens et celui du goût .",
+        "words": [
+          "odorat",
+          "nerfr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/2df2c743-243b-5682-b6f1-9cf7e9bc2a8d",
+        "value": "Jacobson a trouvé dans l ' os incisif des animaux et qui p .u ; ît être un moyen de consensus entre l ' odorat et le goût .— - Destinés à nous mettre en rapport avec les qualités sensibles des corps extérieurs , les organes sensoriaux sont tous placés à la périphérie du corps .",
+        "words": [
+          "odorat",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/2e39f522-3341-5408-9aec-aee6dd1673c9",
+        "value": "- L ' inspiration est une condition indispensable pour que les odeurs affectent la membrane olfactive .L ' incision de la trachée - artère interrompt l ' exercice du sens de l ' odorat , ainsi que Ferrant , Lower el Chaussier s ' en sont assurés .En vain , les émanations des corps fétides sont - elles alors présentées par l ' air atmosphérique à l ' ouverture des cavités nasales .",
+        "words": [
+          "odorat",
+          "Ferrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/2f7d44ee-6e1e-51b0-9654-891beefdaf51",
+        "value": "C ' est toujours à la fin lu repas , même le plus sobre ; qu ' on les oit faire explosion .La qualité de cerains aliments favorise cette disposition ; oais rien n ' y dispose plus que l usage les vins généreux , des liqueurs et de ertains aromates , tels que le café .On a ~ ncore attribué à certain gaz ( oxide de car ~ one ) la vertu de produire une grande lisposition au rire .",
+        "words": [
+          "liqueurs",
+          "aromates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/311e4fdc-6697-520e-8599-cc85b2b0fc24",
+        "value": "L ' incision de la trachée - artère interrompt l ' exercice du sens de l ' odorat , ainsi que Ferrant , Lower el Chaussier s ' en sont assurés .En vain , les émanations des corps fétides sont - elles alors présentées par l ' air atmosphérique à l ' ouverture des cavités nasales .L ' animal se repaît des aliments qu ' il repoussait avant cette expérience .",
+        "words": [
+          "émanations",
+          "corps fétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/3327dc9c-91e4-508c-be6e-0573dba54654",
+        "value": "Les impressions émanées des viscères ne donnent lieu qu ' à des r lidées vagues , et les impressions qui sont .reçues par l ' odorat et le goût ont trop de > .Hiaison avec les besoins de la vie nutritive pour que ces sens ne soient pas ori * Idinairement distraits de leurs fonctions ( médiates relatives à l ' intelligence .",
+        "words": [
+          "odorat",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/34430b35-77f2-5395-b944-673f70f097ed",
+        "value": "tiques de l ' estomac ont été provoquées , et le vomissement a eu lieu .Toujours aussi les phénomènes de l ' absorption de la bile se sont manifestés à la conjonctive , à la peau , dansles urines et dans le sang ; et les excréments étaient blancs , très - secs , et d ' une odeur particulière fort désagréable .Deux chiens ont guéri ; mais \\ ainsi que l ' avait déjà reconnu Brodie , la ligature avait alors coupé le conduit , et ses deux bouts s ' étaient réunis et en avaient rétabli la continuité ; de sorte que la bile avait pu reprendre son cours .",
+        "words": [
+          "odeur",
+          "excréments",
+          "particulière fort désagréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/35fd5866-287e-552a-9923-aa801d760fbf",
+        "value": "Il lubrifie la membrane du sac et du conduit , et la protège contre l ' action des larmes , avec lesquelles il se mêle en partic .— Dans les fosses nasales , la mucosité est toujours assez abondante pour ne pas laisse j la membrane qui les tapisse se dessécher par le passage continuel de l ' air , et pour retenir en dissolution les molécules odorantes et les présenter ainsi aux nerfs olfactifs .— Dans l ' oreille , l ' humeur sébacée prend le nom de cérumen .",
+        "words": [
+          "odorantes",
+          "olfactifs",
+          "molécules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/37f9ef64-305b-517c-9c09-f758237f18fb",
+        "value": "veau de l ' orifice des conduits cholédoque et pancréatique ; mais là il commence à changer d ' aspect et de nature , et il en change de plus en plus à mesure qu ' il avance dans l ' intestin ; il achevé de perdre les caractères qu ' il pouvait conserver encore des aliments dont il provient .En se combinant avec la bile , il se colore en jaune ou en vert , et cette couleur devient d ' autant plus foncée qu ' il avance davantage dans l ' intestin grêle , et surtout dans l ' iléon ; il prend une saveur amère , à la place de la saveur acide , aigre - doux , qu ' il avait Il convertit peu à peu son odeur fade - aigrelette en une odeur désagréable , sui generis , qui se prononce de plus en plus à mesure que l ' absorption enlève les principes du chyle ; il perd en même temps de sa nuidité et de sa mollesse pour prendre une consistance qui devient un obstacle à l ' absorption et qui annonce qu ' elle est terminée ou presque terminée .Enfin , lorsque la substance arrive au bout de l ' intestin grêle , elle ne ressemble plus à celle qui y a été versée par l ' estomac ; elle a éprouvé dans ce trajet une métamorphose complète , non - seulement dans ses qualités physiques , mais aussi dans ses qualités chimiques ou dans sa composition .",
+        "words": [
+          "désagréable",
+          "aigre",
+          "doux",
+          "odeur",
+          "acide",
+          "fade",
+          "amère",
+          "aigrelette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/3df6a3ac-8cc2-5345-93e6-fe51093d49d3",
+        "value": "— On peut en dire autant de la respiration , dans laquelle nous voyons s ' associer la sensation du besoin de respirer , les contractions alternatives des muscles inspirateurs et des muscles expirateurs , les mouvements des côtes et du sternum , la participation des fosses nasales , de la bouche , du pharynx , du larynx et de la trachée - artère , la circulation pulmonaire , la transformation du sang noir en sang rouge , et différentes sécrétions .En outre de ce concours d ' actions à une fonction commune , qui fait de l ' appareil respiratoire un laboratoire physico - chimique , nous devons signaler le grand nombre d ' actes et de fonctions auxquels s ' associe la respiration : elle fournit l ' élément de la voix , et par conséquent de la parole ; elle apporte au sens de l ' odorat l ' arôme des parfums et toutes les odeurs .Elle opère l ' expectoration , l ' expuition et l ' éternumcnt .",
+        "words": [
+          "odeurs",
+          "odorat",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/40c056ab-2dbe-5d59-ba2d-c569881c5a52",
+        "value": ") 0 Avant de présenter les résultats de l ' analyse dm chyme , rappelons qu ' i est la masse alimentaire transformépar l ' acte île la digestion ; disons auss qu ' il se présente sous la forme d ' un , substance pultacéc , molle , demi - li çuide , homogène ., grisâtre et visqueu se , d ' une odeur aigre , d ' une savuai douceâtre , fade et légèrement acide , as conservant rien ou presque rien de Ji Nature des alimenta lorsque la chymification est complète .— M .",
+        "words": [
+          "aigre",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/41718191-97e8-547d-8fa5-02a6ae9640e8",
+        "value": "Si nous voulions nous contenter de juger par analogie , nous trouverions dans cette opération des actes soumis à l ' influence du système nerveux ganglionaire , et nous en conclurions qu ' ils dépendent de ce système .En effet , du côté des vésicules pulmonaires , nous trouvons la sécrétion muqueuse , l ' exhalation séreuse , l ' absorption du mucus oxygéné ou de l ' oxygène : du côté des capillaires sanguins , nous voyons l ' exhalation de la mucosité oxygénée , l ' absorption de la serosité et du gaz acide carbonique ; enfin , dans le parenchyme , nous observons le trajet de ces substances , et les modifications qu ' elles y éprouvent .Les actes de cette opération se réduisent donc à une sécrétion , une exhalation et une absorption , phénomènes qui dépendent tous de la vie ganglionaire .",
+        "words": [
+          "ces substances",
+          "exhalation",
+          "serosité",
+          "mucus oxygéné",
+          "mucosité oxygénée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/420fa7d4-5406-5342-a855-47bcbb1a2c17",
+        "value": "Ce raisonnement est on ne peut plus vicieux : car ces faits eux - mêmes prouvent précisément le contraire de ce qu ' on a voulu , leur faire prouver .Ils ' i démontrent en effet l ' action des reins 1 sur ces substances , puisque l ' urine qui jest formée après avoir pris des asperges ou de la térébenthine , non seulement ne contient ni asperges ni térébenthine , t mais n ' a pas même une odeur qui ait idu rapport avec celle de ces substances , j puisque dans une circonstance elles acquièrent une odeur puante et dans l ' austre une odeur de violette , qui ne rcsI } semblent ni l ' une ni l ' autre à l ' odeur • • des asperges ou de la térébenthine .Cela prouve cependant que ces substances exercent une influence sur l ' organe séi créteur .",
+        "words": [
+          "puante",
+          "odeur",
+          "violette",
+          "elles",
+          "substances",
+          "térébenthine",
+          "urine",
+          "asperges",
+          "ces substances",
+          "austre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/44124e30-421d-5d16-bfc9-4417c3e2495e",
+        "value": "Nous ne parlons que de ces trois principes , parce que seuls on les trouve constamment dans la composition de l ' air , et qu ' ils paraissent exclusivement jouer un rôle important dans la respiration .Après eux les principes qu ' on y rencontre le plus fréquemment et toujours dans des proportions très - variables sont l ' eau , l ' hydrogène pur , les hydrogènes carboné , sulfuré et phosphoré , le calorique , la lumière , l ' électricité , les miasmes délétères , les principes des épidémies , etc ., en un mot tout ce qui peut passer à l ' état de gaz ou de vapeurs .",
+        "words": [
+          "miasmes",
+          "délétères",
+          "hydrogènes carboné"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/4498343f-d0c7-56dc-b1ae-42840b125890",
+        "value": "Pour cela il est indispensable de jeter un coup d ' œil sur la composition du sang .— De quelque vaisseau que le sang soit retiré , il est d ' un rouge plus ou moins foncé , et il répand une odeur sui generis , aura sangiunis , qui est propre à chaque ani - mal et que M .Barruel a trouvée semblable à l ' odeur de la sueur ; c ' est une émanation et non un gaz , comme Rosa et Moscati l ' avaient prétendu .",
+        "words": [
+          "sui generis",
+          "odeur",
+          "il",
+          "sang"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/4843147c-e71d-5563-b815-73f6cbea22af",
+        "value": "* * Nous ne devons pas nous occuper de la présence accidentelle des autres gaz dans l ' air , non plus que de celle des , .miasmes effluves et émanations qui pro .viennent de l ' entassement des hommes sains on malades et des substances ani - .",
+        "words": [
+          "émanations",
+          "miasmes",
+          "effluves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/497e0809-6086-5f83-83d9-18ea6fbce6ce",
+        "value": "Quoique soumis à des influences diverses , les deux ordres d ' actes qui contituent la respiration sont indispensades à l ' ensemble et à l ' unité de la onction ; la plus grande harmonie , ' accord le plus parfait doivent régner entre eux .Si les actes dépendants de ' influence cérébrale n ' ont pas lieu , encéphale , n ' étant plus informé du beoin de respirer , ne transmet plus aux tournons ni aux muscles l ' incitation qui létermine la contraction de l ' inspiraion et celle de l ' expiration ; l ' air n ' éant plus ni introduit ni expulsé , le sang ne se régénère plus , et l ' asphyxie a lieu ; i , d ' un autre côté , le défaut d ' absûrpion de l ' oxigène ou d ' exhalaison de l ' aride carbonique et de la sérosité empêche l ' hématose , alors le sang arrive noir aux organes , et il ne les stimule plus : ls tombent de langueur , et ils n ' exécuent bientôt plus leurs fonctions .Quoijue ces actes soient bien différents , et qu ' ils recoivent une influence bien distincte et bien tranchée , leur coopération : st indispensable : il les faut tous pour ' aire la respiration ; un de moins la trouverait et l ' anéantirait .",
+        "words": [
+          "sérosité",
+          "exhalaison",
+          "oxigène"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/4d6e12ec-6ed5-5435-a4b9-da8aab64add3",
+        "value": "Elle se présente sous l ' asectd ' un liquide plus oumoins consistant ' t poisseux , et filant sous les doigts ; d ' un lune vert plus ou moins foncé , quelque .> is pàle et presque incolore , d ' autres fois = resque noir , assez souvent d ' un beau ! ert et rarement d ' un beau bleu , d ' une • deur fade et nauséabonde , d ' une saveur - ès - amère , d ' une pesanteur spécifique n peu plus grande que celle de l ' eau , i t moussant beaucoup lorsqu ' on l ' agite .• L ' analyse chimique de la bile a été tite et refaite bien des fois , parce qu ' on toujours eu la pensée de trouver dans composition le principe actif qui donnerait la raison de la séparation ou de la récipitation du chyle .",
+        "words": [
+          "nauséabonde",
+          "fade",
+          "amère",
+          "saveur",
+          "deur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/4edbc1b7-8c62-535f-bcfb-76cc3a30e627",
+        "value": "— L ' organe du toucher semble d ' abord se soustraire à toute alliance autre que celle qui résulte de la nutrition .Mais , pour peu qu ' on y fasse attention , on y trouve l ' exhalation cutanée et une sécrétion séba - cée qui sont indispensables à l ' entretien de la souplesse si nécessaire de la peau .On y trouve aussi les mouvements des membres et des doigts qui portent le sens sur les objets tactiles , et le modèlent à leurs formes pour lui en faire saisir toutes les nuances .",
+        "words": [
+          "sécrétion",
+          "exhalation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/51becb18-7949-5616-9fb9-705c2e2ac905",
+        "value": "Qu ' un artiste assiste à upe symphonie exécutée paf cent instruments divers , il distinguera les sans et les notes de chacun , malgré leur existence simultanée qui 4evrait bien faire détruire un son par un autre son .Qu ' un amateur se promène dans un parterre émaillé des fleurs les plus suaves , il saura distinguer l ' odeur de chacune ; pour lui la confusion appàrente de toutes ces odeurs disparaîtra ; ce n ' est pas tout , cet air embaumé sera traversé par le § milliers de couleurs que réfléchissent danf / tous les sens les fleurs , les feuilles et tous les autres objets , et même par tous les sons du concert le plus nombreux , rien nç se confond , rien ne se perd dans ce milieu déjà saturé , Chaque rayon sonore ou lumineux , chaque particule odorante arrive à sa destination .Ainsi lorsqu ' un être vivant prend naissance , il recoit une parcelle de ce foyer vital , ou son principe vital , et il le garde pendant toute la durée de sa vie , ou plutôt il reste vivant jutant 4s temps que ce principe lui reste associé .",
+        "words": [
+          "odorante",
+          "odeur",
+          "fleurs",
+          "air",
+          "odeurs",
+          "embaumé",
+          "feuilles",
+          "appàrente",
+          "un amateur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/52a023c4-3c9b-5a21-a4b7-ccdb36246b91",
+        "value": "— Le sommeil dure six à huit heures , terme moyen : les organes recouvrent leur action dans un ordre inverse de celui dans lequel ils s ' étaient endormis .Ainsi , l ' esprit opère d ' abord confusément quelques associa - tions d ' idées ; le tact , l ' ouïe , l ' odorat jf k1 vue et le goût , deviennent sensiblee k leurs excitants ; le système locomoteur sort de son inaction .L ' invasion et la durée du sommeil valent suivant l ' activité et le genre de la veille qui a précédé , selon aussi la conititution , les habitudes et les excitants externes ou internes .",
+        "words": [
+          "leurs",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/52ab556e-fb47-5877-b41e-d2f5b99a09ca",
+        "value": "Cette dénomination n ' eût pas présenté les inconvénients de la plupaft des autres ; l ' exhalation cu - tanée , par exemple , n ' est pas une fonc - .tion aussi intérieure que le sens du goût ou de l ' odorat ; elle n ' est pas non plus une fonction nutritive .— Dans la seconde classe sont comprises toutes les fonctions qui appartiennent aux animaux , qui servent à les caractériser , et qui les distinguent des végétaux .",
+        "words": [
+          "odorat",
+          "intérieure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/54d9d639-1ec6-5f5b-bef6-e8ab359eb3f0",
+        "value": "Il est encore vrai de dire que l ' odorat peut quelquerois suppléer la vue et faire annoncer la présence d ' une personne qu ' on ne voit réellement pas ; de la même manière qu ' un chien sent et reconnaît son maître sans le voir .C ' est ainsi que certains somnambules ont pu déciarer à qui appartenaient des vêtements ou d ' autres objets qui leur * étaient présentes , parce qu ' à l ' odeur ils avaient reconnu les émanations de la personne , comme ils auraient pu à la vue en reconnaître la forme .Tout cela est possible et vrai ; mais admettre la faculté de lire telle page d ' un livre fermé , ou .",
+        "words": [
+          "odeur",
+          "émanations",
+          "certains somnambules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/5644fa01-481f-5124-85b1-4574acdb7afb",
+        "value": "Quoique sa composition soit identique à celle des autres mucus , il en diffère p : ir une odeur , une consistance , une opacité et une blancheur mate remarquables .— Au gland , la mucosité présente une odeur sui generis et une consistance assez grande .Plus liquide , elle eût entretenu dans cette partie un écoulement perpétuel fort incommode .",
+        "words": [
+          "sui generis",
+          "odeur",
+          "mucosité"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/58142938-710d-519d-ac74-cf83ec58f07b",
+        "value": "Ainsi l ' odeur musquée se manifeste dans certaines dissolutions d ' or , dans les feuilles du géranium moschatum ; celle de l ' ail est commune à plusieurs plantes , à l ' arsénic , à lime espèce de crapaud .C ' est d ' après de semblables observations qu ' il admit comme autant de chefs principaux les odeure musquée , safranée , résineuse , cordiale , balsamique , aromatique , âcre , forte , douce , etc .— Fourcroy ayant plutôt égard aux principes constitutifs des corps odorants , déduisit sa classification de la prédominance des principes muqueux , huileux fixe , huileux volatil , aromatique , acide et hydro - sulfureux dans substances d ' où l ' on extrait les odeurs végétales .",
+        "words": [
+          "aromatique",
+          "musquée",
+          "odeure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/5a7a7219-e33b-50cb-9cbd-30944218f8e0",
+        "value": "Mais il n ' en est pas ainsi .Les fèces acquièrent une odeur particulière , qui se prononce de plus en plus .Leur couleur jaune se rembrunit , et quelques stries muqueuses ou albumineuses , qu ' elles présentaient encore , disparaissent complètement .",
+        "words": [
+          "odeur",
+          "particulière",
+          "fèces",
+          "se prononce de plus en plus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/5fdece07-23ab-568e-a231-d29558e18543",
+        "value": "Cette méthode est ainsi plus restreinte et limitée aux différentes espèces d ' arômes .— L ' odorat n ' est pas af .fecté par le mouvement vibratif des corps , mais par les particules qu ' ils projettent , puisque les odeurs peuvent être conservées dans un vase , par un liquide .",
+        "words": [
+          "odorat",
+          "pas af"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/639e673a-5386-5f12-9ba6-6d775721fcfb",
+        "value": "D ' autres revètent un principe odorant jusque - là secret , si on les place dans certaines conditions , ou si on les modifie à l ' aide du frottement , de la chaleur ou de l ' humidité .— Telle est la ténuité infinie des particules odorantes , qu ' un grain de musc , pesé de nouveau au bout de trente ans par Haller , n ' avait pas éprouvé une diminution bien appréciable .— Dans une atmosphère tranquille , les odeurs s ' affaiblissent progressivement en s ' éloignant de leur origine .",
+        "words": [
+          "odorantes",
+          "particules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/64902937-12bc-5be3-ad2b-f97e77fb6c2a",
+        "value": "Elle est sécrétée à toute la surface du corps j quoi qu ' elle soit fournie plus abondamment dans certaines partips , comme aux aines , aux aisselles , aux organes génitaux , à cause de la plus grande quantité de cryptes qui s ' y trouvent , nulle part cependant on ne voit ces petits corps glandulaires s ' agglomérer , comme nous l ' avons vu pour les follicules muqueux .— L ' humeur sébacée présente quelques différences d ' odeur , de consistance et de forme flans plusieurs endroits .Ainsi elle n ' est pas la même àla tête , aux ailes du nez , aux aisselles , à l ' aine .",
+        "words": [
+          "odeur",
+          "humeur sébacée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/68483104-c2a0-5a53-b0ac-f994f7d5dab3",
+        "value": "Ces résultats contredisent donc l ' opinion de Prout , qui veut que l ' albumine ne se forme que par l ' action de la bile , et celle de Brodie , qui la croit indispensable à la confection du chyle .— Dans le gros intestin , les matières étaient plus sèches , plus blanches et beaucoup plus puantes .A part ces qualités et l ' absence des principes de la bile , elles ne diffèrent guère , dans leur composition , des matières des animaux auxquels le conduit cholédoque n a pas été lié .",
+        "words": [
+          "puantes",
+          "matières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/70576f83-a1b0-555d-8f08-3d1da13aa726",
+        "value": "— L ' odorat n ' est pas af .fecté par le mouvement vibratif des corps , mais par les particules qu ' ils projettent , puisque les odeurs peuvent être conservées dans un vase , par un liquide .— Il n ' est peut - être aucune substance absolument inodore .",
+        "words": [
+          "corps",
+          "odeurs",
+          "liquide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/705ac25b-b416-54b6-bad2-26cf0317e4f9",
+        "value": "- » 4b Il y a deux choses à examiner dans c phénomène : la sensation qui le provo que , et son mécanisme proprement dit — La toux est constamment provoqué par une sensation pénible dans le larynxt la trachée - artère ou les bronches ; cetty sensation est ordinairement le résultat dl la présence de mucosités surabondante accumulées sur un point plus ou moin ' étendu des voies aériennes .Un corp étranger introduit de l ' extérieur produi le même effet que le corps étranger soi solide , liquide , ou même gazeux , pourvi que ce soit un gaz irritant ou chargé d ' quelques émanations ou odeurs âcres .Dans tous ces cas , la sensation est normale ; elle résulte d ' un contact direct et de l ' impression qu ' il produit sur la partie même .",
+        "words": [
+          "gaz",
+          "odeurs",
+          "âcres",
+          "corps étranger",
+          "corp étranger"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/7264f02b-3e4c-5bd4-b1d6-3f9e9d09c47b",
+        "value": "C ' est un fait de physiologie pathologique et thérapeutique trop connu pour qu ' il soit possible de le révoquer en doute .Tout le monde sait en effet que c ' est l ' air qui ' est le véhicule de tous les principes des maladies épidémiques , des miasmes et effluves qui vont porter dans l ' économie les germes de fièvres nosocomiales , carcéraires , typhoïdes , intermittentes ; tout le monde sait également que la thérapeutique utilisant ce fait , charge l ' air de dif * férents principes médicamenteux volatil lisés pour les lui faire porter dans les poumons , et par leur ministère dans le reste de l ' économie .1 L 40 Le sang , après son passage a travers les poumons , n ' est plus le même .",
+        "words": [
+          "air",
+          "miasmes",
+          "effluves",
+          "principes médicamenteux volatil lisés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/79fc381b-d11c-5c05-8017-35b05755ec8a",
+        "value": "— C ' est à la partie supérieure des fosses nasales que l ' olfaction a lieu .Les odeurs passent presque inaperçues , si on les détourne de cette région .Elles agissent si on les y dirige à l ' aide d ' un tube ; le nez paraît avoir ce dernier usage .",
+        "words": [
+          "odeurs",
+          "région",
+          "inaperçues"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/7d2be2ea-e0b4-597c-b591-6c357237b54b",
+        "value": "— Enfin les sinus se développent à l ' époque de la dentition , ce qui ne permet pas d ' admettre qu ' ils contribuent au perfectionnement de l ' organe , alors que la sensibilité n ' est plus aussi vivement affectée par les impressions ; leur développement devrait être plus tardif , s ' ils étaient destinés à compenser la diminution d ' activité du sens de l ' odorat par l ' extension de la surface qui en est le siége .— Ces raisons contre l ' usage attribué aux sinus paraissent plus concluantes que les expériences dans lesquelles on a trouvé la membrane de ces cavilés insensible à une odeur forte que l ' on faisait parvenir à l ' aide d ' une fistule accidentelle .La muqueuse a pu , en effet , dans ces circonstances , être privée de ses conditions normales , soit par un état pathologique , soit par l ' exposition prolongée au con - tact de l ' air .",
+        "words": [
+          "forte",
+          "odeur",
+          "membrane de ces cavilés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/7e87c1c1-e4b9-51e5-ad00-3939ac7da054",
+        "value": "lysé le chyme trouvé dans l ' estomac d ' un épileptique mort - subitement pendant It travail de la digestion .Ils en ont obtenu 1 ° de l ' acide lactique : 2 ° une matière animale blanche , cristalline , analogue > , ui sucre de lait ; 3 ° une substance grasse , jaunâtre , acide , se rapprochant du * beurre roux ; 4 ° une autre matière animale ressemblant au caséum , soluble idans l ' eau ; 5 ° de l ' albumine ; 6 ° beaucoup de phosphate de chaux , de l ' hydroi chlorate , du phosphate de soude en proportion moins considérable , et répandant une odeur forte et désagréable .iDoit - on faire entrer dans l ' analyse du ~ chyme les gaz qui se développent pen ~ \" but la digestion ? Nous ne le pensons Ipas , puisque nous voyons , d ' une part , , : 5chuys les regarder comme la cause et la preuve de la fermentation des aliments et non comme un de leurs principes constituant ; et que , d ' autre part , les analyses qui en ont été faites par MM .",
+        "words": [
+          "désagréable",
+          "forte",
+          "odeur",
+          "matière",
+          "phosphate de chaux",
+          "phosphate de soude",
+          "hydroi chlorate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/8269595e-124f-5567-be24-f4f9da5b9415",
+        "value": "Les propriétés physiques offrent cela d ' important , que la substance pultacée grise du chyme se colore en un jaune qui se fonce et qui brunit de plus en plus , et que sa consistance demi - liquide devient plus épaisse à mesure qu ' elle avance .Elle perd aussi son acidité et sa saveur fade et aigrelette , pour devenir amère et prendre une odeur sui g e ne ris qui se prononce de plus en plus .L analyse chimique de la substance alimentaire dans l ' intestin grêle a beaucoup moins occupé les physiologistes que celle du chyme , parce qu ' elle n ' est presque plus regardée que comme un résidu , et qu ' on a presque toujours trop rapporté à l estomac tout le travail digestif .",
+        "words": [
+          "odeur",
+          "fade",
+          "aigrelette",
+          "Elle",
+          "saveur",
+          "se prononce de plus en plus",
+          "sui g e ne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/84815d6a-aa6d-5704-a822-d31e49d700c0",
+        "value": "Le rapport exact entre le vo - lumede ce nerf et la portée de l ' olfaction dans les animaux peut être invoqué à l ' appui de cette opinion .Cependant , comme les odeurs affectent aussi , quoi - 1 qu ' à un degré plus faible , les régions de la pituitaire qui ne paraissent pas recevoir des filets du nerf olfactif , tandis que1 la cinquième paire anime toutes les parties de cette membrane , on a mis en * doute l ' usage exclusif du nerf olfactif .On a rappelé la destination de la cin - i quième paire à fournir tous les nerfs desorganes des sens dans les animaux inférieurs .",
+        "words": [
+          "odeurs",
+          "olfactif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/84bde942-ef8e-512f-9e58-697a66af6f11",
+        "value": "Le degré de sécheresse de l ' atmosphère la favorise plus ou moins ; la chaleur , une course , un mouvement de fièvre et tout ce qui accélère la circulation , augmente cette exhalation ; alors l ' humeur perspiratoire s ' amasse en gouttelettes sur la surface de la peau et constitue la sueur , qui ellemême ne tarde pas à s ' évaporer .— Il y a de l ' analogie et non de l ' identité entre la sueur et les autres fluides perspiratoires , car elle contient une matière animale particulière qui répand une odeur spéciale et propre à chaque animal et à chaque individu , et à laquelle le chieh reconnaît son maître et suit ses traces , et découvre le gîte du lièvre ou du cerf .La sueur contient en outre un acide que M .",
+        "words": [
+          "odeur",
+          "sueur",
+          "spéciale",
+          "matière animale",
+          "autres fluides perspiratoires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/86ea5240-b356-5c71-8dd6-d9d172718e51",
+        "value": "Mais cela n ' appartient pas seulement aux organes de la vue et de l ' ouïe , cela se remarque également dans les autres sens du goût , de l ' odorat et du toucher .Qui ne connaît la facilité avec laquelle les gourmets distinguent le pays , l ^ âge et les mélanges des vins , même de ceux qui se ressemblent le plus ? Peut - on oublier l ' histoire de ce père aveugle qui re - connaissait à l ' odeur , lorsque sa fille avait , dans la nuit , satisfait aux devoirs conjugaux ! N ' a - t - on pas enfin vu plusieurs fois des aveugles distinguer les couleurs au toucher et sans se tromper ? De plus , l ' histoire naturelle nous présente dans plusieurs animaux oe degré extrême de susceptibilité des organes sensoriens .Dans l ' aigle , c ' est la vue ; dans le chat , c ' est l ' ouïe ; dans le cochon et le chien , c ' est l ' odorat , etc .",
+        "words": [
+          "odeur",
+          "vins",
+          ", dans la nuit",
+          "père aveugle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/8a3d85bb-8bde-5ce9-8322-665a8b4508e7",
+        "value": "La cavité où il réside doit s ' ouvrir pour permettre l ' influence des excitants .L ' humidité de la membrane muqueuse , la trituration des aliments , leur pression par la langue , sont encore des conditions accessoires à l ' exercice du goût , qui , pour apprécier certaines saveurs , doit se mettre en communauté d ' affection avec l ' odorat .— Mais c ' est avec l ' appareil digestif que le goût a les plus étroites connexions .",
+        "words": [
+          "odorat",
+          "aliments"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/8b8f7467-6c7f-565d-a821-f5eac04110de",
+        "value": "— Nous ferons cependant une exception à cette loi générale , en faveur des odeurs vives et très - expansibles , telles que l ' ammoniaque , l ' acide acétique pur .Lorsqu ' on approche ces substances du nez des personnes qui sont en syncope ou dans une crise histérique , et chez lesquelles la respiration ne s ' exécute pas du tout , l ' odeur qu ' elles répandent n ' en produit pas moins son effet , parce qu ' il suffit , pour que la sensation ait lieu , que les molécules odorantes arrivent à l ' organe .Or , les odeurs vivement expansibles vont toujours en s ' étendant de proche en proche à mesure qu ' elles saturent l ' air ambiant , et cette extension des molécules les fait pénétrer dans les fosses nasales , sans qu ' il soit besoin du renouvellement de l ' air dans ces cavités .",
+        "words": [
+          "odeur",
+          "elles",
+          "odorantes",
+          "répandent",
+          "ces substances",
+          "molécules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/8fd3d2ea-7b7b-59dc-aef0-2eb8a5623975",
+        "value": "L ' ait que l ' on respire fait aussi beaucoup varier la durée de l ' abstinence ; aussi un air humide et chargé d ' émanations animales fournit à l ' absorption des molécules nutritives et fait supporter l ' abstinence bien plus facilement .C ' est ainsi que Bacon a pu voir un air embaumé de vapeurs aromatiques prolonger l ' abstinence d ' un homme , et que Démocrite a pu prolonger sa vie en respirant la vapeur du pain chaud .Cette activité d ' absorption pendant la vacuité de l ' estomac , suffit pour nous expliquer le danger auquel s ' exposent les personnes qui vont à jeun respirer l ' air infect des marais , des amphithéàtres , des hôpitaux et des foyers d ' une épidémie , et elle indique la uécessitéde ne jamais sortir sans avoir fourni 8n aliment suffisant à l ' absorption .",
+        "words": [
+          "vapeurs",
+          "air",
+          "embaumé",
+          "aromatiques",
+          "vapeurs aromatiques",
+          "Bacon",
+          "Démocrite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/906f337a-160e-5a1e-93a2-7cf1917e26d6",
+        "value": "L ' animal se repaît des aliments qu ' il repoussait avant cette expérience .— Nous ferons cependant une exception à cette loi générale , en faveur des odeurs vives et très - expansibles , telles que l ' ammoniaque , l ' acide acétique pur .Lorsqu ' on approche ces substances du nez des personnes qui sont en syncope ou dans une crise histérique , et chez lesquelles la respiration ne s ' exécute pas du tout , l ' odeur qu ' elles répandent n ' en produit pas moins son effet , parce qu ' il suffit , pour que la sensation ait lieu , que les molécules odorantes arrivent à l ' organe .",
+        "words": [
+          "odeurs",
+          "vives",
+          "acide acétique",
+          "ammoniaque",
+          "très - expansibles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/910f745c-854a-53d0-8480-e1fe8be2913b",
+        "value": "Il en est de même de l ' œil , dans lequel nous retrouvons une disposition analogue , puisque la sensation générale en rend le globe et la conjonctive si sensibles au contact des corps extérieurs , et que différents muscles en font mouvoir en plusieurs sens , les uns les paupières , les autres le globe lui - même .— Comme les deux sens précédents , l ' organe de l ' odorat présente d ' une part une sécrétion muqueuse abon • dante , et d ' autre part une sensation générale indépendante de la sensation effective , et qui persiste même après la paralysie de celle - ci .De plus , quelques soustractions musculaires impriment à l ' orifice des narines un mouvement de dilatation et de resserrement bien sensible .",
+        "words": [
+          "sécrétion",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/938f4e34-1c0b-5f9a-834a-1a698dbffce1",
+        "value": "D ' autres enfin agissent en fournissant une plus grande quantité de matériaux à la sécrétion du sperme , qui devient ainsi plus abondant , remplit et distend ses vésicules et sollicite son évacuation : tels sont le poisson , les cervelles , et plus encore les fraises , les framboises , les melons , etc ., qui , à la propriété de fournir beaucoup de semence , joignent un arome excitant spécial .Dans cette saison , l ' homme , de même que les autres êtres animés , ressent l ' influence vivifiante d ' un soleil nouveau , qui semble faire renaître la nature en réveillant les êtres que son éloignement avait plongés dans le sommeil et l ' engourdissement .",
+        "words": [
+          "arome",
+          "excitant spécial"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/94ba7046-690a-577b-9b30-66e63892593c",
+        "value": "— Telle est la ténuité infinie des particules odorantes , qu ' un grain de musc , pesé de nouveau au bout de trente ans par Haller , n ' avait pas éprouvé une diminution bien appréciable .— Dans une atmosphère tranquille , les odeurs s ' affaiblissent progressivement en s ' éloignant de leur origine .Si l ' air est agité , elles obéissent à son impulsion , et peuvent être transportées à de grandes distances ; ainsi , l ' île de Ceylan est , dit - on , annoncée à vingtcinq milles en mer , par l ' odeur de la canelle .",
+        "words": [
+          "atmosphère",
+          "odeurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/95c83205-d594-56c4-a26d-414e2b16b512",
+        "value": "— M .Magendie a surtout soutenu l ' importance de la cinquième paire , et s ' est appuyé sur plusieurs expériences , La 1bembrane pituitaire lui a paru sensi - ble à des odeurs fortes après la section i du nerf olfactif , tandis que cette mem - 1 brane avait perdu cette propriété ainsi que sa sensibilité générale lorsque la même opération avait été faite sur la cinquième paire .On est donc forcé de Teconnaître au moins que ce dernier nerfr est une condition importante , sinon l ' a - gent principal de l ' odorat .",
+        "words": [
+          "odeurs",
+          "olfactif",
+          "fortes",
+          "Magendie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/961a6209-86af-5c69-8b69-34b9afbb5716",
+        "value": "C ' est d ' après de semblables observations qu ' il admit comme autant de chefs principaux les odeure musquée , safranée , résineuse , cordiale , balsamique , aromatique , âcre , forte , douce , etc .— Fourcroy ayant plutôt égard aux principes constitutifs des corps odorants , déduisit sa classification de la prédominance des principes muqueux , huileux fixe , huileux volatil , aromatique , acide et hydro - sulfureux dans substances d ' où l ' on extrait les odeurs végétales .Cette méthode est ainsi plus restreinte et limitée aux différentes espèces d ' arômes .",
+        "words": [
+          "odeurs",
+          "odorants",
+          "hydro - sulfureux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/9688ce72-7c2c-5be5-a5b3-dfa8002670fe",
+        "value": "De plus , il n ' avait pas fait attention , qu ' indépendamment de l ' indispensable nécessité de cette fonction , la nature , qui est toujours si habile à utiliser ses moyens et à les faire servir à plusieurs fins , a donné à l ' appareil respiratoire d ' autres attributions que celles de la respiration .Faut - il rappeler que c ' est - elle qui vient former la voix dans le larynx , et la voix articulée dans la bouche ? que c ' est - elle qui apporte à l ' odorat le parfum des fleurs et toutes les odeurs possibles ? qu ' elle concourt aux efforts ? qu ' elle chasse les mucosités nasales par éternment , et les mucosités bronchiques , gutturales et buccales , par la toux , l ' expectoration et l ' expuition ? en - fin , qu ' elle joue le rôle le plus important dans le rire , les soupirs , les sanglots ? etc .Indépendamment de ces usages , on en a attribué quelques autres à la respiration : on a dit qu ' elle produisait le mouvement d ' expansion de l ' encéphale et l ' espèce de battement et de soulèvement qu ' on lui remarque lorsqu ' on le met à découvert ; mais des expériences réitérées sur des animaux vivants , les observa tions de plaies de tête avec déperdition d ' une partie de la boîte osseuse du crâne , et les cas d ' opérations du trépan , ont prouvé à tous les physiologistes que les mouvements du cerveau sont dus à l ' abord du sang artériel .",
+        "words": [
+          "parfum",
+          "bouche",
+          "fleurs",
+          "odeurs",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/9a3b8182-a40a-59e9-b600-ea99cbb39306",
+        "value": "Tous les jours aussi , et plus < souvent encore , la faim est apaisée , as - • ionvie , sans que l ' appétit soit éteint .Dans un grand repas , l ' estomac est plein et l ' on appète encore les mets succulents dont le fumet vient frapper notre odorat .Par combien d ' assaisonnements , d ' épices , de liqueurs et d ' autres moyens né chercbe - t - on pas à entretenir ou à réveiller l ' appétit , lorsque la faim est entièrement satisfaite ? tandis que d ' autres personnes s ' endorment , en quelque sorte , par l ' usage des narcotiques , tels sont les faquirs indiens qui , de cette manière , le procurent l ' avantage de pouvoir supporter de longs jeunes sans inconvénients .",
+        "words": [
+          "odorat",
+          "notre",
+          "mets succulents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/a860969c-0cc7-5b1b-910c-5d1573d67228",
+        "value": "Les poils qui garnissent les ouvertures du nez et qu ' on appelle vibrices , tamisent l ' air dont ils interceptent les corpuscules .- Les sinus ne paraissent pas jouer un rôle important dans l ' olfaction ; leurs , ouvertures dirigées en arrière , comme celles de la trompe d ' Eustache , du canal nasal , n ' admettent guère que l ' air de l ' expiration , et nous avons vu que les particules odorantes n ' agissaient qu ' au .moyen de l ' air inspiré .",
+        "words": [
+          "odorantes",
+          "olfaction"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/a8f465ae-d413-50e6-b92e-8fd6bce7bfa4",
+        "value": "Nous avons pensé que ce qui avait lieu pour les reins det vait être pour tous les organes qui remplissent les mêmes fonctions , et nous avons conclu que les sécrétions s ' exécu > tent sous l ' influence nerveuse ganglio - , naire .A ce mode d ' exhalation appartient celle du corpf yitré , qui est composé d ' un véritable tissu cellulaire ou lamineur , et d ' une humeur albumineuse , transparente et analogue à la synovie .3 ° Exhalation des membranes muqueuses .",
+        "words": [
+          "humeur",
+          "tissu",
+          "exhalation",
+          "corpf"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/acececd3-f466-5a8b-8f38-8ae7b9db77b1",
+        "value": "Par la continuation de ce travail , ils se dépouillent de plus en plus de lcurl ' polécules alibite & qui sont dissoutcs et ï absorbées avec les parties aqueuses .Do ! cette manière , tout en changeant de nature , ils acquièrent plus de consistance , plus d ' amertume et plus d ' odeur .Cette dernière qualité dépend , moins peutêtre des changements qu ' ils éprouvent , que de la mucosité particulière qui la leur communique .",
+        "words": [
+          "odeur",
+          "ils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ad58ffb1-809f-52d0-960b-804555a20de7",
+        "value": "En respirant les vapeurs opiacées , on produit le calme de douleurs éloignées et souvent le narcotisme .C ' est par la respiration et l ' absorption des miasmes des amphithéâtres ou des hôpitaux , des effluves des marais ou des lieux infectés d ' une épidémie , que se communiquent les maladies graves qui en sont la conséquence .La médecine n ' a guère encore tiré parti de cette voie d ' absorption , que lorsqu ' elle a voulu agir directement sur le poumon .",
+        "words": [
+          "miasmes",
+          "effluves",
+          "hôpitaux",
+          "amphithéâtres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/aef09692-1a6b-505a-b0ec-b1746e2ff1c5",
+        "value": "On a pourtant fait des essais de classification .Prenant pour base le mode de sensation ; qu ' elles produisent , Haller a regardé comme fondamentales , primitives , les odeurs qui se retrouvent dans les trois règnes de la nature .Ainsi l ' odeur musquée se manifeste dans certaines dissolutions d ' or , dans les feuilles du géranium moschatum ; celle de l ' ail est commune à plusieurs plantes , à l ' arsénic , à lime espèce de crapaud .",
+        "words": [
+          "odeurs",
+          "primitives"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/af1ce993-d2fe-58da-94e6-982f68eacbbe",
+        "value": "De cette manière nous avions la certitude que toute espèce de filets nerveux avait été coupé .Alors le , i sang a continué de passer à travers les ; reins , puisqu ' il revenait par les veines ; < mais il ne s ' est plus formé d ' urine , et le liquide que nous avons recueilli par les jiretères était un sang pur , qui ne pré9 sentait ni l ' odeur , ni la saveur , ni aui cune des autres qualités de l ' urine .Dans 1 ces deux expériences nous avons été convaincus , d ' une part , que la sécrétion i urinaire ne dépend nullement de l ' influence du système nerveux cérébral ; d ' autre part , qu ' elle est sous la dépendance du système ganglionaire , puisque dans le second cas , le plexus rénal qui t émane des plexus mésentériques et solaires avait été coupé .",
+        "words": [
+          "odeur",
+          "nous",
+          "urine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/af624116-9075-5424-a9cc-5de7a2074226",
+        "value": "Certaines paraissent telles à cause de la trop grande subtilité des émanations qui s ' en dégagent .D ' autres revètent un principe odorant jusque - là secret , si on les place dans certaines conditions , ou si on les modifie à l ' aide du frottement , de la chaleur ou de l ' humidité .— Telle est la ténuité infinie des particules odorantes , qu ' un grain de musc , pesé de nouveau au bout de trente ans par Haller , n ' avait pas éprouvé une diminution bien appréciable .",
+        "words": [
+          "odorant",
+          "autres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/b110f016-b1a8-5264-b197-c9294d1723e4",
+        "value": "Si l ' on voulait établir une classification des boissons , il faudrait donc commencer par les distinguer en boissons qui se prennent dans la santé , en boissons hygiéniques , et en boissons qui se prennent pendant la maladie ou boissons thérapeutiques .Dans la première classe , nous comprendrions : l ° les boissons aqueuses , qui ne servent qu ' à rafrai - chir ou à désaltérer , et à réparer les pertes de sérosités que font le sang et les organes ; telles sont l ' eau pure et les différentes boissons sucrées et acidulées ; 2 ° les boissons excitantes , aromatiques et spiritueuses , telles que les infusions aromatiques , les vins , les liqueurs , etc ., qui excitent les organes et favorisent la digestion en donnant plus de ton à l ' estomac ; 3 ° les boissons analeptiques , qui sont destinées en partie à servir d ' aliments , tels sont le lait , le bouillon et les décoctions féculeuses ; 4 ° enfin , les boissons mixtes , qui possèdent plusieurs de ces caractères , soit naturellement , comme le café , la bière , le cidre , et certains vins ; soit artificiellement , par le mélange de plusieurs ensemble .",
+        "words": [
+          "liqueurs",
+          "vins",
+          "aromatiques",
+          "excitantes",
+          "boissons",
+          "spiritueuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/b74a67d0-d178-51e0-ae73-38a7e1580910",
+        "value": "Ainsi on le voit souvent s ' établir par les narines , l ' estomac , le rectum et les poumons .Cependant on l ' a vu avoir lieu par des surfaces ou des parties peu accoutumées aux exhalations sanguines .C ' est ainsi qu ' on l ' a vu s ' opérer par les yeux , les oreilles , le pharynx , la bouche , le nombril , et par diverses parties de la surface des téguments .",
+        "words": [
+          "exhalations",
+          "sanguines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/b7a22cda-6ded-5f77-8c35-026162d032d3",
+        "value": "Ce besoin est encore plus vif et plus fréquent , lorsque les aliments sont , comme on dit , de nature échauffante , et capables de causer de l ' irritation .Tels sont entre autres les aliments salés , Acres , épicés , ou aromatisés , et ceux qui ont subi un commencement de putréfaction .Nous y comprendrons l ' usage de certains médicaments , tels que les oxides métalliques , les amers , les opiacés .",
+        "words": [
+          "aliments",
+          "aromatisés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/bda7ed48-1b93-5373-a04e-8ffc06a237ec",
+        "value": "conjonctive , la pituitaire , les muqueuses linguale et pharyngienne , la mu * J queuse de la trachée , de l ' urètre et du vagin .— Mais les expériences n ' ont pas encore parlé au sujet de plusieurs autres tissus qui peut - être ne sont sensibles qu ' à l ' impression de leurs excitants naturels .Il y a plus , elles ont donné des résultats négatifs à l ' égard de certaines parties dont la sensibilité n ' est pas contestable .",
+        "words": [
+          "leurs",
+          "excitants",
+          "autres tissus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/c10394f4-da37-578c-8656-89bc02675966",
+        "value": "L ' air ne peut pas rester long - temps dans la poitrine , il faut qu ' il soit sans cesse renouvelé .Leur nutrition , leur circulation et surtout leur mode de respiration présentent des différences qui permettent de longues suspensions dans le mouvement respiratoire sans nuire essentiellement à leur économie — Quelques physiologistes , voyant des animaux respirer par la peau , se sont demandé si l ' homme n ' en faisait is autant .S ' appuyant sur quelques ex ; riences de Spallanzani , Vauquelin , ruiskank , Nyslen , Jurine , Bichat , attoni , Achard , Beddoès , Abernetty , ilwards , Legallois , etc .",
+        "words": [
+          "respirer",
+          "physiologistes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/c20d4c77-974a-57ea-acfd-4d0bc193299f",
+        "value": ", qui ont vu des limaux ou des parties du corps plongés ins l ' air , l ' azote , l ' oxygène , l ' hydrogène , c ., absorber et exhaler ces gaz ou quel : tes - uns de leurs principes et s ' asphyxier II en recevoir les impressions vénéneuses ui leur sont propres , lorsqu ' ils sont vééneux , tout aussi bien que s ' ils les resiraient , en ont conclu que la respirationouvait également se faire par la peau , .t que l ' absorption gazeuse qu ' elle opéait pouvait être regardée comme une aspiration supplémentaire .",
+        "words": [
+          "exhaler",
+          "vénéneuses",
+          "ces gaz",
+          "asphyxier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/c364dc7f-9fd9-5673-bd6a-50f8f253bcac",
+        "value": "Cette dernière qualité dépend , moins peutêtre des changements qu ' ils éprouvent , que de la mucosité particulière qui la leur communique .En effet , lorsque les excréments ont été rendus depuis quelques instants , ils perdent bientôt cette odeur expansive .Elle n ' existe réellement qu ' à leur surface , et ce qui le prouve , c ' est que la partie centrale en est presque entièrement dépourvue .",
+        "words": [
+          "odeur",
+          "ils",
+          "excréments",
+          "cette",
+          "depuis",
+          "depuis quelques instants",
+          "expansive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/cb90e837-41d9-51d4-aec4-d39f51c31e56",
+        "value": "Ces deux substances , si dis - tinctes au moment de l ' émission , se confondent bientôt en une seule , plus fluide , homogène et d ' un gris terne .Le sperme a une saveur salée et irritante ; il exhale une odeur fade , sui generis , que plusieurs physiologistes ont transformée en une vapeur particulière , aura seminalis , à laquelle ils accordent des vertus prolifiques dont Spallanzani a démontré la fausseté : jamais il n ' a pu recueillir ce principe volatile ; jamais non plus il n ' a pu opérer de fécondation artificielle sans un contact direct du liquide séminal .L ' analyse chimique a été faite par Vauquelin , Berzélius , etc .",
+        "words": [
+          "odeur",
+          "sperme",
+          "il",
+          "fade",
+          "salée",
+          "irritante",
+          "vapeur",
+          "saveur",
+          "prolifiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ce238978-d758-547f-93cd-58b3d9ecb7a4",
+        "value": "Les Persans emploient comme assaisonnement l ' assa - fcetida .Des nations entières respirent avec délices l ' odeur des huiles fétides , des cadavres en putréfaction et craignent à l ' excès celle des parfuma et des substances les plus suaves pour nous .— On aurait une idée bien restreinte de l ' odorat , si l ' on ne considerait ce sens que comme une sentinelle avancée des organes de la digestion et de la respiration ; il est encore un instrument précieux pour plusieurs opérations intellectuelles .",
+        "words": [
+          "les plus suaves",
+          "odeur",
+          "celle",
+          "nous",
+          "substances",
+          "parfuma",
+          "huiles fétides",
+          "délices",
+          "cadavres en putréfaction",
+          "nations entières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ce3c8e28-f8a1-58aa-8ddb-ece50c9afa8d",
+        "value": "La respiration est plus rapide .Les sécrétions elles - mêmes présentent quelques différences : l ' urine et la sueur de la femme ne sont pas les mêmes que celles de l ' homme ; leur aspect et leur odeur suffisent pour les faire distinguer .Le sexe paraît même agir sur le degré de longévité .",
+        "words": [
+          "odeur",
+          "sueur",
+          "urine",
+          "sécrétions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d1e3b5a2-0ea5-5f80-8c52-99584b431230",
+        "value": "Les vapeurs et les gaz appliqués à la surface du corps ferment aujourd ' hui une puissante médication dont personne n ' ignore les résultats .Pourrait - on révoquer en douté ; l ' absorption cutanée en voyant la téré - , benthine , administré en bain , frictions ou vapeurs , donner aux urines l ' odeur , de la violette ? en voyant le mercure , employé sous toutes les formes , produire la salivation ? en purgeant avec la colo - i ' quinte , le jalap , ou l ' ellébore appliqués sur la peau , presqu ' aussi sûrement que1 lorsqu ' ils sont administrés intérieurement ? en ealmunt des douleurs in ter - , n - es et profondes par l ' application exté - térieure des opiacés ? Il n ' est pas nécessaire de rappeler l ' expérience de Bichat , e dans laquelle le corps placé entre deux ' ■ > cadavres en putréfaction et respirant à l ' aide d ' un tube l ' air pur de l ' extérieur de la salle , il n ' en vit pas moins l ' absorption des miasmes putrides s ' opérer et donner aux liquides de l ' économie leur qualité particulière .Cette expérience a été répétée par Chaussier sur des animaux , qu ' il empoisonnait en les plongeant dans des gaz délétères , avec la précaution de leur laisser la tête en dehors .",
+        "words": [
+          "putrides",
+          "odeur",
+          "violette",
+          "air",
+          "miasmes",
+          "urines",
+          "mercure",
+          "salle",
+          "opiacés",
+          "benthine",
+          "Bichat",
+          "liquides de l"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d50af267-11d8-524a-a84e-4656abbb22b6",
+        "value": "Le siége principal de l ' odorat corres - pond à l ' épanouissement du nerf olfac - tif , ce qui déjà est une forte raison pour faire admettre que ce nerf recueille ! et transmet au cerveau les impressions des odeurs .Le rapport exact entre le vo - lumede ce nerf et la portée de l ' olfaction dans les animaux peut être invoqué à l ' appui de cette opinion .Cependant , comme les odeurs affectent aussi , quoi - 1 qu ' à un degré plus faible , les régions de la pituitaire qui ne paraissent pas recevoir des filets du nerf olfactif , tandis que1 la cinquième paire anime toutes les parties de cette membrane , on a mis en * doute l ' usage exclusif du nerf olfactif .",
+        "words": [
+          "animaux",
+          "olfaction"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d5915404-a6a8-5cd1-a226-69a6efc30877",
+        "value": "Les besoins ' font éprouver de la peine s ' ils ne sont pas satisfaits .Cependant cette peine est moins grande que le plaisir que l ' on éprouve à voirie riche tableau de l ' univers et ses mille nuances , à respirer les odeurs suaves des fleurs et des parfums , à entendre la mélodie des sons et l ' expression de la pensée par la parole , à savourer enfin les saveurs les plus délicieuses .Il n ' est pas jusqu ' à la locomotion qui ne fasse éprouver ses besoins et ses plaisirs , non - seulement à l ' homme , mais même aux animaux .",
+        "words": [
+          "suaves",
+          "fleurs",
+          "parfums",
+          "odeurs",
+          "les plus délicieuses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d62ce29d-7f86-514b-bef2-a2c8645983ea",
+        "value": "Entre autres hypothèses est celle .qui rapportait à la figure de chaque espèce de sels la saveur des substances qui en étaient saturées .Mais l ' inconstance dans la figure de chaque espèce de sels , ne produit pas des variétés correspondantes dans là saveur , et celle - ci diffère pour des substances dont la cristallisation est la même .",
+        "words": [
+          "substances",
+          "sels",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d694bea9-bd3b-5a34-8701-447f5a7b6a1d",
+        "value": "— Quoique peu ^ active dans les cavités génito - urinaires , l ' absorption n ' y est pas moins démontrée .Dans une rétention d ' urine , ce liquide résorbé , imprime des qualités particu ) lières à tous les autres liquides , et la sueur elle - même prend une odeur urineuse .Des substances injectées dans la vessie jiont également transmis leurs qualités aux parties éloignées du corps ; n ' y eûtil sur les organes génitaux que l ' absorp « tlon d ' un virus trop connu , qu ' elle sufv firait pour établir son existence .",
+        "words": [
+          "odeur",
+          "sueur",
+          "urineuse",
+          "liquide",
+          "les autres liquides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d7547f99-0733-5e9e-9ed2-a93bf62bfbcc",
+        "value": "Ainsi l ' excitation de la luette agit sur le système nerveux cérébral par les nerfs cérébraux de la partie excitée , et le vomissement qui a lieu est sous l ' influence du même système au moyen des nerfs vagues .Ainsi l ' excitation des fosses nasales par le tabac ou tout autre sternutatoire agit sur le système nerveux cérébral par les olfactifs et par la cinquième pare , et les contractions des poumons etdesparois pectorales sontmisesen jeu par le pneumogastrique d ' une part , et par le diaphragmatique et les intercostaux d ' autre part , tous nerfs du système cérébral .— Dans les sympathies ganglionnaires , le système ganglionnaire seul est en action , soit dans l ' organe excité , soit dans l ' organe sympathisant .",
+        "words": [
+          "tabac",
+          "olfactifs",
+          "autre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/d8bd6c57-af02-5fc2-88d4-6fb63faa66bd",
+        "value": "Cons - tamment alors la vessie reste vide , quelle que ^ soit la quantité de liquide qu ' on ait fait avaler à l ' animal immédiatement avant ou après l ' apposition des ligatures .L ' urine ne cesse pas d ' être sécrétée pour cela ; mais elle est absorbée et va imprégner toute l ' économie pour donner à ses tissus et à la matière de la sueur et du vomissement l ' odeur et les autres quantités urincuses , en produisant une série de phénomènes auxquels les auteurs ont donné le nom de fièvre urineuse .Chirac seul a vu le contraire , ce qui porterait à croire que l ' opération avait été mal faite .",
+        "words": [
+          "odeur",
+          "urine",
+          "tissus",
+          "vomissement",
+          "quantités urincuses",
+          "matière de la sueur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/dc7f1daa-37d0-5ca8-8da1-31707c9dc673",
+        "value": "Cette impression est .elle désagréable , les mâchoires paraissent se refuser à la mastication , la membrane buccale n ' est pas abreuvée par les glandes salivaires , les exhalants et les follicules muqueux ; le pharynx se resserre , et l ' estomac se soulève contre 1 » substance présentée .- L ' homme a primitivement l ' organe du goût moins parfait , moins exquis que la plupart deî animaux .",
+        "words": [
+          "désagréable",
+          "follicules muqueux",
+          "exhalants",
+          "glandes salivaires",
+          "membrane buccale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/df2fc699-94ce-52fc-b92d-621e04a6bdd9",
+        "value": "En traversant rapidement ces cavités , il produit un bruit particulier qui diffère un peu dans l ' un et l ' autre cas .Lorsque l ' air sort par les narines , il entraîne les mucosités et ses corps étrangers qui y sont engagés , et a les débarrassant , il rend la respiration lus libre et l ' odorat plus facile ; lorsqu ' il st expulsé par la bouche , il n ' opère sur ÎS fosses nasales qu ' une action seconaire de secousse qui ne chasse rien de t e qui les gêne , mais qui n ' en est pas moins avantageuse en faisant détacher ¡ lus facilement les mucosités qui y sont ntassées , et en les disposant à être aiséacnt entraînées par un autre éternument .— A ce mécanisme de la respira : ion dans l ' éternument , se joignent des actes accessoires très - importants .",
+        "words": [
+          "odorat",
+          "narines",
+          "corps étrangers",
+          "mucosités",
+          "facile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/dff8ecd5-4c85-5343-abe8-cf4f0fad3dc3",
+        "value": "Le tatouage nous semble en donner une preuve convaincante : fois qu ' une matière coIorante a été déposée dans le tissu , elle lest immuable et indélébile .— On trouve dans quelques animaux des sécrétions Iqui sont étrangères à l ' homme .Quoiqu ' il ine soit pas de notre sujet de nous en ocicuper ici , nous croyons cependant deivoir avertir que la fonction est toujours la même , quel que soit le produit .",
+        "words": "sécrétions"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/e057fedb-fc78-5dd5-aaa3-5a2fbe33ca8e",
+        "value": "Nous pouvons dire la même chose de l ' ouïe .Quant au goût et à l ' odorat , il est plus facile de s ' assurer que l ' enfant jouit de suite de l ' usage de ces deux sens .Son intelligence paraît nulle encore , parce qu ' il n ' a aucune connaissance .",
+        "words": [
+          "odorat",
+          "enfant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/e0955c9b-8338-50a6-8188-e403d3da5560",
+        "value": "— De quelque vaisseau que le sang soit retiré , il est d ' un rouge plus ou moins foncé , et il répand une odeur sui generis , aura sangiunis , qui est propre à chaque ani - mal et que M .Barruel a trouvée semblable à l ' odeur de la sueur ; c ' est une émanation et non un gaz , comme Rosa et Moscati l ' avaient prétendu .D ' abord liquide , le sang se coagule plus ou moins vite en une masse homogène et mollasse , tjui se partage bientôt en une partie toutà - fait liquide , plus ou moins limpide et citrine y c ' est le sérum : et en une masse presque solide , rouge , spongieuse et d ' une forme variable : c ' est le caillot .",
+        "words": [
+          "odeur",
+          "sueur",
+          "Barruel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/e2f1f1df-4d20-56d9-8911-cbeefb7f1b5f",
+        "value": "Aucune expérience ne peut venir nous éclairer .Mais si nous jugeons par analogie , nous penserons que ce mé - , lange des matériaux chylifères avec un liquide exhalé doit avoir lieu , parce que l ' aliment n ' éprouve ses changements successifs qu ' à mesure qu ' il se combine avec de nouveaux liquides .L ' analogie est complète .",
+        "words": [
+          "liquide",
+          "exhalé",
+          "matériaux chylifères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/e4da5cd2-1adc-5667-988d-563e8f5f4cf6",
+        "value": "De plus , quelques soustractions musculaires impriment à l ' orifice des narines un mouvement de dilatation et de resserrement bien sensible .Enfin , le passage de l ' air qui lui oppose les corpuscules odorants est déterminé par la respiration .— Nous retrouvons la même association dans l ' organe du goût : sécrétion des mucosités buccales et pharyngiennes , participation à la sensation générale , mouvement de la langue , du voile du palais et du pharynx , enfin coopération des organes qui lui apportent les corps sapides .",
+        "words": [
+          "air",
+          "odorants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/eacacb3a-4d0f-588e-9937-6ed47a95d74b",
+        "value": "moyen de l ' air inspiré .La connaissance du renouvellement de l ' air dans les sinus , ne permet pas d ' admettre que ces cavités retiennent les odeurs et en prolongent l ' impression .D ' ailleurs les sinus sont nuls dans le .",
+        "words": [
+          "odeurs",
+          "cavités"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ebd9f09a-f0b4-570e-996a-dc4945fca325",
+        "value": "lations sympathiques de cette membrane .- L ' inspiration est une condition indispensable pour que les odeurs affectent la membrane olfactive .L ' incision de la trachée - artère interrompt l ' exercice du sens de l ' odorat , ainsi que Ferrant , Lower el Chaussier s ' en sont assurés .",
+        "words": [
+          "odeurs",
+          "olfactive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ed0d6b1f-f7fb-5b57-a784-1e1e90df6317",
+        "value": "A ce mode d ' exhalation appartient celle du corpf yitré , qui est composé d ' un véritable tissu cellulaire ou lamineur , et d ' une humeur albumineuse , transparente et analogue à la synovie .3 ° Exhalation des membranes muqueuses .- A la surface librie des membranes muqueuses sont versées deux sortes de fluides , la sérosité et la mucosité .",
+        "words": [
+          "membranes muqueuses",
+          "Exhalation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/eda98f82-7c2c-5cad-ad91-7718f1522eb5",
+        "value": "On a rappelé la destination de la cin - i quième paire à fournir tous les nerfs desorganes des sens dans les animaux inférieurs .On a rappelé les trois observations de Méry , relatives à la conserva tion de l ' odorat malgré l ' état calleux du nerf o ! - I factif .— M .",
+        "words": [
+          "odorat",
+          "Méry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ee2c56c7-9361-5071-b373-e5f68cf50780",
+        "value": "Quoiqu ' il ine soit pas de notre sujet de nous en ocicuper ici , nous croyons cependant deivoir avertir que la fonction est toujours la même , quel que soit le produit .Les hui ! es , les matières odorantes et colo ' rantes , les fluides textiles , lés poisons , lies gaz eux - mêmes , tous ces principes sont sécrétés de la même manière et reconnaissent ces mêmes lois .La production de l ' électricité et de la lumière dans ' certains animaux est encore soumise à ces lois .",
+        "words": [
+          "matières",
+          "odorantes",
+          "hui",
+          "rantes",
+          "colo",
+          "fluides textiles",
+          "lies gaz",
+          "lés poisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/f2fc4812-285e-5048-95e2-1bb0da690521",
+        "value": "Aussi , lui , fut - il impossible de rien voir de ce qu ' on fit faire ensuite à la même personne qu ' elle venait de si bien voir .Il est encore vrai de dire que l ' odorat peut quelquerois suppléer la vue et faire annoncer la présence d ' une personne qu ' on ne voit réellement pas ; de la même manière qu ' un chien sent et reconnaît son maître sans le voir .C ' est ainsi que certains somnambules ont pu déciarer à qui appartenaient des vêtements ou d ' autres objets qui leur * étaient présentes , parce qu ' à l ' odeur ils avaient reconnu les émanations de la personne , comme ils auraient pu à la vue en reconnaître la forme .",
+        "words": [
+          "odorat",
+          "chien"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/f5325178-216b-5d9c-b534-a9eafa84afc7",
+        "value": "— L ' exercice peut lui faire acquérir une grande perfection , comme le prouve ' exemple des parfumeurs .L abus des substances fortement odorantes , du tajac , par exemple , finit à la longue par ; létruire sa finesse .Celle - ci devient plus i rande par la perte de la vue ou de i ' ouïe , pourvu que cette infirmité tienne ■ ■ i des conditions locales .",
+        "words": [
+          "odorantes",
+          "substances",
+          "fortement odorantes",
+          "tajac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/f57baf33-9fc3-5606-899c-4964cad5be90",
+        "value": "Jusque - là ce n ' est qu ' un a t incontestable ; mais lorsqu ' on veut ) énétrer daps l ' intimité de ce qui se passe le molécule à molécule , là commence ' obscurité , et naissent les difficultés sans nombre , qui , en couvrant ce phénomène ' l ' un voile mystérieux , ont ouvert une • bro carrière à l ' imagination et ont fait enfanter toutes les hypothèses .On conçoit que la composition de l ' air ayant elle - mème donné des résultats différents aux analyses chimiques , il ait été facile de s ' égarer , lorsqu ' il a fallu apprécier les éléments qu ' il cédait et ceux qu ' il acquérait , lorsque la variation qu ' ils présentent ne permet pas d ' être d ' accord à leur égard , lorsque surtout on ne sait pas même encore s ' il y a ou non de l ' azote absorbé ou exhalé , puisque MM .Despretz , Humboldt et Provençal pensent qu ' il s ' en exhale toujours , tandis que M .",
+        "words": [
+          "air",
+          "exhalé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/f6753401-88e6-5d1a-afd7-c2d4dbe04d03",
+        "value": "L ' absorption des fluides gazeux ou vaporeux n ' est pas plus douteuse .En respirant pendant quelques instants l ' odeur de la térébenthine , du camphre , de l ' encens , les urines prennent l ' odeur de la violette .En respirant les vapeurs opiacées , on produit le calme de douleurs éloignées et souvent le narcotisme .",
+        "words": [
+          "odeur",
+          "violette",
+          "encens",
+          "camphre",
+          "térébenthine",
+          "urines",
+          "pendant",
+          "pendant quelques instants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/fbead3c8-fe71-5ad6-9c89-090514f3345a",
+        "value": "Elle n ' existe réellement qu ' à leur surface , et ce qui le prouve , c ' est que la partie centrale en est presque entièrement dépourvue .Nous connaissons des personnes qui ont habituellement à l ' anus un suintement muqueux qui répand la même odeur .Nous pouvons comparer ce mucus particulier à celui que sécrètent le musc , la civette , ; la fouine ; c ' est bien à lui , chez ces anil maux , qu ' est due l ' odeur des excréments .",
+        "words": [
+          "odeur",
+          "personnes",
+          "Nous",
+          "suintement muqueux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/fed9e6bd-6044-5e2b-9ade-94c660146de5",
+        "value": "On sent combien sa quantité plus ou moins considérable devra les faire varier , en rendant la digestion plus ou moins prompte , la chymification plus ou moins complète , et l ' absorption plus ou moins grande .Qui ne connaît la qualité que prennent les fèces chez les personnes qui , ayant une maladie du foie , ne fournissent plus une quantité suffisante de bile ? Assez or / linairement cette évacuation est accompagnée de la sortie plus ou moins bruyante d ' une quantité indéterminée de gaz , tantôt inodore , tantôt et le plus souvent caractérisé par l ' odeur du gaz acide hydro - sulfurique .Quelquefois ce gaz s ' est dégagé des matières pendant leur séjour dans l ' intestin .",
+        "words": [
+          "odeur",
+          "gaz acide hydro - sulfurique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/ff65301c-dee8-5ac6-b869-9f3a62fb91d2",
+        "value": "souvent mise à profit pour ranimer l ' action des centres de vitalité ; elle paraît plutôt que l ' absorption avoir suppléé aux effets réparateurs d ' une nourriture solide pour cet homme qui , suivant Bacon , .vivait trois , quatre et cinq jours sans aliments , ni boissons , au moyen d ' un mélange d ' herbes dont il sentait l ' odeur et auquel il ajoutait de l ' ail , des oignons et autres substances fortement odorantes .Considérations générales sur les sens .",
+        "words": [
+          "odeur",
+          "odorantes",
+          "fortement",
+          "herbes",
+          "substances",
+          "ail",
+          "oignons",
+          "mélange"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/34065ec5-b313-526f-b235-bfa3a1adb0ef",
+        "label": "Fouilhoux"
+      }
+    ],
+    "label": "Encyclopédie des sciences médicales. t. 5, Physiologie / par MM. Brachet et Fouilhoux,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9714039w",
+    "date": "1835",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3de202d3-ecc6-5d20-9780-e947cc266e2c",
+      "label": "1835",
+      "begin": "1835",
+      "end": "1835"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/8f6564ff-fc51-5e27-926c-a98c64857f5c/fragment/79fc381b-d11c-5c05-8017-35b05755ec8a",
+  "license": "Public domain",
+  "adjective": "inaperçues"
+}

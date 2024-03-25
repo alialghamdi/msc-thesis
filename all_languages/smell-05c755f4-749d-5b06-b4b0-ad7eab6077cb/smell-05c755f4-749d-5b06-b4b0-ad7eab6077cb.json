@@ -1,0 +1,47 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/05c755f4-749d-5b06-b4b0-ad7eab6077cb",
+  "@graph": "http://data.odeuropa.eu/ecco",
+  "label": "smell",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6bb6e55d-62bf-585e-b866-82510ef314dd",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6bb6e55d-62bf-585e-b866-82510ef314dd/fragment/db642ed2-9060-5909-8492-e58f25045720",
+        "value": "We may dismiss from the question all accounts in which , allowing the pheno ∣ menon to be real , the fact to be true , it still remains doubtful whether a miracle were wrought .This is the case with the ancient history of what is called the thundering legion , of the extraordinary circumstances which obstructed the rebuilding of the tem ∣ ple at Jerusalem by Julian , the circling of the flames and fragrant smell at the martyr ∣ dom of Polycarp , the sudden shower that extinguished the fire into which the scriptures were thrown in the Diocletian persecution ; Constantine ' s dream , his inscribing in con ∣ sequence of it the cross upon his standard and the shields of his soldiers ; his victory , and the escape of the standard bearer ; per ∣ haps also the imagined appearance of the cross in the heavens , though this last cir ∣ cumstance is very deficient in historical evi ∣ dence .It is also the case with the modern annual exhibition of the liquefaction of the blood of St .",
+        "words": [
+          "fragrant",
+          "smell",
+          "at",
+          "at Jerusalem",
+          "dom of Polycarp"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/a01405df-9d67-5b13-9c0e-f4282e86fa8f",
+        "label": "William Paley"
+      }
+    ],
+    "label": "A view of the evidences of Christianity: In three parts. ... By William Paley, ... [pt.1]",
+    "date": "18XX",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c3568c6e-3e49-583c-945a-76f6a17a65d5",
+      "label": "18XX",
+      "begin": "1801",
+      "end": "1899"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6bb6e55d-62bf-585e-b866-82510ef314dd/fragment/db642ed2-9060-5909-8492-e58f25045720",
+  "adjective": "fragrant"
+}

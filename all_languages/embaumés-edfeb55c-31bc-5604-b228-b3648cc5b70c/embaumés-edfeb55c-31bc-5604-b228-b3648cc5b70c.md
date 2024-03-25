@@ -1,0 +1,650 @@
+## embaumés
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/edfeb55c-31bc-5604-b228-b3648cc5b70c |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | embaumés |
+| source.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/03382847-bb89-5590-a900-472e199fa2ba |
+| source.excerpts.0.value | Le classement des vermouths est également assez difficile .Ce genre de boisson est fait avec des vins blancs du Midi préparés avec des cépages choisis afin d ’ obtenir des vins clairs et limpides très - liquoreux , et dans lesquels on fait entrer une légère infusion de camomille .Il résulte de cette composition que les vermouths devront varier selon la qualité du vin employé , qualité variable chaque année selon les récoltes et selon les crûs . |
+| source.excerpts.0.words.0 | camomille |
+| source.excerpts.0.words.1 | liquoreux |
+| source.excerpts.0.words.2 | vins blancs du |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/04e0b8df-6825-56e1-940e-5d5234a5bde8 |
+| source.excerpts.1.value | Mais on sait que les insectes en général , et les lépidoptères en particulier , sont d ’ une conservation très - difficile .Si les ailes , c ’ est - à - dire la partie ordinairement la plus brillante du papillon , résistent assez longtemps aux morsures des mites et des anthrènes , son corps devient bientôt l ' objet de leurs attaques , et les soins les plus minutieux , les odeurs les plus pénétrantes ne suffisent pas toujours pour le défendre .Enfin , les écailles des ailes , cette fine poussière qui leur donne leurs teintes variées , tombe trop facilement sous le moindre contact . |
+| source.excerpts.1.words.0 | odeurs |
+| source.excerpts.1.words.1 | les plus pénétrantes |
+| source.excerpts.1.words.2 | mites |
+| source.excerpts.1.words.3 | anthrènes |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/0781c881-ee7e-5d9f-a388-7508f3faea9a |
+| source.excerpts.2.value | Ainsi les huiles brunes du commerce , toujours très - acides et chargées de phocénine , produisent une sensation de pesanteur à l ’ épigastre , des nausées quelquefois suivies de vomissements , surtout pendant les premiers jours de leur emploi .Si elles ne sont pas rejetées , les malades se plaignent d ’ en conserver la saveur pendant une partie de la journée , ils disent qu ’ elles reviennent .Ce sont ces inconvénients , réunis à ceux de l ’ odeur et de la saveur , qui déterminent les refus que font un grand nombre de personnes d ’ en continuer l ’ usage . |
+| source.excerpts.2.words.0 | malades |
+| source.excerpts.2.words.1 | saveur |
+| source.excerpts.2.words.2 | pendant une partie de la journée |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/0adb750a-48c0-5766-ae33-cad6ea40e3d8 |
+| source.excerpts.3.value | Racine met dans la bouche d ’ Athalie , qui était reine de Juda en l ’ an du monde 3120 , lorsqu ’ elle raconte le songe dans lequel elle a vu sa mère Jézabel , femme d ’ Àchab , dévorée par des chiens dans le champ de Naboth de Jesrahel , selon la prédiction du prophète Elie , ces vers , traduits du passage de l ’ histoire biblique : Même elle avait encor cet éclat emprunté Dont elle eut soin de peindre et d ’ orner son visage Pour réparer des ans l ’ irréparable outrage .Les Juifs en faisaient un très - grand usage : l ’ Evangile nous apprend que Jésus étant en Béthanie , chez Simon le Lépreux , une femme vint à lui avec un vase d ’ albâtre plein d ’ une huile de parfum d ’ un grand prix , qu ’ elle lui répandit sur la tête lorsqu ’ il était à table .On s ’ en servait également pour embaumer les morts . |
+| source.excerpts.3.words.0 | huile |
+| source.excerpts.3.words.1 | Béthanie |
+| source.excerpts.3.words.2 | parfum |
+| source.excerpts.3.words.3 | vase |
+| source.excerpts.3.words.4 | femme |
+| source.excerpts.3.words.5 | Juifs |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/0d64c4a1-8e9a-5de9-a1b2-c98fbe0cd009 |
+| source.excerpts.4.value | En traversant les différentes pièces où s ’ opèrent les manipulations , on ne sent qu ’ une faible odeur indiquant seulement la nature des matières employée , mais sans aucune émanation putride ou dangereuse .Au pourtour de l ’ établissement l ’ odeur est nulle , et l ’ on ne soupçonnerait point , en s ' en approchant , le genre d ’ industrie auquel il est consacré .Ce rapport pourrait s ’ étendre davantage sur cette maison , donner notamment quelques détails sur une fabrication de noir animal jointe à celle des engrais , et dont les débris sont heureusement utilisés pour la préparation de ceux - ci ; mais ce qui précède suffira pour motiver le vote du Jury qui , tenant compte à la fois : de la bonne qualité des produits , attestée par de nombreux témoignages ; — du caractère exceptionnel et de la supériorité du procédé de préparation en usage , procédé réalisant un grand progrès dans la préparation de ces produits ; — de l ’ importance de la fabrication et des améliorations qu ’ elle a introduites dans une opération jusqu ’ à présent trop abandonnée à la routine , et transformée par l ’ exposant en une industrie rationnelle et progressive ; — des bonnes conditions d ’ hygiène observées dans l ’ établissement ; — et tenant d ’ ailleurs à encourager dans cette voie une fabrication à laquelle se rattachent les intérêts agricoles de notre région , accorde à M . |
+| source.excerpts.4.words.0 | odeur |
+| source.excerpts.4.words.1 | nulle |
+| source.excerpts.4.words.2 | établissement |
+| source.excerpts.4.words.3 | pourtour |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/13bb2a63-eb0d-5867-a3a4-2b2f749d263a |
+| source.excerpts.5.value | Leur chartreuse n ’ est pas , à proprement parler , une imitation de la vraie chartreuse jaune , mais un mélange de la verte et de la jaune .Le génépy et l ’ ambroisie ont leur arôme un peu diffus .Toutefois l ’ ensemble de cette exposition est bon , et le Jury accorde à MM . |
+| source.excerpts.5.words.0 | leur |
+| source.excerpts.5.words.1 | ambroisie |
+| source.excerpts.5.words.2 | génépy |
+| source.excerpts.5.words.3 | arôme |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/1949ce5b-6e59-5e1e-a1d6-afd68a081446 |
+| source.excerpts.6.value | Sa pâte est fine , non filante , et sa fusion sur la peau s ’ opère uniformément .Les extraits doubles pour mouchoir sont des produits de qualité très - supérieure ; l ’ eau de Nice rivale de l ’ eau de Cologne , est limpide , bien aromatisée , et offre une combinaison parfaite de ses divers éléments .La maison Bermond est une des plus anciennes et des plus estimées de Nice pour la distillation des parfums ; elle existe depuis 1820 , et occupe huit à dix ouvriers . |
+| source.excerpts.6.words.0 | aromatisée |
+| source.excerpts.6.words.1 | eau de Nice |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/1b522451-e32b-5e51-b4d8-84e2566722b4 |
+| source.excerpts.7.value | — Fondée depuis plus de vingt ans , la maison Bernadat fournit à Toulouse , et dans un rayon assez étendu autour de cette grande ville , à la consommation des conserves alimentaires , qui sont de plus en plus recherchées .Ses produits sont estimés , surtout en raison de la propriété qu ’ ils possèdent de conserver à un haut degré la saveur et le fumet ou le parfum particulier à chaque substance alimentaire , lorsqu ’ elle est à l ’ état frais .Mme Bernadat a exposé , cette année , des fruits , des légumes , des champignons , des truffes conservées . |
+| source.excerpts.7.words.0 | parfum |
+| source.excerpts.7.words.1 | substance alimentaire |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/1cd924a1-fb58-53a5-b579-049248985fec |
+| source.excerpts.8.value | Le sumac de Malaga a une odeur forte ; ses feuilles sont bien triturées ; sa poudre est fine , mais chargée de bûchettes contenant souvent des semences de la plante .Le sumac de Porto a une odeur encore plus forte .Sa poudre est plus grossière et chargée de sable . |
+| source.excerpts.8.words.0 | odeur |
+| source.excerpts.8.words.1 | encore plus forte |
+| source.excerpts.8.words.2 | sumac de |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/24430b6e-6211-52e5-a970-f42130389d74 |
+| source.excerpts.9.value | La liqueur dite chartreuse n ’ est pas mauvaise , mais n ’ a pas la valeur du modèle .La liqueur des Oasis en diffère un peu : c ’ est une liqueur à bouquet diffus , mais où l ’ on sent bien la présence des principes propres aux labiées , aux ombellifères , associés à d ’ autres arômes ; les bouquets de fond et montant ne sont pas parfaitement fondus .La liqueur de l ’ Ile de Wigth est dans le même cas . |
+| source.excerpts.9.words.0 | labiées |
+| source.excerpts.9.words.1 | arômes |
+| source.excerpts.9.words.2 | ombellifères |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/25222be0-fe7d-5de0-920c-9f4f8e11403a |
+| source.excerpts.10.value | Il serait trop long de faire ici la nomenclature de l ’ innombrable quantité de parfums et des produits si variés de la parfumerie que créent la mode , le luxe ou les goûts des consommateurs .Dans ces différentes préparations , il faut considérer , 1 ° s ’ il s ’ agit de pommade , le mode de confection de celle - ci , sa finesse , sa pureté et la durée de sa conservation ; 2 ° la nature du parfum employé , et la pureté de l ’ arome ; 3 ° la propriété médicamenteuse pour les articles que l ’ on annonce doués de propriétés médicinales ; 4 ° la forme du contenant , le goût apporté à l ’ enveloppe de certains produits , contribuant toujours beaucoup à leurs succès .C ’ est en se laissant guider par ces bases que le Jury a procédé à l ’ examen des différents produits qui lui ont été soumis par divers exposants , dont le nombre s ’ élève à neuf . |
+| source.excerpts.10.words.0 | parfum |
+| source.excerpts.10.words.1 | produits |
+| source.excerpts.10.words.2 | articles |
+| source.excerpts.10.words.3 | arome |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/25fa182a-c5a4-59ab-b463-48b5529ec0c1 |
+| source.excerpts.11.value | « Signé : Alby .» Le deuxième échantillon , désigné sous le nom d ’ essence castraise à dégraisser , est un liquide légèrement ambré , très - alcalin , qui rappelle par son odeur la liqueur des Savonniers .11 pèse 5 degrés au pèse - sel et fait effervescence avec les acides . |
+| source.excerpts.11.words.0 | odeur |
+| source.excerpts.11.words.1 | liqueur |
+| source.excerpts.11.words.2 | liquide |
+| source.excerpts.11.words.3 | essence castraise à |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/28b849cc-ae7f-54d4-bf49-1512cfa63616 |
+| source.excerpts.12.value | Toutefois M .Espert pourrait mieux choisir pour son parfum que celui ( b ? la lavande , qui domine .En ce qui concerne les propriétés médicameiVeuses attribuées à cette eau , elles sont celles des autres préparations de ce genre , et le Jury doute qu ’ elle puisse scientifiquement les justifier , malgré les certificats nombreux et signés des noms les plus recommandables qui l ’ accompagnent . |
+| source.excerpts.12.words.0 | parfum |
+| source.excerpts.12.words.1 | lavande |
+| source.excerpts.12.words.2 | Espert |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/29519f8e-775d-5d49-b57a-7f0656e61f32 |
+| source.excerpts.13.value | Or , la décroissance considérable des produits de la pêche de Terre - Neuve et d ’ Islande , la rareté des morues qui augmente d ’ année en année amènent les matelots à faire de l ’ huile de toute espèce , et pour eux les dauphins , les cétacés et les phoques sont d ’ une grande ressource .De là la quantité considérable de phocénine , substance âcre et irritante qui se trouve dans les huiles de Terre - Neuve et d ’ Islande .Plus une substance est recherchée , plus elle devient sujette à l ’ adultération : l ' huile de foie de morue ne pouvait donc échapper à cet art coupable ( i ) . |
+| source.excerpts.13.words.0 | âcre |
+| source.excerpts.13.words.1 | irritante |
+| source.excerpts.13.words.2 | substance |
+| source.excerpts.13.words.3 | phocénine |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/29acf185-88e5-5f70-bdcc-510089c56f5f |
+| source.excerpts.14.value | Faute de connaître un produit meilleur e l mieux préparé , médecins et malades crurent que tel devait être l ’ état naturel de l ’ huile de morue , et beaucoup de personnes ne sont pas encore désabusées .Quelques armateurs , pour obtenir une huile moins foncée en couleur et surtout d ' une odeur moins repoussante , installèrent une chaudière à bord de leurs navires et firent préparer l ’ huile par ébullition directe avec les foies frais .Ce fut un premier progrès ; toutefois , on ne peut éviter par ce procédé la coloration brune , ni l ’ acidification de l ’ huile ; car la chaleur vive cause l ’ oxydation de la gaduine et l ’ acidification du soufre et du phosphore . |
+| source.excerpts.14.words.0 | huile |
+| source.excerpts.14.words.1 | odeur |
+| source.excerpts.14.words.2 | moins repoussante |
+| source.excerpts.14.words.3 | armateurs |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/2b0094e1-202c-5854-94ca-cce48b32a51f |
+| source.excerpts.15.value | Un autre point à signaler dans cette fabrique , ce sont les excellentes dispositions prises pour supprimer toutes les causes d ’ insalubrité .En traversant les différentes pièces où s ’ opèrent les manipulations , on ne sent qu ’ une faible odeur indiquant seulement la nature des matières employée , mais sans aucune émanation putride ou dangereuse .Au pourtour de l ’ établissement l ’ odeur est nulle , et l ’ on ne soupçonnerait point , en s ' en approchant , le genre d ’ industrie auquel il est consacré . |
+| source.excerpts.15.words.0 | faible |
+| source.excerpts.15.words.1 | odeur |
+| source.excerpts.15.words.2 | matières |
+| source.excerpts.15.words.3 | putride |
+| source.excerpts.15.words.4 | dangereuse |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/2c5cc24b-9861-570c-9255-eb3d25b93326 |
+| source.excerpts.16.value | — Lorsqu ’ on mélange une petite quantité d ’ un sel d ’ aniline sur de la porcelaine avec quelques gouttes d ’ acide sulfurique concentré , puis avec une goutte d ’ une solution de chromate de potasse , on voit apparaître au bout de quelques minutes une belle couleur bleue qui disparaît bientôt après .Les combinaisons de l ’ aniline avec les acides sont généralement incolores ; toutefois elles rougissent à l ’ air , surtout quand elles sont humides , et prennent alors une légère odeur .Tel était , en 1856 , l ’ état de nos connaissances touchant le développement des couleurs au moyen de l ’ aniline , et il n ’ est pas inutile do faire remarquer qu ’ en signalant comme on l ’ a fait Yinstabilité des couleurs produites , on écartait naturellement toute idée de les appliquer . |
+| source.excerpts.16.words.0 | odeur |
+| source.excerpts.16.words.1 | elles |
+| source.excerpts.16.words.2 | légère |
+| source.excerpts.16.words.3 | aniline |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/30504b8c-d2cc-52c7-9c2a-28ced7a06332 |
+| source.excerpts.17.value | La peinture préparée avec cette substance pure doit donc être vendue à moitié de son prix actuel et proportionnellement suivant la quantité que l ’ on mélange à la céruse : ce qui , ainsi que nous l ’ avons dit plus haut , est toujours très - facile à déterminer .Les couleurs au blanc de baryte sont très - solides ; comme celles à base de céruse , elles ne prennent pas un aspect grisâtre en vieillissant ; elles sont inattaquables par les émanations qui affectent les sels de plomb ; elles résistent aux chaleurs excessives de l ’ été et restent toujours parfaitement blanches ; elles sont enfin dans leur emploi complètement inoffensives pour la santé des ouvriers .A ces divers titres , le Jury accorde à M . |
+| source.excerpts.17.words.0 | elles |
+| source.excerpts.17.words.1 | émanations |
+| source.excerpts.17.words.2 | sels de |
+| source.excerpts.17.words.3 | blanc de baryte |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/30c976f2-2c59-5c11-995d-cf9458ba67d9 |
+| source.excerpts.18.value | Grenoble coud généralement à la main en soie floche : aussi la solidité de la couture est - elle plus grande que celle de Paris où on coud à la mécanique et en soie torse , qui se lâche plus vite à la moindre rupture .Cette fabrique fournit aussi au commerce les gants dits de Suède , mais sans odeur .Ce sont des agneaux dont l ’ épiderme est en dedans et dont le dehors est chamoisë . |
+| source.excerpts.18.words.0 | odeur |
+| source.excerpts.18.words.1 | gants dits de Suède |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/3314d805-bef9-5784-a65a-dce3a0875362 |
+| source.excerpts.19.value | Les articles divers qui rentrent dans la parfumerie sont les cosmétiques , les essences , les poudres dentifrices et à poudrer , les savons parfumés , les pommades , les eaux - de - vie aromatisées et autres eaux de toilette , l ’ eau de Cologne , les eaux dentifrices , les huiles antiques , aromatiques et essentielles , les pastilles à parfum , les vinaigres parfumés , les fards , les teintures pour les cheveux et la barbe , et autres composés divers .L ’ usage des parfums et des cosmétiques remonte à la plus haute antiquité .Racine met dans la bouche d ’ Athalie , qui était reine de Juda en l ’ an du monde 3120 , lorsqu ’ elle raconte le songe dans lequel elle a vu sa mère Jézabel , femme d ’ Àchab , dévorée par des chiens dans le champ de Naboth de Jesrahel , selon la prédiction du prophète Elie , ces vers , traduits du passage de l ’ histoire biblique : Même elle avait encor cet éclat emprunté Dont elle eut soin de peindre et d ’ orner son visage Pour réparer des ans l ’ irréparable outrage . |
+| source.excerpts.19.words.0 | parfums |
+| source.excerpts.19.words.1 | cosmétiques |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/3675523d-fcd5-5c8a-aaa9-b6ce471b87cf |
+| source.excerpts.20.value | Tous ces vins ont paru avoir des qualités remarquables qui permettent de les considérer comme d ’ excellents vins d ’ ordinaire ; ils ont une couleur très - riche , une limpidité parfaite , et sont très - francs de goût .Ceux qui ont vieilli pendant trois ou quatre ans possèdent un bouquet agréable .Les vins les plus vieux ressemblent , sous le rapport du goût et de l ’ odeur , à ceux de Rivesaltes . |
+| source.excerpts.20.words.0 | agréable |
+| source.excerpts.20.words.1 | bouquet |
+| source.excerpts.20.words.2 | pendant trois |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/43793129-5821-519e-badf-69d55a06d373 |
+| source.excerpts.21.value | C ’ est ce qui arriva , en effet , puisque les allumettes sont restées telles jusqu ’ ici et constituèrent les allumettes chimiques allemandes .On y apporta également des perfectionnements importants , en évitant d ' abord toute explosion , puis en sup - primant le soufre pour faire disparaître l ’ odeur désagréable de l ' acide sulfureux , et le remplaçant par l ’ acide stéarique .Cependant il y avait encore bien dos inconvénients dans les procédés de fabrication . |
+| source.excerpts.21.words.0 | désagréable |
+| source.excerpts.21.words.1 | odeur |
+| source.excerpts.21.words.2 | acide |
+| source.excerpts.21.words.3 | acide sulfureux |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/45dbf1c3-12aa-537b-bfd8-ab7a6fa12f1d |
+| source.excerpts.22.value | Despax , qu ’ une faible odeur de purin .Celte faiblesse d ’ odeur , au reste , s ’ observe dans tout l ' établissement .Les mélanges auxquels la matière a été soumise opèrent , sous ce rapport , de la manière la plus efficace , et le Jury se fait un devoir de signaler le fait comme la réalisation d ’ un progrès sensible sur les anciennes méthodes . |
+| source.excerpts.22.words.0 | odeur |
+| source.excerpts.22.words.1 | établissement |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/4605f155-e73d-5e62-8a52-40d0c0ddd070 |
+| source.excerpts.23.value | Cette notice , évidemment faite par un médecin , n ’ étant qu ’ un résumé général des maladies de la peau , il en faudrait conclure que l ' Espertine est efficace pour guérir toutes les affections du système dermoïde , — ce qui est beaucoup .Quoi qu ’ il en soit , le Jury ayant examiné avec soin les divers objets qui lui ont été soumis par l ’ exposant , a constaté , quant à la pommade , que sa pâte laisse un peu à désirer , que sa fusion sur la peau est un peu filante , que son parfum est trop mat .M . |
+| source.excerpts.23.words.0 | parfum |
+| source.excerpts.23.words.1 | Jury |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/47698395-4e2a-52cb-bda1-6776b32fc054 |
+| source.excerpts.24.value | M .Reynis a également exposé des limonades gazeuses qui sont bonnes , mais qui ne semblent ni assez aromatisées ni assez sucrées .Mcnlion honorable . |
+| source.excerpts.24.words.0 | aromatisées |
+| source.excerpts.24.words.1 | limonades |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/4841eb12-828b-5ef6-941c-a8f6c2ec189f |
+| source.excerpts.25.value | La charge de gaz d ’ acide carbonique est telle , que le verre haut à cause de cela ne s ’ emplit guère que de mousse .En buvant ce liquide clair et limpide comme l ’ eau la plus pure , on croit boire de l ’ eau légèrement sucrée et faiblement relevée par un arôme agréable ; mais au bout de quelques instants , la présence du gingembre se révèle progressivement par une sensation qui a une grande analogie avec celles que produisent la menthe , le camphre et autres stimulants diffusibles sur la muqueuse de la bouche et de l ’ estomac , et de laquelle résulte un bien - être général , marqué surtout quand on fait usage pendant les grandes chaleurs de cette boisson salutaire qui apaise immédiatement la soif .Trop négligé de nos jours , l ’ usage du gingembre peut rendre dans une foule de cas d ’ importants services . |
+| source.excerpts.25.words.0 | agréable |
+| source.excerpts.25.words.1 | camphre |
+| source.excerpts.25.words.2 | menthe |
+| source.excerpts.25.words.3 | eau |
+| source.excerpts.25.words.4 | boisson |
+| source.excerpts.25.words.5 | arôme |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/4d65bc4d-dca2-5eea-8be7-7a945a73db81 |
+| source.excerpts.26.value | Le büter , comparé au véritable bitter , est amer , mais amer à la manière de la gentiane , c ' est - à - dire amer douceâtre ou mat ; il laisse la bouche un peu sèche , et le composé drastique qu ’ il contient laisse une certaine acreté à l ’ arrière - bouche .Les nombreux dégustateurs de la liqueur des Peaux - Rouges trouvent fort son bouquet de fond ; et son arôme montant ressemble trop à une huile essentielle d ’ ombellifère à un degré avancé d ’ oxigénation , c ’ est - à - dire rancie .Ces défauts , qui , s ’ ils n ’ existaient pas , classeraient la liqueur do MM . |
+| source.excerpts.26.words.0 | huile |
+| source.excerpts.26.words.1 | liqueur |
+| source.excerpts.26.words.2 | huile essentielle |
+| source.excerpts.26.words.3 | arôme |
+| source.excerpts.26.words.4 | ombellifère |
+| source.excerpts.26.words.5 | nombreux dégustateurs |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/4ead8c2a-5bae-5399-ae90-585692888f6a |
+| source.excerpts.27.value | Grasse et Paris sont les deux villes de France qui font le plus de commerce en parfumerie .Grasse , par la douceur de son climat , est le sol natal des plantes aromatiques ; la plupart d ’ entr ’ elles y croissent avec tant d ' abondance que quelques - unes n ’ ont pas besoin de culture .Celles qui y sont cultivées , sont le jasmin , la rose , la violette , la tubéreuse et la jonquille . |
+| source.excerpts.27.words.0 | Grasse |
+| source.excerpts.27.words.1 | plantes |
+| source.excerpts.27.words.2 | aromatiques |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/51fb7ec2-01ba-569b-a5b9-514f89104744 |
+| source.excerpts.28.value | Cette sorte est en poudre plus ou moins fine , bien tamisée , douce au toucher , d ’ un beau vert tendre velouté et tirant sur le jaune .Son odeur est agréable et assez pénétrante .Il est employé plus particulièrement pour la maroquinerie , bien que les teinturiers en fassent aussi usage . |
+| source.excerpts.28.words.0 | agréable |
+| source.excerpts.28.words.1 | assez |
+| source.excerpts.28.words.2 | odeur |
+| source.excerpts.28.words.3 | Son |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/5244d1f5-a67c-5383-884f-7e14478d2d87 |
+| source.excerpts.29.value | Le Jury a vu fonctionner cette machine au moulin du Château , où trois de ces appareils sont placés , et a pu se convaincre qu ’ elle amenait au dernier degré de pureté le blé le plus souillé de terre ou le plus charbonné .L ’ action épurative est si énergique , si radicale , que non - seulement on peut constater au microscope l ’ entière disparition de toute moisissure et de toute végétation cryptogamique , mais que la mauvaise odeur môme est enlevée .On peut dire que la machine de M . |
+| source.excerpts.29.words.0 | mauvaise |
+| source.excerpts.29.words.1 | odeur |
+| source.excerpts.29.words.2 | moisissure |
+| source.excerpts.29.words.3 | végétation cryptogamique |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/5596799e-1a28-5fc2-aaab-cbf6757c76b4 |
+| source.excerpts.30.value | On obtient , après ces opérations , une substance suffisamment homogène et ne répandant , ainsi qu ’ a pu le constater le Jury qui s ’ est transporté à l ' usine de M .Despax , qu ’ une faible odeur de purin .Celte faiblesse d ’ odeur , au reste , s ’ observe dans tout l ' établissement . |
+| source.excerpts.30.words.0 | faible |
+| source.excerpts.30.words.1 | odeur |
+| source.excerpts.30.words.2 | purin |
+| source.excerpts.30.words.3 | Despax |
+| source.excerpts.31.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/57dc075a-e6a4-56b3-89f0-55c5279cc370 |
+| source.excerpts.31.value | La chandelle , la bonne chandelle d ’ il y a une vingtaine d ’ années , brûlait avec une belle flamme et sans l ’ inconvénient du mouchage ; elle n ’ avait pas à craindre la comparaison même de la bougie stéarique pure , du moins de ce côté .La bougie mélangée brûle beaucoup plus mal ; sa flamme est fuligineuse comme celle de la chandelle ; et sa clarté est de beaucoup inférieure , à cause de la mèche qui est tressée et trop petite ; quand on l ’ éteint , elle répand une odeur de suif désagréable .Un autre inconvénient assez grave provient de la nature même du mélange . |
+| source.excerpts.31.words.0 | désagréable |
+| source.excerpts.31.words.1 | odeur |
+| source.excerpts.31.words.2 | elle |
+| source.excerpts.31.words.3 | suif |
+| source.excerpts.31.words.4 | bougie mélangée |
+| source.excerpts.32.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/581337bf-1772-59ae-8bb2-29f8a83b19e0 |
+| source.excerpts.32.value | L ’ essai des huiles par l ’ acide sulfurique pour développer la réaction purpurine ne prouve rien , quoiqu ’ on ait voulu le proposer comme moyen infaillible , car il suffit de 25 ° / 0 d ' huile de foie de poisson dans un mélange pour l ’ obtenir .L ’ odeur d ’ acide valérianique dégagé par la phocënine peut déceler la présence d ’ huile de phoque ou de cétacé dans une huile de foie de morue qui a reçu une notable proportion de graisse fondue de ces mammifères .La saponification par l ’ ammoniaque peut servir d ’ indice lorsqu ’ il y a mélange avec une huile végétale : une goutte émulsionne instan - % ( 1 ) Un pharmacien de Paris , savant chimiste , signalait , il y a quelques jours , à l ’ Académie de Médecine une soi - disant huile de fuie do morue vendue fi Paris , qui consiste en une solution de colophane dans une huile végétale . |
+| source.excerpts.32.words.0 | huile |
+| source.excerpts.32.words.1 | odeur |
+| source.excerpts.32.words.2 | acide valérianique |
+| source.excerpts.32.words.3 | phocënine |
+| source.excerpts.33.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/5ac61574-9c65-52f2-a0c6-2ccaf74dcdfa |
+| source.excerpts.33.value | 14 » La toluidine ( C 14 H 9 az ) bouillant à 198 » , et la luitidine ( C 14 II 9 az ) bouillant à 162 ° ; liquides un peu moins précieux que l ’ aniline , mais obtenus en petite quantité , comme l ’ aniline , dans la distillation du goudron .18 ® La naphtaline ( C 20 H 8 ) bouillant à 212 » ; matière blanche ayant l ’ apparence d ’ une neige , avec odeur empyreumatique , n ’ ayant aucun emploi industriel , brûlant avec beaucoup de fumée , etc .16 ° La paranaphlaline ( C 30 H 12 ) bouillant à 300 ° ) ; substance blanchâtre obtenue de la précédente , sans emploi industriel analogue . |
+| source.excerpts.33.words.0 | odeur |
+| source.excerpts.33.words.1 | empyreumatique |
+| source.excerpts.33.words.2 | naphtaline |
+| source.excerpts.33.words.3 | matière blanche |
+| source.excerpts.34.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/5cf9a02e-9296-5eb1-a639-f9910db4177c |
+| source.excerpts.34.value | YAISSE , à Toulouse , — a exposé des boîtes inodores , de la toile et du papier ciré pour emballage , et un étui de parapluie - canne .Les boîtes inodores sont des caisses renfermant un vase pris dans une coulisse en bois et garni en dessus de peau ou de toile maroquinée formant un siégé quand 446 SECTION DE L ’ INDUSTRIE .on a soulevé le couvercle de la boîte . |
+| source.excerpts.34.words.0 | inodores |
+| source.excerpts.34.words.1 | boîtes |
+| source.excerpts.35.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/5e8835f6-a0ef-5824-a153-3e8a4f761093 |
+| source.excerpts.35.value | Jeannin - Remy a envoyé à notre Exposition quelques pots de cette confiture , qui ne le cède en rien aux meilleurs produits de cette nature .Le Jury a tout particulièrement apprécié la qualité que présente la confiture de Bar , de conserver sans altération le goût et le parfum de la groseille .11 estime en conséquence qu ’ il y a lieu d ’ accorder à M . |
+| source.excerpts.35.words.0 | parfum |
+| source.excerpts.35.words.1 | groseille |
+| source.excerpts.35.words.2 | confiture |
+| source.excerpts.36.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/5fc04619-e46d-5fa8-9592-69c99c9bfd19 |
+| source.excerpts.36.value | Le canard domestique se mul - tiplio au milieu do nos habitations , et il n ’ y a presque pas de nations qui ne fassent commerco de sa chair , de ses œufs , de ses plumes , ou de son duvet , qui est de qualité inférieure relativement à celui du cygne ou de l ’ oie .Comme il est dit plus haut , le duvet des oiseaux morts est le moins estimé à cause du sang qui remplit le tuyau , et qui , en se corrompant , donne à la plume une mauvaise odeur dont on ne la débarrasse qu ’ à la longue , ou par des préparations plus ou moins coûteuses et qui ne réussissent pas toujours bien .C ’ est aussi pour éviter ce grave inconvénient que l ' on attend , pour plumer les oiseaux vivants , que leur plume soit mûre . |
+| source.excerpts.36.words.0 | plume |
+| source.excerpts.36.words.1 | mauvaise |
+| source.excerpts.36.words.2 | odeur |
+| source.excerpts.36.words.3 | tuyau |
+| source.excerpts.36.words.4 | duvet des oiseaux morts |
+| source.excerpts.37.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/608eaa1b-76d2-5498-8b18-fa8c561e1e12 |
+| source.excerpts.37.value | On s ’ en servait également pour embaumer les morts .C ’ est ainsi qu ’ obéissant à un devoir traditionnel remontant jusqu ’ à la civilisation égyptienne , Marie - Madeleine , Marie mère de Jacques , et Salomé , il y a 1832 ans , achetèrent des aromates pour embaumer Jésus .L ’ encens était aussi brûlé sur la tombe des 22 morts , et cette pieuse coutume a été religieusement conservée jusqu ' à nos jours . |
+| source.excerpts.37.words.0 | il |
+| source.excerpts.37.words.1 | aromates |
+| source.excerpts.37.words.2 | embaumer |
+| source.excerpts.37.words.3 | a 1832 ans |
+| source.excerpts.38.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/630785b2-643a-55eb-99a3-84c44e0aa024 |
+| source.excerpts.38.value | - 3 ° Le butyl , bouillant à 108 ° ( C 16 H 18 ) , .l ’ hexylène , bouillant à 53 ° C 12 H 12 : liquides incolores , très - fluides , d ’ une odeur pénétrante , très - inflammables , servant comme la benzine à purifier des produits tinctoriaux , et analogues , dans ce cas , au sulfure de carbone , à l ’ alcool , à l ’ éther , etc .4 ° Acide acétique et acide butirique , bouillant à 104 ° , produits accidentels qui , pas plus que l ’ eau , l ’ ammoniaque et les gaz , ne sont des produits que l ’ on cherche à former dans la fabrication . |
+| source.excerpts.38.words.0 | pénétrante |
+| source.excerpts.38.words.1 | odeur |
+| source.excerpts.38.words.2 | alcool |
+| source.excerpts.38.words.3 | éther |
+| source.excerpts.38.words.4 | liquides |
+| source.excerpts.38.words.5 | sulfure de carbone |
+| source.excerpts.38.words.6 | très - inflammables |
+| source.excerpts.38.words.7 | l ’ hexylène |
+| source.excerpts.39.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/64b98527-b426-57a6-b143-54b8420857b2 |
+| source.excerpts.39.value | Il a ensuite distillé toutes les substances , le safran compris , au lieu do garder une petite quantité de cette dernière pour colorer la liqueur en jaune : ce qui la rend inco ^ lore .L ’ anisctte n ’ a rien de particulier , sinon qu ’ elle manque un peu de bouquet de fond , ce qui fait trop dominer l ’ anis formant l ’ arome montant .Le Jury accorde à M . |
+| source.excerpts.39.words.0 | arome |
+| source.excerpts.39.words.1 | anisctte |
+| source.excerpts.40.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/660e2f72-469f-5d60-b2bb-71a83f6fd64a |
+| source.excerpts.40.value | BERMOND , à Nice , — a exposé un grand nombre d ’ objets , parmi lesquels , outre des articles ordinaires de parfumerie , le Jury a remarqué des essences ou huiles essentielles destinées à la préparation des différentes eaux de toilette .On y trouvait l ’ eau de fleur d ’ oranger , l ’ eau de rose triple , l ’ eau de Cologne , extrait d ’ eau de Portugal , l ’ eau aromatique des Alpes , le bouquet de Nice double extrait pour mouchoir , le vinaigre de toilette , un double extrait de rose pour le mouchoir , l ’ essence de petit grain limon , l ’ essence d ’ absinthe cultivée , l ’ essence de petit grain de bigarrade , l ’ essence de géranium de Nice , l ' essence de menthe poivrée , de lavande surfine , et un double extrait de fleur d ’ oranger pour le mouchoir ; enfin des pommades à la rose , à la cassie , au jasmin , à la jonquille , à la tubéreuse .Ces produits sont d ’ excellente qualité , et leur préparation peut être considérée comme supérieure . |
+| source.excerpts.40.words.0 | aromatique |
+| source.excerpts.40.words.1 | jasmin |
+| source.excerpts.40.words.2 | eau |
+| source.excerpts.40.words.3 | menthe poivrée |
+| source.excerpts.40.words.4 | eau de rose |
+| source.excerpts.40.words.5 | tubéreuse |
+| source.excerpts.40.words.6 | eau de Cologne |
+| source.excerpts.40.words.7 | jonquille |
+| source.excerpts.40.words.8 | cassie |
+| source.excerpts.40.words.9 | bouquet de |
+| source.excerpts.40.words.10 | eau de fleur d ’ oranger |
+| source.excerpts.40.words.11 | eau de Portugal |
+| source.excerpts.40.words.12 | géranium de Nice |
+| source.excerpts.41.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/682d8e62-579d-526e-befd-5a8c0fb091d1 |
+| source.excerpts.41.value | M .Delatre croyait alors , comme un très - grand nombre de praticiens le croient encore , que cette couleur était naturelle à l ’ huile de foie de morue , sa saveur âcre et acide , et son odeur rebutante .Mais voici ce qu ’ ii observa bientôt . |
+| source.excerpts.41.words.0 | âcre |
+| source.excerpts.41.words.1 | odeur |
+| source.excerpts.41.words.2 | son |
+| source.excerpts.41.words.3 | acide |
+| source.excerpts.41.words.4 | rebutante |
+| source.excerpts.41.words.5 | huile de foie de morue |
+| source.excerpts.41.words.6 | saveur |
+| source.excerpts.41.words.7 | de praticiens |
+| source.excerpts.41.words.8 | Delatre |
+| source.excerpts.42.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/6c0e9638-3b3d-57b6-9553-ef474f23ae81 |
+| source.excerpts.42.value | Le soufre est un corps simple , rangé parmi les métalloïdes .Il est d un jaune citron , sans saveur et sans odeur , excepté lorsqu ’ on le frotte , car alors il dégage une légère odeur en même temps qu ' il développe de l ’ électricité négative ou résineuse .11 est si mauvais conducteur du calorique , que la chaleur de la main suffit pour briser avec bruit un canon de soufre . |
+| source.excerpts.42.words.0 | odeur |
+| source.excerpts.42.words.1 | il |
+| source.excerpts.42.words.2 | légère |
+| source.excerpts.43.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/6c74ba4f-b35f-5c8d-977a-58ce5c5bf1cf |
+| source.excerpts.43.value | 11 eut bientôt la conviction que le plus énergique d ’ en - tr ’ eux , et le seul même qui amène des guérisons promptes et durables , est l ’ huile de foie de morue .L ' huile qu ’ il employa d ’ abord fut celle qui nous vient de Terre - Neuve et est préparée par nos pêcheurs : elle est noire , très - acide ; son odeur est repoussante ; sa saveur de poisson pourri est presque intolérable .M . |
+| source.excerpts.43.words.0 | Terre |
+| source.excerpts.43.words.1 | odeur |
+| source.excerpts.43.words.2 | son |
+| source.excerpts.43.words.3 | sa |
+| source.excerpts.43.words.4 | repoussante |
+| source.excerpts.43.words.5 | saveur |
+| source.excerpts.43.words.6 | très - acide |
+| source.excerpts.43.words.7 | poisson pourri |
+| source.excerpts.43.words.8 | nos pêcheurs |
+| source.excerpts.43.words.9 | Neuve |
+| source.excerpts.43.words.10 | presque intolérable |
+| source.excerpts.44.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/6df8d959-8335-5f61-80a2-ad975e2ca204 |
+| source.excerpts.44.value | MM .BICFORD , DAVEY , CHANU et O , à Marseille , à Stockolm , à Charte ™ ^ à Bilbao , demeurant à Rouen , quai du Hâvre , 3 - ont exposé • lo 900 mètres courants de fusées , dites de sûreté , ne donnant en brûlant aucune odeur étrangère à la poudre pour les travaux intérieurs des mines , de tunnels , de galeries d ’ un aérage difficile ou susceptibles de se remplir de gaz hydrogène carbonné ( grisou ) ; 2 “ 500 mètres de mèches de mine en gutta - percha pour le creusement des puits , le percement des galeries aquifères , et l ’ extraction des roches sous - marines ; 3 ° 1 , 000 mètres de mèches de mineurs à ruban pour les travaux à ciel ouvert ou en galeries où le rocher est très - humide , remplaçant avec économie dans la plupart des cas les mèches en gutta - percha ; 4 ° Enfin 450 mètres de mèches de mineurs goudronnées pour le tirage à la poudre dans le rocher sec ou simplement humide , travaux à ciel ouvert ou suffisamment aérés .Les fusées blanches et les fusées à ruban se composent d ’ une double enveloppe en tissu de coton formant une sorte de tube suffisamment flexible dans lequel est renfermée la substance pyrophorique . |
+| source.excerpts.44.words.0 | Rouen |
+| source.excerpts.44.words.1 | Marseille |
+| source.excerpts.44.words.2 | odeur |
+| source.excerpts.44.words.3 | poudre |
+| source.excerpts.44.words.4 | étrangère |
+| source.excerpts.44.words.5 | Charte |
+| source.excerpts.44.words.6 | quai du Hâvre |
+| source.excerpts.45.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/6f013df1-07bd-5294-a1e9-badfc224eb39 |
+| source.excerpts.45.value | On opère en délayant dans de l ’ eau un peu de colle ou de l ’ oxyde de zinc pur ou coloré ; on applique ce mélange comme les peintures ordinaires à la colle ; puis , quand il y a une couche suffisante , on passe par - dessus avec une brosse un peu de chlorure de zinc à 25 degrés de Beaumé : il se forme immédiatement de l ’ oxychlorure de zinc .11 en résulte une peinture très - solide , sans odeur , et qui sèche instantanément .Cette peinture peut être poncée ou recevoir un vernis . |
+| source.excerpts.45.words.0 | peinture |
+| source.excerpts.45.words.1 | odeur |
+| source.excerpts.45.words.2 | très - solide |
+| source.excerpts.46.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/756b6ff5-136f-50fd-ae49-bc42e91737ce |
+| source.excerpts.46.value | Laffon a été classé dans les premiers : il imite assez bien celui de Hollande , quoique son arôme soit un peu trop prononcé ; mais cela doit provenir de l ’ état de l ’ écorce au moment de son emploi .L ’ anisette est aussi supérieure ; le bouquet montant est fin et délicat ; l ' arome de fond est bien ménagé .Ce fabricant n ’ a pas été peut - être aussi heureux pouf sa crème de thé , qui a paru faible au Jury ; mais le génépy est bon et approche de très - près celui de M . |
+| source.excerpts.46.words.0 | arome |
+| source.excerpts.46.words.1 | anisette |
+| source.excerpts.47.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/767d2449-d77f-5872-bf8a-08b20b888c41 |
+| source.excerpts.47.value | Ceux qui ont vieilli pendant trois ou quatre ans possèdent un bouquet agréable .Les vins les plus vieux ressemblent , sous le rapport du goût et de l ’ odeur , à ceux de Rivesaltes .La ressemblance est telle pour quelques - uns de ceux CLASSR V . |
+| source.excerpts.47.words.0 | Rivesaltes |
+| source.excerpts.47.words.1 | odeur |
+| source.excerpts.47.words.2 | ceux |
+| source.excerpts.47.words.3 | vins les |
+| source.excerpts.48.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/7c9ec4a1-8b91-5893-a371-de09fa1df162 |
+| source.excerpts.48.value | Il distille alors , en donnant une vapeur qui se condense sur les corps froids sous forme de poussière ( fleurs de soufre ou soufre sublimé ) , et dans laquelle plusieurs métaux brûlent avec beaucoup de vivacité .Chauffé à l ’ air à une haute température ou projeté sur des charbons ardents , il s ’ enflamme et brûle avec une flamme bleue , en répandant une odeur piquante et caractéristique de l ’ acide sulfureux , gaz qui est toujours le produit de la combustion du soufre au contact de l ’ air ou de l ’ oxygène .11 se combine avec un grand nombre de corps , et surtout avec les métaux , qu ’ il rend aigres et cassants . |
+| source.excerpts.48.words.0 | odeur |
+| source.excerpts.48.words.1 | il |
+| source.excerpts.48.words.2 | acide |
+| source.excerpts.48.words.3 | piquante |
+| source.excerpts.49.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/7efd9d12-f785-5c78-b63c-bbb36ddc1fb2 |
+| source.excerpts.49.value | Quoique assez coloré , il ne contient que des traces de matières extractives .Il conserve sdn arôme après sa distillation .Le Jury accorde à cet exposant , qui n ’ a fourni que peu ou point de renseignements sur l ’ importance de sa fabrication , une mention honorable . |
+| source.excerpts.49.words.0 | arôme |
+| source.excerpts.49.words.1 | après sa |
+| source.excerpts.50.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/7fccc8b3-59a1-585f-b956-74bee9b70d49 |
+| source.excerpts.50.value | Il est employé à l ’ éclairage des ateliers , et donne la lumière à un prix trente fois plus faible que celui de la bougie .Le gluten , substance éminemment azotée , qui fournissait des produits putrides , est retiré et employé utilement pour la nourriture de l ’ homme .Deux procédés sont généralement mis en pratique par nos fabricants d ' amidon , procédés qui ne varient que par la forme , et ces procédés sont exclusifs de ceux employés encore par quelques fabricants attardés qui CLASSE V . |
+| source.excerpts.50.words.0 | putrides |
+| source.excerpts.50.words.1 | gluten |
+| source.excerpts.50.words.2 | substance éminemment azotée |
+| source.excerpts.51.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/8127e462-4662-5e6e-ab89-e649f45cc2ee |
+| source.excerpts.51.value | Soumises à l ’ analyse , peu de ces huiles accusent une origine loyale et légitime ; presque toutes sont plus ou moins et diversement allé - rées .L ’ huile noire proprement dite n ’ est plus commerciale en droguerie parce que l ' on s ’ étudie depuis plusieurs années à donner des huiles dont l ’ aspect , l ’ odeur et la saveur soient le moins désagréables possibles .Les huiles les plus employées sont les huiles brunes ; rarement elles sont pures ; elles contiennent un mélange plus ou moins considérable d ’ huile de marsouin , de cachalot , de baleinoptère ou de phoque : altération faite par les pêcheurs qui se préoccupent peu de la pureté des huiles ; leur affaire est d ' en produire le plus possible . |
+| source.excerpts.51.words.0 | huiles |
+| source.excerpts.51.words.1 | odeur |
+| source.excerpts.51.words.2 | saveur |
+| source.excerpts.51.words.3 | plusieurs années |
+| source.excerpts.51.words.4 | huile noire |
+| source.excerpts.51.words.5 | moins désagréables possibles |
+| source.excerpts.52.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/827389fb-2f4f-5686-a7e2-f7a82d544c76 |
+| source.excerpts.52.value | M .YAISSE , à Toulouse , — a exposé des boîtes inodores , de la toile et du papier ciré pour emballage , et un étui de parapluie - canne .Les boîtes inodores sont des caisses renfermant un vase pris dans une coulisse en bois et garni en dessus de peau ou de toile maroquinée formant un siégé quand 446 SECTION DE L ’ INDUSTRIE . |
+| source.excerpts.52.words.0 | toile |
+| source.excerpts.52.words.1 | papier |
+| source.excerpts.52.words.2 | Toulouse |
+| source.excerpts.52.words.3 | inodores |
+| source.excerpts.52.words.4 | boîtes |
+| source.excerpts.53.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/830e311d-7342-5090-9002-300c5a70494d |
+| source.excerpts.53.value | CONSIDÉRATIONS GÉNÉRALES .Le goudron liquide retiré de la houille dans la fabrication du gaz d ’ éclairage , est resté pendant longtemps une matière à peu près sans valeur et , à cause de son odeur très - forte , presque uniquement employée comme enduit propre à conserver le bois et le fer exposés à l ’ humidité ou à la pluie à l ’ extérieur des bâtiments .Mais les recherches desavants éminents , comme Hoffman , Runge , Pelouze , Dumas , Cahours , Berthelot , Barrai , Riche , etc . |
+| source.excerpts.53.words.0 | odeur |
+| source.excerpts.53.words.1 | goudron |
+| source.excerpts.53.words.2 | très - forte |
+| source.excerpts.53.words.3 | pendant longtemps |
+| source.excerpts.54.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/88e87aab-0a42-5bd1-9d2c-200acdfdc77f |
+| source.excerpts.54.value | Médaille de Bronze .ESPERT Frères , à Toulouse , — exposent divers produits de parfumerie , et notamment une eau et une pommade dites Philocome Espertine , que les exposants annoncent comme propres à combattre la chute des cheveux et les maladies du cuir chevelu .Ces préparations sont accompagnées d ' une notice adressée au Jury et contenant une étude des diverses maladies dans lesquelles on peut en faire l ’ application . |
+| source.excerpts.54.words.0 | Toulouse |
+| source.excerpts.54.words.1 | eau |
+| source.excerpts.54.words.2 | produits |
+| source.excerpts.54.words.3 | pommade |
+| source.excerpts.54.words.4 | parfumerie |
+| source.excerpts.54.words.5 | exposants |
+| source.excerpts.54.words.6 | Philocome Espertine |
+| source.excerpts.55.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/88f9e381-ca86-5595-b04b-45cf298221cc |
+| source.excerpts.55.value | 11 suffit de la faire bien sécher , et alors ces petites peaux se détachent au battage .La parfaite dessication est une des plus importantes conditions ; sans cela , l ’ humeur qui suinte au bout des tuyaux fermente par la chaleur , et le lit prend une odeur putride souvent insupportable et qui est nuisible à la santé .On emploie souvent aux mêmes usages la plume de volaille et de gibier ; mais c ’ est ici surtout qu ’ il faut les plus grandes précautions afin de ne pas tomber dans les inconvénients qui viennent d ’ être signalés . |
+| source.excerpts.55.words.0 | odeur |
+| source.excerpts.55.words.1 | nuisible |
+| source.excerpts.55.words.2 | lit |
+| source.excerpts.55.words.3 | putride souvent insupportable |
+| source.excerpts.56.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/899038cf-a744-5b2a-abb6-9a08824d6b25 |
+| source.excerpts.56.value | Le curaçao de M .Laffon a été classé dans les premiers : il imite assez bien celui de Hollande , quoique son arôme soit un peu trop prononcé ; mais cela doit provenir de l ’ état de l ’ écorce au moment de son emploi .L ’ anisette est aussi supérieure ; le bouquet montant est fin et délicat ; l ' arome de fond est bien ménagé . |
+| source.excerpts.56.words.0 | Hollande |
+| source.excerpts.56.words.1 | arôme |
+| source.excerpts.57.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/91efc38c-2a52-5386-a3c5-eb6c60ea95fe |
+| source.excerpts.57.value | C ’ est le plus estimé de tous les produits indigènes auxquels on donne le nom de sumac .Il est en poudre grossière , de couleur verte , foncée ou sombre ; il a une forte odeur de tannin ; sa saveur est acerbe et astringente .Enfin le sumac redon est le produit d ’ une plante appelée dans les lieux où on la cultive herbe aux teinturiers , herbe au noir , et plus particulièrement redon . |
+| source.excerpts.57.words.0 | forte |
+| source.excerpts.57.words.1 | odeur |
+| source.excerpts.57.words.2 | il |
+| source.excerpts.57.words.3 | astringente |
+| source.excerpts.57.words.4 | tannin |
+| source.excerpts.57.words.5 | acerbe |
+| source.excerpts.58.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/9472e564-bb08-587e-b282-d561ea012f8f |
+| source.excerpts.58.value | L ’ huile brune est faite avec des foies de morues pêchées sur les côtes d ’ Ecosse et des Orcades ; ils arrivent à Dieppe presque frais , après huit à dix jours de pêche , et sont employés immédiatement .Lhuile obtenue est de première qualité , sans autre odeur que celle de morue fraîche , sans saveur désagréable ; elle est moins acide que l ’ huile de Berthë ; elle conserve une plus grande proportion d ’ éléments métalloïdes .L ’ usine do M . |
+| source.excerpts.58.words.0 | désagréable |
+| source.excerpts.58.words.1 | odeur |
+| source.excerpts.58.words.2 | saveur |
+| source.excerpts.58.words.3 | morue fraîche |
+| source.excerpts.59.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/9976068d-d619-50f9-9592-cb425f2cb6b7 |
+| source.excerpts.59.value | Cette huile noire pure vient de Terre - Neuve ; elle est rare , et il est difficile de s en procurer .D ’ un brun très - foncé , cette huile exhale une odeur infecte de poisson putréfié , sa saveur est acre et très - désagréable ; sa densité à + 15 ° centi - grades est de 0 , 935 ; elle reste fluide jusqu ’ à + 8 ° centigrades ; au - dessous de cette température , elle se trouble et se prend en niasse butireuse entre — 7 ° et — 8 ° centigrades .Lors des premières recherches faites par M . |
+| source.excerpts.59.words.0 | infecte |
+| source.excerpts.59.words.1 | acre |
+| source.excerpts.59.words.2 | odeur |
+| source.excerpts.59.words.3 | elle |
+| source.excerpts.59.words.4 | sa |
+| source.excerpts.59.words.5 | poisson |
+| source.excerpts.59.words.6 | cette huile |
+| source.excerpts.59.words.7 | très - désagréable |
+| source.excerpts.59.words.8 | putréfié |
+| source.excerpts.59.words.9 | poisson putréfié |
+| source.excerpts.60.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/9b20d11b-08a6-58fc-a141-d18e4e9f1664 |
+| source.excerpts.60.value | L .) , dont l ’ odeur forte et fétide est bien connue à cause de son utilité dans certaines maladies du sexe : d ’ où lui est venu son nom de Parlheniufn , ( roxpôsvoç vierge ) .Cela peut - être ne saurait être imputé au fabricant , mais à une sophistication dont il a dû être la victime . |
+| source.excerpts.60.words.0 | fétide |
+| source.excerpts.60.words.1 | forte |
+| source.excerpts.60.words.2 | odeur |
+| source.excerpts.61.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/9de41d56-7add-5f43-a982-e288d2af42e7 |
+| source.excerpts.61.value | — Parfumerie .Les articles divers qui rentrent dans la parfumerie sont les cosmétiques , les essences , les poudres dentifrices et à poudrer , les savons parfumés , les pommades , les eaux - de - vie aromatisées et autres eaux de toilette , l ’ eau de Cologne , les eaux dentifrices , les huiles antiques , aromatiques et essentielles , les pastilles à parfum , les vinaigres parfumés , les fards , les teintures pour les cheveux et la barbe , et autres composés divers .L ’ usage des parfums et des cosmétiques remonte à la plus haute antiquité . |
+| source.excerpts.61.words.0 | huiles |
+| source.excerpts.61.words.1 | parfum |
+| source.excerpts.61.words.2 | parfumés |
+| source.excerpts.61.words.3 | pastilles |
+| source.excerpts.61.words.4 | pommades |
+| source.excerpts.61.words.5 | eaux |
+| source.excerpts.61.words.6 | essences |
+| source.excerpts.61.words.7 | eau de Cologne |
+| source.excerpts.61.words.8 | cosmétiques |
+| source.excerpts.61.words.9 | vinaigres |
+| source.excerpts.61.words.10 | teintures |
+| source.excerpts.61.words.11 | fards |
+| source.excerpts.61.words.12 | savons |
+| source.excerpts.61.words.13 | eaux - de |
+| source.excerpts.61.words.14 | eaux dentifrices |
+| source.excerpts.61.words.15 | composés divers |
+| source.excerpts.61.words.16 | poudres dentifrices et à poudrer |
+| source.excerpts.62.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/9e70f63e-0d41-5686-87d2-197d692cfff3 |
+| source.excerpts.62.value | GRENIER ( Alfred ) , à Mirepoix ( Arie ' ge ) , — n ’ a exposé que deux liqueurs , le curaçao et une autre liqueur dont le génépy serait la base , comme celui d ’ un autre exposant .Son curaçao est très - peu coloré ; il est blanc et ne rougit pas par l ’ eau , mais il est à un degré alcoométrique plus élevé ; il a bon goût ; son arôme est bien prononcé .Le génépy est une espèce de chartreuse à bouquet trop diffus ; l ’ arome principal est dissimulé , et laisse à l ’ arrière - goût une odeur peu agréable , faible sans doute , mais qui fait perdre à cette liqueur , bien préparée toutefois , un peu de sa valeur . |
+| source.excerpts.62.words.0 | son |
+| source.excerpts.62.words.1 | arôme |
+| source.excerpts.62.words.2 | bien prononcé |
+| source.excerpts.63.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/a7248f05-a929-5033-85ec-20a34a75fcd4 |
+| source.excerpts.63.value | 4 ° Une lampe à pompe à deux réservoirs , ayant l ’ avantage de contenir le combustible nécessaire pour huit jours d ’ éclairage ; 5 ° une lampe à pétrole brûlant sans cheminée .Elle ne donne pas de fumée , mais elle répand une assez forte odeur de pétrole .Elle est destinée à l ’ éclairage des cours ou des rues . |
+| source.excerpts.63.words.0 | assez forte |
+| source.excerpts.63.words.1 | odeur |
+| source.excerpts.63.words.2 | elle |
+| source.excerpts.63.words.3 | pétrole |
+| source.excerpts.64.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/a8dd9407-1142-5f71-a678-423f20ac6ae5 |
+| source.excerpts.64.value | C ’ est en grande partie à ce corps que les eaux - de - vie doivent leur mauvais goût .6 ° La benzine ( C 12 FF ) bouillant à 80 ° ; liquide à odeur aromatique , brûlant avec une flamme éclairante , servant industriellement à dissoudre le caoutchouc , la gutta - percha , à purifier des produits tinctoriaux , à former l ’ essence d ’ amandes amères ( nitrobenzine ) , l ’ aniline et , par suite , des produits de teinture .7 ° Le toluène ( G 14 FI 8 ) bouillant à Mo 0 ; principe qui se rencontre dans le baume de Tolu et formant un liquide analogue à la benzine . |
+| source.excerpts.64.words.0 | aromatique |
+| source.excerpts.64.words.1 | nitrobenzine |
+| source.excerpts.64.words.2 | benzine |
+| source.excerpts.64.words.3 | odeur aromatique |
+| source.excerpts.64.words.4 | essence d ’ amandes amères |
+| source.excerpts.65.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/aa3c5642-ca96-5f90-8a7a-2cdf3ed6eaf9 |
+| source.excerpts.65.value | Son curaçao est très - peu coloré ; il est blanc et ne rougit pas par l ’ eau , mais il est à un degré alcoométrique plus élevé ; il a bon goût ; son arôme est bien prononcé .Le génépy est une espèce de chartreuse à bouquet trop diffus ; l ’ arome principal est dissimulé , et laisse à l ’ arrière - goût une odeur peu agréable , faible sans doute , mais qui fait perdre à cette liqueur , bien préparée toutefois , un peu de sa valeur .Le Jury accorde à M . |
+| source.excerpts.65.words.0 | faible |
+| source.excerpts.65.words.1 | odeur |
+| source.excerpts.65.words.2 | liqueur |
+| source.excerpts.65.words.3 | peu agréable |
+| source.excerpts.65.words.4 | génépy |
+| source.excerpts.65.words.5 | chartreuse |
+| source.excerpts.65.words.6 | arome |
+| source.excerpts.66.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/abc9e90c-e60e-5a4f-bdbb-0da1393de3f1 |
+| source.excerpts.66.value | Il serait à désirer que l ’ on y cultivât encore davantage l ' oranger , le citronnier , la jacinthe , le réséda , l ’ héliotrope , fleurs que l ’ on trouve surtout à Cannes , près de Grasse .La parfumerie absorbe les fleurs des jardins de cette ville et des communes environnantes : en un mot , cette fabrication est une des principales branches de l ' industrie du département du Var .Le premier s ’ obtient avec du carthame ( Carthamus tinctorius ) , plante originaire de l ’ Inde et qui se fait remarquer par ses belles fleurs d ’ un rouge de safran , qu ’ on traite par une dissolution de potasse et par du jus de citron . |
+| source.excerpts.66.words.0 | fleurs |
+| source.excerpts.66.words.1 | parfumerie |
+| source.excerpts.66.words.2 | communes environnantes |
+| source.excerpts.66.words.3 | jardins de cette ville |
+| source.excerpts.67.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/aca64451-de73-5146-9c0b-0c44d9e3c02a |
+| source.excerpts.67.value | Aujourd ’ hui le nombre des produits de la parfumerie est si considérable , qu ’ il n ’ est peut - être pas d ’ industrie qui soit soumise à autant d ’ assujélissement , à autant de détails .Grasse et Paris sont les deux villes de France qui font le plus de commerce en parfumerie .Grasse , par la douceur de son climat , est le sol natal des plantes aromatiques ; la plupart d ’ entr ’ elles y croissent avec tant d ' abondance que quelques - unes n ’ ont pas besoin de culture . |
+| source.excerpts.67.words.0 | Paris |
+| source.excerpts.67.words.1 | Grasse |
+| source.excerpts.67.words.2 | France |
+| source.excerpts.67.words.3 | parfumerie |
+| source.excerpts.67.words.4 | villes |
+| source.excerpts.68.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/aea11fa6-f9c9-50ad-a52b-0a6405b86836 |
+| source.excerpts.68.value | 17 ® La quinoléine ( G 18 II 7 az ) bouillant à 240 ° ; substance analogue aux résidus obtenus en distillant la quinine .C ’ est une huile incolore , ayant une odeur désagréable .On n ’ a pu . |
+| source.excerpts.68.words.0 | huile |
+| source.excerpts.68.words.1 | désagréable |
+| source.excerpts.68.words.2 | odeur |
+| source.excerpts.69.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/b037a3b8-c710-55a0-a5d0-a9f3c266b494 |
+| source.excerpts.69.value | Quand l ’ amidon est bien lavé , on le met à égoutter dans des corbeilles garnies de toile , et lorsqu ’ il a pris une consistance suffisante , on coupe la pâte en morceaux de 0 " M0 de côté et de 0 m 25 à 30 environ de longueur , que ion expose d ’ abord au grand air dans des séchoirs appropriés , et que Ion enveloppe dans du papier lorsqu ’ ils sont assez secs afin de les soumettre dans cet état à la température d ’ une étuve chauffée à 80 ° , où l ’ amidon , de compacte qu ’ il était , se dilate , se gerce et se forme en aiguilles qui , suivant leur nature et leur aspect , sont un indice de la plus ou moins belle qualité de la matière .Ce procédé a l ’ inconvénient , ainsi qu ’ on l ’ a vu plus haut , de répandre une odeur infecte et de vicier l ' air d ’ émanations aussi incommodes pour les voisins que nuisibles à la salubrité .Mais quelques anciens amidonniers le préfèrent , parce qu ’ il ne les oblige pas à avoir recours au meunier ou au minotier , intermédiaires toujours onéreux , et qu ’ une faible force motrice leur suffit . |
+| source.excerpts.69.words.0 | infecte |
+| source.excerpts.69.words.1 | odeur |
+| source.excerpts.69.words.2 | air |
+| source.excerpts.69.words.3 | émanations |
+| source.excerpts.69.words.4 | incommodes |
+| source.excerpts.69.words.5 | nuisibles |
+| source.excerpts.69.words.6 | vicier |
+| source.excerpts.70.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/b5a1ec96-634e-5e59-bfdf-7343ab4a0fec |
+| source.excerpts.70.value | Par ce moyen très - rationnel , M .Berthé obtint une huile brune , peu odorante , d ’ une saveur supportable , mais moins active que l ’ huile préparée aujourd ’ hui à Dieppe , parce qu ’ on ne peut éviter l ’ acidification notable de l ’ huile que par son extraction à l ’ abri du contact de l ’ air .M . |
+| source.excerpts.70.words.0 | huile |
+| source.excerpts.70.words.1 | odorante |
+| source.excerpts.70.words.2 | peu |
+| source.excerpts.70.words.3 | supportable |
+| source.excerpts.70.words.4 | saveur |
+| source.excerpts.70.words.5 | Berthé |
+| source.excerpts.71.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/b610484c-5c89-5d7a-a610-0835e96c3c21 |
+| source.excerpts.71.value | Mais sa principale occupation est la préparation de l ’ huile de foie de squale , substance que l ’ analyse chimique indiquait comme étant plus riche en principes métalloïdes que l ’ huile de morue , et que l ’ expérience de plusieurs années d ’ emploi a démontré comme plus efficace et plus active dans les affections scrofuleuses .L ’ huile de foie de squale est jaune doré , sa teinte rappelle celle de l ’ huile d ’ olive , elle n ’ a qu ’ une très - faible odeur de poisson , sa saveur est douce ; sa densité à + 15 ° centigrades est de 0 , 928 ; à + 4 ° centigrades , elle se trouble ; à 0 ° , elle devient butireuse .Si on la chauffe au contact de l ’ air , elle devient brune par l ’ oxydation de la squaline . |
+| source.excerpts.71.words.0 | huile |
+| source.excerpts.71.words.1 | douce |
+| source.excerpts.71.words.2 | odeur |
+| source.excerpts.71.words.3 | elle |
+| source.excerpts.71.words.4 | sa |
+| source.excerpts.71.words.5 | poisson |
+| source.excerpts.71.words.6 | très - faible |
+| source.excerpts.71.words.7 | olive |
+| source.excerpts.71.words.8 | huile de foie de squale |
+| source.excerpts.72.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/bb29bffc-c99e-564c-b3b5-0392b922addf |
+| source.excerpts.72.value | Mais il est une circonstance qui a frappé le Jury , et qui est indépendante de la qualité des vins : des vermouths , en effet , ont été trouvés très - bons , très - agréables au goût ; d ’ autres , au contraire , amers et d ’ odeur mauvaise .En en recherchant la cause , le Jury a constaté que ceux de ces vermouths qui avaient été trouvés les meilleurs , avaient été aromatisés avec de la camomille romaine ( Anthémis nobilis ) ; tandis que ceux classés en seconde ligne l ’ avaient été avec de la matricaire ( Matricaria Parthenium .L . |
+| source.excerpts.72.words.0 | aromatisés |
+| source.excerpts.72.words.1 | camomille romaine |
+| source.excerpts.72.words.2 | ces vermouths |
+| source.excerpts.73.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/c175f625-f127-5f4d-989a-de9013df1212 |
+| source.excerpts.73.value | L ’ encens était aussi brûlé sur la tombe des 22 morts , et cette pieuse coutume a été religieusement conservée jusqu ' à nos jours .Les Arabes paraissent avoir été les premiers qui firent le commerce des parfums et des cosmétiques ; les Tyriens les ajoutèrent , dans leurs expéditions , à for et aux pierres précieuses qu ’ ils tiraient de l ' Inde , pour les porter , par la Méditerranée et l ' Océan , chez les peuples avec lesquels ils étaient en relations .C ’ est ainsi que les parfums de l ’ Orient se répandirent chez les Egyptiens , les Africains , les Grecs , les Romains , et peu à peu chez toutes les nations qui en ont fait usage . |
+| source.excerpts.73.words.0 | pierres |
+| source.excerpts.73.words.1 | parfums |
+| source.excerpts.73.words.2 | cosmétiques |
+| source.excerpts.74.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/c20f5b7c-ae84-57b6-87bc-33b17b13f513 |
+| source.excerpts.74.value | Il est employé plus particulièrement pour la maroquinerie , bien que les teinturiers en fassent aussi usage .Le sumac de Malaga a une odeur forte ; ses feuilles sont bien triturées ; sa poudre est fine , mais chargée de bûchettes contenant souvent des semences de la plante .Le sumac de Porto a une odeur encore plus forte . |
+| source.excerpts.74.words.0 | forte |
+| source.excerpts.74.words.1 | odeur |
+| source.excerpts.74.words.2 | ses feuilles |
+| source.excerpts.74.words.3 | sumac de Malaga |
+| source.excerpts.75.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/c2f9d9a6-3faa-58fa-b363-03d65ee28f48 |
+| source.excerpts.75.value | Ces liqueurs , qui offrent peu de difficultés dans leur préparation , sont de qualité courante .La crème d ’ ananas surfine , obtenue par de la rose et do l ’ orange , est bien parfumée .Mais ce qui distingue le lot de cet exposant , c ’ est le kitre , boisson inventée par lui pour rivaliser avec le bitter hollandais , liqueur amère dont il a été parlé ci - dessus . |
+| source.excerpts.75.words.0 | parfumée |
+| source.excerpts.75.words.1 | rose |
+| source.excerpts.75.words.2 | crème d ’ ananas |
+| source.excerpts.76.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/c3520570-5328-5ff4-b662-b5225ffb580e |
+| source.excerpts.76.value | Les extraits doubles pour mouchoir sont des produits de qualité très - supérieure ; l ’ eau de Nice rivale de l ’ eau de Cologne , est limpide , bien aromatisée , et offre une combinaison parfaite de ses divers éléments .La maison Bermond est une des plus anciennes et des plus estimées de Nice pour la distillation des parfums ; elle existe depuis 1820 , et occupe huit à dix ouvriers .Un laboratoire des mieux outillés comprend plusieurs presses du système Père , d ’ Avignon , et sa fabrication s ’ élève à 15 ou 20 , 000 kilog . |
+| source.excerpts.76.words.0 | Nice |
+| source.excerpts.76.words.1 | parfums |
+| source.excerpts.77.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/c6e3a5d8-7b18-5079-8c80-b57240edbc5a |
+| source.excerpts.77.value | Il résulte de cette composition que les vermouths devront varier selon la qualité du vin employé , qualité variable chaque année selon les récoltes et selon les crûs .Mais il est une circonstance qui a frappé le Jury , et qui est indépendante de la qualité des vins : des vermouths , en effet , ont été trouvés très - bons , très - agréables au goût ; d ’ autres , au contraire , amers et d ’ odeur mauvaise .En en recherchant la cause , le Jury a constaté que ceux de ces vermouths qui avaient été trouvés les meilleurs , avaient été aromatisés avec de la camomille romaine ( Anthémis nobilis ) ; tandis que ceux classés en seconde ligne l ’ avaient été avec de la matricaire ( Matricaria Parthenium . |
+| source.excerpts.77.words.0 | mauvaise |
+| source.excerpts.77.words.1 | odeur |
+| source.excerpts.77.words.2 | vermouths |
+| source.excerpts.78.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/ca24969b-cab8-5ac3-8387-2e73aef7d25c |
+| source.excerpts.78.value | Ainsi , les tourteaux provenant de la presse hydraulique sont écrasés de nouveau sous les meules verticales en granit , et la farine de ceux - ci broyée et repassée aux chauffoirs à vapeur , puis ensachée et enfin pressée à la presse à coin , où elle reçoit une pression des plus énergiques donnant au tourteau la dureté du bois .Ce mode d ’ opérer conserve aux tourteaux de lin toutes leurs qualités et cette odeur d ’ amande qui les rend si appétissants pour les bestiaux .L ’ usine peut convertir en huile et en tourteaux , savoir : s ’ il s ’ agit de graine de lin , 70 hectolitres , et si l ’ on traite de la graine de colza , de 75 à 80 hectolitres par journée de 12 heures . |
+| source.excerpts.78.words.0 | odeur |
+| source.excerpts.78.words.1 | amande |
+| source.excerpts.78.words.2 | tourteaux de lin |
+| source.excerpts.79.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/cd270355-823d-5f11-b5b2-7ed8a2d56b6a |
+| source.excerpts.79.value | On peut les considérer ainsi qu ’ il suit dans l ’ ordre où les principaux se présentent généralement dans la distillation .1 ° La petinine , bouillant à 80 ° ( C 8 H 11 az ) ; liquide inflammable , incolore , d ' une odeur piquante , désagréable et âcre , caractéristique dans le goudron .2 ° Le propyl ( C 0 H 6 ) , liquide inflammable dont la combinaison avec l ’ eau ( hydrate de trityle , C 8 H 0 O 2 ) ( alcool propylique ) bout à 97 ° , et se trouve dans l ’ huile de pomme de terre . |
+| source.excerpts.79.words.0 | désagréable |
+| source.excerpts.79.words.1 | âcre |
+| source.excerpts.79.words.2 | odeur |
+| source.excerpts.79.words.3 | piquante |
+| source.excerpts.79.words.4 | petinine |
+| source.excerpts.80.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/d185ee51-6ef4-540c-8714-a41cf257c16b |
+| source.excerpts.80.value | LUCK , à Haguenau ( Bas - Rhin ) , — a exposé une liqueur rouge vineuse qu ’ il nomme crème de myrtilles .Cette boisson a bien en effet le goût et l ’ odeur du Vaccinium myrtillus , commun dans toutes les montagnes et très - connu sous le nom d ’ airelle ou de raisin d ’ ours .M . |
+| source.excerpts.80.words.0 | odeur |
+| source.excerpts.80.words.1 | raisin |
+| source.excerpts.80.words.2 | montagnes |
+| source.excerpts.80.words.3 | airelle |
+| source.excerpts.80.words.4 | Vaccinium myrtillus |
+| source.excerpts.80.words.5 | raisin d ’ ours |
+| source.excerpts.81.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/d3b1c625-f95b-506e-a999-d72a357b207d |
+| source.excerpts.81.value | Toutes les huiles de foie de morue incoloresjsont des huiles brunes traitées par les chlorures et le charbon animal , quelquefois par l ’ éther et divers réactifs .Ces huiles sont bien limpides , parfaitement inodores et insapides ; mais sur 1000 gr .elles contiennent 1000 gr . |
+| source.excerpts.81.words.0 | huiles |
+| source.excerpts.81.words.1 | inodores |
+| source.excerpts.81.words.2 | insapides |
+| source.excerpts.82.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/d46f8a88-f08c-57ea-88e2-1f0b4fddf09e |
+| source.excerpts.82.value | 90 à 2 fr .50 , suivant le poids , la qualité du cacao et les parfums employés .Le Jury a visité avec le plus vif intérêt la belle usine nouvellement agrandie et les machines perfectionnées que M . |
+| source.excerpts.82.words.0 | parfums |
+| source.excerpts.82.words.1 | cacao |
+| source.excerpts.83.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/d998bcac-b6cb-551c-a779-32b331adc29e |
+| source.excerpts.83.value | FU fil ( Germain ) , à Bordeaux .— Pour rendre les réparations des cuvettes inodores plus faciles , M .Furt a placé tout le mécanisme à l ' extérieur ; en outre , c ’ est au moyen d ’ une pédale au lieu d ’ un bouton ou d ’ une manivelle qu ’ il manœuvre sa cuvette . |
+| source.excerpts.83.words.0 | inodores |
+| source.excerpts.83.words.1 | cuvettes |
+| source.excerpts.84.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/dbc8c469-bb0b-5364-b0cb-911506626ab1 |
+| source.excerpts.84.value | 11 éloigne les insectes , même les fourmis .Les grands services que peuvent rendre ces vernis dans l ’ industrie , malgré leur odeur un peu désagréable , engagent le Jury à accordera M .Paul Dupont une médaille d ’ argent de 2 e classe . |
+| source.excerpts.84.words.0 | odeur |
+| source.excerpts.84.words.1 | vernis |
+| source.excerpts.84.words.2 | un peu désagréable |
+| source.excerpts.85.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/df129714-58fd-5669-8c9b-99e00158b268 |
+| source.excerpts.85.value | Pour déterminer la nature de l ’ huile et sa quantité , on a recours à un tableau indiquant le degré de chaleur que produisent dix centimètres cubes d ’ acide sulfurique avec 50 grammes de chaque huile végétale pure , puis on fait un calcul de proportion .On trouve dans le commerce plusieurs huiles de foie de morue , plus ou moins incolores , annoncées comme supérieures aux huiles blondes ou brunes , et comme plus faciles à accepter par les malades parce quelles n ’ ont ni odeur ni saveur désagréables .Parmi ces huiles une seule est pure et naturelle , c ’ est l ’ huile anglaise de M . |
+| source.excerpts.85.words.0 | odeur |
+| source.excerpts.85.words.1 | malades |
+| source.excerpts.85.words.2 | désagréables |
+| source.excerpts.85.words.3 | saveur |
+| source.excerpts.85.words.4 | huiles de foie de morue |
+| source.excerpts.86.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/e13d1d69-9b22-58c3-b83b-39614ccfc525 |
+| source.excerpts.86.value | Dans ces machines , parfaitement ëtamées , la viande poussée successivement sur vingt - deux couteaux parallèles , sort de la boite , où le tout est renfermé , une seconde à peine après qu ’ on l ’ y a introduite .Pendant ce court séjour dans l ’ appareil , elle ne saurait donc y contracter l ’ odeur que donnerait , s ’ il était plus long , un commencement de fermentation inévita - 230 SECTION DE L ’ INDUSTRIE .ble . |
+| source.excerpts.86.words.0 | odeur |
+| source.excerpts.86.words.1 | elle |
+| source.excerpts.86.words.2 | Pendant |
+| source.excerpts.87.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/e5368daf-0937-569d-956b-61cabc6640fc |
+| source.excerpts.87.value | L ’ art initial des Grecs , même certains bas - reliefs des Assyriens et des Egyptiens , l ’ art parfait du siècle de Périclès , les productions de l ’ art étrusque pour les classes d ’ ornement , les sculptures de Mino da Fiesole , du Rosellino , de Donatello , les chanteurs de Luca délia Robbia , ces fleurs exquises du génie florentin au seuil de la renaissance fournissent des exemples dont l ’ influence servirait de correctif immédiat à nos penchants .Quand on recherche un miel parfumé , il faut entourer les ruches de plantes aromatiques .Dernier venu d ’ entre vous , je mets cette pensée sous le patronage de ces vétérans de la protection des Beaux - Arts à Toulouse , si nombreux ici , sentant bien qu ’ elle ne ressort pas , en apparence , aussi directement que je le voudrais de notre mission spéciale . |
+| source.excerpts.87.words.0 | parfumé |
+| source.excerpts.87.words.1 | plantes |
+| source.excerpts.87.words.2 | aromatiques |
+| source.excerpts.87.words.3 | miel |
+| source.excerpts.88.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/ea005b15-11e1-5d73-b5f0-486e0a75f61b |
+| source.excerpts.88.value | ; des hache - paille ; des crics à vis rondes pour voitures , de 9 à 14 fr .l ’ un ; des appareils inodores à cuvette fonte émaillée ou en porcelaine de six systèmes différents , du prix de 18 à 35 fr .; des fouets à vin , de 0 m 90 de longueur ; des fers de chapelier ou de tailleur ; une pompe hydrodynamique à chaîne en gutta - percha ; des demi - tours à manivelles bronzées à verrou , nouveau modèle ; à béquille double à verrou ; des serrures à barre bronzée renforcée , de maître ; des grils à côtelettes , simples , doubles et renforcés ; des chenets de cuisine ; enfin des énucloirs à olives , etc . |
+| source.excerpts.88.words.0 | inodores |
+| source.excerpts.88.words.1 | appareils |
+| source.excerpts.89.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f0539358-3e2d-5fdf-8ec9-8c994565eebc |
+| source.excerpts.89.value | 317 Anglais nomment ginger .On sait que le gingembre , plante vivace de l ' Inde , de Java , ou seulement de la Chine , a des racines charnues , très - odorantes , tendres , que l ’ on confit à l ’ état frais en les faisant baigner dans un sirop de sucre léger .On les envoie parfois en cet état en Europe , où elles arrivent candies , parce qu ’ on les recouvre d ’ un sirop plus épais . |
+| source.excerpts.89.words.0 | racines |
+| source.excerpts.89.words.1 | odorantes |
+| source.excerpts.89.words.2 | gingembre |
+| source.excerpts.90.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f05f4db2-192b-5259-855c-08da8fccd490 |
+| source.excerpts.90.value | Tivoilier et Gour - jon .La pâte de ces savons est plus ferme , l ’ odeur moins sulfureuse , et la coupe révèle moins de principes aqueux .Le Jury croit donc devoir accorder à ces exposants une médaille d ’ argent de 1 re classe . |
+| source.excerpts.90.words.0 | odeur |
+| source.excerpts.90.words.1 | sulfureuse |
+| source.excerpts.90.words.2 | pâte |
+| source.excerpts.90.words.3 | ces savons |
+| source.excerpts.90.words.4 | principes aqueux |
+| source.excerpts.91.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f2021d73-924f-5462-bbc8-e501a11089bf |
+| source.excerpts.91.value | Ce principe conserve les institutions antiques , mais il conserve en même temps la tyrannie , le vice , l ’ oisiveté , la crédulité , l ’ ignorance .« Les Pyramides d ’ Egypte conservent aussi les cadavres embaumés ; mais la vie leur manque , et ces cadavres ne sont pas un peuple .» ( 1 ) Médaille ( l ' Or de S e classe . |
+| source.excerpts.91.words.0 | embaumés |
+| source.excerpts.91.words.1 | cadavres |
+| source.excerpts.91.words.2 | Egypte |
+| source.excerpts.91.words.3 | Pyramides d |
+| source.excerpts.92.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f35fccca-7ea7-50ff-9b47-50cbb734777c |
+| source.excerpts.92.value | .Aigre et fleuri Paraît parfumé artificiellement .11 , 0 11 , 1 10 , 2 26 , 0 24 , 8 22 , 5 1 , 75 1 , 65 1 1 , 90 Meilhou fils aîné . |
+| source.excerpts.92.words.0 | parfumé |
+| source.excerpts.92.words.1 | parfumé artificiellement |
+| source.excerpts.93.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f398838a-4481-50c4-bcad-a3c06e4e912e |
+| source.excerpts.93.value | Le kitre de M .Sernin est amer aussi , mais il sent un peu le goudron .Une mention honorable est accordée à M . |
+| source.excerpts.93.words.0 | amer |
+| source.excerpts.93.words.1 | goudron |
+| source.excerpts.93.words.2 | sent |
+| source.excerpts.94.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f40c3d2f-58d6-5e0c-9f00-fe95219e8cf0 |
+| source.excerpts.94.value | ces fleurs exquises du génie florentin au seuil de la Renaissance , fournissent des exemples dont l ’ influence servirait de correctif immédiat à nos penchants .Quand on recherche un miel parfumé , il faut entourer les ruches de plantes aromatiques .Dernier venu d ’ entre vous , je mets cette pensée sous le patronage de ces vétérans de la protection des Beaux - Arts à Toulouse , si nombreux ici , sentant bien qu ’ elle ne ressort pas , en apparence , aussi directement que je le voudrais , de notre mission spéciale . |
+| source.excerpts.94.words.0 | parfumé |
+| source.excerpts.94.words.1 | plantes |
+| source.excerpts.94.words.2 | aromatiques |
+| source.excerpts.94.words.3 | miel |
+| source.excerpts.95.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f7de3484-d673-5b02-93b6-17b8f3bb8b7b |
+| source.excerpts.95.value | Ses diverses expériences l ’ ont amené à appeler huile de foie de morue normale , celle qui est extraite de foies parfaitement frais , à une chaleur douce et sèche , à l ’ abri du contact de l ’ air , dans des vases de verre ou de porcelaine .L ’ huile ainsi préparée est d ’ un blanc légèrement teinté de verdâtre au sortir de l ’ appareil ; elle exhale une odeur faible de morue fraîche ; elle a une saveur de poisson très douce ; a + 15 ° centigrades ; sa densité est de 0 , 926 .Quelques jours après sa préparation , elle se trouble et dépose de la margarine et de la gaduine . |
+| source.excerpts.95.words.0 | faible |
+| source.excerpts.95.words.1 | huile |
+| source.excerpts.95.words.2 | odeur |
+| source.excerpts.95.words.3 | elle |
+| source.excerpts.95.words.4 | exhale |
+| source.excerpts.95.words.5 | poisson |
+| source.excerpts.95.words.6 | saveur |
+| source.excerpts.95.words.7 | très douce |
+| source.excerpts.95.words.8 | morue fraîche |
+| source.excerpts.96.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f8edc409-4a17-5271-ac7b-e98e96c6a3bb |
+| source.excerpts.96.value | Les Juifs en faisaient un très - grand usage : l ’ Evangile nous apprend que Jésus étant en Béthanie , chez Simon le Lépreux , une femme vint à lui avec un vase d ’ albâtre plein d ’ une huile de parfum d ’ un grand prix , qu ’ elle lui répandit sur la tête lorsqu ’ il était à table .On s ’ en servait également pour embaumer les morts .C ’ est ainsi qu ’ obéissant à un devoir traditionnel remontant jusqu ’ à la civilisation égyptienne , Marie - Madeleine , Marie mère de Jacques , et Salomé , il y a 1832 ans , achetèrent des aromates pour embaumer Jésus . |
+| source.excerpts.96.words.0 | embaumer |
+| source.excerpts.96.words.1 | embaumer les |
+| source.excerpts.97.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/fba739a8-313c-5417-84f1-6279ed66afa0 |
+| source.excerpts.97.value | C ’ est le redon coriaria myrlifolia des naturalistes , qui croît spontanément dans presque tout le midi de la France , et principalement sur les bords du Lot , du Tarn et dans la Haute - Garonne .Sa nuance se rapproche assez de celle du sumac de Sicile ; son odeur est herbacée .C ’ est le plus mauvais des sumacs . |
+| source.excerpts.97.words.0 | odeur |
+| source.excerpts.97.words.1 | son |
+| source.excerpts.97.words.2 | herbacée |
+| source.excerpts.97.words.3 | Sicile |
+| source.excerpts.97.words.4 | sumac |
+| source.excerpts.98.@id | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/fcad9824-6c23-522d-8127-f06c49492a24 |
+| source.excerpts.98.value | On y mélange encore des toiles de campement , dévoilés de navire , et des cordages .Les chiffons sont lessivés et subissent un blanchiment au chlore , immédiatement suivi d ’ ailleurs d ’ un traitement à l ’ anti - chlore ayant pour but de détruire l ’ odeur et le goût du premier agent .Après le délissage et le nettoyage des matières premières , on en fait un classement en quatorze qualités différentes qui , toutes mélangées , donnent les papiers exposés . |
+| source.excerpts.98.words.0 | odeur |
+| source.excerpts.98.words.1 | chiffons |
+| source.excerpts.98.words.2 | premier agent |
+| source.label | Exposition des Beaux-Arts et de l'Industrie à Toulouse, dans les bâtiments de l'ancien monastère des Jacobins : Année 1865 |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k5356585s |
+| source.date | 1865 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/23 |
+| smellSource.0.label | Cadaver |
+| time.0.@id | http://data.odeuropa.eu/time/3887b56b-870f-51ba-86cb-8e88a2fe3f24 |
+| time.0.label | 1865 |
+| time.0.begin | 1865 |
+| time.0.end | 1865 |
+| place.0.@id | https://sws.geonames.org/357994/ |
+| place.0.label | Egypt |
+| place.1.@id | https://sws.geonames.org/355017/ |
+| place.1.label | Pyramids of Giza |
+| relevantExcerpt | http://data.odeuropa.eu/source/970220c4-a604-56b5-a2e7-0082efb915b2/fragment/f2021d73-924f-5462-bbc8-e501a11089bf |
+| license | Public domain |

@@ -1,0 +1,61 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/43707a30-86ae-594c-b659-6f0c0b807ceb",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfum",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/df10240c-ad81-5e11-b168-200baec21fbe",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/df10240c-ad81-5e11-b168-200baec21fbe/fragment/d1e0d419-916e-507c-910c-6c9f7d922a98",
+        "value": "Mes frères et moi avons vécu toute notre vie dans une parfaite union , il n ' y a jamais eu entre nous de dissentiment qui ait duré une heure .Le Psalmisle compare l ' union des frères à la rosée du mont Hermon , et au parfum répandu sur la barbe d ' Aaron .« Ah ! que c ' est une douce « chose , s ' écrie - t - il , que les frères soient unis ensemble ! « C ' est là que le Seigneur répand sa bénédiction , et une « longue vie ! » Mes fils ne devront jamais oublier qu ' ils sont les prolecteurs naturels de leur soeur .",
+        "words": [
+          "parfum",
+          "rosée",
+          "mont",
+          "Hermon",
+          "mont Hermon",
+          "Psalmisle"
+        ]
+      }
+    ],
+    "label": "Je recommande l'âme de ma femme...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k56243483",
+    "date": "1864",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/529",
+      "label": "Rosehip"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/611",
+      "label": "Watch"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/eb87ecc6-9fe7-5dff-bbc1-70c245c11107",
+      "label": "1864",
+      "begin": "1864",
+      "end": "1864"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/169612/",
+      "label": "Mount Hermon"
+    },
+    {
+      "@id": "https://sws.geonames.org/6252331/",
+      "label": "Mount Hermon"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/e6e0a981-9692-5303-9c7e-bf95b5f9d6ae",
+      "label": "mont"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/df10240c-ad81-5e11-b168-200baec21fbe/fragment/d1e0d419-916e-507c-910c-6c9f7d922a98",
+  "license": "Public domain"
+}

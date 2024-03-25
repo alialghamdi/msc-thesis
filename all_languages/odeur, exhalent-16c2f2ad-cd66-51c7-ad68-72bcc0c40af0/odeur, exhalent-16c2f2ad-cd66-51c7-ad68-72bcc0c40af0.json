@@ -1,0 +1,64 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/16c2f2ad-cd66-51c7-ad68-72bcc0c40af0",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "odeur",
+    "exhalent"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/d9af295f-1c7b-5d1a-9208-2794215474aa",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/d9af295f-1c7b-5d1a-9208-2794215474aa/fragment/8c39e6ce-c597-5866-8501-93e577a09847",
+        "value": "3 .Réparation de la rue de la Corne et de l ' Hôtel - Dieu , et convertissement de la chaussée en chaussée bombée avec pente nécessaire aux ruisseaux pour empêcher la stagnation des eaux et la mauvaise odeur qu ' elles exhalent .Cette dépense a aussi le caractère d ' urgence ; mais y a - t - il insuffisance dans les revenus communaux ? vous venez de voir que non , Messieurs ; ainsi inutile de créer des centimes extraordinaires pour cet objet .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "elles",
+          "eaux",
+          "Hôtel - Dieu",
+          "exhalent",
+          "rue de la Corne"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/2d052020-fbe2-5943-b503-64b8e745159e",
+        "label": "Atha Dulong"
+      }
+    ],
+    "label": "Opinion de M. Dulong,... l'un des plus forts contribuables... d'Argenteuil à MM. les membres composant l'Assemblée des plus imposés et des conseillers municipaux",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6549301r",
+    "date": "1847",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/126",
+      "label": "Water"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9d7a25c5-37ed-5022-8b18-e69dd18c1e2a",
+      "label": "1847",
+      "begin": "1847",
+      "end": "1847"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    },
+    {
+      "@id": "https://sws.geonames.org/12519780/",
+      "label": "Rue de la Corne"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/d9af295f-1c7b-5d1a-9208-2794215474aa/fragment/8c39e6ce-c597-5866-8501-93e577a09847",
+  "license": "Public domain",
+  "adjective": "mauvaise"
+}

@@ -1,0 +1,379 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/eeb24416-6364-554c-86b9-dbd8ce729da5",
+  "@graph": "http://data.odeuropa.eu/wikisource",
+  "label": "perfumes",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/14b1cd2b-0705-5f57-915f-5662766f588f",
+        "value": "The period of the hot winds , called the khamsin , that is , “ the fifties , ” is calculated from the day after the Coptic Easter , and terminates on the day of Pentecost , and the Moslems observe the Wednesday preceding this period , called “ Job ’ s Wednesday , ” as well as its first day , when many go into the country from Cairo , “ to smell the air .” This day is hence called Shem en - Nesim , or “ the smelling of the zephyr .” The Ulema observe the same custom on the first three days of the spring quarter .",
+        "words": [
+          "smelling",
+          "Nesim",
+          "of the zephyr"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/174b90ee-aaec-5c39-9f25-de91fe7e22f1",
+        "value": "The genus , from the evidence of leaf - remains , appears to have been represented by several species in Eocene times .The leaves are leathery in texture , hang obliquely or vertically , and are studded with glands which contain a fragrant volatile oil .The petals cohere to form a cap which is discarded when the flower expands .",
+        "words": [
+          "fragrant",
+          "volatile oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/22bb59e9-226d-58a2-a43d-97d37331055f",
+        "value": "P .Boudet ( 1778 – 1849 ) embalmed with tan , salt , asphalt and Peruvian bark , camphor , cinnamon and other aromatics and corrosive sublimate .The last - mentioned drug , chloride and sulphate of zinc , acetate and sulphate of alumina , and creasote and carbolic acid have all been recommended by various modern embalmers .",
+        "words": [
+          "camphor",
+          "cinnamon",
+          "aromatics",
+          "asphalt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/23c98007-7862-5dff-af75-c6a1ac724811",
+        "value": "This constituent is the alkaloid cornutine , which is the valuable ingredient of the drug .Other ingredients are a fixed oil , present to the extent of 30 % , ergotinic acid , a glucoside , trimethylamine , which gives the drug its unpleasant odour , and sphacelinic acid , a non - nitrogenous resinoid body .Of the numerous preparations only two need be mentioned — the liquid extract ( dose 10 minims to 2 drachms or more ) , and the hypodermic injection .",
+        "words": [
+          "trimethylamine",
+          "odour",
+          "unpleasant",
+          "drug",
+          "glucoside"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/2a72f225-5b6c-518a-86e3-cd15c20cfd9f",
+        "value": "But the trimness of her plots and the delicacy of her miniature work have affinities in Maria Edgeworth , Harriet Martineau and Mary Russell Mitford , three excellent writers of pure English prose .There is a finer aroma of style in the contemporary “ novels ” of Thomas Love Peacock ( 1785 – 1866 ) .These , however , are rather tournaments of talk than novels proper , releasing a flood of satiric portraiture upon the idealism of the day — difficult to be apprehended in perfection save by professed students .",
+        "words": [
+          "aroma",
+          "finer",
+          "of style"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/2ca33f79-124a-502c-b484-687f289f695d",
+        "value": "argot , a cock ’ s spur ) , which are violet - black or dark - purple externally , and whitish with a tinge of pink within , are between 1 / { { { 1 } } } and 11 / { { { 1 } } } in .long , and from 1 to 4 lines broad , and have two lateral furrows , a close fracture , a disagreeable rancid taste , and a faint , fishy odour , which last becomes more perceptible when the powder of the drug is mixed with potash solution .Ergot should be kept in stoppered bottles in order to preserve it from the attacks of a species of mite , and to prevent the oxidation of its fatty oil .",
+        "words": [
+          "odour",
+          "faint",
+          "fishy",
+          "more perceptible"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/3235a371-1629-5875-9461-01dd092bf33b",
+        "value": "broad , and have many rays , each three - notched at the extremity .The root is thick , branching and mucilaginous , and has a warm , bitter taste and a camphoraceous odour .For medicinal purposes it should be procured from plants not more than two or three years old .",
+        "words": [
+          "camphoraceous",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/3833f310-d6c2-5620-9479-a670f33e2cdd",
+        "value": "Since about 1870 , when the tree was planted in its cloisters , the monastery of St Paolo a la trè Fontana has become habitable throughout the year , although situated in one of the most fever - stricken districts of the Roman Campagna .An essential oil is obtained by aqueous distillation of the leaves of this and other species of Eucalyptus , which is a colourless or straw - coloured fluid when freshly prepared , with a characteristic odour and taste , of sp .gr .",
+        "words": [
+          "odour",
+          "essential",
+          "of sp .",
+          "the leaves of this"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/3dc09264-527c-596d-871e-36dbda253d29",
+        "value": "There is at Cairo and in other towns a considerable industry in ornamental wood and metal work , inlaying with ivory and pearl , brass trays , copper vessels , gold and silver ornaments , & c .At Cairo and in the Fayum , attar of roses and other perfumes are manufactured .Boat - building is an important trade .",
+        "words": [
+          "other",
+          "perfumes",
+          "roses",
+          "At Cairo",
+          "in the Fayum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/3f1bb1a3-783a-5827-8dbe-1f0629bf1400",
+        "value": "The leaves of the elder are employed to impart a green colour to fat and oil ( unguentum sambuci foliorum and oleum viride ) , and the berries for making wine , a common adulterant of port .The leaves and bark emit a sickly odour , believed to be repugnant to insects .Christopher Gullet ( Phil .",
+        "words": [
+          "odour",
+          "sickly",
+          "The leaves and bark",
+          "repugnant to insects"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/407da5a3-57cf-5086-84a5-4c005d8aa8bf",
+        "value": "In the church is preserved an old Celtic altar - bell of hammered iron , known as the “ Ronnell bell .” Such is the odour of sanctity of this venerable church that there is an old local saying that “ to be thrice prayed for in the kirk of Birnie will either mend or end ye .” Six miles to the S .",
+        "words": [
+          "odour",
+          "in the kirk of Birnie",
+          "of sanctity of this venerable church"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/4406e2cb-d70e-5ff3-b754-d251d14428dc",
+        "value": "The white wines of Baden or the Rhine did not suit him ; he could only drink those of Burgundy or Franche - Comté .He could neither eat , nor bear the smell of , fish .“ His heart , ” he said , “ was Catholic , but his stomach was Lutheran .",
+        "words": [
+          "smell",
+          "He",
+          "of , fish"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/4e7cc1d9-03be-5b7c-8594-7afd50240b64",
+        "value": "Olszewski ) .It has a strong and characteristic odour , and a hot sweetish taste , is soluble in ten parts of water , and in all proportions in alcohol , and dissolves bromine , iodine , and , in small quantities , sulphur and phosphorus , also the volatile oils , most fatty and resinous substances , guncotton , caoutchouc and certain of the vegetable alkaloids .The vapour mixed with oxygen or air is violently explosive .",
+        "words": [
+          "strong",
+          "odour",
+          "sulphur",
+          "It",
+          "certain",
+          "phosphorus",
+          "bromine",
+          "caoutchouc",
+          "characteristic",
+          "iodine",
+          "guncotton"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/4f675aaa-3fa6-53cc-b95e-d325ce51cd8f",
+        "value": "The elder was known to the ancients for its medicinal properties , and in England the inner bark was formerly administered as a cathartic .The flowers ( sambuci flores ) contain a volatile oil , and serve for the distillation of elder - flower water ( aqua sambuci ) , used in confectionery , perfumes and lotions .The leaves of the elder are employed to impart a green colour to fat and oil ( unguentum sambuci foliorum and oleum viride ) , and the berries for making wine , a common adulterant of port .",
+        "words": [
+          "flower",
+          "perfumes",
+          "The flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/54b886cb-83a2-54f6-a6ee-c1d9292f8b09",
+        "value": "; with chromic acid in acetic acid solution it is converted into carbon dioxide and acetic acid , whilst nitric acid oxidizes it to oxalic acid .By the action of alkalis it is converted into iso - eugenol , which on oxidation yields vanillin , the odorous principle of vanilla ( q .v .",
+        "words": [
+          "vanillin",
+          "eugenol",
+          "odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/5574bf16-a365-5f07-964c-3cb44fad3eb7",
+        "value": "writer or essayist , is trite and commonplace — his material worked up by any other hand would be worthless .But , whenever Goldsmith writes about human life , he seems to pay it a compliment , a relief of fun and good fellowship accompanies his slightest description , his playful and delicate touch could transform every thought that he handled into something radiant with sunlight and fragrant with the perfume of youth .Goldsmith ’ s plots are Irish , his critical theories are French with a light top dressing of Johnson and Reynolds or Burke , while his prose style is an idealization of Addison .",
+        "words": [
+          "perfume",
+          "fragrant",
+          "of youth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/559134c0-d2f7-56ee-b888-bea91c37feb2",
+        "value": "When freed from the accompanying inula - camphor by repeated crystallization from alcohol , helenin melts at 110 ° C .By the ancients the root was employed both as a medicine and as a condiment , and in England it was formerly in great repute as an aromatic tonic and stimulant of the secretory organs .“ The fresh roots of elecampane preserved with sugar , or made into a syrup or conserve , ” are recommended by John Parkinson in his Theatrum Botanicum as “ very effectual to warm a cold and windy stomack , and the pricking and stitches therein or in the sides caused by the Spleene , and to helpe the cough , shortnesse of breath , and wheesing in the Lungs .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/5ebbb3d2-f49e-5622-9abc-f8260eec6a7c",
+        "value": "Bartholomew de Glanville , an English Franciscan friar , wrote about 1360 a most popular work , De proprietatibus rerum , in 19 books and 1230 chapters .Book 1 relates to God ; 2 , angels ; 3 , the soul ; 4 , the substance of the body ; 5 , anatomy ; 6 , ages ; 7 , diseases ; 8 , the heavens ( astronomy and astrology ) ; 9 , time ; 10 , matter and form ; 11 , air ; 12 , birds ( including insects , 38 names , Aquila to Vespertilio ) ; 13 , water ( with fishes ) ; 14 , the earth ( 42 mountains , Ararath to Ziph ) ; 15 , provinces ( 171 countries , Asia to Zeugia ) ; 16 , precious stones ( including coral , pearl , salt , 104 names , Arena to Zinguttes ) ; 17 , trees and herbs ( 197 , Arbor to Zucarum ) ; 18 , animals ( 114 , Aries to Vipera ) ; 19 , colours , scents , flavours and liquors , with a list of 36 eggs ( Aspis to Vultur ) .Some editions add book 20 , accidents of things , that is , numbers , measures , weights and sounds .",
+        "words": [
+          "scents",
+          "liquors",
+          "animals",
+          "colours",
+          "flavours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/72680ec6-6d52-5d2d-88cc-93a4254d04f7",
+        "value": "The carpels are united to form a 4 - to 5 - chambered ovary , which bears a simple elongated style ending in a capitate stigma ; each ovary - chamber contains one to many ovules attached to a central placenta .The brightly coloured corolla , the presence of nectar and the scent render the flowers attractive to insects , and the projection of the stigma beyond the anthers favours crossing .The fruit is generally a capsule containing many seeds , as in Erica ( fig .",
+        "words": [
+          "the",
+          "scent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/8287f193-9f84-54f4-9912-1501a4db2b2c",
+        "value": "In the same region , by its author ’ s power of visual imagination , the Biblical paraphrase , so often a mere humdrum narrative , had been transformed , in Patience , into a narrative so detailed and vivid that the reader is almost ready to believe that the author himself , rather than Jonah , went down into the sea in the belly of the great fish , and sat humbled and rebuked beside the withered gourd - vine .And there also , by some strange chance , blossomed , with perhaps only a local and temporary fragrance until its rediscovery in the 19th century , that delicate flower of loneliness and aspiration , Pearl , a wonder of elaborate art as well as of touching sentiment .All these writings are great , not only relatively , but absolutely .",
+        "words": [
+          "fragrance",
+          "local",
+          "temporary"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/9c2a9040-5a47-59d2-b5f6-4618acddffdb",
+        "value": "s .2 ) “ the stinking elder ” is mentioned as a symbol of grief .In Denmark the tree is supposed by the superstitious to be under the protection of the “ Elder - mother ” : its flowers may not be gathered without her leave ; its wood must not be employed for any household furniture ; and a child sleeping in an elder - wood cradle would certainly be strangled by the Elder - mother .",
+        "words": [
+          "the",
+          "stinking",
+          "elder ”"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/a1374e5e-3309-54dd-8873-42109105901d",
+        "value": "The crier continues his daily rounds , with his former chant , excepting on the Coptic New Year ’ s Day , when the cry of the Wef ā is repeated , until the Salib , or Discovery of the Cross , the 26th or 27th of September , at which period , the river having attained its greatest height , he concludes his annual employment with another chant , and presents to each house some limes and other fruit , and dry lumps of Nile mud .The period of the hot winds , called the khamsin , that is , “ the fifties , ” is calculated from the day after the Coptic Easter , and terminates on the day of Pentecost , and the Moslems observe the Wednesday preceding this period , called “ Job ’ s Wednesday , ” as well as its first day , when many go into the country from Cairo , “ to smell the air .” This day is hence called Shem en - Nesim , or “ the smelling of the zephyr .",
+        "words": [
+          "the",
+          "smell",
+          "many",
+          "from Cairo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/b9058e6d-c85f-57b3-a87b-5bdae73cc08a",
+        "value": "699 ) .It is a pleasant - smelling gas , which burns when ignited , and may be condensed to a liquid which boils at 23 .6 ° C .",
+        "words": [
+          "smelling",
+          "gas",
+          "It",
+          "pleasant - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/ba1f6f8d-e619-59e9-acae-618ec35ead43",
+        "value": "Under these acts a sanitary authority is authorized to take proceedings Rivers pollution prevention .to restrain interference with the due flow of a stream or the pollution of its waters by throwing into it the solid refuse of any manufactory or quarry , or any rubbish or cinders , or any other waste or any putrid solid matter .They may also take proceedings in respect of the pollution of a stream by any solid or liquid sewage matter .",
+        "words": [
+          "putrid",
+          "solid matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/bdca9cf4-1de6-569a-8c70-0ec3b3f50eb0",
+        "value": "Beginning as a student and imitator of the best French poetry of his day , he was for a time , like most of his French contemporaries , little more than a skilful maker of elegant verses , dealing with conventional material in a conventional way , arranging in new figures the same flowers and bowers , sunsets and song - birds , and companies of fair women and their lovers , that had been arranged and rearranged by every poet of the court circle for a hundred years , and celebrated in sweet phrases of almost unvarying sameness .Even at this time , to be sure , he was not without close and loving observation of the living creatures of the real world , and his verses often bring us flowers dewy and fragrant and fresh of colour as they grew in the fields and gardens about London , and birds that had learned their music in the woods ; but his poetry was still not easily distinguishable from that of Machault , Froissart , Deschamps , Transoun and the other “ courtly makers ” of France .But while he was still striving to master perfectly the technique of this pretty art of trifling , he became acquainted with the new literature of Italy , both poetry and prose .",
+        "words": [
+          "fragrant",
+          "flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/bff93c43-a124-5319-a674-7ec0827463fb",
+        "value": "Burseraceae ) , which when fresh and of good quality is a pale yellow granular substance , of honey - like consistency , but which gradually hardens with age .It is soluble in alcohol and ether , and has a spicy taste with a smell like fennel .In the 17th and 18th centuries the term elemi usually denoted an oleo - resin ( American or Brazilian elemi ) obtained from trees of the genus Icica in Brazil , and still earlier it meant oriental or African elemi , derived from Boswellia Frereana , which flourishes in the neighbourhood of Cape Gardafui .",
+        "words": [
+          "smell",
+          "It",
+          "like fennel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/c6dd859d-f87e-5e80-926f-6dac5edd8d6b",
+        "value": "Isoamylisovalerate , C4H9 · CO2C5H11 , boils at 196 ° C .and has an odour of apples .Ethyl butyrate , C3H7 · CO2C2H5 , boils at 121 ° C .",
+        "words": [
+          "odour",
+          "of",
+          "of apples"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/cd919da2-5ce4-5486-b9cf-06bd4c634bf5",
+        "value": "They are copies of enamels by Nardon and Jean Pénicaud , Léonard Limosin , Pierre Raymond , Courtois and others .The same artificers also produce copies of old Chinese cloisonné and champlevé enamels , as well as old Battersea enamel snuff - boxes , patch - boxes , and indeed every kind of enamelling formerly practised .It is advisable for the collector never to purchase any piece of enamelling as the work of an old master without having a pedigree extending at least over forty years .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/cedb351d-b3f7-5aa2-a53c-f7586a88da7f",
+        "value": "The vines are trailed on trelliswork , and form agreeable avenues in the gardens of Cairo .The best - known fruits , besides dates and grapes , are figs , sycamore - figs and pomegranates , apricots and peaches , oranges and citrons , lemons and limes , bananas , which are believed to be of the fruits of Paradise ( being always in season ) , different kinds of melons ( including some of aromatic flavour , and the refreshing water - melon ) , mulberries , Indian figs or prickly pears , the fruit of the lotus and olives .Among the more usual cultivated flowers are the rose ( which has ever been a favourite among the Arabs ) , the jasmine , narcissus , lily , oleander , chrysanthemum , convolvulus , geranium , dahlia , basil , the henna plant ( Lawsonia alba , or Egyptian privet , which is said to be a flower of Paradise ) , the helianthus and the violet .",
+        "words": [
+          "aromatic",
+          "figs",
+          "apricots",
+          "bananas",
+          "sycamore",
+          "mulberries",
+          "Indian figs",
+          "prickly pears"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/db41e3a4-9a38-5a0b-a6ca-dcd8f1d293e0",
+        "value": "It is a colourless oil boiling at 247 °   C ., and having a spicy odour .On oxidation with potassium permanganate it gives homovanillin , vanillin , & c .",
+        "words": [
+          "odour",
+          "spicy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/dcd73fed-10cb-5dfc-83ab-e1ebac2af7d9",
+        "value": "The word is used both as a substantive and as an adjective .Having the same Greek origin are the scientific words “ empyreuma ” and “ empyreumatic , ” applied to the characteristic smell of burning or charring vegetable or animal matter .Teutoburger Wald , at an altitude of 358 ft .",
+        "words": [
+          "smell",
+          "characteristic",
+          "of burning or charring vegetable or animal matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/ded0d8e8-ece5-5981-9a82-952434cd4b14",
+        "value": "The nitrogenous ingredients of the fodder also suffer change : in making sour silage as much as one - third of the albuminoids may be converted into amino and ammonium compounds ; while in making “ sweet silage ” a less proportion is changed , but they become less digestible .In extreme cases , sour silage acquires a most disagreeable odour .On the other hand it keeps better than sweet silage when removed from the silo .",
+        "words": [
+          "odour",
+          "a most disagreeable",
+          "sour silage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/eb406448-f2ac-521b-a472-62288e230e40",
+        "value": "chemical compound prepared by passing dry hydrochloric acid gas into absolute alcohol .It is a colourless liquid with a sweetish burning taste and an agreeable odour .It is extremely volatile , boiling at 12 .",
+        "words": [
+          "agreeable",
+          "odour",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/f3e631ee-9553-5cad-9474-8a56538413bd",
+        "value": "The “ sons ” of Jonson , Randolph and Browne , Shadwell and Wilson , were heirs rather to his riot of “ humours , ” his learned method and satiric aim , than to his larger style , his architectural power , or his relieving graces .As a whole , the romantic drama ( so to entitle the remaining bulk of plays down to 1642 ) is a vast stifled jungle , full of wild life and song , with strange growths and heady perfumes , with glades of sunshine and recesses of poisoned darkness ; it is not a cleared forest , where single and Romantic drama .splendid trees grow to shapely perfection .",
+        "words": [
+          "perfumes",
+          "heady"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/f7cc6217-5732-55aa-a0aa-2274b87bd7cc",
+        "value": "The esters of the aliphatic and aromatic acids are colourless neutral liquids , which are generally insoluble in water , but readily dissolve in alcohol and ether .Many possess a fragrant odour and are prepared in large quantities for use as artificial fruit essences .They hydrolyse readily when boiled with solutions of caustic alkalies or mineral acids , yielding the constituent acid and alcohol .",
+        "words": [
+          "Many",
+          "fragrant",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/fa684f68-011b-5b6c-892d-dcbd789a603b",
+        "value": "Ethyl butyrate , C3H7 · CO2C2H5 , boils at 121 ° C .and has an odour of pineapple .The fats ( q .",
+        "words": [
+          "odour",
+          "of pineapple"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/faed7ef7-78b7-536b-a28f-02168a519e69",
+        "value": "The anterior end of the fore - brain remains relatively small throughout life as the infundibulum , and the junction of this part of the fore - brain with the part which is so largely developed , as the rudiment of the cerebrum , is marked by the attachment of the optic chiasma .The optic nerve , indeed , is morphologically the first cranial nerve , the olfactory being the second ; both are attached to what is morphologically the dorsal side of the nerve tube .The morphological anterior end of the central nerve tube is the point of the infundibulum which is in contact with the pituitary body .",
+        "words": "olfactory"
+      }
+    ],
+    "label": "1911 Encyclopædia Britannica",
+    "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica",
+    "date": "1911",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/138",
+      "label": "Rose"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/29ce4f30-b5c5-5df4-b3eb-f13c313f90a9",
+      "label": "1911",
+      "begin": "1911",
+      "end": "1911"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/f9b455da-aec0-5b6f-a446-f04b22660e58",
+      "label": "in the Fayum"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/da22cf80-cc27-5af7-8144-46fcff2a8a14/fragment/3dc09264-527c-596d-871e-36dbda253d29",
+  "adjective": "other"
+}

@@ -1,0 +1,158 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/9ba9263f-3fb5-5af8-b473-7442cf983cb0",
+  "@graph": "http://data.odeuropa.eu/text-annotation",
+  "label": "duhteli",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/0c147cd0-b778-5bf9-821c-96a856491b0d",
+        "value": "“ pozdravil je došlega barona ulanski nadporočnik ter si vihal z dišečo pomado natrte brke.",
+        "words": [
+          "dišečo",
+          "natrte brke",
+          "pomado"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/12abacf1-2a42-5a9f-b94c-be016760d032",
+        "value": "V tem vrtu ti duhte najpestrejše cvetlice, raste sočna zelenjava, rodi plemenito sadje, razprostirajo se pisani travniki, plodovite njive; drevored divjih kostanjev te vabiči v senco, žuboreči potok z drobnimi postrvicami ti mrmrajoč vsniva dušo v omamno domišljijo; bele, vijugaste stezice te mičejo kvišku na reber, da sedeš kam na klopico in si napaseš vid nad lepo ravnino, tihimi vasmi, čarobnim Bledom, slokim Babjim zobom in velikanom Triglavom.",
+        "words": [
+          "najpestrejše",
+          "cvetlice",
+          "duhte",
+          "ti",
+          "V tem vrtu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/1a2fa8b7-6da7-5658-aebd-9a6ccaf0d0f0",
+        "value": "Zlat lestenec je gorel nad dolgo, pogrnjeno mizo, dragoceni šopki so duhteli na mizi, s cvetjem je bil prepleten prt, cela obednica je bila sijajno opravljena, slovesna, razkošna.",
+        "words": [
+          "duhteli",
+          " dragoceni šopki",
+          "cvetjem ",
+          "na mizi ,"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/22842b26-dfeb-5e05-9bd6-97417219e8a7",
+        "value": "“ vzdihnila je Margita, odprla mehanično tintnik, razgrnila belo polo, prijela za držalo, pomočila ostro konico peresa v črnilo in zrla na to belo polje, katero bi morala obdelati, posejati z duhtečim cvetjem ljubavnega pisma.",
+        "words": [
+          "cvetjem",
+          "duhtečim"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/2483fe1c-bc87-5974-b419-e33c4e6be797",
+        "value": "Pričel se je boj, oni kruti boj, ki naj stepta vse nežne cvetice v njenem srcu, ali pa naj očisti zrak in okrepča cvetje, da tem lepše zadiši ob solnčnih žarkih.",
+        "words": [
+          "cvetje",
+          "ob solnčnih žarkih .",
+          "zadiši"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/5d468739-462b-5c48-bba8-6c0752a7ab7e",
+        "value": "Kakor se gane, diši po kmetu; prava istina, gospa plemenita!",
+        "words": [
+          "diši",
+          "kmetu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/7325dc55-3487-5ff1-a68e-905da0f6143b",
+        "value": "Kjer je drdrala prej gosposka kočija, kjer so jahali ‚vitezi‘, kjer je dišal parfum, tam je škripal neroden koš krompirja, tam je gonil pastir na travnike, tam je rataj tiral plug na njivo.",
+        "words": [
+          "dišal",
+          "parfum",
+          " kjer",
+          "kjer "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/87651969-6c49-56f6-8946-51130959e31f",
+        "value": "Iz parka je pa vonjalo najbujnejše cvetje iztočne zemlje, in širokolistne rastline so razprostirale mesnate široke liste in dihale ugodni duh sočnega zelenja; vzpenjale so se vitke palme, goste pinije, platane nad nizkimi lantanami, ketmijami, bodečimi kakti in cvetočimi jukami.",
+        "words": [
+          "duh",
+          "ugodni",
+          "sočnega zelenja"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/9f87b4fe-5a7e-5dc2-8a9e-d4e5f2ce0d79",
+        "value": "In zares se ji je zdelo, da so vse te veselice, ves ta šum, pri katerih igra vedno najveselejšo masko, samo pogrebni izprevodi, da so dehteči šopki deli mrtvaških vencev, da so njena svilena krila prti za tumbo, krog katere že prižigajo blede sveče, ki bodo gorele do smrti ob katafalku njene sreče.",
+        "words": [
+          "dehteči",
+          "šopki"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/aec31075-0fe3-58be-a161-0c52e2a43b7e",
+        "value": "Svilena krila so šumela, vonj najfinejših dišav se je širil po salonu in se prelival v mehko toploto, ki je dihala od krasne peči v renesančnem slogu.",
+        "words": [
+          "vonj",
+          "po salonu",
+          "najfinejših dišav",
+          "se prelival v mehko toploto , ki je dihala od krasne peči v renesančnem slogu ."
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/cd850852-9b72-5b20-bdd5-362f9231c7dd",
+        "value": "In tako so jo te duhteče in vonjajoče razmere zazibale in zasipale v neko nejasno meglo, da se je zibala v njih kot gondola na lahnih valčkih, zibala brez misli in brez pravega čuta.",
+        "words": "duhteče"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/cfad8bc2-a1ac-53cb-9549-566c94f10f14",
+        "value": "Pred peronom je korakal mogočno sloki dolgobradi postajni načelnik, popravljal si ščipalnik na precej rtastem nosu, pogledoval na uro in se oziral proti progi, kjer se je imel vsak trenutek pojaviti sivkasti dim osebnega vlaka.",
+        "words": [
+          "sivkasti",
+          "dim",
+          "osebnega vlaka",
+          "vsak trenutek"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/f6a9518e-9e8b-5e0b-bca0-7a7ac353ca2c",
+        "value": "Pečenka diši od njegovega soseda.",
+        "words": [
+          "Pečenka",
+          "diši",
+          "od njegovega soseda"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/2edd7343-d4c3-5838-8856-77e3e773fedc",
+        "label": "Saleški Finžgar, Fran"
+      }
+    ],
+    "genre": [
+      {
+        "@id": "http://data.odeuropa.eu/genre/LIT",
+        "label": "Novels & poetry"
+      }
+    ],
+    "label": "Kvišku",
+    "url": "http://nl.ijs.si/imp/wikivir/dl/WIKI00273-1899.html",
+    "date": "1899",
+    "language": "sl"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/36fe5321-c19d-5fe7-bcca-6ff410672e98",
+      "label": "1899",
+      "begin": "1899",
+      "end": "1899"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/93501/",
+      "label": "Mayzī"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/cfc5e54f-0cb3-500d-85ae-a4a37f26b8f9/fragment/1a2fa8b7-6da7-5658-aebd-9a6ccaf0d0f0"
+}

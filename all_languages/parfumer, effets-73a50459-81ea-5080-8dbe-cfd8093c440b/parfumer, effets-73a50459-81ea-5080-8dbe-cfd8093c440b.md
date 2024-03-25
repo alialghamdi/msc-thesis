@@ -1,0 +1,31 @@
+## parfumer, effets
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/73a50459-81ea-5080-8dbe-cfd8093c440b |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | parfumer |
+| label.1 | effets |
+| source.@id | http://data.odeuropa.eu/source/9a5466c1-64b8-5972-bf4b-1dbe463f8dbe |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/9a5466c1-64b8-5972-bf4b-1dbe463f8dbe/fragment/98e6426e-e2ba-5479-b324-780bfd5a945e |
+| source.excerpts.0.value | — M .de Lesseps , gérant du Consulat de France à Alexandrie , chargé de la Commission consulaire de santé , ordonne de parfumer et exposer ensuite sur les terrasses ou dans les cours les effets existant dans les maisons de chaque habitant ; Enlever les ordures ; Blanchir les maisons ; Transporterai ! lazaret les familles suspectes ; Mettre en quarantaine les maisons infectées et isoler les établissements publics .Le l ) 1 ' Perron , 1841 , directeur de l ’ Ecole de médecine du Caire , regrette ces quarantaines de maisons isolées ; I il demande qu elles soient limitées , car « la prudence « sage et calme indique d ' après les résultats de l ’ expé - « rience » que la limite maxima ne doit pas excéder huit jours en général . |
+| source.excerpts.0.words.0 | Alexandrie |
+| source.excerpts.0.words.1 | parfumer |
+| source.excerpts.0.words.2 | effets |
+| source.author.0.@id | http://data.odeuropa.eu/actor/c8617509-8209-53e8-8e29-5c12adfb1fdd |
+| source.author.0.label | Pierre  Coudour |
+| source.label | Les quarantaines / par le Dr Pierre Coudour |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k937424x |
+| source.date | 1904 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/9866b63b-c635-5d3c-be7a-0a79520cd327 |
+| time.0.label | 1904 |
+| time.0.begin | 1904 |
+| time.0.end | 1904 |
+| place.0.@id | https://sws.geonames.org/361058/ |
+| place.0.label | Alexandria |
+| relevantExcerpt | http://data.odeuropa.eu/source/9a5466c1-64b8-5972-bf4b-1dbe463f8dbe/fragment/98e6426e-e2ba-5479-b324-780bfd5a945e |
+| license | Public domain |

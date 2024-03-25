@@ -1,0 +1,50 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/b8b1116e-5700-5c37-8b85-f9f56fe14b96",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "exsudatives",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/571efb94-b297-5738-a8ab-becc4271c3cb",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/571efb94-b297-5738-a8ab-becc4271c3cb/fragment/70f3d7a9-005a-5531-a1c2-779b92ffa74a",
+        "value": "Pas d ’ autre symptôme que Fairaiblissement graduel de la vision : aujourd ’ hui la cornée est sensible ; la pupille très - pure , l ' iris normal , et l ' œil perçoit à peine la lumière d ’ une lampe de fort calibre .Dureté glaucomateuse du globe .Fig .",
+        "words": "glaucomateuse"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/571efb94-b297-5738-a8ab-becc4271c3cb/fragment/e5ba2fc7-bc82-5212-acbc-74fc853de3ba",
+        "value": "Extravasation sanguine vers le point d ’ émergence de l ’ une des branches sinueuses des vaisseaux .Au - dessous de la région malade on remarque quelques petites masses exsudatives .Les vaisseaux , en se rapprochant de la papille , s ’ effilent et disparaissent en des points distincts et isolés qui correspondent approximativement au limbe sclérotical .",
+        "words": [
+          "région",
+          "exsudatives"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/74ed3cd9-a59a-5b65-90eb-91063f455e1b",
+        "label": "Maurice  Perrin"
+      }
+    ],
+    "label": "Traité pratique d'ophthalmoscopie et d'optométrie. ATLAS, 1 / par M. Maurice Perrin,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k42266742",
+    "date": "1870",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/78c87a1c-9032-5273-97e0-968dd7fce3a2",
+      "label": "1870",
+      "begin": "1870",
+      "end": "1870"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/571efb94-b297-5738-a8ab-becc4271c3cb/fragment/e5ba2fc7-bc82-5212-acbc-74fc853de3ba",
+  "license": "Public domain"
+}

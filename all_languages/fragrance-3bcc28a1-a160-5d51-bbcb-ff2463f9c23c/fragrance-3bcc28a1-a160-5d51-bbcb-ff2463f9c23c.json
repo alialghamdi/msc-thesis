@@ -1,0 +1,168 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/3bcc28a1-a160-5d51-bbcb-ff2463f9c23c",
+  "@graph": "http://data.odeuropa.eu/wikisource",
+  "label": "fragrance",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/037e2763-e0dd-5177-ba3b-9d19b6fb0e37",
+        "value": "A DREAM OF ARTEMIS 139 For one blue minute then there was no sound Save water - noise , slow round a rushy bend , And bird - delight , and ripples on the ground Of windy flowers that swelling would ascend The coloured hill and break all beautiful And , falling backwards , to the woods would send The full tide of their love .What soft moons pull Their moving fragrance ? did I ask , and found Sad Io in far Egypt met a friend .— It was my body thought so , far away In the grey future , not the wild bird tied That is the wandering soul .",
+        "words": [
+          "fragrance",
+          "Their",
+          "moving",
+          "in far Egypt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/041cd461-a55a-5cfc-9af4-fc70fe21efe1",
+        "value": "But when the year grew chill and brown , And all the wings of Summer flown , Within the tumult of a town She left me to grow old alone .242 YOUTH She paved the way with perfume sweet Of flowers that moved like winds alight , And never weary grew my feet Wandering through the spring ' s delight .She dropped her sweet fife to her lips And lured me with her melodies , To where the great big wandering ships Put out into the peaceful seas .",
+        "words": [
+          "perfume",
+          "flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/07d9cf8a-4c46-5a04-9fef-2b507b23a3f7",
+        "value": "Nor Autumn with her brown line marks The time of larks , the length of roses , But song - time there is over never Nor flower - time ever , ever closes .THE LANAWN SHEE 287 And wildly through uncurling ferns Fast water turns down valleys singing , Filling with scented winds the dales , Setting the bells of sleep a - ringing .And when the thin moon lowly sinks , Through cloudy chinks a silver glory Lingers upon the left of night Till dawn delights the meadows hoary .",
+        "words": [
+          "scented",
+          "winds",
+          "the dales",
+          "uncurling ferns"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/2d567c34-564d-5de6-9502-a376fa12267b",
+        "value": "No fairy aid can save them now Nor turn their prow upon the ocean , The hundred years that missed each heart Above them start their wheels in motion .288 THE LANAWN SHEE Then , gathered all about the trees Glad galaxies of youth are dancing , Treading the perfume of the flowers , Filling the hours with mazy glancing .And when the dance is done , the trees Are left to Peace and the brown woodpecker , And on the western slopes of sky The day ' s blue eye begins to flicker .",
+        "words": [
+          "perfume",
+          "of the flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/2ed9416e-2593-5a73-95df-1404fb3b3a84",
+        "value": "The squirrel leaves her dusty house And in the boughs makes fearless gambol , And , falling down in fire - drops , red , The fruit is shed from every bramble .THE LANAWN SHEE 287 And wildly through uncurling ferns Fast water turns down valleys singing , Filling with scented winds the dales , Setting the bells of sleep a - ringing .And when the thin moon lowly sinks , Through cloudy chinks a silver glory Lingers upon the left of night Till dawn delights the meadows hoary .",
+        "words": [
+          "scented",
+          "winds",
+          "the dales",
+          "uncurling ferns"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/523e06dd-e90d-5792-8c6d-38b5f2b2733a",
+        "value": "Shall we follow the swallow again , again , Ah ! little yearning thing , you and I ? You and I to the South again , And heart ! Oh , heart , how you shall sigh , For the kind soft wind that follows the rain , And the raindrop shed from the daisy ' s eye .222 SONG The winds are scented with woods after rain , And a raindrop shines in the daisy ' s eye .Shall we follow the swallow again , again , Ah ! little yearning thing , you and I ? You and I to the South again , And heart ! Oh , heart , how you shall sigh , For the kind soft wind that follows the rain , And the raindrop shed from the daisy ' s eye .",
+        "words": [
+          "scented",
+          "The winds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/60452f7d-853f-5ef6-8f33-dede8e00689b",
+        "value": "Behind the day We may behold thee , soft one , hunted wide By the loud gadfly ; but the truant soul Knows thee before thou lay by night ' s dark side , Wed to the dimness ; long before its dole A DREAM OF ARTEMIS 139 For one blue minute then there was no sound Save water - noise , slow round a rushy bend , And bird - delight , and ripples on the ground Of windy flowers that swelling would ascend The coloured hill and break all beautiful And , falling backwards , to the woods would send The full tide of their love .What soft moons pull Their moving fragrance ? did I ask , and found Sad Io in far Egypt met a friend .— It was my body thought so , far away In the grey future , not the wild bird tied That is the wandering soul .",
+        "words": [
+          "fragrance",
+          "Their",
+          "moving",
+          "in far Egypt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/6ac189f1-396d-56fe-92a2-f010611d20be",
+        "value": "Ah ! but I was nearer the gods when \" Old Clo ' .\" YOUTH She paved the way with perfume sweet Of flowers that moved like winds alight , And never weary grew my feet Wandering through the spring ' s delight .She dropped her sweet fife to her lips And lured me with her melodies , To where the great big wandering ships Put out into the peaceful seas .",
+        "words": [
+          "perfume",
+          "Of flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/83b9f32f-9336-5608-90c4-c54540d1297b",
+        "value": "And that is why we feast , and that is why We ' re growing odd and old , my heart and I .AFTER MY LAST SONG Where I shall rest when my last song is over The air is smelling like a feast of wine ; And purple breakers of the windy clover Shall roll to cool this burning brow of mine ; And there shall come to me , when day is told The peace of sleep when I am grey and old .I ' m wild for wandering to the far - off places Since one forsook me whom I held most dear .",
+        "words": [
+          "smelling",
+          "The air",
+          "like a feast of wine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/9654ab0c-2415-5891-aa31-ed82d86f1751",
+        "value": "And I will meet her on the hills of South , And I will lead her to a northern water , 44 A SONG OF APRIL The censer of the eglantine was moved By little lane winds , and the watching faces Of garden flowerets , which of old she loved , Peep shyly outward from their silent places .But when the sun arose the flowers grew bolder , And she will be in white , I thought , and she Will have a cuckoo on her either shoulder , And woodbine twines and fragrant wings of pea .And I will meet her on the hills of South , And I will lead her to a northern water , 44 A SONG OF APRIL 45 My wild one , the sweet beautiful uncouth , The eldest maiden of the Winter ' s daughter .",
+        "words": [
+          "fragrant",
+          "woodbine twines",
+          "wings of pea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/a70694fb-9320-5511-9152-ead31e0d2245",
+        "value": "I want to see new wonders and new faces Beyond East seas ; but I will win back here When my last song is sung , and veins are cold As thawing snow , and I am grey and old .133 AFTER MY LAST SONG Where I shall rest when my last song is over The air is smelling like a feast of wine ; And purple breakers of the windy clover Shall roll to cool this burning brow of mine ; And there shall come to me , when day is told The peace of sleep when I am grey and old .I ' m wild for wandering to the far - off places Since one forsook me whom I held most dear .",
+        "words": [
+          "smelling",
+          "The air",
+          "I",
+          "like a feast of wine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/b5f42e65-f570-5854-bb42-297e2a5eedb8",
+        "value": "EVENING CLOUDS 221 What he loved most ; for late I roamed awhile Thro ' English fields and down her rivers sailed ; And they remember him with beauty caught From old desires of Oriental Spring Heard in his heart with singing overwrought ; And still on Purley Common gooseboys sing .SONG The winds are scented with woods after rain , And a raindrop shines in the daisy ' s eye .Shall we follow the swallow again , again , Ah ! little yearning thing , you and I ? You and I to the South again , And heart ! Oh , heart , how you shall sigh , For the kind soft wind that follows the rain , And the raindrop shed from the daisy ' s eye .",
+        "words": [
+          "scented",
+          "The winds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/c45b2dfe-6c4f-5831-af56-35f779ad6e23",
+        "value": "The squirrel leaves her dusty house And in the boughs makes fearless gambol , And , falling down in fire - drops , red , The fruit is shed from every bramble .288 THE LANAWN SHEE Then , gathered all about the trees Glad galaxies of youth are dancing , Treading the perfume of the flowers , Filling the hours with mazy glancing .And when the dance is done , the trees Are left to Peace and the brown woodpecker , And on the western slopes of sky The day ' s blue eye begins to flicker .",
+        "words": [
+          "perfume",
+          "of the flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/d9ec7a2e-abea-5736-9faa-1efe155b148f",
+        "value": "A SONG OF APRIL The censer of the eglantine was moved By little lane winds , and the watching faces Of garden flowerets , which of old she loved , Peep shyly outward from their silent places .But when the sun arose the flowers grew bolder , And she will be in white , I thought , and she Will have a cuckoo on her either shoulder , And woodbine twines and fragrant wings of pea .And I will meet her on the hills of South , And I will lead her to a northern water , 44 A SONG OF APRIL The censer of the eglantine was moved By little lane winds , and the watching faces Of garden flowerets , which of old she loved , Peep shyly outward from their silent places .",
+        "words": [
+          "fragrant",
+          "woodbine twines",
+          "wings of pea"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6e95d825-f8fd-5982-ac75-bcd5032752a1",
+        "label": "Francis Ledwidge"
+      }
+    ],
+    "label": "The Complete Poems of Francis Ledwidge",
+    "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Francis_Ledwidge%2C_1919",
+    "date": "1919",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/3eb320dd-bd35-5425-b589-ad263e6e87ff",
+      "label": "1919",
+      "begin": "1919",
+      "end": "1919"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/349648/",
+      "label": "Şandafā al Fār"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/curiosity",
+      "label": "curiosity"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/7ef649f9-e13d-5d2c-aa83-482e6f9a0cd2/fragment/60452f7d-853f-5ef6-8f33-dede8e00689b",
+  "adjective": "moving"
+}

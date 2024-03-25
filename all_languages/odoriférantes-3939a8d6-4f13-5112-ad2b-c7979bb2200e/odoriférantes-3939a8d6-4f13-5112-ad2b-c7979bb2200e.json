@@ -1,0 +1,51 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/3939a8d6-4f13-5112-ad2b-c7979bb2200e",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odoriférantes",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/cb9aec15-d26f-5ca6-b01c-b6e744c9ef9e",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/cb9aec15-d26f-5ca6-b01c-b6e744c9ef9e/fragment/87befc43-2946-5821-b895-2e7906d10ded",
+        "value": "24 — DE JERUSALEM A BETHLÉEM ' 11 n ' y a que deux petites lieues de Jérusalem à Bethléem , et le chemin est très bon si on le compare aux autres de la Palestine , qui ne sont , pour la plupart , que des sentiers plus ou moins rocailleux et abrupts .C ' était une des cinq routes royales qui conduisaient à Jérusalem ; elle était autrefois pavée , ombragée , entourée de jardins , de vignes , de roses et de plantes odoriférantes .Tout cela a disparu , sans doute ; mais ce qui restera toujours , ce sont les souvenirs , et ce qui la rend infiniment chère aux pèlerins , cest qu ' elle conduit à la crèche de Jésus - Christ .",
+        "words": [
+          "Jérusalem",
+          "roses",
+          "plantes",
+          "odoriférantes"
+        ]
+      }
+    ],
+    "label": "Le plan de Jérusalem et de Bethléem d'après M. Couadeau",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5800663h",
+    "date": "1879",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/138",
+      "label": "Rose"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/78",
+      "label": "Plant"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/e5c3d1f1-1348-5148-88b1-1c422c9482f4",
+      "label": "1879",
+      "begin": "1879",
+      "end": "1879"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/cb9aec15-d26f-5ca6-b01c-b6e744c9ef9e/fragment/87befc43-2946-5821-b895-2e7906d10ded",
+  "license": "Public domain"
+}

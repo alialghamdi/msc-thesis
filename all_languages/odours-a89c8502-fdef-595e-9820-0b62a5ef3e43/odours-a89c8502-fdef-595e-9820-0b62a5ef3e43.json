@@ -1,0 +1,508 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/a89c8502-fdef-595e-9820-0b62a5ef3e43",
+  "@graph": "http://data.odeuropa.eu/gutenberg",
+  "label": "odours",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/05223e0e-499e-55a6-a499-181a61218699",
+        "value": "Both sea and fresh water in abundance is brought to every part of the internal cities , which abound in waterfalls and fountains , nothing being omitted that may contribute to beauty , health , or comfort .Many of the most lovely flowers and plants in the external world are those which flourish in the red shade , and are , therefore , eminently suited to the internal cities , where , planted in profusion , they flourish greatly , and emit aromas like your essences , but invariably fresh , sweet , and wholesome .Their natural beauty and odours are increased by electricity , an agent by means of which we can give most beautiful fragrance - - nay , colour , form , and variety to flowers in general .",
+        "words": [
+          "fresh",
+          "they",
+          "aromas",
+          "like your essences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/0d398ca7-309b-5cba-9384-d6594dacd06c",
+        "value": "After many disappointments and unsuccessful attempts to obtain the vegetable I wished , I succeeded , by artificial means frequently employed , in growing a small vegetable , combining the flavour of a delicate cream with the piquancy of lemon .The most difficult part of my task had however not been accomplished , namely , to give to the vegetable all the aromatic and stimulating flavours of the prohibited spices .A fine specimen of the seed of each of the spice plants having been procured , I took from the heart of each seed the smallest possible particle , and , having with the greatest care made an incision in one of the finest seeds of my new vegetable , I inserted therein one specimen of each of these minute particles .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/110546a4-cd1c-5a74-bc2b-3dd54dc2ee97",
+        "value": "I have seen the most ardent natures calmed and rendered gentle by the divine strains of this angelic instrument .It is said that in the angelic spheres flowers breathe music as well as fragrance , and that the sound itself has form , colour , and perfume .This belief suggested the thought of uniting them in harmonious concert for the gratification of those who had exercised the gifts accorded them by Heaven to a good end .",
+        "words": [
+          "perfume",
+          "flowers",
+          "fragrance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/1438569a-5b59-59c1-b27d-f5b7106568c5",
+        "value": "It has a delicious flavour , and is used for various beverages , but not for culinary purposes , since , when mixed with certain things , it turns black and loses its fragrance .Trees , plants , and flowers perfume the air with their fragrance ; whilst birds of endless variety and richest plumage have their nests in the tall and wide - spreading trees of varied - coloured foliage and fill the air with their music .In the trees are placed artificial nests to entice the birds ; these invite others , which build their nests spontaneously .",
+        "words": [
+          "Trees",
+          "perfume",
+          "the air",
+          "plants",
+          "flowers",
+          "fragrance",
+          "their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/168a31fb-2c95-5db1-b8f4-581bc44ed9e0",
+        "value": "FLOWERS .\" In the celestial spheres , flowers breathe music as well as fragrance .\" Allusion has been made to the use of flowers at the \" choice \" meetings , as the medium through which the maiden indicates the gentleman on whom her choice has fallen .",
+        "words": [
+          "flowers",
+          "fragrance",
+          "In the celestial spheres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/17e8ed1c-2e2a-5676-832d-03cfbc520c64",
+        "value": ".\" Come to me , Thy virtues are more brilliant than precious stones ; Thy breath exhales intoxicating perfume ; Thy beauty is a continual feast .Tell me thy heart shall be my haven , To my bosom I will press thee , And thy leaves shall embrace me with their fragrant affection .",
+        "words": [
+          "perfume",
+          "intoxicating",
+          "Thy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/19e4469e-6f7f-55d7-93ad-e0206e14ce40",
+        "value": "Where the flowers and leaves have not a decided perfume of their own , we can give a beautiful fragrance to either , though not to both on the same plant .To produce this result , we inoculate the plant with certain fragrant gases .Our dahlias , unlike yours , yield a highly fragrant and delightful perfume .",
+        "words": [
+          "the",
+          "fragrant",
+          "gases"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/1dcbf2d5-0bd8-5ec4-b6fd-f4a347c52615",
+        "value": "The pores being opened facilitate the reception of the fresh exhalations from the earth and the expulsion of the impure gases from the body .The boy often sleeps whilst thus immersed , as it is considered highly beneficial to inhale the fresh fragrance of the earth .The electricities proper to the earth and trees being very sympathetic to the human frame , they readily mingle with the electricity of the patient and assist in repelling the unhealthy gases and impurities in his body .",
+        "words": [
+          "fresh",
+          "fragrance",
+          "of the earth"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/20ba00fd-5935-569d-86d8-0e579165af36",
+        "value": "- - PAPER .Made from leaves of trees - - Peculiarities - - Process of manufacture - - Healthful fragrance - - Colour - - \" Natural \" paper - - GOLDEN COLOURED PAPER - - Its connection with the Allmanyuka - - The incident which led to its discovery XXXIX .- - CONSUMPTION - - THE ÉMEUTE .",
+        "words": [
+          "fragrance",
+          "GOLDEN",
+          "Healthful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/21bd53f3-fdbc-528a-9031-11fca5a36b0f",
+        "value": "The more strongly the chords are touched , the more powerfully does the fragrance play around .In tender passages the perfume gradually dies away , till it becomes so faint as to be appreciated only by the most delicate organisations .The result , however , is , that the sense is gratified , the heart touched , and the whole soul elevated .",
+        "words": [
+          "perfume",
+          "so faint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/255179ee-4d7f-511d-880f-3aa7b5c63187",
+        "value": "The pit is then covered over , though an aperture is left sufficiently large to admit air and to serve for observation and egress from the hut , from the top of which is an opening corresponding to the aperture above .In the centre of the net some dead goats have been previously placed with a stuff of a very savoury odour , which the beast can smell for miles off , and which is so strong that when he approaches , he does not scent the men in the hut .The rest of the hunters lie in wait in a secure place .",
+        "words": [
+          "the",
+          "odour",
+          "smell",
+          "so strong",
+          "scent",
+          "he",
+          "very savoury",
+          "in the hut",
+          "for miles off",
+          "the beast",
+          "when he approaches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/27d7e058-bcf8-5dce-bccc-bb7f23acbc12",
+        "value": "The water of these is preserved in tanks erected at the end of the streams , trenches being cut to assist the flow .It has a delicious flavour , and is used for various beverages , but not for culinary purposes , since , when mixed with certain things , it turns black and loses its fragrance .Trees , plants , and flowers perfume the air with their fragrance ; whilst birds of endless variety and richest plumage have their nests in the tall and wide - spreading trees of varied - coloured foliage and fill the air with their music .",
+        "words": [
+          "It",
+          "fragrance",
+          "its",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/2eae2511-06ff-5343-859e-706486ad7584",
+        "value": "The perfume of the everlasting gulf .- - A gulf the waters of which emitted a delicious fragrance , and when taken from the gulf would not keep together , but separated into drops like tears .In our legends it is supposed that a lovely woman had for some grave sin been turned into a gulf , and that her breathings were continually wafted towards Heaven in prayer .",
+        "words": [
+          "delicious",
+          "fragrance",
+          "A gulf"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/30501f25-3bbb-5259-9aa5-4774b629e2e5",
+        "value": "Many of the most lovely flowers and plants in the external world are those which flourish in the red shade , and are , therefore , eminently suited to the internal cities , where , planted in profusion , they flourish greatly , and emit aromas like your essences , but invariably fresh , sweet , and wholesome .Their natural beauty and odours are increased by electricity , an agent by means of which we can give most beautiful fragrance - - nay , colour , form , and variety to flowers in general .The communication from the palaces in the external world is often by means of a winding path , descending from the basement of the upper palace to the palace in the internal world .",
+        "words": [
+          "odours",
+          "fragrance",
+          "Their",
+          "most beautiful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/382b9da2-6c97-550d-b9bd-0f3976d6d27b",
+        "value": "By the process of cooking , the fruit - vegetable had been dissolved to the consistency of a jelly , and formed the most relishing sauce ever tasted , - - aromatic , stimulating , and appetising .To a richness like cream was added the pungency and aromatic flavour of spices , with the relish of salt and the piquancy of fresh lemon - juice - - in a word , the combination presented the finest flavour for a condiment that could possibly be desired , surpassing all the spices and sauces hitherto known in my world .Indeed , it was so exquisitely appetising that an epicure might easily be tempted to eat the vegetable without the addition of the meat .",
+        "words": [
+          "aromatic",
+          "flavour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/3b9bf53f-5b97-5b16-813a-3641aca7ea6c",
+        "value": "Besides all this , twice a week , amusing lectures are delivered , on familiar subjects , to explain and illustrate the power and goodness of God .A flower , for instance , is taken , and , in simple terms , intelligible to nearly every capacity , attention is called to its thousand fibres , its construction , growth , perfume , colour , delicacy of texture , loveliness , and to the wonders associated with its birth , death , and resurrection to life .Another day , perhaps , the subject may be a child , a fly , or some other familiar object ; but , whatever be the subject , the discourse is of a good tendency , and youth are early imbued with love and admiration for the Supreme Being .",
+        "words": [
+          "perfume",
+          "A flower"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/43b602cb-9e38-5196-acaf-e05eff25c53f",
+        "value": "The horse - chestnut leaf makes some of the best paper ; the leaves of the lilac - tree and of the apple - tree are also excellent ; but perhaps the best leaf of all for very fine paper is the vine leaf , which has less moisture , and gives less trouble in the preparation .In the manufacture of paper the leaves are subjected to a great pressure , and the fragrance emitted from the crushed leaves is delicious , and considered very wholesome , so much so indeed that young children are often sent to reside near the place where the leaves are being crushed to inhale the fragrance .The original moisture is removed by a substance , chiefly consisting of a very fine sand , beautifully compounded with other materials , and spread over a hard pliant stuff .",
+        "words": [
+          "very",
+          "delicious",
+          "fragrance",
+          "from the crushed leaves",
+          "young children are often sent to reside near"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/4c5d2464-1587-51c6-a7cb-37e470092f72",
+        "value": "The instant the player strikes the chords , the little birds open their wings , the flowers quiver in gentle action , and then from the vases are thrown off jets of perfume .The more strongly the chords are touched , the more powerfully does the fragrance play around .In tender passages the perfume gradually dies away , till it becomes so faint as to be appreciated only by the most delicate organisations .",
+        "words": "fragrance"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/516d0c11-60ae-58e5-a84f-15e71be30ddb",
+        "value": "The success was beyond my best hopes .By the process of cooking , the fruit - vegetable had been dissolved to the consistency of a jelly , and formed the most relishing sauce ever tasted , - - aromatic , stimulating , and appetising .To a richness like cream was added the pungency and aromatic flavour of spices , with the relish of salt and the piquancy of fresh lemon - juice - - in a word , the combination presented the finest flavour for a condiment that could possibly be desired , surpassing all the spices and sauces hitherto known in my world .",
+        "words": [
+          "aromatic",
+          "stimulating",
+          "appetising"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/53350b15-d23f-5b11-b99b-c8740f6528d9",
+        "value": "When it is not desirable to take the animals alive their capture is more easy .One mode of killing them is as follows : - - A man stations himself among the branches of a high tree , near the haunts of the animals , and holds a long pole which hangs downwards , and at the end of this a dead rabbit is fixed , in which , besides a strongly - smelling stuff , is placed a deadly poison .As soon as the wild beast sees the rabbit , he makes a dash at the pole , seizes the rabbit , eats it and , the effects of the poison being instantaneous , falls down almost immediately to expire .",
+        "words": [
+          "smelling",
+          "stuff",
+          "strongly - smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/61622c2d-08d8-570e-8530-7fac83afde2b",
+        "value": "( _ Explanation of terms used in the Song of Admiration ._ ) The Spangled Mountain - - The reviled beauty - - Slander and its promulgators - - The Legend of Zacosta - - Fall of her Tormentors - - Happiness of the higher order of Spirits - - Slander regarded with horror - - Motives of the Slanderers - - The King of the Air - - The loving little animal - - The ingenious instrument for discovering diamonds - - The pet animal - - The Meleeta - - The Turvee Insect - - Shooting Stars - - Whale Electricity - - The Martolooti - - The Flower of Grace - - The Chilarti - - The Allmanyuka - - The perfume of the everlasting gulf - - The Hippopotamus hide - - Fat of the Serpent ' s head - - The Mestua Mountain - - Wet thy feet - - Stainers ' fount - - Water - - The Mountain Supporter XXVII .- - SYLIFA .",
+        "words": [
+          "perfume",
+          "of the everlasting gulf",
+          "The Hippopotamus hide",
+          "The Chilarti",
+          "The Allmanyuka"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/6d42708c-6a47-57b9-b3ac-06f965184527",
+        "value": "Frogs produce a beautiful violet .Where the flowers and leaves have not a decided perfume of their own , we can give a beautiful fragrance to either , though not to both on the same plant .To produce this result , we inoculate the plant with certain fragrant gases .",
+        "words": [
+          "perfume",
+          "fragrance",
+          "beautiful",
+          "decided",
+          "the flowers and leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/78830501-44df-54c3-8b37-8a9f8d924f64",
+        "value": "- - FLOWERS IMPROVED BY ELECTRICITY .Mode in which nature operates - - Vitality of seed - - Consequence of injury - - Production of leaves - - Of colour - - United electricities form gatherings - - Important discovery - - Sap , the reservoir of electricity - - PROCESS FOR CHANGING FORM - - PROCESS FOR CHANGING COLOUR - - For giving fragrance - - THE LUANIA - - SUN - FORCING XXVI .- - SONG OF ADMIRATION .",
+        "words": [
+          "fragrance",
+          "THE LUANIA",
+          "PROCESS",
+          "CHANGING COLOUR",
+          "SUN"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/793ca38a-96e5-5ca2-826b-301f30b2fd22",
+        "value": "\" Marry nature ' s gifts the one with the other , amalgamate sympathetic electricities in their due proportions , and give increased beauty to loveliness , even as ye give increased strength to iron and marble , by welding their particles into one imperishable mass .\" We discovered the mode in which nature operates in the production of plants and flowers , and our discovery has enabled us to give them new forms and varied colours , to increase their natural odours and to endow them even with fragrance of which in their natural state they are devoid .Enclosed in every seed is a portion of electricity , and on this depend , in the first instance , the life of the plant , its form and colour , its leaves and blossoms .",
+        "words": [
+          "them",
+          "natural",
+          "odours",
+          "fragrance",
+          "their",
+          "which"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/7c339694-e861-58d3-b9c9-a2d02a8b3972",
+        "value": "\" Come to me , Thy virtues are more brilliant than precious stones ; Thy breath exhales intoxicating perfume ; Thy beauty is a continual feast .Tell me thy heart shall be my haven , To my bosom I will press thee , And thy leaves shall embrace me with their fragrant affection .\" Each kind of rose has its separate language .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/7ecfee32-c491-5544-81ee-9a765ce4216b",
+        "value": "Our dahlias , unlike yours , yield a highly fragrant and delightful perfume .* * * * * The plants treated by us in these ways are fitly called flowers , presenting as they do a mass of blossoms and exhaling delicious perfumes .They act , mediately or immediately , on the concentrated light of the organization through the nerves of smell , as beautiful sounds through the medium of the ear , or as beautifully harmonised colours through the eye .",
+        "words": [
+          "delicious",
+          "perfumes",
+          "flowers",
+          "The plants",
+          "mass of blossoms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/88450e02-2a33-523d-b0ac-c0d814cb6dbd",
+        "value": "The following are instances of language associated with flowers : - - Vista Rodo .- - A plant bearing a little flower like a diamond in transparency and brilliancy , and exhaling from every green leaf a beautiful perfume .\" The stars in heaven thou makest to blush by the sweetness of thy breath .",
+        "words": [
+          "perfume",
+          "beautiful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/8ae1f53a-2514-5aba-b0b2-7029b37d933d",
+        "value": "14 .The perfume of the everlasting gulf .- - A gulf the waters of which emitted a delicious fragrance , and when taken from the gulf would not keep together , but separated into drops like tears .",
+        "words": [
+          "perfume",
+          "of the everlasting gulf"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/945db3ed-ad21-50c4-a2ed-16308da90916",
+        "value": "We have a small vegetable , called Jappeehanka , that hangs from its stem like a fruit and has a rich creamy taste , without any other flavour .I grafted this vegetable on a tree called Klook , the fruit of which , used generally by persons of delicate digestion , had a sour aromatic flavour .After many disappointments and unsuccessful attempts to obtain the vegetable I wished , I succeeded , by artificial means frequently employed , in growing a small vegetable , combining the flavour of a delicate cream with the piquancy of lemon .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/953c4ef4-3687-5699-862d-c9aeddf738f7",
+        "value": "He was still kept without food , and the herbs were left within his reach , but he would not approach them , though , as soon as some of his usual food was brought , he greedily devoured it .These beasts formerly infested the rivers which run through our cities ; and a very powerful solution from the herb , which they could scent at a considerable distance , was prepared by our chemists .We have great locks at the entrances of our rivers .",
+        "words": [
+          "the",
+          "scent",
+          "they",
+          "at a considerable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/9c21d6f2-3e19-5ee3-b986-68dce3a3fa79",
+        "value": "Forms of trees , birds , vases of flowers and fruit , fountains , and other designs of many tints and great beauty are transparent with light , rendered more beautiful by combination with a peculiar electricity emitted by the earth - - an electricity which , be it observed , is the cause of the darkness .The very birds by their warbling seem to greet the change , and the trees and flowers emit a more delicious perfume .There is music and rejoicing everywhere in the City .",
+        "words": [
+          "perfume",
+          "more delicious",
+          "the trees and flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/a2edb63a-bbb5-55e7-83e6-057691ae841f",
+        "value": "Large beds of it are grown in a place concealed as much as possible from view .Amongst the coveted flowers is sprinkled a strong scent , which attracts the insects , who , finding the plant they like so much , congregate there , abandoning entirely the other plants .We have gauze of a very fine and yet strong texture , with which nets are formed .",
+        "words": [
+          "strong",
+          "scent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/a6ebf22d-f9b0-5c86-a834-417f9702deb6",
+        "value": "Night and morning the bride is purified with baths of choice herbs and flowers .During the fortnight prior to the solemnity myrrh and choice spices are added to the baths , and the hair , to which great attention is given , is combed with a comb that emits a peculiar perfume , which retains its force for months , attracted by the warmth of the head .This comb is made out of one small part of the wood of a rare tree , the rest of which has no particular virtue ; so that from a whole tree , only a single comb is obtained .",
+        "words": [
+          "perfume",
+          "peculiar",
+          "for months"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/aeb4a814-22dc-566d-86b4-1cda03563e61",
+        "value": "From these with every touch of the chords a beautiful fragrance is exhaled , the force or delicacy of which depends on the more powerful or gentler strains produced from the instruments .The instant the player strikes the chords , the little birds open their wings , the flowers quiver in gentle action , and then from the vases are thrown off jets of perfume .The more strongly the chords are touched , the more powerfully does the fragrance play around .",
+        "words": [
+          "perfume",
+          "jets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b0a10cc7-734a-521e-ad12-493352383a3e",
+        "value": "It is known in Montalluyah that wild beasts often attack man from fear , lest he should do them harm .The skin worn by the keeper is saturated with a solution made from a strong - smelling herb , to which the animals have great antipathy ; and even though they may approach and smell the skin , they soon turn away , without hurting the watcher .The beast ' s antipathy to this herb was discovered by accident .",
+        "words": [
+          "herb",
+          "smelling",
+          "smell",
+          "they",
+          "strong - smelling",
+          "The",
+          "the skin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b4348dfe-7e30-504d-9453-8042ee2e6eb6",
+        "value": "- - Impurities removed by insects - - The DEATH SOLACE XVII .- - INTERNAL CITIES - - SUNSHINE PICTURES Special precautions against excessive heat in the extreme season - - _ Internal cities _ built in galleries - - Their advantages - - How light admitted - - Flowers - - Beauty and odours increased by electricity - - Communication between the palaces in the External and Internal World - - Narrator ' s summer - palace - - The pictures representing principal events of his reign - - Sun power utilised - - Sunshine : how _ fixed _ on the canvas XVIII .- - THE PICTURES .",
+        "words": [
+          "Flowers",
+          "odours",
+          "Internal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b48e91d1-adff-5b16-8e12-ce7b21953811",
+        "value": "* * * * * The plants treated by us in these ways are fitly called flowers , presenting as they do a mass of blossoms and exhaling delicious perfumes .They act , mediately or immediately , on the concentrated light of the organization through the nerves of smell , as beautiful sounds through the medium of the ear , or as beautifully harmonised colours through the eye .You will recollect that a modification of concentrated light is supposed to be the link through which the soul communicates its impressions to the brain , on whose divisions it is made to act in electric forms .",
+        "words": [
+          "smell",
+          "They"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b69d2a41-c89b-51da-bb2f-a58bb9d3d7d5",
+        "value": "You will recollect that a modification of concentrated light is supposed to be the link through which the soul communicates its impressions to the brain , on whose divisions it is made to act in electric forms .Besides an infinite variety of flowers , we produce every variety of colour and perfume in the leaves of the evergreens which adorn our streets and habitations , emitting healthy and refreshing fragrance , increased by every movement of the wind .* * * * * CREATION OF FORMS .",
+        "words": [
+          "perfume",
+          "flowers",
+          "we",
+          "fragrance",
+          "refreshing",
+          "healthy",
+          "in the leaves of the evergreens",
+          "our streets and habitations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b8b633f5-50da-5c6b-b3ec-a5cd2676e5e9",
+        "value": "To produce this result , we inoculate the plant with certain fragrant gases .Our dahlias , unlike yours , yield a highly fragrant and delightful perfume .* * * * * The plants treated by us in these ways are fitly called flowers , presenting as they do a mass of blossoms and exhaling delicious perfumes .",
+        "words": [
+          "perfume",
+          "highly fragrant",
+          "delightful",
+          "Our dahlias"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b95b4498-1518-5e0f-8095-640b3eab355e",
+        "value": "The leaves of this , instead of being green like the others , are of a coral colour mixed with purple blue .The perfume of these flowers surpasses every other fragrance ; it is most refreshing , and a lady will have no other for a _ réunion _ when she can obtain this flower .XXVI .",
+        "words": [
+          "perfume",
+          "most refreshing",
+          "fragrance",
+          "of these flowers",
+          "every other"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/c68ab0d9-553d-50c7-b3f4-94f13c049d24",
+        "value": "To a richness like cream was added the pungency and aromatic flavour of spices , with the relish of salt and the piquancy of fresh lemon - juice - - in a word , the combination presented the finest flavour for a condiment that could possibly be desired , surpassing all the spices and sauces hitherto known in my world .Indeed , it was so exquisitely appetising that an epicure might easily be tempted to eat the vegetable without the addition of the meat .During the growth of the tree , many slips had been planted , which were then in a flourishing state , so that in a very short time the vegetable fruit was cultivated extensively , and became a household necessity .",
+        "words": [
+          "that",
+          "appetising",
+          "so exquisitely appetising"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/c7a97c26-0219-5aa7-9dc6-7e7a392ee2d0",
+        "value": "On each side of the bridal couch is the figure of an angel holding a scroll exhorting to wisdom , purity , love and truth .Hidden in the drapery of the couch are self - playing instruments , whose soft music , awakened by the agitation of the air , and accompanied by delicate perfumes , sounds like the song of angels .The bridesmaids undress the bride and throw over her a silver - gauze transparent lace , which gives her a fairy - like , vapoury appearance , as she reclines on the couch , with her long hair partly covering the beautiful outline of her figure , and the bridesmaids strew flowers around her .",
+        "words": [
+          "delicate",
+          "perfumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/c9e1cabe-84fc-594f-99eb-71396314e112",
+        "value": "To these settees a pad is attached .On a spring being touched this opens , and forms a fan which by its own movement fans the lady , and at the same time emits a refreshing perfume , continuing to act until the lady closes it by touching a spring .These settees are covered with silk of various colours , adapted to the ladies and their costume ; a peculiar crimson ornamented with gold is the favourite colour .",
+        "words": [
+          "perfume",
+          "refreshing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/d4a3e301-2027-5654-ac6b-67c6936e45c9",
+        "value": "Power of the Sun - - Colours and forms in the sky - - Situation of Montalluyah - - External World Cities - - Reasons for uniting them - - Peculiarities - - Straight lines - - Variety of colour , & c .- - Subterranean seas - - Great cataract and water - lifts form background of palaces and statues - - Hanging bridges - - Health studied - - Baths - - Violet streams - - Trees - - Birds - - Artificial nests - - Perfumes - - Harmonious sounds - - Chariot wheels and horse ' s hoofs noiseless - - Red light - - City full of animation - - Recurring change of scene IX .- - THE SUSPENDED MOUNTAIN .",
+        "words": [
+          "Chariot",
+          "Trees",
+          "Perfumes",
+          "Birds",
+          "Artificial nests",
+          "Violet streams"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/e113c0f9-6b6f-5f99-a3fb-53376173efa8",
+        "value": "The music of the birds harmonizes with the refreshing sounds of the running waters , cascades , and fountains ; and that the effect on the mind of these beautiful harmonies may not be disturbed , the wheels of our chariots as well as the horses ' hoofs are bound with a peculiar hide which , besides possessing great toughness and durability , has the property of deadening sound .Thus none but the most agreeable sounds reach the ear , whilst the senses are charmed with aromatic odours and the eye is pleased with beauty of every kind .Arched galleries and passages through the hills and mountains , partly perforated by the sea or electric fire , and enlarged by the industry of man , have a subdued light and make an impression of another kind , the red light in these perforated roads answering to the red shade of the outer world .",
+        "words": [
+          "aromatic",
+          "odours",
+          "the senses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/e28f32d1-7aec-5202-a5f3-ae785d3c17f9",
+        "value": "The males , which have horns like polished white ivory , are not petted .The female yields a delicious milk , sweet and refreshing to the smell as to the taste , and with peculiar qualities when taken fresh from the animal .Meleetas are brought into the room during the early morning or \" fruit - meal \" repast , and each answers to her name , and stands still to be milked .",
+        "words": [
+          "sweet",
+          "smell",
+          "The female"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/e2982bfd-a08c-5c94-9cff-9e1ae754d1a4",
+        "value": "The trees are large , their branches and rich foliage spread themselves in graceful lines to a long distance on every side and afford pleasing shade , their gauzy leaves subduing the light and producing the effect of soft rainbow tints .The trees also emit perfume .The music of the birds harmonizes with the refreshing sounds of the running waters , cascades , and fountains ; and that the effect on the mind of these beautiful harmonies may not be disturbed , the wheels of our chariots as well as the horses ' hoofs are bound with a peculiar hide which , besides possessing great toughness and durability , has the property of deadening sound .",
+        "words": [
+          "perfume",
+          "The trees"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/e6d1593d-7b0f-52f9-8dc1-1e7a68181ac9",
+        "value": "The birds , flowers , and foliage are connected with the chords of the harp , and conceal from view small vases or reservoirs set in the framework of the instrument .From these with every touch of the chords a beautiful fragrance is exhaled , the force or delicacy of which depends on the more powerful or gentler strains produced from the instruments .The instant the player strikes the chords , the little birds open their wings , the flowers quiver in gentle action , and then from the vases are thrown off jets of perfume .",
+        "words": [
+          "fragrance",
+          "beautiful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/e880629a-1cc7-57b2-bcc6-7957474607cc",
+        "value": "The Allmanyuka is used in some sick - rooms as a fumigator .For this purpose it is cut into slices , and the exuded juice which it bleeds is accompanied with an agreeable aromatic odour .The fruit possesses many other valuable properties .",
+        "words": [
+          "odour",
+          "agreeable aromatic",
+          "the exuded juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/f8c94ec1-302e-5feb-ae3e-36021e00e0b8",
+        "value": "It is not necessary to keep the meat in the vessel for more than a few minutes , nor does the liquid deteriorate the quality or taste of the meat .Far from being noxious to the human race , the herb , which is free from smell , contains a healthy bitter , is cooling and refreshing , and cleanses and preserves the pores of the skin .Formerly numbers of persons were affected by the deposits , which , left by flies on meats and provisions generally , caused irritation of the bowels , diarrhoea , and vomit , and were otherwise very injurious to the system .",
+        "words": [
+          "smell",
+          "noxious",
+          "the herb"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/a867cefc-e3db-554b-8330-27fa727ce3d5",
+        "label": "Benjamin Lumley"
+      }
+    ],
+    "label": "Another World",
+    "url": "https://www.gutenberg.org/ebooks/16503",
+    "date": "1862",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/a751d571-46b5-59cd-a79d-97143f9cf657",
+      "label": "1862",
+      "begin": "1862",
+      "end": "1862"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/292968/",
+      "label": "Abu Dhabi"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/590c1374-8049-5c43-92a7-a1b2f191f7f4/fragment/b4348dfe-7e30-504d-9453-8042ee2e6eb6"
+}

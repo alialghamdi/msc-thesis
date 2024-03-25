@@ -1,0 +1,142 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/f0958d16-3fc7-5d0b-9d5a-23fdb2240307",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumée",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/16f4b47f-fe46-5496-a61f-94162d96df66",
+        "value": "La mer ne mugit pas ce soir , et semble apaisée , comme si le recueillement de la nature en cette heure silencieuse l ' invitait à être attentive avec nous au spectacle du ciel étoilé ; ses lames viennent doucement s ' éteindre sur le rivage , et l ' on n entend que le bruit cadèncé du flot qui arrive et se retire .Ne croirait - on pas que cette scène a été préparée exprès pour nous ce soir ? L ' air , d ' une transparence limpide , est illuminé de tièdes clartés et parfumé de la senteur sauvage des petites plantes dont les falaises sont tapissées .Depuis bien longtemps le Soleil , la Lune , les étoiles , le Ciel et tous ses mondes , semblent ainsi se lever , briller et se coucher .",
+        "words": [
+          "parfumé",
+          "air",
+          "senteur",
+          "tièdes",
+          "ce soir",
+          "petites plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/1f517891-bb35-5792-9eb7-ca9000cd0653",
+        "value": "Onze heures ont tinté depuis longtemps déjà à la vieille tour du château , minuit approche , et les braves indigènes de Flamanville , qui déjà ont remarqué nos entrevues du soir , nos livres et le télescope énigmatique du chalet , vont décidément nous prendre pour des sorciers .Si la marquise n ' était en bonne odeur , depuis qu ' elle a fait cadeau à l ' église XIII LE SYSTÈME PLANfff ^ lR » ( P .271 .",
+        "words": [
+          "bonne",
+          "odeur",
+          "marquise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/212f750b-f231-597e-807e-73a665cfd55b",
+        "value": "» A peine ce lieu terrible est - il franchi , à peine le chevalier a - t - il dépassé dans son mystérieux voyage cette colonne de feu qui s ' élève dans les ténèbres comme un phare , et qui luit si tristement entre l ' espérance et le désespoir éternel , qu ' un vaste et magnifique spectacle se déroule dans l ' immensité souterraine .Cette région lumineuse et parfumée , où l ' on aperçoit tant d ' archevêques , d ' évêques , de moines de tous les ordres , c ' est le paradis terrestre ; où l ' homme ne sut pas demeurer ; on l ' annonce au chevalier , il ne peut en goûter longtemps les rapides délices ; c ' est un séjour de transition , entre le purgatoire et le séjour du ciel , comme les lieux de ténèbres qu ' il vient de traverser ont été creusés par la pensée du créateur entre le monde et l ' enfer .Malgré nos joies , disent les âmes , « nous nous en irons de cy » ; puis ils le menèrent dans une montagne ; « si luy dirent qu ' il regardast , et adonc ils lui demandèrent de quelle couleur le ciel lui sembloit de là où ils estoient , et il leur répondit qu ' il estoit de coulenr d ' or ardant comme est dans la fournaise , et adonc lui ce dirent : « que tu vois c ' est l ' entrée du ciel et la porte du paradis , » L ' historien parlait encore , que de larges gouttes tombaient traçant des cercles ondulés sur le bassin et sur l ' eau noire du fossé .",
+        "words": [
+          "parfumée",
+          "région"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/3034ab8e-3c49-55c5-8481-b74987472d63",
+        "value": "C ' est donc à l ' astre radieux qu ' auraient tendu finalement tous les êtres ? — Au sein de leurs forêts solitaires , sur leurs falaises , ici peutêtre , répondit l ' historien , nos ancêtres en contemplant l ' astre mélancolique des nuits , y voyaient de préférence leur paradis prochain .Plus on apercevait d ' analogie entre la Lune et la Terre , plus les imaginations devaient s ' y sentir à l ' aise , tandis que dans le \" Soleil la nature se montre véritablement inabordable ; et la poésie , d ' accord à cet égard avec nos instincts les plus naïfs , préférera toujours l ' image d ' un monde futur analogue au nôtre , où nous ayons encore nos paysages , nos bois , nos fontaines , nos brises et nos parfums .Voilà précisément ce que peignent les bardes .",
+        "words": [
+          "bois",
+          "parfums",
+          "nous",
+          "brises",
+          "fontaines"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/3b770a52-c22b-52e2-a90c-9da9d18e23f2",
+        "value": "Celle - ci a soumis l ' homme comme l ' atmosphère au pouvoir des étoiles ; elle a fait dépendre de leurs influences les orages des passions , les rçiaux et les biens de la vie aussi bien que les variations des saisons .En effet , il paraissait tout simple de dire : ce sont les étoiles , les astres en général qui amènent les vents , les pluies et les orages ; leurs influences mêlées à l ' action des rayons du soleil modifient le froid ou la chaleur ; la fertilité des campagnes , la santé ou les maladies dépendent de ces influences bienfaisantes ou nuisibles ; il ne croît pas un brin d ' herbe que tous les astres n ' aient contribué à son accroissement ; l ' homme ne respire que les émanations qui , échappées de ces astres , remplissent l ' atmosphère ; l ' homme ainsi que la nature entière leur est donc assujetti : ces astres doivent donc influer sur sa volonté , sur ses passions ; sur les biens et les maux semés dans sa carrière ; en un mot , diriger sa vie .Dès qu ' on eut établi que le lever d ' une étoile ou d ' une planète , son aspect à l ' égard des autres planètes annonçait aux hommes une certaine destinée , il fut naturel de croire que les configurations plus rares signifiaient des événements extraordinaires , qui concernaient les grands empires , les nations , les villes .",
+        "words": [
+          "atmosphère",
+          "émanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/643baec9-0ad9-5bc7-9445-adeea82a2a10",
+        "value": "Nous discutions encore sur l ' éclipsé , arrivée en son milieu après minuit , lorsqu ' on vint nous annoncer qu ' un petit souper de collation était servi .Nous rentrâmes au château , et la conversation astronomique , loin de s ' éteindre sous l ' action du vin de Chypre parfumé , se prolongea fort avant dans la nuit ; en effet , nous vîmes même la sortie de l ' ombre , vers deux heures du matin .Il était écrit qu ' une partie de la nuit serait consacrée au culte des sciences et des arts , car nous étions depuis longtemps rentrés dans nos appartements , lorsque nous entendîmes l ' une des dames du château chanter au piano la douce romance du Lac de Lamartine , à laquelle une autre voix répondit encore par la belle strophe de la Nuit de Félicien David .",
+        "words": [
+          "parfumé",
+          "vin",
+          "nous",
+          "Nous",
+          "château",
+          "deux heures du matin",
+          "fort avant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/a7a44f20-9189-54b1-be35-cb0f002fbee3",
+        "value": "— Comme vous le pensez , répondit l ' astronome , leur opinion ne pouvait être que très - vague .Ainsi Métrodore disait que c ' était une réflexion du soleil ; Démocrite , un concours de plusieurs étoiles ; Aristote , une consistance d ' exhalaisons sèches et enflammées ; Strabon , la splendeur d ' une étoile enveloppée d ' un nuage ; Héraclide de Pont , un nuage élevé , qui renvoie beaucoup de lumière ; Épigène , une matière terrestre enflammée et agitée par le vent ; Boëce , une partie de l ' air colorée ; Anaxagore , des étincelles tombées du feu élémentaire ; Xénophane , un mouvement et un épaississement de nuages qui s ' enflamment ; Descartes , les débris des tourbillons détruits et qui font passer jusqu ' à nous des pièces de leur naufrage , etc .On a attribué aux Chaldéens l ' opinion qu ' elles sont analogues aux planètes par leur cours régulier et qu ' elles s ' éloignent de nous lorsqu ' elles nous paraissent s ' anéantir ; Sénèque partage cette ixplication , puisqu ' il a regardé les comètes comme des globes roulant dans le ciel et qui dans certains temps se montrént et disparaissent , et dont les observations suivies pourront faire connaître quelque jour les mouvements périodiques .",
+        "words": [
+          "air",
+          "exhalaisons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/b881e042-721d-52d6-8101-30d38628ea67",
+        "value": "Colomb allait sincèrement à la recherche du paradis terrestre .A son quatrième voyage , il croit en découvrir l ' un des grands fleuves , il laisse errer ses espérances sur les brises embaumées qui viennent de ces belles forêts dont l ' Orénoque est bordé .Ce n ' est que l ' entrée du céleste séjour ; s ' il osait , cependant , si une crainte religieuse ne l ' arrêtait pas , lui qui a tout risqué au milieu des éléments et des hommes , il parviendrait peutêtre aux bornes célestes du monde , et , en marchant encore , ses yeux se baisseraient dans une humilité sainte devant les clartés de ces épées flamboyantes qu ' agitaient deux séraphins au - dessus des portes de l ' Éden .",
+        "words": [
+          "embaumées",
+          "brises"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/c27845a1-d4f6-543f-b60c-82174a6ad6c4",
+        "value": "Il Ils l ' appelaient aussi Siliquastrum , qui a deux significations : l ' un désigne un instrument inconnu servant pour le bain ; l ' autre , désigne du piment , ou poivre de Guinée .Coïncidence bizarre , en fouillant mes racines grecques , j ' ai trouvé que le radical possible de Cassiopée , le mot Kttcrcrltt , désigne aussi une écorce odoriférante de l ' espèce de la cannelle .— Il y avait une chaise là - haut , dit le député , on n ' a pu honnêtement la laisser inoccupée .",
+        "words": [
+          "cannelle",
+          "odoriférante",
+          "écorce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/f140d5ee-54df-5ec5-b8eb-947ceca933d6",
+        "value": "Je l ' ai trouvé en toute circonstance disciple d ' Hipparque en astronomie , quoiqu ' il critique et contredise maintes fois celui - ci en géographie .Il a soin d ' établir d ' abord qu ' il n ' y a qu une seule Terre habitée ; non pas qu ' il réfute la supposition que la Lune ou les autres astres puissent l ' être : pour lui les astres ne sont que des météores insignifiants nourris des exhalaisons de l ' Océan ; mais il repousse l ' idée qu ' il puisse y avoir sur le globe d autre monde habité que le monde connu des anciens .Son système astronomique est esquissé par lui - même dans les termes suivants : « La physique démontre que le ciel et la Terre sont de forme sphérique ; que les corps pesants sont attirés vers le centre du monde - qu ' au ' tour du même point et sous la forme d ' une sphère ayant même centre que le ciel , la Terre demeure immobile sur son axe , lequel en se prolongeant se trouve avoir ainsi traversé le ciel par le milieu ; que le ciel , lui , est emporté autour de la Terre et de son axe p ? l ' un mouvement d ' orient en occident qui , se communiquant aussi aux étoiles fixes , les entraîne avec lu même vitesse que le ciel lui - même • que dans ce mouvement les étoiles fixes décrivent des cercles parallèles dont les plus connus sont l ' équateur , les deux tropiques , les deux cercles arctiques ; et que les planètes suivent des cercles obliques compris dans les limites du zodiaque1 .",
+        "words": [
+          "Terre",
+          "exhalaisons",
+          "insignifiants"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/176cedd4-b022-51de-b8fa-395ce8f7097a",
+        "label": "Camille  Flammarion"
+      }
+    ],
+    "label": "Histoire du ciel (Nouvelle édition) / par Camille Flammarion ; dessins par Benett",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k97394186",
+    "date": "1883",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/6345e1a7-16cf-584c-b652-3c134011b20a",
+      "label": "1883",
+      "begin": "1883",
+      "end": "1883"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/admiration",
+      "label": "admiration"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/emotion-type/gratitude",
+      "label": "gratitude"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/39a02588-072b-5bba-b104-0ed0d1598efc/fragment/212f750b-f231-597e-807e-73a665cfd55b",
+  "license": "Public domain"
+}

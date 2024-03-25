@@ -1,0 +1,201 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8c96ffec-e158-5e81-8ec2-0188a1ce4e64",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfums",
+    "odeurs"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/1f6f3f49-697c-5ba7-a37e-b353aa0e3bfe",
+        "value": "Ils me firent boire une sorte d ' eau qui me donna , même en la beuvant , de nouvelles forces , et qui me réjouit le coeur .Ils me lavèrent le corps d ' une eau odoriférante , ils oignirent mes playes , et les bandèrent fort proprement .M ' ayant mis hors de danger , il poursuivirent mes ennemis , et ayant tiré le dernier dans le bateau , ils le mirent à mes pieds .",
+        "words": [
+          "corps",
+          "odoriférante",
+          "eau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/1fd7c17d-5ff4-569f-abd8-0c0500373e36",
+        "value": "Voici la description du sexe d ' Adam — avant le péché — d ' après Antoinette Bourignon : « et au lieu des parties bestiales que l ' on ne nomme pas , il estoit fait comme seront rétablis nos corps dans la vie éternelle , et que je ne sai si je dois dire .Il avoit dans cette région la structure d ' un nez , de mesme forme que celui du visage ; et c ' estoit là une source d ' odeurs et de parfums admirables : de là dévoient aussi sortir les hommes , dont il avoit tous les principes dans soi .car il y avoit dans son ventre un vaisseau où naissoient de petits oeufs , et un autre vaisseau plein de liqueur qui rendoit ces oeufs féconds .",
+        "words": [
+          "parfums",
+          "odeurs",
+          "région",
+          "admirables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/2d5ccb73-a373-51e5-916d-28c65dd3259a",
+        "value": "Ils disoient que cet Omigas se vantoit d ' être fils du Soleil , et qu ' il avoit séduit presque tous les Habitans de ces Païz à plus de cent lieues autour de Sévarinde .Selon le rapport des Prestarambes il s ' était attiré un renom de divinité , par diverses ruses , et par plusieurs faux miracles ; car comme il avoit la connoissànce de plusieurs simples , il en tirait des poisons fort subtils qui tuoient par le seul odorat ou par le seul attouchement , et par leur moyen il se défaisoit souvent de ceux qu ' il trouvoit contraires à ses desseins .Il avoit aussi le secret de guérir quelques maladies , ce qui le rendoit fort recommandable parmi ces peuples ignorans , qui prenoient pour miracles de pUrs effets de la nature et qui croyoient qu ' il y eût en lui une vertu divine .",
+        "words": [
+          "odorat",
+          "poisons",
+          "fort subtils",
+          "Prestarambes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/372ea36f-8f62-5d8c-8adb-7da0e597299c",
+        "value": "Toutes les bêtes sales , venimeuses , et nuisantes ne se trouvent pas dans toute l ' étendue de leurs quartiers \" , el je me persuade facilement que la solidité des fruits qu ' on y rencontre provient de l ' exemption , de ces excréments .C ' est de là que les corps sont toujours vigoureux , frais , moins sujets à la pourriture , el qu ' ils ne poussent point de ces exhalaisons puantes et insupportables que nous souffrons en Europe .Celle même raison fait qu ' on se couche , et qu ' on dort indifféremment sur la terre nuë sans aucune incomi modilé , et même avec santé et plaisird .",
+        "words": [
+          "insupportables",
+          "puantes",
+          "corps",
+          "exhalaisons",
+          "Europe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/4347c851-3f59-501b-b259-5d285063a949",
+        "value": "11 est évident qu ' en cet état , je n ' aurai connoissance d ' aucune chose qui soit au monde , sans exception , non pas même de mon propre corps .Les autres individus de mon espèce auront beau m ' aprocher : je ne les verrai , ni ne les entendrai point : je serai insensible à l ' odeur des esprits les plus pénétrans , et des senteurs les plus fortes : je mâcherai et avalerai machinalement les viandes que l ' on me mettra dans la bouche pour ma nourriture , mais je ne les sentirai non plus que le choc où m ' expose la rencontre des autres objets qui m ' environnent .Et que l ' on ne me dise pas qu ' aiant des piez , dont je me sers à marcher , et des mains que j ' emploie à prendre ce que l ' on me tend , ou ce qui se rencontre casuellement à leur portée , je ne saurois manquer de m ' aperccvoir de leur solidité et de leur étendue ; non seulement cela n ' est pas véritable , mais il est même absolument impossible qu ' il me vienne dans la pensée d ' en avoir , ni qu ' il y ait rien d ' existant , qui ait du raport à la matière , comme il n ' est pas en la puissance d ' un aveugle né d ' avoir aucune idée des couleurs , ni d ' avoir même jamais songé pendant le sommeil d ' en avoir vu .",
+        "words": [
+          "odeur",
+          "bouche",
+          "viandes",
+          "senteurs",
+          "les plus fortes",
+          "esprits les plus pénétrans",
+          "autres individus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/54eb8807-daa2-544d-9303-af17bffe76d9",
+        "value": "— d ) nous ont montré très clairement .fi 4 AVIS AU LECTEUR RoyaumedeMaleluraboiulanlenépicerieS \\ Vlûede ¥ elanremplied arbres aromatiques , et une autre isle qu ' il nomma petite lava .Mais les Hollandais qui ont un commerce ordinaire » en la grande lava \" , nous asseurent que toute celte découverte n ' eslque de plusieurs isles , et non du continent de la terre Australe .",
+        "words": [
+          "aromatiques",
+          "arbres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/62fb479a-13ea-5eff-b76b-d52f71b7d5a8",
+        "value": "1892 : certaines liqueurs dont ils arrosent leurs arbres , qu ' on ne peut rien manger de plus délicieux .Leurs parterres sont cmaillez de mille sortes de fleurs , les unes plus belles que les autres , et qui semblent se disputer l ' avantage de l ' éclat de la variété des couleurs , et des charmes de l ' odeur .Leurs allées y sont d ' une longueur à perte de vue et d ' une propreté à laquelle on ne sauroit rien ajouter .",
+        "words": [
+          "odeur",
+          "fleurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/6b54074b-0e5b-5a5e-802c-a100f126b2dd",
+        "value": "— cl je lombay alors dans une profonde rêverie , pendant laquelle je ne laissois pas de toujours avancer , et comme j ' allois la tête baissée , je vis à terre .86 EN ROUTE POUR LA TERRE AUSTRALE sées jusqu ' à terre , la place était tapissée d ' un coloris de diverses fleurs très belles et d ' une senteur agréable .Aussitôt que j ' eus mangé de ces fruits , je tombay dans un grand assoupissement .",
+        "words": [
+          "agréable",
+          "fleurs",
+          "senteur",
+          "place",
+          "LA TERRE AUSTRALE",
+          "ROUTE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/a0d96bae-abe0-59f5-bd8d-44bca3a19a7f",
+        "value": "Les naturels la nomment Zasfla , et le Roy y tient une forteresse qu ' on estime beaucoup en ce pays , bien qu ' à la vérité ce soit très peu de chose en comparaison de nos forts de l ' Europe .C ' est la plaine qui est un vray sujet d ' admiration et on n ' y peut rien Hésirer que quelque température des senteurs aromatiques qui donnent trop fortement au cerveau * .Les fruits y sont si beaux , si délicats et avec tant de profusion , que la beauté jointe à la quantité nous causoit de l ' ennuy .",
+        "words": [
+          "aromatiques",
+          "plaine",
+          "senteurs aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/a1972d03-8400-58ee-bdc6-15698b1fe204",
+        "value": "Ce sommeil cependant n ' eut aucun mauvais effet , et nous nous levâmes tous autant et plus alaiqres » que nous n ' étions 0 auparavant .Les uns attribuôient ce long repos à la trop grande quantité des odeurs qui avoient rempli et appesanti nos cerveaux ' 1 , et les autres croyoient que cette délicieuse boisson que nous avions prise en avoit été la cause .De cette Isle nous voulûmes voir la source de la rivière de Cuama que nous trouvâmes étroite et incapable de porter aucun bateau .",
+        "words": [
+          "grande",
+          "nous",
+          "odeurs",
+          "rempli",
+          "appesanti",
+          "rempli et appesanti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/a6873726-ee66-50ab-b479-0a995c9aae1e",
+        "value": "1692 : Jassaler .— b ) pour le plaisir général de tous les sens , si ce n ' est que l ' odeur des herbes aromatiques y fût un peu moins forte .— c ) nous surprit plus que tout le reste .",
+        "words": [
+          "odeur",
+          "aromatiques",
+          "moins forte",
+          "herbes aromatiques",
+          "tous les sens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/e20cb6d4-85b7-5199-9d64-fbbea352c69b",
+        "value": "Si le malheur réduisoit un Australien à être entre les Fondins , je sais bien qu ' on dira qu ' il se détruiroit aussitost , mais si nous pouvions supposer qu ' il ne se détruisît pas , ne serait - il pas excusable si , dans une guerre contre sa propre nalion , il paroissoit humain et avec de l ' inclination pour ses frères .Ce n ' est pas que je prié pour prolonger ma vie , je suis ravy de me retirer , mais pour vous laisser une bonne odeur de ce pauvre Etranger que vous avez voulu supporter , je vous supplie d ' un petit délay .On sortit du Hab à la façon accoutumée , sans m ' avoir donné aucune réponse , et aussitôt toutes mes pensées furent de chercher un moyen propre à hazarder mon retour .",
+        "words": [
+          "bonne",
+          "odeur",
+          "vous",
+          "pauvre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/ecd2ca4d-e896-5269-9465-7a8b15a411fb",
+        "value": "! Conletttple ce pei - tratt , \\ j / K \\ ) considère ce iionit , J \\ , oje - t ejt X ' n SLojiertoStourj ' charac ' de racr .Sej dijeaurj et Jcjjàib Jonh dejpreiwej non clojej ïO « / a charmante odeur aue répand jonre nom .' Portrait de Marc de Roepfl ' eii ( cte de La Facilité et l ' Elégance des langues latine et françoise , Lyon , 1674 .",
+        "words": [
+          "odeur",
+          "charmante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/f08c6eae-b474-5af1-8984-b8ee5a8c7109",
+        "value": "Mais ce qui suspendit nos esprits , 0 et ce dont je n ' avois pas encore ouï parler , c ' est une source que nous trouvâmes plus douce que notre hypocras et qui réjouit et fortifie plus que notre vin d ' Espagne .Nous raisonnâmes assez longtemps d ' où pouvoit provenir une si agréable liqueur , et nous conclûmes que comme tout étoit embaumé dessus celte campagne , l ' intérieur le devoit être aussi , et que si l ' on trouvoit des sources de très mauvais goût , c ' étoit une suite nécessaire qu ' on en pût trouver de très douces et de très agréables .Nous en beuvions avec un plaisir que je ne puis expliquer , et un chacun a ) Var .",
+        "words": [
+          "liqueur",
+          "embaumé",
+          "sources",
+          "celte campagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/f31dafc9-5fea-5ef3-afcb-e84efa590e31",
+        "value": "Celte persuasion fesoit que , de tous les endroits du Païs , on menoit au Temple du Boccage les plus belles filles qu ' on pouvoit trouver , pour les offrir et les consacrer à Stroukaras .Quand les prêtres prenoient quelqu ' une de ces filles , ils lui faisoient quitter ses habits prophanes pour lui en donner de sacrez , après qu ' elle avoit été lavée dans un bain composé de plusieurs herbes aromatiques .Le jour devant la nuit en laquelle Stroukaras la devoit visiter , on fesoit des Sacrifices et on chantait divers Cantiques , afin qu ' il descendît du Ciel et qu ' il vînt prendre possession de l ' humble et sainte pucelle qui lui avoit consacré sa virgia ) virgia ) 1702 : Dès qu ' il se trouvoit .",
+        "words": [
+          "aromatiques",
+          "herbes",
+          "bain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/fbee99eb-f3ca-5e1e-92f8-baedebc22331",
+        "value": "Le contenu d ' une bourse suffît pour étancher la soif , et l ' ordinaire est d ' en vuider trois en chaque repas .Les quatre derniers rangs sont remplis de moindres arbrisseaux qui portent un fruit de la grosseur des pommes reinettes , d ' une couleur plus éclatante que notre pourpre , d ' une odeur charmante et d ' un goût incomparable dans l ' Europe .Sa propriété est d ' excilerc ] e sommeil à proportion qu ' on en mange , aussi est - ce la coutume de n ' en manger que le soir et , en en mangeant un , on est excité à dormir pour trois heures .",
+        "words": [
+          "odeur",
+          "charmante",
+          "incomparable",
+          "moindres arbrisseaux"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6625161c-dd4e-5d7c-a148-2a41c5420dce",
+        "label": "Frédéric  Lachèvre"
+      }
+    ],
+    "label": "Les successeurs de Cyrano de Bergerac / par Frédéric Lachèvre",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k61166420",
+    "date": "1922",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/ded1f801-3273-5705-92ea-61ce94242bdd",
+      "label": "1922",
+      "begin": "1922",
+      "end": "1922"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/12200097/",
+      "label": "Region 2"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ff4227be-6169-5f3d-b1b4-48f4585b42f6/fragment/1fd7c17d-5ff4-569f-abd8-0c0500373e36",
+  "license": "Public domain",
+  "adjective": "admirables"
+}

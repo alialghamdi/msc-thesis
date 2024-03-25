@@ -1,0 +1,169 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/8d417cb6-73ee-5710-89c4-5846d525ba25",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "perfumes",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/04f2398f-9eba-54d3-b6e9-2ce91c0aa8eb",
+        "value": "6641 , 546 - 47 ( Associated ) .' â    Snow Maiden \" ; for toilet preparations ( not medi - cated ) , cosmetics , soaps , perfumes and hair lotions ; preparations and sulDstances for laundry use ; cleaning , polishing , scouring and abrasive preparations ( 3 ) .By Osogood , Ltd .",
+        "words": [
+          "hair",
+          "perfumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/08d29820-4697-5d74-a2ec-558f9bb92ea4",
+        "value": "The rates are for bulk supplies , naked ex works .670 THE CHEMIST TRADE ( From \" The Trade Marks Journal , \" May 14 ) \" Sirocco \" ; for perfumes , toilet preparations ( not medicated ) , cosmetics and soap ( 3 ) .By Parfums Lucien Lelong , 13 rue Alphonse - de - Neuville , Paris .",
+        "words": [
+          "soap",
+          "perfumes",
+          "cosmetics",
+          "toilet preparations",
+          "\" Sirocco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/0e876e4a-2264-5c00-b29c-f29db1c228b5",
+        "value": "643 , 183 .\" Mi Mai \" ; for toilet preparations ( not medi - cated ) , cosmetics , perfumes , perfumed soap , and preparations for the teeth and hair ( 3 ) .By Guerlain , Ltd .",
+        "words": [
+          "soap",
+          "perfumed",
+          "perfumes",
+          "cosmetics",
+          "preparations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/4cae4bb4-7931-5ba2-b3b3-82aa92824d34",
+        "value": "I C For containers and display outers , and especially for shallow packs , our Patent carton with the clips is unquestionably , in material and labour , the most economical style available today \\ B0XFOLDIA ETD BOURNBROOK , BIRMINGHAI ^ i Grams : ' Boxioldia , Birmingham Phone : Sell / Oak 1 164 X THE CHEMIST AND DRUGGIST SUPPLEMENT June 7 .1947 30 , 000 , 000 PEOPLE u > ia4ee the ev & uicote YOU WILL SEE YOUR PROFITS SOAR WHEN YOU STOCK AND DISPLAY 311 EMII0 DISINFECTANT nAHilM ANTISEPTIC with the sea - bree \\ e fragrance Made by THE BRITISH DISINFECTANT CO .LTD .",
+        "words": [
+          "fragrance",
+          "by THE BRITISH DISINFECTANT CO",
+          "the sea - bree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/9eaa7c90-3ca5-52b5-a2a8-11cc81c5cc58",
+        "value": "You will find Preemo Essences easy to use , economical , and pure .Thus Preemo has won fame as â   THE * ESSEMCe ' OFJA GOOD PERFUME For Lotions , Frictions , Shampoos , Bath Salts , Oils , Creams , Pomades , Powders and Perfumes .PRICE LIST ON REQUEST Write or Phone PREEMO & SILKS TOILET CO .",
+        "words": [
+          "Perfumes",
+          "Oils",
+          "Creams",
+          "Pomades",
+          "Powders",
+          "Shampoos",
+          "Bath Salts",
+          "Frictions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/a0963b28-212a-53c6-9738-0d9954e30a38",
+        "value": "20 .THE CHEMIST AND DRUGGIST SUPPLEMENT June 7 , 1947 WANTED TO PURCHASE PERFUMERY BUSINESS holding licence to import French Perfumes for sale in the Home and Export markets .Advertiser is world famous in the fashion industry and would consider purchasing a control - ling interest in a progressive firm .",
+        "words": [
+          "French",
+          "Perfumes",
+          "in the Home"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/cc15a9ff-ee86-55c8-a02b-0d93e2a05c16",
+        "value": "In spite of still higher prices paid to the farmers for the flowers , many of the houses off \" ering flower oils have reduced their prices .There has been a drop in the sales of perfumes in most countries , particularly in America , he says , consequently the users of flower oils are un - willing to pay rising prises .Stocks of per - fumery raw materials remaining in the hands of firms in Grasse are possibly considerable .",
+        "words": [
+          "flower",
+          "perfumes",
+          "in America",
+          "in most countries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/d0f70ed5-a174-5fa6-9b2e-bc1a68aeb8af",
+        "value": "During his visit ( May ) , he writes , the crops being worked were orange flowers , rose centifolia , and narcisse , all of which are extracted with petroleum ether .Farmers are still gathering their orange flowers by spreading a cloth under the trees , on to which they drop the flowers â   a cascade of living perfume .In spite of still higher prices paid to the farmers for the flowers , many of the houses off \" ering flower oils have reduced their prices .",
+        "words": [
+          "perfume",
+          "the flowers",
+          "living"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/d1a0761d-28ed-5dcf-8ee7-b6baf82b9ec3",
+        "value": "Y / .IS Order early to ensure supplies â   DDT FLY CARDS Odourless DDT Spray Pine Odour DDT Spray Pine Fluids .Pine Needles , etc .",
+        "words": [
+          "Odour",
+          "Odourless DDT Spray Pine",
+          "DDT Spray Pine Fluids"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/dbc814f1-608a-5e17-9a97-5c9b2ae55cc0",
+        "value": "Give your Beauty and Toilet pre - parations that ' essential * touch of Quality .Add Preemo Perfume Essencesâ   they are used by almost every Manufacturer and Chemist of repute .Preemo Perfume Essences impart the natural fragrance of the fresh - picked flower , thus making your preparations delightfully attractive .",
+        "words": [
+          "Perfume",
+          "Preemo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/defcdc29-a26a-55ac-af68-3d39d9237254",
+        "value": "641 , 167 .\" Lammas ' s Devon Violets \" in distinctive letter - ing ; for violet perfume , and toilet , face and talcum powder containing violet perfume ; \" Lammas ' s Devon Woodland \" in distinctive lettering ; for perfumes , toilet , face and talcum powder ( 3 ) .By A .",
+        "words": [
+          "violet",
+          "perfume",
+          "perfumes",
+          "face",
+          "talcum powder",
+          "\" Lammas ' s Devon Woodland",
+          "\" Lammas ' s Devon Violets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/fefc38af-704b-57a9-9af1-527285572e01",
+        "value": "Add Preemo Perfume Essencesâ   they are used by almost every Manufacturer and Chemist of repute .Preemo Perfume Essences impart the natural fragrance of the fresh - picked flower , thus making your preparations delightfully attractive .You will find Preemo Essences easy to use , economical , and pure .",
+        "words": [
+          "Perfume",
+          "natural",
+          "fragrance",
+          "Essences",
+          "Preemo",
+          "of the fresh - picked flower"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/20330cbd-d93b-5540-9e48-2fcc1f67012d",
+        "label": "UBM"
+      }
+    ],
+    "label": "The chemist and druggist [electronic resource]",
+    "url": "http://archive.org/details/b19974760M3668",
+    "date": "1947",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/72",
+      "label": "Flower"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/5f80dfa4-d5bc-5c4a-b05d-a1a37fee8072",
+      "label": "1947",
+      "begin": "1947",
+      "end": "1947"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11595771/",
+      "label": "Most Sacred Heart of Jesus Church"
+    },
+    {
+      "@id": "https://sws.geonames.org/6255150/",
+      "label": "South America"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ba865164-356d-5fb2-8632-d269099215a0/fragment/cc15a9ff-ee86-55c8-a02b-0d93e2a05c16"
+}

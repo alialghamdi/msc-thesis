@@ -1,0 +1,204 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/aac63039-c1c1-591b-a98b-264737660bc9",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "arômes",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/09f2853c-54d5-514f-9bf3-522b5475abb9",
+        "value": "Les fabriques de Bagdad , ainsi que de Mossul , fournissaient de beaux tissus de soie et d ' or Ces marchandises s ' expédiaient , avec celles des Indes , pour Damas et pour les ports de la Syrie ; ou bien encore elles se transportaient de Bagdad vers l ' Arménie et les ports de la mer Noire , par Tauris 2 .Cette ville était le dépôt des étoffes de soie et d ' or , des arômes , des perles , et en général des marchandises de l ' Inde , de Bagdad , de Mossul , & c .Marco - Polo dit qu ' il y venait des marchands de toutes les parties du monde , et non - seulement de l ' Inde et de la Mésopotamie , mais aussi des pays occidentaux , parce que le commerce donnait beaucoup de gain à Tauris 3 , probablement à cause des échanges avantageux qu ' on pouvait y faire .",
+        "words": [
+          "perles",
+          "arômes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/0a138e22-843d-59cc-9b98-f64a23090851",
+        "value": "c .existait plusieurs ports , aujourd ' hui inconnus , où l ' on chargeait des épices , des arômes , des drogues médicinales .Ce commerce d ' articles d ' Asie était si considérable , que tout le pays en recevait le nom d ' Aromate .",
+        "words": [
+          "épices",
+          "arômes",
+          "drogues médicinales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/0b1a18d3-941a-554a-be7a-29829affbb20",
+        "value": "Le khan - ei - halili était le bazar de marchands persans ; on aurait pu le prendre pour un palais de roi .Dans les beaux magasins de cet édifice , les riches négocians faisaient de grandes affaires en épiceries , en bijouterie , et en toiie de l ' Inde ; ailleurs on vendait des parfums de diverses espèces , tels que musc , ambre et civette ; on admirait encore la rue des orfèvres , celle des papetiers & c .Dans cette grande capitale , les religions diverses des marchands se pratiquaientsans contrainte ' Là habitent tes chrestiens , Juifs et Sarrasins , et chascuu doute son Dieu , et garde sa loi si comme il veut , n dit Ascolin , voyageur du treizième siècle 2 .",
+        "words": [
+          "civette",
+          "parfums",
+          "musc",
+          "ambre",
+          "de cet édifice",
+          "rue des orfèvres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/0d674bf7-47f8-5ab3-acec-e67a34c5ad1f",
+        "value": "Les Maures cultivaient en Espagne fa canne à sucre , le riz et le coton .Ils fabriquaient de belles tapisseries historiées ' des maroquins , des draps et des armes ; ils avaient une quantité de productions à porter aux bazars du Levant , et ils avaient besoin à leur tour des belles marchandises de la Perse , des épices de i ' mde et des parfums de t ' Arabic .Mataga et Alméria ne norissaicnt pas moins par leur commerce de soieries que Grenade Xativa était renommée pour ses beaux papiers3 .",
+        "words": [
+          "parfums",
+          "épices",
+          "Perse",
+          "Levant",
+          "bazars"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/1268f221-5b3a-56c2-b11e-790dc47ce2fe",
+        "value": "( 4 ) De Rcifîenberg , De l ' état de la population & c .de la droguerie , des parfums , du coton , des couleurs , des tissus de soie .Gênes , Florence , Ancone , Bologne , envoyaient également des soieries , des draps d ' or et d ' argent , des camelots , des perles , du coton et de la .",
+        "words": [
+          "parfums",
+          "coton",
+          "couleurs",
+          "tissus de soie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/1dc25a7e-8428-5c99-80e5-bd526621cbc5",
+        "value": "On recherchait l ' ambre des côtes des Maldives , la gomme aromatique de benjoin , fournie par Sumatra , Siam etMafaeca ; t ' aloës liquide de Socotora , dont il se faisait un grand commerce à Aden et à Jedda , d ' où on l ' envoyait en Égypte , tandis qu ' on en expédiait aussi beaucoup par Ormuz et Bassora il était quatre fois plus estimé que celui de l ' Inde ' ; i ' aloés de Malacca appelé calambec , et mentionné pour la première fois dans les ordonnances de Barcelone en 1221 , et l ' atocs de Java , que les Arabes appelaient < 0 ! < t / - e / ~ a ! CM ~ .Il paraît que le nom d ' aloës s ' appliquait des parfums de diverses espèces On faisait encore venir en Europe la manne du pays des Usbelcs , le nard de l ' Hindoustan , la noix de gaHe de la Remanie , ie mastic de Scio ; enfin l ' encens , dont la meilleure espèce venait par Tauris , et que par cette raison on appelait fo ; ~ < 7 ! 0 Sans atler dans l ' Inde , on recevait en Europe ( 1 ) Garcia de Ortis , Histoire des drogues - épiceries de l ' Indexe .trad .",
+        "words": [
+          "mastic",
+          "encens",
+          "parfums",
+          "nard",
+          "manne",
+          "aloës",
+          "Remanie",
+          "noix de gaHe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/2bf07df6-5124-5421-8a90-2b49682fb53b",
+        "value": "Ce voyageur vénitien dit qu ' il y abordait des marchands de tous pays , entre autres de Venise et de Gênes et que cette ville était comme la porte des pays orientaux3 .En effet les richesses de l ' Orient , surtout les parfums , y étaient mises en dépôt , ( 1 ) Anthoine , baron de Saint - Joseph , Essai histor .sur le commerce de la mer Noire , 2e édition Paris , in - 8 ° , Ï820 , ch .",
+        "words": [
+          "parfums",
+          "Orient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/2c748dd5-a76a-522d-962d-3e62aef138ec",
+        "value": "Pendant tout le quinzième siècle , Barcelone fit en effet un commerce considérable de ces denrées , que ses navires allaient chercher en Barbarie , en Egypte et en Syrie , et qu ' ils exportaient eux - mêmes pour d ' autres pays , ou qui se répandaient dans la péninsule , ou que les étrangers venaient prendre dans [ es magasins de Barcelone .On avait réglé par les lois de marine la capacité des navires destinés pour le voyage d ' Alexandrie Dès la première moitié du treizième siècle , les tarifs des douanes de Catabgne font mention des épices , des arômes , des drogues médicinales du Levante Les lois du consulat de mer de Barcelone spécifient en outre , parmi les marchandises do ( 1 ) Capmany , Memor .hist .",
+        "words": [
+          "drogues",
+          "épices",
+          "arômes",
+          "Catabgne",
+          "Dès la première moitié du treizième siècle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/423f5c1b-861a-5d0f-b636-d377f5552ef4",
+        "value": "On signalait , d ' après la nuance rouge ou blanche , le bois odoriférant de santal , qui venait de l ' Inde et de l ' île de Timor .On recherchait l ' ambre des côtes des Maldives , la gomme aromatique de benjoin , fournie par Sumatra , Siam etMafaeca ; t ' aloës liquide de Socotora , dont il se faisait un grand commerce à Aden et à Jedda , d ' où on l ' envoyait en Égypte , tandis qu ' on en expédiait aussi beaucoup par Ormuz et Bassora il était quatre fois plus estimé que celui de l ' Inde ' ; i ' aloés de Malacca appelé calambec , et mentionné pour la première fois dans les ordonnances de Barcelone en 1221 , et l ' atocs de Java , que les Arabes appelaient < 0 ! < t / - e / ~ a ! CM ~ .Il paraît que le nom d ' aloës s ' appliquait des parfums de diverses espèces On faisait encore venir en Europe la manne du pays des Usbelcs , le nard de l ' Hindoustan , la noix de gaHe de la Remanie , ie mastic de Scio ; enfin l ' encens , dont la meilleure espèce venait par Tauris , et que par cette raison on appelait fo ; ~ < 7 ! 0 Sans atler dans l ' Inde , on recevait en Europe ( 1 ) Garcia de Ortis , Histoire des drogues - épiceries de l ' Indexe .",
+        "words": [
+          "aromatique",
+          "benjoin",
+          "ambre",
+          "gomme",
+          "aloës"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/51bf0270-7e4d-5a24-b37d-72cd1502f960",
+        "value": "Ce que racontent les historiens arabes des trésors du calife fatimite Mostanser - BiHah , obligé de livrer ses richesses à l ' avidité insatiable de ses troupes , peut nous donner une idée du faste qui régnait à la cour d ' un sultan d ' Egypte .JI y avait dans ce trésor une immense quantité de perles et de pierres fines ; des milliers de ~ vases de cristal ; des centaines de plats d ' or , ornés d ' émaux ; des vases et des statues d ' ambre ; des morceaux de camphre en forme de melons ; une multitude de miroirs d ' acier ornés de filigranes en or et en argent , et munis de manches en cornaline et autres pierres polies ; un grand pavillon en be ! fes étoffes de soie à figures , dont le transport exigeait cent chameaux ; des tapisseries représentant les souverains de t ' Egypte ; les étoffes les plus fines des fabriques de Damas , deBahnesa et deTennis ; des armes garnies de pierreries ; une quantité de vases remplis de parfums ; dix mille cruches remplies de naphte , enfin une bibliothèque riche en manuscrits ( 1 ) Voyez le Mémoire histor .sur la vie de Mostanscr - Billah , t .",
+        "words": [
+          "parfums",
+          "deTennis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/6b234038-5adc-5387-bfe9-b7d9b43d8b13",
+        "value": "quent usage pour la teinture des maroquins .On signalait , d ' après la nuance rouge ou blanche , le bois odoriférant de santal , qui venait de l ' Inde et de l ' île de Timor .On recherchait l ' ambre des côtes des Maldives , la gomme aromatique de benjoin , fournie par Sumatra , Siam etMafaeca ; t ' aloës liquide de Socotora , dont il se faisait un grand commerce à Aden et à Jedda , d ' où on l ' envoyait en Égypte , tandis qu ' on en expédiait aussi beaucoup par Ormuz et Bassora il était quatre fois plus estimé que celui de l ' Inde ' ; i ' aloés de Malacca appelé calambec , et mentionné pour la première fois dans les ordonnances de Barcelone en 1221 , et l ' atocs de Java , que les Arabes appelaient < 0 ! < t / - e / ~ a ! CM ~ .",
+        "words": [
+          "bois",
+          "odoriférant",
+          "Timor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/b39764fd-f860-58d7-b0b6-1a9b9b68bb67",
+        "value": "Les vins de l ' Italie se vendaient concurremment avec ceux de la Romanie , de Chypre et de Candie .Les épices , les parfums , les drogues , le coton , l ' indigo , le sucre arrivaient de l ' Asie mineure , ' de Trébizonde et de l ' Egypte .11 paraît qu ' une partie de ces denrées orien ' • taies s ' écoulait par le Danube en Allemagne Du moins elles sont notées dans un ancien tarif de Stein , ̃ ville sur ce fleuve , dans fa basse Autriche 3 .",
+        "words": [
+          "Asie",
+          "parfums",
+          "drogues",
+          "sucre",
+          "coton",
+          "épices",
+          "Egypte",
+          "indigo",
+          "Trébizonde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/b5edc34f-cb96-5ed8-adc3-85b797270bfc",
+        "value": "De Siam , les marchands venaient à Mafacca acheter des esclaves , des épices , des brocards de Cambaie , & c .Entre autres objets , ils apportaient en échange ce bois de calambec , ou aloës , tant recherché par les Orientaux pour son odeur parfumée .Dans le pays de Camboje , on trouvait des forêts de ce bois précieux .",
+        "words": [
+          "parfumée",
+          "odeur",
+          "aloës",
+          "Orientaux",
+          "bois de calambec"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/c01a319b-4333-5022-9afe-d76d308b726e",
+        "value": "A cette époque , l ' Egypte était riche et florissante et îa Perse plongée dans la mollesse ; la Grèce commençait à se civiliser , mais l ' Europe était encore barbare ; les Phéniciens trouvaient auprès d ' eux assez d ' acheteurs et ils allaient chercher , sans concurrens , les denrées dans les pays où il n ' y avait pas d ' industrie .Les caravanes apportaient à Tyr les arômes , les épices , l ' ivoire , et d ' autres riches productions « de .la Perse et de i ' Inde les navires phéniciens les distribuaient sur tous les bords de la Méditerranée .",
+        "words": [
+          "ivoire",
+          "Tyr",
+          "épices",
+          "arômes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/c3b05176-7c2e-59ee-9b08-d8956e839c0a",
+        "value": "Le poivre et la canelle , qui se vendaient au marché , défrayaient son immense harem .Calicut était fréquenté par les marchands de l ' Arabie , de l ' Egypte , de la Perse ; les Maures qui y étaient établis tenaient des magasins de pierres fines , de perles , d ' épices , de parfums et aromates , d ' étoffes de soie , de porcelaine , de bois de teinture 2 , & c .Les premiers Européens qui pénétrèrent dans l ' Inde y virent débiter , dans les boutiques , du vin de Candie , des damas de LucquesJ des ras , velours , et autres étoffes de fabrique d ' Europe , arrivés probablement par la voie de l ' Egypte 3 .",
+        "words": [
+          "parfums",
+          "perles",
+          "aromates",
+          "épices",
+          "Perse",
+          "bois de teinture",
+          "pierres fines",
+          "Calicut"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d58b32db-c50c-5058-ba6f-31c6f3b22a21",
+        "label": "Georges Bernard  Depping"
+      }
+    ],
+    "label": "Histoire du commerce entre le Levant et l'Europe depuis les croisades jusqu'à la fondation des colonies d'Amérique. T1 / par G.-B. Depping,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k433018q",
+    "date": "1830",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/177",
+      "label": "Spice"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c379824b-ff29-5f57-bb5e-e85e50fcace0",
+      "label": "1830",
+      "begin": "1830",
+      "end": "1830"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/267008/",
+      "label": "Tyre"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/02e40f77-6b79-5874-a4fb-8594684ea7bb/fragment/c01a319b-4333-5022-9afe-d76d308b726e",
+  "license": "Public domain"
+}

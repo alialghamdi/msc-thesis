@@ -1,0 +1,71 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/272d1e7f-4744-5d70-acb7-266f9695ddf1",
+  "@graph": "http://data.odeuropa.eu/wikisource",
+  "label": "smells",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/aecbd509-ce99-599a-a6ee-b5c5b307d38e",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/aecbd509-ce99-599a-a6ee-b5c5b307d38e/fragment/4267cb96-b710-5c3c-baea-5a15ac90606e",
+        "value": ".VERUS : You are right : a joy so long awaited must not be born among these sinister rocks , where floats an odor of death and madness ..",
+        "words": [
+          "odor",
+          "of death",
+          "madness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aecbd509-ce99-599a-a6ee-b5c5b307d38e/fragment/7209c35e-5b4b-5de3-99b9-f8270d8a30c0",
+        "value": ".I have never seen so many cripples , vagrants and evil - smelling sick people gathered together ..",
+        "words": [
+          "smelling",
+          "I",
+          "evil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/aecbd509-ce99-599a-a6ee-b5c5b307d38e/fragment/91b36cea-b531-5a1f-b50a-47012e0dd3db",
+        "value": ".SILANUS : She told me that she was fleeing from the fanaticism of the Jews , the tumult and the sickening smells , which increase twofold at Jerusalem as the Passover approaches ..",
+        "words": [
+          "sickening",
+          "smells",
+          "at Jerusalem",
+          "as the Passover approaches"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/dd1e9171-3a1e-5940-ab3a-7517e2c0e7c9",
+        "label": "Maurice Maeterlinck"
+      }
+    ],
+    "label": "Mary Magdalene: A Play In Three Acts",
+    "url": "https://en.wikisource.org/wiki/Mary_Magdalene:_A_Play_In_Three_Acts",
+    "date": "1910",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/08d78d7b-da9b-5eb6-adb7-ed731b7b0357",
+      "label": "1910",
+      "begin": "1910",
+      "end": "1910"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/fear",
+      "label": "fear"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/aecbd509-ce99-599a-a6ee-b5c5b307d38e/fragment/91b36cea-b531-5a1f-b50a-47012e0dd3db",
+  "adjective": "sickening"
+}

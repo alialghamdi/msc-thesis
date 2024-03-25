@@ -1,0 +1,1456 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/60ff4efa-a509-509c-b032-af4862f2881f",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "infufion",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/01f4de83-6c69-5c08-a847-015bb491659d",
+        "value": "Lavandula , Tourn .( lavo , to walh ) from its being ufed in baths and walhes , on account of the fragrancy of its fmelK J uncus , Tourn .fjungo , to join ) from the flalks being joined together , and wrought into balkets and other ufetul uten - fiis , when dried .",
+        "words": [
+          "fragrancy",
+          "its",
+          "of its fmelK"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/0386c979-6c8c-5690-83b1-1342eb224161",
+        "value": "Thcfe plants are all natives of very warm countries ; and , notwithflanding their great height , are only perennial by their roots .The plants of this order which have only one filament , or maie organ , ( as ginger , coflus , Indian flowering - reed , al - pinia , and Indian arrow - root ) have , in all their parts , an aromatic odour , and an acrid , or poignant tafle ; qualities , however , poffefled in a much greater degree by the roots , which are hot , and refinous .The fruit of the different fpecies of plantain - tree ( muja ) is acid .",
+        "words": [
+          "odour",
+          "aromatic",
+          "The",
+          "ginger",
+          "al - pinia",
+          "Indian arrow - root",
+          "Indian flowering - reed",
+          "coflus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/0638a775-b062-5ae5-94d1-5d5152976fef",
+        "value": "Bartram , is poffelfed of a peculiar fcent , which , though agreeable , is fo very ftrong , as fre - quently to give a violent head - ach , efpecially when the plant is abundant , and in flower .An infufion of Collinjonia in water , taken internally , has been found efficacious in dif - p el ling the poifon occafioned by the bite of the rattle - fnake ; nor is the outward application of the herb lefs fuccefsful in pains of the limbs , when the parts affeffed are rubbed with it .In New - York they diflinguifh this plant by the name of horfe - weed , becaufe the horfes eat it in fpring , before any other herbs make their appearance .",
+        "words": [
+          "in",
+          "efficacious",
+          "infufion",
+          "of Collinjonia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/080be584-6bb9-5e76-8689-3979d0338c0c",
+        "value": "Ludwig defines leaves to be fibrous and cellular pr ' oceffes of the plant , which are of various figures , but generally extended into a plain , membranaceous or fkinny fubftance .They are of a deeper green than the foot - ftalks on which they ( land , and are tormed by the ex - panfion of the veflels of the ftalk , among which , in feveia feaves , the proper veflels are difting ' uilhed by the parti cu ar talle , colour , and fmell ol the liquors contained within them ..",
+        "words": [
+          "fmell",
+          "the liquors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/08e4db47-bd75-5bb1-9251-3ed875a00630",
+        "value": "The finefl fenna is that from Alexandria , called by the Turks palte , which pays a confulerable tribute to the Grand Signor .This fort bears narrow leaves of a moderate fize , lancet fhaped , yellowifh , and of a ftrong , fweet , fragrant fmell .The Tripoli fenna , which is green , comes next in vir - tue to the Alexandrian , but is eafily diftinguifhed by its little fmell .",
+        "words": [
+          "fragrant",
+          "fmell",
+          "fweet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/0be75aba-15da-5f98-b10e-5f08717ad920",
+        "value": "an at - traftive fpungy quality , as - frequently to drain , , with facility , any liquids that fland near them - r A > that , unlefs the mafler of the flsip , which conveys then * from the iflands , is very careful to keep them at a conve - nient diflanee from his liquors , a quantity of them will , in two days time , exhauft and dry up a hogfhead of wine or water - Pimento , all - fpice , or Jamaica pepper , is the dried un - ripe fruit of the piper odoratum Jamaicenfe of Ray , the myrtus pimento of Linnaeus the bay - berry tree of fome authors .It is a round fruit , with a dulkifh , hard , rough , umbilicated rind , containing within it two black kernels , of an aromatic fmell and tafte approaching to that of cloves , yet partaking , in fome degree , of the odour and talfe of all the other fpices , whence it has obtained the name of all - fpice .The tree which produces it , rifesto the height of thirty 01 forty feet ; and in a rich foil , will grow even to the height of an hundred feet .",
+        "words": [
+          "odour",
+          "aromatic",
+          "It",
+          "fmell",
+          "fpice",
+          "two black kernels",
+          "of all the other fpices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/0c5ec7f3-f68c-50ab-a37d-82a79ba82e05",
+        "value": "Hence we often meet with feveral fpiceries , cinnamon in particular , that are very dry and infipid , alraoft devoid of fmell and tafte , and pillaged of their oil and effential fubftance .â   The fruit of the cinnamon - tree yields , by coftion and expreffion , an oily fubftance , of which candles are made for people of the firft rank : and from the neck of the root is drawn a fine kind of camphire , of a tpicy , aromatic fmell , very rarely to be met with in Europe .â   In Siberia , â   fays Graelin , â   they eat for ordinary food , the root of a fpccies of polygonum , termed by fome botanifts , bijlorla montana minor ; and by Haller , b ' jlorta foliis ad oram nervofis .",
+        "words": [
+          "aromatic",
+          "camphire",
+          "fmell",
+          "tpicy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/0e562cca-e527-54d7-b826-257511353a0b",
+        "value": "Subftances refembling camphire , and oil of camphire , are likewife obtained from the roots of Laurus Caflia , termed by Kaempfer Caffia Canellifera , from the bark of which is alfo got , by diflillation , an oil of cinnamon , and from the leaves , an oil of cloves .The fame curious traveller informs us , that a camphire is depofited in great abundance at the bottom of the oil obtained bv diflillation j from the Arabian and Perfian Schoenanthus : aftd he doubts not that a fimilar fubftance might be extrafted from juniper and other plants , which have the camphire - fmell , as the Bramins extraft a fugar from every fweet , even from milk itfelf .A tree which grows naturally in Sumatra and Borneo yields a cryflalline camphire , that is exceedingly precious and rare .",
+        "words": [
+          "camphire",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/107503ed-3559-5568-abe1-ac1be3d588fe",
+        "value": "The finefl , or pureft , is the fuccotrine aloes ; fo called , fays Pomet , either becaufe the fubflance itfelf is a concreted juice , or , which is niofl probable , becaufe the bell comes from Socotdra , or Zocotra , an ifland in the { freights of Ba - belmandel .Succotrine aloes , when broken , is tranfparent ; and when powdered , of a fine yellow golden colour , with a bitter ' tafle , and a fmell like that of myrrh .From the root , and leaves of the Weft - India , or Barbadoes aloe , is prepared the fecond fort , called , from its colour , which is a dark red like that of a liver , hepatic aloes .",
+        "words": [
+          "fmell",
+          "like that of myrrh",
+          "Succotrine aloes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/115e3d7f-1128-5985-9126-9f4942284feb",
+        "value": "In an earthen pot they put a proper quantity of the flowers , and fome bearâ   s oil above it .The pot or vafe is then well flopped , and expofed to the morning fun , the heat of which , concentrated in the vafe , imparts to the inclofed fubftance , which turns red , and has a very agree - able fmell , the quality of purifying and curing all forts of wounds .S .",
+        "words": [
+          "fmell",
+          "very agree - able",
+          "purifying and curing all forts of wounds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/16cffad5-8897-566c-96a3-ba366b6ff71e",
+        "value": "d aftes , confidcred with relation to the parts which they affeft , are either , 1 , fixed and local ; 3 , extend themfelves to the parts in the neighbourhood of that which is firft affeftedv without .duke ( fweet ) Laftuca opij fucco virofo ( harfh like opium ) â   mills ( mild ) Pyrus fruftu faccharato ore dchnucjcente ( fweet like fugar , r and melting in the mouth ) .All plants aft either by their ffnell upon the nerves , by their tafte upon the mufcular fibres , or by both upon the fluids .",
+        "words": [
+          "duke",
+          "fweet",
+          "like fugar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/18337dab-95bd-58a5-85ac-1ea4ccc01eb9",
+        "value": "Aikanet root , the anchija minor purpurea of Parkinfon , is the only vegetable yet known , which gives a true red tinc - ture to oil ; yet will it not colour water in , the leait .Red rofes being dried , and infufed for fome time in oil of aniieed , a more potent menitruum than common oil , lofe their own colour entirely , and turn white , without effecting any change on the oil , which remains limpid as at firit .As pi 1 rarely takes a red , there being but one known in - ilance of it ; lo there is no plant that I know of , which , by infufion , will give a perfebl green to water .",
+        "words": [
+          "more potent",
+          "infufed",
+          "in oil of aniieed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/1b4bf8c9-70f4-52a0-8332-a1160652834b",
+        "value": "But although the green leaves will not give their viiibl # colour , by nitufion in water , yet will they impart moil other colours , as well as the flowers themieives , Thus the leaves K 4 > COL of cinquefoil give a tincture refembling Rhenifh wine ; thofe of hyffop , Canary ; of flrawberry , Malaga ; of mint , Muf - cadine ; thofe of wood - forrel produce a tinfture refembling a mixture of Claret and water ; of balm , near as red as or - dinary Claret alone .All aromatic hot plants give a yellow - red tinfture to water , as well as oil .- Thefe leaves , .",
+        "words": [
+          "aromatic",
+          "All",
+          "hot plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/1c1230c9-0c6c-5e8f-b2ea-771c8704280b",
+        "value": "melijjcc odore ( fmelling of balm ) .ruta odore ( fmelling of rue ) .K .",
+        "words": [
+          "of rue",
+          "fmelling",
+          "ruta odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/1c786440-4166-517d-85e0-1f27933c0e8b",
+        "value": "Each feed has two covers ; the one external , of a cartilaginous , U * 4 \" or V I G or leathery fubftance ; the other internal , membranaceous , of a very fine texture , and placed immediately above the radicle or embryo - plant .The plants of this order are fragrant , warm , penetrating , and accounted cordial , and cephalic .Their principal virtue refides in the leaves .",
+        "words": [
+          "fragrant",
+          "The plants of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/1e19f1da-3135-5125-8783-4f5ca350a76d",
+        "value": "Thefe , from their refemblance to beards , have occafioned the plant to be generally known , at that feafon , among the Country people , by the name of pld manâ   s beard .It is very acrid to the tafte , and without F f 4 any M U S any fmell ; it is frequently ufed as a cauftic , and for cleanf - ing old ulcers .The root is faid to be purgative .",
+        "words": [
+          "It",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/1e55c05a-9f81-5142-8b71-d0b7122cb649",
+        "value": "Rhodiola , Lin .( po & ov , a rofej from the fmell of the roots , which refembles that of the rofe .Trigonella , Lin .",
+        "words": [
+          "of the roots",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/208f8f45-8818-5529-b413-58bdfb1d5c76",
+        "value": "HOL bruifed .The baik is reddifh , thick , and rough , and more fragrant than the wood .When the wood is cut or rafped for ufe , the fniell is fo ftrong that it occafions the head - ach in thofe that work upon it ; as it likewife does in thofe that ufe it , which has much leffened its credit .",
+        "words": [
+          "fragrant",
+          "The baik"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/239eecf4-507e-549e-8495-ce540f3c81ec",
+        "value": "Some put it up with common mug - wort flowers , or the young leaves of a plant called fafanqua , which they believe renders it much more agreeable .Other odoriferous and aromatic fubflartces are found , upon trial , to produce no fuch beneficial efftft .The tea , as it is taken inwardly , is prepared in two diffe - rent ways .",
+        "words": [
+          "aromatic",
+          "odoriferous",
+          "fubflartces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/241b6eba-81f9-5bec-926b-6e3a7166ec56",
+        "value": "The fruit * , are acid and cooling .The roots of herb - bennet fmell like cloves , whence the name of caryophyllata , by which that genus of plants was known in the time of Pliny .With rcfpeft to their virtues , the leaves are vulnerary and aftringent .",
+        "words": [
+          "fmell",
+          "like cloves",
+          "The roots of herb - bennet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/256d3e1a-f1c9-5874-8464-7a7fb0cc2418",
+        "value": "The leaves of privet have a bitter acrid tafie ; the dowers have a drong difagreeable lined : the former arc adringent ; the latter deterfive .The SEX rl he Banian Indians , who are much addicted t6 fweet â    fmells and fragrant exhalations , generally wear a necklace of the flowers of Arabian Jeflamine in the night - time ; as it is then that they mod fenfibly emit their odoriferous vapours .I he flovveis of a fpecies ot Arabian jeflamine open in the ev ening , and drop off7 in the morning ; whence the name of at bor trijiis , or the forrowful tree , by which Linnaeus has diftinguifhed it .",
+        "words": [
+          "in",
+          "fragrant",
+          "odoriferous",
+          "vapours",
+          "exhalations",
+          "they",
+          "their",
+          "fmells",
+          "of the flowers of Arabian Jeflamine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/26cf284e-cd24-5df7-9019-32f56d0f7e01",
+        "value": "ciiri odore ( fmelling of citron ) .anifi odore ( fmelling of anife ) .foeniculi odore ( fmelling of fennel ) .",
+        "words": [
+          "fmelling",
+          "of anife",
+          "anifi odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/2b127036-2e97-57b9-8508-78167a9ecd41",
+        "value": "The animals which are wounded by hunters in Louifiana , Florida , and Virginia , cure themfelves , we are told , by rubbing againft the tree from which this balfam exudes , attrafted thereto , probably , by its pleafing aromatic fmell .The Natives of Louifiana and Florida toaft the fmall leaves of Prinos glaher , termed by Catefby the true Cafline or Calfena , as we do coffee , and drink the infufion of them with much ceremony .This the Indians call the Liquor of Valour .",
+        "words": [
+          "infufion",
+          "Prinos glaher"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/2b41ef44-2091-5a75-ba4d-92f3822905fa",
+        "value": "John dâ   Acre .It is light , grey , tender , brittle , refinous , grinds to a grey powder , of a bitter tafte , and faint , unpleafant fmell .That which is heavy , hard , and black , is to be re - jefled , and is , in faff , either the juice of the whole plant - , or what has been burnt , and otherwife damaged in the ope - ration of thickening .",
+        "words": [
+          "faint",
+          "It",
+          "fmell",
+          "unpleafant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/2cc470ab-6c35-5a74-8707-6159451ccc0c",
+        "value": "Round - leaved Montpelier fcammony , a fpecies of cynan - cbum , abounds with a milky juice , which is of a purgative nature , and when concreted , has been frequently fold for true Aleppo fcammony .All the fpecies of rofe - bay , or oleander , are fuppofed to have a poifonous quality ; the larger branches , when burnt , emit a very difagreeable fmell , which generally indicates fomething noxious .Galen relates , that the common olean - dei , taken internally , is deadly ; and fome late obfervations ha \\ e e \\ inced , that the water in which the leaves are macerat - ed , is a mortal poifon to fheep .",
+        "words": [
+          "fmell",
+          "the larger branches",
+          "very difagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/30666d90-3226-5a40-8a86-bbf22fc2bbab",
+        "value": "Haffelquifi , in his Travels to the Eafi , fpeaking of oleander , which grows in great abundance in Eg } pt and the Eaftern countries , mentions not one fufpicious chai after , but afferts , on the contrary , that it pofieffes all the qualities of the tree of the righteous , commemorated by David in the firfl pfalm .An infufion in cold water of this root is employed with fuccefs againft the bites of feipents , and other venomous creatures .The tender Moots of Afclepias Syrica , notwithfianding the fufpicious nature of the plant , are fometimes ufed for the kitchen , and prepared like Afparagus .",
+        "words": [
+          "of",
+          "infufion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/328707c7-4509-5d77-b6f6-64911aca5088",
+        "value": "The former aft upon the fluids and folids , and change the fluids , which are evacuated by both fapid and odoriferous fubftances .The virtues and qualities of plants are commonly indi - cated by their tafte , fmell , and colour .Infipid plants and fuch as have no fmell , have rarely any medicinal virtue .",
+        "words": [
+          "their",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/32bae396-3db2-59d7-a90d-a5371188fe47",
+        "value": "The ancients , according to Arillotle , recognized feven primitive or original fmells , which , on account of their ftriking affinity to the fimple talks , were defigned by the fame names .Smells being fo extremely variable , admit of no determi - nate limits , and are , therefore , never to be employed in difcriminating the fpecies of plants .Hence fuch fpecific names as the following are very properly profcribed from the modern nomenclature of botany .",
+        "words": [
+          "Smells",
+          "extremely variable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/3409383e-e81e-5255-9dc6-72cc11433e72",
+        "value": "â  ¢ Of juniper - berries , and the tops of the branches of a fpecies of Canadian pitch - tree , is prepared a very faf ' e and wholefome wine .The wood of the cone - bearing plants is , in general , tender , light , not liable to corrupt , and of a fragrant fmell .That of the yew - tree is very hard , pliant , fufceptilple of a good Â » 5 poLilh * CON polifh , and poflefles a red colour , which , for beauty , may vie with any of the foreign woods .",
+        "words": [
+          "fragrant",
+          "fmell",
+          "The wood of the cone - bearing plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/385318ad-c02c-5fbd-89a8-9619f8c5ae01",
+        "value": "This order furnilhes woody plants both of the dirub and tree kind , mod of which do not drop their leaves till nearly the time in which the new leaves begin to appear .The dowers pf jedamine , which is a native of the Indies , have a very agreeable fmell 3 they are cordial , cephalic , anodyne , and frequently enter as an ingredient into the com - pofition of perfumes and odoriferous oils .The leaves of privet have a bitter acrid tafie ; the dowers have a drong difagreeable lined : the former arc adringent ; the latter deterfive .",
+        "words": [
+          "oils",
+          "odoriferous",
+          "perfumes",
+          "very agreeable",
+          "anodyne",
+          "fmell",
+          "jedamine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/3a89dddc-a956-5159-bfa2-8d77dab99fba",
+        "value": "fruit , which the country affords .The I C U L The mufic - melon is diflinguifhed , like the water - melon , by the colour of its pulp , into the white and red forts ; and derives its name from the fragrancy of the fmell .Coloquintida , or bitter - apple , the Colocynthis of Tourne - fort , the Cucumis Colocynthis of Linnaeus , is brought to us from Aleppo , and the illand of Crete .",
+        "words": [
+          "the",
+          "fragrancy",
+          "fmell",
+          "mufic - melon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/3eefd3f1-cb50-5981-a9fc-e5568c3e0d28",
+        "value": "Their names are borrowed from Hermannus .The older Gymnofpermia confifls of plants , which , as mint , hvffop , favory , lavender , and other aromatics , have four naked feeds lodged in the bottom of the calyx without any proper feed - veflel .Thefe are the Labiati , or lip - flowers , of Tournefort and Pontedera ; the Verticillatce , or plants that flower at the joints , or whofe flowers are placed in whirls round the ftalk , of Hermannus , Boerhaave , Ray , and Lin - naeus in his Fragments of a Natural Method .",
+        "words": [
+          "lavender",
+          "mint",
+          "aromatics",
+          "favory",
+          "hvffop"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/409e8f37-ac26-57f9-a307-90bd5f8727e4",
+        "value": "Bauhin , Johnflon , Rum - fi us , and fevcral othe ^ botamfls , who have arranged plants according to their virtues and fenfible qualities .I he plants of the order Didynamia Gymnofpermia of Lin - naeus , which correfpond to the labiati , or lipped flowers of Tournefort , are all aromatics ., ARTICULUS , that part of the cubnus , or ftalk ia graffes .",
+        "words": [
+          "aromatics",
+          "lipped flowers of Tournefort",
+          "Gymnofpermia of Lin - naeus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/4294a4d6-a2f5-5ae8-9ee5-165123f1e783",
+        "value": "DI / ETE IICI .By this name Linnaeus diftinguiffies a clafs of Medical Botanifts , who pronounce of the qualities of vegetable food , by taffe and fmell .Such are Querce - lanus , Nonnius , Behren , and Lifter .",
+        "words": [
+          "fmell",
+          "taffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/43189e9c-8359-5ec4-8142-49b75602c489",
+        "value": "It is efteemed an ex - cellent cordial , and enters into the compofition of choco - late , which , indeed , is its principal ufe with us .A black fragrant balfam is procured from the fame pods ; but this is very rarely brought to Europe .The name vanilla , fignify - inga Iheath , was given to this plant by the Spaniards , from the figure of its pods .",
+        "words": [
+          "fragrant",
+          "from the fame pods",
+          "fragrant balfam"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/443c928c-ab01-525b-b221-da30a25ff96e",
+        "value": "The leaves have a fomewhat bitter tafte , with little or no fmell .Brook - lime , the veronica beccabunga of Linmeus , is ufed in infufion for the fcurvy , and is a principal ingredient in moft diet - drinks for that diftemper .The herb is almoft in - fipid to the tafte , and without fmell .",
+        "words": [
+          "infufion",
+          "Brook - lime"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/468087d8-0e8d-588e-91da-9efa4817d577",
+        "value": "In faft , thefe charafters cannot be applied to every artificial method , but to fuch only as are cftablilhed on the parts of the flower and fruit ; nor do 1 think that in thefe they are always fuflicient for afeertaining the genus , without calling in fomc other charafters to their alliflance .The i C H A The natural character of the fpecics of plants ought , ac - cording to Tournefort , to be drawn from all the parts which are unconnected with the fructification , as the root , Hem , and leaves ; likewife from their fenfible qualities , as colour , taffe and fmell .To the former part of this aphorifm Linnaeus cheerfully fubfcribes , but not to the latter .",
+        "words": [
+          "their",
+          "leaves",
+          "fmell",
+          "fenfible",
+          "taffe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/47c21574-8c31-5657-9236-4a537fc0d2e8",
+        "value": "Rauwolf ' s Travels .L 2 An COL An infufion of the flowers of the lime - tree has been ufed with fuccefs in an epilepfy .The timber , which is too foft for any ftrong purpofes , is principally employed by the carvers , and turners , as likewife by archite & s , for framing the models of their buildings .",
+        "words": [
+          "infufion",
+          "of the flowers of the lime - tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/49d387d9-b4ba-56f8-b7ba-4469ceadb3e3",
+        "value": "In fhort , all our refearches upon this fubjefl are mere conje & ure ; and men knew much more of thefe imperfeft plants , , FIL ' pkn : s , who never fueled ihey were furnifhed with ( lamina or feeds , loan the modems , who confining their enquiries to thole minute parts which generally elude the fight have entirely negfeacd their port or habit ; although that only can fin mill accurate diltindlive charafters in this natural tribe or family of plants .Mofl of the ferns have a heavy , difagreeable fmell ; they are opening , and attenuating .â   The true maiden - hair , or Capillaire of Montpelier , a well - known medicine , is the adiantum foliis coriandri of Cafpar Bauhin , the capillus veneris verus of Gerard , the adiantum capillus veneris of Linnaeus .",
+        "words": [
+          "heavy",
+          "fmell",
+          "difagreeable",
+          "Mofl of the ferns"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/4cb7c011-65f5-527c-a004-70e23e053f16",
+        "value": "colour .The flowers are produced in large knots or duffers at the extremities of the branches , and conflft each of fix petals difpofed in the form of a ftar , and of a dirty - white , or yellow colour , with an agreeable odour , which diffufes itfelf to a confiderable diftance .The tree begins to bear fruit two years and a half , or at moft three years after being planted ; and , like moft of the trees in warm climates , bears twice a year .",
+        "words": [
+          "agreeable",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/514f3ffe-5ab4-5105-8e23-10fd80c74eac",
+        "value": "The cones , or female heads of the cyprefs , improperly called cyprefs - nuts , are highly aftringent .Juniper - wood is fragrant when burnt : for which purpofe it is frequently ufed in houfes , to prevent peftilential diforders , and other nifettions .1 Applied CON Applied externally , the refins , particularly thofe of the pitch and larch trees , are anodyne , deterfive , and antifeptic .",
+        "words": [
+          "fragrant",
+          "Juniper - wood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5345d328-3527-5edd-8a31-f440c830c6ca",
+        "value": "When gently rubbed , they have a fcent like fcalded apples .The flowers of geranium trifle are marked with dark purple fpots , and fmell very fweet after the fun has left them ; hence the fpecies is known among gardeners by the name of night - fcented craneâ   s - bill .In general , it may be obferved , that moll fpecies of geranium with tuberous flefhy roots have their odour augmented in the evening , and during the ab .",
+        "words": [
+          "fmell",
+          "very fweet",
+          "The flowers of geranium trifle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/547715af-5eef-55f7-9b75-5a96e0921f65",
+        "value": "Their ufe is to defend the internal parts of the bud , which , being - unfolded , will produce , fome , flowers , leaves , and flipuhe others , foot - flalks and feales .All thefe parts , while they lemain in the bud , are tender , delicate , folded over one another , and covered with a thick clammy juice , which is fometimes refinous and odoriferous , as in the tacahamac - tree .The external feales fall off after the entire expanfion of the internal parts .",
+        "words": [
+          "odoriferous",
+          "refinous",
+          "the tacahamac -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/55533a1e-ec5a-5986-9e15-35116cc5251a",
+        "value": "Camphire - tree , the Laurus Camphora of Linnaeus , the Laurus Camphorifera of Kaempfer , grows naturally in the woods ol the wefiern parts of Japan , as likewife in Su - matra , Borneo , and other parts of India .The root fmells more of camphire than the other parts , and .being boiled yields it .",
+        "words": [
+          "more",
+          "The root",
+          "fmells",
+          "more of camphire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/59401760-17c1-5838-a8c6-38c55a6d16a9",
+        "value": "Moll of the fpecies of wild orach have an aromatic laetid frncll .A fpecies which grows near the coafls of the Medi - terranean is ufed by the Egyptians in fallads , on account of its faltifh aromatic tafle , which is agreeable .â   From the fame plant kelp is made in other countries .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5a967a66-40a9-51f3-adb1-134e83d31ec8",
+        "value": "It is an excellent diuretic ; but when taken in great quantity , or made too flrong , which , from their at - tachment to this beverage , is frequently the cafe , excites a kind of convulfions , which are not produ & ive , however , of any ferious inconvenience .An infufion of the inner bark in milk , wine , or water , is a gentle purgative ; the leaves , which are of a bitter taffe , are outwardly applied in fomen - tations for the piles .The flowers infufed in whey are bene - ficial in diforders ef the fkin , and afford a vinegar , which it D U M is lefs hurtful to the ftomach than common vinegar .",
+        "words": [
+          "infufion",
+          "of the inner bark"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5b4780a3-ca55-5eff-ae0c-629034dd8619",
+        "value": "The flowers of geranium trifle are marked with dark purple fpots , and fmell very fweet after the fun has left them ; hence the fpecies is known among gardeners by the name of night - fcented craneâ   s - bill .In general , it may be obferved , that moll fpecies of geranium with tuberous flefhy roots have their odour augmented in the evening , and during the ab .fence of the fun .",
+        "words": [
+          "odour",
+          "their",
+          "in the evening",
+          "during the",
+          "fpecies of geranium",
+          "with tuberous flefhy roots"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5b9247e4-3460-5452-96a3-d1ac3ad7804e",
+        "value": "Melo mofchatus ( fmelling of mufk ) .Hefperis nodtu olens ( fmelling in the night ) .Caryophyllus inodorus ( without fmell ) .",
+        "words": [
+          "in the night",
+          "fmelling",
+          "Hefperis nodtu olens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5c292d65-2f37-51dc-857e-93ec0c2d9a8e",
+        "value": "Taken internally , thefe plants are aperient , fudorific , ^ diuretic , ftomachic , and antifeptic .An air impregnated with their balfamic exhalations , is reckoned very falutary to confumptive habits .Juniper berries , and the gum of the larch , give urine a fragrant fmell like that of violets .",
+        "words": [
+          "exhalations",
+          "their",
+          "An air",
+          "balfamic",
+          "balfamic exhalations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5c56b239-2d82-5bef-aa2c-a9a28be86de1",
+        "value": "I he milky juice of Apocynum Androjccmfolium , is faid to be noxious to fome perfons , and harmlefs to others , a quality which has likewife been afcnbed to the Rhus Vanix or poifon - affi .â   I faw a foldier , â   fays Kalm , in his Travels into North America , â   whofe hands were bliftered ail over , merely by plucking the plant in order to fhew it me ; and its exhalations , it is affirmed , affeft fome people when they come within reach of them .The Seeds are numerous , flat , or round , and generally placed in two rows .",
+        "words": [
+          "exhalations",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5da95372-4402-5d42-9c42-612d331758ec",
+        "value": "Outwardly , it is ufed in fomentations againil dwellings and inflammations .Gum labdanum is an odoriferous balfam or refm which as found upon a fpecies of rock - rofe , the ctjtus ladanifera of Xinmeus , that grows naturally in the Levant .Tius .",
+        "words": [
+          "odoriferous",
+          "balfam",
+          "refm",
+          "Gum labdanum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5e55f1a3-99a8-564c-a65a-48c20772f1d9",
+        "value": "It is ufually fent us from Spain , and the fouthern parts of France , where the plant is common , in fmall flat whitifh lumps , or cakes , that are dry , and break eafiiy between the fingers .It is of an acrid , naufeous , bitter tafle , and ilrong offenfive fmell , when newly made : but thefe , as well as its other qualities , it lofes , after being kept for fome time .Elaterium is a very violent purge and vomit , and is now very feldom ufed .",
+        "words": [
+          "acrid",
+          "fmell",
+          "ilrong offenfive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/5f514c08-fa8b-524b-b7d3-459065135f6a",
+        "value": "The fable of the other trees bending to the royal clove , mention - ed by Pomet and Lemery , is too abfurd to bear any aniinad - verfions .The inhabitants of the ifland of Maflia in the Eafl Indies , where the royal clove grows , firing the fruit and make beads of it , which they wear about their necks , on account of the fr ' agrancy of the fmell .Cloves , before they have attained maturity , are of a de - lightful colour .",
+        "words": [
+          "they",
+          "The inhabitants",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/61eb7f67-1584-52b4-832f-349f7eb84aa7",
+        "value": "plants are refioous , or gummy .Thefe gums have a bitter tafte , but a very agreeable fmell ^ witnefs the incenfe which proceeds from a fpecies of juni - per with yellow fruit .By cutting the trunk , and the largeft branches of the common juniper , during the great heats , there flows a gum , caljed fandarac , which is brought to us from Africa , where the trees grow very large , and in great quantities .",
+        "words": [
+          "very agreeable",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/64d759aa-9fc4-54bf-9aa4-954224c68ff2",
+        "value": "d ^ u ^ mra ., all fweet fpices , herbs , feeds , and roots ) the name ol a divifion in Rayâ   s , Montiâ   s , and Sceuchzerusâ   s arrangement of the graffes ; confifling of fuch as have an odoriferous quality .AROMATICzE Plants , odoriferous , of a flrong agree - able fmell and tafte ; aromatics ; the name of a clafs in Diof - condes , Clufius , Hernandes , J .",
+        "words": [
+          "odoriferous",
+          "fweet",
+          "fpices",
+          "fuch"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/657e3225-0c0b-56e9-838d-a8ec3288abb0",
+        "value": "Plants , therefore , are perpetuated in the buds , as well as in the feeds ; and the fpecies may be renewed , with equal effi - cacy , in either way .The tender rudiments of the future vegetable , of which the bud is compofed , are inclofed , and , during the feveri - ties of winter , defended from cold and other external in - juries , B U L juried , by a hard bai ' k , dr rind , which generally confifts of a number of feales , placed over each other like tiles , and fattened together , by means of a tenacious , refinous , and frequently odoriferous fubflance .Thus defended , the buds remain upon diffeient parts of the mother - plant , till the enfuing fpring ; and arc , therefore , with great propriety , denominated by Lmnteus , the hybernaculum , or winter - quarters of the future vegetable .",
+        "words": [
+          "odoriferous",
+          "refinous",
+          "fubflance",
+          "frequently odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/66daf2b5-a5a3-5025-86e8-bef37bff4639",
+        "value": "Red rofes being dried , and infufed for fome time in oil of aniieed , a more potent menitruum than common oil , lofe their own colour entirely , and turn white , without effecting any change on the oil , which remains limpid as at firit .As pi 1 rarely takes a red , there being but one known in - ilance of it ; lo there is no plant that I know of , which , by infufion , will give a perfebl green to water .But although the green leaves will not give their viiibl # colour , by nitufion in water , yet will they impart moil other colours , as well as the flowers themieives , Thus the leaves K 4 > COL of cinquefoil give a tincture refembling Rhenifh wine ; thofe of hyffop , Canary ; of flrawberry , Malaga ; of mint , Muf - cadine ; thofe of wood - forrel produce a tinfture refembling a mixture of Claret and water ; of balm , near as red as or - dinary Claret alone .",
+        "words": "infufion"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/66dc462b-a95f-54b5-bd77-48dc9900e3e8",
+        "value": "Acorus , or fweet rufh , is hot in the firft degree , aromatic in the third , and bitter in the fourth ; yet its bitternefs is prefently extinguifhed ; its heat Iafts two minutes , and its aromatic fenfation feven or eight .The heat of garden - crefs endures feven or eight minutes ; the bitternefs of elaterium a quarter of an hour ; the heat of euphorbium and black hellebore half an hour ; the acrid fenfation occafioned by the root of arum , or cuckow - pint , often lafts twelve hours .Fromthefe familiar examples it appears , that the fenfation acquires its greateft force , in four or fix minutes at rnoft , from the time ot contaft ; its duration in its decreafe is often thirty or forty minutes and upwards .",
+        "words": [
+          "acrid",
+          "fenfation"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/67470a78-47a2-5d6c-892f-90005571e66c",
+        "value": "Sapid bodies never aft upon the nerves ^ nor odo - riferous bodies upon the mufcular fibres .The former aft upon the fluids and folids , and change the fluids , which are evacuated by both fapid and odoriferous fubftances .The virtues and qualities of plants are commonly indi - cated by their tafte , fmell , and colour .",
+        "words": [
+          "odoriferous",
+          "fapid",
+          "fubftances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6911ef37-1470-5a8f-9ffc-c49aefdb76fe",
+        "value": "Dogs tiace their mailers with furprifing facility at one time , and lofe them with equal facility at another .The ancients , according to Arillotle , recognized feven primitive or original fmells , which , on account of their ftriking affinity to the fimple talks , were defigned by the fame names .Smells being fo extremely variable , admit of no determi - nate limits , and are , therefore , never to be employed in difcriminating the fpecies of plants .",
+        "words": [
+          "original",
+          "fmells",
+          "The ancients",
+          "feven primitive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6a4764f5-e4c6-50d8-936e-e708f04baeaa",
+        "value": "foeniculi odore ( fmelling of fennel ) .melijjcc odore ( fmelling of balm ) .ruta odore ( fmelling of rue ) .",
+        "words": [
+          "of balm",
+          "fmelling",
+          "melijjcc odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6b194b18-6745-5ab2-82b1-bab75eb9b62c",
+        "value": "They lofe this pungent quality , however , by being dried , and become of a foapy nature .The fmell of many of the arums , and of fbme other plants of this order , par - ticularly Drtuontium foet ' idum , is very offenfive , frequently refembling the odour of human excrements .The flowers , however , of an Ethiopian fpccies of dracunculus , or arum , the Calla sÂ ¥ jhlopua of Linnaeus , and the cover in which they are involved , are faid to emit a very fragrant odour .",
+        "words": [
+          "odour",
+          "other",
+          "fmell",
+          "very offenfive",
+          "of human excrements",
+          "of many of the arums",
+          "Drtuontium foet ' idum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6c0fd4eb-1ded-52a9-93bf-e79d0a06ff13",
+        "value": "The timber , which is too foft for any ftrong purpofes , is principally employed by the carvers , and turners , as likewife by archite & s , for framing the models of their buildings .The flowers of the Carolina lime - tree emit a very fragrant odour , and are conftantly haunted by bees during their continuance .The Negroes of Senegal , in Africa , put a very high , value on a decoflion of the bark of a fpecies of Grevia , which they call Kell , and confider as a never failing fpeci - fic in venereal complaints .",
+        "words": [
+          "odour",
+          "very fragrant",
+          "The flowers of the Carolina lime - tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6c6b2bdc-3e86-5370-8ca1-0fb9ad79e6ad",
+        "value": "Rue and fraxinella have a ftrong .penetrating fmell .â   With refpett to their virtues , they are cauftie and purgative ; ifo - - pyrum is hepatic .",
+        "words": [
+          "penetrating",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6cb5dc79-3af3-5bad-84c5-7918002511dc",
+        "value": "It is a plant which glows in Fiance , Italy , and the Levant , upon old moilt walls , m wells , fountains , and the clefts of rocks .The leaves ] which are almoft triangular , have a fragrant fmell , and an agreeable tafle , though ( lightly aftringent and bitter .They are much ufed in the countries which produce the plant in fyrups , and in opening and diuretic decodtions .",
+        "words": [
+          "fragrant",
+          "The leaves",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6e32c3d6-647d-5356-9245-80786a6dba62",
+        "value": "From the berries , befides a rob and extraft , are prepared a fpirit , a wine , and an oil , which promote urine , perfpiration , and fweat .The whole plant has a difagreeable and almoft naufe - ous fmell .The leaves and ftalks are fo bitter , that few ani - mals will brouze upon them .",
+        "words": [
+          "ous",
+          "The whole plant",
+          "fmell",
+          "difagreeable",
+          "almoft"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6f34995f-31af-5133-967a-afcfcf3ee18b",
+        "value": "Infipid plants and fuch as have no fmell , have rarely any medicinal virtue .Sapid and odoriferous - plants , on the contrary , always poffefs very ftrong powers ..",
+        "words": [
+          "odoriferous",
+          "plants",
+          "Sapid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/6f6e8726-f519-5c9f-94ac-b96a4b08e97a",
+        "value": "This fort bears narrow leaves of a moderate fize , lancet fhaped , yellowifh , and of a ftrong , fweet , fragrant fmell .The Tripoli fenna , which is green , comes next in vir - tue to the Alexandrian , but is eafily diftinguifhed by its little fmell .Cajfla Javanica , or broad - podded caflia , is a native of Java , Brafil , and other parts of both Indies .",
+        "words": [
+          "little",
+          "its",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/70d11720-ac2c-548b-9821-81b53b04db10",
+        "value": "K .k 3 Ocymum * O R C \\ Ocymnm cinnamomi odore ( fmelling of cinnamon ) .For obfervations on fmell , as indicative of the virtues and qualities of plants , the reader is referred to the article of tafte , betyveen which , and fmell , there is , as we have faid , a re - markable affinity .",
+        "words": [
+          "of",
+          "of cinnamon",
+          "fmelling",
+          "cinnamomi odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/7669d03c-34e7-584b-b6c7-d6c754736dea",
+        "value": "Galen relates , that the common olean - dei , taken internally , is deadly ; and fome late obfervations ha \\ e e \\ inced , that the water in which the leaves are macerat - ed , is a mortal poifon to fheep .' Notwithftanding thefe fafts , more noxious qualities have been afcribed to this genus of plants than tall to its fhare .The honey about Trebifond is reckoned very unwholefome ; occafioned , as fome fuppofe , by the bees extratting it from the flowers of the oleander : but this is entirely a miftake ; for , Tournefort has fully informed us , that it is not from the flowers of oleander , but from thofe of a fpecies of chamaerhododendros , the azalea pontica of Linnaeus , that the noxious juice in queftion is extracted .",
+        "words": [
+          "noxious",
+          "more noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/777fc408-ccd5-523d-853c-cc1c6e80c45b",
+        "value": "The other fort of fluid contained in plants is - denominated the proper juice , and is analogous to the blood in animals .It is a compound liquor , and is eafily dirtinguifhed by its colour , fmell , or fubrtance from the lymph or fap .This fluid is either green , as in periwinkle ; white , as in fpurge , fig - tree , and dogâ   s - bane .",
+        "words": [
+          "from the",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/78cf11ef-7f8d-5742-8c2a-74060a61676f",
+        "value": "The milk of fome plants is pale , as in burdock ; of others , white , as in dandelion , euphorbium , and fcorzonera ; and of others yellow , as in lovage , and greater celandine .Moil mucilages have little colour , tafte , or fmell .Of all the colours above enumerated , green is the moil common to plants , black the moil rare .",
+        "words": [
+          "fmell",
+          "Moil mucilages"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/79a3ea8a-95a5-5f60-9093-62d582270b06",
+        "value": "( Â £ evr , 01 Â © - , Jupiter , and oofj .7 ) , a fmell ) from the very agreeable odour of the plants of this genus .Dracontium , Lin .",
+        "words": [
+          "odour",
+          "very agreeable",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/7c3ef745-91f3-5159-a9e3-512a47060d18",
+        "value": "Another fpecies of Cerbera , which grows plentifully m the I CON the Eaft Indies , and is termed by Linnaeus , after Bauhin and Ray , Cerbera Manghas , abounds with a cauftic milk4 which , notwithftanding , if properly prepared , proves , fays Burman , an excellent medicine in dropfical cafes , in which it operates both as an emetic and cathartic .The leaves of this plant are like thofe of oleander ; the flowers have the appearance and fragrance of jeffamine ; the fruit , in fhape , refembles a peach , and in colour , an orange .Round - leaved Montpelier fcammony , a fpecies of cynan - cbum , abounds with a milky juice , which is of a purgative nature , and when concreted , has been frequently fold for true Aleppo fcammony .",
+        "words": [
+          "the flowers",
+          "fragrance",
+          "of jeffamine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/7ccd6494-df96-5d81-9f44-2be109721eec",
+        "value": "Fragaria , Tourn .( fragrans , fragrant ) from its fragrant aro - matic fmell .Globularia , Tourn .",
+        "words": [
+          "fragrant",
+          "its",
+          "fragrans",
+          "matic",
+          "fmell",
+          "fragrant aro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/7f255e49-e649-5b97-8d58-574a9597a094",
+        "value": "Saffron gives it a light golden tin & ure .Several aromatic plants , as mint , marjoram , balm , being dried and infufed in oil , give it a double tin & ure , both green and yellow ; one drop of the oil ihewing green ; but a good quantity of it held up againll a candle , looks reddiih , or of a deep yellow colour .Aikanet root , the anchija minor purpurea of Parkinfon , is the only vegetable yet known , which gives a true red tinc - ture to oil ; yet will it not colour water in , the leait .",
+        "words": [
+          "mint",
+          "in",
+          "aromatic",
+          "plants",
+          "marjoram",
+          "balm",
+          "infufed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/7f693a6f-e69c-5c92-a706-97a913dd8d89",
+        "value": "The tea , as it is taken inwardly , is prepared in two diffe - rent ways .The firft , tifed by the Chinefe , and now all over 4 Europe , COM Europe , is nothing elfe but a fimple infufion of the leaves in hot water .The other way , which is peculiar to the Ja - panefe , is by grinding * In this preparation , the leaves are , by means of a hand - mill made of a black - greenifh ftone , called ferpentine ftone , reduced into a fine delicate powder , which being mixed with hot water into a thin pulp , is afterwards fipped .",
+        "words": [
+          "of the leaves",
+          "infufion",
+          "fimple"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/8096fc2c-d14f-5afe-b648-fea32f99e0cd",
+        "value": "Bailard - muftard is ad - mimftered in leprofies in the Levant .In default of the leaves of baobab , the Negroes on the coaft of Guinea mix thofe of garlick pear - tree , which fmell very ftrong , in their ordinary food called coufcous ., ThnC flovver - buds of caper - bulh , preferved with vinegar furnilh the pickle well known by the name of capers .",
+        "words": [
+          "fmell",
+          "the Negroes",
+          "very ftrong",
+          "of garlick pear - tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/815860ad-15e4-5919-a8c3-389901035659",
+        "value": "Vide Millerâ   s Gardenerâ   s Dictionary , Voce Phytolacca .The wood of Barbadoes cedar , [ cedrcla odora / a , ) and of mahogany , ( Swietenia mahagoni , ) has an aromatic , balfamic , and agreeable fmell .The former is employed in the Weft - Indics , on account of its pliancy , tor making canoes of a frngle piece , as well as planks , and fhingles tor covering houfes , and houfehold furniture .",
+        "words": [
+          "agreeable",
+          "aromatic",
+          "fmell",
+          "balfamic",
+          "of mahogany",
+          "( Swietenia mahagoni",
+          "The wood of Barbadoes cedar",
+          "cedrcla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/81f8455a-dfd4-5d98-a511-739e5a2da02e",
+        "value": "The virtues and qualities of plants are commonly indi - cated by their tafte , fmell , and colour .Infipid plants and fuch as have no fmell , have rarely any medicinal virtue .Sapid and odoriferous - plants , on the contrary , always poffefs very ftrong powers .",
+        "words": [
+          "fmell",
+          "fuch",
+          "Infipid plants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/82f835a3-1a40-5899-a126-ec0f2a7b253e",
+        "value": "Xenophon having related , in the fourth book of the Ex - pedition of the younger Cyrus , that , â   on the march of the Greeks from Upper Afia , fuch of the army as partook of the honey in a place near Trapezus , now Trebifond , on the Euxine , where there was a great number of bee - hives , were afTefted with very difagreeable fymptoms , fuch as vomiting , purging , and even infanity ; that not one was able to Hand crea ; that thofe who had indulged but little in this pernicious dainty , feemed intoxicated ; whilft fuch as had been more liberal in the ufe of it , either appeared frantic , or lay as dead ; and that , in fhort , though , about the fame hour in the N 2 following CON following day , they had a partial recovery of their fenfes , they were not , however , completely reftored till fome days after â   M .Tournefort , in his Travels through the Leffer Afia , and efpecially Pontus , the feene of this tranfaftion , Was led to pay particular attention to the narrative of the Greek Hiftorian , and finding , upon minute enquiry , that the plant mentioned above , which he denominates Chamarho - dodendros political maxima , viefpih folio , fore luteo , and which grows plentifully about Trebifond , and the vicinity , pro - duces the very effefts related by Xenophon , and that violent liead - achs are occafioned even by its fmell , he concludes , with the geateft probability of truth , that the honey which proved fo noxious a refreffiment to the Greek army , had been extrafted by the bees from the plant in queflion ; and , in corroboration of his conclufion , adduces the teftimony ot Father Lamberti , a Miffionary , who obferves , that the > honey collefted by the bees from a certain ffirub , which , from the defeription given of it by Lamberti , Tournefort pronounces to be the medlar - leaved Chamcerhododendros , and which grows commonly in Colchis or Mingrelia , a country adjoining to Pontus , is highly pernicious , and , in paiticulai , excites vomiting .It is added by the Rev ei end Fathei , that the fmell of the flowers of this ffirub bears a great re - femblance to that of honey - fuckle , but is much { Longer .",
+        "words": [
+          "its",
+          "fmell",
+          "excites vomiting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/855a6f09-013c-529a-b893-d9ee3d26de6f",
+        "value": "The herb is ufed as tea in gouty and rheumatic di forders .The leaves have a fomewhat bitter tafte , with little or no fmell .Brook - lime , the veronica beccabunga of Linmeus , is ufed in infufion for the fcurvy , and is a principal ingredient in moft diet - drinks for that diftemper .",
+        "words": [
+          "little",
+          "The",
+          "no",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/86fe4603-f7f5-5ffa-867e-580146ed4554",
+        "value": "An air impregnated with their balfamic exhalations , is reckoned very falutary to confumptive habits .Juniper berries , and the gum of the larch , give urine a fragrant fmell like that of violets .The cones , or female heads of the cyprefs , improperly called cyprefs - nuts , are highly aftringent .",
+        "words": [
+          "urine",
+          "the",
+          "fragrant",
+          "like that of violets",
+          "fmell",
+          "Juniper berries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/8bfebcd5-6572-58d9-a87d-bdd4e321a91f",
+        "value": "The root is bitter , fomewhat acrid and naufeous ; the inner bark of the root is ftrongly purgative ; the pith , or internal fubftance , is more aftringent than the reft of the plant ; the berries and feeds are a gentle purge .The whole plant exhales a ftrong and difagreeable odour ; and is , on that account , frequently - placed round granaries , to drive away rats and other vermin .The ever - green caftine , otherwife called Paraguay , or South - fea tea , Linnaeus has confounded with the Carolina or Dahoon holly ; though they are undoubtedly diftinft plants .",
+        "words": [
+          "odour",
+          "The whole plant",
+          "ftrong",
+          "difagreeable",
+          "round granaries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/8d2175b0-7e25-5b32-bee3-737bc45c326f",
+        "value": "L O M / bark , efpecially upon the trunk , is very much furrowed and cracked ; the wood is white and foft ; the tree generally branches pretty near the top , and bears feveral middle - fized fharp - pointed green leaves .The flowers are produced in clufters , and confift each of five petals , which are of a yellow colour and agreeable fmell , and are fucceeded by blackifli pods , from ten to twenty inches long , and about three quarters of an inch diameter , having a feam running the whole length on the one fide , and another lefs vifible on the other .The excellence of caflia is generally eftimated by the length , thicknefs and weight of the pods which con - tain it .",
+        "words": [
+          "agreeable",
+          "which",
+          "five",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/8f1e4910-64f7-5cbe-bf97-d6d66c87c05d",
+        "value": "Out - wardly it is ufed as fweet powder for the hair .The dyers , perfumers , and confectioners , employ this root in their leveral profeffions , to give a grateful fcent to their cloaths , perfumes , comfits , and the like .Of the common iris is made a green colour or pigment much ufed by the painters in miniature .",
+        "words": [
+          "perfumes",
+          "perfumers",
+          "The dyers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/9076ed08-cb97-55bd-8db3-a88c7695f8ff",
+        "value": "It is likewife pedforal .The fumes of a decoftion of this plant in water and vinegar being received into the mouth , by means of a funnel , are laid to be a fovereign remedy in fuffocations , and afthmas , occafioned by a colle & ion of phlegm in the lungs .The herb is ufed as tea in gouty and rheumatic di forders .",
+        "words": [
+          "fumes",
+          "fumes of a decoftion of this plant in"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/910c85e4-0ca3-56b0-a37f-f95b239a35d0",
+        "value": "Adanfon afferts had been tranfported from Senegal into EgyP1â   by the Arabs .Be that as it may , we are affured from very good authority , that the powder in queftion is ver ) < much ufed at this day , both in decoaion and infufion , not only in Cairo , but in all parts of the Levant , for thick , fizy blood , diarrhoeas , peflilential and putrid fevers , and - diforders arifing from fimilar c ^ ufes .At Senegal , this pow - der is applied to the lame purpofes ; as is likewife that of the leaves of the tree , a quantity of which the Negroes mix every day in their food .",
+        "words": [
+          "putrid",
+          "the",
+          "at",
+          "in Cairo",
+          "infufion",
+          "in all parts of the Levant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/9215051a-6648-50bd-a58d-65df9070ed33",
+        "value": "Hernandez fays , it is ufeful in fuppreffions , warms and fortifies the ftomach ! facilitates digeftion , and diffipates wind .Vanelloe has a very agreeable tafte and fmell .It is efteemed an ex - cellent cordial , and enters into the compofition of choco - late , which , indeed , is its principal ufe with us .",
+        "words": [
+          "fmell",
+          "Vanelloe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/92198689-8ad8-590f-b9eb-45a164348bc5",
+        "value": "The juice of thefe berries is faid to be ufed for flaming calicoes in India , The flalks and leaves of the plant are thick , flrong * and fucculent .Moll of the fpecies of wild orach have an aromatic laetid frncll .A fpecies which grows near the coafls of the Medi - terranean is ufed by the Egyptians in fallads , on account of its faltifh aromatic tafle , which is agreeable .",
+        "words": [
+          "aromatic laetid",
+          "laetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/92446894-4c66-5849-8c53-11ab0cbc666a",
+        "value": "Their principal virtue refides in the leaves .The chief aromatics are favory , thyme , marjoram , penny - royal , mint , balm , lavender , rofemary , fage , clary .VERTICILLUS , ( properly , a .",
+        "words": [
+          "lavender",
+          "mint",
+          "thyme",
+          "marjoram",
+          "aromatics",
+          "balm",
+          "penny - royal",
+          "clary",
+          "chief",
+          "rofemary",
+          "fage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/93125acd-a431-545b-b492-6f968f9b614b",
+        "value": "From the Rhus CopalYmumpl Linnaeus , the Rhus Virgin ! - cnum lentifci foliis of Ray , is produced Gum Copal , an ex - cellent balfam , equal in goodnefs to that of Peru .The animals which are wounded by hunters in Louifiana , Florida , and Virginia , cure themfelves , we are told , by rubbing againft the tree from which this balfam exudes , attrafted thereto , probably , by its pleafing aromatic fmell .The Natives of Louifiana and Florida toaft the fmall leaves of Prinos glaher , termed by Catefby the true Cafline or Calfena , as we do coffee , and drink the infufion of them with much ceremony .",
+        "words": [
+          "its",
+          "fmell",
+          "balfam",
+          "pleafing aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/935151b5-8921-5301-b7fe-e1fe61289f4d",
+        "value": "tendency to corruption , were removed by the order of Pope Eugenius the fourth , and gates of brafs fubftituted in their place .The fame tree is by many eminent authors recommended as meliorating the air by its balfamic and aromatic exhala - Jations ; upon which account , many of the antient phyfi - cians of the ealtern countries ufed to fend their patients , who CON â    who were troubled with weak lungs , to the ifland of Candia , where thefe trees grew in great abundance , and where , from the falubrious air alone , very few failed of a per left cure .Jn the fame ifland , fays Miller , the trees in queftion were fo lucrative a commodity , that the plantations were called Dos Filia , the felling of one of them being reckoned a daughterâ   s portion .",
+        "words": [
+          "aromatic",
+          "-",
+          "balfamic",
+          "Jations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/9534862a-c9f3-5f46-aa9f-cf0b551520d0",
+        "value": "The greatcft height to which any of thefe plants is known to attain , is fifteen feet ; the greater part do not exceed three or four .I he flefliy roots of many of thefe plants , particularly thofe of feveral fpecies of arum , are extremely acrid when frefh .They lofe this pungent quality , however , by being dried , and become of a foapy nature .",
+        "words": [
+          "roots",
+          "acrid",
+          "extremely acrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/96812fe2-5e3b-555c-90ea-0de0eb859336",
+        "value": "anifi odore ( fmelling of anife ) .foeniculi odore ( fmelling of fennel ) .melijjcc odore ( fmelling of balm ) .",
+        "words": [
+          "of fennel",
+          "fmelling",
+          "foeniculi odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/96a3b008-9cc3-5c63-87b3-ef96b57ac2c5",
+        "value": "Hefperis nodtu olens ( fmelling in the night ) .Caryophyllus inodorus ( without fmell ) .Ocymum carycphytlatum , C .",
+        "words": [
+          "fmell",
+          "Caryophyllus inodorus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/96e0d84e-6b33-5192-bbda-fdcb7391644c",
+        "value": "1 he lucculent fruits of the genus pothos are eaten likd ftrawberries .I he ftalksof fweet - rufh , when rubbed , emit a very apree ^ able aromatic fmell , as do the leaves when broken .The roots are fometimes ufed in decoftion .",
+        "words": [
+          "the leaves",
+          "fmell",
+          "able aromatic",
+          "very apree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/9aaf3b25-fd67-59f7-bb8c-7e909489df4c",
+        "value": "This is now generally believed to be the plant with which the Pi & s , the ancient inhabitants of Britain , painted their bodies ; the rather , as the plant in quellion is a native of this ifland ; whereas woad , ( Ifatis of Linnsus ) the plant contended for by fome , has been intro - duced into Britain fince that time .The flowers of Egyptian refeda , termed likewife , mignio - nette of Egypt , have a very fweet , agreeable fmell .Burnet is of a heating , drying nature , cordial and alexi - pharmic ; in fummer the leaves are ufed in cool tankard , to give the wine an agreeable flavour .",
+        "words": [
+          "agreeable",
+          "fmell",
+          "very fweet",
+          "The flowers of Egyptian refeda"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/a1c0c976-cf8d-52c8-816b-813c1c12d0f0",
+        "value": "It is covered with a very thin fkin , which being removed , the bark appears , of a greenifh colour , bitter naufeous arid af - tringent tafle , with a finell much like the leaves of hazel - nut tree , only more difagreeable and offenfive .The wood is hard , fibrous , of a greenifh colour inclining to white , and of a very offenfive fmell , when green .The pith is very fmall , and adheres clofe to the wood .",
+        "words": [
+          "fmell",
+          "very offenfive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/a1eee136-f6c9-56bf-bb9a-535bd8172de1",
+        "value": "After three years time , the two extreme barks are HOL are renewed , and fit to be pulled off .When the Dutch , fay fome authors , who ingrofs the whole trade of this and the other fpiceries , are apprehenfive of abating the value of cinnamon , by fending home too great abundance , and thereby glutting the European markets , they lay it on an heap , and burn as much of it as they imagine ufelefs for their fervice ; which fpicy mountain fends out its fragrant exhalations for many leagues into the fea ; fo that of thefe coalts it may be truly affirmed , in the beautiful language of Milton , that â   Pleasâ   d with the grateful fmell , old Ocean fmiles .â   The Dutch , not remarkable for honefty in any of their deal - ings , are particularly fraudulent in conducing the fpice trade : for they frequently extract a quantity of oil , effence , or fpi - rits , from the cinnamon and cloves ; and then confidently ex - pofe them for choice untainted commodities .",
+        "words": [
+          "mountain",
+          "fragrant",
+          "grateful",
+          "its",
+          "fragrant exhalations",
+          "fmell",
+          "fpicy",
+          "for many leagues into the fea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/a231d549-66bc-594c-986d-15f21a160121",
+        "value": "The Seeds are numerous , and frequently kidney - fhap - ed .Thefe plants in general have an infipid tafte , and a naufe - ous difagreeable fmell .The greater part , particularly the fruits of deadlyâ   night - { hade and thorn - apple , taken internally , if in any con - flderable quantity , prove mortal : caufing a ftupor , delirium , and convulfions .",
+        "words": [
+          "plants",
+          "fmell",
+          "difagreeable",
+          "naufe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/a7256ce5-96fc-5a80-9946-da6c616c20b8",
+        "value": ", all fweet fpices , herbs , feeds , and roots ) the name ol a divifion in Rayâ   s , Montiâ   s , and Sceuchzerusâ   s arrangement of the graffes ; confifling of fuch as have an odoriferous quality .AROMATICzE Plants , odoriferous , of a flrong agree - able fmell and tafte ; aromatics ; the name of a clafs in Diof - condes , Clufius , Hernandes , J .Bauhin , Johnflon , Rum - fi us , and fevcral othe ^ botamfls , who have arranged plants according to their virtues and fenfible qualities .",
+        "words": [
+          "odoriferous",
+          "aromatics",
+          "able",
+          "fmell",
+          "AROMATICzE Plants",
+          "Hernandes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/ab4502b0-e043-514b-96d5-e73f11894078",
+        "value": "Bauhin , ( fmelling of cloves ) .ciiri odore ( fmelling of citron ) .anifi odore ( fmelling of anife ) .",
+        "words": [
+          "of citron",
+          "fmelling",
+          "ciiri odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/aba5a38a-44f4-54c3-813b-8882324a0e92",
+        "value": "In general , however , thefe plants are foft and clammy .Common dyerâ   s broom has the foetid naufeous fmell of the elder - tree .With refpeft to their virtues , the plants of this order are highly emollient ; fome of them too are vulnerary and aitrin - gent ; the root of ' anonis , or reft - harrow , .",
+        "words": [
+          "fmell",
+          "Common",
+          "foetid naufeous",
+          "s broom",
+          "of the elder - tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/ac418f3d-6211-5e05-9f89-6b3621ab5923",
+        "value": "The latter , fometimes called Englilh , or fiemilh cyprefs , grows in the water , and along banks and river fides .Its root is as thick as an olive , full of little knots , or fpecks , of an oblong figure , grey co - lour , fweet and fomewhat ( harp tafte , and almofi : without fmell , when it is newly taken out of the ground .The roots of both plants are efteemed cordial , diuretick .",
+        "words": "fmell"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/b0434bdb-eb8e-561b-995a-38ef4c7ec175",
+        "value": "Several plants , characterized by a particular virtue , poffefs it to fuch a degree of ffrength or weaknefs , that we may reafonably expeCt very different effects from this dif - ference of imenfity in the fame quality .Thus in the natural D ( 1 2 family MET family of lipped flowers , the aromatic virtue which is com - mon to the whole tribe is poffeffed in the higheft degree by rofemary , fage , mint , marjoram , balm , and hyflop ; in a lefs degree , by germander , and felf - heal : and becomes al - mofl infenfible in fage - tree and bafe hore - hound .It is the fame with other qualities ; tinttures , for example .",
+        "words": [
+          "aromatic",
+          "lipped flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/b1c081db-d171-5c25-8404-608305ef0855",
+        "value": "The Seeds are fmgle , oval , and attached below to the bottom of the flower .The roots of the grades are aperient ; fuch as have an afomatic fmell are flomachic ; their feeds are meally , muci - laginous and nourifhing .All the parts of thefe plants are wholefome .",
+        "words": [
+          "fmell",
+          "flomachic",
+          "afomatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/b1e4906b-c0ea-5b28-b204-178842b7ec69",
+        "value": "Lohlia Longfolia , a nattvc ol Jamaica and .i Peruvian ( pecies , vulgarly known by the name ot Tufa which Father Fetullee affirms to be fo exceedingly noxious that the fmell of it excites strong and long continued - VÂ ° x2 Dortmanna , the aquatic bell - flower of Blair , pof - fefles a more than ordinary ( hare of that laftefcence w ic we announced above to be a general attribute of the plants - r , f this natural order ; even tire leaves which grow under , waiter abounding with milk .We CAM \\ \\ e learn from the Flora Suecica , that the bloffoms of Jafione Montana are peculiarly acceptable to bees ; and that a green paint is procured from the flowers of round - leaved campanula .",
+        "words": [
+          "Peruvian",
+          "of it",
+          "Tufa",
+          "fmell",
+          "exceedingly noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/bbb2bdcb-1722-5df2-bdf6-d9f3a2d7530e",
+        "value": "The flowers proceed in chillers from the arm - pits of the leaves .Thefe clutters are loofely branched , and { lender , being compofed ol fmall yellow flowers , of a fweet and very grateful fmell , fomewhat refembling that of the flowers of the orange - tree .1 he fruit is bunched , comprefled into a rhomboidal D U M rhomboida ! figure , covered with a thin fhining membrane , and very hard when ripe .",
+        "words": [
+          "very grateful",
+          "fmell",
+          "fweet",
+          "fmall yellow flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/bf9108ed-c581-58a9-9589-81a658e9b89e",
+        "value": "The vegetable juices or fluids are generally reduced to two ; the lymph or fap ; and the blood or proper juice .It appeals , however , that plants contain many other fluids * for in a Angle fruit , fuch as a pine - apple , orange or flrawP berry , we can diflinguifh by the tafle and fmell three or four otliei liquors , of which we can difeover but very feeble â  ¢ vefliges in the other parts of thefe plapts .I he fap or lymph , is a Ample fluid , without colour or fmell , and little different from water .",
+        "words": [
+          "we",
+          "fmell",
+          "three or four otliei liquors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c19452d3-9eb4-5c16-b4b4-4fced1a9108b",
+        "value": "' Notwithftanding thefe fafts , more noxious qualities have been afcribed to this genus of plants than tall to its fhare .The honey about Trebifond is reckoned very unwholefome ; occafioned , as fome fuppofe , by the bees extratting it from the flowers of the oleander : but this is entirely a miftake ; for , Tournefort has fully informed us , that it is not from the flowers of oleander , but from thofe of a fpecies of chamaerhododendros , the azalea pontica of Linnaeus , that the noxious juice in queftion is extracted .Xenophon having related , in the fourth book of the Ex - pedition of the younger Cyrus , that , â   on the march of the Greeks from Upper Afia , fuch of the army as partook of the honey in a place near Trapezus , now Trebifond , on the Euxine , where there was a great number of bee - hives , were afTefted with very difagreeable fymptoms , fuch as vomiting , purging , and even infanity ; that not one was able to Hand crea ; that thofe who had indulged but little in this pernicious dainty , feemed intoxicated ; whilft fuch as had been more liberal in the ufe of it , either appeared frantic , or lay as dead ; and that , in fhort , though , about the fame hour in the N 2 following CON following day , they had a partial recovery of their fenfes , they were not , however , completely reftored till fome days after â   M .",
+        "words": "noxious"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c2249e8f-4bb9-53c7-a274-d8703c3ca2b1",
+        "value": "The tree which produces it , rifesto the height of thirty 01 forty feet ; and in a rich foil , will grow even to the height of an hundred feet .The leaves are like thofe of the bay , but of a much llronger aromatic fmell - r the flowers Hand in bunches , and are of a â   greenifh colour ; thefe are fucceeded by the fruit , which the Negroes gather before it is ripe , and dry in the fun ; in drying , it becomes wrinkled and brown , hough formerly fmooth and green .The tree grows na - turally / .",
+        "words": [
+          "the flowers",
+          "fmell",
+          "llronger aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c22e9e28-4986-56e2-953e-e5263263869e",
+        "value": "In the Species Plantarum , the term fcapus is generally preceded by tlpe fuperfluous word naked ; an addition which is apt to miflead the unexperienced botanift , as feeming to imply , thatnaked - nefs is not an effential part of the defeription of this fpecies pf flalk .S C IT A M INK At , , ( fcltamentum , feitum eduliunij a dainty , meat of an agreeable tafle ) the name of the eighth order in Linnaeusâ   s Fragments of a Natural Method , - confiding of flip following beautiful exotic plants , fome pf which , as banana , I S C I banana , furnifh exquifite fruits ; and others have an agree , able aromatic flavour .Tift of the Genera contained in this Order .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c55258db-e946-5262-951a-3b40bb9cb57f",
+        "value": "Hypericum hircinum ( rank - fmelling ) .Melo mofchatus ( fmelling of mufk ) .Hefperis nodtu olens ( fmelling in the night ) .",
+        "words": [
+          "fmelling",
+          "of mufk",
+          "Melo mofchatus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c5674d30-0a4f-5e1a-b8d3-b1741d1baa49",
+        "value": "Brook - lime , the veronica beccabunga of Linmeus , is ufed in infufion for the fcurvy , and is a principal ingredient in moft diet - drinks for that diftemper .The herb is almoft in - fipid to the tafte , and without fmell ., lt Round leaved female fluellin , the antirrhinum fpurium of Linnams , is fuccelsfully ufed in fluxions and inflammations of the eyes .",
+        "words": [
+          "The",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c691a84b-15a1-5535-9dc9-59031fe28bb9",
+        "value": "fjungo , to join ) from the flalks being joined together , and wrought into balkets and other ufetul uten - fiis , when dried .Ledum , Rupp , ( la do , to hurt ) from its offenfive fmell .Salix , Tourn .",
+        "words": [
+          "its",
+          "fmell",
+          "offenfive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/c78d4208-7924-5f3d-a0a4-caa1a57465ab",
+        "value": "Tournefort , in his Travels through the Leffer Afia , and efpecially Pontus , the feene of this tranfaftion , Was led to pay particular attention to the narrative of the Greek Hiftorian , and finding , upon minute enquiry , that the plant mentioned above , which he denominates Chamarho - dodendros political maxima , viefpih folio , fore luteo , and which grows plentifully about Trebifond , and the vicinity , pro - duces the very effefts related by Xenophon , and that violent liead - achs are occafioned even by its fmell , he concludes , with the geateft probability of truth , that the honey which proved fo noxious a refreffiment to the Greek army , had been extrafted by the bees from the plant in queflion ; and , in corroboration of his conclufion , adduces the teftimony ot Father Lamberti , a Miffionary , who obferves , that the > honey collefted by the bees from a certain ffirub , which , from the defeription given of it by Lamberti , Tournefort pronounces to be the medlar - leaved Chamcerhododendros , and which grows commonly in Colchis or Mingrelia , a country adjoining to Pontus , is highly pernicious , and , in paiticulai , excites vomiting .It is added by the Rev ei end Fathei , that the fmell of the flowers of this ffirub bears a great re - femblance to that of honey - fuckle , but is much { Longer .Memoires de lâ   Academie Royale dcs Sciences , 1 / 04 * .",
+        "words": [
+          "fmell",
+          "of the flowers of this ffirub",
+          "that of honey - fuckle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/cb3af63e-676f-5228-8487-7cedf61855a0",
+        "value": "In afphodel - lily with a reddifh flower , hemerocallis fulva , the fummits , or tops of the ftamina , are filled with a copper coloured dull , which fheds on being touched ; or .if a per - fon fmells to the flowers , it will fly off , and fpread over the lace , which it dyes of a purple colour .This is a trick fre - quently pra & ifed by unlucky , and roguifh people , upon the ignorant , and unwary .",
+        "words": [
+          "fmells",
+          "a per - fon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/cb64a0c6-a444-556d-bad7-dfef56f2405f",
+        "value": "Camphorofma , Lin .( o ^ n , a fmell ) from its having the fmell of camphire .Polypodium , Tourn .",
+        "words": [
+          "its",
+          "fmell",
+          "of camphire"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/cf54231c-107c-5632-908b-12271920e8ec",
+        "value": "A fpecies of euphorbia termed ejula , if applied to any part of the body , produces a violent nlflammation , which is foon fucceeded by a confiderable fwelling , that degenerates into a gangrene and proves mortal .Stercul ' ta f ftcrcus , dung ) derives its name from the fcetid fmell o .the wood , which is faid to refemble that of human excrements , Wii .",
+        "words": [
+          "dung",
+          "fcetid",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/cfce27f6-510b-5f7f-bcaa-0eeae04f0471",
+        "value": "Hence fuch fpecific names as the following are very properly profcribed from the modern nomenclature of botany .Hypericum hircinum ( rank - fmelling ) .Melo mofchatus ( fmelling of mufk ) .",
+        "words": [
+          "rank",
+          "fmelling",
+          "Hypericum hircinum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d0136fe7-5221-50af-a4af-93df7d04547c",
+        "value": "Thus M E T Thus , vegetables have been fucceffiveiy diftinguifhed from the place of growth , into aquatic , marine , wild , and dorneftic ; from the time ot flowering , into fpring , fummer , autumnal , and winter plants ; fometimes too , lefs philofo - phically ftill , they have been arranged by the names of the authors who firft difeovered or deferibed them ; and not fel - dom , according to the letters of the alphabet .rheophraftus , the fcholar of Ariftotle , arranges plants , from their qualities and ufes , into efculent grains , fucculent plants , and pot - herbs ; Dioicorides , into aromatic , alimen - tary , medicinal and vinous plants .1 hefe philofophers , Itudious to render botany ufeful , were ignorant ot the means to facilitate its knowledge .",
+        "words": [
+          "aromatic",
+          "vinous",
+          "plants",
+          "medicinal",
+          "tary",
+          "alimen",
+          "Dioicorides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d175059c-9fd5-59ea-b22b-b57478901220",
+        "value": "It appeals , however , that plants contain many other fluids * for in a Angle fruit , fuch as a pine - apple , orange or flrawP berry , we can diflinguifh by the tafle and fmell three or four otliei liquors , of which we can difeover but very feeble â  ¢ vefliges in the other parts of thefe plapts .I he fap or lymph , is a Ample fluid , without colour or fmell , and little different from water .It ; may be compared to the chyle in the animal ( Economy , as may the roots which abforb and prepare it to the lafteals .",
+        "words": [
+          "lymph",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d588eb24-dbc3-5a3c-af78-1d7fde69bdf6",
+        "value": "This is a trick fre - quently pra & ifed by unlucky , and roguifh people , upon the ignorant , and unwary .The Egyptians put the flowers of tuberofe in fweet oil , and by this means give it a moft excellent fmell , fcarce in - ferior to oil of jeflamine .The roots , leaves , and flowers of the white lily , which is a native ot Paleftine and Syria , are ufed in medicine .",
+        "words": [
+          "excellent",
+          "it",
+          "fmell",
+          "tuberofe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d5ec28f1-4652-5d22-8737-f7e1d0f63646",
+        "value": "Its acrimony they extraft by boiling it m two or three freih waters , after which , they adapt it to their tafle by drying it in the fun , and roafling it in embers .1 he flower of this fpecies of cal la is white , as was obferved above , and of a fragrant fmell relembling mufk .The root is white and large , and , when cut in flices , fays Kolben , bears fo flrong a refemblance to Spanifh radilh , that the Cape Europeans , tor the fake of amufement , frequently pafs the former upon ftrangfers for the latter .",
+        "words": [
+          "fragrant",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d7d690a2-d75f-57ab-b96f-d5a4431cf14d",
+        "value": "Sebeflen , and the genus varronia , have a Hone or nut , which is divided into four cells .The plants of this natural order are mofily mucilaginous , with little tafle or fmell .Moll of the rough - leaved plants , particularly thofe of the fir ft feftion , are ufed in medicine .",
+        "words": [
+          "little",
+          "fmell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d92aae9a-3059-563d-9062-e7ba002fb262",
+        "value": "Gentianam unam pnfci de - fciibunt , mihi decern aut plures fpecies notas funt .â   Again , in a letter , dated 1559 , he fays , â   Montana vero ilia berba , flore quidem doronici , fed foliis plantaginis , radice aroma - tica , fui omnino generis eft .Obleftavit me etiam rarum illud pilofeHae genus .",
+        "words": [
+          "aroma",
+          "tica",
+          "radice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/d9e918d1-6038-5466-b3b7-0a3bda3b068a",
+        "value": "Long cyprefs is much ufed by perfumers , and glovers .Fragrant rulh , or camelâ   s hay , which I take to be a fpe - cies of fchcenus , is a kind of reed , or grafs , which grows plentifully in Arabia Felix , and at the foot of Mount Libauus , where it ferves the people for forage and litter for their camels .The plant is about a foot high , with a fmall , hard , dry , knotty root , from which proceed feveral hard ftalks , of the fize , figure , and colour of a barley - firaw .",
+        "words": [
+          "Fragrant",
+          "s",
+          "rulh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/dea18d10-397b-5f44-a1b6-bde7a12aec24",
+        "value": "It is a thorny fhrub , the trunk of which , fays Kempfer , by age and culture , acquires the thicknefs of a tree .The leaves grow by threes like thofe of trefoil , upon the extremity of a common foot - ftalk : and to the white flowers , which re - ferable thofe of medlar , fucceeds a fruit , which in external beauty differs nothing from a middle - fized orange , the in - ternal flrufture of which it likewife refembles , except that the pulp , which is contained in a cavity having feven par - titions , is glutinous , of an unpleafant fmell , and harfh difagr , eeable taste .The feeds are exaftly like thofe of the orange , and have the fame tafle with the pulp .",
+        "words": [
+          "fmell",
+          "unpleafant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/dfa31c64-f3c9-54a2-81fb-b74497cc9079",
+        "value": "The fmell of many of the arums , and of fbme other plants of this order , par - ticularly Drtuontium foet ' idum , is very offenfive , frequently refembling the odour of human excrements .The flowers , however , of an Ethiopian fpccies of dracunculus , or arum , the Calla sÂ ¥ jhlopua of Linnaeus , and the cover in which they are involved , are faid to emit a very fragrant odour .With refpeft to their virtues , thefe plants are aflringent .",
+        "words": [
+          "odour",
+          "very fragrant",
+          "The",
+          "arum",
+          "fpccies of dracunculus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/e25bee91-fbb2-5f2d-a637-1cb34a03ee60",
+        "value": ") The berries of the Indian date plumb , arbutus , and vac - cinium , are acid and efculent .From the ftorax - tree is drawn , by incifion , a fragrant , refinous gum , which is much ufed in medicine , particularly for coughs , catarrhs , and internal ulcers .The leaves of winter - green , ( pyrola , ) fays Lemery , are jufed internally , either in infufion , or powder , for the hae - morrhoid .",
+        "words": [
+          "fragrant",
+          "refinous gum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/e56a08e1-1b86-541a-990a-ab17b87044d1",
+        "value": "See Enfatae .Fragrant rufh .See Calamaria \\ Fraxinella .",
+        "words": [
+          "Fragrant",
+          "rufh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/e59a51c3-396a-55cb-b41a-b5f1d6603cdd",
+        "value": "Diofcorides , however , recommends the external application of common monkâ   s - hood for pains oi the eyes .The flowers of a great many fpecies communicate ; their noxious quality , by being fmelled to ; and thofe of the fpecies M U L Ipecies called napellus , being placed upon the head , occafron a violent megrim .Of the bad qualities of thefe plants , we / ometimes avail ourfelves to get rid of vermin .",
+        "words": [
+          "noxious",
+          "their",
+          "fmelled",
+          "the fpecies",
+          "The flowers of a"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/e7af2ea7-7f79-5840-a60e-be599f1803d3",
+        "value": "Ocymum carycphytlatum , C .Bauhin , ( fmelling of cloves ) .ciiri odore ( fmelling of citron ) .",
+        "words": [
+          "of cloves",
+          "fmelling",
+          "Bauhin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/eaff0ec9-9a5a-5020-a5ac-b95305051235",
+        "value": "The herbs which produce the three medicines juft men - tioned , are by no means to be confounded with the tree , from which is procured the precious and rare wood called wood of aloes .The flowers of fragrant aletris open only in the evening , when they emit a moil agreeable odour , and clofe again in the morning .In afphodel - lily with a reddifh flower , hemerocallis fulva , the fummits , or tops of the ftamina , are filled with a copper coloured dull , which fheds on being touched ; or .",
+        "words": [
+          "fragrant",
+          "odour",
+          "they",
+          "only in the evening",
+          "moil agreeable",
+          "The flowers of fragrant",
+          "fragrant aletris",
+          "again in the morning"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/eb5217d0-32f5-550b-8821-37d2c32a683e",
+        "value": "The fubacid fruits , as draw - berry , and rafpberry , are ufed with fuccefs in putrid and bilious fevers , as likewife in contagious and epidemical dy fenteries , which prevail in fummer and autumn , and are occafioned by a fudden transition from a hot to a cold air , or by the acrid - nature of the humours which flow into the intedines .The inhabitants of the eadern countries fprinkle the water which is diddled from white rofes , on the hands , face , head , and cloaths of the gueds whom they mean to honour , and afterwards perfume them with frankincenfe and wood of aloes .SEPIARIAt , ( fepes , a hedge ) the name of the forty - fourth order in Linnaeusâ   s Fragments of a Natural Method , confiding of the following beautiful collection of woody plants , fome of which , from their fize , elegance , and other circumdances , feem very proper furniture for hedges .",
+        "words": [
+          "perfume",
+          "them",
+          "The",
+          "wood of aloes",
+          "frankincenfe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/ec923158-d18c-5c8e-a0a2-a30b8203b653",
+        "value": "At Chriftmas , they ufually adorn their churches in the Weft Indies with finall boughs of pimento ; as the churches in England are decked with holly and ivy at that facred feafon .All - fpice is an excellent aromatic ; it fortifies the heart and ftomacb , diftipates wind , promotes urine and the catamenia , animates the blood and fpirits , and removes all manner of obftru & ions .Thus it is cordial , cephalic , aperi - ent , ftomachic and carminative .",
+        "words": [
+          "aromatic",
+          "excellent",
+          "All - fpice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/ecdfd365-2acf-5456-930a-64d8313c66e9",
+        "value": "road - flax , the Unarm vulgaris of former botanifts , the antirrhinum Unarm of Linnteus , is rarely ufed internally ; externally it is of efficacy in the piles .The leaves , either boiled into a decofhon , or infufed like tea , are an excellcrat fudorific .The roots of fig - wort powdered , and made into a plaffer with wax and foap , are faid to diflipate cold fcrophulous tumours in the neck .",
+        "words": [
+          "The leaves",
+          "infufed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f06ec8a7-ee5b-5199-8497-fec158f64001",
+        "value": "k 3 Ocymum * O R C \\ Ocymnm cinnamomi odore ( fmelling of cinnamon ) .For obfervations on fmell , as indicative of the virtues and qualities of plants , the reader is referred to the article of tafte , betyveen which , and fmell , there is , as we have faid , a re - markable affinity .Vide Sapor .",
+        "words": "fmell"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f08fd615-d618-5de3-85dc-38d10f83c819",
+        "value": "From the flowers , the French , when in pofleffion of Canada , where it grows in great abundance , exti ' afted - a fugary fubftance , of a brown colour , and affirmed by Kalm to be very agreeable to the tafte .Thefe flowers , when in full bloom , impregnate the air with their fragrant exhalations , and render walking or travelling in the woods , efpecially in the evening , peculiarly delight , ful .For the purpofe of making the fugar juft mentioned , they muft be gathered in the morning , when they are coverâ   ed over with dew .",
+        "words": [
+          "fragrant",
+          "the air",
+          "exhalations",
+          "their",
+          "in the evening",
+          "Thefe flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f1ce741d-16bc-51ea-af12-0eacec1c48b2",
+        "value": "Vide Ala .The plants of this order have a ftrong , agreeable , and aromatic fmelL ; the fruits and feeds have a pungent talle , like pepper .The bark and wood are bitter .",
+        "words": [
+          "agreeable",
+          "aromatic",
+          "The plants",
+          "fmelL"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f3facc5d-6930-5278-b6ba-210cae2be9ca",
+        "value": "Thefe plants have a watery , ( harp , lixivial tafle , and are charged with a fixed alkaline fait , which is drawn from them by burning , and being diddled , without any addition , pro - duces a volatile alkali .Mod of the plants in queflion have a dinking fmell .Eryftmum alliaria , and a fpecies ot thlafpi , lined Arongly of garlick .",
+        "words": [
+          "fmell",
+          "dinking",
+          "Mod of the plants in queflion"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f451a8ff-a280-50f7-b940-02e061268fca",
+        "value": "of different fizes , and weight .It is clear , and not very foetid in fmell .The third fort , by much the coarfeft , black , hard to break , and frequently adulterated , is called caballine aloes , becaufe , like the fecond fort , it is folely appropriated to the ufe of horfes .",
+        "words": [
+          "It",
+          "fmell",
+          "very foetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f53f5684-a345-5dda-afc1-af2cc7875497",
+        "value": "By its bitter quality , dittany is faid to kill toads .Rue , by its aromatic quality , is heating , cordial and fu - dorific ; all the parts are ufed in medicine , except the roots .Wild Syrian - rue poflefl ' es the fame virtues in its native foil , which is Egypt , Syria , Italy , and Spain .",
+        "words": [
+          "aromatic",
+          "Rue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f5b5ff07-311e-59d0-a6d9-a90ad20b09ae",
+        "value": "The , plants ' are propagated by the roots , in the fame way as the common potatoe , but require much more room .The leaves , flowers , feeds , and roots of purple violets , viola odor at a , are ufed in medicine .The leaves are emolli - ent and laxative ; the flowers anodyne ; the feeds ufetul m obftruaUm * of the kidneys and the nephritic cholic ; the roots purgative and emetic .",
+        "words": [
+          "odor",
+          "The",
+          "ufed",
+          "roots of purple violets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f6258d41-f5d7-557e-9c95-094211cc5cad",
+        "value": "At Barbadoes , befides drinking - cups and punch - bowls , there are made of the calabafh - fhells , fpoons , difhes , and other eating utenfils for the ( laves : the pulp is foft , four , and unfavoury , and feldom eaten , except by the cattle , in time of drought : the wood , which is hard and fmooth , is frequently made into ftools , chairs , and other furniture .The leaves and fruit of cratteva fmell ftrongly of garlick ; whence the name of garlick pear - tree by which this genus has been diftinguifhed .The fruit , which in one fpecies is fmooth , and in the other , prickly , grows to the fize of an orange , and has its infide filled with an agreeable pulp , in - terfperfed with fmall granulated feeds .",
+        "words": [
+          "of garlick",
+          "fmell",
+          "garlick pear - tree",
+          "The leaves and fruit of cratteva"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f7168b40-a5f2-5fe0-b1b5-de0219351336",
+        "value": ".Sweet - fmelling plants are generally of innocent quality ; , fuch as are naufeous , and of a rank , heavy , difagreeable fmell , are noxious .The plants of the following lift are ftriking .",
+        "words": [
+          "Sweet",
+          "plants",
+          "rank",
+          "heavy",
+          "fmell",
+          "fmelling",
+          "difagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f72ed762-95a0-5d21-849a-3dfd22470603",
+        "value": "All plants aft either by their ffnell upon the nerves , by their tafte upon the mufcular fibres , or by both upon the fluids .Sapid bodies never aft upon the nerves ^ nor odo - riferous bodies upon the mufcular fibres .The former aft upon the fluids and folids , and change the fluids , which are evacuated by both fapid and odoriferous fubftances .",
+        "words": [
+          "odo",
+          "riferous",
+          "bodies upon the mufcular fibres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/f8d8d479-7249-55b3-aae0-446be9741c89",
+        "value": "They boil it , and feafon it with vinegar ; they likewife fill the ( hell with rice and meat , and thus make a kind of pudding , like what we fometimes , in England , prepare of the fhell of pumpion , or pumpkin .The leaves of the bottle - gourd are large , almoft circular , covered with fine foft hairy down , and fmell flrongly of mufk .The flowers are fo tender , that they clofe as foon as the fun Chines upon them .",
+        "words": [
+          "fmell",
+          "flrongly",
+          "of mufk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/fc9b9934-f9db-58f9-b0b9-b5a77af4f629",
+        "value": "Hyacinth has only two roundifh feeds .With refpeft to the powers of the plants of this order , it may be affirmed , in general , that fuch as have little tafle , or fmell , as the roots of tulip , and flar of Bethlehem , are per - feaiy innocent ; whilft thofe tvhich have a heavy , naufeous fmell , as fquill , hyacinth , crown - imperial , and fpider - wort , aie , at Jeaff , fufpicious , and frequently prove noxious .^ Thealoe , and American aloe , which by former botanifls had been conjoined , on account of their conformity in point of habit , are ranged as diffinR genera by Linnteus , princi - pally from this circumflance , that in the former , the feed - 0 ^ bud COR bud is placed within the jjetal , or flower - * in the latter , , below it .",
+        "words": [
+          "hyacinth",
+          "crown",
+          "the",
+          "little",
+          "noxious",
+          "heavy",
+          "fmell",
+          "naufeous",
+          "imperial",
+          "fquill",
+          "fufpicious"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/c686787b-cb6c-56b9-ab36-14cccdde0420",
+        "label": "Colin Milne"
+      }
+    ],
+    "label": "A botanical dictionary: or elements of systematic and philosophical botany",
+    "url": "http://archive.org/details/b22041710",
+    "date": "1805",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/67132a15-5546-5fe8-b862-18e8ee8f8e66",
+      "label": "1805",
+      "begin": "1805",
+      "end": "1805"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/6db769f6-fcd5-53e1-9caf-964b25aad00f",
+      "label": "in all parts of the Levant"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/31de86f2-160a-5429-8866-7c2e9cfd8744/fragment/910c85e4-0ca3-56b0-a37f-f95b239a35d0",
+  "adjective": "putrid"
+}

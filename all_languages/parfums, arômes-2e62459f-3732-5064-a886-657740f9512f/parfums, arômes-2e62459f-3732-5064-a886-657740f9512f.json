@@ -1,0 +1,56 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/2e62459f-3732-5064-a886-657740f9512f",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": [
+    "parfums",
+    "arômes"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/4647cdd4-b8b9-59a1-a8c1-dd9fbeb2a3cd",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/4647cdd4-b8b9-59a1-a8c1-dd9fbeb2a3cd/fragment/c01519e4-ce45-5b34-9ef1-32e899552a7d",
+        "value": "Pendant qu ' on poursuit ces fantômes , Adieu devoirs , adieu travail .On préfère à leurs sains arômes Les acres parfums du sérail .On emprunte aux Orientales Leurs rhythmes les plus nonchalants , On cherche aux genoux des Omphales Des poses d ' Hercules galants .",
+        "words": [
+          "leurs",
+          "parfums",
+          "acres",
+          "arômes",
+          "sérail",
+          "sains"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/b1eac7c0-f546-53d3-8a2d-25d395e03f3a",
+        "label": "Louis  Griveau"
+      }
+    ],
+    "label": "Roma. Au jour le jour. Par Louis Griveau,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k61506887",
+    "date": "1878",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/f0b0eca2-819c-5c7c-bff5-c56cb20b81d6",
+      "label": "1878",
+      "begin": "1878",
+      "end": "1878"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/6275295/",
+      "label": "Serail"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/4647cdd4-b8b9-59a1-a8c1-dd9fbeb2a3cd/fragment/c01519e4-ce45-5b34-9ef1-32e899552a7d",
+  "license": "Public domain",
+  "adjective": [
+    "sains",
+    "acres"
+  ]
+}

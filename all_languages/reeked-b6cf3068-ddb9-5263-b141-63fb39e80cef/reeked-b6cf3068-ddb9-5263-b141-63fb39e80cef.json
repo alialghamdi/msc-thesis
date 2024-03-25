@@ -1,0 +1,309 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/b6cf3068-ddb9-5263-b141-63fb39e80cef",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "reeked",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/007d9200-a1be-585b-a873-a8cf7d3848ff",
+        "value": "His inclinations were of a coarser and more animal nature .It was the female as such , the \" odor di femina \" which attracted him â   a fact broadly hinted at by Hamilton in reference to James ' relations with Churchill .Thus he be - came the \" careless glance - caster \" of his time and could control his im - pulses so little that he even gratified them \" coram publico .",
+        "words": [
+          "odor",
+          "di femina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/0393294e-4154-5028-b43a-5e6cdb8cdecd",
+        "value": "Many grave verses of the Evangel are , through a most skillful turn , woven into obscenity .From beginning to end ( starting with the title page ) the poem reeks of the foulest inde - cency , the most incredible godlessness , the most naturalistic account of disgusting happenings and the vilest denigrations of the fair sex .But the peak of obscenity and nastiness is reached in the obscene echo of Pope ' s universal prayer and of the monologue of Hadrian , which Pope designated as the words of a dying Christian to his soul .",
+        "words": [
+          "reeks",
+          "the foulest inde - cency",
+          "the poem"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/0f990bdb-5752-5f8f-ae19-e4f49d6c3a56",
+        "value": "However it is asserted that even Henry VIII and Queen Mary had already worn scented gloves .During the reign of Queen Anne the use of perfumes increased to a tremendous degree .Manufacturers of perfume became rich and attracted to themselves the attention of contemporary writers .",
+        "words": [
+          "perfumes",
+          "During the reign of Queen Anne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/12e1a165-589b-5446-a9ff-768020e36830",
+        "value": "The University of Cambridge made Queen Elizabeth a gift of a pair of gloves , embroid - ered with gold threads and perfumed .However it is asserted that even Henry VIII and Queen Mary had already worn scented gloves .During the reign of Queen Anne the use of perfumes increased to a tremendous degree .",
+        "words": [
+          "gloves",
+          "scented",
+          "Henry VIII and Queen Mary"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/185d4f59-94ae-54fd-9238-f895864976b9",
+        "value": "We are beholden to Archenholtz for a circumstantial account of the Temple and its services .Everywhere in this building one saw the most sumptuous pomp : crackling electric fires that hurtled through the room shedding their bow - like radiance ; transparent glasses of all colors , wisely selected and cleverly arranged throughout the building ; precious vases filled with the most excellent perfumes and incense which aroused the most poignant and intense desires .All these glories situated in the exterior of the Temple were shown free of charge and were ravishing .",
+        "words": [
+          "perfumes",
+          "incense",
+          "vases",
+          "the most excellent",
+          "transparent glasses",
+          "which aroused the most poignant and intense desires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/251df2fd-fd98-5a1e-a87e-d6100c7ef20f",
+        "value": "ODORATUS SEXUALIS BY DR .IWAN BLOCH A scientific and literary study of sexual scents and erotic per - fumes in relation to the act of reproduction .This volume in - cludes many delectable anecdotes on coital cosmetics , douches , pastilles , baths , and other oddities .",
+        "words": [
+          "fumes",
+          "scents",
+          "per",
+          "erotic",
+          "sexual"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/314c838b-a3c7-5f5c-90eb-2c5f637be53f",
+        "value": "Of the foods regarded in England as possessing sexually stimulat - ing properties , Ryan has listed the following : fish , turtles , oysters , crabs , lobsters , eggs , artichokes , truffles , mushrooms , celery , cocoa , onions , cin - namon , pepper , apricots , strawberries and peaches .King George IV , that corypheus of all voluptuaries , had such a high opinion of the aphrodisiac effects of truffles that his ambassadors at the courts of Turin , Naples and Florence received special orders to supply to the royal kitchen by private courier , particularly large , delicate and aromatic truffles .In England cinnamon was used as an aphrodisiac not only internally but externally , as it was believed that its application would elicit and magnify the libido sexualis .",
+        "words": [
+          "aromatic",
+          "truffles",
+          "aphrodisiac",
+          "of truffles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/4b7bb2fb-d7cc-5ed9-866b-b5a9c38c3180",
+        "value": "Never before had England seen pictures of such vibrant sensuality .Erotic refinements like the enchantment of a woman ' s hands , the perfume of her hair , her cruel red mouth , comparable to a poisonous flower which sips through her white teeth the sap of the veins , the mysteriously sensual - cruel expression of the eye in beautiful women has been reproduced by Rossetti as by none before or after .He is the new psychologist of love who sees in it the burning desires of the soul to flee from the grayness of everyday life to startling new beauties embodied in the figure of woman as the priestess of such soul wishes .",
+        "words": [
+          "perfume",
+          "of her hair"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/594aebf3-302e-5e9f-a7b3-e842bbbfb6e9",
+        "value": "During the 30 ' s these indecent snuff - boxes were every - where displayed in tobacco stores .According to Pisanus Fraxi , no land in the world was so prolific in the production of obscene photographs ( the so - called \" smutty \" photos ) as England .These were obtainable in certain book and paper shops near Leicester Square .",
+        "words": "smutty"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/5d9fdc94-1f51-5ac8-891d-63b11e5c8abc",
+        "value": "Archenholtz remarked that the men were now C 94 3 t t i i i t in t m 1 1 i i t n i i i m i i i i i I I I I I I I I l I l 1 1 l t I l 1 I I 1 INDECENT FASHIONS I I I I ! I I I I I ! I ! I I I I I I I I I I I I I I ! I I I I I I I I I I I I I I I I I n 1 I I n more like women than had been the case in any previous age .They wore their hair in long curls , strewn with flour and reeking of perfumes , and the coiffure was augmented by borrowed locks ; they encased their hands in gloves and painted their faces too .They indulged to the full their craving for soft foods , comfortable cushions and luxurious beds .",
+        "words": [
+          "reeking",
+          "perfumes",
+          "They",
+          "with flour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/5efe05ce-d5d2-5b6e-a589-355774ca66d8",
+        "value": "He was always strongly perfumed and his dainty long fingers were enmeshed in rings .He could frequently be seen promenading through Piccadilly or the Parisian boulevards with a snow - white beribboned poodle under his arm who , just like his master , reeked of patchouli and l ' eau d ' Espagne .The favorite pastime of this marquis was to appear on vaudeville stages as an imitator of the graceful Loi ' e Fuller .",
+        "words": [
+          "who",
+          "reeked",
+          "of patchouli",
+          "the Parisian",
+          "a snow - white beribboned poodle",
+          "l ' eau d ' Espagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/63ebf97d-98d9-518e-a676-e5bed1da3d8b",
+        "value": "Gen - erally the pictures in question were only visible when the cards were held up to the light .From the beginning of the nineteenth century , a favorite method of circulating obscene pictures was to provide snuff - boxes with lascivious pictures on the inside of the cover .The author of the \" Tableau descriptif de Londres \" reported that in 1 8 1 6 the court imposed a considerable fine upon a merchant who had sold \" tabatieres \" adorned with obscene pic - tures ; and another peddler , James Price by name , caught vending his wares , confessed that he had sold these articles in girls ' schools and had done a splendid business and was sentenced to three months in the house of correction .",
+        "words": [
+          "snuff",
+          "boxes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/68a647de-2d22-5e30-bf45-86520ff913b9",
+        "value": "For two years this professor of manicure plied his trade and amassed a considerable fortune ; nevertheless he managed so poorly that when he left London he departed a debtor to the tune of Â £ 3 , 000 .\" The perfuming of gloves was known in England as early as 1 600 when the Earl of Oxford imported the mode from Italy .The University of Cambridge made Queen Elizabeth a gift of a pair of gloves , embroid - ered with gold threads and perfumed .",
+        "words": [
+          "perfuming",
+          "of gloves",
+          "in England",
+          "the Earl of Oxford",
+          "as early as 1 600"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/6ffa5a82-d692-5020-8a47-edbc074c12eb",
+        "value": "Still it was not until the Middle Ages that sexual flagellation achieved a systematic development and expansion which came about through its connection with religion , as presented to us in the phenomena of flagellantism or whipping pil - grimages and monasterial discipline .The flogging sport with the accom - panying aura and aroma of sanctimoniousness which called forth , in the thirteenth and fourteenth centuries , such insane cramps of passion and pain , became in later times confined to the \" discipline \" whose \" sine qua non \" was immoral exposure .The latter began with an \" upper \" exposure and later descended until it became a lower one , and in this latter process the flogging of the rump played the chief part .",
+        "words": [
+          "aroma",
+          "of sanctimoniousness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/7292c30c-9654-54d5-aae4-db5d301768a8",
+        "value": "These moved through the crowds carry - ing apples , potatoes , beets , cabbages and other vegetables , all in various stages of decomposition , and also the remains of cats and dogs .All these things were sold to the public at exorbitant prices , for no one would want to be without some foul missile to hurl at the unhappy victims .Fishwomen were at hand to sell stinking flounders and decayed fish entrails .",
+        "words": "foul"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/78f1406b-276e-583f-9b1c-a79c6990644e",
+        "value": "But as soon as erotic \" art \" is degraded to the level of the ordinary porno - graphic pictures of the lowest sort ( which is designed for an indiscrimi - nate mass dissemination ) there is no longer any question of artistic effect but an exploitation of that instinct which , in the first category , should have been artistically transcended .Aside from the obscene lithographs already mentioned , the products produced in England for mass consumption were , in earlier times espe - H 301 ] i i i i t i t I I I I I I I I I I i I I I t i t t i I I I I i i t i i i i i i n i i i i i t t i m SEX LIFE IN ENGLAND I I I I I I I I I I I I I I I I I I I I I I I I I 1 I I I I I I I I I I I I I I I I I I I I I I I I ! I daily , obscene playing cards and tobacco snuff - boxes , and , during the last decades , obscene photographs .Playing cards , which were introduced into England at the end of the fifteenth century , began after 1 700 to appear with drawings a la Hogarth relevant to erotic subjects .",
+        "words": [
+          "snuff",
+          "during"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/871db9f8-d5a0-5ab4-ad80-698fc42d6ba4",
+        "value": "\" Ever so often he arranged lantern parties and Elysian promenades for ladies and gendemen to which masked figures were also admitted .The announcement of one of these parties read : \" The enchanting glory of these magical scenes will commence at seven and end at ten â   during which time oriental per - fumes and ethereal essences will perfume the air and the hymeneal bed will shimmer in the glow of soft celestial fire .\" From satirical allusions scattered through the magazines and pam - phlets of those days one derives an unmistakably clear idea of the true nature of those gatherings in the Temple of Health , and near the celestial bed â   not to speak of what was enacted upon it .",
+        "words": [
+          "perfume",
+          "the air",
+          "fumes",
+          "essences",
+          "ethereal essences",
+          "oriental per"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/8ce24213-a9ba-5f80-85ab-d2587b24ee4f",
+        "value": "In his costume he avoided everything striking and shied away from all the ex - travagance of the coxcombs of the eighteenth century .For this reason , excessive use of perfumes , pomades and oils was strictly avoided by him .He avoided exaggerations and ridiculousness in his clothing and appear - ance , and yet was able to draw general attention to himself by means of his exterior .",
+        "words": [
+          "oils",
+          "perfumes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/8cf45cc2-e8b7-5812-af63-3fd931c20704",
+        "value": "Sometimes he indicates the obscene interest by paraphrasing â   as in the song \" Et Csetera , \" which begins by describing how , in a dark and silent grove fit for the delights of love , he lay on Corinna ' s breast apanting .On other occasions he just revels in the foulest conceivable words , as in the \" Wish , \" which must have resulted from an attack of satyriasis , in which he prays that by some chymick art he could convert to sperm his heart and vitals , and at one thrust translate his very soul into his woman so that he would be steeped in the ardent and fetid darkness of lust .The grandi - ose satanic obscenity achieved in this last poem has been duplicated by only one modern writer who must surely have read Rochester : Edmond Haraucourt in his \" Legende des sexes .",
+        "words": [
+          "fetid",
+          "he",
+          "darkness"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/91f13f04-8d2c-567e-ad96-db630d50d2f0",
+        "value": "But they were quite discreet in their deportment .If they saw a yearning glance they would approach the ardent man and , reaching into their bosoms , draw out a neat , scented address card and gracefully invite the gentleman to visit them .Only the higher class of the unhappy victims of Venus vul - givaga was on exposition here .",
+        "words": "scented"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/a61e8bf1-d56c-5adb-8856-e12738793ddc",
+        "value": "\" The perfuming of gloves was known in England as early as 1 600 when the Earl of Oxford imported the mode from Italy .The University of Cambridge made Queen Elizabeth a gift of a pair of gloves , embroid - ered with gold threads and perfumed .However it is asserted that even Henry VIII and Queen Mary had already worn scented gloves .",
+        "words": [
+          "perfumed",
+          "The",
+          "a pair of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/b4b9754a-089e-5956-b384-d40fa1d2fc0c",
+        "value": "Payne who had his shop near St .Paul ' s Churchyard in the vicinity of Cheapside , advertised his incom - parable , perfumed drops for towels and other linens , clothes , gloves , etc ., which did not stain , and disseminated the most ravishing odor , and in addition were an excellent remedy against all headaches and brain pains .",
+        "words": [
+          "perfumed",
+          "drops",
+          "Paul ' s Churchyard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/b96191c1-f67d-5494-be07-7fd0c1969ec9",
+        "value": ", which did not stain , and disseminated the most ravishing odor , and in addition were an excellent remedy against all headaches and brain pains .These wonderful drops because of their wonderful scent which \" ani - mates and refreshes all the senses , animal and vital , revives the spirit and rejoices the heart and exorcises melancholy \" were recommended for the perfuming of the whole body , clothing , beds , drawers , coffers , etc .With regard to the history of the prevention of venereal diseases in England , we must mention first the condom , that sheath for the covering of the male member during coitus .",
+        "words": [
+          "scent",
+          "perfuming",
+          "their",
+          "wonderful",
+          "coffers",
+          "of the whole body",
+          "These wonderful drops",
+          "revives the spirit and rejoices the heart and exorcises melancholy",
+          "which \" ani - mates and refreshes all the senses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/c7c1782c-7baa-5e19-80f8-0f3378ac2633",
+        "value": "For this purpose alone he maintained a charming mistress .Love and fidelity didn ' t enter into the picture at all , for he was interested only in hair ; at such times as he might be disposed , she would remove hairpins and clasps and let him revel in L * 239 2 I I I I I I I 1 1 1 1 I 1 1 I i I I 1 t ! I I t I t t 1 T IT t I 1 t t t I t t I t I t t II t ! I t t SEX LIFE IN ENGLAND 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 r 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 the fragrant soft tresses .This operation brought him the highest degree of physical passion .",
+        "words": [
+          "fragrant",
+          "soft tresses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/d1230437-ef7a-5806-a1a6-fa3cbe8b1114",
+        "value": "Then they embrace with tender , though chaste , embraces and kisses sweet though somewhat cold .Sidney remarks significantly that it was as though the god of love was playing with them without his arrow , or that , tired of his own fire , he had come hither among them to refresh himself be - tween their sweetly aromatic mouths .At the voluptuous court of Charles II , Lesbian love found a great : mi 3 I I M 1 1 1 I I I I 1 I 1 I 1 I 1 1 I t I I I I 1 1 1 I I I I t I 1 1 1 t 1 t I t 1 I 1 1 I I t ! 1 I SEX LIFE IN ENGLAND : 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 : 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 field for its activities .",
+        "words": [
+          "aromatic",
+          "mouths",
+          "sweetly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/deb8b6b6-3e50-5367-a7e4-2e87f7f47b31",
+        "value": "In order to ap - pear even paler and more interesting he didn ' t hesitate to use the powder box or blanching toilet waters .He was always strongly perfumed and his dainty long fingers were enmeshed in rings .He could frequently be seen promenading through Piccadilly or the Parisian boulevards with a snow - white beribboned poodle under his arm who , just like his master , reeked of patchouli and l ' eau d ' Espagne .",
+        "words": [
+          "perfumed",
+          "He",
+          "strongly perfumed"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/e6f89d7d-ae59-5c8d-8ce1-55e73e709783",
+        "value": "The author of the \" Tableau descriptif de Londres \" reported that in 1 8 1 6 the court imposed a considerable fine upon a merchant who had sold \" tabatieres \" adorned with obscene pic - tures ; and another peddler , James Price by name , caught vending his wares , confessed that he had sold these articles in girls ' schools and had done a splendid business and was sentenced to three months in the house of correction .During the 30 ' s these indecent snuff - boxes were every - where displayed in tobacco stores .According to Pisanus Fraxi , no land in the world was so prolific in the production of obscene photographs ( the so - called \" smutty \" photos ) as England .",
+        "words": [
+          "snuff",
+          "indecent",
+          "During the 30 ' s",
+          "in tobacco stores"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/ea7fd14d-2295-516f-b048-ed348eada220",
+        "value": "All these things were sold to the public at exorbitant prices , for no one would want to be without some foul missile to hurl at the unhappy victims .Fishwomen were at hand to sell stinking flounders and decayed fish entrails .C 132 1 I I 1 I t I I I 1 I I I I I I I 1 I I I I I I I 1 1 1 I 1 I 1 M 1 1 1 I 1 1 I I 1 1 I 1 1 I I I I 1 1 HOMOSEXUALITY I ! I I I I I I I I I I I I I I I I I I I I I I I I I I I II I I I I I I I I I ! I ! ! I I I I I I I I Finally the prisoners were led out under heavy police escort , and when they were mounted in their open cart they were preceded and followed by police wagons .",
+        "words": [
+          "stinking",
+          "flounders",
+          "decayed fish entrails"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/faeeff33-2ace-52e8-a118-1586723aa4c3",
+        "value": "Paul ' s Churchyard in the vicinity of Cheapside , advertised his incom - parable , perfumed drops for towels and other linens , clothes , gloves , etc ., which did not stain , and disseminated the most ravishing odor , and in addition were an excellent remedy against all headaches and brain pains .These wonderful drops because of their wonderful scent which \" ani - mates and refreshes all the senses , animal and vital , revives the spirit and rejoices the heart and exorcises melancholy \" were recommended for the perfuming of the whole body , clothing , beds , drawers , coffers , etc .",
+        "words": [
+          "odor",
+          "the most ravishing",
+          "against all headaches and brain pains"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/80a603f2-4cbf-521b-ae05-00d3dc9a9e06",
+        "label": "Iwan Bloch"
+      }
+    ],
+    "label": "Sex life in England [electronic resource]",
+    "url": "http://archive.org/details/b20442075",
+    "date": "1934",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/113",
+      "label": "Peau d'Espagne"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/172",
+      "label": "Patchouli"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/1a6b4621-d61b-5733-ba62-ea4f0b4e349e",
+      "label": "1934",
+      "begin": "1934",
+      "end": "1934"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/10055436/",
+      "label": "The Parisian"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/a172dbbd-e11c-5728-88fe-c0c0315d9155/fragment/5efe05ce-d5d2-5b6e-a589-355774ca66d8"
+}

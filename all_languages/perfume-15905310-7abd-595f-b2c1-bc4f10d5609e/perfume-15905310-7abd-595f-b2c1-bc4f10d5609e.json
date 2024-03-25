@@ -1,0 +1,100 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/15905310-7abd-595f-b2c1-bc4f10d5609e",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "perfume",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/04a69a55-8d71-5592-b01d-c67fa5e6ec1c",
+        "value": "HERE are words which , although unnoticed in the delightful treatises of the Dean of Westminster ( may his fame increase ! ) , have a strong , strange power upon the heart , â   words which can ring for us , Hstening by tbe brookside , and in arbours and meadow - haunts once more , the joy - beUs of a former mu * tb , or toll above past sorrows 202 A LITTLE TOUR IN IRELAND .once wrote of Paris , the air is so loaded with stenches of every kind , as to be quite irrespirable ; and turning to my friend , I said , 0 Francis , it is written , in this ' Handbook to thc Harbour and City of Cork , ' that ' Queenstown is celebrated , and justly so , for the equahty , mUdness , and salubrity of its temperature , ' and that ' many medical men prefer it to the climate of Madeira ; ' but take thy kerchief from thy nose brief whUe , and answer me , my Francis , terse and true , doth not this statement seem to thee , in boyhood ' s phrase , ' a Corker ! ' He replied , that the stinks were not quite sufficiently defined to sketch , he should hire a boat and bathe and , having purchased a couple of oyster - cloths , the nearest approximation he could find to towels , so indeed he did , leaving me ( incapable of natation ) , to contemplate the Garrison , an extensive pUe with a very military and practical look , Spike Island , once the residence of Mr .Mitchell , and now occupied by some 2000 malefactors of less illustrious name , and Rocky and Hawlbotvline Islands , which are used as ammunition stores .",
+        "words": [
+          "the air",
+          "stenches",
+          "stinks",
+          "of every kind",
+          "as to be quite irrespirable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/2ac2a9c9-944f-509b-af97-8d0131ba910e",
+        "value": "My friend , the Irish graduate , played some most solemn and impressive music , including tbe Cujus from the Stabat Mater , upon a Concertina , which now breathed forth notes sweet and clear , like a flute , and anon was grand and organ - like .At a later period , a perfume , which , at first , I supposed to be incense , issued from his dormitory ; but it ultimately resolved itseH into Latakia .At last , the clouds began to break , and the grand old mountains mountains to emerge from the mist , Hke tbe scenery in a dissolving view ; tbe sunlight seemed to reach one ' s heart ; and we sallied A LITTLE TOUR IN IRELAND .",
+        "words": [
+          "perfume",
+          "incense",
+          "At a later period",
+          "from his dormitory",
+          "into Latakia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/492703e0-c4d0-5c0b-befc-ce6558ff534d",
+        "value": "Mitchell , and now occupied by some 2000 malefactors of less illustrious name , and Rocky and Hawlbotvline Islands , which are used as ammunition stores .The heat and the incense ( how I envied the white guUs , flying lazily over the waters , and ever and anon dipping , as one thought , to cool themselves ! ) were so oppressive and irritating , that when a smaU boy , buying apples , would keep dropping tbem on tbe ground , in a vain attempt to thrust more into bis pocket than the A LITTLE TOUR IN IRELAND .72 the bay ; for Clifden is built at the centre of one of those numerous indentations ia the land , Where weary waves retire to gleam at and which give the name Connamara , i .",
+        "words": [
+          "incense",
+          "white guUs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/981aad42-b651-5856-a4d4-58b163a420ea",
+        "value": "Here the cars are sent back , as the journey through the Pass must be made on ponies or afoot , and there was quite a merry little congress of visitors , guides , cars , and steeds .At length , the procession started , and a very picturesque one , â   void ! The Gap of Dunloe is a wUd ravine , a defile through the mountains ( on the right are the Reeks , and on the left thc Tomies , Glena , and the Purple Mountain ) , which , rising on either side , dark , stern , and sterile , with no great interval between , impart a solemn grandeur to tbe Pass .The river Loe flows beneath the huge blocks of stone which have fallen from tbe rocks above â   PREFATORY .",
+        "words": [
+          "Reeks",
+          "the Purple Mountain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/9f886529-7d97-567f-ad1a-6e0f4b1e7650",
+        "value": "Should it ever be my happy lot to revisit the city and haven of Cork , I shall most certainly decline to land at Quccnstoicn .The gentleman who took a Census of the smeUs at Cologne , and said , At Colne , a town of monks and bones , And pavements , fanged with murderous stoneB , And rags and jags , and hideous wenches , I counted four - and - seventy stenches , All well - defined and separate stinks might , perhaps , be interested in this locality , and would find an ample field for his nasal arithmetic .Tbe heat was intense , the tide low ; and , though I have no doubt that , further from tbe sea , tbe place is sweet and healthy enough , I never remember to have inhaled so offensive an atmosphere as that which prevaUed , upon St .",
+        "words": [
+          "I",
+          "stenches",
+          "stinks",
+          "separate",
+          "well -",
+          "At Colne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/a6187b42-be1e-59b4-bcee-bb7ffe213e91",
+        "value": "To float between its banks of dark grey stone , from which the green trees droop their glossy foliage , though , like tbe Alpine tannen , Rooted in barrenness , where nought below Of soil supports them ; and the purple heath and the Royal Osmund , fountain i and half lean over the brimming waters , to greet the Uly and the pale lobeUa , was a dream of happiness such as the Laureate dreamed , when â   Anight his shallop , rustling thro ' .' The low and bloomed foliage , drove The fragrant glistening deeps , and clove The citron - shadows iu the 76 A LITTLE TOUR IN IRELAND .Nemesis was tbe daughter of Nox ; and poor Blades looked miserably Ul , when he came down next morning to breakfast â   no , not to break fast , but only to wish he could .",
+        "words": "fragrant"
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6575b871-412c-5efe-a574-9f007eadc3d9",
+        "label": "John LEECH"
+      }
+    ],
+    "label": "A Little Tour in Ireland: being a visit to Dublin, Galway, Connamara, Athlone, Limerick, Killarney, Glengarriff, Cork, etc. ... By an Oxonian [i.e. S. R. Hole]. With illustrations by John Leech",
+    "date": "1859",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/269",
+      "label": "Incense"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/d441192b-2f1b-56d5-9b37-25a8277cf65e",
+      "label": "1859",
+      "begin": "1859",
+      "end": "1859"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/173576/",
+      "label": "Latakia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/7bf2f6af-df7d-5226-9979-db05230d0b92",
+      "label": "from his dormitory"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/74f998b9-a083-5beb-99ca-6a52ae51c58c/fragment/2ac2a9c9-944f-509b-af97-8d0131ba910e"
+}

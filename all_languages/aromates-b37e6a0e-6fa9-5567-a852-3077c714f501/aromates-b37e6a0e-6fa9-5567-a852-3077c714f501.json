@@ -1,0 +1,333 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/b37e6a0e-6fa9-5567-a852-3077c714f501",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "aromates",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/07b622a3-7d9b-5ec5-876f-584a09025f95",
+        "value": "La racine de l ' arbre qui la donne est grosse , partagée en plusieurs branches , couverte d ' une écorce d ' un roux grisâtre en dehors , rougeâtre en dedans .Le bois de cette racine est dur , blanc & fans odeur .Le tronc qui s ' élève jusqu ' à huit & dix toises l est couvert ainsi que ses nombreuses branches , d ' une écorce d ' abord verte & ensuite rouge .",
+        "words": [
+          "bois",
+          "odeur",
+          "cette racine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/1b9566dc-a8b9-5586-865b-081a5174c19e",
+        "value": "Si elle étoit un peu moins épaisse ; , , & que ses bâtons fussent un peu plus longs , - on ía distingù ' eroit cliffíeilement - de la véritable .- 11 ne faut poùr en obtenir V ' ■ 3o < j Hîjtoire les mêmes effets qu ' en employer une plus grande quantité : Son huile a la même odeur , le même goût ; mais elle est moins claire .Les Hollandois désespérant de pouvoir exterminer les arbres répan « dus dans les forêts qui la produisent , imaginèrent dans le tems de leur prépondérence au Malabar , d ' exiger des souverains du pays qu ' ils renonçassent au droit de leS dépouiller de leur écorce .",
+        "words": [
+          "odeur",
+          "Son huile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/37429f9a-0abd-5580-a9a0-2decbf7df737",
+        "value": "Elles surent d ' abord peu considérables .La myrrhe , l ' encens , Paloès , le baume de la Mecque , quelques aromates , quelques drogues propres à la médecine faisoient la base de ce commerce .Ces objets , dont l ' exportation continuellement arrêtée par des droits excessifs ne passe pas aujourd ' hui trois cens mille roupies , étoient dans ces tems - là plus recherchés qu ' ils ne Pont été depuis : mais ce devroit être toujours peu de chose .",
+        "words": [
+          "myrrhe",
+          "encens",
+          "baume",
+          "drogues",
+          "aromates",
+          "Mecque",
+          "Paloès"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/3fb0ea60-e600-5879-8bce-98758310fab5",
+        "value": "Personne n ' oseroit parler à son supérieur , sans avoir la bouche parfumée de bétel j il seroit même grossier de négliger cette précaution avec son égal .Si quelqu ' un se présente par hazard sans avoir mâché du bétel , il a grand foin de mettre fa main devant fa bouche , pour intercepter toute odeur désagréable .Les femmes galantes font le plus grand usage du bétel comme d ' un puissant attrait pour l ' amour .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "bouche",
+          "mettre fa main devant fa bouche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/4cc53715-4c15-516e-8e1e-c2483da56eff",
+        "value": "Leur vie se paíTe à fumer , à prendre du cassé , de l ' opium & du sorbet .Ces plaisirs font précédés ; ou suivis de parfums exquis qu ' on brûle devant eux , & dont ils reçoivent la fumée dans leurs habits , légèrement impregnés .d ' une aspersion d ' eaxt rose .",
+        "words": [
+          "parfums",
+          "exquis",
+          "habits"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/54561e9a-2ed2-5d7a-8ca9-8746931a90bd",
+        "value": "II se forme dans un petit sac de la grosseur d ' un ceuf de poule , qui croît en forme de veflìe sous le ventre d ' une espèce de chevreuil , entre le nombril & les parues naturelles .Ce n ' est - dans son origine qu ' un sang putride qui se coagule dans le sac de ranimai .La plus grosse veille ne produic qu ' une demie once de musc .",
+        "words": [
+          "putride",
+          "sang"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/55f6c82b-e934-5f72-a713-f1d549f74e5c",
+        "value": "On tire des deux dernieres espèces une huile , dont on se frote le corps à la Chine , aux Indes , en Perse , dans l ' Arabie & la Turquie .On le brûle aulîi en petits morceaux dans les appartemens , où il répand une odeur douce & salutaire .On en fait encore des cassettes qui communiquent un parfum agréable à ce qu ' elles renferment .",
+        "words": [
+          "douce",
+          "odeur",
+          "il",
+          "salutaire",
+          "les appartemens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/57be6538-ed0f-5e7e-923b-206d7c29c7eb",
+        "value": "La cannelle , pour être excellente , doit être fine , unie , facile à rompre , mince ., d ' un jaune tirant sur le rouge , odorante , aromatique , d ' un goût piquant & cependant agréable .Celle dont ses bâtons font longs , & les morceaux petits , est préférée par les connoiífeurs .",
+        "words": [
+          "aromatique",
+          "odorante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/58c7e62a-240e-519f-8940-bbcd5404899e",
+        "value": "Personne ne vouloi * fe fixer dans un pays íì mal - sain , qu ' il étoit passé en proverbe que deux moiffòns à Bombay étoit la vie d ' un homme .On attribuoit cette corruption de l ' air à la mauvaise qualité des eaux , à la situation des terres baíïes 8c marécageuses , à la puanteur du poisson qu ' on emplôyoit au lieu de fumier pour engraisser les pieds des arbres .Ces principes de destruction furent corrigés le plus ^ u ' il fut possible , & : la colonie parvint avec le tems à avoir quelque salubrité .",
+        "words": [
+          "puanteur",
+          "air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/68280005-243d-5c5c-b926-c6d2ae1106de",
+        "value": "Si on la laiíTe congeler , elle acquiert de la chaleur , de la consistance ; & : l ' on en f * .itdes bougies d ' une odeur agréable , mais dont l ' usage est réservé au roi .Il n ' y a de précieux , dans l ' arbre qui produit la cannelle , que la seconde écorce .",
+        "words": [
+          "agréable",
+          "odeur",
+          "bougies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/69c73e2f-4f1c-5371-acbb-5501b13ca1c3",
+        "value": "La cannelle qu ' elle rebute comme trop grossière , & qu ' elle ne paye pas , est réduite en huile .On en fait des présens aux puissances de l ' Asie , qui ne l ' acheteroient pas , & : on en vend parmi nous environ vingt livres , à vingt - cinq ou trente florins Fonce , Son parfum est en même tems fi fort & si agréable , que l ' usage en deviendrait commun , peutêtre général , u les Hollandois ne la tenoient à un prix si haut , parce qu ' il leur est plus avantageux de vendre en nature cette épicerie ..",
+        "words": [
+          "fort",
+          "agréable",
+          "parfum",
+          "Son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/6fff40e1-a28b-5dee-9945-86565480337d",
+        "value": "Sa position l ' expose à deux grands inconvéniens .Lorsque les rivières s ' enflent , & que rompant leurs digues , elles font du déíeft qui n ' e , st pas éloigné de la ville une espèce de mer , il s ' élève de cette vaste plaine des exhalaisons malignes qui r emplissent philosophique & politique .161 la place de fièvres dangereuses .",
+        "words": [
+          "exhalaisons",
+          "malignes",
+          "plaine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/715b0d5b-1c71-5ddb-a782-813348ea9dbc",
+        "value": "La plus grosse veille ne produic qu ' une demie once de musc .Sun odeur est naturellement 11 forte , que dans l ' usage ordinaire il faut nécessairement la tempérer en y mêlant des parfums plus doux .Les chasseurs avoient imaginé pour grossir íeur bénéfice , d ' ôter des vessies une partie du bon musc , & de remplit ce vuide avec du foye & du sang coagulé de l ' animal , hachés ensemble .",
+        "words": [
+          "doux",
+          "odeur",
+          "parfums",
+          "naturellement 11 forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/7b1cd3e2-30b9-50ed-981d-81a463922e57",
+        "value": "On le mêle philosophique & politique .151 dans les mets , dans les vins , dans les liqueurs : on remploie auíïi parmi les odeurs .On s ' en sert peu dans la médecine ; mais on en tire une huile qui y est d ' un assez grand usage .",
+        "words": [
+          "liqueurs",
+          "vins",
+          "odeurs",
+          "mets"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/7b625be4-0668-5c72-9a7a-792c665f4ea9",
+        "value": "Lagrenée de Mezieres , un des agens les plus éclairés que la France ait jamais employé aux Indes , a possédé de son fruit , & c en a fait souvent usage .II Pa trouvé beaucoup plus gros , un peu plus long , moins verd , & presque auílì parfumé que celui qu ' on a commencé à cueillir dans l ' Arabie vers la fin du seizième siécle .On croit communément qu ' un Mollach , nommé Chadely , fut le premier Arabe qui adopta le cassé , dans la vue de se délivrer d ' un assoupissement continuel qui ne lui permettoit pas de vaquer convenablement à ses prières nocturnes .",
+        "words": [
+          "parfumé",
+          "Arabie",
+          "du seizième siécle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/7bd8778c-f408-59d1-a4dd-8becc94d1237",
+        "value": "Il pensoit que ces honneurs serviroient à ranimer le génie belliqueux des Portugais , & c que le faste de cette cérémonie imposeroit à l ' imagination des peuples .Les portes à son entrée furent ornées d ' arcs triomphaux , les rues étoient tapiíïées 5 les femmes pa rées magnifiquement étoient aux fenêtres , & jettoient des fleurs & des parfums fur les vainqueurs .Le peuple dansoit au son des instrumens .",
+        "words": [
+          "fleurs",
+          "parfums",
+          "vainqueurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/8264ddd6-1731-5e0b-b691-f768363b0b48",
+        "value": "Son bois a des noeuds semblables à ceux de la vigne ; 5c quand il est sec , il ressemble parfaitement au sarment .Ses feuilles , dont l ' odeur est forte & le goût piquant , ont la figure ovale , mais vers l ' extrêmité elles diminuent & se terminent en pointe .Du bouton , des fleurs qui font .",
+        "words": [
+          "forte",
+          "odeur",
+          "piquant",
+          "Ses feuilles",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/9c09a8fd-bb5c-562c-ae3d-8aa0b57bebd0",
+        "value": "La feuille ne ressembleroit pas mal à celle du laurier , si elle étoit moins longue & c moins pointue .Lorsqu ' elle est tendre , elle á la couleur de feu : en viellissant & en séchant , elle prend un verd foncé au dessus ? 8c un Yerd plus clair au - dessous I7 < 5 Histoire Les fleurs font petites , blanches , disposées en gros bouquets à l ' extrêmité des rameaux , d ' une odeur agréable & qui approche de celle du muguet .Le fruit a la forme du gland 5 mais il est plus petit .",
+        "words": [
+          "agréable",
+          "odeur",
+          "fleurs",
+          "muguet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/9c936daf-16b4-54e6-94c8-06d43bd02071",
+        "value": "La plus remarquable rat le poivre long , blanc èc noir .Quoique eette épicerie ne flattât ni la vue , ni l ' odorat , ni le goût , elle devint extrêmement à la mode , au grand étonnement d ' un célèbre naturaliste .Son prix étoit si considérable , qu ' on s - ' avifa dé lé falsifier .",
+        "words": [
+          "odorat",
+          "eette épicerie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/bd534696-102b-5ce2-a6dd-2322ac0e4f04",
+        "value": "On le brûle aulîi en petits morceaux dans les appartemens , où il répand une odeur douce & salutaire .On en fait encore des cassettes qui communiquent un parfum agréable à ce qu ' elles renferment .Le sandal rouge est moins estimé , & n ' est guere d ' usage que dans lá médecine .",
+        "words": [
+          "agréable",
+          "parfum",
+          "elles",
+          "cassettes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/c01f57ae-4a24-5773-9aef-746ccb14d38a",
+        "value": "Tout le resb est baigné par lames J1 qui lc sépare J e l ' iíle de Sumatra par un canal connu sous le nom de détroit de Malaca .La nature avoir pourvu au bonheur des Malais , lin climat doux , sain & rafraîchi par les vents & les eaux fous le ciel de la zone torride : une terre prodigue de fruits délicieux , qui pourroient suftir à Phomme sauvage , ouverte à la culture de toutes les productions nécessaires à la société : des bois ' d ' une verdure éternelle , des fleurs qui naissent à côté des rieurs mourantes : un air parfumé des odeurs vives & suaves qui s ' exhalent de tous les végétaux d ' une terre aromatique , allument le feu de la volupté dans les êtres qui respirent la vie .La nature avoir tout fait pour les Malais , mais la société avoif tout fait contre eux .",
+        "words": [
+          "aromatique",
+          "suaves",
+          "parfumé",
+          "fleurs",
+          "air",
+          "terre",
+          "odeurs",
+          "vives",
+          "air parfumé",
+          "tous les végétaux",
+          "zone torride"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/c9f19d81-5172-5747-9347-8ab113c8bc1a",
+        "value": "On le réduit en petits pains .On estime celui qui est un peu mou , qui obéit fous le doigt , qui est inflammable , d ' une couleur brune Òc - noirâtre ; d ' une odeur forte & puante .Celui qui est sec , friable , brûlé , mêlé de terre & de sable , doit être rejette .",
+        "words": [
+          "puante",
+          "forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/ceda86a1-5272-53f9-a5f6-89e94b913f6b",
+        "value": "Le muscadier a la hauteur du poirier .Son bois est moelleux , son écorce cendrée , & ses branches font flexibles : ses feuilles vertes & lissées croissent deux à deux fur une même tige , & répandent une odeur agréable , quand on les froisse .Aux fleurs semblables à celles du cerisier , succède le fruit .",
+        "words": [
+          "bois",
+          "agréable",
+          "odeur",
+          "feuilles",
+          "écorce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/d81bf613-695e-5129-b018-556445adb72b",
+        "value": "On y joint constamment du chunam , espèce de chaux brûlée faite avec des coquilles .Les gens riches y ajoutent souvent des parfums qui flattent leur vanité ou leur sensualité .On ne peut pas se séparer avec bienséance , pour quelque tems , fans se donner mutuellement du bétel dans une bourse : c ' est un présent de l ' amitié qui soulage l ' ábsence .",
+        "words": [
+          "parfums",
+          "gens riches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/d9d0504b-a00d-591c-9a89-f29598c75442",
+        "value": "Les Egyptiens portoient aux Indes ce qu ' on y a toujours porté depuis , del ' argent , des étoffes de laine , du fer , du cuivre , du plomb , quelques petks ouvrages de verrerie .Ils en tiroieac # $ 2 , Hjioire de l ' ébene , de l ' écaille , de l ' ivoire , des toiles blanches & peintes , des soieries , des perles , des pierres précieuses , de la canelle , mais non du girofle & de la muscade , qu ' on ne connoiílòic pas encore j enfin beaucoup d ' aromates , & surtout de i ' encens .Rien n ' égaloit la fureur qu ' on avoit généralement pour ce parfum .",
+        "words": [
+          "encens",
+          "perles",
+          "pierres précieuses",
+          "aromates",
+          "girofle",
+          "muscade",
+          "canelle",
+          "soieries",
+          "ébene",
+          "toiles blanches &"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/df00dbe3-a712-5b24-8757-e25b6e00c6b2",
+        "value": "Ces cloux , qu ' on nomme matrices , quoiqu ' inférieurs aux cloux ordinaires , ont des vertus : les Hollandois ont coutume d ' en confire avec du sucre , & dans les longs voyages , ils en mangent après le repas , pour rendre la digestion meilleure ; ou ils s ' en servent comme d ' un remède agréable contre le scorbut .Le clou de girofle , pour être parfait , doit être bien nourri , pesant , gras , facile à casser , piquant les doigts quand on le manie , d ' un goût chaud & aromatique , brûlant presque la gorge , d ' une odeur excellente , & laissant une humidité huileuse , quand on le presse .La grande consommation s ' en fait dans les cuisines .",
+        "words": [
+          "aromatique",
+          "excellente",
+          "odeur",
+          "clou de girofle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/df4cb40c-f413-5bb7-8c8b-718ef6106bcd",
+        "value": "On trouyoit dans les places des chameaux chargés d ' eau , O » philosophique & politique .6f On prodiguoit les vins de Perse , ainsi que les parfums & les alimens les plus exquits .On entendent la meilleure musique de Fonent .",
+        "words": [
+          "parfums",
+          "vins",
+          "alimens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/f8c8ffe0-a055-5735-9739-6b2ce049811c",
+        "value": "On ne peut pas se séparer avec bienséance , pour quelque tems , fans se donner mutuellement du bétel dans une bourse : c ' est un présent de l ' amitié qui soulage l ' ábsence .Personne n ' oseroit parler à son supérieur , sans avoir la bouche parfumée de bétel j il seroit même grossier de négliger cette précaution avec son égal .Si quelqu ' un se présente par hazard sans avoir mâché du bétel , il a grand foin de mettre fa main devant fa bouche , pour intercepter toute odeur désagréable .",
+        "words": [
+          "parfumée",
+          "bétel",
+          "bouche"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8c8d967a-40d4-5af1-bf62-9d9acbc0d1ba",
+        "label": "Guillaume-Thomas  Raynal"
+      }
+    ],
+    "label": "Histoire philosophique et politique des établissemens & du commerce des européens dans les deux Indes. Tome 1",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5445542p",
+    "date": "1770",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/103",
+      "label": "Myrrh"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/210",
+      "label": "Strewing herb"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/211",
+      "label": "Balm"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/269",
+      "label": "Incense"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/502a6c5a-665b-5a88-a58b-4e682c062f2c",
+      "label": "1770",
+      "begin": "1770",
+      "end": "1770"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/104515/",
+      "label": "Makkah"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/60753c88-53f3-5a36-b547-dc6de72b241f/fragment/37429f9a-0abd-5580-a9a0-2decbf7df737",
+  "license": "Public domain"
+}

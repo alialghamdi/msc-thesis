@@ -1,0 +1,1310 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/dd6a1edc-dfd7-53a7-9c26-3a1ef8f5b252",
+  "@graph": "http://data.odeuropa.eu/liberliber",
+  "label": "aromi",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/011d1635-4d83-508c-9d5a-cb71567f10ff",
+        "value": "39Disse GesÃ ¹ : \" Togliete la pietra ! \" .Gli rispose Marta , la sorella del morto : \" Signore , giÃ   manda cattivo odore , poichÃ © Ã ¨ di quattro giorni \" .40Le disse GesÃ ¹ : \" Non ti ho detto che , se credi , vedrai la gloria di Dio ? \" .",
+        "words": [
+          "cattivo",
+          "odore",
+          "di quattro giorni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/020f880c-70f0-5b39-bc7f-21033b194eee",
+        "value": "13EntrerÃ ² nella tua casa con olocausti , a te scioglierÃ ² i miei voti , 14i voti pronunziati dalle mie labbra , promessi nel momento dell ' angoscia .15Ti offrirÃ ² pingui olocausti con fragranza di montoni , immolerÃ ² a te buoi e capri .16Venite , ascoltate , voi tutti che temete Dio , e narrerÃ ² quanto per me ha fatto .",
+        "words": [
+          "fragranza",
+          "di montoni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/02db141b-2483-5a2c-aa42-3a08d0eee2ad",
+        "value": "16Dice il Signore : \" PoichÃ © si sono insuperbite le figlie di Sion e procedono a collo teso , ammiccando con gli occhi , e camminano a piccoli passi facendo tintinnare gli anelli ai piedi , 17perciÃ ² il Signore renderÃ   tignoso il cranio delle figlie di Sion , il Signore denuderÃ   le loro tempie \" .18In quel giorno il Signore toglierÃ   l ' ornamento di fibbie , fermagli e lunette , 19orecchini , braccialetti , veli , 20bende , catenine ai piedi , cinture , boccette di profumi , amuleti , 21anelli , pendenti al naso , 22vesti preziose e mantelline , scialli , borsette , 23specchi , tuniche , cappelli e vestaglie .24Invece di profumo ci sarÃ   marciume , invece di cintura una corda , invece di ricci calvizie , invece di vesti eleganti uno stretto sacco , invece di bellezza bruciatura .",
+        "words": [
+          "profumi",
+          "boccette"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/030ed0d4-670e-5f54-a566-d73985657d11",
+        "value": "12Giardino chiuso tu sei , sorella mia , sposa , giardino chiuso , fontana sigillata .13I tuoi germogli sono un giardino di melagrane , con i frutti piÃ ¹ squisiti , alberi di cipro con nardo , 14nardo e zafferano , cannella e cinnamÃ ² mo con ogni specie d ' alberi da incenso ; mirra e aloe con tutti i migliori aromi .15Fontana che irrora i giardini , pozzo d ' acque vive e ruscelli sgorganti dal Libano .",
+        "words": [
+          "aromi",
+          "mirra",
+          "aloe",
+          "migliori"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/04f05bea-ff28-5c92-9ab2-36f369a3ab93",
+        "value": "11CosÃ ¬ dice il Signore Dio : Batti le mani , pesta i piedi in terra e di ' : Oh , per tutti i loro orribili abomini il popolo d ' Israele perirÃ   di spada , di fame e di peste ! 12Chi Ã ¨ lontano morirÃ   di peste , chi Ã ¨ vicino cadrÃ   di spada , chi Ã ¨ assediato morirÃ   di fame : sfogherÃ ² su di loro il mio sdegno .13Saprete allora che io sono il Signore , quando i loro cadaveri giaceranno fra i loro idoli , intorno ai loro altari , su ogni colle elevato , su ogni cima di monte , sotto ogni albero verde e ogni quercia frondosa , dovunque hanno bruciato profumi soavi ai loro idoli .14StenderÃ ² la mano su di loro e renderÃ ² la terra desolata e brulla dal deserto fino a Ribla , dovunque dimorino ; sapranno allora che io sono il Signore \" .",
+        "words": [
+          "profumi",
+          "soavi",
+          "ai loro idoli"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/0696b464-df2c-5b79-81ea-603dfca4526f",
+        "value": "5Farai una libazione di un quarto di hin di vino oltre l ' olocausto o sacrificio per ogni agnello .6Se Ã ¨ per un ariete , offrirai in oblazione due decimi di efa di fior di farina con un terzo di hin di olio 7e farai una libazione di un terzo di hin di vino come offerta di odore soave in onore del Signore .8Se offri un giovenco in olocausto o in sacrificio per soddisfare un voto o in sacrificio di comunione al Signore , 9oltre il giovenco si offrirÃ   , in oblazione , tre decimi di efa di fior di farina intrisa in mezzo hin di olio 10e farai una libazione di un mezzo hin di vino ; Ã ¨ un sacrificio consumato dal fuoco , soave profumo per il Signore .",
+        "words": [
+          "soave",
+          "odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/06a3381b-548d-5371-ba9b-0f39d85a16c4",
+        "value": "21L ' Arabia e tutti i prÃ ¬ ncipi di KedÃ   r mercanteggiavano con te : trafficavano con te agnelli , montoni e capri .22I mercanti di Saba e di RaemÃ   trafficavano con te , scambiando le tue merci con i piÃ ¹ squisiti aromi , con ogni sorta di pietre preziose e con oro .23Carran , CannÃ ¨ , Eden , i mercanti di Saba , Assur , KilmÃ   d commerciavano con te .",
+        "words": [
+          "aromi",
+          "squisiti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/09f3568c-023f-5f7c-bdf2-73e6d4f365fb",
+        "value": "19Meglio abitare in un deserto che con una moglie litigiosa e irritabile .20Tesori preziosi e profumi sono nella dimora del saggio , ma lo stolto dilapida tutto .21Chi segue la giustizia e la misericordia troverÃ   vita e gloria .",
+        "words": [
+          "profumi",
+          "20Tesori"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/0aa823a1-df42-577d-a31b-9abea50da64f",
+        "value": "18Allora brucerai in soave odore sull ' altare tutto l ' ariete .Ã  un olocausto in onore del Signore , un profumo gradito , una offerta consumata dal fuoco per il Signore .19Poi prenderai il secondo ariete ; Aronne e i suoi figli poseranno le mani sulla sua testa .",
+        "words": [
+          "profumo",
+          "gradito"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/0b51bfdf-37d4-58b9-a050-ab9ef807f80b",
+        "value": "21Delle primizie della vostra madia darete al Signore una parte come offerta che si fa elevandola , di generazione in generazione .22Se avrete mancato per inavvertenza e non avrete osservato tutti questi comandi che il Signore ha dati a MosÃ ¨ , 23quanto il Signore vi ha comandato per mezzo di MosÃ ¨ , dal giorno in cui il Signore vi ha dato comandi e in seguito , nelle vostre successive generazioni , 24se il peccato Ã ¨ stato commesso per inavvertenza da parte della comunitÃ   , senza che la comunitÃ   se ne sia accorta , tutta la comunitÃ   offrirÃ   un giovenco come olocausto di soave profumo per il Signore , con la sua oblazione e la sua libazione secondo il rito , e un capro come sacrificio espiatorio .25Il sacerdote farÃ   il rito espiatorio per tutta la comunitÃ   degli Israeliti e sarÃ   loro perdonato ; infatti si tratta di un peccato commesso per inavvertenza ed essi hanno portato l ' offerta , il sacrificio fatto in onore del Signore mediante il fuoco e il loro sacrificio espiatorio davanti al Signore , a causa della loro inavvertenza .",
+        "words": [
+          "soave",
+          "profumo",
+          "per il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/0b91f161-f32f-5e9e-85f9-e7811d603d88",
+        "value": "1La regina di Saba , sentita la fama di Salomone , venne per metterlo alla prova con enigmi .2Venne in Gerusalemme con ricchezze molto grandi , con cammelli carichi di aromi , d ' oro in grande quantitÃ   e di pietre preziose .Si presentÃ ² a Salomone e gli disse quanto aveva pensato .",
+        "words": [
+          "aromi",
+          "in Gerusalemme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/11015546-81f3-5a61-b85b-1f67e0b9fdfa",
+        "value": "45Allora gli Amaleciti e i Cananei che abitavano su quel monte scesero , li batterono e ne fecero strage fino a Corma .1Il Signore disse a MosÃ ¨ : 2 \" Parla agli Israeliti e riferisci loro : Quando sarete entrati nel paese che dovrete abitare e che io vi dÃ ² 3e offrirete al Signore un sacrificio consumato dal fuoco , olocausto o sacrificio per soddisfare un voto , o per un ' offerta volontaria , o nelle vostre solennitÃ   , per fare un profumo soave per il Signore con il vostro bestiame grosso o minuto , 4colui che presenterÃ   l ' offerta al Signore , offrirÃ   in oblazione un decimo di efa di fior di farina intrisa in un quarto di hin di olio .5Farai una libazione di un quarto di hin di vino oltre l ' olocausto o sacrificio per ogni agnello .",
+        "words": [
+          "soave",
+          "profumo",
+          "il",
+          "il Signore",
+          "Signore",
+          "per il"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/110bcfaf-c3ac-581d-94d5-07ee18576a34",
+        "value": "10Un fiume usciva da Eden per irrigare il giardino , poi di lÃ ¬ si divideva e formava quattro corsi .11Il primo fiume si chiama Pison : esso scorre intorno a tutto il paese di AvÃ ¬ la , dove c ' Ã ¨ l ' oro 12e l ' oro di quella terra Ã ¨ fine ; qui c ' Ã ¨ anche la resina odorosa e la pietra d ' Ã ² nice .13Il secondo fiume si chiama Ghicon : esso scorre intorno a tutto il paese d ' Etiopia .",
+        "words": [
+          "odorosa",
+          "resina"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/115bff32-f1ec-5fe1-ba38-40d8c7863694",
+        "value": "5Il sacerdote che ha ricevuto l ' unzione prenderÃ   il sangue del giovenco e lo porterÃ   nell ' interno della tenda del convegno ; 6intingerÃ   il dito nel sangue e farÃ   sette aspersioni davanti al Signore di fronte al velo del santuario .7BagnerÃ   con il sangue i corni dell ' altare dei profumi che bruciano davanti al Signore nella tenda del convegno ; verserÃ   il resto del sangue alla base dell ' altare degli olocausti , che si trova all ' ingresso della tenda del convegno .8Poi dal giovenco del sacrificio toglierÃ   tutto il grasso : il grasso che avvolge le viscere , tutto quello che vi Ã ¨ sopra , 9i due reni con il loro grasso e il grasso attorno ai lombi e al lobo del fegato , che distaccherÃ   al di sopra dei reni .",
+        "words": [
+          "profumi",
+          "nella tenda del convegno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/11cfa2b8-56d1-5808-bacc-b0e8f09ff950",
+        "value": "12Qualunque sia il numero degli animali che immolerete , farete cosÃ ¬ per ciascuna vittima .13Quanti sono nativi del paese faranno cosÃ ¬ , quando offriranno un sacrificio consumato dal fuoco , soave profumo per il Signore .14Se uno straniero che soggiorna da voi o chiunque dimorerÃ   in mezzo a voi in futuro , offrirÃ   un sacrificio con il fuoco , soave profumo per il Signore , farÃ   come fate voi .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/13ba8236-0911-5f23-a8d5-c37fa8fcd8ef",
+        "value": "30DevasterÃ ² le vostre alture di culto , distruggerÃ ² i vostri altari per l ' incenso , butterÃ ² i vostri cadaveri sui cadaveri dei vostri idoli e io vi avrÃ ² in abominio .31RidurrÃ ² le vostre cittÃ   a deserti , devasterÃ ² i vostri santuari e non aspirerÃ ² piÃ ¹ il profumo dei vostri incensi .32DevasterÃ ² io stesso il vostro paese e i vostri nemici , che vi prenderanno dimora , ne saranno stupefatti .",
+        "words": [
+          "profumo",
+          "dei vostri incensi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/14936ca2-5ab6-52f3-bf97-00198e54a9a1",
+        "value": "17Non Ã ¨ perÃ ² il vostro dono che io ricerco , ma il frutto che ridonda a vostro vantaggio .18Adesso ho il necessario e anche il superfluo ; sono ricolmo dei vostri doni ricevuti da EpafrodÃ ¬ to , che sono un profumo di soave odore , un sacrificio accetto e gradito a Dio .19Il mio Dio , a sua volta , colmerÃ   ogni vostro bisogno secondo la sua ricchezza con magnificenza in Cristo GesÃ ¹ .",
+        "words": [
+          "soave",
+          "odore",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/15d4a665-f4d1-5496-8343-eb82515141cc",
+        "value": "30Il sacerdote prenderÃ   con il dito un po ' di sangue di essa e bagnerÃ   i corni dell ' altare degli olocausti ; poi verserÃ   il resto del sangue alla base dell ' altare .31PreleverÃ   tutte le parti grasse , come si preleva il grasso del sacrificio di comunione , e il sacerdote le brucerÃ   sull ' altare , profumo soave in onore del Signore .Il sacerdote farÃ   per lui il rito espiatorio e gli sarÃ   perdonato .",
+        "words": [
+          "soave",
+          "profumo",
+          "il sacerdote",
+          "in onore del Signore",
+          "sull ' altare"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/16b9ac4e-7de3-5fa3-be7d-e166910f37ab",
+        "value": "Allora SadrÃ   ch , MesÃ   ch e AbdÃ ¨ nego uscirono dal fuoco .94Quindi i satrapi , i prefetti , i governatori e i ministri del re si radunarono e , guardando quegli uomini , videro che sopra i loro corpi il fuoco non aveva avuto nessun potere ; che neppure un capello del loro capo era stato bruciato e i loro mantelli non erano stati toccati e neppure l ' odore del fuoco era penetrato in essi .95NabucodÃ ² nosor prese a dire : \" Benedetto il Dio di SadrÃ   ch , MesÃ   ch e AbdÃ ¨ nego , il quale ha mandato il suo angelo e ha liberato i servi che hanno confidato in lui ; hanno trasgredito il comando del re e hanno esposto i loro corpi per non servire e per non adorare alcun altro dio che il loro Dio .",
+        "words": [
+          "odore",
+          "del fuoco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/1779a7bc-a3c3-55e7-82ee-0b11c41fa950",
+        "value": "5Io li guarirÃ ² dalla loro infedeltÃ   , li amerÃ ² di vero cuore , poichÃ © la mia ira si Ã ¨ allontanata da loro .6SarÃ ² come rugiada per Israele ; esso fiorirÃ   come un giglio e metterÃ   radici come un albero del Libano , 7si spanderanno i suoi germogli e avrÃ   la bellezza dell ' olivo e la fragranza del Libano .8Ritorneranno a sedersi alla mia ombra , faranno rivivere il grano , coltiveranno le vigne , famose come il vino del Libano .",
+        "words": [
+          "fragranza",
+          "del Libano"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/1bb7cbf2-e92f-56ed-b622-8446d5312e6d",
+        "value": "17Porterete dai luoghi dove abiterete due pani per offerta con rito di agitazione , i quali saranno di due decimi di efa di fior di farina e li farete cuocere lievitati ; sono le primizie in onore del Signore .18Oltre quei pani offrirete sette agnelli dell ' anno , senza difetto , un torello e due arieti : saranno un olocausto per il Signore insieme con la loro oblazione e le loro libazioni ; sarÃ   un sacrificio di soave profumo , consumato dal fuoco in onore del Signore .19Offrirete un capro come sacrificio espiatorio e due agnelli dell ' anno come sacrificio di comunione .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/20d0373b-2d1b-5208-8a9c-5683a471abf6",
+        "value": "32Siate invece benevoli gli uni verso gli altri , misericordiosi , perdonandovi a vicenda come Dio ha perdonato a voi in Cristo .1Fatevi dunque imitatori di Dio , quali figli carissimi , 2e camminate nella caritÃ   , nel modo che anche Cristo vi ha amato e ha dato se stesso per noi , offrendosi a Dio in sacrificio di soave odore .3Quanto alla fornicazione e a ogni specie di impuritÃ   o cupidigia , neppure se ne parli tra voi , come si addice a santi ; 4lo stesso si dica per le volgaritÃ   , insulsaggini , trivialitÃ   : cose tutte sconvenienti .",
+        "words": [
+          "soave",
+          "odore",
+          "Dio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/23ddcd72-93ca-5321-b1db-2746a1112867",
+        "value": "Rispose Davide : \" Ã  la mia voce , o re mio signore \" .18Aggiunse : \" PerchÃ © il mio signore perseguita il suo servo ? Che ho fatto ? Che male si trova in me ? 19Ascolti dunque il re mio signore la parola del suo servo : se il Signore ti eccita contro di me , voglia accettare il profumo di un ' offerta .Ma se sono gli uomini , siano maledetti davanti al Signore , perchÃ © oggi mi scacciano lontano , impedendomi di partecipare all ' ereditÃ   del Signore .",
+        "words": [
+          "profumo",
+          "di un ' offerta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/29b22213-99e8-5e47-8336-af329f358ab7",
+        "value": "In veritÃ   vi dico : hanno giÃ   ricevuto la loro ricompensa .17Tu invece , quando digiuni , profumati la testa e lavati il volto , 18perchÃ © la gente non veda che tu digiuni , ma solo tuo Padre che Ã ¨ nel segreto ; e il Padre tuo , che vede nel segreto , ti ricompenserÃ   .19Non accumulatevi tesori sulla terra , dove tignola e ruggine consumano e dove ladri scassinano e rubano ; 20accumulatevi invece tesori nel cielo , dove nÃ © tignola nÃ © ruggine consumano , e dove ladri non scassinano e non rubano .",
+        "words": [
+          "profumati",
+          "la testa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/2e393c06-8a41-5ca6-b4b3-f7231fde845b",
+        "value": "4Non presentarti a mani vuote davanti al Signore , tutto questo Ã ¨ richiesto dai comandamenti .5L ' offerta del giusto arricchisce l ' altare , il suo profumo sale davanti all ' Altissimo .6Il sacrificio dell ' uomo giusto Ã ¨ gradito , il suo memoriale non sarÃ   dimenticato .",
+        "words": [
+          "profumo",
+          "suo",
+          "arricchisce l ' altare",
+          "sale davanti all ' Altissimo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/2f505025-e116-5612-bca5-ccdef7bd7a1a",
+        "value": "Le sue cittÃ   diventeranno un deserto , perchÃ © non vi sarÃ   alcun abitante .10Maledetto chi compie fiaccamente l ' opera del Signore , maledetto chi trattiene la spada dal sangue ! 11Moab era tranquillo fin dalla giovinezza , riposava come vino sulla sua feccia , non Ã ¨ stato travasato di botte in botte , nÃ © Ã ¨ mai andato in esilio ; per questo gli Ã ¨ rimasto il suo sapore , il suo profumo non si Ã ¨ alterato .12Per questo , ecco , giorni verranno - dice il Signore - nei quali gli manderÃ ² travasatori a travasarlo , vuoteranno le sue botti e frantumeranno i suoi otri .",
+        "words": [
+          "profumo",
+          "suo",
+          "11Moab"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/31de9d55-66e0-5394-ac5e-177e47e28b2b",
+        "value": "10Ora parla il mio diletto e mi dice : \" Alzati , amica mia , mia bella , e vieni ! 11PerchÃ © , ecco , l ' inverno Ã ¨ passato , Ã ¨ cessata la pioggia , se n ' Ã ¨ andata ; 12i fiori sono apparsi nei campi , il tempo del canto Ã ¨ tornato e la voce della tortora ancora si fa sentire nella nostra campagna .13Il fico ha messo fuori i primi frutti e le viti fiorite spandono fragranza .Alzati , amica mia , mia bella , e vieni ! 14O mia colomba , che stai nelle fenditure della roccia , nei nascondigli dei dirupi , mostrami il tuo viso , fammi sentire la tua voce , perchÃ © la tua voce Ã ¨ soave , il tuo viso Ã ¨ leggiadro \" .",
+        "words": [
+          "le viti fiorite",
+          "spandono fragranza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/3480a4c9-8b5a-514d-b7ec-28ad4ce018ab",
+        "value": "Anche tu e Aronne ; ciascuno prenda un incensiere \" .18Essi dunque presero ciascuno un incensiere , vi misero il fuoco , vi posero profumo aromatico e si fermarono all ' ingresso della tenda del convegno ; lo stesso fecero MosÃ ¨ e Aronne .19Core convocÃ ² tutta la comunitÃ   presso MosÃ ¨ e Aronne all ' ingresso della tenda del convegno ; la gloria del Signore apparve a tutta la comunitÃ   .",
+        "words": [
+          "aromatico",
+          "profumo",
+          "un incensiere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/35c86dd3-2f85-5337-8226-fe3f1d9f3cf6",
+        "value": "1Avvicinatevi , popoli , per udire , e voi , nazioni , prestate ascolto ; ascolti la terra e quanti vi abitano , il mondo e quanto produce ! 2PoichÃ © il Signore Ã ¨ adirato contro tutti i popoli ed Ã ¨ sdegnato contro tutti i loro eserciti ; li ha votati allo sterminio , li ha destinati al massacro .3I loro uccisi sono gettati via , si diffonde il fetore dei loro cadaveri ; grondano i monti del loro sangue .4Tutta la milizia celeste si dissolve , i cieli si arrotolano come un libro , tutti i loro astri cadono come cade il pampino della vite , come le foglie avvizzite del fico .",
+        "words": [
+          "fetore",
+          "dei loro cadaveri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/36e04fbb-f28f-598c-a89b-a709f7525866",
+        "value": "11Aronne offrirÃ   dunque il proprio giovenco in sacrificio espiatorio per sÃ © e , fatta l ' espiazione per sÃ © e per la sua casa , immolerÃ   il giovenco del sacrificio espiatorio per sÃ © .12Poi prenderÃ   l ' incensiere pieno di brace tolta dall ' altare davanti al Signore e due manciate di incenso odoroso polverizzato ; porterÃ   ogni cosa oltre il velo .13MetterÃ   l ' incenso sul fuoco davanti al Signore , perchÃ © la nube dell ' incenso copra il coperchio che Ã ¨ sull ' arca e cosÃ ¬ non muoia .",
+        "words": [
+          "odoroso",
+          "incenso",
+          "odoroso polverizzato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/37e78dfc-2093-5321-a52f-d88fa5665320",
+        "value": "15Allora MosÃ ¨ si adirÃ ² molto e disse al Signore : \" Non gradire la loro oblazione ; io non ho preso da costoro neppure un asino e non ho fatto torto ad alcuno di loro \" .16MosÃ ¨ disse a Core : \" Tu e tutta la tua gente trovatevi domani davanti al Signore : tu e loro con Aronne ; 17ciascuno di voi prenda l ' incensiere , vi metta il profumo aromatico e porti ciascuno il suo incensiere davanti al Signore : duecentocinquanta incensieri .Anche tu e Aronne ; ciascuno prenda un incensiere \" .",
+        "words": [
+          "aromatico",
+          "profumo",
+          "vi",
+          "l ' incensiere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/3a1d10f3-30fc-58fa-8209-ffe1e39c6b4c",
+        "value": "Gli Israeliti eseguirono ogni cosa come il Signore aveva ordinato a MosÃ ¨ : cosÃ ¬ essi fecero .33Portarono dunque a MosÃ ¨ la Dimora , la tenda e tutti i suoi accessori : le sue fibbie , le sue assi , le sue traverse , le sue colonne e le sue basi , 34la copertura di pelli di montone tinte di rosso , la copertura di pelli di tasso e il velo per far da cortina , 35l ' arca della Testimonianza con le sue stanghe e il coperchio , 36la tavola con tutti i suoi accessori e i pani dell ' offerta , 37il candelabro d ' oro puro con le sue lampade , le lampade cioÃ ¨ che dovevano essere collocate sopra di esso , con tutti i suoi accessori , e l ' olio per l ' illuminazione , 38l ' altare d ' oro , l ' olio dell ' unzione , il profumo aromatico da bruciare e la cortina per l ' ingresso della tenda .39L ' altare di rame con la sua graticola di rame , le sue stanghe e tutti i suoi accessori , la conca e il suo piedestallo , 40i tendaggi del recinto , le sue colonne , le sue basi e la cortina per la porta del recinto , le sue corde , i suoi picchetti e tutti gli arredi del servizio della Dimora , per la tenda del convegno , 41le vesti liturgiche per officiare nel santuario , le vesti sacre del sacerdote Aronne e le vesti dei suoi figli per l ' esercizio del sacerdozio .",
+        "words": [
+          "aromatico",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/3a376503-4193-55ea-b0a4-bc8168a2f09b",
+        "value": "8Colui che poco prima pensava di comandare ai flutti del mare , arrogandosi di essere un superuomo e di pesare sulla bilancia le cime dei monti , ora gettato a terra doveva farsi portare in lettiga , rendendo a tutti manifesta la potenza di Dio , 9a tal punto che nel corpo di quell ' empio si formavano i vermi e , mentre era ancora vivo , le sue carni fra spasimi e dolori cadevano a brandelli e l ' esercito era tutto nauseato dal fetore e dal marciume di lui .10Colui che poco prima credeva di toccare gli astri del cielo , ora nessuno poteva sopportarlo per l ' intollerabile intensitÃ   del fetore .11Allora finalmente , malconcio a quel modo , incominciÃ ² ad abbassare il colmo della sua superbia e ad avviarsi al ravvedimento per effetto del divino flagello , mentre ad ogni istante era lacerato dai dolori .",
+        "words": [
+          "fetore",
+          "toccare gli astri del cielo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/3d9c150d-1e5a-56ca-b754-f4ab88cad0f2",
+        "value": "12La vigna mia , proprio mia , mi sta davanti : a te , Salomone , i mille sicli e duecento per i custodi del suo frutto ! 13Tu che abiti nei giardini - i compagni stanno in ascolto - fammi sentire la tua voce .14 \" Fuggi , mio diletto , simile a gazzella o ad un cerbiatto , sopra i monti degli aromi ! \" .1Amate la giustizia , voi che governate sulla terra , rettamente pensate del Signore , cercatelo con cuore semplice .",
+        "words": [
+          "aromi",
+          "sopra i monti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/40eea2b0-8bfe-54fa-b168-af6383ef8b81",
+        "value": "14Lo seppellirono nel sepolcro che egli si era scavato nella cittÃ   di Davide .Lo stesero su un letto pieno di aromi e profumi lavorati da un esperto di profumeria ; ne bruciarono per lui una quantitÃ   immensa .1Al suo posto divenne re suo figlio GiÃ ² safat , che si fortificÃ ² contro Israele .",
+        "words": [
+          "aromi",
+          "profumi",
+          "profumeria",
+          "da un esperto di"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/41bc3c26-8137-5d78-bb3d-f249764eeea8",
+        "value": "Cosa santissima sarÃ   da voi ritenuta .37Non farete per vostro uso alcun profumo di composizione simile a quello che devi fare : lo riterrai una cosa santa in onore del Signore .38Chi ne farÃ   di simile per sentirne il profumo sarÃ   eliminato dal suo popolo \" .",
+        "words": [
+          "alcun",
+          "profumo",
+          "di composizione",
+          "simile a quello che devi fare",
+          "vostro uso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/422af737-0b93-595b-bd14-4abd7c3b62ea",
+        "value": "8Ecco i miei ordini sull ' atteggiamento che dovete tenere con questi anziani dei Giudei per la ricostruzione del tempio : dalle entrate del re , cioÃ ¨ dalla imposta dell ' Oltrefiume , saranno rimborsate puntualmente le spese a quegli uomini , senza interruzione .9CiÃ ² che loro occorre , giovenchi , arieti e agnelli , per gli olocausti al Dio del cielo , come anche grano , sale , vino e olio , siano loro forniti ogni giorno senza esitazione , secondo le indicazioni dei sacerdoti di Gerusalemme , 10perchÃ © si facciano offerte di odore soave al Dio del cielo e si preghi per la vita del re e dei suoi figli .11Ordino ancora : se qualcuno trasgredisce questo decreto , si tolga una trave dalla sua casa , la si rizzi ed egli vi sia impiccato .",
+        "words": [
+          "soave",
+          "odore",
+          "ogni giorno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/43374462-43bd-59df-8ff5-92c820cf9c64",
+        "value": "19AndÃ ² avanti per piÃ ¹ di un anno ; verso la fine del secondo anno , gli uscirono le viscere per la gravitÃ   della malattia e cosÃ ¬ morÃ ¬ fra dolori atroci .E per lui il popolo non bruciÃ ² aromi , come si erano bruciati per i suoi padri .20Quando divenne re , egli aveva trentadue anni ; regnÃ ² otto anni in Gerusalemme .",
+        "words": [
+          "aromi",
+          "il popolo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/4397e30a-4884-598a-9731-8ed8566f9420",
+        "value": "1Quando Giuditta ebbe cessato di supplicare il Dio di Israele ed ebbe terminato di pronunziare tutte queste parole , 2si alzÃ ² dalla prostrazione , chiamÃ ² la sua ancella particolare e scese nella casa , dove usava passare i giorni dei sabati e le sue feste .3Qui si tolse il sacco di cui era rivestita , depose le vesti di vedova , poi lavÃ ² con acqua il corpo e lo unse con profumo denso ; spartÃ ¬ i capelli del capo e vi impose il diadema .Poi si mise gli abiti da festa , che aveva usati quando era vivo suo marito ManÃ   sse .",
+        "words": [
+          "profumo",
+          "denso",
+          "le vesti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/4587b04d-e9bf-55c1-b797-dec09a58164f",
+        "value": "34Il Signore disse a MosÃ ¨ : \" ProcÃ ¹ rati balsami : storÃ   ce , Ã ² nice , galbano come balsami e incenso puro : il tutto in parti uguali .35Farai con essi un profumo da bruciare , una composizione aromatica secondo l ' arte del profumiere , salata , pura e santa .36Ne pesterai un poco riducendola in polvere minuta e ne metterai davanti alla Testimonianza , nella tenda del convegno , dove io ti darÃ ² convegno .",
+        "words": [
+          "aromatica",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/476821a2-e781-5056-b9b6-f3794681d60e",
+        "value": "1Nel caso che la sua offerta sia un sacrificio di comunione e se offre un capo di bestiame grosso , sarÃ   un maschio o una femmina , senza difetto ; l ' offrirÃ   davanti al Signore , 2poserÃ   la mano sulla testa della vittima e la immolerÃ   all ' ingresso della tenda del convegno e i figli di Aronne , i sacerdoti , spargeranno il sangue attorno all ' altare .3Di questo sacrificio di comunione offrirÃ   come sacrificio consumato dal fuoco in onore del Signore il grasso che avvolge le viscere e tutto quello che vi Ã ¨ sopra , 4i due reni con il loro grasso e il grasso attorno ai lombi e al lobo del fegato , che distaccherÃ   al di sopra dei reni ; 5i figli di Aronne lo bruceranno sull ' altare , sopra l ' olocausto , posto sulla legna che Ã ¨ sul fuoco : Ã ¨ un sacrificio consumato dal fuoco , profumo soave per il Signore .6Se la sua offerta di sacrificio di comunione per il Signore Ã ¨ di bestiame minuto sarÃ   un maschio o una femmina , senza difetto .",
+        "words": [
+          "soave",
+          "profumo",
+          "fuoco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/492a8c97-9b1b-5a6d-88c4-17ce2c94bbfe",
+        "value": "Ma gli accadde di cadere dal carro in corsa tumultuosa e per la grave caduta di riportare contusioni in tutte le membra del corpo .8Colui che poco prima pensava di comandare ai flutti del mare , arrogandosi di essere un superuomo e di pesare sulla bilancia le cime dei monti , ora gettato a terra doveva farsi portare in lettiga , rendendo a tutti manifesta la potenza di Dio , 9a tal punto che nel corpo di quell ' empio si formavano i vermi e , mentre era ancora vivo , le sue carni fra spasimi e dolori cadevano a brandelli e l ' esercito era tutto nauseato dal fetore e dal marciume di lui .10Colui che poco prima credeva di toccare gli astri del cielo , ora nessuno poteva sopportarlo per l ' intollerabile intensitÃ   del fetore .",
+        "words": [
+          "fetore",
+          "le"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/4b396dc5-9325-5b98-9bda-b6fd9fa100cc",
+        "value": "17Dice il Signore : Da questo fatto saprai che io sono il Signore ; ecco , con il bastone che ho in mano io batto un colpo sulle acque che sono nel Nilo : esse si muteranno in sangue .18I pesci che sono nel Nilo moriranno e il Nilo ne diventerÃ   fetido , cosÃ ¬ che gli Egiziani non potranno piÃ ¹ bere le acque del Nilo ! \" .19Il Signore disse a MosÃ ¨ : \" Comanda ad Aronne : Prendi il tuo bastone e stendi la mano sulle acque degli Egiziani , sui loro fiumi , canali , stagni , e su tutte le loro raccolte di acqua ; diventino sangue , e ci sia sangue in tutto il paese d ' Egitto , perfino nei recipienti di legno e di pietra ! \" .",
+        "words": [
+          "fetido",
+          "il Nilo",
+          "nel Nilo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/4fb497e7-f181-5398-a1b4-f27b76f9b614",
+        "value": "17Poi farai a pezzi l ' ariete , ne laverai le viscere e le zampe e le disporrai sui quarti e sulla testa .18Allora brucerai in soave odore sull ' altare tutto l ' ariete .Ã  un olocausto in onore del Signore , un profumo gradito , una offerta consumata dal fuoco per il Signore .",
+        "words": [
+          "soave",
+          "odore",
+          "sull ' altare tutto l ' ariete"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/5271f0f9-c778-532e-b4e0-bf4e3ab25556",
+        "value": "7Va ' , mangia con gioia il tuo pane , bevi il tuo vino con cuore lieto , perchÃ © Dio ha giÃ   gradito le tue opere .8In ogni tempo le tue vesti siano bianche e il profumo non manchi sul tuo capo .9Godi la vita con la sposa che ami per tutti i giorni della tua vita fugace , che Dio ti concede sotto il sole , perchÃ © questa Ã ¨ la tua sorte nella vita e nelle pene che soffri sotto il sole .",
+        "words": [
+          "profumo",
+          "8In ogni tempo",
+          "non manchi sul tuo capo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/53a2f04c-de0e-5a31-8b90-d2bf0d74adcf",
+        "value": "5Ma dicevano : \" Non durante la festa , perchÃ © non avvengano tumulti fra il popolo \" .6Mentre GesÃ ¹ si trovava a BetÃ   nia , in casa di Simone il lebbroso , 7gli si avvicinÃ ² una donna con un vaso di alabastro di olio profumato molto prezioso , e glielo versÃ ² sul capo mentre stava a mensa .8I discepoli vedendo ciÃ ² si sdegnarono e dissero : \" PerchÃ © questo spreco ? 9Lo si poteva vendere a caro prezzo per darlo ai poveri ! \" .",
+        "words": [
+          "profumato",
+          "profumato molto prezioso",
+          "un vaso di alabastro di",
+          "glielo versÃ ² sul capo mentre stava a mensa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/542dff10-f3ee-5587-8294-3bf55b276e91",
+        "value": "54Era il giorno della parascÃ ¨ ve e giÃ   splendevano le luci del sabato .55Le donne che erano venute con GesÃ ¹ dalla Galilea seguivano Giuseppe ; esse osservarono la tomba e come era stato deposto il corpo di GesÃ ¹ , 56poi tornarono indietro e prepararono aromi e oli profumati .Il giorno di sabato osservarono il riposo secondo il comandamento .",
+        "words": [
+          "profumati",
+          "aromi",
+          "oli",
+          "55Le donne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/5b347a74-665f-52d2-a36f-3822f9958d5c",
+        "value": "2Salomone mandÃ ² a dire a Chiram , re di Tiro : \" Come hai fatto con mio padre Davide , al quale avevi spedito legno di cedro per la costruzione della sua dimora , fa ' anche con me .3Ecco ho deciso di costruire un tempio al nome del Signore mio Dio , per consacrarlo a lui sÃ ¬ che io possa bruciare profumi fragranti davanti a lui , esporre sempre i pani dell ' offerta e presentare olocausti mattina e sera , nei sabati , nei noviluni e nelle feste del Signore nostro Dio .Per Israele questo Ã ¨ un obbligo perenne .",
+        "words": [
+          "io",
+          "profumi",
+          "fragranti",
+          "nei noviluni",
+          "nei sabati",
+          "nelle feste del Signore nostro Dio",
+          "olocausti mattina e sera"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/5bd606c4-4c61-5955-b510-13585c891a05",
+        "value": "10CiÃ ² che Ã ¨ , giÃ   da tempo ha avuto un nome ; e si sa che cos ' Ã ¨ un uomo : egli non puÃ ² competere con chi Ã ¨ piÃ ¹ forte di lui .11Le molte parole aumentano la delusione e quale vantaggio v ' Ã ¨ per l ' uomo ? 12Chi sa quel che all ' uomo convenga durante la vita , nei brevi giorni della sua vana esistenza che egli trascorre come un ' ombra ? Chi puÃ ² indicare all ' uomo cosa avverrÃ   dopo di lui sotto il sole ? 1Un buon nome Ã ¨ preferibile all ' unguento profumato e il giorno della morte al giorno della nascita .2Ã  meglio andare in una casa in pianto che andare in una casa in festa ; perchÃ © quella Ã ¨ la fine d ' ogni uomo e chi vive ci rifletterÃ   .",
+        "words": [
+          "profumato",
+          "unguento",
+          "il giorno della morte al giorno della nascita"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/5ce1e4a4-e192-54a7-8c56-8af6b4497c5c",
+        "value": "SarÃ   un sacrificio consumato dal fuoco , soave profumo per il Signore .7Il decimo giorno di questo settimo mese terrete una sacra adunanza e vi mortificherete ; non farete alcun lavoro 8e offrirete in olocausto di soave profumo al Signore un giovenco , un ariete , sette agnelli dell ' anno senza difetti ; 9come oblazione , fior di farina intrisa in olio : tre decimi per il giovenco , due decimi per l ' ariete , 10un decimo per ciascuno dei sette agnelli 11e un capro in sacrificio espiatorio , oltre il sacrificio espiatorio proprio del rito dell ' espiazione e oltre l ' olocausto perenne con la sua oblazione e le loro libazioni .12Il quindici del settimo mese terrete una sacra adunanza ; non farete alcun lavoro servile e celebrerete una festa per il Signore per sette giorni .",
+        "words": [
+          "soave",
+          "profumo",
+          "al Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/5f01c3b1-c3d1-50c5-a6b9-99c70ad77220",
+        "value": "Tale fu l ' offerta di Achira , figlio di Enan .84Questi furono i doni per la dedicazione dell ' altare da parte dei capi d ' Israele , il giorno in cui esso fu unto : dodici piatti d ' argento , dodici vassoi d ' argento , dodici coppe d ' oro ; 85ogni piatto d ' argento pesava centotrenta sicli e ogni vassoio d ' argento settanta ; il totale dell ' argento dei vasi fu duemilaquattrocento sicli , secondo il siclo del santuario ; 86dodici coppe d ' oro piene di profumo , le quali , a dieci sicli per coppa , secondo il siclo del santuario , diedero per l ' oro delle coppe un totale di centoventi sicli .87Totale del bestiame per l ' olocausto : dodici giovenchi , dodici arieti , dodici agnelli dell ' anno , con le oblazioni consuete , e dodici capri per il sacrificio espiatorio .",
+        "words": [
+          "profumo",
+          "86dodici coppe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/63108541-94b0-5606-8175-7e511cc546a6",
+        "value": "Tutte le acque che erano nel Nilo si mutarono in sangue .21I pesci che erano nel Nilo morirono e il Nilo ne divenne fetido , cosÃ ¬ che gli Egiziani non poterono piÃ ¹ berne le acque .Vi fu sangue in tutto il paese d ' Egitto .",
+        "words": [
+          "fetido",
+          "il Nilo",
+          "nel Nilo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/64527267-7135-5eab-855e-0497ca861afd",
+        "value": "4Uno degli agnelli lo offrirai la mattina e l ' altro agnello lo offrirai al tramonto ; 5come oblazione un decimo di efa di fior di farina , intrisa in un quarto di hin di olio di olive schiacciate .6Tale Ã ¨ l ' olocausto perenne , offerto presso il monte Sinai : sacrificio consumato dal fuoco , soave profumo per il Signore .7La libazione sarÃ   di un quarto di hin per il primo agnello ; farai nel santuario la libazione , bevanda inebriante per il Signore .",
+        "words": [
+          "soave",
+          "profumo",
+          "per il Signore",
+          "presso il monte Sinai"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/6c7e8e5b-b871-578a-8a6c-7526c6a9516c",
+        "value": "1Il settimo mese , il primo giorno del mese terrete una sacra adunanza ; non farete alcun lavoro servile ; sarÃ   per voi il giorno dell ' acclamazione con le trombe .2Offrirete in olocausto di soave odore al Signore un giovenco , un ariete , sette agnelli dell ' anno senza difetti ; 3in oblazione , fior di farina intrisa in olio : tre decimi per il giovenco , due decimi per l ' ariete , 4un decimo per ciascuno dei sette agnelli 5e un capro , in sacrificio espiatorio , per il rito espiatorio per voi ; 6oltre l ' olocausto del mese con la sua oblazione e l ' olocausto perenne con la sua oblazione e le loro libazioni , secondo il loro rito .SarÃ   un sacrificio consumato dal fuoco , soave profumo per il Signore .",
+        "words": [
+          "soave",
+          "odore",
+          "al Signore",
+          "un giovenco",
+          "in olocausto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/72eefb9b-4d93-5a1b-85a5-2ca5ff44761e",
+        "value": "9Vi ho colpiti con ruggine e carbonchio , vi ho inaridito i giardini e le vigne ; i fichi , gli oliveti li ha divorati la cavalletta : e non siete ritornati a me , dice il Signore .10Ho mandato contro di voi la peste , come un tempo contro l ' Egitto ; ho ucciso di spada i vostri giovani , mentre i vostri cavalli diventavano preda ; ho fatto salire il fetore dei vostri campi fino alle vostre narici : e non siete ritornati a me , dice il Signore .11Vi ho travolti come Dio aveva travolto SÃ ² doma e Gomorra ; eravate come un tizzone strappato da un incendio : e non siete ritornati a me dice il Signore .",
+        "words": [
+          "fetore",
+          "dei vostri campi",
+          "fino alle vostre narici"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/74109a2b-17b8-5972-bae2-c04f3fb1d9c8",
+        "value": "12Vieni , mio diletto , andiamo nei campi , passiamo la notte nei villaggi .13Di buon mattino andremo alle vigne ; vedremo se mette gemme la vite , se sbocciano i fiori , se fioriscono i melograni : lÃ   ti darÃ ² le mie carezze ! 14Le mandragore mandano profumo ; alle nostre porte c ' Ã ¨ ogni specie di frutti squisiti , freschi e secchi ; mio diletto , li ho serbati per te \" .1Oh se tu fossi un mio fratello , allattato al seno di mia madre ! Trovandoti fuori ti potrei baciare e nessuno potrebbe disprezzarmi .",
+        "words": [
+          "profumo",
+          "mandragore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/749c1010-ddb4-5c33-a4d0-e3b2dd414b02",
+        "value": "10Il resto dell ' oblazione sarÃ   per Aronne e per i suoi figli , cosa santissima , proveniente dai sacrifici consumati dal fuoco per il Signore .11Nessuna delle oblazioni che offrirete al Signore sarÃ   lievitata : non brucerete nÃ © lievito , nÃ © miele come sacrificio consumato dal fuoco in onore del Signore ; 12potrete offrire queste cose al Signore come offerta di primizie , ma non saliranno sull ' altare a titolo di profumo soave .13Dovrai salare ogni tua offerta di oblazione : nella tua oblazione non lascerai mancare il sale dell ' alleanza del tuo Dio ; sopra ogni tua offerta offrirai del sale .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/74d6744e-ca0e-5550-839e-6f14264e9a28",
+        "value": "24Metterai il tutto sulle palme di Aronne e sulle palme dei suoi figli e farai compiere il gesto di presentazione proprio dell ' offerta agitata davanti al Signore .25Poi riprenderai ogni cosa dalle loro mani e la brucerai in odore soave sull ' altare , sopra l ' olocausto , come profumo gradito davanti al Signore : Ã ¨ un ' offerta consumata dal fuoco in onore del Signore .26Prenderai il petto dell ' ariete dell ' investitura di Aronne e compirai il gesto di presentazione dell ' offerta , agitandola davanti al Signore : sarÃ   la tua porzione .",
+        "words": [
+          "soave",
+          "odore",
+          "profumo",
+          "gradito",
+          "sull ' altare",
+          "sopra l ' olocausto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7509f424-24f3-5dd8-9f47-eba7427bfa68",
+        "value": "15I monti sulle loro basi insieme con le acque sussulteranno , davanti a te le rocce si struggeranno come cera ; ma a coloro che ti temono tu sarai sempre propizio .16Poca cosa Ã ¨ per te ogni sacrificio in soave odore , non basta quanto Ã ¨ pingue per farti un olocausto ; ma chi teme il Signore Ã ¨ sempre grande .17Guai alle genti che insorgono contro il mio popolo : il Signore onnipotente li punirÃ   nel giorno del giudizio , immettendo fuoco e vermi nelle loro carni , e piangeranno nel tormento per sempre \" .",
+        "words": [
+          "soave",
+          "odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7571bc9a-8c08-5380-a52a-ac16a9e8d795",
+        "value": "10Essa diede al re centoventi talenti d ' oro , aromi in gran quantitÃ   e pietre preziose .Non arrivarono mai tanti aromi quanti ne portÃ ² la regina di Saba a Salomone .11Inoltre , la flotta di Chiram , che caricava oro in Ofir , portÃ ² da Ofir legname di sandalo in gran quantitÃ   e pietre preziose .",
+        "words": [
+          "aromi",
+          "tanti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/764a1e63-14be-513f-b0b4-771725ec4e13",
+        "value": "15Fontana che irrora i giardini , pozzo d ' acque vive e ruscelli sgorganti dal Libano .16LÃ ¨ vati , aquilone , e tu , austro , vieni , soffia nel mio giardino si effondano i suoi aromi .Venga il mio diletto nel suo giardino e ne mangi i frutti squisiti .",
+        "words": [
+          "aromi",
+          "tu",
+          "aquilone",
+          "nel mio giardino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/77fbd793-e159-5ed7-8f44-1ef94682d366",
+        "value": "11Faremo per te pendenti d ' oro , con grani d ' argento .12Mentre il re Ã ¨ nel suo recinto , il mio nardo spande il suo profumo .13Il mio diletto Ã ¨ per me un sacchetto di mirra , riposa sul mio petto .",
+        "words": [
+          "profumo",
+          "suo",
+          "nel suo recinto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/79239408-313d-5858-9a3c-f1dc6db2847f",
+        "value": "27Poi mise tutte queste cose sulle mani di Aronne e sulle mani dei suoi figli e le agitÃ ² con l ' agitazione rituale davanti al Signore .28MosÃ ¨ quindi le prese dalle loro mani e le bruciÃ ² sull ' altare sopra l ' olocausto : sacrificio di investitura , di soave odore , sacrificio consumato dal fuoco in onore del Signore .29Poi MosÃ ¨ prese il petto dell ' ariete e lo agitÃ ² come offerta da agitare ritualmente davanti al Signore ; questa fu la parte dell ' ariete dell ' investitura toccata a MosÃ ¨ , come il Signore gli aveva ordinato .",
+        "words": [
+          "soave",
+          "odore",
+          "altare sopra l ' olocausto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7964b550-301c-55cf-826f-0f57953bbbb0",
+        "value": "Egli entrÃ ² nella casa del fariseo e si mise a tavola .37Ed ecco una donna , una peccatrice di quella cittÃ   , saputo che si trovava nella casa del fariseo , venne con un vasetto di olio profumato ; 38e fermatasi dietro si rannicchiÃ ² piangendo ai piedi di lui e cominciÃ ² a bagnarli di lacrime , poi li asciugava con i suoi capelli , li baciava e li cospargeva di olio profumato .39A quella vista il fariseo che l ' aveva invitato pensÃ ² tra sÃ © .",
+        "words": [
+          "olio",
+          "profumato",
+          "una donna",
+          "un vasetto",
+          "nella casa del fariseo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/79dea54c-b8f0-57c2-8479-2fa6fd28cbc4",
+        "value": "7La libazione sarÃ   di un quarto di hin per il primo agnello ; farai nel santuario la libazione , bevanda inebriante per il Signore .8L ' altro agnello l ' offrirai al tramonto , con una oblazione e una libazione simili a quelle della mattina : Ã ¨ un sacrificio fatto con il fuoco , soave profumo per il Signore .9Nel giorno di sabato offrirete due agnelli dell ' anno , senza difetti ; come oblazione due decimi di fior di farina intrisa in olio , con la sua libazione .",
+        "words": [
+          "soave",
+          "profumo",
+          "il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7a35e056-bea4-545a-8ada-047015d0e699",
+        "value": "12Lo taglierÃ   a pezzi , con la testa e il grasso , e il sacerdote li disporrÃ   sulla legna , collocata sul fuoco dell ' altare .13LaverÃ   con acqua le interiora e le zampe ; poi il sacerdote offrirÃ   il tutto e lo brucerÃ   sull ' altare : olocausto , sacrificio consumato dal fuoco , profumo soave per il Signore .14Se la sua offerta al Signore Ã ¨ un olocausto di uccelli , offrirÃ   tortore o colombi .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7a6a1158-d16e-5fe0-94de-fcbc74f758fa",
+        "value": "12Il quindici del settimo mese terrete una sacra adunanza ; non farete alcun lavoro servile e celebrerete una festa per il Signore per sette giorni .13Offrirete in olocausto , come sacrificio consumato dal fuoco , soave profumo per il Signore , tredici giovenchi , due arieti , quattordici agnelli dell ' anno senza difetti ; 14come oblazione , fior di farina intrisa in olio : tre decimi per ciascuno dei tredici giovenchi , due decimi per ciascuno dei due arieti , 15un decimo per ciascuno dei quattordici agnelli 16e un capro in sacrificio espiatorio , oltre l ' olocausto perenne , con la sua oblazione e la sua libazione .17Il secondo giorno offrirete dodici giovenchi , due arieti , quattordici agnelli dell ' anno senza difetti , 18con le loro oblazioni e le libazioni per i giovenchi , gli arieti e gli agnelli secondo il numero e il rito 19e un capro in sacrificio espiatorio , oltre l ' olocausto perenne , la sua oblazione e le loro libazioni .",
+        "words": [
+          "soave",
+          "profumo",
+          "per il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7cae527a-9050-5334-a2d4-b1abe99ce034",
+        "value": "5La nostra esistenza Ã ¨ il passare di un ' ombra e non c ' Ã ¨ ritorno alla nostra morte , poichÃ © il sigillo Ã ¨ posto e nessuno torna indietro .6Su , godiamoci i beni presenti , facciamo uso delle creature con ardore giovanile ! 7Inebriamoci di vino squisito e di profumi , non lasciamoci sfuggire il fiore della primavera , 8coroniamoci di boccioli di rose prima che avvizziscano ; 9nessuno di noi manchi alla nostra intemperanza .Lasciamo dovunque i segni della nostra gioia perchÃ © questo ci spetta , questa Ã ¨ la nostra parte .",
+        "words": [
+          "profumi",
+          "di vino",
+          "non lasciamoci sfuggire il fiore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/7f2eb8db-5811-5ee5-9833-b52f14c0b43e",
+        "value": "7PoichÃ © Dio ha stabilito di spianare ogni alta montagna e le rupi secolari , di colmare le valli e spianare la terra perchÃ © Israele proceda sicuro sotto la gloria di Dio .8Anche le selve e ogni albero odoroso faranno ombra ad Israele per comando di Dio .9PerchÃ © Dio ricondurrÃ   Israele con gioia alla luce della sua gloria , con la misericordia e la giustizia che vengono da lui .",
+        "words": [
+          "odoroso",
+          "albero"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/804873a7-517f-5def-96fb-203dded9ee2a",
+        "value": "13Lo afferra , lo bacia e con sfacciataggine gli dice : 14 \" Dovevo offrire sacrifici di comunione ; oggi ho sciolto i miei voti ; 15per questo sono uscita incontro a te per cercarti e ti ho trovato .16Ho messo coperte soffici sul mio letto , tela fine d ' Egitto ; 17ho profumato il mio giaciglio di mirra , di aloÃ ¨ e di cinnamÃ ² mo .18Vieni , inebriamoci d ' amore fino al mattino , godiamoci insieme amorosi piaceri , 19poichÃ © mio marito non Ã ¨ in casa , Ã ¨ partito per un lungo viaggio , 20ha portato con sÃ © il sacchetto del denaro , tornerÃ   a casa il giorno del plenilunio \" .",
+        "words": [
+          "profumato",
+          "di mirra",
+          "il mio giaciglio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/8077596a-7b6e-5dc0-9b88-27498b161eb6",
+        "value": "23Offrirete questi sacrifici oltre l ' olocausto della mattina , che Ã ¨ un olocausto perenne .24Li offrirete ogni giorno , per sette giorni ; Ã ¨ un alimento sacrificale consumato dal fuoco , soave profumo per il Signore .Lo si offrirÃ   oltre l ' olocausto perenne con la sua libazione .",
+        "words": [
+          "soave",
+          "profumo",
+          "il Signore",
+          "un alimento sacrificale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/8321c7dc-6fbf-511b-8672-e2a2d8f2e3ba",
+        "value": "3Maria allora , presa una libbra di olio profumato di vero nardo , assai prezioso , cosparse i piedi di GesÃ ¹ e li asciugÃ ² con i suoi capelli , e tutta la casa si riempÃ ¬ del profumo dell ' unguento .4Allora Giuda Iscariota , uno dei suoi discepoli , che doveva poi tradirlo , disse : 5 \" PerchÃ © quest ' olio profumato non si Ã ¨ venduto per trecento denari per poi darli ai poveri ? \" .6Questo egli disse non perchÃ © gl ' importasse dei poveri , ma perchÃ © era ladro e , siccome teneva la cassa , prendeva quello che vi mettevano dentro .",
+        "words": [
+          "profumato",
+          "quest ' olio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/835d3ae2-cbc3-5e95-a9b0-1c8dff404313",
+        "value": "37Non farete per vostro uso alcun profumo di composizione simile a quello che devi fare : lo riterrai una cosa santa in onore del Signore .38Chi ne farÃ   di simile per sentirne il profumo sarÃ   eliminato dal suo popolo \" .1Il Signore parlÃ ² a MosÃ ¨ e gli disse : 2 \" Vedi , ho chiamato per nome Bezaleel , figlio di Uri , figlio di Cur , della tribÃ ¹ di Giuda .",
+        "words": [
+          "profumo",
+          "eliminato dal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/83c6b444-f584-5c7a-9dbb-b15f6aaa1fec",
+        "value": "16Quanto al riscatto , li farai riscattare dall ' etÃ   di un mese , secondo la stima di cinque sicli d ' argento , in base al siclo del santuario , che Ã ¨ di venti ghera .17Ma non farai riscattare il primo nato della vacca , nÃ © il primo nato della pecora , nÃ © il primo nato della capra ; sono cosa sacra ; verserai il loro sangue sull ' altare e brucerai le loro parti grasse come sacrificio consumato dal fuoco , soave profumo per il Signore .18La loro carne sarÃ   tua ; sarÃ   tua come il petto dell ' offerta che si fa con la agitazione rituale e come la coscia destra .",
+        "words": [
+          "soave",
+          "profumo",
+          "per il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/87636b77-c68b-5f03-aed3-d8b31a7fb96d",
+        "value": "9I re della terra che si sono prostituiti e han vissuto nel fasto con essa piangeranno e si lamenteranno a causa di lei , quando vedranno il fumo del suo incendio , 10tenendosi a distanza per paura dei suoi tormenti e diranno : \" Guai , guai , immensa cittÃ   , Babilonia , possente cittÃ   ; in un ' ora sola Ã ¨ giunta la tua condanna ! \" .11Anche i mercanti della terra piangono e gemono su di lei , perchÃ © nessuno compera piÃ ¹ le loro merci : 12carichi d ' oro , d ' argento e di pietre preziose , di perle , di lino , di porpora , di seta e di scarlatto ; legni profumati di ogni specie , oggetti d ' avorio , di legno , di bronzo , di ferro , di marmo ; 13cinnamÃ ² mo , amÃ ² mo , profumi , unguento , incenso , vino , olio , fior di farina , frumento , bestiame , greggi , cavalli , cocchi , schiavi e vite umane .14 \" I frutti che ti piacevano tanto , tutto quel lusso e quello splendore sono perduti per te , mai piÃ ¹ potranno trovarli \" .",
+        "words": [
+          "profumati",
+          "legni",
+          "incenso",
+          "profumi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/88e2404e-03fd-5503-9e9d-aca09770c931",
+        "value": "11Al principio dei vostri mesi offrirete come olocausto al Signore due giovenchi , un ariete , sette agnelli dell ' anno , senza difetti 12e tre decimi di fior di farina intrisa in olio , come oblazione per ciascun giovenco ; due decimi di fior di farina intrisa in olio , come oblazione per l ' ariete , 13e un decimo di fior di farina intrisa in olio , come oblazione per ogni agnello .Ã  un olocausto di soave profumo , un sacrificio consumato dal fuoco per il Signore .14Le libazioni saranno di un mezzo hin di vino per giovenco , di un terzo di hin per l ' ariete e di un quarto di hin per agnello .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/88ede7f0-47bc-56c7-90b1-1d1e9b43d0a0",
+        "value": "4Quando MosÃ ¨ ebbe udito questo , si prostrÃ ² con la faccia a terra ; 5poi disse a Core e a tutta la gente che era con lui : \" Domani mattina il Signore farÃ   conoscere chi Ã ¨ suo e chi Ã ¨ santo e se lo farÃ   avvicinare : farÃ   avvicinare a sÃ © colui che egli avrÃ   scelto .6Fate questo : prendete gli incensieri tu e tutta la gente che Ã ¨ con te ; 7domani vi metterete il fuoco e porrete profumo aromatico davanti al Signore ; colui che il Signore avrÃ   scelto sarÃ   santo .Basta , figli di Levi ! \" .",
+        "words": [
+          "aromatico",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/897b6c1a-5230-5b18-9464-b8ed4d51ea22",
+        "value": "6Ora la nostra vita inaridisce ; non c ' Ã ¨ piÃ ¹ nulla , i nostri occhi non vedono altro che questa manna \" .7Ora la manna era simile al seme del coriandolo e aveva l ' aspetto della resina odorosa .8Il popolo andava attorno a raccoglierla ; poi la riduceva in farina con la macina o la pestava nel mortaio , la faceva cuocere nelle pentole o ne faceva focacce ; aveva il sapore di pasta all ' olio .",
+        "words": [
+          "odorosa",
+          "resina",
+          "la manna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/8a27b557-d80c-5342-878a-0b9907473dc3",
+        "value": "12Quando riceveva le parti delle vittime dalle mani dei sacerdoti , mentre stava presso il braciere dell ' altare , circondato dalla corona dei fratelli come fronde di cedri nel Libano , e lo circondavano come fusti di palme , 13mentre tutti i figli di Aronne nella loro gloria , con le offerte del Signore nelle mani , stavano davanti a tutta l ' assemblea di Israele , 14egli compiva il rito liturgico sugli altari , preparando l ' offerta all ' Altissimo onnipotente .15Egli stendeva la mano sulla coppa e versava succo di uva , lo spargeva alle basi dell ' altare come profumo soave all ' Altissimo , re di tutte le cose .16Allora i figli di Aronne alzavano la voce , suonavano le trombe di metallo lavorato e facevano udire un suono potente come richiamo davanti all ' Altissimo .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/8c2a4139-a447-54b8-acc8-eea4e241460c",
+        "value": "27Il Signore vi disperderÃ   fra i popoli e non resterete piÃ ¹ di un piccolo numero fra le nazioni dove il Signore vi condurrÃ   .28LÃ   servirete a dÃ ¨ i fatti da mano d ' uomo , dÃ ¨ i di legno e di pietra , i quali non vedono , non mangiano , non odorano .29Ma di lÃ   cercherai il Signore tuo Dio e lo troverai , se lo cercherai con tutto il cuore e con tutta l ' anima .",
+        "words": [
+          "odorano",
+          "di pietra",
+          "di legno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/8dd5be9f-9e81-5390-9f49-ce21fb58637f",
+        "value": "I figli di Aronne la offriranno al Signore , dinanzi all ' altare .8Il sacerdote preleverÃ   una manciata di fior di farina con il suo olio e con tutto l ' incenso che Ã ¨ sopra l ' offerta e brucerÃ   ogni cosa sull ' altare con soave profumo in ricordo del Signore .9Aronne e i suoi figli mangeranno quel che rimarrÃ   dell ' oblazione ; lo si mangerÃ   senza lievito , in luogo santo , nel recinto della tenda del convegno .",
+        "words": [
+          "soave",
+          "profumo",
+          "sull ' altare"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/90c1dae6-c211-50f6-b3ce-258ca2703b51",
+        "value": "12I suoi occhi , come colombe su ruscelli di acqua ; i suoi denti bagnati nel latte , posti in un castone .13Le sue guance , come aiuole di balsamo , aiuole di erbe profumate ; le sue labbra sono gigli , che stillano fluida mirra .14Le sue mani sono anelli d ' oro , incastonati di gemme di Tarsis .",
+        "words": [
+          "profumate",
+          "erbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/92d8a702-a5cd-59a7-815d-0a6c1e9e9a4c",
+        "value": "22MosÃ ¨ fece come il Signore gli aveva ordinato ; prese GiosuÃ ¨ e lo fece comparire davanti al sacerdote Eleazaro e davanti a tutta la comunitÃ   ; 23pose su di lui le mani e gli diede i suoi ordini come il Signore aveva comandato per mezzo di MosÃ ¨ .1Il Signore disse a MosÃ ¨ : 2 \" Da ' quest ' ordine agli Israeliti e di ' loro : Avrete cura di presentarmi al tempo stabilito l ' offerta , l ' alimento dei miei sacrifici da consumare con il fuoco , soave profumo per me .3Dirai loro : Questo Ã ¨ il sacrificio consumato dal fuoco che offrirete al Signore ; agnelli dell ' anno , senza difetti , due al giorno , come olocausto perenne .",
+        "words": [
+          "soave",
+          "profumo",
+          "me"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/938b44b6-e769-56da-aab5-89d51c3701ac",
+        "value": "32Il settimo giorno offrirete sette giovenchi , due arieti , quattordici agnelli dell ' anno senza difetti , 33con le loro oblazioni e le loro libazioni per i giovenchi , gli arieti e gli agnelli secondo il loro numero e il rito 34e un capro , in sacrificio espiatorio , oltre l ' olocausto perenne , la sua oblazione e la sua libazione .35L ' ottavo giorno terrete una solenne adunanza ; non farete alcun lavoro servile ; 36offrirete in olocausto , come sacrificio consumato dal fuoco , soave profumo per il Signore , un giovenco , un ariete , sette agnelli dell ' anno senza difetti , 37con le loro oblazioni e le loro libazioni , per il giovenco , l ' ariete e gli agnelli secondo il loro numero e il rito 38e un capro in sacrificio espiatorio oltre l ' olocausto perenne , la sua oblazione e la sua libazione .39Questi sono i sacrifici che offrirete al Signore nelle vostre solennitÃ   , oltre i vostri voti e le vostre offerte volontarie , si tratti dei vostri olocausti o delle vostre oblazioni o delle vostre libazioni o dei vostri sacrifici di comunione \" .",
+        "words": [
+          "soave",
+          "profumo",
+          "un giovenco",
+          "in olocausto",
+          "per il Signore",
+          "oblazioni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/947399a9-ebe1-5fff-8866-295fc459bfd0",
+        "value": "17Con i tuoi splendidi gioielli d ' oro e d ' argento , che io ti avevo dati , facesti immagini umane e te ne servisti per peccare ; 18poi tu le adornasti con le tue vesti ricamate e davanti a quelle immagini presentasti il mio olio e i miei profumi .19Il pane che io ti avevo dato , il fior di farina , l ' olio e il miele di cui ti nutrivo ponesti davanti ad esse come offerta di soave odore .Oracolo del Signore Dio .",
+        "words": [
+          "soave",
+          "l ' olio",
+          "odore",
+          "il fior di farina",
+          "il miele"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/94d4902a-0a04-51a3-b7bf-ce8838ae49f4",
+        "value": "12Quando farete il rito di agitazione del covone , offrirete un agnello di un anno , senza difetto , in olocausto al Signore .13L ' oblazione che l ' accompagna sarÃ   di due decimi di efa di fior di farina intrisa nell ' olio , come sacrificio consumato dal fuoco , profumo soave in onore del Signore ; la libazione sarÃ   di un quarto di hin di vino .14Non mangerete pane , nÃ © grano abbrustolito , nÃ © spighe fresche , prima di quel giorno , prima di aver portato l ' offerta al vostro Dio .",
+        "words": [
+          "soave",
+          "profumo",
+          "in onore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/96457093-c742-5c7c-8491-eee24e06c4cb",
+        "value": "2Offrirete in olocausto di soave odore al Signore un giovenco , un ariete , sette agnelli dell ' anno senza difetti ; 3in oblazione , fior di farina intrisa in olio : tre decimi per il giovenco , due decimi per l ' ariete , 4un decimo per ciascuno dei sette agnelli 5e un capro , in sacrificio espiatorio , per il rito espiatorio per voi ; 6oltre l ' olocausto del mese con la sua oblazione e l ' olocausto perenne con la sua oblazione e le loro libazioni , secondo il loro rito .SarÃ   un sacrificio consumato dal fuoco , soave profumo per il Signore .7Il decimo giorno di questo settimo mese terrete una sacra adunanza e vi mortificherete ; non farete alcun lavoro 8e offrirete in olocausto di soave profumo al Signore un giovenco , un ariete , sette agnelli dell ' anno senza difetti ; 9come oblazione , fior di farina intrisa in olio : tre decimi per il giovenco , due decimi per l ' ariete , 10un decimo per ciascuno dei sette agnelli 11e un capro in sacrificio espiatorio , oltre il sacrificio espiatorio proprio del rito dell ' espiazione e oltre l ' olocausto perenne con la sua oblazione e le loro libazioni .",
+        "words": [
+          "soave",
+          "profumo",
+          "per il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/967ed55d-ef9c-5aee-9af9-34d9f68da94d",
+        "value": "1Era allora malato un certo Lazzaro di BetÃ   nia , il villaggio di Maria e di Marta sua sorella .2Maria era quella che aveva cosparso di olio profumato il Signore e gli aveva asciugato i piedi con i suoi capelli ; suo fratello Lazzaro era malato .3Le sorelle mandarono dunque a dirgli : \" Signore , ecco , il tuo amico Ã ¨ malato \" .",
+        "words": [
+          "profumato",
+          "il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9905d904-9879-5ae7-95ff-2cef2c3dbc84",
+        "value": "Mentre stava a mensa , giunse una donna con un vasetto di alabastro , pieno di olio profumato di nardo genuino di gran valore ; ruppe il vasetto di alabastro e versÃ ² l ' unguento sul suo capo .4Ci furono alcuni che si sdegnarono fra di loro : \" PerchÃ © tutto questo spreco di olio profumato ? 5Si poteva benissimo vendere quest ' olio a piÃ ¹ di trecento denari e darli ai poveri ! \" .Ed erano infuriati contro di lei .",
+        "words": [
+          "olio",
+          "profumato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9910f213-30bd-551b-8204-71641f967009",
+        "value": "12Giunto pertanto a TrÃ ² ade per annunziare il vangelo di Cristo , sebbene la porta mi fosse aperta nel Signore , 13non ebbi pace nello spirito perchÃ © non vi trovai Tito , mio fratello ; perciÃ ² , congedatomi da loro , partii per la Macedonia .14Siano rese grazie a Dio , il quale ci fa partecipare al suo trionfo in Cristo e diffonde per mezzo nostro il profumo della sua conoscenza nel mondo intero ! 15Noi siamo infatti dinanzi a Dio il profumo di Cristo fra quelli che si salvano e fra quelli che si perdono ; 16per gli uni odore di morte per la morte e per gli altri odore di vita per la vita .E chi Ã ¨ mai all ' altezza di questi compiti ? 17Noi non siamo infatti come quei molti che mercanteggiano la parola di Dio , ma con sinceritÃ   e come mossi da Dio , sotto il suo sguardo , noi parliamo in Cristo .",
+        "words": [
+          "odore",
+          "profumo",
+          "di morte",
+          "di vita",
+          "di Cristo",
+          "della sua conoscenza",
+          "Dio",
+          "nel mondo intero",
+          "per la morte",
+          "per la vita"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9a38bfd6-2f9b-5542-a76d-441b5481fd09",
+        "value": "7Quanto sei bella e quanto sei graziosa , o amore , figlia di delizie ! 8La tua statura rassomiglia a una palma e i tuoi seni ai grappoli .9Ho detto : \" SalirÃ ² sulla palma , coglierÃ ² i grappoli di datteri ; mi siano i tuoi seni come grappoli d ' uva e il profumo del tuo respiro come di pomi \" .10 \" Il tuo palato Ã ¨ come vino squisito , che scorre dritto verso il mio diletto e fluisce sulle labbra e sui denti ! 11Io sono per il mio diletto e la sua brama Ã ¨ verso di me .",
+        "words": [
+          "profumo",
+          "del",
+          "tuo",
+          "tuo respiro",
+          "del tuo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9a4375ea-eb4f-5e73-a3fb-6ae2f00bfa1a",
+        "value": "Sacerdoti e profeti barcollano per la bevanda inebriante , affogano nel vino ; vanno fuori strada per le bevande inebrianti , s ' ingannano mentre hanno visioni , dondolano quando fanno da giudici .8Tutte le tavole sono piene di fetido vomito ; non c ' Ã ¨ un posto pulito .9 \" A chi vuole insegnare la scienza ? A chi vuole spiegare il discorso ? Ai bambini divezzati , appena staccati dal seno ? 10SÃ ¬ : precetto su precetto , precetto su precetto , norma su norma , norma su norma , un po ' qui , un po ' lÃ   \" .",
+        "words": "fetido"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9c95c990-56e9-5317-ab36-fabfff47ba7f",
+        "value": "5Io vi scongiuro , figlie di Gerusalemme , per le gazzelle e per le cerve dei campi : non destate , non scuotete dal sonno l ' amata finchÃ © essa non lo voglia .6Che cos ' Ã ¨ che sale dal deserto come una colonna di fumo , esalando profumo di mirra e d ' incenso e d ' ogni polvere aromatica ? 7Ecco , la lettiga di Salomone : sessanta prodi le stanno intorno , tra i piÃ ¹ valorosi d ' Israele .8Tutti sanno maneggiare la spada , sono esperti nella guerra ; ognuno porta la spada al fianco contro i pericoli della notte .",
+        "words": [
+          "aromatica",
+          "di mirra",
+          "d ' incenso",
+          "esalando profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9dc8967d-65fe-544d-8c38-9dc08638a95f",
+        "value": "Questo Ã ¨ l ' incarico dei figli di Keat nella tenda del convegno .16Eleazaro , figlio del sacerdote Aronne , avrÃ   la sorveglianza dell ' olio per il candelabro , del profumo aromatico dell ' offerta perenne e dell ' olio dell ' unzione e la sorveglianza di tutta la Dimora e di quanto contiene , del santuario e dei suoi arredi \" .17Il Signore parlÃ ² a MosÃ ¨ e ad Aronne : 18 \" Badate che la tribÃ ¹ delle famiglie dei Keatiti non venga eliminata dai leviti ; 19ma fate questo per loro , perchÃ © vivano e non muoiano quando si accostano al luogo santissimo : Aronne e i suoi figli vengano e assegnino a ciascuno di essi il proprio servizio e il proprio incarico .",
+        "words": [
+          "aromatico",
+          "profumo",
+          "dell ' offerta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/9fc9cda1-55f0-576d-a6c8-deb64c5024ff",
+        "value": "27Gli si avvicinÃ ² e lo baciÃ ² .Isacco aspirÃ ² l ' odore degli abiti di lui e lo benedisse : \" Ecco l ' odore del mio figlio come l ' odore di un campo che il Signore ha benedetto .28 Dio ti conceda rugiada del cielo e terre grasse e abbondanza di frumento e di mosto .",
+        "words": [
+          "odore",
+          "degli abiti di lui",
+          "del mio figlio",
+          "di un campo",
+          "Isacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/a3bff146-95e8-540f-9678-2a1d579b2df5",
+        "value": "Lontano da me hai scoperto il tuo giaciglio , vi sei salita , lo hai allargato ; hai patteggiato con coloro con i quali amavi trescare ; guardavi la mano .9Ti sei presentata al re con olio , hai moltiplicato i tuoi profumi ; hai inviato lontano i tuoi messaggeri , ti sei abbassata fino agli inferi .10Ti sei stancata in tante tue vie , ma non hai detto : \" Ã  inutile \" .",
+        "words": [
+          "profumi",
+          "tuoi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/a52fb81a-386c-5566-a66e-18ec66665847",
+        "value": "27Ezechia ebbe ricchezze e gloria in abbondanza .Egli si costruÃ ¬ depositi per l ' argento , l ' oro , le pietre preziose , gli aromi , gli scudi e per qualsiasi cosa pregevole , 28magazzini per i prodotti del grano , del mosto e dell ' olio , stalle per ogni genere di bestiame , ovili per le pecore .29Si edificÃ ² cittÃ   ; ebbe molto bestiame minuto e grosso , perchÃ © Dio gli aveva concesso beni molto grandi .",
+        "words": "aromi"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/a563304c-ddb7-59fc-8733-9b55efc582cc",
+        "value": "2Mi baci con i baci della sua bocca ! SÃ ¬ , le tue tenerezze sono piÃ ¹ dolci del vino .3Per la fragranza sono inebrianti i tuoi profumi , profumo olezzante Ã ¨ il tuo nome , per questo le giovinette ti amano .4Attirami dietro a te , corriamo ! M ' introduca il re nelle sue stanze : gioiremo e ci rallegreremo per te , ricorderemo le tue tenerezze piÃ ¹ del vino .",
+        "words": [
+          "olezzante",
+          "profumo",
+          "profumi",
+          "fragranza"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/a740deac-3b4c-54d3-807c-b1f66e1c4361",
+        "value": "11Allora finalmente , malconcio a quel modo , incominciÃ ² ad abbassare il colmo della sua superbia e ad avviarsi al ravvedimento per effetto del divino flagello , mentre ad ogni istante era lacerato dai dolori .12Non potendo piÃ ¹ sopportare il suo proprio fetore , disse : \" Ã  giusto sottomettersi a Dio e non pensare di essere uguale a Dio quando si Ã ¨ mortali ! \" .13Quell ' empio si mise a pregare quel Signore che ormai non avrebbe piÃ ¹ avuto misericordia di lui , e diceva 14che avrebbe dichiarato libera la cittÃ   santa , che prima si affrettava a raggiungere per raderla al suolo e farne un cimitero ; 15che avrebbe reso pari agli Ateniesi tutti i Giudei che prima aveva stabilito di non degnare neppure della sepoltura , ma di gettare in pasto alle fiere insieme con i loro bambini ; 16che avrebbe adornato con magnifici doni votivi il sacro tempio , che prima aveva saccheggiato , e avrebbe restituito in maggior numero tutti gli arredi sacri e avrebbe provveduto con le proprie entrate ai contributi fissati per i sacrifici ; 17inoltre che si sarebbe fatto Giudeo e si sarebbe recato in ogni luogo abitato per annunciare la potenza di Dio .",
+        "words": [
+          "proprio",
+          "fetore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/a840332a-1d15-532e-adf9-545c2e498a2f",
+        "value": "Di Davide .Ecco quanto Ã ¨ buono e quanto Ã ¨ soave che i fratelli vivano insieme ! 2Ã  come olio profumato sul capo , che scende sulla barba , sulla barba di Aronne , che scende sull ' orlo della sua veste .3Ã  come rugiada dell ' Ermon , che scende sui monti di Sion .",
+        "words": [
+          "olio",
+          "profumato",
+          "che i fratelli vivano insieme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/a9e1ff20-1e4a-53a0-b701-48c2d5f13743",
+        "value": "29Alcuni erano incaricati degli arredi , di tutti gli oggetti del santuario , della farina , del vino , dell ' olio e degli aromi .30Alcuni figli dei sacerdoti preparavano le sostanze aromatiche per i profumi .31Il levita Mattatia , primogenito di SallÃ ¹ m il Korachita , per la sua fedeltÃ   era incaricato di ciÃ ² che si preparava nei tegami .",
+        "words": [
+          "aromatiche",
+          "le sostanze",
+          "profumi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/aaaf3b63-6f14-5bcb-99db-b6198d530e4a",
+        "value": "28Fece le stanghe di legno di acacia e le rivestÃ ¬ d ' oro .29PreparÃ ² l ' olio dell ' unzione sacra e il profumo aromatico da bruciare , puro , secondo l ' arte del profumiere .1Fece l ' altare di legno di acacia : aveva cinque cubiti di lunghezza e cinque cubiti di larghezza , era cioÃ ¨ quadrato , e aveva l ' altezza di tre cubiti .",
+        "words": [
+          "aromatico",
+          "profumo",
+          "profumiere"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/abf476d1-4e28-5e29-9c30-7c8bf74f07d5",
+        "value": "20Allora NoÃ ¨ edificÃ ² un altare al Signore ; prese ogni sorta di animali mondi e di uccelli mondi e offrÃ ¬ olocausti sull ' altare .21Il Signore ne odorÃ ² la soave fragranza e pensÃ ² : \" Non maledirÃ ² piÃ ¹ il suolo a causa dell ' uomo , perchÃ © l ' istinto del cuore umano Ã ¨ incline al male fin dalla adolescenza ; nÃ © colpirÃ ² piÃ ¹ ogni essere vivente come ho fatto .22 FinchÃ © durerÃ   la terra , seme e messe , freddo e caldo , estate e inverno , giorno e notte non cesseranno \" .",
+        "words": [
+          "soave",
+          "fragranza",
+          "Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/ae99e8d8-e08c-5e0d-a910-6367a8efaa8b",
+        "value": "Quanti hanno cuore generoso , portino questo contributo volontario per il Signore : oro , argento e rame , 6tessuti di porpora viola e rossa , di scarlatto , di bisso e di pelo di capra , 7pelli di montone tinte di rosso , pelli di tasso e legno di acacia , 8olio per l ' illuminazione , balsami per unguenti e per l ' incenso aromatico , 9pietre di Ã ² nice e pietre da incastonare nell ' efod e nel pettorale .10Tutti gli artisti che sono tra di voi vengano ed eseguiscano quanto il Signore ha comandato : 11la Dimora , la sua tenda , la sua copertura , le sue fibbie , le sue assi , le sue traverse , le sue colonne e le sue basi , 12l ' arca e le sue stanghe , il coperchio e il velo che lo nasconde , 13la tavola con le sue stanghe e tutti i suoi accessori e i pani dell ' offerta , 14il candelabro per illuminare con i suoi accessori , le sue lampade e l ' olio per l ' illuminazione , 15l ' altare dei profumi con le sue stanghe , l ' olio dell ' unzione e il profumo aromatico , la cortina d ' ingresso alla porta della Dimora , 16l ' altare degli olocausti con la sua graticola , le sue sbarre e tutti i suoi accessori , la conca con il suo piedestallo , 17i tendaggi del recinto , le sue colonne e le sue basi e la cortina alla porta del recinto , 18i picchetti della Dimora , i picchetti del recinto e le loro corde , 19le vesti liturgiche per officiare nel santuario , le vesti sacre per il sacerdote Aronne e le vesti dei suoi figli per esercitare il sacerdozio \" .20Allora tutta la comunitÃ   degli Israeliti si ritirÃ ² dalla presenza di MosÃ ¨ .",
+        "words": [
+          "aromatico",
+          "profumo",
+          "profumi",
+          "con le sue stanghe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/b3e997fe-e665-58dc-9b8c-bc76da07df8f",
+        "value": "4MosÃ ¨ disse a tutta la comunitÃ   degli Israeliti : \" Questo il Signore ha comandato : 5Prelevate su quanto possedete un contributo per il Signore .Quanti hanno cuore generoso , portino questo contributo volontario per il Signore : oro , argento e rame , 6tessuti di porpora viola e rossa , di scarlatto , di bisso e di pelo di capra , 7pelli di montone tinte di rosso , pelli di tasso e legno di acacia , 8olio per l ' illuminazione , balsami per unguenti e per l ' incenso aromatico , 9pietre di Ã ² nice e pietre da incastonare nell ' efod e nel pettorale .10Tutti gli artisti che sono tra di voi vengano ed eseguiscano quanto il Signore ha comandato : 11la Dimora , la sua tenda , la sua copertura , le sue fibbie , le sue assi , le sue traverse , le sue colonne e le sue basi , 12l ' arca e le sue stanghe , il coperchio e il velo che lo nasconde , 13la tavola con le sue stanghe e tutti i suoi accessori e i pani dell ' offerta , 14il candelabro per illuminare con i suoi accessori , le sue lampade e l ' olio per l ' illuminazione , 15l ' altare dei profumi con le sue stanghe , l ' olio dell ' unzione e il profumo aromatico , la cortina d ' ingresso alla porta della Dimora , 16l ' altare degli olocausti con la sua graticola , le sue sbarre e tutti i suoi accessori , la conca con il suo piedestallo , 17i tendaggi del recinto , le sue colonne e le sue basi e la cortina alla porta del recinto , 18i picchetti della Dimora , i picchetti del recinto e le loro corde , 19le vesti liturgiche per officiare nel santuario , le vesti sacre per il sacerdote Aronne e le vesti dei suoi figli per esercitare il sacerdozio \" .",
+        "words": [
+          "aromatico",
+          "incenso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/b42e5483-b85f-5d6d-ba06-54ac8d119c6a",
+        "value": "14Sono cresciuta come una palma in Engaddi , come le piante di rose in Gerico , come un ulivo maestoso nella pianura ; sono cresciuta come un platano .15Come cinnamÃ ² mo e balsamo ho diffuso profumo ; come mirra scelta ho sparso buon odore ; come gÃ   lbano , Ã ² nice e storÃ   ce , come nuvola di incenso nella tenda .16Come un terebinto ho esteso i rami e i miei rami son rami di maestÃ   e di bellezza .",
+        "words": [
+          "buon",
+          "odore",
+          "profumo",
+          "come nuvola di incenso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/b73992ac-1cc5-5a21-be5f-2bfc18f67ff6",
+        "value": "5PerciÃ ² gli Israeliti , invece d ' immolare , come fanno , le loro vittime nei campi , li portino al Signore , presentandoli al sacerdote all ' ingresso della tenda del convegno , e li offrano al Signore come sacrifici di comunione .6Il sacerdote ne spanderÃ   il sangue sull ' altare del Signore , all ' ingresso della tenda del convegno , e brucerÃ   il grasso in profumo soave per il Signore .7Essi non offriranno piÃ ¹ i loro sacrifici ai satiri , ai quali sogliono prostituirsi .",
+        "words": [
+          "soave",
+          "profumo",
+          "il Signore",
+          "il grasso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/bc720569-e3b5-5b17-8e10-05ab7e0dd5e1",
+        "value": "Il giorno di sabato osservarono il riposo secondo il comandamento .1Il primo giorno dopo il sabato , di buon mattino , si recarono alla tomba , portando con sÃ © gli aromi che avevano preparato .2Trovarono la pietra rotolata via dal sepolcro ; 3ma , entrate , non trovarono il corpo del Signore GesÃ ¹ .",
+        "words": [
+          "aromi",
+          "1Il primo giorno dopo il sabato , di buon mattino",
+          "alla tomba"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/bc85d2bf-6fa6-5676-ae14-8ba1e5ae845d",
+        "value": "3GesÃ ¹ si trovava a BetÃ   nia nella casa di Simone il lebbroso .Mentre stava a mensa , giunse una donna con un vasetto di alabastro , pieno di olio profumato di nardo genuino di gran valore ; ruppe il vasetto di alabastro e versÃ ² l ' unguento sul suo capo .4Ci furono alcuni che si sdegnarono fra di loro : \" PerchÃ © tutto questo spreco di olio profumato ? 5Si poteva benissimo vendere quest ' olio a piÃ ¹ di trecento denari e darli ai poveri ! \" .",
+        "words": [
+          "olio",
+          "profumato"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/bd4ac4bd-6b14-550e-8337-06e41dc3ab41",
+        "value": "1Noemi , sua suocera , le disse : \" Figlia mia , non devo io cercarti una sistemazione , cosÃ ¬ che tu sia felice ? 2Ora , Booz , con le cui giovani tu sei stata , non Ã ¨ nostro parente ? Ecco , questa sera deve ventilare l ' orzo sull ' aia .3Su dunque , profumati , avvolgiti nel tuo manto e scendi all ' aia ; ma non ti far riconoscere da lui , prima che egli abbia finito di mangiare e di bere .4Quando andrÃ   a dormire , osserva il luogo dove egli dorme ; poi va ' , alzagli la coperta dalla parte dei piedi e mettiti lÃ ¬ a giacere ; ti dirÃ   lui ciÃ ² che dovrai fare \" .",
+        "words": [
+          "profumati",
+          "nel tuo manto"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/bfce4c9d-4193-5fe0-87c4-7e6240c4e18b",
+        "value": "24CollocÃ ² inoltre il candelabro nella tenda del convegno , di fronte alla tavola sul lato meridionale della Dimora , 25e vi preparÃ ² sopra le lampade davanti al Signore , come il Signore aveva ordinato a MosÃ ¨ .26CollocÃ ² poi l ' altare d ' oro nella tenda del convegno , davanti al velo , 27e bruciÃ ² su di esso il profumo aromatico , come il Signore aveva ordinato a MosÃ ¨ .28Mise infine la cortina all ' ingresso della Dimora .",
+        "words": [
+          "aromatico",
+          "profumo",
+          "nella tenda del convegno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/c34b91e8-4cbe-5381-b381-c815e2d91f2f",
+        "value": "40Con il primo agnello offrirai un decimo di efa di fior di farina impastata con un quarto di hin di olio vergine e una libazione di un quarto di hin di vino .41Offrirai il secondo agnello al tramonto con un ' oblazione e una libazione come quelle del mattino : profumo soave , offerta consumata dal fuoco in onore del Signore .42Questo Ã ¨ l ' olocausto perenne per le vostre generazioni , all ' ingresso della tenda del convegno , alla presenza del Signore , dove io vi darÃ ² convegno per parlare con te .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/c82fbaf8-eccc-5550-b6c2-04b63e0ac052",
+        "value": "1Se qualcuno presenterÃ   al Signore un ' oblazione , la sua offerta sarÃ   di fior di farina , sulla quale verserÃ   olio e porrÃ   incenso .2La porterÃ   ai figli di Aronne , i sacerdoti ; il sacerdote prenderÃ   da essa una manciata di fior di farina e d ' olio , con tutto l ' incenso , e lo brucerÃ   sull ' altare come memoriale : Ã ¨ un sacrificio consumato dal fuoco , profumo soave per il Signore .3Il resto dell ' offerta di oblazione sarÃ   per Aronne e per i suoi figli , cosa santissima , proveniente dai sacrifici consumati dal fuoco in onore del Signore .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/c9eefe3c-9673-5153-b460-f7821a05e50e",
+        "value": "2Ti condurrei , ti introdurrei nella casa di mia madre ; m ' insegneresti l ' arte dell ' amore .Ti farei bere vino aromatico , del succo del mio melograno .Che faremo per la nostra sorella , nel giorno in cui se ne parlerÃ   ? 9Se fosse un muro , le costruiremmo sopra un recinto d ' argento ; se fosse una porta , la rafforzeremmo con tavole di cedro .",
+        "words": [
+          "aromatico",
+          "vino"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/cba2fa77-7a2b-5930-95c5-5a0709b6631b",
+        "value": "17 ( k ) Anche la regina Ester cercÃ ² rifugio presso il Signore , presa da un ' angoscia mortale .Si tolse le vesti di lusso e indossÃ ² gli abiti di miseria e di lutto ; invece dei superbi profumi si riempÃ ¬ la testa di ceneri e di immondizie .UmiliÃ ² molto il suo corpo e con i capelli sconvolti si muoveva dove prima era abituata agli ornamenti festivi .",
+        "words": [
+          "profumi",
+          "superbi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/cdb8e325-76f5-5113-8498-1dabef57e0fd",
+        "value": "18Damasco trafficava con te per i tuoi numerosi prodotti , per i tuoi beni di ogni specie scambiando vino di ChelbÃ ² n e lana di Zacar .19VedÃ   n e IavÃ   n da UzÃ   l ti rifornivano ferro lavorato , cassia e canna aromatica in cambio dei tuoi prodotti .20Dedan trafficava con te in coperte di cavalli .",
+        "words": [
+          "aromatica",
+          "canna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/cdea63a3-f713-5353-9131-a59a8010b24a",
+        "value": "13Quanti sono nativi del paese faranno cosÃ ¬ , quando offriranno un sacrificio consumato dal fuoco , soave profumo per il Signore .14Se uno straniero che soggiorna da voi o chiunque dimorerÃ   in mezzo a voi in futuro , offrirÃ   un sacrificio con il fuoco , soave profumo per il Signore , farÃ   come fate voi .15Vi sarÃ   una sola legge per tutta la comunitÃ   , per voi e per lo straniero che soggiorna in mezzo a voi ; sarÃ   una legge perenne , di generazione in generazione ; come siete voi , cosÃ ¬ sarÃ   lo straniero davanti al Signore .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/cffedc53-af86-5a26-8338-8bb6584a62ce",
+        "value": "5Le mie iniquitÃ   hanno superato il mio capo , come carico pesante mi hanno oppresso .6Putride e fetide sono le mie piaghe a causa della mia stoltezza .7Sono curvo e accasciato , triste mi aggiro tutto il giorno .",
+        "words": "fetide"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/d67e6df0-d67d-538a-a358-0d063d4ab5c4",
+        "value": "9Tu mi hai rapito il cuore , sorella mia , sposa , tu mi hai rapito il cuore con un solo tuo sguardo , con una perla sola della tua collana ! 10Quanto sono soavi le tue carezze , sorella mia , sposa , quanto piÃ ¹ deliziose del vino le tue carezze .L ' odore dei tuoi profumi sorpassa tutti gli aromi .11Le tue labbra stillano miele vergine , o sposa , c ' Ã ¨ miele e latte sotto la tua lingua e il profumo delle tue vesti Ã ¨ come il profumo del Libano .",
+        "words": [
+          "aromi",
+          "odore",
+          "profumi",
+          "dei tuoi profumi",
+          "sorpassa tutti gli aromi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/d903a513-3458-5d21-ae92-e63925338c3c",
+        "value": "45Tu non mi hai dato un bacio , lei invece da quando sono entrato non ha cessato di baciarmi i piedi .46Tu non mi hai cosparso il capo di olio profumato , ma lei mi ha cosparso di profumo i piedi .47Per questo ti dico : le sono perdonati i suoi molti peccati , poichÃ © ha molto amato .",
+        "words": [
+          "profumato",
+          "profumo",
+          "i piedi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/dabf4418-239b-59fe-aed3-a299bfdcefb0",
+        "value": "4Non lasciare che il mio cuore si pieghi al male e compia azioni inique con i peccatori : che io non gusti i loro cibi deliziosi .5Mi percuota il giusto e il fedele mi rimproveri , ma l ' olio dell ' empio non profumi il mio capo ; tra le loro malvagitÃ   continui la mia preghiera .6Dalla rupe furono gettati i loro capi , che da me avevano udito dolci parole .",
+        "words": [
+          "profumi",
+          "l ' olio dell ' empio",
+          "il mio capo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/dd16bf4b-c770-5e96-9949-3e4cd35bde56",
+        "value": "6Se Ã ¨ per un ariete , offrirai in oblazione due decimi di efa di fior di farina con un terzo di hin di olio 7e farai una libazione di un terzo di hin di vino come offerta di odore soave in onore del Signore .8Se offri un giovenco in olocausto o in sacrificio per soddisfare un voto o in sacrificio di comunione al Signore , 9oltre il giovenco si offrirÃ   , in oblazione , tre decimi di efa di fior di farina intrisa in mezzo hin di olio 10e farai una libazione di un mezzo hin di vino ; Ã ¨ un sacrificio consumato dal fuoco , soave profumo per il Signore .11CosÃ ¬ si farÃ   per ogni bue , per ogni ariete , per ogni agnello o capretto .",
+        "words": [
+          "soave",
+          "profumo",
+          "il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/de90f72c-1f24-5000-bf26-d3c5ab4cae8a",
+        "value": "I sacerdoti , che prestano servizio al Signore , sono figli di Aronne e leviti sono gli addetti alle funzioni .11Essi offrono al Signore olocausti ogni mattina e ogni sera , il profumo fragrante , i pani dell ' offerta su una tavola monda , dispongono i candelabri d ' oro con le lampade da accendersi ogni sera , perchÃ © noi osserviamo i comandi del Signore nostro Dio , mentre voi lo avete abbandonato .12Ecco noi abbiamo , alla nostra testa , Dio con noi ; i suoi sacerdoti e le trombe squillanti stanno per suonare la carica contro di voi .",
+        "words": [
+          "profumo",
+          "fragrante",
+          "ogni mattina e ogni sera"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/e0221908-68e0-5678-a927-cacb936cafa9",
+        "value": "L ' odore dei tuoi profumi sorpassa tutti gli aromi .11Le tue labbra stillano miele vergine , o sposa , c ' Ã ¨ miele e latte sotto la tua lingua e il profumo delle tue vesti Ã ¨ come il profumo del Libano .12Giardino chiuso tu sei , sorella mia , sposa , giardino chiuso , fontana sigillata .",
+        "words": [
+          "profumo",
+          "del Libano",
+          "delle tue vesti"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/e1f633f0-bc89-578d-9feb-18a3f127b5e1",
+        "value": "7Se la tua offerta sarÃ   una oblazione cotta nella pentola , sarÃ   fatta con fior di farina nell ' olio : 8porterai al Signore l ' oblazione cosÃ ¬ preparata e la presenterai al sacerdote , che la offrirÃ   sull ' altare .9Il sacerdote preleverÃ   dall ' oblazione il memoriale e lo brucerÃ   sull ' altare : sacrificio consumato dal fuoco , profumo soave per il Signore .10Il resto dell ' oblazione sarÃ   per Aronne e per i suoi figli , cosa santissima , proveniente dai sacrifici consumati dal fuoco per il Signore .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/e35f56cc-b793-5306-8118-4fd566517aae",
+        "value": "12Il Signore aggiunse a MosÃ ¨ : 13 \" L ' offerta che Aronne e i suoi figli faranno al Signore il giorno in cui riceveranno l ' unzione Ã ¨ questa : un decimo di efa di fior di farina , come oblazione perpetua , metÃ   la mattina e metÃ   la sera .14Essa sarÃ   preparata con olio , nella teglia : la presenterai in una misura stemperata ; l ' offrirai in pezzi , come profumo soave per il Signore .15Anche il sacerdote che , tra i figli di Aronne , sarÃ   unto per succedergli , farÃ   questa offerta ; Ã ¨ una prescrizione perenne : sarÃ   bruciata tutta in onore del Signore .",
+        "words": [
+          "soave",
+          "profumo",
+          "per il Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/e6a101be-4132-5b92-a155-8850ae0402c7",
+        "value": "7I figli del sacerdote Aronne porranno il fuoco sull ' altare e metteranno la legna sul fuoco , 8poi sulla legna e sul fuoco che Ã ¨ sull ' altare disporranno i pezzi , la testa e il grasso .9LaverÃ   con acqua le interiora e le zampe ; poi il sacerdote brucerÃ   il tutto sull ' altare come olocausto , sacrificio consumato dal fuoco , profumo soave per il Signore .10Se la sua offerta Ã ¨ un olocausto di bestiame minuto , pecora o capra , egli offrirÃ   un maschio senza difetto .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/e7c3b2f6-f5a0-5b7a-bed5-260e44d37773",
+        "value": "8Come un uccello che vola lontano dal nido cosÃ ¬ Ã ¨ l ' uomo che va errando lontano dalla dimora .9Il profumo e l ' incenso allietano il cuore , la dolcezza di un amico rassicura l ' anima .10Non abbandonare il tuo amico nÃ © quello di tuo padre , non entrare nella casa di tuo fratello nel giorno della tua disgrazia .",
+        "words": [
+          "l ' incenso",
+          "profumo",
+          "allietano il cuore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/e9c3599b-0b5e-52cf-be2e-2e9457d4c3ff",
+        "value": "26Feci sÃ ¬ che si contaminassero nelle loro offerte facendo passare per il fuoco ogni loro primogenito , per atterrirli , perchÃ © riconoscessero che io sono il Signore .27Parla dunque agli Israeliti , figlio dell ' uomo , e di ' loro : Dice il Signore Dio : Ancora in questo mi offesero i vostri padri agendo con infedeltÃ   verso di me : 28dopo che io li ebbi introdotti nel paese che , levando la mia mano , avevo giurato di dare loro , essi guardarono ogni colle elevato , ogni albero verde e lÃ   fecero i sacrifici e portarono le loro offerte provocatrici : lÃ   depositarono i loro profumi soavi e versarono le loro libazioni .29Io dissi loro : Che cos ' Ã ¨ quest ' altura alla quale voi andate ? Il nome altura Ã ¨ rimasto fino ai nostri giorni .",
+        "words": [
+          "profumi",
+          "loro",
+          "soavi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/ea1de7ea-15ea-5cc9-8fd9-84e5535fa695",
+        "value": "11Mardocheo tutti i giorni passeggiava davanti al cortile della casa delle donne per sapere se Ester stava bene e che cosa succedeva di lei .12Quando veniva il turno per una fanciulla di andare dal re Assuero alla fine dei dodici mesi prescritti alle donne per i loro preparativi , sei mesi per profumarsi con olio di mirra e sei mesi con aromi e altri cosmetici usati dalle donne , 13la fanciulla andava dal re e poteva portare con sÃ © dalla casa delle donne alla reggia quanto chiedeva .14Vi andava la sera e la mattina seguente passava nella seconda casa delle donne , sotto la sorveglianza di SaasgÃ   z , eunuco del re e guardiano delle concubine .",
+        "words": [
+          "aromi",
+          "profumarsi",
+          "con olio di mirra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/eb02a455-5b7c-5e9f-a160-05e0a0d9fa7e",
+        "value": "16Poi toglierÃ   il gozzo con le sue immondezze e lo getterÃ   al lato orientale dell ' altare , dov ' Ã ¨ il luogo delle ceneri .17DividerÃ   l ' uccello in due metÃ   prendendolo per le ali , ma senza separarlo , e il sacerdote lo brucerÃ   sull ' altare , sulla legna che Ã ¨ sul fuoco , come olocausto , sacrificio consumato dal fuoco , profumo soave per il Signore .1Se qualcuno presenterÃ   al Signore un ' oblazione , la sua offerta sarÃ   di fior di farina , sulla quale verserÃ   olio e porrÃ   incenso .",
+        "words": [
+          "soave",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/eb2fd1d9-37c9-5dd9-8c79-83f845eb986a",
+        "value": "39A voi , uomini d ' Israele , cosÃ ¬ dice il Signore Dio : Andate , servite pure ognuno i vostri idoli , ma infine mi ascolterete e il mio santo nome non profanerete piÃ ¹ con le vostre offerte , con i vostri idoli ; 40poichÃ © sul mio monte santo , sull ' alto monte d ' Israele - oracolo del Signore Dio - mi servirÃ   tutta la casa d ' Israele , tutta riunita in quel paese ; lÃ   mi saranno graditi e lÃ   richiederÃ ² le vostre offerte , le primizie dei vostri doni in qualunque forma me li consacrerete .41Io vi accetterÃ ² come soave profumo , quando vi avrÃ ² liberati dai popoli e vi avrÃ ² radunati dai paesi nei quali foste dispersi : mi mostrerÃ ² santo in voi agli occhi delle genti .42Allora voi saprete che io sono il Signore , quando vi condurrÃ ² nel paese d ' Israele , nel paese che alzando la mia mano giurai di dare ai vostri padri .",
+        "words": [
+          "soave",
+          "mi",
+          "profumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/ed582f3d-119f-576a-8abe-8a62553ffa84",
+        "value": "Ã  una prescrizione rituale perenne per lui e per i suoi discendenti , in tutte le loro generazioni \" .22Il Signore parlÃ ² a MosÃ ¨ : 23 \" ProcÃ ¹ rati balsami pregiati : mirra vergine per il peso di cinquecento sicli , cinnamÃ ² mo odorifero , la metÃ   , cioÃ ¨ duecentocinquanta sicli , canna odorifera , duecentocinquanta , 24cassia , cinquecento sicli , secondo il siclo del santuario , e un hin d ' olio d ' oliva .25Ne farai l ' olio per l ' unzione sacra , un unguento composto secondo l ' arte del profumiere : sarÃ   l ' olio per l ' unzione sacra .",
+        "words": [
+          "odorifero",
+          "odorifera",
+          "mirra",
+          "canna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/edd3bda2-7a00-5e5e-8c5c-3218342273e9",
+        "value": "20Poi fece a pezzi l ' ariete e ne bruciÃ ² testa , pezzi e grasso .21Dopo averne lavato le viscere e le zampe con acqua , bruciÃ ² tutto l ' ariete sull ' altare : olocausto di soave odore , un sacrificio consumato dal fuoco in onore del Signore , come il Signore gli aveva ordinato .22Poi fece accostare il secondo ariete , l ' ariete della investitura , e Aronne e i suoi figli stesero le mani sulla testa dell ' ariete .",
+        "words": [
+          "soave",
+          "odore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/ee8201d6-3cbb-5714-88c2-c99450a4db89",
+        "value": "Gli furono dati molti profumi perchÃ © li offrisse insieme con le preghiere di tutti i santi bruciandoli sull ' altare d ' oro , posto davanti al trono .4E dalla mano dell ' angelo il fumo degli aromi salÃ ¬ davanti a Dio , insieme con le preghiere dei santi .5Poi l ' angelo prese l ' incensiere , lo riempÃ ¬ del fuoco preso dall ' altare e lo gettÃ ² sulla terra : ne seguirono scoppi di tuono , clamori , fulmini e scosse di terremoto .",
+        "words": [
+          "aromi",
+          "il fumo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/ef73b887-3b0c-5841-8ab5-f9e789166c91",
+        "value": "4Gli idoli delle genti sono argento e oro , opera delle mani dell ' uomo .5Hanno bocca e non parlano , hanno occhi e non vedono , 6hanno orecchi e non odono , hanno narici e non odorano .7Hanno mani e non palpano , hanno piedi e non camminano ; dalla gola non emettono suoni .",
+        "words": [
+          "odorano",
+          "odono"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/f3784116-269d-5aee-a95e-28f6c4ddf002",
+        "value": "20AllontanerÃ ² da voi quello che viene dal settentrione e lo spingerÃ ² verso una terra arida e desolata : spingerÃ ² la sua avanguardia verso il mare d ' oriente e la sua retroguardia verso il mare occidentale .EsalerÃ   il suo lezzo , salirÃ   il suo fetore , perchÃ © ha fatto molto male .21Non temere , terra , ma rallegrati e gioisci , poichÃ © cose grandi ha fatto il Signore .",
+        "words": [
+          "fetore",
+          "lezzo",
+          "suo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/f694aa20-2ddf-5dc0-914d-0b61528f453b",
+        "value": "2Tobia allora si ricordÃ ² delle parole di Raffaele : prese dal suo sacco il fegato e il cuore del pesce e li pose sulla brace dell ' incenso .3L ' odore del pesce respinse il demonio , che fuggÃ ¬ nelle regioni dell ' alto Egitto .Raffaele vi si recÃ ² all ' istante e in quel luogo lo incatenÃ ² e lo mise in ceppi .",
+        "words": [
+          "odore",
+          "del pesce",
+          "nelle regioni dell ' alto Egitto",
+          "respinse il demonio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/f96da384-2161-5630-a793-2237f970b18e",
+        "value": "26Il giorno delle primizie , quando presenterete al Signore una oblazione nuova , alla vostra festa delle settimane , terrete una sacra adunanza ; non farete alcun lavoro servile .27Offrirete , in olocausto di soave profumo al Signore , due giovenchi , un ariete e sette agnelli dell ' anno ; 28in oblazione , fior di farina intrisa in olio : tre decimi per ogni giovenco , due decimi per l ' ariete 29e un decimo per ciascuno dei sette agnelli ; 30offrirete un capro per il rito espiatorio per voi .31Offrirete questi sacrifici , oltre l ' olocausto perpetuo e la sua oblazione .",
+        "words": [
+          "soave",
+          "profumo",
+          "al Signore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/fad5b9b2-0ddf-55ed-a399-b4a22f53a49f",
+        "value": "13Ascoltatemi , figli santi , e crescete come una pianta di rose su un torrente .14Come incenso spandete un buon profumo , fate fiorire fiori come il giglio , spargete profumo e intonate un canto di lode ; benedite il Signore per tutte le opere sue .15Magnificate il suo nome ; proclamate le sue lodi con i vostri canti e le vostre cetre ; cosÃ ¬ direte nella vostra lode : 16 \" Quanto sono magnifiche tutte le opere del Signore ! Ogni sua disposizione avrÃ   luogo a suo tempo ! \" .",
+        "words": [
+          "buon",
+          "profumo",
+          "14Come incenso"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/fb34ceeb-004a-5dfe-942e-9159a81a72db",
+        "value": "2E qui gli fecero una cena : Marta serviva e Lazzaro era uno dei commensali .3Maria allora , presa una libbra di olio profumato di vero nardo , assai prezioso , cosparse i piedi di GesÃ ¹ e li asciugÃ ² con i suoi capelli , e tutta la casa si riempÃ ¬ del profumo dell ' unguento .4Allora Giuda Iscariota , uno dei suoi discepoli , che doveva poi tradirlo , disse : 5 \" PerchÃ © quest ' olio profumato non si Ã ¨ venduto per trecento denari per poi darli ai poveri ? \" .",
+        "words": [
+          "olio",
+          "profumato",
+          "profumo",
+          "la casa",
+          "dell ' unguento",
+          "3Maria allora"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/fd4de62f-3475-53c8-888a-4f2577968c94",
+        "value": "9Mi disse : \" Entra e osserva gli abomini malvagi che commettono costoro \" .10Io entrai e vidi ogni sorta di rettili e di animali abominevoli e tutti gli idoli del popolo d ' Israele raffigurati intorno alle pareti 11e settanta anziani della casa d ' Israele , fra i quali IazaniÃ   figlio di SafÃ   n , in piedi , davanti ad essi , ciascuno con il turibolo in mano , mentre il profumo saliva in nubi d ' incenso .12Mi disse : \" Hai visto , figlio dell ' uomo , quello che fanno gli anziani del popolo d ' Israele nelle tenebre , ciascuno nella stanza recondita del proprio idolo ? Vanno dicendo : Il Signore non ci vede .",
+        "words": [
+          "profumo",
+          "in nubi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/ff51ce4b-68ee-5f12-bb19-ba8e1dea4824",
+        "value": "6Ed ecco gli ho dato per compagno Ooliab , figlio di Achisamach , della tribÃ ¹ di Dan .Inoltre nel cuore di ogni artista ho infuso saggezza , perchÃ © possano eseguire quanto ti ho comandato : 7la tenda del convegno , l ' arca della Testimonianza , il coperchio sopra di essa e tutti gli accessori della tenda ; 8la tavola con i suoi accessori , il candelabro puro con i suoi accessori , l ' altare dei profumi 9e l ' altare degli olocausti con tutti i suoi accessori , la conca con il suo piedestallo , 10le vesti ornamentali , le vesti sacre del sacerdote Aronne e le vesti dei suoi figli per esercitare il sacerdozio ; 11l ' olio dell ' unzione e il profumo degli aromi per il santuario .Essi eseguiranno ogni cosa secondo quanto ti ho ordinato \" .",
+        "words": [
+          "profumo",
+          "profumi",
+          "degli aromi",
+          "per il santuario"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/97ab4e2b-dadd-5814-b480-97deb9fb745d",
+        "label": "Bibbia"
+      }
+    ],
+    "label": "La Sacra Bibbia",
+    "date": "1991",
+    "language": "it"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/2d580c8b-97d9-5d83-bf5e-624c72ddc4a5",
+      "label": "1991",
+      "begin": "1991",
+      "end": "1991"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7303419/",
+      "label": "East Jerusalem"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/3e168d33-0c7a-50ff-809f-fe4391afb503/fragment/0b91f161-f32f-5e9e-85f9-e7811d603d88"
+}

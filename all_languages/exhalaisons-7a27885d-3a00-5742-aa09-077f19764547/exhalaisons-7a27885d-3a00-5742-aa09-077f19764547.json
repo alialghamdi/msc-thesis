@@ -1,0 +1,280 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/7a27885d-3a00-5742-aa09-077f19764547",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "exhalaisons",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/0a86595d-7cfd-5280-9509-233ba61cf3e3",
+        "value": "Les bâtons que l ’ on porte lorsqu ’ on est forcé de sortir n ’ ont que quatre pieds , qui , avec la longueur du bras , en font six : par ce moyen , on pense n ’ avoir plus rien à craindre .Devant la première grille susdite est un baquet rempli d ’ eau , plus une boîte carrée avec des étagères , et , dans l ’ intérieur , un vase sur lequel on met du feu , pour y jeter un parfum particulier qui se compose de storax principalement .Ajoutez à cela des pinces en fer pour saisir les objets : voilà le matériel d ’ une quarantaine .",
+        "words": [
+          "parfum",
+          "particulier",
+          "boîte",
+          "storax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/100aa044-8400-5e71-afd7-f83a3d19cd28",
+        "value": "( 1 ) Je ne dirai rien sur les parfums : c ’ est un point qui a été longuement traité en diverses circonstances , surtout lors de la discussion de la fièvre jaune .Cependant , je ne puis m ’ empêcher d ’ appeler l ’ attention sur le parfum composé de storax , et sur celui de paille mouillée , et de faire envisager aux hommes spéciaux de < iuelle inutilité sont ces parfums pour protéger contre le germe de peste et le détruire , s ’ il existe véritablement .Je ne dirai rien de la fumigation au chlore , bien gue son inefficacité ait été prouvée dans la fièvre jaune , le choléra et le typhus .",
+        "words": [
+          "parfum",
+          "parfums",
+          "storax",
+          "celui",
+          "paille mouillée",
+          "hommes spéciaux",
+          "le détruire",
+          "protéger contre le"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/1db9f9be-f9ee-5922-83eb-20251c207ed7",
+        "value": "Ces canaux communiquent avec presque tous les lieux d ’ aisance .Ce qui fait qu ’ en cas de pluie , les matières étant remuées , répandent une odeur infecte .Le principal canal , formé par le lit du Mêlé , circule comme un vaste égout dans ce quartier , après avoir traversé la partie du quartier grec nommé Saint - Démétri , et s ’ êlre chargé des immondices que ce quartier , lui - méme , reçoit de la ville haute , au pied de laquelle il se trouve situé .",
+        "words": [
+          "infecte",
+          "odeur",
+          "matières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/22b6993c-77cb-5f18-8480-ef9efc964915",
+        "value": "Le phosphore employé dans la peste au troisième degré m ’ a réussi en transformant la peste en une autre maladie , de plus longues expériences peuvent venir appuyer les faits que j ’ ai déjà publiés et en démontrer l ’ utilité .Les révulsifs , ou plutôt les cautères actuels n ’ ont été employés qu ’ à la dernière extrémité , il est donc difficile de dire quel pourrait être leur efficacité , cependant je ne doute pas que si l ’ on osait les employer dans les premiers symptômes graves , on en obtiendrait les meilleurs résultats .Le hachisch , substance agissant sur le système nerveux , m ’ a donné les meilleurs résultats .",
+        "words": "révulsifs"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/39763bbb-868d-5b3a-bfc1-7cf00131ddb7",
+        "value": "Jamais on ne nettoie le rivage ; tout ce que la vague rejette , algues , poissons , animaux , insectes , tout fermente et pourrit sur le bord .Aussi , quand les vents d ’ est soufflent , on respire une odeur de marée et d ’ hydrogène sulfuré qui enveloppent toute la ville .La facilité avec laquelle l ’ argent se noircit au contact de l ’ air , révèle assez la présence de ce gaz délétère .",
+        "words": [
+          "odeur",
+          "marée",
+          "hydrogène sulfuré",
+          "la ville"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/3c9e45a7-f042-5137-a0d5-a79490c44aaf",
+        "value": "Les dalles qui les recouvrent sont bien cimentées .Cependant , quoiqu ’ on enterre à peine un mort chaque mois , j ’ ai senti autour de moi une odeur cadavéreuse insupportable .Je laisse à penser ce que ce doit être en temps d ’ épidémie , où l ’ on enterre , en quelques mois , plusieurs centaines de cadavres ! Que cela ne donne pas la peste comme tout le monde l ’ assure , à la bonne heure ! Mais , du moins , on ne pourra nier l ’ insalubrité de ces cimetières , ni que cette infection ne doive engendrer de graves maladies .",
+        "words": [
+          "odeur",
+          "j",
+          "chaque mois",
+          "cadavéreuse insupportable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/48f8df01-cee2-5684-8b81-ada6164e3d5a",
+        "value": "Rien ne peut alors entrer dans la maison de ce qui est désigné comme contenance , c ’ est - à - dire susceptible de prendre le germe de la peste , sans passer préalablement au parfum ou à l ’ eau .Quelques personnes plus avancées emploient le chlore , et quand on manque de parfum et de chlore , comme je l ’ ai vu sur la fin de la peste de 1835 , on emploie la paille hachée et mouillée : elle est regardée comme un excellent parfum .Ainsi le parfum , l ’ eau et la barrière , passent pour les seuls préservatifs de la peste .",
+        "words": [
+          "parfum",
+          "je",
+          "excellent",
+          "fin",
+          "paille",
+          "chlore"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/6162972a-e814-502f-8e63-878c1953daeb",
+        "value": "Dès les premières attaques qui eurent lieu à Smyrne , 12 à 14 , 000 personnes Grecs et Européens , s ’ y étaient réfugiés .L ’ idée vint aux ' principaux habitans , en voyant une telle agglomération , de chercher à se préserver de la peste par une quarantaine générale , c ’ est - à - dire , de ne laisser entrer personne , même des leurs , lorsqu ’ il retournerait à Smyrne , sans avoir été parfumé avec de la paille mouillée , et sans qu ’ il eut changé d ’ habits , afin de les mettre à l ’ air , pour chasser les miasmes .On ajoutait à cela une observation de vingt - quatre heures , sous une tente , dernière épreuve , après laquelle on donnait la libre pratique ; comme les gardes de la quarantaine n ’ étaient pas médecins , on - jugeait de la santé des individus sur la figure .",
+        "words": [
+          "parfumé",
+          "miasmes",
+          "Smyrne",
+          "principaux habitans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/625063a9-6ed1-5d4d-97b3-730919ca6314",
+        "value": "Ce ne sont certainement pas les mesures sanitaires qui ont préservé ce village .Qu ’ est - ce que vingt - quatre heures d ’ observation et un parfum de paille mouillée ? Mais c ’ est la propreté forcée , par suite de ces mesures , et tout ce qui tient à l ’ hygiène .Dans le village de Bournaba , habité moitié par des Européens , moitié par des Turcs , et où l ’ on ne pouvait prendre ces légères précautions , lapeste fitdes ravages .",
+        "words": [
+          "parfum",
+          "paille",
+          "mouillée",
+          "paille mouillée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/6b43d086-8598-5862-9842-5d95f9a7ebe0",
+        "value": "» 11 ajoute un peu plus loin : « Le Nil dont la crue augmente le lac Maréotis ne laisse à » Alexandrie , lorsqu ’ il se retire , aucune partie marécageuse d ’ ou » il puisse s ’ élever des exhalaisons .» On peut voir aujourd ’ hui que , depuis long - temps , le contraire existe : aussi quel rôle ce lac et les eaux répandues autour delà ville doivent - ils jouer dans la question d ’ insalubrité ! Cette circonstance sera facilement appréciée par celui qui aura été quelquefois parcourir les bords de ces lacs ; il aura certes été frappé de l ’ odeur qui s ’ en exhale , odeur due aux milliers de cadavres d ’ insectes et d ’ animaux , ainsi qu ’ aux débris de végétaux qui pourrissent , fermentent et se décomposent sur ces bords .Conseil sanitaire eî Lazare ! d ’ Alexandrie .",
+        "words": [
+          "odeur",
+          "cadavres",
+          "long",
+          "débris de végétaux",
+          "ces lacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/710ef5be-f29d-53ff-8278-3b330a26dbd2",
+        "value": "La vase séjourne sur les » bords de ces lacs : il s ’ en exhale des émanations marécageuses , » qui répandent dans l ’ atmosphère le germe des maladies et fait » naître la peste .Mais à Alexandrie le Nil croît annuellement au » commencement de l ’ été , fait hausser les eaux du lac et ne » laisse à découvert aucune partie vaseuse d ’ où i ! puisse sortir » des exhalaisons nuisibles .Alors les vents étésiens qui soufflent » de la partie du nord et de la haute mer , apportent la fraîcheur » aux habitans d ’ Alexandrie qui y passent agréablement l ’ été .",
+        "words": [
+          "Alexandrie",
+          "exhalaisons",
+          "nuisibles",
+          "commencement"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/80f822c3-d64e-519e-8d00-1f103c30bd4b",
+        "value": "J ’ ai déjà parlé 15 de ce cimetière grec , où près de 200 cadavres ont été enterrés en 1837 .L ’ odeur était telle que les personnes , habitant au voisinage , pouvaient à peine respirer et étaient forcées de fermer portes et fenêtres , et de brûler des parfums pourmasquer cette odeur .Cependant il arrive que ctj personnes sont fixées dans ce quartier depuis une quarantaine d ’ années sans que leur santéen ait souffert , et sans que la peste y fasse plus de ravages qu ' ailleurs î Les renseignemens généraux que l ’ on peut obtenir sur la maladie sont fort incomplets , parce qu ’ il n ’ y a pas d ’ autorité spéciale .",
+        "words": [
+          "odeur",
+          "parfums",
+          "personnes",
+          "forcées de fermer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/97b908dd-1b38-5e2e-9978-11032372a08c",
+        "value": "Si vous pénétrez dans l ’ intérieur , et même en passant sur la lisière de ce village , vous pouvez déjà vous faire une idée de la saleté et de l ’ insouciance des habitans .Une odeur fétide , ammoniacale , s ’ exhale de ce lieu , tous ses environs sont couverts d ’ ordures , de matières fécales , de corps d ’ animaux en putréfaction .Enfin , cet endroit semble devoir engendrer toute espèce de maladie .",
+        "words": [
+          "fétide",
+          "odeur",
+          "ammoniacale",
+          "lieu",
+          "matières fécales",
+          "ordures",
+          "corps d ’ animaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/988c1994-f43e-5123-9595-07542f6dd7df",
+        "value": "Elles sont remplies de tombeaux .On n ’ y enterre guère qu ’ à quatre pieds de profondeur ; aussi y a - t - il souvent une odeur cadavéreuse dans l ’ église et aux alentours .Les quartiers Grec et Arménien forment plus de la moitié de la ville ; ils entourent le quartier Franc de tous côtés , touchant au sud et au nord à la mer .",
+        "words": [
+          "odeur",
+          "cadavéreuse",
+          "église"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/d00d8721-e09a-5cf9-9be1-477fa0c72127",
+        "value": "On ne peut avoir aucun renseignement sur sa maladie .Etat actuei , difficulté de parler , prostration ; abattement , démarche impossible , douleur de tête , yeux injectés , langue rouge d ’ un enduit blanchâtre , nulles doulenrs de ventre , de reins , diarrhée d ’ une odeur très forte et de matière noirâtre .116 pulsations ; pouls plein , respiration profonde , ni bubon , ni charbon , , ni pétéchies .",
+        "words": [
+          "très forte",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/d69ed3d4-d739-523e-a069-fed441f28710",
+        "value": "Point de douleur à l ’ estomac , borbo - risme dans le bas - ventre ; douleur à l ’ aine droite .Traitement : Saignée de 16 onces ; le malade pendant la saignée sent le besoin d ’ aller du corps , on arrête le sang ; les matières sont liquides avec une forte odeur ; il est découragé , se dit un homme mort , le sang a peine à couler ; il se coagule au bord de la piqûre ; la veine a été trois fois piquée et ouverte .3 heures après midi .",
+        "words": [
+          "forte",
+          "odeur",
+          "matières",
+          "malade"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/d9f32740-be7b-5e9e-b4e3-3fe10019a6b9",
+        "value": "II prenait la chose au pied de la lettre .Une attaque avait - elle lieu , on se contentait simplement de transporter le malade au Lazaret ou à l ’ Hôpital de Ras - el - Tin ; on faisait un parfum , et tout était fini .Avant l ’ isolement , les soldats couraient , vaquaient à leurs affaires , prenaient de l ’ exercice et du plaisir ; de sorte que ce temps , bien loin d ’ entretenir l ’ activité et d ’ améliorer leur position physique et morale , les plaçaient dans des conditions telles , qu ’ ils étaient plus susceptibles de contracter l ’ épidémie régnante .",
+        "words": [
+          "parfum",
+          "el",
+          "Lazaret",
+          "Hôpital de Ras",
+          "Tin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/e0967e02-4144-5a58-b2bb-a8942a977abb",
+        "value": "Il importe peu que vous soyez misérable , sale ; que vos habitations soient mal construites , basses et mal aérées .Si vous venez à contracter la peste dans ses habitations , c ’ est que vous n ’ avez ni barrière , ni eau , ni parfum ( 1 ) ; en un mot .c ’ est que vous ne faites pas quarantaine .",
+        "words": [
+          "parfum",
+          "eau",
+          "habitations",
+          "contracter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/ea3ade16-5f0a-5204-b4e5-e68322f83263",
+        "value": "Là se trouvent tous les bazars turcs , arabes , juifs ; les habitations obscures , malpropres et huini - des , lesoÀ - efe ( l ) , où loge cette population orientale , formée de tant de nations différentes .En traversant ce quartier , qui n ’ a pas senti une odeur fade particulière et insupportable ? Il semblerait qu ’ elle a une action directe sur le système nerveux .Les rues sales , étroites , mal percées , n ’ ont aucune pente pour l ’ écoulement des eaux ; toutes les causes possibles d ’ insalubrité y sont réunies .",
+        "words": [
+          "odeur",
+          "insupportable",
+          "fade particulière",
+          "ce quartier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/f01c16cf-f643-570b-9f66-ce8ff6f9886c",
+        "value": "— ■ Le malade a la tête libre , mais il se plaint d ’ une ANTI - PHLOGISTIQUES .17 1 chaleur interne ; le pouls est toujours plein , rapide , précipité , langue blanche ; éructation , borborisme ; deux selles liquides ; les matières sont plus claires , mais de couleur excrémentielle , odeur forte ; urineun peu rosée .Traitement : Saignée de 16 onces , le sang coule d ’ abord noir , puis rouge , de couleur artérielle ; le malade dit avoir la langue chaude .",
+        "words": [
+          "forte",
+          "peu",
+          "odeur",
+          "matières"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/f1d8b76e-231c-5d9c-89b6-473f41c37acb",
+        "value": "Je cite : « La salubrité de l ’ air est remarquable ; elle est due à la si - » tuation de la ville , qui est baignée des deux cotés par la mer , et » à l ’ avantage qu ’ elle retire de la crue du Nil ; car , dans toutes les > » villes qui sont placées sur le bord des lacs , on ne respire , pen - » dant les chaleurs de l ’ été , q ' u ’ un air épais et étouffant produit » par les vapeurs que le soleil y élève .La vase séjourne sur les » bords de ces lacs : il s ’ en exhale des émanations marécageuses , » qui répandent dans l ’ atmosphère le germe des maladies et fait » naître la peste .Mais à Alexandrie le Nil croît annuellement au » commencement de l ’ été , fait hausser les eaux du lac et ne » laisse à découvert aucune partie vaseuse d ’ où i ! puisse sortir » des exhalaisons nuisibles .",
+        "words": [
+          "atmosphère",
+          "émanations",
+          "marécageuses",
+          "vase",
+          "lacs",
+          "bords",
+          "naître"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/f7be6dc8-b9de-5b7b-a2dc-f6484072288c",
+        "value": "Le malade est écarté , envoyé à l ’ Hôpital d ’ observation , les hommes qui composent la chambrée sont mis en surveillance dans une autre salle .La première est parfumée au souffre .Les habits sont lavés , et tout le monde prend un bain .",
+        "words": [
+          "parfumée",
+          "souffre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/faab7835-70f0-5457-8971-44546937e100",
+        "value": "Quelques personnes plus avancées emploient le chlore , et quand on manque de parfum et de chlore , comme je l ’ ai vu sur la fin de la peste de 1835 , on emploie la paille hachée et mouillée : elle est regardée comme un excellent parfum .Ainsi le parfum , l ’ eau et la barrière , passent pour les seuls préservatifs de la peste .Il importe peu que vous soyez misérable , sale ; que vos habitations soient mal construites , basses et mal aérées .",
+        "words": [
+          "parfum",
+          "eau",
+          "barrière"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/fabf93f8-00ae-5266-8967-46b3502bf47f",
+        "value": "Les branches sont alternes , on ne trouve pas sur la tige ces filamens que l ’ on rencontre sur le chanvre .L ’ odeur que répand le Hachisch est moins forte que celle du chanvre ; elle a quelque chose de particulier .Lorsque les Arabes veulent faire usage de cette plante , ils n ’ emploient que les feuilles et les fleurs .",
+        "words": [
+          "forte",
+          "odeur",
+          "chanvre",
+          "Hachisch"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/6652b494-cf2f-5c3d-8462-bc3b5dcd0e8e",
+        "label": "Louis  Aubert-Roche"
+      }
+    ],
+    "label": "De la Peste ou typhus d'Orient, documents et observations... suivis d'un essai sur le hachisch... et d'un mémoire sur la prophylaxie générale de la peste, par L. Aubert-Roche,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k42296065",
+    "date": "1843",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b8763c2d-0392-5f16-b521-208643ca65b3",
+      "label": "1843",
+      "begin": "1843",
+      "end": "1843"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361058/",
+      "label": "Alexandria"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/5dd3dcf4-5981-55c7-94c4-2f812a829e94/fragment/710ef5be-f29d-53ff-8278-3b330a26dbd2",
+  "license": "Public domain",
+  "adjective": "nuisibles"
+}

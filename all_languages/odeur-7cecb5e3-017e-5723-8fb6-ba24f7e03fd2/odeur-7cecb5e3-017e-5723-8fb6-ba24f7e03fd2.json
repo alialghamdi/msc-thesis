@@ -1,0 +1,500 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/7cecb5e3-017e-5723-8fb6-ba24f7e03fd2",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "odeur",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/005ee74b-9055-563f-af04-19fea3064fb7",
+        "value": ", de la douleur se manifesta , et l ' écoulement devint plus abondant : il y avait trois mois que le malade n ' avait cohabité avec une femme .On prescrivit des boissons délayantes et l ' application de vingt sangsues sur le point douloureux de la poitrine .Les extrémités inférieures étaient au moins trois fois plus grosses que dans l ' état ordinaire ; elles étaient comme emphysémateuses , violacées , livides et froides .",
+        "words": [
+          "boissons",
+          "délayantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/02cb6cfd-e205-5446-b9b5-59d633b1dcb2",
+        "value": "On peut aussi ranger dans cette classe , quoique l ' action en soit différente , l ' emploi de la torpille , pour calmer les douleurs rebelles aux autres moyens ; celui des fourmis , contre la goutte et la roideur des membres , que l ' on plonge dans un sac rempli de ces insectes avec leurs œufs ; l ' usage si connu et si fréquent des cantharides ; celui des bains de boues marécageuses , telles que celles de Saint - Amand et de Bade en Souabe , ou se décomposent les infusoires et les zoophytes avec les végétaux .L ' explication que donne l ' auteur , des vertus du bain animal , dans le troisième chapitre , se réduit à dériver de la chaleur et des exhalaisons des animaux à sang chaud , et de la fraîcheur et du mucus des animaux à sang froid , les propriétés suivantes : 1 ° .de calorifier les parties malades ; 2 ° .",
+        "words": [
+          "exhalaisons",
+          "animaux à sang"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/03dff5b4-9f86-5d31-80ab-a222a878b85f",
+        "value": "» Quant à l ' ammoniaque , il dit : « je n ' ai jamais » rien senti d ' aussi fort ; j ' ai les yeux qui en pleurent ; mais je ne m ' aperçois pas qu ' elle ait de l ' odeur .» Pendant le temps qu ' il était affecté du délire , il avait une répugnance marquée à prendre les sels purgatifs , il les gardait dans la bouche , et , s ' il croyait qu ' on ne l ' observait pas , il les rejetait , même dans les cas où l ' on cherchait à lui faire accroire que ce n ' était que de l ' eau ; d ' où l ' on peut raisonnablement con - c1ure qu ' il jouissait alors parfaitement du sens de l ' odorat Cet état subsiste encore aujourd ' hui : toutes ! es substances ont pour lui la même saveur , ou plutôt n ' ont pas de saveur du tout ; il n ' éprouve pas non plus le même plaisir qu ' autrefois à satisfaire les besoins de son appétit ; excepté cela , sa santé est parfaite et il continue ses anciennes occupations à la mine de cuivre .VARIÉTÉS MEDICALES .",
+        "words": [
+          "bouche",
+          "odorat",
+          "pas",
+          "substances",
+          "eau",
+          "sels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/06004c80-a9a6-50b9-8d7b-888d90acd9ff",
+        "value": "Ill .Le nerf olfactif est - il l ' organe de l ' odorat ? Cette question , que M .Magendie vient de résoudre négativement au profit des branches nasales de la cinquième paire , mais qui semble loin d ' être encore épuisée , n ' a pas , quelque paradoxale qu ' elle puisse paraître , le mérite de la nouveauté .",
+        "words": [
+          "olfactif",
+          "odorat",
+          "nerf"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/0a0f4e4e-d65c-5e7d-bc4f-5d685cc685c7",
+        "value": "11 guérissait dans l ' espace d ' un jour ceux qui avaient été fouettés ou battus , en les enveloppant dans une peau de brebis toute chaude , moyen dont l ' usage s ' est conservé jusqu ' à nos jours , et dont les ouvrages du docteur Larrey attestent la grande utilité dans ses différentes campagnes .Depuis Galien , on a multiplié et varié les bains animaux , que l ' on faisait consister dans l ' emploi d ' animaux entiers , soit vivans ou récemment égorgés , dans celui des diverses parties de leurs corps toutes chaudes , de leurs humeurs ou de leurs excrémens , immédiatement après leur émission ; ou simplement dans celui de leurs exhalaisons et de leur souille .Comme tout cela se faisait dans le seul but d ' agir sur le corps , en le tenant dans l ' atmosphère de leur chaleur ' Ct de leurs émanations vitales , il serait difficile d ' assigner une partie animale qui n ' eût été mise en usage dans ce dessein .",
+        "words": [
+          "leurs",
+          "leur",
+          "exhalaisons",
+          "humeurs",
+          "excrémens",
+          "Depuis Galien",
+          "immédiatement après leur émission"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/11b116ff-1010-5bbf-90ed-19b287f4c406",
+        "value": "Voici les symptômes que cette maladie présenta dans sa dernière période .L ' œil était bril - lant et trésoluobile , la face avait une expression d ' anxiété impossible à décrire , les dents et les gencives se couvraient sans cesse d ' une matière brune et sordide , la langue , la bouche et l ' arrière - bouche étaient desséchées , raboteuses et noires : vers la fin , les bords des lèvres étaient devenues tout - à - fait livides ; la voix était cassée et plaintive ; les déjections alvines étaient foncées , grumeleuses et d ' une odeur insupportable ; l ' urine était rare , de la consistance du sirop et colorée comme de la bierre rouge .Le pouls , d ' abord petit , dur , irrégulier et accéléré , était devenu faible , moins fréquent et intermittent .",
+        "words": [
+          "odeur",
+          "insupportable",
+          "urine",
+          "déjections alvines",
+          "bierre rouge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/1521cde8-c61c-50e4-ab0e-9e3ed05e251e",
+        "value": "M .Liaubou obtint , par le même moyen , un effet semblable sur un ulcère cancéreux , exhalant une odeur insoutenable .M .",
+        "words": [
+          "odeur",
+          "insoutenable",
+          "Liaubou"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/1a02ee13-3ee7-581c-8889-e29758a8fd98",
+        "value": "La plaie paraissait belle , mais elle ne parvint à une parfaite guérison qu ' après l ' exfoliation d ' une petite portion d ' os qui fut extraite le 24 octobre .Six semaines s ' étaient écoulées depuis l ' accident , lorsqu ' au grand étonnement du malade , un soir , à souper , il crut s ' apercevoir qu ' il avait perdu le goût et l ' odorat .Pour s ' en assurer , il prit une cuillerée à bouche de moutarde qu ' il trod \\ 7a sans saveur .",
+        "words": [
+          "odorat",
+          "malade",
+          "Six semaines",
+          "un soir , à souper"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/1d59521a-eb58-5c3a-9aa7-b63347572f89",
+        "value": "Tout le monde connaît l ' usage vulgaire de coucher avec des chiens ou d ' autres animaux vivans , et de les tenir sur les parties affectées de rhumatisme , de goutte , de coliques ; celui de faire coucher les jeunes gens épuisés par l ' onanisme , avec de jeunes filles bien portantes , dont le vieux David faisait déjà usage pour se réchauffer ; celui de tenir les phthisiques dans des étables de vaches ; d ' envelopper jusqu ' au cou , de fumier de cheval , les morts - ivres d ' eau - de - vie ; d ' employer la fiente ou la bouse de vache , etc ., en cataplasme ; d ' appliquer des morceaux de chair fraîche sur les yeux enflammés ou sur les plaies douloureuses ; de couvrir les parties malades avec des viscères fumans , avec l ' épiploon ou quelques membranes Unes ; celui de faire des frictions avec , les mains nues , pour de légères douleurs , des spasmes , pour réveiller les contractions de l ' utérus dans son inertie après l ' accouchement ; les frictions et le massage après les bains dans l ' Orient et dans d ' autres pays ; l ' usage de tenir les parties impotentes ou paralysées dans la gueule ou les oreilles d ' animaux divans , de les plonger dans le sang et le lait chaud en guise de bain , ou dans les cavités thoraciques et abdominales d ' animaux récemment égorgés ; celui d ' appliquer un pigeon ou poulet tout vivans et plumés , ou bien ouverts et saignans , sur la poitrine , pour calmer les suffocations et les douleurs pleurétiques ; d ' appliquer des panses de mouton toutes chaudes sur les vergeturcs saignantes , les contusions et les ulcérations douloureuses ; enfin l ' usage des bains de tripes et de décoctions des divers débris d ' animaux dont il existe un établissement à Paris , sans parler des lotions et des topiques d ' urine et de sang de lièvre , de chauve - souris , etc ., pourdes plaies et affections cutanées .",
+        "words": [
+          "Paris",
+          "urine",
+          "débris d",
+          "Orient",
+          "topiques",
+          "sang de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/2c1165ec-5a49-5026-a3e0-486358e212ea",
+        "value": "Vers quatre heures du matin , sensation d ' un poids dans le côté gauche du bas - ventre , et augmentation de la tumeur , dont la disparition n ' avait jamais été complète depuis les anciennes attaques de coliques .Les douleurs deviennent très - aiguës ' ; le malade s ' agite en tous sens et manifeste la crainte que les alimens pris la veille ne soient empoisonnés .Plusieurs lavemens sont successivement pris et rendus , sans entraîner aucunes matières ; la paroi antérieure de l ' abdomen est fortement appliquée contre la colonne vertébrale ; les douleurs deviennent tellement atroces , que le malade demande il grands cris un instrument pour s ' ouvrir le ventre ; lorsqu ' enfin un lavement entraîne une petite quantité de matières fécales et amène du soulagement .",
+        "words": [
+          "empoisonnés",
+          "très - aiguës"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/30e9890e-4eef-51e9-b5de-90b965125ef1",
+        "value": "de Wedekind pensant que les gros vaisseaux s ' étaient vidés dans les vaisseaux capillaires , fit pratiquer sur ces trois corps des affusions avec de l ' eau qu ' on venait de tirer d ' un puits , et bientôt des signes de vie se manifestèrent .Un vomitif , des applications aromatiques et vinaigrées sur la tête ainsi que sur le creux de l ' estomac achevèrent de les rétablir .M .",
+        "words": [
+          "tête",
+          "aromatiques",
+          "applications",
+          "vinaigrées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/3dd93141-5257-5781-871d-beb2cda77fb1",
+        "value": "On les traversait facilement dans tous les sens avec le doigt .Quand on les déchirait , ainsi , il s ' en exhalait une odeur putride ; mais les vaisseaux brisés ne fournissaient pas de sang .Le ventricule gauche , en particulier , était tout à fait livide et privé de sa solidité musculaire ; il n ' offrait guères plus de consistance que la substance cérébrale .",
+        "words": [
+          "odeur",
+          "putride",
+          "vaisseaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/49211a69-1bc1-5486-908a-a5fc1c15433b",
+        "value": "Cette prétendue vigilance des organes du goût a chez l ' homme de fréquens sommeils , et s ' il y allait de la vie ou même de la santé chaque fois qu ' elle se trouve en défaut , les médecins ne suffiraient bientôt plus au nombre des malades , tandis que nous voyons aujourd ' hui tout le contraire .On est encore moins fondé à faire de l ' odorat un sens nutritif , un supplément de celui du goût , comme disait Lecat .L ' odorat obéit bien plus que le goût aux besoins et aux répugnances de 1 imagination ; et s ' il est vrai qu ' il nous mette eu garde contre l ' ingestion de certaines substances qui I affectent d ' une manière fâcheuse , les yeux ne nous rendent - ils pas le même office ? Quelles ne sont pas d ' ailleurs à cet égard les inconséquences de la sensibilité individuelle ? Combien de personnes recherchent le goût de l ' ail , et n ' en peuvent supporter l ' odeur ? N ' en est - il pas de même pour les melons , dont l ' odeur est mise par Linné au nombre des nauséeuses ? D ' autre part , que de substances aromatiques dont on ne relire aucun aliment ! Que de substances alimentaires presque inodores , comme sont la plupart des céréales ! Certes , si l ' homme n ' avait eu que l ' odorat pour préjuger des alimens à sa convenance , il eût été souvent dupe de ses répugnances ou victime de ses choix .",
+        "words": [
+          "odorat",
+          "nutritif"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/49ce0e1f-a905-5d65-813d-d81206caf2b6",
+        "value": "Le ventricule gauche , en particulier , était tout à fait livide et privé de sa solidité musculaire ; il n ' offrait guères plus de consistance que la substance cérébrale .Quand on le déchirait , il donnait une odeur désagréable , semblable à celle des matières animales en putréfaction .Toutes les cavités du cœur étaient vides ; mais les grosses veines , surtout tes veines abdominales , étaient gorgées d ' un sang grumeleux .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "celle",
+          "il",
+          "matières animales en putréfaction"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/4c17e237-6526-57dc-aa32-3631c295f007",
+        "value": "La face thoracique du diaphragme et la plèvre de la cavité gauche de la poitrine présentaient de petites taches formées par des réseaux vasculaires ; ailleurs on voyait de petits grains noirâtres , rudes ; les poumons , quoique surchargés de sang , paraissaient sains ; ils n ' offraient aucune espèce d ' adhérence .Des taches morbides , de différentes grandeurs , et de couleur plus ou moins foncée , s ' étaient formées sur différentes parties du corps ; les unes étaient putrides , les autres n ' avaient qu ' un commencement de putréfaction .L ' accoucheur ne fut pas peu surpris , en examinant l ' utérus , d ' en trouver l ' orifice flasque , et d ' y pouvoir promener le doigt comme dans un sac vide .",
+        "words": [
+          "putrides",
+          "taches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/50663527-c226-542c-90ea-fab7dd14a926",
+        "value": "Les expériences de M .Magendie sont - elles plus décisives , ou même le sont - elles autant ? En coupant la cinquième paire , il a rendu la membrane pituitaire insensible à l ' action des vapeurs irritantes ; mais peut - on conclure de là que l ' animal avait perdu l ' odorat ? Je crois qu ' en détruisant la sen - sibilité de cette membrane , on altère beaucoup les fonctions de l ' organe ; mais , encore une fois , rien ne prouve que le sens de l ' odorat soit aboli .il On ne saurait choisir un exemple plus frappant que celui - ci de la justesse des réflexions contenues dans votre revue historique sur la méthode d ' expérimenter des physiologistes français , et des méprises où l ' on peut être entraîné , en attachant une trop grande importance à des expériences faites au hasard , et sans un examen préliminaire très - approfondi de la structure et des fonctions de chaque partie .",
+        "words": [
+          "odorat",
+          "irritantes",
+          "aboli",
+          "perdu",
+          "animal",
+          "membrane"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/57dbe4fc-05b1-5b2e-8742-4a64fdb4eec6",
+        "value": "La maladie offrait en outre pour caractères , la mortification , la dessication , et en quelque sorte la momification du sommet des orteils indiqués , la tuméfaction violacée de la partie voisine des orteils et du pied , et une odeur vive , pénétrante et très - difficile à supporter .Pendant les premiers mois de son séjour à l ' Hôtel - Dieu , on eut recours successivement et sans le moindre succès , aux opiacés et au quinquina , administrés à l ' intérieur et appliqués à l ' extérieur : loin de s ' amender , la maladie fit des progrès ; le reste des orteils , le dos et la plante du pied , les parties molles et les parties osseuses furent frappés assez rapidement , d ' abord de gonflement violacé très - douloureux , ensuite de gangrène sèche , toujours accompagnée d ' une odeur très - forte .L ' état du cœur , des poumons et des principales artères fut étudié : on n ' y découvrit aucun signe de lésion .",
+        "words": [
+          "odeur",
+          "quinquina",
+          "gangrène",
+          "très - forte",
+          "opiacés",
+          "' Hôtel - Dieu",
+          "Pendant les premiers mois de son séjour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/5df4eb52-c909-5964-8f7e-435e46bd1378",
+        "value": "Depuis Galien , on a multiplié et varié les bains animaux , que l ' on faisait consister dans l ' emploi d ' animaux entiers , soit vivans ou récemment égorgés , dans celui des diverses parties de leurs corps toutes chaudes , de leurs humeurs ou de leurs excrémens , immédiatement après leur émission ; ou simplement dans celui de leurs exhalaisons et de leur souille .Comme tout cela se faisait dans le seul but d ' agir sur le corps , en le tenant dans l ' atmosphère de leur chaleur ' Ct de leurs émanations vitales , il serait difficile d ' assigner une partie animale qui n ' eût été mise en usage dans ce dessein .Tout le monde connaît l ' usage vulgaire de coucher avec des chiens ou d ' autres animaux vivans , et de les tenir sur les parties affectées de rhumatisme , de goutte , de coliques ; celui de faire coucher les jeunes gens épuisés par l ' onanisme , avec de jeunes filles bien portantes , dont le vieux David faisait déjà usage pour se réchauffer ; celui de tenir les phthisiques dans des étables de vaches ; d ' envelopper jusqu ' au cou , de fumier de cheval , les morts - ivres d ' eau - de - vie ; d ' employer la fiente ou la bouse de vache , etc .",
+        "words": [
+          "corps",
+          "émanations",
+          "vitales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/605ed84a-76ce-5062-8833-7098faed96f6",
+        "value": "Magendie s ' était souvenu que l ' organe de l ' odorat est fort compliqué , qu ' il reçoit plusieurs sortes de nerfs , il aurait vu en même temps que ses fonctions ne pouvaient s ' exercer convenablement , lorsque quelques - uns d ' entre eux venaient à être détruits .Ainsi , après la section de la portion dure , la faculté d ' inhaler les molécules odorantes nécessaires à l ' exercice de l ' odorat , se perd , et ce sens paraît aboli .» J aurai quelques observations à faire sur l ' influence du nerf de la cinquième paire , relativement aux fonctions de l ' œil ; mais auparavant , je vais offrir la preuve irrécusable que M .",
+        "words": [
+          "odorantes",
+          "odorat",
+          "molécules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/6781be97-6502-513b-9a92-683539e2dc9c",
+        "value": "M .Brulatour , chirurgien - major de l ' Hôtel - Dieu - Saint - André , a lu un mémoire dans lequel sont consignées plusieurs observations qui constatent que la solution de chlorure de soude a détruit l ' odeur repoussante de la gangrène ; que la séparation des escarres gangréneuses et la détersion des ulcères qui en résultent , ont été sensiblement accélérées par les lotions et les applications des pièces d ' appareil trempées dans cette solution .Il a aussi expérimenté la solution de chlorure de chaux dans les autopsies cadavériques ; l ' odeur qu ' exhale l ' ouverture de la cavité abdomi * nale a été immédiatement neutralisée .",
+        "words": [
+          "odeur",
+          "repoussante",
+          "chlorure de",
+          "gangrène",
+          "Hôtel - Dieu - Saint - André"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/696e34e8-3c74-5071-b5aa-7a4967d1744d",
+        "value": "L ' odorat obéit bien plus que le goût aux besoins et aux répugnances de 1 imagination ; et s ' il est vrai qu ' il nous mette eu garde contre l ' ingestion de certaines substances qui I affectent d ' une manière fâcheuse , les yeux ne nous rendent - ils pas le même office ? Quelles ne sont pas d ' ailleurs à cet égard les inconséquences de la sensibilité individuelle ? Combien de personnes recherchent le goût de l ' ail , et n ' en peuvent supporter l ' odeur ? N ' en est - il pas de même pour les melons , dont l ' odeur est mise par Linné au nombre des nauséeuses ? D ' autre part , que de substances aromatiques dont on ne relire aucun aliment ! Que de substances alimentaires presque inodores , comme sont la plupart des céréales ! Certes , si l ' homme n ' avait eu que l ' odorat pour préjuger des alimens à sa convenance , il eût été souvent dupe de ses répugnances ou victime de ses choix .Il est donc permis de croire que les sens du goût et de l ' odorat , qui nous font connaître dans les corps d ' autres qualités que celles qui les rendent alimentaires , qui fournissent des matériaux à l ' intelligence , des émotions à lame , et qui reçoivent à leur tour l ' influence de nos plus nobles facultés , N ' appartiennent pas eX - r clusivement à la vie nutritive , et ne se distinguent véritablement des sens de l ' ouïe et de la vue que par des circonstances anatomiques qui n ' autorisent point à en faire un ordre séparé .Le souvenir diffère sans doute de la sensation elle - même ; mais il est pourtant autre chose que la connaissance de l ' avoir eue : cette connaissance est un jugement ; elle est l ' adhésion de l ' esprit à l ' opération préalable de la mémoire ; elle n ' est donc pas celte opération .",
+        "words": [
+          "corps",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/70d2ffb0-4a7b-5517-aff4-648b20322f2f",
+        "value": "On ouvrit la veine médiane , mais il ne s ' écoula que peu de sang ; conséquemment on n ' obtint pas le résultat désiré .Il y eut trois évacuations alvines , noirâtres et très - fétides , sans que , cependant , aucun des symptômes ne parût tendre à céder .Le lendemain , qui était le sixième jour de la maladie ; j ' eus une consultation avec M .",
+        "words": [
+          "fétides",
+          "- fétides"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/7ee87b27-8f6f-5a35-bb80-f8a3c4524e97",
+        "value": "affusions d ' eau froide ont .évidemment sauvé la vie à des personnes qui avaient été empoisonnées par des préparations opiacées .YL Histoire d ' une famille composée d ' individus disposés à des hémorrhagies ; par le docteur ELSAESSER , à Moehringen , près de Stuttgart .",
+        "words": [
+          "empoisonnées",
+          "préparations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/82417ac2-c754-5e3a-965d-2da109cff5fe",
+        "value": "Toutes ces substances lui paraissaient semblables ; seulement , quand il avait la bouche remplie d ' eau - de - vie et que la langue se trouvait en contact avec le palais , il éprouvait dans celte partie un peu plus de chaleur que lorsque la bouche contenait de l ' eau ; mais s ' il répétait l ' expérience plus d ' une fois , l ' eau - de - vie et l ' eau produisaient absolument la même sensation .On lui donna aussi à flairer de la liqueur d ' ammoniaque et de l ' assafœtida : il rendit cette dernière substance en disant : c je ne puis lui trouver aucune odeur .» Quant à l ' ammoniaque , il dit : « je n ' ai jamais » rien senti d ' aussi fort ; j ' ai les yeux qui en pleurent ; mais je ne m ' aperçois pas qu ' elle ait de l ' odeur .",
+        "words": [
+          "aucune",
+          "odeur",
+          "flairer",
+          "dernière substance",
+          "assafœtida",
+          "liqueur d ' ammoniaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/856b439b-d640-529c-aa7e-3450e3a6865e",
+        "value": "- « M .Gintrac , donnant des soins à un jeune homme affecté d ' une espèce de lèpre tuberculeuse qui présentait des ulcères très - fétides sur les jambes et dans la bouche , est parvenu à détruire cette mauvaise odeur , en lotionant ces ulcères avec la solution de chlorure de soude et en la versant sur les pièces à pansement .M .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "bouche",
+          "jambes",
+          "très -",
+          "lèpre tuberculeuse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/878fb2db-3310-55a2-b53c-636cff9682a7",
+        "value": "Je plongeai alors cet enfant dans de l ' eau à trente - deux degrés ( Réaum .) environ , et j ' eus soin en même temps d ' humecter la tête avec de l ' eau fraîche .Ce ne fut qu ' après quelques minutes d ' immersion , que le sang comnlença à couler par le cordon : mais les battemens du cœur étaient encore insensibles , et il ne se manifestait aucun mouvement respiratoire , malgré la précaution que je prenais d ' insuffler de l ' air dans les poumons .",
+        "words": [
+          "tête",
+          "eau",
+          "humecter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/89ea257c-5c4f-5d94-a996-87ca3ce45bcd",
+        "value": "M .Eisaesser croit avoir observé que vers la fin des hémorrhagies le sang avait une mauvaise odeur , assez semblable à celle d ' abcès volumineux .Les plaies , tant grandes que petites , chez cet enfant , l ' hémorrhagi .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "sang",
+          "Eisaesser",
+          "abcès volumineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/8f6a8986-75ab-5cd4-8458-130c784e5043",
+        "value": "On lit , en effet , dans le journal intitulé Progrès de la Médecine ( 1697 ) , par Brunet , que ce médecin refusait aux nerfs de la première paire l ' usage que ses contemporains lui accordaient .Ayant ouvert le crâne de plusieurs hommes qui n ' avaient ressenti pendant leur vie aucune altération dans l ' organe de l ' odorat , il trouva les nerfs olfactifs calleux proche du cerveau : il disait que la cinquième paire suppléait à leur défiu ! .Brunet .",
+        "words": [
+          "odorat",
+          "hommes",
+          "plusieurs",
+          "olfactifs",
+          "pendant leur vie",
+          "plusieurs hommes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/91c67a61-090d-5a68-ab35-7dd6174760ce",
+        "value": "Renvoyé de l ' infirmerie pour obtenir les invalides .Plaie de tête , suivie de la perte du goût et de l ' odorat ; par J .ARNISON , écuyer chirurgien , etc .",
+        "words": [
+          "odorat",
+          "Plaie de tête"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/949a1a6f-4b94-5743-b1ae-94233419fad2",
+        "value": "Par exemple , après avoir déclaré que le sentiment est forcé ^ l ' auteur déclare plus loin que la sensation est toujours forcée aussi , et néanmoins ce caractère de nécessité qu ' il vient d ' admettre dans le sentiment comme dans la sensation est l ' un des caractères d ' après lesquels il prononce leur différence totale .Buisson est , je crois , le premier qui , s ' appuyantsur cette considération , d ' ailleurs si vraie , ' de la fin privative à chaque organe > ait séparé des autres sens le goût et l ' odorat ; mais il n ' a pu le faire que par une interprétation systématique et une application inexacte de la loi même qu ' il invoquait Toutefois , notre auteur adopte ce paradoxe , et s ' empresse de rattacher au sentiment les prétendus sens nutritifs , qu ' il nomme , lui , sentimens externes .« Placés au commencement de la série des fonctions de la respiration et de la digestion , sentinelles actives destinées à scruter les substances qui doivent leur être soumises , ils exercent sur ces substances un examen de leurs qualités > afin de prévenir les accidens , etc .",
+        "words": [
+          "odorat",
+          "goût",
+          "Buisson"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/95202bdb-e84a-5a86-923f-746c7062dc6f",
+        "value": "Le fait contraire et l ' observation directe ont amené la connaissance de la loi du balancement des organes ; mais quels en sont les principes généraux ? On sait aujourd ' hui que la masse encéphalique et la moelle sont en proportion inverse l ' une de l ' autre ; mais cette proposition n ' est pas applicable à toutes les parties de l ' encéphale .Elle est vraie pour les corps olivaires , les hémisphères du cervelet , la protubérance , le lobe sphénoïdal , les corps striés , la couche optique , le corps calleux ; fausse , au contraire , pour les nerfs des sens , le lobe médian du cervelet , des tubercules quadrijumeaux , des lobes optiques , du lobe de l ' hypocampe et du lobule olfactif .Par quel mécanisme s ' opère le développement successif des organes ? A quelle condition tient la prédominance de quelques - uns sur les autres ? Quelle est la raison de ce balancement alternatif qui les rend tour - à - tour dominans et dominés ? M .",
+        "words": [
+          "olfactif",
+          "corps striés",
+          "corps olivaires"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/a63f29cb-d22a-5b4c-86c2-e1b804c55e8b",
+        "value": "Magendie , de démontrer plus amplement l ' erreur dans laquelle il est tombé , non - seulement à l ' égard des fonctions du nerf olfactif et de celui de la cinquième paire , mais encore relativement au phénomène le plus simple de la respiration et de l ' odorat , je ferai observer que j ' aurais pu , il y a quelques années , attribuer le sens de l ' odorat à la portion dure du nerf auditif , avec autant de raison qu ' il en a aujourd ' hui pour l ' assigner à celui de la cinquième paire , et mes preuves ne le céderaient en rien à celles qu ' il a données de son opinion .Après qu ' on a coupé la portion dure à droite ou à gauche , l ' animal perd l ' odorat de ce côté ; l ' ammoniaque ne manifeste plus son action irritante sur la narine correspondante , quoique la vapeur produise l ' écoulement des larmes .De plus , dans le cas où la portion dure est paralysée , le malade cesse de percevoir les odeurs du côté correspondant .",
+        "words": [
+          "odorat",
+          "irritante",
+          "ammoniaque",
+          "animal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/af63f6a6-3a51-545c-b10e-3e0b268dffbe",
+        "value": "et ils s ' accompagnent d ' un sentiment de plaisir ou de souffrance .1 ) Ce dernier attribut ne suffirait point pour classer le goût et l ' odorat ; car toute sensation est sensation avant d ' être plaisir ou douleur ; mais rien n ' est plus contraire à l ' expérience que de dépouiller de douleur et de plaisir les sellsations de la vue , de l ' ouïe et du toucher , ou eL , prétendre que le plaisir ou la douleur qui s ' y mêlent sont des idées , des jugemens , et non des sensations immédiates , comme si le plaisir et la douleur étaient définis pour l ' homme dans les limites de certaines modifications de son être , et que l ' un ou l ' autre fût plus distinct dans le parfum d ' uneTose ou dans la saveur de l ' absinthe que dans la vue d ' un objet hideux , dans le bruit d ' une musique discordante ou dans le contact d ' une température douce , d ' un corps poli , de tout ce que nous recherchons par le toucher .A parler rigoureusement , aucune sensation n ' est indifférente 9 et l ' élément de plaisir ou de douleur se rencontrerait dans toutes pour qui voudrait l ' y bien chercher , quoique la nécessité d ' une telle analyse montre à quel faible degré il s ' y trouverait .",
+        "words": [
+          "parfum",
+          "nous",
+          "odorat",
+          "absinthe",
+          "goût",
+          "saveur",
+          "objet hideux",
+          "uneTose",
+          "musique discordante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/bcd44b1d-ffe1-531b-9326-8adc9776edd4",
+        "value": "les lames de la moelle allongée se portent sur le plancher du quatrième ventricule et s ' y réunissent par une espèce de suture croisée .C ' est là le cervelet primitif des quatre classes d ' animaux vertébrés ; 4 ° - enfin , les lames des hémisphères cérébraux et les lames olfactives lorsqu ' elles existent , forment également chez tous des bulbes ou lobules arrondis , symétriquement placés les uns à côté des autres .Ainsi la , inarche du développement suit ici la même direction de la circonférence au centre ; ainsi dans toutes les classes , l ' axe cérébro - spinal se compose essentiellement des quatrcs parties suivantes : la moelle épinière , deux tubercules quadrijumeaux , deux bulbes en avant d ' eux ; ce sont les premiers rudimens des hémisphères ; et en arrière , deux lames transversales qui sont les vestiges du cervelet .",
+        "words": [
+          "olfactives",
+          "lames"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/c6cf565b-a73c-5094-bc45-75c907e926f0",
+        "value": "De vives et longues douleurs avaient précédé cette gangrène , et avaient , pendant plusieurs mois , privé la malade de tout sommeil .La maladie offrait en outre pour caractères , la mortification , la dessication , et en quelque sorte la momification du sommet des orteils indiqués , la tuméfaction violacée de la partie voisine des orteils et du pied , et une odeur vive , pénétrante et très - difficile à supporter .Pendant les premiers mois de son séjour à l ' Hôtel - Dieu , on eut recours successivement et sans le moindre succès , aux opiacés et au quinquina , administrés à l ' intérieur et appliqués à l ' extérieur : loin de s ' amender , la maladie fit des progrès ; le reste des orteils , le dos et la plante du pied , les parties molles et les parties osseuses furent frappés assez rapidement , d ' abord de gonflement violacé très - douloureux , ensuite de gangrène sèche , toujours accompagnée d ' une odeur très - forte .",
+        "words": [
+          "odeur",
+          "vive",
+          "très - difficile",
+          "tuméfaction"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/c76d5cd9-ab55-5049-861c-17b2e931f84a",
+        "value": "Si M .Magendie s ' était souvenu que l ' organe de l ' odorat est fort compliqué , qu ' il reçoit plusieurs sortes de nerfs , il aurait vu en même temps que ses fonctions ne pouvaient s ' exercer convenablement , lorsque quelques - uns d ' entre eux venaient à être détruits .Ainsi , après la section de la portion dure , la faculté d ' inhaler les molécules odorantes nécessaires à l ' exercice de l ' odorat , se perd , et ce sens paraît aboli .",
+        "words": [
+          "odorat",
+          "nerfs",
+          "Magendie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/cb9b6bc6-7f5b-5a87-b994-67bd2d3558a0",
+        "value": "On lui donna aussi à flairer de la liqueur d ' ammoniaque et de l ' assafœtida : il rendit cette dernière substance en disant : c je ne puis lui trouver aucune odeur .» Quant à l ' ammoniaque , il dit : « je n ' ai jamais » rien senti d ' aussi fort ; j ' ai les yeux qui en pleurent ; mais je ne m ' aperçois pas qu ' elle ait de l ' odeur .» Pendant le temps qu ' il était affecté du délire , il avait une répugnance marquée à prendre les sels purgatifs , il les gardait dans la bouche , et , s ' il croyait qu ' on ne l ' observait pas , il les rejetait , même dans les cas où l ' on cherchait à lui faire accroire que ce n ' était que de l ' eau ; d ' où l ' on peut raisonnablement con - c1ure qu ' il jouissait alors parfaitement du sens de l ' odorat Cet état subsiste encore aujourd ' hui : toutes ! es substances ont pour lui la même saveur , ou plutôt n ' ont pas de saveur du tout ; il n ' éprouve pas non plus le même plaisir qu ' autrefois à satisfaire les besoins de son appétit ; excepté cela , sa santé est parfaite et il continue ses anciennes occupations à la mine de cuivre .",
+        "words": [
+          "odeur",
+          "je",
+          "ammoniaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/d9b7d7ca-1f81-5a1e-a289-e9e55b36394e",
+        "value": "Extrait d ' une Observation sur un A exhale mo ~ nopède ; par M .Bally , sur l ' emploi du nitrate de potasse à haute dose ( deux gros ) contre l ' hydropisiej confirme l ' innocuité de ce médicament et ses propriétés diurétiques .Quant aux remarques du même auteur sur la miliaire , et au cas d ' apoplexie qu ' il rapporte , ils peuvent sembler déplacés dans un mémoire sur l ' action des médicamens , mais ils n ' en offrent pas moins d ' intérêt .",
+        "words": [
+          "diurétiques",
+          "médicament",
+          "nitrate de potasse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/dba15647-0f5c-5664-80b8-740b10edb29f",
+        "value": "1 ) Quoiqu ' il soit à peine nécessaire , après les argumens que vous avez présentés contre les opinions de M .Magendie , de démontrer plus amplement l ' erreur dans laquelle il est tombé , non - seulement à l ' égard des fonctions du nerf olfactif et de celui de la cinquième paire , mais encore relativement au phénomène le plus simple de la respiration et de l ' odorat , je ferai observer que j ' aurais pu , il y a quelques années , attribuer le sens de l ' odorat à la portion dure du nerf auditif , avec autant de raison qu ' il en a aujourd ' hui pour l ' assigner à celui de la cinquième paire , et mes preuves ne le céderaient en rien à celles qu ' il a données de son opinion .Après qu ' on a coupé la portion dure à droite ou à gauche , l ' animal perd l ' odorat de ce côté ; l ' ammoniaque ne manifeste plus son action irritante sur la narine correspondante , quoique la vapeur produise l ' écoulement des larmes .",
+        "words": [
+          "olfactif",
+          "odorat",
+          "Magendie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/dcfaec68-033c-5402-bec1-841e0b644d3d",
+        "value": "Le dévoiement a diminué ; il n ' y a point eu de vomissemens ; la chaleur est revenue ; le pouls donne cent et quelques pulsations par minute ; le renversement continuel de la tête et du tronc est au plus haut degré ; cris plaintifs de temps à autre .La toux augmente , elle est accompagnée d ' une expectoration opaque , fort épaisse , que l ' enfant ne peut rejeter et qui paraît l ' étrangler jusqu ' à ce qu ' on l ' en ait débarrassée à l ' aide d ' un linge introduit dans la bouche , l ' escarre du nez s ' environne d ' une sécrétion séro - purulente .10 .",
+        "words": [
+          "épaisse",
+          "enfant",
+          "expectoration",
+          "opaque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/e09c3410-2e51-5f87-a2fb-e108a590cfc6",
+        "value": "On est encore moins fondé à faire de l ' odorat un sens nutritif , un supplément de celui du goût , comme disait Lecat .L ' odorat obéit bien plus que le goût aux besoins et aux répugnances de 1 imagination ; et s ' il est vrai qu ' il nous mette eu garde contre l ' ingestion de certaines substances qui I affectent d ' une manière fâcheuse , les yeux ne nous rendent - ils pas le même office ? Quelles ne sont pas d ' ailleurs à cet égard les inconséquences de la sensibilité individuelle ? Combien de personnes recherchent le goût de l ' ail , et n ' en peuvent supporter l ' odeur ? N ' en est - il pas de même pour les melons , dont l ' odeur est mise par Linné au nombre des nauséeuses ? D ' autre part , que de substances aromatiques dont on ne relire aucun aliment ! Que de substances alimentaires presque inodores , comme sont la plupart des céréales ! Certes , si l ' homme n ' avait eu que l ' odorat pour préjuger des alimens à sa convenance , il eût été souvent dupe de ses répugnances ou victime de ses choix .Il est donc permis de croire que les sens du goût et de l ' odorat , qui nous font connaître dans les corps d ' autres qualités que celles qui les rendent alimentaires , qui fournissent des matériaux à l ' intelligence , des émotions à lame , et qui reçoivent à leur tour l ' influence de nos plus nobles facultés , N ' appartiennent pas eX - r clusivement à la vie nutritive , et ne se distinguent véritablement des sens de l ' ouïe et de la vue que par des circonstances anatomiques qui n ' autorisent point à en faire un ordre séparé .",
+        "words": [
+          "odeur",
+          "nous",
+          "odorat",
+          "personnes",
+          "aromatiques",
+          "inodores",
+          "nauséeuses",
+          "substances",
+          "homme",
+          "goût",
+          "certaines substances",
+          "substances alimentaires",
+          "melons",
+          "Linné",
+          "céréales"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/e882b340-ea4c-500c-b43f-2d239bd86058",
+        "value": "Organes thoraciques .On retira de la poitrine vingt onces de liquide séreux trouble , de couleur orange sale , et d ' une odeur fétide .Le péricarde contenait quatre onces d ' un liquide parfaitement semblable .",
+        "words": [
+          "fétide",
+          "odeur",
+          "liquide",
+          "poitrine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/ebdbaa8a-7a5e-582f-9996-2d4bf5086ab3",
+        "value": "Magendie et les remarques qu ' ils vous ont suggérées , on ne sait si l ' on doit s ' étonner davantage qu ' il prétende faire regarder comme une idée tout - à - fait nouvelle , que le nerf de la cinquième paire distribue la sensibilité aux principaux organes de la tête , ou de la nullité et souvent de la fausseté des raisonnemens sur lesquels il appuie les conclusions qu ' il déduit de ses expériences , en dépassant par l ' imagination tout ce qui est positivement connu jusqu ' ici .» Ce langage paraîtra sévère ; mais il est certainement excusable et même nécessaire , lorsque la tentative que l ' on fait pour renverser les opinions reçues depuis des siècles , opinions qui se fondent sur les plus minutieuses recherches de j ' anatomie de l ' homme et des animaux inférieurs , ne s ' appuie sur d ' autres bases que des expériences faites au hasard , et d ' où l ' auteur conclut de la manière la plus légère qu ' il a démontré que les nerfs olfactifs ne sont pas destinés à l ' odorat , les nerfs optiques a la vision , el les nerfs acoustiques à l ' ouïe ; mais que les organes merveilleux destinés à ces diverses fonctions sont animés par un seul nerf , qui donne en même temps le mouvement aux muscles de la face et la sensibilité à toutes les parties extérieures de la tête .C ' est certainement déduire des expériences qu ' on a faites un corollaire d ' une singulière hardiesse , d ' avancer que la théorie des sensations a besoin d ' être réformée .",
+        "words": [
+          "odorat",
+          "nerfs",
+          "olfactifs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/f5f18050-b727-521a-9b6a-27d1d7192393",
+        "value": "Brulatour , chirurgien - major de l ' Hôtel - Dieu - Saint - André , a lu un mémoire dans lequel sont consignées plusieurs observations qui constatent que la solution de chlorure de soude a détruit l ' odeur repoussante de la gangrène ; que la séparation des escarres gangréneuses et la détersion des ulcères qui en résultent , ont été sensiblement accélérées par les lotions et les applications des pièces d ' appareil trempées dans cette solution .Il a aussi expérimenté la solution de chlorure de chaux dans les autopsies cadavériques ; l ' odeur qu ' exhale l ' ouverture de la cavité abdomi * nale a été immédiatement neutralisée .» F .",
+        "words": [
+          "odeur",
+          "exhale",
+          "chlorure de chaux",
+          "ouverture"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/faee067e-cb67-5230-bd0b-279a4e84bc76",
+        "value": "Après qu ' on a coupé la portion dure à droite ou à gauche , l ' animal perd l ' odorat de ce côté ; l ' ammoniaque ne manifeste plus son action irritante sur la narine correspondante , quoique la vapeur produise l ' écoulement des larmes .De plus , dans le cas où la portion dure est paralysée , le malade cesse de percevoir les odeurs du côté correspondant .Les expériences de M .",
+        "words": [
+          "odeurs",
+          "malade"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/1d5f3f52-a416-5d3e-b2f3-2633ea2727a4",
+        "label": "Athénée de médecine"
+      }
+    ],
+    "label": "Nouvelle bibliothèque médicale",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k97831994",
+    "date": "1825",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/241",
+      "label": "Gangreen"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/642",
+      "label": "Cinchona"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/049b672c-46eb-55f2-9c2f-25e38db873d1",
+      "label": "1825",
+      "begin": "1825",
+      "end": "1825"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8505504/",
+      "label": "Hotel Dieu"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/0820035b-1ffa-51c1-a075-0c6e40f7972f/fragment/57dbe4fc-05b1-5b2e-8742-4a64fdb4eec6",
+  "license": "Public domain"
+}

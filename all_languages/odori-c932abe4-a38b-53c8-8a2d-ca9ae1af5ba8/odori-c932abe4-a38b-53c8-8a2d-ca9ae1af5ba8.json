@@ -1,0 +1,188 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/c932abe4-a38b-53c8-8a2d-ca9ae1af5ba8",
+  "@graph": "http://data.odeuropa.eu/wikisource",
+  "label": "odori",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/00a73472-c65a-513a-93c3-87a0419e9f1b",
+        "value": "E strani edifizÃ ® a colori vivaci , a terrazzo , a colonnette policrome e svelte .E su tutto , il fiato veemente del mare e del deserto , Il martire vendicato 135 un profumo dâ   oleandro e di pesce fritto , di carogna e di essenza di rose .La nave che ci portava verso il Sud avrebbe sostato due giorni per rifornirsi .",
+        "words": [
+          "profumo",
+          "essenza",
+          "essenza di rose",
+          "dâ  "
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/038837d8-eb84-5ae5-a8e0-cc579030b3ae",
+        "value": "2 l ' altare del passato talitÃ   nei giorni di vacanza .Per giungere alla casa del mio amico , si passava attraverso la parte vecchia della cittÃ   â   ora quasi tutta scomparsa â   : un labirinto di viuzze buie ed umiducce odoranti di bettola e di conceria , di frutta marcia e di vinaccia , dove il cielo appariva dallâ   alto come un nastro sottile e tortuoso , fra le mura decrepite dei palazzi nobiliari .Rivedo il palazzo del mio amico .",
+        "words": [
+          "odoranti",
+          "di bettola",
+          "di vinaccia",
+          "umiducce",
+          "di frutta marcia",
+          "di conceria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/20ab6ff9-1e89-5f2b-bf8f-5f21b8b8cc58",
+        "value": "E la folla Ã ¨ disposta secondo il gusto convenuto che importarono in Piemonte i pittori fiamminghi e sulla folla ondeggia con un ritmo vago , insistente la canzone del giorno .Ma oltre Palazzo Madama , che preclude la vista dellâ   altra metÃ   della Piazza , sâ   alza un mormorÃ ¬ o diverso , una melodia liturgica e solenne e lâ   aria si vela di nubi candide e odora acutamente dâ   incenso .Mâ   apro il passo per un varco dei Portici e resto immobile rapito dal quadro piÃ ¹ solenne che la fede intatta abbia offerto mai ad occhi mortali .",
+        "words": [
+          "odora",
+          "acutamente",
+          "  aria",
+          "dâ   incenso",
+          "Palazzo Madama"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/2b8a0659-e1ed-58f6-b076-fe2f401b41f6",
+        "value": "Uscii , suonai alla porticina di legno scolpito e tarlato .Quale prigione doveva essere quella casa e quale tanfo di chiuso lÃ   dentro ! Ma quando la porta sâ   aperse , mi salutÃ ² una luce vivissima che veniva da un bel giardino verde e mâ   accolse un profumo di glicine e di rose cosÃ ¬ acuto che vinceva lâ   odore di muffa delle stanze secolari .Una fantesca pingue mâ   introdusse in un salone , in attesa .",
+        "words": [
+          "acuto",
+          "di muffa",
+          "odore",
+          "mi",
+          "profumo",
+          "di rose",
+          "di glicine",
+          "delle stanze secolari"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/3a920d10-dae6-56bd-bda7-ccdfb4e3e5ca",
+        "value": "E tutti ci trovammo in piedi , in camicia , nellâ   oscuritÃ   : io , lo zio , la cuoca , urlando impazziti .Garibaldina 31 strano odore di bruciaticcio , acre e soffocante che mozzava il respiro .In questa sala poi , lâ   aria si faceva irrespirabile e velata : â   Devâ   essere preso fuoco ad un camino ; questa Ã ¨ fuliggine che brucia , â   diceva mio zio , ansimando piÃ ¹ che mai .",
+        "words": [
+          "acre",
+          "di bruciaticcio",
+          "odore",
+          "strano",
+          "soffocante",
+          "che mozzava il respiro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/5d5b5fe5-09df-590a-9ebb-e931916abd02",
+        "value": "OhimÃ ¨ , il cielo precipitÃ ² le sorti in tuttâ   altro modo e favorendo il nostro idillio silenzioso con una catastrofe inverosimile .Da qualche giorno si sentiva in casa uno Garibaldina 31 strano odore di bruciaticcio , acre e soffocante che mozzava il respiro .In questa sala poi , lâ   aria si faceva irrespirabile e velata : â   Devâ   essere preso fuoco ad un camino ; questa Ã ¨ fuliggine che brucia , â   diceva mio zio , ansimando piÃ ¹ che mai .",
+        "words": [
+          "acre",
+          "di bruciaticcio",
+          "odore",
+          "in casa",
+          "strano",
+          "soffocante",
+          "che mozzava il respiro",
+          "Da qualche giorno"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/5da45b91-7416-5b8e-adb1-dffcee660f46",
+        "value": ".Ginocchioni , senza respiro , con lâ   occhio tra la porta e la soglia , si cercava invano di scorgere qualche cosa ; giungeva soltanto come un fumo odoroso , un aroma dâ   incenso .Il sangue mi pulsava alle tempia con la violenza dâ   un maglio .",
+        "words": [
+          "odoroso",
+          "aroma",
+          "fumo",
+          "dâ   incenso",
+          "Ginocchioni"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/6e3f3148-1f79-5093-88f4-dfc42ca056db",
+        "value": "â   Ma la bela madamin ? Passo nel Gabinetto Cinese attraverso le sale di raso cilestre , cremisi , salice , fragola , canarino dellâ   appartamento della Regina , sosto nei corridoio persiano ad ascoltare i commenti di due Dame ! â   Un amore ! un amore ! â   Si parla di lei ; Ã ¨ dunque vicina .Eccomi nel Gabinetto delle Miniature nella Galleria Pompeiana : un profumo acutissimo mâ   annuncia il penetrale del fiore riposto .E sulla soglia sosto abbagliato Torino d ' altri tempi 157 e lâ   Italia non era : quale , quale commozione che non so dire ! â   E souma inteis , â   conclude Sua MaestÃ   senza alzare gli occhi dalla lettera .",
+        "words": [
+          "acutissimo",
+          "del fiore",
+          "profumo",
+          "nella Galleria Pompeiana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/70615ad2-c883-583a-aed9-613afda94234",
+        "value": "Il corteo fantastico si svolge interminabile come in una fiaba dei Perrault , ma non reca il marchese di Carabattole , non il gatto dagli stivali , non Cenerentola fatta regina , ma tutte le belle dame della nobiltÃ   subalpina , la 160 l ' altare del passato Camerieri , parrucchieri , servi balzano in piedi , rigidi , addossati alle pareti .La madre sosta sulla soglia , sorride , tende le braccia alla figlia , lâ   abbraccia , la bacia , ma con delicatezza trepidante , come si odora un fiore troppo fragile .â   Un rÃ ª ve , vraiment un rÃ ª ve ! Da giÃ   châ   a lâ   Ã ¨ cosÃ ¬ , da giÃ   châ   a lâ   Ã ¨ destin , faruma la girada anturn a tÃ ¼ t TÃ ¼ rin .",
+        "words": [
+          "un fiore",
+          "odora",
+          "troppo fragile"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/b96a44f6-dee7-528c-adec-9d2b31bafebd",
+        "value": "Ã  il pensiero di quella felicitÃ   impunita , mi faceva soffrire come ventâ   anni prima .Port - Said : cittÃ   singolare , sorta come per incanto tra lâ   Asia e lâ   Africa , sulle sabbie fulve , fra un cielo azzurro di vetrata e un mare di ametista : porta dellâ   Occidente e dellâ   Oriente , miscela turbinosa di tutti i suoni , di tutti gli odori , di tutte le tinte : cenci luminosi di donne e di bimbi egizi , bianchezza di barracani , bagliori di uniformi europee , ingiurie , bestemmie arabe , spagnuole , francesi , maltesi , fruscii di sete , melopee arabe , lagni di flauto e di barduca ..",
+        "words": [
+          "odori",
+          "Port - Said"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/c44a4754-f285-51e4-9e59-7a230c12a823",
+        "value": "E ci si scambiava lâ   ospi - 2 l ' altare del passato talitÃ   nei giorni di vacanza .Per giungere alla casa del mio amico , si passava attraverso la parte vecchia della cittÃ   â   ora quasi tutta scomparsa â   : un labirinto di viuzze buie ed umiducce odoranti di bettola e di conceria , di frutta marcia e di vinaccia , dove il cielo appariva dallâ   alto come un nastro sottile e tortuoso , fra le mura decrepite dei palazzi nobiliari .Rivedo il palazzo del mio amico .",
+        "words": [
+          "odoranti",
+          "di bettola",
+          "di vinaccia",
+          "umiducce",
+          "di frutta marcia",
+          "di conceria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/d1940a3d-424d-5a07-9a6d-05f905063013",
+        "value": "â   Ma la bela madamin ? Passo nel Gabinetto Cinese attraverso le sale di raso cilestre , cremisi , salice , fragola , canarino dellâ   appartamento della Regina , sosto nei corridoio persiano ad ascoltare i commenti di due Dame ! â   Un amore ! un amore ! â   Si parla di lei ; Ã ¨ dunque vicina .Eccomi nel Gabinetto delle Miniature nella Galleria Pompeiana : un profumo acutissimo mâ   annuncia il penetrale del fiore riposto .E sulla soglia sosto abbagliato 158 l ' altare del passato dinanzi alla piÃ ¹ delicata interpretazione vivente che mai sia stata fatta de la toilette de la MariÃ © e .",
+        "words": [
+          "acutissimo",
+          "del fiore",
+          "profumo",
+          "nella Galleria Pompeiana"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/f7e26277-032c-5603-ac5a-d65ef40ccd4f",
+        "value": "Presso la vasca un gruppo dâ   ufficiali europei , di mercanti parsi faceva corona ad un tappeto immenso e sul tappeto , fra una suonatrice nubiana e un flautista arabo , danzavano due mime .Il martire vendicato 135 un profumo dâ   oleandro e di pesce fritto , di carogna e di essenza di rose .La nave che ci portava verso il Sud avrebbe sostato due giorni per rifornirsi .",
+        "words": [
+          "profumo",
+          "essenza",
+          "essenza di rose",
+          "dâ   oleandro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/fd52db4a-34c9-5e95-839d-e349a17f6191",
+        "value": "160 l ' altare del passato Camerieri , parrucchieri , servi balzano in piedi , rigidi , addossati alle pareti .La madre sosta sulla soglia , sorride , tende le braccia alla figlia , lâ   abbraccia , la bacia , ma con delicatezza trepidante , come si odora un fiore troppo fragile .â   Un rÃ ª ve , vraiment un rÃ ª ve ! Da giÃ   châ   a lâ   Ã ¨ cosÃ ¬ , da giÃ   châ   a lâ   Ã ¨ destin , faruma la girada anturn a tÃ ¼ t TÃ ¼ rin .",
+        "words": [
+          "un fiore",
+          "odora",
+          "troppo fragile"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/4b8c549b-f9bc-5951-917f-a2783bbdc21b",
+        "label": "Guido Gozzano"
+      }
+    ],
+    "label": "L'altare del passato",
+    "url": "https://it.wikisource.org/wiki/Gozzano_-_L'altare_del_passato%2C_1918",
+    "date": "1918",
+    "language": "it"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/64a1f12b-fc50-5201-93ec-8c1527a102c4",
+      "label": "1918",
+      "begin": "1918",
+      "end": "1918"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/358619/",
+      "label": "Port Said"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/d367109d-d8c2-5290-8e45-35aca98b60cb/fragment/b96a44f6-dee7-528c-adec-9d2b31bafebd"
+}

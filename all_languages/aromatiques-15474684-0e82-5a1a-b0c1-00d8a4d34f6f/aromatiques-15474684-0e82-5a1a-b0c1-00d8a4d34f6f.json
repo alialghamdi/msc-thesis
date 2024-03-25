@@ -1,0 +1,1623 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/15474684-0e82-5a1a-b0c1-00d8a4d34f6f",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "aromatiques",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/00ed86d5-1693-544b-976b-04e775a875cd",
+        "value": "24 .Illa brevia ac minuta , et odorata .HISTOIRE NATURELLE , LIV .",
+        "words": [
+          "odorata",
+          "brevia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/01c87e8a-4e68-5789-b448-41ee6930f4f3",
+        "value": "Ces casia dont parle notre auteur , et qui se trouvent jusque sur les bords du Rhin , ne sont autre chose que des Daphne Gnidium , L .Ils n ' ont , dit Pline , ni l ' odeur ni la couleur de la bonne écorce de casia .Ce que notre auteur attribue à l ' influence d ' une température basse , doit l ' être à une différence d ' espèce .",
+        "words": [
+          "odeur",
+          "écorce de casia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/023cca6a-a0a3-52bc-98e3-1656e34bc16e",
+        "value": "Il abonde dans les pâturages de presque toute la France .Ce nom de sphondyliurn , iqoviïvxKiv , DlOSC , m , 90 , lui a été donné parce que les semences ont l ' odeur de l ' insecte spondylium ou sphondylion ( de ' S .UfovS ' vxrt , qui porte une mauvaise odeur ) ; insecte qu ' on trouve dans l ' intérieur du bois des pins : c ' est le spondylis de Fabricius .",
+        "words": [
+          "odeur",
+          "semences",
+          "insecte spondylium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/028b0996-8e7f-5e04-b8e0-156184acd0ce",
+        "value": "Clusius a établi que Vhirculus de Pline n ' était qu ' une simple variété de la plante à laquelle on doit le nard celtique ; il s ' agit donc d ' une valériane , et probablement de la valériane celtique , Valeriana celtica , L .Son nom dUhirculus rend compte de l ' odeur qui est très - forte et très - désagréable ; la racine était pourtant inodore .66 .",
+        "words": [
+          "odeur",
+          "racine",
+          "très - désagréable",
+          "très - forte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/05ba3e93-b699-5233-ac97-c2b780c8d9e9",
+        "value": "Le bdellion noir , rassemblé en masses , est Fadrobolon .Au reste , cette gomme doit être translucide , couleur de cire et odorante , surtout quand on la frotte ; grasse , amère au goût , mais sans aigreur .Employée dans les sacrifices , on l ' arrose de vin , ce qui augmente son parfum .",
+        "words": [
+          "odorante",
+          "cette gomme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/0751ddca-538d-5154-9de1-7e86a751d012",
+        "value": "se mange pas .L ' arbre , se distingue aussi par l ' odeur de ' ses .feuilles , qui se communique aux étoffes avec les - J vm .",
+        "words": [
+          "odeur",
+          "ses",
+          "arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/07a1265c-b6ef-58e7-a8d1-6bc75e5c25ab",
+        "value": "On trouve quelquefois des os dans celui des chevaux et des boeufs .Dans l ' homme , il augmente chaque année de deux drachmes , jusqu ' à l ' âge de cinquante ans ; à partir de cette époque , il décroît de la même manière ; et l ' homme ne vit pas au delà de cent ans , parce qu ' il ne lui reste rien du coeur , suivant l ' opinion des Egyptiens , qui sont dans l ' usage d ' embaumer les cadavres .On dît que quelques hommes naissent avec un coeur velu , et qu ' on n ' en - voit pas de plus braves et de plus ingénieux : tel fut Aristomène le Messénien , qui tua trois cents Lacédémoniens .",
+        "words": [
+          "embaumer",
+          "Egyptiens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/0a9f21d3-528e-534f-9b09-10b586cd41bb",
+        "value": "i3 .Sa fleur est pourpre , sa racine est semblable à celle du nard gaulois , et sa graine , remplie de suc , a une saveur chaude et vineuse .Il croît sur les montagnes ombragées , et fleurit deux fois l ' an .",
+        "words": [
+          "chaude",
+          "fleur",
+          "vineuse",
+          "graine",
+          "saveur",
+          "nard gaulois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/0b1d4d08-020f-5505-a76a-c301c044a2b9",
+        "value": "XL .Ils vont aussi chercher dans la Carmanie un arbre nommé strobus , qu ' ils emploient comme parfum , en l ' exposant au feu après l ' avoir arrosé de vin de palmier .L ' odeur , qui d ' abord se porte au plafond des salles où on en fait usage , descend jusqu ' à terre en répandant une odeur agréable , qui néanmoins rend la tête pesante , mais sans y causer de douleur .",
+        "words": [
+          "parfum",
+          "arbre",
+          "Carmanie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/0c18784e-0fd7-517d-a07a-90d58633af92",
+        "value": "Myrrham in iisdem silvis permixtam arborera nasci tradidere aliqui , plures separalim : quippe muliis in locis Arabioe gignitur , ut apparebit in generibus .La myrrhe est fort célèbre ; elle est toujours nommée avec les parfums les plus exquis ; ce qui a fait douter que la myrrhe des anciens et la nôtre fussent identiques .Cependant nous ferons remarquer que les peuples ne sont pas souvent d ' accord sur le mérite des par - NOTES JDU LIVRE XII .",
+        "words": [
+          "myrrhe",
+          "parfums",
+          "les plus exquis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/115e48ab-74ff-592d-ad5a-2a1b339d4a33",
+        "value": "C .Quam diligens eum obviis quoedam collocutio atque percunctalio ? Les observateurs modernes prétendent avoir remarqué , comme les anciens , que les fourmis paraissent s ' instruire , par le toucher et par l ' odorat , du succès de leurs recherches , et s ' encourager et s ' aider mutuellement .Consultez , sur les fourmis , les belles Recherches de M .",
+        "words": [
+          "odorat",
+          "fourmis",
+          "observateurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/1168a977-c9b8-50c7-9a45-c69186e1b4dc",
+        "value": "XXVI .Quant aux feuilles du nard , il convient d ' en traiter un peu au long , parce qu ' elles sont la base des parfums .Le .",
+        "words": [
+          "parfums",
+          "feuilles du nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/11c08282-e010-5235-841c-ca4165a00f51",
+        "value": "452 NOTES DU LIVRE XII .n ' est point amer , et vient des Indes ; son odeur est d ' ailleurs assez peu prononcée .Il est inutile de réfuter le ridicule préjugé qui veut que l ' aspalath , sur lequel se courbe l ' arc - en - ciel , acquière une odeur délicieuse .",
+        "words": [
+          "odeur",
+          "son",
+          "peu prononcée",
+          "Indes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/11e66ecf-a161-55f0-b194-29f812fa28d9",
+        "value": ", 87 .— Le calambac ou bois d ' aloès des Mexicains , grand arbre dont le bois a une saveur amère et - une odeur suave .Il est d ' un brun tirant sur le vert , peu pesant .",
+        "words": [
+          "bois",
+          "suave",
+          "odeur",
+          "amère",
+          "arbre",
+          "saveur",
+          "bois d ' aloès",
+          "calambac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/17853e27-e60f-53a0-9af3-d1078311079a",
+        "value": "prend qu ' il s ' agit sans doute d ' un sapin , et voici sur quoi il se fonde : bral vient du chaldéen berata qui signifie la même chose que l ' hébreu berosch , savoir une sorte de sapin rare , le cèdre de Phénicie , ou cèdre du Liban .Il est vrai que le cèdre offre des rameaux diffus , que son bois est odorant quand on le brûle , etc .Mais ces circonstances n ' ont rien de convaincant , puisqu ' il est question plus loin du cèdre .",
+        "words": [
+          "bois",
+          "odorant",
+          "cèdre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/1afbe9fa-c46b-5274-ae0d-bf0fb24dd831",
+        "value": "Les anciens nom - r maient Passa .que nous avons qualifié de fétide , le parfum des dieux , et nous doutons fort qu ' un Apicius moderne voulût mettre entre les mains de son cuisinier un Athénée au lieu d ' un Beauvilliers .Il paraît , par deux passages de Virgile ( JEneid .",
+        "words": [
+          "fétide",
+          "parfum",
+          "nous",
+          "Apicius",
+          "Athénée",
+          "Beauvilliers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/1eed7814-0b19-5bf8-833f-c2c8ecc31daa",
+        "value": "Les trafiquans donnent le même nom à la lie du parfum qu ' on en tire .Du calamus odorant ; du jonc odorant .XLVIII .",
+        "words": [
+          "odorant",
+          "calamus",
+          "jonc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/1f74e4df-a780-59d3-b099-2c777b559952",
+        "value": "Pline dit le nard noir ; il assure que les feuilles en sont odorantes : et chacun sait ^ ju ' il n ' existe , aucune graminée à feuilles aromatiques .Il ajoute que les épis sont employés ; or les épis des graminées sont dajns le même cas que les feuilles , et presque tous sont inodores , il faut donc chercher une autre plante que VAndropogon Nardus , et peut - être la trouverait - on dans la famille des valérianées .Jones a établi d ' une manière victorieuse qu ' il s ' agissait de la Vàleriana Jatamansi , plante connue des Indous sous lé nom de djatâmânsi , et des Arabes sous le nom de sombul , mot qui signifie épi , pique , parce qu ' en effet la base de la tige est entourée de fibres qui ont l ' apparence d ' un épi , ce qui justifie très - bien les noms de < nkyys et celui de spica , que les Grecs et les Romains ont donnés à cette drogue .",
+        "words": [
+          "inodores",
+          "épis des graminées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2438150f-0b1b-5db4-aaf7-fe4e9503d656",
+        "value": "Les feuilles font varier le prix de cette denrée : l ' adrosphoeron , ou nard à grandes feuilles , se vend cinquante deniers la livre ; le mésosphoeron , c ' est - à - dire à moyennes feuilles , coûte soixante deniers ; enfin le plus renommé , le microsphoeron , ou à petites feuilles , vaut soixante - quinze deniers .L ' odeur du nard , quelle qu ' en soit l ' espèce , est plus agréable quand il est nouveau ; s ' il a vieilli , le plus noir est préférable .Parmi ceux qui croissent dans notre empire , le plus renommé est celui de Syrie ; vient ensuite celui des Gaules , puis celui de Crète , que quelques - uns appellent nard sauvage .",
+        "words": [
+          "odeur",
+          "plus agréable",
+          "nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/26d6099c-b936-5494-b28a-dc18d0c37b51",
+        "value": "XII .3 ^ 7 mais qui donne une huile plus parfumée : il croît dans les plaines .Celui \" d ' Egypte passe pour être plus gras , pour avoir l ' écorce rouge et plus épaisse ; et quoiqu ' il naisse dans les marais , on le dit plus court et plus sec .",
+        "words": [
+          "huile",
+          "parfumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/27b9982d-5adc-5800-8be9-5da2487c3049",
+        "value": "Je ne vois pas pourquoi les animaux de ce genre pourraient plutôt vivre sans respirer que respirer sans poumons , comme nous l ' avons dit des animaux marins , quoique la densité et la profondeur de l ' eau interdisent toute communication avec l ' air .Peut - on se résoudre à croire que des animaux qui volent , ne respirent pas l ' air au sein duquel ils vivent , et soient capables de se nourrir , de se reproduire , de suivre des travaux , de s ' occuper même de l ' avenir ; et que , privés des membres qui servent à transmettre les sensations , ils jouissent cependant de Fouïe , de l ' odorat et du goût ; je dis plus , qu ' ils possèdent l ' adresse , le courage , l ' industrie , ces dons précieux de la nature ? 8 C .PLINII HIST .",
+        "words": [
+          "air",
+          "odorat",
+          "goût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/28289b9a-fd3f-538d-a5bd-3086f1ba2f1d",
+        "value": "Tous ceux que nous avons appelés insectes périssent par l ' aspersion de l ' huile .Les vautours , qui fuient les parfums , aiment les autres odeurs ; les scarabées recherchent la rose .Le scorpion fait périr quelques serpens .",
+        "words": [
+          "parfums",
+          "rose",
+          "odeurs",
+          "scarabées",
+          "vautours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/285fa08e-80d8-51ec-8b5f-ec4461c8f938",
+        "value": "Les Indiens tirent pareillement de leurs arbres de quoi se vêtir .On trouve dans les îles de Tylos un autre arbre semblable au violier , mais quatre fois plus grand , et sans odeur , ce qui est surprenant dans ce climat .Lieux où les arbres ne perdent point leur feuillage .",
+        "words": [
+          "odeur",
+          "les îles de Tylos"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/29410295-abe2-5df9-befd-7010999bc0ca",
+        "value": "Ce que dit Dioscoride de l ' amome ( i , i4 ) tend encore à jeter du vague dans toutes les hypothèses citées plus haut ; c ' est , suivant cet auteur , un arbrisseau muni de vrilles , qui se trouve dans le royaume de Pont , la Médie et l ' Arménie .Son bois est rougeâtre , odorant et veineux , on met ses fleurs en bouquet , et ses sommités sont garnies d ' un grand nombre de semences .Nous terminerons cette note en déclarant qu ' il nous semble impossible , faute de renseigneméns suffisans , de pouvoir désigner avec quelque certitude une plante qu ' on puisse regarder comme fournissant l ' amome des anciens .",
+        "words": [
+          "bois",
+          "odorant",
+          "fleurs",
+          "veineux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2ad3c686-8c2c-56eb-98e7-deaf57fa7565",
+        "value": "La pissoceros , comme une couche de poix , s ' étend par - dessus , et ressemble à une cire liquide .La propolis provient de la gomme douce des vignes et des peupliers ; sa substance , dans la composition de laquelle entre le suc des fleurs , est plus épaisse ; toutefois ce n ' est pas encore la cire , mais le soutien des rayons , ce qui les garantit du froid et de toute injure ; elle est en outre d ' une odeur forte , et l ' on s ' en sert communément au lieu de galbanum .Erithaque , sandaraque ou cérinthe .",
+        "words": [
+          "forte",
+          "odeur",
+          "elle",
+          "propolis",
+          "galbanum",
+          "gomme douce des vignes et des peupliers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2b01bca6-215d-5e2d-945e-01c5e6f07d06",
+        "value": "394 C .Le panax , usité dans la parfumerie , vient aussi de la Syrie : on en tire de Psophis , en Arcadie , des environs des sources ' de FÉrymanthe , enfin de l ' A * frique et de la Macédoine .TJne férule d ' espèce partir culièçe le produit .",
+        "words": [
+          "Arcadie",
+          "Syrie",
+          "Macédoine",
+          "parfumerie",
+          "A",
+          "panax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2bbc5e97-b639-5740-b9a6-7692c40ae9c1",
+        "value": "Le galbanum est regardé par l ' Ecriture comme un agréable parfum ; ce qui ne doit pas nous surprendre , bien que son odeur nous déplaise .Lapeyrouse a séjourné chez un peuple à qui l ' odeur du poisson pourri plaisait bien plus que l ' odeur des roses ; et les Arabes nomment encore mets des dieux , ce que nous appelons stercus diaboli .Galbanum vient de l ' hébreu fW37n , khèlbenâh , d ' où les Grecs ont formé yahCecvn .",
+        "words": [
+          "odeur",
+          "roses",
+          "peuple",
+          "poisson pourri",
+          "Arabes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2c75626a-d2f6-536b-9e8b-ef088a8f0b58",
+        "value": "que plusieurs espèces étaient réunies sous le nom collectif de costus ; et enfin , que divers pays les fournissaient .Le costus des modernes a une - odeur assez douce ; mais il ne mérite pas , à beaucoup près , la qualification de précieux aromate qui lui est si souvent donnée par les anciens .Quant à ce qui touche à la question botanique , il y a moins d ' incertitude .",
+        "words": [
+          "odeur",
+          "aromate",
+          "assez douce",
+          "les anciens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2d3393d2-8760-5bbc-b582-a80dbcf38cb4",
+        "value": "337 plus brun ; le quatrième enfin , et le pire , a des couleurs diverses , peu d ' odeur et beaucoup de friabilité .Le bon cardamome doit avoir une odeur approchant de celle du costus .On le trouve aussi dans la Médie .",
+        "words": [
+          "odeur",
+          "celle",
+          "cardamome",
+          "costus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/2f53bb5a-9eb8-53b7-b1e3-dfb05c5219f3",
+        "value": "Ces fictions n ' ont d ' autre but que d ' augmenter le prix des denrées .On a ajouté une autre fable : c ' est qu ' à la chaleur des rayons du soleil de midi , il s ' élève sur toute la presqu ' île une exhalaison délicieuse provenant des aromates de cette contrée , ce qui fit reconnaître l ' Arabie à la flotte d ' Alexandre , 366 C .PLINII HIST .",
+        "words": [
+          "aromates",
+          "délicieuse",
+          "exhalaison",
+          "contrée",
+          "toute la presqu ' île"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/30831b96-c982-5f0b-b86c-923e317e83d4",
+        "value": "XII .331 cause de sa mauvaise odeur .Le nard se falsifie avec une herbe très - commune , nommée faux - nard , dont la feuille est plus large et plus épaisse , et dont la couleur peu prononcée tire sur le blanc .",
+        "words": [
+          "mauvaise",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/30b3606c-a4a3-5494-a124-a388f3c488dd",
+        "value": "iicS ) le meilleur est celui qui découle avant l ' entière maturité de la graine .Du reste , on falsifie le baume en larmes avec ' e suc de cette graine même ; et l ' on reconnaît , ave < : beaucoup de peine , l ' altération à une saveur amère : car le baume a une saveur douce sans la moindre acidité , et son odeur n ' est que prononcée .D ' autres falsifications s ' opèrent à l ' aide des huiles de rose , de 39o C .",
+        "words": [
+          "douce",
+          "odeur",
+          "son",
+          "baume",
+          "amère",
+          "que prononcée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/3a9aecd9-7b5f-5c29-b3b6-764ec6640aad",
+        "value": "On l ' appelle dathiate , et le premier se nomme carphéote .On prétend que l ' encens d ' un jeune arbre est plus blanc , mais que celui d ' un vieil arbre a plus d ' odeur .Quelques - uns disent que l ' encens des îles est le meilleur ; Juba prétend que les îles n ' en fournissent point .",
+        "words": [
+          "odeur",
+          "encens",
+          "jeune arbre",
+          "vieil arbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/3a9e2200-cf74-516a-8fce-5ef5e9161bc6",
+        "value": "Il est plus fragile , plus écailleux et plus amer que les autres ; celui des Indes est plus humide et gommeux .On le falsifie avec des amandes , et les autres espèces avec Fécorce du scordaste , arbre dont la gomme ressemble au bdellion ; mais la falsification , de même que celle des autres parfums , ce que nous dirons une fois pour toutes , se découvre par l ' odeur , la couleur , le poids , le goût et le feu .Le bdellion de la Bactriane est sec , luisant , et parsemé de taches blanches comme celles de l ' ongle .",
+        "words": [
+          "odeur",
+          "parfums",
+          "amandes",
+          "arbre",
+          "Fécorce",
+          "scordaste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/3adbc847-ce7a-56f1-a1b3-0f79fa4aaf7d",
+        "value": "Les moutons sont encore dangereux pour elles , parce qu ' elles ont de la peine à se dégager de leur laine .L ' odeur des écrevisses , si l ' on en fait cuire dans le voisinage , les fait mourir .Maladies des abeilles .",
+        "words": [
+          "odeur",
+          "écrevisses",
+          "les fait mourir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/3c0984db-0449-543b-bc56-ea2d3a9b72c0",
+        "value": "Il se trouve aussi dans l ' Ariane une autre plante épineuse qui a la feuille du laurier , et dont le suc , répandu sur les yeux , fait perdre la vue à tous les animaux .On y rencontre aussi une herbe d ' une odeur singulière , couverte de petits serpens , dont la morsure fait mourir sur - le - champ .Onésicrite dit que , dans les vallées d ' Hyrcanie , on trouve des espèces de figuiers nommés occhi , dont il découle du miel , tous les matins , pendant deux heures .",
+        "words": [
+          "odeur",
+          "singulière",
+          "herbe",
+          "petits serpens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/3c72df77-595e-5120-bf48-55bc3787a649",
+        "value": "inodern .es appellent ce parfum stroa3 .stroa3 .",
+        "words": [
+          "parfum",
+          "stroa3"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/3f006a70-2907-58af-afbf-472886152570",
+        "value": "On la fait cuire dans l ' huile , et ensuite , par expression , on en obtient le parfum dit cypre , qui se vend cinq deniers la livre .Le cypre de Canope , sur les rives du Nil , fournit le meilleur ; vient ensuite celui d ' Ascalon , en Judée ; en troisième lieu celui de l ' île de Cypre , qui est d ' une odeur suave .Quelques - uns identifient le cypre avec l ' arbre qui porte , en Italie , le nom de ligustrum .",
+        "words": [
+          "suave",
+          "odeur",
+          "Judée",
+          "cypre",
+          "île de Cypre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/404d8a0d-8260-50aa-9389-376f8afe6bf3",
+        "value": "On le falsifie avec des baies de myrte , et avec des saletés enlevées à d ' autres animaux que des chèvres .Le bon ladanum doit avoir une odeur sauvage , et sentir en quelque sorte le désert .Il doit 358 C .",
+        "words": [
+          "sauvage",
+          "odeur",
+          "désert",
+          "bon ladanum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/41c63ad6-5d0a-5b13-b370-e14e70b41e66",
+        "value": "Le seul moyen de les connaître , c ' est qu ' elles ne soient pas fragiles et desséchées , mais seulement sèches .On trouve toujours auprès du nard des Gaules une herbe qui lui ressemble , et que son odeur forte et analogue à celle du bouc a fait surnommer hircule : on s ' en sert pour le falsifier .Elle en diffère en ce qu ' elle n ' a point de tige , que ses feuilles sont plus petites , et que sa racine n ' est ni amère ni odorante .",
+        "words": [
+          "forte",
+          "odeur",
+          "celle",
+          "bouc",
+          "herbe",
+          "nard des Gaules"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/42b46450-f0a2-583e-b9fc-5b846d0699bf",
+        "value": "Ce nom de sphondyliurn , iqoviïvxKiv , DlOSC , m , 90 , lui a été donné parce que les semences ont l ' odeur de l ' insecte spondylium ou sphondylion ( de ' S .UfovS ' vxrt , qui porte une mauvaise odeur ) ; insecte qu ' on trouve dans l ' intérieur du bois des pins : c ' est le spondylis de Fabricius .112 .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "UfovS"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/43a9f212-4846-5bc1-bfec-c1c8917e40aa",
+        "value": "XLVIII .Le calamus odorant qui naît en Arabie se trouve aussi dans les Indes et en Syrie ; celui de cette dernière contrée est le meilleur de tous , et croît à cent 378 C .PLINII HlST .",
+        "words": [
+          "Syrie",
+          "odorant",
+          "calamus",
+          "Indes",
+          "Arabie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/4405db79-34cd-5b21-aacb-0abf7809a1af",
+        "value": "peaux , encore fraîches , de bêtes tuées exprès , afin que les vers qui s ' y engendrent rongent tout le bois r et forment une cavité dans l ' écoree , garantie par son amertume .On recherche la plus nouvelle , qui doit être d ' une odeur très - suave , d ' une saveur qui produit plutôt une sensation brûlante qu ' une chaleur douce et prolongée , d ' une couleur purpurine , d ' une extrême légèreté dans ses tuyaux courts et difficiles à rompre .C ' est cette espèce que les barbares nomment lacta .",
+        "words": [
+          "odeur",
+          "très - suave"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/44c54cb1-9664-57bb-975d-96e60b8f510d",
+        "value": "On trouve toujours auprès du nard des Gaules une herbe qui lui ressemble , et que son odeur forte et analogue à celle du bouc a fait surnommer hircule : on s ' en sert pour le falsifier .Elle en diffère en ce qu ' elle n ' a point de tige , que ses feuilles sont plus petites , et que sa racine n ' est ni amère ni odorante .Asaron .",
+        "words": [
+          "odorante",
+          "amère",
+          "sa racine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/46731b16-7803-5f34-bf9b-e32a2a67ab8d",
+        "value": "Pour rendre le nard plus pesant , on y mêle de sa racine , de la gomme , de la litharge , de l ' antimoine , du cyperus , ou de l ' écorce de cyperus .On reconnaît le nard pur à sa légèreté , à sa couleur rousse , à sa bonne odeur et à sa saveur agréable , à la propriété qu ' il a de dessécher la bouche .Les épis se vendent cent deniers la livre .",
+        "words": [
+          "agréable",
+          "bonne",
+          "odeur",
+          "sa",
+          "nard",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/46c53232-9a5f-5407-acfc-35a52a4ea8b6",
+        "value": "Calamus quoque odoralus NOTES DU LIVRE XII .Tiges de couleur roussâtre , marquées de géniculations rapprochées , faciles à réduire en éclats , creuses et remplies d ' une sorte de bourre ( moelle ) qui imite des toiles d ' araignées , visqueuses lorsqu ' on les mâche , d ' une saveur astringente , amère , mêlée d ' acrimonie ; il vient des Indes ; on le mêle comme aro - 448 NOTES DU LIVRE XII .che , ni astringente , ni acre , mais fortement amère .",
+        "words": [
+          "amère",
+          "astringente",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/477dd14a-178b-52fd-aefd-d296df924b74",
+        "value": "On en fait dès boîtes , des étuis , etc .Indépendamment des trois arbres cités dans cette synonymie , il est certain que le commerce et les collections de matière médicale montrent encore , sous le nom de bois d ' aloès , des bois qui appartiennent à d ' autres végétaux , circonstance qui n ' a pas peu contribué à rendre impossible la distinction des espèces ; aussi voit - on dés descriptions incomplètes faire varier à l ' infini les caractères physiques tirés de la pesanteur spécifique , de la dureté , de la couleur et de l ' odeur .On a donné à l ' euphorbiacée , qui nous occupe , le nom d ' à ? - - * bor excoecans , arbre qui aveugle , à cause de l ' âcreté du suc propre dont la causticité est telle , qu ' on l ' a vu déterminer , lorsqu ' il pénétrait dans les yeux , des inflammations suivies de cécité .",
+        "words": [
+          "bois",
+          "odeur",
+          "bois d ' aloès"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/4a9f5f36-4cec-5fd6-b1f7-25eb758053c2",
+        "value": "Odeur nulle .Saveur amère .La moelle est moins amère que le bois .",
+        "words": [
+          "amère",
+          "Saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/4b6abaed-17f3-5fdd-8f55-b7ddda4533a8",
+        "value": "( Ibidem .) parle aussi du mitys , qui est comme - un sédiment noir et d ' odeur forte , dont les abeilles se servent pour garnir l ' ouverture de leur ruche , usagé \" à peu près semvin .1 $ 226 NOTES DU LIVRE XI .",
+        "words": [
+          "forte",
+          "odeur",
+          "sédiment",
+          "mitys"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/556608ef-1350-5b39-8ab1-f0154910a7c3",
+        "value": "Le miel vient de l ' air , généralement au lever des astres , et principalement sous la constellation de Sirius , jamais avant le lever des Pléiades , vers l ' aube du jour ; aussi , à la naissance de l ' aurore , les feuilles des arbres sont - elles alors humectées de miel ; et ceux qui se trouvent le matin dans les champs sentent leurs habits et leurs cheveux enduits d ' une liqueur onctueuse .Au surplus , que le miel soit une transpiration du ciel , une rosée des astres , un suc de l ' air qui s ' épure , plût aux dieux qu ' il nous parvînt sans mélange , liquide , naturel , tel qu ' il a coulé d ' abord ! Aujourd ' hui même , qu ' il tombe d ' une si grande hauteur , souillé mille , fois sur sa route , infecté parles exhalaisons terrestres qu ' il rencontre ; ensuite recueilli sur les feuilles et les herbes , entassé dans l ' estomac des abeilles , car elles le dégorgent par leur trompe ; en outre , corrompu par le suc des fleurs , macéré dans les ruches ; enfin , tant de fois change ' , il conserve cependant un goût délicieux qui décèle encore une nature céleste .o .",
+        "words": [
+          "air",
+          "infecté",
+          "exhalaisons",
+          "miel",
+          "Aujourd ' hui",
+          "terrestres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/57631577-edbd-57fa-94c2-7237f65b2141",
+        "value": "Il est certain pourtant qu ' employée dans l ' état récent et avant le complet développement du régime , elle peut être riche en mucilage .C ' est par erreur que Pline dit cet arbre odorant .Cf .",
+        "words": [
+          "odorant",
+          "arbre",
+          "Pline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/579a2966-886c-5127-8858-a911749565b1",
+        "value": ".Ce mot , comme on voit , signifie fruit à parfum , unguentaris glans .Il est évident qu ' il est ici question de la noix de Ben et de l ' arbre qui la produit .",
+        "words": [
+          "fruit",
+          "parfum",
+          "unguentaris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/57e0d0db-fac1-5515-94f7-65e2e4f72bc0",
+        "value": "Il y a des exemples de chevaux tués par les abeilles .Elles détestent et fuient les mauvaises odeurs , et même les odeurs factices ; aussi les voit - on harceler ceux qui portent des parfums , ayant d ' ailleurs à se défendre elles - mêmes contre plusieurs animaux .Les guêpes , es - / , 6 C .",
+        "words": [
+          "mauvaises",
+          "parfums",
+          "odeurs",
+          "factices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/584602a4-bc08-561f-8dd7-58f2442df33c",
+        "value": "Pour moi , je pense qu ' ils portèrent toutes ces denrées en Perse avant de les exporter en Syrie ou en Egypte , et je m ' appuie du témoignage d ' Hérodote , qui dit que les Arabes payaient chaque année au roi de Perse un tribut d ' encens du poids de mille talens .De Syrie ils rapportent du styrax , dont l ' odeur pi - 362 C .PLINII HIST .",
+        "words": [
+          "odeur",
+          "styrax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/5e205ef8-69c9-58fc-a976-0b2b519bb144",
+        "value": "XII .359 paraître sec , s ' amollir dès qu ' on le touche , et , s ' il est allumé , briller en dégageant une odeur agréable .Les espèces qui contiennent du myrte se reconnaissent par leur pétillement au feu .",
+        "words": [
+          "agréable",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/5f8eaa77-038b-51bc-8f05-944489ce04b6",
+        "value": "Myrobalaiu XLVÏ .Dans le pays des Troglodytes , dans la Thé \" baïde et dans la partie de l ' Arabie qui séparé la Judée de l ' Egypte , le myrobalan est commun , et y croît pour les parfums , comme son nom le fait connaître , en indiquant aussi que c ' est le gland d ' un arbre dont la feuille ressemble à celle de Fhéliotrope , dont nous parlerons en traitant des herbes .Ce fruit est de la grosseur d ' une aveline .",
+        "words": [
+          "parfums",
+          "Arabie",
+          "myrobalan",
+          "le pays des Troglodytes",
+          "Thé \" baïde"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/5fff7979-adfe-5938-9871-2ed0b14b65de",
+        "value": "XV .Il y a aussi dans l ' Inde , une graine aromatique semblable au poivre , mais plus grosse et plus - fragile , que l ' on nomme garyophyllpn ( girofle ) .On dit qu ' elle 3i8 C .",
+        "words": [
+          "Inde",
+          "aromatique",
+          "girofle",
+          "graine",
+          "garyophyllpn"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/601f2037-85cd-540a-bc3a-f02b28b5e9b1",
+        "value": "Les arbres qu ' on y voit sont de la grandeur du figuier .Leurs fleurs ont une odeur ravissante ; leur fruit est semblable au lupin ; mais il est si âpre , qu ' aucun animal n ' en veut manger .Dans la partie la plus élevée de l ' île , on trouve des arbres qui produisent du duvet différent de celui des Sères .",
+        "words": [
+          "odeur",
+          "Leurs fleurs",
+          "ravissante",
+          "leur fruit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/6154b16b-e5af-5c22-a8d6-bfd0bfefb6be",
+        "value": "Alierum ejus genus apud Gangem nascens , damnaiur in tolum , ozcenilidis nomine , virus redolens .Cenard des rives du Gange était récolté dans des lieux humides , cequi lui donnait des proportions plus considérables , mais aux dépens de sa fragrance .Nous pensons que c ' est là le nardus hadro , - sphcerum ( à grands épis ) .",
+        "words": [
+          "fragrance",
+          "Cenard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/63af618f-9ef1-5885-bd20-9faaaaca15b6",
+        "value": ".Il y a quelque exagération dans ce que dit Pline de l ' odeur de l ' opobalsamum .Cette térébenthine â un parfum fort inférieur à celui des véritables baumes qui contiennent de l ' acide benzoïque .",
+        "words": [
+          "odeur",
+          "Pline",
+          "opobalsamum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/63e8852d-ebbf-5221-8c42-b4664913e40e",
+        "value": "Tant il est vrai qu ' il n ' est aucun plaisir qui , par sa continuité , ne cause du dégoût .Ils brûlent aussi le styrax pour chasser les serpens , qui sont fort communs dans les forêts odoriférantes .De l ' Arabie heureuse .",
+        "words": [
+          "odoriférantes",
+          "styrax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/66899406-71a9-5a62-80de-8993ea20eb69",
+        "value": ", lib .vil ) dit : « Le calamus odorant est amer , un peu astringent et légèrement piquant .» Mathioli assure que de son temps on ne voyait plus de vrai calamus .",
+        "words": [
+          "odorant",
+          "calamus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/675b0658-bbbe-5933-bce2-d5fe2fe6d7e4",
+        "value": "Puisque nous traitons ici des parfums , nous croyons convenable de parler aussi du jonc , quoique un autre livre soit consacré aux herbes .Ces deux plantes ne diffèrent en rien , pour l ' aspect , de toutes celles de ce genre ; mais le roseau a une odeur plus agréable , et qui , de fort loin , flatte l ' odorat .Il est plus mou au toucher .",
+        "words": [
+          "agréable",
+          "odeur",
+          "odorat",
+          "roseau",
+          "deux plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/678e0789-7d95-527c-8d15-bfa5da346a02",
+        "value": "On n ' estime pas les noirs .Il en est de même de ceux qui croissent dans les îles et sur les pierres , et de ceux qui exhalent une odeur de palmier , et non leur odeur caractéristique .Cypre .",
+        "words": [
+          "odeur",
+          "leur",
+          "ceux",
+          "caractéristique",
+          "palmier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/68d13dc3-2bc3-5308-a355-a509cf37f831",
+        "value": "Entre le Liban et une autre montagne peu - connue ( non l ' Antiliban , comme quelques - uns l ' ont pensé ) , dans une vallée d ' une étendue médiocre , et à trente stades d ' un lac dont les parties marécageuses se dessèchent en été , naissent le calamus et le jonc aromatiques .Puisque nous traitons ici des parfums , nous croyons convenable de parler aussi du jonc , quoique un autre livre soit consacré aux herbes .Ces deux plantes ne diffèrent en rien , pour l ' aspect , de toutes celles de ce genre ; mais le roseau a une odeur plus agréable , et qui , de fort loin , flatte l ' odorat .",
+        "words": [
+          "parfums",
+          "herbes",
+          "jonc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/6c34e995-6d09-5815-ab84-a191bf192027",
+        "value": "Quelques - uns , innocens d ' ailleurs , deviennent nuisibles en se nourrissant de substances vénéneuses .Dans la Pamphylie et les montagnes de la Cilicie , les sangliers qui ont dévoré une salamandre empoisonnent ceux qui mangent de leur chair : ni l ' odeur ni le goût ne le font connaître ; l ' eau même et le vin où est morte une salamandre , ou seulement dont elle ait bu , tuent ceux qui en boivent .Il en est de même de la grenouille qu ' on appelle rubète : tant la vie est environnée de dangers ! L * es guêpes sont avides de la chair du serpent ; cet aliment rend leurs piqûres mortelles : voilà pourquoi la différence est grande entre telle et telle nourriture .",
+        "words": [
+          "odeur",
+          "vin",
+          "empoisonnent",
+          "tuent",
+          "Dans la Pamphylie et les montagnes de la Cilicie"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/6cc51cf7-1e05-5861-999f-aadf0f8c26f7",
+        "value": "n ' est point amer , et vient des Indes ; son odeur est d ' ailleurs assez peu prononcée .Il est inutile de réfuter le ridicule préjugé qui veut que l ' aspalath , sur lequel se courbe l ' arc - en - ciel , acquière une odeur délicieuse .L ' arc - en - ciel ne s ' appuie sur la terre qu ' en apparence ; ce n ' est point un corps particulier , mais une décomposition de la lumière .",
+        "words": [
+          "odeur",
+          "délicieuse",
+          "aspalath"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/6ec580bb-a253-5ec0-9431-c7971ebda771",
+        "value": "22 .Le palmier d ' Egypte , nommé adipsos , sert aussi aux parfums , et vient après le myrobalan : son fruit est vert , d ' une odeur de coing , et sans noyau .On le cueille un peu atvant qu ' il commence à mûrir .",
+        "words": [
+          "fruit",
+          "odeur",
+          "parfums",
+          "coing",
+          "palmier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/70ad2568-cafc-5c63-bdf2-9c215b33e1dc",
+        "value": "53 .L ' haleine du lion est fétide ; celle de l ' ours , pestilentielle .Nulle bête sauvage ne touche aux corps flétris de son souffle ; ils se corrompent plus vite qu ' aucun autre .",
+        "words": [
+          "fétide",
+          "haleine",
+          "pestilentielle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/720f15c9-cb0a-507f-8003-e344a82c8424",
+        "value": "Dans l ' Ariane , province limitrophe des Indes , on trouve un arbre épineux , et par cela même d ' un abord difficile , d ' où découle une liqueur précieuse , semblable à la myrrhe .H y a dans la même contrée un arbrisseau vénéneux dont la racine ressemble au raifort , et la feuille à celle du laurier , donf l ' odeur attire les chevaux , ce qui fut cause que , dès son entrée en cette province , Alexandre perdit presque toute sa cavalerie ; accident qui se renouvela dans la Gédrosie .Il se trouve aussi dans l ' Ariane une autre plante épineuse qui a la feuille du laurier , et dont le suc , répandu sur les yeux , fait perdre la vue à tous les animaux .",
+        "words": [
+          "odeur",
+          "racine",
+          "vénéneux",
+          "raifort",
+          "feuille",
+          "arbrisseau",
+          "laurier",
+          "chevaux",
+          "province",
+          "contrée",
+          "attire les chevaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/74dee9c7-a7ca-57db-b5db-ea5f633a4bc9",
+        "value": "C ' est la grappe du raisin Vitis vinifiera , L .Cueillie et desséchée au moment de la floraison , on sait qu ' elle exhale une odeur délicieuse .Les modernes n ' en tirent pourtant aucun parti .",
+        "words": [
+          "odeur",
+          "elle",
+          "délicieuse",
+          "moment",
+          "de la",
+          "floraison",
+          "la floraison",
+          "moment de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/7ceb7a84-c58a-5e81-a1a0-d0c2a9e5ed33",
+        "value": "Elles bnt là couleur du chat , et la grandeur du loup d ' Egypte .Le métal qu ' elles ont extrait pendant l ' hiver ; les Indiens le leur dérobent pendant les ardeurs de l ' été , lorsqu ' elles sont retirées dans des souterrains , à cause de la chaleur : toutefois , averties par l ' odorat , elles s ' élancent sur les ravisseurs , et souvent les mettent en pièces $ malgré là rapidité des chameaux qui servent leur fuite .Telles sont la vitesse et la férocité qui « e joignent en elles à la passion de l ' or .",
+        "words": [
+          "métal",
+          "odorat",
+          "Indiens",
+          "pendant l ' hiver",
+          "pendant les ardeurs de l ' été"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/7d6671b0-84fc-5c11-a5a0-24b666a70791",
+        "value": "Son odeur est délicieuse , sa saveur amère .Le bois de Rhodes , lignum rhodium des pharmacies , est le bois d ' une racine débarrassée de son écorce ; il est dur , compact , pesant , veiné de rouge ; son odeur suave rappelle celle de la rose ; la saveur en est amère .On a attribué ce bois au Genista canariensis , L .",
+        "words": [
+          "suave",
+          "odeur",
+          "son",
+          "rose",
+          "il",
+          "amère",
+          "bois de Rhodes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/7d6c7dc7-d80c-5cc3-aea9-317757c1ad41",
+        "value": "A peine à six doigts de terre , il pousse des branches , et semble desséché .Quand il est vert , il n ' a point d ' odeur ; sa feuille tient de celle de l ' origan , il aime la sécheresse , souffre de la pluie , et doit être taillé souvent .Il croît dans les plaines , mais au milieu des ronces et des épines , et il est difficile de l ' y cueillir .",
+        "words": [
+          "odeur",
+          "il",
+          "point",
+          "feuille",
+          "origan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/7dff4b0f-7714-5e80-9784-8336b58b396c",
+        "value": "Dans l ' ordre des évaluations , il faut nommer d ' abord le baume en larmes , puis la graine de baume , puis l ' écorce , enfin le bois .Ce dernier , pour être de première qualité , doit avoir la couleur du buis , et répandre beaucoup d ' odeur .La graine la plus estimée est celle qui réunit la pesanteur et le piquant à la propriété d ' échauffer le palais .",
+        "words": [
+          "odeur",
+          "buis",
+          "dernier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/7e20a874-a620-5805-9358-6658a21124af",
+        "value": "La première qualité se recueille dans le Pont , la seconde dans la Phrygie , et la troisième en Illyrie .On l ' arrache quand ses feuilles commencent à paraître , on le sèche au soleil , autrement il se gâte bientôt et contracte une mauvaise odeur .On a trouvé depuis peu dans là Thrace une herbe dont les feuilles sont tout - à - fait semblables à celles du nard des Indes .",
+        "words": [
+          "mauvaise",
+          "odeur",
+          "il"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/849beeb7-1068-5543-b824-575ad50c37c0",
+        "value": ", XII , v .IOO , et Gris 438 ) que la myrrhe était chez les anciens le parfum employé pour les cheveux , principalement dans la coiffure des gens efféminés qui se faisaient friser .Voyez Flore de .",
+        "words": [
+          "parfum",
+          "myrrhe",
+          "cheveux",
+          "coiffure"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/84f4975a-e071-5eed-9181-ac32a08475e0",
+        "value": "On a beaucoup discuté pour expliquer l ' épithète de mascidum donnée à .l ' encens ; quant à nous , il nous semble démontré qu ' on le qualifie ainsi , non parce que la forme de cette variété le fait ressembler à des testicules , mais seulement parce qu ' il est supérieur aux autres sortes , plus odorant , mieux choisi , etc .74 .",
+        "words": [
+          "odorant",
+          "encens",
+          "variété"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/87bc9cba-dd00-5891-b74e-5305c70aa393",
+        "value": "La tradition nominale n ' éclaircit rien ; car les Arabes et les peuples de l ' Inde ne nomment le costus de nos pharmacies d ' aucun nom qui rappelle le nom grec ou latin .Ainsi donc tout ce qu ' il y a de certain se borne à savoir qu ' il y avait , chez les Grecs et chez les Romains , une racine odorante qui servait comme aromate et se brûlait sur l ' autel des dieux ; 424 NOTES DU LIVRE XII .que plusieurs espèces étaient réunies sous le nom collectif de costus ; et enfin , que divers pays les fournissaient .",
+        "words": [
+          "odorante",
+          "aromate",
+          "racine",
+          "autel des dieux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/8847acb3-c215-50b6-9600-b9ee6f5def2b",
+        "value": "Il est bien possible qu ' on ait cru que c ' était la même plante que le troène , car il y ressemble beaucoup .Les fleurs , qui sont fort odorantes , peuvent très - bien avoir servi à composer un parfum .Voici quelle est la synonymie de cette plante : \" 133 , Cantiq .",
+        "words": [
+          "parfum",
+          "fleurs",
+          "odorantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/886626ba-6a43-5058-a95c-3641676bd684",
+        "value": "Mais doit - on entendre par / avp un aromate ou un corps gras , susceptible de servir à composer des parfums ? Nous adopterons cette dernière signification .Dioscoride , IV , i53 , dit qu ' on retire de la noix du balanus myrepsique une liqueur que l ' on fait entrer dans les parfums au lieu d ' huile ; et , de nos jours encore , les parfumeurs l ' emploient pour fixer l ' odeur fugace de plusieurs fleurs , telles que celle du jasmin et de quelques liliacées .D ' après tout .",
+        "words": [
+          "odeur",
+          "parfums",
+          "jasmin",
+          "parfumeurs",
+          "fugace",
+          "liliacées",
+          "plusieurs fleurs",
+          "noix du balanus myrepsique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/89e6e026-70ad-599d-8933-3d5fc999ecd9",
+        "value": "Forskhal a désigné YAmyris Kataf ou Kafal , comme donnant la myrrhe .Le bois de cet arbre , qui se trouve en Arabie , est résineux , et ses fruits renferment un baume fluide odorant ; les rameaux sont épineux , et les feuilles composées .Depuis les voyages de Forskhal on n ' avait rien recueilli sur l ' arbre à la myrrhe , et la question paraissait résolue , lorsque Ehrenberg annonça avoir trouvé sur les frontières de l ' Arabie et de la Nubie un balsamodendrum , sur lequel il avait récolté une myrrhe identique avec celle que nous recevons par le commerce , et qui , au moment de son écoulement , avait une consistance sirupeuse .",
+        "words": [
+          "bois",
+          "odorant",
+          "fruits",
+          "baume",
+          "fluide",
+          "Arabie",
+          "fluide odorant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/8a533f74-fd98-5831-9ad1-307665ae261c",
+        "value": "363 quante chasse le dégoût que leur causent leurs parfums ; car ils ne brûlent , pour l ' usage ordinaire , que des bois odoriférans .Les Sabéens font cuire leurs alimens avec du bois d ' encens , d ' autres avec du bois de myrrhe ; de sorte que , dans les villes et les villages , il n ' y a pas de fumée ni d ' odeur différente de celle des autels .C ' est pour empêcher que toutes ces odeurs ne leur soient nuisibles , qu ' ils brûlent le styrax dans des peaux de bouc , et qu ' ils en font des fumigations dans leurs maisons .",
+        "words": [
+          "bois",
+          "odeur",
+          "différente",
+          "bois d",
+          "villes",
+          "autels",
+          "villages",
+          "Sabéens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/8ec5706f-278a-5c3d-b736-2b4fc832080f",
+        "value": "Or , l ' huile de Ben est inodore .Mais doit - on entendre par / avp un aromate ou un corps gras , susceptible de servir à composer des parfums ? Nous adopterons cette dernière signification .Dioscoride , IV , i53 , dit qu ' on retire de la noix du balanus myrepsique une liqueur que l ' on fait entrer dans les parfums au lieu d ' huile ; et , de nos jours encore , les parfumeurs l ' emploient pour fixer l ' odeur fugace de plusieurs fleurs , telles que celle du jasmin et de quelques liliacées .",
+        "words": [
+          "aromate",
+          "parfums",
+          "corps gras"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/92b5061c-ff05-5b01-a71f-51a0269c9330",
+        "value": "Chez nul autre animal cette partie n ' est saillante .Les oiseaux , les serpens , les poissons ont des conduits pour l ' odorat , mais point de narines .De là les surnoms de Simus ( camus ) et dé Silo ( nez retroussé ) .",
+        "words": [
+          "odorat",
+          "poissons",
+          "oiseaux",
+          "serpens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/93eac416-1250-5d5b-a82b-61a27ed32b69",
+        "value": "Faisons d ' abord connaître le Laurus Casia des modernes .C ' est un arbre qui s ' élève à vingt - cinq pieds environ : ses rameaux sont grêles , très - nombreux , rougeâlres , garnis de feuilles alternes , lancéolées , aiguës , rougeâtres ou pourprées en dessous , à trois nervures longitudinales ; ses fleurs , petites et blanchâtres , sont pédonculées ; le fruit est baccien , et soutenu à sa base par le calice ; son écorce , telle que nous la présente le commerce , est d ' un rouge - brun , sous forme de morceaux épais d ' une ligne , planes ou bien roulés , glabres , durs et un peu flexibles ; son odeur est aromatique , assez agréable ; sa saveur amère , acre et chaude .Voyons si les descriptions puisées dans les auteurs anciens nous offriront des ressemblances dont nous puissions tirer parti , pour décider la question .",
+        "words": [
+          "aromatique",
+          "odeur",
+          "son",
+          "sa",
+          "assez agréable",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/946154b0-7b78-5985-b7e8-8aa6fe703866",
+        "value": ", grande graminéé qui se trouve dans diverses parties de l ' Inde .Ce n ' est donc ni un épi , spica nardi , ni une racine , nardi radix ; son odeur est agréablement aromatique , sa saveur chaude et amère ; elle parfume l ' haleine .Il est douteux que ce soit là le nard indien des anciens ; néanmoins plusieurs passages de la description de Pline se rapportent assez bien à notre plante pour , qu ' elle puisse justifier les premiers auteurs qui l ' ont indiquée comme le véritable nardus des anciens .",
+        "words": [
+          "chaude",
+          "odeur",
+          "son",
+          "elle",
+          "racine",
+          "sa",
+          "parfume",
+          "amère",
+          "agréablement aromatique",
+          "épi",
+          "nardi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/94952381-3833-5b9f-998f-a07bfcd4f30a",
+        "value": "Pline , ainsi qu ' on l ' a vu , en reconnaît de deux sortes : l ' un est la feuille d ' un arbre de Syrie et d ' Egypte ; l ' autre , qui est meilleur , vient des Indes et croît dans les marais .Son odeur est comparable à celle du safran et son goût est salé .Comment pourrait - on , sur de pareilles données , reconnaître la NOTES DU LIVRE XII .",
+        "words": [
+          "odeur",
+          "safran"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/95d21e75-9978-5445-968c-1838b61003d0",
+        "value": "Les Sabéens font cuire leurs alimens avec du bois d ' encens , d ' autres avec du bois de myrrhe ; de sorte que , dans les villes et les villages , il n ' y a pas de fumée ni d ' odeur différente de celle des autels .C ' est pour empêcher que toutes ces odeurs ne leur soient nuisibles , qu ' ils brûlent le styrax dans des peaux de bouc , et qu ' ils en font des fumigations dans leurs maisons .Tant il est vrai qu ' il n ' est aucun plaisir qui , par sa continuité , ne cause du dégoût .",
+        "words": [
+          "odeurs",
+          "maisons",
+          "nuisibles",
+          "styrax"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/988ecd93-daf3-52a8-8ffd-6d4e944733a1",
+        "value": "On le falsifie aussi à l ' aide de fèves ou de sacopénium .L ' odeur du vrai galbanum , brûlé , chasse les serpens .Il se vend cinq deniers la livre .",
+        "words": [
+          "odeur",
+          "vrai galbanum",
+          "chasse les serpens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/991ab4f1-98a6-5d77-b5fa-dcffa5cfd01e",
+        "value": "L ' arbre y croît , dit - on , dans des m ^ àfa , comme la lentille d ' eau .Noirâtre , raboteux , il exhaiv , mus d ' odeur que le safran , et a une saveur salée .Le malobc ^ re gianc est ie moins es .",
+        "words": [
+          "odeur",
+          "safran",
+          "salée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/99439e12-6927-525a-a6e1-e811bd54b2ba",
+        "value": "Pour être bon il doit faire sentir à la langue un go * t analogue à celui du nard .Bouilli dans le vin , il surpasset0us les autres parfums .' Le malobathre s ' élève à des prix « acorbitans puisqu ' il varie d ' un denier à trois cents la livre : \\ ^ livre d ' huile se vend soixante deniers .",
+        "words": [
+          "vin",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/9c72ab5e-8aab-5b56-823e-f83519463122",
+        "value": "On vend jusqu ' à seize l ' érythréenne , que certains auteurs regardent comme la myrrhe d ' Arabie .La troglodytique en grains coûte aussi seize deniers ; celle qui sert de base aux parfums en coûte quatorze .On falsifie la myrrhe avec le mastic provenant du lentisque , et la gomme .",
+        "words": [
+          "parfums",
+          "troglodytique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/9e7b9907-d24a-5e80-88c4-4f75fc47e8e2",
+        "value": "Au reste , cette gomme doit être translucide , couleur de cire et odorante , surtout quand on la frotte ; grasse , amère au goût , mais sans aigreur .Employée dans les sacrifices , on l ' arrose de vin , ce qui augmente son parfum .Elle naît aussi dans l ' Arabie , dans l ' Inde , dans la Médie et à Babylone .",
+        "words": [
+          "parfum",
+          "son",
+          "arrose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/9fcb174d-659a-57f5-9572-a3e6d57eb222",
+        "value": "XII .383 guent des feuilles analogues à celles du ziziphe ( jujubier ) , une graine semblable à celle de là coriandre , blanche et odorante .On la fait cuire dans l ' huile , et ensuite , par expression , on en obtient le parfum dit cypre , qui se vend cinq deniers la livre .",
+        "words": [
+          "odorante",
+          "coriandre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a2f7a3e0-5864-5590-b73d-ef55dbefe488",
+        "value": "etfrutice cardamomum , semine oblongo .Le cardamome des anciens paraît être le fruit qui se trouve encore aujourd ' hui dans nos pharmacies , sous le nom de cardamome ; et , en effet , il est allongé , à angles aigus ; son odeur se rapproche de celle du costus , et il est difficile à rompre ; toutefois on ne le trouve point en Arabie , mais bien dans l ' Inde qui le fournissait aux Romains et aux Grecs par la mer Rouge et l ' Arabie .Pline distingue quatre espèces de cardamomes assez semblables les uns aux autres ; les modernes en reconnaissent trois sortes commerciales , le grand , le moyen et le petit .",
+        "words": [
+          "fruit",
+          "Inde",
+          "odeur",
+          "son",
+          "il",
+          "Arabie",
+          "cardamome",
+          "costus",
+          "Rouge"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a3134d20-9eda-56b1-889c-b22751b74628",
+        "value": "; mais si l ' on trouve ces points de ressemblance , on en trouve d ' autres qui tendent à nous empêcher d ' établir une synonymie définitive .Pline dit le nard noir ; il assure que les feuilles en sont odorantes : et chacun sait ^ ju ' il n ' existe , aucune graminée à feuilles aromatiques .Il ajoute que les épis sont employés ; or les épis des graminées sont dajns le même cas que les feuilles , et presque tous sont inodores , il faut donc chercher une autre plante que VAndropogon Nardus , et peut - être la trouverait - on dans la famille des valérianées .",
+        "words": [
+          "odorantes",
+          "aromatiques",
+          "feuilles",
+          "Pline",
+          "nard noir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a499ed24-dab7-5edf-ae8f-1e0440b27566",
+        "value": "Cet insecte est de couleur puce ou pourpre foncé , et pourrait bien , pour le dire en passant , avoir donné le nom à la couleur dite blattea , dont plusieurs auteurs parlent comme d ' une sorte de pourpre .La troisième sorte , décrite comme ayant le derrière pointu , et répandant une odeur désagréable , est manifestement le tenebrio morlisàgus , L .( BLAPS .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "tenebrio"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a548c452-6e99-510a-a035-53df3322b031",
+        "value": "Plusieurs auteurs ont rapporté qu ' il est dû au hasard , et à un accident qui porte atteinte à l ' arbre odoriférant .Les chèvres , qui d ' ailleurs fontbeaucoup de mal aux feuilles des arbres , sont très - friandes de plantes parfumées , comme si elles en connaissaient tout le prix : elles broutent les nouveaux jets des branches qui contiennent cette , douce liqueur , ; , alors ce suc précieux , se distillant sur leurs barbes immondes , s ' y attache , et , au moyen de la poussière , se durcit en forme de boules qui se cuisent au soleil : de là vient qu ' on trouve des poils de chèvre dans le ladanum .On ajoute que cette production appartient exclusivement au territoire des Arabes nabatéens , voisins de la Syrie .",
+        "words": [
+          "liqueur",
+          "plantes",
+          "parfumées",
+          "chèvres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a549cdc4-f789-53cb-9654-75e88c46a846",
+        "value": "Le bois est dur et conséquemment fort lourd .On emploie dans les parfums la racine qui est ligneuse , ainsi que le bois , qui est plus ou moins rouge , ou purpurin .Son odeur est délicieuse , sa saveur amère .",
+        "words": [
+          "bois",
+          "parfums",
+          "racine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a7848875-3cef-50ce-9ce6-9dcd93b9ccd8",
+        "value": "37g cinquante stades de la mer Méditerranée .Entre le Liban et une autre montagne peu - connue ( non l ' Antiliban , comme quelques - uns l ' ont pensé ) , dans une vallée d ' une étendue médiocre , et à trente stades d ' un lac dont les parties marécageuses se dessèchent en été , naissent le calamus et le jonc aromatiques .Puisque nous traitons ici des parfums , nous croyons convenable de parler aussi du jonc , quoique un autre livre soit consacré aux herbes .",
+        "words": [
+          "aromatiques",
+          "calamus",
+          "jonc",
+          "vallée",
+          "le Liban",
+          "Antiliban",
+          "autre montagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a9393521-227a-508e-9bd4-608c3f24149e",
+        "value": "j , l ' un des palmiers les plus communs du territoire d ' Egypte .Ce fruit est ovale , de la grosseur d ' une petite poire : il contient une pulpe mielleuse , aromatique , dans laquelle se trouve une semence cornée et blanchâtre ; il peut donner , par la fermentation , une boisson vineuse , susceptible de causer l ' ivresse .On peut choisir de ces deux hypothèses celle qui paraîtra la plus vraisemblable , et nous nous décidons pour la dernière , sans néanmoins la regarder comme étant tout - à - fait concluante .",
+        "words": [
+          "fruit",
+          "aromatique",
+          "boisson",
+          "pulpe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/ab9395d5-576d-5832-870f-ed73b3fd4ea3",
+        "value": "Canal médullaire ayant trois millimètres de diamètre , moelle jaunâtre .Odeur nulle .Saveur amère .",
+        "words": [
+          "Odeur",
+          "nulle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/acec411c-e92b-5862-880a-2fc663171312",
+        "value": "C ' est là , suivant nous , le bois d ' aloès dès modernes , reconnaissable aux qualités physiques suivantes : il est noueux , gris ou noirâtre , d ' une pesanteur spécifique différente , suivant la ' plus ou moins grande quantité de résine qu ' il recèle ; à surface lisse et résineuse ; étant coupé en travers on y découvre , sous forme de petits points blancs , l ' orifice des vaisseaux propres qui , pendant la vie , charriaient les sucs propres .Son odeur est agréable lorsqu ' on le brûle ; il a une saveur amère .Est - ce à cette espèce qu ' il convient de rapporter , le bois d ' aloès des Grecs , celui des Arabes , et le tarum ? Cette question est , suivant nous , insoluble dans l ' état actuel de la science , et cette lacune ne pourra de long - temps être remplie , car la distinction des espèces a été faite sur les rapports inexacts des voyageurs et sur des traditions contradictoires .",
+        "words": [
+          "agréable",
+          "odeur",
+          "Son",
+          "amère",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/acfc490c-867b-58ee-9c74-95ae425f0f2a",
+        "value": "a un fruit dont le nucleum ne peut servir à l ' extraction de l ' huile .11 se présente une difficulté assez grande , relativement à la détermination précise de cet arbre ; elle est tirée du nom même du myrobalan qui , comme nous l ' avons dit , signifie fruit aromatique .Or , l ' huile de Ben est inodore .",
+        "words": "aromatique"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/adb193c8-8e4a-5052-8f19-fcd906a9e324",
+        "value": "L ' arc - en - ciel ne s ' appuie sur la terre qu ' en apparence ; ce n ' est point un corps particulier , mais une décomposition de la lumière .Pline nous dira encore ailleurs que la terre , sur laquelle repose l ' arc - en - ciel , devient aussitôt odorante .Ce préjugé , qui était reçu comme une vérité chez les anciens ( Cf .",
+        "words": [
+          "odorante",
+          "Pline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/b09510a2-86a0-559a-9599-fe255a7646f5",
+        "value": "XII .363 quante chasse le dégoût que leur causent leurs parfums ; car ils ne brûlent , pour l ' usage ordinaire , que des bois odoriférans .Les Sabéens font cuire leurs alimens avec du bois d ' encens , d ' autres avec du bois de myrrhe ; de sorte que , dans les villes et les villages , il n ' y a pas de fumée ni d ' odeur différente de celle des autels .",
+        "words": [
+          "bois",
+          "leurs",
+          "parfums",
+          "odoriférans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/b48249da-640b-527a-8911-0afa396e6075",
+        "value": "Galbaneoque agitare graves nidore chelydros , a dit Virgile , vers 4 ' 5 du troisième livre des Géorgiques .Le galbanum est regardé par l ' Ecriture comme un agréable parfum ; ce qui ne doit pas nous surprendre , bien que son odeur nous déplaise .Lapeyrouse a séjourné chez un peuple à qui l ' odeur du poisson pourri plaisait bien plus que l ' odeur des roses ; et les Arabes nomment encore mets des dieux , ce que nous appelons stercus diaboli .",
+        "words": [
+          "agréable",
+          "parfum",
+          "odeur",
+          "son",
+          "galbanum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/b7eaaf28-4a87-5d71-baaa-4933976c6c3b",
+        "value": "XII .\" 361 dégage un parfum très - agréable .C ' est un des arbres dont l ' empereur Claude parle , dans ses Histoires , comme d ' une chose merveilleuse .",
+        "words": [
+          "parfum",
+          "très - agréable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/bb271905-23a6-596b-b0dd-0ad6426b333d",
+        "value": "Par le bryon du peuplier blanc , qui en est comme la grappe , nous pensons qu ' il faut entendre les chatons , ou plutôt les bourgeons , lorsqu ' ils commencent à s ' ouvrir .Leur odeur n ' est pas sans agrément : on pouvait donc les faire entrer dans les parfums .Ce qui fortifie notre opinion sur la désignation à faire de la grappe du peuplier blanc , c ' est que Pline , rassemblant des productions voisines , vient à parler plus loin de Yoenanthe , .",
+        "words": [
+          "odeur",
+          "parfums",
+          "Leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/bce68f85-ac4c-5083-8770-a61a30bf05cd",
+        "value": "On ne paie pas la dîme au dieu pour cette production , parce qu ' elle croît aussi en d ' autres contrées ; mais on eu donne en tribut la quatrième partie au roi des Gébànites .On entasse dans des sacs de cuir la myrrhe achetée en différens lieux ; mais nos parfumeurs la séparent aisément , à cause de son odeur et de son onctuosité .16 .",
+        "words": [
+          "odeur",
+          "myrrhe",
+          "parfumeurs",
+          "sacs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/be189770-9f57-5b3c-af95-34f4d481ba45",
+        "value": "Le plus estimé est celui qui , plus court , plus gros , est souple quand on veut le rompre .La livre du calamus aromatique coûte onze deniers , et celle du jonc quinze .On dit qu ' il se trouve aussi du jonc de cette espèce dans la Campanie .",
+        "words": [
+          "aromatique",
+          "calamus",
+          "jonc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/be6383b3-5de7-5326-8876-9bc591704412",
+        "value": "Si l ' on en croit Dioscoride ( l , 6 ) , il ne s ' agit pas d ' un nard qui viendrait en Syrie , mais bieu d ' un nard récolté dans les montagnes des Indes qui sont en face de la Syrie ; c ' est le meilleur de tous , suivant cet écrivain , tandis que celui qui se trouve sur les rives du Gange , N .gangeticus , est d ' une qualité fort inférieure ; son odeur était désagréable , et lui avait valu l ' épithète d ' ozaenite ( oÇctJi / et , puanteur ) .62 .",
+        "words": [
+          "désagréable",
+          "puanteur",
+          "odeur",
+          "son"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/be8c8602-6db3-56d0-a9c6-87642db0c25a",
+        "value": "Il y a quelque exagération dans ce que dit Pline de l ' odeur de l ' opobalsamum .Cette térébenthine â un parfum fort inférieur à celui des véritables baumes qui contiennent de l ' acide benzoïque .Le balsamier rend plus de térébenthine quePline ne le dit .",
+        "words": [
+          "fort",
+          "parfum",
+          "térébenthine",
+          "acide benzoïque"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/bec1f562-4742-5e99-bd6d-28426efe17a3",
+        "value": "Au reste , on trouve encore aujourd ' hui des gouttes d ' encens qui pèsent le tiers d ' une mine , c ' est - à - dire vingt - huit deniers .Un jour qu ' Alexandre - le - Grand , jeune encore , prodiguait l ' encens dans un sacrifice , Léonide , son gouverneur , lui dit d ' attendre , pour en user de la sorte , qu ' il eût subjugué les pays qui produisent ce parfum .Devenu maître de l ' Arabie , ce conquérant envoya à Léonide un vaisseau chargé d ' encens , en l ' exhortant à ne plus l ' épargner sur les autels des dieux .",
+        "words": [
+          "parfum",
+          "encens",
+          "Léonide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/bf1624f9-066d-530b-a2da-2dba8554fdbe",
+        "value": "Le , grand Pompée fit voir Fébène à \" Rome dans son triomphe sur Mîthridaté .Fabianus dit que ce bois né s ' enflamme point ; il se consume pourtant , en répehr dant ' une odeur agréable .Il y a deux sortes d ' ébé - .",
+        "words": [
+          "bois",
+          "agréable",
+          "odeur",
+          "Fabianus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/c1734810-43b2-5a0f-b8f2-6aa2fe1b2916",
+        "value": "Cependant les écrivains arabes disent qu ' il vient de Java .Le bois de Yexcoecaria , dont nous avons vu un morceau d ' une origine certaine , n ' a pas une odeur dont la suavité puisse se comparer à celle du bois de Yagallochum de Loureiro ; lequel n ' offre pas .non plus , dans sa coupe transversale , l ' orifice de ces vaisseaux propres si appareils dans le bois de Yexcoecaria .",
+        "words": [
+          "odeur",
+          "nous",
+          "bois de",
+          "bois de Yexcoecaria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/c2b8ac45-b582-5b94-a17a-7df0a6f7b1a8",
+        "value": "Dioscoride dit ( i , i3 ) que le cinnamome est un arbrisseau à rameaux menus et noueux ; que le meilleur , le mosylitique , est noir , vineux , ou cendré , poli et lisse , et que son odeur est voisine de celle du cardamome .Il en existe plusieurs sortes : les unes rappellent l ' odeur de l ' encens , d ' autres celle du casia , d ' autres enfin celle du myrte et de l ' amome ; il s ' en trouve encore de blancs , de roux , de noirs , de lisses , de spongieux , etc .On connaît un cinnamome bâtard , nommé gingembre , un cinnamome qui provient d ' un arbuste à rejets pliants , etc .",
+        "words": [
+          "odeur",
+          "encens",
+          "celle",
+          "myrte",
+          "amome",
+          "casia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/c30ee0d2-12b0-5e90-8799-3e146563c6ff",
+        "value": "Cette valériane croît dans les parties les plus éloignées et les plus montagneuses de l ' Inde , le Népaul , le Boutan , par exemple .Voici comment nous établissons la concordance synonymique de cet aromate célèbre : Cf .4 ° 558 .",
+        "words": [
+          "aromate",
+          "célèbre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/c747a0ea-3808-522e-948a-6490ff8ab455",
+        "value": "La graine la plus estimée est celle qui réunit la pesanteur et le piquant à la propriété d ' échauffer le palais .On y mélange l ' hypérique de Petra , que l ' on en distingue à sa grosseur , au vide qu ' il offre en dedans , à s ' a longueur , à la faiblesse de son odeur , et à son goût de poivre .Le baume en larmes se reconnaît à son grain fin , à son aspect gras , à sa nuance un peu rousse , et au parfum qu ' il exhale par la friction .",
+        "words": [
+          "odeur",
+          "son",
+          "poivre",
+          "goût",
+          "hypérique"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/c8d8dda8-1423-589d-b62d-59bfd0a4d167",
+        "value": "XII .401 des lieux secs seulement il est odorant , en larmes grasses , qu ' on ajoute dans les parfums pour épaissir l ' huile .Cinname , comaque .",
+        "words": [
+          "huile",
+          "odorant",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/cc8e9b24-8ce4-5dd6-a61a-229973a711e0",
+        "value": "XII .387 se nomme euthériste ; la seconde , raboteuse , courbe , féconde en branches , et plus odorante , s ' appelle trachy ; la trpisième espèce porte , à causé de sa grandeur , le nom d ' eumèces : son écorce est lisse .C ' est la seconde en bonté ; l ' euthériste , sous ce rapport , n ' a que le troisième rang .",
+        "words": [
+          "odorante",
+          "trachy",
+          "euthériste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/cde1651d-6619-5497-a9d4-2799e8b70f6b",
+        "value": "Dans les mêmes parages croît l ' aspalathe , dont l ' épine est blanche , la fleur semblable à la rose , et la taille à celle d ' un arbuste .La racine est recherchée pour les parfums .On dit que tout arbrisseau sur lequel s ' arrondit l ' arc - en - ciel exhale l ' odeur de l ' aspalathe , mais que celle de l ' aspalathe est , dans ce cas , d ' une douceur au dessus de toute expression .",
+        "words": [
+          "parfums",
+          "racine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/ceefb5b2-5c3c-5528-adb4-31ccfc6fbc2b",
+        "value": "383 guent des feuilles analogues à celles du ziziphe ( jujubier ) , une graine semblable à celle de là coriandre , blanche et odorante .On la fait cuire dans l ' huile , et ensuite , par expression , on en obtient le parfum dit cypre , qui se vend cinq deniers la livre .Le cypre de Canope , sur les rives du Nil , fournit le meilleur ; vient ensuite celui d ' Ascalon , en Judée ; en troisième lieu celui de l ' île de Cypre , qui est d ' une odeur suave .",
+        "words": [
+          "parfum",
+          "cypre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/cfd16027-e270-5757-9dc2-2a5b5d4424bd",
+        "value": "On la falsifie avec du styrax et avec les menues branches du laurier , à cause de leur ressemblance .On peut faire croître l ' arbrisseau dans notre climat , et il réussit sur les confins de l ' empire , le long du Rhin , où il a été planté dans les terrains destinés aux abeilles ; mais il n ' a ni la couleur ni l ' odeur que lui donne un soleil brûlant .Cancame .",
+        "words": [
+          "odeur",
+          "arbrisseau"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d06a7043-5ffb-54ed-bee3-62eb7fe95530",
+        "value": "Comment pourrait - on , sur de pareilles données , reconnaître la NOTES DU LIVRE XII ./ , 57 feuille du laurier malabathrum si facile à distinguer à ses trois fortes nervures qui , partant du point d ' insertion du pétiole , vont se réunir vers le sommet de la feuille , et sont unies entre elles par des nervilles transversales nombreuses ; feuille si remarquable par son odeur analogue à celle du gérofle , par sa saveur chaude et aromatique ? Peut - on supposer que si les anciens l ' eussent vue , ils ne l ' eussent pas décrite de manière à ce qu ' on pût la reconnaître ? Il faut donc abandonner toute discussion sur ce sujet , et déclarer franchement qu ' il y a impossibilité d ' arriver à une solution satisfaisante sur ce point de la botanique des anciens .L ' huile de malabathrum de Pline n ' est point une huile essentielle , mais une huile fixe quelconque , dans laquelle on mettait macérer une quantité déterminée de feuilles de ce Laurus , Voici quelle est la concordance synonymique des anciens sur le malabathrum : Mtt .",
+        "words": [
+          "aromatique",
+          "chaude",
+          "odeur",
+          "gérofle",
+          "saveur",
+          "anciens",
+          "laurier malabathrum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d079391e-08c5-568d-b7e4-aa7523c2eba6",
+        "value": "11 est vraisemblable que le sens du toucher réside dans la patte de l ' insecte , comme dans la main de l ' homme .Le siège de l ' ouïe est peut - être aux antennes ; et quant à l ' odorat , M .Straus NOTES DU LIVRE XI .",
+        "words": [
+          "odorat",
+          "M"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d10cde79-0e0c-5828-8c8d-467a937b16f0",
+        "value": "25 .A tous les parfums cependant on préfère le baume , que la Judée seule a le privilège de produire ; jadis même on ne le recueillait que dans deux jardins royaux , dont l ' un avait vingt arpens au plus , et l ' autre un peu moins .Nos empereurs Vespasien et Titus ont fait voir cet .",
+        "words": [
+          "parfums",
+          "baume",
+          "jardins royaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d151ef88-1c17-572b-b058-20cc355698c1",
+        "value": "Les petites branches , ainsi coupées , et les rejetons , entrent aussi dans le commerce : cinq ans après la conquête on les vendait sept cents sesterces .Le xylobalsamum ( tel est leur nom ) sert dans les parfums , et a été substitué au baume même dans les laboratoires .L ' écorce est aussi estimée en médecine .",
+        "words": [
+          "parfums",
+          "xylobalsamum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d1e0edae-b149-5d70-8ead-9fb8d5383764",
+        "value": "11 maux n ' a été pourvu d ' un plus grand nombre de pieds ; ceux qui en ont le plus survivent le plus long - temps à la séparation de leurs membres , comme nous le voyons dans les scolopendres .Les insectes ont des yeux , et , en outre , le toucher et le goût : quelques - uns ont encore l ' odorat ; mais peu sont doués du sens de l ' ouïe .Des abeilles .",
+        "words": [
+          "odorat",
+          "insectes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d305b7a4-2481-5c42-bf28-5e24feabce3e",
+        "value": "La racine du costus et les feuilles du nard sont fort estimées dans les Indes .Cette racine a une saveur brûlante et une excellente odeur ; le reste de la plante est inutile .A l ' embouchure du fleuve Indus , dans l ' île de Patale , il y a deux sortes de costus , le noir et le blanc : ce dernier est le meilleur .",
+        "words": [
+          "excellente",
+          "odeur",
+          "racine",
+          "brûlante",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d53322d3-90b9-5ff2-8cbc-6cd2a214cdaa",
+        "value": "Le prix du myrobalan est de deux deniers la livre .Les trafiquans donnent le même nom à la lie du parfum qu ' on en tire .Du calamus odorant ; du jonc odorant .",
+        "words": [
+          "parfum",
+          "lie",
+          "trafiquans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d7ac21f0-d3b7-5343-b68f-66ae67a37296",
+        "value": "11 en parle comme d ' un arbrisseau à grosses branches dont l ' enveloppe est plutôt une peau mince qu ' une écorce , ce qui est l ' opposé du cinnamome .Il a trois coudées de haut ; son odeur est suave ; sa saveur plus brûlante que mordicante ; sa couleur purpurine , sa légèreté fort grande .La patrie de ces deux aromates est différente , mais ceci n ' est point une difficulté , car on sait qu ' il arrive souvent qu ' on indique , comme étant la patrie d ' une substance , le lieu qui la fournit au commerce ; n ' appelle - t - on pas encore de nos jours séné d ' Alexandrie le séné que cette ville nous expédie , et qui se récolte seulement dans la Haute Egypte ? Certes , d ' après tout ceci , l ' on ne peut s ' empêcher de reconnaître qu ' il existe de grands rapports entre le casia des anciens .",
+        "words": [
+          "suave",
+          "odeur",
+          "son",
+          "sa",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/d8b54d52-f416-549d-b112-9d0523606ef7",
+        "value": "Est - ce bien là la plante dont veut ici parler Pline ? tou * dispose à le croire .Quant à l ' herbe , d ' une odeur exquise , et couverte de serpens venimeux , il est bien entendu qu ' elle n ' a jamais pu exister .47 .",
+        "words": [
+          "odeur",
+          "exquise",
+          "venimeux",
+          "herbe",
+          "serpens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/da3151cf-0c1b-521a-aa0c-2cca43be7fef",
+        "value": "Le .nard est un arbrisseau dont la racine , épaisse , pesante , courte et noire , aisée à rompre , bien qu ' elle soit grasse , joint à une saveur âpre , une odeur aussi désagréable que celle du cyperus .Ses feuilles sont petites et touffues .",
+        "words": [
+          "désagréable",
+          "odeur",
+          "racine",
+          "celle",
+          "âpre",
+          "nard",
+          "arbrisseau",
+          "cyperus"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/daf2eadf-4618-5b8c-a5f1-3f07838f20cd",
+        "value": "La racine est recherchée pour les parfums .On dit que tout arbrisseau sur lequel s ' arrondit l ' arc - en - ciel exhale l ' odeur de l ' aspalathe , mais que celle de l ' aspalathe est , dans ce cas , d ' une douceur au dessus de toute expression .Quelques - uns nomment cet arbre érysisceptre , d ' autres sceptre .",
+        "words": [
+          "odeur",
+          "celle",
+          "arbrisseau",
+          "aspalathe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/dafa9734-5cd0-56c7-a1c8-51f09e8aae15",
+        "value": "Quoique ' la sabine se nomme en grec ( ipâ .6vs , ce n ' est point de ce genévrier qu ' il peut être question ici ; il est évident que Pline veut parler d ' une conifère , car c ' est surtout dans cette famille qu ' on trouve des bois résineux qui dégagent une odeur balsamique quand on les brûle .Poinsinet nous ap - 438 NOTES DU LIVRE XII .",
+        "words": [
+          "odeur",
+          "balsamique",
+          "bois résineux",
+          "genévrier"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/dba61b63-cc23-53ce-a795-40471319f50b",
+        "value": "Le mot arbrisseau , frutex , employé par Pline , ne pourrait suffire pour détruire cette très - ancienne opinion , car on sait qu ' on est peu d ' accord sur les limites à établir entre l ' arbre et l ' arbrisseau , et entre ce dernier et l ' herbe .L ' odeur du nard NOTES DU LIVRE XII .4a5 indien , dit notre auteur , est analogue à celle du souchet , et cela peut se remarquer aussi dans le nard indien des modernes ; les feuilles des deux plantes sont petites et touffues ; et ils produisent tous deux des épis terminaux ; enfin on les falsifie avec le spica - nard faux , Allium Victorialis , L .",
+        "words": [
+          "odeur",
+          "nard"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/dbbdcf92-d6c9-5afa-8793-bc3d420ef7d8",
+        "value": "Tiges entièrement semblables à celles des autres roseaux , d ' apparence sèche , et croissant dans les marais , par delà le mont Liban .Leur odeur parfume l ' air des lieux où on les trouve ( THEOPH ., ix , 12 ) .",
+        "words": [
+          "odeur",
+          "air",
+          "parfume",
+          "Leur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/dd0cf69c-256a-5645-bc40-28fb727bceb8",
+        "value": "Ils vont aussi chercher dans la Carmanie un arbre nommé strobus , qu ' ils emploient comme parfum , en l ' exposant au feu après l ' avoir arrosé de vin de palmier .L ' odeur , qui d ' abord se porte au plafond des salles où on en fait usage , descend jusqu ' à terre en répandant une odeur agréable , qui néanmoins rend la tête pesante , mais sans y causer de douleur .Ils s ' en servent pour procurer le sommeil aux malades .",
+        "words": [
+          "agréable",
+          "odeur",
+          "tête",
+          "salles",
+          "plafond"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/dead90fb-910d-5021-8b75-332430e2e5a1",
+        "value": "Quelques - uns nomment cet arbre érysisceptre , d ' autres sceptre .La bonne qualité se reconnaît à une couleur rousse ou semblable au feu , à son grain compacte et à son odeur , qui est celle du castoréum .On le vend cinq deniers la livre .",
+        "words": [
+          "odeur",
+          "son",
+          "castoréum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/e07d284b-a480-51f8-9340-6408ec8fa52b",
+        "value": "I , 11 ) en fait une plante aquatique qui nage sur l ' eau et qui n ' a point de racines .« Son odeur est , dit - il , semblable à celle du nard de l ' Inde ; on ne peut la rompre facilement .Sa saveur n ' est ni chaude ni aromatique .",
+        "words": [
+          "Inde",
+          "odeur",
+          "Son",
+          "nard de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/e20be40b-b734-5351-b485-c925d762095d",
+        "value": "Au second rang vient celui du cèdre de Lycie .Parlons aussi de l ' énanthe : tel est le nom donné au raisin de vigne sauvage lorsqu ' il est en fleur ; c ' est l ' instant où il exhale l ' odeur la plus agréable .On le sèche à l ' ombre sur un linge , puis on l ' enferme dans des tonneaux .",
+        "words": [
+          "odeur",
+          "la plus agréable",
+          "énanthe",
+          "raisin de vigne sauvage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/e3c4efcd-f53d-5b10-808d-0189b559b9ee",
+        "value": "Au dessous de ce pays , dans la Cyrénaïque , se trouve le meilleur sphagnos , que d ' autres nomment bryon ; celui de l ' île de Cypre est de seconde qualité ; en troisième lieu vient le bryon de Phénicie .Il en croît aussi , dit - on , en Egypte , et même dans les Gaules , ce dont je ne doute pas , car on donne le nom de bryon à des flocons blancs attachés à des arbres , semblables à ceux que nous voyons surtout sur les chênes , mais dont l ' odeur est excellente .On estime surtout les plus blancs , et qui se trouvent au sommet des arbres .",
+        "words": [
+          "excellente",
+          "odeur",
+          "flocons",
+          "Egypte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/e430af56-a236-5724-b8d5-a6c6b6b142b7",
+        "value": "Ils s ' en servent pour procurer le sommeil aux malades .Ils avaient établi un commerce de leurs parfums dans la ville de Carre , qui était pour eux un lieu de foire .De là ils avaient coutume de se rendre tous à Gabba , qui en est à vingt journées .",
+        "words": [
+          "leurs",
+          "parfums",
+          "lieu",
+          "la ville de Carre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/e70b10ab-973b-5c2e-ba94-ea4f7779399c",
+        "value": "C ' est un des arbres dont l ' empereur Claude parle , dans ses Histoires , comme d ' une chose merveilleuse .Il dit que les Parthes mettent de ses feuilles dans leurs boissons ; que son odeur approche de celle du cèdre , et que sa fumée est un remède contre l ' exhalaison des autres bois .Cet arbre croît ' sUr le mont Zagrus , au delà du Pasitigre , près de la ville de Sittace .",
+        "words": [
+          "bois",
+          "odeur",
+          "son",
+          "feuilles",
+          "cèdre",
+          "exhalaison",
+          "Parthes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/e8eea85a-2602-5d14-bc75-1bdb9dadb2d6",
+        "value": "Elle doit son bonheur à ce que l ' homme , plaçant le luxe jusque dans le trépas , emploie à brûler les morts ce qu ' il savait avoir été produit pour les immortels .Des gens instruits assurent que cette province ne donne pas , dans une année , autant de parfums que Néron en brûla le dernier jour des funérailles de Poppée , son épouse .Qu ' on estime ensuite le nombre de cérémonies funèbres qui se font tous les ans dans tout l ' univers , et les monceaux d ' encens prodigués en l ' honneur des cadavres , tandis qu ' on le brûle 364 G .",
+        "words": [
+          "parfums",
+          "province",
+          "gens instruits",
+          "le dernier jour des funérailles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/eae9bb80-bec0-594a-a986-dec2e558aacb",
+        "value": "On emploie dans les parfums la racine qui est ligneuse , ainsi que le bois , qui est plus ou moins rouge , ou purpurin .Son odeur est délicieuse , sa saveur amère .Le bois de Rhodes , lignum rhodium des pharmacies , est le bois d ' une racine débarrassée de son écorce ; il est dur , compact , pesant , veiné de rouge ; son odeur suave rappelle celle de la rose ; la saveur en est amère .",
+        "words": [
+          "odeur",
+          "Son",
+          "sa",
+          "amère",
+          "délicieuse",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/ed91988e-7d91-5a4d-aee8-344f1050135c",
+        "value": "Dioscorides écrit ( liv .I , 12 ) que le casia a dés feuilles semblables à celles du poirier , c ' est - à - dire ovales et nervées ; une écorce rousse , étroite , longue , épaisse , fistuleusé , piquante , chaude et aromatique .Il en est une variété , grosse , brunâtre ou rougeâtre , dont l ! odeur a quelque analogie avec celle de la rose .",
+        "words": [
+          "aromatique",
+          "casia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f137bc82-5a6f-5f56-a5ee-659a94b7372c",
+        "value": "Les Parthes surtout en ressentent les effets , même dès la jeunesse , à cause de leurs ragoûts trop , assaisonnés .De plus , l ' excès du vin leur donné une haleine empestée ; mais les grands y remédient par les graines des pommes d ' Assyrie ( du citron ? ) , qui , mêlées aux alimens , leur communiquent une saveur 14 .2i2 C .",
+        "words": [
+          "saveur",
+          "haleine empestée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f15f31ce-ecc9-5974-9b4d-b0cc921765f1",
+        "value": "Dans les poissons , l ' entrée de la fosse qui forme la narine est plus étroite que cette fosse même : la petite membrane qui l ' entoure peut se redresser au gré de l ' animal en un tube courbe .Dans les oiseaux et les reptiles , les narines ont le double usage de la respiration et de l ' olfaction ; - dans les poissons , c ' est un sac qui ne sert qu ' à l ' olfaction .■ ' .",
+        "words": [
+          "sac",
+          "olfaction"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f2e28003-4251-5964-9347-280bb638adda",
+        "value": "Les Scythes trempent leurs flèches dans le venin de la vipère et le sang humain : ce poison sans remède donne la mort à l ' instant , pour peu qu ' on en soit effleuré .Animaux qui mangent impunément des substances vénéneuses , et dont la chair empoisonne .CXVI .",
+        "words": [
+          "vénéneuses",
+          "substances",
+          "empoisonne",
+          "Animaux"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f3089c02-aa82-5423-8535-789cbe7d000c",
+        "value": "« Son odeur est , dit - il , semblable à celle du nard de l ' Inde ; on ne peut la rompre facilement .Sa saveur n ' est ni chaude ni aromatique .Pline , ainsi qu ' on l ' a vu , en reconnaît de deux sortes : l ' un est la feuille d ' un arbre de Syrie et d ' Egypte ; l ' autre , qui est meilleur , vient des Indes et croît dans les marais .",
+        "words": [
+          "aromatique",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f4b0fbd5-29e6-5397-91fe-6af35f873df9",
+        "value": "— LXIII , page 4 ° ° 5 ligne 4 - In Syria gignitur et cinnamum , quod comacum appellant .Quoique Pline donne au comaque le nom de cinname , il dit plus loin que cette huile est fort différente de la véritable huile de cinname , mais que seulement elle en approche par son odeur qui est fort agréable .Théophraste a aussi un comakon ; et Bauhîn , dans son Pinax , croit devoir le rapporter à la noix muscade , Myristica moschata , THUNB .",
+        "words": [
+          "huile",
+          "odeur",
+          "son",
+          "fort agréable",
+          "Pline"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f6238d39-a979-57bb-b966-6ddf672e3e08",
+        "value": "I , 12 ) que le casia a dés feuilles semblables à celles du poirier , c ' est - à - dire ovales et nervées ; une écorce rousse , étroite , longue , épaisse , fistuleusé , piquante , chaude et aromatique .Il en est une variété , grosse , brunâtre ou rougeâtre , dont l ! odeur a quelque analogie avec celle de la rose .Les diverses sortes sont originaires d ' Arabie et fournies par le commerce d ' Alexandrie .",
+        "words": [
+          "odeur",
+          "rose"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/f8c5e159-c713-5489-990b-e4f85820183b",
+        "value": "On y mélange l ' hypérique de Petra , que l ' on en distingue à sa grosseur , au vide qu ' il offre en dedans , à s ' a longueur , à la faiblesse de son odeur , et à son goût de poivre .Le baume en larmes se reconnaît à son grain fin , à son aspect gras , à sa nuance un peu rousse , et au parfum qu ' il exhale par la friction .Au second rang vient le baume blaac .",
+        "words": [
+          "parfum",
+          "baume",
+          "exhale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/fc5adeb4-5b56-5596-83bc-932d2fdda046",
+        "value": "On le falsifie avec des feuilles de grenadier , qu ' on y adapte à l ' aide de la gomme liquide , en les roulant en forme de grappe .Il y a un autre aromate appelé amomide , mais moins veineux , plus dur et moins odorant ; ce qui montre que c ' est une espèce différente , ou que c ' est l ' amome cueilli avant sa maturité .i Le cardamome .",
+        "words": [
+          "odorant",
+          "aromate",
+          "amome",
+          "amomide"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/fd1af7dd-c29f-5c69-a14a-bd920ab61a1e",
+        "value": "C ' est cette espèce que les barbares nomment lacta .Il y en a une autre qui , à cause de son odeur de baume , est appelée balsamode ; mais elle est amère , ce qui fait qu ' on l ' emploie de préférence en médecine , de même qu ' on recherche la noire pour les parfums .Nulle denrée n ' a des prix plus disproportionnés : la meilleure coûte cinquante , les autres cinq deniers la livre .",
+        "words": [
+          "odeur",
+          "parfums",
+          "baume",
+          "balsamode"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/fe43a8f4-53f3-50aa-8386-8798823cf910",
+        "value": "Voyons si les anciens nous fourniront les moyens de rapprocher leur cinnamome de notre cannellier .Dioscoride dit ( i , i3 ) que le cinnamome est un arbrisseau à rameaux menus et noueux ; que le meilleur , le mosylitique , est noir , vineux , ou cendré , poli et lisse , et que son odeur est voisine de celle du cardamome .Il en existe plusieurs sortes : les unes rappellent l ' odeur de l ' encens , d ' autres celle du casia , d ' autres enfin celle du myrte et de l ' amome ; il s ' en trouve encore de blancs , de roux , de noirs , de lisses , de spongieux , etc .",
+        "words": [
+          "odeur",
+          "cinnamome",
+          "arbrisseau",
+          "voisine",
+          "cardamome"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/02162cf4-3d5c-5e07-b4c3-5a49092c66e3",
+        "label": "Pierre-Claude-François  Daunou"
+      }
+    ],
+    "label": "Histoire naturelle de Pline. Vol. VII. Livre IX. Description des animaux aquatiques. Livre X. Description des oiseaux / traduction nouvelle par M. Ajasson de Grandsagne... [et al.]",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5808222p",
+    "date": "1829/1833",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/0a7dd0c4-93c5-59ab-803f-2d4d9a2e4734",
+      "label": "1829/1833",
+      "begin": "1829",
+      "end": "1833"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/11153061/",
+      "label": "Vallée du Bandama"
+    },
+    {
+      "@id": "https://sws.geonames.org/173153/",
+      "label": "Anti-Lebanon"
+    },
+    {
+      "@id": "https://sws.geonames.org/6697097/",
+      "label": "The Church Quarter - Le quartier de l'église"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/9f265dce-e551-52da-8ae4-ea8e5a09f012",
+      "label": "autre montagne"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/610bda39-2fdb-5cdb-a4cc-b8b6167f649e/fragment/a7848875-3cef-50ce-9ce6-9dcd93b9ccd8",
+  "license": "Public domain",
+  "adjective": "aromatiques"
+}

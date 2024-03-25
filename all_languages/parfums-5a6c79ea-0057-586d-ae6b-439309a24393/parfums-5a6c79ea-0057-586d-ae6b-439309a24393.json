@@ -1,0 +1,297 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/5a6c79ea-0057-586d-ae6b-439309a24393",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfums",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/03d98eed-8b55-5959-806b-9bf2d8b152c4",
+        "value": ".L ' oiseau jasait sous l ' arbre , La source murmurait dans le bassin de marbre , Et l ' azur transparent , l ' air rempli de parfums , Bannissaient de son coeur les pensers importuns .Tout chantait , rayonnait , dans le ciel et sur terre ! Soudain il aperçut , au milieu du parterre , Une rose superbe et qui , par son éclat , Sa taille et sa fraîcheur , son parfum délicat , Semblait de ces beaux lieux être la souveraine ; Si bien que , surmontant pour un instant sa peine , Il voulut la cueillir .",
+        "words": [
+          "air",
+          "parfums",
+          "source"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/063ca7ee-ba7f-5274-84d0-73e177eddc0c",
+        "value": "Certes , s ' il est sur terre un rare diamant , Richement enchâssé dans un métal splendide , Une perle semblable à la goutte limpide Qui scintille au matin sur le gazon dormant ; POÉSIES DIVERSES 53 Pour tout dire , s ' il est en ce monde une femme Comme on peut en rêver au printemps de ses jours , Que Dante eût célébrée en ses vers pleins de flamme Et dont Pétrarque eût fait ses divines amours , C ' est toi , qui réunis aux qualités du coeur , Aux charmes de l ' esprit , la grâce corporelle , Qui , semblable aux Vénus que créa Praxitèle , As de plus le sourire et le regard vainqueur .Certes , j ' ai rencontré , dans ma vie inconstante , Des fronts qui m ' ont charmé , des yeux qui m ' ont souri , Mais , en tendant ma main , j ' ai bientôt ressenti Sous le gant parfumé la griffe déchirante ; Et j ' ai , comme un oiseau frappé soudainement Dans son essor , caché mon front meurtri dans l ' ombre .Toi du moins tu n ' auras dans ma mémoire sombre Laissé rien que de doux , de pur et de charmant .",
+        "words": [
+          "parfumé",
+          "gant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/23b93a71-59da-5d96-98f6-17c7588711aa",
+        "value": "Il garde mes troupeaux et toujours les défend Des ardeurs de l ' été , de la pluie et du vent .Grâce à lui , dans mes bois où se plaisent l ' arbouse Et le thym odorant , on voit errer l ' épouse Vagabonde du bouc a l ' importune odeur .Sans craindre la couleuvre ou le loup ravisseur , Le chevreau broute en paix dès que le dieu rustique A fait , ô Tyndaris , sur les rochers d ' Ustique , Entendre ses accords , et que son chalumeau A charmé de ses sons le val et le coteau .",
+        "words": [
+          "bois",
+          "odorant",
+          "odeur",
+          "thym",
+          "bouc",
+          "importune",
+          "arbouse"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/26a30bbb-beb6-56b3-80fa-9bf6fab7d567",
+        "value": "« Bien longtemps j ' ai souffert , et , craignant la lumière , \" J ' ai rampé comme fait une bête grossière ; POESIES DIVERSES 29 « Mais aujourd ' hui je vole , et le pré , le sillon , « Le jardin , sont à moi : je suis un papillon ! « Hélas ! pourquoi faut - il que cette douce vie « Dure si peu , quand tout au bonheur me convie ? » Ainsi dit , en volant et revolant toujours , Le pauvre être qui sait que ses plaisirs sont courts , Et qu ' il lui faut mourir quand jaunira la feuille .Mais , pendant qu ' il se hâte , et butine et recueille Tous les parfums des fleurs , tu le guettes , enfant , Et quand tu l ' as saisi tu vas tout triomphant , Sans songer un instant à ses douleurs mortelles , Le piquer sur ce bois où se brisent ses ailes .» J ' aurais encor parlé , tant mon coeur débordait .",
+        "words": [
+          "fleurs",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/345e2f2f-251a-5b7d-999d-df389ebba435",
+        "value": "Mais qui peut sur la terre éviter son destin ? POÉSIES DIVERSES 33 Un jour qu ' un papillon volait à ma fenêtre .Que le printemps faisait palpiter tout mon être , Et qu ' un souffle léger apportait jusqu ' à nous Les parfums les plus frais et les chants les plus doux , Las de notre prison nous ouvrîmes la grille .Du manoir protecteur .",
+        "words": [
+          "parfums",
+          "les plus frais",
+          "chants"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/3c1e81e8-6ab2-5a93-84a3-07847d8fdd51",
+        "value": "Je ne sais quel doux rêve à sa paupière rose Imprimait par instants un tremblement léger , Et faisait murmurer sa bouche demi - close , Comme un tiède zéphyr caresse un oranger .POÉSIES DIVERSES 63 C ' était dans un jardin inondé de verdure , Tout rempli de parfums et de chants printaniers .Un doux enivrement sortait de la nature Ainsi que de la femme endormie à mes pieds .",
+        "words": [
+          "parfums",
+          "chants",
+          "jardin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/4b968720-31ec-5016-8e48-9e0239a4d3b3",
+        "value": ".» Hélas ! ne peut - on seul posséder un trésor ? Faut - il toujours veiller et trembler pour son or ? 5 34 POÉSIES DIVERSES LE ROSSIGNOL ET LA ROSE CONTE ORIENTAL ET DE TOUS LES TEMPS Le poète Sadi rêvait dans un jardin Plein des plus doux parfums , à l ' heure où le matin Au souffle bienfaisant vient rajeunir le monde ..",
+        "words": [
+          "doux",
+          "parfums",
+          "ROSE",
+          "jardin",
+          "le matin",
+          "ROSSIGNOL",
+          "Le poète Sadi"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/4d564487-ebd4-575d-9195-6645a9a37117",
+        "value": "Nous y causons avec les ombres d ' autrefois , Images du passé , souvenirs pleins d ' ivresse , Où l ' âme se retrempe aux heures de détresse .C ' était , je m ' en souviens , par un beau jour d ' été , Tout n ' était que parfum , harmonie et clarté .Les arbres balançaient leurs têtes chevelues , Les oiseaux gazouillaient sous les branches touffues .",
+        "words": [
+          "parfum",
+          "je m",
+          "un beau jour d ' été"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/521dd1b3-e4f2-5a5a-90cf-830fba70e245",
+        "value": "Sestius , toi que l ' on envie , Tu vas voir les enfers .Dans ce lieu redouté , Tu ne tireras plus au sort la royauté Des festins où le vin circule ; Tu n ' admireras plus ce Lycidas aimé , Sur qui chaque garçon jette un regard charmé , Pour qui la vierge même brûle ! TRADUCTIONS 143 A PYRRHA ( LIVRE PREMIER , ODE V ) O Pyrrha , quel est donc ce bel adolescent Qui , le front parfumé , sous un berceau de roses , Te presse avec ardeur et te dit tant de choses , Dans ses bras nerveux t ' enlaçant ? C ' est pour lui que tu sais relever avec grâce Et sans art tès cheveux .Quand il verra pourtant Ses dieux changés , les flots agités par l ' autan , Comme il maudira sa disgrâce ! Lui qui fait avec toi des rêves de bonheur , Qui pense te trouver toujours fidèle , aimable .",
+        "words": [
+          "parfumé",
+          "lieu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/616c5b01-a165-5ea5-b77c-8c94eef03acd",
+        "value": "» 72 POESIES DIVERSES ROMANCE « De la terre blonde et vermeille Où se balancent les palmiers , De l ' Orient quelle merveille Faut - il apporter à vos pieds ? « Voulez - vous des tapis de Smyrne , Des cachemires d ' Ispahan , De l ' or et des parfums d ' Emyrne , Ou des étoffes de Ceylan ? « On dit que nulle perle au monde Ne peut égaler en éclat Celle qu ' on pêche au fond de l ' onde Où se reflète Malacca .POÉSIES DIVERSES 73 « Préférez - vous la fleur étrange Qui montre son front ruisselant Parmi les eaux vertes du Gange , Le lotus au calice blanc ? « Le lis qui sert , pendant la brume , De vêtement à la Péri , Ou bien la rose qui parfume Le monument de Saadi ? « Parlez ! vous serez obéie , Pour vous je fouillerai les monts Et tous les fleuves que l ' Asie Fait jaillir de ses flancs féconds , « Me fallût - il , pour vous complaire , Ravir le fameux diamant Qui , pareil au soleil , éclaire Le front du Mogol tout - puissant ! ..",
+        "words": [
+          "rose",
+          "parfume",
+          "monument de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/670dc6e0-dfeb-52b8-a662-8d2f7cccf4d7",
+        "value": ".ô surprise ! ô douleur ! Il vit dans le calice embaumé de la fleur Un insecte hideux qui , gorgé de rosée Et de nectar , dormait sur la coupe épuisée .Il recula d ' horreur .",
+        "words": [
+          "fleur",
+          "embaumé"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/6924f9c0-ebd9-5f48-b8ba-bb3ca179ebe9",
+        "value": "POESIES DIVERSES 71 Mais l ' amour est , hélas ! une fleur éphémère Qui ne brille qu ' un jour , Et , si les vents du nord l ' inclinent vers la terre , Se flétrit sans retour .» 72 POESIES DIVERSES ROMANCE « De la terre blonde et vermeille Où se balancent les palmiers , De l ' Orient quelle merveille Faut - il apporter à vos pieds ? « Voulez - vous des tapis de Smyrne , Des cachemires d ' Ispahan , De l ' or et des parfums d ' Emyrne , Ou des étoffes de Ceylan ? « On dit que nulle perle au monde Ne peut égaler en éclat Celle qu ' on pêche au fond de l ' onde Où se reflète Malacca .POÉSIES DIVERSES 73 « Préférez - vous la fleur étrange Qui montre son front ruisselant Parmi les eaux vertes du Gange , Le lotus au calice blanc ? « Le lis qui sert , pendant la brume , De vêtement à la Péri , Ou bien la rose qui parfume Le monument de Saadi ? « Parlez ! vous serez obéie , Pour vous je fouillerai les monts Et tous les fleuves que l ' Asie Fait jaillir de ses flancs féconds , « Me fallût - il , pour vous complaire , Ravir le fameux diamant Qui , pareil au soleil , éclaire Le front du Mogol tout - puissant ! .",
+        "words": [
+          "or",
+          "Ispahan",
+          "parfums",
+          "Smyrne",
+          "cachemires",
+          "Emyrne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/7963653d-29ae-5bc4-ba1d-b38a9296de1a",
+        "value": "Elle orne volontiers la demeure opulente , Et des salons dorés recherche les honneurs .Mais sa fierté reçoit plus d ' un amer outrage , Car elle entend souvent ce langage importun : « Elle est belle , il est vrai , mais n ' a pas de parfum .» Ainsi tu prétendrais en vain à notre hommage , Car ton sourire froid et ton regard moqueur Prouvent que tu n ' as pas ce doux parfum : le coeur .",
+        "words": [
+          "parfum",
+          "Elle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/809207e8-8b2d-596e-bbf5-bc8a6a5533d5",
+        "value": "L ' oiseau jasait sous l ' arbre , La source murmurait dans le bassin de marbre , Et l ' azur transparent , l ' air rempli de parfums , Bannissaient de son coeur les pensers importuns .Tout chantait , rayonnait , dans le ciel et sur terre ! Soudain il aperçut , au milieu du parterre , Une rose superbe et qui , par son éclat , Sa taille et sa fraîcheur , son parfum délicat , Semblait de ces beaux lieux être la souveraine ; Si bien que , surmontant pour un instant sa peine , Il voulut la cueillir ..",
+        "words": [
+          "parfum",
+          "rose",
+          "délicat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/8324d15a-ccc4-547b-9729-fc8eed0a4aaa",
+        "value": "POÉSIES DIVERSES 6l J ' ai la saveur pour don , le .plaisir pour emblème ! O fleur , de ton parfum ne fais pas trop de bruit ; Si ton parfum est doux , ma saveur , est extrême , On respire la fleur , on savoure le fruit ! 62 POÉSIES DIVERSES A UNE JEUNE FILLE ENDORMIE Elle était près de moi , confiante , endormie , Seule avec mon regard qui couvait ce trésor : Sa beauté , fleur naissante , à peine épanouie , Seule avec mes pensers qui prenaient leur essor .Je voyais , à travers sa chemisette blanche , Palpiter vaguement son sein pur et charmant , Et suivais les contours amoureux de sa hanche Sous le voile azuré de son fin vêtement .",
+        "words": [
+          "doux",
+          "parfum",
+          "fleur",
+          "ton",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/8edb7133-d802-5912-8ae7-1d3ffe63c0e9",
+        "value": "Cueillons la fleur avant qu ' elle soit effeuillée , Et savourons le fruit aussitôt qu ' il mûrit : La grappe que l ' on a sur le cep oubliée Se gâte sans honneur et tombe sans profit .60 POÉSIES DIVERSES LA FLEUR ET LE FRUIT LA FLEUR .Je suis la chaste fleur , la fleur céleste et pure Qui joint le doux parfum au don de la beauté .",
+        "words": "FLEUR"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/a00ccd40-48aa-508c-b138-f55822a390df",
+        "value": "C ' est pour nous qu ' elle a mis sa plus riche parure , Ses feuilles et ses fleurs , ses mousses , ses gazons ; Pour nous que les oiseaux blottis dans les buissons Chantent si doucement , pour nous que le zéphire En berçant les rameaux si tendrement soupire .Que la nature est belle et bonne aux amoureux ! Que la verdure est fraîche , et qu ' on se sent heureux De vivre quand on aime et quand on est aimée ! Oh ! le beau papillon ! oh ! la fleur embaumée ! ..",
+        "words": [
+          "fleur",
+          "embaumée"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/aa089cc1-ea69-5140-8706-4590235b0709",
+        "value": "Mais aujourd ' hui je veux avec toi faire un songe , Comme en cet heureux jour où le coeur , vierge encor , Libre de toute chaîne et pur de tout mensonge , Prend son premier essor .Le ciel brille , le sol resplendit de verdure , L ' air est plein de parfums , la forêt de chansons .On sent je ne sais quoi dans toute la nature Qui nous dit : « Renaissons ! » Mon âme , faisons donc ce merveilleux voyage , Voguons vers cette rive exempte de frimas , Où nous pouvons en rêve aborder à tout âge , Où l ' on ne vieillit pas ! 6 POÉSIES DIVERSES UN SOURIRE A Mme Avez - vous , comme moi , gardé la souvenance Du jour où je vous vis pour la première fois ? C ' était dans un sentier , plein d ' ombre et de silence , Qui se perdait au fond des vallons et des bois ; En automne , saison propre à la rêverie , Quand le soleil plus doux et déjà languissant , Le ciel mélancolique et la forêt flétrie , Donnent à la nature un charme saisissant .",
+        "words": [
+          "air",
+          "parfums"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/bac23451-63ec-5521-ac5f-8e0c47d023e6",
+        "value": "Oh ! les rameaux , les prés en fleurs ! Que tout est beau quand tout s ' éveille , Quand la rose , à travers ses pleurs , Sourit , plus fraîche et plus vermeille ! Lorsque tout renaît ici - bas , Et que , dans la forêt ancienne .Ton bras repose sur mon bras , Ton âme répond à la mienne ! 90 POESIES DIVERSES COUCHANT La soirée était belle et calme , reposée , Pleine de frais parfums , de doux rayonnements .Un bienveillant regard tombait des cieux cléments Sur la terre apaisée .",
+        "words": [
+          "parfums",
+          "frais"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/bc1ec4fd-0d41-552b-8cff-c63a4d56d87b",
+        "value": ".Je me souviens aussi d ' une plage sereine , Fertile , et qu ' embaumait la bienfaisante haleine Des orangers fleuris , des lauriers toujours verts ; D ' un ciel éblouissant , d ' une heureuse nature Qui souriait toujours et gardait sa parure , Même dans la saison où régnent les hivers .Une mer au flot bleu , sans piège et sans orage , Apportait fréquemment aux golfes du rivage Des navires chargés de produits étrangers .",
+        "words": [
+          "haleine",
+          "orangers",
+          "lauriers",
+          "plage",
+          "bienfaisante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/bf4116a1-9b98-5d2c-b898-365725cc3744",
+        "value": "Mais sa fierté reçoit plus d ' un amer outrage , Car elle entend souvent ce langage importun : « Elle est belle , il est vrai , mais n ' a pas de parfum .» Ainsi tu prétendrais en vain à notre hommage , Car ton sourire froid et ton regard moqueur Prouvent que tu n ' as pas ce doux parfum : le coeur .POESIES DIVERSES 79 A UN PAON Un paon se prélassait dans une basse - cour .",
+        "words": [
+          "doux",
+          "parfum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/c3a35a72-0adc-52bb-aa6f-71416f55567a",
+        "value": "Mais , comme un pèlerin qui se lasse et regrette Son tranquille foyer et ses champs ignorés , J ' ai ramené sur terre , où la raison m ' arrête , Mes désirs et mes voeux dans le ciel égarés .Madame , vos beaux yeux seraient - ils mon étoile ? L ' ai - je trouvée en vous qui conservez un voile Et gardez un secret que je voudrais savoir ? En vous que je devine , ainsi que , sans la voir , On découvre souvent une fleur virginale , Et qui craint le regard , au parfum qu ' elle exhale .78 POÉSIES DIVERSES A UNE TULIPE Il est dans nos jardins une fleur élégante , Que la nature orna des dons les plus flatteurs : Tige fine , élancée , et corolle éclatante , Qui reflète du jour les brillantes couleurs : C ' est l ' altière tulipe , à la mine arrogante , Qui fait l ' orgueil du riche et plaît aux amateurs .",
+        "words": [
+          "parfum",
+          "fleur",
+          "exhale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/c462717d-0bdc-5d4f-9023-072612bfb805",
+        "value": "Laisse - toi donc aimer ! l50 TRADUCTIONS A DELLIUS ( LIVRE DEUXIÈME , ODE III ) Souviens - toi , Dellius , dans les temps difficiles , De supporter les maux , les revers , sans faiblir , Et de ne pas montrer pendant les jours faciles Un bonheur insolent , puisqu ' il te faut mourir ; Que tu sois constamment plongé dans la tristesse , Ou que souvent , couché sur les gazons fleuris , Loin des yeux et du bruit , dans une douce ivresse , Tu savoures en paix ton vieux falerne exquis .Dans le site charmant où l ' ombre hospitalière Du pâle peuplier , du pin majestueux , T ' offre un asile frais , où parmi la bruyère Une eau vive s ' enfuit en détours sinueux , TRADUCTIONS I 5 I Fais porter des parfums , une amphore et des roses , Pendant que le permet ta vie à son matin , Ta santé , ta fortune et les trois soeurs moroses Dont le cruel ciseau tranche notre destin .Tu devras tout quitter : ces bois , ces vastes terres , A grand frais réunis ; ce domaine princier Que le blond Tibre arrose ; et ces biens éphémères Seront la proie un jour d ' un indigne héritier .",
+        "words": [
+          "roses",
+          "parfums",
+          "amphore",
+          "le site charmant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/c4a58d5d-76fe-5b56-8a70-a07dbb599607",
+        "value": ".un valet ! » FAUST ET MARGUERITE POÉSIES DIVERSES 39 FAUST ET MARGUERITE Ils rêvaient tous les deux dans un riant sentier Plein d ' ombre et parfumé des fleurs de l ' églantier , Où les oiseaux chantaient sur la branche fleurie Le retourdu printemps , l ' espérance et la vie .C ' était un cavalier au maintien orgueilleux , Mais sombre , et qui portait sur son front soucieux , Dans son regard profond , sur sa lèvre ironique , Je ne sais quoi d ' amer et de mélancolique Qui semblait le marquer pour un fatal destin .",
+        "words": [
+          "parfumé",
+          "fleurs",
+          "FAUST",
+          "FAUST ET MARGUERITE"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/d4d58a81-f24e-5ab3-bbb0-47fdc80d68a7",
+        "value": "Mais aucune pourtant de ces brillantes fleurs Ne m ' éblouit de ses mensongères couleurs Autant que tu l ' as fait , belle rose fragile , Charmant camélia , qui trop longtemps charmais Mon coeur et ma pensée , et qui ne méritais Qu ' un regard passager et qu ' un vase d ' argile ! POÉSIES DIVERSES 85 LA FORET Que de fois , assailli par ma sombre pensée , Mécontent du passé , tremblant pour l ' avenir , Sentant rouler sans fin sur ma tête épuisée Les flots du souvenir , Je suis venu vers toi , forêt calme et sévère .Pour trouver le repos avec la paix du coeur ; Forêt qui joins si bien à la grandeur austère Le charme et la douceur ! Et j ' ai dit : « O sapins , ô chênes séculaires , Qui dressez vers le ciel vos fronts majestueux , Arbres qui prodiguez vos parfums salutaires Au rêveur soucieux ; 86 POÉSIES DIVERSES « O mousses qui rampez sous le hêtre superbe , Comme une foule aux pieds d ' une divinité ; Fleurs , rameaux et bouquets , dont l ' amour fait sa gerbe Dans les beaux jours d ' été ; « Gais rayons qui jouez avec le noir feuillage , Oiseaux qui racontez sans trouble et sans émoi Vos plaisirs innocents aux échos du bocage , Vous tous , accueillez - moi ! « Couvrez - moi de votre ombre , inondez ma poitrine De vos fraîches senteurs , de vos souffles puissants , Qui font le corps léger et l ' âme moins chagrine , Les soucis moins pesants .« Rassérénez mon coeur de vos voix pacifiques , Éclairez mon esprit de vos vives clartés , Et faites - moi sentir tout ce que vos cantiques Chantent de vérités .",
+        "words": [
+          "parfums",
+          "senteurs",
+          "fraîches",
+          "salutaires",
+          "Arbres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/ef46d116-6dad-524e-b2c7-af181a6d20a4",
+        "value": "60 POÉSIES DIVERSES LA FLEUR ET LE FRUIT LA FLEUR .Je suis la chaste fleur , la fleur céleste et pure Qui joint le doux parfum au don de la beauté .Emblème du printemps , bienfait de la nature , Je fais naître en tous lieux l ' innocente gaîté .",
+        "words": [
+          "doux",
+          "parfum",
+          "fleur"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/f626d0c0-2726-5672-9052-0cc2a2b80d80",
+        "label": "Charles  Nô"
+      }
+    ],
+    "label": "Rêves et impressions, par Charles Nô. Préface par Henri Fouquier. Eaux-fortes de R. de Los Rios",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5444365p",
+    "date": "1891",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/65",
+      "label": "Perfume"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/72add0cc-1e58-5a2b-8924-76c2aadd8ea4",
+      "label": "1891",
+      "begin": "1891",
+      "end": "1891"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/311046/",
+      "label": "Izmir"
+    },
+    {
+      "@id": "https://sws.geonames.org/418863/",
+      "label": "Isfahan"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/97069531-0f7a-57e1-9c51-2327c8111b8d",
+      "label": "Emyrne"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/love",
+      "label": "love"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/731c9cc7-5f11-5993-8699-d1a6011975a4/fragment/6924f9c0-ebd9-5f48-b8ba-bb3ca179ebe9",
+  "license": "Public domain"
+}

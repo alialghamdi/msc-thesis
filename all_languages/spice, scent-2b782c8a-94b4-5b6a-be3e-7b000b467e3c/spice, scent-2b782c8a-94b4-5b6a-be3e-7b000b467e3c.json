@@ -1,0 +1,290 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/2b782c8a-94b4-5b6a-be3e-7b000b467e3c",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": [
+    "spice",
+    "scent"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/01d2f1fc-00d6-5407-a118-39b9c414a621",
+        "value": "46 , 47 ) , and the aqueduct of Sinope ( x .91 , 92 ) ; as to covering over a dirty drain in Amastris , Avhich sent forth a pestilent stench ( x .99 ) ; on the plan for uniting the lake of Nicomedia to the sea by a canal ( x .",
+        "words": [
+          "stench",
+          "pestilent",
+          "Avhich"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/026d803a-dcdc-5add-9b2e-d978e07028eb",
+        "value": "This suspension of intellect was merely transient , and its restoration was equally sudden .The sense of smelling was also very obtuse ; commonly the strongest volatiles would scarcely affect the organ , yet whenever any circumstance occurred to excite painful emotions in the mind , they were liable to be assailed with , and suffered the most poignant distress from , the sensible impression of odours , which they invariably described as horribly offensive .Indeed , the pallid face and hurried state of the whole system very clearly denoted the intensity of their sufferings .",
+        "words": [
+          "smelling",
+          "very",
+          "odours",
+          "they",
+          "horribly offensive",
+          "excite painful emotions in the mind",
+          "the most poignant distress"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/03c35c7b-4d30-57be-8130-079035206026",
+        "value": "453 , and one of the first decemviÂ ¬ rate , is spoken of under Fistus .The cognomen Trigeminus shows that he pretended to be deÂ ¬ scended from one of the three Curiatii who fought Avith the Horatii ; and it appears from coins , a specimen of Avhich is annexed , that some of the Curatii in later times laid claim to a similar deÂ ¬ scent .On the obverse of the coin is the head of Pallas with trige ( i .",
+        "words": [
+          "scent",
+          "similar",
+          "in later times",
+          "¬",
+          "deÂ",
+          "some of the Curatii"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/06122162-fc27-57d8-8858-4fe901c7ec1e",
+        "value": "assistance against Corinth , one of their main arguÂ ¬ ments was that hostilities between the rival conÂ ¬ federacies could not be postponed much longer .Pericles doubtless foresaw this when by his advice a defensive alliance was contracted with the CorÂ ¬ cyraeans , and ten galleys sent to assist them , under Lacedaemonius the son of Cimon , which were only to be brought into action in case a deÂ ¬ scent upon the territories of the Corcyraeans were threatened .Plutarch represents Pericles as sendÂ ¬ ing so small a force through jealousy of the family of Cimon .",
+        "words": [
+          "scent",
+          "deÂ"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/17557420-f486-58c4-96fa-101589afca12",
+        "value": "Plinyâ   s botany is altogether devoid of scientific classification .The twelfth book treats of exotics , especially the spice and scent bearing trees of India , Arabia , and Syria .Of the trees themselves Plinyâ   s account is extremely unsatisfactory ; frequently he merely names them .",
+        "words": [
+          "trees",
+          "spice",
+          "scent",
+          "bearing",
+          "of India , Arabia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/2628478f-4fc1-53a1-b3cf-759032f737da",
+        "value": "402 ) .The Avound is said to have become ulcerated , and to have produced such an intolerable smell , and such intolerable pains , that the meanings of the hero alarmed his companions .The consequence was , that on the advice of Odysseus , and by the command of the Atreidae , he was exposed and left alone on the solitary coast of Lemnos ( Ov .",
+        "words": [
+          "smell",
+          "such",
+          "intolerable",
+          "that",
+          "alarmed his companions"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/29199c2e-4373-5a7f-ace3-d53ae4439ad3",
+        "value": "â   They were subject to frequent and violent fits of sneezing , and Mr .Cruikshank often remarked that the organ of smell must have numerous unknown nerves in its composition to explain the complexity of his feelings .â   A very short time only intervened between the decease of these relatives ; similar in their death , as in the precursive symptoms .",
+        "words": [
+          "smell",
+          "Cruikshank"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/2bfbf1af-05e1-5986-9b27-3498de6c7026",
+        "value": "Pliny then lay down on a sail which was spread for him .Alarmed by the approach of flames , preceded by a smell of sulphur , his comÂ ¬ panions took to flight .His slaves assisted him to rise , but he almost immediately dropped down again , suffocated , as his nephew conjectures , by the vapours , for he had naturally weak lungs .",
+        "words": [
+          "smell",
+          "of sulphur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/2ea2cdbe-ed32-515e-a9e2-8661b6c1a60b",
+        "value": "3583 .Sections of a kidney and of a renal capsule , â   from a butcher whose smelling was remarkably acute .â   The subÂ ¬ stance of the kidney is atrophied , shrunken , and contracted , as if by cicatrization , especially in its middle part , where it is not altogether more than half an inch in thickness .",
+        "words": [
+          "smelling",
+          "remarkably acute"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/40d7b17f-5051-5f46-9a5c-86dd1bf21ecd",
+        "value": "He sent back to GerÂ ¬ many eighteen Batavian cohorts , which were very turbulent ; and he also sent back to their country many Gallic auxiliaries .On arriving at Cremona , about the 25th of May , he went to see the battle field of Bedriacum , which was covered with putreÂ ¬ fying bodies ; and when some of his attendants expressed their disgust at the stench , he said , â   that a dead enemy smelt sweetest , and still sweeter when he was a citizen .â   ( Sueton .",
+        "words": [
+          "he",
+          "smelt",
+          "stench",
+          "sweetest",
+          "a dead enemy",
+          "some of his attendants",
+          "about the 25th of May",
+          "at Cremona",
+          "when he was a citizen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/59966d77-35b4-5b71-9a9f-1ced45e24085",
+        "value": "The imitation of which by Milton gives no small aid to the comprehension of the idea { Paradise Lost , iii .135 â   137 ) : â   Thus while God spake , ambrosial fragrance fillâ   d All heaven , and in the blessed spirits elect Sense of new joy ineffable diffused .â   Expression was given to this idea , not only by the whole proportions and configuration of the statue , but more especially by the shape and posiÂ ¬ tion of the head .",
+        "words": [
+          "fragrance",
+          "ambrosial"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/6bc820ae-5e2c-5907-b95d-c319800afa09",
+        "value": "1089 more or less ample fragments of works by TheoÂ ¬ phrastus , or extracts from them , among which the ethical characters , that is , delineations of characÂ ¬ ter , and the treatise on sensuous perception and its objects ( trepl alad - qaews [ xal aiaOriTuv ] ) are the most considerable , the first important as a conÂ ¬ tribution to the ethical history of that time , the latter for a knowledge of the doctrines of the more ancient Greek philosophers respecting the subject indicated .With the latter class of works we may connect the fragments on smells ( Trepl o ( T } xwv ) , on fatigue ( trepl Kotrwy ) , on giddiness ( trepl tKiyywu ) , on sweat ( trepl iSpwTccv ) , on swooning ( trepl \\ eitro - \\ j / uxias ) , on palsy ( trepl trapaXvaews ) , and on honey ( trepl fieXiTos ) .To physics , in the narrower sense of the word , belong the still extant sections on fire ( trepl trvpos ) , on the winds ( trepl auegwr ) , on the signs of waters , winds , and storms ( trepl argaeiwu ohdroiv Kal trvevgaTwv koI xei / itoj / coj ' Koi evSLwr , probably out of the fourth book of the Meteorology of Theophrastus : trepl pLeraparienp : see Pint .",
+        "words": [
+          "honey",
+          "sweat",
+          "smells",
+          "on palsy",
+          "trepl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/76af4d88-a4e4-5549-8398-a2548a901415",
+        "value": "Catalogue ) .The tissues are softened , and many of them appear to have been putrid .The full period of gestation had been arrived - at ; but nothing is known of the circumstances in which the child passed into the intestine .",
+        "words": [
+          "putrid",
+          "many"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/8ab6cf83-9285-58f0-a0df-75fa0c403e7c",
+        "value": "The seventh book treats of man , and opens with a preface , in which Pliny indulges his querulous dissatisfaction with the lot of man , his helpless and unhappy condition when brought into the world , and the pains and vices to which he is subject .After bespeaking some measure of belief for the marvellous accounts that he will have to give , and suggesting that what appears incredible should be regarded in its connection with a great whole { naturae vero reruni vis atque majestas in omnibus momentis fide carets siquis modo paries ejus ac non totam complectatur animofi he enumerates a number of the most astonishing and curious races reported to exist upon the earth ; â   cannibals , men with their feet turned backwards ; the Psylli , whose bodies produce a secretion which is deadly to serpents ; tribes of Androgyni ; races of enÂ ¬ chanters ; the Sciapodae , whose feet are so large , that when the sunâ   s heat is very strong they lie on their backs and turn their feet upwards to shade themselves ; the Astomi , who live entirely upon the scents of fruits and flowers ; and various others almost equally singular .Haec , he remarks , atque talia eoc honiinum genere ludihria sibi , nobis miracula , ingeniosa fedt natura .",
+        "words": [
+          "scents",
+          "of fruits and flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/9b8e3e07-4bc5-5b14-bc9e-c97bd9d11857",
+        "value": "When these symptoms at last subsided the tumour was felt to increase rapidly .The distended kidney occupied more than half the abdominal cavity , extending from the iliac fossa to the diaphragm ; it was filled with five pints of offensively smelling pus and urine , and contained a great number of ' pisiform ( oxalate of lime ) calculi , which are described in the Series of Calculi , C .29 ; Catalogue of Concretions , p .",
+        "words": [
+          "urine",
+          "smelling",
+          "pus",
+          "offensively smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/9ff0cf46-67fd-5188-af82-e76882bad0a8",
+        "value": "Here blood was found effused to a considerable extent in the left hemisphere , and a bony deposit was attached to the anterior portion of the falciform process .â   The resemblance in each case was very remarkable , but in neither did the most careful examination detect the slightest alteration in the natural and healthy appearance of the structure of the olfactory nerve .â   INJURIES AND DISEASES OF MEMBRANES OF THE BRAIN .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/a94b2d5a-9f96-5341-963e-cf6ba8753802",
+        "value": "Florian .2 ) , who claimed deÂ ¬ scent from the great historian whose name he bore , Avho was celebrated for his devotion to literature , for his vast wealth , for his pure and upright character , and who stood first on the roll .The real or feigned earnestness with which he declined tlie proffered honour , on account of his advanced age and infirmities , was encountered by the reÂ ¬ iterated acclamations of lus brethren , who overÂ ¬ whelmed him with arguments and precedents , until at length , yielding to their importunate zeal , he consented to proceed to the Campus Martins , and there received the greetings of the people , and the praetorians assembled to do homage to their new ruler .",
+        "words": [
+          "scent",
+          "¬"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/c306cbac-b7bb-5522-a2ce-b4e67a4e9eb1",
+        "value": "2 ] .He concealed himself in the neighbourÂ ¬ hood of Salernum ; but the perfumes which he used and his refined mode of living betrayed his lurking - place to his pursuers , and to save his slaves , who were being tortured to death because they would not betray him , he voluntarily surrendered himself to his executioners .( Plin .",
+        "words": [
+          "perfumes",
+          "he"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/cbf7bc15-3882-57e5-bcc7-d56f8f41b270",
+        "value": "The subÂ ¬ stance of the brain was pale ; its ventricles contained between six and seven ounces of fluid .The olfactory and optic nerves , and all those on the left side of the brain , appeared healthy ; but the third and all the following nerves of the right side had a dusky red colour , from fulness of the vessels of their neurilemma .The right side of the tentorium cerebelli was much elevated .",
+        "words": "olfactory"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/ccc0e004-ecb8-5bbe-9088-a995a16431f2",
+        "value": "â   On tracing , â   says Mr .Swan , â   the par vagum from the middle of the neck , each nerve was flabby and much smaller than natural , and felt like a nerve removed from a putrid body after being soaked in water .The branches disÂ ¬ tributed to the lungs appeared as usual , as well as the conÂ ¬ tinuations of the nerves , nearly as far as the termination of 152 SPECIAL PATHOLOGY .",
+        "words": "putrid"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/ce5eb887-816f-55e4-9477-6c2013d9f3c4",
+        "value": "By this , his former disease , in which he had sometimes passed in his urine subÂ ¬ stances resembling the membranes of hydatids , was much aggravated .About six weeks before his death , and some months after the fall , from which he had partially recovered , his urine became very offensive , as if it contained putrid animal matter , and was often mixed with small calculi and gravel .With these he had a high degree of fever , painful micturition , severe pain in the loins and in the course of the ureters , nausea , vomiting , & c .",
+        "words": [
+          "putrid",
+          "very offensive",
+          "his urine",
+          "putrid animal matter",
+          "contained putrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/d163054d-e6ea-5dba-884b-ebd9945e9b0d",
+        "value": ") are devoted , generally speaking , to medical botany , though the reader must not expect a writer like Pliny to adhere very strictly to his subject .Thus , a great part of the twenty - first book treats of flowers , scents , and the use of chaplets ; and some of the observations about bees and bee - hives are a little foreign to the subject .Indeed , the 20th and part of the 21st book are rather a general account of the medical , floral and other productions of gardens ( see c .",
+        "words": [
+          "flowers",
+          "scents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/d3149883-7eed-5367-8153-b87d861a01cc",
+        "value": "Both cornese were opaque , and the eyes shrunken .There was no offensive odour or sign of decomposition , except that the cuticle peeled - off in large flakes .The mother of the child , aged 28 , had been married eight years , but had never before been pregnant .",
+        "words": [
+          "offensive",
+          "odour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/d3a88dde-a8b8-5848-9ff1-68f0e5a775e8",
+        "value": "So infuriated was he against the actor , that he even put to death a youth who was a pupil of Paris , merely because he bore a resemblance to his master in form and in skill .The people deepl ) â   ' deplored the death of their favourite ; some strewed the spot where he fell with flowers and perfumes , for which act they were killed by the tyrant ; and Martial only expressed the general feeling of the city , when he called him in the epithet ( xi .13 ) which he comÂ ¬ posed in his honour , â   Romani decus et dolor theatri .",
+        "words": [
+          "perfumes",
+          "flowers",
+          "he"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/d9d51dc3-b14c-5f8b-9d10-e77fe01bcc99",
+        "value": "The globe of the left eye was insensible to the touch , hut vision was unimpaired , except that for some time before death colours could not be distinguished with that eye .No impressions were perÂ ¬ ceived when snuff or ammonia , or any other similar irritating substance , was applied to the left nostril , but the sense of odours was unimpaired .The left side of the tongue was insensible to impressions of both touch and taste .",
+        "words": [
+          "the",
+          "odours",
+          "the left nostril"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/e039d735-7514-5bed-8ab8-dec4cb451596",
+        "value": "When the cow was killed , the calves were found almost fully developed , but much comÂ ¬ pressed against each other .Their flesh was dry , but neither putrid nor in any other way altered .The umbilical cords were dry and flattened ; the foetal membranes and cotyledons had separated from the uterus .",
+        "words": [
+          "putrid",
+          "Their"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/e675c2fd-fffe-5ba3-8be2-0f3d40506787",
+        "value": "36 .) RUFILLUS , a person ridiculed by Horace on account of the perfumes he carried about his perÂ ¬ son .( Hor .",
+        "words": [
+          "perfumes",
+          "he",
+          "RUFILLUS"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/8022ddba-2787-5ae5-889a-193af2891790",
+        "label": "Barnard Castle . Local Board of Health"
+      }
+    ],
+    "label": "[Report 1909]",
+    "url": "http://archive.org/details/b28902233",
+    "date": "1909",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/200",
+      "label": "Tree"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/15f4a8c0-cae1-5aeb-8e34-5a88a93dc163",
+      "label": "1909",
+      "begin": "1909",
+      "end": "1909"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8226657/",
+      "label": "Al Hind"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/6916aee1-b313-5061-8dbe-401abbcd5151/fragment/17557420-f486-58c4-96fa-101589afca12",
+  "adjective": [
+    "spice",
+    "bearing"
+  ]
+}

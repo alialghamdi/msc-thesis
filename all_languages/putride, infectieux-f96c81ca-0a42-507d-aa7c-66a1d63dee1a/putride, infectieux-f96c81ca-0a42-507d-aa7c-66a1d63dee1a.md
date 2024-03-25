@@ -1,0 +1,69 @@
+## putride, infectieux
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/f96c81ca-0a42-507d-aa7c-66a1d63dee1a |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | putride |
+| label.1 | infectieux |
+| source.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/03dba683-bdd5-510e-9a9f-c6e1603b6b56 |
+| source.excerpts.0.value | Schœnbein à découvrir l ’ ozone .Cet auteur , en effet , a découvert que sous l ’ influence de l ’ électricité atmosphérique l ’ air éprouve des changements curieux : l ’ oxygène prend l ’ odeur du phosphore et est doué d ’ affinités chimiques plus énergiques , de façon qu ’ il décompose , à la tem pérature ordinaire , l ’ iodure de potassium et met en — 10 — liberté l ’ iode , dont la présence est accusée par la teinte bleue de l ’ amidon .C ’ est sur cette réaction que M . |
+| source.excerpts.0.words.0 | odeur |
+| source.excerpts.0.words.1 | air |
+| source.excerpts.0.words.2 | phosphore |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/04dcb515-5809-527f-9fa0-ebba262889e6 |
+| source.excerpts.1.value | Là se trouvait , en effet , une accumulation considérable d ’ hommes vivant au milieu de conditions vraiment phénoménales d ’ insalubrité .« Aux miasmes issus de tant d ’ êlres vivants , se sont ajoutées les exhalaisons fétides provenant de la décomposition des cadavres d ’ hommes et d ’ animaux se putréfiant à l ’ air libre ou négligemment recouverts d ’ une mince couche de terre .Ainsi est né le germe du choléra , que les courants atmosphériques ont transporté en divers points de l ’ Europe , et que les individus qui en avaieni été imprégnés au lieu d ’ origine , ont semé autour d ’ eux partout où ils se sont arrêtés ' . |
+| source.excerpts.1.words.0 | exhalaisons |
+| source.excerpts.1.words.1 | miasmes |
+| source.excerpts.1.words.2 | fétides |
+| source.excerpts.1.words.3 | cadavres |
+| source.excerpts.1.words.4 | êlres vivants |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/204a1d41-2526-5655-a723-1111ead6de74 |
+| source.excerpts.2.value | On trouve dans le choléra , largement dessinées , les quatre phases principales qui caractérisent tout empoisonnement : celle qui signale l ’ absorption du poison , celle qui annonce sa mise en contact avec les grands centres nerveux et les principaux organes , celle qui témoigne des efforts de réaction du sujet empoisonné , et enfin le travail d ’ élimination de l ’ agent toxique .On y retrouve aussi cette action presque spéciale des poisons sur les centres nerveux , le cœur et les voies digestives ; on y constate l ’ expulsion du miasme en nature par toutes les voies d ’ excrétion , ainsi que le démontre l ’ odeur caractéristique commune à la transpiration pulmonaire , à la sueur , à la matière des vomissements et à celle des garde - robes .On observe , dans les épidémies de choléra , ces morts rapides et foudroyantes que l ’ introduction d ’ un poison énergique peut seule ordinairement produire . |
+| source.excerpts.2.words.0 | odeur |
+| source.excerpts.2.words.1 | transpiration |
+| source.excerpts.2.words.2 | sueur |
+| source.excerpts.2.words.3 | caractéristique |
+| source.excerpts.2.words.4 | poisons |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/20e21dce-4649-575b-b1d3-17e341e367ce |
+| source.excerpts.3.value | Au premier rang de ces dernières se trouve une prédisposition toute particulière de l ’ organisme , toujours nécessaire pour contracter une maladie contagieuse .Nous devons citer encore d ’ autres causes adjuvantes , comme la chaleur de l ’ été , le défaut d ’ aération , les émanations putrides , les aliments de mauvaise nature , les troubles digestifs négligés , les émotions morales , surtout les passions tristes , la peur , enfin tous les excès .Dans certains cas , la maladie a paru se rattacher à des variations brusques de température , et surtout au passage subit du chaud au froid . |
+| source.excerpts.3.words.0 | putrides |
+| source.excerpts.3.words.1 | émanations |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/314c159c-7c37-5a48-a703-eb4ffd65bb74 |
+| source.excerpts.4.value | C ’ est du reste à ce stimulant que nous 1 Bulletin thérapeutique , novembre 1865 , — 67 — avons vu recourir à la clinique de Saint - Éloi ; c ’ est celui auquel nous avons donné la préférence , pendant notre séjour à Toulon .L ’ acétate d ’ ammoniaque constitue un des stimulants diffusibles les plus sûrs ; on doit l ’ administrer à assez forte dose , et l ’ associer aux aromatiques et aux alcooliques , auxquels , d ’ après Gubler , on peut ajouter l ’ éther et le chloroforme .Ces trois ordres d ’ excitants , ainsi associés , se servent mutuellement d ’ adjuvants , et agissent tous trois dans le même sens . |
+| source.excerpts.4.words.0 | aromatiques |
+| source.excerpts.4.words.1 | alcooliques |
+| source.excerpts.4.words.2 | acétate d ’ ammoniaque |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/4fb38c29-f65c-586d-a623-36798adbcb8c |
+| source.excerpts.5.value | — Assainir la localité envahie , établir des bureaux do secours , instituer des visites préventives , tels sont les moyens gé - raux auxquels on doit d ’ abord recourir .L ’ influence fâcheuse qu ’ ont paru exercer dans beaucoup de localités les effluves et les miasmes putrides , suffit pour inviter les médecins à réclamer des mesures de police très - sévères .On doit veiller avec un soin tout particulier à la propreté des rues , des habitations et de leurs dépendances . |
+| source.excerpts.5.words.0 | putrides |
+| source.excerpts.5.words.1 | effluves |
+| source.excerpts.5.words.2 | médecins |
+| source.excerpts.5.words.3 | miasmes putrides |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/6943b87a-8fd9-5fd0-abdc-0aacab0b9fc2 |
+| source.excerpts.6.value | RpHBRi — 16 — maladies infectieuses .L ’ épidémie cholérique de 1865 s ’ est montrée , dès l ’ abord , dans un terrain infectieux et putride , à la Mecque .Là se trouvait , en effet , une accumulation considérable d ’ hommes vivant au milieu de conditions vraiment phénoménales d ’ insalubrité . |
+| source.excerpts.6.words.0 | putride |
+| source.excerpts.6.words.1 | infectieux |
+| source.excerpts.6.words.2 | la Mecque |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/ae992658-ef27-52d6-ad1f-057b9daedd8d |
+| source.excerpts.7.value | Billaud ( de Cabigny ) pense que , par suite de l ’ absence de l ’ ozone dans l ’ organisme , la matière entre sous la loi des corps inertes , subit la .fermentation putride et , par les gaz qui en sont le produit , engendre le choléra .Depuis ces recherches , les auteurs ont fait de nombreuses expérimentations sur cet ozone , et sont arrivés — 11 — à des résultats très - variables . |
+| source.excerpts.7.words.0 | putride |
+| source.excerpts.7.words.1 | fermentation |
+| source.author.0.@id | http://data.odeuropa.eu/actor/1cf406a1-ebaf-5b33-a356-dcbe751323b1 |
+| source.author.0.label | Nestor Falc |
+| source.label | Essai sur le traitement du choléra / par le Dr Nestor Falc |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k881455p |
+| source.date | 1866 |
+| source.language | fr |
+| time.0.@id | http://data.odeuropa.eu/time/e35c8e6f-96ed-5e76-9036-bcc5c4ef3a09 |
+| time.0.label | 1866 |
+| time.0.begin | 1866 |
+| time.0.end | 1866 |
+| place.0.@id | https://sws.geonames.org/104515/ |
+| place.0.label | Makkah |
+| relevantExcerpt | http://data.odeuropa.eu/source/45ea7240-9924-5cde-8b26-89300a2846ea/fragment/6943b87a-8fd9-5fd0-abdc-0aacab0b9fc2 |
+| license | Public domain |

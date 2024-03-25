@@ -1,0 +1,165 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/61642541-6c66-51bc-a77d-fb1817eb1414",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": "aroma",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/2a21736f-f864-5923-bc3f-9fc64381a584",
+        "value": "Plane , bamboo , acacia , and other trees were very numerous .The acacias , with their graceful , sweet - smelling pink and white blossoms , were exceedingly pretty .Rain commenced commenced to fall , and continued all the rest of the way to Resht .",
+        "words": [
+          "smelling",
+          "sweet - smelling",
+          "their",
+          "The acacias",
+          "pink and white blossoms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/69db9913-398b-5ad1-8824-d42077ce1cf1",
+        "value": "Its great defect is the absence of shade , owing to the plane - trees — which are large and very numerous — having had their lower branches lopped off , and only clumps left at the top .It has numerous flowers , and during May was a mass of roses of various species , the perfume of which , as a Persian would say , intoxi - IN THE KINGDOM OF THE SHAH .■ 34 cated the senses , and made the heart The Prince spends a great deal of his time while he is in Ispahan in this garden .",
+        "words": [
+          "perfume",
+          "which",
+          "intoxi",
+          "a mass of roses of various species",
+          "during May"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/78ffe67d-3e06-56c8-ad30-058449090c5f",
+        "value": "At ten on the morning of the 14th we reached Baku , the city of eternal as it has been called .We could smell the petroleum before we got into the harbour , and plenty of it could be seen floating on the water along the coast .It is said that the inhabitants used to pour , in calm 295 weather , large quantities on to the sea and then set it alight , and watch it being carried out of sight on the waves , like a sea of fire .",
+        "words": [
+          "smell",
+          "We",
+          "the petroleum",
+          "along the coast"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/99ef97c4-a163-594a-903a-75ea249d53b3",
+        "value": "There are , of course , no names to the streets , or sign - posts to guide you .At night a servant used to go before us with a lantern to light the way , otherwise we should soon have found ourselves putting a foot into one of the foul - smelling or ditches .The lanterns used in Persia are made of greased calico ; they are in shape like the Chinese lanterns , and have engraved brass tops .",
+        "words": [
+          "smelling",
+          "foul",
+          "ditches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/aabdff78-92fa-5cf4-b46e-21622d3e1e74",
+        "value": "The cabin boys were Portuguese , and the crew Lascars , so that we had on board about as varied a mixture of the human species as can well be met with .It was a treat to get on the bridge , away from all the crowd on deck , with their numerous and varied odours , and watch the brilliant , sparkling moonlight dancing on the waves .The moon hath risen clear and calm And o ' er the green sea palely shines , Revealing Bahrein ' s groves of palm And lighting Kishma ' s amber — Moore .",
+        "words": [
+          "odours",
+          "varied",
+          "their",
+          "numerous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/b4e7d51c-5ade-5da9-8d31-a1bdb40cf8de",
+        "value": "Ask ye to see the moon ? Look at her face .Seek ye for musky fragrance ? She is all sweetness .Her long fingers seem Pencils of silver , and so beautiful Her presence , that she breathes of Heaven and During my stay in Julfa I frequently met the native doctors ; they seemed very anxious to watch my practice , and came frequently to the dispensary to see me operate .",
+        "words": [
+          "musky",
+          "fragrance",
+          "She"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/dbe0ff16-c44c-5cde-8c2a-2d6fec840326",
+        "value": "In Julfa and Ispahan , and probably in most of the other towns , streams of water in dirty ditches , called jubes , run through the centre of the streets .They serve for irrigation streams , drains , and wash - tubs , and in warm weather give forth the most pestilential odours .Refuse of all sorts is thrown out in the streets , courtyards , or anywhere in the open ; the kindly sun soon dries up any moisture it may contain , and numbers of wretched wild dogs , who prowl the streets together together with jackals from the desert , act as scavengers at night .",
+        "words": [
+          "odours",
+          "They",
+          "the most pestilential"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/ec88b619-ecb1-590c-92fb-ed5ccba77e46",
+        "value": "The roadway was nowhere very broad , and it was crowded by men in flowing robes of varied hue , closely - veiled women in their sombre indigo blue outdoor costumes shuffling along with slippers without any heels , and donkeys and mules carrying carrying every variety of goods .Around the cook - shops the crowd was generally thicker , and from them the savoury odour of the kabobs arose .These are little pieces of meat stuck on a skewer and roasted over a charcoal fire , which the bare - atmed cooks make bright from time to time by blowing with a pair of bellows , 224 IN THE KINGDOM OF THE SHAH .",
+        "words": [
+          "odour",
+          "savoury",
+          "Around the cook - shops",
+          "of the kabobs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/edb38ef4-7ac7-5fac-8c42-4f5bd7b2dc2b",
+        "value": "The building , which extends for several miles , has a high arched roof , holes through which admit large , downward - slanting beams of light at regular intervals .Odours of various spices pervaded the air .On either side of the roadway were raised platforms , on which sat the turbanned salesmen , surrounded by their goods , and sucking at their On some of the platforms we could see the articles which were sold in the front being manufactured at the back .",
+        "words": [
+          "the air",
+          "Odours",
+          "of various spices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/f0c99e91-3cc9-534a-ba8d-109ff7e3d96a",
+        "value": "they said , us our men , or we throw your officers down from our precipice ! Ultimately an exchange of prisoners was effected , and the soldiers had to depart , leaving the inhabitants inhabitants of Yezdikhast triumphant .In the afternoon we visited the village , passing round the north side of the rock , where apparently the main drain empties itself , for the stench was something abominable .W ' e crossed the drawbridge , drawbridge , and went down the dark , narrow central street .",
+        "words": [
+          "the",
+          "we",
+          "stench",
+          "something abominable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/f50030cc-e400-5868-a3e1-f6e00f0c9ab3",
+        "value": "The look of the semi - European posting - houses was not , however , inviting .The partly furnished rooms for travellers were exceedingly exceedingly close and dirty , and evidently reeking with vermin ; outside in the verandahs there was generally a collection of loafers drinking tea and smoking .This country just outside Kasvin was at one time full of terrors .",
+        "words": [
+          "reeking",
+          "with vermin",
+          "The partly furnished rooms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/f5c23959-19fa-5082-a844-747a0a49ba3d",
+        "value": "The great delight of the inhabitants of Shiraz is 54 IN THE KINGDOM OF THE SHAH .in their gardens , where they like to lie and bask in the shade , with the air around them heavy with the perfume of roses , while they listen to the plashing of the running water in its marble basins , the melody of the bulbul , or the recitation of an ode of their beloved Hafiz .My wife in Shiraz was able to walk through the Bazaar , without being mobbed or shouted at , as she would have been had she attempted to do so in Ispahan .",
+        "words": [
+          "perfume",
+          "the air",
+          "of roses",
+          "they",
+          "heavy",
+          "in their gardens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/fc8ff6c1-85e9-5ae0-8ef4-4453df082936",
+        "value": "As soon as made , the wine is placed in earthenware earthenware jars , and never goes into wood : as a rule , it is drunk quite new .None that I tasted , either at Shiraz or elsewhere , had any aroma or flavour the least approaching a European wine .Europeans Europeans resident there have sometimes matured some in old sherry casks , which they say im - 56 IN THE KINGDOM OF THE SHAH .",
+        "words": [
+          "I",
+          "aroma",
+          "the least",
+          "at Shiraz"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/fe8ac8d2-8ccf-5709-ab77-de77ff64f19e",
+        "label": "Edward Treacher COLLINS"
+      }
+    ],
+    "label": "In the Kingdom of the Shah. [With illustrations.]",
+    "date": "1896",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9b29f9a9-44e6-53db-a132-322e536a2c4a",
+      "label": "1896",
+      "begin": "1896",
+      "end": "1896"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/115019/",
+      "label": "Shiraz"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/5cd1efe3-d251-593f-8d85-017f82570460/fragment/fc8ff6c1-85e9-5ae0-8ef4-4453df082936",
+  "adjective": "the least"
+}

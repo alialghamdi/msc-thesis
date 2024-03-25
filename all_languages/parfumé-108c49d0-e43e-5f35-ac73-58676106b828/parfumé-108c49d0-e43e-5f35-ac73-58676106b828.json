@@ -1,0 +1,568 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/108c49d0-e43e-5f35-ac73-58676106b828",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "parfumé",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/00ee68f3-31d0-564e-bfd9-8f4589f7356e",
+        "value": "Maintenant , on opère plus commodément , non seulement dans certaines maisons de Bordeaux , niais partout où l ' on veut imiter les vins du Bordelais .Un chimiste a inventé des parfums qu ’ il a baptisés du nom de « sèves » et à l ' aide desquels vous pouvez faire , d ' une modeste barrique du vin le plus ordinaire , un vin de Bordeaux capable de faire illusion à la majorité des consommateurs .Pendant mon séjour dans la Gironde , j ’ ai voulu voir ce chimiste : je l ’ ai vu .",
+        "words": [
+          "parfums",
+          "chimiste"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/00ff5da2-3d66-5adb-aec2-a939eff31460",
+        "value": "« Mais , ajoutent - ils , ses effets salutaires sont passagers ; ceux qui sont dangereux deviennent bientôt prépondérants : la fatigue prolongée , la somnolence , l ' affaiblissement de toutes les facultés ou l ’ inconscience sont , en dernier lieu , l ’ apanage certain et prolongé de ceux qui en abusent .» Après un pareil procès , nous sommes dûment autorisés , n ’ est - ce pas , à ranger la liqueur d ’ abs ’ inthe , où s ’ épanouissent et se confondent les parfums de ces diverses essences , parmi les boissons toniques et particulièrement malfaisantes .Passons aux bitters .",
+        "words": [
+          "parfums",
+          "liqueur",
+          "nous",
+          "toniques",
+          "particulièrement malfaisantes",
+          "ces diverses essences"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/02eca34a-d44f-53e8-8a7b-7b796cef122a",
+        "value": "Il imprima ses qualités austères et énergiques à l ’ école de Pythagore , à la civilisation étrusque et à celle de la Rome primitive .Plus tard , sous l ’ influence des vins légers et parfumés de l ’ Archipel , le génie sombre et politique des Romains s ' adoucit ; l ' élégance athénienne pénétra dans le langage , les mœurs , les ameublements jusqu ’ au jour où la vigne , exerçant sur les peuples du Nord son attraction invincible , Gaulois , Lombards , Suèves , Goths , Cimbres , etc ., marchèrent à la conquête de l ’ Italie .",
+        "words": [
+          "vins",
+          "parfumés",
+          "Archipel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/037c686a-2dcf-5220-b830-afd1966dcf80",
+        "value": "L ’ Assistance publique , malgré son énorme budget , est débordée .Les asiles existants ne suffisent plus pour recevoir les alcooliques de la capitale .Ne pourrait - on , en face de pareils résultats , réunir les hommes de bonne volonté pour poser et résoudre une bonne fois cette question des octrois , dont le fonctionnement altère si visiblement la santé physique , politique et morale de nos grandes villes ? YII Le coq gaulois est un coq qui boit du vin .",
+        "words": [
+          "alcooliques",
+          "capitale"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/03c6aa6f-7d48-5778-a1c3-2e9329bba737",
+        "value": "Je vous dirai que ce n ’ est pas moi qui l ' affirme , mais bien les plus savantissimes docteurs , les Magnan , les Laborde , les Cadéac , les Meunier , gens terribles , je vous l ’ accorde , mais avec lesquels nous sommes , dorénavant , obligés de compter .Voulez - vous leur répondre , contester leurs découvertes ? Ils sortiront un cobaye de son tonneau , un lapin de sa cabane , un chien de son chenil , et les expédieront sous vos yeux , dans l ' autre monde , en quelques minutes , juste le temps nécessaire pour introduire dans le fin et complexe réseau de leur circulation veineuse quelques centigrammes d ’ une des essences des plantes servant à parfumer votre cordial , votre liqueur , votre apéritif préférés .Ces expériences , jusqu ’ ici , n ’ ont guère intéressé que le monde spécial des cliniques et des laboratoires .",
+        "words": [
+          "parfumer",
+          "liqueur",
+          "cordial",
+          "essences des plantes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/05ab1c3a-24be-5ffa-bc62-aa8047093701",
+        "value": "Surprise et frayeur du cobaye ; il se frotte le nez , cherche à fuir , tombe , crie , se relève , est pris de tremblements , fait le tour de la cloche en titubant , se cramponne au sol avec ses ongles fortement écartés , retombe , se relève , le corps en proie à des secousses spasmodiques , chancelle à nouveau , tombe à nouveau , semblable à un pantin mû par des ficelles , puis est emporté dans une crise convulsive ; le corps se courbe en arc de cercle en dedans , en dehors , en avant , en arrière ; l ’ animal pousse de petits cris plaintifs , s ’ affaiblit , respire de plus en plus faiblement et meurt après une heure et demie de séjour dans la cloche .Cela pour avoir simplement respiré le parfum de l ’ essence .Autre expérience : Injectée dans les veines d ’ un chien , l ’ essence d ’ hysope détermine chez l ’ animal une attaque violente d ’ épilepsie , tout comme l ’ essence d ’ absinthe .",
+        "words": [
+          "parfum",
+          "essence"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/08ea292f-5f69-58cf-a969-ad153eb31467",
+        "value": "G oranges fraîches coupées par tranches .Dans cette formule vous retrouverez encore l ’ absinthe épileptisante et toxique , l ’ angélique excitante d ' abord , puis somnifère et déprimante et le calament excito - stupéfiant .Quant au vulnéraire ou eau d ’ arquebuse , elle est l ’ expression la plus complète du type de liqueur aromatique et toxique .",
+        "words": [
+          "calament",
+          "toxique",
+          "absinthe",
+          "angélique",
+          "stupéfiant",
+          "somnifère",
+          "déprimante",
+          "épileptisante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/09523911-3f02-589a-aef8-938ad1d08f09",
+        "value": "Cette conquête s ’ est faite moins rapidement qn ’ on ne pourrait le supposer tout d ’ abord .Le vin mousseux rencontrait des détracteurs dans les amateurs des vins tranquilles qu ' ils aimaient à cause de leur finesse , de leur légèreté et de leur arôme .L ’ époque n ’ était point lointaine où les joyeux fondateurs de l ’ ordre des Coteaux , Saint - Evremond , le comte d ’ Olonne et le comte de Laval - Bois - Dauphin étaient célébrés en ces termes par le père Bouhours : « Ces messieurs ne sauraient manger que du veau de rivière ; il faut que leurs lapins soient de la Boche - guvon ou de Versines ; ils ne sont pas moins difficiles sur le fruit ; et , pour le vin , ils n ’ en sauraient boire que des trois coteaux d ’ Ay , d ’ IIautvillers , d ’ Avenay .",
+        "words": [
+          "vin",
+          "leur",
+          "arôme"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/12eba261-bf68-56dd-9fb7-f03f20813673",
+        "value": "La flûte champenoise , la vraie , le verre élancé et gracieux comme un lis , soudé par une pointe fine au disque rond du pied , n ' existe plus guère .C ’ est elle qui conserve au vin son feu , sa souplesse , sa grâce , qui lui fait un vêtement à sa taille , qui lui permet d ' épanouir son parfum juste dans la mesure où nous pouvons en respirer toutes les senteurs .Parfum du champagne , parfum exquis , vin délicieux , vin sans rival , vieux et cher vin de notre chère et douce France , combien je comprends que les femmes t ' aiment et que les poètes te chantent : Béni soit le soleil , père de toutes choses , Qui , tout en s ’ occupant de nous faire des roses Avec son baiser d ' or et ses rayons divins , Trouve encore le temps de féconder les treilles Dans la saison charmante et douce où les abeilles Volent aux pampres , lourds du vieux renom des vins ? Mais surtout gloire à lui , gloire à l ’ œuvre féconde Qu ' il accomplit d ' en haut pour la gaité du monde ! Gloire à lui , quand , versant partout l ’ ivresse à ilôts .",
+        "words": [
+          "parfum",
+          "vin",
+          "senteurs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/20f28839-dd3b-56b4-91fa-1dc09642a7a5",
+        "value": "» Quelques mois après , quand il eut reçu son vin mousseux , il répondit du camp devant Fribourg : « Je vois combien j ’ ai eu tort de demander que vous fassiez tirer mes quarteaux de vin pour qu ’ il pût mousser : c ’ est une mode qui règne partout , surtout à la jeunesse .Je vous promets dorénavant de ne point vous en parler davantage ; en mon particulier , je m ’ en soucie fort peu ; mais je veux qu ’ il soit clair , fin et qu ’ il ait beaucoup de parfum de champagne .» Suy quoi , M .",
+        "words": [
+          "parfum",
+          "champagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/23db548c-c8e3-5130-ab1c-eed5fe68e329",
+        "value": "30 , le débitant prélève donc encore le joli bénéfice de 1 fr .Avant de reprendre notre excursion au pays du vin , il est indispensable que nous liquidions cette question de l ’ alcool , de l ’ absinthe et autres apéritifs et spiritueux à base de plantes épileptisantes , excitantes , stupéfiantes , stimulantes , etc ., toutes contribuant à former des mélanges bizarres et contradictoires , toutes susceptibles d ’ apporter des perturbations graves dans notre organisme .",
+        "words": [
+          "plantes",
+          "stimulantes",
+          "alcool",
+          "pays du vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/25229b38-e769-55e7-93a4-e1785b2109e6",
+        "value": "Dès le moment où la vigne fit place aux céréales , l ’ esprit fut sacrifié à la matière , les mœurs faiblirent , la civilisation périclita .La grande muraille , ce chef - d ’ œuvre de puissance et de génie des temps anciens , ne suffit plus pour arrêter les agressions des Tar - tares , sans cesse attirés dans le nord de l ’ empire par le parfum des vins et la saveur des fruits .En 1644 , Xun - chi envahit la Chine .",
+        "words": [
+          "parfum",
+          "fruits",
+          "vins",
+          "saveur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/2629f097-76b5-581d-9cf7-7cc9666dd982",
+        "value": "Si l ’ on place un cobaye dans une atmosphère saturée de vapeurs de cette essence on assiste à toutes les phases symptomatiques successives observées après l ' injection de petites , puis de fortes quantités de cette huile essentielle dans la circulation veineuse du chien : excitation vive , soubresauts , secousses , raideur musculaire , ivresse , chute , puis convulsions épileptiques .C ’ est une nouvelle preuve que les essences produisent , par leur parfum , absolu - ( I ) D ’ après M .le docteur Decaisne .",
+        "words": [
+          "parfum",
+          "essences",
+          "absolu"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/2ec5bba6-0b3a-5ff7-a21d-dc48132f72c0",
+        "value": "Après les conquêtes de Sylla et celles de César , qui ouvrirent à l ’ activité romaine tant de contrées nouvelles , les rapports commerciaux avec la Grèce et les îles de l ’ Archipel se multiplièrent .Levin astringent du Latium fit place , sur la table des chevaliers et des citoyens opulents , au falerne de la Campanie , au léger omphacite de Lesbos , au phnnean de Chios , au saprian d ’ Arvisia dont le parfum embaumait , au dire de Pline , la salle du festin .Cbios , Tasus , Corcyre , Candie , Bliodes , Icaros , fournirent à l ’ empire une grande quantité de vins très recherchés .",
+        "words": [
+          "Latium",
+          "parfum",
+          "astringent",
+          "Lesbos",
+          "salle du festin",
+          "falerne",
+          "Campanie",
+          "Levin",
+          "léger omphacite",
+          "saprian",
+          "phnnean"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/2f7f3fce-4fb7-54d4-a7d4-fde5846d6df7",
+        "value": "de l ' avis des débitants mêmes , on essayerait en vain de leur faire reprendre goût aux mixtures .Ils ont été reconquis par le vin et distingueraient fort bien un liquide alcoolisé ayant une saveur neutre d ’ iris ou de guimauve d ’ un vin sentant la grappe .A l ' œuvre donc ! Qu ’ on revise les taxes qui frappent nos vins , qu ’ on montre quelque courage contre les falsificateurs , les mouilleurs , les fraudeurs et le bon sens de la population fera le reste .",
+        "words": [
+          "liquide",
+          "sentant",
+          "iris",
+          "grappe",
+          "saveur",
+          "alcoolisé",
+          "neutre"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/2fd02ce1-c10d-5bcd-917e-6e0d97850b2a",
+        "value": "Comme la vigne , la vie est inégalement répartie dans ce grand corps .C ’ est dans les vignobles des bords du Rhin et dans la sphère de leurs parfums que brille la pensée allemande ; c ’ est dans la chaude et vineuse Hongrie que gît son courage loyal et chevaleresque .L ’ Allemagne vineuse est , quoi qu ’ on puisse dire , un pays de liberté religieuse et philosophique ; ses gouvernements sont paternels .",
+        "words": [
+          "Hongrie",
+          "leurs",
+          "parfums",
+          "vineuse",
+          "bords du"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/38d97aa0-f309-5125-8abe-04ae412aa1aa",
+        "value": "Les premiers se conservent très bien ; ils sont un peu durs , verts au début ; ils s ’ améliorent en vieillissant .Les seconds , plus renommés que les premiers , peuvent être divisés en trois catégories : 1 ° les vins de garde ou vins jaunes , alcooliques et très parfumés , ayant beaucoup d ’ analogie avec le vin du Rhin ; 2 ° les vins mousseux , dont les crus les plus renommés sont : l ’ Étoile , Arbois , Salins , Rosalier , Savigny , etc .; 3 ° les vins ordinaires secs .",
+        "words": [
+          "vins",
+          "parfumés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/46916bb4-0170-5597-b020-0b39a317e03c",
+        "value": "Pour boire le vin de Champagne il est détestable .Le vin s ’ y étale comme à la surface d ’ une cuvette et adieu bouquet , parfum , etc .— Garçon , emportez les coupes et donnez - nous des flûtes ! Le gai * çon apporte des flûtes .",
+        "words": [
+          "parfum",
+          "vin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/4c473b18-2f5e-5bbd-ae51-7dda747737bf",
+        "value": "Immédiatement les faux nez tombèrent ; de 15 ° 9 les vins d ’ Espagne titrèrent 11 , 12 ou 13 degrés .Ce sont ces vins suralcoolisés qui , pendant de nombreuses années , ont servi aux tripotages du commerce .En même temps , ils causaient un préjudice grave au Trésor , en introduisant frauduleusement en France des milliers d ’ hectolitres d ’ alcool allemand , lesquels , au lieu de payer les droits élevés dont est frappé l ' alcool , ne payaient que les faibles droits du vin .",
+        "words": [
+          "vins",
+          "suralcoolisés",
+          "pendant de nombreuses années"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/607d77fa-398b-51d8-a4e6-dfb8c4fa68b7",
+        "value": "L ’ express de l ’ Etat , pris à la gare Montparnasse , va nous conduire dans le Maine , à Château - du - Loir , au cœur de cette fertile et pittoresque vallée du Loir , où sont récoltés des vins blancs délicieux peu connus de la masse des consommateurs , mais fort appréciés des amateurs .Pour les premiers , quand on leur parle de vins blancs , ils les ramènent tous à un type de vin sec , agréable à l ’ odorat et au goût , frais , stimulant , dont l ’ acidité donne aux palais comme un léger coup de fouet .Ce n ’ est pas le cas des vins blancs de raisin blanc des coteaux du Loir .",
+        "words": [
+          "vin",
+          "vins",
+          "odorat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/662133f4-e47d-5e89-a456-a24ad1476c51",
+        "value": "Car si l ’ on mange d ' une façon à peu près convenable à Paris , on y boit d une manière exécrable , et nul ne connaîtra jamais la quantité des pseudo saint - juliens , des faux saint - estèphes , des can - tenacs et des pauillacs sans véritable état civil qu ’ on y consomme .Autrefois les négociants , dont la spécialité est de vendre les faux vins , allaient tout bonnement dans l ’ Aude ou l ’ Hérault , apportaient avec eux leurs barriques , les remplissaient aux foudres du viticulteur , y laissaient infuser pendant vingt - quatre heures un paquet d ’ iris d , e Florence , pqur donner au vin le parfum du vin du Médoc , et expédiaient leurs fûts à leurs clients .Maintenant , on opère plus commodément , non seulement dans certaines maisons de Bordeaux , niais partout où l ' on veut imiter les vins du Bordelais .",
+        "words": [
+          "parfum",
+          "vin",
+          "vin du Médoc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/6ee00cf6-e9f5-56f3-be03-bc4553866aba",
+        "value": "Dominant de toute sa hauteur monts et vallées , il regardait vivre et bourgeonner les vignes ; il gardait , dans cette pure lumière d ’ un beau jour , une sérénité confiante .L ’ air était doux et le parfum des sèves et des verdures nouvelles montaient jusqu ' à lui des profondeurs des vallées .En manches de chemise , des vignerons travaillaient , fourmis blanches des coteaux .",
+        "words": [
+          "parfum",
+          "air",
+          "verdures",
+          "sèves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/706d731e-bb95-557d-be01-4640d4710e83",
+        "value": "Et nous partions de bon matin à travers les vignes , dans les chemins creux et caillouteux qui serpentent au flanc des coteaux de la Champagne .Il achetait son vin à Vincelles , non loin de Damery , un petit vin rouge léger , pas cher , mais frais et agréablement parfumé .Il pesait 8 degrés à peine .",
+        "words": [
+          "parfumé",
+          "vin",
+          "Vincelles",
+          "de Damery"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/722674c7-5d64-5af3-a46d-b037a3a8f604",
+        "value": "Les préjugés dont l ’ absinthe est l ’ objet , la 6 bonne réputation dont elle jouit auprès des consommateurs , est , on l ’ a vu par l ’ effet produit sur des animaux par l ' injection d ’ une faible quantité d ' essence de la plante elle - même , tout à fait injustifiée .Cette herbe au délicieux et subtil parfum , cultivée avec un soin jaloux par les habitants des Alpes , est une substance toxique .Son action sur le buveur est de nature si caractérisée que la médecine a dû opérer un nouveau classement des alcooliques .",
+        "words": [
+          "Alpes",
+          "subtil",
+          "parfum",
+          "toxique",
+          "délicieux",
+          "Cette herbe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/79f26e3b-4e3e-5a10-a123-cd0679d2155a",
+        "value": "Rendu , a dit : « Le saint - émilion est sans contredit , la plus haute expression des vins de côtes .Il a du corps , une belle couleur , une sève agréable et un bouquet tout particulier qu ’ on trouve surtout dans les meilleurs quartiers de ce vignoble distingué .Le bon vin de Saint - Emilion , après les premières années , doit avoir une couleur foncée , brillante et veloutée , et un cachet d ’ amertume qui flatte le palais ; il faut , en outre , qu ’ il ait du corps , ce qui ne l ’ empêche pas de devenir , plus tard , très coulant .",
+        "words": [
+          "bouquet",
+          "sève",
+          "vignoble distingué"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/8d1547e9-0ddf-55b0-aa56-f47fdf9c1812",
+        "value": "Il est juste de reconnaître que la toxicité des essences de sauge varie avec les provenances .Rassurez - vous , Provençaux qui vous servez de la sauge pour parfumer votre « aigo - boulido » ; les essences récoltées sous l ’ horizon des Alpilles sont peu toxiques .Les doses élevées ne déterminent chez l ’ homme que des troubles de la vue , des sensations subjectives de chaud et de froid , des nausées , du vertige et des fourmillements .",
+        "words": [
+          "parfumer",
+          "vous",
+          "essences",
+          "sauge",
+          "Provençaux",
+          "horizon des Alpilles"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/95a9c1ad-4004-5582-a8bc-58b32b5a532d",
+        "value": "C ’ était du vin blanc , d ’ une assez agréable couleur paille .Il manquait un peu de limpidité et rappelait par sa physionomie extérieure et son parfum vague ces vins des bords du Rhin dont Auré - lien Scholl disait récemment qu ’ ils semblent avoir mûri au clair de lune .Le sommelier en ayant rempli les verres , tous les convives burent ensemble .",
+        "words": [
+          "parfum",
+          "vins",
+          "vague",
+          "Rhin",
+          "lien Scholl"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/a05bd909-2a27-5738-8aa8-5e67f77fce98",
+        "value": "Désirez - vous en connaître la répartition par espèces ? En voici le tableau complet dressé par la régie jusqu ’ en 1892 ( 1 ) .( 1 ) Le commerce des spiritueux et la fabrication des liqueurs étant libres dans l ’ intérieur de Paris , il faudrait pour connaître la consommation réelle des liqueurs , absinthes , amers et autres esprits parfumés , ajouter aux quantités inscrites dans les quatre avant - dernières colonnes du présent tableau , celles provenant de la transformation en liqueurs , absinthes , amers , etc ., de partie des quantités que l ’ administration n ' est pas en mesure de déterminer .",
+        "words": [
+          "liqueurs",
+          "parfumés",
+          "esprits",
+          "amers",
+          "absinthes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/a2aee7b5-d066-50a2-8bed-ea980f4c65b5",
+        "value": "définition est exacte , le champagne est le vin vivant par excellence .Et comment dire sa couleur pure , sa transparence de cristal , son parfum délicat , son bouquet discret et fin ? Qu ' il soit d ' or vert , d ' or jaune ou de miel , qu ' il garde ce teint « fauvelet » cher à nos ancêtres , il demeure le vin léger et friand dont on peut boire , comme disent les vignerons de la montagne de Reims , « sans qu ' on ait la plume » .Ne pas confondre la plume avec le plumet .",
+        "words": [
+          "parfum",
+          "délicat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/a5aefc9f-0c69-5717-bb18-2284b5ca7172",
+        "value": "Après une bouteille de château - margaux , une bouteille de romanée sera éternellement la bienvenue .Si la première , avec sa saveur discrète , son corps velouté , son parfum subtil , révèle un vin d ’ une distinction parfaite , ravissement du palais et béatitude de l ’ estomac , la seconde , avec son bouquet exquis et accentué , son excitante et bienfaisante chaleur , son fin goût de raisin frais , trahit un vin de haute origine .A un degré égal elle est la joie du palais ; elle est aussi une source de gaieté vive , et , pour parler comme une vieille chanson à boire , « elle met la bonne humeur au cœur .",
+        "words": [
+          "subtil",
+          "parfum",
+          "excitante",
+          "bienfaisante"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/ad5f8f5c-2269-5fea-af73-72966ee985c1",
+        "value": "Après l ’ hiver on soutire ; c ’ est à cet instant seulement qu ’ on peut présumer de la qualité du vin .Parmi les vins blancs du Bordelais dont la finesse et le parfum sont également très estimés figurent les vins blancs de raisin blanc de Graves .On a vu , dans un précédent article que le pays de Graves , ainsi nommé parce que les terrains qui le composent sont « graveleux » produit d ’ excellents vins rouges .",
+        "words": [
+          "parfum",
+          "vins",
+          "raisin blanc de"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/b2b960f7-1a71-5437-9dbe-fee88033e06b",
+        "value": "Le goût du vin variait selon la vigne , selon le coteau où il avait été récolté ; c ’ était un vin délicieux , ennemi de l ’ eau .On le buvait pur ; il ne laissait que fraîcheur et parfum dans la bouche .Jamais , vous m ’ entendez bien , il n ’ aurait supporté le régime des foudres , de la citerne et de la pompe à vapeur .",
+        "words": [
+          "parfum",
+          "bouche"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/bb15cf33-a878-5c86-a28d-1b307653b35c",
+        "value": "» — De tels faits ne disent - ils pas ce que deviendront bientôt les eaux - de - vie de Cognac , si on ne met obstacle à de telles pratiques ? a Nous ne nous sommes pas trop émus des procédés qui depuis longtemps permettent à de nombreuses maisons de commerce des Charentes de donner à un bas prix étrange un prétendu cognac , qui n ’ a rien de malsain peut - être , tout en contenant tout autre chose que le seul jus de la vigne , car les prix mêmes de ces produits disent ce qu ’ ils valent , et la consommation sait bien où elle trouvera des eaux - de - vie d ' une tout autre qualité , quand elle voudra les payer à leur valeur .Mais quand ce sont de grandes et justement respectées maisons de commerce de Cognac qui croient pouvoir , sans dommage pour la réputation , descendre de leur situation élevée pour faire concurrence à tous ces produits frelatés qui sont entrés dans la consommation du peuple en quantité effrayante depuis quelques années , et que , pour abaisser le prix de revient de leurs produits , elles substituent des vins quelconques à ceux des Charentes et font disparaître ainsi , en plus ou moins grande proportion , l ’ arôme caractéristique de l ' eau - de - vie de Cognac , il est de mon devoir de les supplier , au nom des viticulteurs dont j ’ ai mission de défendre les intérêts , de s ’ arrêter sur cette pente , et de faire revivre , pour l ’ honneur de tous , les engagements réciproques d ’ autrefois .— Sans cela , à quoi serviraient les énormes dépenses qui sont faites pour la reconstitution du vignoble charentais ? Comment l ’ industrie viticole pourrait - elle ne pas considérer le commerce comme un adversaire , ne pas songer à élever en face de lui , en remontant ses distilleries , une production concurrente d ’ une loyauté incontestée ? — Comment ne dirions - nous pas que le temps presse ? car bientôt le goût perverti des consommateurs trouvera meilleures les eaux - de - vie adultérées que les eaux - de - vie pures de Cognac , ne saura plus même les reconnaître , et la révélation tardive de procédés de fabrication qui ne sont plus un secret pour nous ne suffirait pas à remédier à la situation .",
+        "words": [
+          "vins",
+          "caractéristique",
+          "arôme",
+          "depuis quelques années",
+          "produits frelatés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/bf451bf6-4e34-5dc9-bdd2-be78adb6ec13",
+        "value": "— Protestations des négociants et de la chambre de commerce de Cognac .Dans les départements des Charentes , le vin blanc avait , avant le phylloxéra , le privilège de produire les eaux - de - vie de Cognac à qui leur force et leur arôme particulier ont donné une célébrité universelle .Le maudit insecte a ruiné de fond en comble ces départements ; néanmoins , il s ’ est produit pour ces eaux - de - vie le même phénomène que pour les vins ; personne ne s ’ est aperçu que la production en était atteinte dans ses sources vives .",
+        "words": [
+          "vin",
+          "arôme",
+          "avant",
+          "Dans les départements des Charentes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/bf6c9b1a-16e7-5742-92e3-6f17f8d108cd",
+        "value": "Le maudit insecte a ruiné de fond en comble ces départements ; néanmoins , il s ’ est produit pour ces eaux - de - vie le même phénomène que pour les vins ; personne ne s ’ est aperçu que la production en était atteinte dans ses sources vives .L ' alcool d ’ industrie , traité d ’ une certaine façon , aromatisé avec divers produits , a joué le rôle du vrai cognac depuis vingt ans pour l ’ universalité des consommateurs ; des industriels de tous pays ont créé de toutes pièces un type de cognac comme les marchands de vin un type de vin de Paris et , à part quelques hygiénistes et quelques chimistes , qui ont crié à l ’ empoisonnement , personne ne s ' est aperçu de la substitution .Parmi les analyses qui ont fait la lumière sur la LE VIN DE FRANCE .",
+        "words": [
+          "alcool",
+          "aromatisé",
+          "depuis vingt ans"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/c0a7816a-d6a7-522d-8f04-3f840fedd4dd",
+        "value": "» En général , l ’ absinthe est considérée comme inoffensive pour le buveur qui se borne à en consommer un verre avant son déjeuner et un verre avant son diner .L ’ été , notamment , additionnée d ’ eau frappée , prise avec modération , elle séduit le palais par son parfum particulier et vraiment exquis .On commence à la prendre légère , puis corsée , puis au lieu d ' un verre on en prend deux ; l ’ accoutumance se produit et fait bientôt d ’ un amateur d ’ occasion un nouvel habitué de l ’ heure verte .",
+        "words": [
+          "parfum",
+          "son",
+          "elle",
+          "particulier",
+          "eau",
+          "vraiment exquis",
+          "L ’ été"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/c1d584e5-48ee-5184-a3cb-726851fbb555",
+        "value": "Il devenait urgent , pour notre santé , de les juger d ’ après une commune mesure ou une commune définition .Mais n ’ est - il pas piquant de nous voir , de par le phylloxéra et ses succédanés , les boissons frelatées , obligés de nous prononcer avec précaution et gravité sur une question aussi simple ? Il est donc entendu que le vin est le produit de la fermentation du jus de raisins frais .En conséquence , si , au cours de notre enquête , nous rencontrons des boissons décorées du nom de vins et dont la composition ne réponde pas au texte de notre nouveau glossaire , nous pourrons , sans indiscrétion , les interroger sur leurs origines , leur provenance et leur composition .",
+        "words": [
+          "nous",
+          "boissons",
+          "frelatées"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/c204b9f0-7ac0-599b-b503-ce6d2d126323",
+        "value": "La vigne passa en Italie avec les colonies grecques .Sur ce sol volcanique , le vin gagna en tannin , en puissance , ce qu ’ il perdit en 18 douceur , en délicatesse , en parfum .Il imprima ses qualités austères et énergiques à l ’ école de Pythagore , à la civilisation Étrusque et à celle de Home primitive .",
+        "words": [
+          "parfum",
+          "vin",
+          "tannin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/cc92e778-939d-5d96-a1cf-0a2830f117be",
+        "value": "53 .Si l ’ on y joint la valeur de l ’ alcoolat d ’ absinthe et autres substances destinées à la parfumer , à la faire blanchir lorsqu ’ on y verse de l ’ eau , on arrive , pour le prix du litre , à 1 fr .90 .",
+        "words": [
+          "parfumer",
+          "substances",
+          "alcoolat",
+          "absinthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/cdcbd311-a961-5a7d-9e18-d4b054da0ea5",
+        "value": "Les .vins blancs ont un arôme délicieux , mais ils sont tr .è .",
+        "words": [
+          "délicieux",
+          "arôme",
+          "vins blancs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/cf8c9cdc-697c-5746-8e72-414265236c7b",
+        "value": "A côté du vin blanc dont la proportion n ’ est que de 25 pour 100 dans la récolte totale , la vallée du Loir produit 75 pour 100 d ’ un vin rouge ordinaire , au bouquet agréable et d ’ un prix variant , selon la qualité , de 40 à 60 francs la pièce .Malgré cela , l ’ alcool séduit le consommateur à cause du parfum dont il est saturé ; même dans les campagnes vinicoles , il est convenable de boire un petit verre au cabaret ; c ’ est mieux porté que de suivre l ’ exemple de nos pères qui n ’ y buvaient que du vin , que « leur vin » .XIII En Anjou .",
+        "words": [
+          "parfum",
+          "alcool",
+          "cabaret",
+          "consommateur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/d0b064fc-c437-5e42-acdc-6b9f4131749b",
+        "value": "L ’ Érivan ou haute Arménie , l ’ Aderbijan , l ' Irac - Adgemy et le Farsistan sont couverts de vignobles dont les produits pourraient rivaliser avec les premiers crus du globe .C ’ est « tans le Farsistan que l ’ on récolte le vin parfumé de Schiraz , qui fait les délices de l ’ Asie centrale .Téhéran et Ispahan , les deux principales villes de la Perse , sont situées dans l ’ Irac - Adgemy , province éminemment viticole .",
+        "words": [
+          "parfumé",
+          "vin",
+          "Farsistan"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/d43dcf6f-2b6c-5b2f-98b7-435bf6369cfc",
+        "value": "Il n ’ avait été injecté qu ’ avec l ’ essence d ' une herbe entrant dans la composition de l ’ absinthe .Il faut donc en rabattre sur la prétendue innocuité des plantes aromatiques dont l ' infusion alcoolique servie sous les noms divers d ’ amer , de bitter , de vermouth , d ’ absinthe , etc ., font les délices de tant de gens .",
+        "words": [
+          "plantes",
+          "aromatiques"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/d602384d-f7f5-5e6c-9810-0d2b768f26fa",
+        "value": "Prenez - y garde , le tabac est le plus insidieux de tous les narcotiques , c ’ est l ’ opium des peuples de l ’ Occident .Ses vapeurs portent une atteinte grave aux facultés mentales , bien qu ’ elle ne soit pas immédiatement visible .Les trois provinces de Ilo - nang , Chan - tong et Clian - si ont en partie réparé leurs pertes .",
+        "words": [
+          "vapeurs",
+          "Ses vapeurs",
+          "atteinte grave"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/dcc6ed8a-4502-5756-9613-d35d614d8e61",
+        "value": "Chacun des coteaux champenois a des qualités particulières qu ’ ils mettent fraternellement en commun pour produire un ensemble parfait .Pour composer un grand vin , le sage , ou simplement un négociant soucieux de conserver le Î3on renom de sa marque , prendra au vin de raisin blanc de la montagne d ’ Avize , où sont situés les fameux coteaux de Cramant , sa finesse et sa fraîcheur ; au vin blanc de raisin noir de Bouzy la vinosité et le moelleux ; au vin d ' Ay le bouquet et le feu du soleil ; au vin de Verzenay son délicat parfum .De ces vins , pressurés en septembre ( j ’ ai expliqué déjà en parlant des vins de Saumur , comment , en pressurant les raisins noirs et en évitant de laisser macérer la peau du grain avec le jus on obtient du vin blanc ) , ils formeront au mois de décembre ou de janvier une « cuvée » .",
+        "words": [
+          "parfum",
+          "vin",
+          "délicat",
+          "montagne d"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/de5d295b-c93c-51c9-b320-9d10ac81edef",
+        "value": "Nous voyons , en effet , les habitants d ’ un département vini - cole consommer impunément de l ’ eau - de - vie de marc et fournir , au contraire , un nombre considérable d ’ alcooliques quand la destruction de la vigne par le phylloxéra a nécessité l ' usage des alcools dits d ' industrie .» Pensez un peu , vous , les buveurs d ' eau - de - vie de marc , à ce qui vous était servi dans les restaurants de Paris sous le nom d ' eau - de - vie de marc de Bourgogne pendant les nombreuses années où , rongées par le phylloxéra , les vignes bourguignonnes ne produisaient plus de raisin ? Si l ' eau - de - vie vendue aux vignerons détraquait , dans le plein air où ils vivent , leur estomac et leur cervelle , à quelles morbides influences ne vous livrait - elle pas dans l ' atmosphère désoxygénée et fade des boulevards ? Avant de quitter la Côte - d ' Or et ses grands vins , il convient de jeter un coup d ' œil autour de ce département , afin de n ’ oublier , vers le nord , ni l ' Aube , avec ses vins frais peu étoffés , ni l ' Yonne , avec ses vins blancs de Chablis au parfum si particulier et si séduisant .C ' est en parlant d ’ eux qu ’ on peut dire que sur les cartes des restaurants le nom est plus commun que la chose .",
+        "words": [
+          "parfum",
+          "particulier",
+          "séduisant",
+          "boulevards",
+          "vins blancs de",
+          "Côte - d ' Or",
+          "restaurants de Paris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/deb66272-ff96-57d9-98e3-a498c9b327ef",
+        "value": "En même temps , ils causaient un préjudice grave au Trésor , en introduisant frauduleusement en France des milliers d ’ hectolitres d ’ alcool allemand , lesquels , au lieu de payer les droits élevés dont est frappé l ' alcool , ne payaient que les faibles droits du vin .— Alors , me direz - vous , on n ' alcoolise plus le vin d ' Espagne artificiellement ? — Hélas ! vous répondrai - je , on l ’ alcoolise toujours .Le liquide malfaisant , la bête noire , qui rôde autour de notre monde , qui le ronge et le perd , c ’ est l ’ alcool .",
+        "words": [
+          "vin",
+          "alcoolise"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/e76b0ec4-c6fc-578c-83f4-6ec07518a815",
+        "value": "C ’ est elle qui conserve au vin son feu , sa souplesse , sa grâce , qui lui fait un vêtement à sa taille , qui lui permet d ' épanouir son parfum juste dans la mesure où nous pouvons en respirer toutes les senteurs .Parfum du champagne , parfum exquis , vin délicieux , vin sans rival , vieux et cher vin de notre chère et douce France , combien je comprends que les femmes t ' aiment et que les poètes te chantent : Béni soit le soleil , père de toutes choses , Qui , tout en s ’ occupant de nous faire des roses Avec son baiser d ' or et ses rayons divins , Trouve encore le temps de féconder les treilles Dans la saison charmante et douce où les abeilles Volent aux pampres , lourds du vieux renom des vins ? Mais surtout gloire à lui , gloire à l ’ œuvre féconde Qu ' il accomplit d ' en haut pour la gaité du monde ! Gloire à lui , quand , versant partout l ’ ivresse à ilôts .Il fait jaillir du sol qui s ’ entr ’ ouvre et qui fume Les Ilots légers , les Ilots vivants , la blonde écume Du champagne à travers la chanson des goulots ! Chante , bon vieux ! Ris , jeune fille ! Viens boire un petit coup , voisin ! Vers le champagne qui pétille La coupe s ’ allonge à dessein .",
+        "words": [
+          "parfum",
+          "femmes",
+          "exquis",
+          "Parfum",
+          "champagne"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/eea8d5bd-9103-5682-b8b3-a83ef7f2f7c1",
+        "value": "C ’ est l ' alcool d ’ industrie dans lequel on la fait infuser qui est impur et malfaisant .C ’ est déjà une vérité en ce qui touche à l ’ alcool , mais c ’ est une erreur en ce qui concerne la plante parfumée qui porte le nom d ’ absinthe .De récentes recherches l ’ ont démontré ; l ’ essence d ’ absinthe , le principe même de la plante , est nocif .",
+        "words": [
+          "parfumée",
+          "alcool",
+          "plante",
+          "absinthe"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/f6626dde-ad2c-51ef-b710-ce570864b39f",
+        "value": "Avec les colonies grecques la vigne passa en Italie .Sur ce sol volcanique , le vin gagna en tannin , en puissance ce qu ’ il perdit en douceur , en délicatesse , en parfum .Il imprima ses qualités austères et énergiques à l ’ école de Pythagore , à la civilisation étrusque et à celle de la Rome primitive .",
+        "words": [
+          "parfum",
+          "vin",
+          "tannin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/fb7ebba0-4933-53e1-a033-58551871cfec",
+        "value": "Le rendement du raisin ainsi traité est faible , et , pour que le viticulteur en tire quelque profit il doit vendre son vin un certain prix .Il trouve alors devant lui , régnant en maîtres , certains madères bizarres fabriqués de toutes pièces avec de l ' eau , de l ’ alcool , des parfums , et quelquefois un peu de vin blanc d ’ Espagne ; migraines en bouteilles .Pourquoi voulez - vous qu ’ un limonadier achète au vigneron auvergnat son vin de paille à trois francs , alors que les fabricants de madère — il existe pour ces sortes de fabrications des usines admirables — lui livrent leurs produits à un prix bien moindre ? Le mal vient du laisser - aller du consommateur .",
+        "words": [
+          "parfums",
+          "madères"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/fdd5dde4-a112-5d37-858f-550892938deb",
+        "value": "Oui , une partie de la population parisienne s ' alcoolise et s ’ absinthe .Des poètes , des écrivains ont célébré l ’ heure verte des boulevards , l ’ heure crépusculaire où les terrasses des cafés regorgent de consommateurs , où l ' odeur de l ’ absinthe emplit l ’ atmosphère et flotte sous les vernis du Japon parmi les chevelures carnavalesques des serpentins .Jadis , pendant que les bou - levardiers buvaient de l ’ absinthe , l ’ ouvrier , à sa sortie des ateliers , buvait du vin .",
+        "words": [
+          "odeur",
+          "atmosphère",
+          "absinthe",
+          "poètes",
+          "boulevards",
+          "écrivains",
+          "terrasses des cafés"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/fe0734e1-78ef-546a-b841-098d98ff4be6",
+        "value": "Point de vins frelatés , ils gâtent la poitrine .Un vin frais naturel , pétillant , gracieux , Doit flatter le palais , l ’ odorat et les yeux .Où diable l ’ anonyme a - t - il vu dans le texte l ’ équivalent des cinq premiers vers de sa traduction ? Le vin blanc doux était suspect aux médecins de Salerne de pousser à l ’ obésité : Corpora plus augent tibi dulcia , candida Vina .",
+        "words": [
+          "vin",
+          "odorat"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/73c6c402-0162-5459-bf54-2782b217b5e8",
+        "label": "Charles  Mayet"
+      }
+    ],
+    "label": "Le vin de France... / Charles Mayet",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k3041640k",
+    "date": "1894",
+    "language": "fr"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/169",
+      "label": "Wine"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/df862698-973c-58f0-a534-b7120964a68a",
+      "label": "1894",
+      "begin": "1894",
+      "end": "1894"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/134767/",
+      "label": "Fārs"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/ca64f10b-84c2-5901-b63a-426a41abd24d/fragment/d0b064fc-c437-5e42-acdc-6b9f4131749b",
+  "license": "Public domain",
+  "adjective": "parfumé"
+}

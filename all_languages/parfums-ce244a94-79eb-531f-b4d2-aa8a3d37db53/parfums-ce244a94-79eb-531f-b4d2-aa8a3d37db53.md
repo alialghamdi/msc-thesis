@@ -1,0 +1,94 @@
+## parfums
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/ce244a94-79eb-531f-b4d2-aa8a3d37db53 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label | parfums |
+| source.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/49a54913-349d-51af-9450-bac67a453b85 |
+| source.excerpts.0.value | — Le 18 ( ah ! que Dieu a donc créé de pianistes ! ) , second concert Léon Delafosse , où se donneront « les rendez - vous de noble compagnie » , comme chantait le grand - père de Ferdinand Herold .Et la province se remue ! Comme s ' il se trouvait dans le Midi , le Havre bouge ; hier , le bon capellmeister Gay festivalait Fauré ( ô les roses d ' Ispahan au parfum impérissable ! ) , d ' Indy , Bordes , Louis de Serres ; Engel fut acclamé , les compositeurs itou , on banqueta ; aujourd ' hui , ils se plaignent tous du xylostome ! — Quant à Nancy , Guy Ropartz y joue dimanche prochain la belle cantate de Bach , « WeI ' weiss » , inconnue en France , la neuvième , et son propre Psaume 136 , que la Philharmonique de Berlin donnera l ' hiver prochain , avec le Requiem de Berlioz , déjà exécuté sept fois , s ' il vous plaît .Voilà qui la coupe à Huges Imbert qui passe son temps à découvrir Brahms , quand l ' heure serait si bien venue de le recouvrir ; mais cet excellent Belge n ' entend discuter qu ' « avec ses pairs » , aussi je n ' insiste pas . |
+| source.excerpts.0.words.0 | parfum |
+| source.excerpts.0.words.1 | roses |
+| source.excerpts.0.words.2 | Midi |
+| source.excerpts.0.words.3 | impérissable |
+| source.excerpts.0.words.4 | capellmeister Gay |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/52c34d69-f96e-53c3-a0fe-7919cd480223 |
+| source.excerpts.1.value | .Sans nier les charmes de cette somptueuse toilette , je lui préfère la voix de la cantatrice , quoique enrhumée ; dit par elle , c ' est un charme , cet air d ' Agathe , tout parfumé de grâce naïve , et dont certaines formes d ' accompagne - ment délicates — ce qui n ' a gathe rien - - ont à coup sûr hanté l ' auteur de Siegfried alors qu ' il entendait les murmures de la forêt bercer son héros ingénu sur qui « un aubépin versait à flots son rose arome .» ( Bonjour , ami Vielé - Griffin ! ) . |
+| source.excerpts.1.words.0 | parfumé |
+| source.excerpts.1.words.1 | air |
+| source.excerpts.1.words.2 | rose |
+| source.excerpts.1.words.3 | arome |
+| source.excerpts.1.words.4 | Agathe |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/6f85fcd9-c9ea-5f32-b5a1-50ec39989b45 |
+| source.excerpts.2.value | Va lise et me ama ! Peu , trop peu de dessous dans les adieux de Callirhoé qu ' écrit M .Berthelin ; un discutable rythme de polonaise sautille sous le trio « Aux enfers ! » Mais , agréablement accompagnée , la déclaration d ' Apollon a de la grâce et dans la symphonie « qui exprime l ' extase » , j ' ai cru subodorer un fugitif parfum franckiste .— Quant à M . |
+| source.excerpts.2.words.0 | parfum |
+| source.excerpts.2.words.1 | fugitif |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/806195bd-6e41-5012-b963-a4a62b9a149c |
+| source.excerpts.3.value | nte tout le temps ; je n ' oserais affirmer , qu ' elle chante toujours de l ' inédit , car la phrase relative à ce Maro de Virgile ( en mi , puis en ré ) rappelle la méditation de Tht ïs , car des souvenirs d ' Eclarmonde jonchent le seuil du paradis , car , après un appel de trompette qui sonne , hélas ! comme du piston , l ' auteur de l ' Enéide quitte l ' auteur de la Dion le Comédie en lui barytonnant du Gounod , car dans d ' autres imitations encore , la musique du jeune auteur s ' ensable ( d ' Olonne ) .Mais quoi ! ce n ' est pas si jeune que l ' on peut faire preuve d ' une originalité saisissante ; sous prétexte que sa personnalité ne s ' accuse pas encore , ne le condamnons point ( accuser ? condamner ? la langue française doit être peu commode pour les étrangers ) ; d ' ailleurs , si je ne lui reconnaissais pas de talent , je serais aussi malhonnête qu ' une demoiselle du téléphone , et menteuse comme une odontothérapeate ; tenez , j ' ai goûté tout particulièrement certain Aijnus Dei ( étant a capella , il a charmé Capel ) , parfumé de douceur pieuse , exquis .. |
+| source.excerpts.3.words.0 | parfumé |
+| source.excerpts.3.words.1 | douceur |
+| source.excerpts.3.words.2 | j |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/a04b1752-d2a9-53bc-9f7e-1adfd983dd23 |
+| source.excerpts.4.value | J ' aime autant vous prévenir tout de suite , loyale , que cette « lettre » se traînera , particulièrement niaise , parce que je suis enchiffrenée à périr ; mon rhume a commencé en chemin de fer , entre Angers ( où j ' étais allée voir Hulclu ) et Paris ; il n ' a fait que croître et enlaidir après la soirée de madame Marguerite Durand pour la - quelle j ' avais cru bien faire de me décolleter jusqu ' à l ' âme .Présentement , je vois à peine , j ' entends fort mal ; encore un peu d ' aggravation et je ressemblerai à Torchet le sourd - aveugle qui me signale avec insistance au Conservatoire , alors que je suis installée rue de Malte , - bercée languidement par les effluves musicaux ( je dis caux ) qu ' avec son magique bâton - — dedans le Château - d ' Eau déchaîne — Cheviyard , gendre du Patron , ton , ton , tontaine , tonton ! Malgré tout , je ne regrette pas d ' avoir entendu , jeudi , l ' opéra du père Franck , monté par M .Giraud comme peu de scènes parisiennes sauraient le faire ; on m ' a reçue à ravir , là - bas ; ma consœur « l ' Habilleuse » m ' a présentée au procureur de la République , M . |
+| source.excerpts.4.words.0 | effluves |
+| source.excerpts.4.words.1 | musicaux |
+| source.excerpts.4.words.2 | jeudi |
+| source.excerpts.4.words.3 | rue de Malte |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/a1bcdf69-0721-5a57-b2e8-79c7b953f55c |
+| source.excerpts.5.value | Je ne suis pas folle du monotone arioso de Tschaikowsky , Moscou , mais qui n ' aimerait les trois jolies chansons de « Lell » , que la cantatrice Russe interprète de si compréhensive façon , avec un humour où la tristesse s ' éclaircit d ' un fugitif sourire , dirai - je mélancolique ? Pendant que les bravos faisaient rage , on apporta à la triomphatrice un bouquet , ou mieux un bosquet de fleurs , cravaté de tricolore , grand comme un kiosque à journaux .Originales et rêveuses , ces chansons ! La première — sans autre accompagnement , presque , qu ' un cor anglais — m ' a paru écrite dans un mode qui n est plus de mode , comme disait tlerllOz , en sol mineur avec un mi naturel ; ça doit avoir un nom tiré du grec , je demanderai à Tiersot ; la seconde , active et guillerette , et la troisième , la plus connue en France , la troisième m ' a ravie , brève , toute parfumée de grâce agreste , et qui s ' envole sur Lell de .la brise . |
+| source.excerpts.5.words.0 | parfumée |
+| source.excerpts.5.words.1 | grâce |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/c0b23546-fb6e-51b2-b06d-3437c2d80901 |
+| source.excerpts.6.value | Et allez donc , c ' est pas mon pair ! Au Cirque d ' Eté , beaucoup de têtes en renom ( et quelques « pieds » aussi , pour faire nombre ) : les scientifiques Tannery , Humbert , Painlevé et Léauté ; Georges Hüe et Hillemacher attendant leur tour à l ' Opéra - Comique ; Marty , rasé — il ressemble à Irving — à qui Danbé promet de représenter le Duc de Ferrare sur la scène de la Renaissance , un peu petite , hélas ! ( après tout on a bien donné le Crépuscule des dieux à l ' Epatant ) ; le grassouillet Galeotti , Silvio Lazzari plus mince , Gustave Robert très complimenté pour sa « Musique à Paris » , madame Roger - Miclos ; le grand pianiste Vianna da Motta qui me recommande d ' assister au copieux concert de l ' Ecossais Frédéric Lamond , comme lui élève de Liszt ; Paul Arosa , le blond poète , Kopf - Benfeld , auteur d ' une parfaite réduction à quatre mains de Médée , délia Sudda qui achève un portrait de Bagès , le spirituel Robert de Flers , barons de Langsdorff et d ' Eichtal , mesdames Kinnen , Desgenetais , X , Y , et même la grosse Z , toujours en beauté , depuis cinquante - quatre années , me souffle Raymond Bouyer aux yeux narquois .Joli accueil pour la jolie mussetterie Etoile du soir , de l ' ami Bachelet , d ' instrumentation délicate : des sons harmoniques de harpe , à l ' unisson avec les bois , représentent les astres , la « pâle étoile du soir , messagère lointaine » spécialement figurée par un si bémol du Glockenspiel ; brève tempête , long soupir ascendant de la clarinette , et tendrement , madame Jeanne Raunay chante , exquise en sa robe de dentelle noire sur transparent d ' azur ; dans une montée de hautbois jusqu ' au contre - fa , Sechiari violonne un trille , — sans doute « la » phalène ( Victor Hugo disait « le » ) qui traverse les prés embaumés , mais je n ' en donnerais pas mes rubans roses à couper .— Pour finir , gradation expressive jusqu ' au dernier vers , « Etoile de l ' amour , ne descends pas des cieux » , et tenue du violon solo avec flûte dessous . |
+| source.excerpts.6.words.0 | embaumés |
+| source.excerpts.6.words.1 | prés |
+| source.excerpts.6.words.2 | phalène |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/c2b1e246-2e6d-5a73-9d13-2adfb9ff4d0c |
+| source.excerpts.7.value | Alors , quoi ? Aussi bien , ce luxe fourvoyé de rapprochements philosophiques a surtout pour résultat , sinon pour but , d ' amener les tenants du théâtre vieux jeu à protester contre la musique « métaphysique » de Wagner et la prétendue subordination , ici , des faits aux idées : de là à déclarer les amours de Tristan et d ' Iseult « platoniques » — prononcez ennuyeuses — il n ' y a qu ' un pas : beaucoup l ' ont franchi .Qu ' on me permette de réfuter cette assertion simpliste par une citation de mon ami Jacques Lemaire ; assurément , il ne nie pas « le chant rythmé de deux âmes qui disent la douceur et l ' amertume de leur illusion , qui confessent la mutuelle erreur de leur conscience , se complaisent avec un raffinement cruel dans l ' exaltation de leur commun malheur et qui , dans leur extase enivrée , aspirent à l ' anéantissement dans la nuit , « dans l ' éternelle nuit où cesse tout mensonge » , mais cet emportement de passion furieuse par lequel débute la scène , ces cris inarticulés hoquetant comme des spasmes , cette musique enfiévrée et sensuelle , cet enlacement muet sur le banc , sous la haie parfumée de l ' églantier qui s ' étend au - dessus des amants comme une alcôve fleurie , cet anéantissement précédant l ' appel de Brangsene veillant dans la nuit , tout cela pourra difficilement passer pour de pures aspirations ou pour de la métaphysique ennuyeuse .. |
+| source.excerpts.7.words.0 | parfumée |
+| source.excerpts.7.words.1 | alcôve fleurie |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/c7fdaac0-599d-5e46-bf1e-fa2e756c0f5a |
+| source.excerpts.8.value | Camille Saint - Saëns ! Toute sa partition fourmille d ' ingénieuses petites merveilles ; à l ' exception du finale , brindisi vulgaire , les snobs mélomanes qui donnent à présent le ton ( j ' honore leur compétence ) ne trouvaient rien à reprendre , hier , dans le premier acte ; ils n ' invoquaient point Tristan et Iseult pour honnir la douloureuse apostrophe de Proserpine , dite par madame de Nuovina avec une intensité pénétante : « Amour vrai , source pure où j ' aurais voulu boire » ; même ils reconnaissaient quelque mérite à la mignonne Pavane que soupire , dans la coulisse , une flûte rêveu - se ; et j ' en ai vu qui se risquaient à applaudir l ' élégance du duetto en forme de sicilienne que deux jouvenceaux ( MM .Devaux et Danger ) madrigalisent dans un décor exquis , pastiche galant tel que Gabriel Fauré sut en ciseler souvent , musique de tendresse mélancolique , comme un peu lasse , avec je ne sais quel parfum de Décaméron .A ce joli début , un second acte adorable succède , qui , d ' ailleurs , ne tient aucunement à l ' action , ce dont je me désolerais sans doute , si j ' étais critiqùe dramatique . |
+| source.excerpts.8.words.0 | parfum |
+| source.excerpts.8.words.1 | Décaméron |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/ecc6fd3f-9e47-5966-8a3f-038464fa1967 |
+| source.excerpts.9.value | On trouverait difficilement dans les livrets antérieurs — ou plus récents — des strophes comparables à celles que chante ( soutenues par tant d ' accords de neuvième ! ) Hylas devant la demeure de Briséis : Dans le tranquille gynécée , Auprès des bons rouets charges De lins légers , Tu dors , Briséis , fiancée ! Ces lauriers frissonnent encore D ' avoir frôlé tes voiles hlanes , Ces lys tremblants T ' attendent comme une autre aurore ; Et les colombes endormies Là - bas , dans notre colombier , Sous le sorbier , Rèvent - li tes lèvres amies .A Corinthe , sous un ciel d ' automne lourd de nuages , Briséis et Hylas échangent leurs adieux et leurs serments ; lui , pauvre , s ' en va sur sa galère chercher à Tyr , à Cyrène , les étoffes de pourpre , les parfums rares , les perles , les ivoires , bimbeloterie productive par où il obtiendra l agrément des parents de Briséis , fameux pour leurs grands biens .Mais , comme la jeune fille redoute la haine des tempêtes et plus encore l ' amour des demi - vierges asiatiques , Hylas jure par Kypris de l ' aimer jusqu ' à la mort , d ' tin immuable amour et , rassurée , elle répète après lui le même serment ; Hylas part sur la mer trompeuse . |
+| source.excerpts.9.words.0 | Corinthe |
+| source.excerpts.9.words.1 | Tyr |
+| source.excerpts.9.words.2 | Cyrène |
+| source.excerpts.9.words.3 | parfums |
+| source.excerpts.9.words.4 | perles |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/ed0b9590-a46c-5389-bdec-b5555b504d45 |
+| source.excerpts.10.value | Cocher , rue de Malte , Théâtre du Château - d ' Eau ! ( Tu parles d ' un concert commodément central ! ) Ce n ' est pas pour faire ma « Sophia » comme dirait ce prestidigieux byzantin de Paul AdallL , mais vrai , on écoute plus attentivement la .m - u ^ ique qu ' au Cliâtelet , chez le Patron ! Madame Rosine Laborde élait édifiée de ce silence religieux que troublaient seuls , à intervalles inégaux , les ronflements de Blowitz , dans ce nouveau temple de la musique où j ' ai recensé plusieurs présences de choix , la petite marquise de Lizery qui trouve toujours que « ça a beaucoup de cachct » , le landgrave de liesse joueur de violon plus qu ' hessetimable , et ( ïeorge Yanor enchanté de l ' acoustique , mais navré des odeurs démocratiques de ce théâtre il mélos .A la symphonie en mi bémol de Mozart , lumineusement exécutée ( tout l ' orchestre se lève pour saluer , après le bondissant menuet dont les mozartiens auraient la nocetalgie si on ne le O leur intercalait dans les Noces ) , succède la première partie du magistral concerto de Lalo , où Pablo Casals cher au peintre Sert fait applaudir son violoncelle esthétique , ses cheveux balayés en arrière , ses yeux au lustre et son réel talent . |
+| source.excerpts.10.words.0 | odeurs |
+| source.excerpts.10.words.1 | théâtre |
+| source.excerpts.10.words.2 | démocratiques |
+| source.excerpts.10.words.3 | hessetimable |
+| source.author.0.@id | http://data.odeuropa.eu/actor/e89e6c70-af62-54e7-89dd-22a2a49aa65c |
+| source.author.0.label | Willy |
+| source.label | Garçon, l'audition ! / l'ouvreuse du Cirque d'été |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k9790848k |
+| source.date | 1901 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/65 |
+| smellSource.0.label | Perfume |
+| time.0.@id | http://data.odeuropa.eu/time/4a956164-7d7d-50c6-bbda-83e89176993d |
+| time.0.label | 1901 |
+| time.0.begin | 1901 |
+| time.0.end | 1901 |
+| place.0.@id | https://sws.geonames.org/259289/ |
+| place.0.label | Corinth |
+| place.1.@id | https://sws.geonames.org/267008/ |
+| place.1.label | Tyre |
+| place.2.@id | https://sws.geonames.org/82972/ |
+| place.2.label | Cyrene |
+| emotion.0.@id | http://data.odeuropa.eu/vocabulary/plutchik/sadness |
+| emotion.0.label | sadness |
+| emotion.1.@id | http://data.odeuropa.eu/emotion-type/nostalgia |
+| emotion.1.label | nostalgia |
+| relevantExcerpt | http://data.odeuropa.eu/source/27c07fec-7b19-5a5c-84a7-b3086142fd9b/fragment/ecc6fd3f-9e47-5966-8a3f-038464fa1967 |
+| license | Public domain |

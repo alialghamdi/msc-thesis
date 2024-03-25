@@ -1,0 +1,1044 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/d4920789-6aa6-5336-96e5-a7d03573dc92",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "deodorizing",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/01a5c497-b64b-54c0-8d0f-7806a9213b4c",
+        "value": "Meat in a state positively rotten and putrid , was made , if not pei * - fectly sweet , almost so , by the operation of this fluid , which , we should say , is itself without smell , and , we are assured , so innoxious , that water purified by its means may be drunk with perfect safety .It has an alkaline basis , and its effect is produced , not by precipitation â   which is always liable to the noxious matter returning to its old form â   but by chemical combination with that noxious matter , which , in such combination is made altogether harmless .Dr .",
+        "words": "noxious"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/01a7d859-9440-5c6d-992e-79dd419de79a",
+        "value": "WM .The experiments were made with one only , and with the object of showing the superiority of the fluid over lime , now in course of trial as a deodorizer at Westminster .Samples of the outpourings of the Pimlico sewer were operated upon by both agents , and with striking results .",
+        "words": [
+          "at Westminster",
+          "deodorizer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/020b2339-33b5-5a93-bcb6-7a48d4d57096",
+        "value": "I have used your Disinfecting Fluid during the last two - and - a - half years in many ways , and am perfectly satisfied of its value .Sprinkled about the sick - room , it possesses advantages over other disinfectants with which I am acquainted , by rendering the air cool , refreshing , and entirely free from smell , and without injuring the clothes and furniture .In cases of carcinoma uteri , I have found it , used as an injection , remove the very offensive smell , and give great comfort thereby to the patient and her friends .",
+        "words": [
+          "smell",
+          "the air"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/03679bcc-c338-512b-8abd-a19e0f3f6a67",
+        "value": "Royal College oe Chemistry , ) ear Sir , July 21 , 1856 .In accordance with your request , I have carefully examined the lkaline manganates and permanganates with reference to their appli - cation for the purposes of deodorizing and disinfecting , for which you iropose them .The remarkable facility with which these substances ; ive off their oxygen to other bodies being taken into consideration , he idea of using these salts as deodorizers and disinfectants appeared 0 me a priori a most happy conception ; but I was scarcely prepared or the extraordinary effects , which the manganates and perman - ranates are capable of producing , when employed for this purpose .",
+        "words": [
+          "deodorizing",
+          "permanganates",
+          "manganates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/036bf303-0927-5d98-89d5-cf62aba8f11b",
+        "value": "On allowing the brown sediment of binoxide of manganese to ubside , the waters which I examined had become perfectly clear and : olourless , retaining no odour whatever , or , in extreme cases requiring large quantity of the disinfectant , but the slight odour belonging to he alkali present in the manganese salt ; and which may be readily emoved by the addition of a few drops of an acid .The manganates and permanganates surpass in their deodorizing nd disinfecting powers most compounds which are usually employed or this purpose .Metallic salts , such as the compounds of lead , iron , nd zinc , & c .",
+        "words": [
+          "deodorizing",
+          "permanganates",
+          "The manganates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/047a9df8-b0ea-5b4b-b254-6c39d1df54ec",
+        "value": "The facility with which oxygen is supplied oy this valuable preparation , renders the almost immediate destruction if odours in sewage a matter of certainty .The same instantaneous iction is exerted on those smells which frequently increase disease in i household , and which emanate from imperfectly trapped closets and trains .For domestic use it is peculiarly adapted from the absence of my odour in the disinfectant itself , and from the facility of its appli - : ation .",
+        "words": [
+          "smells",
+          "from imperfectly trapped closets and trains",
+          "which frequently increase disease in i household"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/06901e64-b827-5878-9d47-d1fb6b3219ec",
+        "value": "For domestic use it is peculiarly adapted from the absence of my odour in the disinfectant itself , and from the facility of its appli - : ation .I have also found it to have a powerful and rapid influence in â  ¢ he removal of the disgusting odour of putrefying flesh and of tainted neat .Water of all kinds which has been contaminated with organic natter , and has thus acquired an offenpive smell and taste , is innne - liately deodorized , purified , and preserved by this valuable deodorizer .",
+        "words": [
+          "odour",
+          "disgusting",
+          "of putrefying flesh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/06ecf61c-3eb0-5ac1-a6e4-ad2ece886a5b",
+        "value": "Water taken from stagnating ponds , with their organic contents in .state of most active putrefaction , and emitting the most repulsive idour , may be deprived of every trace of unpleasant smell , iiistan - aneously , and by comparatively small quantities of manganate and lermanganate of potash and soda .The destruction of the organic ( latter , that is , its conversion into the last products of transformation , 3 well marked by the rapid decolonization of the deep emerald or mrple solution of the manganate or permanganate , as the case may ie .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "the most repulsive",
+          "lermanganate of potash",
+          "idour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/075b50d6-5f89-5de4-832f-4808a2bf565b",
+        "value": "Thomasâ   s Hospital , October 31 , 1857 .I have carefully examined the disinfecting and deodorizing fluid manufactured by Mr .Condy , and have found it to be most rapid and efficient in its operation .",
+        "words": [
+          "I",
+          "deodorizing",
+          "disinfecting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/09e7231f-2f58-5cc6-9d15-c737c16e1ca9",
+        "value": "I have also found it to have a powerful and rapid influence in â  ¢ he removal of the disgusting odour of putrefying flesh and of tainted neat .Water of all kinds which has been contaminated with organic natter , and has thus acquired an offenpive smell and taste , is innne - liately deodorized , purified , and preserved by this valuable deodorizer .â   consider it to be a most important addition to sanitary science , and i valuable agent in the hands of the medical profession .",
+        "words": [
+          "Water",
+          "smell",
+          "valuable",
+          "deodorized",
+          "deodorizer",
+          "offenpive",
+          "organic natter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/11011478-0708-5a8a-b871-eb4e703a9e36",
+        "value": "In the sick room it has a most beneficial effect ; and as it possesses no odour of its own , is not objectionable .It rapidly destroys the offensive smells , whether arising from the bodies or evacuations of the sick .I believe it to be the best preparation of its kind we are possessed of .",
+        "words": [
+          "offensive",
+          "smells",
+          "from the"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/12a11370-7c78-5271-83e1-1a5c99124837",
+        "value": "This preparation copiously possessing ! pure ozone of the atmosphere , is an effectual preventive to those wailing maladies , dysentery and cholera , fatal to so many at this son , and in most cases brought on by the closeness and impurity the atmosphere breathed by the inhabitants of crowded towns .2 should strongly recommend it to be included in the list of nestic articles for daily and liberal use , in our dwellings , as it entirely harmless , and free from all unpleasant effluvia , and its xture with impure water imparts the freshness and purity of that â    en from the spring .â   ( Morning Chronicle , Aug .",
+        "words": [
+          "unpleasant",
+          "effluvia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/12a77abf-547e-5a36-bc99-192d1e130789",
+        "value": ") Having been requested to test the efficacy of Condyâ   s Patent Disinfecting Fluid , I placed into a solution of it ( properly prepared ) a portion of horse flesh which formed the lining of a putrid abscess , from which the horse had died .Before the application of the fluid the smell was exceedingly offensive , but after a few hoursâ   submersion this smell disappeared .I have also tried its efficacy on human urine , which had been standing some time , and from this it removed the peculiar disagreeable odour .",
+        "words": [
+          "smell",
+          "exceedingly offensive",
+          "after a few"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/155c35a5-15ef-5644-94af-f59991ded959",
+        "value": "Disinfectants , so called , may thus become as destructive to life as those patent nostrums of the quack doctors , which are warranted to cure every conceivable malady to which flesh is heir .While making these remarks we are fully cognizant of the fact , that there are disinfecting agents which may be used most advan - tageously , in the removal of noxious exhalations and pestiferous miasms : we only seek to guard the public against a too confident reliance upon specific chemical applications , when it is possible , by ordinary care , to enforce a general compliance with the laws of nature .Amongst the agents alluded to , Condy * s Patent Fluid , which not only deodorizes but disinfects , holds â   and deservedly â   a high place .",
+        "words": [
+          "exhalations",
+          "noxious",
+          "pestiferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/1ca5deec-4ed0-5200-aab9-f35426c45a24",
+        "value": "The permanganate was applied as a lotion , and was most efficacious in removing the slough , cleansing the sore , and inducing healthy action .An elderly female , long afflicted with caries of the libia , which , from the offensive odour generated by this condition of bone , pre - vented her performing the duties of her position in life , with any comfort to those around her , has enjoyed perfect freedom from this annoyance ever since she has had recourse to the permanganate as an application to the leg .In the case of a naval officer afflicted with cancer of the breast , the application was most serviceable .",
+        "words": [
+          "offensive",
+          "odour",
+          "by",
+          "bone",
+          "by this",
+          "of bone",
+          "condition of",
+          "this condition"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/1f616c58-b34f-5c67-90be-4d5f7230191a",
+        "value": "I have great pleasure in bearing my testimony to the favourab effects of â   Condyâ   s Patent Fluid , â   as a speedy and efficient deodorize In removing the smells from drains , cesspools , manure heaps , and ai form of decomposing vegetable and animal substances , it is ve effective .It may also be used with advantage in the sick room , an in fact , wherever the object is to prevent the giving off of unpleasa odours , or the arrest of putrefactive processes which are attended wi the discharge of strongly smelling gases .EDWIN LANKESTER , M .",
+        "words": [
+          "smelling",
+          "gases",
+          "odours",
+          "strongly smelling",
+          "in the sick room",
+          "unpleasa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/21e2a3d8-2a44-51df-8520-132f0349834b",
+        "value": "Dear Sir , Liverpool , June 8 , 1858 When I was ill , I was troubled with a nasty tongue , and a great deal of fetid matter , which was very offensive , and at Dr .Higginsâ   s recommendation I used â   Condyâ   s Fluid â   as a gargle , and it not only destroyed the fetor but took away all disagreeable smell at once .It is employed regularly in the Birkenhead Hospital to wash foul sores , and for putting into basins containing offensive matter .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "fetor",
+          "Fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/225a9c95-ca4e-59c3-ae0c-6dfe797234e1",
+        "value": "1 , Saville Row , \" V June 11 , 1857 .I have great pleasure in bearing my testimony to the favourab effects of â   Condyâ   s Patent Fluid , â   as a speedy and efficient deodorize In removing the smells from drains , cesspools , manure heaps , and ai form of decomposing vegetable and animal substances , it is ve effective .It may also be used with advantage in the sick room , an in fact , wherever the object is to prevent the giving off of unpleasa odours , or the arrest of putrefactive processes which are attended wi the discharge of strongly smelling gases .",
+        "words": [
+          "manure",
+          "from drains",
+          "cesspools",
+          "smells",
+          "deodorize",
+          "of decomposing vegetable and animal substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/25005ec3-c0e5-55ea-b2ff-ff8b0d5e959a",
+        "value": "Now light ' the candle , and let it burn till a long snuff has formed : place it : under the cone , extinguish the flame , and allow the smoke to be drawn into the apparatus .On applying the nose to the place of exit , a marked difference will be perceived between the odour of the air discharged above and that of the smoke coming directly from the .candle , which has a most disgusting smell .",
+        "words": [
+          "odour",
+          "that",
+          "of the smoke",
+          "from the .",
+          "of the air discharged"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/26ba3e04-b5f5-58ec-a358-c693eb57b014",
+        "value": "per week to obviate the stench arising from the river , was shown by the following process .Two large glasses were filled with sewage water emitting a most offensive odour , that in one of the glasses being subjected to the action of lime , while into the other a small quantity of the disinfecting fluid was poured .Both those substances operated effectually as precipi - tants but it was alleged that , whereas in the case of the former deodorization simply had taken place , in the case of the latter actual disinfection had been produced , owing to the fact that the organic impurities contained in the water which had been subjected to its influence had undergone a process of combustion , and that the cause of the odour or putrefaction had in consequence been permanently removed , instead of being merely temporarily disguised .",
+        "words": [
+          "odour",
+          "most offensive",
+          "Two large glasses",
+          "with sewage water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/2c9bf26c-587e-5eb7-881d-2b48633f7cfb",
+        "value": "Condyâ   s â   Natural Disinfecting Fluid .â   It appears to me useful in au eminent degree , not only when used towards removing the offensive effects of putrid matter , but as a most valuable disinfectant of unwholesome and stagnant water .The numerous diseases occasioned by impure water are the source of alarm in the metropolis , and the discovery of a harmless agent , and one efficient in purifying water for use , whether for cooking or drinking , is a boon which cannot be too highly estimated ; and it is this property for which I especially recommend this disinfectant of Mr .",
+        "words": [
+          "putrid",
+          "offensive",
+          "putrid matter",
+          "of putrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/2d98ec56-d884-56f7-8c06-23b17c085294",
+        "value": "I have a friend , too , who tried it m the case of a dead mou or rat , which was supposed to rest under a drawing - room floor , ai where it completely removed the offensive smell arising therefrom .It occurred to me to try it in the case of a cow casting her calf ' in yre which contained seven others , and at a time when I could not oropriate any separate place for her ; and 1 am glad to say , that it â    rcamc the usual fetid smell experienced on such occasions , and .t none of the other cows were in any way affected by taint or ection .",
+        "words": [
+          "fetid",
+          "smell",
+          "it",
+          "on"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/306a6230-9908-5d15-8387-53472d988702",
+        "value": "The same instantaneous iction is exerted on those smells which frequently increase disease in i household , and which emanate from imperfectly trapped closets and trains .For domestic use it is peculiarly adapted from the absence of my odour in the disinfectant itself , and from the facility of its appli - : ation .I have also found it to have a powerful and rapid influence in â  ¢ he removal of the disgusting odour of putrefying flesh and of tainted neat .",
+        "words": [
+          "odour",
+          "my",
+          "it",
+          "in the disinfectant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/31f8f89d-f2ba-5edd-8cc6-f58dee5c877f",
+        "value": "Moreover , the offensive substances are not destroyed by metallic salts , > ut only fixed ; they appear again â   the sulphuretted hydrogen by the iction of an acid , the ammonia - like compounds by that of a powerful ixed alkali .The manganates and permanganates , on the other hand , lestroy the smelling substances completely ; containing , as they do , 1 large quantity of oxygen , the very agent which accomplishes all natural disinfection , they give rise to an actual process of combustion i in consequence of which the cause of the odour or putrefaction is permanently removed .They resemble , in this respect , the alkaline hypochlorites , such as hypochlorite of potash , soda , or lime , ( chloride of lime , ) the action of which is likewise permanent .",
+        "words": [
+          "substances",
+          "odour",
+          "smelling",
+          "permanganates",
+          "The manganates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/33a0e3d6-9597-5fba-9a52-fa4968cc1af9",
+        "value": "As a deodorant , as a stimulant , as an escharotic , it is a most useful application , combining , as it does , all these three qualities : in such cases for instance , as old chronic ulcers , warty growths , syphilitic sores , a caustic in the primary stage , or in gonorrhoea , as a stimulant injection .Sufficient to cover the surface of a plate placed under the bed , or any where most convenient in the sick chamber , all odour disappears .I have employed it in my stables and in other places engendering odours .",
+        "words": [
+          "odour",
+          "in the sick chamber"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/3646defb-2c4a-5015-a727-5e0875154738",
+        "value": "Condy turned foul water to a brown colour , in evidence of its combination with the extraneous particles , ' while on water already acted upon it had no effect whatever .Meat in a state positively rotten and putrid , was made , if not pei * - fectly sweet , almost so , by the operation of this fluid , which , we should say , is itself without smell , and , we are assured , so innoxious , that water purified by its means may be drunk with perfect safety .It has an alkaline basis , and its effect is produced , not by precipitation â   which is always liable to the noxious matter returning to its old form â   but by chemical combination with that noxious matter , which , in such combination is made altogether harmless .",
+        "words": [
+          "Meat",
+          "putrid",
+          "smell",
+          "this fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/3849e6db-0dcf-5a12-9395-1fad356a1baf",
+        "value": "by weight of sulphuric acid per pint f Crimson Fluid will , by neutralizing the alkali , cause it to act more vigorously nd to destroy a disagreeable fishy smell which , in these instances , sometimes Jmains .The proper use of antiseptics is by their application to fresh i organised substances to prevent decay , while that of the true dis - infectants , when applied to decaying organic matter is , to restore freshness , by the destruction of the offensive products of decom - position .The employment , therefore , of antiseptic or pickling , agents for the purposes of disinfection cannot hut lead to deceptive results , just as the use of true oxidizing disinfectants : must produce disappointment when employed to do the work of antiseptics .",
+        "words": [
+          "offensive",
+          "position",
+          "of decom"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/3a5b9afd-2f12-5c54-bb1c-e672aba5db15",
+        "value": ", act extremely well , if the odour to be removed arise rora sulphuretted hydrogen and ammonia , or substances analogous to he latter , when a metallic sulphide and a salt of a metallammonium s formed .But frequently , the odour belongs to substances of a lifferent class , which are fixed by neither of the constituents of the aetallic salt .The odour of the water , which in my experiments ' ielded perfectly to the action of the manganates , was scarcely altered > y the use of very considerable quantities of the usual metallic salts .",
+        "words": [
+          "odour",
+          "the constituents of the aetallic salt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/3db4efa5-fd49-5cf9-bc1b-50fbc10ee8d6",
+        "value": "In cases of carcinoma uteri , I have found it , used as an injection , remove the very offensive smell , and give great comfort thereby to the patient and her friends .In wounds from amputation , the operation for ruptured perinaeum and prolapsus uteri , it has been particularly useful by destroying the unpleasant smell in the dressing , and improving the condition and appearance of the parts .I have not tried it internally in a sufficient number of cases to allow me to speak yet of its effects .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "in the dressing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/3e0906d2-f027-53fa-8523-d59133132a78",
+        "value": "On applying the nose to the place of exit , a marked difference will be perceived between the odour of the air discharged above and that of the smoke coming directly from the .candle , which has a most disgusting smell .This experiment may be rendered comparative by having two ventilators , in one of which other deodorizers may be tried against Condyâ   s .",
+        "words": [
+          "candle",
+          "smell",
+          "most disgusting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/3f6d79bb-4767-533f-bd7f-10b31faa19d3",
+        "value": "D .Dear Sir , Liverpool , June 8 , 1858 When I was ill , I was troubled with a nasty tongue , and a great deal of fetid matter , which was very offensive , and at Dr .Higginsâ   s recommendation I used â   Condyâ   s Fluid â   as a gargle , and it not only destroyed the fetor but took away all disagreeable smell at once .",
+        "words": [
+          "fetid",
+          "matter",
+          "I",
+          "very offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/432b1915-df16-5ca8-a5b1-1d1538ab866e",
+        "value": "The Second Class comprehends all those metallic solutions , ich as chloride of iron , of zinc , & c ., which have gained popu - rity doubtless by their cleanliness , apparent inoffensiveness , id their having the effect of deodorizing tolerably satisfactorily , lough not perfectly , most organic matter ; but it is a ques - on of grave doubt in the minds of chemists , whether their Feet extends beyond neutralizing , and that not permanently , ie ammonia and sulphuretted hydrogen , or compounds analo - gs , which are the chief odorous results of decomposition .The disinfectants of both these classes hitherto used are len , among other serious objections , to this , that all of them , B The following reports and independent evidence not only ? furnish a very fail - array of scientific testimony in favour of i the efficacy of my Fluid for many most important purposes , hut present , as it were , a history of the development of its extended application among the public , and a reliable account of its mode of action and properties , which will probably be more acceptable in the words of others than if given in my \\ i own .",
+        "words": [
+          "odorous",
+          "deodorizing",
+          "sulphuretted hydrogen",
+          "ammonia",
+          "compounds",
+          "chief odorous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/4a33d391-73c8-5fb8-9125-78b536c1b0e4",
+        "value": "The experiments were carried on by Mr .Condy , at his extensive chemical works near Battersea Bridge , and consisted of tests by his patent disinfectant and deodorizer as compared with lime , the water used for the purpose being selected , as the most offensive , from the outlet of the Pimlico sewer into the Thames .This water was certainly most obnoxious , containing not only the sewage water , but also the deleterious fluid from the adjoining gas works .",
+        "words": [
+          "deodorizer",
+          "the outlet of the Pimlico sewer into the Thames"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/4aa27230-dfad-54f2-9413-9c21422540d0",
+        "value": "The result was in every way satis - factory .The gentleman previously alluded to , digitally examined the patient with me a few days after it had been used , and the smell was very much lessened , as also the amount of the discharge .One great advantage in the use of the permanganate is , that it has no smell of its own , and that , beiug soluble , it may be used either in the form of a medicated pessary , or in that of an injection .",
+        "words": [
+          "smell",
+          "me",
+          "a few days",
+          "very much lessened"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/4c8cfc78-a84a-5bac-860c-4aab5b96aed8",
+        "value": "I have also used it extensively in the sick chamber , and always ind it to be an absolute preventive of the least offensiveness from the ? jecta of the patients .One advantage renders it immensely superior ; o every other disinfectant known , all its incidental effects are * beneficial : o the human frame , while most , if not all others , have a disagreeable odour , or possess some injurious property .I am , Sir , yours truly , Mr .",
+        "words": [
+          "odour",
+          "disagreeable",
+          "some injurious property"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/51add2b3-1ddc-50df-bd21-e088073d63b8",
+        "value": "Ireenâ   s ships are fitted in each cabin with separate accommodation , nd I am quite sure that had it not been for the constant use of this quid , the sea - sickness would have been greatly augmented .In the uruing heat of the tropics , it rendered the cabin cool and wholesome , nd much reduced the unpleasant smell of the ship stores , which ere close underneath our cabin windows .I lost the contents of VO bottles from leakage , and having given away some to the other assengers , I was unable to present any to the captain , which I much jgretted , as all the passengers who tried it thought very highly of it .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "of the ship stores"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/51f31a42-9d20-5450-ac3e-7e0320aa17d7",
+        "value": "Sprinkled about the sick - room , it possesses advantages over other disinfectants with which I am acquainted , by rendering the air cool , refreshing , and entirely free from smell , and without injuring the clothes and furniture .In cases of carcinoma uteri , I have found it , used as an injection , remove the very offensive smell , and give great comfort thereby to the patient and her friends .In wounds from amputation , the operation for ruptured perinaeum and prolapsus uteri , it has been particularly useful by destroying the unpleasant smell in the dressing , and improving the condition and appearance of the parts .",
+        "words": [
+          "smell",
+          "I",
+          "very offensive",
+          "give great comfort thereby to the patient and her friends"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/538232b5-b07c-5422-9df9-5372a4fb0cd8",
+        "value": "According to your instructions , I have made experiments with â   Condyâ   s Patent Disinfecting Fluid .â   I have tried it in the proportions of about two ounces of the fluid to four gallons of water , in the rinals in Lower Castle Street , in that by the Fish Market , and in nother that had been left unwashed for the purpose of the experiment , nd the result was a complete removal of the offensive smell .I also lade a tidal of it , mixed in the same proportions , on some bad fish , : om which it also removed the offensive smell .",
+        "words": [
+          "offensive",
+          "smell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/569eaab4-49a4-5622-a16f-dd664197f125",
+        "value": "â   I have tried it in the proportions of about two ounces of the fluid to four gallons of water , in the rinals in Lower Castle Street , in that by the Fish Market , and in nother that had been left unwashed for the purpose of the experiment , nd the result was a complete removal of the offensive smell .I also lade a tidal of it , mixed in the same proportions , on some bad fish , : om which it also removed the offensive smell .I am , Sir , your obedient servant , ames Newland , Esq .",
+        "words": [
+          "offensive",
+          "smell",
+          "some"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/58411ce8-10f4-54d1-aec4-d144d97fd027",
+        "value": "The action of the fluid as a test of the comparative purity of different waters having been thus ascertained , its operation as contrasted with that of lime , which is now being used at an expense of 1 , 500 / .per week to obviate the stench arising from the river , was shown by the following process .Two large glasses were filled with sewage water emitting a most offensive odour , that in one of the glasses being subjected to the action of lime , while into the other a small quantity of the disinfecting fluid was poured .",
+        "words": [
+          "stench",
+          "from the river"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/59a6e4f3-9958-5961-a266-0ce9084f7119",
+        "value": "I recommend your fluid , far and near , as a most valuable agent .' , A friend of mine at Liverpool , had his ship freed of the smell of guano ' by its use , and was so satisfied that he always now sends out in the ship stores a quantity each voyage for the use of the emigrants .| If any of the above remarks are of value to you , you can make what use you like of them , as I should like your fluid to be more generally known and used .",
+        "words": [
+          "smell",
+          "at Liverpool",
+          "of guano",
+          "A friend of mine",
+          "his ship"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/5b484f62-3848-5891-9fb1-6df02de638b0",
+        "value": "Two large glasses were filled with sewage water emitting a most offensive odour , that in one of the glasses being subjected to the action of lime , while into the other a small quantity of the disinfecting fluid was poured .Both those substances operated effectually as precipi - tants but it was alleged that , whereas in the case of the former deodorization simply had taken place , in the case of the latter actual disinfection had been produced , owing to the fact that the organic impurities contained in the water which had been subjected to its influence had undergone a process of combustion , and that the cause of the odour or putrefaction had in consequence been permanently removed , instead of being merely temporarily disguised .In illustra - tion of this view , the test of its capability to retain the colour of the disinfecting fluid was applied to the water in each of the glasses , - â    when the continued presence of organic matter in that which had been treated by lime , and the absence of such matter in the instance in which the fluid had been used , would appear to be established by the decolorization in the one case , and the retention of the colour iir the other case , of the disinfecting agent .",
+        "words": [
+          "odour",
+          "deodorization"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/5b56843c-ac19-59b0-bafb-8e74e2afece5",
+        "value": "Condy performed some experiments on Saturday , in the presence of several gentlemen well qualified to judge of the subject , and we must say , that they were singularly satisfactory .A large basin of sewage water was altogether deprived of its smell by a few drops of his , while a much larger quantity of Burnettâ   s Fluid was only partially effective with spring water , which , as usual , contained a certain but much smaller amount of organic matter .A number of experiments were tried .",
+        "words": [
+          "smell",
+          "its",
+          "A large basin of sewage water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/5c8e39ed-8a4d-5b00-96fd-fb3a426c3d07",
+        "value": "In my official capacity , I have ordered its use in this district in houses that were infested with fever , & c ., and in others , that were impregnated with foul smells , and in drains during cleansing , altera - tion , and repairs , and in cesspools previous to being cleansed , and it has always proved most satisfactory ..",
+        "words": [
+          "foul",
+          "smells"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/5de2398b-0adc-551b-ad3e-31759db511ce",
+        "value": "Bolhnann Condy .Sin , D jr , November 7 , 185 I always have some of your fluid put into the water with whit the dairy - floor is washed and now find it perfectly sweet â   before had a greasy disagreeable smell , even after being washed with clet water , so much so that I often supposed the servant used dirty wate although she assured me such was not the case .â   I also have all tl dairy utensils washed with a little , including the ban - el in which tl milk is brought down from the farm .",
+        "words": [
+          "smell",
+          "greasy disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/638f1854-a702-5f04-8375-197507834873",
+        "value": "The employment , therefore , of antiseptic or pickling , agents for the purposes of disinfection cannot hut lead to deceptive results , just as the use of true oxidizing disinfectants : must produce disappointment when employed to do the work of antiseptics .â   Especially as regards the offensive odours which arise from house - refuse and other putrid accumulations , it must be remembered .that the so - called deodorizers can seldom do more than palliate the evil .",
+        "words": [
+          "offensive",
+          "odours",
+          "from house - refuse and other putrid accumulations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/70267e7e-6290-55bc-8962-1f23aab3d1a0",
+        "value": "Higginsâ   s recommendation I used â   Condyâ   s Fluid â   as a gargle , and it not only destroyed the fetor but took away all disagreeable smell at once .It is employed regularly in the Birkenhead Hospital to wash foul sores , and for putting into basins containing offensive matter .I find it most efficacious in our open privy this warm weather : it entirely removes all smell .",
+        "words": [
+          "offensive",
+          "foul",
+          "matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/716a4776-1056-5cd3-b4b8-3966f13b56a1",
+        "value": "After numerous experiments on the capabilities of various disin - fectants , I consider yours stands pre - eminent .Its inodorous character , rapidity of action , and facility of application , as a general disinfecting agent should command for it an extensive use - ; whilst as a cleansing , application , in a diluted state , to cancerous and other offensive ulcers , I have found it productive of the most beneficial results .I am , Sir , yours faithfully , FREDK .",
+        "words": "offensive"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/73b85edc-4f05-5d4e-aea7-8bf7375aa806",
+        "value": "In crowded , close , and ill - drained stables , I ve also recommended its use , and in each case with the most marked icess .I am now just returned from attendance on a kennel of unds in which virulent distemper had broken out ; here I used it uted as a deodorizer and disinfectant , sluicing , washing , and tinkling everything with it , with an effect far sui - passing any of the mpounds of chlorine I have generally used , as it completely destroyed 2 offensive smell , without causing the injurious irritation always aduced by chlorine on the already irritated mucous membranes of 2 dogs suffering from this malady .In short , Sir , I consider it a boon to the veterinary profession and 2 sportsman , and a benefit to humanity at large .",
+        "words": [
+          "offensive",
+          "smell",
+          "chlorine",
+          "deodorizer",
+          "causing the injurious irritation",
+          "on the already irritated mucous membranes of 2 dogs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/74c3a7a2-ddc9-5463-99fd-3f39c57f95f2",
+        "value": "I am much obliged by your favour of the 18th .What I write to you now more especially about , is to know if you are prepared to apply your deodorizing fluid to so large a purpose as the deodorizing , of the Thames .I should be glad if you could let me know early , asj I am convinced your preparation would be more efficacious than nv thing else , and if its cost be not too great , I think it should be pplied .",
+        "words": [
+          "your",
+          "deodorizing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/75f821cc-b6f3-5e9f-b904-60cefcbb5a78",
+        "value": "Condy , at his extensive chemical works near Battersea Bridge , and consisted of tests by his patent disinfectant and deodorizer as compared with lime , the water used for the purpose being selected , as the most offensive , from the outlet of the Pimlico sewer into the Thames .This water was certainly most obnoxious , containing not only the sewage water , but also the deleterious fluid from the adjoining gas works .The object was tc show the power of the disinfectant in destroying the impurities of the organic matter which is known to exist in pump water , but not ir that which has undergone the process of distillation .",
+        "words": "obnoxious"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/7d7d5623-f195-57b4-a013-27143222a796",
+        "value": "The destruction of the organic ( latter , that is , its conversion into the last products of transformation , 3 well marked by the rapid decolonization of the deep emerald or mrple solution of the manganate or permanganate , as the case may ie .On allowing the brown sediment of binoxide of manganese to ubside , the waters which I examined had become perfectly clear and : olourless , retaining no odour whatever , or , in extreme cases requiring large quantity of the disinfectant , but the slight odour belonging to he alkali present in the manganese salt ; and which may be readily emoved by the addition of a few drops of an acid .The manganates and permanganates surpass in their deodorizing nd disinfecting powers most compounds which are usually employed or this purpose .",
+        "words": [
+          "odour",
+          "slight",
+          "I",
+          "in the manganese salt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/7dfcf346-d0d2-56a7-a6ac-56d216d6824a",
+        "value": "â   â   The manganates and permanganates destroy the .: smelling substances completely ; containing , as they do , a large quan - tity of oxygen , the very agent which accomplishes all natural disin - fection , they give rise to an actual process of combustion , in conse - ' quence of which the cause of the odour or putrefaction is permanently removed .â   â   ( Lindsey Blythâ   s Minute on Disinfection , Laboratory , General Board of Health , Whitehall , January , 1857 .",
+        "words": [
+          "substances",
+          "odour",
+          "smelling"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/7f0c3b51-84dc-557e-a228-fc5dfc5ec673",
+        "value": "I have much pleasure in bearing my testimony to the value of Condyâ   s Patent Fluidâ   as a disinfectant .I have had ample oppor - tunities of testing its properties , and in every case it has proved highly efficacious in removing putrid effluvia .I consider it a remedy if great value ( used topically ) as well as a most important agent in the management of the sick room .",
+        "words": [
+          "putrid",
+          "effluvia",
+          "highly efficacious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/827bc86c-ea2b-5f17-98b0-bde9159fafdf",
+        "value": "The odour of the water , which in my experiments ' ielded perfectly to the action of the manganates , was scarcely altered > y the use of very considerable quantities of the usual metallic salts .Moreover , the offensive substances are not destroyed by metallic salts , > ut only fixed ; they appear again â   the sulphuretted hydrogen by the iction of an acid , the ammonia - like compounds by that of a powerful ixed alkali .The manganates and permanganates , on the other hand , lestroy the smelling substances completely ; containing , as they do , 1 large quantity of oxygen , the very agent which accomplishes all natural disinfection , they give rise to an actual process of combustion i in consequence of which the cause of the odour or putrefaction is permanently removed .",
+        "words": "offensive"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/82989302-ed84-52ae-b32f-95eb3b0de173",
+        "value": "Liverpool , June 17 , 1858 .I can testify to the complete destruction of the smell of guano in be â   Salem , â   and I am the owner of that ship .J .",
+        "words": [
+          "smell",
+          "of guano"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/8338e634-5655-5a73-9f79-e8802aeb1853",
+        "value": "2 ~ U * o CO DISINFECTION AND HYGIENE .Among the requirements of the present day , resulting from closer study of sanitary science and of the social circum - ; ances which tend to the development of disease , must be ickoned that of deodorizing and disinfecting agents , the due nployment of which , when they are of proved efficacy and eoperly applied , destroys those emanations from decomposing â  ¢ ganic matter which are in a high degree detrimental to animal fe , and assists materially in arresting and preventing disease , id consequently in prolonging human life .The accomplishment of this object , viz .",
+        "words": [
+          "emanations",
+          "deodorizing",
+          "agents"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/8372e4e3-e49d-5e81-956c-67d06b07d3fa",
+        "value": "purified permanganate in solution for the toilet , hath , and all purposes of personal hygiene .This preparation removes impure and foreign tastes and odours from e mouth , and iu lieu thereof substitutes purity and tastelessness ; a ? t which proves that its action is not like that of perfumes and many aer articles , confined to disguising , or substituting new odours or ites , but that it actually neutralises or destroys those already existing , lis property , coupled with the fact that it strengthens the gums , adapts in a high degree for purifying the mouth , for preserving the teeth , d for the immersion of artificial teeth .It purifies and softens the in , at the same time that it renders the flesh firmer , removes secre - ns , and tends generally to the creation and preservation of a healthy ite of the body .",
+        "words": [
+          "perfumes",
+          "odours",
+          "ites"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/89dc7ec4-a2d1-57ba-a692-b10ec1991f1e",
+        "value": "Hitherto mv experiments have been confined to ascertaining the amount of deodorizing power possessed by dry charcoal , and of the same material saturated with Condyâ   s Patent Disinfecting Fluid .That charcoal has an extraordinary capability of arresting and absorbing - fetid gases has been attested by Dr .Letheby , the City Officer of Health , and my experience fully confirms his observations on this point .",
+        "words": [
+          "charcoal",
+          "fetid",
+          "gases"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/8a9132c2-a204-5159-bd5d-75280f1b7715",
+        "value": "It has accordingly been mmounced , in a minute of the Board of Health , â   a true disinfectant , â   md is rightly called by its inventor â   a natural disinfectant , â   seeing bat it acts in precisely a similar manner to the grand purifier pro - dded by Providence for the vital air , denominated by chemists â   Ozone .â   It possesses over all other known disinfectants the advan - agc of being neither poisonous nor offensive in taste or smell , while uch is its potency that , diluted with water till the cost of the liquid loes not exceed a farthing a gallon , it is perfectly efficacious .To Uvell on the advantages of such an antidote to â   villanous smellsâ   of every imaginable description from that of bilge water to a musty cask including the purification of water , meat , and fish , at any stage of lecomposition , so as to render them palatable and wholesome ) , would > e a waste of time â   the only question being , can all this be true ? n reply to this very natural and proper inquiry , we can only refer o the unanimous testimony of some of the most eminent medical and ind chemical names of the day , comprising those of Lankestcr , 3 ettigrew , Brewer , Reeves , Goldsboro , Hofmann , Canton , & c .",
+        "words": [
+          "offensive",
+          "smell",
+          "It",
+          "poisonous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/8afabc3f-3d81-5c74-b96d-6e83a84a5549",
+        "value": "Metallic salts , such as the compounds of lead , iron , nd zinc , & c ., act extremely well , if the odour to be removed arise rora sulphuretted hydrogen and ammonia , or substances analogous to he latter , when a metallic sulphide and a salt of a metallammonium s formed .But frequently , the odour belongs to substances of a lifferent class , which are fixed by neither of the constituents of the aetallic salt .",
+        "words": [
+          "odour",
+          "rora sulphuretted hydrogen and ammonia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/8b073057-b616-5857-94fb-787d09663c4f",
+        "value": "â   This brings us to the subject - matter of our gossip , which is an article the ne plus ultra of all purifying and deodo - rizing agents , named â   Condyâ   s Patent Fluid .â   By reason of the extra - irdinary facility with which this substance evolves oxygen , it transcends ill others hitherto used in the promptness and efficacy of its action , not mly banishing all disagreeable odours , but destroying organically the : orrupting elements which produce them .It has accordingly been mmounced , in a minute of the Board of Health , â   a true disinfectant , â   md is rightly called by its inventor â   a natural disinfectant , â   seeing bat it acts in precisely a similar manner to the grand purifier pro - dded by Providence for the vital air , denominated by chemists â   Ozone .",
+        "words": [
+          "disagreeable",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/9100df9a-b537-5257-aa52-2a10ea824cd3",
+        "value": "In my experience , your fluid is not instantaneous really or apparently in its operation ; but it is better than that , it is slow , silent , and sure .It is at the same time , however , more rapid in its operation than most deodorizers , which appear to be more rapid only because they substitute one kind of smell for another , which yours does not .I have never before given a testimonial of this kind ; and I would not have given this if I had not been satisfied that it was a duty to give it for the sake of society .",
+        "words": [
+          "smell",
+          "deodorizers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/92af1b9c-dfb0-5ecb-9c51-78978a999672",
+        "value": "Instability of constitution , on the other hand , 3 essential in a true disinfectant .No other deodorizing ubstances can be compared for instability with the perman - ; anates : on coming in contact with the emanations from lecaying organic matter , they instantly unite with them and lash off , as it were , into stable oxy - compounds incapable of urther transformation .In this union they are themselves ost , and so long as they remain undestroyed , they would seem lardly to exert any very perceptible action .",
+        "words": [
+          "emanations",
+          "deodorizing",
+          "ubstances",
+          "from lecaying organic matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/93662fc8-2328-5db8-b73a-90ab6be80afd",
+        "value": "Bean , your surveyor , I have been engaged in a series of experi - ments wdth reference to the deodorization of their gases .Hitherto mv experiments have been confined to ascertaining the amount of deodorizing power possessed by dry charcoal , and of the same material saturated with Condyâ   s Patent Disinfecting Fluid .That charcoal has an extraordinary capability of arresting and absorbing - fetid gases has been attested by Dr .",
+        "words": [
+          "deodorizing",
+          "dry"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/95a690cd-0368-5e4a-892d-26c72e39bf1c",
+        "value": "A resident in iny house having died very suddenly and un pectedly in full habit of body , decomposition commenced and c < JJlo IIN r JiiCJ 1 lUIN n 1 IjrljLjfHil - .ou inued so rapidly , that before the inquest , to inquire into the cause of lentil , could be held , or the body interred , the effluvia arising was so ntense and offensive that it was impossible to remain in the house .[ used chloride of lime , chloride of zinc , and other remedies recom - nended for removing smells , but without any effect at all .",
+        "words": [
+          "offensive",
+          "effluvia",
+          "lentil",
+          "so ntense",
+          "that it was impossible to remain in the house"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/9624f7a2-ec66-5953-bce3-dd3790f3f0fb",
+        "value": "By some it 8 contended that every plan which has been shadowed out with that dew must prove futile , except that in accordance with which the filth > f London should be intercepted before it reached the river , and at an mtlay of millions conveyed into the sea ; while in the process of leodorization and disinfection others maintain is to be found the most iimple and least expensive solution of the difficulties by which the question is beset .The agent employed upon the occasion was â   Condyâ   s Patent Disinfecting Fluid , â   which consists of solutions of manganate or permanganate of soda or potash â   salts which , in consequence of their containing and emitting with facility a large quantity of oxygen , are peculiarly applicable to purposes of disinfection and deodorization .Used as a test of the purity of water , these results were obtained â   that while distilled water assumed and retained to a great extent the purple colour of the fluid when mixed with it , the presence of organic matter was indicated in the case of spring , and less pure water by the rapid decolorization of the disinfecting substance .",
+        "words": [
+          "deodorization",
+          "permanganate of",
+          "solutions of manganate"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/9645aca4-0586-526a-a84d-4511d6c50502",
+        "value": "Sufficient to cover the surface of a plate placed under the bed , or any where most convenient in the sick chamber , all odour disappears .I have employed it in my stables and in other places engendering odours .All these odours are destroyed by the dish : containing the solution .",
+        "words": [
+          "I",
+          "odours",
+          "it",
+          "engendering",
+          "in my stables"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/9af9afe3-888a-5585-bdf8-30e6ac2291ee",
+        "value": "Dr .Hofmann , and many of the first practical chemists of the day , have given most decided opinions in favour of this fluid as a deodorizer and disinfectant .â   The microscope can alone fully detect the nature of the organic impurities of water , but the application of â   Condyâ   s Disinfecting Fluid â   supplies a ready means of chemically indicating the relative organic impurities of water .",
+        "words": [
+          "this fluid",
+          "deodorizer",
+          "Hofmann"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/9c918a71-5a51-59f6-9f45-2c4f223cccc0",
+        "value": "In the dissecting room I have found it valuable in destiâ   oying the effluvia from the decomposing bodies ; and in arresting the putrefaction of substances immersed in it .In the sick room it has a most beneficial effect ; and as it possesses no odour of its own , is not objectionable .It rapidly destroys the offensive smells , whether arising from the bodies or evacuations of the sick .",
+        "words": [
+          "odour",
+          "In the sick room"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/9ecf5a06-e387-5cf8-84d8-6a5b63ead433",
+        "value": "The oxygen contained in the permanganate is , however , in such a state , that it readily seizes on decomposing organic matter , and converts it into inodorous and inert compounds .It is thus a deodorizer and disinfectant .Whilst the permanganate is acting on the organic matter , it is decomposed , and the water containing it loses its red colour , and in proportion to the quantity of oi ' ganic matter will be the loss of colour of the permanganate .",
+        "words": [
+          "It",
+          "deodorizer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/a2e2f848-90f5-5531-a365-93fec636c7a6",
+        "value": "It is employed regularly in the Birkenhead Hospital to wash foul sores , and for putting into basins containing offensive matter .I find it most efficacious in our open privy this warm weather : it entirely removes all smell .Altogether it is a very valuable preparation and deserves to be universally known , Yours faithfully , J .",
+        "words": [
+          "smell",
+          "I"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/a6111589-ce0e-566b-b9a1-bc2eaa26aa00",
+        "value": "From a gaping sore in most offensive condition , it occasioned the wound to assume a disposition to granulate .The odour of the apartment previous to the employment of the permanganate , was so offensive as seriously to compromise the comfort of the family .This inconvenience is entirely removed .",
+        "words": [
+          "odour",
+          "so offensive",
+          "of the apartment",
+          "as seriously to compromise the comfort of the family"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ab48e779-672e-5947-a859-b03788518294",
+        "value": "â   While the origin , prevention , and treatment of dysentry , cholera , nd low fevers ( generally prevalent at this time of year ) occupy the ttention of the Boards of Health , Works , and Nuisances , the chiefs f military , naval , and shipping departments , and the medical pro - ession generally , it is gratifying to know that science keeping pace nth the necessities of the age , is continually producing an antidote t remedy for â   the ills that flesh is heir to .â   Among the most useful and scientific discoveries lately made is an â    rticle , having for its object the purification of impurity in every hape , whether for the ordinary daily uses of life , to disinfect and kodorize bilge water , cesspools , drains , close rooms or cattle pens , to > c used in the hospital or sick room qs a purifier of atmosphero and refuse , for the treatment of ulcers , wounds , scorbutic Sores cancers , for internal administration in putrid , typhoid and low fever or what is still more important , and not hitherto attained , for tin purification of drinking water and food in any climate and at am moment .This article , which is called â   Condyâ   s Fluidâ   or natural disinfectant has met with the approval of the General Board of Health ( by whon it has been designated a true disinfectant ) and the highest medical chemical , and scientific authorities as a perfect and permanent remove of all disagreeable odours , its peculiar features being tliat it is inodorous beautiful , and singular in appearance , having neither taste nor smell will not stain when diluted , and possessing the pure qualities of th atmosphere , oxydises substances , whether solid , liquid , or aeriform with which it is brought in contact , thereby imparting the freshnes of perfect purity to matter , or recovering the same from decay .",
+        "words": [
+          "bilge water",
+          "kodorize"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ac8153af-1399-56f4-b396-b87d3eb943ad",
+        "value": "â   We were afforded an opportunity , on Saturday , of witnessing some very interesting and important experiments made at Messrs .Condy ' s Chemical Colour Works , Battersea , with the view of testing the comparative merits oij several compounds or fluids now used as disinfectants and deodorizers .The importance , in a sanitary point of view , of making chemical science ; subservient , in a practical manner , in cases where contagion may be i arrested , if not prevented , is now so generally admitted , that all public i institutions , hospitals , and ships , are provided with some agent for the purpose .",
+        "words": [
+          "deodorizers",
+          "fluids",
+          "several compounds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/aeb67faf-5d3b-5c0f-8133-6791454bbb57",
+        "value": "Condyâ   s lid was thought of .and the grouse were hung up with rags or strips calico steeped in the fluid , put under their wings and about them , which the bad smell was removed , and the game kept quite fit for s for several days or a week after .You are welcome to make any use of this communication you may dk proper , feeling as I do , that from the efficacy and cheapness of lr fluid , it only requires to be better known in order to be very ; ensively used .",
+        "words": [
+          "smell",
+          "bad"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/b2254fd4-34db-5bf4-b973-b71d632292e3",
+        "value": "Condy , and have found it to be most rapid and efficient in its operation .The facility with which oxygen is supplied oy this valuable preparation , renders the almost immediate destruction if odours in sewage a matter of certainty .The same instantaneous iction is exerted on those smells which frequently increase disease in i household , and which emanate from imperfectly trapped closets and trains .",
+        "words": [
+          "odours",
+          "in sewage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/b232d010-3808-5790-b545-c04515ffb293",
+        "value": "â   Among the most useful and scientific discoveries lately made is an â    rticle , having for its object the purification of impurity in every hape , whether for the ordinary daily uses of life , to disinfect and kodorize bilge water , cesspools , drains , close rooms or cattle pens , to > c used in the hospital or sick room qs a purifier of atmosphero and refuse , for the treatment of ulcers , wounds , scorbutic Sores cancers , for internal administration in putrid , typhoid and low fever or what is still more important , and not hitherto attained , for tin purification of drinking water and food in any climate and at am moment .This article , which is called â   Condyâ   s Fluidâ   or natural disinfectant has met with the approval of the General Board of Health ( by whon it has been designated a true disinfectant ) and the highest medical chemical , and scientific authorities as a perfect and permanent remove of all disagreeable odours , its peculiar features being tliat it is inodorous beautiful , and singular in appearance , having neither taste nor smell will not stain when diluted , and possessing the pure qualities of th atmosphere , oxydises substances , whether solid , liquid , or aeriform with which it is brought in contact , thereby imparting the freshnes of perfect purity to matter , or recovering the same from decay .We are , therefore , glad to be among the first to call attention t this article , for its use and application on shipboard , in hospital and for colonial life , in warm climates , will be looked upon an found to be a great boon to society , and its varied afid vital pui poses are so manifest that we see a large field for it commerciall at the present moment in India and China : certainly it will always b â  ¢ welcomed in colonial markets , as it has the greatest advantage whci shipping and transport is concerned , viz .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "odours",
+          "it",
+          "natural disinfectant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/b6f1b05a-149a-5f3a-832b-f28526258b11",
+        "value": "Burge , Medical Officer of Health , in Report for the Fulham District , to the Board of Works , September , 1858 .) â   We were present oil Saturday at the performance of some extremely interesting , aud , at this particular time , very valuable experiments in deodorizing sewage water .The experiments were carried on by Mr .",
+        "words": [
+          "deodorizing",
+          "sewage water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/bd322e3f-f0b9-5e4d-b3a8-e6a93c95a1df",
+        "value": "I st not forget also to mention the fact that a box of grouse , which s sent me last year from the north of Scotland , by some mistake s forwarded from Aberdeen to London by steam , and thence sent ; k by rail to Darlington .On opening it the smell was most offen - e .so much so , that I despaired of using its contents .",
+        "words": [
+          "smell",
+          "most offen"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/bf46a0bb-c271-5267-9947-b71eddd3c8e4",
+        "value": "I have not tried it internally in a sufficient number of cases to allow me to speak yet of its effects .In removing the offensive smell from drains , See ., I have tested it severely , and ( provided it has been used freely ) it has always in the course of a few minutes , rendered the air perfectly sweet and pure .",
+        "words": [
+          "offensive",
+          "smell",
+          "from drains"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/bfc641d8-65e9-55f4-8fab-1cbbf075503d",
+        "value": "I have received from several medical officers who have made use of this Patent Fluid the highest testimonials in its favour , as the best of its kind ever introduced .The Surgeons of the European General , Jamsetjee Jeejeebhoy , and Artillery Hospitals at the Presidency , state that â   Condyâ   s Fluidâ   has been used with perfect success in destroying the offensive odour oi substances , and is an excellent application to foul sores and foetid ulcers .The same favourable reports have been received from oul stations , and nearly all concur in considering it superior to the chloride of zinc , as a deodorizing and disinfecting agent .",
+        "words": [
+          "substances",
+          "offensive",
+          "odour",
+          "The Surgeons of the European"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/c7b7c26c-e693-5c30-ac92-5c40d58dc12d",
+        "value": "to J oz .by weight of sulphuric acid per pint f Crimson Fluid will , by neutralizing the alkali , cause it to act more vigorously nd to destroy a disagreeable fishy smell which , in these instances , sometimes Jmains .The proper use of antiseptics is by their application to fresh i organised substances to prevent decay , while that of the true dis - infectants , when applied to decaying organic matter is , to restore freshness , by the destruction of the offensive products of decom - position .",
+        "words": [
+          "smell",
+          "disagreeable fishy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/cb1867db-b92d-5d59-9783-f79f07c0523f",
+        "value": "They resemble , in this respect , the alkaline hypochlorites , such as hypochlorite of potash , soda , or lime , ( chloride of lime , ) the action of which is likewise permanent .The hypo - chlorites act with less energy and rapidity than the manganates , and aie in this respect inferior ; but they have an advantage over the latter by their evolving chlorine in the gaseous state , and destroying ; in this manner odorous and putrefactive substances which are diffused in the atmosphere .But as the chlorine evolved is frequently found objectionable by , and injurious to patients , it would be important to ascertain whether the same effect could not be accomplished by exposing the contaminated air to the action of extended surfaces of solutions of the manganates and permanganates , either contained in shallow vessels , or diffused over sheets of wire gauze .",
+        "words": [
+          "substances",
+          "in",
+          "odorous",
+          "the atmosphere",
+          "atmosphere",
+          "in the",
+          "putrefactive",
+          "hypo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/cf3b3027-837a-592f-9954-c0b2efb44f2d",
+        "value": "Not so , the decanted sewage treated originally with the fluid .Not only had the smell disappeared , but a second drop of the disinfector rendered the contents of the tumbler of a pinky brightness ; and one of the press visitors having followed the example of the patentee in tasting a portion of the contents , declared it to be pure , excellent water .Not having a like hardened devotion to rigorous scientific investigation , we declined the polite invitation to participate in the latter test , preferring acceptance of the offer of another liquid in which oxygen was present under combinations of a more agreeable character .",
+        "words": "smell"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/cfb83266-e826-5496-8747-fa56823d546f",
+        "value": "But frequently , the odour belongs to substances of a lifferent class , which are fixed by neither of the constituents of the aetallic salt .The odour of the water , which in my experiments ' ielded perfectly to the action of the manganates , was scarcely altered > y the use of very considerable quantities of the usual metallic salts .Moreover , the offensive substances are not destroyed by metallic salts , > ut only fixed ; they appear again â   the sulphuretted hydrogen by the iction of an acid , the ammonia - like compounds by that of a powerful ixed alkali .",
+        "words": [
+          "odour",
+          "of the water"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/d1a9384e-bbb4-5585-b321-9595e3e9f036",
+        "value": "Chloride of lime has long been banished from use aboard ship , from the fact of its unpleasant smell and destructive qualities , and chloride of zinc has until lately been the only deodorizer used , in the face of experience having shown that in addition to the fact that it was poisonous and therefore dangerous to leave in the hands of the inexperienced , it is not efficacious in destroying specific infective emanations , and not permanent in its action .We have great pleasure in calling attention , therefore , to a new article â   Condyâ   s Fluid , â   which has received the highest encomiums from the General Board of Health ( by whom it has been denominated a true disinfectant ) , and the highest naval and military , medical , and chemical authorities of the day as a perfect , permanent and innocuous agent in deodorizing matter , such as bilge water , drains , cisterns , close cabins , cattle pens .By its use has been attained the long wished - for means of purifying water for drinking and food when required in whatever state , its great chemical principle being to supply oxygen to impurity , which thus reinstates purity .",
+        "words": [
+          "matter",
+          "deodorizing",
+          "bilge water",
+          "drains",
+          "cisterns",
+          "close cabins",
+          "cattle pens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/d3aef1c6-dd7c-5c08-94b4-1c4112281224",
+        "value": "Among other instances , I may me tion , that in my dairy where the milk of twenty cows is kept , I ha ' found it of very great advantage for washing the floor ( composed lime and gravel ) , which was apt , by absorbing the spilt milk , to jin sour .I have a friend , too , who tried it m the case of a dead mou or rat , which was supposed to rest under a drawing - room floor , ai where it completely removed the offensive smell arising therefrom .It occurred to me to try it in the case of a cow casting her calf ' in yre which contained seven others , and at a time when I could not oropriate any separate place for her ; and 1 am glad to say , that it â    rcamc the usual fetid smell experienced on such occasions , and .",
+        "words": [
+          "offensive",
+          "smell",
+          "therefrom"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/d99f9a42-a2a4-5bc4-98cf-63705c76199d",
+        "value": "ou inued so rapidly , that before the inquest , to inquire into the cause of lentil , could be held , or the body interred , the effluvia arising was so ntense and offensive that it was impossible to remain in the house .[ used chloride of lime , chloride of zinc , and other remedies recom - nended for removing smells , but without any effect at all .I then tried â   Condyâ   s Patent Fluid , â   using half - a - pint , diluted with water , in sprinkling about the room , staircase , 8cc .",
+        "words": [
+          "smells",
+          "chloride of lime",
+          "chloride of zinc"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/deb9878a-8566-5a97-94ad-18bad7db130a",
+        "value": "Pure , that is , distilled water , and also pump water , were likewise tested for the purpose of comparison .The agent is oxygen in the nascent state ; and the operation is of the nature of an actual combustion of the putrefying organic matter contained in the liquid to be deodorized , or disinfected or both .The patent article used in the experiments is of a beautiful pink colour .",
+        "words": [
+          "deodorized",
+          "organic matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/df707023-004f-5668-b8ef-868107a6fd18",
+        "value": "â   I also have all tl dairy utensils washed with a little , including the ban - el in which tl milk is brought down from the farm .In summer I keep saucers filli with diluted fluid in the dairy and larder changing them when brow When game smells high I have a piece of calico dipped in the pu Condy and put on the bird , changing it every day .So highly do think of your Fluid that I would not be without it .",
+        "words": [
+          "smells",
+          "high",
+          "game",
+          "diluted fluid",
+          "piece of calico"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/dfad593d-b2b5-5c65-b999-5801d7176f06",
+        "value": "The gentleman previously alluded to , digitally examined the patient with me a few days after it had been used , and the smell was very much lessened , as also the amount of the discharge .One great advantage in the use of the permanganate is , that it has no smell of its own , and that , beiug soluble , it may be used either in the form of a medicated pessary , or in that of an injection .From my experience of its use , I can confidently recommend it in the proportion of one fluid ounce to a pint of water , as a deodorant in cancer of the uterus ; a cupful to be used as an injection thrice daily , and the strength to be increased , if found necessary .",
+        "words": [
+          "smell",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/e07691c2-65b8-5408-8303-bb8f70569738",
+        "value": "Dear Sir , Royal Mint , November 16 , 1857 .I have made a few experiments on the decolouring and deodorizing properties of your manganic solution , and entirely agree with Dr .Hofmann as to its effective action .",
+        "words": [
+          "deodorizing",
+          "of your manganic solution"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/e32617ad-3c05-534c-a034-f68309efda8f",
+        "value": "The first can of course be remedied by diminished labour ; the second has been lately counteracted by the use of quinine ; but the third has only hitherto been retarded , not cured , and even that imperfectly .Chloride of lime has long been banished from use aboard ship , from the fact of its unpleasant smell and destructive qualities , and chloride of zinc has until lately been the only deodorizer used , in the face of experience having shown that in addition to the fact that it was poisonous and therefore dangerous to leave in the hands of the inexperienced , it is not efficacious in destroying specific infective emanations , and not permanent in its action .We have great pleasure in calling attention , therefore , to a new article â   Condyâ   s Fluid , â   which has received the highest encomiums from the General Board of Health ( by whom it has been denominated a true disinfectant ) , and the highest naval and military , medical , and chemical authorities of the day as a perfect , permanent and innocuous agent in deodorizing matter , such as bilge water , drains , cisterns , close cabins , cattle pens .",
+        "words": [
+          "Chloride of lime",
+          "smell",
+          "specific",
+          "unpleasant",
+          "emanations",
+          "its",
+          "deodorizer",
+          "infective",
+          "chloride of zinc",
+          "specific infective",
+          "infective emanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/e4da8b63-b218-56db-935e-5417d3892faf",
+        "value": "â   â   { Morning Herald , July 5 , 1858 .) Quantities required of each of the Principal Deodorizers to remove t odour , more or less completely , from ordinary London sewage .Names of Deodorizers .",
+        "words": [
+          "odour",
+          "from",
+          "each of the Principal Deodorizers",
+          "from ordinary London"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ebdfc7df-ab90-5b88-b304-a9a1f7719408",
+        "value": "} agent .Nothing , it may be added , could be more complete than the success of the fluid in rendering the impure water upon which it acted clear and devoid of all offensive odour .How far it would tend to solve the great Thames problem it is for the proper authorities to determine .",
+        "words": [
+          "offensive",
+          "odour",
+          "the fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ec7064b4-a822-5ff2-9b92-c211d9105b86",
+        "value": "While making these remarks we are fully cognizant of the fact , that there are disinfecting agents which may be used most advan - tageously , in the removal of noxious exhalations and pestiferous miasms : we only seek to guard the public against a too confident reliance upon specific chemical applications , when it is possible , by ordinary care , to enforce a general compliance with the laws of nature .Amongst the agents alluded to , Condy * s Patent Fluid , which not only deodorizes but disinfects , holds â   and deservedly â   a high place .Having , with other gentlemen , witnessed a series of experiments con - ducted at Mr .",
+        "words": [
+          "deodorizes",
+          "Condy * s Patent Fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ee11d60f-7102-5d65-ab1b-a2fc82aea819",
+        "value": "Before the application of the fluid the smell was exceedingly offensive , but after a few hoursâ   submersion this smell disappeared .I have also tried its efficacy on human urine , which had been standing some time , and from this it removed the peculiar disagreeable odour .The fact of its not being poisonous , together with its certain operation , ought to recommend it to general use .",
+        "words": [
+          "odour",
+          "human urine",
+          "peculiar disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ef1442c1-be53-5924-a873-0d86cac68c1b",
+        "value": "I have tried the effect of the Hypermanganate Solution , which you were so kind as to send me , upon different decomposing sub - stances with very satisfactory results .I was much struck , moreover , by the rapidity with which it destroyed all trace of the very foetid odour of a post mortem examination in which I had been engaged , ; without leaving any other smell , or any stain upon the hands .I am , yours truly , JAS .",
+        "words": [
+          "odour",
+          "smell",
+          "I",
+          "very foetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f040a777-698e-51d9-8ae0-3d70bd9220fc",
+        "value": ", Londc - Sir , October 11 , 1858 .You were kind enough to send me some time ago a bottle of yc excellent preparation for purifying sick rooms and removing offens - odours , kc .I write to mention to you , that I have used , and in : practice have directed the same to be employed for the purposes y have described , and it is but fair to tell you , that my experience of use fully justifies every assertion you have published of its val I shall certainly continue to advise its employment in all cases which it is adapted , and do esteem it as not only in every way p ferable , but superior in its effects to chloride of lime .",
+        "words": [
+          "odours",
+          "offens"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f0d1758d-b9aa-573f-a939-9c9e4bc3c1b3",
+        "value": "oo Temple Row , Birmingham , February 24 , 1858 .I hereby certify that I have made use of â   Oondyâ   s Patent F luid as n application to foul ulcers , with a view to destroy unpleasant smells nd generally to act as a disinfectant .I have found its action of the aost satisfactory kind .",
+        "words": [
+          "unpleasant",
+          "smells"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f1eb568a-27f9-5fc0-a4d5-9abf15c26e46",
+        "value": ") â   The subject of the ventilation of sewers has occupied much of my attention during the last twelve months , and in conjunction with Mr .Bean , your surveyor , I have been engaged in a series of experi - ments wdth reference to the deodorization of their gases .Hitherto mv experiments have been confined to ascertaining the amount of deodorizing power possessed by dry charcoal , and of the same material saturated with Condyâ   s Patent Disinfecting Fluid .",
+        "words": [
+          "deodorization",
+          "of their gases"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f26bfb08-45c7-5443-bfe7-b71ddb467d0d",
+        "value": "Condy to investigate the chemical I power of his â   Patent Disinfecting Fluid , â   and therefore I have > submitted it to a very severe test , from which I find that it has the power of removing most completely the offensive emanations from all i kinds of decomposing organic matter .Its mode of action is not like that of many so - called disinfectants - which merely delay putrefaction or mask the bad odours by others â  ¢ which are scarcely less offensive , but it operates by a perfect destruc - â  ¢ tion of the organic matter , and by the formation of oxy - compounds ? which are inert .I have tried its corrective powers with the matter of cesspools and the public sewers , with the foul secretions from putrid l sores , with the decomposing animal matters in the dissecting room , .",
+        "words": [
+          "bad",
+          "odours",
+          "less offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f2bc7a92-f69b-57d8-bbba-82d364b62ff7",
+        "value": "The Surgeons of the European General , Jamsetjee Jeejeebhoy , and Artillery Hospitals at the Presidency , state that â   Condyâ   s Fluidâ   has been used with perfect success in destroying the offensive odour oi substances , and is an excellent application to foul sores and foetid ulcers .The same favourable reports have been received from oul stations , and nearly all concur in considering it superior to the chloride of zinc , as a deodorizing and disinfecting agent .I beg to recommend that the Home Government be solicited tc send out a further supply of â   Condyâ   s Patent Fluid , â   and that I may be permitted to direct the Medical Storekeeper to indent upon England I have , & c .",
+        "words": [
+          "deodorizing",
+          "disinfecting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f40b9699-01a7-575c-839d-bff46a2ab743",
+        "value": "I have much pleasure in bearing my testimony to the value of â   Condyâ   s Patent Fluidâ   as a deodorizer and disinfectant , having latterly tested its properties in a variety of ways .In the dissecting room I have found it valuable in destiâ   oying the effluvia from the decomposing bodies ; and in arresting the putrefaction of substances immersed in it .In the sick room it has a most beneficial effect ; and as it possesses no odour of its own , is not objectionable .",
+        "words": [
+          "I",
+          "effluvia",
+          "from the decomposing bodies"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f69eae46-9a2f-51a3-b9e0-af8237239dfb",
+        "value": "Houghton - le - Skekn \" Sir , Jllh J 28 , I860 .I have much pleasure in bearing testimony to the efficacy of yoâ   Disinfecting Fluid as a deodorizer , having now used it in vario ways for the last three years .Among other instances , I may me tion , that in my dairy where the milk of twenty cows is kept , I ha ' found it of very great advantage for washing the floor ( composed lime and gravel ) , which was apt , by absorbing the spilt milk , to jin sour .",
+        "words": [
+          "deodorizer",
+          "Fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f7b56af1-f82a-5e91-8c3b-6c3e5e7e7a49",
+        "value": ", I have been requested by Mr .Condy to investigate the chemical I power of his â   Patent Disinfecting Fluid , â   and therefore I have > submitted it to a very severe test , from which I find that it has the power of removing most completely the offensive emanations from all i kinds of decomposing organic matter .Its mode of action is not like that of many so - called disinfectants - which merely delay putrefaction or mask the bad odours by others â  ¢ which are scarcely less offensive , but it operates by a perfect destruc - â  ¢ tion of the organic matter , and by the formation of oxy - compounds ? which are inert .",
+        "words": [
+          "offensive",
+          "most",
+          "emanations",
+          "from",
+          "of decomposing organic matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/f8eb7449-592f-5827-97f9-15f0f0f6e0de",
+        "value": "Ihe fluid prepared by Mr .Condy is drawn from alkaline manganates and permanganates , and not from those metallic substances which aie useful only in cases where the impurities to be removed arise from ammonia , or substances analogous to it ; but in many cases the noxious odour belongs to substances of a different class wduch aie fixed by neither of the constituents of the metallic salt .Deodorisers , havingâ   as their basis manganates and permanganates , contain a large quantity of oxygen , the agent of all natural disinfection , and pioduce an actual process of combustion ( the only thorough destructive ) , by which the cause of the impurity is permanently removed .",
+        "words": [
+          "noxious",
+          "noxious odour",
+          "permanganates",
+          "alkaline manganates"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ff9ddbe7-c6d1-593e-b6f3-b230f1cdfb8d",
+        "value": "Condyâ   s Disinfectant .â   Our notice has been attracted to ' ondyâ   s Patent Fluid , â   or natural disinfectant , a most useful and 3ntific discovery , which has been reported on in the highest terms the best medical and chemical authorities of the day , as a safe 1 permanent destroyer of bad smells , and consequently , a very ential adjunct to health .This preparation copiously possessing ! pure ozone of the atmosphere , is an effectual preventive to those wailing maladies , dysentery and cholera , fatal to so many at this son , and in most cases brought on by the closeness and impurity the atmosphere breathed by the inhabitants of crowded towns .",
+        "words": [
+          "natural",
+          "bad",
+          "smells",
+          "a very ential adjunct to health"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/ffd1954f-d6b1-5b81-b075-bb32b034102a",
+        "value": "Its mode of action is not like that of many so - called disinfectants - which merely delay putrefaction or mask the bad odours by others â  ¢ which are scarcely less offensive , but it operates by a perfect destruc - â  ¢ tion of the organic matter , and by the formation of oxy - compounds ? which are inert .I have tried its corrective powers with the matter of cesspools and the public sewers , with the foul secretions from putrid l sores , with the decomposing animal matters in the dissecting room , .with bilge water , and with other disgusting fluids , and have found .",
+        "words": [
+          "putrid",
+          "foul",
+          "secretions"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/d98670a3-50cd-5257-b1a3-becefc0c80dd",
+        "label": "Royal College of Surgeons of England"
+      }
+    ],
+    "label": "Disinfection and hygiene : by means of oxygen in a nascent and active condition, or artificial ozone",
+    "url": "http://archive.org/details/b22318331",
+    "date": "1860",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/c6cfeed0-e193-5007-8738-1c03ad19017d",
+      "label": "1860",
+      "begin": "1860",
+      "end": "1860"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/7913021/",
+      "label": "Idārat al Miyāh wa aş Şarf aş Şiḩḩī"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/03e33b5b-588c-55b9-872e-0c48d2e5da00/fragment/b6f1b05a-149a-5f3a-832b-f28526258b11"
+}

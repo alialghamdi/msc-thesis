@@ -1,0 +1,3075 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/41c660d2-22f8-59ae-94b4-bb2f4ca43497",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "fragrant",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/002e3d44-a8e5-59eb-9e95-a94bad3e7258",
+        "value": "A roundish , depressed , solitary gland at the base , between the petioles of the partial leaves .Spikes axillary , 2 - 3 from the same bud as the leaves , stalked , 2 - 3 inches long , many - flowered , sub - cylindrical , yellow , fragrant .Corolla villous inside .",
+        "words": [
+          "fragrant",
+          "many"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/008f728c-c356-51bf-a5cf-89b310704696",
+        "value": "Follicles subsessile , many - seeded .â   An Indian tree with pal - mate leaves , and red stinking racemose flowers .270 .",
+        "words": [
+          "stinking",
+          "racemose flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/00bbf2be-7e7a-572e-b2e0-c9982736d8ed",
+        "value": "Tube of the stamens deep blue , elevated through and beyond the dorsal slit of the corolla .â   The whole plant has a rank smell .Its root is acrid and emetic , and has been used as a remedy for 403 DB 2 LOBELIACEjE .",
+        "words": [
+          "smell",
+          "rank",
+          "The whole plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/01ba7b21-8fc6-5dd6-a09b-a0888beb99c0",
+        "value": "Prickles stipulary , straight , dark - coloured and sharp .Leaves alternate , unequally pinnate , from 2 to 4 inches long ; leaflets from 3 to 13 , 5or7 the most usual , opposite , sessile , lanceolate , in young plants crenulate , pretty smooth on both sides , with a few pellucid points containing a fragrant juice .Petioles winged .",
+        "words": [
+          "fragrant",
+          "juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/025493d1-12d0-54e5-87c0-e3d081344f0b",
+        "value": "Radical leaves oblong - spathulate , cauline sessile , half amplexicaul , acuminate .Calyxes acutely 5 - cleft ; flowers white , sweet - scented ; tube of the corolla hypocrateriform , slender , clavate ; throat ventricose ; segments of the limb ovate , emar - ginate , somewhat unequal .â   Produces the delicate and fragrant Tobacco of Shiraz .",
+        "words": [
+          "sweet",
+          "scented",
+          "flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/039e0166-0162-53b7-a5c6-5d11a7e35e00",
+        "value": ") Root composed of a number of large , oblong , fleshy fangs , diverging from the base of the stem , and frequently of the size and length of the finger .It is perennial , and has a strong , penetrating smell and taste .In various parts of the bark it contains distinct cells or cavities , which are filled with a yellowish resinous juice .",
+        "words": [
+          "strong",
+          "penetrating",
+          "smell",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/03b530ac-c9d8-5484-80fb-b67d2a04f745",
+        "value": "Rind an inch thick , between fibrous and scaly , hard , of the same colour as the roots of the Pine - trees .Inside uniform , smooth , filled with a fleshy corky matter having a mealy fungus - like smell ; when full grown pink .â   Used in Carolina \" ad morbos sanandos .",
+        "words": [
+          "smell",
+          "mealy",
+          "fungus - like",
+          "fleshy corky matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0464a8c4-806d-581b-b277-20c6e843261a",
+        "value": "Spathe 2 - leaved , with filiform bracts amongst the flowers .Flowers large , white , subsessile , fragrant during the night .Tube cylindrical from 4 to 6 inches long , coloured , or pale - green , according to exposure , smooth .",
+        "words": [
+          "fragrant",
+          "during the night"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/06d0b8bf-a084-585c-831a-ebb6caabd588",
+        "value": "Herb Bennet .) Root of many stout brown fibres , astringent , and in some degree aromatic , said to give an agreeable clove - like flavour to beer , and even to wine .Stem 2 feet high , erect , round , rough and finely hairy ; branched at the upper part , bearing several flowers .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0739dac9-5fed-59f3-96ab-bc72971763e3",
+        "value": "Leaves opposite , on winged footstalks , dark - green , smooth , strongly serrated , acute , in 3 deep segments , sometimes 5 ; the uppermost or lowermost generally undivided .Flower - heads terminal , solitary , of a brownish - yellow , somewhat drooping , devoid of beauty and of fragrance , each surrounded by about 8 spreading , lanceolate , serrated or entire bracteas , unequal in size , but all extending much beyond the flower - head .Achasnia with 2 or 3 prickly angles , and as many erect bristles , likewise prickly with reflexed hooks , by which the achaenia stick like burs to any rough surface , and are said sometimes to injure fish , by getting into their gills .",
+        "words": [
+          "fragrance",
+          "Flower - heads"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/08ab2fcc-71c9-50a1-855a-1d0d0a1671f5",
+        "value": "Panicles small , axillary , 3 - 5 - flowered ; with short , round , rigid pedicels .Flowers very long , nodding , white , smelling like Jasmine .Fruit smooth , pear - shaped , very small , the size of a Bonchretien Pear .",
+        "words": [
+          "Flowers",
+          "smelling",
+          "like Jasmine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0975387d-f633-590f-ad68-d85a82b0ec43",
+        "value": "Leaflets thin , mem - branous , obovate , taper pointed ; the terminal one larger than the others .â   The warm , sweet , fragrant , solid stimulant balsam called Balsam of Tolu is obtained from this tree .It is used in coughs , chronic pulmonary complaints and on account of its flavour .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/09f7a1f5-6a2c-5175-b2e0-b1e7ad12555d",
+        "value": "Spikes radical , oblong , laxly imbricated , rising but little above the earth ; lower part hid in the soil , and clothed with shorter scariose scales .Flowers numerous , large , red , fragrant .Bracts lanceolate , ribbed , smooth , yellowish - pink .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0ac8a90f-5b6f-5c7c-ae25-9c5a480382b3",
+        "value": "( Sweet Flag .) Rhizoma thick , rather spongy , with many long roots , aromatic , like every part of the herbage bat much more powerfully so .Leaves erect , 2 or 3 feet high , bright green , near an inch broad .",
+        "words": [
+          "aromatic",
+          "Rhizoma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0b959dfc-a08e-5f35-a39e-e76e41663de0",
+        "value": "â   All the parts power - fully aromatic ; the leaves and stems become insipid by keeping , but the roots , if quickly dried and carefully preserved retain their pro - perties for a long time .They have a fragrant camphor - like smell and an aromatic bitterish taste , and resemble in appearance those of Aristolochia serpentaria : like which they are among the most effica - cious ] medicinal stimulants which the Vegetable Kingdom produces .The mountaineers of Java employ the roots in infusion or rubbed up with the bark of Cinnamomum Culilawan as a remedy for spasms in pregnant women .",
+        "words": [
+          "camphor",
+          "fragrant",
+          "smell",
+          "like",
+          "They",
+          "appearance those of Aristolochia serpentaria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0cefea12-bc3a-537b-8285-390b8d885ff4",
+        "value": "Leaves ovate - oblong ; flower - stalks downy .Flowers very large , fragrant , white outside , yellow inside , and stained with red at the ends of the segments .â   Milk excessively corrosive .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0d16f560-1779-5693-9058-b49dece29b80",
+        "value": "Root creeping .Herbage rough , fetid .Stems unbranched , square , a foot high , leafy in the upper part .",
+        "words": [
+          "fetid",
+          "Herbage"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0d283a05-6523-5077-8276-86bdeaa3a5b0",
+        "value": "Racemes pendulous , simple , from 1 to 2 feet long .Flowers large , bright yellow , fragrant , on long , slender , smooth pedicels .Sepals 5 , nearly equal , oval , smooth , much shorter than the corolla .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0d940c71-0a9d-5e51-b892-c6a9056309d8",
+        "value": "Mr .Pereira says that although it is rarely employed in medicine it might frequently be substituted for other more costly aromatics .It is adapted to cases of dyspepsia , or as an adjunct to tonics or to purgatives .",
+        "words": [
+          "aromatics",
+          "more costly"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0e0907c2-175c-5bbe-9eac-59083feee671",
+        "value": "Fruit black , spherical , succulent , with 10 streaks .â   All the parts when bruised or dried give out a slight aromatic odour .The Creoles call the bush Azier a I ' Asthme , because they find the infusion of the leaves an excellent remedy for that malady .",
+        "words": [
+          "odour",
+          "slight aromatic",
+          "All the parts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0e4e177f-3987-5d45-ba21-9405dc548a4d",
+        "value": "Seeds oblong ovate .â   When bruised the leaves smell like peach kernels , hence they have been supposed to contain prussic acid .They were once esteemed efficacious in the cure of cutaneous disorders , and are still employed in Italy in tinea capitis .",
+        "words": [
+          "smell",
+          "the leaves",
+          "like peach kernels"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0e746775-26a7-522a-b290-53db88bef4ec",
+        "value": "Flowers large solitary , with a cottony calyx and bright pink petals .Fruit a turbinate or roundish angular pome , covered with a thin cottony down , extremely austere , but having a peculiar fragrance .â   The seeds are officinal for the sake of the mucus they are covered with , and which can be extracted by hot water .",
+        "words": [
+          "peculiar",
+          "fragrance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0ef7da04-7a30-5c66-a8a2-f7494c0afdbb",
+        "value": "Spathe single , acute .Flowers purple , sweet - scented , with a very long tube .Style trifid , not hanging out of the flower , about as long as the stamens , with the seg - ments multifid at the apex .",
+        "words": [
+          "sweet",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/0f351dd7-a19c-5ef8-86b0-4198a2db53c0",
+        "value": "Pericarp 1 - celled , 1 - valved , half covered with the calyx .â   The whole plant has a strong muriatic smell .Leaves acrid ; universally employed by the na - tives of India to raise blisters in rheumatic pains , fevers , & c .",
+        "words": [
+          "smell",
+          "The whole plant",
+          "strong muriatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/107cfef3-51b3-5eea-bdf0-0973e98518d2",
+        "value": "â   The decoction is emollient and occasionally employed on the continent in lotions and enemas .The odoriferous principle very fugacious ; it was asserted by Vogel to be benzoic acid , but ac - cording to Guibourt and others it is Coumarine the aromatic principle of the Tonka Bean .TRIFOLIUM .",
+        "words": [
+          "aromatic",
+          "odoriferous",
+          "principle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/10de523d-1cc0-597e-a02c-788933361240",
+        "value": "Panicles generally 3 together , on longish stalks , forked , not much subdivided .Flowers pure white , with a short tube ; fragrant chiefly at night .Fruit rough , with ascending bristles .",
+        "words": [
+          "fragrant",
+          "chiefly at night"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1153fdd0-94a1-55b4-83c7-7eba45b9c97f",
+        "value": "275 .* # * A great number of different plants of this order have , from time to time , been introduced into medicine , as aromatics and stimulants , or for imaginary virtues .It would be only en - cumbering the pages of this work to notice anything like all such cases in detail , as the greater part are abandoned in modern practice , ' and appear to be of little or no consequence , except in the kitchen .",
+        "words": [
+          "aromatics",
+          "different plants",
+          "number"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/12465c9c-fdd1-5dd3-9e93-4579b4048256",
+        "value": "\" 433 .Malambo Bark , an aromatic bark with very active bitter astringent febrifugal properties , native of Columbia , the tree of which is unknown , is described by Dr .Wm .",
+        "words": [
+          "aromatic",
+          "Malambo"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/12666f9f-f696-50fd-9060-284cd137b704",
+        "value": "Fruit the size and form of an apple , with an acid alliaceous flavour , and a tender whitish flesh .â   Root aromatic , stomachic and antispasmodic .It is employed in Java against leucorrhaea , combined with the bark of the root of Xylocarpus obovatus , which is extremely bitter .",
+        "words": [
+          "aromatic",
+          "antispasmodic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/13a55d81-10ab-537a-b0d4-0e69e0bb145f",
+        "value": "Leaves bright deep green , oval or oval - lanceolate , short - stalked , very convex , serrated , entire towards the base , and at the apex which is acuminate and emarginate ; shining on both sides , and blistered when old , slightly downy beneath .Flowers small , white , axil - lary , solitary ; with a rather heavy odour .238 .",
+        "words": [
+          "odour",
+          "rather heavy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/14780655-6a3b-56ad-9992-cdab062114d2",
+        "value": "Stipules rounded , deeply toothed .Flowers extremely numerous , cream - colour - ed , with a sweet but oppressive hawthorn - like scent , in dense , compound cymose panicles .Calyx reflexed .",
+        "words": [
+          "sweet",
+          "hawthorn",
+          "scent",
+          "oppressive",
+          "hawthorn - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/15d5db76-5a42-5bcf-b984-3467a9fe0504",
+        "value": "Leaves scattered , stalked , lanceolate , smooth , 2 inches long , appearing after the flowers , and soon accompanied by flower - buds for the next season .Flowers highly , and to many persons too powerfully , fragrant , seated in little tufts on the naked branches , with several brown , smooth , ovate bracteas under - neath .Calyx like a corolla in texture , crimson all over ; the tube externally hairy .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/178e9e4a-e8cb-554e-bac6-777b23d1820f",
+        "value": "Mentha citrata Ehr .furnishes a fragrant oil , having very much the odour of bergamot .1003 .",
+        "words": [
+          "fragrant",
+          "odour",
+          "of bergamot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/18022c4f-85c2-5b9f-8680-954738ff5b36",
+        "value": "34 .with trifoliolate and pinnate leaves , and oblong acuminate smooth leaflets , shining on the upper , white and mealy on the under side , found in the missions of the Oronoco , yields the fragrant balsamic substance called Caranna , according to most writers .Dr .",
+        "words": [
+          "fragrant",
+          "Caranna",
+          "balsamic substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1821206e-8e1e-5f61-96e5-1a3f9fe2d733",
+        "value": "The powder stimulating and very acrid .The fruit is covered with a waxy aromatic secretion which may be collected and purified , and which is used for many of the purposes for which beeswax and candles are employed .It has occasionally been used in pharmacy in various compositions intended for external use , and is mild or stimulating according as it is more or less pure .",
+        "words": [
+          "secretion",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/195ff927-be44-5d60-a263-876ce598a755",
+        "value": "Involucels very short .â   Formerly cultivated in lieu of Celery ; the leaves have a pleasant slightly aromatic flavour .The fruit is carmina - tive and used to be officinal .",
+        "words": [
+          "aromatic",
+          "pleasant slightly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1bab6316-40fb-514d-a9b1-091087b9306a",
+        "value": ") Leaves opposite , from ovate to oval , smooth , pointed .Corymbs from the extremities of the last year ' s shoots , small , bearing in ternary order many small , erect , fragrant , greenish - yellow flowers .Filaments rather longer than in S .",
+        "words": [
+          "fragrant",
+          "small",
+          "erect",
+          "greenish - yellow flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1bb8cdf7-42e2-5a9d-b143-e4ac2dada424",
+        "value": "Spike central , oblong , green .â   Bitter , aromatic , stimulant , tonic ; employed in debilitated states of the stomach , intermittent fever , dropsy .See Roxb .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1bbf6e01-fc70-53c1-9dc1-ebd09567de9b",
+        "value": "Boyer .â   The root is a valuable and excellent tonic , having aromatic qualities , but mucilaginous and not acting as a stimulant .It has the power of checking sympathetic vomiting , in female pregnancy , the dentition of children , diseases of the kidneys , & c .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1c1f2677-2f7e-5419-a901-7153769ac752",
+        "value": "( Common Rue .) A glaucous , hairless , erect , herbaceous or half - shrubby plant , with a strong , heavy , unpleasant smell , growing about 2 feet high .Leaves and all the other parts filled with transparent dots , supradecompound , alternate ; their lateral lobes linear or nearly so , the terminal ones obovate ; the uppermost leaves simply pinnate .",
+        "words": [
+          "strong",
+          "smell",
+          "unpleasant",
+          "heavy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1d359fcf-e341-54bf-9e84-4a65b8c28855",
+        "value": "Leaves oblong or oblong - lanceolate , bluntly acuminate , acute at the base , shortly triple - nerved , netted and hoary underneath ; nerves above their middle furnished with branching veins .â   A kind of Culilawan bark of great fragrance , clove - scented , and more pungent than the true sort , when fresh , but losing its quality by time .It is so extremely like Massoy bark , as to be confounded with it , although the latter is not the produce of any Cinnamon , according to Blume .",
+        "words": [
+          "clove",
+          "scented",
+          "great",
+          "fragrance",
+          "- scented",
+          "kind of Culilawan bark"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1de8a0c1-6722-5a2a-8f1f-ed609c06dba9",
+        "value": "Jack .â   The fruit has a strong balsamic smell and yields an oil considered useful in rheumatic affections .An infusion of the root is drunk as Sassafras and with similar effects .",
+        "words": [
+          "smell",
+          "The fruit",
+          "strong balsamic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1e104ea5-dd32-5c4d-a653-9500356be996",
+        "value": "Leaves dark - green with ovate , deeply cut , serrated segments , the upper narrower , multifid .â   The fruit is pungent and aromatic , but has a nauseous smell of bugs when fresh .It formed the Semen Amomi of the .",
+        "words": [
+          "smell",
+          "aromatic",
+          "nauseous",
+          "The fruit",
+          "of bugs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/1f9d22f1-e971-5cf5-829a-d582cea2ff7a",
+        "value": "â   The leaves are poisonous , producing nausea , vomiting , headach , giddiness , drowsiness , spasmodic pain , numbness , & c .The leaves are dark in colour and nauseous in smell , which ought to prevent its being mistaken for common parsley .FCENICULUM .",
+        "words": [
+          "smell",
+          "nauseous",
+          "The leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/20639015-fbe0-5e75-ab0e-feafcb65e90a",
+        "value": "Flower - stalks axillary , cymose or imperfectly umbellate , smooth , hardly so long as the leaves , drooping , with from 6 to 10 flowers ; each bearing an oblong , smooth , pale , flat , entire , membranous bract , originating above the base of the flower - stalk , and for about half its length firmly united therewith , its blunt point nearly on a level with the flowers , or longer .Flowers greenish , delightfully fragrant , especially in an evening .Petals obovate , pale lemon - coloured , destitute , like all our European species , of the scales attached to the petals of the American ones .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "delightfully fragrant",
+          "especially in an"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/21513565-65af-54e0-99df-349dcf119da0",
+        "value": "Nut 2 - celled , with a single seed in each cell .â   The whole plant very odoriferous , with a fragrance resembling that of Myrrh ; but not the myrrh of commerce .Certainly not a Caoutchouc tree as Jacquin asserts .",
+        "words": [
+          "the",
+          "odoriferous",
+          "fragrance",
+          "very odoriferous",
+          "The whole plant",
+          "resembling that of Myrrh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/229043e2-821d-5ff5-bc83-3d00e45404c2",
+        "value": "N .odor us Linn , and pro - bably many other species have similar properties .1213 .",
+        "words": [
+          "odor",
+          "Linn"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/23a7e651-5c58-53e8-980a-3ac747295d8b",
+        "value": "Fruit rough , with ascending bristles .â   The herb while drying has the scent of new hay , approaching to bitter almonds , or Heliotropium peruvianum , of which it retains a portion some time .Smith .",
+        "words": [
+          "scent",
+          "The herb",
+          "of new hay",
+          "Heliotropium peruvianum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/244651c8-cad7-5dd6-8602-ee2cf8f58c54",
+        "value": "Calyx - teeth acute .â   This has a very bitter bark , a little sweet , with a nauseous smell , according to Guibourt .MANETTIA .",
+        "words": [
+          "smell",
+          "nauseous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/25a2ba92-25d8-56ad-8b8d-1b5adb9929ad",
+        "value": "A tree 60 - 80 feet high , evergreen , with an ash - coloured bark and a pale yellow box - like wood .Leaves alternate , long - stalked ; leaflets 3 , sessile , unequal , ovate - lanceolate , acute , smooth , entire , bright - green , gratefully fragrant , with scattered glandular dots .Flowers in axillary and terminal racemes , on a peduncle as long as the petioles .",
+        "words": [
+          "fragrant",
+          "gratefully fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/280238ea-714a-55ef-9dd6-20b3f6c9147b",
+        "value": "Pulp subacid , flat , slightly bitter .â   The fruit yields the oil of bergavwt of the shops ; it is used in medicine on account of its odour .163 m 2 AURANTIACE3S .",
+        "words": [
+          "odour",
+          "its",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/2822e9e1-4125-5262-8726-48f723eb333e",
+        "value": "Racemes axillary , erect ; peduncles villous .Flowers greenish - white , sweet - scented like a lilac , downy externally .Corolla hypocraterif ' orm .",
+        "words": [
+          "sweet",
+          "Flowers",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/28bcace7-272d-5677-a92d-e18b375aacb1",
+        "value": "Branches scattered , with the slender twigs often drooping as completely as in the weeping willow , round and smooth ; young shoots sericeous .Leaves alternate , projecting in every direction , but most frequently ver - tical , short - stalked , narrow - lanceolate , while young sericeous , some - times slightly falcate , entire , from 3 to 5 inches long and from ^ to Â £ of an inch broad ; on being bruised they smell strong of the balsam they yield , yet the cells which contain this aromatic fluid , are scarcely visible in the fresh leaves .Spikes terminal , and from the extreme axills , downy ; while in flower there is only a scaly conic bud at the apex , which soon advances into a leafy branchlet .",
+        "words": [
+          "strong",
+          "smell",
+          "aromatic",
+          "fluid",
+          "they"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/28ea5cbf-ca96-56da-8a46-fa7414cae8d4",
+        "value": "79 .The peel itself is aromatic and stomachic ; but it does not agree with all stomachs .SPONDIACE ^ .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/29afc8f8-7a8f-59ea-95a4-9c2147318ea9",
+        "value": "â   Bark exudes a considerable quantity of gum .Flowers distilled , yield a delicious perfume .W .",
+        "words": [
+          "perfume",
+          "Flowers",
+          "delicious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/29cc3fb9-48ff-5854-a62b-ec7890e7ec40",
+        "value": "Bengal , Bahar , western provinces of Java .Rhizoma tuberous , jointed like ginger , but much larger , with long white fleshy fibres ; when fresh deep yellow ; possessing a strong not very agreeable camphoraceous smell and warm spicy bitterish taste .Roxb .",
+        "words": [
+          "strong",
+          "smell",
+          "Rhizoma",
+          "very agreeable camphoraceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/2b63017a-5268-5117-88bc-a45d5ac76044",
+        "value": "also drier and more powdery when chewed .The smell moreover is less agreeable , not so purely that of cloves , but with a strong odour of nutmegs .682 .",
+        "words": [
+          "strong",
+          "odour",
+          "smell",
+          "of cloves",
+          "less agreeable",
+          "of nutmegs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/2e6c21d0-1aac-5efb-866e-f9ea39c86f45",
+        "value": "Corolla not spurred .â   Aromatic and tonic , once in much repute among the Greeks and Romans , but not now used .ORIGANUM .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/30352604-c8dd-554a-8ddb-646a91e6240e",
+        "value": "Seeds black , shining , solitary , insipid .â   A powerful aromatic , used by the Japanese as a condiment in the room of Ginger or Pepper .The active principle chiefly in the fresh leaves , the dry bark and the pericarp .",
+        "words": [
+          "powerful",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/304b6ad9-ec69-5f03-809b-d7d5843f86a8",
+        "value": "Peduncles many - flowered .Flowers pale yellow , sweet - scented .Capsule as large as a walnut , membranous , shining , brown , 2 - celled , with 2 black or dark brown shaggy triangular seeds in each cell .",
+        "words": [
+          "sweet",
+          "Flowers",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/31add8fc-80fb-5b05-bbac-29e03416ea6b",
+        "value": "Flowers at first erect , then spreading , afterwards pendulous , yellow , not longer than the stamens .â   This yields what are called Barbadoes Aloes , or hepatic aloes by some writers , but not the true hepatic aloes ; it is imported in gourds from Jamaica and Barbadoes , is of a dark - brown or black varying to reddish - brown or liver - colour , and has an unpleasant odour .1262 .",
+        "words": [
+          "odour",
+          "unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/328c5fb6-5196-579b-b9e5-f3ca0bd90bbb",
+        "value": "Smith .â   Properties of the seeds the same as those of other Amoma ; they are powerfully aromatic , stimulant and cordial .1198 .",
+        "words": [
+          "aromatic",
+          "powerfully aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/350dac70-30f6-520a-bdd4-1b550183b47e",
+        "value": "All the plant quite smooth .Stem and leaves bitter , with a stimu - lating odour like that of Tropasolum .Stem herbaceous .",
+        "words": [
+          "odour",
+          "lating",
+          "like that of Tropasolum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/35e84168-0db9-594d-b43c-97425e78cb9f",
+        "value": "Peduncles in bundles from tuberosities over the trunk , and larger branches , 1 - flowered as in the male .Flowers larger than the male ones , and fragrant .Stamens none ; but round the base of the ovary are inserted about 10 pinnatifid , villous bodies .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/363e204a-b79f-556d-bd07-883915574333",
+        "value": "â   The ripe catkins are said to be narcotic and extremely bitter ; pillows stuffed with them have been used as agreeable sedatives .The infusion and tincture act as pleasant aromatic tonics ; but Mr .Pereira doubts the existence of the narcotic effects that have been ascribed to hops .",
+        "words": [
+          "aromatic",
+          "pleasant aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/36f56b8c-54ce-593a-9eb6-7988af18d331",
+        "value": "Flowers reddish purple .â   The leaves and tender stalks , when rubbed , have a strong and not unpleasant smell , and are after being roasted , prescribed in India in cases of chronic rheumatism attended with swelling at the joints .Ainslie .",
+        "words": [
+          "strong",
+          "smell",
+          "not unpleasant",
+          "The leaves and tender stalks"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/377196bd-feb0-5f47-abd1-18f13fd8fb09",
+        "value": "Fruit greenish , with 2 - 3 - 4 coria - ceous valves , enclosing a white sweet pulp which divides into 2 - 3 - 4 lobes each enveloping an angular stone .â   The wounded branches yield an abundance of a yellowish , balsamic , aromatic liquid of a tere - binthinous nature , which preserves its fluidity a long time , and consti - tutes the Balsam of Acouchi .The Caribs esteem it highly as a vulne - rary .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/37e2ffb6-0e4d-5abc-8cf9-3ccd83eeceb4",
+        "value": "Flowers white or red .â   The bark of the root and the sweet - smelling leaves are considered by the native Indian doctors as powerful repel - lents , applied externally .The root taken internally acts as a poison .",
+        "words": [
+          "smelling",
+          "powerful",
+          "sweet - smelling",
+          "leaves",
+          "The bark of the root",
+          "repel",
+          "the native Indian doctors"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/38492503-0e9d-5bcc-ad7a-19297708f0ac",
+        "value": "An infusion of the twigs a vermifuge .Oil of the berries , which are aromatic , a stimu - lant ; these berries are said to have been used in the United States during the American war as a substitute for allspice .TETRANTHERA .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3a8f7bff-3b32-56c1-9098-b511259b5955",
+        "value": "Stem tall , and bushy , in consequence of the length of its axillary leafy branches ; its form round , with only 2 opposite ribs or angles .The whole herb dark green , with a powerful scent when rubbed , staining the fingers with dark purple , from the great abundance of coloured essential oil , lodged in the herb - age and even in the petals .Leaves very numerous , elliptical or ovate , obtuse , various in width .",
+        "words": [
+          "powerful",
+          "scent",
+          "essential",
+          "The whole herb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3b4e8dbc-907f-5994-9fb4-424f632fa7e2",
+        "value": "Fruit oval , compressed ; half - fruits , with three ridges on the back , and surrounded by a membranous margin .â   Fruit aroma - tic and carminative ; used in the curries of the natives of India .109 .",
+        "words": [
+          "Fruit",
+          "aroma",
+          "tic",
+          "carminative"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3c2600fe-d2d4-5a16-9745-6638a382949f",
+        "value": "Fruit obovate , mucronate , reddish brown , 2 - valved .â   This both Roxburgh and Professor Royle consider the true Calam - bac , Agallochum , Lign - Aloes , or Aloes wood of oriental writers ; a fragrant substance contained in the interior of the trunk .It is regarded as a cordial by some Asiatic nations , and has been prescribed in Europe in gout and rheumatism .",
+        "words": [
+          "substance",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3c56df92-e3c2-5714-8834-cdb9e21bd740",
+        "value": "Peduncles 3 - flowered .Flowers sweet - scented , numerous , showy , pink outside , white and striped inside ( purplish - violet Aublet ) .Tube of the corolla very long , globose at the base : limb 6 - parted , with ovate , flat , spreading segments 3 times shorter than the tube .",
+        "words": [
+          "sweet",
+          "Flowers",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3ca6eb65-276b-58c0-bdf9-6a4ecab66907",
+        "value": "Smith .Fruit extremely fragrant , con - sisting of an achenium placed between 2 succulent , ovate fleshy sepals , which adhere to its sides , all covered with waxy aromatic granulations .Seed solitary , erect .",
+        "words": [
+          "fragrant",
+          "aromatic",
+          "extremely fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3e370601-cb7b-5284-809a-53c3f3f8c24c",
+        "value": "Le - gume size of a large plum .â   Bark anthelmintic ; it has a disagreeable smell and a sweet mucilaginous taste .Its effects are drastic , emetic , purgative and narcotic ; poisonous in large doses , producing violent vomiting with fever and delirium .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3e71b7bb-f27d-59de-aacb-ba6fc0fe075c",
+        "value": "â   This species produces both the sweet and bitter almonds of the shops , which are only varieties of each other chiefly differing in the quantity of prussic acid their seeds contain .Sweet Al - monds are scentless and farinaceous , containing a large proportion of oil ; they are used in emulsion and confection , and are a common article of food , but are apt to prove indigestible , and to bring on urticaria febrilis .Their skin is irritating , and should always be removed before the almond is eaten .",
+        "words": [
+          "scentless",
+          "farinaceous",
+          "Sweet Al - monds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3ebe49aa-ecf5-5b28-a36c-fa7a1606d4f2",
+        "value": "Stigma of 2 plates .Fruit dry , or scarcely fleshy , consisting of 2 , rarely 3 - 4 carpels , either united or separable , and indehi - scent or dehiscent in various ways .Albumen between fleshy and horny .",
+        "words": [
+          "scent",
+          "-",
+          "dehiscent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/3fd66d68-142f-5474-84cc-c4bfa2c8ee80",
+        "value": "â   Near Limysus , a river of Lycia .Root of several , fleshy , fusiform tubers , with an aromatic peppery smell , almost like that of Valeriana officinalis , but less unpleasant .All the herbage smooth .",
+        "words": [
+          "smell",
+          "less unpleasant",
+          "aromatic peppery",
+          "almost like that of Valeriana officinalis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/40e9c29e-a577-5279-afce-72e8258d367a",
+        "value": "â   Fruit carminative and aromatic .Cullen considered it as more power - fully correcting the odour and taste of senna , than any other aromatic .ARALIACEiE .",
+        "words": [
+          "odour",
+          "of senna"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4160a35e-ff98-5f8f-a525-c1bc1d13496e",
+        "value": "Branches even when young quite smooth , angular , and a little speckled .Leaves pinnated , smooth , when bruised having a strong heavy and yet aromatic smell ; leaflets about 9 , oval , smooth , somewhat serrated , nearly all of the same size .Fruit quite smooth , globose or oblong .",
+        "words": [
+          "smell",
+          "aromatic",
+          "Leaves",
+          "strong heavy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/42355108-cd2b-5467-b168-bf5a34c911b0",
+        "value": "Fruit even , dry , 1 - seeded .â   Caule - scent plants with fleshy rhizomata or tubers .Stems branched , often dichotomous .",
+        "words": [
+          "scent",
+          "plants",
+          "Caule"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/42520d2a-bd06-5aeb-a17b-ed547a9c54f6",
+        "value": "Roxb .â   The smell of the nut when cut is heavy , and disagreeable , the taste of the kernels like that of fresh filberts .It is the true Sebesten of the European Materia Medica .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "heavy",
+          "of the nut"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4362e7fe-e965-572b-9c53-b783eabde1d4",
+        "value": "Congea villosa Roxb .has leaves with a strong heavy disagreeable smell , used by the natives of India in fomentations .Roxb .",
+        "words": [
+          "smell",
+          "leaves",
+          "strong heavy disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4438dba1-838e-588f-a987-d2e894c0c63e",
+        "value": "According to Ruiz this is one of the species known under the name of Cascarillo dc Flor de Azahar , and not met with in commerce , except in the form of extract , which has been found of excellent quality .It derives its name from the resem - blance between the smell of its flowers and those of the Orange , and is one of those discovered in the kingdom of Santa Fe by Mutis .H .",
+        "words": [
+          "smell",
+          "of its flowers",
+          "Mutis",
+          "of the Orange",
+          "in the kingdom of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/45a39697-522e-5929-9be6-63417849234d",
+        "value": "Fruit about a line long , compressed , pale greenish brown ; the back occupied by 3 elevated , pale primary ridges , the 2 others quite on the margin at the side .â   The leaves are a pleasant stimulating salad ; they are diuretic , and are at once recognised by their agreeable smell .Burnett says the fruit is a deadly poison to parrots .",
+        "words": [
+          "agreeable",
+          "smell",
+          "at once",
+          "their",
+          "The leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/46100b45-f0f6-5dd9-80e2-c4d730fa5566",
+        "value": "â   Bark and leaves filled with a resinous matter which exudes from the trunk when wounded and concretes into a substance resembling Mastich .A white odoriferous substance , re - sembling Gum Elemi is also procured from the leaves , and , dissolved in milk , is used in diseases of the eye .Of the bark boiled in water , lotions are made for healing tumours and reducing inflammations .",
+        "words": [
+          "substance",
+          "odoriferous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/484aaf03-b943-5087-b750-bb0b0d149f58",
+        "value": "Seeds globular , abrupt at the base .â   Every part when bruised or wounded diffuses a strong but pleasant aromatic smell .The fruit is the Cardamomum majus of old authors , the great or Madagascar Car - damom of Smith .",
+        "words": [
+          "strong",
+          "smell",
+          "pleasant aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/48cfa677-69f1-5a27-b24d-7c7788e1723f",
+        "value": "Seeds numerous , angularly wedge - shaped .â   This is the species that yields Cajuputi , an irritating or stimulating , green , aromatic campho - rate essential oil used in toothach and rheumatic affections and as an internal remedy in hysteria and epilepsy , flatulent colic , and cholera .151 .",
+        "words": [
+          "aromatic",
+          "Cajuputi",
+          "hysteria and epilepsy",
+          "rate essential"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/48e4d05c-41eb-5e3b-812e-e39e18170f57",
+        "value": "Fruit drupaceous , ovate , depressed at the apex and plaited in a stellate manner .â   Bark smelling of cloves , with a hot clove - like peppery taste , and powerful tonic properties .Nees v .",
+        "words": [
+          "Bark",
+          "smelling",
+          "of cloves",
+          "of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/49612838-5266-5afa-aaf7-5eb203bd2295",
+        "value": "Seeds roundish , angular , dotted , brown .â   Seeds agreeably aromatic , used by the Malays as a substitute for the true Cardamoms of Malabar , the produce of Elettaria Cardamomum .Fruit said by Nees and Ebermaier to be the round Cardamoms of the shops .",
+        "words": [
+          "aromatic",
+          "Seeds",
+          "agreeably aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/496e7dfd-c6bf-500d-928a-eaf09c470dec",
+        "value": "Lour .â    â   This tree produces one of the two sorts of Calambac , Eagle - wood , or Lign - aloes , a fragrant substance , which Loureiro states consists of a concre - tion of the oily particles into a resin in the centre of the trunk ; it is brought on by some disease , and the tree in time dies of it .The aromatic fragments are taken out of the trunk .",
+        "words": [
+          "wood",
+          "substance",
+          "fragrant",
+          "aloes",
+          "Calambac",
+          "Eagle"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/49d0968c-941d-5cc7-9e5f-f66dc0d95a2b",
+        "value": "Stem from the centre of one of these tufts , a foot high , erect , round , downy , clothed with several , more narrow , sessile , alternate leaves , and termi nating in a sort of many - flowered cyme , with spiked branches .Flowers large , pale rose - coloured , without scent .Segments of the calyx 12 or more , with a similar number of petals , stamens and pistils .",
+        "words": [
+          "Flowers",
+          "scent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4a01afb7-152f-5b3c-bb1d-50a9c5d17348",
+        "value": "â   The roots are fusiform , and about as thick as the finger , with numerous transverse close wrinkles .They are aromatic and sweet , something like carrot , and contain a small quantity of essential oil .They form an ingredient in Venice treacle .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4adb6d80-d2d0-5be5-ab73-48c53e6ae3d5",
+        "value": "Legume conti - nuous , oblong , compressed or cylindrical , acuminated , many - seeded .â   Herbaceous plants , with a heavy penetrating odour .Leaves trifoliolate , the terminal leaflet stalked .",
+        "words": [
+          "odour",
+          "Herbaceous plants",
+          "heavy penetrating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4c605bed-4fba-52e8-a2be-2cbe09a0fbf6",
+        "value": "Leaves of the involucre covered with yellowish silky down .â    â   Bark with a hot and bitterish taste , yielding when wounded a fragrant honey - like balsam .The latter is liquid storax , a stimulating expectorant substance acting in the same way as solid storax , that is to say influencing the mucous membranes , especially that which lines the air passages But although this tree undoubtedly produces the fine liquid storax or Rasamala of the Malayan archipelago , it is probable that the principal part of that in use is obtained from L .",
+        "words": [
+          "fragrant",
+          "like",
+          "honey -"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4d000eaa-37ed-5f2c-8da5-48f1db5b8202",
+        "value": ") Root tapering , whitish .Herb erect , of a dark lurid green , fetid .Stem round , striated , leafy , often purplish , a foot high .",
+        "words": [
+          "Herb",
+          "fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4db7ffbb-9ec7-5330-8680-74b9b3231216",
+        "value": "( Masterwort .) Root fleshy , tuberous , somewhat creeping , of an aromatic and acrid .quality .",
+        "words": [
+          "aromatic",
+          "acrid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4deb0cae-1a13-5660-ad12-7798fe229be6",
+        "value": "The Tuscans also prepare a sort of Myrtle wine which they call Myrtidanum .The distilled water of Myrtle flowers i ^ that very agreeable perfume known in France under the name of ' Eau d ' Ange .' Burnett .",
+        "words": [
+          "perfume",
+          "very agreeable",
+          "The distilled water of Myrtle flowers",
+          "Eau d '"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4e293772-8afa-5869-9383-34363ff70ff3",
+        "value": "Spikes axillary , solitary , shorter than the leaves .Flowers numerous , of a dull yellowish - brown colour , and rather offensive smell ; male towards the apex , and her - maphrodite below .Calyx flat , with the apices of the 5 divisions revo - lute , villous on the outside , and woolly within .",
+        "words": [
+          "smell",
+          "rather offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/4f4b6231-ea54-500a-9b42-c96fd8830828",
+        "value": "( Motherwort .) Herb bitter , with a pungent disagreeable smell .Stems 2 or 3 feet high , wand - like , minutely downy , acutely quadrangular , with inter - mediate channels , purplish , beset with numerous pairs of long - stalked , dark green , somewhat downy , leaves ; the lowermost broadest , and deeply jagged ; upper ones acutely 3 - lobed ; those about the summit lanceolate and undivided .",
+        "words": [
+          "smell",
+          "pungent disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5230f6e8-21c4-50c0-b5c6-512655c8ba51",
+        "value": "Fruit very light straw colour , 4 lines long , shining , obovate ; the dorsal ridges very near each other , distinctly elevated , sharp , the lateral de - pressed and far within the broad thin margin ; vittas of the commissure subulate , straight , about half the length of the fruit .â   The root abounds in a white bitter fetid juice , which hardens into a brown acrid resin .The Russians employ it as ginger .",
+        "words": [
+          "fetid",
+          "juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/52ffed55-9a11-5f13-a470-b473702028f3",
+        "value": "Seeds numerous , oblong , with a large , ovate , toothed membrane .â   Small trees with succulent branches , and showy fragrant flowers .1137 .",
+        "words": [
+          "fragrant",
+          "flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/531fb12f-c402-5722-8993-9a7fd62aefee",
+        "value": "Stem .12 or 18 inches high , erect , round , leafy , unbranched , terminating in an upright , leafy , repeatedly forked panicle , of many elegant , bright yellow , scentless flowers , open in sunshine only , with scarlet stigmas .Leaves ovate , acute , combined and perfoliate .",
+        "words": [
+          "flowers",
+          "scentless",
+          "many elegant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5403a54c-0d76-5d91-abe3-b6a6b8627960",
+        "value": "â   This plant yields a very fine kind of Caoutchouc , firm , 536 TJRCEOLA .very elastic , scentless , and possessing all the qualities of the best samples of that substance .PLUMIERIA .",
+        "words": "scentless"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/54aa3521-881c-5b3e-921a-66f94b115bef",
+        "value": "Of all perfumes the most grateful to Oriental nations ; \" stimulant , corroborant , cephalic , cardiac .\" Its scent is used against vertigo and paralysis .Powder prevents vomiting and stops diarrhoea by its tonic , but astringent pro - perties .",
+        "words": [
+          "scent",
+          "Its",
+          "used against vertigo and paralysis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/556f1e65-d913-5255-b380-5bf9479569f3",
+        "value": "The achaenia are crowned with a short membrane .â   The whole plant is bitter and strong - scented , reckoned tonic , stimulating , and anti - hysteric .Smith .",
+        "words": [
+          "strong",
+          "scented",
+          "The whole plant",
+          "stimulating , and anti - hysteric"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/55d2fcea-a6f3-5ff8-95ab-9971370e75a9",
+        "value": "Racemes terminal , long , erect in flower , afterwards cernuous ; pedicels short , in many closely placed fascicles , with little scales or bracts at their base .Flowers fragrant .Calyx small , white , in 5 deep spreading segments , uniting into a fleshy attenuated base , which is jointed upon the pedicel .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/56159eb0-379d-583c-a743-905272504918",
+        "value": "Flowers numerous , pedicellate , white , having rather a 286 STAGMARIA .narcotic smell .Calyx tubular , deciduous , bursting into 2 or 3 irregular segments .",
+        "words": [
+          "smell",
+          "narcotic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/570d9035-1304-5a7c-a713-acd9c359a23c",
+        "value": "Apparently very near F .Szovitziana , but its seed is smaller in proportion to the fruit , and it has a distinct smell of asafcetida , which the former has not .This is what is referred to in Professor Royle ' s Illustrations p .",
+        "words": [
+          "distinct",
+          "smell",
+          "it",
+          "of asafcetida"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/57720c22-af67-5013-a466-12188dec7911",
+        "value": ") A dioecious tree ; trunk from 20 to 25 feet high ; bark greyish - brown , tolerably smooth , abounding in a yellow juice .Leaves aromatic , from 3 to 6 inches long , subbifarious , oblong , approaching to elliptical , glabrous , rather obtuse at the base , acuminate , quite entire , above dark - green and somewhat glossy , beneath much paler , but neither pulverulent nor downy .Petioles from i to Â § of an inch long , plane above .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5784fb6f-3cbd-51b9-a1ee-77fbab0717ce",
+        "value": "Leaves oval , rather blunt , cuneate at the base , smooth .Flowers very sweet - scented , sessile , solitary , mostly terminal .Calyx with oblong lobes rather shorter than the villous corolla .",
+        "words": [
+          "sweet",
+          "Flowers",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/58339212-a152-55d8-be90-3af305a2a4a5",
+        "value": "The source of the valuable Red bark of Lima , or Quina colorada is at present unknown .Poppig found near Cuchero a Corteza de Azahar which he refers to this species , and which he describes thus : â   \" A very stately tree , with unusually large white flowers , diffusing a most delightful scent , like that of orange blossoms .To this bark is never applied the name of Casca - rilla , that is , Fever Bark , in its strict sense , as the ignorant observer does not consider the Azahar to be a Cinchona .",
+        "words": [
+          "scent",
+          "most delightful",
+          "like that of orange blossoms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/58729a44-977f-5565-9df2-9c1afcb6f1a7",
+        "value": "The aromatic fragments are taken out of the trunk .Of all perfumes the most grateful to Oriental nations ; \" stimulant , corroborant , cephalic , cardiac .\" Its scent is used against vertigo and paralysis .",
+        "words": [
+          "perfumes",
+          "the most grateful",
+          "to Oriental nations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/58bcfa7c-dcb0-5faf-ad98-ba52002a8921",
+        "value": "In coughs , hoarse - ness , and other pectoral disorders they eat the stalks roasted in hot ashes ; they also boil the tender flowers in milk till it attains the con - sistence of an extract which they use to promote perspiration in catarrhal fevers and to strengthen the stomach and bowels in diarrhcea .The leaves seeds and roots are certainly good aromatic tonics .S .",
+        "words": [
+          "aromatic",
+          "roots",
+          "The leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/58fcda7f-a2ce-515e-ad73-4f4c637b9584",
+        "value": "Panicles axillary and terminal , forked , many - flowered , downy .Flowers white , with a sweet almond - like scent .Petals 4 , most downy on the outside .",
+        "words": [
+          "sweet",
+          "scent",
+          "sweet almond - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/59482b9a-d420-56fb-994f-a2231952b335",
+        "value": "Leaves linear - lanceolate , clustered , acuminate , cus - pidate , quite smooth .Flowers numerous , small , white , with a fragrant smell , in terminal panicled racemes .â   Properties like those of Meze - reum .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "smell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/59ae0dec-8856-5d5f-a761-0356a7a26a18",
+        "value": "Panicles corymbose , broad and flattish , with downy stalks .Flowers white , numerous , with a slight almond - like scent .Petals very concave .",
+        "words": [
+          "Flowers",
+          "slight",
+          "scent",
+          "slight almond - like scent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5a0256eb-c41b-5c30-a1dc-1f2dfa09c4f9",
+        "value": "Seeds angular .â   Seeds aromatic , subacrid ; they were formerly employed instead of pepper , and have also been used as carminatives .8 DELPHINIUM .",
+        "words": [
+          "aromatic",
+          "Seeds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5a65d34f-c10a-5b3b-9a03-335015bd5c1f",
+        "value": "Florets of the ray few , with oblong obtuse yellow ligules ; those of the disk funnel - shaped , with acute segments .â   Leaves delightfully fragrant , partaking of anise and sassafras , yielding a volatile oil which is aromatic , gently stimulant , diaphoretic and carminative .Also employed as an excellent substitute for tea .",
+        "words": [
+          "fragrant",
+          "aromatic",
+          "delightfully fragrant",
+          "Leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5ac37f0c-733f-57b2-b564-3a43a97dfd73",
+        "value": "Calyx narrow and 6 - angled at the base , downy externally ; above the base ventricose and compressed ; in the middle contracted , round , angular ; higher up reflexed ; finally dilated into a large , ventricose , oblique limb , which is entire , somewhat cordate , flaccid , wavy , velvety purple , marked with white , terminated by a linear acuminate appendage a foot long .â   The whole plant emits a powerful narcotic unpleasant smell , which Swartz compares to that of Chenopodium vulvaria .It is poisonous to hogs , according to the same author .",
+        "words": [
+          "smell",
+          "The whole plant",
+          "powerful narcotic unpleasant",
+          "that of Chenopodium vulvaria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5b5f1eb3-ad91-50e0-9d90-5bdb4f2e81fc",
+        "value": ") â   Com - mon all over the peninsula of India .Root long and slender , with few ramifications , covered with rust - coloured bark , which possesses a peculiarly pleasant sort of fragrance , whether fresh or dried .Stems twining , diffuse , or climbing , woody , slender , generally from the thickness of a goose ' s quill , to that of a crow ' s quill , nearly smooth .",
+        "words": [
+          "fragrance",
+          "which",
+          "peculiarly pleasant sort of"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5b83f2e0-f881-5a72-9dcb-9227ea925872",
+        "value": "Fruit wrinkled and warty , of a light shining brown .â   The whole plant has an odour approaching to Cucumber and Burnet , which gives a flavour to a cool tankard ; but its supposed exhilarating qualities , which caused Borage to be reckoned one of the four cordial flowers , along with Alkanet , Roses , and Violets , may justly be doubted .Smith .",
+        "words": [
+          "Violets",
+          "Roses",
+          "odour",
+          "exhilarating",
+          "its",
+          "The whole plant",
+          "Alkanet"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5c33236d-9810-58a4-b56c-34a2ebfb42b4",
+        "value": "Leaves lanceolate , flat , acuminate .Flowers very fragrant , in com - pact cymes .Corolla white with a yellow throat ; the segments linear - oblong , obtuse .",
+        "words": [
+          "fragrant",
+          "very fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5c704583-e105-5439-8588-4a45c081ec73",
+        "value": "Spikes axillary , solitary , very short , pedunculated , spreading .â   Rhizoma thick , woody , rugged , aromatic .Used in tincture against chronic rheumatism .",
+        "words": [
+          "aromatic",
+          "Rhizoma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5eca7ae8-8a21-5366-bfb2-c0e4f5a5c664",
+        "value": "lobel .28 , has similar properties to the last plant ; its very flowers are said to produce vomiting by their smell .404 CINCHONACEiE .",
+        "words": [
+          "smell",
+          "flowers",
+          "their",
+          "its",
+          "produce vomiting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/5f8d47c6-fe72-5c67-8f61-bd34388f721a",
+        "value": "Upper seg - ment of the inner series of the corolla lanceolate , acute .Flowers very fragrant .â   This was supposed to produce the Zedoaries of the drug - gists : and Fee continues to refer them to it .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "very fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/61bd99ab-588f-50a5-9355-e2eb80a3f63f",
+        "value": ") â   East Indies ; Chittagong ; western side of Java .Tubers palmate or ovate , inwardly pale yellow , with an agreeable camphoraceous smell , and warm , bitterish , spicy taste .Stems the united sheaths of the leaves , surrounded by 2 or 3 , obtuse , smooth , green , faintly striated appressed scales .",
+        "words": [
+          "smell",
+          "agreeable camphoraceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/61f292da-4dc7-59d7-b4cd-bfc5b3745e1a",
+        "value": "â   Trees or shrubs , armed or unarmed .Flowers axillary or terminal , usually solitary , white and fragrant .865 .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6585e5ab-262d-5695-a8f7-e32ff446d9a7",
+        "value": "Column very small , roundish , depressed , slightly triangular , with 1 - ses - sile 2 - celled anther on each angle and face .â   The roots are powerfully stimulating , when fresh they have a very disagreeable smell .They have been chiefly employed as aids to difficult parturition .",
+        "words": [
+          "smell",
+          "they",
+          "very disagreeable",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/65efcf92-12a8-589c-8042-ea9d429e2969",
+        "value": "Flowers pale pink , clustered in the axils of the upper leaves , which form a kind of involucre to them .â   This , the true spikenard of the ancients , has been highly esteemed not only as a perfume , but as a stimulant medicine .Oriental writers give it as a remedy for a multitude of diseases , and it appears really to be valuable in hysteria and epilepsy .",
+        "words": [
+          "perfume",
+          "This"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/667f7253-ec3f-5215-853b-a4598aa2741e",
+        "value": "Pursh .The roots have a terebinthinous odour , and are reputed to be powerfully diuretic , and hence antisiphilitic .It is probable that other species of this genus possess similar pro - perties , at least that of being diuretic .",
+        "words": [
+          "odour",
+          "The roots",
+          "terebinthinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/670993d6-9b90-5bb5-8073-8806c0806b01",
+        "value": "â   Supposed to have been confounded with E .Pimenta , in whose aromatic qualities it altogether participates .156 .",
+        "words": [
+          "aromatic",
+          "Pimenta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/67687521-7615-5add-b2a8-b255d7160526",
+        "value": "Drupe with a rim at the apex .Two species of this genus principally yield the Sandal wood of commerce , a kind of timber much esteemed for its fragrance .\" It is made into musical instruments , cabinets and curious boxes , for which it is valued , as no insect can exist , it is said , nor iron rust , within its influence .",
+        "words": [
+          "fragrance",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/680893d3-bffe-5fbf-98e5-5015de9ac0b6",
+        "value": "Webbianum nevertheless appear to be valuable as medi - cines ; for Mr .Twining reported that , after an experience of 43 cases in the general hospital at Calcutta , he found them , as tonic and astrin - gent , superior to corresponding quantities of the best rhubarb , but not on the whole so eligible in obstinate costiveness on account of their aroma and astringency .They are less disagreeable to take than the best Tur - key rhubarb , nearly as efficacious as a purge , and very superior in small doses as a tonic and astringent inprofluvia .",
+        "words": [
+          "aroma",
+          "their",
+          "in the general hospital at Calcutta"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/68bf9596-e45c-54bf-8205-069743bd4950",
+        "value": "Ovary slightly downy ; stigma sub - sessile , capitate .â   Branches when bruised or broken exhale a strong smell .Said to be poisonous according to De Candolle .",
+        "words": [
+          "strong",
+          "smell",
+          "Branches"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/694da62f-6f08-58cc-9c8e-43cd39b5d80a",
+        "value": "Fruit compressed , with an elevated ridge on each side , and a black prominent point at the apex .â   A very fragrant balsam is obtained from the fruit of this tree .The gum resin is purgative .",
+        "words": [
+          "fragrant",
+          "very fragrant",
+          "the fruit of this tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/696195a0-d195-561f-a4b4-b86591ce15a1",
+        "value": "Cynoglossum officinale L .was once officinal , being used as an antispasmodic ; but it is so fetid that it has long since ceased to be exhibited .Smith says it is narcotic .",
+        "words": [
+          "fetid",
+          "so fetid",
+          "it",
+          "officinal",
+          "that it has long since"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6afa8458-fccf-547b-a1e7-5d587397936f",
+        "value": "Fruit tomentosc , round - ish , the size of a large pea .â   Bark of the root aromatic and purgative .The branches yield very fine lac in grains , in small quantities .",
+        "words": [
+          "Bark",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6afc404c-0a89-52df-8709-7d5bc2ae782c",
+        "value": "Seed reniform , lying in yellow liquid balsam , which hardens into resin .â   The stem yields the fragrant bitter aroma - tic balsam , called Balsam of Peru , having stimulant tonic expectorant properties , and employed in palsy , chronic asthma , gleet , leucorrhoea & c .Applied externally in the form of plaster it mitigates headach and toothach : the balsam closes recent wounds .",
+        "words": [
+          "fragrant",
+          "aroma",
+          "The stem",
+          "tic balsam"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6bacdf38-98be-5d9b-8770-cb336431c786",
+        "value": "Launis Cubeba Lour , is an obscure plant , known to no one since the time of Loureiro .Its fruit , the size of a pepper corn , is reported to be a powerful aromatic .See Nees p .",
+        "words": [
+          "powerful",
+          "aromatic",
+          "Its fruit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6be65409-84b2-5c0e-afa7-ce344671010a",
+        "value": "Drupes straw - coloured .â   All the parts power - fully aromatic ; the leaves and stems become insipid by keeping , but the roots , if quickly dried and carefully preserved retain their pro - perties for a long time .They have a fragrant camphor - like smell and an aromatic bitterish taste , and resemble in appearance those of Aristolochia serpentaria : like which they are among the most effica - cious ] medicinal stimulants which the Vegetable Kingdom produces .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6c09ca69-ea23-53c1-b418-5fe1dec7549a",
+        "value": "The quality of this bark is also attested , according to the statements of the Cascarilleros , by its exhibiting a glossy , shining , almost rosiny fracture ; its colour withinside should also be that of a ripe orange , with alight transition to a fiery brown .In the month of February the forests are perfumed with the strong scent of its blos - soms .\" The same excellent observer says that the Case , provinciana negrilla , is obtained from the same tree growing in the warmer valleys ; its samples are coarser , but the difference is of no medicinal importance .",
+        "words": [
+          "strong",
+          "scent",
+          "the forests",
+          "In the month of February",
+          "of its blos - soms"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6c152df6-8bc1-530a-a30e-58f0c86c8227",
+        "value": "Flowers solitary , white , sweet , 1 ^ inch in diameter .Fruit roundish , 3 - 7 inches in diameter ; it is co - vered with a double rind , the outer leathery , 1 line thick , tough , brown - ish yellow , scored crosswise ; the inner thin , yellow , adhering firmly to the flesh which is firm , bright yellow , with a pleasant singular taste \" and a sweet aromatic smell .Skin and seeds very bitter and resinous .",
+        "words": [
+          "smell",
+          "sweet aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6d211bcf-6d9e-53ca-9c1f-3c89bdf4aece",
+        "value": "From wounds made in the bark , there issues a soft reddish , brown gum resin , which age hardens , and renders exceedingly like bdellium .Burnt in the flame of a candle , it emits a smell like that of Cashew nuts when roasting .It softens in the mouth , and adheres to the teeth .",
+        "words": [
+          "smell",
+          "it",
+          "like that of Cashew nuts when",
+          "when roasting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6eacc962-18da-5400-a1d1-a4ae3c459f19",
+        "value": "Panicles ter - minal , sessile .Flowers numerous , white , slightly fragrant , in threes .Di - visions of calyx ciliated .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "slightly fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6f54386f-01c3-5191-870c-c50f1683abef",
+        "value": "Torrey .â   The whole plant has a strong , heavy , disagreeable odour .It yields from the seeds an abundance of oil , which , under the name of wormseed oil , is powerfully anthelmintic .",
+        "words": [
+          "strong",
+          "odour",
+          "disagreeable",
+          "heavy",
+          "The whole plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/6f89300a-d880-5da7-80f0-c5e0963aa5b8",
+        "value": "Culilawan , and hardly inferior .Loureiro says it contains much more essential oil than that of Cinnamon , and smells of cloves , but is not so agreeable .681 .",
+        "words": [
+          "smells",
+          "of cloves",
+          "it",
+          "so agreeable",
+          "Loureiro",
+          "much more essential"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7069852a-4f0c-57c9-8b2c-e5f1baa79a6f",
+        "value": "Catkins terminal , stalked , pendulous .â   Independently of many useful purposes to which the bark of this plant is [ applicable , it has also been employed as a febrifuge , and yields by distillation a pyrogenous oil of a very peculiar kind to which Russia leather , dressed with it , is said to owe its remarkable odour .ALNUS .",
+        "words": [
+          "odour",
+          "its",
+          "Russia leather",
+          "remarkable",
+          "pyrogenous oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/70fa1d28-83a4-5c80-8951-7d8db9e639b6",
+        "value": "In moderate doses this substance stimulates the stomach , and in large quantities excites the vascular system .Moreover it seems to have a specific influence on the cerebro - spinal system , as it affects , it is said , the mental faculties , a result which De Candolle considers analogous to that produced byHhe petals of certain odorous flowers .\" In modern practice it is little used , except as a colouring ingredient ; on the Continent it is employed as an agreeable stimulant in many culinary preparations and liqueurs .",
+        "words": [
+          "odorous",
+          "flowers",
+          "certain",
+          "byHhe petals"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7128796d-66e0-583d-be7d-50c899d91a85",
+        "value": "â   Rhizoma has a strong narcotic 3 B 2 RANUNCULACEiE .smell , is exceedingly bitter , and valuable as a strong tonic .The power of curing cancers , which has been ascribed to it , is imaginary .",
+        "words": [
+          "smell",
+          "exceedingly bitter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/718226f1-7bc7-5975-b03c-e4bdb5195677",
+        "value": "Leaves short - stalked , bifarious , lanceolate , white , and some - what callous at the margin , smooth , from 12 to 24 inches long , and from 4 to 6 broad ; ligula short , rounded , ciliate .Panicle terminal , erect , oblong , spreading , dichotomous ; each division with from 2 to 6 pale , greenish , somewhat fragrant flowers .Calyx smooth , white , scarcely the length of the corolla , 1 - toothed .",
+        "words": [
+          "fragrant",
+          "flowers",
+          "somewhat fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/723c79bd-8471-5f60-b388-83f3d090d4ed",
+        "value": "Flowers axillary , corymbose .â   The trunk yields a liquid limpid resinous fragrant sub - stance , which according to Dr .Hancock is a valuable remedy for coughs ; it hardens into a whitish resin .",
+        "words": [
+          "fragrant",
+          "resinous fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/73d92661-9b5a-546f-a57e-8285365a0588",
+        "value": "Lund and others assert that this does not yield the Quassia chips of the European druggists , but refer them to Picraena excelsa .But Guibourt says that the wood of both the root and stem of this Quassia is imported in the form of white scentless very light cylinders 1 - 2 inches in diameter ; and that the Picraena wood is inferior in quality .I learn however from Mr .",
+        "words": [
+          "very",
+          "scentless"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/74586237-970f-5e97-a7e7-eed0b01666b0",
+        "value": "Root fibrous .Herb fetid , narcotic , bushy , with numerous , angular , or winged , leafy branches .Leaves undivided , lengthened out at the base , smooth .",
+        "words": [
+          "Herb",
+          "fetid",
+          "narcotic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/74c45567-ae4d-50a7-abe9-bee31d6da8ad",
+        "value": "Another species , the Nectandra Puchury minor of Nees , is said also to yield seeds having similar qualities ; its bark is de - scribed as resembling Sassafras when fresh , but tasteless and scentless when dry .The cotyledons smell like Balsam of Peru .It yields the Sassafras nuts of the London shops according to Humboldt .",
+        "words": [
+          "smell",
+          "like Balsam of Peru",
+          "The cotyledons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/750ede5c-40fc-591d-9834-47514ebfc231",
+        "value": "Esenbeck this is the plant which furnishes the valuable Chinese Cinnamon .The agreeable but powerfully aromatic flavour and odour of the bark does not however seem to exist also in the leaves ; for they , in the stoves of Europe at least , are almost insipid , mucilaginous and somewhat as - tringent , with no taste of either Cinnamon or Cloves .Nees .",
+        "words": [
+          "agreeable",
+          "odour",
+          "powerfully aromatic",
+          "of the bark"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/75f54f42-ae15-5748-b90c-c59866dbd110",
+        "value": "It is employed in powder , in aqueous infusion or in syrup .Its most active principle is obtained by distillation in the form of a yellow volatile oil , which is lighter than water , and has a strong penetrating odour .943 .",
+        "words": [
+          "odour",
+          "strong penetrating"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/75fd765a-3964-55f5-9a91-014910fa126f",
+        "value": "When broken it is very powerfully aromatic , even after being kept twenty years , with a peculiar pepper - like flavour , rather too strong to be agree - able .Seeds numerous , enveloped in membranes formed of the dried pulp , roundish or somewhat angular , of a shining golden brown , minutely rough or granulated , extremely aromatic , hot and acrid .Smith .",
+        "words": [
+          "aromatic",
+          "acrid",
+          "extremely aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/76e1205a-b828-5e93-8e07-199ae1415ac7",
+        "value": "Lower lip of the corolla more or less notched , or slightly cloven .â   This herb is scarcely aromatic , but the fine rigid hairs , which cover the surface , cause it when powdered to produce sneezing .Hence Betony is generally made an ingredient in herb - snuffs .",
+        "words": [
+          "aromatic",
+          "This herb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/799bcc8c-5dae-5240-9ec1-69e17a80d91a",
+        "value": "Fruit oval , deep purple .â   Aromatic and astringent .In many parts of Greece , Italy and Provence the bark is used for tanning .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7bae8d5a-902d-57c4-9f84-d5a95125777e",
+        "value": "â   Southern parts of Europe and the islands of the Mediterranean .Rhizoma horizontal , knotty , very fragrant .Stem \\ - \\ \\ foot high .",
+        "words": [
+          "fragrant",
+          "very fragrant",
+          "Rhizoma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7cb1c2f9-a6c3-55f0-9fc3-53e1e06743ea",
+        "value": "Blume .â   Bark a deep cinnamon brown , more bitter than Culilawan bark ; and the leaves when rubbed have a very sharp aromatic odour .Blume says the bark deserves the serious attention of medical men , on account of its powerful effects in spas - modic colic , and the after - pains attending parturition .",
+        "words": [
+          "odour",
+          "the leaves",
+          "very sharp aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7cdbd38f-681e-55aa-b1c2-8cd7d0a721ec",
+        "value": "Fruits very small , pea - shaped , reddish when ripe .â   The sweet , fragrant stimulant resin called Mastich is obtained from the trunk by incisions made in the month of August .It is used to strengthen and preserve the teeth , in old obstinate gleet , chronic diarrhoea , & c .",
+        "words": [
+          "sweet",
+          "fragrant",
+          "stimulant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7d964745-6433-50e0-ace8-f23b4819a477",
+        "value": "Seed black , partly enclosed in a scarlet pulpy aril .â   The tree abounds in a fragrant , balsamic , glutinous resin , which is believed to furnish one of the sorts of Tacamahaca .348 .",
+        "words": [
+          "balsamic",
+          "fragrant",
+          "glutinous",
+          "glutinous resin"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7d9cb1c4-8130-56bb-ac38-6b558b8ed426",
+        "value": "1015 .Thymus vulgaris Linn , is fragrant and stimulating ; its essential oil is administered to remove flatulence .1016 .",
+        "words": [
+          "fragrant",
+          "Thymus vulgaris Linn"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/7e8a533f-4b3c-5bd9-aa01-335bb7126b98",
+        "value": "Panicle terminal , thyrsoid , loose , leafless , pubescent .Calyx - tube long , narrow , tomentose ; limb 5 - parted , pube - scent , rather membranous , with the segments acute .Corolla pubescent ; tube slender , funnel - shaped , rather more than 3 times the length of that of the calyx ; limb slightly spreading , with narrow acute segments , which are smooth , except near the margin .",
+        "words": [
+          "scent",
+          "tube",
+          "limb",
+          "Calyx",
+          "rather membranous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8002f5a8-4929-5b98-95d5-1e58c530c371",
+        "value": "It is the Gum Animi of the shops .It burns readily , emitting a fragrant smell , and has been employed by way of fumigation in attacks of spasmodic asthma , and other embarrass - ments of respiration .In solution , it is given internal ^ ' in doses of a tea - spoonful , as a substitute for Gum Guaiacum , for rheumatic and pseudo - siphilitic complaints , and employed externally as an embrocation .",
+        "words": [
+          "fragrant",
+          "smell",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/808fe69e-4a4e-5b02-91ff-552153ecbb15",
+        "value": "Fruit 2 lines long , much longer than the pedicels , nearly taper , but little contracted at the sides , fusiform , crowned by the short teeth of the calyx , densely covered with short rough hair upon the channels , less densely upon the ridges , which are paler , filiform , and a little raised .â   Fruits carminative as in other plants of the order , but the smell disagreeable .Chiefly used in veterinary surgery .",
+        "words": [
+          "smell",
+          "disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8339686c-633c-55a4-bae2-cf0294fec6fc",
+        "value": ") A tree , with a thick , straight , smooth trunk .Bark grey , coarse , com - pact , heavy , granulated , pale straw - colour inside , filled with resin which , according to its quantity , changes the colour to citron , yellow , red , or dark chesnut ; smell and taste grateful , balsamic and aromatic .Leaves pinnated ; leaflets alternate , of 2 , 3 , 4 or even 5 pairs , ovate - lanceolate , acute , coriaceous , at the apex somewhat emarginate , shining above , hairy on the underside , marked with transparent spots , the terminal one the same size as the others .",
+        "words": [
+          "balsamic",
+          "smell",
+          "aromatic",
+          "grateful"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8397bafe-bd47-5ab4-9274-0e219021efb4",
+        "value": "Petals 6 - 7 .â   Roots aromatic ; said by the Malays to have a purgative hydragogue property .Royle .",
+        "words": [
+          "aromatic",
+          "Roots"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/83cfd7e1-2d7b-5c34-ac02-d3b163d19730",
+        "value": "Capsule 1Â § inch long , a an inch in diameter , oblong , bluntly triangular , scarcely ovate , beaked , of a dark reddish - brown , ribbed , coriaceous , rough with minute deciduous bristly hairs .When broken it is very powerfully aromatic , even after being kept twenty years , with a peculiar pepper - like flavour , rather too strong to be agree - able .Seeds numerous , enveloped in membranes formed of the dried pulp , roundish or somewhat angular , of a shining golden brown , minutely rough or granulated , extremely aromatic , hot and acrid .",
+        "words": [
+          "aromatic",
+          "it",
+          "very powerfully aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/859e1199-426a-5e21-8173-73108de9de5a",
+        "value": ") Root woody , branched at the crown , with numerous fibres below .Whole herb covered with close silky hoariness , intensely bitter , to a proverb , with a peculiar , strong , aromatic , not disagreeable odour .Stems numerous , bushy , about a foot high , furrowed , leafy .",
+        "words": [
+          "strong",
+          "odour",
+          "aromatic",
+          "peculiar",
+          "not disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/85dad597-4eb6-500d-9556-4c085805dde3",
+        "value": "Water impregnated with the milky juice makes meat washed with it tender : the same effect is produced when meat is suspended among the branches of the tree ; it first becomes tender and then passes into a state of putridity .Vauqelin says that a sample of the juice which he examined had the smell and taste of boiled beef .The leaves are used by negroes to wash linen instead of soap , and the fruit is eaten as a vegetable .",
+        "words": [
+          "smell",
+          "he",
+          "of boiled beef"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/85e71a96-f118-598a-8742-f71f4607d343",
+        "value": "â   Skirts of the northern mountains of India .Root perennial , the principal parts thicker than a crow ' s quill , and marked with circular scars , from which issue many small , firm aromatic fibres .Culms erect , generally simple , from 3 to 6 feet high , smooth in every part , not hollow , but filled with a light spongy substance .",
+        "words": [
+          "aromatic",
+          "fibres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/867cbea0-4c88-55ba-adfb-75b67c7490ee",
+        "value": "Fruit 12 - 20 to each flower , knotted , cylindrical , brownish , with a deep furrow on one side .â   Fruit pungent , aromatic , employed by the Blacks in lieu of spice .MONODORA .",
+        "words": [
+          "Fruit",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/87d21da4-fc3f-59b7-8095-66690e6765ba",
+        "value": "Torrey .â   The whole plant is powerfully and agreeably fragrant .It is reported by French physicians to be a valuable expec - torant , and to have been employed with much advantage in catarrh and humoral asthma .",
+        "words": [
+          "fragrant",
+          "agreeably fragrant",
+          "The whole plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/88219acc-5c3e-51a7-98c5-e716a764683b",
+        "value": "Calyx hairy , pink , with narrow lanceolate segments .Flowers with a disagreeable alliaceous smell ; vexillum flesh - coloured , wings purple or violet , keel greenish white .Legume about 3 inches long , the thickness of the finger , closely covered with strong , brown , stinging hairs .",
+        "words": [
+          "Flowers",
+          "smell",
+          "disagreeable alliaceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/89d68608-1988-57c8-9ddd-7d0e474d2ab7",
+        "value": "Peduncles 1 - flowered , short , axillary .Flowers scentless , whitish , hanging on the tree a long time , at first ovate , then campanulate as fecundation proceeds , and afterwards ovate again .Fruit variable in size and form , globose , oval , or ovate ; its rind rough , brittle , dull brown ; flesh dirty white , very soft and deliciously sweet .",
+        "words": [
+          "Flowers",
+          "scentless"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8a369d1b-5468-5394-850e-1ed2acb25f1e",
+        "value": "â   The herb has a strong , peculiar and pleasant odour , with an aromatic bitter taste , followed by a sense of coldness when air is drawn into the mouth .It is an aromatic and carminative , and employed in flatulence and to relieve the pain of colic .Various preparations are ordered by Pharmacopoeias , of which oil of spearmint , and spearmint water are the most common .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8a3a9878-dfb6-56b6-8992-1050c92a318a",
+        "value": "( Bottle gourd .) The whole plant with a musky scent , and soft with down .Stem climbing ; tendrils 3 - 4 cleft .",
+        "words": [
+          "musky",
+          "scent",
+          "The whole plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8a723d5c-808a-5163-b9c4-56276603e52f",
+        "value": "Blume .â   This is the plant which furnished the principal part of the \" Folia Malabathri \" of the old pharmacologists , a mixture of the leaves of several species of Cinnamon , and once used as an aromatic substitute for Cinnamon .684 .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8c31f961-480c-5ade-bc7b-6085914a7120",
+        "value": "The leaves also are reckoned among the adulterations of tea in England .They possess , in fact , a portion of that peculiar aromatic flavour which exists in Spifaea Ulmaria , the American Gualtheria , and some other plants , and which resembles the 233 AMYGDALE / E .more delicate perfume of green tea .",
+        "words": [
+          "aromatic",
+          "flavour",
+          "peculiar aromatic",
+          "the American Gualtheria"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8cef33d7-0cc3-5da4-8a04-8a8018d15ac9",
+        "value": "Stig - mas 2 , awl - shaped , spreading , downy .Achenium attached to the base of each enlarged , membranous , dry scale of the catkin , roundish ; pericarp hard , brittle , covered by roundish aromatic superficial glands , or lupuline .609 .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8dc9bf2e-e389-52d2-bda2-9a47262b30ba",
+        "value": "Smith .â   Taste of the herbage and scent of the flowers aromatic ; a fragrant water , forming an agreeable aromatic beverage , may be distilled from the flowers .468 .",
+        "words": [
+          "water",
+          "fragrant",
+          "aromatic",
+          "scent",
+          "of the flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/8f1c6960-f33e-5697-b5c3-d7d78bb8e769",
+        "value": "Border double , each 3 - cleft .â   Called by the Bengalees , \" Amada , \" or Mango ginger , the fresh root possessing the peculiar smell of a fresh Mango .KiEMPFERIA .",
+        "words": [
+          "smell",
+          "peculiar",
+          "Mango",
+          "the fresh root",
+          "Amada",
+          "of a fresh Mango"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/905c0803-6a61-5992-8690-8a990d637527",
+        "value": "( Dead - tongue , Hemlock - dropwort .) Root of many fleshy knobs , abounding with an orange - coloured , fetid , very poisonous juice , which also exudes less plentifully from all parts of the herb , when wounded .Stem from 2 to 5 feet high , much branched , somewhat forked , leafy , round , furrowed , hollow .",
+        "words": [
+          "fetid",
+          "juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/90697d69-ac51-51f2-8632-7ade7b6fff03",
+        "value": "Ovary 4 - 6 - celled ; ovules numerous ; style short ; stigma obtuse .Capsules ovate or subglobose , 3 - 6 - celled , coriaceous , indehi - scent , with an umbilicated eye , formed of the remains of the calyx .Seeds a few in each cell , ovate , with a coriaceous integument , suspended by a long plaited cord to a central column .",
+        "words": [
+          "scent",
+          "-",
+          "coriaceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/908b110d-6011-5a46-a461-3f0e6def8c56",
+        "value": "Leaves spring up sometime after the flowers , nu - merous , large , crowded , oblong heart - shaped , acute , smooth , with numerous fleshy veins of a pale colour ; on long channelled petioles , furnished with large oblong sheaths .â   This plant emits a powerful offensive odour ; its tubers are acrid ; but when dried and powdered are antispasmodic .An excellent remedy in asthma , catarrh and chronic coughs .",
+        "words": [
+          "odour",
+          "This plant",
+          "powerful offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/90ebd36f-62b3-5083-9b4b-1046df40fafb",
+        "value": "The bark is febrifugal and emetic .It has a nauseous smell , and is excessively bitter and disagreeable .Dr .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "nauseous",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/91fa2f5c-8ced-5a9e-888b-22cfa21bb949",
+        "value": "â    â   This tree produces one of the two sorts of Calambac , Eagle - wood , or Lign - aloes , a fragrant substance , which Loureiro states consists of a concre - tion of the oily particles into a resin in the centre of the trunk ; it is brought on by some disease , and the tree in time dies of it .The aromatic fragments are taken out of the trunk .Of all perfumes the most grateful to Oriental nations ; \" stimulant , corroborant , cephalic , cardiac .",
+        "words": [
+          "aromatic",
+          "fragments"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/92ecec45-78a4-5b9b-af82-b6423ab828c7",
+        "value": "Ripe fruit small , marked at the vertex by a circular scar denoting the place from which the limb of the calyx fell ; very much like a small fig .â   Inner bark and the rind of the calyx of a most sweet odour and agreeable taste , resembling Cinnamon mixed with Orange - flowers , or oil of Bergamot .* Nees v .",
+        "words": [
+          "odour",
+          "most sweet",
+          "Inner",
+          "or oil of Bergamot",
+          "resembling Cinnamon mixed with Orange - flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9333239c-2ba2-5cc9-8bb1-f052651b7f8f",
+        "value": "Fruit 3J lines long , pale clay colour , oblong , with the ridges sharp , thin , elevated , and rather hard , the dorsal ones approximated and forming rounded channels between them .â   Root fragrant , bitterish , pungent , sweet when first tasted , but leaving a glowing heat in the mouth .\" The Laplanders extol it not only as food but medicine .",
+        "words": [
+          "Root",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/934b67b7-09e8-53c5-aaec-7b303c9b6d95",
+        "value": ") Root creeping .Herb more or less woolly or cottony , glutinous , with a peculiar acid aromatic scent , somewhat like the flavour of 456 PULICARIA .peaches .",
+        "words": [
+          "Herb",
+          "scent",
+          "glutinous",
+          "peculiar acid aromatic",
+          "like the flavour of 456 PULICARIA"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/93751029-597e-5088-b853-ca51662c8d29",
+        "value": "Tube of the corolla slender , not drawn down over the neck of the ovary .â   The flower - heads are extremely fragrant when dry , and are sold in the shops of Cairo as a substitute for Chamomile , under the name of Babouny or Zeysoum .Forskahl says the fresh juice of the plant is applied in affections of the eyes ( oculis dolentibus ) .",
+        "words": [
+          "fragrant",
+          "extremely fragrant",
+          "The flower - heads",
+          "Babouny",
+          "Zeysoum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/93d065dd-562f-5bf3-bddf-cb443d7f11f5",
+        "value": "Stems several , branched , spreading or prostrate .Whole herb of a dull greyish - green , covered with a greasy mealiness , which , when touched , exhales a strong , permanent , nauseous odour , like stale salt - fish .Leaves stalked , acute , entire , ovate , or slightly rhomboid , not an inch long .",
+        "words": [
+          "strong",
+          "odour",
+          "nauseous",
+          "permanent",
+          "like stale salt - fish",
+          "Whole herb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/94b6a45e-4a0a-5d6f-bef9-81ee599e77c9",
+        "value": "95 Dry hills in the southernmost parts of Europe .A shrub , with evergreen leaves , emitting a balsamic odour when rubbed , or after damp warm weather in the summer .Leaves spathu - late ovate and oblong , somewhat downy , hairy , dull green , somewhat wavy at the edge , stalked ; petioles furrowed , nearly distinct .",
+        "words": [
+          "balsamic",
+          "summer",
+          "in",
+          "odour",
+          "in the",
+          "the summer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/95285344-9735-5566-a921-8dd69b16c9b3",
+        "value": "Flowers white with green veins , on panicled axillary stalks , male on one plant , female on another , when young but when old becoming monoecious .Berries small , scarlet , fetid when bruised .â   Root acrid and purgative , owing to the presence of an extractive matter called Bryonine .",
+        "words": [
+          "fetid",
+          "Berries"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/95f408dc-f465-53f9-a4af-ba375a653efe",
+        "value": "â   The roots yield the Bdellium siculum of the old Pharmacopceias , according to Boccone .It has a bitter balsamic taste and a weak but unpleasant odour .N .",
+        "words": [
+          "weak",
+          "odour",
+          "unpleasant",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/966c9f43-b6d2-53ff-b1a2-952298e0af35",
+        "value": "the edge , glaucous , shorter than the stem .Flowers large , fragrant , pale bluish white , bearded ; their tube scarcely so long as the ovary .Petals full 2 inches long , and 1 inch broad , obtuse , somewhat converging , reflexed at the edge , rather plaited towards the base .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/96afdcfc-c0cc-5bcd-903d-f4c6a0745e43",
+        "value": "Umbels from the intermediate spaces between the leaves , solitary , stalked , simple , downy .Flowers white , with a musky scent .Berries globular , black ; sometimes as it is reported yellow .",
+        "words": [
+          "musky",
+          "scent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/98c45a0d-d659-5889-ae23-32b80b9b1983",
+        "value": "â   The bark , called Winter ' s bark , is aromatic with a warm and pungent taste .It acts as an aromatic tonic .Under the name of \" Casca d ' anta , \" it is much used in Brazil against colic .",
+        "words": [
+          "aromatic",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/98ff0651-9cf4-5587-b57d-00c8cf85436f",
+        "value": "â   Various preparations of the boiled root , mixed with sugar , have been recommended to promote expectoration , and to strengthen the stomach .Some think a spirituous extract contains most of its aromatic and tonic properties .The plant is generally kept in rustic gardens , on account of many traditional virtues .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9af016c8-d3eb-549f-a0e4-26996c5a462b",
+        "value": "Cups waited , trun - cated , with 2 furrows at the edge .â   Seeds aromatic .Their oily cotyledons are employed in powder mixed with wine or water , in cases of indigestion .",
+        "words": [
+          "aromatic",
+          "Seeds"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9bfbf88e-7efe-5d95-a97f-1f728f530473",
+        "value": "Stigmas capitate .â   Wood perfumed , smelling strongly of roses , yellowish lawn colour veined with 400 BREWERIA .red , burning readily when lighted .",
+        "words": [
+          "Wood",
+          "smelling",
+          "strongly",
+          "perfumed",
+          "of roses"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9c2702f9-433a-5549-a5c9-b4d648f9f89c",
+        "value": "( Sweet Willow .) A handsome upright tree , about 15 or 20 feet high , exhaling a fragrant bay - like scent from the resinous notches of its leaves , as well as from the barren catkins .The branches are smooth and shining .",
+        "words": [
+          "bay",
+          "fragrant",
+          "scent",
+          "like",
+          "from the resinous notches of its leaves",
+          "from the barren catkins"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9c58d254-e8b8-5676-857b-6b9f2dbc7c4a",
+        "value": "Seeds dotted .â   Perennial or suffrute - scent herbaceous plants .Leaves alternate , exstipulate , pinnated , or decompound , with pellucid dots .",
+        "words": [
+          "scent",
+          "herbaceous plants",
+          "Perennial",
+          "suffrute"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9cbd3ed7-09a5-5dcd-9b71-b9ae172d1fd8",
+        "value": "Sepals ovate obtuse .Petals blue , or white , sweet scented ; spur very blunt .Stigma hooked , naked .",
+        "words": [
+          "scented",
+          "sweet scented",
+          "Petals"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9d130646-96fb-5512-9e7a-509b15bc1ece",
+        "value": "â   One of the plants whose leaves are collected in South Africa by the Hottentots under the name of Bucku .They are found to be an excellent aromatic stomachic and very efficacious as a diuretic .The infusion is much praised as a remedy in chronic inflammations of the bladder and urethra and in chronic rheumatism .",
+        "words": [
+          "aromatic",
+          "They",
+          "excellent aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9efba4c4-af9e-561c-a99b-0b1f6924b7e8",
+        "value": "Fruit didymous , compressed , broad , ovate , with five scabrous ridges on each side .â   The fruit lias an aromatic smell , and warm pungent taste .One of the most useful and grateful of the umbel - liferous tribe .",
+        "words": [
+          "smell",
+          "aromatic",
+          "The fruit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9f014639-a834-544d-8313-7a7d0988e022",
+        "value": "( Kalumb or Calumba .) Root perennial , composed of a number of fasciculated , fusiform , somewhat branched , fleshy , curved , and descending tubers , of the thick - ness of an infant ' s arm , clothed with a thin , brown epidermis , marked , towards the upper part especially , with transverse warts ; internally they consist of a deep yellow , scentless , very bitter flesh , filled with numerous , parallel , longitudinal fibres or vessels .Stems annual , her - baceous , 1 or 2 proceeding from the same root , about the thickness of the little finger , twining , simple in the male plant , branched in the female , rounded , green ; in the full - grown plant , below , thickly clothed with succulent longitudinal hairs , which are tipped with a gland .",
+        "words": [
+          "they",
+          "scentless"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9f8a0a5a-0e69-5ab4-9fd0-f9c3c646b1a0",
+        "value": "Partial um - bels capitate , roundish .â   Yields a blackish or dull brown resin with a very powerful aromatic camphorated smell .60 GROSSULACE ^ l .",
+        "words": [
+          "smell",
+          "very powerful aromatic camphorated"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/9fe76bfa-fd22-59ad-918f-5a095426189c",
+        "value": "Fruit the size of a very large pea , ovate , black , covered with a succulent coat .â   Leaves and fruit are both aromatic ; the latter enter into the composition of the emplastrum cumini of the London Pharma - copoeia .The fixed oil is sometimes employed externally as a stimulant .",
+        "words": [
+          "fruit",
+          "aromatic",
+          "Leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a0409738-3128-55c3-91bc-31463278518f",
+        "value": "Employed in cardialgia , colic , cramp in the limbs , torpor of the intestinal canal , & c .The Hindoos use the roots as a perfume , as well as medicinally .Aromatic , stomachic , carminative , similar in properties to Ginger but less efficient - M .",
+        "words": [
+          "perfume",
+          "the roots"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a0d71155-0ca3-50be-a0be-5bb60de2ff5d",
+        "value": "From 2 drachms to an ounce of the flowers freshly gathered and quickly dried should be gently boiled and the patient allowed to drink of the decoction ad libitum .Some aromatic , as anise or cinnamon , is added to the decoction .The remedy appears to cause the excretion of urine in a direct manner .",
+        "words": [
+          "anise",
+          "cinnamon",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a0da1ad0-f2d1-5a5d-b44d-6c17385d0185",
+        "value": "Its powder acts upon the respiratory pas - sages as an irritant , producing spasmodic asthma .In some cases the mere odour of the root seems sufficient to excite difficulty of breathing , with a feeling of suffocation .Pereira .",
+        "words": [
+          "odour",
+          "mere",
+          "of the root",
+          "with a feeling of suffocation",
+          "sufficient to excite difficulty of breathing"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a141e563-0de3-5d50-9f4a-316c07889535",
+        "value": "Blume .â   Rhizomata tuberous , flexuose , with an agreeable smell resembling that of ginger , and a hot bitter aromatic flavour .Not now used ( Radices Zerumbethi Offic ) .",
+        "words": [
+          "agreeable",
+          "smell",
+          "resembling that of ginger",
+          "Rhizomata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a1a8097e-6c6b-5710-821f-56f828e3edbd",
+        "value": "Near the summit of the peduncles is a bractea , reflexed when the flower is full blown , subcordate , acute , about 12 - veined , green , curled and wavy at the margin , slightly variegated with yellowish red .Flowers fragrant ; when beginning to expand , white , marked with purplish - brown spots ; afterwards yellow and the spots brighter red .Calyx monoph yllous , tube very short , limb deeply cleft into 3 unequal sepals , their margins crisped and waved ; the sepal opposite to the bract being shorter and narrower than the other two , which are somewhat coriaceous and ovate - acute .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a20c3e82-2825-52dc-b08f-ba1f5b9882f1",
+        "value": "â   Cyprus turpen - tine is obtained from the trunk by incision .When pure this is very thick , yellowish , sweet - scented , resembling Lemon or Fennel in some degree , with an agreeable and by no means acrid taste .Follicular horn - like galls are produced on this species in the South of Europe , which have been used according to Clusius in the manufacture of a \" sanative and glutinous \" balsam .",
+        "words": [
+          "scented",
+          "resembling Lemon or Fennel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a26cb93e-a813-501a-ba52-1b6b984e251d",
+        "value": "Zerumbet .Flowers small , bright yellow , rather longer than their bracts , fragrant .Tube of the corolla slender , its mouth completely shut with 3 villous yellow glands .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a35b509b-49e9-5e0e-89f2-05750b229e6d",
+        "value": "Used in tincture against chronic rheumatism .Macerated in water it forms an intoxicating beverage , of which the Otaheitans make use to cure venereal affections ; they make themselves drunk , after which very copious perspiration comes on ; this lasts three days , at the end of which time we are told that the patient is cured .643 a .",
+        "words": "intoxicating"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a55e73e9-8339-5275-ba11-a85e91203832",
+        "value": "Fruit light brown , linear - ovate , compressed , with a slightly elevated ridge on one side , terminated by the permanent calyx , whose limb has unrolled into 12 filiform plumose recurved segments , crowning it like pappus .â   The aromatic or rather fetid roots are stimulant , not only acting upon the secretions , but producing a specific influence over the cerebro - spinal system , bringing on , as is well known , a kind of intoxication in cats , and in large doses occasioning in man scintillations , agitation , and even convulsions .It is chiefly employed in asthenic fevers , epilepsy , chorea , hysteria , and as an anthelmintic .",
+        "words": [
+          "fetid",
+          "aromatic",
+          "roots",
+          "rather fetid",
+          "occasioning in man scintillations , agitation , and even convulsions",
+          "a kind of intoxication in cats"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a683fa5a-ebb6-5864-a5cb-c03ffe9d9497",
+        "value": "Vittae one under each secondary ridge , and 2 on the plane of the commissure .â   A poultice for correcting the fetid discharge , allaying the pain and changing the action of ill - conditioned , phagedenic , sloughing and cancerous ulcers , is prepared from the root .Fruit carminative ; but supposed to act more particularly on the urinary organs .",
+        "words": [
+          "fetid",
+          "discharge",
+          "allaying the pain"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a6ed1bb1-9692-5624-a91f-29e09d1ec656",
+        "value": "â   Dry grassy places in Curacao .A small tree , or rather large bush , with a slight unpleasant odour .Leaves ternate , shining , on a stalk about an inch long ; leaflets obovate , wedge - shaped at the base , entire , obtuse , the middle one the largest .",
+        "words": [
+          "odour",
+          "slight unpleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a6f3c0a0-cb7e-586a-88fe-94cc68554909",
+        "value": "Mr .William Anderson , the gardener there , states that the roots , when 3 years old , being ac - cidentally uncovered , were found as thick as the wrist , and brittle ; and when examined at Apothecaries ' Hall were found to possess the peculiar colour and odour of the best Turkey Rhubarb .R .",
+        "words": [
+          "odour",
+          "William",
+          "of the best Turkey Rhubarb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/a8d32296-dda8-5402-88c4-55dc8104abba",
+        "value": "( Guineahen weed .) A small bush with a powerful and disagreeable alliaceous odour .Stem straight , erect , but little branched , deep green , striated , downy .",
+        "words": [
+          "odour",
+          "powerful and disagreeable alliaceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/aa16a9da-ab41-5f24-a754-a5752d66de99",
+        "value": "Leaflets wedge or fan - shaped , entire at the base , the upper or outer margin variously jagged and lobed ; when barren sharply serrated , when fertile with each segment terminated by a roundish , flat , brown , thin indusium .â   The rhizoma , which is slightly astringent and aromatic , is considered pectoral ; but the decoction if very strong is reported to be emetic .Mixed with syrup it forms Capillaire .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/aa7e96b3-ffba-5810-90fc-10c452ba62bc",
+        "value": "28 â   Bengal .All the parts have a pleasant aromatic smell when bruised , especially 561 o o ZINGIBERACEjE .the tuber , which consists of several , erect , solid , conical , pale straw or pearl - coloured , powerfully aromatic fangs , which gave support to the for - mer years ' foliage , and are strongly marked with the circular scars thereof j from their opposite sides , the scapes and stems of the succeeding year spring , which form similar new tubers when those of the former year decay ; but during their existence , there issues round their lower half , a number of strong fleshy fibres , many of which end in ovate , or sub - cylindrical , pale , white slightly aromatic tubers , which also perish with the original parent .",
+        "words": [
+          "smell",
+          "pleasant aromatic",
+          "All the parts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ab2d8911-5d12-5237-b6ab-42c886cb652b",
+        "value": "â   Woods of Brazil , Cayenne , Peru , and some of the West India Islands .Root perpendicular , round , branched , as thick as the thumb , with a strong acrid fcetid smell when fresh , when dry having at first some - thing the taste of coffee , but afterwards acrid and nauseous , stimulating the flow of saliva .Stems weak , erect , 6 - 10 feet high .",
+        "words": [
+          "smell",
+          "nauseous",
+          "acrid",
+          "afterwards",
+          "strong acrid fcetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ab8f0d24-44ab-5d9c-8af8-636c2070ea9a",
+        "value": "He calls the former Illicium religiosum .The fruit is aromatic and carminative , and by distillation yields an oil which has most of the properties of oil of anise , for which it is often substituted .It is chiefly used in the fabrication of liqueurs .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ad2fdfa0-c08e-5ae7-b43b-09068f1aa518",
+        "value": "â   Mr .William Hamilton from whom the above imperfect account is taken says that this plant produces the fragrant fennel - scented substance called Gum Elemi , on Nevis .He adds that it is a large tree yielding a fragrant re - sinous juice which flows in abundance when the smooth ash - coloured bark is wounded .",
+        "words": [
+          "substance",
+          "scented",
+          "this plant",
+          "Gum Elemi",
+          "fragrant fennel"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ad4293d3-677e-5ae7-954d-4959d52d722b",
+        "value": "The Hindoos use the roots as a perfume , as well as medicinally .Aromatic , stomachic , carminative , similar in properties to Ginger but less efficient - M .Fee still refers the Zedoaria rotunda to Kaempferia rotunda , notwithstanding the express declaration of Roxburgh that the tubers of that plant possess little or nothing of the sensible properties of Zedoary .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/af2a87a1-a0c7-5828-a914-f4e2cfdc2f3f",
+        "value": "â   Straits of Magellan , Chili , Peru , New Grenada .An aromatic tree from 6 to 40 feet high .Branches scarred by the traces of fallen leaves .",
+        "words": [
+          "tree",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b0e386e9-9f75-56fa-a726-5767822d8d65",
+        "value": "An annual .Stem round , erect , 2 - 3 feet high , covered with fetid glutinous hairs .Leaves stalked , roundish ovate , entire , sometimes rather cordate .",
+        "words": [
+          "fetid",
+          "glutinous hairs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b10ab68d-591f-5e80-80c3-61e88046bdbc",
+        "value": "The young unripe fruit dried and turned in a lathe are the issue peas of the shops .The rind is a mild tonic and aromatic ; large quantities are said to be sometimes productive of mischief .Juice refreshing in fevers .",
+        "words": [
+          "aromatic",
+          "The"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b2403a0a-ecb9-52bc-9c17-479c78cc1c73",
+        "value": "sativa L ., the common Lettuce , yields a milk which when inspissated resembles opium in appearance , smell , and effects .It has been said to procure calm and sleep , without some of the ill effects of opium .",
+        "words": [
+          "smell",
+          "resembles opium",
+          "a milk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b2cf597d-812a-56d0-942f-11ad0146f627",
+        "value": "Flowers panicled , white .Drupes abounding in aromatic oil .576 .",
+        "words": [
+          "oil",
+          "aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b3ef6085-ffa3-5ed9-bed5-8ccdeffe97fe",
+        "value": "All the parts have a pleasant aromatic smell when bruised , especially 561 o o ZINGIBERACEjE .the tuber , which consists of several , erect , solid , conical , pale straw or pearl - coloured , powerfully aromatic fangs , which gave support to the for - mer years ' foliage , and are strongly marked with the circular scars thereof j from their opposite sides , the scapes and stems of the succeeding year spring , which form similar new tubers when those of the former year decay ; but during their existence , there issues round their lower half , a number of strong fleshy fibres , many of which end in ovate , or sub - cylindrical , pale , white slightly aromatic tubers , which also perish with the original parent .Leaves bifarious , broad - lanceolate , cuspidate , smooth , strongly marked with parallel veins ; of a uniform dark green , with the nerves or ribs red , from 12 to 24 inches long , by 5 or C broad .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b410447d-2f79-5a44-ad7d-3695daf2bc7f",
+        "value": "Ovaries 12 or more , roundish - rhomboidal , compressed , and arranged in a circular manner ; styles short , recurved , pubescent on the inside .â   Bark and leaves aromatic and spicy ; effects analogous to those of other aromatic barks .57 .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b493f422-bd40-5e8b-8ec8-16fcdb7ee52e",
+        "value": "( Common carrot .) Root slender , yellowish , aromatic and sweetish , resembling the Garden Carrot , which is only a cultivated variety .Stem 2 or 3 feet high , branched , erect , leafy , hairy or bristly .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b5dd4b0c-8e72-58b1-a3c2-7b9451891b34",
+        "value": "â   All parts of the tree when fresh are hot aromatic and pungent .Bark yields by distillation a warm aromatic oil reckoned carminative and stomachic .It is often mixed with oil of cloves , in the West Indies .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b74f37c2-7ed3-5aea-9a50-f07bd7ceca3c",
+        "value": "The wood makes the best of all charcoal .The leaves when bruised have a smell resembling that of savine , and the infusion , of either them or the flowers , is considered a powerful emmenagogue , so as even to bring on abortion .The leaves are also said to be purgative , and to have been used as a substitute for senna .",
+        "words": [
+          "them",
+          "smell",
+          "the flowers",
+          "The leaves",
+          "resembling that of savine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b76032a4-955e-5dd8-b982-3dafc5a775ee",
+        "value": "lower spreading , 2 - parted , with bifid lobes .â   According to Roxburgh the roots of this plant have an agreeable fragrant smell , and a some - what warm bitterish aromatic taste ; but they are unknown in London , although used medicinally by the Hindoos .It does not produce the Galanga major of druggists , and seems to have no other right to its specific name than what it derives from its supposed identity with the Katsjula Kelengu , of Rheede ( xi .",
+        "words": [
+          "smell",
+          "in London",
+          "agreeable fragrant",
+          "the roots of this plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b872edaa-44f9-5e2b-8c31-a2127b53565b",
+        "value": "Petals hairy at back .â   The fruits are aromatic with a warm agreeable flavour , and a smell like that of marjoram .They were used in the preparation of Diaphcenix , Venice treacle , and compound syrup of wormwood .",
+        "words": [
+          "smell",
+          "aromatic",
+          "The fruits",
+          "like that of marjoram"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b8ec0f18-5423-5d2f-8296-810bc8ca027b",
+        "value": "105 .by some said to yield cajuputi oil , is asserted by Roxburgh to possess little or no fragrance in its leaves , and not be ever employed , as far as he could discover , in the distillation of that drug .PUNICA .",
+        "words": [
+          "in",
+          "little",
+          "fragrance",
+          "Roxburgh"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b8ec8266-150b-5ebc-89ce-a2d1b740e759",
+        "value": "â   Leaves and roots said to be purgative and emetic .They have a bitter taste , and a heavy disagreeable smell .A decoction of the leaves is used by farmers to cure the scab in swine .",
+        "words": [
+          "smell",
+          "They",
+          "heavy disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/b93d2f87-356a-5ca2-bd83-a4efd30fd62f",
+        "value": "Stem straight , wand - like , leafy , mostly simple , roundish , with several slight angles , downy , 3 or 4 feet high , leaves alternate , ovate or elliptic - oblong , crenate , downy , rugged and veiny , of a dull green ; tapering at the base into winged footstalks ; radical ones largest .Raceme terminal , 1 - sided , erect , simple , of numerous , sometimes 60 , large , pendulous , scentless , crimson flowers ; elegantly marked with eye - like spots , as well as hairy , within .Smith .",
+        "words": [
+          "scentless",
+          "crimson flowers",
+          "pendulous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/bb759a7a-1fa0-59bb-82a2-837bfeef5c1d",
+        "value": "Flowers sub - sessile , in axillary clusters .Corolla with a reddish tube , and a white limb , villous on the upper side ; the throat being stopped with hair ; with the perfume of Jasmine flowers .â   A decoction of the bark , reduced to the thickness of jelly is used by the Hottentots to envenom their weapons .",
+        "words": [
+          "perfume",
+          "of Jasmine flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/bd219c3d-6beb-5dab-a3e8-1d7c22aa49f5",
+        "value": "DC .â   The thick , fleshy , strong scented root is used in medicine in Nepal and the North of India .Royle ' s lecture , 82 .",
+        "words": [
+          "scented",
+          "root",
+          "strong scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/be3f9d9b-3ffb-5953-b100-d1a5ccee772e",
+        "value": ") A large tree .Branches smooth , round , deep brown ; buds acuminate , smooth , covered in the spring with an abundance of fragrant viscid bal - samic juice .Leaves ovate - oblong , quite smooth , with fine glandular serratures , deep green above , almost white , but smooth underneath .",
+        "words": [
+          "fragrant",
+          "viscid bal - samic juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/be83dbe4-0c83-5fd4-bab9-9dcfcf7222a1",
+        "value": "Ovary inferior , somewhat hexagonal ; style conical , striated , parted at top into 6 recurved , radiating stigmas .â   Rhizoma agreeably aromatic , very unlike that of A .europaeum .",
+        "words": [
+          "aromatic",
+          "Rhizoma",
+          "agreeably aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/bf1beb5b-9147-5800-85c2-5423e426787c",
+        "value": "Spikes in a terminal panicle or axillary , and then generally undivided , downy .Flowers numerous , small , dull white , in smell offensive ( as inmost , if not all the other species , ) all hermaphrodite .Bracts solitary , subulate , downy , 1 - flowered .",
+        "words": [
+          "Flowers",
+          "offensive",
+          "smell",
+          "hermaphrodite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c0a1b2a2-ac0a-5270-a2b4-1c06c8845288",
+        "value": "( Common Valerian .) Root tuberous , somewhat creeping , fetid , most aromatic when grow - ing in dry pastures .Stem about 4 feet high , furrowed .",
+        "words": [
+          "Root",
+          "fetid",
+          "aromatic",
+          "most aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c0d84580-197a-5a8c-8c26-f79d3f4edf6c",
+        "value": "Benth .â   The herb has a strong , peculiar and pleasant odour , with an aromatic bitter taste , followed by a sense of coldness when air is drawn into the mouth .It is an aromatic and carminative , and employed in flatulence and to relieve the pain of colic .",
+        "words": [
+          "strong",
+          "odour",
+          "peculiar",
+          "pleasant",
+          "The herb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c1137685-37a8-5149-9482-97d9235452ce",
+        "value": "( Figwort .) Herbage nearly or quite smooth , fetid like Elder when bruised .Root whitish , tuberous , beset with fleshy knobs .",
+        "words": [
+          "fetid",
+          "Herbage",
+          "like Elder"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c1462f7c-791f-57fc-8283-159222378910",
+        "value": "Stalk like the leaves , except being thicker below the spadix , and not quite so tall .Spadix about a foot above the root , a little spreading , 2 or 3 inches long , tapering , covered with a mass of very numerous , thick - set , pale green flowers , which have no scent , except when bruised .A very narrow wavy membrane may be observed at the base of the spadix , which must be taken as the rudiment of a spathe .",
+        "words": [
+          "scent",
+          "which",
+          "pale green flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c2256f6e-cba0-5f0f-acea-a14394adb29c",
+        "value": "Capsule 2 - locular , loculicidal , com - pressed .Seeds pendulous from the apex of the cells , pube - scent , with a carunculate arillus at the hilum : albumen abundant , fleshy .Shrubs or herbaceous plants .",
+        "words": [
+          "scent",
+          "Seeds",
+          "pube"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c47bf169-fb5d-5784-a686-4ba26ddf11e7",
+        "value": "( Sweet fern .) A small bush , 3 - 4 feet high , yielding a powerful aromatic fragrance when rubbed .Leaves long , linear , pinnatifid , browji and rather downy on the under side , shining on the upper , the lobes almost in the form of a right angled triangle the apex of which has been rounded off ' with the perpendicular next the upper end of the leaf .",
+        "words": [
+          "fragrance",
+          "powerful aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c5790042-8117-57e7-bb02-6a0770414ad6",
+        "value": "Seed single .â   The fruit has a strong aromatic smell , and tastes like Garden cress .The bark of the root is remarkably acrid ; bruised and applied to the skin it soon raises blisters , for which the natives of India often use it .",
+        "words": [
+          "smell",
+          "strong aromatic",
+          "The fruit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c5d15cf8-2870-5a6c-a775-8142655acc21",
+        "value": "Half - fruits elliptical ; the wings as broad as the dorsal crested ridges .Smell of the fruit hircine ; root acrid .â   The root is reckoned by the Neapolitans one of their best remedies against the itch .",
+        "words": [
+          "Smell",
+          "root",
+          "of the fruit hircine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c775510a-21f4-52a3-aab3-299f7fad09a1",
+        "value": "Flowers green .â   All the plant has an agreeable penetrating smell .It has been used with advantage in the treatment of nervous diseases , and Plenck commends it in chorea .",
+        "words": [
+          "smell",
+          "agreeable penetrating",
+          "All the plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c78393cd-bb77-5e4f-a6d2-385a53bcd0d8",
+        "value": "Capsules stipi - tate , oval , covered with excavated dots , varying from green to red , 2 - valved , 1 - seeded ; the seed oval , blackish .â   Bark slightly aromatic with a strong pungency ; leaves more aromatic resembling those of the lemon in smell .Has a good deal of reputation in North America as a remedy in chronic rheumatism ; generally given in decoction .",
+        "words": [
+          "smell",
+          "leaves",
+          "more aromatic",
+          "slightly aromatic",
+          "those of the lemon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c804a0b1-9af4-5352-af78-6b39dbf2db82",
+        "value": "( Bur - net Saxifrage .) Root tough and woody , highly aromatic and pungent , not unpleasant .Stems from 1 to 2 feet high , solid , round , striated , very slightly downy , branched .",
+        "words": [
+          "aromatic",
+          "highly aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c866e584-0156-568d-956d-38ce00ea7105",
+        "value": "Don ' s account ; what regards the fruit has however been drawn up from an examination of a couple of mericarps , for which I am indebted to that gentleman .â   The stem and fruits yield a great abundance of the fetid gum resin Ammoniacum ; its action is similar to that of Asafoetida .It is chiefly employed as a discutient and expectorant .",
+        "words": [
+          "fetid",
+          "gum resin Ammoniacum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c939e6f1-a9da-5658-a656-5644cf2471ec",
+        "value": ") Root perennial .Stem erect , smooth , about 3 feet high , simple , flexuose , emitting an Elder - like disagreeable smell when bruised , tumid and polished at the nodes .Leaves alternate , smooth , roundish - ovate , entire , obtuse , reniform at the base , with pedate veins ; petiole as long as the lamina , furrowed , smooth .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "an Elder - like"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/c960194d-3532-548b-9b00-f350a6fb233b",
+        "value": "Corolla with the lower lip large , entire ; upper lip shorter , 4 - parted .â   In India a decoction of the aromatic leaves helps to form the warm bath for women after delivery ; bruised they are applied to the temples for headach ; pillows stuffed with them are put under the head to remove a catarrh and the headach attending it .Roxb .",
+        "words": [
+          "the",
+          "aromatic",
+          "leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ca8a750e-97c1-58f6-ac5d-a86e25a7addb",
+        "value": "( Sulphur wort , Hog ' s fennel .) Herb smooth , 3 or 4 feet high , with a resinous juice , and a strong sulphureous smell .Leaves 4 or even 5 times ternate with linear - lanceolate acuminate flaccid segments .",
+        "words": [
+          "smell",
+          "strong sulphureous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cb845e52-27e0-56f2-84ea-e00e84890adc",
+        "value": "â   This herb is scarcely aromatic , but the fine rigid hairs , which cover the surface , cause it when powdered to produce sneezing .Hence Betony is generally made an ingredient in herb - snuffs .The root is said to be emetic and purgative .",
+        "words": [
+          "snuffs",
+          "Betony"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ccb89b23-14ee-5530-987e-ac2d398d48ee",
+        "value": "It is often mixed with oil of cloves , in the West Indies .In this country it is principally employed as an aromatic addition either to tonics or purgatives in debilitated conditions of the digestive organs .Canella bark has also been employed in scurvy .",
+        "words": [
+          "aromatic",
+          "it"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cd074d24-6b2d-51ed-9211-12fd4dd8e125",
+        "value": "Panicles terminal , large , generally with the lower ramifications decus - sating .Flowers fascicled , small , greenish - white , exceedingly numerous , exquisitely fragrant .Calyx superior , 5 - toothed .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "exquisitely fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cd1c8145-ec54-570c-97f6-9bdabe28066c",
+        "value": "Many plants belonging to the genera Uvaria , Unona , & c .are medicinally employed in Java , and have powerful aromatic stimulating properties .But Blume remarks that they require to be used with caution , as they are apt to produce vertigo , haemorrhage , or even abortion in pregnant women .",
+        "words": [
+          "aromatic",
+          "powerful aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cd429bd2-742b-5f45-b70c-2e7f48481839",
+        "value": "Peduncles axillary , short , clustered .Corolla white , tubular , sweet - scented , with a spread - ing 5 - cleft limb .Anthers protruded .",
+        "words": [
+          "sweet",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cdb55b03-aa2b-5023-941a-8e22a7d2d717",
+        "value": "Flowering stem about 3 feet high .â   According to Guibourt the root of this is bitter , astringent , and aromatic ; when chewed mucilaginous and not at all gritty ; the smell like that of rhubarb , but more dis - agreeable .It is cultivated in large quantities at a place called Rheumpole , near Lorient in the department of Morbihan .",
+        "words": [
+          "smell",
+          "more dis - agreeable",
+          "like that of rhubarb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cea1fb2a-7aba-52c7-b635-cd63b2c787aa",
+        "value": "Leaves on long stalks ; leaflets rather glaucous , ternate , nearly sessile , oval , mucro - nulate , a little downy on the underside , the terminal one larger than the others ; petioles and subulate stipules downy .Racemes pendulous , 6 inches long , terminal , many - flowered , fragrant , downy .Calyx cam - panulate , oblique , pushed inwards at the base , downy .",
+        "words": [
+          "fragrant",
+          "Racemes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/cf501430-05b0-5e7e-87e2-709df492c13c",
+        "value": "Corymb terminal , few - flowered .Corolla hypocrateriform , white , very sweet - scented , with a slender tube J of an inch long ; limb spreading , flat , about the same length , with obovate segments .Follicles very long and slender .",
+        "words": [
+          "scented",
+          "very sweet",
+          "Corolla"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d02141e8-78a0-5ff0-b994-ed47f34b79bd",
+        "value": "Guibourt declares that of all the cultivated kinds R .palmatum alone resembles exactly , in its odour and smell , the rhubarb of China .It is stated by Stevenson and Churchill that R .",
+        "words": [
+          "the",
+          "odour",
+          "smell",
+          "its",
+          "palmatum",
+          "the rhubarb of China"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d102ea2f-3cde-502e-9c31-77c458fca3c1",
+        "value": "Flowers dioecious .â   Employed in Peru as an aromatic purgative .371 .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d2c24509-22f7-574e-a185-121eac631cca",
+        "value": "It was once a popular remedy in ague .Its odour is said to be peculiarly disagreeable to bees , and that these insects may be easily kept at a distance by carrying a handful of the flower - heads .Burnett .",
+        "words": [
+          "odour",
+          "Its",
+          "peculiarly disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d31b887c-b2f5-5445-8eb4-b0b1d475a505",
+        "value": "DC .* # * The species of this genus are generally bitter aromatic plants and many of them have been used medicinally besides the following : â   931 , A .Judaica Linn .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d44d558f-d0ea-5f8f-b45f-870041719cd3",
+        "value": "The calyx is large , of 2 roundish , or oval , green , concave lobes .Corolla large , somewhat campanulate , with a remarkable con - striction below the middle , above which it becomes ventricose , and at the mouth cut into 5 , much crisped and waved , sharp , but rather un - equal segments , which are at length reflexed : it does not readily fall away , but decays upon the peduncle , and then gives out a very disagree - able smell .Stamens 4 , didynamous , sometimes 5 , shorter than the corolla .",
+        "words": [
+          "smell",
+          "it",
+          "very disagree - able"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d5161720-5f9d-5df9-bebe-13424f844189",
+        "value": "1364 ., are slightly aromatic stimu - lating tonics useful in the latter stages of low fever ; the taste is bitter and acrid ; the odour strong and disagreeable .They are said to be sudorific , and have been employed as emmena - gogues in amenorhcea .",
+        "words": [
+          "strong",
+          "odour",
+          "disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d51862ec-4189-5dcc-8ba3-91a0a026701f",
+        "value": "â   Woods of the Isles of France , Bourbon , and Mada - gascar .A very large tree , with a strong scented wood .Leaves ovate - elliptical , acute at each end ( sometimes blunt at the apex ) , ending in a channelled stalk , obsoletely netted , smooth ; the axils of the costal veins without pores .",
+        "words": [
+          "wood",
+          "scented",
+          "strong scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d61e6df9-74c8-500d-bf26-bbf0f8e8b4cf",
+        "value": ") Root tapering , reddish , branched at the summit , not creeping ; its flavour very astringent .Herb deep green , covered with soft silky hairs , and when slightly bruised exhaling a peculiar , but grateful , aro - matic scent .Stem about 2 feet high , scarcely branched .",
+        "words": [
+          "Herb",
+          "peculiar",
+          "scent",
+          "grateful",
+          "matic",
+          "aro"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d7980362-ba6e-578a-a42f-affd8d6a3433",
+        "value": "Leaves roundish , ovate , acumi - nate , deeply cordate , netted , 9 - nerved , thin , membranous , with pellucid dots , with appressed hairs on the upper side , downy on the veins beneath , fringed with hairs at the edges .â   Leaves and fruit have the smell and taste of Anise ; a decoction of the latter used to wash ulcers .641 .",
+        "words": [
+          "smell",
+          "of Anise",
+          "Leaves and fruit"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d8d667f9-01b4-573f-9262-07a2611daf33",
+        "value": "The drug is imported from Smyrna and Bombay , in skins , chests and casks , is of a reddish - brown colour , glossy and pellucid , with a smooth conchoidal fracture .Its taste is very bitter and the odour pleasant and aromatic .Mocha aloes and genuine hepatic aloes , are supposed to be varieties of the same species .",
+        "words": [
+          "odour",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d9751b2c-109c-5988-9102-be2ce93f45ea",
+        "value": "Bigelow .â   The root has a penetrating resinous smell , and a pungent bitter taste .It acts as a stimulant , tonic , diaphoretic , and in certain cases as an antispasmodic and anodyne .",
+        "words": [
+          "smell",
+          "The root",
+          "penetrating resinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/d99d1482-c152-5807-85dd-16a2c7d66c3a",
+        "value": "It is reckoned a stomachic and carminative among the Chinese , and is used as a spice in their cookery .According to Siebold , this is not the Skimi of Ksempfer , which is chiefly employed as a perfume by the priests of China and Japan , but a quite distinct species .He calls the former Illicium religiosum .",
+        "words": [
+          "perfume",
+          "Ksempfer"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/da0e9d97-dbe3-5ba4-a4d9-af7d66d1fe50",
+        "value": ") A dull deep - green very compact bush , usually more disposed to spread horizontally than to form a stem .Branches slender , round , tough , closely covered with short acute imbricating leaves ; they are very bitter and have a strong disagreeable smell .Fruit deep bluish - purple , almost black , about the size of a currant .",
+        "words": [
+          "smell",
+          "they",
+          "strong disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/da6fc8b7-03f1-50d6-be17-98052abf6453",
+        "value": "Leaves from the forks of the stem , large , ovate , smooth , unequal at the base , variously and acutely sinuated and toothed , veiny , of a light dull green .Flowers axillary , erect , white , sweet - scented , especially at night , about 3 inches long .Fruit as large as a walnut , very prickly .",
+        "words": [
+          "sweet",
+          "Flowers",
+          "scented",
+          "especially at night"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/da75a0ba-73f3-5cb5-b32a-413f321929d8",
+        "value": "Petiole green , hardly tinged with red except at the base , semicylindrical , a little compressed at the sides , with the upper side broad , flat , bordered by elevated edges , and of equal breadth at each end .â   Guibourt says that the root of this is a pretty good imitation of Chinese Rhubarb ; but when cleared of the yellow powder that covers it , there is no difficulty in recognising it by its reddish or whitish red colour , its smell of \" rhapontic \" ( in which respect it corresponds with undulatum ) , its close radiated marbling , its staining the saliva yellow only in a slight degree , and in its not being gritty .741 .",
+        "words": [
+          "smell",
+          "its",
+          "of \" rhapontic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/da8d507f-be6d-579c-8b35-4a9a6c10f0af",
+        "value": "say that there are not hundreds of equally powerful reme - dies still remaining to be discovered .Look to Hemi - desmus indicus , the source of Indian Sarsaparilla , the most active medicine of that name now known to the English physician , although excluded from the Pharma - copoeia ; to Chloranthus officinalis , unrivalled in Java for its aromatic properties and powerful stimulating effects ; to Soymida febrifuga , Galipea officinalis , and Cedrela Toona , which , at least , rival the Jesuit ' s bark in their influence over the most dangerous fevers ; to Erythroxylon Coca one of the most active stimulants of the nervous system ; or , finally , consider the accounts we have of the effects of Jamaica Dogwood , Piscidia Erythrina , which , if there is any truth in medical reports , must be a narcotic superior to opium for many purposes ; and it must be sufficiently apparent to all unprejudiced minds , that the resources of the vege - table kingdom , far from being exhausted , have hardly yet been called into existence .It is presumptuous for the theorist to assert that he already possesses a remedy \" for all the maladies that flesh is heir to ; \" it is mere idleness in the routine practitioner , carried away by the attraction of specious generalities , to fancy that one tonic is as good as another tonic , or one purgative as another purgative .",
+        "words": [
+          "aromatic",
+          "its",
+          "Chloranthus officinalis",
+          "Soymida febrifuga",
+          "Cedrela Toona",
+          "Galipea officinalis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dbacf376-18cc-59ac-9f46-c01bc22333f7",
+        "value": "Flowers clustered in the axils , subsessile .â   The fragrant fennel - scented resin of Brazil called Elemi is said to be produced by this tree , of which however little appears to be known .De Candolle says Resin ofCoumia comes from it ; but I do not find such a substance in books .",
+        "words": [
+          "resin",
+          "scented",
+          "Elemi",
+          "fragrant fennel",
+          "by this tree"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dc3f3b16-3f45-5769-b518-ca8650d1a07f",
+        "value": "Leaves numerous , crowded , 2 - ranked , alternate , a span long and an inch broad , lanceolate , or slightly ovate , with a long taper point , entire , smooth , single - ribbed , striated with innumerable oblique veins .Their flavour is slightly aromatic , after having been dried twenty years .Flower - stalks radical , solitary , an inch or two in length , ascending , clothed with numerous , close , sheathing bracteas , all abrupt , ribbed , somewhat hairy and fringed ; the lower ones very short ; the upper gradually much longer .",
+        "words": [
+          "aromatic",
+          "slightly aromatic",
+          "Their flavour"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dc899305-da5f-5ef3-9ef6-5badc6db0340",
+        "value": "â   Thickets of Carthagena .Roots branched , pithy , filled with a bitter orange nauseous fetid juice .Stems round , at the base corky , at the upper part smoothish , striated , twining ; about 10 feet high .",
+        "words": [
+          "fetid",
+          "nauseous",
+          "juice",
+          "Roots",
+          "nauseous fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dcb28a76-2c30-5d6d-934a-24cdc7120ef7",
+        "value": "Fruit 4 lines long , oblong , flat , with a pale thickened border ; dorsal ridges filiform , but little raised , much paler than the dull brown broad flat distinctly vittated channels ; commissure dull brown , with a closed elevated filiform raphe .â   A milky juice exudes from the root when wounded , and hardens into opoponax , a fetid gum resin similar in its effects to assafcetida .44 FERULA .",
+        "words": [
+          "fetid",
+          "gum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dd37ea04-6ff7-57d3-aa8a-d61d9532b1a8",
+        "value": "Drupes oblong , black .â   The bark yields an abun - dance of limpid oil , with a pungent turpentine smell , congealing in a buttery camphoraceous substance ; it has the same properties as balsam of copaiba .Raw fruit eatable , but apt to bring on diarrhoea .",
+        "words": [
+          "smell",
+          "The bark",
+          "pungent turpentine",
+          "limpid oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dd542ad7-df4a-59fe-a8cb-edd3888fa83e",
+        "value": "Bractea brown and dry , cloven , rather longer than the partial stalk .Flower large and very beautiful , powerfully fragrant .Petals pure white .",
+        "words": [
+          "Flower",
+          "fragrant",
+          "powerfully fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/de9be811-8f9f-5818-8d2f-02e5ba3ab652",
+        "value": "Stamens 2 ; sometimes 3 or even 4 , with their filaments bifid , each division bearing an oval 1 - celled anther .â   Leaves similar in smell and taste to those of Salvia officinalis , but much stronger : they are applied to the same uses .SALVIA .",
+        "words": [
+          "smell",
+          "much stronger",
+          "Leaves",
+          "those of Salvia officinalis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/dea4820c-0c9c-5098-a6f6-c04b7edfb750",
+        "value": "Flowers ax - illary , with a 2 - valved membranous spathe , appearing with the leaves , large , purple , striated , with a campanulate limb .Stigmas 3 , deeply divided , linear - wedge - shaped , deep orange - colour , hanging down on one side of the flower , fragrant , notched at the points .â   The dried stigmas are the Saffronof the shops .",
+        "words": "fragrant"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/deb9f089-c277-5bd4-8f47-9676a3fc6cf1",
+        "value": "( Asarabacca .) Roots creeping , entangled , with numerous , branching , stout fibres , their scent when bruised very peculiar , partaking of pepper and ginger Stems very short and simple , round , each bearing 2 dark green , shining , kidney - shaped , rather downy , leaves , 2 inches wide , on long , downy stalks , and 1 drooping flower , not an inch long , fleshy in substance , of a lurid and singular aspect .â   The powdered leaves are used to provoke sneezing ; a lew grains at a time may be safely taken , and they produce a considerable discharge of fluid by the nostrils .",
+        "words": [
+          "scent",
+          "their",
+          "very peculiar",
+          "Roots",
+          "stout fibres"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/def9253a-583b-55d3-85b2-3bbdbcae6b3b",
+        "value": "Achaenia with a quadrangular entire crown .â   Every part is very bitter , with a strong , but not un - pleasant , scent .The qualities are esteemed of a tonic and cordial nature , 1 expelling intestinal worms , and strengthening the digestive 464 TANACETUM .",
+        "words": [
+          "strong",
+          "scent",
+          "Every",
+          "un - pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/df61a4b1-b31d-5961-8c59-0add28468ec3",
+        "value": "â   Bark brownish , tonic , containing a great quantity of bitter somewhat balsamic extractive matter .Leaves grate - fully aromatic ; they are used in infusion , like tea , against spasms of the bowels , and the convulsive affections of pregnant women .Blume .",
+        "words": [
+          "aromatic",
+          "Leaves"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/df71abba-61aa-574d-b035-e88c6b61142e",
+        "value": "â   According to Chevallier this plant exhales pure ammonia , during its whole existence .Notwithstanding its nauseous odour it is still employed as an antispasmodic and emmenagogue , and is constantly to be found in the herb - shops of Covent Garden market .720 .",
+        "words": [
+          "odour",
+          "nauseous",
+          "its",
+          "in the herb - shops of Covent Garden market"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/df88bead-ea8d-5d97-b83b-2649336bd107",
+        "value": "The irregularly elevated appearance of the vittae of the back of the fruit gives it an uneven aspect , which I presume is what Kcempfer means by asperum .â   â    A fetid alliaceous gum resin is obtained by slicing the fleshy perennial roots ; it is acrid , bitter , and antispas - modic .This is the most genuine Asafoetida plant , which is hardly known to modern Botanists .",
+        "words": [
+          "fetid",
+          "alliaceous gum"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/df9929d6-7eb4-525b-9ad3-646c863fa56a",
+        "value": "Carpels 12 - 18 , pod - shaped , 1 - 2 inches long , knotted , striated , quite smooth , with the taste of pepper .â   Fruit pungent , aromatic , and often substituted for other spices .It is the Piper aethiopicum of commerce .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e0cbb7c8-6323-5628-a270-490c1911b9ee",
+        "value": "They possess , in fact , a portion of that peculiar aromatic flavour which exists in Spifaea Ulmaria , the American Gualtheria , and some other plants , and which resembles the 233 AMYGDALE / E .more delicate perfume of green tea .A water distilled from the blos - soms of the sloe is said to be used as a medicinal vehicle in Switzerland and Germany .",
+        "words": [
+          "perfume",
+          "delicate",
+          "of green tea"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e17348fe-58af-51ae-b0e6-468c0fc2087e",
+        "value": "Corolla white , externally hoary ; with 5 - 6 - 7 segments , Fruit downy , with 1 or 2 nuclei .- â   â   Storax , a fragrant resinous balsamic substance , is obtained in Asia Minor from the branches by incision ; it is brownish red , friable , but soft and unctuous and is considered a stimulating expectorant , being supposed to influence the mucous membrane of the air passages .It is chiefly employed in affections of the organs of respiration .",
+        "words": [
+          "fragrant",
+          "Storax",
+          "resinous balsamic substance"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e1965025-90f6-5e42-90be-d55c28988d3a",
+        "value": "Leaves oblong tapering into a fine point , acute at the base , between papery and leathery , naked , smooth and shining above , finely downy beneath , with numerous distinct narrow costal veins .â   Bark with the flavour and smell of cinnamon , as which it is used in New Grenada .693 .",
+        "words": [
+          "smell",
+          "flavour",
+          "of cinnamon"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e199c35e-09dc-56cc-8768-85d0e4e249c2",
+        "value": "Fruit oval .â   The fruit yields upon distillation a limpid volatile oil of a yellow wine - colour , an aromatic acrid taste , and smell as if old oil of Orange peel had been mixed with oil of Rosemary .Used in Brazil in contractions of the joints , pains in the limbs and similar cases .",
+        "words": [
+          "smell",
+          "The fruit",
+          "limpid volatile oil",
+          "as if old oil of Orange peel had been mixed with oil of Rosemary"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e32bc465-9878-5a85-913f-2e8987c284b4",
+        "value": "The flowers are filled with a purplish honey .â   This is said to be the principal source of Cape Aloes , a sort having a more strong and disagreeable odour than Barbadoes Aloes .Horse Aloes are supposed to be produced from the same species , and to owe their difference to being obtained by boiling the leaves that have been previously used for producing a finer sample .",
+        "words": [
+          "odour",
+          "more strong and disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e4ac8771-135e-51dd-a243-5dc959ce7fda",
+        "value": "â   Jamaica , Brazil , Trinidad .Root oblong , woody , praemorse , powerfully aromatic .Stemless .",
+        "words": [
+          "aromatic",
+          "powerfully aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e4f19e53-7b7d-5b79-bdf4-33de1dde1361",
+        "value": "In Constantinople the rhizoma is made into a confection , which is considered a good stomachic and is eaten freely during the prevalence of epidemic diseases .It is in this country chiefly employed by perfumers , in the manufacture of hair powder , on account of the fragrance of the essential oil which is mixed with its farinaceous substance .Mr .",
+        "words": [
+          "fragrance",
+          "perfumers",
+          "of the essential oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e5da70f0-3c9a-5ef2-a30a-0c2ef1f7caeb",
+        "value": "Flowers deep green , with orange 324 DAPHN anthers , 4 of which are just visible in the throat of the calyx .Their scent , resembling saffron , with an overpowering sweetness , is percep - tible in an evening only , and has been observed by very few people .An oval , concave bract accompanies each short partial stalk , at the base .",
+        "words": [
+          "in",
+          "scent",
+          "Their",
+          "overpowering sweetness",
+          "tible",
+          "resembling saffron"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e6237f25-308d-5751-b0a4-cdf96c049f44",
+        "value": "Dierbach .The bark has the odour of Melilot , and traces of Benzoic acid have been found in it .WILLUGHBEIA .",
+        "words": [
+          "odour",
+          "The bark",
+          "of Benzoic acid",
+          "of Melilot"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e67a8f98-5297-5102-b141-4b14cbcc1a01",
+        "value": "Leaflets deep green , smooth , usually 2 pairs , with an odd one .Cymes large , smooth , of numerous cream - coloured flowers , with a sweetish but faint and heavy smell ; some in each cyme sessile .Berries globular , purplish - black ; their stalks reddish .",
+        "words": [
+          "smell",
+          "faint",
+          "heavy",
+          "sweetish",
+          "numerous cream - coloured flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e6c8405d-ea9c-5516-9b77-ac9d589620f8",
+        "value": ") Bark smooth .Leaves alternate , 3 - foliate ; petiole about the length of the leaflets , slightly channelled ; leaflets oval , acute at the base , acuminate at the apex , smooth , glossy , bright green , smelling when bruised and fresh like Tobacco , 6 - 10 inches long , 2 - 4 broad ; some of the leaflets are marked with small whitish round spots .Panicles cylin - drical , contracted , stalked , longer than the leaves , with the branches about 3 - flowered .",
+        "words": [
+          "smelling",
+          "like Tobacco"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e71c3e5f-2905-5877-9705-58ebb53636b4",
+        "value": "Seeds coriaceous and pale - brown , many , blackish .â   The seeds are gratefully aromatic and pungent with a flavour of camphor , and are esteemed more agreeable and useful in food and medicine than any others of this natural order .They are reckoned carminative and stomachic , and are employed very generally to give warmth to other medicines .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e79fd12e-794a-55af-ba8e-7007d727b649",
+        "value": "The root is extensively cultivated , especially in France , as a substitute for coffee .When full grown , it is cut into dice , roasted , and ground down , when it cannot be distinguished by the eye from that substance : it agrees with it also in taste , but wants the pleasant aroma .The French maintain that the quality of Coffee is improved by the addition of the succory root if not in too large a quantity .",
+        "words": [
+          "aroma",
+          "pleasant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e812b46e-05fa-593c-8ddf-86930ad28efb",
+        "value": "amarga .On account of the quantity of bitter extractive matter which they contain , and which is combined with a specific aroma , they are particularly useful in all intermittent fevers , and for all disorders in which Artemisia is employed in Europe .Both the extract and the decoction are used .",
+        "words": [
+          "specific",
+          "aroma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e8843318-b565-5ea6-a998-a8c992a5a10e",
+        "value": "Bractea close to the base of the ovary , undivided .Flowers large , a little drooping , unpleasantly scented .Petals pale yellow , nearly erect , longer than the tube of the cup , which is funnel - shaped , and almost as 572 NARCISSUS .",
+        "words": [
+          "Flowers",
+          "scented",
+          "unpleasantly scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/e998704e-17a9-5bb1-97b0-8c2449db863c",
+        "value": "Royle , who states that it , and not A .Ivarancussa , produces the fragrant and stimulant Grass oil of Namur , and who conjectures it to have been the \" sweet cane \" and the \" rich aromatic reed from a far country \" of Scripture .It is used in India as an external application in rheumatism , in the same way as Cajeputi .",
+        "words": [
+          "fragrant",
+          "aromatic",
+          "rich aromatic",
+          "stimulant",
+          "Grass oil"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ea81266e-c9e2-57e0-96e9-202497015366",
+        "value": "6646 .The ripe fruit is called Cubebs in the shops ; dried and pounded it is aromatic , pungent , stimulant and purgative , and acts as a specific in arresting gonorrheal discharges .Blume says that the fruits of this , although of good quality , are not sent to Europe : the follow - ing species furnishing the officinal Cubebs .",
+        "words": [
+          "aromatic",
+          "arresting gonorrheal discharges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/eb385bc0-b737-5d87-bde6-b8a95e6588d3",
+        "value": "Smith .â   Leaves fetid , very poisonous , especially to horses and cows .Berries are not dangerous .",
+        "words": [
+          "fetid",
+          "Leaves",
+          "very poisonous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/eb9f2a2d-6c1f-547f-8301-d3dd34d58757",
+        "value": "Leaves them - selves supra - decompound , pedate , with the segments pinnatifid , distant , and with oblong , acute strongly veined lobes .Spathe large , purple , very deep - coloured inside , hooded , acute , appearing after the leaves have withered ; smelling so powerfully upon the first opening , that vomiting and fainting sometimes ensue from the stench .Linnaeus says \" olfa - ciente attonitos redderetet catalepticos .",
+        "words": [
+          "smelling",
+          "stench",
+          "powerfully",
+          "that vomiting and fainting sometimes ensue from the stench"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ec3faa09-e312-5861-87b4-42f4cf968df6",
+        "value": "Benth .â   The spikes of flowers contain a fragrant volatile oil in great abundance , together with a bitter principle .They are car - minative , stimulant and tonic , but are more employed in perfumery than in medicine .",
+        "words": [
+          "fragrant",
+          "volatile oil",
+          "The spikes of flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ed0dc2a0-fe3b-59d2-ba75-7e2e654442b5",
+        "value": "Spikes 5 - 6 inches long , the thickness of a goose quill .â   The roots of this plant , called Jabo - randi in Brazil ( and in a less degree the ripe catkins ) are used as stimulants on account of their aromatic pungent qualities .The root is a very powerful sialagogue , and often cures nervous toothach .",
+        "words": [
+          "aromatic",
+          "their",
+          "The",
+          "aromatic pungent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ed715839-eb54-5ad6-b8e2-c7a722fc54bd",
+        "value": "Capsules I , 2 , or 3 , roundish , reniform , or ovate , of the size of a small pea when recent , when dry wrinkled , and much smaller , short - pedicelled , 1 - celled , 2 - valved , opening round the apex .â   All parts of the plant aromatic and pungent .Seeds used medicinally by the natives .",
+        "words": [
+          "aromatic",
+          "the plant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/edc263c9-84a1-5d55-ab54-22acfeec7209",
+        "value": "They are used in dysentery , diarrhoea , cardialgia , spasmodic colic , strangury , incontinence of urine and other disorders .The bark has the smell of 336 NECTANDRA .fennel mixed with cloves according to Nees , of camphor according to Martius ; its taste is alomatic , not hot .",
+        "words": [
+          "smell",
+          "The bark",
+          "of 336 NECTANDRA"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/ee7617f3-7758-52b3-ab1a-bb5c58d3224d",
+        "value": "Racemes at first about the length of the leaf , afterwards , as the pods form , elongating .Flowers on pedicels half an inch in length , yellow , slightly fragrant .Calyx deeply 5 - parted ; lobes unequal , thin , membranous , purplish , deciduous ; tube short , green , bell - shaped .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "slightly fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/efc3444b-84cf-5ed7-8644-3ac14f665409",
+        "value": "Calyxes acutely 5 - cleft ; flowers white , sweet - scented ; tube of the corolla hypocrateriform , slender , clavate ; throat ventricose ; segments of the limb ovate , emar - ginate , somewhat unequal .â   Produces the delicate and fragrant Tobacco of Shiraz .CRESCENTIA .",
+        "words": [
+          "Tobacco",
+          "fragrant",
+          "of Shiraz"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f25bf9cb-0920-5e10-bc65-6ced36fdbf6a",
+        "value": "â   Watery places in the northern parts of Europe .Root large , fleshy , branched , resinous , pungently aromatic .Stem erect , 4 or 5 feet high , and from 1 to 2 inches in diameter , leafy , branched in the upper part , striated , polished , a little glaucous .",
+        "words": [
+          "aromatic",
+          "pungently aromatic"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f32828de-1a1e-549a-8d23-250db4978851",
+        "value": "Leaves cordate , acute , nearly or quite sessile , repand and wavy , viscid as well as downy .Flowers clustered , sessile , white with a purple eye , very fragrant at night , at which time they open ; the tube of the calyx exceedingly long and slender .â   The root is said to be more purgative than that of any other species .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "very fragrant",
+          "at night"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f5afaa68-21b1-5dd1-abfc-3292b45db4e7",
+        "value": "Peduncles 1 - flowered , short , axillary .Flowers very sweet - scented , whitish flesh - colour , 1Â § inch long .Corolla with a very long , cylindrical , erect tube , and 5 linear , obtuse , concave , reflexed segments longer than the tube .",
+        "words": [
+          "sweet",
+          "Flowers",
+          "scented"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f5dfb134-28ed-52d5-94aa-7bd49c864f6c",
+        "value": "and A .â   A milky juice flows from the stem , and concretes into a fragrant substance resembling Benzoin , and used in churches in the Mauritius as a kind of incense .Royle .",
+        "words": [
+          "substance",
+          "fragrant",
+          "a kind of incense",
+          "resembling Benzoin",
+          "in churches in"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f5f640e8-aeb8-5cb0-99a1-e30c58f7803a",
+        "value": "Lower flowers her - maphrodite and fertile , upper male and sterile .Smell of the flowers like that of Berberis vulgaris .Schiede .",
+        "words": [
+          "Smell",
+          "of the flowers",
+          "like that of Berberis vulgaris"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f64574c6-2e62-5173-9834-0e3ce3a00617",
+        "value": "Fruit fleshy , extremely acid before maturity , when ripe filled with dark brown agreeable subacid pulp , large , spheroidal , rugged , often warted externally , containing 5 parcels of roundish - oblong , flat , woolly seeds adhering to the branched pla - centae , by means of long cords .â   Both leaves and flowers exhale a powerful odour of Anise .jEGLE .",
+        "words": [
+          "odour",
+          "powerful",
+          "Both leaves and flowers"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f657b287-f3d9-59fb-9c43-fb5914ae543e",
+        "value": "Seeds roundish , or somewhat 3 - cornered , turbinate , wingless .â   From the seed is obtained by pressure the oil of Ben , much used by perfumers as the basis of various scents , and by watchmakers , because it does not readily freeze .The seeds are acrid and have been employed in fevers and also as rubefacients .",
+        "words": [
+          "scents",
+          "perfumers",
+          "various",
+          "the oil of Ben"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f6c5bf60-b87f-5726-be2f-94298a58c374",
+        "value": "William Hamilton from whom the above imperfect account is taken says that this plant produces the fragrant fennel - scented substance called Gum Elemi , on Nevis .He adds that it is a large tree yielding a fragrant re - sinous juice which flows in abundance when the smooth ash - coloured bark is wounded .* # * The genera Copaifera and Myrospermum , included in this order here and in my Introduction to the Natural System , hold a sort of middle place between Amyridaceae and Fabaceae ( Leguminosae ) , and are usually referred to the latter .",
+        "words": [
+          "fragrant",
+          "re",
+          "sinous juice"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f91a2b2f-3533-51d7-bb10-f779ee383f16",
+        "value": "Bracts minute , deciduous .Flowers very numerous , small , white , fragrant like honey .Calyx 5 - parted .",
+        "words": [
+          "Flowers",
+          "fragrant",
+          "like honey"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/f9eff19e-ba56-525b-8c09-e14934463684",
+        "value": "Berries oblong , not unlike a large ber - bery , and rarely containing more than a single seed .â   When cut this diffuses a pleasant aromatic scent , something like that of Zingiberaceas .The medicinal virtues of the rhizoma are in high estimation among the natives of India ; it sells from 10 to 16 rupees the maund .",
+        "words": [
+          "scent",
+          "pleasant aromatic",
+          "something like that of Zingiberaceas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/fa5fb7f1-e39a-5257-a1ef-fedcc75d51e7",
+        "value": "â   Recommended in pulmonary affections ; also , as an astrin - gent and febrifuge .It has a peculiar power of imbibing and retaining odours , and is in some request as an ingredient in sweet pots and ladies ' sachets .USNEA .",
+        "words": [
+          "odours",
+          "It"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/fb1eb7b9-367f-53bb-bebc-48305a563315",
+        "value": "Cymes axillary , lax .Corolla Â £ of an inch long , funnel - shaped , greenish - white , smelling sweet like Jasmine .Fruits the size of a middling apple , each placed upon a short thick , flexuose peduncle , which is thickest at the point ; globose , smooth , shining , at first brownish yellow , afterwards bright pink .",
+        "words": [
+          "sweet",
+          "smelling",
+          "like Jasmine",
+          "Corolla Â"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/fd52fff4-f83b-5ae7-834d-0bc8c8ade5ba",
+        "value": "Flowers very large , yellow mixed and spotted with purple , hairy inside , with an obovate tube , and an abruptly reflected 2 - lipped limb ; upper lip short , ovate , carinate , acute ; lower four times as long , inflated and cymbif ' orm at the base , gradually extended into a broad , plaited , roundish , membranous ex - tremity .â   The root , which has a very penetrating , disagreeable smell , like that of rue , and a strong , bitter , aromatic taste , produces almost entirely the same effects as the Virginia snake - root ( A .serpentaria ) .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "The root",
+          "very penetrating",
+          "like that of rue"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/fd878555-dc6c-56d6-b188-10b7e809ddd0",
+        "value": "Drupe 4 - 5 lines long , purple , with a soft sweet eatable flesh .- â   This plant , the Umiri of the people of Para , yields from its trunk when wounded a valuable , fragrant , limpid , pale yellow balsam called Balsam of Umiri , possessing the same medicinal qualities as Balsam of Copaiva , \" immo nobiliorem et balsamo peruviano cemulum .\" Martius .",
+        "words": [
+          "fragrant",
+          "limpid",
+          "Balsam",
+          "Balsam of Umiri"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/fdefff58-a0ba-5a10-a78c-554bb5ee9fd2",
+        "value": "Leaves pinnated ; segments smooth , entire or 3 - lobed , orbicular , oval , oblong , or nearly linear , somewhat acute .Flowers small , white , in large loose panicles , ex - tremely fragrant .Petals \\ - \\ inch long , linear , obtuse , downy , much longer than the stamens .",
+        "words": [
+          "Flowers",
+          "fragrant"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/fecd32bd-b54b-5451-8e6c-2b7914a0d078",
+        "value": "Bracts minute round the base of the peduncles .Male flowers 1 ^ inch in diameter , when expanded , of a pale yellow , and powerfully fragrant .Calyx 1 - leaved , bowl - shaped ; border from 4 < to 5 lobed .",
+        "words": [
+          "fragrant",
+          "Male flowers"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/7a5e56d9-1b29-5fa1-b307-e514d6339aaa",
+        "label": "John Lindley"
+      }
+    ],
+    "label": "Flora medica [electronic resource] : a botanical account of all the more important plants used in medicine, in different parts of the world",
+    "url": "http://archive.org/details/b21301633",
+    "date": "1838",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/227",
+      "label": "Tobacco"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/9d96aa30-ce05-5edf-b840-ce76d33aa2c6",
+      "label": "1838",
+      "begin": "1838",
+      "end": "1838"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/115019/",
+      "label": "Shiraz"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/b6681613-b84f-5895-bfb6-0416f612d09f/fragment/efc3444b-84cf-5ed7-8644-3ac14f665409",
+  "adjective": "fragrant"
+}

@@ -1,0 +1,320 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/fe3f2510-f53c-5be6-b7ba-4a174774bc5c",
+  "@graph": "http://data.odeuropa.eu/british-library",
+  "label": [
+    "odour",
+    "smell",
+    "reeked"
+  ],
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/114ac35e-ca99-5fd1-a387-95439da1e143",
+        "value": "Round and about the town the country is pretty and tame , although after ship - board life all rural scenery appeared to us quite beautiful ; and after the dusty dried - up plains of the north of China in the hot summer , the autumnal tints seemed verdant to our eyes .Undulating country with marshy valleys and low round - topped hills of volcanic formation , their gently - sloping sides covered with trees , such as pines , evergreen - oaks , chesnut , bamboo , and shrubby brushwood , composed of thickets of azalea , weigelas , olives , and ancubas , interspersed with sweet - scented osmanthus and other flowering bushes .Where sufficiently level , the summits and higher ground is all under cultivation , from which the crops , principally of wheat and barley , had long been gathered .",
+        "words": [
+          "scented",
+          "sweet - scented",
+          "olives",
+          "other flowering bushes",
+          "weigelas",
+          "osmanthus",
+          "ancubas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/13df1f9f-c01f-5da3-bb51-d4d724b78c39",
+        "value": "* Outside two - thirds of the houses at Fatee were huge jars full of fermenting , nauseous liquor .This stuff we were told was the preparation of soy , and I have never endured the sight or smell of soy since ; the whole suburb reeked with the foul odour .The manufacture of shoyu , or soy , is thus conducted .",
+        "words": [
+          "odour",
+          "smell",
+          "foul",
+          "I",
+          "reeked",
+          "of soy",
+          "the whole suburb"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/185f1c48-0406-5b06-a96b-337cae1f2e62",
+        "value": "Some of them are Dicotyledons , with separated sexes and small inconspicuous flower - wrappers , such as Ficus with 400 species , Piper with 600 , Phyllanthus with 400 - 500 , Croton 450 .But many of these large cosmopolitan genera are Dicotyledons of shrubby or aborescent habit , with insect - fertilised hermaphrodite hermaphrodite flowers , a distinct calyx and corolla , and showy scented petals .Loranthus , with 300 species , although exclusively parasitic , falls into this geographical category ; so do Psychotria with 500 species , Indigofera with 300 - 400 , Vernonia with 400 , Solanum with 500 , Eugenia with 500 .",
+        "words": [
+          "scented",
+          "petals",
+          "showy scented",
+          "hermaphrodite"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/18ff6db2-4994-57b1-aa32-68736c029ab4",
+        "value": "backing off sand - bank , now running alongside to load with wood fuel .The haunts of alligators and their vicinity are frequent and easily perceived from their peculiar scent of musk ; weird wood and forest scenery on either side .We sling our hammocks where we can .",
+        "words": [
+          "peculiar",
+          "scent",
+          "of musk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/20cb82bb-2531-5d3d-9e97-a5e5dfc48216",
+        "value": "I only had a thermometer attached to the barometer , so was unable to use it .Meller secured a sample of the hot water , which has a faint smell and a slight alkaline reaction and insipid taste , and speedily blackened a bright piece of silver .After this little incident we kept on our way through a more hilly country , the hills wooded and magnificently clear streams of water , with large masses of quartz rock .",
+        "words": [
+          "smell",
+          "faint"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/275129e9-db0b-5ff5-888e-a63b4c888454",
+        "value": "Le sport Mauricien is thoroughly dramatic , and not the less interesting , but in apposite accordance with the surrounding scenery .We traverse the depths of the orangerie , a paradise of acclimatisation , under pamplemousses * trees laden with golden fruit , the spicy canellef and aromatic muscades , J coffee , and cocoa - bushes , mingled with citron , bread - fruit trees , and the avocas , § veritable gardens of Hesperides , and pass the sugar - mill with its boilers in full work , and the Malabars heaping up the bagasse ( refuse of the cane ) , to feed the furnaces , and at length plunge into lanes , past deeper thickets , up the sides of the gorge , following the track of an icy - cold stream , and arousing the monkeys , gradually ascend the neck of land which joins the outlying Tamarin Mountain to the main plateau .Here we are assigned each his post and enjoined to keep profoundly quiet nor stir from our station .",
+        "words": [
+          "cocoa",
+          "aromatic",
+          "bushes",
+          "spicy canellef",
+          "muscades"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/2eefc37d-d14a-5b94-a597-11eb63b82ff5",
+        "value": "Chistmas - day , and crossing the Line , were celebrated together ; but by this time we had left the Asiatic coasts far away , and therefore must leave my further rambles , and finish the chapter .* Michelia champaca , a well - known forest tree of the magnolia species , with sweet - scented yellow blossoms which are used to decorate the shrines of Buddhist temples .wandering airs they faint On the dark , the silent stream j The Champak odours fail Like sweet thoughts in a The Indian Shelley .",
+        "words": [
+          "sweet",
+          "scented",
+          "yellow blossoms",
+          "* Michelia champaca"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/32d3076e-8186-5a1b-9789-c1c7997a4b0c",
+        "value": "Here was the jasmine ( J .sambac ) , or mo - le - hwa , cheek by jowl with the odorous Aglaia ( yu - chu - hiva ) and the fruiting yang - mæ ( Myrica ) ; tree - pæonies , mou - tan , weigelas , and spiræas of all sorts interspersed with azalea and camellia bushes , besides magnolias and photiuias .In the background , and shutting out the outer world from this paradise , were huge hedges of the graceful mow - chok bamboo and avenues of cypress , juniper , arbor vitæ , pines , and cryptomerias ( lew - san ) , amongst whose darker foliages the carnationflowering carnationflowering peach and the pink flowers ofthe Judas - tree shone out brightly , and the double SHRINE AND GRAVE , NEAR CANTON .",
+        "words": [
+          "tree",
+          "camellia",
+          "odorous",
+          "magnolias",
+          "tan",
+          "yu",
+          "Aglaia",
+          "pæonies",
+          "the fruiting yang - mæ ( Myrica )",
+          "mou",
+          "chu - hiva",
+          "weigelas",
+          "photiuias"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/461ddd0e-418c-505e-9510-8d765a9e9516",
+        "value": "On either side of the walks were low broad walls , supporting flower - pots and vases , with small ornamental plants , whilst beyond were larger shrubs and trees , bamboos and lychees , orange , chang - kwa , and cum - quat trees , figs and citrons , among which the queer claw of Buddha is most valued as a monstrosity , quinces and chay o - tes .Quantities of the famous scented kivei - hwa trees ( Olea fragrans ) , whose blossoms are used to scent exquisite teas , are here growing luxuriantly , intermingled with thickets of the gardenias ( G .florida ) , pak - sema - hwa , and Chloranthus sp .",
+        "words": [
+          "scented",
+          "scent",
+          "exquisite",
+          "whose blossoms",
+          "kivei - hwa trees ( Olea fragrans )"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/478f4a1e-9eea-5195-8205-e859ef1d17dd",
+        "value": "blossoms of the moi - hwa plum .Everywhere perfumes like the des rosees qui flottez dans l ' air : — : Jasmin ! asphod .le ! Encensoirs flottants , Branche vert et frele , Ou fait l ' hirondelle Son nid au — V .",
+        "words": [
+          "perfumes",
+          "like the des rosees qui flottez"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/5df14e66-0fe7-55d2-a0b2-730432f9e22e",
+        "value": "No one understands better than the Chinese gardener , as Robert Fortune tells us in his interesting works , the art of landscape - gardening , at least of the kind peculiar to the country .He is never weary of laying out the grounds with elaborate surprises of arbour and rockwork , and pleasant conceits of bower or grotto , each happily inscribed with apposite title or motto , such as The grot of odorous delights ! The seat of fragrance and purity ! Repose with pleasant murmurs ! — and he is more particularly happy in the spots selected for fishing - temples and garden - benches , rustic Belvederes and quaint pagodas , bridges and summer - houses , trellis - work and arched gates .We wandered along the paved straight paths over narrow wooden bridges , both walks and bridges ( from the lodge to the house ) being covered in with wooden - roofed verandahs , or bamboo - trellis , covered with Glycine sinensis with its long blue racemes and broad - leaved climbing plants .",
+        "words": [
+          "odorous",
+          "fragrance",
+          "of",
+          "delights"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/68e524e2-755d-5498-982e-57c1adacb3ce",
+        "value": "We were told that there was formerly from fifteen to twenty fathoms of water where now is lava ! ( ? ) As it was getting late we drove down the steep coach - road to the bottom of the cliff , and , leaving the carriage where the lava - stream crossed it , mounted on foot the rugged surface of the coulee itself .We found large gangs of workmen engaged in making a sufficiently sufficiently passable road for carriages across the steaming and smoking mass , whose pitchlike pitchlike stream had entirely obliterated the former road , burying it beneath several feet of semi - molten rock , whose cracked and contorted surface emitted noxious and too - odorous vapours , which left crystalline deposits of bright colours in the crevices , from which the fervent heat beneath glowed as from a surface .The workmen , who were knocking off work at sunset , had placed their kettles to boil over some of the numerous apertures from which steam and fire proceeded , and putting the end of a stick into any crack , it instantly caught fire within two inches of the surface .",
+        "words": [
+          "odorous",
+          "vapours",
+          "noxious"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/74a1857f-c3f4-5a8d-b5d9-f726e33cad8f",
+        "value": "At the end of November the 87th Regiment left the garrison , and was replaced by the 99th from the north , and we instituted paper hunts , and got up races , theatricals , and picnics .We had now become quite connoisseurs in tea tasting , and preferred the black tea perfumed or scented , which is done by mixing the leaves with the flowers of several different plants regularly cultivated for the purpose ; notable among these is the Jasminum sambac , known in Canton as the The gardens where this plant is cultivated are principally in the Honam and Fatee suburbs of Canton .The plantations in the latter place were much damaged a year or two since by the flooding of the river caused by the giving way of the embankment at Ch ' ing - yiin .",
+        "words": [
+          "perfumed",
+          "scented",
+          "We",
+          "black tea",
+          "the Jasminum sambac"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/8626c9c3-bdc4-58f6-8d5d-6df311edb68e",
+        "value": "Go on shore and to Mr .Martin ' s office , where we consume iced cocktails with Captain Reeks .Too late to catch train , although in the evening the Newdigates succeed in getting across to Panama .",
+        "words": [
+          "Reeks",
+          "with",
+          "' s office"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/899a22e2-4c65-57db-9685-e72115b0ef0b",
+        "value": "Humboldt long ago indicated the vital forces of these organisms , regulating the cellular structure of the polyp - trunks , which in time acquire a rocky hardness able to resist triumphantly the shock of moving waters .The masses now washed on the strand were covered with a living gelatinous film over the calcareous fabric , which affords food for both fish and turtle , and gives a disagreeable phosphorescent odour to the mullet caught on the coast .Among the coral were myriads of shells , molluscs , crustaceæ , sponges , and polyps , sea - slugs , the beche de mer , echini and actiniae , medusæ , & amp ; c , dead eels and fish , such as chætodons and ostracions , ostracions , with masses of seaweed , monstrous bladderwrack , and the nasty shapeless , amœba - like masses of errantia , which the Creole fishermen style s ' embrasse , & # 34 ; from their contractile habit of hugging , and their absorption of aU within their reach .",
+        "words": [
+          "odour",
+          "disagreeable phosphorescent"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/8a202d94-dcdb-5f13-9ff9-d7455a127dd1",
+        "value": "was also prostrated by the same cause .Some idea of the prevalence of the sickness in the garrison from intense heat * and noisome stinks , and the bad drainage of the filthy town , may be formed when it is recorded that at this period the number of English soldiers sick in hospital averaged over 300 , exclusive of those who were treated in barracks .The mortality from heat apoplexy also was considerable .",
+        "words": [
+          "noisome",
+          "stinks",
+          "in the garrison"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/a066e90e-74bf-57ab-80a6-94810dd235e9",
+        "value": "Through more half - cleared woods , narrow7 paths ; and our guide points out what he calls a tigre among the brushwood ; but it is probably the effect of his vivid imagination .In these woods we noticed the fetid odour emitted by the polanca - tree ( Sapranthus Nicaraguensis ) amidst the rich vegetation .Arrive at Managua .",
+        "words": [
+          "fetid",
+          "odour",
+          "we",
+          "by the polanca - tree ( Sapranthus Nicaraguensis",
+          "In these woods"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/b662ecae-c40c-58ff-98c4-1573ec758192",
+        "value": "Here and there tab bare trunks were conspicuous with gaunt white limbs ; but even these were often as not surmounted with clusters of the so - called bird ' s - nest Asplenium , and Ophioglossum pendulum , and bunches of moss and bchen entangled amidst epiphytal banes .There seemed plenty of fish in the deep pools , and now and then the stirring up of the mud and strong aroma of musk betokened the near presence of the abhorred crocodile , The waters were enlivened by the presence of the bvely a pretty 187 THE MASCARENE ISLANDS AND MADAGASCAR .1828 , his matoatoa * or was popularly supposed to haunt the precincts of the royal garden ; for here on one moonlight night the keepers and gardeners saw his apparition parading up and down , apparently dressed in one of the uniforms which , according to custom , had been buried with him in his solid silver coffin , and riding on one of his best horses , which had also been slain opposite his tomb in the palace - yard .",
+        "words": [
+          "strong",
+          "of musk",
+          "aroma"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/bb150f8c-fbca-5c11-b2fc-086d4a4d4e8e",
+        "value": "These were all round the room ; all the members lolling , most of them with their heads on their hands , and some of the fairer sex chewing tobacco , or rather snuff , which they appear much to enjoy ; nearly all the gentlemen of course did the same .This snuff , which is taken rolled up under the tongue , causes a considerable amount of expectoration , at which some of them were great adepts , the Honourable Miss Rafara being particularly conspicuous in this respect .A pulpit stood in one corner for Mr .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/bd072afe-37ad-5228-aded-f89ce58d426f",
+        "value": "During the dry season the sob becomes nearly as hard as stone , and cracked in all directions , so that it is sometimes exceedingly rough , and , with its dark colour , appears almost like a field of lava .Between the trees some tufts of a coarse kind of grass and bushes of the Aroma mimosa , with sweetscented sweetscented yellow catkins , are scattered .The ground under the trees is strewed with the 314 ON AND OFF DUTY .",
+        "words": [
+          "Aroma",
+          "sweetscented",
+          "mimosa"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/c0cc4275-1b07-500a-8c10-dcb0f7317341",
+        "value": "The highest ministers then tendered their homage , and after a short interval the King took off the crown and stood bareheaded before his people .Unsheathing his sword ( a British blade ) , he waved it over his head , and then made the following harangue with fluency and animation : — Veloma Ambaniandro ! Veloma ! ( Hail , oh my subjects I salute you ! ) the power of Zanahary ( the great God ) , Andriamanitra ( the fragrant Lord ) .By the powers of the great Lord God Almighty , we meet , we live , we see one another face to face .",
+        "words": [
+          "fragrant",
+          "Lord"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/c5edf7ba-598c-5e26-9c2f-676abb336c14",
+        "value": "The poorest Chinese cottager has a natural taste for flowers , and there is rarely a hut so squalid as not to have at least the flowering mu - hsiang ( Costus amarus ) or the red - blossomed shui - mang ( I / icium religiosum ) shading the entrance .* Outside two - thirds of the houses at Fatee were huge jars full of fermenting , nauseous liquor .This stuff we were told was the preparation of soy , and I have never endured the sight or smell of soy since ; the whole suburb reeked with the foul odour .",
+        "words": [
+          "nauseous",
+          "liquor"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/cbe2e4cc-5f8b-5364-ac57-fb094c87e3b4",
+        "value": "— Visit from Hova Officials .Leaving far astern the fragrant zephyrs of the Island of Spices , the good ship Urgent tranquilly ploughed the ocean - deep , placid and almost unruffled : — ' Those trackless deeps , where many a weary sail Has seen above the illimitable plain Morning on night , and night on morning , rise , Whilst still no land to greet the wanderer spreads Its shadowy mountains on the sun - bright The last we saw of land was the light on the treacherous Basses , the rocks which are , by Oriental legend , supposed to mark the last vestiges of the wondrous submerged Island of Giri .The sunken Monkey - land of the Ramayan — the seat of the terrestrial prehistoric prehistoric Paradise , and perhaps the home of the missing - link , now Many a fathom under the sea , To the south of sun - bright Araby : Indeed , it is not improbable that the northern limits of the submerged Lemurian which , according to Dr .",
+        "words": [
+          "fragrant",
+          "zephyrs of the Island of Spices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/ce502d1f-ec5d-59f4-b67b-f894ac0d4151",
+        "value": "With regard to the native religion of the Malagasy , they can hardly be said to possess any form of faith whatever ; their creed ( if that term may be applied to the few and confused notions entertained on the subject ) seems to consist of little more than a heterogeneous compound of superstitious terrors and practices .Certain barbarous ceremonies and unmeaning usages exist which have been handed down from their forefathers ; but they have a very vague , indefinite motion of a Deity , applying the term Andriamanitra ( literally , the fragrant prince to their sovereign , their idols , individually and collectively , their dead , to anything supernatural , a phenomenon of nature , and to the genius which animates their various charms , divinations , ordeals , & amp ; c .Their ideas on these subjects are evidently borrowed from other nations ; thus they practice the rite of circumcision learnt from the Arabs , but as a civil rather than a religious ceremony .",
+        "words": [
+          "prince",
+          "fragrant",
+          "Andriamanitra"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/e4c86f2c-f848-59a8-9206-fdb22eed831c",
+        "value": "The twilight is so short , lasting half an hour and no more , that we congratulate the ship on having reached the harbour ' s mouth , and hope she will be allowed to enter the same evening , as we turn towards the house .But alas ! horreur sacree ! Foul green - skinned sharks expectant wait For that immigrant ship with its human freight , Endued with fatal prescience , they Have scented afar their carrion prey : Grim dorsal fins shew where they steer With blood - red gills through the waters clear To the sound of the bell - buoy Even as we rise to leave the old mortar - battery , again , in close succession , two dull concussions boom across the sea with portentous sound , announcing a signal too weU 44 ON AND OPF DUTY .On April 15th the Chinaman who had been caught red - handed in the murderous attack on the havildar already mentioned , was executed .",
+        "words": [
+          "scented",
+          "they",
+          "afar"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/e94de9de-a8fd-5398-958e-6d0f577844a8",
+        "value": ") , they may be met singly or in groups trudging into town with two large baskets of vegetables or fruits swinging on a long pole , their only clothing a rag round their loins and a pig - tail ! A large rattan hat is sometimes added later in the day , as a protection from the vertical sun .Green oranges , Durian , ' the fruit with the fragrant stink , ' as Dampier calls it ; purple mangosteens , strawberry - like litchees , great clusters of golden or green bananas , green cocoa - nuts , for their milk , or ripe for curries , form their loads .The vegetables are cucumbers ( Luffa and momordica ) in a green state , fresh onions , lettuce , and radishes , smallish tomatos of exquisite flavour , edible bamboo , long beans of Chinese origin , and various roots , leaves , and fruits used in native cookery , and for the most part quite unfamiliar to European eyes .",
+        "words": [
+          "fragrant",
+          "purple",
+          "stink",
+          "green cocoa - nuts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/f413d9ec-9779-501b-a5d6-5ea348436eb9",
+        "value": "* Michelia champaca , a well - known forest tree of the magnolia species , with sweet - scented yellow blossoms which are used to decorate the shrines of Buddhist temples .wandering airs they faint On the dark , the silent stream j The Champak odours fail Like sweet thoughts in a The Indian Shelley .335 CHAPTER III .",
+        "words": [
+          "odours",
+          "Champak",
+          "Like sweet thoughts in a The Indian Shelley"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/fd278bef-82c5-54b3-b3b3-83a18fe5c352",
+        "value": "We crossed and recrossed delightfully clear streams , tributaries of the river Farimbongy .Tiee - ferns ( cyatheas ) were now conspicuous ; arums lined the banks , covered with the most prolific vegetation , and in the marshy places grew a whiteblossomed whiteblossomed crinum with a delicious perfume , called by the natives kingass .Here , in the pools and less rapid portion of the stream , I first saw the Ouvirandra fenestralis , its lattice leaves waving like long dark green streamers below the surface , and its pink blossoms ( showing it to be of the variety bernieriana ) floating on the surface at the extremity of the long stalks .",
+        "words": [
+          "perfume",
+          "delicious",
+          "arums",
+          "Tiee - ferns ( cyatheas",
+          "a whiteblossomed whiteblossomed crinum"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/7b55600b-4546-591e-ae74-4d759251748e",
+        "label": "Samuel Pasfield Oliver"
+      }
+    ],
+    "label": "On and off Duty, being leaves from an officer's notebook. ... With illustrations, etc",
+    "date": "1881",
+    "language": "en"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/7b1e2825-141c-59bf-8600-d1e37b1ec78e",
+      "label": "1881",
+      "begin": "1881",
+      "end": "1881"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/8477211/",
+      "label": "Mowaileh Suburb"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/disgust",
+      "label": "disgust"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/4279da07-df17-5576-a200-2c0c385dbc13/fragment/13df1f9f-c01f-5da3-bb51-d4d724b78c39",
+  "adjective": "foul"
+}

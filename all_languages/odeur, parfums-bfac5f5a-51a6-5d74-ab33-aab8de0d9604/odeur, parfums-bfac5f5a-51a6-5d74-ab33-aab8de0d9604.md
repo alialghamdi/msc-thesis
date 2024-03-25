@@ -1,0 +1,252 @@
+## odeur, parfums
+
+### Metadata
+
+| Property | Value |
+| -------- | ----- |
+| @type | http://data.odeuropa.eu/ontology/L11_Smell |
+| @id | http://data.odeuropa.eu/smell/bfac5f5a-51a6-5d74-ab33-aab8de0d9604 |
+| @graph | http://data.odeuropa.eu/gallica |
+| label.0 | odeur |
+| label.1 | parfums |
+| source.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2 |
+| source.excerpts.0.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/00e93d82-8659-544d-bbe7-fedf32781707 |
+| source.excerpts.0.value | Aussi Desgenettes dit - il , en parlant de la quarantaine qu ' il fit dans cet établissement , à son retour d ' Egypte en brumaire an X : « Je désirerais seulement qu ' on supprimât la cérémonie puérile et illusoire du parfum , la veille de la sortie , et qui consiste à enfumer les personnes en brûlant une botte de foin .» C ' est sur ce foin en combustion qu ' on projetait le mélange désinfectant .Pendant plusieurs siècles , les contagionistes ont eu une confiance aveugle dans ces divers moyens de purification ; ils ont cru avoir ainsi anéanti les germes de la peste des milliers de fois , et préservé l ' Europe de ce fléau ; mais l ' expérience a démontré que la cérémonie du parfum est , en effet , puérile et illusoire , comme le dit Desgenettes , et que toutes les fumigations que l ' on faisait jadis et que l ' on fait encore de nos jours , dans le but de détruire le principe contagieux des maladies , sont complètement inutiles . |
+| source.excerpts.0.words.0 | foin |
+| source.excerpts.0.words.1 | désinfectant |
+| source.excerpts.1.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/0180dcbe-4405-52fb-9ae1-56e6a4c4b89b |
+| source.excerpts.1.value | té * .Arrivé le 0 octobre , à huit heures du soir , il se reposa le 10 ; le 11 , il vit un malade ; le 12 , il le visita de nouveau , et , s ' en étant trop approché , il sentit , dit - on , une mauvaise odeur qui l ' incommoda beaucoup ; dans la même matinée , il avait visité une autre personne également atteinte de la fièvre jaune .Il tomba malade dans la nuit du 12 au 13 et succomba le 22 octobre , dixième jour de sa maladie . |
+| source.excerpts.1.words.0 | mauvaise |
+| source.excerpts.1.words.1 | odeur |
+| source.excerpts.1.words.2 | il |
+| source.excerpts.1.words.3 | l |
+| source.excerpts.1.words.4 | Arrivé le 0 octobre |
+| source.excerpts.2.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/04df8ac3-d21e-5aa4-8462-138c3c69de5f |
+| source.excerpts.2.value | lazarets de la ville et de la rivière de Gênes , publiée en 1668 , le pète Antero Maria avait déjà signalé ce fait capital , mais l ' on n ' eut point égard à ses observations .« Je supplie , disaitil , toutes les nations chrétiennes , de n ' accorder aucune confiance pratique aux parfums sur le principe du mal pestilentiel ' .» Si l ' avis de ce bon religieux et de plusieurs autres observateurs éclairés avait été pris en considération , on aurait épargné bien de l ' argent qui s ' en est allé en fumée sans aucun profit pour la santé publique , car il y avait des parfums qui coûtaient des prix fort élevés . |
+| source.excerpts.2.words.0 | parfums |
+| source.excerpts.2.words.1 | Je |
+| source.excerpts.3.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/097e62ae-2a9a-5800-a6a1-b8f880542b71 |
+| source.excerpts.3.value | J ' avoue , ajoute M .Pariset , que les fièvres jaunes sporadiques aperçues de loin en loin dans les ports de France n ' ont rien eu de contagieux ; mais tout change avec le temps , les lieux , les émanations , les animaux , les hommes , les maladies elles - mêmes .Je n ' ai pas la prétention de lire dans l ' avenir , et de proposer mes décisions comme infaillibles . |
+| source.excerpts.3.words.0 | émanations |
+| source.excerpts.3.words.1 | fièvres |
+| source.excerpts.3.words.2 | les ports de France |
+| source.excerpts.4.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/135ad619-4495-50b9-b886-17de22630594 |
+| source.excerpts.4.value | les , commissaires soutiennent au contraire que le port de Barcelone était , en 1821 , des plus propres et des plus salnbres qui existent .Il Jamais , disent - ils , nous n ' y avons senti de mauvaise odeur , et , pour parler le langage de ceux que nous combattons , nous n ' avons jamais soupçonné qu ' il y eut là la plus légère infection ; ajoutons que partout l ' eau du port est claire et limpide ' On vous dit que les égouts avaient , de l ' odeur à leur embouchure dans les eaux de la mer .Admirable découverte sans doute ! Invention merveilleuse ! Des égouts ont de l ' odeur ! Il faut convenir que le génie a bien eu à s ' exercer pour arriver à ce sublime résultat ! Mais , depuis quand les égouts parfument - ils l ' air ? L ' ont - ils embaumé dans les années précédentes , dans les siècles précédents ? Et si les égouts donnent la fièvre jaune , pourquoi n ' apparaitelle point tous les étés dans toutes les villes de l ' univers ? . |
+| source.excerpts.4.words.0 | mauvaise |
+| source.excerpts.4.words.1 | odeur |
+| source.excerpts.4.words.2 | nous |
+| source.excerpts.4.words.3 | égouts |
+| source.excerpts.4.words.4 | port |
+| source.excerpts.5.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/1b8adc29-53c8-504e-a505-b0a1ce7a31f3 |
+| source.excerpts.5.value | Il Dupuytren nous dit qu ' il à eu fréquemment occasion de constater qu ' autant de temps que , dans une salle confiée à ses soins , le nombre des malades n ' excédait pas deux cents , l ' air n ' avait rien qui repoussât l ' odorat , rien qui altéràt la marche naturelle des maladies ; mais si , par l ' effet de circonstances impérieuses qui se sont fréquemment reproduites en 1814 et 1815 , ce nombre venait a être élevé de deux cents à trois cents , ou seulement à deux cent cinquante , à deux cent quarante , deux cent trente , et quelquefois même à deux cent vingt , l ' air éprouvait aussitôt une altération annoncée par une odeur désagréable , nauséabonde , qui s ' attachait aux malades , à leurs vêtements de corps et de lit , et jusqu ' aux murs de la salle .Ce changement dans les qualités de l ' air , qui n ' était d ' ailleurs sensible qu ' à l ' odorait , devenait le signal infaillible de l ' apparition de la pourriture d ' hôpital et de fièvres de mauvais caractère .Que si , par l ' effet de circonstances opposées , Je nombre des malades venait à être ramené , par degrés , à deux cents , on voyait , par degrés aussi , s ' affaiblir et disparaître l ' odeur nauséabonde de l ' air , la pourriture d ' hôpital et les fièvres de mauvais caractère . |
+| source.excerpts.5.words.0 | air |
+| source.excerpts.5.words.1 | odorait |
+| source.excerpts.6.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/1e14f408-ad7d-5014-a7ba-7ed38f82f1d2 |
+| source.excerpts.6.value | comme le plus récent , doit présenter le plus de clmnces d ' exactitude .Ils l ' exposent ainsi : u En mai 1829 , un portefaix , soignant des cotons venus d ' Alexandrie par le navire le Lyonnais , capitaine Madaille , est atteint d ' un bubon pestilentiel .Il Eh bien ! deux médecins éclairés ' , qui ont eu une connaissance exacte du fait dont il s ' agit , m ' ont flHirmé , de vive voix et par écrit , que ce prétendu bubon pestilentiel était tout simplement . |
+| source.excerpts.6.words.0 | pestilentiel |
+| source.excerpts.6.words.1 | cotons |
+| source.excerpts.6.words.2 | bubon |
+| source.excerpts.6.words.3 | En mai 1829 |
+| source.excerpts.7.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/2a058660-75aa-5dda-bd74-38ab6a9e1d35 |
+| source.excerpts.7.value | le docteur Gasc , médecin inspecteur de l ' armée .« Lorsque j ' étais , dit - il , dans le gouvernement de Caminieck , au commencement de 1814 , époque où la peste régnait dans les contrées voisines , sur les frontières de la Turquie , j ' ai connu une dame qui , dans sa jeunesse , avait eu la peste à Constantinople , et à laquelle il était resté sur la poitrine une cicatrice considérable à la suite d ' un charbon pestilentiel .Cette cicatrice était douloureuse alors , et cette dame avait remarqué que la sensibilité de cette partie se développait chaque fois que la peste ravageait les pays limitrophes5 . |
+| source.excerpts.7.words.0 | pestilentiel |
+| source.excerpts.7.words.1 | Constantinople |
+| source.excerpts.7.words.2 | commencement de |
+| source.excerpts.8.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/2d4a92e4-50e4-5e36-9725-81d7684153ff |
+| source.excerpts.8.value | capitaux relatifs A l ' origine et au mode de propagation du fléau qu ' ils avaient à décrire , ont été tronqués , travestis , dénaturés de la manière la plus étrange .Ainsi , par exemple , sept ou huit rapports officiels , et divers autres documents authentiques , attestent que le fond du port de Barcelone et la plage adjacente présentaient , en 1821 , beaucoup de matières organiques en état de putréfaction , qui exhalaient une odeur des plus infectes , et disent en outre que l ' eau était fort sale dans cette localité .MM . |
+| source.excerpts.8.words.0 | odeur |
+| source.excerpts.8.words.1 | matières organiques |
+| source.excerpts.8.words.2 | des plus infectes |
+| source.excerpts.8.words.3 | en 1821 |
+| source.excerpts.8.words.4 | fond du port de Barcelone |
+| source.excerpts.8.words.5 | plage adjacente |
+| source.excerpts.9.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/2f15e5f9-6194-5cbf-b785-43d98ff21048 |
+| source.excerpts.9.value | Il Jamais , disent - ils , nous n ' y avons senti de mauvaise odeur , et , pour parler le langage de ceux que nous combattons , nous n ' avons jamais soupçonné qu ' il y eut là la plus légère infection ; ajoutons que partout l ' eau du port est claire et limpide ' On vous dit que les égouts avaient , de l ' odeur à leur embouchure dans les eaux de la mer .Admirable découverte sans doute ! Invention merveilleuse ! Des égouts ont de l ' odeur ! Il faut convenir que le génie a bien eu à s ' exercer pour arriver à ce sublime résultat ! Mais , depuis quand les égouts parfument - ils l ' air ? L ' ont - ils embaumé dans les années précédentes , dans les siècles précédents ? Et si les égouts donnent la fièvre jaune , pourquoi n ' apparaitelle point tous les étés dans toutes les villes de l ' univers ? .( P . |
+| source.excerpts.9.words.0 | odeur |
+| source.excerpts.9.words.1 | air |
+| source.excerpts.9.words.2 | embaumé |
+| source.excerpts.9.words.3 | égouts |
+| source.excerpts.9.words.4 | villes |
+| source.excerpts.9.words.5 | parfument |
+| source.excerpts.9.words.6 | tous les étés |
+| source.excerpts.10.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/34a0f490-54d6-519f-a6ff-9f26a6f35164 |
+| source.excerpts.10.value | les commissaires sont tombés dans les mêmes exagérations en parlant des confesseurs qui , suivant eux , couraient le plus grand danger , parce que le secret de la confession exigeait qu ' ils se trouvassent placés « sous le courant des émanations délétères sortant des profondeurs de la poitrine des mourants2 .» Il y a plus : la municipalité de Barcelone publia , en 1822 , un tableau des prêtres et des religieux qui moururent dans les différentes paroisses et dans les divers couvents , après avoir donné des - soins aux malades de l ' épidémie 5 , Dans le but de prouver que les confesseurs firent de grandes pertes , parce qu ' ils étaient obligés de se trouver « sous le courant des émanations délétères sortant des profondeurs de la poitrine des mourants n , MM .Bally , François et Pariset ont reproduit ce tableau dans leur Histoire médicale , p . |
+| source.excerpts.10.words.0 | Barcelone |
+| source.excerpts.10.words.1 | émanations |
+| source.excerpts.10.words.2 | délétères |
+| source.excerpts.10.words.3 | en 1822 |
+| source.excerpts.11.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/3934796a-e894-59df-8df7-7aab18d22b30 |
+| source.excerpts.11.value | ) Nous le répétons avec la plus entière confiance , ajoutent MM .Bally , François et Pariset , toutes ces petites fictions sur les émanations du port , sur celles d ' un ruisseau ; toutes ces petites ressources suggérées par l ' amour - propre et l ' intérêt , adoptées par la légèreté , et soutenues par l ' imposture , se taisent et s ' évanouissent devant le grand fait de l ' importation de la fièvre jaune d ' Amérique en Europe : fait de la publicité la plus solennelle , fait fondamental , manifeste , incontestable , si souvent reproduit depuis vingt - trois années , et , cette année 1821 , avec des circonstances qui le rendent supérieur au doute et à l ' objection .» ( P . |
+| source.excerpts.11.words.0 | ruisseau |
+| source.excerpts.11.words.1 | fièvre |
+| source.excerpts.11.words.2 | émanations |
+| source.excerpts.11.words.3 | Bally |
+| source.excerpts.11.words.4 | cette année 1821 |
+| source.excerpts.11.words.5 | depuis vingt - trois années |
+| source.excerpts.12.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/4436b960-f911-5cb5-9380-b8bc3f04d70d |
+| source.excerpts.12.value | » L ' encombrement est en effet un puissant moyen de viciation de l ' atmosphère .Il Dupuytren nous dit qu ' il à eu fréquemment occasion de constater qu ' autant de temps que , dans une salle confiée à ses soins , le nombre des malades n ' excédait pas deux cents , l ' air n ' avait rien qui repoussât l ' odorat , rien qui altéràt la marche naturelle des maladies ; mais si , par l ' effet de circonstances impérieuses qui se sont fréquemment reproduites en 1814 et 1815 , ce nombre venait a être élevé de deux cents à trois cents , ou seulement à deux cent cinquante , à deux cent quarante , deux cent trente , et quelquefois même à deux cent vingt , l ' air éprouvait aussitôt une altération annoncée par une odeur désagréable , nauséabonde , qui s ' attachait aux malades , à leurs vêtements de corps et de lit , et jusqu ' aux murs de la salle .Ce changement dans les qualités de l ' air , qui n ' était d ' ailleurs sensible qu ' à l ' odorait , devenait le signal infaillible de l ' apparition de la pourriture d ' hôpital et de fièvres de mauvais caractère . |
+| source.excerpts.12.words.0 | désagréable |
+| source.excerpts.12.words.1 | odeur |
+| source.excerpts.12.words.2 | air |
+| source.excerpts.12.words.3 | odorat |
+| source.excerpts.12.words.4 | malades |
+| source.excerpts.12.words.5 | nauséabonde |
+| source.excerpts.12.words.6 | de |
+| source.excerpts.12.words.7 | aussitôt |
+| source.excerpts.12.words.8 | salle |
+| source.excerpts.12.words.9 | Il Dupuytren |
+| source.excerpts.12.words.10 | en 1814 et 1815 |
+| source.excerpts.13.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/510102fc-91d4-5948-ac82-91612ebe8afe |
+| source.excerpts.13.value | « Je supplie , disaitil , toutes les nations chrétiennes , de n ' accorder aucune confiance pratique aux parfums sur le principe du mal pestilentiel ' .» Si l ' avis de ce bon religieux et de plusieurs autres observateurs éclairés avait été pris en considération , on aurait épargné bien de l ' argent qui s ' en est allé en fumée sans aucun profit pour la santé publique , car il y avait des parfums qui coûtaient des prix fort élevés .Quand les fumigations de chlore furent en vogue , l ' intendance sanitaire de Marseille les substitua à son fameux parfum ; mais le 6 juillet 1822 , Hï . |
+| source.excerpts.13.words.0 | parfums |
+| source.excerpts.13.words.1 | religieux |
+| source.excerpts.14.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/535ec760-e1c2-54ad-9814-e5dfca63bb21 |
+| source.excerpts.14.value | Mazet emporté par son zèle , eùt entrepris des recherches anatomiques d ' une nature aussi dangereuse .Nos amis eux - mêmes , ajoute - t - il , ne l ' eussent souffert ni pour lui , bien que familiarisé avec ce genre de travail , ni pour moi qui n ' en ai plus l ' habitude , et qui me révolte outre mesure à l ' odeur des cadavres , depuis que j ' ai eu le typhus des hôpitaux2 .» Maigre cette réunion de circonstances défavorables pour bien observer et pour juger sainement , M . |
+| source.excerpts.14.words.0 | odeur |
+| source.excerpts.14.words.1 | amis |
+| source.excerpts.14.words.2 | cadavres |
+| source.excerpts.14.words.3 | moi |
+| source.excerpts.15.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/5a1f5246-0c0f-5a2d-9586-3a5ce2755368 |
+| source.excerpts.15.value | Il Ainsi , en 1839 , dans un port de France , un médecin de la marine française livre impitoyablement aux flammes une énorme quantité de matelas , traversins , draps de lit , chemises , etc ., et pourquoi ? parce qu ' il s ' est imaginé que ces objets recélaient sans aucun doute les germes de la fièvre jaune , attendu qu ' ils répandaient , dit - il , une odeur infecte .Mais depuis quand une odeur infecte est - elle une preuve certaine de la présence d ' un principe contagieux ? Ne saiton pas que des émanations d ' une grande fétidité sont d ' une innocuité parfaite , tandis que d ' autres , qui ne portent avec elles aucune mauvaise odeur , sont parfois très - délétères ? D ' ailleurs , comment , en 1839 , M . |
+| source.excerpts.15.words.0 | infecte |
+| source.excerpts.15.words.1 | odeur |
+| source.excerpts.15.words.2 | objets |
+| source.excerpts.16.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/664c3b66-0aa3-5c04-9385-986f84a12930 |
+| source.excerpts.16.value | L ' on a vu même , ajoute Sonnini , qu ' en 1780 , une caravelle du grand - seigneur était entrée dans le port vieux d ' Alexandrie , ayant la peste à son bord .Un homme qui se trouvait près d ' un coffre que l ' on ouvrit tomba raide mort , frappé par les miasmes pestiférés qui en sortaient .Cependant tous les Turcs de ce vaisseau descendirent à terre , se répandirent dans la ville , sans qu ' on en conçût la moindre inquiétude ; ils communiquèrent avec les habitants , et il n ' en résulta aucun accident2 . |
+| source.excerpts.16.words.0 | miasmes |
+| source.excerpts.16.words.1 | pestiférés |
+| source.excerpts.16.words.2 | Un homme |
+| source.excerpts.17.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/6961cc2c-1adc-58f0-9d57-34cf6675093d |
+| source.excerpts.17.value | , et pourquoi ? parce qu ' il s ' est imaginé que ces objets recélaient sans aucun doute les germes de la fièvre jaune , attendu qu ' ils répandaient , dit - il , une odeur infecte .Mais depuis quand une odeur infecte est - elle une preuve certaine de la présence d ' un principe contagieux ? Ne saiton pas que des émanations d ' une grande fétidité sont d ' une innocuité parfaite , tandis que d ' autres , qui ne portent avec elles aucune mauvaise odeur , sont parfois très - délétères ? D ' ailleurs , comment , en 1839 , M .Bertulus a - t - il pu croire que le feu soit le seul agent capable de neutraliser ou d ' anéantir les germes de la fièvre jaune , en admettant que cette maladie possède des germes il De VImportation de la fièvre jaune en Europe , page 51 . |
+| source.excerpts.17.words.0 | infecte |
+| source.excerpts.17.words.1 | aucune mauvaise |
+| source.excerpts.17.words.2 | odeur |
+| source.excerpts.17.words.3 | émanations |
+| source.excerpts.17.words.4 | principe |
+| source.excerpts.17.words.5 | très - délétères |
+| source.excerpts.17.words.6 | innocuité parfaite |
+| source.excerpts.18.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/7bd2800c-8b39-59f7-a3b4-d635022c8534 |
+| source.excerpts.18.value | » C ' est sur ce foin en combustion qu ' on projetait le mélange désinfectant .Pendant plusieurs siècles , les contagionistes ont eu une confiance aveugle dans ces divers moyens de purification ; ils ont cru avoir ainsi anéanti les germes de la peste des milliers de fois , et préservé l ' Europe de ce fléau ; mais l ' expérience a démontré que la cérémonie du parfum est , en effet , puérile et illusoire , comme le dit Desgenettes , et que toutes les fumigations que l ' on faisait jadis et que l ' on fait encore de nos jours , dans le but de détruire le principe contagieux des maladies , sont complètement inutiles .Dans son histoire des 1 Papon , De la peste , lome II , page 9G . |
+| source.excerpts.18.words.0 | parfum |
+| source.excerpts.18.words.1 | Pendant plusieurs siècles |
+| source.excerpts.18.words.2 | jadis |
+| source.excerpts.18.words.3 | contagionistes |
+| source.excerpts.19.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/86c31cef-3ea0-593f-986d-48903f9388c4 |
+| source.excerpts.19.value | » Si l ' avis de ce bon religieux et de plusieurs autres observateurs éclairés avait été pris en considération , on aurait épargné bien de l ' argent qui s ' en est allé en fumée sans aucun profit pour la santé publique , car il y avait des parfums qui coûtaient des prix fort élevés .Quand les fumigations de chlore furent en vogue , l ' intendance sanitaire de Marseille les substitua à son fameux parfum ; mais le 6 juillet 1822 , Hï .le docteur Robert fit à cette administration un rapport au nom d ' une commission spéciale , composée de médecins et de chimistes , rapport dans lequel ce grand contagioniste déclare avec douleur que les fumigations avec le chlore ne jouissent d ' aucune propriété désinfectante . |
+| source.excerpts.19.words.0 | parfum |
+| source.excerpts.19.words.1 | Quand |
+| source.excerpts.19.words.2 | le 6 juillet 1822 |
+| source.excerpts.20.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/90ef30ae-92bb-5032-b9ee-751a8184073b |
+| source.excerpts.20.value | une preuve péremptoire de cette vérité pour ce qui regarde cette maladie .Yoici du reste comment le docteur Grassi , médecin du lazaret d ' Alexandrie , s ' exprime au sujet des moyens désinfectants : Il Laissant de côté , dit - il , les parfums et herbes aromatiques , que je crois plus propres à corrompre l ' air qu ' à détruire le germe pestilentiel ; je crois , en outre , que les parfums les plus forts ne peuvent être que d ' une faible , ou d ' aucune utilité , et j ' attribue au trop de confiance que j ' avais accordée à l ' odeur du soufre les malheurs de ma famille en 1835 .Je n ' ai pas encore , ajoute M . |
+| source.excerpts.20.words.0 | Alexandrie |
+| source.excerpts.20.words.1 | odeur |
+| source.excerpts.20.words.2 | air |
+| source.excerpts.20.words.3 | parfums |
+| source.excerpts.20.words.4 | soufre |
+| source.excerpts.20.words.5 | détruire |
+| source.excerpts.20.words.6 | je |
+| source.excerpts.20.words.7 | aromatiques |
+| source.excerpts.20.words.8 | herbes |
+| source.excerpts.20.words.9 | j |
+| source.excerpts.20.words.10 | docteur |
+| source.excerpts.20.words.11 | médecin |
+| source.excerpts.20.words.12 | corrompre |
+| source.excerpts.20.words.13 | les plus forts |
+| source.excerpts.20.words.14 | lazaret |
+| source.excerpts.20.words.15 | 1835 |
+| source.excerpts.21.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/9ac1a241-2983-5a9a-ae49-71ad5f39915d |
+| source.excerpts.21.value | » Ces moyens désinfectants ont été si nombreux et si variés , que leurs recettes seules formeraient plusieurs volumes ; mais celui du lazaret de Marseille se distingue pardessus tous les autres par le grotesque et le danger de sa composition , car il y entre de l ' arsenic .Aussi Desgenettes dit - il , en parlant de la quarantaine qu ' il fit dans cet établissement , à son retour d ' Egypte en brumaire an X : « Je désirerais seulement qu ' on supprimât la cérémonie puérile et illusoire du parfum , la veille de la sortie , et qui consiste à enfumer les personnes en brûlant une botte de foin .» C ' est sur ce foin en combustion qu ' on projetait le mélange désinfectant . |
+| source.excerpts.21.words.0 | parfum |
+| source.excerpts.21.words.1 | en brumaire an X |
+| source.excerpts.21.words.2 | enfumer les personnes |
+| source.excerpts.21.words.3 | la veille de la sortie |
+| source.excerpts.22.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/9e95a030-c849-50ab-b3a5-3f810d707d28 |
+| source.excerpts.22.value | Ils l ' exposent ainsi : u En mai 1829 , un portefaix , soignant des cotons venus d ' Alexandrie par le navire le Lyonnais , capitaine Madaille , est atteint d ' un bubon pestilentiel .Il Eh bien ! deux médecins éclairés ' , qui ont eu une connaissance exacte du fait dont il s ' agit , m ' ont flHirmé , de vive voix et par écrit , que ce prétendu bubon pestilentiel était tout simplement .une pustule maligne , ou un petit charbon qui avait son siège à la partie moyenne et postérieure de l ' avant - bras . |
+| source.excerpts.22.words.0 | pestilentiel |
+| source.excerpts.22.words.1 | bubon |
+| source.excerpts.22.words.2 | médecins |
+| source.excerpts.23.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/aa810a2e-1c7b-5715-959d-aed623419d30 |
+| source.excerpts.23.value | MM .les commissaires sont tombés dans les mêmes exagérations en parlant des confesseurs qui , suivant eux , couraient le plus grand danger , parce que le secret de la confession exigeait qu ' ils se trouvassent placés « sous le courant des émanations délétères sortant des profondeurs de la poitrine des mourants2 .» Il y a plus : la municipalité de Barcelone publia , en 1822 , un tableau des prêtres et des religieux qui moururent dans les différentes paroisses et dans les divers couvents , après avoir donné des - soins aux malades de l ' épidémie 5 , Dans le but de prouver que les confesseurs firent de grandes pertes , parce qu ' ils étaient obligés de se trouver « sous le courant des émanations délétères sortant des profondeurs de la poitrine des mourants n , MM . |
+| source.excerpts.23.words.0 | émanations |
+| source.excerpts.23.words.1 | délétères |
+| source.excerpts.23.words.2 | commissaires |
+| source.excerpts.24.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/ccc3aad0-a264-55db-8636-9ee4d9728ff1 |
+| source.excerpts.24.value | Enfin , suivant M .Culard , qui est aussi contagioniste , Il tous les procédés de désinfection successivement préconisés , rejetés ou repris , sont empiriques ; la panacée des miasmatiques , le chlore et ses dérivés , les acides sulfureux , acétiquehydrochlorique et nitrique , les fumigations aromatiques de bois résineux , de camphre , de cannelle , de bois d ' alcês , de genièvre , de poivre , de lavande , de romarin , de sauge , et les trois parfums du lazaret de Marseille , etc ., tous ces moyens sont empiriques et inutiles ; car s ' ils agissent réellement , ce n ' est que par la somme de chaleur et d ' humidité qui accompagne le dégagement de leurs principes volatils . |
+| source.excerpts.24.words.0 | cannelle |
+| source.excerpts.24.words.1 | camphre |
+| source.excerpts.24.words.2 | parfums |
+| source.excerpts.24.words.3 | aromatiques |
+| source.excerpts.24.words.4 | poivre |
+| source.excerpts.24.words.5 | romarin |
+| source.excerpts.24.words.6 | genièvre |
+| source.excerpts.24.words.7 | lavande |
+| source.excerpts.24.words.8 | sauge |
+| source.excerpts.24.words.9 | bois résineux |
+| source.excerpts.24.words.10 | lazaret de Marseille |
+| source.excerpts.24.words.11 | acides sulfureux , acétiquehydrochlorique et nitrique |
+| source.excerpts.24.words.12 | bois d ' alcês |
+| source.excerpts.25.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/d7a1aa1f-1137-5f30-af6a-4ad830bb7d66 |
+| source.excerpts.25.value | DES FUMIGATIONS COMME PRÉSERVATIFS DE LA PESTE .L ' existence d ' un principe transmissible de la peste une fois admise , il était tout naturel de chercher à anéantir ce même principe dans le but d ' empêcher la reproduction du fléau ; et pour cela on eut recours , dès l ' établissement du régime sanitaire , à la combustion de parfums , amalgames plus ou moins incohérents de différentes substances , auxquels on attribuait la vertu de « chasser le venin pestilentiel des corps spongieux1 .» Ces moyens désinfectants ont été si nombreux et si variés , que leurs recettes seules formeraient plusieurs volumes ; mais celui du lazaret de Marseille se distingue pardessus tous les autres par le grotesque et le danger de sa composition , car il y entre de l ' arsenic . |
+| source.excerpts.25.words.0 | parfums |
+| source.excerpts.25.words.1 | pestilentiel |
+| source.excerpts.26.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/dfd2a530-5d6c-5c8d-a0bb-53da99cf8248 |
+| source.excerpts.26.value | Ce changement dans les qualités de l ' air , qui n ' était d ' ailleurs sensible qu ' à l ' odorait , devenait le signal infaillible de l ' apparition de la pourriture d ' hôpital et de fièvres de mauvais caractère .Que si , par l ' effet de circonstances opposées , Je nombre des malades venait à être ramené , par degrés , à deux cents , on voyait , par degrés aussi , s ' affaiblir et disparaître l ' odeur nauséabonde de l ' air , la pourriture d ' hôpital et les fièvres de mauvais caractère .Il Un fait plus étonnant encore , ajoute Dupuytren , est que cinq ou six malades ont suffi plus d ' une fois pour rompre le juste rapport qui doit exister entre l i capacité d ' iine salle et le nombre des malades , et pour faire paraître et disparaître successivement les altérations de l ' air et les effets que nous 1 Lettre relative à la fièvre jaune et à la possibilité de son importation en Europe , adressée à M . |
+| source.excerpts.26.words.0 | odeur |
+| source.excerpts.26.words.1 | air |
+| source.excerpts.26.words.2 | nauséabonde |
+| source.excerpts.27.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/e08b33eb-57e4-51a1-bddb-895e754cada5 |
+| source.excerpts.27.value | , que je livrai impitoyablement aux flammes .Nul doute , dit - il , qu ' ils ne recélassent les germes de la lièvre jaune , et l ' odeur infecte qu ' ils répandaient ne justifiait que trop mes appréhensions .Introduire ces objets à Brest , après la quarantaine , eût été , je crois , de la plus grande imprudence , et je ne me souciais nullement de prendre une telle responsabilité . |
+| source.excerpts.27.words.0 | infecte |
+| source.excerpts.27.words.1 | odeur |
+| source.excerpts.27.words.2 | ils |
+| source.excerpts.27.words.3 | lièvre jaune |
+| source.excerpts.28.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/e35bce6f-42e6-5d0b-a8c6-efe6684f9a9b |
+| source.excerpts.28.value | Dans un rapport que l ' Académie de médecine fit à M .le ministre de l ' intérieur , le 31 août 1830 , sur un moyen qui avait été proposé au gouvernement pour désinfecter le coton venant d ' Egypte , elle exprima le vœu que des expériences propres à constater l ' existence ou la non - existence d ' un principe pestilentiel dans t & coton , fussent faites au lazaret de Marseille Dès que je fus instruit de cette décision de l ' Académie de médecine , je m ' empressai d ' annoncer à son conseil d ' administration que j ' étais prêt à me soumettre à toutes les expé - riences que le Gouvernement jugerait convenable de faire faire dans le but de s ' assurer si la peste est ou n ' est pas contagieuse , et de quelle manière et à quel degré elle peut être transmissible .Je priai , en même temps , le conseil d ' administration de l ' Académie de vouloir bien informer M . |
+| source.excerpts.28.words.0 | contagieuse |
+| source.excerpts.28.words.1 | pestilentiel |
+| source.excerpts.28.words.2 | principe |
+| source.excerpts.28.words.3 | peste |
+| source.excerpts.28.words.4 | lazaret de Marseille |
+| source.excerpts.28.words.5 | 31 août 1830 |
+| source.excerpts.29.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/e457c6ed-3664-5c8d-bccb-a737619fa456 |
+| source.excerpts.29.value | Des faits nombreux viennent à l ' appui de cette vérité .En 1797 , Larrey , étant à Venise , fut chargé d ' inspecter deux bâtiments français la Gloire et l ' Éole , à bord desquels régnait le typhus et une excessive malpropreté : 1 ( Dans le vaisseau la Gloire , cette malpropreté était générale ; une odeur fétide et nauséabonde se faisait sentir dans les batteries , j ' entrepont et le gaillard .» Cet illustre chirurgien « demanda d ' abord qu ' on évacuât tous les malades de ces deux bâtiments sur les hôpitaux voisins , qu ' on débarquât les troupes , et qu ' on les établit sous 1 Suivant M . |
+| source.excerpts.29.words.0 | Venise |
+| source.excerpts.29.words.1 | fétide |
+| source.excerpts.29.words.2 | odeur |
+| source.excerpts.29.words.3 | nauséabonde |
+| source.excerpts.29.words.4 | vaisseau |
+| source.excerpts.29.words.5 | Larrey |
+| source.excerpts.29.words.6 | batteries |
+| source.excerpts.29.words.7 | gaillard |
+| source.excerpts.29.words.8 | En 1797 |
+| source.excerpts.30.@id | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/f30e275f-908e-5906-863e-d2aefdfa4f3d |
+| source.excerpts.30.value | Il arriva plusieurs fois qu ' on s ' aperçut qu ' on n ' avait pas vu un voisin depuis plusieurs jours ; on entrait dans sa chambre , et ) ' on n ' y trouvait qu ' un cadavre .D ' autres fois , c ' était une odeur insupportable de putréfaction qui décelait la maladie et la mort dans un galetas ignoré .Quelques maisons perdirent la totalité de leurs habitants : tous avaient été victimes - du choléra 1 . |
+| source.excerpts.30.words.0 | odeur |
+| source.excerpts.30.words.1 | insupportable |
+| source.excerpts.30.words.2 | putréfaction |
+| source.excerpts.30.words.3 | la maladie et la |
+| source.author.0.@id | http://data.odeuropa.eu/actor/f53de686-5d9b-5272-9b74-cdd3ab993b9e |
+| source.author.0.label | Nicolas  Chervin |
+| source.label | Pétition présentée à la Chambre des Pairs pour demander la suppression immédiate des mesures sanitaires relatives à la fièvre jaune et à quelques autres maladies, la réduction de nos quarantaines contre la peste et qu'on se livre sans délai à des recherches approfondies sur le mode de propagation de ce dernier fléau / par N. Chervin,... |
+| source.url | https://gallica.bnf.fr/ark:/12148/bpt6k65018185 |
+| source.date | 1843 |
+| source.language | fr |
+| smellSource.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/81 |
+| smellSource.0.label | Grass |
+| smellSource.1.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/65 |
+| smellSource.1.label | Perfume |
+| carrier.0.@id | http://data.odeuropa.eu/vocabulary/olfactory-objects/417 |
+| carrier.0.label | Air |
+| carrier.0.exemplifies | http://data.odeuropa.eu/vocabulary/olfactory-objects/417 |
+| time.0.@id | http://data.odeuropa.eu/time/3de202d3-ecc6-5d20-9780-e947cc266e2c |
+| time.0.label | 1835 |
+| time.0.begin | 1835 |
+| time.0.end | 1835 |
+| place.0.@id | https://sws.geonames.org/3280335/ |
+| place.0.label | Lazaret |
+| place.1.@id | https://sws.geonames.org/361058/ |
+| place.1.label | Alexandria |
+| relevantExcerpt | http://data.odeuropa.eu/source/850384cf-88af-500e-a34b-47a3b2f1d5f2/fragment/90ef30ae-92bb-5032-b9ee-751a8184073b |
+| license | Public domain |
+| adjective.0 | aromatiques |
+| adjective.1 | les plus forts |

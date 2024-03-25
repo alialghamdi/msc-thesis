@@ -1,0 +1,123 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/25b236f9-5c5a-5f69-a5a2-2a176e26ea54",
+  "@graph": "http://data.odeuropa.eu/gallica",
+  "label": "puante",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/2290cee7-3c0f-5a05-bff8-28fa42e637e1",
+        "value": "e tâchai de la rassurer et je lui présentai mon flacon d ' ammoniaque en lui disant d ' aspirer fortement .Epouvantée déjà de se trouver en présence d ' un Blanc , l ' odeur atroce du liquide lui fit croire sans doute que j ' en voulais à sa via .Elle fit un bond comme un obus qui éclate , poussa un cri perçant et s ' enfuit comme un ouragan , les bijoux , les bracelets , les chaînes elles anneaux dé ses pieds , de ses mains , de ses bras , de son nez et de ses oreilles faisant tic - tac , ding dong , zing zing , comme un quincaillier déménageant au milieu d ' un incendie .",
+        "words": [
+          "odeur",
+          "liquide",
+          "atroce"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/2fd74f8a-dd8e-5439-8f47-12dd2820ace4",
+        "value": "Il faut souvent aller fort loin , à toute heure du jour ou de la nuit ; passer par des chemins par - fois horribles , sur des sentiers larges de cinq naine à soixante centimètres séparant les rizières ; entre ; * dans les champs de riz et patauger dans une boue infecte ; traverser des cours d ' eau qui , à l ' époquo des pluies , so changent en torrents , et , surtout , rester parfois des heures entières sous un soleil de 70 degrés .Arrivé à destination , il faut pénétrer dans une hutte d ' où s ' échappe une odeur nauséabonde .11 est impossible , en Europe , de se figurer ce qu ' est une maison indienne .",
+        "words": [
+          "odeur",
+          "nauséabonde",
+          "hutte"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/44475feb-bacc-51a9-a566-8527363ae716",
+        "value": "Matin et soir , une vingtaine de jeunes gens s ' installaient autour de moi , sur le sol .A l ' air chaud de l ' atmosphère se mêlait alors l ' odeur sui generis que l ' Indien porte toujours avec lui .Après la classe , j ' ouvrais porte et fenêtres et j ' allais m ' éventer et m ' éponger sous la vèrandah .",
+        "words": [
+          "sui generis",
+          "odeur"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/54265b53-49dd-5cda-aa97-7e64100d03cc",
+        "value": "C ' était plaisir de voir cet ex - grand homme trotter comme un chevreuil sur les rochers abruptes , descendre lestement dans les ravins comme un vrai montagnard , et causer avec ces pauvres gens comme s ' ils eussent été ses frères ' et ses cousins ., Pendant un mois nous parcourûmes ces grands bois parfumés , grimpant sur les plus hautes cimes des montagnes , d ' où nous regardions avec pitié cet immense cratère qui s ' appelle ja plaine ; allant passer des journées entières dans les vallées habitées par les malleyalis ou montagnards ; courant ça et là comme des écureuils , ou dormant à l ' ombre des grands arbres comme des lézards paresseux .Mais un mois n ' est pas un siècle , même sur les montagnes .",
+        "words": [
+          "bois",
+          "nous",
+          "parfumés",
+          "Pendant un mois"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/608fe812-1420-57a4-90c9-f69f5d7f5762",
+        "value": "Mais le règlement s ' y opposait , quoique nous ne fissions que six milles à l ' heure .Que l ' on se représente la fureur de cet homme , si puissant dans l ' Inde , obligé de suivre le navire oii il avait sa place chèrement payée , sur une misérable petite barque sale et puante , à quelques centimètres d ' une machine à vapeur et à la rage du soleil ! Et ce martyre dura jusqu ' à huit heures du soir , quand nous stoppâmes pour la nuit à Ismaïlia , au milieu du Canal ! M .de Lesseps vint aussitôt à bord , et il invita les officiers ainsi que les passagers à un bal préparé en leur honneur .",
+        "words": [
+          "Canal",
+          "Ismaïlia",
+          "puante",
+          "jusqu",
+          "à huit heures du soir"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/9d05cb93-21fc-573e-b59f-de537b6119a7",
+        "value": "Pendant qu ' il gémit , se tournant et se retournant sur sa couche , ses amis , ses voisins , ses domestiques se délectent au milieu du vacarme , suivent avec ravissement les forgerons sans coeur qui le martyrisent .S ' il reçoit une visite , l ' odeur de l ' huile rancedont le visiteur a eu soin de se barbouiller fait bondir son coeur de dégoût .Un jour , un homme respectable causant avec le P .",
+        "words": [
+          "huile",
+          "odeur",
+          "bondir son coeur de dégoût"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/bff81244-9748-5028-9607-8055a520e0e3",
+        "value": "Ceci m ' entralno dans une nouvelle digression .Il n ' est que trop vrai que , à certaines époques , dans notre belle France , lo dernier des goujats croit pouvoir , en pleine rue , vomir sur un prêtre et sur Dieu même les immondices de son coeur corrompu .Se sentant pourris , ces malheureux veulent qu ' on le sache et le crient partout .",
+        "words": [
+          "France",
+          "immondices"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/ca3c1160-b09f-5225-9215-746a00e43d6f",
+        "value": "Après la classe , j ' ouvrais porte et fenêtres et j ' allais m ' éventer et m ' éponger sous la vèrandah .Les jours de brise , l ' odeur dont j ' ai parlé finissait par disparaître , du moins relativement ; mais elles ne sortaient pas .Elles se cachaient sous la natte , dans les fentes de mon bureau , dans les rayons de ma bibliothèque , jusque dans le dos de nies livres , en attendant de - 47 — pouvoir grimper dans le mien .",
+        "words": [
+          "odeur",
+          "elles",
+          "j",
+          "disparaître",
+          "relativement",
+          "Les jours de brise"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/63efd5f7-c405-588c-a7dd-11c991c61647",
+        "label": "J Baulez"
+      }
+    ],
+    "label": "Vingt ans dans l'Inde / par M. J. Baulez,...",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5810051h",
+    "date": "1886",
+    "language": "fr"
+  },
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/cf202db9-febf-584e-9501-ba6356d75cf6",
+      "label": "1886",
+      "begin": "1886",
+      "end": "1886"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/361055/",
+      "label": "Ismailia"
+    },
+    {
+      "@id": "http://data.odeuropa.eu/place/9f4f1154-220a-51e3-948b-ab273062560d",
+      "label": "Canal"
+    }
+  ],
+  "emotion": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/plutchik/anger",
+      "label": "anger"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/8df71e05-b698-535e-bbeb-6c1336e85093/fragment/608fe812-1420-57a4-90c9-f69f5d7f5762",
+  "license": "Public domain"
+}

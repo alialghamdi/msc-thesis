@@ -1,0 +1,796 @@
+{
+  "@type": "http://data.odeuropa.eu/ontology/L11_Smell",
+  "@id": "http://data.odeuropa.eu/smell/d6ee58c0-f805-515d-81ff-1b7d094731e9",
+  "@graph": "http://data.odeuropa.eu/medical-heritage",
+  "label": "stench",
+  "source": {
+    "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8",
+    "excerpts": [
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/00e693e4-8e86-579a-b0e5-3b88dda5636c",
+        "value": "In several instances comfort has been derived from the use every night of a pessary containing extract of logwood and cocoa - butter ( thirty grains of each ) ; an application , the power of which is not deteriorated by having combined with it belladonna or morphia .And , lastly , I have known ladies attempt to prevent the foetid smell from being perceptible to others by padding the vulva with small muslin bags of vegetable charcoal j a practice which is only of any value in ex - ceptional cases and under peculiar circumstances .Now the measures which have just been described may be said to be those which are to be practised in almost every instance of uterine cancer ; and it is certain that by their skilful adaptation to the exigencies of each particular case much good may be done .",
+        "words": [
+          "smell",
+          "perceptible",
+          "foetid",
+          "ladies",
+          "to"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/072e6f65-de8b-53d3-8fcf-37b3b538c0a7",
+        "value": "The chief symptoms which call for the use of this agent , are â   imperfect or slow digestion , with flatulence , acid eructations , nausea , low - spirits , and lassitude ; diarrhoea , with portions of undigested food in the evacua - tions ; phthisis , cancer , and other diseases attended with great debility ; and affections of the stomach itself , â   as gastric ulcer , malignant disease of the pylorus & c .It is also beneficial in ansemia , want of appetite , offensive breath , dilated stomach , mor - bidly fetid stools , and sometimes in the sickness of pregnancy .Pepsine should be given alone , or it may be mixed with certain medicines without its properties becoming deteriorated .",
+        "words": [
+          "fetid",
+          "offensive",
+          "breath",
+          "It",
+          "dilated stomach",
+          "in the sickness of pregnancy"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/0aa490e2-0e97-5de5-8d04-325532b0ffd7",
+        "value": "This Polish disease is not confined to the scalp , but may involve the hairs on any part of the integument .The odour from the affected parts is said to be most disgusting .II .",
+        "words": [
+          "odour",
+          "most disgusting"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/0c004b16-be6c-592c-b19b-1aea64d651f9",
+        "value": "488 DISEASES OF THE ALIMENTARY CANAL .One grain of the hydroclilorate was given twice or three times a - day , with some aromatic spirits of ammonia and nitrous ether .XV .",
+        "words": [
+          "aromatic",
+          "of ammonia",
+          "nitrous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/12c0ed2c-dfe4-5bfa-8b3c-a5145c289b93",
+        "value": "After a time the general health begins to give way , and there is muscular weakness with a loss of all sexual power .Then follow such symptoms as pain in the loins ; coldness of the extremities , and yet a sense of burning in the hands and feet ; increasing debility , with a manifest shrinking of the frame and rapid diminution in weight ; a chloroform - like smell of the breath ; sponginess of the gums , and probably decay of the teeth ; mental depression and irritability ; together with a constant feeling of sinking at the stomach , inducing a voracious appetite .This disorder commonly progresses slowly and insidiously , and often ends inâ   or becomes associated with â   pulmonary consumption .",
+        "words": [
+          "smell",
+          "of the breath",
+          "like",
+          "chloroform"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/12db7bb0-47c8-50b9-a1e4-a18e9e0767da",
+        "value": "An excellent aliment in some cases of tabes mesenterica & c .where the unpleasant odour of goat ' s milk prevents its being taken .1 6 .",
+        "words": [
+          "odour",
+          "unpleasant",
+          "of goat ' s milk"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/17485687-6e12-57ff-8ac6-022c7ee550e9",
+        "value": "In making a few remarks on the treatment of these cases , it will be necessary to confine them to the steps to be adopted for controlling the haemorrhage ; since the proceedings required for removing its cause will hereafter be treated of .At once , there - fore , it may be said that astringents are the remedies chiefly to be trusted to ; and the best of these are gallic acid and cinnamon , either alone or in combination , or with the aromatic sulphuric acid ( F .103 , J 04 ) .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/19b71a6c-be1f-5302-9b95-c20f6fa5384b",
+        "value": "Gradually the tu - bercles extend over the limbs ; the sensibility of both mind and body becomes greatly blunted ; and at length there is mere animal life .After some years the tubercles ulcerate , there is ozoena , the fingers and toes become gangrenous , and the body exhales a loathsome fetor .Death occurs from exhaustion , or diarrhoea , or erysipelas .",
+        "words": [
+          "the body",
+          "fetor",
+          "loathsome"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/1cafecd8-a490-5b06-8e0e-3d97c456fecb",
+        "value": "â   Slra - i mov i urn acts like a charm with certain asthmatics , a few whiffs of I a pipe filled with it , or of a cigar , giving relief ; but , in other cases it is often worthless .Care must be taken to get the drug good , while it may be remembered that the seeds are much more powerful than the leaves and stalk cut upâ   Nitre - paper fumesâ   the fumes of burning filtering - or blotting - paper which has been soaked in a saturated solution of nitrate of potash and driedâ   affords much alleviation in many cases of uncomplicated asthma .â   And , lastly , there are instances where palliation is soonest obtained from a stimulant , as a glass of whisky or brandy toddy , or a cup of very strong coffee .",
+        "words": [
+          "fumes",
+          "Nitre -",
+          "of burning filtering"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/21a5e84d-7d3f-5bce-a7c5-e211f59ea5e4",
+        "value": "All recovered .It was also found , that if the putrid blood were mixed with a certain proportion of sulphite of soda before injecting it , the dogs did not die as when putrid blood alone was employed .And , again , an equal quantity of the discharge of glanders was injected into the femoral veins of two large dogs .",
+        "words": [
+          "putrid",
+          "blood"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/22e2bd7b-5052-56eb-bda0-f9f7ca64c956",
+        "value": "Dr .Mead , in assigning the reason why Cairo is the birthplace and cradle of the disorder , says â   \" Cairo is crowded with vast numbers of inhabitants , who live poorly , and nastily ; the streets are narrow and close ; the heat is stifling ; a great canal passes through the city , which at the overflowing of the Nile is filled with water ; on the decrease of the river this canal is usually dried up , and the people throw into it all manner of filth , carrion , and offal ; the stench which arises from this and the mud together is intolerably offensive , and from this source the plague , constantly springing up every year , preys upon the inha - bitants , and is stopped only by the return of the Nile , the over - flowing of which washes away this load of filth .In Ethiopia the swarms of locusts are so prodigious that they sometimes cause a famine by devouring the fruits of the earth , and when they die create a pestilence by the putrefaction of their bodies .",
+        "words": [
+          "Cairo",
+          "stench",
+          "intolerably offensive",
+          "carrion",
+          "the mud",
+          "offal",
+          "from this"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/25958c05-b816-5135-b11e-3c4d1aa5ff4d",
+        "value": "Suppuration has occurred , and the vesicles have become pustules containing yellowish matter .A peculiar disagreeable odour now begins to emanate from the patient , which once smelt cannot be forgotten ; so that from it alone the disease may be diagnosed .About the eighth or ninth clay a dark spot appears on the top of each pustule , the cuticle bursts , the matter oozes out , and the pus - tule dries into a scab .",
+        "words": [
+          "odour",
+          "smelt",
+          "peculiar disagreeable",
+          "from the patient"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/284936be-b93e-5bd9-8fd5-e1cc4c69c590",
+        "value": "â   In all instances there is more or less fever and constitutional disturbance ; the tongue is furred , and the papillae prominent ; pulse quick and small ; skin harsh , hot , and dry ; thirst urgent , with no appetite ; while there is dyspnoea , and great prostration .In fatal cases , the abdomen becomes tense , full , and tender , especially on pressure ; the pulse gets weaker ; the tongue dry , red , glazed , and aphthous ; there is wakefulness , or short disturbed snatches of sleep ; the evacuations are extremely offensive and watery ; there is a repulsive corpse - like odour about the body ; hiccup comes on , with great exhaustion and emaciation â  ¢ and death soon follows .Complications .",
+        "words": [
+          "corpse",
+          "odour",
+          "like",
+          "repulsive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/295fbe72-0ceb-5c4c-baec-e02badf05a7d",
+        "value": "Amyloid degeneration , 116 Amyloid degeneration of the kidney , 595 Amyloid degeneration of the liver , 544 Amyloid substance of the liver , 10 Anicmia , 9 Anaemia , death by , 2 Anaesthesia , 321 Anaesthesia , paralysis of sensibility , 299 Anaesthetics , 854 Anal excrescences , 521 Analysis of tubercle , 104 An aphrodisiacs , 876 Anasarca , 84 Anasarca following scarlet fever , 199 Androphomania , 279 Aneurism , mortality from , 780 Aneurism of abdominal aorta , 783 Aneurism of pulmonary artery , 788 Aneurism of the coronary arteries , 437 Aneurism of the heart , 436 Aneurism of the hepatic artery , 536 Aneurism of thoracic aorta , 781 Angeioleucitis , 795 Angina pectoris , 435 Anginose scarlatina , 197 Animal liver - starch , 19 Animal parasites , 748 Annular stricture of rectum , 514 Anomalous gout , 127 Anosmia , or loss of smell , 299 Antacids , 817 Anteflexion of the uterus , 716 Anteversion of the uterus , 719 Anthelmintics and cathartics , 829 Anthrax , 55 Antiphlogistic remedies , 80 Antiseptics , 818 Antispasmodics , 821 Anus , absence of , 518 Anus , fissure of the , 513 Anus , pruritus of , 517 Aorta , aneurism of , 780 Aorta , contraction of , 779 Aorta , obliteration of , 779 Aorta , obstruction of by clot , 38 Aortic obstructive disease , 419 , 425 Aortic pulsation , 778 Aortic regurgitation , 419 , 425 Aortitis , 777 Appendages of skin , diseases of , 762 Appendix of Formula ? , 803 Aphonia , 354 Aphrodisiacs , 876 Aphtha ; of the mouth , 450 Aphthous stomatitis , 448 Apncea , death by , 2 Apoplexy , cerebral , 62 , 254 Apoplexy of the liver , 527 Apoplexy of the spinal cord , 295 Apoplexy , pulmonary , 67 Arachnoid , inflammation of , 238 A reus senilis , 114 Arrest of menstruation , 672 Arthritis , rheumatoid , 142 Ascaris lumbricoides , the , 507 , 555 Ascites , 84 Ascites , 575 Asiatic cholera , 490 Asphyxia , death by , 2 Asthenia , death by , 2 Asthma , 383 Astringents , 822 Atelectasis of the lungs , 391 Atonic gout , 127 Atony of the rectum , 517 Atrophy , acute , of the liver , 538 Atrophy , chronic , of the liver , 541 Atrophy of the brain , 251 Atrophy of the heart , 430 Autochthonous clots , 36 Autophomania , 278 Autumnal fever , 167 Bad sickness of Ceylon , 85 Balanitis , 206 Balano - posthitU , 206 Baldness , 763 Baldness from syphilis , 225 Baldness of the tongue , 447 Bantingisra , 150 Barbadoes leg , 758 Bastard peripneumony , 377 Baths , 826 Bed case , 322 Bellows - murmurs , 415 , 419 , 423 Bengal fever , 178 Beriberi , 85 Bile , constituents of , 26 Bile , - formation of , 26 Bile , quantity secreted , 26 Bile , suspension of the secretion of , 538 Bilharzia haematobia , 42 Bilharzia magna , 42 Biliary congestion , 527 Biliary gravel , 557 Biliary passages , diseases of the , 552 Bilious attacks , 469 Bilious fever , 155 Bilious headache , 289 Bilious remittent fever , 171 Bilious remittent fever of West Indies , 178 Bites of rabid animals , 48 Bites of reptiles , 31 Black cancer , 93 Black Death , the , 205 Black - leg , 46 Black phthisis , 377 Black - quarter in cattle , 58 Bladder , calculus of , in women , 646 Bladder , cancer of , 628 Bladder , catarrh Of , 627 Bladder , haemorrhage from , 70 Bladder , inflammation of , 625 Bladder , inversion of , 643 Bladder , irritability of , 619 Bladder , tumours of , 628 Bladder , paralysis of , 622 INDEX .921 Bladder , spasm of the , 621 Bleeding , as an antiphlogistic remedy , 82 Bleeding from mouth and throat , 65 Bleeding from nose , 64 Bleeding from the ears , 63 Bleunorrhagia , 207 Blennorrhcea , 207 Blood , buffed and cupped , 75 Blood - casts in urine , 71 Blood - cells , disintegration of in purpura , 46 Blood , coagulation of , 6 Blood , composition of , 2 , 6 Blood - corpuscles , 4 , 5 Blood , deficiency of , 9 Blood , deficiency of potash in , 44 Blood , determination of , 74 Blood , entozoa in , 42 Blood , escape of , 58 Blood , excess of fibrin , 35 Blood , excess of urea in , 20 Blood , excess of uric acid in , 130 Blood , fatty , 15 Blood , fulness of , 7 Blood , lactic acid in , 136 Blood , morbid state of , 1 Blood of dogs , filarise in , 42 Blood , pus cells in the , 30 Blood , quantity of , 3 Blood , saccharine , 17 Bloody - stools , 69 Bloody - urine , 70 Blood - vessels , diseases of , 777 Blood - vessels , fibrinous concretions in , 35 Blood - vessels of the liver , diseases of , 536 Blood with excess of colourless corpus - cles , 13 Blue disease , 432 Body louse , 769 Boils , 54 Boils about the vulva , 631 Bones , disease of , 141 Bothriocephalus latus , the , 509 Bowels , cancerous stricture of , 503 Bowels , obstruction of the , 501 Bowels , perforation of the , 510 Bowels , torpidity of , 498 Brain , abscess of , 241 , 247 Brain , analysis of the , 237 Brain and its membranes , inflammation of , 242 Brain , atrophy of , 151 Brain , concussion of , 260 Brain , dropsy of , 251 Brain fever , 155 Brain , hydatids in , 248 Brain , hypertrophy of , 151 Brain , induration of , 247 Brain , inflammation of , 238 Brain , metastasis of gout to , 126 Brain , partial inflammation of , 241 Brain , red softening of , 246 Brain , syphilitic growths in , 248 Brain , tubercle in , 248 Brain , tumours of , 24S Brain , white softening of , 247 Brass - founders ' ague , 174 Breath , exhalation of ammonia by , 24 Bright ' s disease , 588 , 594 , 595 Broad tapeworms , 509 Bronchial fistula , 393 Bronchial glands , tuberculisation of , 801 Bronchial respiration , 393 , 399 , 405 Bronchial tubes , casts of , 377 Bronchi , hemorrhage from , 66 Bronchitis , 374 Bronchitis , gouty , 378 Bronchitis , mechanical , 377 Bronchitis , syphilitic , 378 Bronchitis , typhoid , 378 Bronchocele , 120 Bronchophony , 393 , 398 , 405 Bronchorrhcea , 376 Bronzed skin , 618 Brow - ague , 289 Bubo , 221 Bubon d ' emblee , 222 Bufly coat of blood , 75 Bullae , 745 Bulam fever , 180 Bulimic dyspepsia , 461 Bunions , 768 Buttons in the horse , 52 Cadaveric effluvia , 31 Cadaveric softening of the stomach , 467 Capitis , 482 Calcification , 119 Calculi , hepatic , 557 Calculi of the pancreas , 566 Calculi , renal , 608 Calculous nephralgia , 586 Calculus of female bladder , 646 Calvities , 763 Cancer , 86 Cancer , colloid , 93 Cancer , epithelial , 91 Cancer , haematoid , 93 Cancer , medullary , 90 Cancer , melauoid , 93 Cancer , osteoid , 93 Cancer , scirrhus , 89 Cancer , villous , 94 Cancer - cells , 88 Cancer involving the root of the lung , 439 Cancer of the bladder , 628 Cancer of the duodenum , 478 Cancer of the female urethra , 644 Cancer of the kidney , 611 Cancer of the liver , 551 Cancer of the lung , 412 Cancer of the oesophagus , 456 Cancer of the pancreas , 566 Cancer of the rectum , 523 Cancer of the spleen , 569 Cancer of the stomach , 475 Cancer of the tongue , 445 Cancer of the uterus , 692 922 INDEX .Cancer of the vulva , 639 Cancerous ovarian tumours , 725 Cancerous stricture of the bowel , 503 Cancroid disease , 91 Cancroide , or kelis , 760 Cancrum oris , 449 Canities , 764 Capillary bronchitis , 374 Capsules , trichinal , 771 Carbonaceous bronchitis , 377 Carbuncles , 55 Carcinoma , 86 Cardiac aneurism , 436 Carditis , 420 Caries of the teeth , 346 Carminatives ) , 821 Carnification of the lung , 390 Casts of the bronchial tubes , 377 Catalepsy , 324 Catalytic action , 459 Catamenia , abnormal increase of , 72 , 679 Catamenia , absence of , 670 Catamenia , first appearance of , 669 Catamenia , non - evacuation of , 671 Cataract in diabetes , 597 Catarrh , 350 Catarrhal affections of the stomach , 469 Catarrhal fever , 155 Catarrhal inflammation of bile - ducts , 553 Catarrh of the bladder , 627 Catarrhus senilis , 377 Catarrh , uterine , 680 Cathartics and anthelmintics , 829 Catheterism in women , 645 Cattle , joint - murrain in , 58 Cauliflower - excrescence of uterus , 92 Causes of cancer , 94 Caustics and counter - irritants , 837 Caustics , removal of cancer by , 99 Cavernous respiration , 406 Cavernous tumours of the liver , 546 Cellulitis , pelvic , 661 Cellulitis venenata , 31 Cellulose degeneration , 117 Cephalalgia , 288 Cerebellum , softening of , 247 Cerebral apoplexy , 62 Cerebral hemorrhage , 62 , 254 Cerebral paralysis , 302 Cerebral softening , 246 Cerebral vomiting , 239 Cerebriform cancer , 90 Cerebritis , 241 Cerebro - spinal meningitis , 294 Cervical endometritis , 681 Cervix uteri , elongation of , 690 Cervix uteri , ulceration of , 686 Ceylon , bad sickness of , 85 Chalk - stones , 126 Chancres , nature and varieties of , 217 Change of air in phthisis , 409 Change of life , 670 Change of type in disease , 77 Charbon , 57 Charbon in cattle , 58 Cheloidea , 760 Chemistry of tubercle , 104 Chicken - pox , 193 Chilblain , 740 Child - crowing , 370 Children , incontinence of urine in , 62 Chimney - sweeps ' cancer , 91 Chiragra , 124 Chloasma , 750 Chlorine in the urine , 75 , 399 Chloroform , 854 Chlorosis , 12 Cholera , 490 Cholerine , 493 Cholesterine infiltration , 116 Cholesterine , uses of , 27 Cholesterajinia , 27 Chordee , 209 Chorea , 326 Chorea in rheumatism , 135 Chronic adenitis , 797 Chronic atrophy of the liver , 541 Chronic bronchitis , 376 Chronic desquamative nephritis , 591 Chronic disease of larynx , 369 Chronic diuresis , 603 Chronic dropsy , 84 Chronic encephalitis , 245 Chronic endometritis , 6S0 Chronic farcy , 53 Chronic gastritis , 468 Chronic glanders , 53 Chronic gonorrhoea , 212 Chronic hydrocephalus , 251 Chronic inflammation , 73 Chronic inflammation of aorta , 777 Chronic interstitial keratitis , 232 Chronic metritis , 685 Chronic ovaritis , 724 Chronic peritonitis , 573 Chronic phthisis , 402 Chronic pneumonia , 400 Chronic rheumatic arthritis , 142 Chronic rheumatism , 139 Chronic ulceration of rectum , 514 Chronic vaginitis , 656 Chyliferous tubes , diseases of , 795 Chylous urine , 604 Circulation , course of , 3 Circumscribed pulmonary apoplexy , 67 Cirrhosis of the liver , 533 Cirrhotic inflammation of the pylorus , 471 Clap , the , 207 Classification of fevers , 153 Clavus hystericus , 290 Clergyman ' s sore throat , 371 Climates for invalids , 877 Clitoris , enlargement of , 640 Clitorotomy , 641 Closure of the vagina , 648 , 652 Clothes ' louse , 769 Club exercise , 342 Clustered lichen , 753 INDEX .",
+        "words": [
+          "effluvia",
+          "Buttons"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/2dc092d3-f7ab-5e59-b497-4ac0c0645e89",
+        "value": "The appetite , however , continues good , and digestion is well performed ; while , in the very aged , the callous and toothless gums remain healthy all through the disease .â   Then , in the second stage , the countenance gets sallow and of a dusky hue ; the gums swell , are spongy , of a livid colour , and bleed on the slightest touch j the teeth loosen ; and the breath becomes still more fetid .As the disease still further advances , the debility in - creases ; the dyspnoea often becomes most urgent ; the gums fre - quently slough ; and hemorrhages occur from the gums , mouth , nose , stomach , and intestines .",
+        "words": [
+          "fetid",
+          "breath",
+          "more fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/2f6a0350-7b53-50cf-a72e-468f7bb8c2fb",
+        "value": "The use of ice to the vulva may also be recommended .And , fourthly , it is necessary to mitigate the horribly offensive odours of the discharges ; by attempting which we may generally also succeed in lessening the quantity of the serous now .This duty will not be thought unimportant by any practitioner who has had the misfortune to see a few neglected or badly - managed cases .",
+        "words": [
+          "odours",
+          "horribly offensive",
+          "of the discharges"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/2fc90be2-dcda-56d3-9db4-e2b8ad4e0060",
+        "value": "is also said to be usually blonde or auburn j while the eyes are large , blue , projecting , and humid , with the pupils habitually dilated .Moreover , it is said that such persons are remarkable for the development of the head , of the alas nasi , and of the upper lip , as also for the large size of the lower jaw , and the milk - white teeth which early become carious j while it is also asserted that the breath is habitually sour and fetid , the neck long and rounded , the chest narrow and flat , the shoulders high , the abdomen large and prominent , the limbs thin , and the flesh soft and flabby .It is commonly believed that in youth all scrofulous persons manifest great cerebral activity j that they are impatient and passionate ; that their intellectual system is largely developed ; and that although many have more imagiuation than judgment , yet some occasionally are capable of sustained mental exertion .",
+        "words": [
+          "fetid",
+          "breath"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/39890eb5-0b0f-5aac-8b8a-e6d9ace16620",
+        "value": "There is great irritability , restlessness , a feeble irregular pulse , oppressed respi - ration , obstruction of the fauces with viscid phlegm , occasionally diarrhoea , and generally delirium ; the latter being sometimes of a violent , but usually of the low muttering kind .The tongue is dry and brown , tender and chapped ; the lips , teeth , and gums are covered with sordes ; and the breath is extremely fetid .The throat is not much swollen , but appears of a dusky red lrae ; while the velum , uvula , and tonsils are coated with dark incrustations , consisting of exudations of lymph .",
+        "words": [
+          "fetid",
+          "breath",
+          "extremely fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/3d810b28-5332-5303-80b2-a62e8085067f",
+        "value": "( F .97 ) ; or by the aromatic powder of chalk and opium of the British Pharmacopoeia ; or by sulphuric acid and opium ( F .100 ) j or by a mixture of matico and rhatany ( F .",
+        "words": [
+          "the",
+          "aromatic",
+          "powder of chalk and opium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/412cdc23-dabf-51d4-8b87-b77ecc9a7841",
+        "value": "The lips are of a deep red colour , and the angles of the mouth are covered with small ulcers , or the whole lip is fissured .The bowels are variable , though generally relaxed ; the motions being often unhealthy , and extremely fetid .The abdomen is swollen and tense ; while the other parts of the body waste away , owing to the obstruction of the chyle ducts , until an extreme degree of emaciation exists .",
+        "words": [
+          "the",
+          "fetid",
+          "extremely fetid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/414b0993-b424-53e2-8b81-026a08941dbc",
+        "value": "917 of sodium ( 13 ) , sulphate of lime ( 10 ) , with smaller quantities of the carbonates of lime and of magnesia and of strontia , sulphate of soda , and the chlorides of potassium and magnesium he .There are 22 cubic inches of carbonic acid gas , 125 of nitrogen , and an odour of sulphuretted hydrogen .The action of these waters is chiefly diuretic and constipating .",
+        "words": [
+          "odour",
+          "of",
+          "of sulphuretted hydrogen",
+          "22 cubic inches of carbonic acid gas"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/4151ccd6-bff9-5e00-b26c-0cf0106d3661",
+        "value": "The general remedies in which I have most faith are gallic acid , the mineral acids , and cinnamon ; the acetate of lead , turpentine , and digitalis having only disappointed me .A very useful draught , which may be given every four hours during an attack of bleeding , may be made with ten grains of gallic acid , fifteen or twenty minims of the aromatic sulphuric acid , a drachm and a half of compound tincture of cinnamon , a drachm of syrup of poppies , and water .It must be confessed , however , that local applications are often more valuable , since they more speedily effect our object than medicines given internally .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/4583b7e3-d73b-538b-bf69-cef576115f6f",
+        "value": "jâ   vj of the solution of permanganate of potash in one pint of water may be applied to all kinds of suppurating sores .I have frequently ordered such l lotion with great benefit to destroy the horribly offensive odour of a malignant ulcer ' - or for the same purpose in suppurating scalds and burns .The solution should be made only of such a strength , as to be borne without any pain or even uneasiness It must be frequently syringed over the sores , since contact with lint and sponges decom poses it .",
+        "words": [
+          "odour",
+          "horribly offensive",
+          "of a malignant ulcer",
+          "suppurating scalds and"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/4678c440-9442-5c9d-90ca-7c0832fb1d81",
+        "value": "Weedon Cooke in ulcerated cancer .It is said to be efficacioiis , causes but little pain , removes all unpleasant odour from the sore , and does not injure the general health .This agent may be employed as a powder , or made into a paste with water ; while it must be applied in a layer as thick as the tissue to be destroyed .",
+        "words": [
+          "odour",
+          "unpleasant",
+          "from the sore",
+          "does not injure the general health"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/48b7084d-abed-5141-91b7-ce9f11b9c812",
+        "value": "The patient ' s life may be prolonged by careful management , but he cannot hope to be cured .The odour imparted to healthy urine by the digestion of aspa - ragus must have been noticed by every one ; while most practi - tioners are doubtless familiar with the smell of violets which the renal secretion gives off in patients who are taking turpentine , as well as with that of pepper when attempts are being made to check a gonorrhoea by cubebs .It has been stated by De Bcauvais , that DEGENEEATIONS OF THE KIDNEY .",
+        "words": [
+          "odour",
+          "smell",
+          "-",
+          "of",
+          "of violets",
+          "of pepper",
+          "ragus",
+          "to healthy urine",
+          "- ragus",
+          "most practi - tioners"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/4938b0cb-77e4-5223-8e03-5f1b17865eea",
+        "value": "Beberia ? Sulphatis , gr .30 ; Acidi Sulphuric ! Aromatic ! , min .xl ; Syrupi Aurantii , fl .",
+        "words": "Aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/4fa3338d-3b8e-513b-a3e7-8866b3803d23",
+        "value": "323 Treatment .â   During a paroxysm the patient ' s dress is to be loosened ; she must he prevented from injuring herself ; should be surrounded by cool air ; smelling salts may be applied to the nostrils ; and if she can swallow , a draught containing a drachm of the compound tincture of valerian , or of the foetid spirit of ammonia , ought to be administered .When the apparent insensi - bility continues , the sudden and free application of cold water to the head and face will probably cut it short .",
+        "words": [
+          "smelling",
+          "to the nostrils",
+          "salts"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/5124a6b4-fff5-59aa-be83-844b43df5080",
+        "value": "Large solid flakes of fibrin or of hardened mucus occasionally come away .The smell from these crusts , owing to the rapidity with which they decompose , is so very offensive and taints the breath to such an extent , that the patient is unable to go into any society .He becomes even an object of disgust to himself ; and if medicine fails to give relief , he gets miserable and desponding , has no appetite , loses flesh and strength , and passes wretched restless nights .",
+        "words": [
+          "smell",
+          "very offensive",
+          "from these crusts",
+          "taints the breath",
+          "that the patient is unable to go into any society"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/53d8b22d-fdff-5f02-a700-1f46d166c4d0",
+        "value": "â   Land scurvy and sea scurvy are identical complaints in all respects .The symptoms of scurvy show themselves gradually ; commencing with lassitude , mental anxiety , offensive breath , the appearance of petechia on the legs , stiffness of the muscles , wearying pains in the bones , a pale exsanguine appearance of the gums , and dyspnoea on the least exertion .The appetite , however , continues good , and digestion is well performed ; while , in the very aged , the callous and toothless gums remain healthy all through the disease .",
+        "words": [
+          "offensive",
+          "breath"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/542434a5-9ed9-5af9-8098-3d1468a3f70f",
+        "value": "Sulphwous Waters .â   They have the odour of rotten eggs , owing to their impregnation with sulphuretted hydrogen .The chief sulphurous thermals are those of Aix - la - Chapel le , Baden near Vienna , Aix - les - Bains , Bareges , Bagneres de Luchon , St .",
+        "words": [
+          "odour",
+          "They",
+          "of",
+          "with",
+          "sulphuretted hydrogen",
+          "hydrogen",
+          "of rotten eggs",
+          "with sulphuretted"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/542c122d-88b5-5658-a721-d5482d5f27db",
+        "value": "If this danger be escaped , there is the fear of thrombosis , of uraemia , or of fatal exhaustion .Ichorhaemia has also occurred , from the absorption of sanious matter produced by the putrid sloughs .Generally speaking , the following symptoms are especially alarming : â   albuminuria , suppression of urine , epis - taxis , a very rapid pulse , a very slow pulse , delirium , somnolence , and dyspnoea .",
+        "words": [
+          "putrid",
+          "the",
+          "sloughs"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/565a2d2c-5d76-5e82-a432-3db2e49a9dca",
+        "value": "â   This must be conducted on the same principles as should guide the practitioner in the treatment of pericarditis .Owing , however , to the power of ammonia in preventing deposition of fibrin , it is very advisable to administer full doses of the car - bonate or the aromatic spirit of this salt , from the commencement of the inflammation .XXI .",
+        "words": [
+          "aromatic",
+          "of this salt"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/5709fa69-b8fc-5ac3-9bd3-0735038e63d9",
+        "value": "Many remedies have been supposed to act as sexual stimulants , but the majority of those which have been recommended merely have the property of exciting the imagination .This is especially the case with Musk , Castoreum , and Ambergris ; ex - travagant substances which ladies may use as perfumes if they please , but which should be abolished from the Materia Medica .The volatile sulphurated or allyle oils , obtained from alliaceous and cruciferous plants { Allium sativum , Allium ceva , Sinapis nigra , Cochlearia Armoracia < kc ) , have had some slight repute .",
+        "words": [
+          "Ambergris",
+          "Castoreum",
+          "Musk",
+          "perfumes",
+          "ladies",
+          "travagant substances"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/57a5ab5c-f88c-5c83-bfa2-447c14b8f4b2",
+        "value": "3 possesses a still stronger power , and is used only in cases whero the blister has a tendency to dry up .They all maintain an abundant discharge , without pain or heat j prevent the formation of false membranes ; produce no irritation of the urinary passages ; and cause no disagreeable smell .The blistersâ   applied by the adhesive black sid â   readily adhere to the skin , pro - ducing vesication in a few hours ( twelve at the furthest ) ; and , if necessary , the same piece put on four or five times always produces the blistering effect .",
+        "words": [
+          "smell",
+          "disagreeable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/5c57e3f1-2ba7-5177-b2f6-c916539d6ea7",
+        "value": "20 ) .It may , however , be remarked , that when the blood becomes loaded with urea a strong urinous odour is often to be detected in the perspiration , in the breath , as well as in the matters vomited .In one marked case of uremic toxtemia , occurring after scarlet fever , which I saw in consultation with Mr .",
+        "words": [
+          "odour",
+          "strong urinous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/5e757872-bd7a-5111-a7fd-5fbc87c258e1",
+        "value": "â   The first indications of this disease are not gene - rally well - marked , complaint being merely made of malaise and a sense of feverishness .But it is early noticed that large quantities of urine are passed , having a faint odour somewhat like that of apples .Owing to the quantity of water thus got rid of by the kidneys , it can be readily imagined that the most prominent effects will soon be great dryness and harshness of the skin ; together with hard - ness of the faeces and constipation , and urgent constant thirst which it is difficult to allay .",
+        "words": [
+          "odour",
+          "faint",
+          "large quantities of urine",
+          "somewhat like that of apples"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/65ae7192-49b0-5ea4-b5a7-1238017e9846",
+        "value": "The solution should be made only of such a strength , as to be borne without any pain or even uneasiness It must be frequently syringed over the sores , since contact with lint and sponges decom poses it .Linen is stained by it , but the discoloration may be removed bV subhate of iron As a wash for stinking feet , or for the removal of offensive odours from the hands after handling morbid specimens & o ; the liquor ought to be used in the propor - tion of one fluid drachm to the ounce of distilled water .As an injection in cancer of 820 APPENDIX OF FORMULAE .",
+        "words": [
+          "offensive",
+          "stinking",
+          "odours",
+          "feet",
+          "from the hands"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/665cf8c9-523d-5404-b2e0-3246ce82541b",
+        "value": "The paralysis seldom lasts for more than two or three clays subsequent to the proper treatment being resorted to ; but the catheter should be used every eight or twelve hours until it is certain that the patient completely empties the bladder upon each attempt at micturition .In most cases of paralysis of the bladder , the urine is found loaded with mucus , of a highly offensive ammoniacal odour , of an alkaline reaction , and having an excess of phosphates â   the neutral triple phosphate of magnesia and ammonia .It is highly probable that the urine when secreted is of acid reaction ; but on flowing into the bladder it becomes mixed with a greater or smaller quan - tity of fluid which has been retained a sufficient time to become decomposed , and hence the fresh secretion gets contaminated .",
+        "words": [
+          "odour",
+          "the urine",
+          "highly offensive ammoniacal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/6ef386cb-c4a3-5768-928d-6751005e7ed3",
+        "value": "3 .Typhoid , enteric , or pythogenic fever , met with equally amongst rich and poor , generated by the putrid emanations from decaying animal matter , most prevalent in autumn , and which , though infectious , is less so than typhus .And 4 .",
+        "words": [
+          "putrid",
+          "in autumn",
+          "putrid emanations",
+          "from decaying animal matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/73b9d450-cb58-55bd-959f-ba61fb759b2e",
+        "value": "If there be an idiosyncracy with respect to any special medicineâ   such as mercury ] opium , turpentine , & câ   avoid administering it .That a peculiarity of constitution , ' causing an extreme susceptibility to the influence of certain drugs , foods , and odours sometimes exists , cannot be disputed .It is as certain that it can seldom be safely combated .",
+        "words": [
+          "odours",
+          "sometimes"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/74077a3e-a845-5470-b45a-3bff00f01ac1",
+        "value": "Hay - asthma is not a common disorder .It probably arises from the inhalation of the aroma of spring grass and hay ( Anthoxanthum odoratum ) ; or from the perfume of the Nardus striata when in flower , a grass which is abundant in many grazing fields , for cattle will not eat it .Exposure to the emanations of ijjecacuanha powder will produce it in impressible individuals .",
+        "words": [
+          "perfume",
+          "It",
+          "aroma",
+          "of spring grass and hay ( Anthoxanthum odoratum",
+          "of the Nardus striata"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/76b5a570-9df2-51ae-9aca-ed5b058e961e",
+        "value": "No harm can arise from calomel given at the onset as a purgative , in doses of two , three , or four grains ; but I have no faith whatever in its power to control inflammation , and believe that its frequent administration is very injurious .â   In the latter stages of the disease , it will be necessary to support the powers of life by beef - tea ; and wine , or a few drops of aromatic spirits of ammonia , or of brandy , with water , should be frequently repeated .Ammonia and ether ( F .",
+        "words": [
+          "aromatic",
+          "spirits of ammonia"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/76e0e0f7-9e72-5ffc-844e-1c6a5eb73e6f",
+        "value": "In Ethiopia the swarms of locusts are so prodigious that they sometimes cause a famine by devouring the fruits of the earth , and when they die create a pestilence by the putrefaction of their bodies .The effluvia which arise from this immense quantity of putrefying animal sub - stance , combined with so much heat and moisture , continually generate the plague in its intensest form ; and the Egyptians of old were so sensible how much the putrefaction * of dead animals contributed towards breeding the plague , that they worshipped the bird ibis from the services that it did in devouring great numbers of serpents , which they observed injured by their stench when dead as much as by their bite when alive .\" * The plague may be defined as a fatal contagious fever , which is clue to the absorption of a poison that infects the blood .",
+        "words": [
+          "effluvia",
+          "stench",
+          "they",
+          "their",
+          "of serpents",
+          "of putrefying animal sub"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/77512264-3da5-51ab-a3fb-0620950d748f",
+        "value": "In a lady who was long under my care with peine abscess , the re - formation of matter was sometimes preceded by a rigor and sometimes by an epileptiform seizure , but there was always one or the other to warn me of the mischief that had commenced .Then , if there is an open wound , it generally takes on an unhealthy appearance , â   it sloughs , or its granulating sur - face looks indolent and the discharge from it ceases .Another symptom is a peculiar sweetish or fermentative odour of the breath and of the body generally .",
+        "words": [
+          "indolent",
+          "its"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/78ef5881-1ce4-5c03-b518-94626fd698c0",
+        "value": "The conjunctivae are injected : when delirium sets in the pupils may be contracted , and insensible to light .The sense of taste is impaired , aÂ » is also that of smell j there is loss of appe - tite but no symptom of intestinal irritation , no flatulence , no diarrhoea ; while the tongue is brown and dry , and in grave cases becomes almost black and covered with offensive bloody sordes .â   In most cases there is more or less wakefulness , particularly at night .",
+        "words": [
+          "offensive",
+          "smell"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/7c01a359-73e2-541e-9f54-3ffe1ec948ce",
+        "value": "In one marked case of uremic toxtemia , occurring after scarlet fever , which I saw in consultation with Mr .Kingsford , of Sunbury , a large linseed poultice applied over the loins gave out a sickening and very disgusting smell ; the effluvium being so powerful that it pervaded a large house .This stench was more abominable than anything I had ever smelt before ; and it served to prove that the blood was highly contaminated .",
+        "words": [
+          "smell",
+          "sickening",
+          "so powerful",
+          "effluvium",
+          "very disgusting",
+          "that it pervaded a large house"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/7e83f778-372a-5821-9738-66add8974c84",
+        "value": "Painters most frequently suffer from lead colic , in this country : they often have several attacks before the muscles of the arms become affected with paralysis , causing drop wrist .Sleeping in a recently painted room , drinking fluids which have been kept in leaden vessels , taking snuff adulterated with lead , & c ., are not unfrequent causes of this affection .",
+        "words": "snuff"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/8efbe054-f330-547c-b650-a8d7c4dcf879",
+        "value": "The most offensive task I ever had was to extract an impacted boxwood pessary , which had been worn continuously since its first introduction two years previously .It was impossible to get it away without breaking it to pieces , and the stink from the matters which had accumulated in its interior was exceedingly disgusting .Moreover , several weeks elapsed before the ulcerations upon the vaginal mucous membrane healed , and even then it was found that the procidentia remained uncured .",
+        "words": [
+          "stink",
+          "exceedingly disgusting",
+          "from the matters",
+          "in its interior"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/90d8806b-7005-57ea-8d98-fbf4152010e5",
+        "value": "But on examining the facts upon which this statement is advanced , it is found that the patients treated by bleeding were in all probability suffering from relapsing fever , the fatality of which is extremely small compared with that of typhus and pythogenic fevers .Aud further , in studying the causes of continued fever in a sanitary point of view , while we find some observers arguing that this disorder results only from putrid emanations , there are Athers who teach that destitution is its great source , aud that putrid emanations are perfectly innocuous .We have here the old fable of the gold and silver shield , the opposing parties having drawn their conclusions from observing different diseases .",
+        "words": [
+          "putrid",
+          "emanations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/96e7c484-550f-5a0a-841d-90174709d842",
+        "value": "the uterus , the strength ought not to he greater than half a fluid ounce to one pint of water .To deprive night - chairs of offensive odour , a wineglassful of Condy ' s fluid should be mixed with two pints of fresh or salt water , and put into the pan pievioi ..",
+        "words": [
+          "night",
+          "offensive",
+          "odour",
+          "wineglassful of Condy ' s fluid"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/97e29349-3363-5af6-b360-56e8ace94e43",
+        "value": "The best plan is either to administer the hydrargyrum cum creta , or to apply the mercurial ointment , as long since recommended by Sir Benjamin Brodie .To an infant six weeks old , one grain of grey powder with two or three of the aromatic chalk powder , may be given twice or thrice in the day until all the symptoms cease : or should this medicine gripe and purge , or appear inefficient , as it frequently will , the mercurial ointment is to be used .This is easily applied by spread - ing sixty grains , or a little more , on the end of a small flannel roller , and then winding the band round the infant ' s abdomen or knee , repeating the application daily .",
+        "words": [
+          "aromatic",
+          "two",
+          "three of the",
+          "chalk powder"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/99372c67-08c9-5fd2-8f1e-04ae1a44fad0",
+        "value": "In man the symptoms which result from the absorption of the poison may show themselves as acute or chronic glanders , or as acute or chronic farcy .â   The acute glanders is attended by suffering somewhat similar to that which occurs in the horse : the prominent signs being fever ; great debility ; pains of a rheumatic character in the limbs ; profuse offensive discharge from the nostrils ; and the formation of a number of pustules and tumours in different parts of the body , which have a great tendency to suppurate and become gangrenous .The pustular eruption does not occur until about the twelfth day ; it is accompanied by profuse foetid sweats , and sometimes by the formation of black bulhc .",
+        "words": [
+          "offensive",
+          "from the nostrils"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/9d2c866f-12c2-52ee-8466-883c0a4ca6c6",
+        "value": "Then our efforts must be directed to - wards relaxing the bronchial spasm , and for this purpose we resort to the use of sedatives .â   Frequently I have found that the latter object has been admirably fulfilled by a large dose of iodide of pbtasswm ( ten grains ) , combined with some aromatic spirit of ammonia or spirit of ether , and tincture of belladonna .â   Tobacco may be employed as a depressant or as a sedative , and in either way it often effects good .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/a55f65cc-d225-5928-8613-9260945d9d7e",
+        "value": "There was fever , with - disturbance of the digestive organs .During the ensuing fifteen 3 days eschai ' s were formed at the lower part of the abdominal wall , their separation being accompanied with a purulent and fetid 1 sanies .Suppurating engorgements extended towards the iliac : fossae , particularly to that of the right side .",
+        "words": [
+          "fetid",
+          "purulent",
+          "the lower part of the abdominal wall"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/a5e5c413-91ed-50a7-ad65-d921a24321ec",
+        "value": "It most commonly affects the scalp , in the form of small cup - shaped , dry , yellow crusts ; each crust containing a hair in its centre , and somewhat resembling a piece of honeycomb , ( Favus , a honeycomb ) .There is itching ; the hairs become brittle , and ultimately fall out ; the crusts have a mouldy offensive odour , and are often surrounded with lice ; while the crusts are small , unless they coalesce and form a large dry mass .This disease occurs mostly in children , and according to Hebra is due to dirt and neglect in cleaning and combing the hair .",
+        "words": [
+          "odour",
+          "the crusts",
+          "mouldy offensive"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/aa2eb347-6f79-552e-9f75-9410c88c466f",
+        "value": "And then there is that peculiar disease known as wasting palsy , the prominent symptom of which is a remarkable degeneration and wasting of the disabled muscles .Paralysis of the eye , or loss of sensibility of the retina to the rays of light , is called amaurosis { ' A / iavpou ) , to obscure ) ; paralysis of the levator palpebral superioris muscle , allowing the upper eye - lid to fall over the eye , ptosis palpebral ( Ilrow , to fall ) ; insensibility to the impression of sounds , or deafness , cophosis ( Kwfybg , deaf ) j insensibility to odours , or loss of smell , anosmia ( ' A , priv .; oÂ £ w , to smell ) ; and loss of taste , ageustia ( ' A , priv .",
+        "words": [
+          "smell",
+          "odours"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/abd8a02b-5b30-5b39-94b5-29a76cd39b4e",
+        "value": "The haemorrhage should always be checked as quickly as possible ; and for this purpose , after enjoining strict quiet and rest in bed with the head and shoulders elevated , and an unstimulating diet with cold drinks , I have found no remedy so efficacious as gallic acid .This agent should be given in the proportion of ten or fifteen grains every two , three , or four hours , according to the urgency of the symptoms ; sometimes commencing with thirty grains for a dose in five or six ounces of water , with half a drachm of the aromatic sulphuric acid .When there are indications of great anaemia , from five to ten grains of the am - monio - sulphate of iron ( F .",
+        "words": "aromatic"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/ae09d8a6-8b0a-50ca-9171-f228f71f179f",
+        "value": "The irritation produced by these disgusting insects can r scarcely be mistaken for that caused by the Common Flea ( Puleoc I hominis , vel P .irritans ) ; by the Chigoe or Jigger ( Pulex penetrans ) , i which is so annoying to the residents of Guiana and Brazil ; by I the Harvest Bug ( Leptus aidumnalis , vel Acarus aidumnalis ) ; by [ the stinking Common Bug ( Cimex leclularius ) ; or for that set up [ by the Mosquitos and Common Gnats { Calex pipiens ) , the bites of â    which are so intolerable in warm countries as well as in Lapland .â   The Pimple mite ( Acarus folliculorum ) rarely gives rise to any itching or discomfort .",
+        "words": [
+          "the",
+          "stinking",
+          "intolerable",
+          "Common",
+          "Leptus aidumnalis",
+          "Common Bug ( Cimex leclularius",
+          "the Harvest Bug"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/afdd14df-a53d-5975-a84d-6156c311beda",
+        "value": "Kingsford , of Sunbury , a large linseed poultice applied over the loins gave out a sickening and very disgusting smell ; the effluvium being so powerful that it pervaded a large house .This stench was more abominable than anything I had ever smelt before ; and it served to prove that the blood was highly contaminated .According to Dr .",
+        "words": [
+          "I",
+          "smelt",
+          "stench",
+          "more abominable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/b59dc912-a481-530f-ad11-53da01f6a59a",
+        "value": "If desired , the metal may be at once volatilised and the vapour diffused through the apartment , by placing it on a heated fire - shovel .In rooms occupied by small - pox patients the air may be kept free from smell by using iodine in this manner , â   probably the strongest proof which could be adduced of the value of this simple and manageable remedy .82 .",
+        "words": [
+          "smell",
+          "the air",
+          "In rooms occupied by"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/b7e5965a-25c1-524f-bde6-7c6ffa854bd4",
+        "value": "In some cases of chronic diarrhoea , when the irrita - tion is kept up by f cecal fermentation .In fetid eructations .The charcoal should be recently prepared .",
+        "words": [
+          "fetid",
+          "eructations"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/b8451758-58e2-531a-9613-211a541da2f4",
+        "value": "3 ) may also prove useful Should the inflammation end in gangrene , stimulants and tonics will be especially needed .When the odour of the breath is very offensive , the solution of chlorinated soda ( F .76 ) may be pre - scribed .",
+        "words": [
+          "odour",
+          "of the breath",
+          "very offensive",
+          "the solution of chlorinated soda"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/b8cf3a0e-66ba-5c3b-acc4-9ac7c5a1c147",
+        "value": "879 physician : but good advice cannot always be procured , or it may perhaps be had where only inferior drugs are obtainable for compounding the prescription .Ihe medicines which are generally ordered are these : â   Aromatic Powder of Chalk and Opium , 3oz .Liquid Extract of Opium , 2 fl .",
+        "words": [
+          "Aromatic",
+          "Powder"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/bcbc2cae-08f5-5f32-aade-b8a1127c0c53",
+        "value": "Dementia , 279 Dementia paralytica , 272 Dengue , 195 Deposits , tophaceous , 126 Deposits , tubercular , in liver , 547 Deposits , tubercular , in lungs , 402 Deposits , tubercular , in mesentery , 799 Derbyshire Neck , 120 Dermoid cysts of ovary , 725 Desquamative nephritis , acute , 587 Desquamative nephiitis , chronic , 591 Destructive inflammation , 76 Determination of blood , 8 , 74 Diabetes insipidus , 603 Diabetes mellitus , 17 , 597 Diabetic cataract , 597 Diabetic sugar , 597 Diaphoretics and diuretics , 840 Diarrhoea , 488 Diarrhoea of strumous children , 800 Diastolic sound of the heart , 422 Diathesis , the haemorrhagic , 60 Difficult menstruation , 674 Diffused pulmonary apoplexy , 67 Dilatation of female urethra , 647 Dilatation of lymphatics , 798 Dilatation of pulmonary artery , 788 Dilatation of the bile - ducts , 554 Dilatation of the heart , 429 Dilatation of the stomach , 472 Dilatation of the ureters , 621 Diphtheria , 357 Diphtheria , mortality from , 183 Diphtheritic vulvitis , 638 Dipsomania , 268 Disease , change of type in , 77 Diseases , general , 1 Diseases , venereal , 206 Diseases of the abdominal walls , 571 Diseases of the absorbents , 795 Diseases of the alimentary canal , 444 Diseases of the aorta , 777 Diseases of the appendages of the skin , 762 Diseases of the biliary passages , 552 Diseases of the bladder , 619 Diseases of the blood , 1 Diseases of the blood - vessels , 777 Diseases of the bronchial tubes , 374 Diseases of the duodenum , 478 Diseases of the Fallopian tubes , 736 Diseases of the female urethra , 642 Diseases of the hair , 762 Diseases of the heart , 413 Diseases of the hepatic blood - vessels , 536 Diseases of the larynx , 367 Diseases of the liver , 625 Diseases of the lungs , 350 Diseases of the lymphatics , 795 Diseases of the mesenteric glands , 799 Diseases of the nails , 765 Diseases of the nervous system , 236 Diseases of the nose , 352 Diseases of the oesophagus , 455 Diseases of the ovaries , 722 Diseases of the oviducts , 736 Diseases of the pancreas , 566 Diseases of the pharynx , 453 Diseases of the pulmonary artery , 786 Diseases of the rectum , 512 Diseases of the skin , 738 Diseases of the spinal cord , 292 Diseases of the spleen , 567 Diseases of the stomach , 466 Diseases of the supra - renal capsules , 616 Diseases of the thoracic walls , 441 Diseases of the tongue , 444 Diseases of the trachea , 363 Diseases of the urinary organs , 583 Diseases of the uterus , 669 Diseases of the vagina , 648 Diseases of the vulva , 629 Disinfectants , 818 Displacements of the ovary , 734 Displacements of the uterus , 612 Dissecting aneurism , 780 Dissection wounds , 31 Disseminated lobular pneumonia , 390 Distemper or rot , 43 Distichiasis , 765 Distinctions between typhus and typhoid fever , 160 Distinct small - pox , 185 Distoma crassum , the , 508 Distoma haematobium , 42 Distoma hepaticum , the , 556 Distoma hepaticum in portal vein , 43 Distoma heterophyes , 508 Distoma lanceolatuni , the , 556 Disturbed dreams , 337 Diuresis , 603 Diuretics and diaphoretics , 840 Division of cervix uteri , 678 Dracontiasis , 775 Dreams , 337 Dribbling of urine , 623 Dropsy , 83 Dropsy , acute inflammatory , 587 Dropsy after scarlet fever , 199 Dropsy of the brain , 251 Dropsy of the Fallopian tube , 736 Dropsy of the gall - bladder , 554 Dropsy of the kidney , 583 Dropsy of the pericardium , 416 Dropsy of the peritoneum , 575 Drop - wrist , 312 Dry tetter , 756 Dumb - bell exercise , 341 Duodenal dyspepsia , 459 , 478 Duodenitis , 479 Duodenum , cancer of , 478 Duodenum , diseases of the , 478 Duodenum , obstruction of , 478 Duodenum , perforation of , 479 Duodenum , ulcer of , 478 Dura mater , inflammation of , 240 Dysentery , 484 Dysmenoirhcea , 674 Index .925 Dysmenorrhreal membranes , 675 Dyspepsia , 458 Dyspepsia preceding phthisis , 105 Dysphagia , 453 Dysphonia clericorum , 371 Dyspnoea , 374 Ears , hemorrhage from , 63 Ear , tumours of the external , 282 Eastern leprosy , 757 Ecchymoses , 46 Echinococci , 547 Ecstasy , 325 Ecthyma , 747 Ectozoa , 748 Eczema , 743 Eczema of the sexual organs , 216 Efflorescence cutande , 740 Effluvia from dead bodies , 31 Electricity and galvanism , 304 Elephantiasis Arabum , 758 Elephantiasis Grcecoruni , 757 Elephantiasis of vaginal labia , 633 Elongation of the cervix , 690 Emboli , 36 Embolism and Thrombosis , 35 Emetics and Expectorants , 843 Emphysema , 388 Emprosthotonos , 329 Empyema , 392 Encephalitis , acute , 242 Encephalitis , chronic , 245 Encephaloid cancer , 90 Encephaloid cancer of kidney , 611 Encysted tumours of the liver , 546 Encysted tumours of vaginal labia , 632 Endemic catalepsy , 325 Endocarditis , 418 Endocarditis , rheumatic , 135 Endometritis , 680 Endo - pericarditis , 418 English cholera , 488 England , population of , 183 Engorgement of the lungs , 398 Enlargement of the clitoris , 640 Enlargement of the spleen , 570 Enlargement of the tonsils , 373 , 453 Enteric fever , 166 Enteritis , 479 Entozoa , 506 Entozoa in the biliary passages , 555 Entozoa in the blood , 42 Epidemic catarrhal fever , 379 Epidemic cholera , 490 Epidemic sore - throat , 357 Epilepsy , 314 Epilepsy in the insane , 272 Epileptic aura , the , 314 Epiphytes , 748 Epistaxis , 64 Epithelial cancer , 91 Epithelioma , 91 Epithelium of vagina , exfoliation of , 656 Equinia , 51 Erotomania , 279 Eruptive fevers , 183 Erysipelas , 201 Erysipelas of pharynx , 453 Erythema , 740 Erythema of vaginal labia , 636 Erethismus tropicus , 262 Essential fevers , 153 Essential haemorrhage , 59 Esthiomenos of the vulva , 639 Exanthemata , 739 Excessive menstruation , 72 , 679 Excision of cancers , 98 Excoriations about penis or vulva , 215 Excoriations of uterine lips , 686 Excrescences round the anus , 521 Exfoliation of vaginal epithelium , 656 Exophthalmos , 9 Exophthalmic goitre , 121 Exostosis of the teeth , 346 Expectorants and emetics , 843 External clap , 206 External haemorrhoids , 521 Extirpation of the spleen , 568 Exudative inflammation of bile - ducts , 553 Eyeball , protrusion of the , 121 Eace , paralysis of , 307 Facial neuralgia , 345 Facies choleritica , 492 Fascal abscess , 511 Fall fever , 167 Falling of the womb , 712 Falling of the vagina , 659 Falling sickness , 314 Fallopian tubes , diseases of , 736 False aneurism , 780 False measles , 741 Famine fever , 171 Farcinoma , 51 Farcy , 51 Farcy - buds , 52 Farcy in man , acute , 53 Farcy in man , chronic , 53 Farcy in the horse , 52 Fasciola hepatica , the , 556 Fatal jaundice , 538 Fatty blood , 15 Fatty degeneration , 112 Fatty degeneration of the heart , 430 Fatty degeneration of the kidney , 593 Fatty degeneration of the liver , 542 Fatty growth about the heart , 431 Fatty matter in urine , 604 Fatty stools , 566 Fatty tumours , about vagina , 132 Fat , undue accumulation of , 145 Fauces , syphilitic ulcers of , 226 Favus , 749 Febricula , 154 Feigned epilepsy , 315 Female bladder , inversion of , 643 026 INDEX .Female bladder , stone in , 646 Female catheterism , 645 Female organs of generation , diseases of , 629 ' Female urethra , cancer of , 644 Female urethra , dilatation of , 647 Female urethra , diseases of , 642 Female urethra , inflammation of , 644 Female urethra , stricture of , 645 Fermentation test for sugar in urine , 599 Fever , autumnal , 167 Fever , bilious , 155 Fever , bilious remittent , 171 Fever , brain , 155 Fever , catarrhal , 155 Fever , enteric , 166 Fever , famine , 171 Fever , five or seven day , 171 Fever , gastric , 155 Fever , gastro - bilious , 167 Fever , hasmogastric , 100 Fever , inflammatory , 75 Fever , intermittent , 173 Fever , Irish famine , 171 Fever , malignant mesenteric , 167 Fever , mesenteric , 155 Fever , night - soil , 167 Fever , paludal or periodic , 173 Fever , puerperal , 31 , 572 Fever , putrid , 167 Fever , pythogenic , 166 Fever , relapsing , 171 Fever , remittent , 178 Fever , rheumatic , 134 Fever , simple continued , 154 Fever , typhoid , 166 Fever , typhus , 156 Fever , yellow , ISO Fevers , 153 Fevers , eruptive , 183 Fibrinous concretions in heartor vessels , 35 Fibrin , solidification of during life , 35 Fibro - calcareous tumours , 120 Fibroid infiltration of the pylorus , 471 Fibroid polypi of uterus , 705 Fibroid tumours of uterus , 698 Fibrous ovarian tumours , 725 Fibrous tumours about vagiua , 632 Fibrous tumours of bladder , 628 Fibrous tumour of vagina , 659 Filarue in blood of dog , 42 Filaria medinensis , 775 Fine crepitation , 398 Firm medullary cancer , 91 Fish - skin disease , 757 Fissure of the anus , 513 Fissure of the fourchette , 658 Fistulas , anal , 519 Fistulas , bronchial , 390 Fistulas , gastric , 457 , 476 Fit of the gravel , 608 , 610 Fits , apoplectic , 254 Fits , cataleptic , 324 Fits , epileptic , 315 Fits , hysteric , 320 Five - day fever , 171 Flatulence , 462 Flatulent colic , 496 Flesh - worm disease , 771 Fluid pressing on spinal cord , 296 Flukes in the liver , 556 Follicular cysts of vagina , 659 Follicular inflammation of vulva , 635 Follicular stomatitis , 448 Forced alimentation , 287 Foreign bodies in rectum , 512 Foreigu bodies in windpipe , 369 Formation of bile , 26 Formations , melanotic , 108 Formative inflammation , 76 Formication , 305 Formulae , Appendix of , 803 Fourchette , fissure of , 658 Frambcesia , 760 Freckles , 738 Friction sounds , pericardial , 415 Friction sounds , pleural , 392 Frightful dreams , 337 Fulness of blood , 7 Functional derangement of the heart , 437 Functions of liver , 26 Fundal endometritis , 681 Fungus foot of India , 775 Fungus haeruatodes , 93 Fungus test for sugar in urine , 598 Furuncular inflammations , 54 Fusible calculus , 608 Gangrene of the liver , 532 Gangrene of the lung , 400 Gangrenous phagedena , 221 Gangrenous stomatitis , 449 Gangrenous vulvitis , 635 , 637 Galactophora , 875 Galactophyga , 876 Gall - bladder , inflammation of the , 553 Gall - stone colic , 559 Gall - stones , 557 Galvanism and electricity , 304 Gargles and inhalations , 845 Gastralgia , 460 Gastric catarrh , 469 Gastric dyspepsia , 459 Gastric fever , 155 Gastric fevers , 470 Gastric fistula , 457 Gastric ulcer , 473 Gastric vomiting , 239 Gastritis , 466 Gastro - bilious fever , 167 Gastro - colic fistulas , 477 Gastro - cutaneous fistulas , 476 Gastro - duodenal fistulte , 477 Gastrodynia , 460 Gastrotomy , 457 Gelatiniform cancer , 93 Gelatinous polypi of uterus , 705 INDEX .",
+        "words": [
+          "Effluvia",
+          "from dead bodies",
+          "Electricity",
+          "galvanism",
+          "Efflorescence",
+          "Elephantiasis"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/bea90985-43f5-58e1-9c36-2097e9ded2bc",
+        "value": "i the same time a purgative , to thoroughly clear the intestines , nil generally be useful .The dilute phosphoric or hydrochloric cids , or the aromatic sulphuric acid , in doses of twenty or thirty ainims every three hours , freely diluted , may be administered nth benefit .It is often desirable to give them as the daily drink P .",
+        "words": [
+          "aromatic",
+          "phosphoric",
+          "hydrochloric cids"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/c2c1837f-2c22-5035-9f88-d8398c04cb9e",
+        "value": "The history and symptoms pointed strongly to obstruction by a biliary concretion , and to such obstruction being situated high up in the bowel , but the site could not be more accurately denned .For although the secretion of urine was very scanty , the vomiting an early symptom , and the matters ejected bilious but free from stercoraceous odour , yet the same occurrences take place in occlusion of the jejunum .Post - mortem perforation of the duodenum may occur under the same conditions as give rise to it in the stomach , when , in addi - tion , the pyloric orifice is so patulous that the gastric juice readily flows through it .",
+        "words": [
+          "odour",
+          "stercoraceous"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/c80a4c8d-9b78-5902-9f3a-ff98800a2918",
+        "value": "Diagnosis .â   Diabetic urine has a sweetish taste and odour , is 59S DISEASES OF THE URINARY ORGANS .generally of a pale straw colour , docs not undergo putrefaction even when kept for several weeks , and is secreted in very large quantities .",
+        "words": [
+          "odour",
+          "Diabetic urine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/cb1d9982-d37b-59d7-9f81-747e7ffcff95",
+        "value": "The old woman ' s remedy of iron - ing the part , a piece of brown paper being placed between the hot iron and the skin , deserves mention .For rheumatism especially affecting the tendinous portions of the muscles we may recommend the external application of sulphur â   either powdered or as an ointmentâ   with bandages of new flannel j the latter being again covered with oilcd - silk , to increase the warmth , and obviate any disagreeable smell .Some patients merely dust the inside of their stockings with sublimed sulphui ' , when the legs or feet are the affected parts .",
+        "words": [
+          "smell",
+          "disagreeable",
+          "sulphur",
+          "obviate any"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/cec9a1f2-5d71-580a-b29d-69d64373cae9",
+        "value": "The pupils ' may be contracted or dilated , though the latter appearance is most com - mon .The characteristic odour of alcohol is generally appreciable .In poisoning from opium contraction of the pupils is not always present in the advanced stage .",
+        "words": [
+          "odour",
+          "of alcohol",
+          "characteristic",
+          "appreciable"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/cee9b3f0-4449-580c-a91d-03d7df9f6021",
+        "value": "Cloths , dipped in an aqueous solution of chloride of lime , may be hung up in an inhabited room to fumigate it ; the quantity of chlorine given off being too small to be mischievous .It was probably in reference to these salts , that Abernethy said of disinfectants , â   \" they are sometimes very useful , very useful indeed ; for they make such an abominable stink that the patient is obliged to have the windows opened .\" 76 .",
+        "words": [
+          "such",
+          "stink",
+          "they",
+          "abominable",
+          "these salts",
+          "disinfectants",
+          "that the patient is obliged to have the windows opened"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/d392670e-301e-5c03-bf14-3250bf3c2934",
+        "value": "387 blueness of the surface it can never be advisable to do so .â   Slra - i mov i urn acts like a charm with certain asthmatics , a few whiffs of I a pipe filled with it , or of a cigar , giving relief ; but , in other cases it is often worthless .Care must be taken to get the drug good , while it may be remembered that the seeds are much more powerful than the leaves and stalk cut upâ   Nitre - paper fumesâ   the fumes of burning filtering - or blotting - paper which has been soaked in a saturated solution of nitrate of potash and driedâ   affords much alleviation in many cases of uncomplicated asthma .",
+        "words": [
+          "few",
+          "giving",
+          "whiffs",
+          "of a cigar",
+          "of I a"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/d57cd930-c5b4-591b-b537-3fa4423935ff",
+        "value": "The sufferers fre - quently experience attacks of lead colic .The odour of the breath is peculiar ( saturnine ) , and there is a similar kind of taste .A characteristic symptom of the presence of lead in the system is the existence of a blue or purplish lineâ   the sulphurct of lead â   round the edges of the gums , just where they join the teeth j a very important aid to diagnosis , for the notice of which we are in - debted to Dr .",
+        "words": [
+          "odour",
+          "peculiar",
+          "of the breath",
+          "saturnine"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/d71f4cf6-287f-5b24-8104-2552e4b426ce",
+        "value": "CHRONIC INFLAMMATION OF THE NOSTRILS .Chronic inflammation of the nostrils , or ozsena ( \" ( ) Â £ Â » } , a stench ) , or rhinorrhoea fPiv , the nose j pita to flow ) , is attended with heat and stiffness of the nose , tumefaction of the Schneiderian mem - brane , and an offensive sanious or muco - purulent discharge .Causes .",
+        "words": [
+          "stench",
+          "ozsena"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/dd05e34c-53dd-586b-81cc-8cf933422e5d",
+        "value": "Ichorhasmia .â   A very important morbid condition of the blood ( ichorhsemiaâ   * IxÂ £ > p , pus , and alfia , blood ; septicaemia â   2 > , ttw , to putrefy j pyaemia or pyohaemiaâ   fliW , pus â  ¢ ) is caused by the introduction of ichorous or putrid matters into the system .* Urine , Urinary Deposits , and Calculi .",
+        "words": [
+          "putrid",
+          "matters"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/ddaa2efa-75b2-5b5e-aff4-bb7093a54c5c",
+        "value": "\" * Dancel also speaks of the fre - quency with which the members of the same class become obese ; but he says it is because the butchers eat meat and plenty of vegetables , while their wives generally prefer vegetables to animal food .He has no faith in the opinion that their embonpoint has some connexion with the atmosphere of nutritive animal odours in which they live .f Fats are obtained abundantly from both the animal and vege - table kingdoms .",
+        "words": [
+          "the atmosphere",
+          "odours",
+          "nutritive animal"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/de83d48a-97a7-5e23-840a-76d5d6550060",
+        "value": "Although voluntary motion is completely abolished in the i lower limbs , involuntary movements and spasms of the muscles / are not uncommon .The poison of lead appears to exert some peculiar noxious influence over the nerves of the forearm and hand j in consequence of which the extensor muscles of the hands and fingers become paralysed , so that when the arms are stretched out the hands hang down by their own weight , or , as the patients say , the wrists drop .The inferior extremities are very rarely affected .",
+        "words": [
+          "noxious",
+          "The poison of lead"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/e0d4b666-efff-5b35-83dc-8a74b5aa8544",
+        "value": "In the first instance , the air is thrown up by eructation , and is nearly odourless and tasteless ; in the second , the gases are passed upwards or downwards , are very foetid , and often accompanied by nausea , griping sensations , tenesmus , & c .; while in the third case the gas is generally expelled per anum , and has the odour of healthy fseces .The subject of haemorrhage in connexion with disease of the stomach has already ( p .",
+        "words": [
+          "odour",
+          "of healthy fseces"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/e1a20d3b-b3b2-508a-9816-70f5da310826",
+        "value": "378 ) .If we wish to restrain undue secretion , we resort to moderate doses of the aromatic sul - i phuric acid , bismuth , conium , belladonna , opium , or hydrocyanic acid ; if to relieve pain and vomiting we may use ice , morphia , and carbonic acidâ   by means of effervescing draughts ; while if there be an excessive secretion of acid we order alkalies .â   In an acute attack of gastrodynia caused by the stomach being loaded with unhealthy acid secretions , we must endeavour to give relief by producing vomiting .",
+        "words": [
+          "aromatic",
+          "opium",
+          "belladonna",
+          "bismuth",
+          "conium"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/f2d72a60-10c5-5a0f-acf6-d20adafdd0ce",
+        "value": "It is never found solid in serous cavities , where its diffusion is not impeded by unyielding tissues ; but in the liver and lungs the tumours may have about the same consistence as a lym - phatic gland .The black matter is almost tasteless and odourless â  ¢ and chemical analysis shows that it is essentially composed of the constituent elements of the blood .According to M .",
+        "words": [
+          "odourless",
+          "The black matter"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/f4fc6e02-0dc4-5846-b3e0-e5439c516671",
+        "value": "Thus , Wadd cites the butchers as examples of corpulence , alleging that their excellent condition is due to animal food .He speaks par - ticularly of the advantages of the \" butcher ' s steak and does not believe that these men and their wives owe their good looks to \" the effluvia of the meat .\" * Dancel also speaks of the fre - quency with which the members of the same class become obese ; but he says it is because the butchers eat meat and plenty of vegetables , while their wives generally prefer vegetables to animal food .",
+        "words": [
+          "effluvia",
+          "of the meat"
+        ]
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/f56a941a-6e23-5b3a-bc30-8864ad624a11",
+        "value": "On their surface is found a thin pellicle called bardgine or glairine ; which is probably of a vegetable character , and is supposed to have some peculiar power in curing chronic rheumatism .These waters are beneficial in inveterate squamous , pustular , and papular skin affections ; in some forms of scrofula ; in chronic rheumatism , sciatica , lumbago , and stiffness of the muscles or tendons ; in strumous and other indolent ill - conditioned ulcers ; and in irritation from the presence of carious or necrosed bone .The hottest source is Le Clot ( 95Â ° ) ; while L ' Esquirette has the largest amount of salts .",
+        "words": "indolent"
+      },
+      {
+        "@id": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/fe2f2c5c-7fa7-5b76-b268-c73912d21162",
+        "value": "The first is the best , as it is not corrosive .â   To remove quickly any unpleasant smell from the sick room dried lavender orcascarilla bark maybe burnt , while thei window is opened .To disinfect linen and washing apparel they should be soaked in a mixture of two ounces of the solution of permanganate of potash to the gallon of water .",
+        "words": [
+          "smell",
+          "unpleasant",
+          "from the sick room",
+          "dried lavender orcascarilla bark"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "@id": "http://data.odeuropa.eu/actor/1ba8e5a9-39de-51c1-8b8f-92583f83dbf5",
+        "label": "Thomas Hawkes Tanner"
+      }
+    ],
+    "label": "A manual of the practice of medicine",
+    "url": "http://archive.org/details/b21521931",
+    "date": "1854",
+    "language": "en"
+  },
+  "smellSource": [
+    {
+      "@id": "http://data.odeuropa.eu/vocabulary/olfactory-objects/678",
+      "label": "Mud"
+    }
+  ],
+  "time": [
+    {
+      "@id": "http://data.odeuropa.eu/time/b1623c3f-d5a7-5805-84ba-c82941ab27ef",
+      "label": "1854",
+      "begin": "1854",
+      "end": "1854"
+    }
+  ],
+  "place": [
+    {
+      "@id": "https://sws.geonames.org/360630/",
+      "label": "Cairo"
+    }
+  ],
+  "relevantExcerpt": "http://data.odeuropa.eu/source/75fd6bdf-cc8f-5b10-9e64-d228717afbf8/fragment/22e2bd7b-5052-56eb-bda0-f9f7ca64c956",
+  "adjective": "intolerably offensive"
+}
