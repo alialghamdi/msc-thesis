@@ -13,3 +13,4 @@ All the coding material will be uploaded here, the dataset is included in the al
 Not as of the time this README is updated, all the packages should be imported in the beginning of the jupyter notebook, so if it fails you are missing those packages. 
 
 ### Thank you for coming by!
+#### Ali Alghamdi
